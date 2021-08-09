@@ -1,45 +1,45 @@
 
 ![](https://miro.medium.com/max/1400/1*C4rjs3vpR6TUCOqwF3L39g.png)
 
-**_We are excited to highlight a new SubQuery project that is a great example of the power of SubQuery_**
+**_我们很高兴能够突出一个新的 SubQuery 项目，它是一个 SubQuery 的力量例子。_**
 
-Last week [Subvis.io](https://www.subvis.io/) launched their new explorer for the Kusama parachain slot auctions. This new website provides contextual up-to-date information about the crowdloans and auctions that have just begun on Kusama.
+上周 [Subvis.io](https://www.subvis.io/) 启动了他们的 Kusama parachain 插槽拍卖的新浏览器。 这个新网站提供了有关刚刚在库萨马开始的人群贷款和拍卖的最新背景信息。
 
 
 ![](https://miro.medium.com/max/1400/1*iHO4P9JcW-Gt7GxqwXxa3g.png)
 
-The Subvis.io Auction Dashboard
+Subvis.io Auction 控制面板
 
-By exposing this network data on SubQuery, [Subvis.io](https://www.subvis.io/) is demonstrating to all that rich insights can already be extracted from on-chain data.
+通过在 SubQuery 上暴露此网络数据， [Subvis.io](https://www.subvis.io/) 正在向所有人展示已经可以从链上数据中提取丰富的见解。
 
-> _“SubQuery made it easy to collect complicated chain data for Subvis and to sum it up for display in our website. We didn’t have to create any databases or deploy anything to AWS— SubQuery’s scaffolded solution just worked!”. — Subvis.io_
+> _“SubQuery便于收集Subvis复杂的链数据，并将其加起来在我们的网站上显示。 我们不必创建任何数据库或部署任何到 AWS——SubQuery 的 scaffold 解决方案只能正常工作！” — Subvis.io_
 
-[SubQuery’s](https://subquery.network/) service helps [Subvis.io](https://www.subvis.io/) transform and aggregate Kusama data and to make it more accessible for normal users to understand and read.
+[SubQuery](https://subquery.network/) 服务有助于 [Subvis。 o](https://www.subvis.io/) 转换和汇总Kusama数据，使普通用户更容易理解和阅读。
 
 ![](https://miro.medium.com/max/1400/1*0W6n5vW1yHc3MjfzgsCFZw.png)
 
-[Thanks to SubQuery, we can easily query](https://explorer.subquery.network/subquery/subvis-io/kusama-auction) the total contributions to each parachain, and see how this data changes over time. For example, we can get the 5 largest single contributions to crowdloans through the query below
+[Thanks to SubQuery, we can easily query](https://explorer.subquery.network/subquery/subvis-io/kusama-auction) the total contributions to each parachain, and see how this data changes over time. 例如，我们可以通过下面的查询获得5笔最大的单笔贷款金额
 
 ![](https://miro.medium.com/max/1400/1*4509Ki-4lxJyz1kdm6E5PA.png)
 
-Of the ~37,000 contributions made to all crowdloans, the largest single contribution was to Karura with 18.25k KSM
+在向所有人群提供的约37 000笔贷款中，最大一笔捐款是向卡鲁拉提供的18.25k KSM
 
-You could also get the the most up to date bids for each auction using the query below
+您还可以通过下面的查询获得最新的每次拍卖出价。
 
 ![](https://miro.medium.com/max/1400/1*M0nrOoms7fNEm-qfBZsJEA.png)
 
-The most recent 3 bids were all by Karura over slots 13–20
+最近的三个出价都是卡鲁拉在13-20 槽上
 
-Subvis.io is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services for this service is completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/).
+Subvis.io 正在使用 [SubQuery 项目](https://project.subquery.network/) 来管理自己的项目并根据需要进行更新。 此服务的索引和查询服务完全由 SubQuery 管理，并在 [SubQuery 的资源管理器](https://explorer.subquery.network/) 中免费提供 Polkadot 社区。
 
-[Explore the Subvis.io data set](https://explorer.subquery.network/subquery/subvis-io/kusama-auction)
+[探索Subvis.io 数据集](https://explorer.subquery.network/subquery/subvis-io/kusama-auction)
 
-[SubQuery](https://subquery.network/) is a data aggregation layer that will operate between the layer-1 blockchains (Kusama) and DApps (like Subvis.io). This service allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+[SubQuery](https://subquery.network/) 是一个数据聚合图层，它将在图层1区块链(Kusama) 和 DApps (如Subvis.io)之间运行。 此服务允许DApp 开发者关注他们的核心使用案例和前端。 建立数据处理的自定义后端不需要浪费时间。
 
-Learn more about SubQuery
+了解更多关于 SubQuery
 
-[Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
+[网站](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
 
-Subvis.io aims to become the primary place user will go to in order to explore, analyse, and learn about Polkadot ecosystem parachains (and the auctions and crowdloans they carry out).
+目 录 o 旨在成为用户将去的主要位置，以便进行探索、分析， 并学习Polkadot生态系统的降落（以及它们进行的拍卖和人群贷款）。
 
-[Website](https://www.subvis.io/) | [Twitter](https://twitter.com/subvisioapp)
+[网站](https://www.subvis.io/) | [Twitter](https://twitter.com/subvisioapp)
