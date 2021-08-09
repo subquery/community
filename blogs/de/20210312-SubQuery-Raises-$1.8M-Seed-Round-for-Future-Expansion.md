@@ -1,33 +1,33 @@
 
 ![](https://miro.medium.com/max/1400/0*CrM8-LKRt3slWAsN)
 
-**SubQuery, the service making decentralised data easier to query, announced today that it has successfully raised a US$1.8 million seed round and private sale backed primarily by** [**DeFi Alliance**](https://defialliance.co/)**,** [**D1 Ventures**](https://d1.ventures/)**,** [**Hypersphere Ventures**](https://hypersphere.ventures/)**,** [**Digital Finance Group (DFG)**](https://www.dfg.group/)**, and** [**The Lao**](https://www.thelao.io/)**. The overwhelming demand we received to back SubQuery’s seed round shows the strong interest in infrastructure services and belief in the future of the Polkadot ecosystem.**
+**Unterabfrage, der Dienst, der die Abfrage von dezentralen Daten erleichtert, hat heute bekannt gegeben, dass er erfolgreich einen US$ 1 erhöht hat. Millionen Saatgut- und Privatverkauf unterstützt hauptsächlich** [**DeFi Alliance**](https://defialliance.co/)**,** [**D1 Ventures**](https://d1.ventures/)**,** [**Hypersphäre Ventures**](https://hypersphere.ventures/)**,** [**Digitale Finanzgruppe (DFG)**](https://www.dfg.group/)**, und** [**Das Lao**](https://www.thelao.io/)**. Die überwältigende Nachfrage, die wir erhielten, um SubQuerys Saatgutrunde zu unterstützen, zeigt das starke Interesse an Infrastrukturdienstleistungen und dem Glauben an die Zukunft des Ökosystems Polkadot.**
 
-SubQuery allows every Substrate/Polkadot team to process and query their data. The project is inspired by the growth of data protocols serving the application layer and its aim is to help Polkadot/Substrate projects build better dApps by allowing anyone to reliably find and consume data faster. Today, anyone can query and extract Polkadot network data in only minutes and at no cost.
+SubQuery erlaubt jedem Substrate/Polkadot Team, seine Daten zu verarbeiten und abzufragen. Das Projekt ist durch das Wachstum von Datenprotokollen für die Anwendungsschicht inspiriert. Ziel ist es, Polkadot/Substrat Projekten zu helfen, bessere dApps zu entwickeln, indem es jedem ermöglicht, Daten schneller zu finden und zu verbrauchen. Heute kann jeder die Netzwerkdaten von Polkadot in nur wenigen Minuten kostenlos abfragen und extrahieren.
 
-> _“Betting on Subquery is betting on the overall Polkadot ecosystem, and in this early stage a big part of that is infrastructure. They are a front-runner in this area as their customer base includes some of the top Polkadot projects. The Subquery team is also one of the most passionate teams in crypto we’ve come across. We are excited to support them.”_ — Imran Khan, Partner at the DeFi Alliance
+> _„Wetten auf die Unterabfrage wetten auf das gesamte Ökosystem Polkadot, und in dieser frühen Phase ist ein großer Teil davon die Infrastruktur. Sie sind ein Vorreiter auf diesem Gebiet, denn ihre Kundenbasis umfasst einige der besten Polkadot-Projekte. Das Unterabfrage-Team ist auch eines der leidenschaftlichsten Teams in crypto, das wir erreicht haben. Wir freuen uns, sie zu unterstützen.“_ – Imran Khan, Partner der DeFi Alliance
 
-OnFinality is the team behind SubQuery, who are an infrastructure SaaS platform for blockchain teams and users to launch nodes and get access to a large range of blockchain protocols. They have a suite of symbiotic services including shared node API services, and have relationships with the top Polkadot/Substrate teams.
+OnFinality ist das Team hinter SubQuery, die eine Infrastruktur SaaS-Plattform für Blockchain Teams und Benutzer sind, um Knoten zu starten und Zugang zu einer großen Reihe von Blockchain Protokollen zu erhalten. Sie verfügen über eine Reihe von symbiotischen Diensten einschließlich gemeinsamer Knoten-API-Dienste und unterhalten Beziehungen zu den besten Polkadot/Substrat-Teams.
 
-> _“Hypersphere is excited to back Sam and the SubQuery team as they quickly build the first indexing protocol to focus exclusively on the Polkadot ecosystem.”_ — Jack Platts, Co-Founder at Hypersphere Ventures
+> _„Hypersphäre ist aufgeregt, Sam und das SubQuery Team zu unterstützen, da sie schnell das erste Indizierungsprotokoll aufbauen, das sich ausschließlich auf das Polkadot Ökosystem konzentriert._ — Jack Platts, Mitbegründer bei Hypersphere Ventures
 
-Led by Sam Zou, CEO of SubQuery, the team [received a grant from the Web3 foundation](https://subquery.medium.com/subquery-delivers-its-open-source-sdk-following-a-web3-foundation-grant-20da26ae87f) in December 2020 to build the initial phase of SubQuery, an open source project that allows users to run an indexer across their chain to build a dataset that can be queried with GraphQL.
+Angeführt von Sam Zou, CEO von SubQuery, das Team [hat eine Zuwendung von der Web3-Stiftung](https://subquery.medium.com/subquery-delivers-its-open-source-sdk-following-a-web3-foundation-grant-20da26ae87f) im Dezember 2020 erhalten, um die Anfangsphase von SubQuery zu bauen, ein Open-Source-Projekt, das es Benutzern erlaubt, einen Indexer über ihre Kette zu führen, um einen Datensatz zu erstellen, der mit GraphQL abgefragt werden kann.
 
 ![](https://miro.medium.com/max/1000/0*kjspGYRr_BtMk015)
 
-Since then SubQuery has launched the SubQuery Explorer. An online hosted service that provides access to published SubQuery projects made by contributors around the world and managed by the SubQuery team. We’ve also established strategic partnerships with the top Polkadot projects, including Acala, Plasm, and Moonbeam.
+Seitdem hat SubQuery den SubQuery Explorer gestartet. Ein online gehosteter Service, der Zugang zu veröffentlichten SubQuery Projekten bietet, die von Mitwirkenden auf der ganzen Welt erstellt und vom SubQuery Team verwaltet werden. Wir haben auch strategische Partnerschaften mit den führenden Polkadot-Projekten wie Acala, Plasm und Moonbeam aufgebaut.
 
-This seed raise will supercharge the development of SubQuery and accelerate the delivery of critical data services to the Polkadot/Substrate community. This includes building a free public service to host and manage community SubQuery projects, building a community around data and knowledge sharing, and the eventual tokenization of our project.
+Diese Samenerhöhung wird die Entwicklung von SubQuery übersteigen und die Bereitstellung kritischer Datendienste an die Polkadot/Substratgemeinschaft beschleunigen. Dazu gehört der Aufbau eines kostenlosen öffentlichen Dienstes zum Hosten und Verwalten von Community-Unterquery Projekten Aufbau einer Community rund um Daten und Wissensaustausch und die eventuelle Tokenisierung unseres Projekts.
 
--   Try it out on the[SubQuery Explorer](https://explorer.subquery.network/)
--   Read more on [SubQuery docs](https://doc.subquery.network/)
--   Visit our [website](https://subquery.network/)
+-   Probieren Sie es im[Unterabfrage-Explorer](https://explorer.subquery.network/)
+-   Lesen Sie mehr über [Unterabfragedokumente](https://doc.subquery.network/)
+-   Besuchen Sie unsere [-Website](https://subquery.network/)
 
-**Talk to us on:**
+**Sprechen Sie mit uns auf:**
 
 -   [hello@subquery.network](mailto:hello@subquery.network)
 -   [Discord](https://discord.com/invite/78zg8aBSMG)
--   [Telegram](https://t.me/subquerynetwork)
+-   [Telegramm](https://t.me/subquerynetwork)
 -   [Twitter](https://twitter.com/subquerynetwork)
 -   [Matrix](https://matrix.to/#/#subquery:matrix.org)
 -   [LinkedIn](https://www.linkedin.com/company/subquery)
