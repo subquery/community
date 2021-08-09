@@ -1,40 +1,40 @@
 
-Oggi esploreremo gli obiettivi che abbiamo con SubQuery e alcuni dei vantaggi competitivi che pensiamo di rendere la rete SubQuery migliore dei nostri concorrenti.
+Today we’re going to explore the goals that we have with SubQuery and some of the competitive advantages that we think make the SubQuery Network better than our competitors.
 
-I dati di indicizzazione e trasformazione attualmente forniti da SubQuery in modo centralizzato. Anche se questo ci ha permesso di alimentare alcuni dei migliori progetti Polkadot; Applicazioni DeFi come Acala e Bifrost, portafogli come Fearless Wallet, piattaforme NFT come [KodaDot](https://kodadot.xyz/), ponti cross-chain come [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia)e piattaforme di analisi come [SubVis](https://subvis.io/) - ha il suo lato negativo.
+SubQuery’s currently provided indexing and transformation data in a centralised way. Although this has allowed us to power some of the top Polkadot projects; DeFi apps like Acala and Bifrost, wallets like Fearless Wallet, NFT platforms like [KodaDot](https://kodadot.xyz/), cross-chain bridges like [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia), and analytics platforms like [SubVis](https://subvis.io/) — it has it’s downside.
 
-Richiede ai nostri utenti di fidarsi del servizio che forniamo e comporta rischi associati a un servizio centralizzato, come potenziali fallimenti del server o interruzioni che possono paralizzare le applicazioni. Questo è un motivo importante per cui ci stiamo muovendo verso un futuro decentrato.
+It requires our users to trust the service we provide, and carries risks associated with a centralised service, like potential server failures or outages that can cripple your applications. This is a major reason why we are moving to a decentralised future.
 
 ![](https://miro.medium.com/max/868/1*CPksnN9_jyMGQ0sSbiJvDQ.png)
 
-I Nostri Vantaggi Competitivi
+Our Competitive Advantages
 
-Comprendiamo che la rete di SubQuery è in concorrenza con molti attori del settore decentrato dei dati, SubQuery cerca di fornire vantaggi unici attraverso una moltitudine di vantaggi competitivi. I nostri principi guida e quelli che ci aspettiamo siano i principali vantaggi, sono la semplicità e la flessibilità della nostra rete.
+We understand that The SubQuery Network is competing against many players in the decentralised data industry, SubQuery looks to provide unique benefits through a multitude of competitive advantages. Our guiding principles, and what we expect to be the main advantages, are the simplicity and flexibility of our network.
 
-## Flessibilità
+## Flexibility
 
-Il nostro primo vantaggio è la nostra flessibilità. SubQuery è open source, quindi chiunque ha la libertà di definire l'insieme di dati che è specifico per le proprie esigenze, adattato alle proprie applicazioni. Piuttosto che dover combinare query da diversi endpoint API — puoi definire la forma delle tue API da solo. Risparmia tempo, denaro e fornisce un'esperienza molto migliore per i tuoi utenti.
+Our first advantage is our flexibility. SubQuery is open source, so anyone has the freedom to define the data set that is specific to their needs, tailored to their applications. Rather than having to combine queries from different API endpoints — you can define the shape of your APIs yourself. It saves time, money, and provides a vastly better experience for your users.
 
-## Semplicità
+## Simplicity
 
-Non è necessario essere un esperto per approfittare di ciò che SubQuery offre. C'è letteralmente 3 file che devono essere modificati per fare un progetto di SubQuery funzionante. Il nostro obiettivo sarà quello di rendere SubQuery più facile da usare e costruire con i nostri concorrenti - il successo di SubQuery dipende dal successo della nostra comunità di costruire il futuro con esso.
+You do not need to be an expert to take advantage of what SubQuery offers. There is literally 3 files that need to be changed to make a working SubQuery project. Our focus will be on making SubQuery easier to use and build with than our competitors — SubQuery’s success depends on the success of our community building the future with it.
 
-## Sbilanciamento Indice/Delegatore
+## Indexer/Delegator Imbalance
 
-Tra i nostri concorrenti, riteniamo che la capacità per gli indicizzatori di modificare i tassi di premio di delega senza preavviso sia ingiusta. Cerchiamo di risolvere questo problema richiedendo indicizzatori di pubblicizzare una diminuzione del Query Fee Revenue Rate per un'intera era di staking (28 giorni di periodo).
+Among our competitors, we believe the ability for Indexers to change delegation reward rates without warning is unfair. We try to fix this by requiring Indexers to advertise a decrease to the Query Fee Revenue Share Rate for an entire staking era (28 day period).
 
-## Ordini di acquisto invece dei curatori
+## Purchase Orders Instead of Curators
 
-Nei mercati come la SubQuery, dove ci sono sia acquirenti che venditori di dati, segnalare la domanda di offerta futura è difficile. Altri concorrenti utilizzano “curatori” per raggiungere questo obiettivo, i partecipanti che prevedono la domanda futura e sono ricompensati quando questa domanda futura si verifica.
+In marketplaces like SubQuery, where there are both buyers and sellers of data, signalling demand for future supply is difficult. Other competitors use “curators” to achieve this, participants who predict future demand and are rewarded when that future demand eventuates.
 
-SubQuery ha adottato un approccio diverso in cui guardiamo ai consumatori per creare un impegno iniziale, un ordine di acquisto. Questo può essere utilizzato sia per attirare indicizzatori a nuovi progetti di sotto-query sia per attrarre ulteriori indicizzatori a progetti di sotto-query esistenti e non competitivi.
+SubQuery has taken a different approach in where we look to Consumers to create an upfront commitment, a purchase order. This can be used both to attract Indexers to new SubQuery Projects, or to attract additional Indexers to existing and uncompetitive SubQuery Projects.
 
-## Incentivi per la prestazione delle interrogazioni:
+## Incentives for Query Performance:
 
-Il nostro processo di ricerca e routing Indexer includerà i dati sulle prestazioni (latenza e uptime) per tutti gli indicatori, e faremo in modo che i consumatori comunichino tali dati quando sbloccano i micropagamenti agli indicizzatori.
+Our Indexer discovery and routing process will include performance data (latency and uptime) for all Indexers, and we will take steps to ensure that Consumers report on this data when unlocking micropayments to Indexers.
 
-Questo incoraggerà idealmente gli indicizzatori nella rete di SubQuery per fornire alle infrastrutture con tempi di lavoro elevati e bassa latenza, le migliori prestazioni possibili.
+This will ideally encourage Indexers in the SubQuery Network to provide infrastructure with high uptime and low latency, the best performance possible.
 
-## Focus su substrato/Polkadot:
+## Focus on Substrate/Polkadot:
 
-SottoQuery impegnata a concentrarsi su Polkadot e Substato dal giorno in cui abbiamo iniziato. Questo ha permesso di costruire i nostri servizi e strumenti fin dall'inizio per lavorare con Substrate. Oltre a questo, l'architettura unica di Polkadots rende più facile per SubQuery per supportare più blockchain attuali e future automaticamente.
+SubQuery committed to focus on Polkadot and Substate from the day we started. This allowed our service and tools to be built from the outset to work with Substrate. On top of this, Polkadots unique architecture makes it easier for SubQuery to support multiple current and future blockchains automatically.
