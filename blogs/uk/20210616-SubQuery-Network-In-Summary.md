@@ -1,73 +1,73 @@
 
-> How does the SubQuery Network work? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
+> Як працює мережа підводних процесорів? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
 
-Today we’re going to talk about how the SubQuery Network works at a high level.
+Сьогодні ми поговоримо про те, як працює мережа "Субкамер" на високому рівні.
 
-## Participants
+## Учасники
 
 
 ![](https://miro.medium.com/max/1400/1*9993cakplwupZC5tbUv3vA.png)
 
-Participants in the SubQuery Network
+Учасники в мережі SubQuery
 
-There are three types of participants in the SubQuery Network:
+В мережі підзапит є три типи учасників:
 
--   **Consumers**: Consumers will make requests to the SubQuery Network for specific data and pay an advertised amount of SQT
--   **Indexers**: Indexers will host SubQuery Projects in their own infrastructure, running both the node and query service to index data and answer GraphQL requests.
--   **Delegators**: Delegators will participate in the network by supporting their favourite Indexers to earn rewards
+-   **Споживачі**: Споживачі будуть надавати запити до мережі підробки для конкретних даних і сплачувати рекламований розмір SQT
+-   **Індексери**: індексатори розміщуватимуть проекти підлеглих у власній інфраструктурі, робота вузла та служби запитів для індексу даних і відповіді GraphQL запитів.
+-   **Делегатори**: Делегатори візьмуть участь у мережі, підтримуючи своїх улюблених індексерів, щоб заробити нагороди
 
-## Indexers, Consumers, and Queries
+## Індекси, споживачі та запити
 
-Let’s start with Indexers, Indexers do a lot of the hard work behind the scenes. The manage hardware, run infrastructure, monitor resources, and choose the right SubQuery projects to index
+Почнемо з індексерів і індексатори виконують багато важкої роботи за сценами. Управління обладнанням, запускає інфраструктуру, відстежують ресурси та виберіть правильні проекти для індексування
 
-This takes time and money, but once they have this, Consumers may come and make requests. Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
+Це потребує часу та грошей, але як тільки вони це мають, споживачі можуть приходити і робити запити. Споживачі будуть надавати запити до мережі підробки на конкретні дані та сплачувати рекламований розмір нашого токену, SQT.
 
 ![](https://miro.medium.com/max/1400/1*dKLkzSc2uXYaPW_IXUxstQ.png)
 
-Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
+Споживачі будуть надавати запити до мережі підробки на конкретні дані та сплачувати рекламований розмір нашого токену, SQT.
 
-## Cobb-Douglas Production Function
+## Функція Гобба — Дугласа
 
-This payment goes into a project revenue pool and at the end of a staking era (28 days) we take this project revenue pool and split it. It’s spit across indexers by something called the Cobb-Douglas production function.
+Цей платіж входить в пул доходів від проекту, і в кінці епохи частки (28 днів) ми беремо цю пулу доходів від проекту і розділяємо її. Вона крутиться через індексацію тим, що називається виробнича функція Кобб-Дугласа.
 
 ![](https://miro.medium.com/max/1400/1*E-W7o7cWoclxHb8rXAMdpA.png)
 
-It’s spit across indexers by something called the Cobb-Douglas production function.
+Вона крутиться через індексацію тим, що називається виробнича функція Кобб-Дугласа.
 
-This approach, in simple terms, means that revenue is allocated to competing Indexers as a proportion of both requests answered and amount staked.
+Цей підхід, в простому випадку, означає, що дохід виділяється конкуруючим індексаторам у пропорції відповідав і суми ставки.
 
 ![](https://miro.medium.com/max/1400/1*VhDu2BGDxd3ob7z9XkoOXA.png)
 
-Revenue is allocated to competing Indexers as a proportion of both requests answered and amount staked.
+Дохід посилається на конкуруючі індексатори в пропорції відповідальних запитів і суми, вказаних в індексі.
 
-In our view, the beauty of this equation is that a rational Indexer must maintain a high level of staked SQT relative to the work they do in order to receive optimal revenue. As a result, we do not need to enforce arbitrary staking requirements because Indexers are incentivised to self-manage and maintain a stake or skin in the game.
+На наш погляд, Краса цього рівняння полягає в тому, що раціональний індексатор повинен підтримувати високий рівень поставлених SQT відносно роботи, яку вони роблять, щоб отримати оптимальний дохід. Як результат, нам не потрібно застосовувати довільні вимоги крапельки тому що індексатори стимулюються для самоуправління і підтримання частки або шкіри у грі.
 
-## Delegators
+## Делеґатори
 
-So Indexers are incentivised to both do as much work as possible, and to stake as much as possible to maximise their rewards. This is where delegators come in.
+Так індексатори стимулюються як для того, щоб робити якомога більше роботи і поставити поставити під загрозу якомога більше своїх нагород. Ось де заходять делегатори.
 
-Delegators can delegate their spare SQT to Indexers, each Indexer can publish a _query fee revenue share rate_, and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in.
+Делегатори можуть делегувати запасний SQT до індексаторів, кожен індексатор може опублікувати _ставку доходу за платежем на запит_, і ці делегатори будуть винагороджені частиною комісії за запит, в який індекатор винагороджується.
 
 ![](https://miro.medium.com/max/1400/1*YoN7PV7h3a2nAFN-ODqILg.png)
 
-Delegators can delegate their spare SQT to Indexers and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in
+Делегатори можуть делегувати запасний SQT для індексаторів, і ці делегатори будуть винагороджені часткою комісії по запиту, який винагороджує індексатор в
 
-The _query fee revenue share rate_ that indexers advertise is locked for each 28 day staking era, and a decrease to it must be advertised for an entire 28 day staking era before coming into force.
+_ставка сплати за рух коштів за запити_ , яку реклама індексована на кожний 28 днів з моменту вказівки епохи, і зменшення його повинні бути рекламовані за 28 днів поставки епохи, перш ніж вступити в дію.
 
-Similarly, delegators can remove their delegation amounts at any point, but they will only receive rewards when they have delegated for the entire staking era.
+Так само делегатори можуть усунути свої делегаційні суми в будь-який момент, але вони отримають лише нагороди, коли вони делеговані за всю добірну епоху.
 
 ![](https://miro.medium.com/max/1400/0*we0k4A07pbj86COZ)
 
-Delegators will only receive rewards when they have delegated for the entire staking era
+Делегатори отримають тільки нагороди, коли вони делеговані за всю недержавну епоху
 
-## Purchase Orders
+## Замовлення на купівлю
 
-Indexing a project takes time and money, there’s a lot of data on the chain. In order to encourage Indexers to index and support an entirely new SubQuery Project, we plan to implement a market mechanism for Consumers to signal guaranteed revenue to Indexers of new SubQuery Projects.
+Індексування проекту вимагає часу та грошей, на ланцюгу є багато даних. Щоб заохотити індексатори до індексу та підтримати абсолютно новий проект підстановки, ми плануємо реалізувати ринковий механізм для споживачів сигналізації гарантованого доходу індексаторам нових проектів для підробки.
 
-We’re calling them purchase orders, and Consumers can advertise a contract on chain for a set price and number of requests. Indexers can view this and choose to fill the contracts.
+Ми телефонуємо їм купляти замовлення, і споживачі можуть рекламувати контракт по ланцюжку, щоб задати ціну і кількість запитів. Індексери можуть переглядати це і вибрати заповнити контракти.
 
 ![](https://miro.medium.com/max/1400/1*IPtaZlt24E7h9bKNZWdSCw.png)
 
-Consumers can advertise a purchase order on chain for a set price and number of requests.
+Споживачі рекламують замовлення купівлі в ланцюжку за задану ціну і кількість запитів.
 
-Purchase orders can also be placed on existing SubQuery Projects to attract additional Indexers to improve competition and decrease prices
+Замовлення на купівлю також може бути розміщений в існуючих проектах підробки, щоб залучити додаткові індексатори для підвищення конкуренції і зменшення цін
