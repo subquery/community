@@ -1,28 +1,28 @@
-# Introducing SubQuery Network — The Next Big Step Towards our Decentralised Future
+# Introducendo SubQuery Network — Il prossimo grande passo verso il nostro futuro decentrato
 
 
-**SubQuery’s mission is to make decentralised data more accessible.**
+**La missione di SubQuery è rendere i dati decentrati più accessibili.**
 
-We transform and organise data from Polkadot and Substrate projects, and then provide that data for developers to use for a wide array of projects (wallets, explorers, custom chains, or any other dApp).
+Trasformiamo e organizziamo dati da progetti Polkadot e Substrate, e quindi fornire che i dati per gli sviluppatori da utilizzare per una vasta gamma di progetti (portafogli, esploratori, catene personalizzate, o qualsiasi altro dApp).
 
-Everyone knows that a core weakness of blockchain data is that the processing and query performance is extremely inefficient. SubQuery provides an open source SDK, which provides the instructions on how any Indexer should traverse the blockchain, what data to collect, and how it should be shown to users.
+Tutti sanno che una debolezza centrale dei dati della blockchain è che l'elaborazione e le prestazioni della query sono estremamente inefficienti. SubQuery fornisce un SDK open source, che fornisce le istruzioni su come qualsiasi Indexer dovrebbe attraversare la blockchain, quali dati raccogliere, e come devono essere mostrati agli utenti.
 
 ![](https://miro.medium.com/max/700/1*0l37MKpDk2ahHsqDUBxbjw.png)
 
-Creating a SubQuery project is, and always will be, free. Developers should spend time building, not running infrastructure. However we believe that a healthy decentralised future requires multiple distributed data service providers working together to improve resiliency, speed, and network performance.
+La creazione di un progetto di SubQuery è, e sarà sempre gratuita. Gli sviluppatori dovrebbero dedicare tempo a costruire, non eseguire infrastrutture. Riteniamo tuttavia che un futuro sano e decentrato richieda la collaborazione di più fornitori di servizi di dati distribuiti per migliorare la resilienza, la velocità e le prestazioni della rete.
 
-# Introducing The SubQuery Network:
+# Introduzione Alla Rete Di Sottoquery
 
-The SubQuery Network is our effort to move towards a decentralised and tokenised network in order to ensure no single point of failure for SubQuery and to encourage as many participants in the process as possible.
+La rete di SubQuery è il nostro sforzo per passare a una rete decentrata e tokenised al fine di garantire nessun singolo punto di fallimento per SubQuery e di incoraggiare il maggior numero possibile di partecipanti al processo.
 
-[We’re releasing our white paper today for the world to read](https://static.subquery.network/whitepaper.pdf).
+[Oggi pubblichiamo il nostro white paper per leggere](https://static.subquery.network/whitepaper.pdf).
 
-The SubQuery Network’s guiding principles are simplicity and flexibility. We’re trying to make it easy for participants to get involved in the network, but also give developers control to adapt SubQuery to fit their needs for any Substrate based chain.
+I principi guida della rete di SubQuery sono semplicità e flessibilità. Stiamo cercando di rendere più facile per i partecipanti partecipare alla rete, ma anche dare agli sviluppatori il controllo di adattare SubQuery per adattarsi alle loro esigenze per qualsiasi catena basata su Substrate.
 
 ![](https://miro.medium.com/max/700/1*5E_eIJBTvHI7W24ib_Syvw.png)
 
-**The SubQuery Network aims to power the vibrant ecosystem of decentralised applications in the Polkadot and Substrate ecosystem, we hope you join us for the ride.**
+**La rete di SubQuery mira a alimentare l'ecosistema vibrante delle applicazioni decentrate nell'ecosistema Polkadot e Substrate, speriamo che tu ti unisca a noi per la corsa.**
 
-[Read the white paper now.](https://static.subquery.network/whitepaper.pdf)
+[Legga il libro bianco adesso.](https://static.subquery.network/whitepaper.pdf)
 
-[Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Medium](https://subquery.medium.com/)
+[Website](https://subquery.network/) <unk> [Email](mailto:hello@subquery.network) <unk> [Discord](https://discord.com/invite/78zg8aBSMG) <unk> [Telegram](https://t.me/subquerynetwork) <unk> [Twitter](https://twitter.com/subquerynetwork) <unk> [Matrix](https://matrix.to/#/#subquery:matrix.org) <unk> [LinkedIn](https://www.linkedin.com/company/subquery) <unk> [Media](https://subquery.medium.com/)
