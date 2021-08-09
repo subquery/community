@@ -1,59 +1,59 @@
 ![](https://miro.medium.com/max/1400/1*EC5wwTuoB6UK_EESGd8X8w.png)
 
-## Represent SubQuery in Your Community!
+## 代表子查询在您的社区！
 
-[SubQuery](https://subquery.network/) aims to be the leading data provider in Polkadot. Our mission is to power the biggest dApps in our growing ecosystem, and we’re already working with DeFi apps like [Acala](https://acala.network/) and [Bifrost](https://bifrost.finance/), wallets like [Fearless Wallet](https://fearlesswallet.io/), NFT platforms like [KodaDot](https://kodadot.xyz/), cross-chain bridges like [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia), and analytics platforms like [SubVis](https://subvis.io/).
+[SubQuery](https://subquery.network/) 旨在成为Polkadot中的主要数据提供者。 我们的任务是为我们日益增长的生态系统中最大的潜水器提供电力。 并且我们已经在使用 DeFi 应用程序，如 [Acala](https://acala.network/) and [Bifrost](https://bifrost.finance/), 类似于 [无恐惧的钱包](https://fearlesswallet.io/), NFT 平台，例如 [KodaDot](https://kodadot.xyz/), 跨链桥如 [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia), 以及分析平台如 [SubVis](https://subvis.io/)
 
-Our ecosystem is growing, and with our announcement of the SubQuery Network we’re looking for people from around the world to join us on our mission. The SubQuery team is excited to announce that we are opening up applications for our new Ambassador program!
+我们的生态系统正在不断壮大， 随着我们宣布的SubQuery网络，我们正在寻找来自世界各地的人加入我们的使命。 SubQuery团队很高兴地宣布，我们正在为我们的新大使方案打开申请！
 
-We understand that one of our biggest strengths is our community, and with your help we want to grow and establish local ambassadors for communities around the world.
+我们认识到，我们的最大优势之一是我们的社区。 在你们的帮助下，我们想要成长和建立世界各地社区的地方大使。
 
-[Apply Here](https://forms.gle/GXBbJ6LDpNfM2v1X6)
+[在此应用](https://forms.gle/GXBbJ6LDpNfM2v1X6)
 
-Our team came together with the shared vision to build the foundations of a flexible and inclusive data service for the Polkadot ecosystem.
+我们的团队共同愿景是为Polkadot生态系统建立一个灵活和包容性的数据服务基础。
 
-**Built by developers, for developers:** SubQuery is a growing community that focuses on providing the best products and services for our developers, and builders in our ecosystem. SubQuery is only successful if the Polkadot ecosystem is successful, and so everything we do is with our customer in mind.
+**由开发者生成 对于开发者而言：** SubQuery 是一个正在成长的社区，其重点是为我们的开发者提供最好的产品和服务。 我们的生态系统中的建筑师和建筑师。 SubQuery 只有在Polkadot 生态系统成功的情况下才能成功，所以我们做的一切都是为了我们的客户。
 
-**Integrity and Accountability:** We have team members in Auckland, Shanghai, and Sydney and so remote work is important to us. We expect that our team is empowered and works autonomously together to achieve our goals. A key requirement for this is for our team to be accountable for their actions and maintain their integrity.
+**廉正和问责：** 我们在奥克兰、上海和悉尼有团队成员，因此远程工作对我们很重要。 我们期望我们的团队能够获得权力，能够自主地共同工作，以实现我们的目标。 这方面的一个关键要求是我们的团队对他们的行动负责并维护他们的完整性。
 
-**Inclusive Guidance and Support:** Blockchain is hard, and everyone needs help sometimes. There is no such thing as a stupid question in our community and everyone in our team is expected to help support our users. We learn some of the most valuable insights about our service (and how we can improve it) directly from our community.
+**包容性指导和支持：** Blockchain是硬性的，每个人都需要有时帮助。 在我们的社区中没有任何愚蠢的问题，我们团队中的每个人都应帮助支持我们的用户。 我们从我们的社区直接了解我们的服务（以及我们如何能够改进）的一些最宝贵的见解。
 
-Our SubQuery Ambassador program aims to find community leaders passionate about Polkadot and SubQuery. We’re looking for self-starters that can spread the word about SubQuery in their local areas and provide support to new developers that want to use SubQuery to build amazing apps and services on Polkadot.
+我们的 SubQuery 大使方案旨在找到有关Polkadot 和 SubQuery 的社区领袖热情。 我们正在寻找能够在其本地地区传播有关SubQuery的词句并为想使用 SubQuery 在 Polkadot 构建惊人的应用和服务的新开发者提供支持。
 
-## Ambassador Benefits
+## 特惠大使
 
-At SubQuery, we work hard to achieve what we do. Similarly, Ambassadors are expected to commit some time when joining our team but will be rewarded with benefits.
+在SubQuery，我们努力实现我们所做的工作。 同样，人们期望大使们在加入我们的团队时花费一些时间，但将得到奖励。
 
-**Funding and Support:** You may be rewarded for good work with early opportunities into private sales and bounties. Additionally, we’ll be providing funding grants for you to run community meetups.
+**融资和支持：** 您可能会因为很好的工作而得到奖励，很早就有机会进入私人销售和奖励。 此外，我们将为您举办社区聚会提供资金赠款。
 
-**SubQuery Team Access:** You’ll have direct access to the core SubQuery team with opportunities for hands-on training, exclusive AMAs with our leaders and developers, and insight into our roadmap.
+**SubQuery 团队访问权限：** 您可以直接访问核心的 SubQuery 团队，并且有机会亲自接受培训。 我们的领导人和开发者之间存在着独特的AMA，并且对我们的行进图有了深刻的了解。
 
-**Network Development:** Expect to grow your professional network by being an Ambassador for one of the top Polkadot projects. Meet other ambassadors around the world and receive introductions to local Polkadot projects that we need to support locally. You might even get free entry to represent SubQuery in events in your local area.
+**网络开发：** 期望通过担任顶级Polkadot项目之一的大使来扩大您的专业网络。 会见世界各地的其他大使，听取我们需要当地支持的当地波尔卡多特项目的介绍。 您甚至可以获得免费条目来在您的局域中代表SubQuery。
 
-**Swag and other free stuff:** Everyone likes free stuff! Receive an annual allocation of SubQuery swag that’ll make you stand out in the crowd. Plus additional allocation that you can share around at community events. You’ll also receive an exclusive NFT for your Ambassador status.
+**交换和其他免费物品：** 每个人都喜欢免费的物品！ 接收每年分配的 SubQuery 交换器，这将使你在群众中显得出色。 额外的分配，您可以在社区活动中共享。 您还将收到您的大使状态的专用NFT。
 
-## How does it work
+## 如何工作
 
-Our Ambassador program has multiple tiers, each tier has different benefits and capabilities. You can move up tiers by participating in Ambassador activities and working hard for us.
+我们的大使方案有多层，每层都有不同的好处和能力。 你可以通过参加大使活动和为我们努力工作来提高等级。
 
-Once you have sent through an application, we will select candidates that align with our values. If selected you are placed in our trainee program and will receive an information package, expanding your understanding of SubQuery. After this, you can start to work through the trainee program by completing certain onboarding tasks (e.g. creating a SubQuery Project). We will host workshops throughout this process to support you.
+一旦您通过应用程序发送，我们将选择符合我们的值的候选人。 如果您被选中，您将被安排在我们的实习方案中，并将收到一个信息包，扩大您对 SubQuery 的理解。 在此之后，您可以通过实习方案完成某些在线任务(例如创建一个子查询项目)，开始工作。 我们将在整个过程中主办讲习班以支持你。
 
-Once you pass the trainee program, you can call yourself a SubQuery ambassador and will be accepted into our full program. From here on you can continue to work though the program and progress up the tiers, earning more rewards and benefits as you climb the ranks.
+一旦通过实习课程，您可以给自己打电话给SubQuery大使，并将被接受为我们的全部方案。 从这里开始，你可以继续通过程序和向上推进一层， 在你升高等级时赚取更多的奖励和利益。
 
-[Apply Here](https://forms.gle/GXBbJ6LDpNfM2v1X6)
+[在此应用](https://forms.gle/GXBbJ6LDpNfM2v1X6)
 
-## Ambassador Activities
+## 大使
 
-SubQuery Ambassadors are able to contribute through four main areas, including event management, content creation, translation, and community moderation. You can participate in as many areas as you want, you’re not bound to any single one.
+SubQuery 大使能够通过四个主要领域做出贡献，包括事件管理、内容创建、翻译和社区节制。 你可以参与尽可能多的领域，你不会被绑定到任何一个领域。
 
-**Event Management:** Build local communities by hosting, organising, and managing different events. Building a local community will be a key part of growing the SubQuery community. SubQuery will support you by providing funding for events, sending swag/merchandise to be given away, as well as attending Q&As or online events as speakers or in AMA sessions.
+**事件管理：** 通过主办、组织和管理不同的事件来建立本地社区。 建立一个地方社区将是扩大SubQuery社区的一个关键部分。 SubQuery 将通过为事件提供资金支持您，发送交换/商品即将离开， 还以发言者身份或在AMA会议上参加Q&或在线活动。
 
-**Content Creation:** We have a long list of content and support material that we need help creating. Remember, our success relies on the ability for our customers to build amazing things on our service, so we need your help to make that easier.
+**内容创建：** 我们有很长的内容和支持材料，我们需要帮助创建。 记住，我们的成功取决于我们的顾客能否在我们的服务中制造惊人的东西。 这样我们就需要你的帮助来使这更加容易。
 
-Content includes videos, infographics, tutorials, animations, or any other related material, to inform, educate, or inspire community members within the SubQuery Ecosystem. SubQuery will support Content Creators by providing branding assets and expertise. We’ll also use SubQuery’s marketing channels to increase awareness of your content (and yourself).
+内容包括视频、信息图形、教程、动画或任何其他相关材料，用于在SubQuery生态系统内宣传、教育或激励社区成员。 SubQuery 将通过提供品牌资产和专门知识来支持内容创建者。 我们还将使用 SubQuery 的营销渠道来提高对您的内容(和您自己)的认识。
 
-**Translation:** Our customers don’t just speak english! We need your help making SubQuery more accessible by translating our content into your own language, as well as helping sharing the word to our international community.
+**翻译：** 我们的客户不只是说英语！ 我们需要您的帮助，通过将我们的内容翻译成您自己的语言，使我们更容易访问 SubQuery。 并帮助我们的国际社会分享这个词。
 
-**Community Moderation:** Moderators will help grow the SubQuery community by ensuring that official community channels are active and engaging. SubQuery will support Moderators by promoting the channels that they monitor, as well as provide guidelines for our expectations.
+**社区管理：** 版主将通过确保官方社区频道活跃和参与来帮助成长SubQuery社区。 SubQuery将支持主持人促进他们监测的渠道，并为我们的期望提供指导方针。
 
 ![](https://miro.medium.com/max/1400/1*xj6_UL1ZWYzlLmlVk25JzQ.png)
