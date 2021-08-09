@@ -1,0 +1,7 @@
+files:
+  - source: /blogs/*md
+    translation: /blogs/%two_letters_code%/%original_file_name%
+  - source: /customer_announcements/*.md
+    translation: /customer_announcements/%two_letters_code%/%original_file_name%
+  - source: /recaps/*.md
+    translation: /recaps/%two_letters_code%/%original_file_name%
