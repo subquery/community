@@ -1,49 +1,49 @@
 ![](https://miro.medium.com/max/1400/1*2z3_9s-SY7dAvfe6xf9IDA.png)
 
-## Community, Community, Community!
+## Gemeinschaft, Gemeinschaft!
 
 
-Welcome to another monthly update from SubQuery. As you all know, community is a key element for every successful crypto project — this month we’ve started to expand our focus in this area.
+Willkommen zu einem weiteren monatlichen Update von SubQuery. Wie Sie alle wissen, community ist ein Schlüsselelement für jedes erfolgreiche Krypto-Projekt — diesen Monat haben wir begonnen, unseren Fokus auf diesen Bereich zu erweitern.
 
-In this monthly update:
+In diesem monatlichen Update:
 
--   Ambassador Program 👩💼
--   DApp API Grant Work 🏗
+-   Botschafterprogramm 👩💼
+-   DApp API Grant Arbeit 🏗
 -   Patract Open Platform 🌃
--   Parity’s Relaychain podcast 🎙
--   Documentation Improvements 📑
+-   Relaychain Podcast der Parity 🎙
+-   Dokumentationsverbesserungen :Bookmark_tabs:
 
 
 ![](https://miro.medium.com/max/1400/0*pe3Z3x1lGb_RLa5x)
 
-We understand that one of our biggest strengths is our community, and so [we recently launched our ambassador program](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) for communities around the world. We were overwhelmed by the interest in our program, with almost 500 applications received in under a fortnight!
+Wir verstehen, dass eine unserer größten Stärken unsere Gemeinschaft ist. und so [haben wir kürzlich unser Botschafterprogramm](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) für Gemeinschaften auf der ganzen Welt gestartet. Wir waren von dem Interesse an unserem Programm überwältigt, mit fast 500 Bewerbungen innerhalb von zwei Wochen eingeholt!
 
-We’re in the process of onboarding our first batch of ambassadors very shortly. We’re particularly excited here because it means that everyone in our community can expect to see better local representation and support in different communities!
+Wir sind gerade dabei, unsere erste Gruppe von Botschaftern in Kürze an Bord zu nehmen. Wir sind hier besonders aufgeregt, weil es bedeutet, dass jeder in unserer Community eine bessere lokale Vertretung und Unterstützung in verschiedenen Gemeinschaften erwarten kann!
 
-By the end of July we’ve made good progress on the first two milestones of our [open-source dApp API treasury grant](https://kusama.polkassembly.io/treasury/95). Although on the surface it doesn’t look like much, it is actually a really important initiative for us. Firstly it represents deep strategic cooperation with one of the largest Polkadot native wallets, Fearless Wallet.
+Bis Ende Juli haben wir gute Fortschritte bei den ersten beiden Meilensteinen unseres [Open-Source dApp API Treasury Grants](https://kusama.polkassembly.io/treasury/95) gemacht. Obwohl es an der Oberfläche nicht so aussieht, ist es eigentlich eine wirklich wichtige Initiative für uns. Erstens stellt sie eine tief greifende strategische Zusammenarbeit mit einer der größten polkadotischen Wallets dar, der Furchtlosen Wallet.
 
-Secondly, this open-source API should be able to provide different types of applications with a sufficient (but read-only) view of all key data within the Kusama chain. E.g. a developer could use it to create their own chain explorer without needing to directly query chain data.
+Zweitens Diese Open-Source-API sollte in der Lage sein, verschiedene Arten von Anwendungen mit einer ausreichenden (aber nur schreibgeschützten) Ansicht aller Schlüsseldaten innerhalb der Kusama-Kette zu versorgen. Z.B. ein Entwickler könnte es verwenden, um seinen eigenen Kettenexplorer zu erstellen, ohne direkt Daten abfragen zu müssen.
 
-We’re building this in a way that makes it easy to extend to the growing number of parachains. It’ll also provide a much better foundation for new applications building on SubQuery, allowing us onboard new partnerships faster!
+Wir bauen dies auf eine Weise, die es leicht macht, sich auf die wachsende Zahl von Fallschirmen auszudehnen. Es wird auch eine viel bessere Grundlage für neue Anwendungen auf SubQuery, so dass wir schneller neue Partnerschaften einbinden können!
 
 ![](https://miro.medium.com/max/1400/0*AhM68fyjjSp_2edZ)
 
 We have [joined the Patract Open Platform alliance](https://subquery.medium.com/subquery-is-joining-the-patract-open-platform-91682c748a57) to jointly promote the development of public infrastructure, promote the evolution of contract technology, and to develop the Wasm contract development ecosystem.
 
-We believe that contracts are an important part of a thriving Polkadot ecosystem, providing data indexing services for Wasm contracts has always been a major goal of SubQuery. It is exciting to see that the Open Platform has brought together a large number of great projects, and that everyone is working together to contribute to the healthy and stable advancement of Wasm contracts.
+Wir glauben, dass Verträge ein wichtiger Teil eines blühenden Ökosystems des Polkadot sind Die Bereitstellung von Dienstleistungen zur Indizierung von Daten für Wasm-Verträge war schon immer ein wichtiges Ziel von SubQuery. Es ist spannend zu sehen, dass die Open Platform eine Vielzahl großartiger Projekte zusammengebracht hat und dass alle zusammenarbeiten, um zur gesunden und stabilen Weiterentwicklung der Abfallverträge beizutragen.
 
-Earlier last month I joined Jorrin Burns on Parity’s Relay Chain Podcast, we talked about our mission and how we were working with projects in our ecosystem. We also discussed how collaboration and feedback from other Polkadot projects in New Zealand (like Acala and Bitcountry) has influenced several of our value-added features, our long-term plans to become a parachain, and the road to 1 billion API requests.
+Früher im letzten Monat habe ich mich bei Jorrin Burns im Relay-Podcast der Parity beteiligt, wir haben über unsere Mission gesprochen und wie wir mit Projekten in unserem Ökosystem zusammengearbeitet haben. Wir haben auch darüber diskutiert, wie die Zusammenarbeit und das Feedback von anderen Polkadot-Projekten in Neuseeland (wie Acala und Bitcountry) einige unserer Wertschöpfungsmerkmale beeinflusst hat. unsere langfristigen Pläne, ein Fallschirm zu werden, und der Weg zu 1 Milliarde API-Anforderungen.
 
-[You can listen to the podcast on your favourite platform here.](https://relaychain.fm/35-querying-the-worlds-data-with-subquery)
+[Hier können Sie den Podcast auf Ihrer Lieblingsplattform hören.](https://relaychain.fm/35-querying-the-worlds-data-with-subquery)
 
-> _“Documentation may not be glamorous work but it plays a vital role in communicating how something works and allows us to empower our community members to learn and unleash their creativity. That is why we believe documentation is so important”_ — Sean Au (SubQuery Academy)
+> _„Dokumentation mag keine glamouröse Arbeit sein, aber sie spielt eine wichtige Rolle bei der Kommunikation wie etwas funktioniert und erlaubt es uns, unsere Community Mitglieder zu erlernen und ihre Kreativität freizusetzen. Aus diesem Grund glauben wir, dass Dokumentation so wichtig ist.“_ – Sean Au (Unterabfrage-Akademie)
 
 ![](https://miro.medium.com/max/1200/0*tvcfXFxHc6shdmAy.gif)
 
-[Our new documentation website](https://doc.subquery.network/) has an inviting landing page designed to welcome all users, regardless of their technical understanding of blockchain or Polkadot. From the landing page users can jump straight into a getting started tutorial, or navigate off to the help they need.
+[Unsere neue Dokumentations-Website](https://doc.subquery.network/) hat eine einladende Landing-Seite, die entwickelt wurde, um alle Benutzer unabhängig von ihrem technischen Verständnis von Blockchain oder Polkadot willkommen zu heißen. Von der Zielseite können Benutzer direkt in ein Tutorial springen oder zu der Hilfe navigieren, die sie benötigen.
 
-Traditionally, blockchain documentation is incredibly technical and littered with jargon — you have to come from a developer background to easily understand it. We’ve taken a different path and written content for users at all levels of experience.
+Traditionell ist die Dokumentation von Blockchain unglaublich technisch und mit einem Fachjargon übersät — man muss aus einem Entwicklerhintergrund kommen, um sie leicht zu verstehen. Wir haben einen anderen Weg eingeschlagen und Inhalte für Benutzer auf allen Ebenen der Erfahrung geschrieben.
 
-Our goal is to publish a tutorial for every piece of major functionality in SubQuery. That means a step-by-step video and written guide with working examples as outcomes — you can see the beginnings of our efforts here [in the Tutorials section](https://doc.subquery.network/tutorials_examples/howto.html).
+Unser Ziel ist es, ein Tutorial für alle wichtigen Funktionen in SubQuery zu veröffentlichen. Das bedeutet ein Schritt-für-Schritt-Video und eine schriftliche Anleitung mit Arbeitsbeispielen als Ergebnis – die Anfänge unserer Bemühungen finden Sie hier [im Tutorials Abschnitt](https://doc.subquery.network/tutorials_examples/howto.html).
 
-We consistently receive feedback from our community that we have some of the best documentation in our industry. We promise to keep it that way!
+Wir erhalten immer wieder Feedback von unserer Community, dass wir einige der besten Dokumente in unserer Branche haben. Wir versprechen, es so zu halten!
