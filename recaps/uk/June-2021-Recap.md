@@ -1,41 +1,41 @@
-## Речі стають зайнятими 🔥
+## Things are getting busy 🔥
 
-Це щомісячне оновлення:
+In this monthly update:
 
--   Епічний реліз з з білком 🎊
--   Розширення команди 👩::laptop_computer :
--   Постановка розгортання 📥
--   Служба підзапиту 📖
--   Поліпшення нашої допомоги в Китаї :Китай:
+-   Whitepaper Release 🎊
+-   Team Expansion 👩💻
+-   Staging Deployments 📥
+-   SubQuery Dictionary Service 📖
+-   Improving our Reach in China 🇨🇳
 
-Мережа SubQuery - це наша спроба перейти до децентралізованої та токенаційної мережі, щоб не забезпечити жодної точки збою для SubQuery та заохотити якомога більше учасників процесу.
+The SubQuery Network is our effort to move towards a decentralised and tokenised network in order to ensure no single point of failure for SubQuery and to encourage as many participants in the process as possible.
 
-[Минулого місяця ми публічно випустили наш білий список для прочитання світу.](https://static.subquery.network/whitepaper.pdf) Ви також можете прочитати / подивитися [коротке пояснення тут](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010).
+[Last month, we publicly released our whitepaper for the world to read.](https://static.subquery.network/whitepaper.pdf) You can also read/watch a [short explanation here](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010).
 
-Ми прагнемо до найшвидших і доступних цілей роботи служби даних Substrate. Ми написали цей білий список, щоб виділити наші [конкурентні переваги](https://subquery.medium.com/subquery-network-our-goals-and-competitive-advantages-a6efdd544be4) і тепер наш фокус на виконанні цього бачення. Мережа підводних запитів обертається навколо двох ключових аспектів, гнучкості та простоти.
+We have ambitious goals at SubQuery to be the fastest and accessible data service provider on Substrate. We’ve written this whitepaper to highlight our [competitive advantages](https://subquery.medium.com/subquery-network-our-goals-and-competitive-advantages-a6efdd544be4) and our focus now is on executing this vision. The SubQuery Network revolves around two key aspects, flexibility and simplicity.
 
-Амбітні цілі потребують команди першого класу, і ми постійно додавати нових членів до команди протягом червня. Це включає; нові інтерни, дизайнер UX, письменник з документації про розвиток та Китайський співробітники розвитку бізнесу.
+Ambitious goals require a first class team, and we’ve been steadily adding new members to the team over June. This includes; new development interns, a UX designer, a development documentation writer, and Chinese based business development staff.
 
-Ми все ще шукаємо більше, особливо в наступних розділах. Будь ласка, знайте нас, якщо ви маєте когось з розуму:
+We’re still looking for more, especially in the following areas. Please us know if you know if you have someone in mind:
 
--   [Голова Маркетингу](https://angel.co/company/subquery/jobs/1494376-head-of-marketing) або заснована на бізнесі в США / ЄС (це рідкісна можливість не пропускати)
--   [Інженери SRE](https://angel.co/company/subquery/jobs/1497942-site-reliability-engineer)
--   [Довіра](https://angel.co/company/subquery/jobs/1494414-rust-developer) та [Розробники ліквідності](https://angel.co/company/subquery/jobs/1494435-solidity-developer)
+-   [Head of Marketing](https://angel.co/company/subquery/jobs/1494376-head-of-marketing) or US/EU based business development (this is a rare opportunity not to be missed)
+-   [SRE Engineers](https://angel.co/company/subquery/jobs/1497942-site-reliability-engineer)
+-   [Rust](https://angel.co/company/subquery/jobs/1494414-rust-developer) and [Solidity](https://angel.co/company/subquery/jobs/1494435-solidity-developer) developers
 
-Це наша віра, що розробники в нашій галузі повинні зосередитись на будівництві майбутнього, не працює інфраструктура - сервіс, що проводиться в нашому сервісі SubQuery є відображенням цього. [У червні ми випустили слоти розгортання](https://subquery.medium.com/deployment-slots-are-here-subquery-projects-4fe2629f8858)- абсолютно нову функцію, яка покращує досвід розробника в хостингованому сервісі SubQuery.
+It’s our belief that developers in our industry should focus on building the future, not running infrastructure — our SubQuery hosted service is the manifestation of that. [In June we released deployment slots](https://subquery.medium.com/deployment-slots-are-here-subquery-projects-4fe2629f8858), a whole new feature that improves the developer experience in SubQuery’s hosted service.
 
-Розгортання є новою функцією, що означає, що розробники можуть оновити їх проект, переіндексувати свої дані та покращувати проект розміщеного production SubQuery з нульовим зниженням. Ми продовжуємо робити наші безкоштовні керовані послуги вибором за замовчуванням для того, де наші клієнти вирішать керувати їх інфраструктурою.
+Deployment slots are a new feature that means developers can update their Project, reindex their data, and upgrade their hosted production SubQuery Project with zero downtime. We continue to make our free managed service the default choice for where our customers choose to run their infrastructure.
 
-Спільний запит, з яким ми стикаємося з нашими клієнтами, це покращення швидкості індексування їх проекту. Індексування історичних даних ланцюга, оскільки Полкадот може зайняти години, якщо не дні, що ускладнює тестування.
+A common request we face from our customers is how to improve the indexing speed of their SubQuery project. Indexing historical data on a chain as large as Polkadot can take hours if not days, making testing difficult.
 
-Підроблений запит у проектах зараз є можливість пропустити всю цю функцію за допомогою нашої нової функції — [підзапит словника](https://subquery.medium.com/subquerys-just-got-a-lot-faster-with-the-dictionary-8a7a1447574). Ми, по суті, індексуємо розташування всіх подій у ланцюжку і, в результаті ми бачили до 10х швидше індексування, Підроблений запит швидший, ніж будь-коли раніше.
+SubQuery projects now have the option to skip all this using our new feature — [the SubQuery Dictionary](https://subquery.medium.com/subquerys-just-got-a-lot-faster-with-the-dictionary-8a7a1447574). We essentially pre-index the location of all events within a chain and as a result we’ve seen up to 10x faster indexing speed, SubQuery is faster than ever before.
 
-Китай є ключовою частиною наших планів стратегічного розширення. У червні Сікі приєднався до нас і очолить наш бізнес розвиток у регіоні. Вона безумовно потрапляла на землю, з'єднуючись з багатьма існуючими клієнтами та партнерами.
+China is a key part of our strategic expansion plans. In June Siqi joined us and will lead our business development in the region. She’s certainly hit the ground running, connecting with many of our existing customers and partners there.
 
-Siqi був на [етапі на надзвичайно успішному національному турі Polka Ecology в Hefei Station](https://twitter.com/SubQueryNetwork/status/1409696588465721348), встановлення контакту з багатьма іншими учасниками проекту, які також відвідували конференцію. Вона буде на багатьох заходах вперед, тому стежте за нею і скажіть це!
+Siqi was on [stage at the extremely successful Polka Ecology National Tour event at Hefei Station](https://twitter.com/SubQueryNetwork/status/1409696588465721348), establishing contact with many other project parties who also attended the conference. She’ll be at many events going forward, so keep an eye out for her and say hi!
 
-Повертаючись до наступного місяця, ми шукаємо швидке зростання і працюємо над багатьма захоплюючими проектами. Будьте на зв'язку з нашими соціальними мережами, щоб бути першими, хто знає, що відбувається!
+Heading into next month we look to continue our rapid growth and are working on many exciting projects. Stay in touch through our social media to be the first to know what is happening!
 
-Джеймс, Сем та Команда субзапиту
+James, Sam, and the SubQuery Team
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Medium](https://subquery.medium.com/)
