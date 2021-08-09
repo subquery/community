@@ -1,60 +1,60 @@
 
-It’s been an intense last couple of months at OnFinality and SubQuery, we’ve expanded the team and have brought on some new partners as we launch some key new projects. In this monthly update:
+Останні кілька місяців ми вже були в OnFinality і SubQuery, ми розширили команду і додали деякі нові партнери при запуску деяких ключових проектів. Це щомісячне оновлення:
 
--   SubQuery Explorer
--   Seed round update
--   Our first partner use case for SubQuery
--   Berkeley Blockchain Xcelerator
--   Intelligent routing
--   New office and team members
+-   Оглядач підзапитів
+-   Оновлення сідерів
+-   Наш перший партнер використовує для підробки
+-   Xcдійсатор Berkeley
+-   Розумна маршрутизація
+-   Новий офіс та учасники команди
 
-## SubQuery Explorer goes Live
+## Підводний дослідник запитів наживо
 
-[SubQuery Explorer](https://explorer.subquery.network/) is an online hosted service that provides access to published SubQuery projects made by contributors in our community around the world and hosted by the SubQuery team. You can test queries directly in your browser, or get API endpoints for different use cases. Be inspired by what others are building so you can give back!
+[SubQuery Explorer](https://explorer.subquery.network/) є онлайн-сервісом, що має доступ до опублікованих проектів SubQuery проектів, зроблених учасниками нашої спільноти по всьому світу, і що проводиться командою SubQuery Ви можете перевіряти запити прямо в браузері, або отримати API кінцевих точок для різних випадків використання. Надихайтесь на те, що створюють інші, щоб ви змогли віддати!
 
-We run SubQuery projects in it like they’re production applications, so you can unlock your decentralized data in your next dApp today using SubQuery.
+Ми запускаємо SubQuery проекти на ньому як вони вже є виробничими програмами, щоб ви могли розблокувати ваші децентралізовані дані в наступному dApp уже за допомогою SubQuery.
 
 
 ![](https://miro.medium.com/max/1400/1*GE-Y6XKNOkj_MKY4ZuM5oQ.png)
 
-## **SubQuery Raises $1.8M seed round for future expansion**
+## **ПідЗапит покращує 1,8 млн круглих насіння для майбутнього розширення**
 
-SubQuery is ready to grow and deliver! [We successfully raised a US$1.8 million seed round](https://subquery.medium.com/subquery-raises-1-8m-seed-round-for-future-expansion-3348c1f2a931) and private sale backed primarily by DeFi Alliance, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG), and The Lao. The overwhelming demand we received to back SubQuery’s seed round shows the strong interest in infrastructure services and belief in the future of the Polkadot ecosystem.
+Запит готовий до зростання і доставки! [Ми успішно зібрали US$1. мільйони зернових раундів](https://subquery.medium.com/subquery-raises-1-8m-seed-round-for-future-expansion-3348c1f2a931) та приватних продажів підкріплені насамперед DeFi Альянсом, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG) та Lao. Переважний попит, який ми отримали на підтримку зернового раунду SubQuery, демонструє великий інтерес до інфраструктурних послуг та віри в майбутнє екосистеми Полкадота.
 
-_We’re planning a subsequent private sale/raise later this year. If you’re interested in taking part please register here:_ [_https://forms.gle/6LMapDNSidQAqy347_](https://forms.gle/6LMapDNSidQAqy347)
+_Ми плануємо наступну приватну продажу/вирощуємо пізніше цього року. If you’re interested in taking part please register here:_ [_https://forms.gle/6LMapDNSidQAqy347_](https://forms.gle/6LMapDNSidQAqy347)
 
-## **SubQuery Explorer welcomes its first partner use case**
+## **Відомий розробник SubQuery перший партнер використовує справу**
 
-SubQuery is all about providing data services to our partners and customers. Every blockchain team and dApp builder has a need to process and query data quickly, and for the web3 dream to be realised, it’s got to be as fast (if not faster) than centralised networks for the end user. That’s why we’re ramping up our efforts to partner with the top Polkadot projects to provide free SubQuery services for their protocols.
+SubQuery - це все, що забезпечує служби даних нашим партнерам і клієнтам. Кожна команда blockchain і dApp builder має потребу в обробці та обробці даних для пошуку, а також для того, щоб реалізувати web3, Воно має бути швидким (якщо не швидшим), ніж централізовані мережі для кінцевого користувача. Ось чому ми розширюємо наші зусилля для партнерства з провідними проектами Polkadot для надання безкоштовних служб підзапити для своїх протоколів.
 
-[Earlier we launched our first partnership with our close friends at Acala](https://subquery.medium.com/subquery-integrates-acala-to-aggregate-and-serve-defi-data-to-polkadot-and-kusama-builders-fc9af6a7aae1) to allow users and developers to query and extract data from Acala’s DeFi hub for Polkadot in only minutes and at no cost. When you access the SubQuery Explorer you’ll be welcomed with a new Acala SubQuery Project. This SubQuery dynamically tracks all the extrinsic data created on Acala and can quickly show derived aggregated stats for the following:
+[Раніше ми запустили наше перше партнерство з нашими близькими друзями в Acala](https://subquery.medium.com/subquery-integrates-acala-to-aggregate-and-serve-defi-data-to-polkadot-and-kusama-builders-fc9af6a7aae1) щоб дозволити користувачам і розробникам запитувати і вилучати дані з центру Acala DeFi hub з Polkadot за кілька хвилин і безкоштовно. При доступі до Дослідника з підзапитами, ви будете вітати з новим проектом Acala SubQuery в Acal. Ця підробка динамічно відстежує всі дані, що створюються в Acala і може швидко показати надану агреговану статистику для наступного:
 
--   Historical Data on liquidity changes (broken down by providers)
--   Historical Data on all cross chain asset swaps
--   Transfer history
+-   Історичні дані про зміни ліквідності (порушено провайдерами)
+-   Історичні дані про всі перехресні ланцюгові свопи активів
+-   Історія трансфертів
 
 ![](https://miro.medium.com/max/1400/0*LOig1jNfPTuVk73D)
 
-> You could create a dApp for lenders showing collateralization ratio, loan amount, interests accrued, etc. Or a service for decentralised exchanges with pair liquidity, pair exchange rate, trading volumes.
+> Ви можете створити додаток для кредиторів, що демонструють співвідношення застави, розмір позики, нараховані інтереси і т.д. Або послуга децентралізованого обміну з парною ліквідністю, курсом пар торгів, обсягами торгів.
 
-We’re planning to improve our partnership tools very soon and are planning on onboarding other top protocols in the next week or two at a rapid pace.
+Ми плануємо дуже швидко вдосконалити наші інструменти партнерства, і планувати підтримку інших топ-протоколів наступного тижня або два швидкими темпами.
 
-_Do you want to get started and create a new SubQuery project for your own dApp —_ [_get started now_](https://doc.subquery.network/quickstart.html)_. We’ll even host it in our_ [_SubQuery Explorer_](https://subquery.medium.com/announcing-the-subquery-explorer-48c051483730) _for free!_
+_Бажаєте почати роботу та створити новий проект SubQuery для вашого власного dApp —_ [_почати зараз_](https://doc.subquery.network/quickstart.html)_. Ми навіть розмістимо його в нашому _ [_Дослідник по запитам_](https://subquery.medium.com/announcing-the-subquery-explorer-48c051483730) _безкоштовно!_
 
-## **Berkeley Blockchain Xcelerator**
+## **Xcдійсатор Berkeley**
 
-[We were excited to announce in March](https://subquery.medium.com/subquery-joins-berkeleys-blockchain-xcelerator-7ea81f96af73) that Berkeley has selected SubQuery to be part of their exclusive [Blockchain Xcelerator](https://www.xcelerator.berkeley.edu/). SubQuery (and it’s parent company OnFinality) were selected from over 200 applications to be part of just 21 exclusive spots.
+[We were excited to announce in March](https://subquery.medium.com/subquery-joins-berkeleys-blockchain-xcelerator-7ea81f96af73) that Berkeley has selected SubQuery to be part of their exclusive [Blockchain Xcelerator](https://www.xcelerator.berkeley.edu/). Підробку (а саме батьківська компанія OnFinality) були обрані з понад 200 додатків, щоб бути частиною лише 21 ексклюзивних місць.
 
-Berkeley’s blockchain Xcelerator is known around the world as one of the most successful blockchain accelerators for a reason. It has incubated over 40 companies that have raised over $25M in seed and early stage funding, and over 75% of the inaugural batch raised follow-on funding.
+Xccerator Беркелі відомий по всьому світу як один з найуспішніших прискорювачів блокчейн з причини. Це заснувало понад 40 компаній, які підвищили понад 25 мільйонів доларів у насінині та фінансуванні ранньої стадії, і понад 75% інавгураційної групи підняли наступне на фінансування.
 
 ![](https://miro.medium.com/max/1400/0*t-_mRJaTnGDQO-VI)
 
-## **Intelligent Routing**
+## **Розумна маршрутизація**
 
-We’ve recently been [awarded a treasury grant](https://kusama.polkassembly.io/treasury/72) to complete an intelligent routing layer that allows us to expose multiple clusters behind a single endpoint. This will allow us to scale our service better, and quickly fall over to redundant clusters in the unlikely event that some of our infrastructure goes down. Both OnFinality and SubQuery rely on this infrastructure so it’s important that we continue to invest and improve here.
+Нещодавно ми були [нагороджені скарбницею](https://kusama.polkassembly.io/treasury/72) для забезпечення розумного маршрутизованого шару, який дозволяє нам розкрити кілька кластерів за однією кінцевою точкою. Це дозволить нам краще масштабувати наш сервіс, і швидко перепадають на надлишкові кластери у малоймовірних випадках, коли частина нашої інфраструктури знижується. І OnFinity, і SubQuery покладаються на цю інфраструктуру, тому важливо продовжувати інвестувати та вдосконалюватися тут.
 
-## **New Staff and Office**
+## **Новий персонал і офіс**
 
-One of the biggest changes over the past month is how much the team has grown. We’ve added two new staff over the past month and expect to hire more, as a result, we’ve found a new office in Auckland that fits us perfectly. We will grow, but still plan to remain small and nimble so we can deliver our product vision.
+Однією з найбільших змін за останній місяць є те, наскільки зросла команда. Ми додали два нового персоналу за останній місяць і очікуємо на роботу більше, Як результат, ми знайшли новий офіс у Окленді, який ідеально підходить до нас. Ми будемо рости, але все ще плануємо залишатися маленькими й гнучкими, щоб ми могли забезпечити нам бачення наших продуктів.
 
 ![](https://miro.medium.com/max/1400/1*cJZxerXHfgVGu4-7h2xw4Q.jpeg)
