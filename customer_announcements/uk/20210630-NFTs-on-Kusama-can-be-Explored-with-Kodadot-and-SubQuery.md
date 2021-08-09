@@ -1,24 +1,24 @@
 
-**Today we want to announce our strategic partnership between Kodadot and SubQuery Network.**
+**Сьогодні ми хочемо оголосити про наше стратегічне партнерство між Kodadot і Підводною мережею.**
 
 ![](https://miro.medium.com/max/1400/1*Y4kdG9uEoxrySzb19QKxPg.gif)
 
-Kodadot is a carbon neutral Kusama native NFT platform that uses the RMRK protocol. Users can mint, transfer, and burn NFTs on the network. Most importantly, Kodadot has a responsive web based NFT explorer that provides an intuitive user interface.
+Kodadot - це вуглецевий нейтральна платформа Kusama на НФТ, яка використовує протокол RMRK. Користувачі можуть видобувати, передавати та спалювати NFTs у мережі. Найголовніше, що Кодадо має реагуючий веб-інтерфейс NFT, що забезпечує інтуїтивно зрозумілий користувацький інтерфейс.
 
-This front end uses a [SubQuery project](https://explorer.subquery.network/subquery/vikiival/magick) to make this exploration faster.
+На цьому фронт-енді використовує проект [Запит](https://explorer.subquery.network/subquery/vikiival/magick) для пришвидшення пошуку.
 
 ![](https://miro.medium.com/max/1400/0*3TdpXjj1iwGNdA3n)
 
-> “At the first we had to realise how much the SubQuery is doing instead of you, so we were able to purely focus on the GraphQL architecture and NFT consolidation logic. Thanks to SubQuery, we are thinking now another feature set we can easily add over weekend” — Kodadot
+> “Спочатку нам довелося усвідомити, скільки робить SubQuery замість вас, тому ми змогли сфокусуватися на архітектурі GraphQL та логіці консолідації NFT. Завдяки SubQuery, ми думаємо зараз над іншою функцією, яку ми можемо легко додати протягом вихідних - Kodadot
 
-[SubQuery’s](https://subquery.network/) service helps Kodadot extract and query on chain data for NFTs on Kusama, and do this in a more energy efficient and carbon friendly way.
+[сервіс SubQuery](https://subquery.network/) допомагає видобути Kodadot і запитувати дані ланцюжка для NFT в Кусамі, і зробити це більш енергоефективним і дружнім до вуглецю способом.
 
 ![](https://miro.medium.com/max/1400/0*AocvCHVWMsGtH1Oz)
 
-In the example below, we’re using SubQuery to find the first 5 NFT results that match the search term “Canary” on Kusama.
+У наведеному нижче прикладі ми використовуємо SubQuery для пошуку перших 5 NFT результатів, які відповідають умові "Канари" на Кусамі.
 
 ![](https://miro.medium.com/max/1400/0*QTzLpC0D-pYWDngZ)
 
-Kodadot is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/).
+Kodadot використовує [Проекти Запит](https://project.subquery.network/) для управління власним проектом і створення оновлень, як потрібно. Сервіси індексування та запитів, які ми надаємо, повністю керуються SubQuery та надаються спільноті Polkadot безкоштовно в [SubQuery’s](https://explorer.subquery.network/).
 
-[Explore the Kodadot data set](https://explorer.subquery.network/subquery/vikiival/magick)
+[Дослідіть набір даних Кодадота](https://explorer.subquery.network/subquery/vikiival/magick)
