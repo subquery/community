@@ -1,28 +1,28 @@
 ![](https://miro.medium.com/max/1200/0*s1fSGGelS-HVJNBm)
 
 
-During the week of July 5th, Ternoa has introduced its new Wallet, an app allowing future users to send and receive $CAPS and ‘**_Secret NFTs’_** minted on the Ternoa Blockchain, as well as easily unveiling their Secret to their owners. The concept of ‘**_Secret_**’ for ‘**_NTFs_**’ has been imagined by the Ternoa team.
+В течение недели 5 июля Терноа представила свой новый кошелек, приложение, позволяющее будущим пользователям отправлять и получать $CAPS и ‘**_секретные NFTs_** minted на Ternoa Blockchain, а также легко раскрыть свои секретные для их владельцев. Концепция ‘**_Secret_**для ‘**_NTFs_**была представлена командой Ternoa.
 
-Those ‘_secret NFTs_’ can be found and purchased in the dedicated marketplace ([https://www.secret-nft.com/](https://www.secret-nft.com/)) built by the Ternoa Team. The Ternoa Wallet is a solution inspired by the [WalletConnect](https://walletconnect.org/) project, allowing users to easily login and purchase NFTs with a simple QR code interaction between the website and the app.
+Эти ‘_секретные NFTs_’ можно найти и приобрести на выделенном рынке ([https://www. ecret-nft.com/](https://www.secret-nft.com/)) построена командой Ternoa. Терноа Кошелек - это решение, вдохновленное проектом [WalletConnect](https://walletconnect.org/) , позволяет пользователям легко войти и приобрести NFT при простом взаимодействии QR-кода между сайтом и приложением.
 
-**_Secret NFTs_** are a special kind of NFTs invented and developed by Ternoa, and made possible by their unique and elegant blockchain architecture: Secret-NFTs are composed of two medias, one public with watermark or a lower quality, and the other private that can only be seen by the owner of said NFT. This offers an amazing protection from forgery for artists and KOLs, and opens up a lot of use cases.
+**_секретные NFTs_** - это особый вид NFT, изобретенный и разработанный Ternoa, и стало возможным благодаря уникальной и элегантной архитектуре блокчейна: Secret-NFTs состоят из двух медиа: один публичный с водяным знаком или более низким качеством, а другой часть, которую может видеть только владелец этой NFT. Это дает потрясающую защиту от подделки для художников и KOLs, и открывает новые возможности для использования.
 
-The secret media will be easily accessible by the Wallet user who is holding its SecretNFT
+Секретные носители будут легко доступны пользователем Wallet который держит его SecretNFT
 
-**SubQuery** is supporting Ternoa by providing indexing solutions for their user balances, NFT explorer on both the Ternoa Wallet and the Secret-NFT website.
+**SubQuery** поддерживает Ternoa, предоставляя решения индексации для своих балансов пользователей, исследователь NFT на сайте Ternoa Wallet и Secret-NFT.
 
 ![](https://miro.medium.com/max/1400/0*gquKRKBgiyAAxRFZ)
 
-> “We made the choice to use SubQuery because the documentation seemed clear to us at first glance and we were not mistaken. SubQuery provides a complete environment with a docker machine which makes testing and deployment very easy. It is relatively easy to develop in this environment and to program the listening of the different events emitted by our blockchain. Congratulations also to the support which is very responsive.” — Ternoa CTO
+> «Мы сделали выбор использовать SubQuery потому что документация казалась нам понятной на первый взгляд, и мы не были ошибки. SubQuery предоставляет полную среду с docker машиной, что делает тестирование и установку очень простой. В этой среде довольно легко развиваться и программировать прослушивание различных событий, исходящих от нашего блокчейна. Поздравляем также с поддержкой, которая очень отзывчиво». — Ternoa CTO
 
-[SubQuery’s](https://subquery.network/) services also help extract and query on chain data for Secret-NFTs minted on the Ternoa Blockchain, in a way that supports the unique features of Ternoa’s NFTs.
+[Сервисы SubQuery's](https://subquery.network/) также помогают извлечь и запросить данные цепи для Secret-NFTs minted на Ternoa Blockchain, таким образом, чтобы поддерживать уникальные особенности NFTs Ternoa.
 
 ![](https://miro.medium.com/max/1400/0*CA7lfxmZxHCKhzWw)
 
-In the example below, we’re [using SubQuery](https://explorer.subquery.network/subquery/capsule-corp-ternoa/indexer) to find the first 5 NFTs on the Ternoa Network.
+В приведенном ниже примере мы [используем SubQuery](https://explorer.subquery.network/subquery/capsule-corp-ternoa/indexer) , чтобы найти первые 5 NFTs в сети Ternoa.
 
 ![](https://miro.medium.com/max/1400/0*YaQGpb3xUn7BUESx)
 
-Secret NFT is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/).
+Секретный NFT использует [SubQuery Проекты](https://project.subquery.network/) для управления собственным проектом и внесения обновлений по мере необходимости. Индексация и предоставление сервисов запросов, которые мы предоставляем, полностью управляются SubQuery и предоставляются сообществу Polkadot бесплатно в [SubQuery’s Explorer](https://explorer.subquery.network/).
 
-[Explore the Ternoa Secret NFT dataset](https://explorer.subquery.network/subquery/capsule-corp-ternoa/indexer)
+[Исследуйте секретный набор данных Ternoa NFT](https://explorer.subquery.network/subquery/capsule-corp-ternoa/indexer)
