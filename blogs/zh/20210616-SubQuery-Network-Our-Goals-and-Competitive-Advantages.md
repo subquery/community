@@ -1,40 +1,40 @@
 
-Today we’re going to explore the goals that we have with SubQuery and some of the competitive advantages that we think make the SubQuery Network better than our competitors.
+今天，我们将探讨 SubQuery 的目标, 以及我们认为使 SubQuery 网络优于竞争对手的一些竞争优势。
 
-SubQuery’s currently provided indexing and transformation data in a centralised way. Although this has allowed us to power some of the top Polkadot projects; DeFi apps like Acala and Bifrost, wallets like Fearless Wallet, NFT platforms like [KodaDot](https://kodadot.xyz/), cross-chain bridges like [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia), and analytics platforms like [SubVis](https://subvis.io/) — it has it’s downside.
+SubQuery ⽬前以⼀个集中化的⽅式来提供索引和转换数据服务。 尽管这使我们能够为一些顶级 Polkadot 项目提供动力；比如像 Acala 和 Bifrost 这样的 DeFi 应用程序，像 Fearless Wallet 这样的钱包，像 KodaDot 这样的 NFT 平台，像 Darwinia 这样的跨链桥，以及像 SubVis 这样的分析平台——但它还是有它的缺点。
 
-It requires our users to trust the service we provide, and carries risks associated with a centralised service, like potential server failures or outages that can cripple your applications. This is a major reason why we are moving to a decentralised future.
+它要求我们的用户信任我们提供的服务，并承担与集中服务相关的风险，例如可能会因为服务器故障或停机而导致应用的体验不好。 这是我们走向去中心化未来的一个主要原因。
 
 ![](https://miro.medium.com/max/868/1*CPksnN9_jyMGQ0sSbiJvDQ.png)
 
-Our Competitive Advantages
+竞争优势
 
-We understand that The SubQuery Network is competing against many players in the decentralised data industry, SubQuery looks to provide unique benefits through a multitude of competitive advantages. Our guiding principles, and what we expect to be the main advantages, are the simplicity and flexibility of our network.
+我们知道 SubQuery Network 正在与去中心化数据行业的许多参与者竞争，但 SubQuery 仍然希望可以通过多种竞争优势提供独一无二的好处。 我们网络的简单性和灵活性是我们的指导原则和我们期望的主要优势。
 
-## Flexibility
+## 灵活性
 
-Our first advantage is our flexibility. SubQuery is open source, so anyone has the freedom to define the data set that is specific to their needs, tailored to their applications. Rather than having to combine queries from different API endpoints — you can define the shape of your APIs yourself. It saves time, money, and provides a vastly better experience for your users.
+我们的第一个优势是我们的灵活性。 SubQuery 是开源的，因此任何人都可以自由定义特定于其需求的数据集，并针对其应用程序量身定制。 您不必处理组合来⾃不同 API 端点的问题——您可以自己定义 API 的形状。 它可以节省时间和金钱，并为您的用户提供一个更好的体验。
 
-## Simplicity
+## 简单性
 
-You do not need to be an expert to take advantage of what SubQuery offers. There is literally 3 files that need to be changed to make a working SubQuery project. Our focus will be on making SubQuery easier to use and build with than our competitors — SubQuery’s success depends on the success of our community building the future with it.
+您不需要成为专家就可以使用 SubQuery 提供的功能。 要创建一个有效的 SubQuery 项目，实际上只需要更改 3 个文件。 我们的重点将是让 SubQuery 比我们的竞争对手更容易使用和构建——SubQuery 的成功取决于我们用它来构建未来的成功。
 
-## Indexer/Delegator Imbalance
+## 索引者/委托人不平衡
 
-Among our competitors, we believe the ability for Indexers to change delegation reward rates without warning is unfair. We try to fix this by requiring Indexers to advertise a decrease to the Query Fee Revenue Share Rate for an entire staking era (28 day period).
+在我们的竞争对手中，我们认为索引者能够在毫无预警的情况下，改变委托奖励率是不公平的。 我们试图通过要求索引者在整个 staking 周期（28 天期限）内降低查询费⽤收⼊分成率来解决这个问题。
 
-## Purchase Orders Instead of Curators
+## 采购订单而不是管理者
 
-In marketplaces like SubQuery, where there are both buyers and sellers of data, signalling demand for future supply is difficult. Other competitors use “curators” to achieve this, participants who predict future demand and are rewarded when that future demand eventuates.
+在像 SubQuery 这样的市场中，有数据的买家和卖家，很难发出对未来供应的需求的信号。 其他竞争对手使用“管理者”来实现这一目标，参与者可以预测未来需求并在未来需求发生时获得奖励。
 
-SubQuery has taken a different approach in where we look to Consumers to create an upfront commitment, a purchase order. This can be used both to attract Indexers to new SubQuery Projects, or to attract additional Indexers to existing and uncompetitive SubQuery Projects.
+SubQuery 采取了一种不同的方法，我们让消费者创建一个预先承诺，一个采购订单。 这既可以用于将索引者吸引到新的 SubQuery 项目，也可以用于将其他索引者吸引到现有的，没有竞争力的 SubQuery 项目。
 
-## Incentives for Query Performance:
+## 对查询性能的激励
 
-Our Indexer discovery and routing process will include performance data (latency and uptime) for all Indexers, and we will take steps to ensure that Consumers report on this data when unlocking micropayments to Indexers.
+我们的索引器发现和路由过程将包括所有索引器的性能数据(延迟和运行时间)。 我们将采取步骤确保消费者在解锁对索引器的微额支付时报告这方面的数据。
 
-This will ideally encourage Indexers in the SubQuery Network to provide infrastructure with high uptime and low latency, the best performance possible.
+这将在理想情况下鼓励 SubQuery 网络中的索引者提供具有高正常运行时间和低延迟的基础设施，并尽可能提供最佳性能。
 
-## Focus on Substrate/Polkadot:
+## 专注于 Substrate/Polkadot
 
-SubQuery committed to focus on Polkadot and Substate from the day we started. This allowed our service and tools to be built from the outset to work with Substrate. On top of this, Polkadots unique architecture makes it easier for SubQuery to support multiple current and future blockchains automatically.
+SubQuery 从诞生的那天起就致力于专注 Polkadot 和 Substate。 这使我们从一开始就构建可以与 Substrate 一起使用的服务和工具。 最重要的是，Polkadots 独特的架构使 SubQuery 更容易自动支持多个当前和未来的区块链。
