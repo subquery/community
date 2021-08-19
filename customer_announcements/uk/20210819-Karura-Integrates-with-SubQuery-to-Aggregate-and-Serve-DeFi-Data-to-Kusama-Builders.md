@@ -18,13 +18,13 @@
 
 ![](https://cdn-images-1.medium.com/max/1600/0*g174RcFJwJcw2ITS)
 
-Карура також забезпечує етичну та стійку модель розподілу токенів, а також мережеву скарбницю Карура, яка підтримує свою спільноту та сталий розвиток. Карура була першим парачейном, яка виграла слоти в аукціоні парачейнів на Кусама, зібравши величезний кредит понад 500 000 KSM (100 мільйонів доларів США) від його спільноти. Because Karura leverages the novel Acala EVM, which enables Ethereum compatibility with unlimited Substrate* functionality, the network is primed to support the deployment of leading DeFi projects who aim to expand their services beyond Ethereum.
+Карура також забезпечує етичну та стійку модель розподілу токенів, а також мережеву скарбницю Карура, яка підтримує свою спільноту та сталий розвиток. Карура була першим парачейном, яка виграла слоти в аукціоні парачейнів на Кусама, зібравши величезний кредит понад 500 000 KSM (100 мільйонів доларів США) від його спільноти. Оскільки кредитні плечі Карура впроваджують нове визначення Acala EVM, що дає змогу Ethereum сумісності з необмеженим функціоналом Substrate*, мережу налаштовано на підтримку розгортання провідних проектів DeFi для розширення своїх послуг за межами Ethereum.
 
-*[Substrate](http://substrate.dev/) *is the blockchain-building framework for building on Polkadot and Kusama*
+*[Субстрат](http://substrate.dev/) *є блокчейн структурою для будівництва на Полкадот і Кусама*
 
 [Read more in a Karura deep dive here](https://medium.com/acalanetwork/countdown-to-karura-a-deep-dive-on-the-defi-hub-of-kusama-410066fc1e1f)
 
-## Open Tools for Karura DApp Builders
+## Відкрити Інструменти для Карура DApp розробників
 
 It's now up to the Karura community to build the first community dApp in the DeFi hub of Kusama. Below is a simple example of how Karura can use SubQuery to find and retrieve the past extrinsics (and the transfers within them) for any account on Karura --- you can see that this is made completely online in the [SubQuery explorer](https://explorer.subquery.network/subquery/AcalaNetwork/karura).
 
