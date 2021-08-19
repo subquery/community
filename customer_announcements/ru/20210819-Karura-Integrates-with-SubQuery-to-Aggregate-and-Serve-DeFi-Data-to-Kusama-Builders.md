@@ -1,8 +1,8 @@
 ![](https://cdn-images-1.medium.com/max/1600/0*EBj5be1webNUchfi)
 
-# Karura Integrates with SubQuery to Aggregate and Serve DeFi Data to Kusama Builders
+# Карура интегрируется с SubQuery для объединения и предоставления DeFi данных разработчикам Кусама
 
-In recent weeks, Karura and Acala team celebrated the launch of [Karura Swap](https://apps.karura.network/), the first decentralized exchange in the Polkadot/Kusama ecosystem.
+В последние недели команда Каруры и Акалы отметила запуск [Karura Swap](https://apps.karura.network/)- первого децентрализованного обмена в экосистеме Полкадот/Kусама.
 
 Today, we explore how SubQuery helped make this launch possible. Karura is using SubQuery to extract and query data from Karura's chain, making queries fast and efficient for [Karura's app](https://apps.karura.network/).
 
