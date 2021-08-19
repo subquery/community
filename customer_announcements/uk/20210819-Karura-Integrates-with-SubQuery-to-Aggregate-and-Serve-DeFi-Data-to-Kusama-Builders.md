@@ -32,12 +32,12 @@
 
 ## Про SubQuery
 
-[SubQuery](https://subquery.network/) is a data aggregation layer that will operate between the layer-1 blockchains (Karura) and dApps. SubQuery allows dApp developers to explore and transform on-chain data to build intuitive dApps faster, without needing to worry about building or managing custom backends for data processing. [Почати роботу зараз](https://doc.subquery.network/).
+[SubQuery](https://subquery.network/) - це центр агрегації даних, який буде працювати між блокчейнами першого рівня -1 (Karura) і dApps. SubQuery дозволяє розробникам dApp досліджувати та трансформувати дані по ланцюжку для побудови інтуїтивних Dapps швидше, без необхідності турбуватися про створення або керування власними серверами для обробки даних. [Почати роботу зараз](https://doc.subquery.network/).
 
 [Сайт](https://subquery.network/) | [Документація](https://doc.subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
 
 ## Про Карура
 
-[Карура](http://acala.network/karura) це все-в-одному, DeFi децентралізовані фінанси на Кусама. Заснована фондом Акала, Карура є суцільною, сумісною з EVM-мережею, оптимізованою для DeFi. The platform offers a suite of financial applications including: a trustless staking derivative (liquid KSM), a multi-collateralized stablecoin backed by cross-chain assets (kUSD), and Karura Swap, an AMM DEX --- all with micro gas fees that can be paid in any token. Karura is a blockchain platform custom-built for DeFi and powered by KAR, which enables settlement for transactions and smart contract execution, incentivizes node operators, and empowers its holders to participate in governance.
+[Карура](http://acala.network/karura) це все-в-одному, DeFi децентралізовані фінанси на Кусама. Заснована фондом Акала, Карура є суцільною, сумісною з EVM-мережею, оптимізованою для DeFi. Платформа пропонує набір фінансових програм, у тому числі: надійний депозит-стейкінг деривативу (ліквідний KSM), мульти-забезпечені стабільні монети, підкріплені міжланцюговими активами (kUSD), і Карура Свап, AMM DEX --- всю плату за мікрогаз можна заплатити з будь-якого токену. Карура - це платформа, побудована на технології блокчейн для DeFi і розроблена як KAR, що дозволяє розрахунок за транзакції та виконання смарт контрактів, стимулює валідаторів вузлів і надає можливість його власникам брати участь у управлінні.
 
 [Linktree](http://linktr.ee/karuranetwork) | [Розсилка](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) | [Discord](https://discord.gg/vdbFVCH) | [Сайт](http://acala.network/karura) | [Twitter](https://twitter.com/KaruraNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [YouTube](http://youtube.com/c/acalanetwork)
