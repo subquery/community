@@ -1,20 +1,20 @@
 ![](https://miro.medium.com/max/1400/1*g51P_PPoseNqEfCBgvpXXA.png)
 
-**Ми працюємо над тим, щоб допомогти кожному розробнику навчитися використовувати SubQuery для вивчення та перетворення їх ланцюгових даних, щоб вони могли швидше створювати інтуїтивні програми.**
+**We are working hard to help every developer learn how to use SubQuery to explore and transform their chain data so they can build intuitive dApps faster.**
 
-Сьогодні ми запустимо наш новий [сайт документації на doc.subquery.network](https://doc.subquery.network/). Ми ретельно переробили його з нашою спільнотою, і з радістю поділимося нею з вами.
+Today we launch our new [documentation website at doc.subquery.network](https://doc.subquery.network/). We have carefully redesigned it with our community in mind and we’re excited to share it with you.
 
 ![](https://miro.medium.com/max/1200/1*snyFSjyQ9q116bmIcaVfsQ.gif)
 
-> _«_Документація може бути не гламурною роботою, але вона відіграє життєво важливу роль у повідомленні про те, як щось працює і дозволяє нам наділити членів нашої спільноти вивчати та розкрити свою креативність. Ми віримо в документацію настільки важлива_" - Шон Ау (Академія підквантування)_
+> _“_Documentation may not be glamorous work but it plays a vital role in communicating how something works and allows us to empower our community members to learn and unleash their creativity. That is why we believe documentation is so important_” — Sean Au (SubQuery Academy)_
 
-[Наш новий сайт з документацією](https://doc.subquery.network/) має на меті запросити кінцеву сторінку, покликану привітати всіх користувачів, незалежно від їх технічного розуміння блокчейну або Polkadot. Із споживачів цільової сторінки можна одразу перейти до навчального посібника або перейти до необхідної їм допомоги.
+[Our new documentation website](https://doc.subquery.network/) has an inviting landing page designed to welcome all users, regardless of their technical understanding of blockchain or Polkadot. From the landing page users can jump straight into a getting started tutorial, or navigate off to the help they need.
 
 
 ![](https://miro.medium.com/max/1400/1*obZau98aya3Ohtc43DAuEw.png)
 
-Традиційно, документація з блокчейн є неймовірно технічною і наповненою жаргоном - вам потрібно надходити від основи розробника, щоб легко зрозуміти її. Ми пройшли інший шлях і написали контент для користувачів на всіх рівнях досвіду.
+Traditionally, blockchain documentation is incredibly technical and littered with jargon — you have to come from a developer background to easily understand it. We’ve taken a different path and written content for users at all levels of experience.
 
-Наша мета - опублікувати підручник для кожної частини значної функціональності в SubQuery. Це означає покрокове відео та письмове керівництво з робітничими прикладами - ви можете побачити початки наших зусиль тут [в розділі Підручники](https://doc.subquery.network/tutorials_examples/howto.html).
+Our goal is to publish a tutorial for every piece of major functionality in SubQuery. That means a step-by-step video and written guide with working examples as outcomes — you can see the beginnings of our efforts here [in the Tutorials Section](https://doc.subquery.network/tutorials_examples/howto.html).
 
 ![](https://miro.medium.com/max/1200/1*nxy4aDTaQ0EMGudm0QW09g.gif)

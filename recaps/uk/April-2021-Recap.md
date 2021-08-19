@@ -1,48 +1,48 @@
 
-Квітень був неймовірно зайнятим місяцем для SubQuery, наше зростання починає прискорюватися серйозними темпами і ми щодня розбиваємо нові рекорди. Як ми згадували минулого місяця, наш фокус у короткостроковій перспективі - на двох елементах; масштабування нашої платформи для перехоплення зростання попиту і залучення з все більшим і більшою кількістю партнерів, щоб допомогти їм у створенні власних підпроцесних проектів.
+April was an incredibly busy month for SubQuery, our growth is starting to accelerate at a serious pace and we’re breaking new records each day. As we mentioned last month, our focus in the short term is on two elements; scaling our platform to keep up with skyrocketing demand, and engaging with more and more partners to help them create their own SubQuery projects.
 
-Це щомісячне оновлення:
+In this monthly update:
 
--   Зосередитися на інструментах партнера — запуск проектів із запитів
--   Викор. процедуру BiFrost
--   Покращення масштабованості нашим постачальником послуг OnFinality
--   І ще…
+-   Focus on Partner tools — SubQuery Projects Launch
+-   BiFrost SubQuery use case
+-   Scalability Improvements by our service provider OnFinality
+-   And more…
 
-На партнерському фронті партнера ми запустили ключовий продукт, який необхідно для того, щоб оперативно прискорити зростання SubQuery. Перш ніж ви зможете створити та керувати власними проектами підробки на місцевому рівні або на власній інфраструктурі. [Проекти](https://project.subquery.network/) дозволяють користувачам публікувати свої проекти до спільноти SubQuery і ми запустимо їх у високій продуктивності, масштабованів, а також керований державним сервісом - безкоштовно!
+On the partner front we launched a key product that is needed to operationally accelerate the growth of SubQuery. Before you could create and run your own SubQuery projects locally or in your own infrastructure. [Projects](https://project.subquery.network/) allows users to publish their projects to the SubQuery community and we’ll run them in a high performance, scalable, and managed public service — for free!
 
 ![](https://miro.medium.com/max/1400/0*zZkmiEq5g2BbAxfl)
 
-Цей остаточний недопустимий твір тепер означає, що ми маємо повний набір інструментів для включення та розширення можливостей клієнтів до [досліджувати](https://explorer.subquery.network/) [створити](https://doc.subquery.network/quickstart.html), [запустити](https://doc.subquery.network/run/indexing_query.html), а потім [опублікувати](https://doc.subquery.network/publish/publish.html#benefits) Субпроцесований проекти самостійно.
+This final missing piece now means we have a complete suite of tools to enable and empower customers to [explore](https://explorer.subquery.network/), [create](https://doc.subquery.network/quickstart.html), [run](https://doc.subquery.network/run/indexing_query.html), and then [publish](https://doc.subquery.network/publish/publish.html#benefits) SubQuery projects all on their own.
 
 ![](https://miro.medium.com/max/1400/0*pDQgyo3phe2ZcMml)
 
-У квітні [Bifrost Finance](https://bifrost.finance/) запустив бета-версію їх нового dApp, офіційного інтерактивного інтерфейсу для всіх сервісів Bifrost. Через цю програму користувачі можуть видобувати vToks, викупити і змінити ці похідні і переглянути заробітки в реальному часі.
+In April, [Bifrost Finance](https://bifrost.finance/) launched the beta of their new dApp, the official interactive interface for all Bifrost services. Through this dApp, users can mint vTokens, redeem and swap these derivatives, and view their earnings in real time.
 
-Послуга SubQuery допомагає Bifrost потужності даних, показаних у їх новому додатку. Всі історичні дані про передачі, видобуток та викупу подій (такі як ціна, дата, валюта і пул) є агрегатними і запитуються з розширеної індексації та служби запитів. Наприклад, SubQuery дозволяє Біфросту вирахувати ціни в реальному часі та обмін, щоб показати в своєму додатку, і щоб отримати загальну кількість веканів у певному гаманці.
+SubQuery’s service helps Bifrost power much of the data shown in their new dApp. All historical data on transfers, minting, and redemption events (such as price, date, currency and pool) are aggregated and queried from SubQuery’s advanced indexing and query service. For example, SubQuery allows Bifrost to calculate real time mint and redemption prices for vDot and vEth to show in their app, and to get the total number of vTokens in a certain wallet.
 
 ![](https://miro.medium.com/max/1400/0*heWoX8Kw1nm1iYd9)
 
-Новий проект Bifrost SubQuery в провіднику SubQuery
+The new Bifrost SubQuery project in the SubQuery Explorer
 
-> “Без SubQuery, важко уявити, як складно збирати дані вручну з ланцюга. Розробники з ifrost можуть витрачати багато часу на пошук всіх даних про транзакції у ланцюг, щоб використовувати їх для історії транзакцій. Цей запит допомагає розробникам зберегти багато повторюваних витрат на роботу. Bifrost буде співпрацювати з SubQuery довгий час, щоб прискорити повторювану швидкість розвитку продукту". — Біфростські фінанси
+> “Without SubQuery, it is difficult to imagine how complicated it is to manually collect data from the chain. Bifrost developers may spend a lot of time searching for all transaction data on chain to be used for transaction history. SubQuery helps developers save a lot of repetitive work costs. Bifrost will cooperate with SubQuery for a long time to accelerate the iterative speed of product development”. — Bifrost Finance
 
-OnFinality є ключовим постачальником служби в SubQuery - більшість індексацій SubQuery в Polkadot і проекти Kusama використовують публічні API OnFinality для отримання своїх даних. Значний трафік із підкробки - одна з причин, чому OnFinality - найбільший постачальник інфраструктури у Polkadot/Kusama екосистемі.
+OnFinality is a key service provider for SubQuery — most of the SubQuery indexers in Polkadot and Kusama projects are using OnFinality’s public API endpoints to get their data. The significant traffic from SubQuery is one of the reasons why OnFinality is the largest infrastructure provider in the Polkadot/Kusama ecosystem.
 
-У квітні OnFinality за один день досягнув довгострокової мети в 100 мільйонів, фактично вони розбили його на 127 мільйонів запитів в 24 години (майже 1,500 за секунду).
+In April, OnFinality hit a long term goal of 100 million in a single day, in fact they smashed it with 127 million requests in 24 hours (almost 1,500 each second).
 
 ![](https://miro.medium.com/max/1400/0*FLq4vXluI9CTiBQ8)
 
-OnFinality також [поставить свою пропозицію про казначейство](https://kusama.polkassembly.io/treasury/72) на другий етап для покращення масштабовості свого сервісу API. Розумна маршрутизація дозволяє їм максимізувати використання різних кластерів вузлів через їхню базу в різних географічних регіонах. Суб'єрі покладається на цю інфраструктуру, тому важливо відзначити постійні інвестиції та вдосконалення. За останній місяць продемонстрував, як критично потрібно продовжувати інвестувати в масштаби, щоб ми могли продовжувати надавати найкращу послугу щодня.
+OnFinality also [delivered their treasury proposal](https://kusama.polkassembly.io/treasury/72) for the second milestone to improve the scalability of their API service. Intelligent routing that allows them to maximise the use of different clusters of nodes across their user base in different geographic regions. SubQuery relies on this infrastructure so it’s important to note the continued investment and improvements here. The past month has demonstrated how critical it is to continue to invest in scale so that we can continue to provide the best service every day.
 
--   Наш генеральний директор Sam Zou представив _кібер-майбутнє в Parachains_ онлайн події з Web3, Acala, Polkawarriors і Bitfwd
+-   Our CEO Sam Zou presented _Cyber future on Parachains_ online event with Web3, Acala, Polkawarriors, and Bitfwd
 
--   Наша голова Бізнесу Розвитку Джеймс Бейлі приєднався до цікавого віртуального пожежного чату з DFG і Джеймсом Во в якості частини їх DFG виступу.
+-   Our Head of Business Development James Bayly joined an interesting virtual fireside chat with DFG and James Wo as part of their DFG Talks series.
 
--   Наш час в Берклі Xcelerator розпочався - ми відвідували деякі прекрасні сесії до цих пір
--   Ми зробили деякі великі покращення на наш [сайт підробки](https://subquery.network/)
--   Новий випуск [покращеної документації](https://doc.subquery.network/) для розробників SubQuery
--   Наші офіси покращуються, нам пощастило, що ми можемо працювати на тому ж місці тут, у Новій Зеландії
+-   Our time in the Berkeley Xcelerator has started — we’ve attended some excellent sessions so far
+-   We’ve made some big improvements to our [SubQuery website](https://subquery.network/)
+-   A new release of [improved documentation](https://doc.subquery.network/) for SubQuery developers
+-   Our offices are improving, we’re lucky to be able to work in the same space here in New Zealand
 
 ![](https://miro.medium.com/max/1400/0*cOsJ2TLa4yqpY0Ig)
 
-Очікуйте на деякі великі новини, що надходять в травні - ми працюємо над чимось масовим і ми не можемо дочекатися того, щоб поділитися. Тим часом створіть власний проект SubQuery за допомогою [нового посібника для швидкого старту тут](https://doc.subquery.network/quickstart.html).
+Expect some big news coming in May for our community — we’ve been working on something massive and we can’t wait to share it. In the meantime, have a go creating your own SubQuery project by following our [new quick start guide here](https://doc.subquery.network/quickstart.html).

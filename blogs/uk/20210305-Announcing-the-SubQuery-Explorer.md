@@ -1,49 +1,49 @@
 
-З моменту оголошення SubQuery для світу всього місяця тому, відповідь та відгуки ми отримали від спільноти Polkadot були в основному позитивними. Ми отримали тисячі послідовників на наших каналах, і в нас було більше 353 встановлених в НП. Нас надихає отримувати всі повідомлення про підтримку та бачити участь у громаді. **Настав час нам щось повернути!**
+Since announcing SubQuery to the world just a month ago, the response and feedback we’ve received from the Polkadot community has been overwhelmingly positive. We’ve gained thousands of followers on our channels, and there have been over 1,353 installs from NPM. It’s inspiring to receive all the messages of support, and to see the engagement from the community. **It’s time for us to give something back!**
 
-Ми працюємо над цим протягом останнього місяця, щоб випустити наступний великий етап нашої дорожньої карти для SubQuery. Сьогодні ми повідомляємо про реліз [Постачальника Підказок](https://explorer.subquery.network/)
+We’ve been working overtime over the last month to release the next major stage of our roadmap for SubQuery. Today we’re announcing the release of the [SubQuery Explorer.](https://explorer.subquery.network/)
 
 ![](https://miro.medium.com/max/1400/0*2bDaF3HPgNkpm8Kt)
 
-[SubQuery Explorer](https://explorer.subquery.network/) це онлайн-сервіс розміщений на сайті, який надає доступ до опублікованих проектів SubQuery зроблених учасниками цілого світу, і управляється підзапитувальною командою. Це також сприяє нашій місії підтримати розробників Polkadot надаючи інфраструктурні послуги, зробивши доступ до мереж Polkadot ще простішим.
+[SubQuery Explorer](https://explorer.subquery.network/) is an online hosted service that provides access to published SubQuery projects made by contributors around the world and managed by the SubQuery team. It furthers our mission to support Polkadot developers by providing infrastructure services by making accessing Polkadot network data even easier.
 
-Сьогодні будь-хто може вимагати та вилучати багатозначні дані мережі за лише хвилини, а не за жодних витрат.
+Today, anyone can query and extract Polkadot network data in only minutes and at no cost.
 
-Людина-підробник робить свій старт. Ми вже побудували проекти для двох задач (детальніше про ці нижче) та індексували кожну мережу. Ми розміщуємо ці вузли підQuery онлайн і дозволяємо будь-кому шукати безкоштовно. Ці керовані вузли будуть відстежуватися і виконуватися командою SubQuery на рівні продуктивності, що дозволить виробничим додаткам використовувати та покладатися на них.
+The SubQuery explorer makes getting started easy. We’ve prebuilt SubQuery projects for two use cases (more about these below) and have indexed each network. We’re hosting these SubQuery nodes online and allow anyone to query each for free. These managed nodes will be monitored and run by the SubQuery team at a performance level that will allow production apps to use and rely on them.
 
 ![](https://miro.medium.com/max/1400/0*3hmnk6sNoO5pdOWc)
 
-Ви також зазначите, що SubQuery Explorer містить ігровий майданчик для пошуку доступних даних за допомогою прикладів запитів. Ви можете гратись з кожним графіком SubQuery за допомогою цього провідника без впровадження нічого у коді. Крім того, ми зробили деякі невеликі вдосконалення для нашої документації, щоб краще підтримати розробників на своєму шляху для кращого запиту та проаналізування даних у світі Polkadot даних.
+You’ll also note that the SubQuery Explorer provides a playground for discovering available data with example queries. You can play around with each SubQuery Graph using this explorer without implementing anything in code. Additionally, we’ve made some small improvements to our documentation to better support developers on their journey to better query and analyse the world’s Polkadot data.
 
 ![](https://miro.medium.com/max/1400/0*V1Mjpi1-gAT6M8-q)
 
-## **Ставка проекту "Sum SubQuery (**[код проекту GitHub](https://github.com/subquery/subql-examples/tree/main/sum-reward))
+## **Staking Sum SubQuery Project (**[GitHub Project Code](https://github.com/subquery/subql-examples/tree/main/sum-reward))
 
-Ви можете швидко знайти загальний дохід, що додається будь-якій обліковці з початку часу, запитуючи адресу свого рахунку. Ця підзапит індекси проекту та записи облікових записів, які беруть участь у означеній облігації на blockchain. Продовження індексації дасть нам здобуту винагороду і риску для цього рахунку і складає свої суми в базу даних.
+You can quickly find total staking revenue awarded to any account since the beginning of time by querying their account address. This subquery project indexes and records the accounts participating in the staking bond on the blockchain. The continued indexing will find out obtained staking reward and slashes for this account and aggregates their sums to a database.
 
-## **Validator Threshold SubQuery проект (**[код проекту GitHub](https://github.com/subquery/subql-examples/tree/main/validator-threshold))
+## **Validator Threshold SubQuery Project (**[GitHub Project Code](https://github.com/subquery/subql-examples/tree/main/validator-threshold))
 
-Ви можете швидко побачити мінімальну суму ставки для підтвердження. Цей проект є чудовим прикладом реалізації станів запитів у функції-відображенні. Спочатку вона знаходить стан стан "Era" через запит стану і записує валідацій сесії, котра по черзі. Потім вона розраховує мінімальну суму ставки та загальну суму нанесеної в Ері. А нарешті, це записує максимальну кількість номінаторів, які можуть бути нагороджені.
+You can quickly see the minimum staking amount required for a validator to be elected. This project is an excellent example of implementing query states in the mapping function. It first finds the active staking Era through a state query and records the validators of this session staking amount by each. It then calculates the minimum staking amount and the total amount staked in this Era. Lastly, it records the maximum number of nominators that can be rewarded.
 
-Цей SubQuery Explorer є лише першим набором наших планів побудувати вузол спільноти для Polkadot даних. Ми відпишемо наступні функції:
+This SubQuery Explorer is just the first set of our plans to build a community hub for Polkadot data. We’re going to follow up with the following features:
 
--   Ми зосереджуємося на інструментах спільноти, щоб ви могли очікувати більш детальної документації для розробників, легко стежити за посібниками, і приклад проектів, які виділяють деякі дійсно круті випадки для даних, які є підсистеми дочірніх процесорів.
--   Більше здійснюватиметься перенесення проектів на основі зворотного зв'язку з спільнотою, вам не подобаються деякі ідеї про те, що ви хотіли б бачити далі - протягніться на будь-який з наших соціальних каналів (див. нижче)
--   Ми побудуємо партнерську платформу, так що наша спільнота може створювати та завантажувати свої власні проекти SubQuery і ми допоможемо вам безкоштовно організовувати і організовувати їх.
+-   We’re focusing on community tools, so you can expect more in depth developer documentation, easy to follow tutorials, and example projects that highlight some really cool use cases for the data that SubQuery surfaces.
+-   More SubQuery projects will slowly come online based on community feedback,we’d love some ideas on what you’d love to see next — reach out on any of our social channels (see below)
+-   We’re going to build a partner platform, so that our community can build and upload their own SubQuery projects and we’ll manage and host them for you for free.
 
-Почніть запит даних до нового [Провідник запитів](https://explorer.subquery.network/)
+Start querying data on the new [SubQuery Explorer](https://explorer.subquery.network/)
 
-Створіть свій власний проект підзапити за нашою [Дукою запиту](https://doc.subquery.network/)
+Build your own SubQuery project by following our [SubQuery docs](https://doc.subquery.network/)
 
-Відвідайте наш [веб-сайт](https://subquery.network/)
+Visit our [website](https://subquery.network/)
 
-**Поговоріть з нами на:**
+**Talk to us on:**
 
 -   [hello@subquery.network](mailto:hello@subquery.network)
 -   [Discord](https://discord.com/invite/78zg8aBSMG)
--   [Телеграма](https://t.me/subquerynetwork)
--   [Твіттер](https://twitter.com/subquerynetwork)
--   [Матриця](https://matrix.to/#/#subquery:matrix.org)
+-   [Telegram](https://t.me/subquerynetwork)
+-   [Twitter](https://twitter.com/subquerynetwork)
+-   [Matrix](https://matrix.to/#/#subquery:matrix.org)
 -   [LinkedIn](https://www.linkedin.com/company/subquery)
 
 ![](https://miro.medium.com/max/1400/0*tzhwpKRunR7AqFhr)

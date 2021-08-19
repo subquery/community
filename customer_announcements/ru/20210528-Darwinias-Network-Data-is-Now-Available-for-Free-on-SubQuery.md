@@ -3,36 +3,36 @@
 
 **中文阅读版本请见下方**
 
-**Мы рады сообщить, что SubQuery и Darwinia Network создали стратегическое партнерство.**
+**We are pleased to announce that SubQuery and Darwinia Network have formed a strategic partnership.**
 
-[Darwinia](https://darwinia.network/) недавно выпустила два новых проекта SubQuery одна для их [основной сети](https://explorer.subquery.network/subquery/darwinia-network/darwinia) и [Краба](https://explorer.subquery.network/subquery/darwinia-network/crab), их канарной сети. Darwinia раскрывает свои данные о SubQuery открывает возможности для их применения для более эффективного использования в этой бесплатной системе данных.
+[Darwinia](https://darwinia.network/) recently released two new SubQuery projects, one for their [main network](https://explorer.subquery.network/subquery/darwinia-network/darwinia) and the other for [Crab](https://explorer.subquery.network/subquery/darwinia-network/crab), their canary network. By exposing their data on SubQuery, Darwinia is opening the door for their application ecosystem to build more engaging applications on this free datasource.
 
-> «Использование SubQuery для запроса локальных данных Дарвии стало очень простым и гибким. Подзапрос рассматривает данные блокчейна как график, и использует расширяемость GraphQL для внедрения дополнительных функций. Мы считаем, что в будущем интерфейс данных на цепочке субстратов будет использовать в основном GraphQL, SubQuery делает это реальностью». — Дарвиния
+> “Using SubQuery to query Darwinia’s on-chain data has become very simple and flexible. SubQuery regards blockchain data as a graph, and leverages the extensibility of GraphQL to introduce additional functionality. We believe that in the future, the data interface on the substrate chain will mainly use GraphQL, SubQuery is making this a reality”. — Darwinia
 
-[Сервис SubQuery's](https://subquery.network/) помогает Darwinia разблокировать данные цепи и сделать их более доступными для их прикладной экосистемы. Приложения, например рынок NFT, могут использовать данные SubQuery Darwnia для показа статистики аукционов, и даже могли бы расширить проект Darwinia SubQuery для обобщения и преобразования данных в целях обеспечения еще более уникальных представлений данных.
+[SubQuery’s](https://subquery.network/) service helps Darwinia unlock chain data and to make it more accessible for their application ecosystem. Applications, for example a NFT marketplace, could use the data from Darwnia’s SubQuery to show auction statistics, and could even extend the Darwinia SubQuery project to aggregate and transform data to provide even more unique data insights.
 
 ![](https://miro.medium.com/max/1400/0*n2sGrQWOkIFXxMnq)
 
-Благодаря SubQuery, мы можем легко запрашивать время перевода каждого счета по цепочке. Например, мы можем получить три счета с наибольшим количеством отправленных и получающих транзакции по нижеприведенному запросу:
+Thanks to SubQuery, we can easily query the transfer times of each account on the chain. For example, we can get the three account with the most sent and receive transactions through the query below:
 
 ![](https://miro.medium.com/max/1400/0*gfS6ksjUL9fR9XA7)
 
-Darwinia использует [SubQuery Projects](https://project.subquery.network/) для управления собственным проектом и обновления по мере необходимости. Индексация и службы запросов для этого сервиса полностью управляются SubQuery и предоставляются сообществу Polkadot бесплатно в [SubQuery’s Explorer](https://explorer.subquery.network/). Здесь вы можете играть с набором данных Darwinia SubQuery (а здесь и с помощью Darwinia Crab), используя Проводник без использования кода. Как вы желаете, получение записей конкретного счета станет очень простым.
+Darwinia is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services for this service is completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/). You can play around with the Darwinia SubQuery dataset here (and Darwinia’s Crab here) using the Explorer without implementing any code. As you wish, obtaining the records of a specific account would become very simple.
 
-Запрос указывает, что нам нужно получить последние 20 записей, будь то отправка или получение по адресу _2qeMxq616BhqvTW8a1bp2g7VKPAmpda1vXuAAz5TxV5ehivG_.
+The query indicates that we need to get the latest 20 records whether is sending or receiving with the address _2qeMxq616BhqvTW8a1bp2g7VKPAmpda1vXuAAz5TxV5ehivG_.
 
 ![](https://miro.medium.com/max/1400/0*z-9giNk4RnhxliYy)
 
-[SubQuery](https://subquery.network/) это уровень агрегирования данных, который будет работать между блокчейнами слоя 1 (Darwinia) и DApps. Решение объединяет и организует данные из [Darwinia](https://darwinia.network/) и других блокчейнов, обслуживание хорошо структурированных данных для своего dApp и других разработчиков для использования в широком спектре проектов. Этот сервис позволяет разработчикам DApp сосредоточиться на их основных вариантах использования и фронтенде, без необходимости тратить время на построение пользовательского бэкэнда для обработки данных.
+[SubQuery](https://subquery.network/) is a data aggregation layer that will operate between the layer-1 blockchains (Darwinia) and DApps. The solution aggregates and organises data from [Darwinia](https://darwinia.network/) and other blockchains, serving up well-structured data for their dApp and for other developers to use in a wide array of projects. This service allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
 
-Подробнее о SubQuery
+Learn more about SubQuery
 
-[Веб-сайт](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
+[Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
 
-Darwinia Network – это децентрализованный гетерогенный межсетевой протокол мостов, построенный на Substrate, фокусирующийся на децентрализованном обмене между различными токенами, обмене и рынке.
+The Darwinia Network is a decentralized heterogeneous cross-chain bridge protocol built on Substrate, focusing on decentralized cross-chain token swap, exchange and market.
 
-Darwinia также служит важнейшей инфраструктурой для обновления приложений в рамках одной цепочки, включая Defi, Game, DEX, рынок NFT и т.д. Их цель заключается в создании будущего Интернета Токенов.
+Darwinia also serves as critical infrastructure for single-chain application upgrade to cross-chain version, including Defi, Game, DEX, NFT market, etc. Their vision is to build the future Internet of Tokens.
 
-Все, что вам нужно знать о Дарвинии
+All you need to know about Darwinia
 
-[Веб-сайт](https://darwinia.network/) | [Twitter](https://twitter.com/DarwiniaNetwork) | [Telegram](https://t.me/DarwiniaNetwork) | [GitHub](https://github.com/darwinia-network) | [Discord](https://discord.gg/KMZVeyM)
+[Website](https://darwinia.network/) | [Twitter](https://twitter.com/DarwiniaNetwork) | [Telegram](https://t.me/DarwiniaNetwork) | [GitHub](https://github.com/darwinia-network) | [Discord](https://discord.gg/KMZVeyM)
