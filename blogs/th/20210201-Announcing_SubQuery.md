@@ -18,7 +18,7 @@
 
 เป้าหมายของ SubQuery คือการช่วยให้โปรเจ็ค Polkadot/Substrate สร้าง dApps ที่ดีขึ้นโดยอนุญาตให้ทุกคนค้นหาและใช้ข้อมูลได้เร็วขึ้นอย่างน่าเชื่อถือ บริการของเราจะอนุญาตให้ผู้ใช้แยก, แปลง, ยืนยัน และสืบค้นข้อมูลในขั้นต้น รวมถึงเชื่อมต่อและนำเสนอข้อมูลในอนาคต Our aim is to make this a core piece of infrastructure for the Substrate/Polkadot ecosystem, just as The Graph has become for Ethereum.
 
-> SubQuery is here to help you transform and query the world’s data for a web3.0 future.
+> SubQuery อยู่ที่นี่เพื่อช่วยคุณแปลงและค้นหาข้อมูลของโลกสำหรับอนาคตของ web3.0
 
 ![](https://miro.medium.com/max/1000/1*IHstJG-hBwQzicLdWkGR5w.png)
 
