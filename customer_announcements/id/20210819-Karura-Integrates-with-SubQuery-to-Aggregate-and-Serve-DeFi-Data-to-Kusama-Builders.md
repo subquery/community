@@ -1,6 +1,6 @@
 ![](https://cdn-images-1.medium.com/max/1600/0*EBj5be1webNUchfi)
 
-# Karura Integrates with SubQuery to Aggregate and Serve DeFi Data to Kusama Builders
+# Karura Terintegrasi dengan SubQuery untuk Mengumpulkan dan Melayani Data DeFi untuk Kusama Builders
 
 In recent weeks, Karura and Acala team celebrated the launch of [Karura Swap](https://apps.karura.network/), the first decentralized exchange in the Polkadot/Kusama ecosystem.
 
