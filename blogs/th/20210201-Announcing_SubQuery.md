@@ -5,18 +5,18 @@
 
 ภารกิจของ OnFinality คือการสนับสนุนนักพัฒนาบล็อกเชนโดยการให้บริการโครงสร้างพื้นฐานแก่ลูกค้าทุกรูปแบบและทุกขนาด We’re launching a new venture that aims to solve a core problem to advance this mission: SubQuery.
 
-Almost every blockchain has a need to process and query data. The thriving Polkadot community is going to need a service that allows them to reliably find and consume data quickly. Our project is inspired by [The Graph](https://thegraph.com/), an service currently focused on Ethereum that allows customers to do this using GraphQL.
+บล็อคเชนเกือบทั้งหมดมีความต้องการการประมวลผลและสืบค้นข้อมูล ชุมชน Polkadot ที่เจริญรุ่งเรืองต้องการบริการที่ช่วยให้พวกเขาสามารถค้นหาและใช้ข้อมูลได้อย่างรวดเร็ว โครงการของเราได้รับแรงบันดาลใจจาก [The Graph](https://thegraph.com/) ซึ่งเป็นบริการที่โฟกัสที่ Ethereum ในปัจจุบัน ซึ่งช่วยให้ลูกค้าสามารถทำได้โดยใช้ GraphQL
 
-Since decentralised systems store data across networks querying is slow and hard. For the Web 3.0 dream to be realised, it’s got to be as fast (if not faster) than centralised networks for the end user. Protocol teams are currently building centralised indexing servers for their own projects, but this poses three issues:
+เนื่องจากระบบกระจายอำนาจเก็บข้อมูลข้ามเครือข่าย การสืบค้นจึงช้าและยาก For the Web 3.0 dream to be realised, it’s got to be as fast (if not faster) than centralised networks for the end user. ขณะนี้ทีมโปรโตคอลกำลังสร้างเซิร์ฟเวอร์การจัดทำดัชนีแบบไม่กระจายอำนาจสำหรับโครงการของตนเอง แต่มีสามประเด็นดังนี้:
 
--   Polkadot/Substrate teams shouldn’t need to worry about building or managing this while they’re building the next dApp
--   Teams are constantly reinventing the wheel; the fundamental advantage of Polkadot’s parachain interoperability is to avoid this
--   In our view, the Substrate/Polkadot ecosystem is poised to reach the same level of growth as Ethereum. We believe that it needs to provide the same level of community services that Ethereum already has
+-   ทีม Polkadot/Substrate ไม่จำเป็นต้องกังวลเกี่ยวกับการสร้างหรือจัดการสิ่งนี้ในขณะที่พวกเขากำลังสร้าง dApp ตัวต่อไป
+-   ทีมต่างสร้างสรรค์สิ่งต่างๆขึ้นมาใหม่อย่างต่อเนื่อง ข้อได้เปรียบพื้นฐานของการทำงานร่วมกันของ Parachain ของ Polkadot คือการหลีกเลี่ยงสิ่งนี้
+-   ในมุมมองของเรา ระบบนิเวศของ Substrate/Polkadot พร้อมที่จะเติบโตในระดับเดียวกับ Ethereum We believe that it needs to provide the same level of community services that Ethereum already has
 
 
 ![](https://miro.medium.com/max/1400/1*l4b4BXWkczVDaHyv30lLQQ.png)
 
-SubQuery’s aim is to help Polkadot/Substrate projects build better dApps by allowing anyone to reliably find and consume data faster. Our service will allow users to extract, transform, persist, and query data initially, as well as connect and present data in the future. Our aim is to make this a core piece of infrastructure for the Substrate/Polkadot ecosystem, just as The Graph has become for Ethereum.
+เป้าหมายของ SubQuery คือการช่วยให้โปรเจ็ค Polkadot/Substrate สร้าง dApps ที่ดีขึ้นโดยอนุญาตให้ทุกคนค้นหาและใช้ข้อมูลได้เร็วขึ้นอย่างน่าเชื่อถือ บริการของเราจะอนุญาตให้ผู้ใช้แยก, แปลง, ยืนยัน และสืบค้นข้อมูลในขั้นต้น รวมถึงเชื่อมต่อและนำเสนอข้อมูลในอนาคต Our aim is to make this a core piece of infrastructure for the Substrate/Polkadot ecosystem, just as The Graph has become for Ethereum.
 
 > SubQuery is here to help you transform and query the world’s data for a web3.0 future.
 
