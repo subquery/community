@@ -1,9 +1,9 @@
 
-**Today we want to announce our strategic partnership between Kodadot and SubQuery Network.**
+**Сегодня мы хотим объявить о нашем стратегическом партнерстве между Kodadot и SubQuery Network.**
 
 ![](https://miro.medium.com/max/1400/1*Y4kdG9uEoxrySzb19QKxPg.gif)
 
-Kodadot is a carbon neutral Kusama native NFT platform that uses the RMRK protocol. Users can mint, transfer, and burn NFTs on the network. Most importantly, Kodadot has a responsive web based NFT explorer that provides an intuitive user interface.
+Kodadot - это углеродная нейтральная платформа Kusama native NFT, использующая протокол RMRK. Пользователи могут сравнивать, передавать и сжигать NFTs в сети. Most importantly, Kodadot has a responsive web based NFT explorer that provides an intuitive user interface.
 
 This front end uses a [SubQuery project](https://explorer.subquery.network/subquery/vikiival/magick) to make this exploration faster.
 
