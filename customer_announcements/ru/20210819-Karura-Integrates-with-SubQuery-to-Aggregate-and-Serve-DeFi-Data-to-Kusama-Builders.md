@@ -8,13 +8,13 @@
 
 > "С помощью Subquery легко строить dapps и больше не нужно делать сложную серию запросов, чтобы получить нужные мне данные.*--- Brett (Разработчик в Акала)*
 
-Разработка dApps на Karura теперь значительно быстрее с новыми публичными проектами SubQuery опубликованными Karura. There is a publicly available [SubQuery project](https://explorer.subquery.network/subquery/AcalaNetwork/karura) that the Karura community can fork and build any dApp that they desire. Additionally, a [Karura Dictionary](https://explorer.subquery.network/subquery/AcalaNetwork/karura-dictionary) makes [indexing much faster](https://subquery.medium.com/subquerys-just-got-a-lot-faster-with-the-dictionary-8a7a1447574).
+Разработка dApps на Karura теперь значительно быстрее с новыми публичными проектами SubQuery опубликованными Karura. Существует общедоступный проект [SubQuery](https://explorer.subquery.network/subquery/AcalaNetwork/karura), который сообщество Karura может форкнуть и создать любое dApp, которое пожелает. Более того, [Karura Dictionary](https://explorer.subquery.network/subquery/AcalaNetwork/karura-dictionary) делает [индексацию гораздо быстрее](https://subquery.medium.com/subquerys-just-got-a-lot-faster-with-the-dictionary-8a7a1447574).
 
 ![](https://cdn-images-1.medium.com/max/1600/1*vvI_pI93mhe4kzSNQ2yMoQ.png)
 
 ## Что такое Карура?
 
-Founded by the Acala Foundation, Karura is a scalable, EVM-compatible network optimized for DeFi, and built on Kusama. It's an all-in-one DeFi platform that offers a suite of financial applications including: a trustless staking derivative (liquid KSM), a multi-collateralized stablecoin backed by cross-chain assets (kUSD), and an AMM DEX (Karura Swap) --- all with micro gas fees that can be paid in any token. Go [here](http://apps.karura.network) to try the live app that uses SubQuery.
+Основанная фондом Acala Foundation, Karura представляет собой масштабируемую EVM-совместимую сеть, оптимизированную для DeFi, и построенную на Kusama. Это универсальная DeFi платформа, которая предлагает набор финансовых приложений, включая: производный инструмент для бездоверительного стейкинга (liquid KSM), мультиколлатеральный стейблкоин, обеспеченный межцепочечными активами (kUSD), и AMM DEX (Karura Swap) --- все с микро комиссиями за газ, которые могут быть оплачены в любых токенах. Go [here](http://apps.karura.network) to try the live app that uses SubQuery.
 
 ![](https://cdn-images-1.medium.com/max/1600/0*g174RcFJwJcw2ITS)
 
