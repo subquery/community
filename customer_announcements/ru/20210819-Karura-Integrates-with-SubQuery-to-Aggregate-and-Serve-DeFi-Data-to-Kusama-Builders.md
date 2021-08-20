@@ -4,15 +4,15 @@
 
 В последние недели команда Каруры и Акалы отметила запуск [Karura Swap](https://apps.karura.network/)- первого децентрализованного обмена в экосистеме Полкадот/Kусама.
 
-Today, we explore how SubQuery helped make this launch possible. Karura is using SubQuery to extract and query data from Karura's chain, making queries fast and efficient for [Karura's app](https://apps.karura.network/).
+Сегодня мы изучаем как SubQuery помог сделать этот запуск возможным. Karura использует SubQuery для извлечения и запроса данных из цепочки Karura, делая запросы быстрыми и эффективными для [приложений Karura's app](https://apps.karura.network/).
 
-> "Using Subquery makes building dapps easy, no more making a complicated series of calls to get the data I need."* --- Brett (Developer at Acala)*
+> "С помощью Subquery легко строить dapps и больше не нужно делать сложную серию запросов, чтобы получить нужные мне данные.*--- Brett (Разработчик в Акала)*
 
-Developing dApps on Karura is now much faster with the new public SubQuery projects published by Karura. There is a publicly available [SubQuery project](https://explorer.subquery.network/subquery/AcalaNetwork/karura) that the Karura community can fork and build any dApp that they desire. Additionally, a [Karura Dictionary](https://explorer.subquery.network/subquery/AcalaNetwork/karura-dictionary) makes [indexing much faster](https://subquery.medium.com/subquerys-just-got-a-lot-faster-with-the-dictionary-8a7a1447574).
+Разработка dApps на Karura теперь значительно быстрее с новыми публичными проектами SubQuery опубликованными Karura. There is a publicly available [SubQuery project](https://explorer.subquery.network/subquery/AcalaNetwork/karura) that the Karura community can fork and build any dApp that they desire. Additionally, a [Karura Dictionary](https://explorer.subquery.network/subquery/AcalaNetwork/karura-dictionary) makes [indexing much faster](https://subquery.medium.com/subquerys-just-got-a-lot-faster-with-the-dictionary-8a7a1447574).
 
 ![](https://cdn-images-1.medium.com/max/1600/1*vvI_pI93mhe4kzSNQ2yMoQ.png)
 
-## What is Karura?
+## Что такое Карура?
 
 Founded by the Acala Foundation, Karura is a scalable, EVM-compatible network optimized for DeFi, and built on Kusama. It's an all-in-one DeFi platform that offers a suite of financial applications including: a trustless staking derivative (liquid KSM), a multi-collateralized stablecoin backed by cross-chain assets (kUSD), and an AMM DEX (Karura Swap) --- all with micro gas fees that can be paid in any token. Go [here](http://apps.karura.network) to try the live app that uses SubQuery.
 
