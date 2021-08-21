@@ -1,9 +1,9 @@
 
-**Developers can now transform and query the world’s data for the Web3 future**
+**นักพัฒนาสามารถ transform และ query ข้อมูลของโลกสำหรับอนาคตของ Web3 ได้แล้ว**
 
 ![](https://miro.medium.com/max/1400/1*f9Jw37LjUGu8P8W39cjDYw.png)
 
-This week OnFinality (the team behind SubQuery), delivered on their Web3 Foundation Grant to provide a complete workflow to create SubQuery projects. We’re excited to announce the work that we’ve done to complete this grant, and to share it with the world so that they can start using our project today to query their networks more efficiently.
+OnFinality ในสัปดาห์นี้ (ทีมงานที่อยู่เบื้องหลัง SubQuery) ได้นำเสนอใน Web3 Foundation Grant เพื่อจัดหาเวิร์กโฟลว์ที่สมบูรณ์เพื่อสร้างโครงการ SubQuery เรารู้สึกตื่นเต้นที่จะประกาศงานที่เราทำเพื่อให้ grant นี้เสร็จสมบูรณ์ และแชร์กับคนทั่วโลกเพื่อให้พวกเขาสามารถเริ่มใช้โปรเจ็คของเราในวันนี้เพื่อ query เครือข่ายของพวกเขาได้อย่างมีประสิทธิภาพมากขึ้น
 
 SubQuery is built by the team at OnFinality, which is an infrastructure Iaas & SaaS platform for blockchain teams and users to launch nodes and get access to a large range of blockchain protocols. We have a suite of symbiotic services including our API shared node services, and have relationships with the top Polkadot/Substrate teams.
 
