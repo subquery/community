@@ -31,11 +31,11 @@ A new published SubQuery Project
 
 Don’t worry about running production SubQuery nodes, leave it to the experts. We’re going to focus on managing indexing servers so that you don’t have to.
 
-## Learn More
+## เรียนรู้เพิ่มเติม
 
 [Follow our guide to publish your first project](https://doc.subquery.network/publish/publish.html) on [SubQuery Projects](https://project.subquery.network)
 
-Start querying data on the new [SubQuery Explorer](https://explorer.subquery.network/)
+เริ่มการสืบค้นข้อมูลใน [SubQuery Explorer](https://explorer.subquery.network/) อันใหม่
 
 Build your own SubQuery project by following our [SubQuery docs](https://doc.subquery.network/)
 
