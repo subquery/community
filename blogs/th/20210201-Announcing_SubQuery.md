@@ -24,7 +24,7 @@
 
 For the Web 3.0 dream to be realised, it’s got to be as fast (if not faster) than centralised networks for the end user.
 
-That’s why we’re incredibly proud to announce SubQuery, an open source project that allows users to run an indexer across their chain to build a dataset that can be queried with GraphQL. This suite of tools includes a command line interface to allow projects to generate their own SubQuery project, defining how the indexer should traverse and aggregate their own network. There’s a SubQuery node package that indexes the network and supports GraphQL queries. With the help of these tools, anyone can create and run queries easily.
+That’s why we’re incredibly proud to announce SubQuery, an open source project that allows users to run an indexer across their chain to build a dataset that can be queried with GraphQL. This suite of tools includes a command line interface to allow projects to generate their own SubQuery project, defining how the indexer should traverse and aggregate their own network. มีแพ็คเกจโหนด SubQuery ที่จัดทำดัชนีเครือข่ายและรองรับการสืบค้น GraphQL ด้วยความช่วยเหลือของเครื่องมือเหล่านี้ ทุกคนสามารถสร้างและเรียกใช้การสืบค้นข้อมูลได้อย่างง่ายดาย
 
 > _You can get started right away by following our example on the SubQuery Github repository:_ [_https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql)
 
