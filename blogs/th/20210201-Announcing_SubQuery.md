@@ -28,13 +28,13 @@ That’s why we’re incredibly proud to announce SubQuery, an open source proje
 
 > _You can get started right away by following our example on the SubQuery Github repository:_ [_https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql)
 
-Additionally, you can find out more by reading our [SubQuery docs](https://doc.subquery.network/) or visiting our new website at [https://subquery.network/](https://subquery.network/)
+นอกจากนี้ คุณสามารถหาข้อมูลเพิ่มเติมได้โดยอ่าน [เอกสาร SubQuery](https://doc.subquery.network/) หรือไปที่เว็บไซต์ใหม่ของเราที่ [https://subquery.network/](https://subquery.network/)
 
 ![](https://miro.medium.com/max/1000/1*3oA1Hvns1vrImTsmowO_Jw.png)
 
-We’ll focus on building a managed hosted service based off this offering that will be more performant and scalable. We are going to provide trusty public infrastructure that will build a powerful productionised SubQuery node from an uploaded SubQuery project. The service will then index and persist the chain state, and provide a production GraphQL endpoint that can replace self-hosted implementations. We’re going to focus on this so that everyone else can focus on building and growing their dApp.
+เราจะมุ่งเน้นไปที่การสร้างบริการโฮสต์ที่มีการจัดการตามข้อเสนอนี้ซึ่งจะมีประสิทธิภาพและปรับขนาดได้มากขึ้น เราจะจัดเตรียมโครงสร้างพื้นฐานสาธารณะที่เชื่อถือได้ซึ่งจะสร้างโหนด SubQuery ที่มีประสิทธิภาพจากโปรเจ็กต์ SubQuery ที่อัปโหลด จากนั้นบริการจะทำดัชนีและคงสถานะเชนไว้ และจัดเตรียม GraphQL endpoint ที่ใช้งานจริงซึ่งสามารถแทนที่การใช้งานที่โฮสต์เองได้ เราจะมุ่งเน้นไปที่สิ่งนี้เพื่อให้ทุกคนสามารถมุ่งเน้นไปที่การสร้างและขยาย dApp ของพวกเขา
 
-Once this is in place, our final phase is to tokenize the SubQuery business by building our own chain (likely parachain) for Polkadot. Although we’ll provide a similar billing model for enterprise and high consumption users (subscription plan with consumption levels), we’ll save this data to our chain to make it transparent to everyone and participating parties can stake for rewards as incentives. We’ll issue a governance token to provide stability to the chain and to allow the community to influence our direction and roadmap.
+เมื่อสิ่งนี้เกิดขึ้นแล้ว ขั้นตอนสุดท้ายของเราคือการสร้างโทเคนให้กับธุรกิจ SubQuery โดยการสร้างเชนของเราเอง (น่าจะเป็น parachain) สำหรับ Polkadot แม้ว่าเราจะจัดเตรียมรูปแบบการเรียกเก็บเงินที่คล้ายคลึงกันสำหรับองค์กรและผู้ใช้ที่มีการบริโภคสูง(แผนการ Subscribe ที่มีระดับของการบริโภค) เราจะบันทึกข้อมูลนี้ไว้ในเครือข่ายของเราเพื่อให้ความโปร่งใสกับทุกคน และฝ่ายที่เข้าร่วมสามารถ stake เพื่อรับรางวัลเป็นสิ่งจูงใจได้ เราจะออก governance token เพื่อให้เกิดความมั่นคงแก่เชนและเพื่อให้ชุมชนมีอิทธิพลต่อทิศทางและแผนงานของเรา
 
 Despite over 10 years of development since bitcoin first started, centralised networks are still the mainstream. It’s largely due to the speed and cost of accessing and writing to the network. Ethereum made a huge step forward with decentralised smart contracts (and the Graph is an incredibly successful piece of infrastructure as a result), but the core network is struggling to mitigate transaction costs.
 
