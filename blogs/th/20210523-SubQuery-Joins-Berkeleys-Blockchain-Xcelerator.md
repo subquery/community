@@ -2,7 +2,7 @@
 ![](https://miro.medium.com/max/1400/0*gYUy-1COtbpLV1X1)
 
 
-This week we’re excited to announce that Berkeley has selected SubQuery to be part of their exclusive [Blockchain Xcelerator](https://www.xcelerator.berkeley.edu/). SubQuery (and it’s parent company OnFinality) were selected from over 200 applications to be part of just 21 exclusive spots.
+สัปดาห์นี้ เรารู้สึกตื่นเต้นที่จะประกาศว่า Berkeley ได้เลือก SubQuery ให้เป็นส่วนหนึ่งของ [Blockchain Xcelerator](https://www.xcelerator.berkeley.edu/) สุดพิเศษของพวกเขา SubQuery (and it’s parent company OnFinality) were selected from over 200 applications to be part of just 21 exclusive spots.
 
 Berkeley’s blockchain Xcelerator is known around the world as one of the most successful blockchain accelerators for a reason. It has incubated over 40 companies that have raised over $25M in seed and early stage funding, and over 75% of the inaugural batch raised follow-on funding. Additionally UC Berkeley remains a key hub for technology and innovation right next door to Silicon Valley. It’s certainly one of the leading university-based, non-dilutive blockchain accelerators worldwide — we’re thrilled to be a part of it!
 
