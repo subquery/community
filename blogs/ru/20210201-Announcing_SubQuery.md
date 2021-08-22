@@ -7,24 +7,24 @@ OnFinality призван поддерживать разработчиков б
 
 Почти каждый блокчейн должен обрабатывать и запрашивать данные. процветающее сообщество Polkadot нуждается в сервисе, который позволяет им быстро находить и потреблять данные. Наш проект вдохновлен [The Graph](https://thegraph.com/), службой, которая в настоящее время фокусируется на Ethereum, что позволяет клиентам делать это с помощью GraphQL.
 
-Поскольку децентрализованные системы сохраняют данные по запросам сетей, они являются медленными и тяжелыми. For the Web 3.0 dream to be realised, it’s got to be as fast (if not faster) than centralised networks for the end user. Protocol teams are currently building centralised indexing servers for their own projects, but this poses three issues:
+Поскольку децентрализованные системы сохраняют данные по запросам сетей, они являются медленными и тяжелыми. Для реализации мечты о Web 3.0 нужно быть быстрее (насколько это возможно) чем централизованные сети для конечного пользователя. В настоящее время группы протокола создают централизованные сервера индексации для своих собственных проектов, однако это вызывает три проблемы:
 
 -   Polkadot/Substrate teams shouldn’t need to worry about building or managing this while they’re building the next dApp
--   Teams are constantly reinventing the wheel; the fundamental advantage of Polkadot’s parachain interoperability is to avoid this
--   In our view, the Substrate/Polkadot ecosystem is poised to reach the same level of growth as Ethereum. We believe that it needs to provide the same level of community services that Ethereum already has
+-   Команды постоянно изобретают велосипед. Основное преимущество парачейн совместимости Polkadot заключается в том, чтобы избежать этого
+-   На наш взгляд, экосистема Substrate/Polkadot готовится к достижению того же уровня роста, что и Ethereum. Мы считаем, что она должна обеспечить такой же уровень сервиса, что и в Ethereum.
 
 
 ![](https://miro.medium.com/max/1400/1*l4b4BXWkczVDaHyv30lLQQ.png)
 
-SubQuery’s aim is to help Polkadot/Substrate projects build better dApps by allowing anyone to reliably find and consume data faster. Our service will allow users to extract, transform, persist, and query data initially, as well as connect and present data in the future. Our aim is to make this a core piece of infrastructure for the Substrate/Polkadot ecosystem, just as The Graph has become for Ethereum.
+Цель SubQuery’s заключается в том, чтобы помочь Polkadot/Substrate проектам создавать лучшие dApp, позволяя всем находить и использовать данные быстрее и надежнее. Наш сервис позволит пользователям изначально извлекать, преобразовать, сохранять и запрашивать данные, а также подключать и представлять данные в будущем. Наша цель состоит в том, чтобы сделать этот элемент инфраструктуры для экосистемы Substrate/Polkadot, таким же, как Graph для Ethereum.
 
-> SubQuery is here to help you transform and query the world’s data for a web3.0 future.
+> SubQuery служит для того, чтобы помочь вам преобразовать и запрашивать данные мира для веб-3.0 будущего.
 
 ![](https://miro.medium.com/max/1000/1*IHstJG-hBwQzicLdWkGR5w.png)
 
-For the Web 3.0 dream to be realised, it’s got to be as fast (if not faster) than centralised networks for the end user.
+Для реализации Web 3.0 нужно быть быстрым (если не быстрее) чем централизованные сети для конечного пользователя.
 
-That’s why we’re incredibly proud to announce SubQuery, an open source project that allows users to run an indexer across their chain to build a dataset that can be queried with GraphQL. This suite of tools includes a command line interface to allow projects to generate their own SubQuery project, defining how the indexer should traverse and aggregate their own network. There’s a SubQuery node package that indexes the network and supports GraphQL queries. With the help of these tools, anyone can create and run queries easily.
+Поэтому мы невероятно гордимся SubQuery, проектом с открытым исходным кодом, который позволяет пользователям запускать индексатор по цепочке для построения набора данных, который может быть запрошен с помощью GraphQL. This suite of tools includes a command line interface to allow projects to generate their own SubQuery project, defining how the indexer should traverse and aggregate their own network. There’s a SubQuery node package that indexes the network and supports GraphQL queries. With the help of these tools, anyone can create and run queries easily.
 
 > _You can get started right away by following our example on the SubQuery Github repository:_ [_https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql)
 
@@ -56,17 +56,17 @@ Blockchain Architect, Contributor to polkadot-js, Early adopter of Substrate tec
 
 Infrastructure & Application Architect, Award-winning software engineer.
 
-**James Bayly** — Head of Business Development ([LinkedIn](https://www.linkedin.com/in/james-bayly/))
+**Джеймс Бэйли** — руководитель отдела развития бизнеса ([LinkedIn](https://www.linkedin.com/in/james-bayly/))
 
-Get started on the [SubQuery Github repository.](https://github.com/OnFinality-io/subql)
+Начните с [репозитория SubQuery Github.](https://github.com/OnFinality-io/subql)
 
-Read our [SubQuery docs](https://doc.subquery.network/)
+Прочтите нашу [документацию по SubQuerу](https://doc.subquery.network/)
 
-[Visit our new website](https://subquery.network/)
+[Посетить наш новый сайт](https://subquery.network/)
 
-Follow us on:
+Подпишитесь на нас:
 
 -   [Telegram](https://t.me/subquerynetwork)
--   [Twitter](https://twitter.com/subquerynetwork)
--   [Matrix](https://matrix.to/#/%23subquery:matrix.org)
+-   [Твиттер](https://twitter.com/subquerynetwork)
+-   [Матрица](https://matrix.to/#/%23subquery:matrix.org)
 -   [LinkedIn](https://www.linkedin.com/company/subquery)
