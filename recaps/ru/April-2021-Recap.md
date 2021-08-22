@@ -8,7 +8,7 @@
 -   Улучшение масштабирования нашим поставщиком услуг OnFinality
 -   И многое другое…
 
-On the partner front we launched a key product that is needed to operationally accelerate the growth of SubQuery. Before you could create and run your own SubQuery projects locally or in your own infrastructure. [Projects](https://project.subquery.network/) allows users to publish their projects to the SubQuery community and we’ll run them in a high performance, scalable, and managed public service — for free!
+На партнерском фронте мы запустили ключевой продукт, необходимый для оперативного ускорения роста SubQuery. Перед тем как создавать и запускать свои собственные проекты на SubQuery локально или в вашей собственной инфраструктуре. [Projects](https://project.subquery.network/) allows users to publish their projects to the SubQuery community and we’ll run them in a high performance, scalable, and managed public service — for free!
 
 ![](https://miro.medium.com/max/1400/0*zZkmiEq5g2BbAxfl)
 
