@@ -36,29 +36,29 @@ That’s why we’re incredibly proud to announce SubQuery, an open source proje
 
 เมื่อสิ่งนี้เกิดขึ้นแล้ว ขั้นตอนสุดท้ายของเราคือการสร้างโทเคนให้กับธุรกิจ SubQuery โดยการสร้างเชนของเราเอง (น่าจะเป็น parachain) สำหรับ Polkadot แม้ว่าเราจะจัดเตรียมรูปแบบการเรียกเก็บเงินที่คล้ายคลึงกันสำหรับองค์กรและผู้ใช้ที่มีการบริโภคสูง(แผนการ Subscribe ที่มีระดับของการบริโภค) เราจะบันทึกข้อมูลนี้ไว้ในเครือข่ายของเราเพื่อให้ความโปร่งใสกับทุกคน และฝ่ายที่เข้าร่วมสามารถ stake เพื่อรับรางวัลเป็นสิ่งจูงใจได้ เราจะออก governance token เพื่อให้เกิดความมั่นคงแก่เชนและเพื่อให้ชุมชนมีอิทธิพลต่อทิศทางและแผนงานของเรา
 
-Despite over 10 years of development since bitcoin first started, centralised networks are still the mainstream. It’s largely due to the speed and cost of accessing and writing to the network. Ethereum made a huge step forward with decentralised smart contracts (and the Graph is an incredibly successful piece of infrastructure as a result), but the core network is struggling to mitigate transaction costs.
+แม้จะมีการพัฒนามากกว่า 10 ปีตั้งแต่ bitcoin เริ่มแรก แต่เครือข่ายแบบ centralise ยังคงเป็นกระแสหลัก ส่วนใหญ่เกิดจากความเร็วและค่าใช้จ่ายในการเข้าถึงและเขียนเครือข่าย Ethereum ก้าวไปข้างหน้าอย่างรวดเร็วด้วย smart contract แบบกระจายอำนาจ (และ The Graph เป็นโครงสร้างพื้นฐานที่ประสบความสำเร็จอย่างไม่น่าเชื่อ) แต่เครือข่ายหลักกำลังดิ้นรนเพื่อลดต้นทุนการทำธุรกรรม
 
-We saw Polkadot’s potential early and right from the start it felt natural to focus our efforts there. It solves Ethereum’s governance, forking, interoperability problems, and more. The core premise of Polkadot is to create a thriving community of developers, users, and businesses that will tap into its multichain interoperability — that community is going to need a service that allows them to reliably find and consume data quickly.
+เราเห็นศักยภาพของ Polkadot ตั้งแต่เริ่มต้นและรู้สึกเป็นธรรมชาติที่จะโฟกัสความพยายามของเราที่นั่น มันแก้ปัญหาการกำกับดูแลของ Ethereum การ Forking ปัญหาการทำงานร่วมกัน และอีกมากมาย หลักการพื้นฐานของ Polkadot คือการสร้างชุมชน developer, ผู้ใช้ และธุรกิจที่เฟื่องฟู ซึ่งจะใช้ความสามารถในการทำงานร่วมกันแบบมัลติเชน — ชุมชนนั้นต้องการบริการที่ช่วยให้พวกเขาสามารถค้นหาและใช้ข้อมูลได้อย่างรวดเร็ว
 
-Polkadot’s unique architecture means that we can focus on one network and then be able to support multiple current and future chains with ease. By putting in this effort now, even as Polkadot is still under development, we will be there ready to help the next generation of blockchain developers create the next big dApp.
+สถาปัตยกรรมที่เป็นเอกลักษณ์ของ Polkadot หมายความว่าเราสามารถมุ่งเน้นไปที่เครือข่ายเดียว จากนั้นก็สามารถรองรับเครือข่ายหลายเครือข่ายในปัจจุบันและอนาคตได้อย่างง่ายดาย ด้วยความพยายามในตอนนี้ แม้ว่า Polkadot ยังอยู่ระหว่างการพัฒนา เราก็พร้อมที่จะช่วยเหลือนักพัฒนาบล็อกเชนรุ่นต่อไปในการสร้าง dApp ที่ยิ่งใหญ่ต่อไป
 
-SubQuery will be built by the team at OnFinality, which is an infrastructure SaaS platform for blockchain teams and users to launch nodes and get access to a large range of blockchain protocols. We have a suite of symbiotic services including our API shared node service, and dedicated nodes that can be used in infrastructure management or as part of a protocol team’s CI/CD testing pipeline. We have relationships with the top Polkadot/Substrate teams, expertise in managed infrastructure hosting for the Substrate/Polkadot network, and the ability to deliver complex infrastructure projects and host them for production use.
+SubQuery จะถูกสร้างขึ้นโดยทีมงานที่ OnFinality ซึ่งเป็นแพลตฟอร์ม SaaS โครงสร้างพื้นฐานสำหรับทีม blockchain และผู้ใช้เพื่อเปิดใช้โหนดและเข้าถึงโปรโตคอล blockchain ที่หลากหลาย เรามีชุดบริการแบบพึ่งพาอาศัยกัน รวมถึงบริการโหนดที่ใช้ร่วมกันของ API และโหนดเฉพาะที่สามารถใช้ในการจัดการโครงสร้างพื้นฐานหรือเป็นส่วนหนึ่งของไปป์ไลน์การทดสอบ CI/CD ของทีมโปรโตคอล เรามีความสัมพันธ์กับทีม Polkadot/Substrate ชั้นนำ ซึ่งมีความเชี่ยวชาญในการโฮสต์โครงสร้างพื้นฐานที่มีการจัดการสำหรับเครือข่าย Substrate/Polkadot และความสามารถในการส่งมอบโปรเจ็คโครงสร้างพื้นฐานที่ซับซ้อนและโฮสต์เพื่อการใช้งานจริง
 
 **Sam Zou —** CEO ([LinkedIn](https://www.linkedin.com/in/sam-zou-5b8169a/))
 
-Entrepreneur, Investors with more than 20 years of IT experience specialising in infrastructure and cloud service design
+ผู้ประกอบการ นักลงทุน ที่มีประสบการณ์ด้านไอทีมากกว่า 20 ปี เชี่ยวชาญด้านการออกแบบโครงสร้างพื้นฐานและบริการคลาวด์
 
-**Ian He —** Head of Protocol ([LinkedIn](https://www.linkedin.com/in/yin-he-7a266345/))
+**Ian He —** หัวหน้า Protocol ([LinkedIn](https://www.linkedin.com/in/yin-he-7a266345/))
 
-Blockchain Architect, Contributor to polkadot-js, Early adopter of Substrate technology and won second place in the first Polkadot hackathon.
+สถาปนิกบล็อกเชน, ผู้สนับสนุน polkadot-js ซึ่งเป็นผู้ที่เริ่มใช้เทคโนโลยี Substrate ก่อนใคร และได้รับรางวัลที่สองใน Polkadot hackathon ครั้งที่หนึ่ง
 
 **James Xu —** Solutions Architect ([LinkedIn](https://www.linkedin.com/in/zhexu/))
 
-Infrastructure & Application Architect, Award-winning software engineer.
+โครงสร้างพื้นฐาน & Application Architect วิศวกรซอฟต์แวร์ที่ได้รับรางวัล
 
-**James Bayly** — Head of Business Development ([LinkedIn](https://www.linkedin.com/in/james-bayly/))
+**James Bayly** — หัวหน้าฝ่ายพัฒนาธุรกิจ ([LinkedIn](https://www.linkedin.com/in/james-bayly/))
 
-Get started on the [SubQuery Github repository.](https://github.com/OnFinality-io/subql)
+เริ่มต้นใช้งานที่ [ SubQuery repository บน Github](https://github.com/OnFinality-io/subql)
 
 Read our [SubQuery docs](https://doc.subquery.network/)
 
