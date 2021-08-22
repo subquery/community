@@ -27,9 +27,9 @@ Once you’ve published and deployed your new project, you can interact with it 
 
 ![](https://miro.medium.com/max/1400/1*Re6uHuy05UzWttfWQBM6hg.png)
 
-A new published SubQuery Project
+SubQuery Project ที่เผยแพร่ใหม่
 
-Don’t worry about running production SubQuery nodes, leave it to the experts. We’re going to focus on managing indexing servers so that you don’t have to.
+ไม่ต้องกังวลกับการรันการผลิตโหนด SubQuery ปล่อยให้เป็นหน้าที่ของผู้เชี่ยวชาญ We’re going to focus on managing indexing servers so that you don’t have to.
 
 ## เรียนรู้เพิ่มเติม
 
