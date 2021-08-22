@@ -27,17 +27,17 @@ SubQuery explorer ทำให้การเริ่มต้นนั้น�
 
 SubQuery Explorer นี้เป็นเพียงแผนชุดแรกของเราในการสร้างศูนย์กลางชุมชนสำหรับข้อมูล Polkadot เราจะติดตามคุณสมบัติดังต่อไปนี้:
 
--   We’re focusing on community tools, so you can expect more in depth developer documentation, easy to follow tutorials, and example projects that highlight some really cool use cases for the data that SubQuery surfaces.
--   More SubQuery projects will slowly come online based on community feedback,we’d love some ideas on what you’d love to see next — reach out on any of our social channels (see below)
+-   เรากำลังมุ่งเน้นไปที่เครื่องมือของชุมชน ดังนั้นคุณสามารถคาดหวังเอกสารสำหรับนักพัฒนาในเชิงลึกมากขึ้น บทช่วยสอนที่ง่ายต่อการติดตาม และโครงการตัวอย่างที่เน้นกรณีการใช้งานที่ยอดเยี่ยมจริงๆ สำหรับข้อมูลที่ SubQuery แสดง
+-   โครงการ SubQuery เพิ่มเติมจะค่อยๆ ออนไลน์ตามความคิดเห็นของชุมชน เราชอบแนวคิดบางอย่างเกี่ยวกับสิ่งที่คุณอยากเห็นในอนาคต — เข้าถึงช่องทางโซเชียลของเรา (ดูด้านล่าง)
 -   We’re going to build a partner platform, so that our community can build and upload their own SubQuery projects and we’ll manage and host them for you for free.
 
-Start querying data on the new [SubQuery Explorer](https://explorer.subquery.network/)
+เริ่มการ query ข้อมูลใน [SubQuery Explorer](https://explorer.subquery.network/) อันใหม่
 
-Build your own SubQuery project by following our [SubQuery docs](https://doc.subquery.network/)
+สร้างโปรเจ็ค SubQuery ของคุณเองโดยทำตาม [เอกสาร SubQuery](https://doc.subquery.network/) ของเรา
 
-Visit our [website](https://subquery.network/)
+เยี่ยมชม [เว็บไซต์](https://subquery.network/)ของเรา
 
-**Talk to us on:**
+**พูดคุยกับเราได้ที่:**
 
 -   [hello@subquery.network](mailto:hello@subquery.network)
 -   [Discord](https://discord.com/invite/78zg8aBSMG)
