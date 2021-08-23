@@ -25,4 +25,4 @@ The staging slot is perfect for:
 -   Warming up and indexing data for an updated SubQuery project to eliminate downtime in your dApp
 -   Preparing a new release for your SubQuery Project without exposing it publicly. The staging slot is not shown to the public in the Explorer and has a unique URL that is visible only to you.
 
-You can try it yourself now in [SubQuery Projects](https://project.subquery.network/).
+คุณสามารถทดลองใช้งานได้ทันทีใน [SubQuery Projects](https://project.subquery.network/)
