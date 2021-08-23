@@ -2,18 +2,18 @@
 
 SubQuery Projects
 
-# SubQuery Projects — Publish your own creation!
+# SubQuery Projects — เผยแพร่ผลงานของคุณ!
 
 
-Today we’re launching the next phase of SubQuery — [Projects](https://project.subquery.network). SubQuery’s mission is to make the world’s decentralised data more accessible, so this announcement this week is huge for our community!
+วันนี้ เราจะเปิดตัว SubQuery เฟสต่อไป — [Projects](https://project.subquery.network) ภารกิจของ SubQuery คือการทำให้ข้อมูลรูปแบบกระจายอำนาจบนโลกสามารถเข้าถึงได้มากขึ้น ดังนั้นการประกาศในสัปดาห์นี้จึงเป็นเรื่องใหญ่สำหรับชุมชนของเรา!
 
 
 
 ![](https://miro.medium.com/max/464/0*FTsLOuy0A4cWEwcp)
 
-[SubQuery Projects](https://project.subquery.network) is the new place where you can publish your projects to our managed service. Once you connect your GitHub account, you’re only minutes away from sharing your SubQuery project to over 500 users of the [SubQuery Explorer](https://explorer.subquery.network/). Your own project can be hosted online right next to our existing SubQuery projects from [Acala](https://explorer.subquery.network/subquery/OnFinality-io/acala-subql) and [Bifrost](https://explorer.subquery.network/subquery/bifrost-finance/subql).
+[SubQuery Projects](https://project.subquery.network) คือสถานที่แห่งใหม่ที่คุณสามารถเผยแพร่โปรเจกต์ของคุณไปยังบริการของเราที่มีการจัดการดูแล เมื่อคุณเชื่อมต่อบัญชี GitHub แล้ว คุณจะสามารถแชร์โปรเจกต์ SubQuery กับผู้ใช้มากกว่า 500 คนบน [SubQuery Explorer](https://explorer.subquery.network/) ได้ในเวลาเพียงไม่กี่นาที โปรเจกต์ของคุณเองสามารถโฮสต์ออนไลน์ได้เช่นเดียวกับโปรเจกต์ SubQuery ที่มีอยู่ของเราจาก [Acala](https://explorer.subquery.network/subquery/OnFinality-io/acala-subql) และ [Bifrost](https://explorer.subquery.network/subquery/bifrost-finance/subql)
 
-You can also keep your SubQuery project private by not showing it in the Explorer, perfect if you want to privately test it using our managed infrastructure. Additionally, we’re integrated with GitHub, so creating a SubQuery project within a GitHub organisation account will automatically share it with your team members.
+คุณยังสามารถรักษาโปรเจกต์ SubQuery ของคุณให้เป็นส่วนตัวได้โดยการไม่แสดงใน Explorer ซึ่งเหมาะอย่างยิ่งหากคุณต้องการทดสอบมันแบบเป็นส่วนตัวโดยใช้โครงสร้างพื้นฐานที่มีการจัดการของเรา นอกจากนี้เรายังได้ผสานรวมกับ GitHub ซึ่งจะทำให้การสร้างโปรเจกต์ SubQuery ภายในบัญชีองค์กร GitHub ถูกแชร์กับสมาชิกในทีมของคุณโดยอัตโนมัติ
 
 
 
@@ -21,7 +21,7 @@ You can also keep your SubQuery project private by not showing it in the Explore
 
 การสร้าง SubQuery Project ใหม่
 
-Once you’ve published and deployed your new project, you can interact with it over our GraphQL endpoint or simply play in our [Explorer playground](https://explorer.subquery.network/)! We’ll run it like it’s a production application, so you can unlock your decentralized data in your next dApp today using SubQuery.
+เมื่อคุณได้เผยแพร่และปรับใช้โปรเจกต์ใหม่ของคุณแล้ว คุณสามารถโต้ตอบกับโปรเจกต์นี้ผ่านปลายทาง GraphQL ของเรา หรือเพียงแค่เล่นใน [Explorer Playground](https://explorer.subquery.network/) ของเรา! เราจะรันมันเสมือนเป็นแอปพลิเคชันที่ช่วยอำนวยความสะดวกในการสร้าง ดังนั้นคุณจึงสามารถปลดล็อกข้อมูลแบบกระจายศูนย์ใน dApp ตัวต่อไปของคุณได้แล้ววันนี้โดยใช้ SubQuery
 
 
 
@@ -29,15 +29,15 @@ Once you’ve published and deployed your new project, you can interact with it 
 
 SubQuery Project ที่เผยแพร่ใหม่
 
-ไม่ต้องกังวลกับการรันการผลิตโหนด SubQuery ปล่อยให้เป็นหน้าที่ของผู้เชี่ยวชาญ We’re going to focus on managing indexing servers so that you don’t have to.
+ไม่ต้องกังวลกับการรันการผลิตโหนด SubQuery ปล่อยให้เป็นหน้าที่ของผู้เชี่ยวชาญ เราจะมุ่งเน้นไปที่การจัดการเซิร์ฟเวอร์การจัดทำดัชนีเพื่อที่คุณจะได้ไม่ต้องทำมันเอง
 
 ## เรียนรู้เพิ่มเติม
 
-[Follow our guide to publish your first project](https://doc.subquery.network/publish/publish.html) on [SubQuery Projects](https://project.subquery.network)
+[ทำตามคำแนะนำของเราเพื่อเผยแพร่โปรเจกต์แรกของคุณ](https://doc.subquery.network/publish/publish.html)ใน [SubQuery Projects](https://project.subquery.network)
 
 เริ่มการสืบค้นข้อมูลใน [SubQuery Explorer](https://explorer.subquery.network/) อันใหม่
 
-Build your own SubQuery project by following our [SubQuery docs](https://doc.subquery.network/)
+สร้างโปรเจกต์ SubQuery ของคุณเองโดยทำตาม [เอกสาร SubQuery](https://doc.subquery.network/) ของเรา
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Twitter](https://twitter.com/subquerynetwork) | [Telegram](https://t.me/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
 
