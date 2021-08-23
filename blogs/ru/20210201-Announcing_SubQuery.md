@@ -24,15 +24,15 @@ OnFinality призван поддерживать разработчиков б
 
 Для реализации Web 3.0 нужно быть быстрым (если не быстрее) чем централизованные сети для конечного пользователя.
 
-Поэтому мы невероятно гордимся SubQuery, проектом с открытым исходным кодом, который позволяет пользователям запускать индексатор по цепочке для построения набора данных, который может быть запрошен с помощью GraphQL. This suite of tools includes a command line interface to allow projects to generate their own SubQuery project, defining how the indexer should traverse and aggregate their own network. There’s a SubQuery node package that indexes the network and supports GraphQL queries. With the help of these tools, anyone can create and run queries easily.
+Поэтому мы невероятно гордимся SubQuery, проектом с открытым исходным кодом, который позволяет пользователям запускать индексатор по цепочке для построения набора данных, который может быть запрошен с помощью GraphQL. Этот набор инструментов включает в себя интерфейс командной строки, позволяющий проектам создавать свой собственный проект SubQuery, определяя то, каким образом индексатор должен обходить и агрегировать свою собственную сеть. Есть пакет узла SubQuery, который индексирует сеть и поддерживает GraphQL-запросы. С помощью этих инструментов любой может легко создавать и запускать запросы.
 
-> _You can get started right away by following our example on the SubQuery Github repository:_ [_https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql)
+> _Вы можете начать прямо сейчас, следуя нашему примеру в репозитории SubQuery Github:_ [_https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql)
 
-Additionally, you can find out more by reading our [SubQuery docs](https://doc.subquery.network/) or visiting our new website at [https://subquery.network/](https://subquery.network/)
+Кроме того, вы можете узнать больше, прочитав наши [SubQuery документы](https://doc.subquery.network/) или посетив наш новый сайт на [https://subquery.network/](https://subquery.network/)
 
 ![](https://miro.medium.com/max/1000/1*3oA1Hvns1vrImTsmowO_Jw.png)
 
-We’ll focus on building a managed hosted service based off this offering that will be more performant and scalable. We are going to provide trusty public infrastructure that will build a powerful productionised SubQuery node from an uploaded SubQuery project. The service will then index and persist the chain state, and provide a production GraphQL endpoint that can replace self-hosted implementations. We’re going to focus on this so that everyone else can focus on building and growing their dApp.
+Мы сосредоточим внимание на создании управляемой службы размещения, основанной на этом предложении, которое будет более производительным и масштабируемым. We are going to provide trusty public infrastructure that will build a powerful productionised SubQuery node from an uploaded SubQuery project. The service will then index and persist the chain state, and provide a production GraphQL endpoint that can replace self-hosted implementations. We’re going to focus on this so that everyone else can focus on building and growing their dApp.
 
 Once this is in place, our final phase is to tokenize the SubQuery business by building our own chain (likely parachain) for Polkadot. Although we’ll provide a similar billing model for enterprise and high consumption users (subscription plan with consumption levels), we’ll save this data to our chain to make it transparent to everyone and participating parties can stake for rewards as incentives. We’ll issue a governance token to provide stability to the chain and to allow the community to influence our direction and roadmap.
 
