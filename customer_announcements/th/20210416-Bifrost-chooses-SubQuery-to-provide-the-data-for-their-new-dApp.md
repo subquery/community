@@ -22,12 +22,12 @@ Bifrost ใช้ [SubQuery Projects](https://project.subquery.network/) เพ�
 
 ตัวอย่างอีกแบบของ SubQuery ในการดึงรายได้จากการ stake ทั้งหมดสำหรับ vDOT
 
-[SubQuery](https://subquery.network/) เป็นเลเยอร์การรวมข้อมูลที่จะทำงานระหว่างบล็อคเชนเลเยอร์-1 (Bifrost) และ DApps The solution aggregates and organises data from [Bifrost](https://bifrost.finance/) and other blockchains, serving up well-structured data for their dApp and for other developers to use in a wide array of projects. This service allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+[SubQuery](https://subquery.network/) เป็นเลเยอร์การรวมข้อมูลที่จะทำงานระหว่างบล็อคเชนเลเยอร์-1 (Bifrost) และ DApps โซลูชันรวบรวมและจัดระเบียบข้อมูลจาก [Bifrost](https://bifrost.finance/) และบล็อกเชนอื่นๆ โดยให้บริการข้อมูลที่มีโครงสร้างอย่างดีสำหรับ dApp ของตน และสำหรับนักพัฒนารายอื่นๆ เพื่อใช้ในโครงการที่หลากหลาย บริการนี้ช่วยให้นักพัฒนา DApp สามารถมุ่งเน้นไปที่กรณีการใช้งานหลักและ front-end โดยไม่ต้องเสียเวลาไปกับการสร้าง back-end สำหรับการประมวลผลข้อมูลของตัวเอง
 
-Learn more about Bifrost
+เรียนรู้เพิ่มเติมเกี่ยวกับ Bifrost
 
 [Website](https://bifrost.finance/) | [Telegram](https://t.me/bifrost_finance) | [Twitter](https://twitter.com/bifrost_finance) | [Discord](https://discord.gg/XjnjdKBNXj)
 
-Learn more about SubQuery
+เรียนรู้เพิ่มเติมเกี่ยวกับ SubQuery
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
