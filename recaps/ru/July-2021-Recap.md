@@ -1,36 +1,36 @@
 ![](https://miro.medium.com/max/1400/1*2z3_9s-SY7dAvfe6xf9IDA.png)
 
-## Community, Community, Community!
+## Сообщество, сообщество, сообщество!
 
 
-Welcome to another monthly update from SubQuery. As you all know, community is a key element for every successful crypto project — this month we’ve started to expand our focus in this area.
+Добро пожаловать на очередное ежемесячное обновление SubQuery. Как вы все знаете, сообщество является ключевым элементом для каждого успешного проекта в области криптовалют — в этом месяце мы начали уделять этому больше внимания.
 
-In this monthly update:
+В этом ежемесячном обновлении:
 
--   Ambassador Program 👩💼
--   DApp API Grant Work 🏗
--   Patract Open Platform 🌃
+-   Программа амбассадора 👩💼
+-   DApp API гранты 🏗
+-   Платформа Patract 🌃
 -   Parity’s Relaychain podcast 🎙
--   Documentation Improvements 📑
+-   Улучшение документации 📑
 
 
 ![](https://miro.medium.com/max/1400/0*pe3Z3x1lGb_RLa5x)
 
-We understand that one of our biggest strengths is our community, and so [we recently launched our ambassador program](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) for communities around the world. We were overwhelmed by the interest in our program, with almost 500 applications received in under a fortnight!
+Мы понимаем, что одним из наших наибольших сильных сторон является наше сообщество, и так [мы недавно запустили нашу программу послов](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) для сообществ по всему миру. Мы были удивлены интересом к нашей программе, почти 500 заявлений было получено менее чем за два дня!
 
-We’re in the process of onboarding our first batch of ambassadors very shortly. We’re particularly excited here because it means that everyone in our community can expect to see better local representation and support in different communities!
+Мы находимся в процессе регистрации первой партии амбассадоров. Мы особенно заинтересованы, потому что это означает, что каждый человек в нашем сообществе может ожидать лучшего представительства и поддержки в разных сообществах!
 
-By the end of July we’ve made good progress on the first two milestones of our [open-source dApp API treasury grant](https://kusama.polkassembly.io/treasury/95). Although on the surface it doesn’t look like much, it is actually a really important initiative for us. Firstly it represents deep strategic cooperation with one of the largest Polkadot native wallets, Fearless Wallet.
+К концу июля мы добились существенного прогресса в первых двух вехах нашего [открытого исходного dApp API гранта](https://kusama.polkassembly.io/treasury/95). Несмотря на то, что на первый взгляд это не выглядит не так впечатляюще, на самом деле это действительно важная инициатива для нас. Во-первых, она представляет собой глубокое стратегическое сотрудничество с одним из крупнейших родных кошельков Polkadot - Fearless кошелек.
 
-Secondly, this open-source API should be able to provide different types of applications with a sufficient (but read-only) view of all key data within the Kusama chain. E.g. a developer could use it to create their own chain explorer without needing to directly query chain data.
+Во-вторых, этот API с открытым исходным кодом должен быть способен предоставить разным типам приложений достаточное (только для чтения) представление всех ключевых данных в цепочке Kusama. Например, разработчик может использовать его для создания своего собственного исследователя цепи без необходимости прямого запроса данных цепочки.
 
-We’re building this in a way that makes it easy to extend to the growing number of parachains. It’ll also provide a much better foundation for new applications building on SubQuery, allowing us onboard new partnerships faster!
+Мы строим это таким образом, чтобы существовала возможность легко распространить его на растущее число параченов. Это также обеспечит лучший фундамент для новых приложений на SubQuery, что позволит нам быстрее поддерживать новые партнерства!
 
 ![](https://miro.medium.com/max/1400/0*AhM68fyjjSp_2edZ)
 
-We have [joined the Patract Open Platform alliance](https://subquery.medium.com/subquery-is-joining-the-patract-open-platform-91682c748a57) to jointly promote the development of public infrastructure, promote the evolution of contract technology, and to develop the Wasm contract development ecosystem.
+Мы [вступили в альянс «Patract Open Platform»](https://subquery.medium.com/subquery-is-joining-the-patract-open-platform-91682c748a57) , чтобы совместно содействовать развитию общественной инфраструктуры, поощрять эволюцию контрактной технологии и развивать экосистему разработки договоров Wasm.
 
-We believe that contracts are an important part of a thriving Polkadot ecosystem, providing data indexing services for Wasm contracts has always been a major goal of SubQuery. It is exciting to see that the Open Platform has brought together a large number of great projects, and that everyone is working together to contribute to the healthy and stable advancement of Wasm contracts.
+Мы считаем, что контракты являются важной частью процветающей экосистемы Polkadot, предоставление услуг по индексации данных по контрактам Wasm всегда было главной целью SubQuery. Интересно, что открытая платформа собрала большое количество влиятельных проектов, и что каждый работает вместе, чтобы внести вклад в здоровое и стабильное продвижение Wasm договоров.
 
 Earlier last month I joined Jorrin Burns on Parity’s Relay Chain Podcast, we talked about our mission and how we were working with projects in our ecosystem. We also discussed how collaboration and feedback from other Polkadot projects in New Zealand (like Acala and Bitcountry) has influenced several of our value-added features, our long-term plans to become a parachain, and the road to 1 billion API requests.
 
