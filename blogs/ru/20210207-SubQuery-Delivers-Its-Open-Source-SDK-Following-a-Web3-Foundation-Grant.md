@@ -13,7 +13,7 @@ SubQuery построена командой в OnFinality,, которая яв
 
 Этот набор инструментов включает в себя @subql/cli, позволяющий проектам генерировать свой собственный SubQuery проект, определяющий, как индексатор должен проходить и агрегировать свою собственную сеть. В рамках нашего предложения мы предоставили базовое руководство, которое показывает пользователям, как использовать cli для индексации своей сети [you can follow here](https://doc.subquery.network/quickstart.html). Мы даже предоставили более подробную документацию для разработчиков для более продвинутого использования.
 
-Secondly, there’s a SubQuery node package that loads the defined SubQuery project created by the CLI and then indexes the network to a Postgres database. Using Hasura, you can run GraphQL queries right away over indexed tables. With the help of these tools, and the community support material that we’re always improving, anyone can create and run queries easily.
+Во-вторых, существует пакет узлов SubQuery, который загружает определенный проект SubQuery созданный CLI, а затем индексирует сеть в базу данных Postgres. Используя Hasura, вы можете запускать GraphQL-запросы прямо из индексированных таблиц. With the help of these tools, and the community support material that we’re always improving, anyone can create and run queries easily.
 
 **You can get started right away by following our example on the** [**SubQuery Github repository**](https://github.com/OnFinality-io/subql)**. Additionally, you can find out more by reading our** [**SubQuery docs**](https://doc.subquery.network/) **or** [**visiting our new website**](https://subquery.network/)**.**
 
