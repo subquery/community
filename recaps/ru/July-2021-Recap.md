@@ -32,18 +32,18 @@
 
 Мы считаем, что контракты являются важной частью процветающей экосистемы Polkadot, предоставление услуг по индексации данных по контрактам Wasm всегда было главной целью SubQuery. Интересно, что открытая платформа собрала большое количество влиятельных проектов, и что каждый работает вместе, чтобы внести вклад в здоровое и стабильное продвижение Wasm договоров.
 
-Earlier last month I joined Jorrin Burns on Parity’s Relay Chain Podcast, we talked about our mission and how we were working with projects in our ecosystem. We also discussed how collaboration and feedback from other Polkadot projects in New Zealand (like Acala and Bitcountry) has influenced several of our value-added features, our long-term plans to become a parachain, and the road to 1 billion API requests.
+Ранее в прошлом месяце я присоединился к Джорину Бернсу на Parity Relay Chain Podcast, мы говорили о нашей миссии и о том, как мы работаем с проектами в нашей экосистеме. Мы также обсудили вопрос о том, как сотрудничество и обратная связь с другими проектами Polkadot в Новой Зеландии (например, Acala и Bitcountry) оказали влияние на некоторые из наших свойств добавленной стоимости, наши долгосрочные планы стать парачейном и дорогой к 1 миллиарду запросов API.
 
-[You can listen to the podcast on your favourite platform here.](https://relaychain.fm/35-querying-the-worlds-data-with-subquery)
+[Здесь Вы можете послушать подкаст на Вашей любимой платформе.](https://relaychain.fm/35-querying-the-worlds-data-with-subquery)
 
-> _“Documentation may not be glamorous work but it plays a vital role in communicating how something works and allows us to empower our community members to learn and unleash their creativity. That is why we believe documentation is so important”_ — Sean Au (SubQuery Academy)
+> _Документация может быть не занятной работой, но она играет жизненно важную роль в понимании того, как что-то работает и позволяет членам нашего сообщества изучать и познавать свои творческие способности. Вот почему мы считаем документацию столь важной»_ — Шон Ау (Академия SubQuery)
 
 ![](https://miro.medium.com/max/1200/0*tvcfXFxHc6shdmAy.gif)
 
-[Our new documentation website](https://doc.subquery.network/) has an inviting landing page designed to welcome all users, regardless of their technical understanding of blockchain or Polkadot. From the landing page users can jump straight into a getting started tutorial, or navigate off to the help they need.
+[Наш новый веб-сайт документации](https://doc.subquery.network/) имеет главную страницу, чтобы приветствовать всех пользователей, независимо от их технического понимания блокчейн или Polkadot. С главной страницы пользователи могут сразу перейти к учебнику или к необходимой им помощи.
 
-Traditionally, blockchain documentation is incredibly technical and littered with jargon — you have to come from a developer background to easily understand it. We’ve taken a different path and written content for users at all levels of experience.
+Традиционно документация блокчейн невероятно техническая и изобилует технической терминологией — обычно  вы должны иметь опыт разработчика, чтобы легко его понять. Мы выбрали другой путь и написали контент для всех пользователей.
 
-Our goal is to publish a tutorial for every piece of major functionality in SubQuery. That means a step-by-step video and written guide with working examples as outcomes — you can see the beginnings of our efforts here [in the Tutorials section](https://doc.subquery.network/tutorials_examples/howto.html).
+Наша цель - опубликовать учебный материал для каждого компонента основных функций в SubQuery. Это означает пошаговое видео и письменное руководство с рабочими примерами — вы можете увидеть начало наших усилий здесь [в разделе Tutorials](https://doc.subquery.network/tutorials_examples/howto.html).
 
 We consistently receive feedback from our community that we have some of the best documentation in our industry. We promise to keep it that way!
