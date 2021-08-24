@@ -14,15 +14,15 @@
 
 ![](https://miro.medium.com/max/1400/0*WIxvwcgPIHzCf0E3)
 
-A simple example showing real time mint price for vDOT
+ตัวอย่างง่ายๆ ในการแสดงราคา mint แบบเรียลไทม์สำหรับ vDOT
 
-Bifrost is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services for this service is completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/). You can play around with the Bifrost SubQuery dataset using the Explorer without implementing any code [here](https://explorer.subquery.network/subquery/bifrost-finance/subql).
+Bifrost ใช้ [SubQuery Projects](https://project.subquery.network/) เพื่อจัดการโครงการของตนเองและทำการอัปเดตตามต้องการ บริการจัดทำ index และ query สำหรับในบริการนี้ได้รับการจัดการโดย SubQuery และให้บริการฟรีแก่ชุมชน Polkadot ใน[SubQuery's Explorer](https://explorer.subquery.network/) คุณสามารถทดลองใช้ชุดข้อมูล Bifrost SubQuery โดยใช้ Explorer โดยไม่ต้องติดตั้งโค้ดใดๆ [ที่นี่](https://explorer.subquery.network/subquery/bifrost-finance/subql)
 
 ![](https://miro.medium.com/max/1400/0*J9Rao6oyFMxVNWzZ)
 
-Another SubQuery example to retrieve total staking revenue for vDOT
+ตัวอย่างอีกแบบของ SubQuery ในการดึงรายได้จากการ stake ทั้งหมดสำหรับ vDOT
 
-[SubQuery](https://subquery.network/) is a data aggregation layer that will operate between the layer-1 blockchains (Bifrost) and DApps. The solution aggregates and organises data from [Bifrost](https://bifrost.finance/) and other blockchains, serving up well-structured data for their dApp and for other developers to use in a wide array of projects. This service allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+[SubQuery](https://subquery.network/) เป็นเลเยอร์การรวมข้อมูลที่จะทำงานระหว่างบล็อคเชนเลเยอร์-1 (Bifrost) และ DApps The solution aggregates and organises data from [Bifrost](https://bifrost.finance/) and other blockchains, serving up well-structured data for their dApp and for other developers to use in a wide array of projects. This service allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
 
 Learn more about Bifrost
 
