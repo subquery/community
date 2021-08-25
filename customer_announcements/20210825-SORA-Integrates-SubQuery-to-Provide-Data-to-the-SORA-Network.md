@@ -1,6 +1,6 @@
 # SORA Integrates SubQuery to Provide Data to the SORA Network
 
-![sora-header.jpg](https://miro.medium.com/max/1400/1*bEuv-JMOwSRR_cRnUdT4bQ.jpeg)
+![sora-header.jpg](https://miro.medium.com/max/1400/1*fPPW0DsynIt9QpvK4ZrsUA.jpeg)
 
 Today we are pleased to announce an exciting new project on SubQuery — SORA and Polkaswap. [SORA](https://sora.org/) has built a SubQuery Project that retrieves data from the SORA network to power mobile applications built on SORA and [Polkaswap.io](http://polkaswap.io/). You can try it out [here](https://explorer.subquery.network/subquery/sora-xor/sora).
 
@@ -16,7 +16,7 @@ SubQuery already makes developing the SORA mobile app and Polkaswap easier by re
 
 ![sora-explorer.jpg](https://miro.medium.com/max/1400/1*vjdjmmffvJ7zfOQyxo0ZAA.jpeg)
 
-In the example below, we’re using SubQuery to pull the total amount of XOR that is held in each liquidity pool (filtered to show only the first 2 pools). This example also shows the current APY associated to each liquidity pool (filtered to show only the first 2 pools).
+In this example, we’re using SubQuery to pull the total amount of XOR that is held in each liquidity pool (filtered to show only the first 2 pools). This example also shows the current APY associated to each liquidity pool (filtered to show only the first 2 pools).
 
 ![sora-playground.jpg](https://miro.medium.com/max/1400/1*oTh-ajGfG1oEhYdvqo12tQ.jpeg)
 
@@ -26,7 +26,7 @@ Explore SORA's project in the SubQuery explorer [here](https://explorer.subquery
 
 ---
 
-### **About SORA**
+### About SORA
 
 SORA is creating a supranational world economic system with built-in tools for decentralized finance (DeFi) under the cryptographic sortition-based democratic supervision of the SORA Parliament. 
 
@@ -34,7 +34,7 @@ The SORA network excels at providing tools for decentralized applications that u
 
 [Website](https://sora.org/) | [Reddit](https://www.reddit.com/r/SORA/) | [Blog](https://sora.org/blog) | [Telegram](https://t.me/sora_xor) | [Twitter](https://twitter.com/sora_xor) | [YouTube](https://youtube.com/sora_xor) | [Instagram](https://instagram.com/sora_xor)
 
-### **About SubQuery**
+### About SubQuery
 
 [SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications (DApps). Currently focused on Polkadot and Substrate projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
 
