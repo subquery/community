@@ -1,41 +1,41 @@
 
-**开发者现在可以转化并查询未来Web3的全球数据**
+**Developers can now transform and query the world’s data for the Web3 future**
 
 ![](https://miro.medium.com/max/1400/1*f9Jw37LjUGu8P8W39cjDYw.png)
 
-本周OnFinal(SubQuery背后的团队)在他们的 Web3 基金会赠款上提供了完整的工作流以创建SubQuery项目。 我们很高兴宣布我们已经完成的工作来完成这笔赠款， 并与世界分享，以便它们能够从今天开始利用我们的项目更有效地查询它们的网络。
+This week OnFinality (the team behind SubQuery), delivered on their Web3 Foundation Grant to provide a complete workflow to create SubQuery projects. We’re excited to announce the work that we’ve done to complete this grant, and to share it with the world so that they can start using our project today to query their networks more efficiently.
 
-SubQuery 是由OnFinal的团队构建的。 它是一个基础结构 Iaas & SaaS 平台，供区块链团队和用户启动节点，并访问大量的区块链协议。 我们有一套共生服务，包括我们的 API 共享节点服务，并且与顶级的 Polkadot/ Substrate 团队有关系。
+SubQuery is built by the team at OnFinality, which is an infrastructure Iaas & SaaS platform for blockchain teams and users to launch nodes and get access to a large range of blockchain protocols. We have a suite of symbiotic services including our API shared node services, and have relationships with the top Polkadot/Substrate teams.
 
-几乎每个区块链都需要处理和查询数据。 我们的项目受到为应用程序层服务的数据协议增长的启发，是为了帮助蓬勃发展的Polkadot社区。 SubQuery 的目的是帮助Polkadot/Substrate 项目建立更好的dapp ，让任何人都能够更快地找到和消耗数据。 我们的服务允许用户提取、转换、持久和查询数据，以及在未来连接和提供数据。
+Almost every blockchain has a need to process and query data. Our project is inspired by the growth of data protocols serving the application layer and is here to help the thriving Polkadot community. SubQuery’s aim is to help Polkadot/Substrate projects build better dApps by allowing anyone to reliably find and consume data faster. Our service allows users to extract, transform, persist, and query data, as well as connect and present data in the future.
 
-[Web3基础开放赠款方案](https://github.com/w3f/Open-Grants-Program/pull/136) 使我们能够构建SubQuery, 一个开放源码项目，允许用户在其链中运行索引器来构建一个可以通过 GraphQL 查询的数据集。
+The [Web3 Foundation Open Grants Program](https://github.com/w3f/Open-Grants-Program/pull/136) has enabled us to build SubQuery, an open source project that allows users to run an indexer across their chain to build a dataset that can be queried with GraphQL.
 
-这套工具包括@subql/cli，让项目能够生成自己的 SubQuery 项目。 定义索引器应如何穿越和汇集其自己的网络。 作为我们建议的一部分。 我们提供了一个基本教程，向用户展示如何使用 cli 索引他们的网络。 [您可以在这里关注](https://doc.subquery.network/quickstart.html)。 我们甚至为更高级的使用提供了更详细的开发者文档。
+This suite of tools includes @subql/cli, to allow projects to generate their own SubQuery project, defining how the indexer should traverse and aggregate their own network. As part of our proposal, we have provided a basic tutorial that shows users how to use the cli to index their network that [you can follow here](https://doc.subquery.network/quickstart.html). We’ve even provided more detailed developer documentation for more advanced usages.
 
-其次是一个 SubQuery 节点包，该包加载由 CLI 创建的定义的 SubQuery 项目，然后将网络索引到 Postgres 数据库。 使用Hasura，您可以立即在索引表中运行GraphQL查询。 在这些工具和我们一直在改进的社区支持材料的帮助下，任何人都可以轻松地创建和运行查询。
+Secondly, there’s a SubQuery node package that loads the defined SubQuery project created by the CLI and then indexes the network to a Postgres database. Using Hasura, you can run GraphQL queries right away over indexed tables. With the help of these tools, and the community support material that we’re always improving, anyone can create and run queries easily.
 
-**你可以立即开始学习我们在** [**SubQuery Github 版本库**](https://github.com/OnFinality-io/subql)**。 此外， 您可以阅读我们的网站** [**SubQuery 文档**](https://doc.subquery.network/) **或** [**访问我们的新网站**](https://subquery.network/)****
+**You can get started right away by following our example on the** [**SubQuery Github repository**](https://github.com/OnFinality-io/subql)**. Additionally, you can find out more by reading our** [**SubQuery docs**](https://doc.subquery.network/) **or** [**visiting our new website**](https://subquery.network/)**.**
 
-我们非常感谢Web3基金会提供支助，帮助我们为社区执行这一项目。 Web3基金会资助研究和开发小组建造分散的网络技术库。 它是由Ethereum 共同创办人和前首席技术官Gavin Wood博士在瑞士祖格设立的。 Polkadot是基金会的旗舰项目。
+We’re incredibly grateful for the support provided by Web3 Foundation to help us carry out this project for the community. Web3 Foundation funds research and development teams building the technology stack of the decentralized web. It was established in Zug, Switzerland by Ethereum co-founder and former chief technology officer Dr. Gavin Wood. Polkadot is the Foundation’s flagship project.
 
-我们将侧重于建立一个基于这个将更加性能和可扩展的服务的管理托管服务。 我们将提供信任的公共基础设施，从上传的 SubQuery 项目中建立一个强大的生产性的 SubQuery 节点。 然后该服务将索引并保持链式状态，并提供一个生产图形QL端点，替换自托管的实现。 我们将把重点放在这个问题上，以便其他人能够集中精力建立和发展他们的应用程序。
+We’ll focus on building a managed hosted service based off this offering that will be more performant and scalable. We are going to provide trusty public infrastructure that will build a powerful productionised SubQuery node from an uploaded SubQuery project. The service will then index and persist the chain state, and provide a production GraphQL endpoint that can replace self-hosted implementations. We’re going to focus on this so that everyone else can focus on building and growing their dApp.
 
-我们看到Polkadot从一开始就有潜力把我们的努力集中在那里。 Polkadot的核心前提是创造一个蓬勃发展的开发者、用户社区。 该社区将需要一种能够可靠地找到和使用数据的服务。
+We saw Polkadot’s potential early and right from the start it felt natural to focus our efforts there. The core premise of Polkadot is to create a thriving community of developers, users, and businesses that will tap into its multichain interoperability — that community is going to need a service that allows them to reliably find and consume data quickly.
 
-Polkadot的独特架构意味着我们可以专注于一个网络，然后能够轻松地支持多个当前和未来的链。 尽管Polkadot仍在开发中，我们将随时准备帮助下一代区块链开发者创建下一代大的 dapp。
+Polkadot’s unique architecture means that we can focus on one network and then be able to support multiple current and future chains with ease. Even though Polkadot is still under development, we will be there ready to help the next generation of blockchain developers create the next big dApp.
 
-开始于 [SubQuery Github 仓库。](https://github.com/OnFinality-io/subql)
+Get started on the [SubQuery Github repository.](https://github.com/OnFinality-io/subql)
 
-阅读我们的 [子查询文档](https://doc.subquery.network/)
+Read our [SubQuery docs](https://doc.subquery.network/)
 
-[访问我们的新网站](https://subquery.network/)
+[Visit our new website](https://subquery.network/)
 
-访问 [网站](https://web3.foundation/) 了解更多关于Web3基金会的信息。 若要关注Web3基金会的最新动态，请加入 [Reddit](https://www.reddit.com/r/dot/) 或 [Twitter](https://twitter.com/web3foundation)
+Learn more about Web3 Foundation by visiting their [website](https://web3.foundation/). To follow the latest developments at Web3 Foundation, join them on [Reddit](https://www.reddit.com/r/dot/) or [Twitter](https://twitter.com/web3foundation).
 
-关注我们：
+Follow us on:
 
 -   [Telegram](https://t.me/subquerynetwork)
--   [推特](https://twitter.com/subquerynetwork)
--   [矩阵列表](https://matrix.to/#/%23subquery:matrix.org)
+-   [Twitter](https://twitter.com/subquerynetwork)
+-   [Matrix](https://matrix.to/#/%23subquery:matrix.org)
 -   [LinkedIn](https://www.linkedin.com/company/subquery)
