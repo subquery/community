@@ -5,10 +5,10 @@
 
 -   มุ่งเน้นที่เครื่องมือสำหรับพาร์ทเนอร์ — เปิดตัวโครงการ SubQuery
 -   กรณีการใช้งาน BiFrost SubQuery
--   Scalability Improvements by our service provider OnFinality
+-   ปรับปรุงความสามารถในการปรับขนาดโดย OnFinality ซึ่งเป็นผู้ให้บริการของเรา
 -   และอื่นๆ…
 
-ในส่วนของพาร์ทเนอร์ เราได้เปิดตัวผลิตภัณฑ์หลักที่จำเป็นในการดำเนินการเร่งการเติบโตของ SubQuery Before you could create and run your own SubQuery projects locally or in your own infrastructure. [Projects](https://project.subquery.network/) allows users to publish their projects to the SubQuery community and we’ll run them in a high performance, scalable, and managed public service — for free!
+ในส่วนของพาร์ทเนอร์ เราได้เปิดตัวผลิตภัณฑ์หลักที่จำเป็นในการดำเนินการเร่งการเติบโตของ SubQuery ก่อนที่คุณจะสามารถสร้างและเรียกใช้โครงการ SubQuery ของคุณเองทั้งจากในเครื่องหรือโครงสร้างพื้นฐานของคุณได้ [โครงการ](https://project.subquery.network/) อนุญาตให้ผู้ใช้เผยแพร่โครงการของตนไปยังชุมชน SubQuery และเราจะรันโครงการเหล่านั้นด้วยบริการที่มีประสิทธิภาพสูง  สามารถปรับขนาดได้ และสามารถจัดการได้อย่างสาธารณะ ฟรี!
 
 ![](https://miro.medium.com/max/1400/0*zZkmiEq5g2BbAxfl)
 
@@ -16,9 +16,9 @@ This final missing piece now means we have a complete suite of tools to enable a
 
 ![](https://miro.medium.com/max/1400/0*pDQgyo3phe2ZcMml)
 
-In April, [Bifrost Finance](https://bifrost.finance/) launched the beta of their new dApp, the official interactive interface for all Bifrost services. Through this dApp, users can mint vTokens, redeem and swap these derivatives, and view their earnings in real time.
+ในเดือนเมษายน, [Bifrost Finance](https://bifrost.finance/) ได้เปิดตัว dApp ใหม่ ซึ่งเป็นอินเตอร์เฟซอย่างเป็นทางการสำหรับใช้โต้ตอบกับบริการทั้งหมดของ Bifrost ด้วย dApp นี้ ผู้ใช้งานสามารถสร้าง vTokens แลกคืน (redeem) และแลกเปลี่ยน (swap) อนุพันธ์นี้ รวมถึงสามารถดูรายได้ของพวกเขาได้แบบเรียลไทม์
 
-SubQuery’s service helps Bifrost power much of the data shown in their new dApp. All historical data on transfers, minting, and redemption events (such as price, date, currency and pool) are aggregated and queried from SubQuery’s advanced indexing and query service. For example, SubQuery allows Bifrost to calculate real time mint and redemption prices for vDot and vEth to show in their app, and to get the total number of vTokens in a certain wallet.
+บริการของ SubQuery ช่วย Bifrost ในการขับเคลื่อนข้อมูลจำนวนมากที่แสดงใน dApp ใหม่ของพวกเขา All historical data on transfers, minting, and redemption events (such as price, date, currency and pool) are aggregated and queried from SubQuery’s advanced indexing and query service. For example, SubQuery allows Bifrost to calculate real time mint and redemption prices for vDot and vEth to show in their app, and to get the total number of vTokens in a certain wallet.
 
 ![](https://miro.medium.com/max/1400/0*heWoX8Kw1nm1iYd9)
 
@@ -45,4 +45,4 @@ OnFinality also [delivered their treasury proposal](https://kusama.polkassembly.
 
 ![](https://miro.medium.com/max/1400/0*cOsJ2TLa4yqpY0Ig)
 
-Expect some big news coming in May for our community — we’ve been working on something massive and we can’t wait to share it. In the meantime, have a go creating your own SubQuery project by following our [new quick start guide here](https://doc.subquery.network/quickstart.html).
+Expect some big news coming in May for our community — we’ve been working on something massive and we can’t wait to share it. ในระหว่างนี้คุณสามารถสร้างโครงการ SubQuery ของคุณได้เองโดยทำตาม[คู่มือเริ่มต้นแบบย่อฉบับใหม่ ของเราที่นี่](https://doc.subquery.network/quickstart.html)
