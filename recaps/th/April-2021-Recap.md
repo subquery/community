@@ -18,11 +18,11 @@ This final missing piece now means we have a complete suite of tools to enable a
 
 ในเดือนเมษายน, [Bifrost Finance](https://bifrost.finance/) ได้เปิดตัว dApp ใหม่ ซึ่งเป็นอินเตอร์เฟซอย่างเป็นทางการสำหรับใช้โต้ตอบกับบริการทั้งหมดของ Bifrost ด้วย dApp นี้ ผู้ใช้งานสามารถสร้าง vTokens แลกคืน (redeem) และแลกเปลี่ยน (swap) อนุพันธ์นี้ รวมถึงสามารถดูรายได้ของพวกเขาได้แบบเรียลไทม์
 
-บริการของ SubQuery ช่วย Bifrost ในการขับเคลื่อนข้อมูลจำนวนมากที่แสดงใน dApp ใหม่ของพวกเขา All historical data on transfers, minting, and redemption events (such as price, date, currency and pool) are aggregated and queried from SubQuery’s advanced indexing and query service. For example, SubQuery allows Bifrost to calculate real time mint and redemption prices for vDot and vEth to show in their app, and to get the total number of vTokens in a certain wallet.
+บริการของ SubQuery ช่วย Bifrost ในการขับเคลื่อนข้อมูลจำนวนมากที่แสดงใน dApp ใหม่ของพวกเขา ข้อมูลประวัติทั้งหมดที่เกี่ยวกับการโอน การสร้างเหรียญ และกิจกรรมการแลกคืน (ตัวอย่างเช่น ราคา วันที่ สกุลเงิน และ pool) จะถูกรวบรวมและ query จากการทำ indexing ขั้นสูง และบริการ query ของ SubQuery ตัวอย่างเช่น SubQuery จะให้ Bifrost คำนวณราคา mint และ redeem แบบเรียลไทม์ สำหรับ vDot และ vEth เพื่อแสดงในแอปของพวกเขา และเพื่อรับข้อมูลจำนวน vTokens ทั้งหมดในกระเป๋าเงินนั้นๆ
 
 ![](https://miro.medium.com/max/1400/0*heWoX8Kw1nm1iYd9)
 
-The new Bifrost SubQuery project in the SubQuery Explorer
+โครงการ Bifrost SubQuery ใหม่ ใน SubQuery Explorer
 
 > “Without SubQuery, it is difficult to imagine how complicated it is to manually collect data from the chain. Bifrost developers may spend a lot of time searching for all transaction data on chain to be used for transaction history. SubQuery helps developers save a lot of repetitive work costs. Bifrost will cooperate with SubQuery for a long time to accelerate the iterative speed of product development”. — Bifrost Finance
 
