@@ -1,14 +1,14 @@
 
-April was an incredibly busy month for SubQuery, our growth is starting to accelerate at a serious pace and we’re breaking new records each day. As we mentioned last month, our focus in the short term is on two elements; scaling our platform to keep up with skyrocketing demand, and engaging with more and more partners to help them create their own SubQuery projects.
+เดือนเมษายนเป็นเดือนที่ยุ่งอย่างน่าเหลือเชื่อสำหรับ SubQuery เราเริ่มเติบโตขึ้นอย่างรวดเร็วจริงๆ และเราทำสถิติใหม่ได้ในทุกๆวัน อย่างที่เราให้ความคิดเห็นเมื่อเดือนก่อน ในระยะสั้นเราให้ความสนใจ 2 เรื่อง คือ การขยายขนาดแพลตฟอร์มของเราเพื่อให้ทันกับความต้องการที่พุ่งสูงขึ้น และการร่วมมือกับพันธมิตรให้มากขึ้นและมากขึ้น เพื่อช่วยพวกเขาในการสร้างโครงการ SubQuery ของพวกเขาเอง
 
-In this monthly update:
+ความคืบหน้าในเดือนนี้
 
--   Focus on Partner tools — SubQuery Projects Launch
--   BiFrost SubQuery use case
+-   มุ่งเน้นที่เครื่องมือสำหรับพาร์ทเนอร์ — เปิดตัวโครงการ SubQuery
+-   กรณีการใช้งาน BiFrost SubQuery
 -   Scalability Improvements by our service provider OnFinality
--   And more…
+-   และอื่นๆ…
 
-On the partner front we launched a key product that is needed to operationally accelerate the growth of SubQuery. Before you could create and run your own SubQuery projects locally or in your own infrastructure. [Projects](https://project.subquery.network/) allows users to publish their projects to the SubQuery community and we’ll run them in a high performance, scalable, and managed public service — for free!
+ในส่วนของพาร์ทเนอร์ เราได้เปิดตัวผลิตภัณฑ์หลักที่จำเป็นในการดำเนินการเร่งการเติบโตของ SubQuery Before you could create and run your own SubQuery projects locally or in your own infrastructure. [Projects](https://project.subquery.network/) allows users to publish their projects to the SubQuery community and we’ll run them in a high performance, scalable, and managed public service — for free!
 
 ![](https://miro.medium.com/max/1400/0*zZkmiEq5g2BbAxfl)
 
