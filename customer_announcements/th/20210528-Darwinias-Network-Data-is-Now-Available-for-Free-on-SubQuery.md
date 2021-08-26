@@ -5,7 +5,7 @@
 
 **เรายินดีที่จะประกาศว่า SubQuery และ Darwinia Network ได้จัดตั้งพันธมิตรเชิงกลยุทธ์**
 
-ไม่นานมานี้ [Darwinia](https://darwinia.network/) ได้เปิดตัวโครงการ SubQuery ใหม่ 2 โครงการ โครงการหนึ่งสำหรับ [เครือข่ายหลัก](https://explorer.subquery.network/subquery/darwinia-network/darwinia) และอีกโครงการสำหรับ [Crab](https://explorer.subquery.network/subquery/darwinia-network/crab) ซึ่งเป็นเครือข่าย Canary ของพวกเขา By exposing their data on SubQuery, Darwinia is opening the door for their application ecosystem to build more engaging applications on this free datasource.
+ไม่นานมานี้ [Darwinia](https://darwinia.network/) ได้เปิดตัวโครงการ SubQuery ใหม่ 2 โครงการ โครงการหนึ่งสำหรับ [เครือข่ายหลัก](https://explorer.subquery.network/subquery/darwinia-network/darwinia) และอีกโครงการสำหรับ [Crab](https://explorer.subquery.network/subquery/darwinia-network/crab) ซึ่งเป็นเครือข่าย Canary ของพวกเขา การเปิดเผยข้อมูลใน SubQuery ทำให้ Darwinia เปิดโอกาสให้แอพลิเคชั่นของพวกเขาในการสร้างแอปพลิเคชันที่มีส่วนร่วมมากขึ้นบนแหล่งข้อมูลฟรีนี้
 
 > “Using SubQuery to query Darwinia’s on-chain data has become very simple and flexible. SubQuery regards blockchain data as a graph, and leverages the extensibility of GraphQL to introduce additional functionality. We believe that in the future, the data interface on the substrate chain will mainly use GraphQL, SubQuery is making this a reality”. — Darwinia
 
