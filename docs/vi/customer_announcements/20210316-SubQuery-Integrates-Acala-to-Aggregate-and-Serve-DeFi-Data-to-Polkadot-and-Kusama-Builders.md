@@ -1,10 +1,10 @@
-# SubQuery Integrates Acala to Aggregate and Serve DeFi Data to Polkadot and Kusama Builders
+# SubQuery tích hợp Acala để tổng hợp và cung cấp dữ liệu DeFi cho Polkadot và các nhà xây dựng Kusama
 
 ![](https://miro.medium.com/max/1400/1*cg4kJs0WEcyPP73EAtHomA.png)
 
-Last week [SubQuery](https://www.subquery.network/) released the next stage of their project, the [SubQuery Explorer](https://explorer.subquery.network/). This week, Acala and SubQuery have finalized an integration to allow users and developers to query and extract data from Acala’s DeFi hub for Polkadot in only minutes and at no cost.
+Tuần trước [SubQuery](https://www.subquery.network/) đã phát hành giai đoạn tiếp theo của dự án, [SubQuery Explorer](https://explorer.subquery.network/). Tuần này, Acala và SubQuery đã hoàn tất quá trình tích hợp để cho phép người dùng và nhà phát triển truy vấn, trích xuất dữ liệu từ trung tâm Acala DeFi cho Polkadot chỉ trong vài phút và miễn phí.
 
-SubQuery is a data aggregation layer that will operate between the layer-1 blockchain (Acala) and DApp layer. The solution aggregates and organizes data from Acala and other blockchains, serving up well-structured data for developers to use for a wide array of projects. This service allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+SubQuery là một lớp tổng hợp dữ liệu sẽ hoạt động giữa blockchain layer-1 (Acala) và lớp DApp. Giải pháp tổng hợp và sắp xếp dữ liệu từ Acala và các blockchain khác, cung cấp dữ liệu có cấu trúc tốt cho các nhà phát triển để sử dụng cho nhiều loại dự án. Dịch vụ này cho phép các nhà phát triển DApp tập trung vào cốt lõi và giao diện người dùng của họ mà không cần lãng phí thời gian vào việc xây dựng chương trình phụ trợ tùy chỉnh để xử lý dữ liệu.
 
 Acala is a firm believer and a long-term builder for the multi-chain future — reducing liquidity fragmentation, increasing composability, and enabling DeFi accessibility to everyone. Acala is a specialized blockchain focusing on decentralized finance (DeFi), and created multiple DeFi primitives that became a DeFi hub and infrastructure serving the Polkadot and Kusama ecosystems. The team has built products including a multi-collateralized stablecoin (aUSD — The Acala Dollar), an automated market maker (AMM) DEX, a tokenized staked asset called Liquid DOT (LDOT), and implemented a bring-your-own-gas feature allowing gas fees to be payable in any supported assets such as stablecoins. Acala’s parachain plans to play the role of DeFi hub for Polkadot and a landing pad that aggregates assets and liquidity from a variety of blockchains.
 
