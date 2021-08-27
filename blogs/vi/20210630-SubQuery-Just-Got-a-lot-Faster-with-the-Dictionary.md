@@ -1,7 +1,7 @@
 ![](https://miro.medium.com/max/1400/1*iEQbr-KZNIkztylVowAuaQ.png)
 
 
-Today we are proud to announce our new improvement to SubQuery, SubQuery’s Dictionary indexing feature.
+Hôm nay, chúng tôi tự hào thông báo về cải tiến mới của chúng tôi đối với SubQuery, tính năng lập chỉ mục SubQuery Dictionary.
 
 The SubQuery Dictionary is all about speeding up your Projects. It dramatically improves indexing the performance of your SubQuery Project, **sometimes up to 10x faster.**
 
