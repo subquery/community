@@ -1,28 +1,28 @@
-# Introducing SubQuery Network — The Next Big Step Towards our Decentralised Future
+# ขอแนะนำเครือข่าย SubQuery — ก้าวสำคัญถัดไปสู่อนาคตการกระจายอำนาจของเรา
 
 
-**SubQuery’s mission is to make decentralised data more accessible.**
+**ภารกิจของ SubQuery คือการทำให้ข้อมูลที่กระจายอำนาจเข้าถึงได้มากขึ้น**
 
-We transform and organise data from Polkadot and Substrate projects, and then provide that data for developers to use for a wide array of projects (wallets, explorers, custom chains, or any other dApp).
+เราแปลงและจัดระเบียบข้อมูลจากโปรเจ็กต์ Polkadot และ Substrate จากนั้นให้ข้อมูลนั้นสำหรับนักพัฒนาเพื่อใช้สำหรับโปรเจ็กต์ที่หลากหลาย (wallet, explorer, เชนแบบกำหนดเอง หรือ dApp อื่นๆ)
 
-Everyone knows that a core weakness of blockchain data is that the processing and query performance is extremely inefficient. SubQuery provides an open source SDK, which provides the instructions on how any Indexer should traverse the blockchain, what data to collect, and how it should be shown to users.
+ทุกคนรู้ดีว่าจุดอ่อนหลักของข้อมูลบล็อคเชนคือประสิทธิภาพการประมวลผลและการ query นั้นไม่มีประสิทธิภาพอย่างยิ่ง SubQuery จัดเตรียม SDK แบบโอเพ่นซอร์ส ซึ่งให้คำแนะนำเกี่ยวกับวิธีการที่ indexer ควรสำรวจบล็อคเชน ข้อมูลใดที่จะรวบรวม และวิธีที่ควรแสดงให้ผู้ใช้เห็น
 
 ![](https://miro.medium.com/max/700/1*0l37MKpDk2ahHsqDUBxbjw.png)
 
-Creating a SubQuery project is, and always will be, free. Developers should spend time building, not running infrastructure. However we believe that a healthy decentralised future requires multiple distributed data service providers working together to improve resiliency, speed, and network performance.
+การสร้างโปรเจ็กต์ SubQuery นั้นฟรีและตลอดไป นักพัฒนาซอฟต์แวร์ควรใช้เวลาในการสร้าง ไม่ใช้มัวแต่ทำโครงสร้างพื้นฐาน However we believe that a healthy decentralised future requires multiple distributed data service providers working together to improve resiliency, speed, and network performance.
 
-# Introducing The SubQuery Network:
+# แนะนำเครือข่าย SubQuery:
 
-The SubQuery Network is our effort to move towards a decentralised and tokenised network in order to ensure no single point of failure for SubQuery and to encourage as many participants in the process as possible.
+เครือข่าย SubQuery เป็นความพยายามของเราในการก้าวไปสู่เครือข่ายแบบกระจายอำนาจรและระบบโทเค็นที่ดี เพื่อให้แน่ใจว่าไม่มีจุดบกพร่องซักจุดสำหรับ SubQuery และเพื่อส่งเสริมให้ผู้เข้าร่วมในกระบวนการให้ได้มากที่สุด
 
-[We’re releasing our white paper today for the world to read](https://static.subquery.network/whitepaper.pdf).
+[เรากำลังเผยแพร่เอกสารไวท์เปเปอร์ของเราในวันนี้เพื่อให้ผู้คนได้อ่าน](https://static.subquery.network/whitepaper.pdf)
 
-The SubQuery Network’s guiding principles are simplicity and flexibility. We’re trying to make it easy for participants to get involved in the network, but also give developers control to adapt SubQuery to fit their needs for any Substrate based chain.
+หลักการชี้นำของ SubQuery Network คือความเรียบง่ายและความยืดหยุ่น เรากำลังพยายามทำให้ผู้เข้าร่วมมีส่วนร่วมในเครือข่ายได้ง่าย แต่ยังให้นักพัฒนาควบคุมเพื่อปรับ SubQuery เพื่อให้เหมาะกับความต้องการของพวกเขาสำหรับเชนที่อิงกับ Substrate
 
 ![](https://miro.medium.com/max/700/1*5E_eIJBTvHI7W24ib_Syvw.png)
 
-**The SubQuery Network aims to power the vibrant ecosystem of decentralised applications in the Polkadot and Substrate ecosystem, we hope you join us for the ride.**
+**เครือข่าย SubQuery มีเป้าหมายเพื่อเพิ่มพลังให้กับระบบนิเวศที่มีชีวิตชีวาของแอปพลิเคชันที่กระจายอำนาจในระบบนิเวศ Polkadot และ Substrate เราหวังว่าคุณจะเข้าร่วมเดินทางกับพวกเรา**
 
-[Read the white paper now.](https://static.subquery.network/whitepaper.pdf)
+[อ่านไวท์เปเปอร์ตอนนี้](https://static.subquery.network/whitepaper.pdf)
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Medium](https://subquery.medium.com/)

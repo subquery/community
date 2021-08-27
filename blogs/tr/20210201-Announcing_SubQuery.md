@@ -1,17 +1,17 @@
-## Transform and query the world’s data for the web3.0 future
+## Web3.0 geleceği için dünyanın verilerinin dönüştürün ve sorgulayın
 
 
 ![](https://miro.medium.com/max/1400/1*J5u22qNxndcuCrFJ1mfGqg.png)
 
-OnFinality’s mission is to support blockchain developers by providing infrastructure services to customers of all shapes and sizes. We’re launching a new venture that aims to solve a core problem to advance this mission: SubQuery.
+OnFinality'nin misyonu, her şekil ve büyüklükteki müşterilere altyapı hizmetleri sağlayarak blok zinciri geliştiricilerini desteklemektir. Bu misyonu ileri taşımak için temel bir sorunu çözmeyi amaçlayan yeni bir girişim başlatıyoruz: SubQuery.
 
-Almost every blockchain has a need to process and query data. The thriving Polkadot community is going to need a service that allows them to reliably find and consume data quickly. Our project is inspired by [The Graph](https://thegraph.com/), an service currently focused on Ethereum that allows customers to do this using GraphQL.
+Hemen hemen her blok zincirin verileri işleme ve sorgulama ihtiyacı vardır. Gelişen Polkadot topluluğu, verileri  güvenilir bir şekilde bulmalarına ve hızlı bir şekilde tüketmelerine olanak tanıyan bir hizmete ihtiyaç duyacak. Our project is inspired by [The Graph](https://thegraph.com/), an service currently focused on Ethereum that allows customers to do this using GraphQL.
 
 Since decentralised systems store data across networks querying is slow and hard. For the Web 3.0 dream to be realised, it’s got to be as fast (if not faster) than centralised networks for the end user. Protocol teams are currently building centralised indexing servers for their own projects, but this poses three issues:
 
--   Polkadot/Substrate teams shouldn’t need to worry about building or managing this while they’re building the next dApp
--   Teams are constantly reinventing the wheel; the fundamental advantage of Polkadot’s parachain interoperability is to avoid this
--   In our view, the Substrate/Polkadot ecosystem is poised to reach the same level of growth as Ethereum. We believe that it needs to provide the same level of community services that Ethereum already has
+-   Polkadot/Substrate ekipleri, bir sonraki dApp'i oluştururken bunu oluşturma veya yönetme konusunda endişelenmemelidir
+-   Takımlar sürekli olarak tekerleği yeniden icat ediyor; Polkadot'un parachain ile birlikte çalışabilirliğinin temel avantajı, bundan kaçınmaktır
+-   Bize göre, Substrate/Polkadot ekosistemi, Ethereum ile aynı büyüme seviyesine ulaşmaya hazır. We believe that it needs to provide the same level of community services that Ethereum already has
 
 
 ![](https://miro.medium.com/max/1400/1*l4b4BXWkczVDaHyv30lLQQ.png)

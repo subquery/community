@@ -45,6 +45,6 @@ We expect to learn a lot, to make a lot of new friends and partners, to get a lo
 
 Next month we’ve got some exciting new announcements to share with our community, stay subscribed to our social media channels to hear about them first.
 
-James, Sam, and the SubQuery Team
+James, Sam และทีม SubQuery
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Medium](https://subquery.medium.com/)
