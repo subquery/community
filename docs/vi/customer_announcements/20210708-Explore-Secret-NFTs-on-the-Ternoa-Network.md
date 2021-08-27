@@ -1,4 +1,4 @@
-# Explore Secret NFTs on the Ternoa Network
+# Khám phá các NFT Bí Mật trên Mạng Ternoa
 
 ![](https://miro.medium.com/max/1200/0*s1fSGGelS-HVJNBm)
 
