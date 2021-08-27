@@ -1,4 +1,4 @@
-# SubQuery Raises $1.8M Seed Round for Future Expansion
+# SubQuery ระดมทุน $1.8M ในรอบ Seed สำหรับการเติบโตในอนาคต
 
 ![](https://miro.medium.com/max/1400/0*CrM8-LKRt3slWAsN)
 
