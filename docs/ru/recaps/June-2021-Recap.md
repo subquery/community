@@ -1,20 +1,20 @@
 # June 2021 Recap
 
-## Things are getting busy 🔥
+## Всё насыщенно 🔥
 
-In this monthly update:
+В этом ежемесячном обновлении:
 
--   Whitepaper Release 🎊
--   Team Expansion 👩💻
--   Staging Deployments 📥
--   SubQuery Dictionary Service 📖
--   Improving our Reach in China 🇨🇳
+-   Выпуск документа 🎊
+-   Расширение команды 👩💻
+-   Развертывание 📥
+-   Сервис SubQuery 📖
+-   Развитие партнерской базы в Китае 🇨🇳
 
-The SubQuery Network is our effort to move towards a decentralised and tokenised network in order to ensure no single point of failure for SubQuery and to encourage as many participants in the process as possible.
+Сеть SubQuery - это наша попытка перейти к децентрализованной и токенизированной сети, чтобы не допустить ни одной ошибки в SubQuery и побудить как можно больше принять участие в процессе.
 
-[Last month, we publicly released our whitepaper for the world to read.](https://static.subquery.network/whitepaper.pdf) You can also read/watch a [short explanation here](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010).
+[В прошлом месяце мы публично выпустили нашу белую бумагу для ознакомления.](https://static.subquery.network/whitepaper.pdf) Вы также можете прочитать [краткое объяснение здесь](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010).
 
-We have ambitious goals at SubQuery to be the fastest and accessible data service provider on Substrate. We’ve written this whitepaper to highlight our [competitive advantages](https://subquery.medium.com/subquery-network-our-goals-and-competitive-advantages-a6efdd544be4) and our focus now is on executing this vision. The SubQuery Network revolves around two key aspects, flexibility and simplicity.
+У нас есть амбициозные цели в SubQuery, чтобы быть самым быстрым и доступным поставщиком услуг данных в Substrate. Мы написали эту белую бумагу, чтобы подчеркнуть наши [конкурентные преимущества](https://subquery.medium.com/subquery-network-our-goals-and-competitive-advantages-a6efdd544be4) и сейчас мы сосредоточились на выполнении этого видения. Сеть SubQuery работает вокруг двух ключевых аспектов, гибкости и простоты.
 
 Ambitious goals require a first class team, and we’ve been steadily adding new members to the team over June. This includes; new development interns, a UX designer, a development documentation writer, and Chinese based business development staff.
 
