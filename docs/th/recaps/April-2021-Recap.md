@@ -1,4 +1,4 @@
-# April 2021 Recap
+# บทสรุปของเดือนเมษายน 2021
 
 เดือนเมษายนเป็นเดือนที่ยุ่งอย่างน่าเหลือเชื่อสำหรับ SubQuery เราเริ่มเติบโตขึ้นอย่างรวดเร็วจริงๆ และเราทำสถิติใหม่ได้ในทุกๆวัน อย่างที่เราให้ความคิดเห็นเมื่อเดือนก่อน ในระยะสั้นเราให้ความสนใจ 2 เรื่อง คือ การขยายขนาดแพลตฟอร์มของเราเพื่อให้ทันกับความต้องการที่พุ่งสูงขึ้น และการร่วมมือกับพันธมิตรให้มากขึ้นและมากขึ้น เพื่อช่วยพวกเขาในการสร้างโครงการ SubQuery ของพวกเขาเอง
 
@@ -13,7 +13,7 @@
 
 ![](https://miro.medium.com/max/1400/0*zZkmiEq5g2BbAxfl)
 
-This final missing piece now means we have a complete suite of tools to enable and empower customers to [explore](https://explorer.subquery.network/), [create](https://doc.subquery.network/quickstart.html), [run](https://doc.subquery.network/run/indexing_query.html), and then [publish](https://doc.subquery.network/publish/publish.html#benefits) SubQuery projects all on their own.
+ส่วนสุดท้ายที่ขาดหายไปนี้ หมายความว่าเรามีชุดเครื่องมือที่สมบูรณ์ในการเปิดใช้งานและส่งเสริมลูกค้าให้สามารถ[สำรวจ](https://explorer.subquery.network/) [สร้าง](https://doc.subquery.network/quickstart.html) [เรียกใช้](https://doc.subquery.network/run/indexing_query.html) จากนั้น [เผยแพร่](https://doc.subquery.network/publish/publish.html#benefits)โครงการ SubQuery ทั้งหมดด้วยตัวเอง
 
 ![](https://miro.medium.com/max/1400/0*pDQgyo3phe2ZcMml)
 
