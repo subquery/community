@@ -1,14 +1,14 @@
-# Introducing the SubQuery Ambassador Program
+# Giới thiệu Chương trình Đại sứ SubQuery
 
 ![](https://miro.medium.com/max/1400/1*EC5wwTuoB6UK_EESGd8X8w.png)
 
-## Represent SubQuery in Your Community!
+## Đại diện cho SubQuery trong cộng đồng của bạn!
 
-[SubQuery](https://subquery.network/) aims to be the leading data provider in Polkadot. Our mission is to power the biggest dApps in our growing ecosystem, and we’re already working with DeFi apps like [Acala](https://acala.network/) and [Bifrost](https://bifrost.finance/), wallets like [Fearless Wallet](https://fearlesswallet.io/), NFT platforms like [KodaDot](https://kodadot.xyz/), cross-chain bridges like [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia), and analytics platforms like [SubVis](https://subvis.io/).
+[SubQuery](https://subquery.network/) nhằm trở thành nhà cung cấp dữ liệu hàng đầu trong Polkadot. Our mission is to power the biggest dApps in our growing ecosystem, and we’re already working with DeFi apps like [Acala](https://acala.network/) and [Bifrost](https://bifrost.finance/), wallets like [Fearless Wallet](https://fearlesswallet.io/), NFT platforms like [KodaDot](https://kodadot.xyz/), cross-chain bridges like [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia), and analytics platforms like [SubVis](https://subvis.io/).
 
-Our ecosystem is growing, and with our announcement of the SubQuery Network we’re looking for people from around the world to join us on our mission. The SubQuery team is excited to announce that we are opening up applications for our new Ambassador program!
+Hệ sinh thái của chúng tôi đang phát triển và với thông báo về Mạng SubQuery, chúng tôi đang tìm kiếm những người từ khắp nơi trên thế giới tham gia cùng chúng tôi trong sứ mệnh này. Nhóm SubQuery vui mừng thông báo rằng chúng tôi đang mở đơn đăng ký cho chương trình Đại sứ mới của mình!
 
-We understand that one of our biggest strengths is our community, and with your help we want to grow and establish local ambassadors for communities around the world.
+Chúng tôi hiểu rằng một trong những sức mạnh lớn nhất của chúng tôi là cộng đồng và với sự giúp đỡ của bạn, chúng tôi muốn phát triển và thiết lập các đại sứ địa phương cho các cộng đồng trên toàn thế giới.
 
 [Apply Here](https://forms.gle/GXBbJ6LDpNfM2v1X6)
 
