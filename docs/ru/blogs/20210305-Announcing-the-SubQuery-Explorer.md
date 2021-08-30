@@ -1,8 +1,8 @@
-# Announcing the SubQuery Explorer
+# Представляем SubQuery Explorer
 
-Since announcing SubQuery to the world just a month ago, the response and feedback we’ve received from the Polkadot community has been overwhelmingly positive. We’ve gained thousands of followers on our channels, and there have been over 1,353 installs from NPM. It’s inspiring to receive all the messages of support, and to see the engagement from the community. **It’s time for us to give something back!**
+С момента объявления SubQuery миру всего месяц назад, ответ и отзывы от сообщества Polkadot были в основном положительными. Мы собрали тысячи последователей на наших каналах, и было более 1353 установок с помощью менеджера NPM. Приятно получать множество писем поддержки и видеть участие нашего сообщества. **Пришло время дать обратную связь!**
 
-We’ve been working overtime over the last month to release the next major stage of our roadmap for SubQuery. Today we’re announcing the release of the [SubQuery Explorer.](https://explorer.subquery.network/)
+В прошлом месяце мы работаем сверхурочно, чтобы вступить в следующий крупный этап нашей дорожной карты SubQuery. Сегодня мы объявляем о запуске [SubQuery Explorer.](https://explorer.subquery.network/)
 
 ![](https://miro.medium.com/max/1400/0*2bDaF3HPgNkpm8Kt)
 
