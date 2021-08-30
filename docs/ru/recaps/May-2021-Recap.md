@@ -1,24 +1,24 @@
-# May 2021 Recap
+# Итоги мая 2021
 
 ![](https://miro.medium.com/max/1400/1*5E_eIJBTvHI7W24ib_Syvw.png)
 
-Behind the scenes we’ve been busier than ever in May, expanding our team, delivering products, and most importantly, bring on as many partners as possible.
+За мае мы были заняты как никогда ранее, расширяя нашу команду, поставляя продукты и, самое главное, привлекая как можно больше партнеров.
 
-In this monthly update:
+В этом ежемесячном обновлении:
 
--   More SubQuery partners come onboard
--   We’re hiring!
--   SubQuery is part of the Web3.0 Bootcamp
+-   Больше партнеров SubQuery на борту
+-   Мы нанимаем!
+-   SubQuery является частью Web3.0 Bootcamp
 
 ![](https://miro.medium.com/freeze/max/60/1*bFOaBnLZUfhRxiQa7fjbwA.gif?q=20)
 
 ![](https://miro.medium.com/max/640/1*bFOaBnLZUfhRxiQa7fjbwA.gif)
 
-We’ve been reaching out to many protocols, DeFi apps, dApps, Wallets, NFT platforms, cross-chain bridges and more across the Polkadot ecosystem recently. We’re planning on improving our onboarding process for new partners to speed this up with example code, ready made projects, and better information for developers.
+Мы достигли многих DeFi приложений, dApp, кошельков, платформ NFT, кросс-чейн мостов и многое другое в экосистеме Polkadot. Мы планируем улучшить процесс адаптации новых партнеров с помощью примеров кода, готовых проектов и лучшей информации для разработчиков.
 
-> Expect the stream of new partner projects to turn into a flood.
+> Ожидая, что новые партнерские проекты наводнят нашу экосистему.
 
-At the end of May we now have a total of 48 SubQuery projects hosted on SubQuery including:
+По состоянию на конец мая у нас есть в общей сложности 48 проектов SubQuery, размещенных на нашей платформе включая:
 
 -   [Fearless Wallet](https://fearlesswallet.io/) (a leading Polkadot wallet that we are going to work closely with),
 -   [KodaDot](https://kodadot.xyz/) and [NFTMart](https://www.nftmart.io/) (NFT platforms)
