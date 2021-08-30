@@ -1,4 +1,4 @@
-# July 2021 Recap
+# Итоги июля 2021
 
 ![](https://miro.medium.com/max/1400/1*2z3_9s-SY7dAvfe6xf9IDA.png)
 
