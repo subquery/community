@@ -1,4 +1,4 @@
-# From Zero to Hello World in Just 5 Minutes
+# Từ Zero đến Hello World chỉ trong 5 phút
 
 ![](https://miro.medium.com/max/1400/1*g51P_PPoseNqEfCBgvpXXA.png)
 
