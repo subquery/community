@@ -32,12 +32,12 @@ Giờ đây, Karura đã xây dựng dApp cộng đồng đầu tiên trong trun
 
 ## Giới thiệu về SubQuery
 
-[SubQuery](https://subquery.network/) là một lớp tổng hợp dữ liệu sẽ hoạt động giữa các blockchains layer-1 (Karura) và dApps. SubQuery cho phép các nhà phát triển dApp khám phá và chuyển đổi dữ liệu trên chuỗi để xây dựng các dApp trực quan nhanh hơn mà không cần lo lắng về việc xây dựng hoặc quản lý các phụ trợ tùy chỉnh để xử lý dữ liệu. [Bắt đầu ngay bây giờ](https://doc.subquery.network/).
+[SubQuery](https://subquery.network/) là một lớp tổng hợp dữ liệu sẽ hoạt động giữa các blockchains layer-1 (Karura) và dApps. SubQuery cho phép các nhà phát triển dApp khám phá và chuyển đổi dữ liệu trên chuỗi để xây dựng các dApp trực quan nhanh hơn mà không cần lo lắng về việc xây dựng hoặc quản lý các công cụ để xử lý dữ liệu. [Bắt đầu ngay bây giờ](https://doc.subquery.network/).
 
 [Website](https://subquery.network/) | [Documentation](https://doc.subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
 
-## About Karura
+## Về Karura
 
-[Karura](http://acala.network/karura) is the all-in-one DeFi hub of Kusama. Founded by the Acala Foundation, Karura is a scalable, EVM-compatible network optimized for DeFi. The platform offers a suite of financial applications including: a trustless staking derivative (liquid KSM), a multi-collateralized stablecoin backed by cross-chain assets (kUSD), and Karura Swap, an AMM DEX --- all with micro gas fees that can be paid in any token. Karura is a blockchain platform custom-built for DeFi and powered by KAR, which enables settlement for transactions and smart contract execution, incentivizes node operators, and empowers its holders to participate in governance.
+[Karura](http://acala.network/karura) là trung tâm DeFi tất cả trong một của Kusama. Được thành lập bởi Acala Foundation, Karura là một mạng có thể mở rộng, tương thích với EVM, được tối ưu hóa cho DeFi. Nền tảng cung cấp một bộ ứng dụng tài chính bao gồm: Staking Derivative (thanh khoản KSM), một stablecoin đa thế chấp được hỗ trợ bởi các tài sản chuỗi chéo (kUSD) và Karura Swap, một AMM DEX --- tất cả đều có phí khí vi mô có thể được thanh toán bằng bất kỳ token nào. Karura là một nền tảng blockchain được xây dựng tùy chỉnh cho DeFi và được cung cấp bởi KAR, cho phép giải quyết các giao dịch và thực hiện hợp đồng thông minh, khuyến khích các nhà khai thác node và trao quyền cho chủ sở hữu của nó tham gia quản trị.
 
 [Linktree](http://linktr.ee/karuranetwork) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) | [Discord](https://discord.gg/vdbFVCH) | [Website](http://acala.network/karura) | [Twitter](https://twitter.com/KaruraNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [YouTube](http://youtube.com/c/acalanetwork)
