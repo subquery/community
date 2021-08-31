@@ -1,32 +1,32 @@
-# March 2021 Recap
+# Итоги марта 2021
 
-It’s been an intense last couple of months at OnFinality and SubQuery, we’ve expanded the team and have brought on some new partners as we launch some key new projects. In this monthly update:
+Последние пару месяцев в OnFinality и SubQuery были напряженными, мы расширили команду и привлекли новых партнеров, поскольку запускаем несколько новых ключевых проектов. В этом ежемесячном обновлении:
 
 -   SubQuery Explorer
--   Seed round update
--   Our first partner use case for SubQuery
+-   Обновление раунда раннего ивестирования
+-   Первый партнер используемый SubQuery
 -   Berkeley Blockchain Xcelerator
--   Intelligent routing
--   New office and team members
+-   Интеллектуальная маршрутизация
+-   Новые офисы и члены команды
 
-## SubQuery Explorer goes Live
+## SubQuery Explorer теперь онлайн для всех
 
-[SubQuery Explorer](https://explorer.subquery.network/) is an online hosted service that provides access to published SubQuery projects made by contributors in our community around the world and hosted by the SubQuery team. You can test queries directly in your browser, or get API endpoints for different use cases. Be inspired by what others are building so you can give back!
+[SubQuery Explorer](https://explorer.subquery.network/) — это онлайн-сервис, предоставляющий доступ к опубликованным проектам SubQuery, созданным участниками нашего сообщества со всего мира и размещенным командой SubQuery. Вы можете тестировать запросы непосредственно в вашем браузере, или получить конечные точки API для различных вариантов использования. Вдохновляйтесь тем, что строят другие, чтобы вы могли дать обратную связь!
 
-We run SubQuery projects in it like they’re production applications, so you can unlock your decentralized data in your next dApp today using SubQuery.
+В нем мы запускаем проекты SubQuery, как производственные приложения, поэтому вы можете разблокировать свои децентрализованные данные в своем следующем dApp уже сегодня с помощью SubQuery.
 
 
 ![](https://miro.medium.com/max/1400/1*GE-Y6XKNOkj_MKY4ZuM5oQ.png)
 
-## **SubQuery Raises $1.8M seed round for future expansion**
+## **SubQuery получает $1.8M на раннем стадии инвестирования для дальнейшего развития**
 
-SubQuery is ready to grow and deliver! [We successfully raised a US$1.8 million seed round](https://subquery.medium.com/subquery-raises-1-8m-seed-round-for-future-expansion-3348c1f2a931) and private sale backed primarily by DeFi Alliance, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG), and The Lao. The overwhelming demand we received to back SubQuery’s seed round shows the strong interest in infrastructure services and belief in the future of the Polkadot ecosystem.
+SubQuery готов к росту и развитию! [Мы успешно получили 1.8$M от инвесторов на раннем стадии инвестирования](https://subquery.medium.com/subquery-raises-1-8m-seed-round-for-future-expansion-3348c1f2a931) и приватная продажа токенов, поддерживаемая главным образом фондами: DeFi Alliance, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG), and The Lao. Огромный интерес, который мы получили к поддержке начального раунда SubQuery, свидетельствует о сильном интересе к инфраструктуре и вере в будущее экосистемы Polkadot.
 
-_We’re planning a subsequent private sale/raise later this year. If you’re interested in taking part please register here:_ [_https://forms.gle/6LMapDNSidQAqy347_](https://forms.gle/6LMapDNSidQAqy347)
+_Мы планируем последующую частную продажу позднее в этом году. Если вы заинтересованы в участии, пожалуйста, зарегистрируйтесь здесь:_ [_https://forms.gle/6LMapDNSidQAqy347_](https://forms.gle/6LMapDNSidQAqy347)
 
-## **SubQuery Explorer welcomes its first partner use case**
+## **SubQuery приветствует первый вариант использования своих партнеров**
 
-SubQuery is all about providing data services to our partners and customers. Every blockchain team and dApp builder has a need to process and query data quickly, and for the web3 dream to be realised, it’s got to be as fast (if not faster) than centralised networks for the end user. That’s why we’re ramping up our efforts to partner with the top Polkadot projects to provide free SubQuery services for their protocols.
+SubQuery - это полный пакет услуг по предоставлению данных нашим партнерам и клиентам. Каждая блокчейн команда и разработчики децентрализованных приложений должны быстро обрабатывать и запрашивать данные, а также реализовывать web3 мечты, он должен быть такой же быстрый (если не быстрее) чем централизованные сети для конечного пользователя. Вот почему мы прилагаем усилия к сотрудничеству с лучшими проектами Polkadot для предоставления бесплатных сервисов SubQuery для их протоколов.
 
 [Earlier we launched our first partnership with our close friends at Acala](https://subquery.medium.com/subquery-integrates-acala-to-aggregate-and-serve-defi-data-to-polkadot-and-kusama-builders-fc9af6a7aae1) to allow users and developers to query and extract data from Acala’s DeFi hub for Polkadot in only minutes and at no cost. When you access the SubQuery Explorer you’ll be welcomed with a new Acala SubQuery Project. This SubQuery dynamically tracks all the extrinsic data created on Acala and can quickly show derived aggregated stats for the following:
 
