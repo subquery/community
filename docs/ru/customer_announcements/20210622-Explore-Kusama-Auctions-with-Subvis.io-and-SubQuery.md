@@ -2,14 +2,14 @@
 
 ![](https://miro.medium.com/max/1400/1*C4rjs3vpR6TUCOqwF3L39g.png)
 
-**_We are excited to highlight a new SubQuery project that is a great example of the power of SubQuery_**
+**_Мы рады выделить новый проект SubQuery - отличный пример силы SubQuery_**
 
-Last week [Subvis.io](https://www.subvis.io/) launched their new explorer for the Kusama parachain slot auctions. This new website provides contextual up-to-date information about the crowdloans and auctions that have just begun on Kusama.
+Last week [Subvis.io](https://www.subvis.io/) launched their new explorer for the Kusama parachain slot auctions. Этот новый веб-сайт предоставляет актуальную контекстную информацию о краудлоанах и аукционах, которые только что начались в Кусаме.
 
 
 ![](https://miro.medium.com/max/1400/1*iHO4P9JcW-Gt7GxqwXxa3g.png)
 
-The Subvis.io Auction Dashboard
+Панель аукциона Subvis.io
 
 By exposing this network data on SubQuery, [Subvis.io](https://www.subvis.io/) is demonstrating to all that rich insights can already be extracted from on-chain data.
 
