@@ -1,4 +1,4 @@
-# Darwinia's Network Data is Now Available for Free on SubQuery
+# ข้อมูลเครือข่ายของ Darwinia พร้อมให้ใช้งานได้ฟรีบน SubQuery แล้ว
 
 ![](https://miro.medium.com/max/1400/0*7_sagAfI_wTKePuH)
 
