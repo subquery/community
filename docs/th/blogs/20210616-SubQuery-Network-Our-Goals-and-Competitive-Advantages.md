@@ -10,32 +10,32 @@
 
 ความได้เปรียบในการแข่งขันของเรา
 
-We understand that The SubQuery Network is competing against many players in the decentralised data industry, SubQuery looks to provide unique benefits through a multitude of competitive advantages. Our guiding principles, and what we expect to be the main advantages, are the simplicity and flexibility of our network.
+เราเข้าใจดีว่า SubQuery Network กำลังแข่งขันกับผู้เล่นหลายรายในอุตสาหกรรมข้อมูลแบบกระจายอำนาจ SubQuery พยายามที่จะให้ประโยชน์ที่ไม่เหมือนใครผ่านข้อได้เปรียบทางการแข่งขันมากมาย หลักการชี้นำของเรา และสิ่งที่เราคาดหวังว่าจะเป็นข้อได้เปรียบหลัก คือความเรียบง่ายและความยืดหยุ่นของเครือข่ายของเรา
 
-## Flexibility
+## ความยืดหยุ่น
 
-Our first advantage is our flexibility. SubQuery is open source, so anyone has the freedom to define the data set that is specific to their needs, tailored to their applications. Rather than having to combine queries from different API endpoints — you can define the shape of your APIs yourself. It saves time, money, and provides a vastly better experience for your users.
+ข้อได้เปรียบแรกของเราคือความยืดหยุ่นของเรา SubQuery เป็นโอเพ่นซอร์ส ดังนั้นทุกคนจึงมีอิสระในการกำหนดชุดข้อมูลที่เฉพาะเจาะจงกับความต้องการของพวกเขา ซึ่งปรับให้เข้ากับแอปพลิเคชันของตน แทนที่จะต้องรวมการ query ข้อมูลจากปลายทาง API ต่างๆ — คุณสามารถกำหนดรูปร่างของ API ได้ด้วยตัวเอง ช่วยประหยัดเวลา ค่าใช้จ่าย และมอบประสบการณ์ที่ดียิ่งขึ้นให้กับผู้ใช้ของคุณ
 
-## Simplicity
+## ความเรียบง่าย
 
-You do not need to be an expert to take advantage of what SubQuery offers. There is literally 3 files that need to be changed to make a working SubQuery project. Our focus will be on making SubQuery easier to use and build with than our competitors — SubQuery’s success depends on the success of our community building the future with it.
+คุณไม่จำเป็นต้องเป็นผู้เชี่ยวชาญเพื่อใช้ประโยชน์จากสิ่งที่ SubQuery นำเสนอ มีไฟล์เพียงประมาณ 3 ไฟล์ที่ต้องเปลี่ยนเพื่อทำให้โปรเจ็กต์ SubQuery ทำงานได้ เราจะมุ่งเน้นที่การทำให้ SubQuery ใช้งานและสร้างได้ง่ายกว่าคู่แข่ง — ความสำเร็จของ SubQuery ขึ้นอยู่กับความสำเร็จของชุมชนของเราในการสร้างอนาคตด้วย SubQuery
 
-## Indexer/Delegator Imbalance
+## Indexer/delegator ที่ไม่เท่าเทียม
 
-Among our competitors, we believe the ability for Indexers to change delegation reward rates without warning is unfair. We try to fix this by requiring Indexers to advertise a decrease to the Query Fee Revenue Share Rate for an entire staking era (28 day period).
+ในบรรดาคู่แข่งของเรา เราเชื่อว่าความสามารถของ indexer ในการเปลี่ยนแปลงอัตรารางวัล delegation โดยไม่มีการเตือนนั้นไม่ยุติธรรม เราพยายามแก้ไขปัญหานี้โดยกำหนดให้ indexer โฆษณาลดอัตราส่วนแบ่งรายได้ค่าธรรมเนียมการ query สำหรับระยะของการ stake ทั้งหมด (ระยะเวลา 28 วัน)
 
-## Purchase Orders Instead of Curators
+## การซื้อออเดอร์แบบ curators
 
-In marketplaces like SubQuery, where there are both buyers and sellers of data, signalling demand for future supply is difficult. Other competitors use “curators” to achieve this, participants who predict future demand and are rewarded when that future demand eventuates.
+ในตลาดกลางอย่าง SubQuery ซึ่งมีทั้งผู้ซื้อและผู้ขายข้อมูล การส่งสัญญาณอุปสงค์สำหรับอุปทานในอนาคตเป็นเรื่องยาก คู่แข่งรายอื่นใช้ "curators" เพื่อให้บรรลุสิ่งนี้, ผู้เข้าร่วมที่คาดการณ์ดีมานด์ในอนาคตและได้รับรางวัลเมื่อดีมานด์ในอนาคตนั้นมาถึง
 
-SubQuery has taken a different approach in where we look to Consumers to create an upfront commitment, a purchase order. This can be used both to attract Indexers to new SubQuery Projects, or to attract additional Indexers to existing and uncompetitive SubQuery Projects.
+SubQuery ได้ใช้แนวทางที่แตกต่างออกไปในการที่เรามองหาผู้บริโภคเพื่อสร้างข้อผูกมัดล่วงหน้า ซึ่งเป็นใบสั่งซื้อ ซึ่งสามารถใช้ได้ทั้งเพื่อดึงดูด indexers ให้กับโปรเจ็ค SubQuery ใหม่ หรือเพื่อดึงดูด indexers เพิ่มเติมให้กับโครงการ SubQuery ที่มีอยู่และยังไม่มีการแข่งขัน
 
-## Incentives for Query Performance:
+## สิ่งจูงใจสำหรับประสิทธิภาพของ Query:
 
-Our Indexer discovery and routing process will include performance data (latency and uptime) for all Indexers, and we will take steps to ensure that Consumers report on this data when unlocking micropayments to Indexers.
+กระบวนการค้นพบและกำหนดเส้นทางของ indexer ของเราจะรวมข้อมูลประสิทธิภาพ (เวลาแฝงและเวลาทำงาน) สำหรับ indexers ทั้งหมด และเราจะดำเนินการตามขั้นตอนเพื่อให้แน่ใจว่าผู้บริโภครายงานเกี่ยวกับข้อมูลนี้เมื่อปลดล็อกการจ่ายเงินขนาดเล็กไปยัง indexers
 
-This will ideally encourage Indexers in the SubQuery Network to provide infrastructure with high uptime and low latency, the best performance possible.
+สิ่งนี้จะสนับสนุนให้ตัวสร้างดัชนีในเครือข่าย SubQuery ให้บริการโครงสร้างพื้นฐานที่มีเวลาทำงานสูงและเวลาแฝงต่ำ ซึ่งมีประสิทธิภาพสูงสุด
 
-## Focus on Substrate/Polkadot:
+## โฟกัสบน Substrate/Polkadot:
 
-SubQuery committed to focus on Polkadot and Substate from the day we started. This allowed our service and tools to be built from the outset to work with Substrate. On top of this, Polkadots unique architecture makes it easier for SubQuery to support multiple current and future blockchains automatically.
+SubQuery มุ่งมั่นที่จะโฟกัสไปที่ Polkadot และ Substate ตั้งแต่วันที่เราเริ่มต้น สิ่งนี้ทำให้บริการและเครื่องมือของเราถูกสร้างขึ้นตั้งแต่เริ่มแรกเพื่อทำงานกับ Substrate นอกจากนี้ สถาปัตยกรรมที่เป็นเอกลักษณ์ของ Polkadots ยังช่วยให้ SubQuery รองรับบล็อกเชนในปัจจุบันและอนาคตหลายตัวได้ง่ายขึ้นโดยอัตโนมัติ
