@@ -18,14 +18,14 @@
 
 ## เกี่ยวกับ Subscan
 
-[Subscan.io](https://www.subscan.io/) is a high-precision multi-chain explorer built for substrate-based blockchains. Subscan supports data exploration and visualization of more than 30 networks in the Polkadot ecosystem.
+[Subscan.io](https://www.subscan.io/) คือ multi-chain explorer ที่มีความแม่นยำสูงซึ่งถูกสร้างมาสำหรับบล็อกเชน substrate Subscan สนับสนุน data exploration และ visualization ของเครือข่ายมากกว่า 30 รายการบนระบบนิเวศน์ Polkadot
 
-Subscan provides customized services for the ecological network, such as EVM module, multi-token, etc. In addition, Subscan also provides stable API services, data charts and convenient tool applications.
+Subscan มีบริการเฉพาะต่างๆ สำหรับเครือข่ายที่เกี่ยวกับระบบนิเวศน์ เช่น EVM module, multi-token, และอื่นๆ นอกจากนี้ Subscan ยังให้บริการ API และกราฟข้อมูลที่มีความเสถียร รวมถึงแอปพลิเคชันเครื่องมือที่สะดวกสบาย
 
 [Website](https://www.subscan.io/) | [Email](mailto:hello@subscan.io) | [Medium](https://medium.com/subscan) | [Element](https://riot.im/app/#/room/!uaYUrKBueiKUurHliJ:matrix.org) | [Twitter](https://twitter.com/subscan_io/) | [GitHub](https://github.com/itering/subscan-essentials)
 
-## About SubQuery
+## เกี่ยวกับ SubQuery
 
-[SubQuery](https://subquery.network/) is a data aggregation layer that will operate between the layer-1 blockchains (Kusama) and DApps (like Kodadot). This service allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+[SubQuery](https://subquery.network/) เป็นเลเยอร์รวบรวมข้อมูลที่ทำงานระหว่างบล็อกเชนเลเยอร์-1 (Kusama) และ DApps (อย่าง Kodadot) บริการนี้ช่วยให้นักพัฒนา DApp สามารถมุ่งเน้นไปที่กรณีการใช้งานหลักและ front-end โดยไม่ต้องเสียเวลาไปกับการสร้าง back-end สำหรับการประมวลผลข้อมูลเอง
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)
