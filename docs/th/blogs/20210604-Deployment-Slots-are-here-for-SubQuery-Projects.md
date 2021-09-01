@@ -1,4 +1,4 @@
-# Deployment Slots are here for SubQuery Projects
+# สล็อตการ deploy ที่นี่สำหรับโปรเจ็คของ SubQuery
 
 > วันนี้เราขอแนะนำ deployment slots ซึ่งเป็นคุณสมบัติใหม่ที่จะปรับปรุงประสบการณ์ของนักพัฒนาในบริการโฮสต์ของ SubQuery
 
