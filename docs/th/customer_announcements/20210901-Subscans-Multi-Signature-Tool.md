@@ -1,22 +1,22 @@
-# Subscan's Multi-Signature Tool - Powered by SubQuery
+# เครื่องมือ Multi-Signature จาก Subscan - ขับเคลื่อนด้วย Subquery
 
 ![Subscan header.jpg](https://cdn-images-1.medium.com/max/1600/1*Xs3mJrvClJq3qBzWU48fjg.jpeg)
 
-Subscan's new [multi-signature wallet tool](https://medium.com/r/?url=https%3A%2F%2Fmultisig.subscan.io%2F) is designed to help others in the Polkadot ecosystem create and manage multi-signature accounts and transactions. It is supported by the [Web3 Foundation Grants Program](https://github.com/w3f/Grants-Program/blob/master/applications/multisignature_management_tool.md) and provides convenient multi-signature wallet management services for multiple networks based in Polkadot.
+[เครื่องมือ multi-signature wallet](https://medium.com/r/?url=https%3A%2F%2Fmultisig.subscan.io%2F) จาก Subscan ถูกออกแบบมาเพื่อให้ผู้ใช้งานบนระบบนิเวศน์ Polkadot สามารถสร้างและจัดการบัญชีรวมถึงธุรกรรมแบบ multi-signature ได้ โดยสิ่งนี้ได้รับการสนับสนุนจาก [Web3 Foundation Grants Program](https://github.com/w3f/Grants-Program/blob/master/applications/multisignature_management_tool.md) และให้บริการที่สะดวกสบายในการจัดการ multi-signature wallet สำหรับเครือข่ายที่หลากหลายบน Polkadot
 
-SubQuery's service plays a key part in this tool providing fast data on transaction for any given multi signature address, which improves the UX and allows more advanced features.
+บริการของ SubQuery มีบทบาทที่สำคัญในการให้บริการข้อมูลที่รวดเร็วบนธุรกรรมสำหรับ multi-signature address ต่างๆ ซึ่งช่วยปรับปรุงประสบการณ์ของผู้ใช้งานให้ดียิ่งขึ้นและทำให้สามารถพัฒนาฟีเจอร์ที่มีความซับซ้อนกว่าเดิมได้
 
-![Users can easily create new multi-signature addresses](https://cdn-images-1.medium.com/max/1600/1*e4AALzw8xzERhzBJgPUktQ.png)
+![ผู้ใช้งานสามารถสร้าง multi-signature address ได้ง่ายๆ](https://cdn-images-1.medium.com/max/1600/1*e4AALzw8xzERhzBJgPUktQ.png)
 
-> *"SubQuery has made it easy for us to index data for the Subscan Multi-signature tool and can be easily run by our team. Subscan's API service is standardised, we recommend SubQuery to our users when they have more customisation requirements."* - Subscan
+> *"SubQuery ช่วยให้เราทำดัชนีข้อมูลสำหรับเครื่องมือ Subscan multi-signature และสามารถรันมันได้เองอย่างง่ายดาย บริการ API ของ Subscan นั้นได้มาตรฐาน และเราจะแนะนำ SubQuery ให้กับผู้ใช้งานของเราหากพวกเขามีความต้องการเฉพาะอื่นๆ"* - Subscan
 
 ![](https://cdn-images-1.medium.com/max/1600/1*Hy-1IxJ3ZNQX7qC38H19Bg.png)
 
-[Try out the tool here](https://medium.com/r/?url=https%3A%2F%2Fmultisig.subscan.io%2F)
+[ลองใช้เครื่องมือได้ที่นี่](https://medium.com/r/?url=https%3A%2F%2Fmultisig.subscan.io%2F)
 
 ---
 
-## About Subscan
+## เกี่ยวกับ Subscan
 
 [Subscan.io](https://www.subscan.io/) is a high-precision multi-chain explorer built for substrate-based blockchains. Subscan supports data exploration and visualization of more than 30 networks in the Polkadot ecosystem.
 
