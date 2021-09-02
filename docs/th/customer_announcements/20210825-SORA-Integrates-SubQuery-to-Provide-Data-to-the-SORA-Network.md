@@ -6,11 +6,11 @@
 
 ![sora-frontend.jpg](https://miro.medium.com/max/1400/1*pq0U6wsutlf8rjXqq7i2BQ.jpeg)
 
-> "SubQuery ถูกเลือกเพื่อที่จะนำมาปรับปรุงประสบการณ์ของผู้ใช้งาน (UX) ในการใช้งาน SORA network เราใช้ SubQuery เพื่อที่จะดึงและลิสต์ข้อมูลที่มาจากภายนอก, คำนวณราคาเงินตรา (fiat) รวมถึงอัตราผลตอบแทนต่อปี (APY) ของ pool สภาพคล่อง ซึ่งเป้าหมายของเราคือการได้ประวัติการทำธุรกรรมและข้อมูลต่างๆ ที่ถูกรวบรวมมาสำหรับแอปพลิเคชันที่ทำงานบน SORA network
+> "SubQuery ถูกเลือกเพื่อที่จะนำมาปรับปรุงประสบการณ์ของผู้ใช้งาน (UX) ในการใช้งาน SORA network เราใช้ SubQuery เพื่อที่จะดึงและลิสต์ข้อมูลที่มาจากภายนอก, คำนวณราคา รวมถึงอัตราผลตอบแทนต่อปี(APY) ของพูลสภาพคล่อง ซึ่งเป้าหมายของเราคือการได้ประวัติการทำธุรกรรมและข้อมูลต่างๆ ที่ถูกรวบรวมมาสำหรับแอปพลิเคชันที่ทำงานบน SORA network
 > 
-> SubQuery คือวิธีแก้ปัญหาในอุดมคติสำหรับความต้องการของเรา เพราะตัวแอปพลิเคชันสามารถปรับใช้งานและจัดการดูแลได้ง่าย รวมถึงง่ายที่จะเรียนรู้และพัฒนาต่อยอด นอกจากนี้ยังมีเอกสารข้อมูลที่เกี่ยวข้องมากมาย และมีโครงสร้างพื้นฐานที่มีการทำงานร่วมกับ Github เป็นของตัวเองอีกด้วย SubQuery's plain data structuring provides fast access, it supports GraphQL API for client applications, it has a flexible configuration for parsing events, extrinsics, and blocks with additional filtration. Finally, the application is completely transparent for users, so they won't notice if the application was updated or stopped."—SORA Development Team
+> SubQuery คือวิธีแก้ปัญหาในอุดมคติสำหรับความต้องการของเรา เพราะตัวแอปพลิเคชันสามารถปรับใช้งานและจัดการดูแลได้ง่าย รวมถึงง่ายที่จะเรียนรู้และพัฒนาต่อยอด นอกจากนี้ยังมีเอกสารข้อมูลที่เกี่ยวข้องมากมาย และมีโครงสร้างพื้นฐานที่มีการทำงานร่วมกับ Github เป็นของตัวเองอีกด้วย โครงสร้างข้อมูลที่เรียบง่ายของ SubQuery นั้นสามารถเข้าถึงได้อย่างรวดเร็ว และรองรับ GraphQL API สำหรับแอปพลิเคชันของลูกค้า รวมถึงมีการกำหนดค่าที่ยืดหยุ่นสำหรับกระบวนการวิเคราะห์ event, extrinsic, และ block ด้วยการกรองข้อมูลเพิ่มเติม และสุดท้ายก็คือการเป็นแอปพลิเคชันที่มีความโปร่งใสที่สุดกับผู้ใช้งาน โดยพวกเขาจะไม่ทันสังเกตด้วยซ้ำหากแอปพลิเคชันมีการอัปเดตหรือหยุดทำงานไป" — ทีมผู้พัฒนา SORA
 
-Polkaswap is a leading DEX in the thriving Polkadot ecosystem and uses SubQuery to retrieve transfers, swaps that happen in Polkaswap, the addition or removal of liquidity, the flat price of tokens, and the APY for liquidity pools.
+Polkaswap คือตลาดแลกเปลี่ยนแบบกระจายอำนาจ (DEX) ชั้นนำบนระบบนิเวศ Polkadot ที่กำลังเติบโต ซึ่งพวกเขาใช้ SubQuery ในการเรียกข้อมูลการโอน, การแลกเปลี่ยนที่เกิดขึ้นบน Polkaswap, การเพิ่มหรือถอนสภาพคล่อง, ราคาของโทเคน, และอัตราผลตอบแทนต่อปี(APY) ของพูลสภาพคล่องต่าง
 
 SubQuery already makes developing the SORA mobile app and Polkaswap easier by reducing the time the team spends on building custom backend solutions and the team at SORA plan to expand their Polkaswap SubQuery Project to better support Polkaswap in the future.
 
