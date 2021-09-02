@@ -1,12 +1,12 @@
-# SORA Integrates SubQuery to Provide Data to the SORA Network
+# SORA ร่วมมือกับ Subquery เพื่อให้บริการข้อมูลกับ SORA Network
 
 ![sora-header.jpg](https://miro.medium.com/max/1400/1*fPPW0DsynIt9QpvK4ZrsUA.jpeg)
 
-Today we are pleased to announce an exciting new project on SubQuery — SORA and Polkaswap. [SORA](https://sora.org/) has built a SubQuery Project that retrieves data from the SORA network to power mobile applications built on SORA and [Polkaswap.io](http://polkaswap.io/). You can try it out [here](https://explorer.subquery.network/subquery/sora-xor/sora).
+Today we are pleased to announce an exciting new project on SubQuery — SORA and Polkaswap. โดย [SORA](https://sora.org/) ได้สร้างโปรเจกต์ SubQuery ซึ่งดึงข้อมูลมาจาก SORA network เพื่อขับเคลื่อนแอปพลิเคชันมือถือที่สร้างบน SORA และ [Polkaswap.io](http://polkaswap.io/) คุณสามารถทดลองใช้ได้[ที่นี่](https://explorer.subquery.network/subquery/sora-xor/sora)
 
 ![sora-frontend.jpg](https://miro.medium.com/max/1400/1*pq0U6wsutlf8rjXqq7i2BQ.jpeg)
 
-> "SubQuery was selected to improve the UX of SORA network usage. We used SubQuery to get and list extrinsic details, calculate fiat prices and liquidity pool APY. Our goal was to get transaction history and aggregated data for applications that work with the SORA network.
+> "SubQuery ถูกเลือกเพื่อที่จะนำมาปรับปรุงประสบการณ์ของผู้ใช้งาน (UX) ในการใช้งาน SORA network We used SubQuery to get and list extrinsic details, calculate fiat prices and liquidity pool APY. Our goal was to get transaction history and aggregated data for applications that work with the SORA network.
 > 
 > SubQuery has been the ideal solution for our needs because the application is easy to deploy and manage, it is easy to learn and develop as well as being well documented, and it also has its own infrastructure with Github integration. SubQuery's plain data structuring provides fast access, it supports GraphQL API for client applications, it has a flexible configuration for parsing events, extrinsics, and blocks with additional filtration. Finally, the application is completely transparent for users, so they won't notice if the application was updated or stopped."—SORA Development Team
 
