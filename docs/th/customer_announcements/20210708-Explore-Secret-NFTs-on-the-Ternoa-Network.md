@@ -1,4 +1,4 @@
-# Explore Secret NFTs on the Ternoa Network
+# สำรวจ Secret NFT บน Ternoa Network
 
 ![](https://miro.medium.com/max/1200/0*s1fSGGelS-HVJNBm)
 
