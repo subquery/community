@@ -1,4 +1,4 @@
-# SubQuery Network - Summary
+# SubQuery Network - สรุป
 
 > SubQuery Network ทำงานอย่างไร? [อธิบายให้เข้าใจง่ายๆ](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
 
