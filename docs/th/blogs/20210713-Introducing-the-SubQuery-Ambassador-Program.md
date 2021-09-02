@@ -6,11 +6,11 @@
 
 SubQuery วางเป้าหมายที่จะเป็นผู้นำในการป้อนข้อมูลของ บล็อคเชน Polkadot Our mission is to power the biggest dApps in our growing ecosystem, and we’re already working with DeFi apps like [Acala](https://acala.network/) and [Bifrost](https://bifrost.finance/), wallets like [Fearless Wallet](https://fearlesswallet.io/), NFT platforms like [KodaDot](https://kodadot.xyz/), cross-chain bridges like [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia), and analytics platforms like [SubVis](https://subvis.io/).
 
-Our ecosystem is growing, and with our announcement of the SubQuery Network we’re looking for people from around the world to join us on our mission. The SubQuery team is excited to announce that we are opening up applications for our new Ambassador program!
+Our ecosystem is growing, and with our announcement of the SubQuery Network we’re looking for people from around the world to join us on our mission. ทีมงานของ SubQuery รู้สึกตื่นเต้นที่จะประกาศว่าทางเราได้เปิดรับใบสมัครโครงการ Ambassador
 
 We understand that one of our biggest strengths is our community, and with your help we want to grow and establish local ambassadors for communities around the world.
 
-[Apply Here](https://forms.gle/GXBbJ6LDpNfM2v1X6)
+[ลิงค์ สำหรับใบสมัคร](https://forms.gle/GXBbJ6LDpNfM2v1X6)
 
 Our team came together with the shared vision to build the foundations of a flexible and inclusive data service for the Polkadot ecosystem.
 
