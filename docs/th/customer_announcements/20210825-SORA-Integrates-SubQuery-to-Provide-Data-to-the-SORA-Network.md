@@ -10,32 +10,32 @@
 > 
 > SubQuery คือวิธีแก้ปัญหาในอุดมคติสำหรับความต้องการของเรา เพราะตัวแอปพลิเคชันสามารถปรับใช้งานและจัดการดูแลได้ง่าย รวมถึงง่ายที่จะเรียนรู้และพัฒนาต่อยอด นอกจากนี้ยังมีเอกสารข้อมูลที่เกี่ยวข้องมากมาย และมีโครงสร้างพื้นฐานที่มีการทำงานร่วมกับ Github เป็นของตัวเองอีกด้วย โครงสร้างข้อมูลที่เรียบง่ายของ SubQuery นั้นสามารถเข้าถึงได้อย่างรวดเร็ว และรองรับ GraphQL API สำหรับแอปพลิเคชันของลูกค้า รวมถึงมีการกำหนดค่าที่ยืดหยุ่นสำหรับกระบวนการวิเคราะห์ event, extrinsic, และ block ด้วยการกรองข้อมูลเพิ่มเติม และสุดท้ายก็คือการเป็นแอปพลิเคชันที่มีความโปร่งใสที่สุดกับผู้ใช้งาน โดยพวกเขาจะไม่ทันสังเกตด้วยซ้ำหากแอปพลิเคชันมีการอัปเดตหรือหยุดทำงานไป" — ทีมผู้พัฒนา SORA
 
-Polkaswap คือตลาดแลกเปลี่ยนแบบกระจายอำนาจ (DEX) ชั้นนำบนระบบนิเวศ Polkadot ที่กำลังเติบโต ซึ่งพวกเขาใช้ SubQuery ในการเรียกข้อมูลการโอน, การแลกเปลี่ยนที่เกิดขึ้นบน Polkaswap, การเพิ่มหรือถอนสภาพคล่อง, ราคาของโทเคน, และอัตราผลตอบแทนต่อปี(APY) ของพูลสภาพคล่องต่าง
+Polkaswap คือตลาดแลกเปลี่ยนแบบกระจายอำนาจ(DEX)ชั้นนำบนระบบนิเวศ Polkadot ที่กำลังเติบโต ซึ่งพวกเขาใช้ SubQuery ในการเรียกข้อมูลการโอน, การแลกเปลี่ยนที่เกิดขึ้นบน Polkaswap, การเพิ่มหรือถอนสภาพคล่อง, ราคาของโทเคน, และอัตราผลตอบแทนต่อปี(APY)ของพูลสภาพคล่องต่าง
 
-SubQuery already makes developing the SORA mobile app and Polkaswap easier by reducing the time the team spends on building custom backend solutions and the team at SORA plan to expand their Polkaswap SubQuery Project to better support Polkaswap in the future.
+SubQuery ได้ช่วยทำให้การพัฒนาแอปมือถือ SORA และ Polkaswap ง่ายยิ่งขึ้นด้วยการลดเวลาที่ทีมต้องหมดไปกับการออกแบบระบบหลังบ้าน(back-end) เอง และทีมที่ SORA ก็ยังมีแผนที่จะขยับขยายโปรเจกต์ Polkaswap SubQuery ของพวกเขาให้รองรับ Polkaswap ได้ดีขึ้นในอนาคต
 
 ![sora-explorer.jpg](https://miro.medium.com/max/1400/1*vjdjmmffvJ7zfOQyxo0ZAA.jpeg)
 
-In this example, we’re using SubQuery to pull the total amount of XOR that is held in each liquidity pool (filtered to show only the first 2 pools). This example also shows the current APY associated to each liquidity pool (filtered to show only the first 2 pools).
+ในตัวอย่างนี้ เราใช้ SubQuery เพื่อดึงจำนวนทั้งหมดของ XOR ที่มีอยู่ในพูลสภาพคล่องแต่ละอัน(ตั้งฟิลเตอร์ให้แสดงเฉพาะสองพูลแรกเท่านั้น) ตัวอย่างนี้ยังแสดงให้เห็นถึงอัตราผลตอบแทนต่อปี(APY) ที่ผูกอยู่กับพูลสภาพคล่องแต่ละอันอีกด้วย(ตั้งฟิลเตอร์ให้แสดงผลเฉพาะสองพูลแรกเท่านั้น)
 
 ![sora-playground.jpg](https://miro.medium.com/max/1400/1*oTh-ajGfG1oEhYdvqo12tQ.jpeg)
 
-SORA is using [SubQuery Projects](https://project.subquery.network/) to manage their project and make updates as required. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/).
+SORA กำลังใช้ [SubQuery Project](https://project.subquery.network/) เพื่อบริหารจัดการโปรเจกต์ของพวกเขาและทำการอัปเดตเมื่อจำเป็น บริการจัดทำดัชนีและสืบค้นข้อมูลที่เรามีให้นั้นได้รับการจัดการโดย SubQuery และให้บริการฟรีแก่ชุมชน Polkadot ใน [SubQuery's Explorer](https://explorer.subquery.network/)
 
-Explore SORA's project in the SubQuery explorer [here](https://explorer.subquery.network/subquery/sora-xor/sora).
+สำรวจโปรเจกต์ของ SORA บน SubQuery explorer [ที่นี่](https://explorer.subquery.network/subquery/sora-xor/sora)
 
 ---
 
-### About SORA
+### เกี่ยวกับ SORA
 
-SORA is creating a supranational world economic system with built-in tools for decentralized finance (DeFi) under the cryptographic sortition-based democratic supervision of the SORA Parliament.
+SORA กำลังสร้างระบบเศรษฐกิจระดับโลกระหว่างหลากหลายประเทศด้วยเครื่องมือบิวท์อินสำหรับระบบการเงินแบบกระจายอำนาจ(DeFi) ภายใต้การกำกับดูแลแบบประชาธิปไตยด้วยการเข้ารหัสแบบเรียงลำดับของ SORA Parliament
 
-The SORA network excels at providing tools for decentralized applications that use digital assets, such as atomic token swaps, bridging tokens to other blockchains, and creating programmatic rules involving digital assets.
+SORA network มีความเชี่ยวชาญในการจัดหาเครื่องมือสำหรับแอปพลิเคชันแบบกระจายศูนย์ที่ใช้สินทรัพย์ดิจิทัล เช่น การแลกเปลี่ยนโทเคนแบบ atomic swap, การ bridge โทเคนช้ามเชนไปบล็อกเชนอื่นๆ และการสร้างกฎที่เกี่ยวข้องกับสินทรัพย์ดิจิทัลด้วยโปรแกรม
 
 [Website](https://sora.org/) | [Reddit](https://www.reddit.com/r/SORA/) | [Blog](https://sora.org/blog) | [Telegram](https://t.me/sora_xor) | [Twitter](https://twitter.com/sora_xor) | [YouTube](https://youtube.com/sora_xor) | [Instagram](https://instagram.com/sora_xor)
 
-### About SubQuery
+### เกี่ยวกับ SubQuery
 
-[SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications (DApps). Currently focused on Polkadot and Substrate projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+[SubQuery](https://subquery.network/) คือเลเยอร์การรวบรวม, จัดทำดัชนีและสืบค้น(query)ข้อมูล แบบกระจายศูนย์ ระหว่างเลเยอร์ 1 ของบล็อกเชนและแอปพลิเคชันที่กระจายศูนย์(DApps) ปัจจุบันมุ่งเน้นไปที่โปรเจกต์ Polkadot และ Substrate ซึ่งบริการข้อมูลนี้ช่วยให้นักพัฒนาสามารถโฟกัสไปที่การใช้งานหลัก(core use case) และระบบหน้าบ้าน(front-end) โดยไม่ต้องเสียเวลาไปกับการออกแบบระบบหลังบ้าน(back-end)เอง เพื่อใช้ประมวลผลข้อมูล
 
 [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Email](mailto:hello@subquery.network)
