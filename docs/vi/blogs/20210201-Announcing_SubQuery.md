@@ -1,5 +1,6 @@
-## Chuyển đổi và truy vấn dữ liệu của thế giới cho tương lai web3.0
+# Announcing SubQuery
 
+## Chuyển đổi và truy vấn dữ liệu của thế giới cho tương lai web3.0
 
 ![](https://miro.medium.com/max/1400/1*J5u22qNxndcuCrFJ1mfGqg.png)
 
@@ -12,7 +13,6 @@ Vì các hệ thống phi tập trung lưu trữ dữ liệu trên các mạng n
 -   Các nhóm Polkadot/Substrate không cần phải lo lắng về việc xây dựng hoặc quản lý điều này trong khi họ đang xây dựng dApp tiếp theo
 -   Các đội liên tục sáng tạo lại bánh xe; lợi thế cơ bản của khả năng tương tác parachain của Polkadot là tránh được điều này
 -   Theo quan điểm của chúng tôi, hệ sinh thái Substrate/Polkadot đã sẵn sàng để đạt được mức tăng trưởng tương tự như Ethereum. Chúng tôi tin rằng nó cần cung cấp cùng một mức độ dịch vụ cộng đồng mà Ethereum đã có
-
 
 ![](https://miro.medium.com/max/1400/1*l4b4BXWkczVDaHyv30lLQQ.png)
 

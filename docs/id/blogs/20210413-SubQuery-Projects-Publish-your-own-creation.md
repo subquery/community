@@ -1,9 +1,8 @@
+# SubQuery Projects — Publish your own creation!
+
 ![](https://miro.medium.com/max/1400/0*Jhkt10DyMiptFocJ)
 
 SubQuery Projects
-
-# SubQuery Projects — Publish your own creation!
-
 
 Today we’re launching the next phase of SubQuery — [Projects](https://project.subquery.network). SubQuery’s mission is to make the world’s decentralised data more accessible, so this announcement this week is huge for our community!
 

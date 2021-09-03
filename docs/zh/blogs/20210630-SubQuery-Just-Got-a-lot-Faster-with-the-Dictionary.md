@@ -1,5 +1,6 @@
-![](https://miro.medium.com/max/1400/1*iEQbr-KZNIkztylVowAuaQ.png)
+# SubQuery Just Got a Lot Faster with the Dictionary
 
+![](https://miro.medium.com/max/1400/1*iEQbr-KZNIkztylVowAuaQ.png)
 
 Today we are proud to announce our new improvement to SubQuery, SubQuery’s Dictionary indexing feature.
 

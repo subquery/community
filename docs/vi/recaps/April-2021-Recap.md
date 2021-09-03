@@ -1,3 +1,4 @@
+# Bản tóm tắt Tháng 4 năm 2021
 
 Tháng 4 là một tháng vô cùng bận rộn đối với SubQuery, sự phát triển của chúng tôi đang bắt đầu tăng tốc với tốc độ khủng khiếp và chúng tôi đang phá vỡ các kỷ lục mới mỗi ngày. Như chúng tôi đã đề cập vào tháng trước, trọng tâm của chúng tôi trong ngắn hạn là hai yếu tố; mở rộng quy mô nền tảng của chúng tôi để bắt kịp với nhu cầu tăng vọt và tương tác với ngày càng nhiều đối tác để giúp họ tạo các dự án SubQuery của riêng mình.
 

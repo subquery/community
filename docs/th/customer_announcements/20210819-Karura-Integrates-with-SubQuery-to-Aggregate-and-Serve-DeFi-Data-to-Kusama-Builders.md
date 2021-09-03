@@ -1,6 +1,6 @@
-![](https://cdn-images-1.medium.com/max/1600/0*EBj5be1webNUchfi)
-
 # Karura Integrates with SubQuery to Aggregate and Serve DeFi Data to Kusama Builders
+
+![](https://cdn-images-1.medium.com/max/1600/0*EBj5be1webNUchfi)
 
 In recent weeks, Karura and Acala team celebrated the launch of [Karura Swap](https://apps.karura.network/), the first decentralized exchange in the Polkadot/Kusama ecosystem.
 
@@ -30,7 +30,7 @@ It's now up to the Karura community to build the first community dApp in the DeF
 
 ![](https://cdn-images-1.medium.com/max/1600/0*t6stH0LeQC8M5fSp)
 
-## เกี่ยวกับ SubQuery
+## About SubQuery
 
 [SubQuery](https://subquery.network/) is a data aggregation layer that will operate between the layer-1 blockchains (Karura) and dApps. SubQuery allows dApp developers to explore and transform on-chain data to build intuitive dApps faster, without needing to worry about building or managing custom backends for data processing. [Get started now](https://doc.subquery.network/).
 

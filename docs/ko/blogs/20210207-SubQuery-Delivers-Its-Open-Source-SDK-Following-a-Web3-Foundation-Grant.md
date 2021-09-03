@@ -1,5 +1,6 @@
+# SubQuery Delivers its Open Source SDK Following a Web3 Foundation Grant
 
-**Developers can now transform and query the world’s data for the Web3 future**
+## Developers can now transform and query the world’s data for the Web3 future
 
 ![](https://miro.medium.com/max/1400/1*f9Jw37LjUGu8P8W39cjDYw.png)
 

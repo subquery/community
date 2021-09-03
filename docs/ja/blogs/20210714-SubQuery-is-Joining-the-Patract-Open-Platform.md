@@ -1,3 +1,5 @@
+# SubQuery is Joining the Patract Open Platform
+
 ![](https://miro.medium.com/max/1400/0*0inUQ8U1g9auTjfU)
 
 ## **Providing Free Data Indexing for Wasm Tech Alliance**

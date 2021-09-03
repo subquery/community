@@ -1,3 +1,4 @@
+# Bifrost chooses SubQuery to provide the data for their new dApp
 
 ![](https://miro.medium.com/max/1400/0*nqNosmn0y7FHOI42)
 

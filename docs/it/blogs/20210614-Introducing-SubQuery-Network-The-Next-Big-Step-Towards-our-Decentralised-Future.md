@@ -1,6 +1,5 @@
 # Introducing SubQuery Network — The Next Big Step Towards our Decentralised Future
 
-
 **SubQuery’s mission is to make decentralised data more accessible.**
 
 We transform and organise data from Polkadot and Substrate projects, and then provide that data for developers to use for a wide array of projects (wallets, explorers, custom chains, or any other dApp).

@@ -1,5 +1,6 @@
-![](https://miro.medium.com/max/1200/0*s1fSGGelS-HVJNBm)
+# สำรวจ Secret NFT บน Ternoa Network
 
+![](https://miro.medium.com/max/1200/0*s1fSGGelS-HVJNBm)
 
 During the week of July 5th, Ternoa has introduced its new Wallet, an app allowing future users to send and receive $CAPS and ‘**_Secret NFTs’_** minted on the Ternoa Blockchain, as well as easily unveiling their Secret to their owners. The concept of ‘**_Secret_**’ for ‘**_NTFs_**’ has been imagined by the Ternoa team.
 

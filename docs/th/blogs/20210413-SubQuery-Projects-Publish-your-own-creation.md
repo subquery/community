@@ -1,9 +1,8 @@
+# SubQuery Projects — เผยแพร่ผลงานของคุณ!
+
 ![](https://miro.medium.com/max/1400/0*Jhkt10DyMiptFocJ)
 
 SubQuery Projects
-
-# SubQuery Projects — เผยแพร่ผลงานของคุณ!
-
 
 วันนี้ เราจะเปิดตัว SubQuery เฟสต่อไป — [Projects](https://project.subquery.network) ภารกิจของ SubQuery คือการทำให้ข้อมูลรูปแบบกระจายอำนาจบนโลกสามารถเข้าถึงได้มากขึ้น ดังนั้นการประกาศในสัปดาห์นี้จึงเป็นเรื่องใหญ่สำหรับชุมชนของเรา!
 
@@ -35,7 +34,7 @@ SubQuery Project ที่เผยแพร่ใหม่
 
 [ทำตามคำแนะนำของเราเพื่อเผยแพร่โปรเจกต์แรกของคุณ](https://doc.subquery.network/publish/publish.html)ใน [SubQuery Projects](https://project.subquery.network)
 
-เริ่มการสืบค้นข้อมูลใน [SubQuery Explorer](https://explorer.subquery.network/) อันใหม่
+เริ่มการ query ข้อมูลใน [SubQuery Explorer](https://explorer.subquery.network/) อันใหม่
 
 สร้างโปรเจกต์ SubQuery ของคุณเองโดยทำตาม [เอกสาร SubQuery](https://doc.subquery.network/) ของเรา
 

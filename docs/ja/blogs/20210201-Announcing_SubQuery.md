@@ -1,5 +1,6 @@
-## Transform and query the world’s data for the web3.0 future
+# Announcing SubQuery
 
+## Transform and query the world’s data for the web3.0 future
 
 ![](https://miro.medium.com/max/1400/1*J5u22qNxndcuCrFJ1mfGqg.png)
 
@@ -12,7 +13,6 @@ Since decentralised systems store data across networks querying is slow and hard
 -   Polkadot/Substrate teams shouldn’t need to worry about building or managing this while they’re building the next dApp
 -   Teams are constantly reinventing the wheel; the fundamental advantage of Polkadot’s parachain interoperability is to avoid this
 -   In our view, the Substrate/Polkadot ecosystem is poised to reach the same level of growth as Ethereum. We believe that it needs to provide the same level of community services that Ethereum already has
-
 
 ![](https://miro.medium.com/max/1400/1*l4b4BXWkczVDaHyv30lLQQ.png)
 

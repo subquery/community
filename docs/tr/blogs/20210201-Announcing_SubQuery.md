@@ -1,5 +1,6 @@
-## Web3.0 geleceği için dünyanın verilerinin dönüştürün ve sorgulayın
+# Announcing SubQuery
 
+## Web3.0 geleceği için dünyanın verilerinin dönüştürün ve sorgulayın
 
 ![](https://miro.medium.com/max/1400/1*J5u22qNxndcuCrFJ1mfGqg.png)
 
@@ -12,7 +13,6 @@ Since decentralised systems store data across networks querying is slow and hard
 -   Polkadot/Substrate ekipleri, bir sonraki dApp'i oluştururken bunu oluşturma veya yönetme konusunda endişelenmemelidir
 -   Takımlar sürekli olarak tekerleği yeniden icat ediyor; Polkadot'un parachain ile birlikte çalışabilirliğinin temel avantajı, bundan kaçınmaktır
 -   Bize göre, Substrate/Polkadot ekosistemi, Ethereum ile aynı büyüme seviyesine ulaşmaya hazır. We believe that it needs to provide the same level of community services that Ethereum already has
-
 
 ![](https://miro.medium.com/max/1400/1*l4b4BXWkczVDaHyv30lLQQ.png)
 

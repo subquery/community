@@ -1,26 +1,27 @@
+# SubQuery เร็วขึ้นมากด้วย Dictionary
+
 ![](https://miro.medium.com/max/1400/1*iEQbr-KZNIkztylVowAuaQ.png)
 
+วันนี้ เราภูมิใจที่จะประกาศการปรับปรุงใหม่สำหรับ SubQuery คือ คุณสมบัติการทำ index ชื่อ SubQuery Dictionary
 
-Today we are proud to announce our new improvement to SubQuery, SubQuery’s Dictionary indexing feature.
+SubQuery Dictionary คือทั้งหมดเกี่ยวกับการเร่งความเร็วของโครงการของคุณ มันปรับปรุงประสิทธิภาพการ index ของโครงการ SubQuery ของคุณอย่างมาก **ในบางครั้งเร็วขึ้นมากถึง 10 เท่า**
 
-The SubQuery Dictionary is all about speeding up your Projects. It dramatically improves indexing the performance of your SubQuery Project, **sometimes up to 10x faster.**
+เมื่อทำการ index ข้อมูลของเชน ที่โครงการ SubQuery ใช้ในการตรวจสอบแต่ละบล็อค เชนของ Polkadot นั้นมีขนาดใหญ่ โดยรมีข้อมูลที่ไม่มีโครงสร้างขนาด 130 Gb มากกว่า 6 ล้านบล็อค สิ่งนี้ใช้เวลาในการ index มากกว่า 6 ชั่วโมง ซึ่งเป็นเวลาที่คุณไม่ต้องการรอ โดยเฉพาะเมื่อทำการทดสอบ
 
-When indexing chain data, SubQuery Projects used to inspect each block. Polkadot’s chain is large, 130GB of unstructured data over almost 6 million blocks. This takes many hours to index, time that you don’t want to wait for — especially when testing.
-
-SubQuery projects now have the option to skip all this, we essentially pre-index the location of all events within a chain.
+ตอนนี้โครงการ SubQuery ต่างๆมีทางเลือกในการข้ามขั้นตอนนี้ไป โดยพื้นฐานแล้วเราทำการ pre-index ตำแหน่งของเหตุการณ์ทั้งหมดไว้ในเชนเดียว
 
 ![](https://miro.medium.com/max/1400/1*uIjz8W4TG9Q0au9zoKbHVw.png)
 
-Performance is improved the most when the data is not a common occurrence, but instead interspersed along the chain, as if the data is rare, the Dictionary skips more blocks, and therefore the impact on performance is greater.
+ประสิทธิภาพจะดีขึ้นอย่างมากเมื่อข้อมูลไม่ใช่เหตุการณ์ธรรมดา แต่กลับกระจายกันไปตามเชน ทำให้เหมือนกับว่าข้อมูลนั้นหายาก Dictionary จะข้ามบล็อคมากขึ้น ทำให้ส่งผลต่อประสิทธิภาพมากกว่า
 
-The Dictionary endpoint can be added in [your ‘project.yaml’ file](https://doc.subquery.network/create/manifest.html), or alternatively [specified at run time](https://doc.subquery.network/run/run.html#using-a-dictionary). Additionally, you can also override this endpoint when running your Project in [SubQuery Projects](https://project.subquery.network/).
+คุณสามารถเพิ่มปลายทางของ Dictionary ใน [ไฟล์ ‘ โครงการ.yaml’ ของคุณ](https://doc.subquery.network/create/manifest.html) หรืออีกทางหนึ่ง [กำหนดไว้เมื่อรันไทม์](https://doc.subquery.network/run/run.html#using-a-dictionary) นอกจากนี้ คุณยังสามารถแทนที่ปลายทางนี้เมื่อรันโครงการของคุณใน [SubQuery Projects](https://project.subquery.network/)
 
 ![](https://miro.medium.com/max/1400/1*xl4wENAv_oNingDQZyrtyw.png)
 
-You can read more about the dictionary in our [helpful documentation here](https://doc.subquery.network/run/run.html#using-a-dictionary).
+คุณสามาถอ่านเกี่ยวกับ dictionary เพิ่มเติมได้ใน[เอกสารที่เป็นประโยชน์ ที่นี่](https://doc.subquery.network/run/run.html#using-a-dictionary)
 
-We believe SubQuery is the best data indexing option available for any Polkadot/Substrate dApp, and this new implementation of SubQuery’s Dictionary allows us to further improve our service by speeding up the indexing process for your SubQuery Projects.
+เราเชื่อว่า SubQuery เป็นตัวเลือกที่ดีที่สุดในการ index ข้อมูลสำหรับ Polkadot/Substrate dApp ต่างๆ และการนำ Dictionary ของ SubQuery มาใช้นี้ จะช่วยให้เราสามารถทำให้การบริการของเราดีขึ้น ด้วยการเร่งความเร็วกระบวนการสร้าง Index สำหรับโครงการ SubQuery ของคุณ
 
-You can try it yourself in [SubQuery Projects](https://project.subquery.network/) or view the dictionaries themselves in [our explorer](https://explorer.subquery.network/). In order to use a Dictionary in your existing project, your [@subql/cli](https://www.npmjs.com/package/@subql/cli) version must be at least 0.10.0
+คุณสามารถทดลองด้วยตัวเองใน [โครงการ SubQuery ](https://project.subquery.network/) หรือดู dictionary ต่างๆด้วยตัวเองใน [explorer ของเรา](https://explorer.subquery.network/) ในการใช้งาน Dictionary ในโครงการที่มีอยู่ของคุณ เวอร์ชั่น [@subql/cli](https://www.npmjs.com/package/@subql/cli) ของคุณอย่างน้อยต้องเป็นเวอร์ชั่น 0.10.0
 
 ![](https://miro.medium.com/max/1400/1*CrbWsx1rFiBNjkCepxbkPQ.png)

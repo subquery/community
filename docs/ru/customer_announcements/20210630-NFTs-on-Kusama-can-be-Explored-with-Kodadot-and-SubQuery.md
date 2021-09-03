@@ -1,3 +1,4 @@
+# NFT на Kusama можно изучить на Kodadot и SubQuery
 
 **Сегодня мы хотим объявить о нашем стратегическом партнерстве между Kodadot и SubQuery Network.**
 

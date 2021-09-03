@@ -1,5 +1,6 @@
-![](https://miro.medium.com/max/1200/0*s1fSGGelS-HVJNBm)
+# Khám phá các NFT Bí Mật trên Mạng Ternoa
 
+![](https://miro.medium.com/max/1200/0*s1fSGGelS-HVJNBm)
 
 Trong tuần của ngày 5 tháng 7, Ternoa đã giới thiệu Ví mới của họ, một ứng dụng cho phép người dùng trong tương lai gửi và nhận $CAPS và '**_NFT-Bí Mật' _** được đúc trên Ternoa Blockchain, cũng như dễ dàng tiết lộ Bí mật cho chủ sở hữu của họ. Nhóm Ternoa đã hình dung ra khái niệm ‘**_Bí Mật_**’ cho ‘**_ NFT _**’.
 
