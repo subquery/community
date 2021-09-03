@@ -1,1 +1,1 @@
-# Xin chào SubQuery Blog
+# SubQuery Blogs & Community Content
