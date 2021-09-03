@@ -1,4 +1,4 @@
-# SubQuery Projects — Publish your own creation!
+# SubQuery Projects - опубликуйте свое собственное творение!
 
 ![](https://miro.medium.com/max/1400/0*Jhkt10DyMiptFocJ)
 
