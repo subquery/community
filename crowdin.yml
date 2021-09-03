@@ -1,7 +1,9 @@
 files:
-  - source: /blogs/*md
-    translation: /blogs/%two_letters_code%/%original_file_name%
-  - source: /customer_announcements/*.md
-    translation: /customer_announcements/%two_letters_code%/%original_file_name%
-  - source: /recaps/*.md
-    translation: /recaps/%two_letters_code%/%original_file_name%
+  - source: /docs/README.md
+    translation: /docs/%two_letters_code%/README.md
+  - source: /docs/blogs/*md
+    translation: /docs/%two_letters_code%/blogs/%original_file_name%
+  - source: /docs/customer_announcements/*md
+    translation: /docs/%two_letters_code%/customer_announcements/%original_file_name%
+  - source: /docs/recaps/*md
+    translation: /docs/%two_letters_code%/recaps/%original_file_name%
