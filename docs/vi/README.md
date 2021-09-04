@@ -1,1 +1,1 @@
-# SubQuery Blogs & Community Content
+# SubQuery Blog & Nội dung cộng đồng
