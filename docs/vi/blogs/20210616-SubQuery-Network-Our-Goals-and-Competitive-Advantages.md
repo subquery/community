@@ -1,14 +1,14 @@
-# SubQuery Network - Our Goals and Competitive Advantages
+# SubQuery Network - Mục tiêu và Lợi thế cạnh tranh của chúng tôi
 
-Today we’re going to explore the goals that we have with SubQuery and some of the competitive advantages that we think make the SubQuery Network better than our competitors.
+Hôm nay, chúng ta sẽ khám phá các mục tiêu của SubQuery và một số lợi thế cạnh tranh mà chúng tôi cho rằng làm cho Mạng SubQuery tốt hơn so với các đối thủ cạnh tranh.
 
-SubQuery’s currently provided indexing and transformation data in a centralised way. Although this has allowed us to power some of the top Polkadot projects; DeFi apps like Acala and Bifrost, wallets like Fearless Wallet, NFT platforms like [KodaDot](https://kodadot.xyz/), cross-chain bridges like [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia), and analytics platforms like [SubVis](https://subvis.io/) — it has it’s downside.
+SubQuery hiện đã cung cấp dữ liệu chuyển đổi và lập chỉ mục theo cách tập trung. Mặc dù điều này đã cho phép chúng tôi cung cấp năng lượng cho một số dự án Polkadot hàng đầu; Các ứng dụng DeFi như Acala và Bifrost, các ví như Fearless Wallet, các nền tảng NFT như [ KodaDot ](https://kodadot.xyz/), các cầu nối chuỗi chéo như [ Darwinia ](https://explorer.subquery.network/subquery/darwinia-network/darwinia) và các nền tảng phân tích như [ SubVis ](https://subvis.io/) - nó có nhược điểm của nó.
 
-It requires our users to trust the service we provide, and carries risks associated with a centralised service, like potential server failures or outages that can cripple your applications. This is a major reason why we are moving to a decentralised future.
+Nó yêu cầu người dùng của chúng tôi tin tưởng vào dịch vụ mà chúng tôi cung cấp và mang theo những rủi ro liên quan đến dịch vụ tập trung, như lỗi hoặc ngừng hoạt động máy chủ tiềm ẩn có thể làm tê liệt các ứng dụng của người dùng. Đây là lý do chính tại sao chúng tôi đang chuyển sang một tương lai phi tập trung.
 
 ![](https://miro.medium.com/max/868/1*CPksnN9_jyMGQ0sSbiJvDQ.png)
 
-Our Competitive Advantages
+Lợi thế cạnh tranh của chúng tôi
 
 We understand that The SubQuery Network is competing against many players in the decentralised data industry, SubQuery looks to provide unique benefits through a multitude of competitive advantages. Our guiding principles, and what we expect to be the main advantages, are the simplicity and flexibility of our network.
 
