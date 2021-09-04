@@ -1,35 +1,35 @@
-# SubQuery is Joining the Patract Open Platform
+# SubQuery กำลังเข้าร่วม Patract Open Platform
 
 ![](https://miro.medium.com/max/1400/0*0inUQ8U1g9auTjfU)
 
-## **Providing Free Data Indexing for Wasm Tech Alliance**
+## **จัดหาดัชนีข้อมูลฟรีสำหรับ Wasm Tech Alliance**
 
-SubQuery is joining the Patract Open Platform to jointly promote the development of public infrastructure, promote the evolution of contract technology, and to develop the Wasm contract development ecosystem.
+SubQuery เข้าร่วม Patract Open Platform เพื่อร่วมกันส่งเสริมการพัฒนาโครงสร้างพื้นฐานสาธารณะ ส่งเสริมวิวัฒนาการของเทคโนโลยี contract และพัฒนาระบบนิเวศการพัฒนา contract ของ Wasm
 
-SubQuery is a blockchain data-as-a-service provider.
+SubQuery เป็นผู้ให้บริการข้อมูลแบบบล็อกเชน
 
-SubQuery aggregates and organises data from Polkadot and Substrate, providing developers with well-structured data support that allows them to use data in various projects efficiently.
+SubQuery รวบรวมและจัดระเบียบข้อมูลจาก Polkadot และ Substrate ให้การสนับสนุนข้อมูลที่มีโครงสร้างที่ดีแก่นักพัฒนา ซึ่งช่วยให้พวกเขาใช้ข้อมูลในโปรเจ็คต่างๆ ได้อย่างมีประสิทธิภาพ
 
-By doing so, SubQuery helps DApp developers focus on the core and front-end development without the time-consuming task of building a custom back-end for data processing, saving development time and effort.
+การทำเช่นนี้ SubQuery ช่วยให้นักพัฒนา DApp มุ่งเน้นไปที่การพัฒนาหลักและ front-end โดยไม่ต้องเสียเวลาในการสร้าง back-end แบบกำหนดเองสำหรับการประมวลผลข้อมูล ประหยัดเวลาและความพยายามในการพัฒนา
 
-SubQuery can help Polkadot and Substrate projects build better DApps by supporting every Substrate and Polkadot ecological team to process, query, transform, and store data.
+SubQuery สามารถช่วยให้โครงการ Polkadot และ Substrate สร้าง DApps ที่ดีขึ้นโดยการสนับสนุนทุกทีมระบบนิเวศของ Substrate และ Polkadot เพื่อประมวลผล, query, transform และจัดเก็บข้อมูล
 
-Today, anyone can query and extract data from Polkadot in a matter of minutes with SubQuery’s free help.
+วันนี้ ทุกคนสามารถ query และดึงข้อมูลจาก Polkadot ได้ในเวลาไม่กี่นาทีด้วยความช่วยเหลือฟรีของ SubQuery
 
-SubQuery believes that contracts are an important part of a thriving Polkadot ecosystem. Providing data indexing services for Wasm contracts has always been a major goal of SubQuery. SubQuery is excited to see that the Open Platform has brought together a large number of great projects, and that everyone is working together to contribute to the healthy and stable advancement of Wasm contracts.
+SubQuery เชื่อว่า contracts เป็นส่วนสำคัญของระบบนิเวศ Polkadot ที่เฟื่องฟู การให้บริการจัดทำดัชนีข้อมูลสำหรับ contract ของ Wasm เป็นเป้าหมายหลักของ SubQuery มาโดยตลอด SubQuery รู้สึกตื่นเต้นที่เห็นว่า Open Platform ได้รวบรวมโครงการดีๆ จำนวนมากไว้ด้วยกัน และทุกคนก็ทำงานร่วมกันเพื่อมีส่วนทำให้ contract ของ Wasm ก้าวหน้าอย่างมั่นคงและสมบูรณ์
 
-SubQuery will be working with contract projects within the alliance to participate in early trials of our supported contract versions. Providing free data indexing technical support and deployment services. All projects can use SubQuery’s open source SDK to build their own SubQuery Projects, which can then be uploaded and hosted by SubQuery where they run the project and provide GraphQL query services. Secondly, the SubQuery Network will be online soon, and SubQuery will provide all participants with a decentralized and transparent network, to better solve the data inefficiency problem.
+SubQuery จะทำงานร่วมกับพันธมิตรโปรเจ็กต์ของ contract เพื่อเข้าร่วมการทดลองใช้เวอร์ชันแรกๆ ของเวอร์ชัน contract ที่เราสนับสนุน ให้การสนับสนุนด้านเทคนิคการจัดทำดัชนีข้อมูลและบริการ deploy ฟรี โปรเจ็คทั้งหมดสามารถใช้ SDK โอเพ่นซอร์สของ SubQuery เพื่อสร้างโปรเจ็ค SubQuery ของตนเอง ซึ่งสามารถอัปโหลดและโฮสต์โดย SubQuery ที่พวกเขาเรียกใช้โปรเจ็คและให้บริการ query กับ GraphQL ประการที่สอง เครือข่าย SubQuery จะออนไลน์ในไม่ช้า และ SubQuery จะให้เครือข่ายที่กระจายอำนาจและโปร่งใสแก่ผู้เข้าร่วมทั้งหมด เพื่อแก้ปัญหาความไร้ประสิทธิภาพของข้อมูลได้ดียิ่งขึ้น
 
-Patract Labs believes that the development of Polkadot Wasm contract technology requires continuous supplementation and improvement of infrastructure. SubQuery joins the Patract Open Platform as a data infrastructure provider that complements the need of Polkadot’s ecosystem, providing decentralized data, by liberalizing access, and reducing the operating costs of connecting and applying data in a project. Therefore, developers no longer need to invest a lot of time to build and maintain their own indexing solutions. Secondly, it is difficult for blockchain data to be directly stored in DApps, since DApps need to obtain and transform data from the underlying data source. Thus, the on-chain indexing scheme of SubQuery is a great foundation for explosive growth of DApps in the Polkadot ecology. Currently, SubQuery is also exploring a solution combining SQL tools with Wasm smart contracts, and we are looking forward to it.
+Patract Labs เชื่อว่าการพัฒนาเทคโนโลยี contract ของ Polkadot Wasm จำเป็นต้องมีการเสริมและปรับปรุงโครงสร้างพื้นฐานอย่างต่อเนื่อง SubQuery เข้าร่วม Patract Open Platform ในฐานะผู้ให้บริการโครงสร้างพื้นฐานข้อมูลที่เสริมความต้องการของระบบนิเวศของ Polkadot โดยให้ข้อมูลที่กระจายอำนาจ โดยเปิดเสรีในการเข้าถึง และลดต้นทุนการดำเนินงานของการเชื่อมต่อและการใช้ข้อมูลในโปรเจ็ค ดังนั้น นักพัฒนาซอฟต์แวร์จึงไม่ต้องลงทุนเวลามากในการสร้างและรักษาโซลูชันการจัดทำดัชนีของตนเองอีกต่อไป ประการที่สอง เป็นเรื่องยากสำหรับข้อมูลบล็อคเชนที่จะจัดเก็บโดยตรงใน DApps เนื่องจาก DApps จำเป็นต้องรับและแปลงข้อมูลจากแหล่งข้อมูลพื้นฐาน ดังนั้น รูปแบบการจัดทำดัชนีแบบ on-chain ของ SubQuery จึงเป็นรากฐานที่ยอดเยี่ยมสำหรับการเติบโตอย่างรวดเร็วของ DApps ในระบบนิเวศ Polkadot ปัจจุบัน SubQuery กำลังสำรวจโซลูชันที่รวมเครื่องมือ SQL กับ smart contract ของ Wasm และเราตั้งตารอ
 
-About Patract Labs
+เกี่ยวกับ Pattract Labs
 
-Patract Labs provides solutions for the development of Parachains and DApps in the Wasm smart contract ecosystem of Polkadot. We help the community to design and develop on-chain contract modules and Runtime support, and provide DApp developers with full-stack tools and services support, covering development, testing, debugging, deployment, monitoring, data provider, and front-end development stages.
+Patract Labs ให้บริการโซลูชั่นสำหรับการพัฒนา Parachains และ DApps ในระบบนิเวศ smart contract ของ Wasm บน Polkadot เราช่วยชุมชนในการออกแบบและพัฒนาโมดูล contract แบบ on-chain และการสนับสนุนรันไทม์ และให้นักพัฒนา DApp ด้วยเครื่องมือและการสนับสนุนบริการแบบฟูลสแตก ซึ่งครอบคลุมการพัฒนา, การทดสอบ, การดีบัก, การปรับใช้, การตรวจสอบ, ผู้ให้บริการข้อมูล, และขั้นตอนการพัฒนา front-end
 
 [Website](https://patract.io/)｜[Element](https://app.element.io/#/room/#PatractLabsDev:matrix.org)｜[Twitter](https://twitter.com/PatractLabs)｜[GitHub](https://github.com/patractlabs) ｜[Discord](https://discord.gg/yMRMqcAb24) ｜[Telegram](https://t.me/patract)
 
-About SubQuery
+เกี่ยวกับ SubQuery
 
-The mission of SubQuery is to make the world’s decentralized data more accessible. SubQuery is a data-as-a-service provider that aggregates and organises data from Polkadot and Substrate projects; it empowers Polkadot/Substrate projects to build better DApps by providing well-structured data for developers.
+ภารกิจของ SubQuery คือการทำให้ข้อมูลที่กระจายอำนาจของโลกสามารถเข้าถึงได้มากขึ้น SubQuery เป็นผู้ให้บริการ data-as-a-service ที่รวบรวมและจัดระเบียบข้อมูลจากโครงการ Polkadot และ Substrate; มันช่วยให้โครงการ Polkadot / Substrate สร้าง DApps ที่ดีขึ้นโดยให้ข้อมูลที่มีโครงสร้างดีสำหรับนักพัฒนา
 
 [Website](https://www.subquery.network/)丨[Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Linkedin](https://www.linkedin.com/company/subquery) | [Medium](https://subquery.medium.com/)丨[GitHub](https://github.com/subquery/subql) | [Matrix](https://matrix.to/#/#subquery:matrix.org)
