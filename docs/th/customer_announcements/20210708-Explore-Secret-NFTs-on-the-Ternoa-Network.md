@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1200/0*s1fSGGelS-HVJNBm)
 
-During the week of July 5th, Ternoa has introduced its new Wallet, an app allowing future users to send and receive $CAPS and ‘**_Secret NFTs’_** minted on the Ternoa Blockchain, as well as easily unveiling their Secret to their owners. The concept of ‘**_Secret_**’ for ‘**_NTFs_**’ has been imagined by the Ternoa team.
+ในช่วงสัปดาห์ของวันที่ 5 กรกฎาคม Ternoa ได้เปิดตัว Wallet ใหม่ ซึ่งเป็นแอพที่ให้ผู้ใช้สามารถส่งและรับ $CAPS และ '**_Secret NFT_** ที่สร้างขึ้นบน Ternoa Blockchain รวมทั้งเปิดเผย Secret ของพวกเขาให้กับเจ้าของได้อย่างง่ายดาย แนวคิดของ '**_Secret_**' สำหรับ '**_NTF_**' ถูกคิดค้นโดยทีม Ternoa
 
 Those ‘_secret NFTs_’ can be found and purchased in the dedicated marketplace ([https://www.secret-nft.com/](https://www.secret-nft.com/)) built by the Ternoa Team. The Ternoa Wallet is a solution inspired by the [WalletConnect](https://walletconnect.org/) project, allowing users to easily login and purchase NFTs with a simple QR code interaction between the website and the app.
 
