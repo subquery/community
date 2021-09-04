@@ -1,4 +1,4 @@
-# SubQuery Just Got a Lot Faster with the Dictionary
+# SubQuery nhanh hơn rất nhiều với Dictionary
 
 ![](https://miro.medium.com/max/1400/1*iEQbr-KZNIkztylVowAuaQ.png)
 
@@ -22,6 +22,6 @@ You can read more about the dictionary in our [helpful documentation here](https
 
 We believe SubQuery is the best data indexing option available for any Polkadot/Substrate dApp, and this new implementation of SubQuery’s Dictionary allows us to further improve our service by speeding up the indexing process for your SubQuery Projects.
 
-You can try it yourself in [SubQuery Projects](https://project.subquery.network/) or view the dictionaries themselves in [our explorer](https://explorer.subquery.network/). In order to use a Dictionary in your existing project, your [@subql/cli](https://www.npmjs.com/package/@subql/cli) version must be at least 0.10.0
+Bạn có thể tự mình thử nó trong [Dự án SubQuery](https://project.subquery.network/) hoặc tự xem các Dictionary trong [Explorer](https://explorer.subquery.network/) của chúng tôi. Để sử dụng Dictionary trong dự án hiện tại của bạn, phiên bản [@subql/cli](https://www.npmjs.com/package/@subql/cli) của bạn ít nhất phải là 0.10.0
 
 ![](https://miro.medium.com/max/1400/1*CrbWsx1rFiBNjkCepxbkPQ.png)
