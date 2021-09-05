@@ -11,11 +11,11 @@
 
 Участники сети SubQuery
 
-There are three types of participants in the SubQuery Network:
+В сети SubQuery есть три типа участников:
 
 -   **Потребители**: Потребители будут направлять запросы в SubQuery для получения конкретных данных и оплачивать выставляемое количество SQT
--   **Indexers**: Indexers will host SubQuery Projects in their own infrastructure, running both the node and query service to index data and answer GraphQL requests.
--   **Delegators**: Delegators will participate in the network by supporting their favourite Indexers to earn rewards
+-   **Индексаторы**: Индексаторы будут размещать проекты SubQuery в своей собственной инфраструктуре, запускать как узел, так и службу запросов для индексации данных и ответа на запросы GraphQL.
+-   **Делегаты**: Делегаторы будут участвовать в сети, поддерживая своих любимых индексаторов, чтобы получать вознаграждения
 
 ## Индексаторы, потребители и запросы
 
@@ -59,16 +59,16 @@ _ Ставка доли дохода от комиссии за запрос _, 
 
 ![](https://miro.medium.com/max/1400/0*we0k4A07pbj86COZ)
 
-Delegators will only receive rewards when they have delegated for the entire staking era
+Делегаты получат награду только тогда, когда они предоставят полномочия на все этапы
 
-## Purchase Orders
+## Заказы
 
-Indexing a project takes time and money, there’s a lot of data on the chain. In order to encourage Indexers to index and support an entirely new SubQuery Project, we plan to implement a market mechanism for Consumers to signal guaranteed revenue to Indexers of new SubQuery Projects.
+Индексация проекта требует времени и денег, в цепочке много данных. Чтобы побудить индексаторов индексировать и поддерживать совершенно новый проект подзапроса, мы планируем внедрить рыночный механизм для потребителей, чтобы сигнализировать о гарантированном доходе индексаторам новых проектов подзапроса.
 
-We’re calling them purchase orders, and Consumers can advertise a contract on chain for a set price and number of requests. Indexers can view this and choose to fill the contracts.
+Мы называем их заказами на покупку, и потребители могут рекламировать контракт в сети по установленной цене и количеству запросов. Индексаторы могут просмотреть это и выбрать заполнение контрактов.
 
 ![](https://miro.medium.com/max/1400/1*IPtaZlt24E7h9bKNZWdSCw.png)
 
-Consumers can advertise a purchase order on chain for a set price and number of requests.
+Потребители могут рекламировать заказ на покупку в сети по установленной цене и количеству запросов. Потребители могут рекламировать заказ на покупку в цепи по заданной цене и количеству запросов.
 
-Purchase orders can also be placed on existing SubQuery Projects to attract additional Indexers to improve competition and decrease prices
+Заказы на покупку также могут быть размещены в существующих проектах подзапроса для привлечения дополнительных индексаторов для повышения конкуренции и снижения цен
