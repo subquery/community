@@ -1,61 +1,61 @@
-# SubQuery Network - Summary
+# Сеть SubQuery - сводка
 
-> How does the SubQuery Network work? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
+> Как работает SubQuery Network? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
 
-Today we’re going to talk about how the SubQuery Network works at a high level.
+Сегодня мы поговорим о том, как работает SubQuery Network на высоком уровне.
 
-## Participants
+## Участники
 
 
 ![](https://miro.medium.com/max/1400/1*9993cakplwupZC5tbUv3vA.png)
 
-Participants in the SubQuery Network
+Участники сети SubQuery
 
 There are three types of participants in the SubQuery Network:
 
--   **Consumers**: Consumers will make requests to the SubQuery Network for specific data and pay an advertised amount of SQT
+-   **Потребители**: Потребители будут направлять запросы в SubQuery для получения конкретных данных и оплачивать выставляемое количество SQT
 -   **Indexers**: Indexers will host SubQuery Projects in their own infrastructure, running both the node and query service to index data and answer GraphQL requests.
 -   **Delegators**: Delegators will participate in the network by supporting their favourite Indexers to earn rewards
 
-## Indexers, Consumers, and Queries
+## Индексаторы, потребители и запросы
 
-Let’s start with Indexers, Indexers do a lot of the hard work behind the scenes. The manage hardware, run infrastructure, monitor resources, and choose the right SubQuery projects to index
+Начнем с индексаторов. Индексаторы выполняют большую часть тяжелой работы за кулисами. Управление оборудованием, запуск инфраструктуры, мониторинг ресурсов и выбор правильных проектов SubQuery для индексации
 
-This takes time and money, but once they have this, Consumers may come and make requests. Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
+Это требует времени и денег, но как только они у них есть, потребители могут приходить и делать запросы. Потребители будут делать запросы к сети SubQuery для получения определенных данных и платить объявленное количество нашего токена, SQT.
 
 ![](https://miro.medium.com/max/1400/1*dKLkzSc2uXYaPW_IXUxstQ.png)
 
-Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
+Потребители направляют запросы в сеть SubQuery для получения конкретных данных и оплачивают объявленное количество токенов, SQT.
 
-## Cobb-Douglas Production Function
+## Производственная функция Cobb-Douglas
 
-This payment goes into a project revenue pool and at the end of a staking era (28 days) we take this project revenue pool and split it. It’s spit across indexers by something called the Cobb-Douglas production function.
+Этот платеж поступает в пул доходов проекта, и в конце периода размещения ставок (28 дней) мы берем этот пул доходов проекта и разделяем его. На индексаторов налётывается так называемая производственная функция Cobb-Douglas.
 
 ![](https://miro.medium.com/max/1400/1*E-W7o7cWoclxHb8rXAMdpA.png)
 
-It’s spit across indexers by something called the Cobb-Douglas production function.
+На индексаторов налётывается так называемая производственная функция Cobb-Douglas.
 
-This approach, in simple terms, means that revenue is allocated to competing Indexers as a proportion of both requests answered and amount staked.
+Проще говоря, этот подход означает, что доход распределяется между конкурирующими индексаторами в виде доли как отвеченных запросов, так и поставленной суммы.
 
 ![](https://miro.medium.com/max/1400/1*VhDu2BGDxd3ob7z9XkoOXA.png)
 
-Revenue is allocated to competing Indexers as a proportion of both requests answered and amount staked.
+Доход распределяется между конкурирующими индексаторами пропорционально ответам на запросы и поставленной сумме.
 
-In our view, the beauty of this equation is that a rational Indexer must maintain a high level of staked SQT relative to the work they do in order to receive optimal revenue. As a result, we do not need to enforce arbitrary staking requirements because Indexers are incentivised to self-manage and maintain a stake or skin in the game.
+На наш взгляд, прелесть этого уравнения заключается в том, что рациональный индексатор должен поддерживать высокий уровень поставленных SQT по сравнению с выполняемой им работой, чтобы получать оптимальный доход. В результате нам не нужно применять произвольные требования к ставкам, потому что индексаторы заинтересованы в самостоятельном управлении и поддержании доли или скина в игре.
 
-## Delegators
+## Делегаторы
 
-So Indexers are incentivised to both do as much work as possible, and to stake as much as possible to maximise their rewards. This is where delegators come in.
+Таким образом, индексаторы заинтересованы как в том, чтобы делать как можно больше работы, так и в том, чтобы делать ставки как можно больше, чтобы получить максимальное вознаграждение. Вот тут и появляются делегаты.
 
-Delegators can delegate their spare SQT to Indexers, each Indexer can publish a _query fee revenue share rate_, and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in.
+Делегаты могут делегировать свои резервные SQT индексаторам, каждый индексатор может публиковать _ ставку доли дохода за запрос _, и эти делегаты будут вознаграждены частью дохода от комиссионных за запрос, который получает вознаграждение индексатор.
 
 ![](https://miro.medium.com/max/1400/1*YoN7PV7h3a2nAFN-ODqILg.png)
 
-Delegators can delegate their spare SQT to Indexers and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in
+Делегаты могут делегировать свои резервные SQT индексаторам, и эти делегаты будут вознаграждены частью дохода от сбора за запрос, которым получает вознаграждение индексатор
 
-The _query fee revenue share rate_ that indexers advertise is locked for each 28 day staking era, and a decrease to it must be advertised for an entire 28 day staking era before coming into force.
+_ Ставка доли дохода от комиссии за запрос _, которую рекламируют индексаторы, заблокирована для каждой 28-дневной эры ставок, и ее снижение необходимо объявлять в течение всей 28-дневной эпохи, прежде чем она вступит в силу.
 
-Similarly, delegators can remove their delegation amounts at any point, but they will only receive rewards when they have delegated for the entire staking era.
+Аналогичным образом, делегаты могут снять свою делегацию в любой момент, но получат вознаграждение только тогда, когда они делегируют ее на все этапы.
 
 ![](https://miro.medium.com/max/1400/0*we0k4A07pbj86COZ)
 
