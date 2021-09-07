@@ -20,7 +20,7 @@ We run SubQuery projects in it like they’re production applications, so you ca
 
 ## **SubQuery Raises $1.8M seed round for future expansion**
 
-SubQuery is ready to grow and deliver! [We successfully raised a US$1.8 million seed round](https://subquery.medium.com/subquery-raises-1-8m-seed-round-for-future-expansion-3348c1f2a931) and private sale backed primarily by DeFi Alliance, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG), and The Lao. The overwhelming demand we received to back SubQuery’s seed round shows the strong interest in infrastructure services and belief in the future of the Polkadot ecosystem.
+SubQuery is ready to grow and deliver! SubQuery is ready to grow and deliver! [We successfully raised a US$1.8 million seed round](https://subquery.medium.com/subquery-raises-1-8m-seed-round-for-future-expansion-3348c1f2a931) and private sale backed primarily by DeFi Alliance, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG), and The Lao. The overwhelming demand we received to back SubQuery’s seed round shows the strong interest in infrastructure services and belief in the future of the Polkadot ecosystem.
 
 _We’re planning a subsequent private sale/raise later this year. If you’re interested in taking part please register here:_ [_https://forms.gle/6LMapDNSidQAqy347_](https://forms.gle/6LMapDNSidQAqy347)
 
