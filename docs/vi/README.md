@@ -1,6 +1,6 @@
 # SubQuery Blog & Nội dung cộng đồng
 
-SubQuery ở đây để giúp bạn chuyển đổi và truy vấn dữ liệu của thế giới cho tương lai web3.0.
+SubQuery is here to help you transform and query the world’s data for a web3.0 future.
 
 This is the global repository of all community blogs, announcements, articles, and videos from SubQuery.
 
