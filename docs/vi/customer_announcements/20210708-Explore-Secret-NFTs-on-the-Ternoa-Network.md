@@ -2,11 +2,11 @@
 
 ![](https://miro.medium.com/max/1200/0*s1fSGGelS-HVJNBm)
 
-Trong tuần của ngày 5 tháng 7, Ternoa đã giới thiệu Ví mới của họ, một ứng dụng cho phép người dùng trong tương lai gửi và nhận $CAPS và '**_NFT-Bí Mật' _** được đúc trên Ternoa Blockchain, cũng như dễ dàng tiết lộ Bí mật cho chủ sở hữu của họ. Nhóm Ternoa đã hình dung ra khái niệm ‘**_Bí Mật_**’ cho ‘**_ NFT _**’.
+During the week of July 5th, Ternoa has introduced its new Wallet, an app allowing future users to send and receive $CAPS and ‘**_Secret NFTs’_** minted on the Ternoa Blockchain, as well as easily unveiling their Secret to their owners. The concept of ‘**_Secret_**’ for ‘**_NTFs_**’ has been imagined by the Ternoa team.
 
-Bạn có thể tìm và mua những ‘_NFT-Bí Mật_’ đó trên thị trường chuyên dụng ([ https://www.secret-nft.com/ ](https://www.secret-nft.com/)) do Nhóm Ternoa xây dựng. Ví Ternoa là một giải pháp được lấy cảm hứng từ dự án [WalletConnect](https://walletconnect.org/), cho phép người dùng dễ dàng đăng nhập và mua NFT bằng một tương tác mã QR đơn giản giữa trang web và ứng dụng.
+Those ‘_secret NFTs_’ can be found and purchased in the dedicated marketplace ([https://www.secret-nft.com/](https://www.secret-nft.com/)) built by the Ternoa Team. The Ternoa Wallet is a solution inspired by the [WalletConnect](https://walletconnect.org/) project, allowing users to easily login and purchase NFTs with a simple QR code interaction between the website and the app.
 
-**_NFT-Bí Mật_** là một loại NFT đặc biệt do Ternoa phát minh và phát triển, và được tạo ra nhờ kiến ​​trúc blockchain độc đáo và trang nhã của chúng: NFT-Bí Mật bao gồm hai phương tiện, một phần công khai có hình mờ hoặc chất lượng thấp hơn, và một phần riêng tư mà chỉ chủ sở hữu của NFT mới có thể nhìn thấy. Điều này mang lại sự bảo vệ tuyệt vời, chống giả mạo cho các nghệ sĩ và KOL, đồng thời mở ra rất nhiều cách thức sử dụng khác nhau.
+**_Secret NFTs_** are a special kind of NFTs invented and developed by Ternoa, and made possible by their unique and elegant blockchain architecture: Secret-NFTs are composed of two medias, one public with watermark or a lower quality, and the other private that can only be seen by the owner of said NFT. This offers an amazing protection from forgery for artists and KOLs, and opens up a lot of use cases.
 
 Phần Bí Mật sẽ có thể dễ dàng truy cập bởi người dùng Wallet đang nắm giữ Nft-Bí Mật
 
@@ -14,7 +14,7 @@ Phần Bí Mật sẽ có thể dễ dàng truy cập bởi người dùng Walle
 
 ![](https://miro.medium.com/max/1400/0*gquKRKBgiyAAxRFZ)
 
-> “Chúng tôi đã lựa chọn sử dụng SubQuery vì thoạt nhìn tài liệu này có vẻ rõ ràng đối với chúng tôi và chúng tôi đã không nhầm. SubQuery cung cấp một môi trường hoàn chỉnh với một máy docker giúp việc kiểm tra và triển khai rất dễ dàng. Nó tương đối dễ dàng để phát triển trong môi trường này và lập trình lắng nghe các sự kiện khác nhau được phát ra bởi blockchain của chúng tôi. Cũng xin chúc mừng sự hỗ trợ rất nhiệt tình.” — Ternoa CTO
+> “We made the choice to use SubQuery because the documentation seemed clear to us at first glance and we were not mistaken. SubQuery provides a complete environment with a docker machine which makes testing and deployment very easy. It is relatively easy to develop in this environment and to program the listening of the different events emitted by our blockchain. Congratulations also to the support which is very responsive.” — Ternoa CTO
 
 Các dịch vụ của [SubQuery](https://subquery.network/) cũng giúp trích xuất và truy vấn dữ liệu chuỗi cho các NFT-Bí Mật được đúc trên Ternoa Blockchain, theo cách hỗ trợ các tính năng độc đáo của Ternoa’s NFT.
 
@@ -24,6 +24,6 @@ Trong ví dụ dưới đây, chúng tôi đang [sử dụng SubQuery](https://e
 
 ![](https://miro.medium.com/max/1400/0*YaQGpb3xUn7BUESx)
 
-NFT-Bí Mật đang sử dụng [Dự án SubQuery](https://project.subquery.network/) để quản lý dự án của riêng họ và thực hiện cập nhật theo yêu cầu. Dịch vụ lập chỉ mục và truy vấn chúng tôi cung cấp hoàn toàn do SubQuery quản lý và được cung cấp miễn phí cho cộng đồng Polkadot trong [SubQuery Explore ](https://explorer.subquery.network/).
+Secret NFT is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/).
 
 [Khám phá tập dữ liệu NFT-Bí Mật của Ternoa](https://explorer.subquery.network/subquery/capsule-corp-ternoa/indexer)
