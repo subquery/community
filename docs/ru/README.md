@@ -1,28 +1,28 @@
-# Блоги SubQuery & amp; Контент сообщества
+# SubQuery Blogs & Community Content
 
 SubQuery is here to help you transform and query the world’s data for a web3.0 future.
 
-Это глобальное хранилище всех блогов сообщества, объявлений, статей и видео из SubQuery.
+This is the global repository of all community blogs, announcements, articles, and videos from SubQuery.
 
-**Читайте на вашем родном языке! Вы можете изменить свой язык, используя селектор в правом верхнем углу страницы.**
+**Read in your own language! You can change your language using the selector on the top right of all pages.**
 
-## Нам нужна помощь в переводе!
+## We need help translating!
 
-Мы понимаем, что одним из наших наибольших сильных сторон является наше сообщество и с вашей помощью, мы хотим расти и создать посла на местах, чтобы помочь перевести наши материалы для сообществ по всему миру.
+We understand that one of our biggest strengths is our community, and with your help, we want to grow and establish local ambassadors to help translate our material for communities around the world.
 
-[Присоединяйтесь к нашей программе Представителей](https://doc.subquery.network/miscellaneous/ambassadors.html)
+[Join our Ambassador Program](https://doc.subquery.network/miscellaneous/ambassadors.html)
 
-## Ссылки в социальных сетях
+## Social Media Links
 
-SubQuery - это активный проект, который поддерживает и общается с нашими последователями через множество социальных сетей.
+SubQuery is an active project that maintains and communicates with our followers through many social media channels.
 
-Наша цель всегда прислушиваться и взаимодействовать с нашим лояльным сообществом, поэтому пожалуйста, присоединяйтесь к разговору и отправьте нам ваши идеи или вопросы!
+It is our aim to always listen and engage with our loyal community so please join the conversation and send us your ideas or questions!
 
-- [Discord](https://discord.com/invite/78zg8aBSMG) (Основное сообщество с выделенными каналами технической поддержки)
-- [Medium](https://subquery.medium.com) (канал первичных объявлений)
+- [Discord](https://discord.com/invite/78zg8aBSMG) (Primary Community with dedicated technical support channels)
+- [Medium](https://subquery.medium.com) (Primary announcements channel)
 - [Twitter](https://twitter.com/subquerynetwork)
 - [WeChat]()
-- [Telegram](https://t.me/subquerynetwork) (только канал объявлений)
+- [Telegram](https://t.me/subquerynetwork) (Announcements channel only)
 - [GitHub](https://github.com/SubQuery/subql)
 - [Matrix/Riot](https://matrix.to/#/#subquery:matrix.org)
 - [LinkedIn](https://www.linkedin.com/company/subquery)
