@@ -1,6 +1,6 @@
 # SubQuery cung cấp SDK mã nguồn mở sau khi được hỗ trợ bởi Web3 Foundation
 
-## Developers can now transform and query the world’s data for the Web3 future
+## Các nhà phát triển hiện có thể chuyển đổi và truy vấn dữ liệu của thế giới cho tương lai Web3
 
 ![](https://miro.medium.com/max/1400/1*f9Jw37LjUGu8P8W39cjDYw.png)
 
@@ -20,7 +20,7 @@ Thứ hai, có một tập các node SubQuery tải dự án SubQuery được t
 
 Chúng tôi vô cùng biết ơn sự hỗ trợ của Web3 Foundation đã giúp chúng tôi thực hiện dự án vì cộng đồng này. Web3 Foundation tài trợ cho các nhóm nghiên cứu và phát triển xây dựng nền tảng công nghệ của web phi tập trung. Nó được thành lập tại Zug, Thụy Sĩ bởi đồng sáng lập và cựu giám đốc công nghệ của Ethereum, Tiến sĩ Gavin Wood. Polkadot là dự án hàng đầu của Tổ chức.
 
-Chúng tôi sẽ tập trung vào việc xây dựng một dịch vụ được lưu trữ được quản lý dựa trên dịch vụ này sẽ hoạt động hiệu quả hơn và có thể mở rộng. We are going to provide trusty public infrastructure that will build a powerful productionised SubQuery node from an uploaded SubQuery project. The service will then index and persist the chain state, and provide a production GraphQL endpoint that can replace self-hosted implementations. Chúng tôi sẽ tập trung vào vấn đề này để mọi người khác có thể tập trung vào việc xây dựng và phát triển dApp của họ.
+Chúng tôi sẽ tập trung vào việc xây dựng một dịch vụ được lưu trữ được quản lý dựa trên dịch vụ này sẽ hoạt động hiệu quả hơn và có thể mở rộng. Chúng tôi sẽ cung cấp cơ sở hạ tầng công cộng đáng tin cậy sẽ xây dựng một nút SubQuery được sản xuất mạnh mẽ từ một dự án SubQuery đã tải lên. Sau đó, dịch vụ sẽ lập chỉ mục và duy trì trạng thái chuỗi, đồng thời cung cấp điểm cuối GraphQL production có thể thay thế các triển khai tự lưu trữ. Chúng tôi sẽ tập trung vào vấn đề này để mọi người khác có thể tập trung vào việc xây dựng và phát triển dApp của họ.
 
 Chúng tôi đã sớm nhận thấy tiềm năng của Polkadot và ngay từ đầu, chúng tôi cảm thấy tự nhiên khi tập trung nỗ lực vào đó. Tiền đề cốt lõi của Polkadot là tạo ra một cộng đồng lớn mạnh gồm các nhà phát triển, người dùng và doanh nghiệp sẽ khai thác khả năng tương tác đa tuyến của nó - cộng đồng đó sẽ cần một dịch vụ cho phép họ tìm kiếm và sử dụng dữ liệu một cách đáng tin cậy một cách nhanh chóng.
 
@@ -30,11 +30,11 @@ Bắt đầu trên [Github của SubQuery.](https://github.com/OnFinality-io/sub
 
 Đọc [tài liệu SubQuery](https://doc.subquery.network/) của chúng tôi
 
-[Visit our new website](https://subquery.network/)
+[Ghé thăm trang web mới của chúng tôi](https://subquery.network/)
 
-Learn more about Web3 Foundation by visiting their [website](https://web3.foundation/). To follow the latest developments at Web3 Foundation, join them on [Reddit](https://www.reddit.com/r/dot/) or [Twitter](https://twitter.com/web3foundation).
+Tìm hiểu thêm về Web3 Foundation bằng cách truy cập [website](https://web3.foundation/) của họ. Để theo dõi những phát triển mới nhất tại Web3 Foundation, hãy tham gia cùng họ trên [Reddit](https://www.reddit.com/r/dot/) hoặc [Twitter](https://twitter.com/web3foundation).
 
-Follow us on:
+Theo dõi chúng tôi tại:
 
 -   [Telegram](https://t.me/subquerynetwork)
 -   [Twitter](https://twitter.com/subquerynetwork)
