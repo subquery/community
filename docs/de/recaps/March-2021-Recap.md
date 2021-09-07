@@ -36,7 +36,7 @@ SubQuery is all about providing data services to our partners and customers. Eve
 
 ![](https://miro.medium.com/max/1400/0*LOig1jNfPTuVk73D)
 
-> You could create a dApp for lenders showing collateralization ratio, loan amount, interests accrued, etc. Or a service for decentralised exchanges with pair liquidity, pair exchange rate, trading volumes.
+> You could create a dApp for lenders showing collateralization ratio, loan amount, interests accrued, etc. Or a service for decentralised exchanges with pair liquidity, pair exchange rate, trading volumes. Or a service for decentralised exchanges with pair liquidity, pair exchange rate, trading volumes.
 
 We’re planning to improve our partnership tools very soon and are planning on onboarding other top protocols in the next week or two at a rapid pace.
 
