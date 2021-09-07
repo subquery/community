@@ -1,1 +1,1 @@
-# Блог SubQuery
+# SubQuery Blogs & Community Content

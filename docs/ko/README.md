@@ -1,1 +1,1 @@
-# Hello SubQuery Blogs
+# SubQuery Blogs & Community Content
