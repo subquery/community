@@ -4,7 +4,7 @@
 
 [Công cụ ví đa chữ ký](https://medium.com/r/?url=https%3A%2F%2Fmultisig.subscan.io%2F) mới của Subscan được thiết kế để giúp những người khác trong hệ sinh thái Polkadot tạo và quản lý các tài khoản và giao dịch đa chữ ký. Nó được hỗ trợ bởi [Web3 Foundation Grants Program](https://github.com/w3f/Grants-Program/blob/master/applications/multisignature_management_tool.md) và cung cấp các dịch vụ quản lý ví đa chữ ký thuận tiện cho nhiều mạng dựa trên Polkadot.
 
-SubQuery's service plays a key part in this tool providing fast data on transaction for any given multi signature address, which improves the UX and allows more advanced features.
+Dịch vụ của SubQuery đóng một vai trò quan trọng trong công cụ này, cung cấp dữ liệu nhanh chóng về giao dịch cho bất kỳ địa chỉ đa chữ ký nhất định nào, giúp cải thiện UX và cho phép các tính năng nâng cao hơn.
 
 ![Người dùng có thể dễ dàng tạo địa chỉ đa chữ ký mới](https://cdn-images-1.medium.com/max/1600/1*e4AALzw8xzERhzBJgPUktQ.png)
 
@@ -20,7 +20,7 @@ SubQuery's service plays a key part in this tool providing fast data on transact
 
 [Subscan.io](https://www.subscan.io/) là một trình khám phá đa chuỗi có độ chính xác cao được xây dựng cho các chuỗi khối dựa trên substrate. Subscan hỗ trợ khám phá dữ liệu và trực quan hóa hơn 30 mạng trong hệ sinh thái Polkadot.
 
-Subscan cung cấp các dịch vụ tùy chỉnh cho mạng sinh thái, chẳng hạn như mô-đun EVM, đa token ... In addition, Subscan also provides stable API services, data charts and convenient tool applications.
+Subscan cung cấp các dịch vụ tùy chỉnh cho mạng sinh thái, chẳng hạn như mô-đun EVM, đa token ... Ngoài ra, Subscan còn cung cấp các dịch vụ API ổn định, biểu đồ dữ liệu và các ứng dụng công cụ tiện lợi.
 
 [Website](https://www.subscan.io/) | [Email](mailto:hello@subscan.io) | [Medium](https://medium.com/subscan) | [Element](https://riot.im/app/#/room/!uaYUrKBueiKUurHliJ:matrix.org) | [Twitter](https://twitter.com/subscan_io/) | [GitHub](https://github.com/itering/subscan-essentials)
 
