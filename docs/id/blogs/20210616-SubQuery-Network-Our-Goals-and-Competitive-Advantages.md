@@ -2,7 +2,7 @@
 
 Hari ini kita akan menjelajah tujuan yang kita miliki dengan SubQuery dan beberapa keunggulan kompetitif yang menurut kami membuat Jaringan SubQuery lebih baik daripada pesaing kami.
 
-SubQuery saat ini menyediakan data pengindeksan dan transformasi secara terpusat. Although this has allowed us to power some of the top Polkadot projects; DeFi apps like Acala and Bifrost, wallets like Fearless Wallet, NFT platforms like [KodaDot](https://kodadot.xyz/), cross-chain bridges like [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia), and analytics platforms like [SubVis](https://subvis.io/) — it has it’s downside.
+SubQuery’s currently provided indexing and transformation data in a centralised way. Although this has allowed us to power some of the top Polkadot projects; DeFi apps like Acala and Bifrost, wallets like Fearless Wallet, NFT platforms like [KodaDot](https://kodadot.xyz/), cross-chain bridges like [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia), and analytics platforms like [SubVis](https://subvis.io/) — it has it’s downside.
 
 It requires our users to trust the service we provide, and carries risks associated with a centralised service, like potential server failures or outages that can cripple your applications. This is a major reason why we are moving to a decentralised future.
 
