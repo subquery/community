@@ -1,6 +1,6 @@
 # SubQuery Blogs & Community Content
 
-SubQuery, dünyanın verilerini web3.0 geleceği için dönüştürmenize ve sorgulamanıza yardımcı olmak için burada.
+SubQuery is here to help you transform and query the world’s data for a web3.0 future.
 
 This is the global repository of all community blogs, announcements, articles, and videos from SubQuery.
 
