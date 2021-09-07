@@ -16,7 +16,7 @@ Merkezi olmayan sistemler, verileri ağlar arasında depoladığından, sorgulam
 
 ![](https://miro.medium.com/max/1400/1*l4b4BXWkczVDaHyv30lLQQ.png)
 
-SubQuery'nin amacı, Polkadot/Substrate projelerinin, herkesin verileri güvenilir bir şekilde bulmasına ve daha hızlı  kullanmasına izin vererek daha iyi dApp'ler oluşturmasına yardımcı olmaktır Hizmetimiz, kullanıcıların ilk olarak verileri ayıklamasına, dönüştürmesine, sürdürmesine ve sorgulamasına ve ayrıca gelecekte verileri bağlamasına ve sunmasına olanak tanır. Amacımız, tıpkı The Graph'in Ethereum için olduğu gibi, bunu Substrate/Polkadot ekosistemi için temel bir altyapı parçası haline getirmektir.
+SubQuery'nin amacı, Polkadot/Substrate projelerinin, herkesin verileri güvenilir bir şekilde bulmasına ve daha hızlı  kullanmasına izin vererek daha iyi dApp'ler oluşturmasına yardımcı olmaktır Hizmetimiz, kullanıcıların ilk olarak verileri ayıklamasına, dönüştürmesine, sürdürmesine ve sorgulamasına ve ayrıca gelecekte verileri bağlamasına ve sunmasına olanak tanır. Our service will allow users to extract, transform, persist, and query data initially, as well as connect and present data in the future. Amacımız, tıpkı The Graph'in Ethereum için olduğu gibi, bunu Substrate/Polkadot ekosistemi için temel bir altyapı parçası haline getirmektir.
 
 > SubQuery, dünyanın verilerini web3.0 geleceği için dönüştürmenize ve sorgulamanıza yardımcı olmak için burada.
 
