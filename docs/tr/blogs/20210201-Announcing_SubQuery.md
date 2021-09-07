@@ -6,17 +6,17 @@
 
 OnFinality'nin misyonu, her şekil ve büyüklükteki müşterilere altyapı hizmetleri sağlayarak blok zinciri geliştiricilerini desteklemektir. Bu misyonu ileri taşımak için temel bir sorunu çözmeyi amaçlayan yeni bir girişim başlatıyoruz: SubQuery.
 
-Hemen hemen her blok zincirin verileri işleme ve sorgulama ihtiyacı vardır. Gelişen Polkadot topluluğu, verileri  güvenilir bir şekilde bulmalarına ve hızlı bir şekilde tüketmelerine olanak tanıyan bir hizmete ihtiyaç duyacak. OnFinality'nin misyonu, her şekil ve büyüklükteki müşterilere altyapı hizmetleri sağlayarak blok zinciri geliştiricilerini desteklemektir
+Hemen hemen her blok zincirin verileri işleme ve sorgulama ihtiyacı vardır. Gelişen Polkadot topluluğu, verileri  güvenilir bir şekilde bulmalarına ve hızlı bir şekilde tüketmelerine olanak tanıyan bir hizmete ihtiyaç duyacak. OnFinality'nin misyonu, her şekil ve büyüklükteki müşterilere altyapı hizmetleri sağlayarak blok zinciri geliştiricilerini desteklemektir.
 
 Merkezi olmayan sistemler, verileri ağlar arasında depoladığından, sorgulama yavaş ve zordur. Web 3.0 hayalinin gerçekleşmesi için, onun son kullanıcı için merkezi ağlar kadar hızlı (hatta daha hızlı) olması gerekir. Protokol ekipleri şu anda kendi projeleri için merkezi dizin oluşturma sunucuları oluşturuyor, ancak bu üç probleme yol açıyor:
 
 -   Polkadot/Substrate ekipleri, bir sonraki dApp'i oluştururken bunu oluşturma veya yönetme konusunda endişelenmemelidir
 -   Takımlar sürekli olarak tekerleği yeniden icat ediyor; Polkadot'un parachain ile birlikte çalışabilirliğinin temel avantajı, bundan kaçınmaktır
--   Bize göre, Substrate/Polkadot ekosistemi, Ethereum ile aynı büyüme seviyesine ulaşmaya hazır. Ethereum'un hali hazırda sahip olduğu aynı düzeyde topluluk hizmetleri sağlaması gerektiğine inanıyoruz.
+-   Bize göre, Substrate/Polkadot ekosistemi, Ethereum ile aynı büyüme seviyesine ulaşmaya hazır. Ethereum'un hali hazırda sahip olduğu aynı düzeyde topluluk hizmetleri sağlaması gerektiğine inanıyoruz
 
 ![](https://miro.medium.com/max/1400/1*l4b4BXWkczVDaHyv30lLQQ.png)
 
-SubQuery'nin amacı, Polkadot/Substrate projelerinin, herkesin verileri güvenilir bir şekilde bulmasına ve daha hızlı  kullanmasına izin vererek daha iyi dApp'ler oluşturmasına yardımcı olmaktır Hizmetimiz, kullanıcıların ilk olarak verileri ayıklamasına, dönüştürmesine, sürdürmesine ve sorgulamasına ve ayrıca gelecekte verileri bağlamasına ve sunmasına olanak tanır. Our service will allow users to extract, transform, persist, and query data initially, as well as connect and present data in the future. Amacımız, tıpkı The Graph'in Ethereum için olduğu gibi, bunu Substrate/Polkadot ekosistemi için temel bir altyapı parçası haline getirmektir.
+SubQuery'nin amacı, Polkadot/Substrate projelerinin, herkesin verileri güvenilir bir şekilde bulmasına ve daha hızlı kullanmasına izin vererek daha iyi dApp'ler oluşturmasına yardımcı olmaktır. Hizmetimiz, kullanıcıların ilk olarak verileri ayıklamasına, dönüştürmesine, sürdürmesine ve sorgulamasına ve ayrıca gelecekte verileri bağlamasına ve sunmasına olanak tanır. Amacımız, tıpkı The Graph'in Ethereum için olduğu gibi, bunu Substrate/Polkadot ekosistemi için temel bir altyapı parçası haline getirmektir.
 
 > SubQuery, dünyanın verilerini web3.0 geleceği için dönüştürmenize ve sorgulamanıza yardımcı olmak için burada.
 
@@ -26,13 +26,13 @@ Web 3.0 hayalinin gerçekleşmesi için, son kullanıcı için merkezi ağlardan
 
 Bu nedenle, kullanıcıların GraphQL ile sorgulanabilecek bir veri kümesi oluşturması için zincirleri boyunca bir dizin oluşturucu çalıştırmasına olanak tanıyan açık kaynaklı bir proje olan SubQuery'yi duyurmaktan inanılmaz gurur duyuyoruz. Bu araç paketi, projelerin kendi SubQuery projelerini oluşturmasına olanak tanıyan ve dizin oluşturucunun kendi ağlarında nasıl geçiş yapabileceklerini ve bu ağları birleştireceklerini tanımlayan bir komut satırı arabirimi içerir. İşte ağı dizine ekleyen ve GraphQL sorgularını destekleyen bir SubQuery düğüm paketi. Bu araçların yardımıyla herkes kolayca sorgu oluşturabilir ve çalıştırabilir.
 
-> SubQuery Github deposundaki örneğimizi izleyerek hemen başlayabilirsiniz: https://github.com/OnFinality-io/subql
+> _SubQuery Github deposundaki örneğimizi izleyerek hemen başlayabilirsiniz:_ [_https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql)
 
-Ek olarak, SubQuery belgelerimizi okuyarak veya https://subquery.network/ adresindeki yeni web sitemizi ziyaret ederek daha fazla bilgi edinebilirsiniz.
+Ek olarak, SubQuery belgelerimizi okuyarak veya [https://subquery.network/](https://doc.subquery.network/) adresindeki yeni web sitemizi ziyaret ederek daha fazla bilgi edinebilirsiniz
 
 ![](https://miro.medium.com/max/1000/1*3oA1Hvns1vrImTsmowO_Jw.png)
 
-Bu teklife dayalı olarak daha performanslı ve ölçeklenebilir bir yönetilen barındırılan hizmet oluşturmaya odaklanacağız. Yüklenen bir SubQuery  projesinden güçlü bir üretime tabi SubQuery nod oluşturacak güvenilir bir altyapı sağlayacağız. Hizmet daha sonra zincirleme durumunu indeksleyecek ve sürdürecek ve kendi kendine barındırılan uygulamaların yerini alabilecek bir üretim GraphQL uç noktası sağlayacaktır. Diğer herkesin dApp'lerini oluşturmaya ve büyütmeye odaklanabilmesi için buna odaklanacağız.
+Bu teklife dayalı olarak daha performanslı ve ölçeklenebilir bir yönetilen barındırılan hizmet oluşturmaya odaklanacağız. Yüklenen bir SubQuery projesinden güçlü bir üretime tabi SubQuery nod oluşturacak güvenilir bir altyapı sağlayacağız. Hizmet daha sonra zincirleme durumunu indeksleyecek ve sürdürecek ve kendi kendine barındırılan uygulamaların yerini alabilecek bir üretim GraphQL uç noktası sağlayacaktır. Diğer herkesin dApp'lerini oluşturmaya ve büyütmeye odaklanabilmesi için buna odaklanacağız.
 
 Bu gerçekleştiğinde, son aşamamız Polkadot için kendi zincirimizi (muhtemelen parachain) oluşturarak SubQuery işini tokenize etmektir. Kurumsal ve yüksek tüketimli kullanıcılar için benzer bir faturalandırma modeli sunacak olsak da (tüketim seviyelerine sahip abonelik planı), bu verileri herkese şeffaf hale getirmek için zincirimize kaydedeceğiz ve katılımcı taraflar teşvik olarak ödüller için bahis oynayabilecekler. Zincire istikrar sağlamak ve topluluğun yönümüzü ve yol haritamızı etkilemesine izin vermek için bir yönetişim belirteci çıkaracağız.
 
