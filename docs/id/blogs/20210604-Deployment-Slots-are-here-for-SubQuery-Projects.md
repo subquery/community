@@ -1,29 +1,29 @@
 # Deployment Slots are here for SubQuery Projects
 
-> Today we’re introducing deployment slots, a whole new feature that improves the developer experience in SubQuery’s hosted service.
+> Hari ini kami memperkenalkan deployment slots, fitur baru yang meningkatkan pengalaman developer dalam layanan yang dihosting SubQuery.
 
-[SubQuery Projects](https://project.subquery.network/) is already being used as a managed and hosted service for many Projects, whether they’re chain explorers, wallets, NFT explorers, or others. It’s a service that our customers rely on.
+[Proyek SubQuery](https://project.subquery.network/) sudah digunakan sebagai layanan terkelola dan dihosting untuk banyak Proyek, baik itu chain explorers, wallets, NFT explorers, maupun lainnya. Ini adalah layanan yang diandalkan oleh pelanggan kami.
 
 ![](https://miro.medium.com/max/1400/0*PugDgh6weZspRIO2)
 
-You can now deploy to a isolated staging slot
+Anda sekarang dapat mendeploy ke isolated staging slot
 
-Although you can always run SubQuery’s infrastructure yourself (with your own node and query service), we aim to make our hosted service the most reliable, resilient, and performant data provider in the Polkadot/Substrate ecosystem.
+Meskipun Anda selalu dapat menjalankan infrastruktur SubQuery sendiri (dengan node dan layanan kueri Anda sendiri), kami bertujuan untuk menjadikan layanan hosted sebagai penyedia data yang paling andal, tangguh, dan berkinerja terbaik di ekosistem Polkadot/Substrate.
 
-Creators of [SubQuery Projects](https://project.subquery.network/) are constantly improving and updating their Projects and the data within those projects. Unfortunately it takes hours if not days to reindex chain data in the event of a major change — ultimately our goal to to allow you to update your Project, reindex your data, and upgrade your hosted SubQuery Projects with **zero downtime**
+Pembuat [Proyek SubQuery](https://project.subquery.network/) terus meningkatkan dan memperbarui Proyek mereka dan juga data di dalam proyek tersebut. Sayangnya, perlu berjam-jam jika tidak berhari-hari untuk mengindeks ulang data chain jika terjadi perubahan besar — pada akhirnya tujuan kami adalah untuk memungkinkan Anda memperbarui Proyek, mengindeks ulang data Anda, dan meningkatkan Proyek SubQuery yang dihosting dengan **zero downtime**
 
-**That’s what deployment slots are here to solve**
+**Itulah mengapa deployment slots hadir untuk memecahkan masalah ini**
 
 ![](https://miro.medium.com/max/1400/0*vQ33aqhn1eVllo5t)
 
-Your staging slot will run independently of the primary production slot
+Staging slot anda akan berjalan secara independen dari production slot utama
 
-When creating a new deployment to your [SubQuery Project in our hosted service](https://project.subquery.network/), you can choose to either deploy to the production or staging slot. These two slots are isolated environments, each has its own database and sync independently. Once your staging slot has started and completed indexing, you can then promote it to production with zero downtime.
+Saat membuat deployment baru ke [Proyek SubQuery di layanan hosted kami](https://project.subquery.network/), Anda dapat memilih untuk menerapkan ke slot production atau staging. Kedua slot ini adalah environment yang terisolasi, masing-masing memiliki database sendiri dan disinkronkan secara independen. Setelah slot staging Anda berjalan dan menyelesaikan pengindeksan, Anda kemudian dapat mempromosikannya ke produksi dengan zero downtime.
 
-The staging slot is perfect for:
+Slot staging sangat cocok untuk:
 
--   Validating changes to your SubQuery Project in a separate environment. The staging slot has a different URL to production that you can use in your dApps.
--   Warming up and indexing data for an updated SubQuery project to eliminate downtime in your dApp
--   Preparing a new release for your SubQuery Project without exposing it publicly. The staging slot is not shown to the public in the Explorer and has a unique URL that is visible only to you.
+-   Memvalidasi perubahan pada Proyek SubQuery Anda di environment yang terpisah. Slot staging memiliki URL berbeda untuk produksi yang dapat Anda gunakan di dApps Anda.
+-   Pemanasan dan pengindeksan data untuk proyek SubQuery yang diperbarui untuk mengeliminasi downtime di dApp Anda
+-   Mempersiapkan rilis baru untuk Proyek SubQuery Anda tanpa mengeksposnya secara publik. Slot staging tidak ditampilkan kepada publik di Explorer dan memiliki URL unik yang hanya dapat dilihat oleh Anda.
 
-You can try it yourself now in [SubQuery Projects](https://project.subquery.network/).
+Anda dapat mencobanya sendiri sekarang di [Proyek SubQuery](https://project.subquery.network/).
