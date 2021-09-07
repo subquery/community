@@ -2,22 +2,22 @@
 
 > How does the SubQuery Network work? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
 
-Today we’re going to talk about how the SubQuery Network works at a high level.
+Hari ini kita akan berbicara tentang bagaimana SubQuery Network bekerja pada tingkat tinggi.
 
-## Participants
+## Peserta
 
 
 ![](https://miro.medium.com/max/1400/1*9993cakplwupZC5tbUv3vA.png)
 
-Participants in the SubQuery Network
+Peserta dalam SubQuery Network
 
-There are three types of participants in the SubQuery Network:
+Ada tiga jenis peserta di SubQuery Network:
 
--   **Consumers**: Consumers will make requests to the SubQuery Network for specific data and pay an advertised amount of SQT
--   **Indexers**: Indexers will host SubQuery Projects in their own infrastructure, running both the node and query service to index data and answer GraphQL requests.
--   **Delegators**: Delegators will participate in the network by supporting their favourite Indexers to earn rewards
+-   **Konsumen**: Konsumen akan membuat permintaan ke SubQuery Network untuk data tertentu dan membayar sejumlah SQT yang diiklankan
+-   **Pengindeks**: Pengindeks akan meng-host Proyek SubQuery di infrastruktur mereka sendiri, menjalankan node dan layanan kueri untuk mengindeks data dan menjawab permintaan GraphQL.
+-   **Delegator**: Delegator akan berpartisipasi dalam jaringan dengan mendukung Pengindeks favorit mereka untuk mendapatkan reward
 
-## Indexers, Consumers, and Queries
+## Pengindeks, Konsumen, dan Kueri
 
 Let’s start with Indexers, Indexers do a lot of the hard work behind the scenes. The manage hardware, run infrastructure, monitor resources, and choose the right SubQuery projects to index
 
@@ -25,21 +25,21 @@ This takes time and money, but once they have this, Consumers may come and make 
 
 ![](https://miro.medium.com/max/1400/1*dKLkzSc2uXYaPW_IXUxstQ.png)
 
-Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
+Konsumen akan membuat permintaan ke SubQuery network untuk data tertentu dan membayar sejumlah token kami yang diiklankan, SQT.
 
-## Cobb-Douglas Production Function
+## Fungsi Produksi Cobb-Douglas
 
 This payment goes into a project revenue pool and at the end of a staking era (28 days) we take this project revenue pool and split it. It’s spit across indexers by something called the Cobb-Douglas production function.
 
 ![](https://miro.medium.com/max/1400/1*E-W7o7cWoclxHb8rXAMdpA.png)
 
-It’s spit across indexers by something called the Cobb-Douglas production function.
+Ini dibagi di seluruh pengindeks oleh sesuatu yang disebut fungsi produksi Cobb-Douglas.
 
-This approach, in simple terms, means that revenue is allocated to competing Indexers as a proportion of both requests answered and amount staked.
+Pendekatan ini, secara sederhana, berarti bahwa pendapatan dialokasikan untuk para Pengindeks yang bersaing sebagai proporsi dari permintaan yang dijawab dan jumlah yang distake.
 
 ![](https://miro.medium.com/max/1400/1*VhDu2BGDxd3ob7z9XkoOXA.png)
 
-Revenue is allocated to competing Indexers as a proportion of both requests answered and amount staked.
+Pendapatan dialokasikan untuk para Pengindeks yang bersaing sebagai proporsi dari permintaan yang dijawab dan jumlah yang distake.
 
 In our view, the beauty of this equation is that a rational Indexer must maintain a high level of staked SQT relative to the work they do in order to receive optimal revenue. As a result, we do not need to enforce arbitrary staking requirements because Indexers are incentivised to self-manage and maintain a stake or skin in the game.
 
@@ -47,19 +47,19 @@ In our view, the beauty of this equation is that a rational Indexer must maintai
 
 So Indexers are incentivised to both do as much work as possible, and to stake as much as possible to maximise their rewards. This is where delegators come in.
 
-Delegators can delegate their spare SQT to Indexers, each Indexer can publish a _query fee revenue share rate_, and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in.
+Delegator dapat mendelegasikan SQT mereka ke Pengindeks, setiap Pengindeks dapat menerbitkan _tingkat bagi hasil biaya kueri_, dan para delegator tersebut akan diberi reward dengan sebagian dari pendapatan biaya kueri yang diberikan kepada pengindeks.
 
 ![](https://miro.medium.com/max/1400/1*YoN7PV7h3a2nAFN-ODqILg.png)
 
-Delegators can delegate their spare SQT to Indexers and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in
+Delegator dapat mendelegasikan SQT mereka ke Pengindeks dan para delegator tersebut akan diberi reward dengan sebagian dari pendapatan biaya kueri yang diberikan kepada pengindeks
 
-The _query fee revenue share rate_ that indexers advertise is locked for each 28 day staking era, and a decrease to it must be advertised for an entire 28 day staking era before coming into force.
+_Tingkat bagi hasil biaya kueri_ yang diiklankan oleh pengindeks dilock untuk setiap era staking selama 28 hari, dan pengurangan yang dilakukan harus diiklankan untuk seluruh era staking 28 hari sebelum berlaku.
 
-Similarly, delegators can remove their delegation amounts at any point, but they will only receive rewards when they have delegated for the entire staking era.
+Demikian pula, delegator dapat mencabut jumlah delegasi mereka kapan saja, tetapi mereka hanya akan menerima reward ketika mereka telah mendelegasikan untuk seluruh era staking.
 
 ![](https://miro.medium.com/max/1400/0*we0k4A07pbj86COZ)
 
-Delegators will only receive rewards when they have delegated for the entire staking era
+Delegator hanya akan menerima reward ketika mereka telah mendelegasikan untuk seluruh era staking
 
 ## Purchase Orders
 
@@ -69,6 +69,6 @@ We’re calling them purchase orders, and Consumers can advertise a contract on 
 
 ![](https://miro.medium.com/max/1400/1*IPtaZlt24E7h9bKNZWdSCw.png)
 
-Consumers can advertise a purchase order on chain for a set price and number of requests.
+Konsumen dapat mengiklankan pesanan pembelian di dalam chain untuk harga yang telah ditetapkan dan jumlah permintaan.
 
-Purchase orders can also be placed on existing SubQuery Projects to attract additional Indexers to improve competition and decrease prices
+Purchase order juga dapat ditempatkan pada Proyek SubQuery yang ada untuk menarik Pengindeks tambahan untuk meningkatkan persaingan dan menurunkan harga

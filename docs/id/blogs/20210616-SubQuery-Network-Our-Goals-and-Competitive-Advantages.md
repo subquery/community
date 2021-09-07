@@ -1,6 +1,6 @@
 # SubQuery Network - Our Goals and Competitive Advantages
 
-Today we’re going to explore the goals that we have with SubQuery and some of the competitive advantages that we think make the SubQuery Network better than our competitors.
+Hari ini kita akan menjelajah tujuan yang kita miliki dengan SubQuery dan beberapa keunggulan kompetitif yang menurut kami membuat Jaringan SubQuery lebih baik daripada pesaing kami.
 
 SubQuery’s currently provided indexing and transformation data in a centralised way. Although this has allowed us to power some of the top Polkadot projects; DeFi apps like Acala and Bifrost, wallets like Fearless Wallet, NFT platforms like [KodaDot](https://kodadot.xyz/), cross-chain bridges like [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia), and analytics platforms like [SubVis](https://subvis.io/) — it has it’s downside.
 

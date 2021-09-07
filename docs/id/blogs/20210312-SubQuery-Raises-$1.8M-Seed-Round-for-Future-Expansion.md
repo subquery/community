@@ -10,9 +10,9 @@ SubQuery allows every Substrate/Polkadot team to process and query their data. T
 
 OnFinality is the team behind SubQuery, who are an infrastructure SaaS platform for blockchain teams and users to launch nodes and get access to a large range of blockchain protocols. They have a suite of symbiotic services including shared node API services, and have relationships with the top Polkadot/Substrate teams.
 
-> _“Hypersphere is excited to back Sam and the SubQuery team as they quickly build the first indexing protocol to focus exclusively on the Polkadot ecosystem.”_ — Jack Platts, Co-Founder at Hypersphere Ventures
+> _“Hypersphere dengan senang hati mendukung Sam dan tim SubQuery karena mereka dengan cepat membangun protokol pengindeksan pertama yang berfokus secara eksklusif pada ekosistem Polkadot.”_ — Jack Platts, Co-Founder di Hypersphere Ventures
 
-Led by Sam Zou, CEO of SubQuery, the team [received a grant from the Web3 foundation](https://subquery.medium.com/subquery-delivers-its-open-source-sdk-following-a-web3-foundation-grant-20da26ae87f) in December 2020 to build the initial phase of SubQuery, an open source project that allows users to run an indexer across their chain to build a dataset that can be queried with GraphQL.
+Dipimpin oleh Sam Zou, CEO dari SubQuery, tim [menerima grants dari Web3 foundation](https://subquery.medium.com/subquery-delivers-its-open-source-sdk-following-a-web3-foundation-grant-20da26ae87f) pada Desember 2020 untuk membangun fase awal SubQuery, sebuah proyek open source yang memungkinkan pengguna menjalankan pengindeks di seluruh chain mereka untuk membangun kumpulan data yang dapat dikueri dengan GraphQL.
 
 ![](https://miro.medium.com/max/1000/0*kjspGYRr_BtMk015)
 
@@ -20,11 +20,11 @@ Since then SubQuery has launched the SubQuery Explorer. An online hosted service
 
 This seed raise will supercharge the development of SubQuery and accelerate the delivery of critical data services to the Polkadot/Substrate community. This includes building a free public service to host and manage community SubQuery projects, building a community around data and knowledge sharing, and the eventual tokenization of our project.
 
--   Try it out on the[SubQuery Explorer](https://explorer.subquery.network/)
--   Read more on [SubQuery docs](https://doc.subquery.network/)
--   Visit our [website](https://subquery.network/)
+-   Cobalah di [SubQuery Explorer](https://explorer.subquery.network/)
+-   Baca lebih lanjut di [dokumen SubQuery](https://doc.subquery.network/)
+-   Kunjungi [website](https://subquery.network/) kami
 
-**Talk to us on:**
+**Berbicara dengan kami di:**
 
 -   [hello@subquery.network](mailto:hello@subquery.network)
 -   [Discord](https://discord.com/invite/78zg8aBSMG)

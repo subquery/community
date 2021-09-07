@@ -1,10 +1,10 @@
-# Darwinia's Network Data is Now Available for Free on SubQuery
+# Data Jaringan Darwinia Sekarang Tersedia Gratis di SubQuery
 
 ![](https://miro.medium.com/max/1400/0*7_sagAfI_wTKePuH)
 
 **中文阅读版本请见下方**
 
-**We are pleased to announce that SubQuery and Darwinia Network have formed a strategic partnership.**
+**Dengan senang hati kami umumkan bahwa SubQuery dan Darwinia Network telah membentuk kemitraan strategis.**
 
 [Darwinia](https://darwinia.network/) recently released two new SubQuery projects, one for their [main network](https://explorer.subquery.network/subquery/darwinia-network/darwinia) and the other for [Crab](https://explorer.subquery.network/subquery/darwinia-network/crab), their canary network. By exposing their data on SubQuery, Darwinia is opening the door for their application ecosystem to build more engaging applications on this free datasource.
 
@@ -20,20 +20,20 @@ Thanks to SubQuery, we can easily query the transfer times of each account on th
 
 Darwinia is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services for this service is completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/). You can play around with the Darwinia SubQuery dataset here (and Darwinia’s Crab here) using the Explorer without implementing any code. As you wish, obtaining the records of a specific account would become very simple.
 
-The query indicates that we need to get the latest 20 records whether is sending or receiving with the address _2qeMxq616BhqvTW8a1bp2g7VKPAmpda1vXuAAz5TxV5ehivG_.
+Kueri menunjukkan bahwa kita perlu mendapatkan 20 catatan terbaru apakah mengirim atau menerima dengan alamat _2qeMxq616BhqvTW8a1bp2g7VKPAmpda1vXuAAz5TxV5ehivG_.
 
 ![](https://miro.medium.com/max/1400/0*z-9giNk4RnhxliYy)
 
 [SubQuery](https://subquery.network/) is a data aggregation layer that will operate between the layer-1 blockchains (Darwinia) and DApps. The solution aggregates and organises data from [Darwinia](https://darwinia.network/) and other blockchains, serving up well-structured data for their dApp and for other developers to use in a wide array of projects. This service allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
 
-Learn more about SubQuery
+Pelajari lebih lanjut tentang SubQuery
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
 
-The Darwinia Network is a decentralized heterogeneous cross-chain bridge protocol built on Substrate, focusing on decentralized cross-chain token swap, exchange and market.
+Jaringan Darwinia adalah protokol jembatan cross-chain heterogen terdesentralisasi yang dibangun di atas Substrate, dengan fokus pada swap, pertukaran, dan pasar token cross-chain terdesentralisasi.
 
 Darwinia also serves as critical infrastructure for single-chain application upgrade to cross-chain version, including Defi, Game, DEX, NFT market, etc. Their vision is to build the future Internet of Tokens.
 
-All you need to know about Darwinia
+Semua yang perlu Anda ketahui tentang Darwinia
 
 [Website](https://darwinia.network/) | [Twitter](https://twitter.com/DarwiniaNetwork) | [Telegram](https://t.me/DarwiniaNetwork) | [GitHub](https://github.com/darwinia-network) | [Discord](https://discord.gg/KMZVeyM)

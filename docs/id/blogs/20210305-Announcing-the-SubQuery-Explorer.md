@@ -8,7 +8,7 @@ We’ve been working overtime over the last month to release the next major stag
 
 [SubQuery Explorer](https://explorer.subquery.network/) is an online hosted service that provides access to published SubQuery projects made by contributors around the world and managed by the SubQuery team. It furthers our mission to support Polkadot developers by providing infrastructure services by making accessing Polkadot network data even easier.
 
-Today, anyone can query and extract Polkadot network data in only minutes and at no cost.
+Hari ini, siapa pun dapat mengkueri dan mengekstrak data jaringan Polkadot hanya dalam hitungan menit dan tanpa biaya.
 
 The SubQuery explorer makes getting started easy. We’ve prebuilt SubQuery projects for two use cases (more about these below) and have indexed each network. We’re hosting these SubQuery nodes online and allow anyone to query each for free. These managed nodes will be monitored and run by the SubQuery team at a performance level that will allow production apps to use and rely on them.
 
@@ -28,17 +28,17 @@ You can quickly see the minimum staking amount required for a validator to be el
 
 This SubQuery Explorer is just the first set of our plans to build a community hub for Polkadot data. We’re going to follow up with the following features:
 
--   We’re focusing on community tools, so you can expect more in depth developer documentation, easy to follow tutorials, and example projects that highlight some really cool use cases for the data that SubQuery surfaces.
--   More SubQuery projects will slowly come online based on community feedback,we’d love some ideas on what you’d love to see next — reach out on any of our social channels (see below)
--   We’re going to build a partner platform, so that our community can build and upload their own SubQuery projects and we’ll manage and host them for you for free.
+-   Kami berfokus pada alat komunitas, sehingga Anda dapat mengharapkan dokumentasi developer yang lebih mendalam, tutorial yang mudah diikuti, dan proyek contoh yang mencakup beberapa kasus penggunaan yang sangat keren untuk data yang muncul di SubQuery.
+-   Lebih banyak proyek SubQuery secara bertahap akan muncul berdasarkan feedback dari komunitas, kami ingin beberapa ide tentang apa yang ingin Anda lihat selanjutnya — hubungi salah satu channel sosial kami (lihat di bawah)
+-   Kami akan membangun platform mitra, sehingga komunitas kami dapat membangun dan mengunggah proyek SubQuery mereka sendiri dan kami yang akan mengelola dan meng-hostnya untuk Anda secara gratis.
 
-Start querying data on the new [SubQuery Explorer](https://explorer.subquery.network/)
+Mulai mengkueri data di [SubQuery Explorer](https://explorer.subquery.network/) yang baru
 
-Build your own SubQuery project by following our [SubQuery docs](https://doc.subquery.network/)
+Buat proyek SubQuery Anda sendiri dengan mengikuti [dokumen SubQuery](https://doc.subquery.network/) kami
 
-Visit our [website](https://subquery.network/)
+Kunjungi [website](https://subquery.network/) kami
 
-**Talk to us on:**
+**Berbicara dengan kami di:**
 
 -   [hello@subquery.network](mailto:hello@subquery.network)
 -   [Discord](https://discord.com/invite/78zg8aBSMG)

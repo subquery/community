@@ -8,22 +8,22 @@ Those ‘_secret NFTs_’ can be found and purchased in the dedicated marketplac
 
 **_Secret NFTs_** are a special kind of NFTs invented and developed by Ternoa, and made possible by their unique and elegant blockchain architecture: Secret-NFTs are composed of two medias, one public with watermark or a lower quality, and the other private that can only be seen by the owner of said NFT. This offers an amazing protection from forgery for artists and KOLs, and opens up a lot of use cases.
 
-The secret media will be easily accessible by the Wallet user who is holding its SecretNFT
+Media rahasia akan mudah diakses oleh pengguna Wallet yang memegang SecretNFT
 
-**SubQuery** is supporting Ternoa by providing indexing solutions for their user balances, NFT explorer on both the Ternoa Wallet and the Secret-NFT website.
+**SubQuery** mendukung Ternoa dengan menyediakan solusi pengindeksan untuk saldo pengguna mereka, NFT explorer di Dompet Ternoa dan website Secret-NFT.
 
 ![](https://miro.medium.com/max/1400/0*gquKRKBgiyAAxRFZ)
 
 > “We made the choice to use SubQuery because the documentation seemed clear to us at first glance and we were not mistaken. SubQuery provides a complete environment with a docker machine which makes testing and deployment very easy. It is relatively easy to develop in this environment and to program the listening of the different events emitted by our blockchain. Congratulations also to the support which is very responsive.” — Ternoa CTO
 
-[SubQuery’s](https://subquery.network/) services also help extract and query on chain data for Secret-NFTs minted on the Ternoa Blockchain, in a way that supports the unique features of Ternoa’s NFTs.
+Layanan [SubQuery](https://subquery.network/) juga membantu mengekstrak dan mengkueri data on chain untuk Secret-NFT yang dimint di Ternoa Blockchain, dengan cara yang mendukung fitur unik NFT Ternoa.
 
 ![](https://miro.medium.com/max/1400/0*CA7lfxmZxHCKhzWw)
 
-In the example below, we’re [using SubQuery](https://explorer.subquery.network/subquery/capsule-corp-ternoa/indexer) to find the first 5 NFTs on the Ternoa Network.
+Pada contoh di bawah, kami [menggunakan SubQuery](https://explorer.subquery.network/subquery/capsule-corp-ternoa/indexer) untuk menemukan 5 NFT pertama di Jaringan Ternoa.
 
 ![](https://miro.medium.com/max/1400/0*YaQGpb3xUn7BUESx)
 
 Secret NFT is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/).
 
-[Explore the Ternoa Secret NFT dataset](https://explorer.subquery.network/subquery/capsule-corp-ternoa/indexer)
+[Jelajahi data set Ternoa Secret NFT](https://explorer.subquery.network/subquery/capsule-corp-ternoa/indexer)

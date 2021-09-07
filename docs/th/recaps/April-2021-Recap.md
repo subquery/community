@@ -25,25 +25,25 @@
 
 โครงการ Bifrost SubQuery ใหม่ ใน SubQuery Explorer
 
-> “หากไม่มี SubQuery มันจะเป็นเรื่องยากที่จะจินตนาการว่าการรวบรวมข้อมูลจากเชนด้วยตัวเองนั้นจะซับซ้อนขนาดไหน Bifrost developers may spend a lot of time searching for all transaction data on chain to be used for transaction history. SubQuery helps developers save a lot of repetitive work costs. Bifrost will cooperate with SubQuery for a long time to accelerate the iterative speed of product development”. — Bifrost Finance
+> “หากไม่มี SubQuery มันจะเป็นเรื่องยากที่จะจินตนาการว่าการรวบรวมข้อมูลจากเชนด้วยตัวเองนั้นจะซับซ้อนขนาดไหน นักพัฒนา Bifrost อาจใช้เวลาอย่างมากในการค้นหาข้อมูลการทำธุรกรรมบน chain เพื่อใช้สำหรับทำประวัติการทำธุรกรรม SubQuery ช่วยนักพัฒนาประหยัดค่าใช้จ่าย ในการทำงานที่ซ้ำซากจำเจนี้ Bifrost จะร่วมมือกับ SubQuery เป็นระยะเวลานาน เพื่อเร่งการทำซ้ำของการพัฒนาผลิตภัณฑ์” — Bifrost Finance
 
-OnFinality is a key service provider for SubQuery — most of the SubQuery indexers in Polkadot and Kusama projects are using OnFinality’s public API endpoints to get their data. The significant traffic from SubQuery is one of the reasons why OnFinality is the largest infrastructure provider in the Polkadot/Kusama ecosystem.
+OnFinality เป็นผู้ให้บริการหลักของ SubQuery ซึ่ง indexer ส่วนใหญ่ของ SubQuery ในโครงการบน Polkadot และ Kusama กำลังใช้งาน API endpoint สาธารณะของ OnFinality ในการรับข้อมูล ปริมาณการใช้ข้อมูลอย่างมีนัยสำคัญจาก SubQuery เป็นหนึ่งในสาเหตุที่ทำให้ OnFinality เป็นผู้ให้บริการโครงสร้างพื้นฐานที่ใหญ่ที่สุดในระบบนิเวศ Polkadot/Kusama
 
-In April, OnFinality hit a long term goal of 100 million in a single day, in fact they smashed it with 127 million requests in 24 hours (almost 1,500 each second).
+ในเดือนเมษายน OnFinality ได้บรรลุเป้าหมายระยะยาวคือ 100 ล้านคำขอภายในหนึ่งวัน ซึ่งที่จริงเขาได้ไปถึง 127 ล้านคำขอใน 24 ชั่วโมง(เกือบ 1500 คำขอ ต่อวินาที)
 
 ![](https://miro.medium.com/max/1400/0*FLq4vXluI9CTiBQ8)
 
-OnFinality also [delivered their treasury proposal](https://kusama.polkassembly.io/treasury/72) for the second milestone to improve the scalability of their API service. Intelligent routing that allows them to maximise the use of different clusters of nodes across their user base in different geographic regions. SubQuery relies on this infrastructure so it’s important to note the continued investment and improvements here. The past month has demonstrated how critical it is to continue to invest in scale so that we can continue to provide the best service every day.
+OnFinality ยังได้[ส่งมอบข้อเสนอด้านการเงิน](https://kusama.polkassembly.io/treasury/72)สำหรับก้าวที่สองเพื่อปรับปรุงความสามารถในการปรับขนาดของบริการ API การกำหนดเส้นทางอัจฉริยะ(Intelligent routing) ช่วยให้พวกเขาสามารถใช้กลุ่มของโหนดได้สูงสุดทั่วทั้งฐานผู้ใช้งานของตน ในภูมิภาคที่แตกต่างกัน SubQuery นั้นพึ่งพาโครงสร้างพื้นฐานนี้ ดังนั้นสิ่งสำคัญคือการลงทุนและการปรับปรุงอย่างต่อเนื่อง โดยเดือนที่ผ่านมานั้นแสดงให้เห็นว่าการลงทุนในด้านขนาดอย่างต่อเนื่องเป็นสิ่งสำคัญเพียงใด ในการที่เราจะสามารถให้บริการที่ดีที่สุดต่อไปได้ทุกวัน
 
--   Our CEO Sam Zou presented _Cyber future on Parachains_ online event with Web3, Acala, Polkawarriors, and Bitfwd
+-   CEO ของเรา Sam Zou ได้จัดงานออนไลน์เรื่อง_อนาคตของ Cyber บน Parachain_ พร้อมด้วย Web3, Acala, Polkawarriors และ Bitfwd
 
--   Our Head of Business Development James Bayly joined an interesting virtual fireside chat with DFG and James Wo as part of their DFG Talks series.
+-   James Bayly หัวหน้าฝ่ายพัฒนาธุรกิจของเราได้เข้าร่วมการสนทนาเสมือนจริงกับ DFG และ James Wo ซึ่งเป็นส่วนหนึ่งของซีรี่ส์ DFG Talks
 
--   Our time in the Berkeley Xcelerator has started — we’ve attended some excellent sessions so far
--   We’ve made some big improvements to our [SubQuery website](https://subquery.network/)
--   A new release of [improved documentation](https://doc.subquery.network/) for SubQuery developers
--   Our offices are improving, we’re lucky to be able to work in the same space here in New Zealand
+-   เวลาของพวกเราใน Berkeley Xcelerator ได้เริ่มขึ้นแล้ว — เราได้เข้าร่วมการประชุมที่ยอดเยี่ยม
+-   เราได้ทำการปรับปรุงครั้งใหญ่บน[เว็บไซต์ SubQuery](https://subquery.network/)ของเรา
+-   [เอกสารที่ปรับปรุงแล้ว](https://doc.subquery.network/)รุ่นใหม่สำหรับนักพัฒนา SubQuery
+-   สำนักงานของเรากำลังปรับปรุง เราโชคดีที่ได้ทำงานที่เดียวกันที่นิวซีแลนด์
 
 ![](https://miro.medium.com/max/1400/0*cOsJ2TLa4yqpY0Ig)
 
-Expect some big news coming in May for our community — we’ve been working on something massive and we can’t wait to share it. ในระหว่างนี้คุณสามารถสร้างโครงการ SubQuery ของคุณได้เองโดยทำตาม[คู่มือเริ่มต้นแบบย่อฉบับใหม่ ของเราที่นี่](https://doc.subquery.network/quickstart.html)
+คาดว่าจะมีข่าวใหญ่ในเดือนพฤษภาคมสำหรับชุมชนของเรา — เรากำลังทำงานบางอย่างที่ยิ่งใหญ่และเราแทบรอไม่ไหวที่จะบอกมัน ในระหว่างนี้คุณสามารถสร้างโครงการ SubQuery ของคุณได้เองโดยทำตาม[คู่มือเริ่มต้นแบบย่อฉบับใหม่ ของเราที่นี่](https://doc.subquery.network/quickstart.html)
