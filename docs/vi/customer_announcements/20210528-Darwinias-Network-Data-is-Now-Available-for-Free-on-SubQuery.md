@@ -6,25 +6,25 @@
 
 **Chúng tôi vui mừng thông báo rằng SubQuery và Darwinia Network đã hình thành quan hệ đối tác chiến lược.**
 
-[Darwinia](https://darwinia.network/) gần đây đã phát hành hai dự án SubQuery mới, một cho [mạng chính](https://explorer.subquery.network/subquery/darwinia-network/darwinia) và một cho [Crab](https://explorer.subquery.network/subquery/darwinia-network/crab), canary network của họ. Bằng cách tiết lộ dữ liệu của họ trên SubQuery, Darwinia đang mở ra cánh cửa cho hệ sinh thái ứng dụng của họ để xây dựng các ứng dụng hấp dẫn hơn trên nguồn dữ liệu miễn phí này.
+[Darwinia](https://darwinia.network/) recently released two new SubQuery projects, one for their [main network](https://explorer.subquery.network/subquery/darwinia-network/darwinia) and the other for [Crab](https://explorer.subquery.network/subquery/darwinia-network/crab), their canary network. By exposing their data on SubQuery, Darwinia is opening the door for their application ecosystem to build more engaging applications on this free datasource.
 
-> "Việc sử dụng SubQuery để truy vấn dữ liệu trên chuỗi của Darwinia đã trở nên rất đơn giản và linh hoạt. SubQuery coi dữ liệu blockchain như một biểu đồ và tận dụng khả năng mở rộng của GraphQL để giới thiệu chức năng bổ sung. Chúng tôi tin rằng trong tương lai, giao diện dữ liệu trên chuỗi substrate sẽ chủ yếu sử dụng GraphQL, SubQuery đang biến điều này thành hiện thực". — Darwinia
+> “Using SubQuery to query Darwinia’s on-chain data has become very simple and flexible. SubQuery regards blockchain data as a graph, and leverages the extensibility of GraphQL to introduce additional functionality. We believe that in the future, the data interface on the substrate chain will mainly use GraphQL, SubQuery is making this a reality”. — Darwinia
 
-Dịch vụ của [SubQuery](https://subquery.network/) giúp Darwinia mở khóa dữ liệu chuỗi và giúp hệ sinh thái ứng dụng của họ dễ truy cập hơn. Các ứng dụng, ví dụ như thị trường NFT, có thể sử dụng dữ liệu từ Darwnia’s SubQuery để hiển thị thống kê đấu giá và thậm chí có thể mở rộng dự án Darwinia SubQuery để tổng hợp và chuyển đổi dữ liệu nhằm cung cấp thông tin chi tiết về dữ liệu độc đáo hơn nữa.
+[SubQuery’s](https://subquery.network/) service helps Darwinia unlock chain data and to make it more accessible for their application ecosystem. Applications, for example a NFT marketplace, could use the data from Darwnia’s SubQuery to show auction statistics, and could even extend the Darwinia SubQuery project to aggregate and transform data to provide even more unique data insights.
 
 ![](https://miro.medium.com/max/1400/0*n2sGrQWOkIFXxMnq)
 
-Nhờ SubQuery, chúng tôi có thể dễ dàng truy vấn thời gian chuyển của từng tài khoản trên chuỗi. Ví dụ: chúng tôi có thể tìm được ba tài khoản có nhiều giao dịch được gửi và nhận nhất thông qua truy vấn dưới đây:
+Thanks to SubQuery, we can easily query the transfer times of each account on the chain. For example, we can get the three account with the most sent and receive transactions through the query below:
 
 ![](https://miro.medium.com/max/1400/0*gfS6ksjUL9fR9XA7)
 
-Darwinia đang sử dụng [Dự án SubQuery](https://project.subquery.network/) để quản lý dự án của riêng họ và cập nhật theo yêu cầu. Dịch vụ lập chỉ mục và truy vấn cho dịch vụ này do SubQuery quản lý hoàn toàn và được cung cấp miễn phí cho cộng đồng Polkadot trong [SubQuery Explorer](https://explorer.subquery.network/). Bạn có thể thử với tập dữ liệu Darwinia SubQuery tại đây (và Darwinia Crab tại đây) bằng cách sử dụng Explorer mà không cần triển khai bất kỳ mã lập trình nào. Như bạn muốn, việc lấy hồ sơ của một tài khoản cụ thể sẽ trở nên rất đơn giản.
+Darwinia is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services for this service is completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/). You can play around with the Darwinia SubQuery dataset here (and Darwinia’s Crab here) using the Explorer without implementing any code. As you wish, obtaining the records of a specific account would become very simple.
 
 Truy vấn cho biết rằng chúng tôi cần nhận 20 bản ghi mới nhất cho dù đang gửi hay nhận với địa chỉ _2qeMxq616BhqvTW8a1bp2g7VKPAmpda1vXuAAz5TxV5ehivG_.
 
 ![](https://miro.medium.com/max/1400/0*z-9giNk4RnhxliYy)
 
-[SubQuery](https://subquery.network/) là một lớp tổng hợp dữ liệu sẽ hoạt động giữa các blockchains layer-1 (Darwinia) và DApp. Giải pháp tổng hợp và sắp xếp dữ liệu từ [Darwinia](https://darwinia.network/) và các blockchain khác, cung cấp dữ liệu có cấu trúc tốt cho dApp của họ và cho các nhà phát triển khác sử dụng trong nhiều dự án. Dịch vụ này cho phép các nhà phát triển DApp tập trung vào vấn đề cốt lõi và giao diện người dùng của họ mà không cần lãng phí thời gian vào việc xây dựng chương trình phụ trợ tùy chỉnh để xử lý dữ liệu.
+[SubQuery](https://subquery.network/) is a data aggregation layer that will operate between the layer-1 blockchains (Darwinia) and DApps. The solution aggregates and organises data from [Darwinia](https://darwinia.network/) and other blockchains, serving up well-structured data for their dApp and for other developers to use in a wide array of projects. This service allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
 
 Tìm hiểu thêm về SubQuery
 
@@ -32,7 +32,7 @@ Tìm hiểu thêm về SubQuery
 
 Mạng Darwinia là một giao thức cầu xuyên chuỗi không đồng nhất phi tập trung được xây dựng trên Substrate, tập trung vào trao đổi, trao đổi và thị trường mã thông báo xuyên chuỗi phi tập trung.
 
-Darwinia cũng đóng vai trò là cơ sở hạ tầng quan trọng để nâng cấp ứng dụng chuỗi đơn lên phiên bản chuỗi chéo, bao gồm thị trường Defi, Game, DEX, NFT, ... Tầm nhìn của họ là xây dựng Internet của Token trong tương lai.
+Darwinia also serves as critical infrastructure for single-chain application upgrade to cross-chain version, including Defi, Game, DEX, NFT market, etc. Their vision is to build the future Internet of Tokens.
 
 Tất cả những gì bạn cần biết về Darwinia
 
