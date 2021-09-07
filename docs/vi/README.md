@@ -1,28 +1,28 @@
 # SubQuery Blog & Nội dung cộng đồng
 
-SubQuery is here to help you transform and query the world’s data for a web3.0 future.
+SubQuery ở đây để giúp bạn chuyển đổi và truy vấn dữ liệu của thế giới cho tương lai web3.0.
 
-This is the global repository of all community blogs, announcements, articles, and videos from SubQuery.
+Đây là kho lưu trữ toàn cầu của tất cả các blog cộng đồng, thông báo, bài viết và video từ SubQuery.
 
-**Read in your own language! You can change your language using the selector on the top right of all pages.**
+**Đọc bằng ngôn ngữ của bạn! Bạn có thể thay đổi ngôn ngữ của mình bằng cách sử dụng bộ chọn ở trên cùng bên phải của tất cả các trang.**
 
-## We need help translating!
+## Chúng tôi cần giúp đỡ trong việc dịch thuật!
 
-We understand that one of our biggest strengths is our community, and with your help, we want to grow and establish local ambassadors to help translate our material for communities around the world.
+Chúng tôi hiểu rằng một trong những thế mạnh lớn nhất của chúng tôi là cộng đồng và với sự giúp đỡ của bạn, chúng tôi muốn phát triển và thành lập các đại sứ địa phương để giúp dịch tài liệu của chúng tôi cho các cộng đồng trên khắp thế giới.
 
-[Join our Ambassador Program](https://doc.subquery.network/miscellaneous/ambassadors.html)
+[Tham gia Chương trình Đại sứ của chúng tôi](https://doc.subquery.network/miscellaneous/ambassadors.html)
 
-## Social Media Links
+## Liên kết truyền thông xã hội
 
-SubQuery is an active project that maintains and communicates with our followers through many social media channels.
+SubQuery là một dự án hoạt động nhằm duy trì và giao tiếp với những người theo dõi của chúng tôi thông qua nhiều kênh truyền thông xã hội.
 
-It is our aim to always listen and engage with our loyal community so please join the conversation and send us your ideas or questions!
+Mục đích của chúng tôi là luôn lắng nghe và tương tác với cộng đồng trung thành của mình, vì vậy hãy tham gia trò chuyện và gửi cho chúng tôi ý tưởng hoặc câu hỏi của bạn!
 
-- [Discord](https://discord.com/invite/78zg8aBSMG) (Primary Community with dedicated technical support channels)
-- [Medium](https://subquery.medium.com) (Primary announcements channel)
+- [Discord](https://discord.com/invite/78zg8aBSMG) (Cộng đồng chính với các kênh hỗ trợ kỹ thuật chuyên dụng)
+- [ Medium](https://subquery.medium.com) (Kênh thông báo chính)
 - [Twitter](https://twitter.com/subquerynetwork)
 - [WeChat]()
-- [Telegram](https://t.me/subquerynetwork) (Announcements channel only)
+- [Telegram](https://t.me/subquerynetwork) (Chỉ kênh thông báo)
 - [GitHub](https://github.com/SubQuery/subql)
 - [Matrix/Riot](https://matrix.to/#/#subquery:matrix.org)
 - [LinkedIn](https://www.linkedin.com/company/subquery)
