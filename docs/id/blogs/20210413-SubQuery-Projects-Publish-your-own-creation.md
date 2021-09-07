@@ -1,42 +1,42 @@
-# Proyek SubQuery — Publikasikan kreasi Anda sendiri!
+# SubQuery Projects — Publish your own creation!
 
 ![](https://miro.medium.com/max/1400/0*Jhkt10DyMiptFocJ)
 
-Proyek SubQuery
+SubQuery Projects
 
-Hari ini kami meluncurkan fase berikutnya dari SubQuery — [Proyek](https://project.subquery.network). Misi SubQuery adalah membuat data dunia yang terdesentralisasi lebih mudah diakses, jadi pengumuman minggu ini sangat penting bagi komunitas kami!
+Today we’re launching the next phase of SubQuery — [Projects](https://project.subquery.network). SubQuery’s mission is to make the world’s decentralised data more accessible, so this announcement this week is huge for our community!
 
 
 
 ![](https://miro.medium.com/max/464/0*FTsLOuy0A4cWEwcp)
 
-[Proyek SubQuery](https://project.subquery.network) adalah tempat baru dimana Anda dapat mempublikasikan proyek Anda ke layanan terkelola kami. Setelah Anda menghubungkan akun GitHub, Anda hanya perlu beberapa menit untuk membagikan proyek SubQuery Anda ke lebih dari 500 pengguna [SubQuery Explorer](https://explorer.subquery.network/). Proyek Anda sendiri dapat dihosting secara online tepat di sebelah proyek SubQuery kami yang ada dari [Acala](https://explorer.subquery.network/subquery/OnFinality-io/acala-subql) dan [Bifrost](https://explorer.subquery.network/subquery/bifrost-finance/subql).
+[SubQuery Projects](https://project.subquery.network) is the new place where you can publish your projects to our managed service. Once you connect your GitHub account, you’re only minutes away from sharing your SubQuery project to over 500 users of the [SubQuery Explorer](https://explorer.subquery.network/). Your own project can be hosted online right next to our existing SubQuery projects from [Acala](https://explorer.subquery.network/subquery/OnFinality-io/acala-subql) and [Bifrost](https://explorer.subquery.network/subquery/bifrost-finance/subql).
 
-Anda juga dapat membuat proyek SubQuery Anda secara private dengan tidak menampilkannya di Explorer, sempurna jika Anda ingin mengujinya secara pribadi menggunakan infrastruktur terkelola kami. Selain itu, kami juga terintegrasi dengan GitHub, sehingga membuat proyek SubQuery dalam akun organisasi GitHub akan secara otomatis membagikannya dengan anggota tim Anda.
+You can also keep your SubQuery project private by not showing it in the Explorer, perfect if you want to privately test it using our managed infrastructure. Additionally, we’re integrated with GitHub, so creating a SubQuery project within a GitHub organisation account will automatically share it with your team members.
 
 
 
 ![](https://miro.medium.com/max/1400/1*IupCbHA6aaal26sYbK-Hbw.png)
 
-Membuat Proyek SubQuery baru
+Creating a new SubQuery Project
 
-Setelah Anda mempublikasikan dan menerapkan proyek baru Anda, Anda dapat berinteraksi dengannya melalui endpoint GraphQL kami atau cukup bermain di [Explorer playground](https://explorer.subquery.network/) kami! Kami akan menjalankannya seperti aplikasi produksi, sehingga Anda dapat membuka kunci data terdesentralisasi di dApp berikutnya hari ini menggunakan SubQuery.
+Once you’ve published and deployed your new project, you can interact with it over our GraphQL endpoint or simply play in our [Explorer playground](https://explorer.subquery.network/)! We’ll run it like it’s a production application, so you can unlock your decentralized data in your next dApp today using SubQuery.
 
 
 
 ![](https://miro.medium.com/max/1400/1*Re6uHuy05UzWttfWQBM6hg.png)
 
-Proyek SubQuery yang baru diterbitkan
+A new published SubQuery Project
 
-Tidak perlu khawatir untuk menjalankan production SubQuery nodes, serahkan pada ahlinya. Kami akan fokus pada pengelolaan server pengindeksan sehingga Anda tidak perlu melakukannya.
+Don’t worry about running production SubQuery nodes, leave it to the experts. We’re going to focus on managing indexing servers so that you don’t have to.
 
-## Pelajari lebih lanjut
+## Learn More
 
-[Ikuti panduan kami untuk memublikasikan proyek pertama Anda](https://doc.subquery.network/publish/publish.html) di [SubQuery Projects](https://project.subquery.network)
+[Follow our guide to publish your first project](https://doc.subquery.network/publish/publish.html) on [SubQuery Projects](https://project.subquery.network)
 
-Mulai mengkueri data di [SubQuery Explorer](https://explorer.subquery.network/) yang baru
+Start querying data on the new [SubQuery Explorer](https://explorer.subquery.network/)
 
-Buat proyek SubQuery Anda sendiri dengan mengikuti [dokumen SubQuery](https://doc.subquery.network/) kami
+Build your own SubQuery project by following our [SubQuery docs](https://doc.subquery.network/)
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Twitter](https://twitter.com/subquerynetwork) | [Telegram](https://t.me/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
 
