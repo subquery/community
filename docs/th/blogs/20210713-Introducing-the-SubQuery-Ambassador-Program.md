@@ -4,7 +4,7 @@
 
 ## ประชาสัมพันธ์ SubQuery
 
-SubQuery วางเป้าหมายที่จะเป็นผู้นำในการป้อนข้อมูลของ บล็อคเชน Polkadot โดยวางพันธกิจเพื่อพิ่มประสิทธิให้ dApps ต่างๆใน ecosystem ของ Polkadot ที่กำลังเติบโตอยู่โดยในขณะนี้ทาง SubQuery ได้ทำงานร่วมกับ DEFI app ตัวอย่างเช่น Acala, Bifrost และ กระเป๋าเงินดิจิตอล เช่น Fearless Wallet ในขณะที่ NFT platform นั้นได้มีการทำงานร่วมกับ KodaDot ในส่วนของ cross-chain bridges ตัวอย่างเช่น Darwinia ในขณะที่ analytics platfroms นั้นได้ทำงานร่วมกับ SubVis
+SubQuery วางเป้าหมายที่จะเป็นผู้นำในการป้อนข้อมูลของ บล็อคเชน Polkadot โดยวางพันธกิจเพื่อพิ่มประสิทธิให้ dApps ต่างๆใน ecosystem ของ Polkadot ที่กำลังเติบโตอยู่โดยในขณะนี้ทาง SubQuery ได้ทำงานร่วมกับ DEFI app ตัวอย่างเช่น [Acala](https://acala.network/), [Bifrost](https://bifrost.finance/) และ กระเป๋าเงินดิจิตอล เช่น [Fearless Wallet](https://fearlesswallet.io/) ในขณะที่ NFT platform นั้นได้มีการทำงานร่วมกับ [KodaDot](https://kodadot.xyz/) ในส่วนของ cross-chain bridges ตัวอย่างเช่น [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia) ในขณะที่ analytics platfroms นั้นได้ทำงานร่วมกับ [SubVis](https://subvis.io/).
 
 จากพันธกิจดังกล่าวจะเห็นได้ว่าการเติบโตนี้ต้องการบุคลากรทั่วโลกเป็นจำนวนมากเพื่อมาร่วมกันสร้างสรรค์ตามพันธกิจนี้ ทีมงานของ SubQuery รู้สึกตื่นเต้นที่จะประกาศว่าทางเราได้เปิดรับใบสมัครโครงการ Ambassador
 
