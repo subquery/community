@@ -1,24 +1,24 @@
-# SubQuery Network - Our Goals and Competitive Advantages
+# SubQuery Network - Tujuan dan Keunggulan Kompetitif Kami
 
 Hari ini kita akan menjelajah tujuan yang kita miliki dengan SubQuery dan beberapa keunggulan kompetitif yang menurut kami membuat Jaringan SubQuery lebih baik daripada pesaing kami.
 
-SubQuery saat ini menyediakan data pengindeksan dan transformasi secara terpusat. Although this has allowed us to power some of the top Polkadot projects; DeFi apps like Acala and Bifrost, wallets like Fearless Wallet, NFT platforms like [KodaDot](https://kodadot.xyz/), cross-chain bridges like [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia), and analytics platforms like [SubVis](https://subvis.io/) — it has it’s downside.
+SubQuery saat ini menyediakan data pengindeksan dan transformasi secara terpusat. Meskipun ini memungkinkan kami untuk memberi daya pada beberapa proyek Polkadot teratas; Aplikasi DeFi seperti Acala dan Bifrost, wallet seperti Fearless Wallet, platform NFT seperti [KodaDot](https://kodadot.xyz/), bridge cross-chain seperti [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia), dan platform analitik seperti [SubVis](https://subvis.io/) - ini memiliki sisi negatifnya.
 
-It requires our users to trust the service we provide, and carries risks associated with a centralised service, like potential server failures or outages that can cripple your applications. This is a major reason why we are moving to a decentralised future.
+Ini mengharuskan pengguna kami untuk memercayai layanan yang kami sediakan, dan membawa risiko yang terkait dengan layanan terpusat, seperti potensi kegagalan server atau pemadaman yang dapat melumpuhkan aplikasi Anda. Ini adalah alasan utama mengapa kami beralih ke masa depan yang terdesentralisasi.
 
 ![](https://miro.medium.com/max/868/1*CPksnN9_jyMGQ0sSbiJvDQ.png)
 
-Our Competitive Advantages
+Keunggulan Kompetitif kami
 
-We understand that The SubQuery Network is competing against many players in the decentralised data industry, SubQuery looks to provide unique benefits through a multitude of competitive advantages. Our guiding principles, and what we expect to be the main advantages, are the simplicity and flexibility of our network.
+Kami memahami bahwa Jaringan SubQuery bersaing dengan banyak pemain di industri data terdesentralisasi, SubQuery berupaya memberikan manfaat unik melalui banyak keunggulan kompetitif. Prinsip panduan kami, dan apa yang kami harapkan menjadi kelebihan utama, adalah kesederhanaan dan fleksibilitas jaringan kami.
 
-## Flexibility
+## Fleksibilitas
 
-Our first advantage is our flexibility. SubQuery is open source, so anyone has the freedom to define the data set that is specific to their needs, tailored to their applications. Rather than having to combine queries from different API endpoints — you can define the shape of your APIs yourself. It saves time, money, and provides a vastly better experience for your users.
+Keunggulan pertama kami adalah fleksibilitas kami. SubQuery adalah open source, sehingga siapa pun memiliki kebebasan untuk menentukan kumpulan data yang spesifik untuk kebutuhan mereka, disesuaikan dengan aplikasi mereka. Daripada harus menggabungkan kueri dari endpoint API yang berbeda — Anda dapat menentukan sendiri bentuk API Anda. Ini menghemat waktu, uang, dan memberikan pengalaman yang jauh lebih baik bagi pengguna Anda.
 
-## Simplicity
+## Kesederhanaan
 
-You do not need to be an expert to take advantage of what SubQuery offers. There is literally 3 files that need to be changed to make a working SubQuery project. Our focus will be on making SubQuery easier to use and build with than our competitors — SubQuery’s success depends on the success of our community building the future with it.
+Anda tidak perlu menjadi expert untuk memanfaatkan apa yang ditawarkan SubQuery. There is literally 3 files that need to be changed to make a working SubQuery project. Our focus will be on making SubQuery easier to use and build with than our competitors — SubQuery’s success depends on the success of our community building the future with it.
 
 ## Indexer/Delegator Imbalance
 
