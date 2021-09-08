@@ -18,24 +18,24 @@ Keunggulan pertama kami adalah fleksibilitas kami. SubQuery adalah open source, 
 
 ## Kesederhanaan
 
-Anda tidak perlu menjadi expert untuk memanfaatkan apa yang ditawarkan SubQuery. There is literally 3 files that need to be changed to make a working SubQuery project. Our focus will be on making SubQuery easier to use and build with than our competitors — SubQuery’s success depends on the success of our community building the future with it.
+Anda tidak perlu menjadi expert untuk memanfaatkan apa yang ditawarkan SubQuery. Di sini ada 3 file yang perlu diubah untuk membuat proyek SubQuery yang dapat berfungsi. Fokus kami adalah membuat SubQuery lebih mudah digunakan dan dibangun daripada pesaing kami — Keberhasilan SubQuery bergantung pada keberhasilan komunitas kami membangun masa depan dengannya.
 
-## Indexer/Delegator Imbalance
+## Ketidakseimbangan Indexer/Delegator
 
-Among our competitors, we believe the ability for Indexers to change delegation reward rates without warning is unfair. We try to fix this by requiring Indexers to advertise a decrease to the Query Fee Revenue Share Rate for an entire staking era (28 day period).
+Di antara pesaing kami, kami percaya kemampuan Pengindeks untuk mengubah rate reward delegasi tanpa peringatan adalah tidak adil. Kami mencoba memperbaikinya dengan mengharuskan Pengindeks untuk mengiklankan penurunan Tarif Bagi Hasil Biaya Kueri untuk seluruh era staking (periode 28 hari).
 
-## Purchase Orders Instead of Curators
+## Order Pembelian daripada Kurator
 
-In marketplaces like SubQuery, where there are both buyers and sellers of data, signalling demand for future supply is difficult. Other competitors use “curators” to achieve this, participants who predict future demand and are rewarded when that future demand eventuates.
+Di marketplace seperti SubQuery, di mana ada pembeli dan penjual data, sinyal permintaan untuk pasokan di masa depan cukup sulit. Pesaing lain menggunakan "kurator" untuk mencapai hal ini, peserta yang memprediksi permintaan di masa depan dan diberi reward ketika permintaan di masa depan itu terjadi.
 
-SubQuery has taken a different approach in where we look to Consumers to create an upfront commitment, a purchase order. This can be used both to attract Indexers to new SubQuery Projects, or to attract additional Indexers to existing and uncompetitive SubQuery Projects.
+SubQuery telah mengambil pendekatan yang berbeda di mana kami melihat ke Konsumen untuk membuat komitmen di awal, order pembelian. Ini dapat digunakan baik untuk menarik Pengindeks ke Proyek SubQuery baru, atau untuk menarik Pengindeks tambahan ke Proyek SubQuery yang sudah ada dan tidak kompetitif.
 
-## Incentives for Query Performance:
+## Insentif untuk Kinerja Kueri:
 
-Our Indexer discovery and routing process will include performance data (latency and uptime) for all Indexers, and we will take steps to ensure that Consumers report on this data when unlocking micropayments to Indexers.
+Proses discovery dan routing Pengindeks kami akan mencakup data kinerja (latensi dan waktu aktif) untuk semua Pengindeks, dan kami akan mengambil langkah-langkah untuk memastikan bahwa Konsumen melaporkan data ini saat membuka pembayaran mikro ke Pengindeks.
 
-This will ideally encourage Indexers in the SubQuery Network to provide infrastructure with high uptime and low latency, the best performance possible.
+Ini idealnya akan mendorong Pengindeks di Jaringan SubQuery untuk menyediakan infrastruktur dengan waktu aktif tinggi dan latensi rendah, kinerja terbaik.
 
-## Focus on Substrate/Polkadot:
+## Fokus pada Substrate/Polkadot:
 
-SubQuery committed to focus on Polkadot and Substate from the day we started. This allowed our service and tools to be built from the outset to work with Substrate. On top of this, Polkadots unique architecture makes it easier for SubQuery to support multiple current and future blockchains automatically.
+SubQuery berkomitmen untuk fokus pada Polkadot dan Substate sejak awal kami memulai. Ini memungkinkan layanan dan alat kami dibangun dari awal untuk dapat bekerja dengan Substrate. Selain itu, arsitektur unik Polkadot memudahkan SubQuery untuk mendukung beberapa blockchain saat ini dan yang akan datang secara otomatis.
