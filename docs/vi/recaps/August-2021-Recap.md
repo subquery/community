@@ -7,7 +7,7 @@ Chào mừng bạn đến với bản cập nhật hàng tháng mới nhất t�
 Trong bản cập nhật tháng này:
 
 -   Giới thiệu đại sứ 👩‍💼
--   Bắt đầu công việc trên Mạng SubQuery 🏗
+-   Bắt đầu công việc trên mạng lưới của SubQuery 🏗
 -   Tăng trưởng cộng đồng to lớn 🚀
 -   Những dự án mới trên SubQuery 🤝
 -   AMA với DotMarketCap 🎙
