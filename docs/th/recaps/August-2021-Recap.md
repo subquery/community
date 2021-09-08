@@ -42,41 +42,41 @@ Rob ได้เข้าร่วมทีมของเราในฐาน�
 
 สำหรับ Karura [SubQuery ถูกใช้เพื่อดึงและสืบค้นข้อมูลจากเชนของ Karura](https://subquery.medium.com/karura-integrates-with-subquery-to-aggregate-and-serve-defi-data-to-kusama-builders-d34f0e722311?source=your_stories_page-------------------------------------) ทำให้การสืบค้นรวดเร็วและมีประสิทธิภาพสำหรับ[แอปของ Karura](https://apps.karura.network/)
 
-SubQuery's service is playing a key role in [Subscan](https://www.subscan.io/) by [providing fast data on transactions](https://subquery.medium.com/subscans-multi-signature-tool-powered-by-subquery-926da3e4fc25?source=your_stories_page-------------------------------------) for any given multi signature address, thereby improving the UX and allowing for more advanced features.
+บริการของ SubQuery มีบทบาทสำคัญใน [Subscan](https://www.subscan.io/) โดย[การให้บริการข้อมูลที่รวดเร็วเกี่ยวกับธุรกรรม](https://subquery.medium.com/subscans-multi-signature-tool-powered-by-subquery-926da3e4fc25?source=your_stories_page-------------------------------------) สำหรับ multi signature address ซึ่งทั้งช่วยปรับปรุง UX และทำให้สามารถใช้ฟีเจอร์ขั้นสูงเพิ่มเติมได้
 
-[SORA](https://sora.org/) has built a [SubQuery Project that retrieves data from the SORA network](https://subquery.medium.com/sora-integrates-subquery-to-provide-data-to-the-sora-network-5a73f77a40aa?source=your_stories_page-------------------------------------) to power mobile applications built on SORA and [Polkaswap.io](http://polkaswap.io/). You can read more here
+[SORA](https://sora.org/) ได้สร้าง [SubQuery Project ที่ดึงข้อมูลจากเครือข่าย SORA](https://subquery.medium.com/sora-integrates-subquery-to-provide-data-to-the-sora-network-5a73f77a40aa?source=your_stories_page-------------------------------------) เพื่อขับเคลื่อนแอปพลิเคชันมือถือที่สร้างบน SORA และ [Polkaswap.io](http://polkaswap.io/) คุณสามารถอ่านเพิ่มเติมได้ที่นี่
 
-In both cases, we are thankful to have such great feedback like this from our partners:
+ในทั้งสองเคส เรารู้สึกขอบคุณที่ได้รับการตอบรับที่ดีเช่นนี้จากพาร์ทเนอร์ของเรา:
 
-*"Using Subquery makes building dapps easy, no more making a complicated series of calls to get the data I need."* - Brett (Developer at Acala)
+*"การใช้ Subquery ทำให้การสร้าง dapps เป็นเรื่องง่าย โดยไม่ต้องทำการเรียกข้อมูลที่ซับซ้อนอีกต่อไปเพื่อให้ได้ข้อมูลที่ฉันต้องการ"* - Brett (นักพัฒนาจาก Acala)
 
-*"SubQuery has been the ideal solution for our needs because the application is easy to deploy and manage, it is easy to learn and develop as well as being well documented, and it also has its own infrastructure with Github integration"* - SORA Development Team
+*"SubQuery เป็นโซลูชันในอุดมคติสำหรับความต้องการของเรา เนื่องจากแอปพลิเคชันนั้นง่ายต่อการปรับใช้และจัดการ, สามารถเรียนรู้และพัฒนาได้ง่าย, รวมทั้งมีการจัดทำเป็นเอกสารอย่างดีและยังมีโครงสร้างพื้นฐานของตัวเองที่มีการผสานกับ Github อีกด้วย"*  - ทีมพัฒนา SORA
 
-[You can view all projects easily via our Explorer here](https://explorer.subquery.network/).
+[คุณสามารถดูโปรเจกต์ทั้งหมดได้ง่ายๆ ผ่าน Explorer ของเราที่นี่](https://explorer.subquery.network/)
 
-## AMA with DotMarketCap 🎙
+## AMA กับ DotMarketCap 🎙
 
-We were delighted to be hosted by DotMarketCap on August 5th for an AMA with Sam and James. The questions from the audience ranged from areas such as DeFi and NFTs through to a lot of questions about our plans for growth and our future. We shared insights on why we began our project in Polkadot and if our token will be launched as an ERC-20 or not.
+เรารู้สึกยินดีเป็นอย่างยิ่งที่ได้เข้าร่วม AMA ซึ่งจัดโดย DotMarketCap ในวันที่ 5 สิงหาคมที่ผ่านมากับ Sam และ James คำถามจากผู้ชมมีตั้งแต่ DeFi และ NFT ไปจนถึงคำถามมากมายเกี่ยวกับแผนการเติบโตและอนาคตของเรา และเราได้แบ่งปันข้อมูลเชิงลึกว่าทำไมเราจึงเริ่มโปรเจกต์ของเราบน Polkadot และโทเค็นของเราจะเปิดตัวเป็น ERC-20 หรือไม่
 
-[You can read the interview here](https://dotmarketcap.com/blog-detail/288/ama30-recap-polkawarriors-x-subquery).
+[คุณสามารถอ่านบทสัมภาษณ์ได้ที่นี่](https://dotmarketcap.com/blog-detail/288/ama30-recap-polkawarriors-x-subquery)
 
-## Activity in China 🇨🇳
+## กิจกรรมในจีน 🇨🇳
 
 ![](https://miro.medium.com/max/1400/0*A5oqsryFRbGX0MDx)
 
-Siqi, who leads our business development in China, has had a busy month with a number of [online panel discussions alongside Moonbeam](https://twitter.com/SubQueryNetwork/status/1425293137103122432/photo/1), Acala, Astar and Phala. In addition she has participated in AMA's organised by Polkadot on August 11th and an AMA hosted by [ODaily](http://www.odaily.com/) and Acala on August 13th.
+Siqi ซึ่งเป็นผู้นำด้านการพัฒนาธุรกิจของเราในประเทศจีนนั้นยุ่งตลอดทั้งเดือนกับ[การอภิปรายออนไลน์ร่วมกับ Moonbeam](https://twitter.com/SubQueryNetwork/status/1425293137103122432/photo/1), Acala, Astar และ Phala นอกจากนี้ เธอยังได้เข้าร่วมงาน AMA ซึ่งจัดโดย Polkadot เมื่อวันที่ 11 สิงหาคม และ AMA ที่จัดโดย [ODaily](http://www.odaily.com/) และ Acala เมื่อวันที่ 13 สิงหาคมอีกด้วย
 
-We are looking forward to growing our Chinese community significantly in the coming months through activities such as hackathons. As such, [we will be running a workshop with Encode Club](https://www.eventbrite.co.uk/e/polkadot-hackathon-subquery-workshop-tickets-167321106935?aff=ebdsoporgprofile) and running a hackathon with OneBlock+ to help introduce SubQuery to new audiences.
+เราตั้งตารอที่จะขยับขยายชุมชนชาวจีนของเราอย่างมีนัยสำคัญในอีกไม่กี่เดือนข้างหน้าผ่านกิจกรรมต่างๆ เช่น hackathons ดังนั้น[เราจึงจะจัดเวิร์กชอปกับ Encode Club](https://www.eventbrite.co.uk/e/polkadot-hackathon-subquery-workshop-tickets-167321106935?aff=ebdsoporgprofile) และจัด hackathon กับ OneBlock+ เพื่อช่วยแนะนำ SubQuery ให้กับผู้ชมหน้าใหม่
 
-## Delivering the 2nd Milestone of Polkadot Common API ✅
+## ส่งมอบความสำเร็จครั้งที่ 2 ของ Polkadot Common API ✅
 
-We are pleased to make progress in the [development of an open-source dApp API ](https://docs.google.com/document/d/13L8HBwB6VB-n2g274FFFJKORYPJsq744C6H8iEDQ0-0/edit)for Kusama in conjunction with the team at [Fearless Wallet](https://fearlesswallet.io/). This work is being supported by a Kusama Treasury grant.
+เรารู้สึกยินดีที่มีความคืบหน้าใน[การพัฒนา dApp API แบบ open-source ](https://docs.google.com/document/d/13L8HBwB6VB-n2g274FFFJKORYPJsq744C6H8iEDQ0-0/edit)สำหรับ Kusama ร่วมกับทีมงานจาก [Fearless Wallet](https://fearlesswallet.io/) ซึ่งงานนี้ได้รับการสนับสนุนเงินทุนจาก Kusama Treasury
 
-Nearing completion of the second milestone in this project means that there will soon be a defined and common core data API interface for Polkadot, Kusama, and other parachains which will attract more developers to the ecosystem. Making development intuitive and as painless as possible is one of our key objectives!
+การใกล้จะเสร็จสิ้นขั้นที่สองในโปรเจกต์นี้นั้นหมายความว่าเร็วๆ นี้จะมีอินเทอร์เฟซ API ข้อมูลหลักที่มีรูปแบบชัดเจนและสามารถใช้ได้ร่วมกันสำหรับ Polkadot, Kusama และ Parachains อื่นๆ ซึ่งจะช่วยดึงดูดนักพัฒนาเข้าสู่ระบบนิเวศมากขึ้น เพราะการทำให้การพัฒนาเป็นไปอย่างง่ายดายและเกิดปัญหาน้อยที่สุดคือหนึ่งในวัตถุประสงค์หลักของเรา!
 
 *****
 
-As always, please join our social channels to stay updated on our latest news and announcements.
+และเช่นเคย โปรดติดตามช่องทางโซเชียลของเราเพื่อรับข่าวสารและประกาศล่าสุดจากเรา
 
 James, Sam และทีม SubQuery
 
