@@ -8,7 +8,7 @@ Trong bản cập nhật tháng này:
 
 -   Giới thiệu đại sứ 👩‍💼
 -   Bắt đầu công việc trên mạng lưới của SubQuery 🏗
--   Tăng trưởng cộng đồng to lớn 🚀
+-   Cộng đồng tăng trưởng mạnh 🚀
 -   Những dự án mới trên SubQuery 🤝
 -   AMA với DotMarketCap 🎙
 -   Hoạt động ở Trung Quốc 🇨🇳
@@ -20,17 +20,17 @@ Trong bản cập nhật tháng này:
 
 Sau khi [khởi động chương trình Đại sứ của chúng tôi](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) vào tháng trước, chúng tôi đã rất ngạc nhiên bởi sự hào hứng trong cộng đồng và chất lượng của những người tham gia. Cho đến nay, chúng tôi nhận được gần 2.000 đơn đăng ký ở hầu hết các châu lục (chúng tôi đang kêu gọi các đơn đăng ký từ Nam Cực ☃️) và cho đến nay đã có hơn 30 người tham gia.
 
-Tre đã thực hiện xuất sắc nhiệm vụ dẫn dắt sáng kiến ​​này và [tương tác với cộng đồng trên Discord](https://discord.com/invite/78zg8aBSMG). Vì chúng tôi đã thấy được lợi ích của việc có mối quan hệ chặt chẽ hơn với những người ủng hộ SubQuery, chúng tôi sẽ mở rộng nhóm trong vài tuần tới, vì vậy hãy kiên nhẫn nếu bạn chưa nhận được phản hồi từ chúng tôi!
+Tre đã rất xuất sắc trong việc dẫn dắt sự khởi đầu này và [tương tác với cộng đồng trên Discord](https://discord.com/invite/78zg8aBSMG). Vì chúng tôi đã thấy được lợi ích của việc có mối quan hệ chặt chẽ hơn với những người ủng hộ SubQuery, chúng tôi sẽ mở rộng nhóm trong vài tuần tới, vì vậy hãy kiên nhẫn nếu bạn chưa nhận được phản hồi từ chúng tôi!
 
-## Tăng trưởng cộng đồng to lớn 🚀
+## Cộng đồng tăng trưởng mạnh 🚀
 
-Sự phát triển trong cộng đồng của chúng tôi đã được tăng tốc trong tháng này với Discord của chúng tôi có gần 2.000 thành viên sôi nổi và ủng hộ. Chúng tôi cũng đã tăng lượng người xem trên Twitter của mình lên hơn 6.000 người theo dõi.
+Sự phát triển trong cộng đồng của chúng tôi đã được tăng tốc trong tháng này với việc Discord của chúng tôi có gần 2.000 thành viên sôi nổi và đầy hỗ trợ. Chúng tôi cũng đã tăng lượng người xem trên Twitter của mình lên hơn 6.000 người theo dõi.
 
 Chúng tôi đặc biệt hài lòng về sự tăng trưởng này vì trước tiên dự án của chúng tôi tập trung vào việc xây dựng một cộng đồng nhà phát triển nhỏ hơn nhưng chất lượng cao. Khi chúng tôi tiếp cận TGE của mình, những con số này sẽ bùng nổ khi chúng tôi chuyển trọng tâm sang đối tượng bán lẻ và nhà đầu tư.
 
-Để giúp chúng tôi đẩy nhanh sự phát triển này và đảm bảo rằng cộng đồng của chúng tôi tham gia và tích cực vào hệ sinh thái, Rob đã tham gia nhóm của chúng tôi với tư cách là Trưởng bộ phận Tiếp thị mới của chúng tôi. Ngoài ra, chúng tôi cũng hoan nghênh Tre với tư cách là giám đốc phát triển kinh doanh chiến lược của chúng tôi tại Hoa Kỳ và Châu Âu.
+Rob đã gia nhập đội ngũ của chúng tôi với tư cách là Trưởng bộ phận tiếp thị để giúp chúng tôi đẩy nhanh sự phát triển này và đảm bảo rằng cộng đồng của chúng tôi được gắn kết cũng như tham gia tích cực vào hệ sinh thái. Ngoài ra, chúng tôi cũng hoan nghênh Tre với tư cách là giám đốc phát triển kinh doanh chiến lược của chúng tôi tại Hoa Kỳ và Châu Âu.
 
-## Bắt đầu công việc trên Mạng SubQuery 🏗
+## Bắt đầu công việc trên Mạng lưới của SubQuery 🏗
 
 Vâng! Công việc [chuyển SubQuery sang một mạng phi tập trung và được mã hóa](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010); Mạng SubQuery, đã bắt đầu! Việc di chuyển này sẽ đảm bảo rằng không có điểm thất bại nào đối với SubQuery và khuyến khích người tham gia thông qua mã thông báo SQT. Để giúp chúng tôi thực hiện thay đổi quan trọng này, chúng tôi đã tuyển dụng các nhà phát triển mới tham gia cùng chúng tôi trong tháng này.
 
