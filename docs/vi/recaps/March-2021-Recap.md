@@ -1,4 +1,4 @@
-# March 2021 Recap
+# Tóm tắt Tháng 3 năm 2021
 
 Đó là một vài tháng cuối cùng căng thẳng tại OnFinality và SubQuery, chúng tôi đã mở rộng nhóm và thu hút thêm một số đối tác mới khi chúng tôi khởi động một số dự án mới quan trọng. Trong bản cập nhật tháng này:
 
@@ -13,7 +13,7 @@
 
 [SubQuery Explorer](https://explorer.subquery.network/) là một dịch vụ được lưu trữ trực tuyến cung cấp quyền truy cập vào các dự án SubQuery đã xuất bản được thực hiện bởi những người đóng góp trong cộng đồng của chúng tôi trên khắp thế giới và được lưu trữ bởi nhóm SubQuery. Bạn có thể kiểm tra các truy vấn trực tiếp trong trình duyệt của mình hoặc lấy điểm cuối API cho các trường hợp sử dụng khác nhau. Hãy lấy cảm hứng từ những gì người khác đang xây dựng để bạn có thể đền đáp!
 
-We run SubQuery projects in it like they’re production applications, so you can unlock your decentralized data in your next dApp today using SubQuery.
+Chúng tôi chạy các dự án SubQuery trong đó giống như chúng là các ứng dụng sản xuất, vì vậy, bạn có thể mở khóa dữ liệu phi tập trung của mình trong dApp tiếp theo ngay hôm nay bằng cách sử dụng SubQuery.
 
 
 ![](https://miro.medium.com/max/1400/1*GE-Y6XKNOkj_MKY4ZuM5oQ.png)
@@ -26,21 +26,21 @@ _Chúng tôi đang lên kế hoạch bán/tăng private tiếp theo vào cuối 
 
 ## **SubQuery Explorer hoan nghênh trường hợp sử dụng đầu tiên của đối tác**
 
-SubQuery là tất cả về việc cung cấp dịch vụ dữ liệu cho các đối tác và khách hàng của chúng tôi. Every blockchain team and dApp builder has a need to process and query data quickly, and for the web3 dream to be realised, it’s got to be as fast (if not faster) than centralised networks for the end user. That’s why we’re ramping up our efforts to partner with the top Polkadot projects to provide free SubQuery services for their protocols.
+SubQuery là tất cả về việc cung cấp dịch vụ dữ liệu cho các đối tác và khách hàng của chúng tôi. Mọi nhóm blockchain và người xây dựng dApp đều có nhu cầu xử lý và truy vấn dữ liệu nhanh chóng và để giấc mơ web3 thành hiện thực, nó phải nhanh (nếu không muốn nói là nhanh hơn) so với các mạng tập trung cho người dùng cuối. Đó là lý do tại sao chúng tôi đang tăng cường hợp tác với các dự án Polkadot hàng đầu để cung cấp dịch vụ SubQuery miễn phí cho các giao thức của họ.
 
-[Earlier we launched our first partnership with our close friends at Acala](https://subquery.medium.com/subquery-integrates-acala-to-aggregate-and-serve-defi-data-to-polkadot-and-kusama-builders-fc9af6a7aae1) to allow users and developers to query and extract data from Acala’s DeFi hub for Polkadot in only minutes and at no cost. When you access the SubQuery Explorer you’ll be welcomed with a new Acala SubQuery Project. This SubQuery dynamically tracks all the extrinsic data created on Acala and can quickly show derived aggregated stats for the following:
+[Trước đó, chúng tôi đã khởi động mối quan hệ hợp tác đầu tiên với những người bạn thân thiết của mình tại Acala](https://subquery.medium.com/subquery-integrates-acala-to-aggregate-and-serve-defi-data-to-polkadot-and-kusama-builders-fc9af6a7aae1) để cho phép người dùng và nhà phát triển truy vấn và trích xuất dữ liệu từ trung tâm DeFi của Acala cho Polkadot chỉ trong vài phút và miễn phí. Khi bạn truy cập SubQuery Explorer, bạn sẽ được chào đón với Dự án Acala SubQuery mới. SubQuery này tự động theo dõi tất cả dữ liệu bên ngoài được tạo trên Acala và có thể nhanh chóng hiển thị số liệu thống kê tổng hợp có nguồn gốc cho những điều sau:
 
--   Historical Data on liquidity changes (broken down by providers)
--   Historical Data on all cross chain asset swaps
--   Transfer history
+-   Dữ liệu lịch sử về những thay đổi thanh khoản (được chia nhỏ bởi các nhà cung cấp)
+-   Dữ liệu lịch sử về tất cả các hoán đổi tài sản chuỗi chéo
+-   Lịch sử gao dịch
 
 ![](https://miro.medium.com/max/1400/0*LOig1jNfPTuVk73D)
 
-> You could create a dApp for lenders showing collateralization ratio, loan amount, interests accrued, etc. Or a service for decentralised exchanges with pair liquidity, pair exchange rate, trading volumes.
+> Bạn có thể tạo một dApp cho người cho vay hiển thị tỷ lệ thế chấp, số tiền cho vay, lãi tích lũy, ... Hoặc một dịch vụ cho các sàn giao dịch phi tập trung với tính thanh khoản của cặp, tỷ giá hối đoái, khối lượng giao dịch.
 
-We’re planning to improve our partnership tools very soon and are planning on onboarding other top protocols in the next week or two at a rapid pace.
+Chúng tôi đang có kế hoạch sớm cải thiện các công cụ đối tác của mình và đang lên kế hoạch giới thiệu các giao thức hàng đầu khác trong một hoặc hai tuần tới với tốc độ nhanh chóng.
 
-_Do you want to get started and create a new SubQuery project for your own dApp —_ [_get started now_](https://doc.subquery.network/quickstart.html)_. We’ll even host it in our_ [_SubQuery Explorer_](https://subquery.medium.com/announcing-the-subquery-explorer-48c051483730) _for free!_
+_Bạn có muốn bắt đầu và tạo một dự án SubQuery mới cho dApp của riêng bạn không -_ [_hãy bắt đầu ngay bây giờ _](https://doc.subquery.network/quickstart.html)_. Chúng tôi thậm chí sẽ lưu trữ nó trong_ [_SubQuery Explorer_](https://subquery.medium.com/announcing-the-subquery-explorer-48c051483730) _của chúng tôi miễn phí!_
 
 ## **Berkeley Blockchain Xcelerator**
 
@@ -50,12 +50,12 @@ Berkeley's blockchain Xcelerator được biết đến trên toàn thế giới
 
 ![](https://miro.medium.com/max/1400/0*t-_mRJaTnGDQO-VI)
 
-## **Intelligent Routing**
+## **Định tuyến thông minh**
 
-We’ve recently been [awarded a treasury grant](https://kusama.polkassembly.io/treasury/72) to complete an intelligent routing layer that allows us to expose multiple clusters behind a single endpoint. This will allow us to scale our service better, and quickly fall over to redundant clusters in the unlikely event that some of our infrastructure goes down. Both OnFinality and SubQuery rely on this infrastructure so it’s important that we continue to invest and improve here.
+Gần đây, chúng tôi đã được [trao một khoản ngân quỹ](https://kusama.polkassembly.io/treasury/72) để hoàn thành một lớp định tuyến thông minh cho phép chúng tôi hiển thị nhiều cụm phía sau một điểm cuối duy nhất. Điều này sẽ cho phép chúng tôi mở rộng quy mô dịch vụ của mình tốt hơn và nhanh chóng chuyển sang các cụm dự phòng trong trường hợp không chắc rằng một số cơ sở hạ tầng của chúng tôi bị hỏng. Cả OnFinality và SubQuery đều dựa vào cơ sở hạ tầng này nên điều quan trọng là chúng tôi phải tiếp tục đầu tư và cải thiện ở đây.
 
 ## **Nhân viên và Văn phòng mới**
 
-One of the biggest changes over the past month is how much the team has grown. Chúng tôi đã bổ sung thêm hai nhân viên mới trong tháng qua và dự kiến ​​sẽ thuê thêm, do đó, chúng tôi đã tìm thấy một văn phòng mới ở Auckland hoàn toàn phù hợp với chúng tôi. Chúng tôi sẽ phát triển, nhưng vẫn có kế hoạch duy trì quy mô nhỏ và nhanh gọn để có thể đưa ra tầm nhìn sản phẩm của mình.
+Một trong những thay đổi lớn nhất trong tháng qua là đội đã phát triển như thế nào. Chúng tôi đã bổ sung thêm hai nhân viên mới trong tháng qua và dự kiến ​​sẽ thuê thêm, do đó, chúng tôi đã tìm thấy một văn phòng mới ở Auckland hoàn toàn phù hợp với chúng tôi. Chúng tôi sẽ phát triển, nhưng vẫn có kế hoạch duy trì quy mô nhỏ và nhanh gọn để có thể đưa ra tầm nhìn sản phẩm của mình.
 
 ![](https://miro.medium.com/max/1400/1*cJZxerXHfgVGu4-7h2xw4Q.jpeg)

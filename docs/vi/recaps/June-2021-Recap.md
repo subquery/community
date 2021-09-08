@@ -1,4 +1,4 @@
-# June 2021 Recap
+# Tóm tắt Tháng 6 năm 2021
 
 ## Mọi thứ đang trở nên bận rộn 🔥
 

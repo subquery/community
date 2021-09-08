@@ -30,7 +30,7 @@ It's now up to the Karura community to build the first community dApp in the DeF
 
 ![](https://cdn-images-1.medium.com/max/1600/0*t6stH0LeQC8M5fSp)
 
-## About SubQuery
+## 关于 SubQuery
 
 [SubQuery](https://subquery.network/) is a data aggregation layer that will operate between the layer-1 blockchains (Karura) and dApps. SubQuery allows dApp developers to explore and transform on-chain data to build intuitive dApps faster, without needing to worry about building or managing custom backends for data processing. [Get started now](https://doc.subquery.network/).
 
