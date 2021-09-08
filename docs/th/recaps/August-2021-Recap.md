@@ -1,46 +1,46 @@
-# August 2021 Recap
+# บทสรุปของเดือนสิงหาคม 2021
 
-**Expanding Our Reach**
+**การเติบโตของเรา**
 
-Welcome to the latest monthly update from SubQuery. Following on from last month, August has seen rapid expansion in the growth of our Community around the world! We have also been busy working on decentralising our platform as we prepare for a TGE in the coming months.
+ยินดีต้อนรับสู่การอัปเดตรายเดือนล่าสุดจาก SubQuery ต่อเนื่องจากเดือนที่แล้ว ในเดือนสิงหาคมนี้เราได้เห็นการเติบโตอย่างรวดเร็วของชุมชนของเราทั่วโลก! และเรายังยุ่งอยู่กับการกระจายอำนาจแพลตฟอร์มของเราในขณะที่กำลังเตรียมความพร้อมสำหรับ TGE ในอีกไม่กี่เดือนข้างหน้าอีกด้วย
 
 ในการอัปเดตรายเดือนนี้:
 
--   Onboarding Ambassadors 👩‍💼
--   Kicked off work on the SubQuery Network 🏗
--   Huge Community Growth 🚀
--   New Projects on SubQuery 🤝
--   AMA with DotMarketCap 🎙
--   Activity in China 🇨🇳
--   Delivering the 2nd Milestone of Polkadot Common API ✅
+-   ปฐมนิเทศน์แอมบาสเดอร์ 👩‍💼
+-   เริ่มงานบนเครือข่าย SubQuery 🏗
+-   การเติบโตมหาศาลของชุมชน 🚀
+-   โปรเจกต์ใหม่บน SubQuery 🤝
+-   AMA กับ DotMarketCap 🎙
+-   กิจกรรมในจีน 🇨🇳
+-   ส่งมอบความสำเร็จครั้งที่ 2 ของ Polkadot Common API ✅
 
-## Onboarding Ambassadors 👩‍💼
+## ปฐมนิเทศน์แอมบาสเดอร์ 👩‍💼
 
 ![](https://miro.medium.com/max/1400/0*_nOcsPjhQxta_FPH)
 
-After [launching our Ambassador program](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) last month, we have been amazed by the excitement in the community and quality of the participants. To date, we have received just under 2,000 applications almost every continent (we're calling out for applications from Antarctica ☃️) and onboarded over 30 people thus far.
+หลังจาก[เปิดตัวโปรแกรมแอมบาสเดอร์](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804)เมื่อเดือนที่แล้ว เรารู้สึกทึ่งกับความตื่นเต้นในชุมชนและคุณภาพของผู้เข้าร่วมโปรแกรม จนถึงตอนนี้ เราได้รับใบสมัครจากเกือบ 2,000 คนในแทบทุกทวีป (เรากำลังรอใบสมัครจากแอนตาร์กติกาอยู่ ☃️) และได้ปฐมนิเทศน์ไปมากกว่า 30 คนแล้ว
 
-Tre has been doing an excellent job leading this initiative and [engaging with the community on Discord](https://discord.com/invite/78zg8aBSMG). As we are already seeing the benefits of having a closer relationship with the supporters of SubQuery, we will be expanding the team in the next few weeks so please be patient if you haven't heard from us yet!
+Tre ทำงานได้อย่างยอดเยี่ยมในการเป็นผู้นำโปรแกรมนี้และ[มีส่วนร่วมกับชุมชนบน Discord](https://discord.com/invite/78zg8aBSMG) เนื่องจากเราได้เห็นถึงประโยชน์ของการมีความสัมพันธ์ที่ใกล้ชิดกับผู้สนับสนุน SubQuery แล้ว เรากำลังจะขยายทีมในอีกไม่กี่สัปดาห์ข้างหน้า ดังนั้นโปรดอดใจรอหากคุณยังไม่ได้รับการติดต่อจากเรา!
 
-## Huge Community Growth 🚀
+## การเติบโตมหาศาลของชุมชน 🚀
 
-The growth in our community has been accelerating this month with our Discord blasting nearing 2,000 vibrant and supportive members. We have also grown our Twitter audience to over 6,000 followers.
+การเติบโตในชุมชนของเราเพิ่มขึ้นอย่างรวดเร็วในเดือนนี้ โดย Discord ของเรามีสมาชิกที่กระตือรือร้นและคอยสนับสนุนเกือบ 2,000 คน อีกทั้งเรายังมีจำนวนผู้ติดตาม Twitter ของเราเพิ่มขึ้นมากกว่า 6,000 คน
 
-We are particularly pleased about this growth as our project has focused on building a smaller but high quality developer community firstly. As we approach our TGE, these numbers should explode as we shift focus to the retail and investor audience.
+เรายินดีเป็นอย่างยิ่งกับการเติบโตนี้ เนื่องจากโปรเจกต์ของเรามุ่งเน้นที่การสร้างชุมชนนักพัฒนาที่มีขนาดเล็กลงแต่มีคุณภาพสูงเป็นอันดับแรก และขณะที่เรากำลังขยับเข้าใกล้ TGE มากขึ้น ตัวเลขเหล่านี้น่าจะพุ่งขึ้นอย่างรวดเร็วเมื่อเราหันไปโฟกัสที่กลุ่มผู้ค้าปลีกและนักลงทุน
 
-To help us accelerate this growth, and ensure that our community is engaged and active in the ecosystem, Rob has joined our team as our new Head of Marketing. Additionally, we also welcome Tre as our strategic business development manager in the US and Europe.
+Rob ได้เข้าร่วมทีมของเราในฐานะหัวหน้าฝ่ายการตลาดคนใหม่เพื่อช่วยเราเร่งการเติบโตนี้ และทำให้มั่นใจได้ว่าชุมชนของเราจะมีส่วนร่วมและแอคทีฟในระบบนิเวศ นอกจากนี้ เราก็ขอต้อนรับ Tre ในฐานะผู้จัดการฝ่ายพัฒนาธุรกิจเชิงกลยุทธ์ในสหรัฐอเมริกาและยุโรป
 
-## Kicked off work on SubQuery Network 🏗
+## เริ่มงานบนเครือข่าย SubQuery 🏗
 
-Yes! The work on [moving SubQuery towards a decentralised and tokenised network](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010); the SubQuery Network, has begun! This migration will ensure that there is no single point of failure for SubQuery and to encourage participants via the SQT token. In order to help us with this significant change, we have recruited new developers to join us this month.
+ใช่! งานเกี่ยวกับ[การย้าย SubQuery ไปยังเครือข่ายที่กระจายอำนาจและมีโทเค็น](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010); เครือข่าย SubQuery ได้เริ่มขึ้นแล้ว! การย้ายนี้จะช่วยทำให้แน่ใจว่าไม่มีจุดผิดพลาดสำหรับ SubQuery และเพื่อเป็นการจูงใจผู้เข้าร่วมผ่านโทเค็น SQT โดยเราได้คัดเลือกนักพัฒนารายใหม่มาร่วมงานกับเราในเดือนนี้เพื่อช่วยในการเปลี่ยนแปลงครั้งสำคัญเช่นนี้
 
-## New Projects on SubQuery 🤝
+## โปรเจกต์ใหม่บน SubQuery 🤝
 
 ![](https://miro.medium.com/max/4800/1*yUruZPSKP_0BA6mA72P8xg.gif)
 
-In August we launched several new projects on SubQuery including those with Subscan, Karura, Subscan, Polkaswap, and Soramitsu.
+ในเดือนสิงหาคม เราได้เปิดตัวโปรเจกต์ใหม่หลายโปรเจกต์บน SubQuery รวมถึงโปรเจกต์ที่มี Subscan, Karura, Subscan, Polkaswap และ Soramitsu
 
-For Karura, [SubQuery is being used to extract and query data from Karura's chain](https://subquery.medium.com/karura-integrates-with-subquery-to-aggregate-and-serve-defi-data-to-kusama-builders-d34f0e722311?source=your_stories_page-------------------------------------), making queries fast and efficient for [Karura's app](https://apps.karura.network/).
+สำหรับ Karura [SubQuery ถูกใช้เพื่อดึงและสืบค้นข้อมูลจากเชนของ Karura](https://subquery.medium.com/karura-integrates-with-subquery-to-aggregate-and-serve-defi-data-to-kusama-builders-d34f0e722311?source=your_stories_page-------------------------------------) ทำให้การสืบค้นรวดเร็วและมีประสิทธิภาพสำหรับ[แอปของ Karura](https://apps.karura.network/)
 
 SubQuery's service is playing a key role in [Subscan](https://www.subscan.io/) by [providing fast data on transactions](https://subquery.medium.com/subscans-multi-signature-tool-powered-by-subquery-926da3e4fc25?source=your_stories_page-------------------------------------) for any given multi signature address, thereby improving the UX and allowing for more advanced features.
 
@@ -80,4 +80,4 @@ As always, please join our social channels to stay updated on our latest news an
 
 James, Sam และทีม SubQuery
 
-[Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
