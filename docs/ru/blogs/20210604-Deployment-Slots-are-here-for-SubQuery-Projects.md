@@ -2,15 +2,15 @@
 
 > Сегодня мы представляем совершенно новую функцию, улучшающую опыт разработчиков в хостинге SubQuery.
 
-[SubQuery Projects](https://project.subquery.network/) is already being used as a managed and hosted service for many Projects, whether they’re chain explorers, wallets, NFT explorers, or others. Это сервис, на который рассчитывают наши клиенты.
+[SubQuery Projects](https://project.subquery.network/) уже используется в качестве управляемой и размещенной службы для многих проектов, таких как chain explorer'ы, кошельки, NFT explorer'ы или другие. Это сервис, на который рассчитывают наши клиенты.
 
 ![](https://miro.medium.com/max/1400/0*PugDgh6weZspRIO2)
 
 Теперь вы можете развернуться в изолированный слот
 
-Although you can always run SubQuery’s infrastructure yourself (with your own node and query service), we aim to make our hosted service the most reliable, resilient, and performant data provider in the Polkadot/Substrate ecosystem.
+Хотя вы всегда можете запустить инфраструктуру SubQuery самостоятельно (с вашим собственным узлом и службой запросов), мы стремимся сделать наш хостинг-сервис наиболее надежным, устойчивым и эффективным поставщиком данных в экосистеме Polkadot/Substrate.
 
-Creators of [SubQuery Projects](https://project.subquery.network/) are constantly improving and updating their Projects and the data within those projects. Unfortunately it takes hours if not days to reindex chain data in the event of a major change — ultimately our goal to to allow you to update your Project, reindex your data, and upgrade your hosted SubQuery Projects with **zero downtime**
+Создатели [SubQuery Projects](https://project.subquery.network/) постоянно совершенствуют и обновляют свои проекты и данные в рамках этих проектов. К сожалению, для реиндексирования данных по цепочке в случае значительных изменений требуется час, а в конечном счете наша цель - позволить вам обновить ваш проект, реиндексировать ваши данные и обновить ваши проекты SubQuery с **нулевым временем простоя**
 
 **Это то, что слоты развертывания находятся здесь для решения**
 
