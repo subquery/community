@@ -4,7 +4,7 @@
 
 Welcome to the latest monthly update from SubQuery. Following on from last month, August has seen rapid expansion in the growth of our Community around the world! We have also been busy working on decentralising our platform as we prepare for a TGE in the coming months.
 
-Trong bản cập nhật tháng này:
+In this monthly update:
 
 -   Onboarding Ambassadors 👩‍💼
 -   Kicked off work on the SubQuery Network 🏗
@@ -78,6 +78,6 @@ Nearing completion of the second milestone in this project means that there will
 
 As always, please join our social channels to stay updated on our latest news and announcements.
 
-James, Sam và Nhóm SubQuery
+James, Sam, and the SubQuery Team
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
