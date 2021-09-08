@@ -32,30 +32,30 @@ Di SubQuery, kami bekerja keras untuk mencapai apa yang kami lakukan. Demikian p
 
 **Pengembangan Network:** Harapkan untuk mengembangkan jaringan profesional Anda dengan menjadi Ambassador untuk salah satu proyek Polkadot teratas. Temui ambassador lain di seluruh dunia dan dapatkan perkenalan tentang proyek Polkadot lokal yang perlu kami dukung secara lokal. Anda bahkan mungkin mendapatkan entri gratis untuk mewakili SubQuery dalam acara di area lokal Anda.
 
-**Swag dan barang gratis lainnya:** Semua orang suka barang gratis! Receive an annual allocation of SubQuery swag that’ll make you stand out in the crowd. Plus additional allocation that you can share around at community events. You’ll also receive an exclusive NFT for your Ambassador status.
+**Swag dan barang gratis lainnya:** Semua orang suka barang gratis! Dapatkan alokasi tahunan swag SubQuery yang akan membuat Anda stand out di antara orang banyak. Serta alokasi tambahan yang bisa Anda bagikan di acara komunitas. Anda juga akan menerima NFT eksklusif untuk status Ambassador Anda.
 
-## How does it work
+## Bagaimana cara kerjanya
 
-Our Ambassador program has multiple tiers, each tier has different benefits and capabilities. You can move up tiers by participating in Ambassador activities and working hard for us.
+Program Ambassador kami memiliki beberapa tingkatan, setiap tingkatan memiliki manfaat dan kemampuan yang berbeda. Anda dapat naik level dengan berpartisipasi dalam aktivitas Ambassador dan bekerja keras untuk kami.
 
-Once you have sent through an application, we will select candidates that align with our values. If selected you are placed in our trainee program and will receive an information package, expanding your understanding of SubQuery. After this, you can start to work through the trainee program by completing certain onboarding tasks (e.g. creating a SubQuery Project). We will host workshops throughout this process to support you.
+Setelah Anda mengirimkan aplikasi, kami akan memilih kandidat yang sesuai dengan nilai-nilai kami. Jika terpilih, Anda ditempatkan dalam program pelatihan kami dan akan menerima paket informasi, memperluas pemahaman Anda tentang SubQuery. Setelah ini, Anda dapat mulai mengerjakan program pelatihan dengan menyelesaikan tugas orientasi tertentu (misalnya membuat Proyek SubQuery). Kami akan menyelenggarakan workshop selama proses ini untuk mendukung Anda.
 
-Once you pass the trainee program, you can call yourself a SubQuery ambassador and will be accepted into our full program. From here on you can continue to work though the program and progress up the tiers, earning more rewards and benefits as you climb the ranks.
+Setelah Anda lulus program pelatihan, Anda dapat menyebut diri Anda sebagai ambassador SubQuery dan akan diterima dalam program penuh kami. Dari sini, Anda dapat terus bekerja melalui program dan meningkatkan peringkat, mendapatkan lebih banyak hadiah dan manfaat saat Anda naik peringkat.
 
-[Apply Here](https://forms.gle/GXBbJ6LDpNfM2v1X6)
+[Daftar di sini](https://forms.gle/GXBbJ6LDpNfM2v1X6)
 
-## Ambassador Activities
+## Aktivitas Ambassador
 
-SubQuery Ambassadors are able to contribute through four main areas, including event management, content creation, translation, and community moderation. You can participate in as many areas as you want, you’re not bound to any single one.
+Ambassador SubQuery dapat berkontribusi melalui empat bidang utama, termasuk manajemen acara, pembuatan konten, terjemahan, dan moderasi komunitas. Anda dapat berpartisipasi di sebanyak mungkin area yang Anda inginkan, Anda tidak terikat pada satu pun.
 
-**Event Management:** Build local communities by hosting, organising, and managing different events. Building a local community will be a key part of growing the SubQuery community. SubQuery will support you by providing funding for events, sending swag/merchandise to be given away, as well as attending Q&As or online events as speakers or in AMA sessions.
+**Manajemen Acara:** Bangun komunitas lokal dengan menyelenggarakan, mengatur, dan mengelola berbagai acara. Membangun komunitas lokal akan menjadi bagian penting dalam menumbuhkan komunitas SubQuery. SubQuery akan mendukung Anda dengan menyediakan dana untuk acara, mengirimkan swag/merchandise untuk dibagikan, serta Q&A atau acara online sebagai pembicara atau dalam sesi AMA.
 
-**Content Creation:** We have a long list of content and support material that we need help creating. Remember, our success relies on the ability for our customers to build amazing things on our service, so we need your help to make that easier.
+**Pembuatan Konten:** Kami memiliki daftar panjang konten dan materi pendukung yang perlu bantuan untuk pembuatannya. Ingat, kesuksesan kami bergantung pada kemampuan pelanggan kami untuk membangun hal-hal luar biasa pada layanan kami, jadi kami membutuhkan bantuan Anda untuk membuatnya lebih mudah.
 
-Content includes videos, infographics, tutorials, animations, or any other related material, to inform, educate, or inspire community members within the SubQuery Ecosystem. SubQuery will support Content Creators by providing branding assets and expertise. We’ll also use SubQuery’s marketing channels to increase awareness of your content (and yourself).
+Konten mencakup video, infografis, tutorial, animasi, atau materi terkait lainnya, untuk menginformasikan, mendidik, atau menginspirasi anggota komunitas dalam Ekosistem SubQuery. SubQuery akan mendukung Pembuat Konten dengan menyediakan branding aset dan expertise. Kami juga akan menggunakan channel marketing SubQuery untuk meningkatkan kesadaran akan konten Anda (dan diri Anda sendiri).
 
-**Translation:** Our customers don’t just speak english! We need your help making SubQuery more accessible by translating our content into your own language, as well as helping sharing the word to our international community.
+**Terjemahan:** Pelanggan kami tidak hanya berbicara bahasa Inggris! Kami membutuhkan bantuan Anda untuk membuat SubQuery lebih mudah diakses dengan menerjemahkan konten kami ke dalam bahasa Anda sendiri, serta membantu membagikannya kepada komunitas internasional kami.
 
-**Community Moderation:** Moderators will help grow the SubQuery community by ensuring that official community channels are active and engaging. SubQuery will support Moderators by promoting the channels that they monitor, as well as provide guidelines for our expectations.
+**Moderasi Komunitas:** Moderator akan membantu menumbuhkan komunitas SubQuery dengan memastikan bahwa channel official komunitas aktif dan menarik. SubQuery akan mendukung Moderator dengan mempromosikan channel yang mereka pantau, serta memberikan pedoman untuk ekspektasi kami.
 
 ![](https://miro.medium.com/max/1400/1*xj6_UL1ZWYzlLmlVk25JzQ.png)
