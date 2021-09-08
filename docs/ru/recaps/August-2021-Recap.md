@@ -6,25 +6,25 @@ Welcome to the latest monthly update from SubQuery. Following on from last month
 
 In this monthly update:
 
--   Onboarding Ambassadors 👩‍💼
--   Kicked off work on the SubQuery Network 🏗
--   Huge Community Growth 🚀
--   New Projects on SubQuery 🤝
--   AMA with DotMarketCap 🎙
--   Activity in China 🇨🇳
+-   Набор Амбассадоров 👩‍💼
+-   Началась работа над SubQuery Network 🏗
+-   Огромный рост сообщества 🚀
+-   Новые проекты в SubQuery 🤝
+-   AMA с DotMarketCap 🎙
+-   Деятельность в Китае 🇨🇳
 -   Delivering the 2nd Milestone of Polkadot Common API ✅
 
-## Onboarding Ambassadors 👩‍💼
+## Набор Амбассадоров 👩‍💼
 
 ![](https://miro.medium.com/max/1400/0*_nOcsPjhQxta_FPH)
 
-After [launching our Ambassador program](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) last month, we have been amazed by the excitement in the community and quality of the participants. To date, we have received just under 2,000 applications almost every continent (we're calling out for applications from Antarctica ☃️) and onboarded over 30 people thus far.
+После [запуска нашей Амбассадорской программы](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) в прошлом месяце мы были поражены энтузиазмом в сообществе и качеством участников. To date, we have received just under 2,000 applications almost every continent (we're calling out for applications from Antarctica ☃️) and onboarded over 30 people thus far.
 
 Tre has been doing an excellent job leading this initiative and [engaging with the community on Discord](https://discord.com/invite/78zg8aBSMG). As we are already seeing the benefits of having a closer relationship with the supporters of SubQuery, we will be expanding the team in the next few weeks so please be patient if you haven't heard from us yet!
 
-## Huge Community Growth 🚀
+## Огромный рост сообщества 🚀
 
-The growth in our community has been accelerating this month with our Discord blasting nearing 2,000 vibrant and supportive members. We have also grown our Twitter audience to over 6,000 followers.
+В этом месяце рост нашего сообщества ускоряется: в Discord почти 2000 активных и отзывчивых участников. We have also grown our Twitter audience to over 6,000 followers.
 
 We are particularly pleased about this growth as our project has focused on building a smaller but high quality developer community firstly. As we approach our TGE, these numbers should explode as we shift focus to the retail and investor audience.
 
