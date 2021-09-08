@@ -1,24 +1,24 @@
 # Слоты развертывания здесь для проектов SubQuery
 
-> Today we’re introducing deployment slots, a whole new feature that improves the developer experience in SubQuery’s hosted service.
+> Сегодня мы представляем совершенно новую функцию, улучшающую опыт разработчиков в хостинге SubQuery.
 
-[SubQuery Projects](https://project.subquery.network/) is already being used as a managed and hosted service for many Projects, whether they’re chain explorers, wallets, NFT explorers, or others. It’s a service that our customers rely on.
+[SubQuery Projects](https://project.subquery.network/) is already being used as a managed and hosted service for many Projects, whether they’re chain explorers, wallets, NFT explorers, or others. Это сервис, на который рассчитывают наши клиенты.
 
 ![](https://miro.medium.com/max/1400/0*PugDgh6weZspRIO2)
 
-You can now deploy to a isolated staging slot
+Теперь вы можете развернуться в изолированный слот
 
 Although you can always run SubQuery’s infrastructure yourself (with your own node and query service), we aim to make our hosted service the most reliable, resilient, and performant data provider in the Polkadot/Substrate ecosystem.
 
 Creators of [SubQuery Projects](https://project.subquery.network/) are constantly improving and updating their Projects and the data within those projects. Unfortunately it takes hours if not days to reindex chain data in the event of a major change — ultimately our goal to to allow you to update your Project, reindex your data, and upgrade your hosted SubQuery Projects with **zero downtime**
 
-**That’s what deployment slots are here to solve**
+**Это то, что слоты развертывания находятся здесь для решения**
 
 ![](https://miro.medium.com/max/1400/0*vQ33aqhn1eVllo5t)
 
-Your staging slot will run independently of the primary production slot
+Ваш слот будет работать независимо от места первичного производства
 
-When creating a new deployment to your [SubQuery Project in our hosted service](https://project.subquery.network/), you can choose to either deploy to the production or staging slot. These two slots are isolated environments, each has its own database and sync independently. Once your staging slot has started and completed indexing, you can then promote it to production with zero downtime.
+When creating a new deployment to your [SubQuery Project in our hosted service](https://project.subquery.network/), you can choose to either deploy to the production or staging slot. Эти два слота являются изолированными окружениями, каждая имеет свою собственную базу данных и синхронизацию независимо. Как только ваш слот начался и завершился индексация, вы можете затем продвигать его на производство с нулевым временем простоя.
 
 The staging slot is perfect for:
 
