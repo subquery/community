@@ -4,9 +4,9 @@
 
 ![](https://cdn-images-1.medium.com/max/1600/0*PR4oqrB9Am03VseR)
 
-SubQuery announces a US$9M funding round for the first decentralised data aggregation layer for the Polkadot ecosystem. This round brings together key stakeholders into the Web3 Ecosystem, building toward SubQuery's vision as fundamental data indexing infrastructure for all Polkadot and Kusama parachains and applications.
+SubQuery ประกาศการระดมทุน มูลค่า 9 ล้านดอลล่าห์สหรัฐ สำหรับเลเยอร์การรวบรวมข้อมูลแบบกระจายอำนาจ ที่แรก ของระบบนิเวศ Polkadot การระดมทุนรอบนี้ได้นำผู้มีส่วนร่วมหลักเข้ามาในระบบนิเวศ Web3 โดยมุ่งสู่วิสัยทัศน์ของ SubQuery ในการเป็นโครงสร้างพื้นฐานในการจัดทำดัชนีข้อมูลพื้นฐานสำหรับ Parachain และแอปพลิเคชันต่างๆของ Polkadot และ Kusama
 
-SubQuery aims to improve access to decentralised blockchain data by creating a vibrant marketplace for data indexing and provisioning. Its technology provides Polkadot and Kusama developers with the tools needed to easily explore, transform and analyse on-chain data. Abstracting the backend, SubQuery eliminates the need for custom data processing servers. It lets developers focus on product development and user experience rather than building their own querying systems.
+SubQuery มุ่งมั่นที่จะปรับปรุงการเข้าถึงข้อมูลบล็อกเชนแบบกระจายอำนาจให้ดีขึ้น โดยการสร้างตลาดที่มีชีวิตชีวาสำหรับการจัดทำดัชนีและการจัดเตรียมข้อมูล เทคโนโลยีนี้ช่วยให้นักพัฒนาของ Polkadot และ Kusama มีเครื่องมือที่จำเป็นในการสำรวจ เปลี่ยนแปลง และวิเคราะห์ข้อมูลในเครือข่ายได้อย่างง่ายดาย Abstracting the backend, SubQuery eliminates the need for custom data processing servers. It lets developers focus on product development and user experience rather than building their own querying systems.
 
 This strategic round was co-led by [Arrington Capital](https://arringtonxrpcapital.com/), [DCG](https://dcg.co/) and [Stratos Technologies](https://www.stratoslp.com/), and included participation from [Hypersphere Ventures](https://hypersphere.ventures/), [Neo Global Capital (NGC)](http://ngc.fund/), [Wintermute](https://www.wintermute.com/) and [Skynet Trading](http://skynettrading.com/). It follows on from a seed round in early 2021, which included [DeFi Alliance](https://defialliance.co/), [The LAO](https://www.thelao.io/), [Digital Renaissance](https://drf.ee/), [P2P Capital](https://www.p2pcap.com/), and [Web3 Capital](https://web3.capital/).
 
