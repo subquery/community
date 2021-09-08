@@ -1,1 +1,28 @@
-# SubQuery Blogs & Community Content
+# Блоги SubQuery & amp; Контент сообщества
+
+SubQuery is here to help you transform and query the world’s data for a web3.0 future.
+
+Это глобальное хранилище всех блогов сообщества, объявлений, статей и видео из SubQuery.
+
+**Читайте на вашем родном языке! Вы можете изменить свой язык, используя селектор в правом верхнем углу страницы.**
+
+## Нам нужна помощь в переводе!
+
+Мы понимаем, что одним из наших наибольших сильных сторон является наше сообщество и с вашей помощью, мы хотим расти и создать посла на местах, чтобы помочь перевести наши материалы для сообществ по всему миру.
+
+[Присоединяйтесь к нашей программе Представителей](https://doc.subquery.network/miscellaneous/ambassadors.html)
+
+## Ссылки в социальных сетях
+
+SubQuery - это активный проект, который поддерживает и общается с нашими последователями через множество социальных сетей.
+
+Наша цель всегда прислушиваться и взаимодействовать с нашим лояльным сообществом, поэтому пожалуйста, присоединяйтесь к разговору и отправьте нам ваши идеи или вопросы!
+
+- [Discord](https://discord.com/invite/78zg8aBSMG) (Основное сообщество с выделенными каналами технической поддержки)
+- [Medium](https://subquery.medium.com) (канал первичных объявлений)
+- [Twitter](https://twitter.com/subquerynetwork)
+- [WeChat]()
+- [Telegram](https://t.me/subquerynetwork) (только канал объявлений)
+- [GitHub](https://github.com/SubQuery/subql)
+- [Matrix/Riot](https://matrix.to/#/#subquery:matrix.org)
+- [LinkedIn](https://www.linkedin.com/company/subquery)

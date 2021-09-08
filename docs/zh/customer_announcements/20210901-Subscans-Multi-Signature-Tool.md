@@ -24,7 +24,7 @@ Subscan provides customized services for the ecological network, such as EVM mod
 
 [Website](https://www.subscan.io/) | [Email](mailto:hello@subscan.io) | [Medium](https://medium.com/subscan) | [Element](https://riot.im/app/#/room/!uaYUrKBueiKUurHliJ:matrix.org) | [Twitter](https://twitter.com/subscan_io/) | [GitHub](https://github.com/itering/subscan-essentials)
 
-## About SubQuery
+## 关于 SubQuery
 
 [SubQuery](https://subquery.network/) is a data aggregation layer that will operate between the layer-1 blockchains (Kusama) and DApps (like Kodadot). This service allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
 

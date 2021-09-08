@@ -1,6 +1,6 @@
 # Announcing SubQuery
 
-## Transform and query the world’s data for the web3.0 future
+## 变换并查询全球未来的 web3.0 数据
 
 ![](https://miro.medium.com/max/1400/1*J5u22qNxndcuCrFJ1mfGqg.png)
 
