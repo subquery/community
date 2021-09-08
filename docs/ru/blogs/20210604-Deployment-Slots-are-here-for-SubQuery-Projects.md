@@ -18,12 +18,12 @@
 
 Ваш слот будет работать независимо от места первичного производства
 
-When creating a new deployment to your [SubQuery Project in our hosted service](https://project.subquery.network/), you can choose to either deploy to the production or staging slot. Эти два слота являются изолированными окружениями, каждая имеет свою собственную базу данных и синхронизацию независимо. Как только ваш слот начался и завершился индексация, вы можете затем продвигать его на производство с нулевым временем простоя.
+При создании нового развертывания в вашем [SubQuery Project в нашем хостинг-сервисе](https://project.subquery.network/), вы можете выбрать развертывание в производстве или в постановочном слоте. Эти два слота являются изолированными окружениями, каждая имеет свою собственную базу данных и синхронизацию независимо. Как только ваш слот начался и завершился индексация, вы можете затем продвигать его на производство с нулевым временем простоя.
 
-The staging slot is perfect for:
+Постановочный слот идеально подходит для:
 
--   Validating changes to your SubQuery Project in a separate environment. The staging slot has a different URL to production that you can use in your dApps.
--   Warming up and indexing data for an updated SubQuery project to eliminate downtime in your dApp
--   Preparing a new release for your SubQuery Project without exposing it publicly. The staging slot is not shown to the public in the Explorer and has a unique URL that is visible only to you.
+-   Проверка изменений в вашем SubQuery Project в отдельной среде. Постановочный слот имеет другой URL к производству, который вы можете использовать в ваших приложениях.
+-   Подготовка и индексирование данных обновленного проекта SubQuery для устранения простоя в вашем dApp
+-   Подготовка нового релиза для вашего SubQuery проекта, не раскрывая его публично. Постановочный слот не виден общественности в Explorer и имеет уникальный URL, который видим только вам.
 
-You can try it yourself now in [SubQuery Projects](https://project.subquery.network/).
+Вы можете попробовать себя в [SubQuery Projects](https://project.subquery.network/) сейчас.
