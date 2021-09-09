@@ -1,10 +1,10 @@
-# SubQuery Announces US$9 Million Funding Round
+# SubQuery Mengumumkan Funding Round Sebanyak US$9 Juta
 
-**Building a decentralised data protocol for the Polkadot Ecosystem. Co-Led By Arrington Capital, DCG and Stratos Technologies**
+**Membangun protokol data terdesentralisasi untuk Ekosistem Polkadot. Dipimpin Oleh Arrington Capital, DCG dan Stratos Technologies**
 
 ![](https://cdn-images-1.medium.com/max/1600/0*PR4oqrB9Am03VseR)
 
-SubQuery announces a US$9M funding round for the first decentralised data aggregation layer for the Polkadot ecosystem. This round brings together key stakeholders into the Web3 Ecosystem, building toward SubQuery's vision as fundamental data indexing infrastructure for all Polkadot and Kusama parachains and applications.
+SubQuery mengumumkan funding round US$9 juta untuk layer agregasi data terdesentralisasi pertama di ekosistem Polkadot. This round brings together key stakeholders into the Web3 Ecosystem, building toward SubQuery's vision as fundamental data indexing infrastructure for all Polkadot and Kusama parachains and applications.
 
 SubQuery aims to improve access to decentralised blockchain data by creating a vibrant marketplace for data indexing and provisioning. Its technology provides Polkadot and Kusama developers with the tools needed to easily explore, transform and analyse on-chain data. Abstracting the backend, SubQuery eliminates the need for custom data processing servers. It lets developers focus on product development and user experience rather than building their own querying systems.
 
