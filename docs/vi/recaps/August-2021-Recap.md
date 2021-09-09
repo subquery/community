@@ -12,7 +12,7 @@ Trong bản cập nhật tháng này:
 -   Những dự án mới trên SubQuery 🤝
 -   AMA với DotMarketCap 🎙
 -   Hoạt động ở Trung Quốc 🇨🇳
--   Mang đến cột mốc thứ 2 của API chung Polkadot ✅
+-   Đánh dấu cột mốc thứ 2 của API chung Polkadot ✅
 
 ## Giới thiệu đại sứ 👩‍💼
 
@@ -32,7 +32,7 @@ Rob đã gia nhập đội ngũ của chúng tôi với tư cách là Trưởng 
 
 ## Bắt đầu công việc trên Mạng lưới của SubQuery 🏗
 
-Vâng! Công việc [chuyển SubQuery sang một mạng phi tập trung và được mã hóa](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010); Mạng SubQuery, đã bắt đầu! Việc di chuyển này sẽ đảm bảo rằng không có điểm thất bại nào đối với SubQuery và khuyến khích người tham gia thông qua mã thông báo SQT. Để giúp chúng tôi thực hiện thay đổi quan trọng này, chúng tôi đã tuyển dụng các nhà phát triển mới tham gia cùng chúng tôi trong tháng này.
+Đúng vậy! Việc [chuyển Subquery sang một mạng lưới phi tập trung được mã hóa](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010) đã thực sự bắt đầu! Việc di chuyển này sẽ đảm bảo rằng không có điểm thất bại nào đối với SubQuery và khuyến khích người tham gia thông qua mã thông báo SQT. Để giúp chúng tôi thực hiện thay đổi quan trọng này, chúng tôi đã tuyển dụng các nhà phát triển mới tham gia cùng chúng tôi trong tháng này.
 
 ## Dự án mới trên SubQuery 🤝
 
@@ -66,9 +66,9 @@ Chúng tôi rất vui khi cùng với Sam và James tham dự một AMA tổ ch�
 
 Siqi, người lãnh đạo phát triển kinh doanh của chúng tôi ở Trung Quốc, đã có một tháng bận rộn với một số [ cuộc thảo luận trực tuyến cùng với Moonbeam ](https://twitter.com/SubQueryNetwork/status/1425293137103122432/photo/1), Acala, Astar và Phala. Ngoài ra, cô đã tham gia AMA do Polkadot tổ chức vào ngày 11 tháng 8 và AMA do [ ODaily ](http://www.odaily.com/) và Acala tổ chức vào ngày 13 tháng 8.
 
-Chúng tôi mong muốn cộng đồng người Trung Quốc của chúng tôi phát triển đáng kể trong những tháng tới thông qua các hoạt động như hackathons. Như vậy, [chúng tôi sẽ tổ chức hội thảo với Encode Club](https://www.eventbrite.co.uk/e/polkadot-hackathon-subquery-workshop-tickets-167321106935?aff=ebdsoporgprofile) và chạy hackathon với OneBlock+ để giúp giới thiệu SubQuery với khán giả mới.
+Chúng tôi mong muốn cộng đồng người Trung Quốc của chúng tôi phát triển đáng kể trong những tháng tới thông qua các hoạt động như hackathons. Nhân dịp này, [chúng tôi sẽ tổ chức một hội thảo với Encode Club](https://www.eventbrite.co.uk/e/polkadot-hackathon-subquery-workshop-tickets-167321106935?aff=ebdsoporgprofile) và chạy một hackathon với OneBlock+ nhằm giới thiệu Subquery tới những khán giả mới.
 
-## Mang đến cột mốc thứ 2 của API chung Polkadot ✅
+## Đánh dấu cột mốc thứ 2 của API chung Polkadot ✅
 
 Chúng tôi vui mừng đạt được tiến bộ trong việc [phát triển API dApp mã nguồn mở](https://docs.google.com/document/d/13L8HBwB6VB-n2g274FFFJKORYPJsq744C6H8iEDQ0-0/edit) cho Kusama cùng với đội ngũ của [Fearless Wallet](https://fearlesswallet.io/). Việc này được hỗ trợ thông qua một khoản tài trợ của Ngân quỹ Kusama.
 
