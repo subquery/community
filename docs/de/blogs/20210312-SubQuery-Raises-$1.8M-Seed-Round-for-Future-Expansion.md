@@ -18,17 +18,17 @@ Led by Sam Zou, CEO of SubQuery, the team [received a grant from the Web3 founda
 
 Since then SubQuery has launched the SubQuery Explorer. An online hosted service that provides access to published SubQuery projects made by contributors around the world and managed by the SubQuery team. We’ve also established strategic partnerships with the top Polkadot projects, including Acala, Plasm, and Moonbeam.
 
-This seed raise will supercharge the development of SubQuery and accelerate the delivery of critical data services to the Polkadot/Substrate community. This includes building a free public service to host and manage community SubQuery projects, building a community around data and knowledge sharing, and the eventual tokenization of our project.
+Diese Seed Raise wird die Entwicklung von SubQuery beschleunigen und die Bereitstellung kritischer Datendienste für die Polkadot/Substrate-Community beschleunigen. Dies umfasst den Aufbau eines kostenlosen öffentlichen Dienstes zum Hosten und Verwalten von Community-SubQuery-Projekten, den Aufbau einer Community rund um den Daten- und Wissensaustausch und die eventuelle Tokenisierung unseres Projekts.
 
--   Try it out on the[SubQuery Explorer](https://explorer.subquery.network/)
--   Read more on [SubQuery docs](https://doc.subquery.network/)
--   Visit our [website](https://subquery.network/)
+-   Probieren Sie es im[SubQuery Explorer](https://explorer.subquery.network/) aus
+-   Weitere Informationen zu [SubQuery-Dokumenten](https://doc.subquery.network/)
+-   Besuchen Sie unsere [-Website](https://subquery.network/)
 
-**Talk to us on:**
+**Sprechen Sie mit uns auf:**
 
 -   [hello@subquery.network](mailto:hello@subquery.network)
 -   [Discord](https://discord.com/invite/78zg8aBSMG)
--   [Telegram](https://t.me/subquerynetwork)
+-   [Telegramm](https://t.me/subquerynetwork)
 -   [Twitter](https://twitter.com/subquerynetwork)
 -   [Matrix](https://matrix.to/#/#subquery:matrix.org)
 -   [LinkedIn](https://www.linkedin.com/company/subquery)
