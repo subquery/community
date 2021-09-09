@@ -14,28 +14,28 @@ We understand that The SubQuery Network is competing against many players in the
 
 ## Flexibility
 
-Our first advantage is our flexibility. SubQuery is open source, so anyone has the freedom to define the data set that is specific to their needs, tailored to their applications. Rather than having to combine queries from different API endpoints — you can define the shape of your APIs yourself. It saves time, money, and provides a vastly better experience for your users.
+Our first advantage is our flexibility. SubQuery is open source, so anyone has the freedom to define the data set that is specific to their needs, tailored to their applications. Anstatt Abfragen von verschiedenen API-Endpunkten kombinieren zu müssen, können Sie die Form Ihrer APIs selbst definieren. Es spart Zeit, Geld und bietet Ihren Nutzern ein deutlich besseres Erlebnis.
 
-## Simplicity
+## Einfachheit
 
-You do not need to be an expert to take advantage of what SubQuery offers. There is literally 3 files that need to be changed to make a working SubQuery project. Our focus will be on making SubQuery easier to use and build with than our competitors — SubQuery’s success depends on the success of our community building the future with it.
+Sie müssen kein Experte sein, um die Vorteile von SubQuery zu nutzen. Es gibt buchstäblich 3 Dateien, die geändert werden müssen, um ein funktionierendes SubQuery-Projekt zu erstellen. Unser Fokus wird darauf liegen, SubQuery einfacher zu verwenden und zu bauen als unsere Konkurrenten – SubQuerys Erfolg hängt vom Erfolg unserer Community ab, die die Zukunft mit ihr aufbaut.
 
-## Indexer/Delegator Imbalance
+## Index/Delegator-Ungleichgewicht
 
-Among our competitors, we believe the ability for Indexers to change delegation reward rates without warning is unfair. We try to fix this by requiring Indexers to advertise a decrease to the Query Fee Revenue Share Rate for an entire staking era (28 day period).
+Unter unseren Wettbewerbern halten wir es für unfair, dass Indexer die Prämiensätze für Delegationen ohne Vorwarnung ändern können. Wir versuchen dies zu beheben, indem wir Indexer verpflichten, für eine ganze Absteckzeit (28 Tage) eine Senkung auf die Abfragegebührenbeteiligungsrate anzugeben.
 
-## Purchase Orders Instead of Curators
+## Bestellungen statt Kuratoren
 
-In marketplaces like SubQuery, where there are both buyers and sellers of data, signalling demand for future supply is difficult. Other competitors use “curators” to achieve this, participants who predict future demand and are rewarded when that future demand eventuates.
+In Marktplätzen wie SubQuery, wo es sowohl Käufer als auch Verkäufer von Daten gibt, ist es schwierig, die Nachfrage nach künftigem Angebot zu signalisieren. Andere Mitbewerber verwenden „Kuratoren“, um dies zu erreichen, Teilnehmer, die die zukünftige Nachfrage vorhersagen und belohnt werden, wenn diese zukünftige Nachfrage auftritt.
 
-SubQuery has taken a different approach in where we look to Consumers to create an upfront commitment, a purchase order. This can be used both to attract Indexers to new SubQuery Projects, or to attract additional Indexers to existing and uncompetitive SubQuery Projects.
+SubQuery hat einen anderen Ansatz gewählt, in dem wir auf Verbraucher schauen um eine vorausschauende Verpflichtung, einen Kaufauftrag zu schaffen. Dies kann sowohl verwendet werden, um Indexer für neue SubQuery-Projekte zu gewinnen, oder um zusätzliche Indexer für bestehende und nicht konkurrierende SubQuery-Projekte zu gewinnen.
 
-## Incentives for Query Performance:
+## Anreize für die Abfrageleistung:
 
-Our Indexer discovery and routing process will include performance data (latency and uptime) for all Indexers, and we will take steps to ensure that Consumers report on this data when unlocking micropayments to Indexers.
+Unser Indexer-Entdeckungs- und Routing-Prozess wird Leistungsdaten (Latenz und Laufzeit) für alle Indexer beinhalten, und wir werden Schritte unternehmen, um sicherzustellen, dass Verbraucher über diese Daten berichten, wenn sie Mikrozahlungen an Indexer freischalten.
 
-This will ideally encourage Indexers in the SubQuery Network to provide infrastructure with high uptime and low latency, the best performance possible.
+Dadurch werden Indexer im SubQuery Network idealerweise ermutigt, Infrastruktur mit hoher Laufzeit und niedriger Latenz bereitzustellen, so dass die bestmögliche Leistung möglich ist.
 
-## Focus on Substrate/Polkadot:
+## Fokus auf Substrate/Polkadot:
 
-SubQuery committed to focus on Polkadot and Substate from the day we started. This allowed our service and tools to be built from the outset to work with Substrate. On top of this, Polkadots unique architecture makes it easier for SubQuery to support multiple current and future blockchains automatically.
+SubQuery hat sich von Anfang an verpflichtet, sich auf Polkadot und Substate zu konzentrieren. Dadurch konnte unser Service und unsere Werkzeuge von Anfang an für die Arbeit mit Substrate gebaut werden. Darüber hinaus macht es die einzigartige Architektur von Polkadots einfacher für SubQuery mehrere aktuelle und zukünftige Blockchains automatisch zu unterstützen.
