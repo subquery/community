@@ -1,25 +1,25 @@
-# April 2021 Recap
+# Rekap April 2021
 
-April was an incredibly busy month for SubQuery, our growth is starting to accelerate at a serious pace and we’re breaking new records each day. As we mentioned last month, our focus in the short term is on two elements; scaling our platform to keep up with skyrocketing demand, and engaging with more and more partners to help them create their own SubQuery projects.
+April adalah bulan yang sangat sibuk untuk SubQuery, pertumbuhan kami mulai meningkat pesat dan kami memecahkan rekor baru setiap hari. Seperti yang kami sebutkan bulan lalu, fokus kami dalam jangka pendek adalah pada dua elemen; menskalakan platform kami untuk memenuhi permintaan yang meroket, dan terlibat dengan semakin banyak mitra untuk membantu mereka membuat proyek SubQuery mereka sendiri.
 
-In this monthly update:
+Dalam pembaruan bulanan ini:
 
--   Focus on Partner tools — SubQuery Projects Launch
--   BiFrost SubQuery use case
--   Scalability Improvements by our service provider OnFinality
--   And more…
+-   Fokus pada alat Mitra — Peluncuran Proyek SubQuery
+-   Kasus penggunaan SubQuery BiFrost
+-   Peningkatan Skalabilitas oleh penyedia layanan kami OnFinality
+-   Dan lainnya…
 
-On the partner front we launched a key product that is needed to operationally accelerate the growth of SubQuery. Before you could create and run your own SubQuery projects locally or in your own infrastructure. [Projects](https://project.subquery.network/) allows users to publish their projects to the SubQuery community and we’ll run them in a high performance, scalable, and managed public service — for free!
+Di sisi mitra, kami meluncurkan produk utama yang diperlukan untuk mempercepat pertumbuhan SubQuery secara operasional. Sebelum Anda dapat membuat dan menjalankan proyek SubQuery Anda sendiri secara lokal atau di infrastruktur Anda sendiri. [Projects](https://project.subquery.network/) memungkinkan pengguna untuk mempublikasikan proyek mereka ke komunitas SubQuery dan kami akan menjalankannya dalam layanan publik berkinerja tinggi, skalabel, dan terkelola — gratis!
 
 ![](https://miro.medium.com/max/1400/0*zZkmiEq5g2BbAxfl)
 
-This final missing piece now means we have a complete suite of tools to enable and empower customers to [explore](https://explorer.subquery.network/), [create](https://doc.subquery.network/quickstart.html), [run](https://doc.subquery.network/run/indexing_query.html), and then [publish](https://doc.subquery.network/publish/publish.html#benefits) SubQuery projects all on their own.
+Bagian terakhir yang hilang ini sekarang berarti kami memiliki rangkaian alat yang lengkap untuk memungkinkan dan memberdayakan pelanggan untuk [menjelajah](https://explorer.subquery.network/), [membuat](https://doc.subquery.network/quickstart.html), [menjalankan](https://doc.subquery.network/run/indexing_query.html), dan kemudian <3 >publikasikan</a> proyek SubQuery semuanya sendiri.
 
 ![](https://miro.medium.com/max/1400/0*pDQgyo3phe2ZcMml)
 
-In April, [Bifrost Finance](https://bifrost.finance/) launched the beta of their new dApp, the official interactive interface for all Bifrost services. Through this dApp, users can mint vTokens, redeem and swap these derivatives, and view their earnings in real time.
+Pada bulan April, [Bifrost Finance](https://bifrost.finance/) meluncurkan versi beta dari dApp baru mereka, antarmuka interaktif resmi untuk semua layanan Bifrost. Melalui dApp ini, pengguna dapat mencetak vToken, menukarkan dan menukar derivatif ini, dan melihat penghasilan mereka secara real time.
 
-SubQuery’s service helps Bifrost power much of the data shown in their new dApp. All historical data on transfers, minting, and redemption events (such as price, date, currency and pool) are aggregated and queried from SubQuery’s advanced indexing and query service. For example, SubQuery allows Bifrost to calculate real time mint and redemption prices for vDot and vEth to show in their app, and to get the total number of vTokens in a certain wallet.
+Layanan SubQuery membantu Bifrost menggerakkan sebagian besar data yang ditampilkan di dApp baru mereka. Semua data historis tentang transfer, pencetakan, dan peristiwa penukaran (seperti harga, tanggal, mata uang, dan kumpulan) dikumpulkan dan dikueri dari pengindeksan lanjutan dan layanan kueri SubQuery. For example, SubQuery allows Bifrost to calculate real time mint and redemption prices for vDot and vEth to show in their app, and to get the total number of vTokens in a certain wallet.
 
 ![](https://miro.medium.com/max/1400/0*heWoX8Kw1nm1iYd9)
 
