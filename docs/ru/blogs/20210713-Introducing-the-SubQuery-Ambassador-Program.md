@@ -48,13 +48,13 @@
 
 Послы SubQuery могут вносить свой вклад в четыре основные области, включая управление событиями, создание контента, перевод и модерацию сообщества. Вы можете принять участие в столько областей, сколько захотите, вы не обязаны ни одному из них.
 
-**Управление событиями:** Создание местных сообществ путем хостинга, организации и управления различными событиями. Создание местного сообщества будет ключевой частью роста сообщества SubQuery . SubQuery will support you by providing funding for events, sending swag/merchandise to be given away, as well as attending Q&As or online events as speakers or in AMA sessions.
+**Управление событиями:** Создание местных сообществ путем хостинга, организации и управления различными событиями. Создание местного сообщества будет ключевой частью роста сообщества SubQuery . SubQuery будет поддерживать вас, предоставляя финансирование для мероприятий, отправляя сувениры / товары для раздачи, а также посещая вопросы и ответы или онлайн-мероприятия в качестве докладчиков или на сессиях AMA.
 
-**Content Creation:** We have a long list of content and support material that we need help creating. Remember, our success relies on the ability for our customers to build amazing things on our service, so we need your help to make that easier.
+** Создание контента: ** У нас есть длинный список контента и вспомогательных материалов, в создании которых нам нужна помощь. Помните, что наш успех зависит от способности наших клиентов создавать потрясающие вещи на основе наших услуг, поэтому нам нужна ваша помощь, чтобы сделать это проще.
 
-Content includes videos, infographics, tutorials, animations, or any other related material, to inform, educate, or inspire community members within the SubQuery Ecosystem. SubQuery will support Content Creators by providing branding assets and expertise. We’ll also use SubQuery’s marketing channels to increase awareness of your content (and yourself).
+Контент включает видео, инфографику, учебные пособия, анимацию или любые другие связанные материалы для информирования, обучения или вдохновения членов сообщества в экосистеме SubQuery. SubQuery будет поддерживать создателей контента, предоставляя активы и опыт в области брендинга. Мы также будем использовать маркетинговые каналы SubQuery, чтобы повысить узнаваемость вашего контента (и вас самих).
 
-**Translation:** Our customers don’t just speak english! We need your help making SubQuery more accessible by translating our content into your own language, as well as helping sharing the word to our international community.
+** Перевод: ** Наши клиенты не просто говорят по-английски! Нам нужна ваша помощь, чтобы сделать SubQuery более доступным путем перевода нашего контента на ваш родной язык, а также помочь поделиться этим словом с нашим международным сообществом.
 
 **Модератор сообщества:** Модераторы будут помогать расти сообщество SubQuery убедившись в том, что официальные каналы сообщества активны и вовлечены. SubQuery будет поддерживать модераторов, продвигая каналы, которые они контролируют, а также давать рекомендации по нашим ожиданиям.
 
