@@ -19,17 +19,17 @@ Bagian terakhir yang hilang ini sekarang berarti kami memiliki rangkaian alat ya
 
 Pada bulan April, [Bifrost Finance](https://bifrost.finance/) meluncurkan versi beta dari dApp baru mereka, antarmuka interaktif resmi untuk semua layanan Bifrost. Melalui dApp ini, pengguna dapat mencetak vToken, menukarkan dan menukar derivatif ini, dan melihat penghasilan mereka secara real time.
 
-Layanan SubQuery membantu Bifrost menggerakkan sebagian besar data yang ditampilkan di dApp baru mereka. Semua data historis tentang transfer, pencetakan, dan peristiwa penukaran (seperti harga, tanggal, mata uang, dan kumpulan) dikumpulkan dan dikueri dari pengindeksan lanjutan dan layanan kueri SubQuery. For example, SubQuery allows Bifrost to calculate real time mint and redemption prices for vDot and vEth to show in their app, and to get the total number of vTokens in a certain wallet.
+Layanan SubQuery membantu Bifrost menggerakkan sebagian besar data yang ditampilkan di dApp baru mereka. Semua data historis tentang transfer, pencetakan, dan peristiwa penukaran (seperti harga, tanggal, mata uang, dan kumpulan) dikumpulkan dan dikueri dari pengindeksan lanjutan dan layanan kueri SubQuery. Sebagai contoh, SubQuery memungkinkan Bifrost menghitung harga pencetakan dan penukaran secara real time untuk vDot dan vEth untuk ditampilkan di aplikasi mereka, dan untuk mendapatkan jumlah total vToken di wallet tertentu.
 
 ![](https://miro.medium.com/max/1400/0*heWoX8Kw1nm1iYd9)
 
-The new Bifrost SubQuery project in the SubQuery Explorer
+Proyek SubQuery Bifrost baru di SubQuery Explorer
 
-> “Without SubQuery, it is difficult to imagine how complicated it is to manually collect data from the chain. Bifrost developers may spend a lot of time searching for all transaction data on chain to be used for transaction history. SubQuery helps developers save a lot of repetitive work costs. Bifrost will cooperate with SubQuery for a long time to accelerate the iterative speed of product development”. — Bifrost Finance
+> “Tanpa SubQuery, sulit membayangkan betapa rumitnya mengumpulkan data secara manual dari chain. Pengembang bifrost mungkin menghabiskan banyak waktu mencari semua data transaksi di chain yang akan digunakan untuk riwayat transaksi. SubQuery membantu pengembang menghemat banyak biaya pekerjaan yang repetitif. Bifrost akan bekerja sama dengan SubQuery untuk waktu yang lama untuk mempercepat kecepatan pengembangan produk yang berulang”. — Bifrost Finance
 
-OnFinality is a key service provider for SubQuery — most of the SubQuery indexers in Polkadot and Kusama projects are using OnFinality’s public API endpoints to get their data. The significant traffic from SubQuery is one of the reasons why OnFinality is the largest infrastructure provider in the Polkadot/Kusama ecosystem.
+OnFinality adalah penyedia layanan utama untuk SubQuery — sebagian besar pengindeks SubQuery di proyek Polkadot dan Kusama menggunakan titik akhir API publik OnFinality untuk mendapatkan data mereka. Traffic yang signifikan dari SubQuery menjadi salah satu alasan mengapa OnFinality menjadi penyedia infrastruktur terbesar di ekosistem Polkadot/Kusama.
 
-In April, OnFinality hit a long term goal of 100 million in a single day, in fact they smashed it with 127 million requests in 24 hours (almost 1,500 each second).
+Pada bulan April, OnFinality mencapai target jangka panjang 100 juta dalam satu hari, bahkan mereka memecahkannya dengan 127 juta permintaan dalam 24 jam (hampir 1.500 setiap detik).
 
 ![](https://miro.medium.com/max/1400/0*FLq4vXluI9CTiBQ8)
 
