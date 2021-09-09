@@ -20,13 +20,13 @@ Kiến trúc parachain của Polkadot là điểm khác biệt chính so với c
 
 SubQuery đã phục vụ hàng triệu truy vấn dữ liệu mỗi ngày cho [ hơn 60 dự án trên Polkadot & Kusama ](https://explorer.subquery.network/). Trong tệp khách hàng hiện tại, SubQuery được tích hợp với các ứng dụng như [Subscan](https://subquery.medium.com/subscans-multi-signature-tool-powered-by-subquery-926da3e4fc25), [Fearless Wallet](https://explorer.subquery.network/subquery/ef1rspb/fearless-wallet) và [SubVis](https://subquery.medium.com/explore-kusama-auctions-with-subvis-io-and-subquery-522351538d17), cũng như ba trong số năm ứng dụng dành chiến thắng trong lần đấu giá parachain Kusama đầu tiên: [Acala's Karura](https://subquery.medium.com/karura-integrates-with-subquery-to-aggregate-and-serve-defi-data-to-kusama-builders-d34f0e722311), Phala's Khala và [Bifrost](https://subquery.medium.com/bifrost-chooses-subquery-to-provide-the-data-for-their-new-dapp-c8005ee54f38). Năm đợt huy động vốn cộng đồng cho parachain tiếp theo dự kiến ​​sẽ diễn ra trong suốt tháng 9.
 
-Vòng gây quỹ này sẽ đẩy nhanh lộ trình kỹ thuật và cộng đồng của SubQuery vào năm 2021 và hơn thế nữa. Nhóm có kế hoạch phân cấp và mã hóa giao thức cũng như xây dựng Mạng SubQuery để họ có thể giới thiệu những người tham gia được khuyến khích từ khắp nơi trên thế giới. SubQuery cũng đang có kế hoạch cải thiện và mở rộng các dịch vụ của họ vì hơn 60 dự án đã sử dụng các dịch vụ được lưu trữ của nó. Sắp tới, nhóm có kế hoạch tích hợp với các chuỗi Lớp 1 khác, bao gồm Solana, Terra và các chuỗi khác.
+Vòng gây quỹ này sẽ đẩy nhanh lộ trình kỹ thuật và cộng đồng của SubQuery vào năm 2021 và hơn thế nữa. Nhóm có kế hoạch phân cấp và mã hóa giao thức cũng như xây dựng Mạng lưới SubQuery để có thể giới thiệu tới những người tham gia từ khắp nơi trên thế giới. SubQuery cũng đang có kế hoạch cải thiện và mở rộng các dịch vụ của họ vì hơn 60 dự án đã và đang sử dụng các dịch vụ được lưu trữ. Sắp tới, nhóm có kế hoạch tích hợp với các chuỗi Lớp 1 khác bao gồm Solana, Terra và các chuỗi khác.
 
 * * * * *
 
 ## Giới thiệu về SubQuery
 
-[ SubQuery ](https://subquery.network) là một tập hợp dữ liệu phi tập trung, lập chỉ mục & lớp truy vấn giữa các blockchains Lớp-1 và các ứng dụng phi tập trung. Giao thức này loại bỏ các đặc điểm riêng của dữ liệu blockchain với SubQuery SDK, cho phép các nhà phát triển tập trung vào việc triển khai sản phẩm cốt lõi của họ mà không cần lãng phí nỗ lực vào các công nghệ phụ trợ tùy chỉnh.
+[ SubQuery ](https://subquery.network) là một tập hợp dữ liệu phi tập trung, lập chỉ mục & lớp truy vấn giữa các blockchains Lớp-1 và các ứng dụng phi tập trung. Giao thức này loại bỏ các đặc điểm riêng của dữ liệu blockchain với SubQuery SDK, cho phép các nhà phát triển tập trung vào việc triển khai sản phẩm cốt lõi của họ mà không cần lãng phí một cách vô ích vào các công nghệ phụ trợ truyền thống.
 
 ### Tìm hiểu thêm
 
