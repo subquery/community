@@ -40,23 +40,23 @@ Vâng! Công việc [chuyển SubQuery sang một mạng phi tập trung và đ�
 
 Vào tháng 8, chúng tôi đã khởi chạy một số dự án mới trên SubQuery bao gồm những dự án có Subscan, Karura, Subscan, Polkaswap và Soramitsu.
 
-Đối với Karura, [SubQuery đang được sử dụng để trích xuất và truy vấn dữ liệu từ chuỗi của Karura](https://subquery.medium.com/karura-integrates-with-subquery-to-aggregate-and-serve-defi-data-to-kusama-builders-d34f0e722311?source=your_stories_page-------------------------------------), giúp truy vấn nhanh chóng và hiệu quả cho ứng dụng của [Karura](https://apps.karura.network/).
+Với Karura, [SubQuery được sử dụng để trích xuất và truy vấn dữ liệu từ chuỗi](https://subquery.medium.com/karura-integrates-with-subquery-to-aggregate-and-serve-defi-data-to-kusama-builders-d34f0e722311?source=your_stories_page-------------------------------------), giúp cho việc truy vấn trở nên nhanh chóng và hiệu quả với [ứng dụng của Karura's](https://apps.karura.network/).
 
 Dịch vụ của Subquery đóng một vai trò quan trọng trong [Subscan](https://www.subscan.io/) qua việc [cung cấp dữ liệu nhanh chóng về các giao dịch](https://subquery.medium.com/subscans-multi-signature-tool-powered-by-subquery-926da3e4fc25?source=your_stories_page-------------------------------------) cho bất kỳ địa chỉ đa chữ ký nào, nhờ đó giúp cải thiện UX và cho phép các tính năng cao cấp hơn.
 
-[SORA](https://sora.org/) đã xây dựng [Dự án SubQuery lấy dữ liệu từ mạng SORA](https://subquery.medium.com/sora-integrates-subquery-to-provide-data-to-the-sora-network-5a73f77a40aa?source=your_stories_page-------------------------------------) để cung cấp năng lượng cho các ứng dụng di động được xây dựng trên SORA và [Polkaswap.io](http://polkaswap.io/). Bạn có thể đọc thêm ở đây
+[SORA](https://sora.org/) đã xây dựng một [Dự án SubQuery lấy dữ liệu từ mạng lưới SORA](https://subquery.medium.com/sora-integrates-subquery-to-provide-data-to-the-sora-network-5a73f77a40aa?source=your_stories_page-------------------------------------) để cung cấp cho các ứng dụng di dộng được xây dựng trên SORA và [Polkaswap.io](http://polkaswap.io/). Bạn có thể đọc thêm ở đây
 
-Trong cả hai trường hợp, chúng tôi rất biết ơn khi nhận được những phản hồi tuyệt vời như thế này từ các đối tác của chúng tôi:
+Trong cả hai trường hợp, chúng tôi rất biết ơn khi nhận được những phản hồi tuyệt vời như thế này từ các đối tác của mình:
 
-* "Sử dụng SubQuery giúp việc tạo dapp trở nên dễ dàng, không còn phải thực hiện một loạt lệnh gọi phức tạp để lấy dữ liệu tôi cần." * - Brett (Nhà phát triển tại Acala)
+*"Sử dụng SubQuery giúp việc tạo dapp trở nên dễ dàng, không còn phải thực hiện một loạt lệnh gọi phức tạp để lấy dữ liệu tôi cần."* - Brett (Nhà phát triển tại Acala)
 
-* "SubQuery là giải pháp lý tưởng cho nhu cầu của chúng tôi vì ứng dụng dễ triển khai và quản lý, dễ học và phát triển cũng như được ghi chép đầy đủ và nó cũng có cơ sở hạ tầng riêng với tích hợp Github" * - Nhóm phát triển SORA
+*"SubQuery là giải pháp lý tưởng cho nhu cầu của chúng tôi vì ứng dụng dễ triển khai và quản lý, dễ học và phát triển cũng như được ghi chép đầy đủ và nó cũng có cơ sở hạ tầng riêng với tích hợp Github"* - Nhóm phát triển SORA
 
 [ Bạn có thể xem tất cả các dự án một cách dễ dàng thông qua Trình khám phá của chúng tôi tại đây ](https://explorer.subquery.network/).
 
 ## AMA với DotMarketCap 🎙
 
-Chúng tôi rất vui khi được DotMarketCap tổ chức vào ngày 5 tháng 8 cho một AMA với Sam và James. Các câu hỏi của khán giả trải dài từ các lĩnh vực như DeFi và NFT cho đến rất nhiều câu hỏi về kế hoạch phát triển và tương lai của chúng tôi. Chúng tôi đã chia sẻ thông tin chi tiết về lý do tại sao chúng tôi bắt đầu dự án của mình ở Polkadot và liệu mã thông báo của chúng tôi có được khởi chạy dưới dạng ERC-20 hay không.
+Chúng tôi rất vui khi cùng với Sam và James tham dự một AMA tổ chức bởi DotMarketCap vào ngày 5 tháng 8. Các câu hỏi của khán giả trải dài từ các lĩnh vực như DeFi và NFT cho đến rất nhiều câu hỏi về kế hoạch phát triển và tương lai của chúng tôi. Chúng tôi đã chia sẻ thông tin chi tiết về lý do tại sao chúng tôi bắt đầu dự án của mình ở Polkadot và liệu mã thông báo của chúng tôi có được khởi chạy dưới dạng ERC-20 hay không.
 
 [ Bạn có thể đọc bài phỏng vấn tại đây ](https://dotmarketcap.com/blog-detail/288/ama30-recap-polkawarriors-x-subquery).
 
@@ -66,18 +66,18 @@ Chúng tôi rất vui khi được DotMarketCap tổ chức vào ngày 5 tháng 
 
 Siqi, người lãnh đạo phát triển kinh doanh của chúng tôi ở Trung Quốc, đã có một tháng bận rộn với một số [ cuộc thảo luận trực tuyến cùng với Moonbeam ](https://twitter.com/SubQueryNetwork/status/1425293137103122432/photo/1), Acala, Astar và Phala. Ngoài ra, cô đã tham gia AMA do Polkadot tổ chức vào ngày 11 tháng 8 và AMA do [ ODaily ](http://www.odaily.com/) và Acala tổ chức vào ngày 13 tháng 8.
 
-Chúng tôi mong muốn cộng đồng người Trung Quốc của chúng tôi phát triển đáng kể trong những tháng tới thông qua các hoạt động như hackathons. Như vậy, [ chúng tôi sẽ tổ chức hội thảo với Encode Club ](https://www.eventbrite.co.uk/e/polkadot-hackathon-subquery-workshop-tickets-167321106935?aff=ebdsoporgprofile) và chạy hackathon với OneBlock + để giúp giới thiệu SubQuery với khán giả mới.
+Chúng tôi mong muốn cộng đồng người Trung Quốc của chúng tôi phát triển đáng kể trong những tháng tới thông qua các hoạt động như hackathons. Như vậy, [chúng tôi sẽ tổ chức hội thảo với Encode Club](https://www.eventbrite.co.uk/e/polkadot-hackathon-subquery-workshop-tickets-167321106935?aff=ebdsoporgprofile) và chạy hackathon với OneBlock+ để giúp giới thiệu SubQuery với khán giả mới.
 
 ## Mang đến cột mốc thứ 2 của API chung Polkadot ✅
 
-Chúng tôi vui mừng đạt được tiến bộ trong việc [ phát triển API dApp mã nguồn mở ](https://docs.google.com/document/d/13L8HBwB6VB-n2g274FFFJKORYPJsq744C6H8iEDQ0-0/edit) cho Kusama cùng với nhóm tại [ Fearless Wallet ](https://fearlesswallet.io/). Công việc này đang được hỗ trợ bởi một khoản tài trợ của Kho bạc Kusama.
+Chúng tôi vui mừng đạt được tiến bộ trong việc [phát triển API dApp mã nguồn mở](https://docs.google.com/document/d/13L8HBwB6VB-n2g274FFFJKORYPJsq744C6H8iEDQ0-0/edit) cho Kusama cùng với đội ngũ của [Fearless Wallet](https://fearlesswallet.io/). Việc này được hỗ trợ thông qua một khoản tài trợ của Ngân quỹ Kusama.
 
-Sắp hoàn thành cột mốc thứ hai trong dự án này có nghĩa là sẽ sớm có một giao diện API dữ liệu cốt lõi được xác định và chung cho Polkadot, Kusama và các parachains khác, điều này sẽ thu hút nhiều nhà phát triển hơn vào hệ sinh thái. Làm cho sự phát triển trở nên trực quan và dễ dàng nhất có thể là một trong những mục tiêu chính của chúng tôi!
+Sắp hoàn thành cột mốc thứ hai trong dự án này có nghĩa là sẽ sớm có một giao diện API dữ liệu cốt lõi chung được xác định cho Polkadot, Kusama và các parachains khác. Điều này sẽ thu hút nhiều nhà phát triển hơn đến với hệ sinh thái. Làm cho sự phát triển trở nên trực quan và dễ dàng nhất có thể là một trong những mục tiêu chính của chúng tôi!
 
 *****
 
-Như mọi khi, hãy tham gia các kênh xã hội của chúng tôi để được cập nhật tin tức và thông báo mới nhất của chúng tôi.
+Như mọi khi, hãy tham gia các mạng xã hội của chúng tôi để được cập nhật tin tức và thông báo mới nhất.
 
-James, Sam và Nhóm SubQuery
+James, Sam và Đội ngũ SubQuery
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
