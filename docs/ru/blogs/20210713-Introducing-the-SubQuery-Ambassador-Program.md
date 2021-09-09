@@ -28,23 +28,23 @@
 
 **Финансирование и поддержка:** Вы можете получить вознаграждение за хорошую работу, а также преимущества в частных продажах и контрактах. Кроме того, мы предоставим вам финансовые гранты для проведения встреч с сообществом.
 
-**SubQuery Team Access:** You’ll have direct access to the core SubQuery team with opportunities for hands-on training, exclusive AMAs with our leaders and developers, and insight into our roadmap.
+**Доступ к команде SubQuery:** Вы получите прямой доступ к основной команде SubQuery с возможностями обучения. Эксклюзивные AMA с нашими лидерами и разработчиками, а также ознакомление с нашей «дорожной картой».
 
-**Network Development:** Expect to grow your professional network by being an Ambassador for one of the top Polkadot projects. Meet other ambassadors around the world and receive introductions to local Polkadot projects that we need to support locally. You might even get free entry to represent SubQuery in events in your local area.
+**Развитие сети:** Мы ожидаем роста вашей профессиональной сети, являясь послом одного из лучших проектов Polkadot. Знакомьтесь с другими послами по всему миру и получите информацию о местных проектах Polkadot, которые нам необходимо поддержать на местах. Вы даже можете получить бесплатный проход на мероприятия в вашем регионе для представления SubQuery.
 
-**Swag and other free stuff:** Everyone likes free stuff! Receive an annual allocation of SubQuery swag that’ll make you stand out in the crowd. Plus additional allocation that you can share around at community events. You’ll also receive an exclusive NFT for your Ambassador status.
+**Свэги и другие бесплатные вещи:** Каждый любит бесплатные вещи! Получайте ежегодные подарки от SubQuery, которые позволят вам выделяться в толпе. Плюс дополнительные ассигнования, которыми вы можете делиться на ивентах. Вы также получите эксклюзивный NFT вашего статуса представителя.
 
-## How does it work
+## Как это работает
 
-Our Ambassador program has multiple tiers, each tier has different benefits and capabilities. You can move up tiers by participating in Ambassador activities and working hard for us.
+Наша программа посла имеет несколько уровней, каждый уровень имеет различные преимущества и возможности. Вы можете продвигаться вверх, упорно работая с нами.
 
-Once you have sent through an application, we will select candidates that align with our values. If selected you are placed in our trainee program and will receive an information package, expanding your understanding of SubQuery. After this, you can start to work through the trainee program by completing certain onboarding tasks (e.g. creating a SubQuery Project). We will host workshops throughout this process to support you.
+Как только Вы отправите заявку, мы выберем кандидатов, которые соответствуют нашим ценностям. Если вас выберут, вы будете направлены на нашу обучающую программу и получите информационный пакет, расширяющий ваше понимание о SubQuery. После этого вы можете начать работать через программу стажировки путем выполнения определенных задач (например, создание проекта SubQuery). На протяжении всего этого процесса мы будем проводить семинары для того, чтобы поддержать вас.
 
-Once you pass the trainee program, you can call yourself a SubQuery ambassador and will be accepted into our full program. From here on you can continue to work though the program and progress up the tiers, earning more rewards and benefits as you climb the ranks.
+Как только вы пройдете программу стажировки, вы можете называть себя послом SubQuery и будете официально приняты в наши ряды. С этого момента вы можете продолжать работать согласно программе и переходить на новые уровни. Зарабатывайте больше наград и выгод по мере увеличения своей активности.
 
-[Apply Here](https://forms.gle/GXBbJ6LDpNfM2v1X6)
+[Подать заявку можно здесь](https://forms.gle/GXBbJ6LDpNfM2v1X6)
 
-## Ambassador Activities
+## Амбассадор
 
 SubQuery Ambassadors are able to contribute through four main areas, including event management, content creation, translation, and community moderation. You can participate in as many areas as you want, you’re not bound to any single one.
 
