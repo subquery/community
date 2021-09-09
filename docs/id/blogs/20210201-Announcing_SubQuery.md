@@ -1,4 +1,4 @@
-# Announcing SubQuery
+# Mengumumkan SubQuery
 
 ## Mentransformasi dan mengkueri data dunia untuk masa depan web3.0
 
