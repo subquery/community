@@ -46,9 +46,9 @@
 
 ## Амбассадор
 
-SubQuery Ambassadors are able to contribute through four main areas, including event management, content creation, translation, and community moderation. You can participate in as many areas as you want, you’re not bound to any single one.
+Послы SubQuery могут вносить свой вклад в четыре основные области, включая управление событиями, создание контента, перевод и модерацию сообщества. Вы можете принять участие в столько областей, сколько захотите, вы не обязаны ни одному из них.
 
-**Event Management:** Build local communities by hosting, organising, and managing different events. Building a local community will be a key part of growing the SubQuery community. SubQuery will support you by providing funding for events, sending swag/merchandise to be given away, as well as attending Q&As or online events as speakers or in AMA sessions.
+**Управление событиями:** Создание местных сообществ путем хостинга, организации и управления различными событиями. Создание местного сообщества будет ключевой частью роста сообщества SubQuery . SubQuery will support you by providing funding for events, sending swag/merchandise to be given away, as well as attending Q&As or online events as speakers or in AMA sessions.
 
 **Content Creation:** We have a long list of content and support material that we need help creating. Remember, our success relies on the ability for our customers to build amazing things on our service, so we need your help to make that easier.
 
@@ -56,6 +56,6 @@ Content includes videos, infographics, tutorials, animations, or any other relat
 
 **Translation:** Our customers don’t just speak english! We need your help making SubQuery more accessible by translating our content into your own language, as well as helping sharing the word to our international community.
 
-**Community Moderation:** Moderators will help grow the SubQuery community by ensuring that official community channels are active and engaging. SubQuery will support Moderators by promoting the channels that they monitor, as well as provide guidelines for our expectations.
+**Модератор сообщества:** Модераторы будут помогать расти сообщество SubQuery убедившись в том, что официальные каналы сообщества активны и вовлечены. SubQuery будет поддерживать модераторов, продвигая каналы, которые они контролируют, а также давать рекомендации по нашим ожиданиям.
 
 ![](https://miro.medium.com/max/1400/1*xj6_UL1ZWYzlLmlVk25JzQ.png)
