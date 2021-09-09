@@ -33,9 +33,9 @@ Pada bulan April, OnFinality mencapai target jangka panjang 100 juta dalam satu 
 
 ![](https://miro.medium.com/max/1400/0*FLq4vXluI9CTiBQ8)
 
-OnFinality also [delivered their treasury proposal](https://kusama.polkassembly.io/treasury/72) for the second milestone to improve the scalability of their API service. Intelligent routing that allows them to maximise the use of different clusters of nodes across their user base in different geographic regions. SubQuery relies on this infrastructure so it’s important to note the continued investment and improvements here. The past month has demonstrated how critical it is to continue to invest in scale so that we can continue to provide the best service every day.
+OnFinality juga [menyampaikan proposal perbendaharaan mereka](https://kusama.polkassembly.io/treasury/72) untuk pencapaian kedua guna meningkatkan skalabilitas layanan API mereka. Perutean cerdas yang memungkinkan mereka memaksimalkan penggunaan kluster node yang berbeda di seluruh basis pengguna mereka di wilayah geografis yang berbeda. SubQuery bergantung pada infrastruktur ini, jadi penting untuk mencatat investasi dan peningkatan berkelanjutan di sini. Sebulan terakhir telah menunjukkan betapa pentingnya untuk terus berinvestasi dalam skala sehingga kami dapat terus memberikan layanan terbaik setiap hari.
 
--   Our CEO Sam Zou presented _Cyber future on Parachains_ online event with Web3, Acala, Polkawarriors, and Bitfwd
+-   CEO kami Sam Zou mempresentasikan _Cyber ​​future on Parachains_ acara online dengan Web3, Acala, Polkawariors, dan Bitfwd
 
 -   Our Head of Business Development James Bayly joined an interesting virtual fireside chat with DFG and James Wo as part of their DFG Talks series.
 
