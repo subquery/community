@@ -42,7 +42,7 @@ Vào tháng 8, chúng tôi đã khởi chạy một số dự án mới trên Su
 
 Đối với Karura, [SubQuery đang được sử dụng để trích xuất và truy vấn dữ liệu từ chuỗi của Karura](https://subquery.medium.com/karura-integrates-with-subquery-to-aggregate-and-serve-defi-data-to-kusama-builders-d34f0e722311?source=your_stories_page-------------------------------------), giúp truy vấn nhanh chóng và hiệu quả cho ứng dụng của [Karura](https://apps.karura.network/).
 
-Dịch vụ của SubQuery đang đóng một vai trò quan trọng trong [ Subscan ](https://www.subscan.io/) bằng cách [ cung cấp dữ liệu nhanh chóng về các giao dịch ](https://subquery.medium.com/subscans-multi-signature-tool-powered-by-subquery-926da3e4fc25?source=your_stories_page-------------------------------------) cho bất kỳ địa chỉ đa chữ ký nhất định nào, do đó cải thiện UX và cho phép các tính năng nâng cao hơn.
+Dịch vụ của Subquery đóng một vai trò quan trọng trong [Subscan](https://www.subscan.io/) qua việc [cung cấp dữ liệu nhanh chóng về các giao dịch](https://subquery.medium.com/subscans-multi-signature-tool-powered-by-subquery-926da3e4fc25?source=your_stories_page-------------------------------------) cho bất kỳ địa chỉ đa chữ ký nào, nhờ đó giúp cải thiện UX và cho phép các tính năng cao cấp hơn.
 
 [SORA](https://sora.org/) đã xây dựng [Dự án SubQuery lấy dữ liệu từ mạng SORA](https://subquery.medium.com/sora-integrates-subquery-to-provide-data-to-the-sora-network-5a73f77a40aa?source=your_stories_page-------------------------------------) để cung cấp năng lượng cho các ứng dụng di động được xây dựng trên SORA và [Polkaswap.io](http://polkaswap.io/). Bạn có thể đọc thêm ở đây
 
