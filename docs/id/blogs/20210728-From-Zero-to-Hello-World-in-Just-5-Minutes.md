@@ -15,8 +15,8 @@ Hari ini kami meluncurkan [website dokumentasi baru kami di doc.subquery.network
 
 ![](https://miro.medium.com/max/1400/1*obZau98aya3Ohtc43DAuEw.png)
 
-Traditionally, blockchain documentation is incredibly technical and littered with jargon — you have to come from a developer background to easily understand it. We’ve taken a different path and written content for users at all levels of experience.
+Secara tradisional, dokumentasi blockchain sangat teknis dan penuh dengan jargon — Anda harus berasal dari latar belakang pengembang agar mudah memahaminya. Kami telah mengambil jalur yang berbeda dan konten tertulis untuk pengguna di semua tingkat pengalaman.
 
-Our goal is to publish a tutorial for every piece of major functionality in SubQuery. That means a step-by-step video and written guide with working examples as outcomes — you can see the beginnings of our efforts here [in the Tutorials Section](https://doc.subquery.network/tutorials_examples/howto.html).
+Tujuan kami adalah mempublikasikan tutorial untuk setiap kegunaan utama di SubQuery. Yang artinya video langkah-demi-langkah serta panduan tertulis dengan contoh kerja sebagai hasilnya — Anda dapat melihat upaya awal kami di sini [di Bagian Tutorial](https://doc.subquery.network/tutorials_examples/howto.html).
 
 ![](https://miro.medium.com/max/1200/1*nxy4aDTaQ0EMGudm0QW09g.gif)
