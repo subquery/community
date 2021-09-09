@@ -10,7 +10,7 @@
 
 > *"SubQuery ที่มีมากกว่า 60 โครงการและคำขอ query นับล้านต่อวัน รวมถึงข้อมูลจาก Subvis เป็นสถานที่ที่สมบูรณ์แบบในการสนับสนุนและมอบการเข้าถึงข้อมูล Crowdloan & Auction ที่รวดเร็วและแม่นยำที่สุดแก่ DotMarketCap ด้วยแหล่งข้อมูลที่เชื่อถือได้และ UI UX อันเป็นเอกลักษณ์ของ DMC เราเชื่อว่าความร่วมมือครั้งนี้จะมอบประสบการณ์ที่ยอดเยี่ยมและเข้าถึงชุมชน Polkadot ได้อย่างง่ายดาย"* - Sang Tran (ผู้ก่อตั้ง DotMarketCap)
 
-การประมูล Kusama parachain เป็นงานที่สำคัญที่สุดในปีนี้และด้วยกันกับ [Auction & Crowdloan tracking](https://dotmarketcap.com/auction) คุณสามารถติดตามการแข่งขันที่ดุเดือดระหว่างโปรเจ็กต์ต่างๆ ตลอดจนสนับสนุนผู้สมัครที่คุณชื่นชอบเพื่อชนะสล็อต parachain ผ่านคราวด์โลนของพวกเขา
+การประมูล parachain ของ Kusama เป็นงานที่สำคัญที่สุดในปีนี้และด้วยกันกับ [Auction & Crowdloan tracking](https://dotmarketcap.com/auction) คุณสามารถติดตามการแข่งขันที่ดุเดือดระหว่างโปรเจกต์ต่างๆ ตลอดจนสนับสนุนผู้สมัครที่คุณชื่นชอบเพื่อชนะสล็อต parachain ผ่านคราวด์โลนของพวกเขา
 
 ![](https://cdn-images-1.medium.com/max/1600/1*n_y-1CUv1BcU2bzCs15djA.png)
 
@@ -26,7 +26,7 @@
 
 ## **เกี่ยวกับ DotMarketCap**
 
-DotMarketCap is a non-profit project funded by Illusionist Group, it is a website where you can find data of prices, charts, capitalization as well as the latest information and analysis of entire projects on the Polkadot ecosystem. After moths of improving, DotMarketCap has finally shown up with brand-new and interesting features. Visit dotmarketcap.com for more information.
+DotMarketCap เป็นโครงการที่ไม่แสวงหาผลกำไรที่ได้รับทุนจาก Illusionist Group เป็นเว็บไซต์ที่คุณสามารถค้นหาข้อมูลราคา แผนภูมิ การใช้อักษรตัวพิมพ์ใหญ่ ตลอดจนข้อมูลล่าสุดและการวิเคราะห์โครงการทั้งหมดบนระบบนิเวศของ Polkadot หลังจากการปรับปรุงหลายอย่าง ในที่สุด DotMarketCap ก็แสดงคุณสมบัติใหม่ที่น่าสนใจ เยี่ยมชม dotmarketcap.com สำหรับข้อมูลเพิ่มเติม
 
 [Website](http://dotmarketcap.com/) | [Telegram](https://t.me/DotMarketCap_ANN) | [Twitter](https://twitter.com/DotMarketCap?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
@@ -36,8 +36,8 @@ DotMarketCap is a non-profit project funded by Illusionist Group, it is a websit
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)
 
-## **About Subvis.io**
+## **เกี่ยวกับ Subvis.io**
 
-[Subvis.io](https://dotmarketcap.com/blog-detail/541/Subvis.io) is the primary source of data for Polkadot that investors go to in order to explore, analyse, and learn about Polkadot ecosystem. Investors use SubVis to monitor important events (especially auctions and crowdloans), analyse on-chain data to get insights for better investment decisions, and learn how the Polkadot ecosystem works.
+[Subvis.io](https://dotmarketcap.com/blog-detail/541/Subvis.io) คือแหล่งข้อมูลหลักสำหรับ Polkadot ที่นักลงทุนเข้าไปสำรวจ วิเคราะห์ และเรียนรู้เกี่ยวกับระบบนิเวศของ Polkadot นักลงทุนใช้ SubVis เพื่อตรวจสอบเหตุการณ์สำคัญ (โดยเฉพาะการประมูลและ crowdloan) วิเคราะห์ข้อมูลในเครือข่ายเพื่อรับข้อมูลเชิงลึกเพื่อการตัดสินใจในการลงทุนที่ดีขึ้น และเรียนรู้วิธีการทำงานของระบบนิเวศ Polkadot
 
 [Website](https://www.subvis.io/) | [Twitter](https://twitter.com/subvisioapp)
