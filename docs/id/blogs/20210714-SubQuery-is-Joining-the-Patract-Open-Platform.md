@@ -1,12 +1,12 @@
-# SubQuery is Joining the Patract Open Platform
+# SubQuery Bergabung dengan Patract Open Platform
 
 ![](https://miro.medium.com/max/1400/0*0inUQ8U1g9auTjfU)
 
-## **Providing Free Data Indexing for Wasm Tech Alliance**
+## **Menyediakan Pengindeksan Data Gratis untuk Wasm Tech Alliance**
 
-SubQuery is joining the Patract Open Platform to jointly promote the development of public infrastructure, promote the evolution of contract technology, and to develop the Wasm contract development ecosystem.
+SubQuery bergabung dengan Patract Open Platform untuk bersama-sama mempromosikan pengembangan infrastruktur publik, mempromosikan evolusi teknologi kontrak, dan mengembangkan ekosistem pengembangan kontrak Wasm.
 
-SubQuery is a blockchain data-as-a-service provider.
+SubQuery adalah penyedia data sebagai layanan blockchain.
 
 SubQuery aggregates and organises data from Polkadot and Substrate, providing developers with well-structured data support that allows them to use data in various projects efficiently.
 
