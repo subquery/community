@@ -2,16 +2,16 @@
 
 ![](https://miro.medium.com/max/1400/0*nqNosmn0y7FHOI42)
 
-Bifrost недавно запустила бета-версию своего нового dApp, официального интерактивного интерфейса для всех сервисов Bifrost. Through this dApp, users can mint vTokens, redeem and swap these derivatives, and view their earnings in real time. This beta dApp is a huge step forward in allowing users to reduce staking costs across chains by maintaining liquidity. [You can try out Bifrost’s new dApp here](https://apps.bifrost.finance/).
+Bifrost недавно запустила бета-версию своего нового dApp, официального интерактивного интерфейса для всех сервисов Bifrost. С помощью этого dApp пользователи смогут минтить vToken, выкупать и обменивать эти деривативы, а также просматривать свои доходы в режиме реального времени. Это бета-версия dApp - огромный шаг вперед, позволяющий пользователям снизить затраты на размещение в цепочках за счет поддержания ликвидности. [Вы можете попробовать новое dApp Bifrost здесь](https://apps.bifrost.finance/).
 
-> “Without SubQuery, it is difficult to imagine how complicated it is to manually collect data from the chain. Bifrost developers may spend a lot of time searching for all transaction data on chain to be used for transaction history. SubQuery helps developers save a lot of repetitive work costs. Bifrost will cooperate with SubQuery for a long time to accelerate the iterative speed of product development”. — Bifrost.Finance
+> «Без SubQuery трудно представить, насколько сложно вручную собрать данные из цепочки. Разработчики Bifrost могут потратить много времени на поиск всех данных транзакций в цепочке, которые будут использоваться для истории транзакций. SubQuery помогает разработчикам сэкономить на операционных расходах. Bifrost будет долгое время сотрудничать с SubQuery, чтобы ускорить итеративную скорость разработки продукта ». — Bifrost.Finance
 
 
 ![](https://miro.medium.com/max/1400/0*_JK-h0rjef6rk1ot)
 
-The new Bifrost SubQuery project in the SubQuery Explorer
+Новый проект Bifrost SubQuery в SubQuery Explorer
 
-[SubQuery’s](https://subquery.network/) service helps [Bifrost](https://bifrost.finance/) power much of the data shown in their new dApp. All historical data on transfers, minting, and redemption events (such as price, date, currency and pool) are aggregated and queried from SubQuery’s advanced indexing and query service. For example, SubQuery allows Bifrost to calculate real time mint and redemption prices for vDot and vEth to show in their app, and to get the total number of vTokens in a certain wallet.
+[Сервис SubQuery](https://subquery.network/) помогает [Bifrost](https://bifrost.finance/) использовать большую часть данных, показанных в их новом dApp. Все исторические данные о событиях передачи, минтинга и погашения (такие как цена, дата, валюта и пул) собираются и запрашиваются из расширенной службы индексирования и запросов SubQuery. For example, SubQuery allows Bifrost to calculate real time mint and redemption prices for vDot and vEth to show in their app, and to get the total number of vTokens in a certain wallet.
 
 ![](https://miro.medium.com/max/1400/0*WIxvwcgPIHzCf0E3)
 
