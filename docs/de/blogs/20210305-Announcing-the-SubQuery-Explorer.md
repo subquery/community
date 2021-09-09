@@ -1,12 +1,12 @@
-# Announcing the SubQuery Explorer
+# Ankündigung des SubQuery Explorers
 
-Since announcing SubQuery to the world just a month ago, the response and feedback we’ve received from the Polkadot community has been overwhelmingly positive. We’ve gained thousands of followers on our channels, and there have been over 1,353 installs from NPM. It’s inspiring to receive all the messages of support, and to see the engagement from the community. **It’s time for us to give something back!**
+Seit der Ankündigung von SubQuery an die Welt vor nur einem Monat haben wir von der Polkadot Community eine überwältigende positive Antwort erhalten. Wir haben Tausende von Anhängern auf unseren Kanälen gewonnen und es gab mehr als 1.353 Installationen von NPM. Es ist inspirierend, alle Unterstützungsbotschaften zu erhalten und das Engagement der Community zu sehen. **Es ist an der Zeit, dass wir etwas zurückgeben!**
 
-We’ve been working overtime over the last month to release the next major stage of our roadmap for SubQuery. Today we’re announcing the release of the [SubQuery Explorer.](https://explorer.subquery.network/)
+Wir haben im letzten Monat Überstunden gemacht, um die nächste große Phase unserer Roadmap für SubQuery zu veröffentlichen. Heute kündigen wir die Veröffentlichung des [SubQuery-Explorers an.](https://explorer.subquery.network/)
 
 ![](https://miro.medium.com/max/1400/0*2bDaF3HPgNkpm8Kt)
 
-[SubQuery Explorer](https://explorer.subquery.network/) is an online hosted service that provides access to published SubQuery projects made by contributors around the world and managed by the SubQuery team. It furthers our mission to support Polkadot developers by providing infrastructure services by making accessing Polkadot network data even easier.
+[SubQuery Explorer](https://explorer.subquery.network/) ist ein gehosteter Online-Dienst, der Zugriff auf veröffentlichte SubQuery-Projekte bietet, die von Mitwirkenden auf der ganzen Welt erstellt und vom SubQuery-Team verwaltet werden. Es fördert unsere Mission, Polkadot-Entwickler durch die Bereitstellung von Infrastrukturdienstleistungen zu unterstützen, indem der Zugriff auf Polkadot-Netzwerkdaten noch einfacher wird.
 
 Today, anyone can query and extract Polkadot network data in only minutes and at no cost.
 
