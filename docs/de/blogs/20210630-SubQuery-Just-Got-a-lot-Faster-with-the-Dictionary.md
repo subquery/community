@@ -1,10 +1,10 @@
-# SubQuery Just Got a Lot Faster with the Dictionary
+# SubQuery ist mit dem Wörterbuch viel schneller geworden
 
 ![](https://miro.medium.com/max/1400/1*iEQbr-KZNIkztylVowAuaQ.png)
 
-Today we are proud to announce our new improvement to SubQuery, SubQuery’s Dictionary indexing feature.
+Heute sind wir stolz, Ihnen unsere neue Verbesserung von SubQuery, SubQuerys Wörterbuch-Indexing-Funktion, bekannt zu geben.
 
-The SubQuery Dictionary is all about speeding up your Projects. It dramatically improves indexing the performance of your SubQuery Project, **sometimes up to 10x faster.**
+Beim SubQuery Dictionary dreht sich alles um die Beschleunigung Ihrer Projekte. It dramatically improves indexing the performance of your SubQuery Project, **sometimes up to 10x faster.**
 
 When indexing chain data, SubQuery Projects used to inspect each block. Polkadot’s chain is large, 130GB of unstructured data over almost 6 million blocks. This takes many hours to index, time that you don’t want to wait for — especially when testing.
 
