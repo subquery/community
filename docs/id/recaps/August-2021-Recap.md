@@ -42,19 +42,19 @@ Pada bulan Agustus kami meluncurkan beberapa proyek baru di SubQuery termasuk ya
 
 Untuk Karura, [SubQuery digunakan untuk mengekstrak dan membuat kueri data dari Karura chain](https://subquery.medium.com/karura-integrates-with-subquery-to-aggregate-and-serve-defi-data-to-kusama-builders-d34f0e722311?source=your_stories_page-------------------------------------), membuat kueri menjadi cepat dan efisien untuk [Karura app](https://apps.karura.network/).
 
-SubQuery's service is playing a key role in [Subscan](https://www.subscan.io/) by [providing fast data on transactions](https://subquery.medium.com/subscans-multi-signature-tool-powered-by-subquery-926da3e4fc25?source=your_stories_page-------------------------------------) for any given multi signature address, thereby improving the UX and allowing for more advanced features.
+Layanan SubQuery memainkan peran penting dalam [Subscan](https://www.subscan.io/) dengan [menyediakan data transaksi yang cepat](https://subquery.medium.com/subscans-multi-signature-tool-powered-by-subquery-926da3e4fc25?source=your_stories_page-------------------------------------) untuk setiap multi signature address tertentu, sehingga meningkatkan UX dan memungkinkan fitur yang lebih canggih.
 
-[SORA](https://sora.org/) has built a [SubQuery Project that retrieves data from the SORA network](https://subquery.medium.com/sora-integrates-subquery-to-provide-data-to-the-sora-network-5a73f77a40aa?source=your_stories_page-------------------------------------) to power mobile applications built on SORA and [Polkaswap.io](http://polkaswap.io/). You can read more here
+[SORA](https://sora.org/) telah membangun [Proyek SubQuery yang mengambil data dari SORA network](https://subquery.medium.com/sora-integrates-subquery-to-provide-data-to-the-sora-network-5a73f77a40aa?source=your_stories_page-------------------------------------) untuk mendukung aplikasi seluler yang dibangun di SORA dan [Polkaswap.io](http://polkaswap.io/). Anda dapat membaca lebih lanjut di sini
 
-In both cases, we are thankful to have such great feedback like this from our partners:
+Dalam kedua kasus tersebut, kami berterima kasih atas feedback yang luar biasa seperti ini dari mitra kami:
 
-*"Using Subquery makes building dapps easy, no more making a complicated series of calls to get the data I need."* - Brett (Developer at Acala)
+*"Menggunakan Subquery menjadikan pembuatan dapps menjadi mudah, tidak perlu lagi melakukan serangkaian panggilan yang rumit untuk mendapatkan data yang saya butuhkan."* - Brett (Pengembang di Acala)
 
-*"SubQuery has been the ideal solution for our needs because the application is easy to deploy and manage, it is easy to learn and develop as well as being well documented, and it also has its own infrastructure with Github integration"* - SORA Development Team
+*"SubQuery telah menjadi solusi ideal untuk kebutuhan kita karena aplikasinya mudah dideploy dan dikelola, mudah dipelajari dan dikembangkan serta didokumentasikan dengan baik, dan juga memiliki infrastruktur sendiri dengan integrasi Github"</ 0> - Tim Pengembang SORA</p>
 
-[You can view all projects easily via our Explorer here](https://explorer.subquery.network/).
+[Anda dapat melihat semua proyek dengan mudah melalui Explorer kami di sini](https://explorer.subquery.network/).
 
-## AMA with DotMarketCap 🎙
+## AMA dengan DotMarketCap 🎙
 
 We were delighted to be hosted by DotMarketCap on August 5th for an AMA with Sam and James. The questions from the audience ranged from areas such as DeFi and NFTs through to a lot of questions about our plans for growth and our future. We shared insights on why we began our project in Polkadot and if our token will be launched as an ERC-20 or not.
 
