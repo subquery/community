@@ -2,4 +2,4 @@ node_modules
 /docs/.vuepress/.cache
 /docs/.vuepress/.temp
 .temp
-.cache
+/docs/.vuepress/dist
