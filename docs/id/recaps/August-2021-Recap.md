@@ -6,7 +6,7 @@ Selamat datang di pembaruan bulanan terbaru dari SubQuery. Melanjutkan dari bula
 
 Dalam pembaruan bulanan ini:
 
--   Duta Onboarding 👩‍💼
+-   Ambassador Onboarding 👩‍💼
 -   Memulai pekerjaan di Jaringan SubQuery 🏗
 -   Pertumbuhan Komunitas yang Besar 🚀
 -   Proyek Baru di SubQuery 🤝
@@ -14,31 +14,31 @@ Dalam pembaruan bulanan ini:
 -   Aktivitas di Cina 🇨🇳
 -   Menyampaikan Milestone ke-2 dari Polkadot Common API ✅
 
-## Duta Onboarding 👩‍💼
+## Ambassador Onboarding 👩‍💼
 
 ![](https://miro.medium.com/max/1400/0*_nOcsPjhQxta_FPH)
 
-After [launching our Ambassador program](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) last month, we have been amazed by the excitement in the community and quality of the participants. To date, we have received just under 2,000 applications almost every continent (we're calling out for applications from Antarctica ☃️) and onboarded over 30 people thus far.
+Setelah [meluncurkan program Ambassador kami](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) bulan lalu, kami kagum dengan antusiasme komunitas dan kualitas para peserta. Hingga saat ini, kami telah menerima kurang dari 2.000 aplikasi hampir di setiap benua (kami memanggil aplikasi dari Antartika ️) dan sejauh ini telah menerima lebih dari 30 orang.
 
-Tre has been doing an excellent job leading this initiative and [engaging with the community on Discord](https://discord.com/invite/78zg8aBSMG). As we are already seeing the benefits of having a closer relationship with the supporters of SubQuery, we will be expanding the team in the next few weeks so please be patient if you haven't heard from us yet!
+Tre telah melakukan pekerjaan yang sangat baik dalam memimpin inisiatif ini dan [terlibat dengan komunitas di Discord](https://discord.com/invite/78zg8aBSMG). Karena kami telah melihat manfaat dari memiliki hubungan yang lebih dekat dengan pendukung SubQuery, kami akan memperluas tim dalam beberapa minggu ke depan, jadi harap bersabar jika Anda belum mendengar kabar dari kami!
 
-## Huge Community Growth 🚀
+## Pertumbuhan Komunitas yang Besar🚀
 
-The growth in our community has been accelerating this month with our Discord blasting nearing 2,000 vibrant and supportive members. We have also grown our Twitter audience to over 6,000 followers.
+Pertumbuhan di komunitas kami semakin cepat bulan ini dengan ledakan Discord kami mendekati 2.000 anggota yang bersemangat dan mendukung. Kami juga telah mengembangkan audiens Twitter kami menjadi lebih dari 6.000 pengikut.
 
-We are particularly pleased about this growth as our project has focused on building a smaller but high quality developer community firstly. As we approach our TGE, these numbers should explode as we shift focus to the retail and investor audience.
+Kami sangat senang dengan pertumbuhan ini karena proyek kami berfokus untuk membangun komunitas pengembang yang lebih kecil namun berkualitas tinggi terlebih dahulu. Saat kami mendekati TGE, angka-angka ini akan meledak saat kami mengalihkan fokus ke audiens ritel dan investor.
 
-To help us accelerate this growth, and ensure that our community is engaged and active in the ecosystem, Rob has joined our team as our new Head of Marketing. Additionally, we also welcome Tre as our strategic business development manager in the US and Europe.
+Untuk membantu kami mempercepat pertumbuhan ini, dan memastikan bahwa komunitas kami terlibat dan aktif dalam ekosistem, Rob telah bergabung dengan tim kami sebagai Kepala Pemasaran kami yang baru. Selain itu, kami juga menyambut Tre sebagai manajer pengembangan bisnis strategis kami di AS dan Eropa.
 
-## Kicked off work on SubQuery Network 🏗
+## Memulai pekerjaan di SubQuery Network 🏗
 
-Yes! The work on [moving SubQuery towards a decentralised and tokenised network](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010); the SubQuery Network, has begun! This migration will ensure that there is no single point of failure for SubQuery and to encourage participants via the SQT token. In order to help us with this significant change, we have recruited new developers to join us this month.
+Ya! Upaya [memindahkan SubQuery ke jaringan yang terdesentralisasi dan ter-token](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010); Jaringan SubQuery, telah dimulai! Migrasi ini akan memastikan bahwa tidak ada titik kegagalan tunggal untuk SubQuery dan untuk mendorong peserta melalui token SQT. Untuk membantu kami dengan perubahan signifikan ini, kami telah merekrut pengembang baru untuk bergabung dengan kami bulan ini.
 
-## New Projects on SubQuery 🤝
+## Proyek Baru di SubQuery 🤝
 
 ![](https://miro.medium.com/max/4800/1*yUruZPSKP_0BA6mA72P8xg.gif)
 
-In August we launched several new projects on SubQuery including those with Subscan, Karura, Subscan, Polkaswap, and Soramitsu.
+Pada bulan Agustus kami meluncurkan beberapa proyek baru di SubQuery termasuk yang dengan Subscan, Karura, Subscan, Polkaswap, dan Soramitsu.
 
 For Karura, [SubQuery is being used to extract and query data from Karura's chain](https://subquery.medium.com/karura-integrates-with-subquery-to-aggregate-and-serve-defi-data-to-kusama-builders-d34f0e722311?source=your_stories_page-------------------------------------), making queries fast and efficient for [Karura's app](https://apps.karura.network/).
 
