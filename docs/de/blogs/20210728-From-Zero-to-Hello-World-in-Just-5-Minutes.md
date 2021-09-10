@@ -1,8 +1,8 @@
-# From Zero to Hello World in Just 5 Minutes
+# Von Null zur Hallo Welt in nur 5 Minuten
 
 ![](https://miro.medium.com/max/1400/1*g51P_PPoseNqEfCBgvpXXA.png)
 
-**We are working hard to help every developer learn how to use SubQuery to explore and transform their chain data so they can build intuitive dApps faster.**
+**Wir arbeiten hart daran, jedem Entwickler zu helfen, die Verwendung von SubQuery zum Erkunden und Transformieren seiner Kettendaten zu erlernen, damit er intuitive dApps schneller erstellen kann.**
 
 Today we launch our new [documentation website at doc.subquery.network](https://doc.subquery.network/). We have carefully redesigned it with our community in mind and we’re excited to share it with you.
 
