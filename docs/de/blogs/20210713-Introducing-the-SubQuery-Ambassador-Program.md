@@ -38,24 +38,24 @@ At SubQuery, we work hard to achieve what we do. Similarly, Ambassadors are expe
 
 Our Ambassador program has multiple tiers, each tier has different benefits and capabilities. You can move up tiers by participating in Ambassador activities and working hard for us.
 
-Once you have sent through an application, we will select candidates that align with our values. If selected you are placed in our trainee program and will receive an information package, expanding your understanding of SubQuery. After this, you can start to work through the trainee program by completing certain onboarding tasks (e.g. creating a SubQuery Project). We will host workshops throughout this process to support you.
+Once you have sent through an application, we will select candidates that align with our values. If selected you are placed in our trainee program and will receive an information package, expanding your understanding of SubQuery. After this, you can start to work through the trainee program by completing certain onboarding tasks (e.g. creating a SubQuery Project). Wir werden während des gesamten Prozesses Workshops veranstalten, um Sie zu unterstützen.
 
-Once you pass the trainee program, you can call yourself a SubQuery ambassador and will be accepted into our full program. From here on you can continue to work though the program and progress up the tiers, earning more rewards and benefits as you climb the ranks.
+Sobald Sie das Trainee-Programm bestanden haben, können Sie sich einen Sub-Query Botschafter nennen und werden in unser komplettes Programm aufgenommen. Von hier aus kannst du durch das Programm weiter arbeiten und Fortschritte machen, mehr Belohnungen und Vorteile zu verdienen, wenn du die Ränge steigst.
 
-[Apply Here](https://forms.gle/GXBbJ6LDpNfM2v1X6)
+[Hier anwenden](https://forms.gle/GXBbJ6LDpNfM2v1X6)
 
-## Ambassador Activities
+## Botschafter Aktivitäten
 
-SubQuery Ambassadors are able to contribute through four main areas, including event management, content creation, translation, and community moderation. You can participate in as many areas as you want, you’re not bound to any single one.
+SubQuery Ambassadors können in vier Hauptbereichen beitragen, darunter Eventmanagement, Inhaltserstellung, Übersetzungen und Community-Moderation. Du kannst in so vielen Bereichen mitmachen, wie du möchtest, du bist an keinen einzigen gebunden.
 
-**Event Management:** Build local communities by hosting, organising, and managing different events. Building a local community will be a key part of growing the SubQuery community. SubQuery will support you by providing funding for events, sending swag/merchandise to be given away, as well as attending Q&As or online events as speakers or in AMA sessions.
+**Veranstaltungsmanagement:** Bauen Sie lokale Gemeinschaften auf, indem Sie verschiedene Veranstaltungen ausrichten, organisieren und verwalten. Der Aufbau einer lokalen Community wird ein wichtiger Teil der wachsenden SubQuery Community sein. SubQuery unterstützt Sie durch die Bereitstellung von Geldern für Veranstaltungen, das Versenden von Swag/Merchandise zum Verschenken sowie die Teilnahme an Q&As oder Online-Veranstaltungen als Referenten oder in AMA-Sitzungen.
 
-**Content Creation:** We have a long list of content and support material that we need help creating. Remember, our success relies on the ability for our customers to build amazing things on our service, so we need your help to make that easier.
+**Erstellung von Inhalten:** Wir haben eine lange Liste von Inhalten und unterstützendem Material, bei deren Erstellung wir Hilfe benötigen. Denken Sie daran, dass unser Erfolg von der Fähigkeit unserer Kunden abhängt, erstaunliche Dinge auf unserem Service aufzubauen damit wir Ihre Hilfe brauchen, um das zu vereinfachen.
 
-Content includes videos, infographics, tutorials, animations, or any other related material, to inform, educate, or inspire community members within the SubQuery Ecosystem. SubQuery will support Content Creators by providing branding assets and expertise. We’ll also use SubQuery’s marketing channels to increase awareness of your content (and yourself).
+Der Inhalt umfasst Videos, Infografiken, Tutorials, Animationen oder andere verwandte Materialien, um Mitglieder der Community innerhalb des SubQuery Ecosystems zu informieren, zu erziehen oder zu inspirieren. SubQuery unterstützt Content Creators, indem es Branding-Assets und Fachwissen bereitstellt. Wir nutzen auch die Marketingkanäle von SubQuery, um das Bewusstsein für Ihre Inhalte zu schärfen.
 
-**Translation:** Our customers don’t just speak english! We need your help making SubQuery more accessible by translating our content into your own language, as well as helping sharing the word to our international community.
+**Übersetzung:** Unsere Kunden sprechen nicht nur Englisch! Wir brauchen Ihre Hilfe, um SubQuery leichter zugänglich zu machen, indem wir unseren Inhalt in Ihre eigene Sprache übersetzen und das Wort an unsere internationale Gemeinschaft weitergeben.
 
-**Community Moderation:** Moderators will help grow the SubQuery community by ensuring that official community channels are active and engaging. SubQuery will support Moderators by promoting the channels that they monitor, as well as provide guidelines for our expectations.
+**Community-Moderatoren:** Moderatoren werden helfen, die SubQuery-Community zu erweitern, indem sie sicherstellen, dass offizielle Community-Kanäle aktiv und engagiert sind. SubQuery unterstützt Moderatoren durch die Förderung der von ihnen überwachten Kanäle sowie durch die Bereitstellung von Richtlinien für unsere Erwartungen.
 
 ![](https://miro.medium.com/max/1400/1*xj6_UL1ZWYzlLmlVk25JzQ.png)
