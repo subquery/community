@@ -7,14 +7,14 @@ Selamat datang di pembaruan bulanan terbaru dari SubQuery. Melanjutkan dari bula
 Dalam pembaruan bulanan ini:
 
 -   Duta Onboarding 👩‍💼
--   Kicked off work on the SubQuery Network 🏗
--   Huge Community Growth 🚀
--   New Projects on SubQuery 🤝
--   AMA with DotMarketCap 🎙
--   Activity in China 🇨🇳
--   Delivering the 2nd Milestone of Polkadot Common API ✅
+-   Memulai pekerjaan di Jaringan SubQuery 🏗
+-   Pertumbuhan Komunitas yang Besar 🚀
+-   Proyek Baru di SubQuery 🤝
+-   AMA dengan DotMarketCap 🎙
+-   Aktivitas di Cina 🇨🇳
+-   Menyampaikan Milestone ke-2 dari Polkadot Common API ✅
 
-## Onboarding Ambassadors 👩‍💼
+## Duta Onboarding 👩‍💼
 
 ![](https://miro.medium.com/max/1400/0*_nOcsPjhQxta_FPH)
 
