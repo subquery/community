@@ -1,10 +1,10 @@
-# June 2021 Recap
+# Juni 2021 Zusammenfassung
 
-## Things are getting busy 🔥
+## Es wird hektisch 🔥
 
-In this monthly update:
+In diesem monatlichen Update:
 
--   Whitepaper Release 🎊
+-   Whitepaper-Veröffentlichung 🎊
 -   Team Expansion 👩💻
 -   Staging Deployments 📥
 -   SubQuery Dictionary Service 📖
