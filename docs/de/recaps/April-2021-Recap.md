@@ -35,14 +35,14 @@ In April, OnFinality hit a long term goal of 100 million in a single day, in fac
 
 OnFinality also [delivered their treasury proposal](https://kusama.polkassembly.io/treasury/72) for the second milestone to improve the scalability of their API service. Intelligent routing that allows them to maximise the use of different clusters of nodes across their user base in different geographic regions. SubQuery relies on this infrastructure so it’s important to note the continued investment and improvements here. The past month has demonstrated how critical it is to continue to invest in scale so that we can continue to provide the best service every day.
 
--   Our CEO Sam Zou presented _Cyber future on Parachains_ online event with Web3, Acala, Polkawarriors, and Bitfwd
+-   Unser CEO Sam Zou präsentierte das Online-Event _Cyber Future on Parachains_ mit Web3, Acala, Polkawarriors und Bitfwd
 
--   Our Head of Business Development James Bayly joined an interesting virtual fireside chat with DFG and James Wo as part of their DFG Talks series.
+-   Unser Head of Business Development James Bayly nahm im Rahmen ihrer DFG Talks-Reihe an einem interessanten virtuellen Kamingespräch mit der DFG und James Wo teil.
 
--   Our time in the Berkeley Xcelerator has started — we’ve attended some excellent sessions so far
+-   Unsere Zeit im Berkeley Xcelerator hat begonnen – wir haben bisher einige ausgezeichnete Sessions besucht
 -   We’ve made some big improvements to our [SubQuery website](https://subquery.network/)
--   A new release of [improved documentation](https://doc.subquery.network/) for SubQuery developers
--   Our offices are improving, we’re lucky to be able to work in the same space here in New Zealand
+-   Eine neue Version von [verbesserter Dokumentation](https://doc.subquery.network/) für SubQuery Entwickler
+-   Unsere Büros verbessern sich, wir haben das Glück, hier in Neuseeland im selben Raum arbeiten zu können
 
 ![](https://miro.medium.com/max/1400/0*cOsJ2TLa4yqpY0Ig)
 
