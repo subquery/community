@@ -4,13 +4,13 @@ Hari ini kita akan menjelajah tujuan yang kita miliki dengan SubQuery dan bebera
 
 SubQuery saat ini menyediakan data pengindeksan dan transformasi secara terpusat. Meskipun ini memungkinkan kami untuk memberi daya pada beberapa proyek Polkadot teratas; Aplikasi DeFi seperti Acala dan Bifrost, wallet seperti Fearless Wallet, platform NFT seperti [KodaDot](https://kodadot.xyz/), bridge cross-chain seperti [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia), dan platform analitik seperti [SubVis](https://subvis.io/) - ini memiliki sisi negatifnya.
 
-Ini mengharuskan pengguna kami untuk memercayai layanan yang kami sediakan, dan membawa risiko yang terkait dengan layanan terpusat, seperti potensi kegagalan server atau pemadaman yang dapat melumpuhkan aplikasi Anda. Ini adalah alasan utama mengapa kami beralih ke masa depan yang terdesentralisasi.
+Ini mengharuskan pengguna kami untuk mempercayai layanan yang kami sediakan, dan membawa risiko yang terkait dengan layanan terpusat, seperti potensi kegagalan server atau pemadaman yang dapat melumpuhkan aplikasi Anda. Ini adalah alasan utama mengapa kami beralih ke masa depan yang terdesentralisasi.
 
 ![](https://miro.medium.com/max/868/1*CPksnN9_jyMGQ0sSbiJvDQ.png)
 
 Keunggulan Kompetitif kami
 
-Kami memahami bahwa Jaringan SubQuery bersaing dengan banyak pemain di industri data terdesentralisasi, SubQuery berupaya memberikan manfaat unik melalui banyak keunggulan kompetitif. Prinsip panduan kami, dan apa yang kami harapkan menjadi kelebihan utama, adalah kesederhanaan dan fleksibilitas jaringan kami.
+Kami memahami bahwa SubQuery Network bersaing dengan banyak pemain di industri data terdesentralisasi, SubQuery berupaya memberikan manfaat unik melalui banyak keunggulan kompetitif. Prinsip panduan kami, dan apa yang kami harapkan menjadi kelebihan utama, adalah kesederhanaan dan fleksibilitas jaringan kami.
 
 ## Fleksibilitas
 
