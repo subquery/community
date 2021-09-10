@@ -37,13 +37,13 @@ OnFinality juga [menyampaikan proposal perbendaharaan mereka](https://kusama.pol
 
 -   CEO kami Sam Zou mempresentasikan _Cyber ​​future on Parachains_ acara online dengan Web3, Acala, Polkawariors, dan Bitfwd
 
--   Our Head of Business Development James Bayly joined an interesting virtual fireside chat with DFG and James Wo as part of their DFG Talks series.
+-   Kepala Pengembangan Bisnis kami James Bayly bergabung dengan obrolan fireside virtual yang menarik dengan DFG dan James Wo sebagai bagian dari seri DFG Talks mereka.
 
--   Our time in the Berkeley Xcelerator has started — we’ve attended some excellent sessions so far
--   We’ve made some big improvements to our [SubQuery website](https://subquery.network/)
--   A new release of [improved documentation](https://doc.subquery.network/) for SubQuery developers
--   Our offices are improving, we’re lucky to be able to work in the same space here in New Zealand
+-   Waktu kami di Berkeley Xcelerator telah dimulai — sejauh ini kami telah menghadiri beberapa sesi yang luar biasa
+-   Kami telah membuat beberapa peningkatan besar pada [website SubQuery](https://subquery.network/)
+-   Rilis baru [dokumentasi yang ditingkatkan](https://doc.subquery.network/) untuk pengembang SubQuery
+-   Kantor kami sedang berkembang, kami beruntung dapat bekerja di tempat yang sama di sini di Selandia Baru
 
 ![](https://miro.medium.com/max/1400/0*cOsJ2TLa4yqpY0Ig)
 
-Expect some big news coming in May for our community — we’ve been working on something massive and we can’t wait to share it. In the meantime, have a go creating your own SubQuery project by following our [new quick start guide here](https://doc.subquery.network/quickstart.html).
+Mengharapkan beberapa berita besar datang pada bulan Mei untuk komunitas kami — kami telah mengerjakan sesuatu yang besar dan kami tidak sabar untuk membagikannya. Sementara itu, cobalah membuat proyek SubQuery Anda sendiri dengan mengikuti [panduan memulai cepat baru kami di sini](https://doc.subquery.network/quickstart.html).
