@@ -40,7 +40,7 @@ Ya! Upaya [memindahkan SubQuery ke jaringan yang terdesentralisasi dan ter-toke
 
 Pada bulan Agustus kami meluncurkan beberapa proyek baru di SubQuery termasuk yang dengan Subscan, Karura, Subscan, Polkaswap, dan Soramitsu.
 
-For Karura, [SubQuery is being used to extract and query data from Karura's chain](https://subquery.medium.com/karura-integrates-with-subquery-to-aggregate-and-serve-defi-data-to-kusama-builders-d34f0e722311?source=your_stories_page-------------------------------------), making queries fast and efficient for [Karura's app](https://apps.karura.network/).
+Untuk Karura, [SubQuery digunakan untuk mengekstrak dan membuat kueri data dari Karura chain](https://subquery.medium.com/karura-integrates-with-subquery-to-aggregate-and-serve-defi-data-to-kusama-builders-d34f0e722311?source=your_stories_page-------------------------------------), membuat kueri menjadi cepat dan efisien untuk [Karura app](https://apps.karura.network/).
 
 SubQuery's service is playing a key role in [Subscan](https://www.subscan.io/) by [providing fast data on transactions](https://subquery.medium.com/subscans-multi-signature-tool-powered-by-subquery-926da3e4fc25?source=your_stories_page-------------------------------------) for any given multi signature address, thereby improving the UX and allowing for more advanced features.
 
