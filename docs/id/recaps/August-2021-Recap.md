@@ -56,28 +56,28 @@ Dalam kedua kasus tersebut, kami berterima kasih atas feedback yang luar biasa s
 
 ## AMA dengan DotMarketCap 🎙
 
-We were delighted to be hosted by DotMarketCap on August 5th for an AMA with Sam and James. The questions from the audience ranged from areas such as DeFi and NFTs through to a lot of questions about our plans for growth and our future. We shared insights on why we began our project in Polkadot and if our token will be launched as an ERC-20 or not.
+Kami senang dijamu oleh DotMarketCap pada tanggal 5 Agustus untuk AMA dengan Sam dan James. Pertanyaan dari audiens berkisar dari area seperti DeFi dan NFT hingga banyak pertanyaan tentang rencana kami untuk pertumbuhan dan masa depan kami. Kami berbagi wawasan tentang mengapa kami memulai proyek kami di Polkadot dan apakah token kami akan diluncurkan sebagai ERC-20 atau tidak.
 
-[You can read the interview here](https://dotmarketcap.com/blog-detail/288/ama30-recap-polkawarriors-x-subquery).
+[Anda dapat membaca interviewnya di sini](https://dotmarketcap.com/blog-detail/288/ama30-recap-polkawarriors-x-subquery).
 
-## Activity in China 🇨🇳
+## Aktivitas di China 🇨🇳
 
 ![](https://miro.medium.com/max/1400/0*A5oqsryFRbGX0MDx)
 
-Siqi, who leads our business development in China, has had a busy month with a number of [online panel discussions alongside Moonbeam](https://twitter.com/SubQueryNetwork/status/1425293137103122432/photo/1), Acala, Astar and Phala. In addition she has participated in AMA's organised by Polkadot on August 11th and an AMA hosted by [ODaily](http://www.odaily.com/) and Acala on August 13th.
+Siqi, yang memimpin pengembangan bisnis kami di China, menjalani bulan yang sibuk dengan sejumlah [diskusi panel online bersama Moonbeam](https://twitter.com/SubQueryNetwork/status/1425293137103122432/photo/1), Acala, Astar, dan Phala. Selain itu, dia telah berpartisipasi dalam AMA yang diselenggarakan oleh Polkadot pada 11 Agustus dan AMA yang diselenggarakan oleh [ODaily](http://www.odaily.com/) dan Acala pada 13 Agustus.
 
-We are looking forward to growing our Chinese community significantly in the coming months through activities such as hackathons. As such, [we will be running a workshop with Encode Club](https://www.eventbrite.co.uk/e/polkadot-hackathon-subquery-workshop-tickets-167321106935?aff=ebdsoporgprofile) and running a hackathon with OneBlock+ to help introduce SubQuery to new audiences.
+Kami berharap dapat mengembangkan komunitas China kami secara signifikan dalam beberapa bulan mendatang melalui kegiatan seperti hackathon. Oleh karena itu, [kami akan menjalankan workshop dengan Encode Club](https://www.eventbrite.co.uk/e/polkadot-hackathon-subquery-workshop-tickets-167321106935?aff=ebdsoporgprofile) dan menjalankan hackathon dengan OneBlock+ untuk membantu memperkenalkan SubQuery kepada audiens baru.
 
-## Delivering the 2nd Milestone of Polkadot Common API ✅
+## Menyampaikan Milestone ke-2 dari Polkadot Common API ✅
 
-We are pleased to make progress in the [development of an open-source dApp API ](https://docs.google.com/document/d/13L8HBwB6VB-n2g274FFFJKORYPJsq744C6H8iEDQ0-0/edit)for Kusama in conjunction with the team at [Fearless Wallet](https://fearlesswallet.io/). This work is being supported by a Kusama Treasury grant.
+Kami senang membuat kemajuan dalam [pengembangan open source dApp API ](https://docs.google.com/document/d/13L8HBwB6VB-n2g274FFFJKORYPJsq744C6H8iEDQ0-0/edit)untuk Kusama bersama dengan tim di [Fearless Wallet](https://fearlesswallet.io/). Pekerjaan ini didukung oleh Kusama Treasury grant.
 
-Nearing completion of the second milestone in this project means that there will soon be a defined and common core data API interface for Polkadot, Kusama, and other parachains which will attract more developers to the ecosystem. Making development intuitive and as painless as possible is one of our key objectives!
+Mendekati penyelesaian milestone kedua dalam proyek ini berarti bahwa akan segera ada interface API data inti yang ditetapkan dan umum untuk Polkadot, Kusama, dan parachains lainnya yang akan menarik lebih banyak pengembang ke ekosistem. Membuat pengembangan menjadi intuitif dan semudah mungkin adalah salah satu tujuan utama kami!
 
 *****
 
-As always, please join our social channels to stay updated on our latest news and announcements.
+Seperti biasa, silakan bergabung dengan saluran sosial kami untuk tetap mendapatkan berita dan pengumuman terbaru kami.
 
-James, Sam, and the SubQuery Team
+James, Sam, dan Tim SubQuery
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
