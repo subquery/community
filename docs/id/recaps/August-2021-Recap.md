@@ -1,12 +1,12 @@
-# August 2021 Recap
+# Rekap Agustus 2021
 
-**Expanding Our Reach**
+**Memperluas Jangkauan Kami**
 
-Welcome to the latest monthly update from SubQuery. Following on from last month, August has seen rapid expansion in the growth of our Community around the world! We have also been busy working on decentralising our platform as we prepare for a TGE in the coming months.
+Selamat datang di pembaruan bulanan terbaru dari SubQuery. Melanjutkan dari bulan lalu, Agustus telah melihat ekspansi pesat dalam pertumbuhan Komunitas kami di seluruh dunia! Kami juga sibuk bekerja untuk mendesentralisasikan platform kami saat kami mempersiapkan TGE dalam beberapa bulan mendatang.
 
-In this monthly update:
+Dalam pembaruan bulanan ini:
 
--   Onboarding Ambassadors 👩‍💼
+-   Duta Onboarding 👩‍💼
 -   Kicked off work on the SubQuery Network 🏗
 -   Huge Community Growth 🚀
 -   New Projects on SubQuery 🤝
