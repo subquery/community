@@ -29,20 +29,20 @@ Sie können schnell den Mindesteinsatzbetrag sehen, der erforderlich ist, damit 
 Dieser SubQuery Explorer ist nur der erste Satz unserer Pläne zum Aufbau eines Community-Hubs für Polkadot-Daten. Wir werden folgende Funktionen verfolgen:
 
 -   Wir konzentrieren uns auf Community-Tools, sodass Sie eine ausführlichere Entwicklerdokumentation, leicht verständliche Tutorials und Beispielprojekte erwarten können, die einige wirklich coole Anwendungsfälle für die Daten hervorheben, die SubQuery liefert.
--   More SubQuery projects will slowly come online based on community feedback,we’d love some ideas on what you’d love to see next — reach out on any of our social channels (see below)
--   We’re going to build a partner platform, so that our community can build and upload their own SubQuery projects and we’ll manage and host them for you for free.
+-   Weitere SubQuery-Projekte werden nach und nach auf Grundlage des Community-Feedbacks online gestellt.Wir würden uns über einige Ideen freuen, was Sie als Nächstes sehen möchten – kontaktieren Sie uns auf einem unserer sozialen Kanäle (siehe unten)
+-   Wir werden eine Partnerplattform aufbauen, damit unsere Community ihre eigenen SubQuery-Projekte erstellen und hochladen kann und wir sie kostenlos für Sie verwalten und hosten.
 
-Start querying data on the new [SubQuery Explorer](https://explorer.subquery.network/)
+Beginnen Sie mit der Datenabfrage im neuen [SubQuery Explorer](https://explorer.subquery.network/)
 
-Build your own SubQuery project by following our [SubQuery docs](https://doc.subquery.network/)
+Erstellen Sie Ihr eigenes SubQuery-Projekt, indem Sie unseren [SubQuery-Dokumenten](https://doc.subquery.network/) folgen
 
-Visit our [website](https://subquery.network/)
+Besuchen Sie unsere [-Website](https://subquery.network/)
 
-**Talk to us on:**
+**Sprechen Sie mit uns auf:**
 
 -   [hello@subquery.network](mailto:hello@subquery.network)
 -   [Discord](https://discord.com/invite/78zg8aBSMG)
--   [Telegram](https://t.me/subquerynetwork)
+-   [Telegramm](https://t.me/subquerynetwork)
 -   [Twitter](https://twitter.com/subquerynetwork)
 -   [Matrix](https://matrix.to/#/#subquery:matrix.org)
 -   [LinkedIn](https://www.linkedin.com/company/subquery)
