@@ -1,4 +1,4 @@
-# Announcing the SubQuery Explorer
+# Mengumumkan SubQuery Explorer
 
 Sejak mengumumkan SubQuery kepada dunia sebulan yang lalu, tanggapan dan feedback yang kami terima dari komunitas Polkadot sangat positif. Kami telah memperoleh ribuan pengikut di channel kami, dan telah ada lebih dari 1.353 pemasangan dari NPM. Sangat menginspirasi untuk menerima semua pesan dukungan, dan melihat keterlibatan dari komunitas. **Sudah waktunya bagi kami untuk memberikan sesuatu kembali!**
 
