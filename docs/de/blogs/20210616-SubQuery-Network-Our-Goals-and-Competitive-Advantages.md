@@ -1,20 +1,20 @@
-# SubQuery Network - Our Goals and Competitive Advantages
+# SubQuery-Netzwerk - Unsere Ziele und Wettbewerbsvorteile
 
-Today we’re going to explore the goals that we have with SubQuery and some of the competitive advantages that we think make the SubQuery Network better than our competitors.
+Heute werden wir die Ziele erforschen, die wir mit SubQuery haben, und einige der Wettbewerbsvorteile, die unserer Meinung nach das SubQuery Netzwerk besser machen als unsere Konkurrenten.
 
-SubQuery’s currently provided indexing and transformation data in a centralised way. Although this has allowed us to power some of the top Polkadot projects; DeFi apps like Acala and Bifrost, wallets like Fearless Wallet, NFT platforms like [KodaDot](https://kodadot.xyz/), cross-chain bridges like [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia), and analytics platforms like [SubVis](https://subvis.io/) — it has it’s downside.
+Die derzeit von SubQuery bereitgestellten Indexierungs- und Transformationsdaten werden zentralisiert bereitgestellt. Obwohl dies es uns ermöglicht hat, einige der Top-Polkadot-Projekte zu betreiben; DeFi-Apps wie Acala und Bifrost, Wallets wie Fearless Wallet, NFT-Plattformen wie [KodaDot](https://kodadot.xyz/), Cross-Chain-Bridges wie [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia) und Analyseplattformen wie [SubVis](https://subvis.io/) – es hat seine Kehrseite.
 
-It requires our users to trust the service we provide, and carries risks associated with a centralised service, like potential server failures or outages that can cripple your applications. This is a major reason why we are moving to a decentralised future.
+Es erfordert, dass unsere Benutzer dem von uns bereitgestellten Service vertrauen, und birgt Risiken, die mit einem zentralisierten Service verbunden sind, wie potenzielle Serverausfälle oder Ausfälle, die Ihre Anwendungen lahmlegen können. Das ist ein wichtiger Grund, warum wir uns in eine dezentralisierte Zukunft bewegen.
 
 ![](https://miro.medium.com/max/868/1*CPksnN9_jyMGQ0sSbiJvDQ.png)
 
-Our Competitive Advantages
+Unsere Wettbewerbsvorteile
 
-We understand that The SubQuery Network is competing against many players in the decentralised data industry, SubQuery looks to provide unique benefits through a multitude of competitive advantages. Our guiding principles, and what we expect to be the main advantages, are the simplicity and flexibility of our network.
+Wir verstehen, dass das SubQuery Network mit vielen Akteuren in der dezentralen Datenindustrie konkurriert, SubQuery versucht, durch eine Vielzahl von Wettbewerbsvorteilen einzigartige Vorteile zu bieten. Unsere Leitprinzipien und unsere wichtigsten Vorteile sind die Einfachheit und Flexibilität unseres Netzwerks.
 
-## Flexibility
+## Flexibilität
 
-Our first advantage is our flexibility. SubQuery is open source, so anyone has the freedom to define the data set that is specific to their needs, tailored to their applications. Anstatt Abfragen von verschiedenen API-Endpunkten kombinieren zu müssen, können Sie die Form Ihrer APIs selbst definieren. Es spart Zeit, Geld und bietet Ihren Nutzern ein deutlich besseres Erlebnis.
+Unser erster Vorteil ist unsere Flexibilität. SubQuery ist Open Source, sodass jeder die Freiheit hat, den für seine Bedürfnisse spezifischen Datensatz zu definieren, der auf seine Anwendungen zugeschnitten ist. Anstatt Abfragen von verschiedenen API-Endpunkten kombinieren zu müssen, können Sie die Form Ihrer APIs selbst definieren. Es spart Zeit, Geld und bietet Ihren Nutzern ein deutlich besseres Erlebnis.
 
 ## Einfachheit
 
