@@ -1,4 +1,4 @@
-# SubQuery Delivers its Open Source SDK Following a Web3 Foundation Grant
+# SubQuery Memberikan SDK Open Source Setelah Mendapatkan Grant Web3 Foundation
 
 ## Para developer sekarang dapat mentransformasi dan mengkueri data dunia untuk masa depan Web3
 
