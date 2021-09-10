@@ -20,7 +20,7 @@ Kedua, ada paket node SubQuery yang memuat proyek SubQuery yang ditentukan yang 
 
 Kami sangat berterima kasih atas dukungan yang telah diberikan oleh Web3 Foundation untuk membantu kami melaksanakan proyek ini untuk komunitas. Web3 Foundation mendanai tim penelitian dan pengembangan yang membangun stack teknologi web terdesentralisasi. Didirikan di Zug, Swiss oleh salah satu pendiri Ethereum dan mantan kepala petugas teknologi Dr. Gavin Wood. Polkadot adalah proyek unggulan Foundation.
 
-Kami akan fokus membangun layanan yang dihosting terkelola berdasarkan penawaran ini yang akan lebih berkinerja dan dapat diskalakan. Kami akan menyediakan infrastruktur publik tepercaya yang akan membangun node SubQuery produksi yang kuat dari proyek SubQuery yang diunggah. Layanan kemudian akan mengindeks dan bertahan dalam chain state, dan menyediakan endpoint GraphQL produksi yang dapat menggantikan implementasi yang dihosting sendiri. Kami akan fokus pada hal ini sehingga semua orang dapat fokus membangun dan mengembangkan dApp mereka.
+Kami akan fokus membangun layanan hosted yang terkelola berdasarkan penawaran ini yang akan lebih berkinerja dan dapat diskalakan. Kami akan menyediakan infrastruktur publik tepercaya yang akan membangun node SubQuery produksi yang kuat dari proyek SubQuery yang diunggah. Layanan kemudian akan mengindeks dan bertahan dalam chain state, dan menyediakan endpoint GraphQL produksi yang dapat menggantikan implementasi self-hosted. Kami akan fokus pada hal ini sehingga semua orang dapat fokus membangun dan mengembangkan dApp mereka.
 
 Kami melihat potensi Polkadot sejak dini dan tepat sejak awal terasa wajar untuk memfokuskan upaya kami di sana. Premis inti dari Polkadot adalah untuk menciptakan komunitas developer, pengguna, dan bisnis yang berkembang yang akan memanfaatkan interoperabilitas multichain - bahwa komunitas akan membutuhkan layanan yang memungkinkan mereka untuk menemukan dan mengkonsumsi data dengan andal dengan cepat.
 
@@ -30,7 +30,7 @@ Mulailah di [repository Github SubQuery.](https://github.com/OnFinality-io/subql
 
 Baca [dokumen SubQuery](https://doc.subquery.network/) kami
 
-[Kunjungi situs web baru kami](https://subquery.network/)
+[Kunjungi website baru kami](https://subquery.network/)
 
 Pelajari lebih lanjut tentang Web3 Foundation dengan mengunjungi [website](https://web3.foundation/) mereka. Untuk mengikuti perkembangan terbaru di Web3 Foundation, bergabunglah dengan mereka di [Reddit](https://www.reddit.com/r/dot/) atau [Twitter](https://twitter.com/web3foundation).
 
