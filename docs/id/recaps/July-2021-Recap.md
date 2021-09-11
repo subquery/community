@@ -1,24 +1,24 @@
-# July 2021 Recap
+# Rekap Juli 2021
 
 ![](https://miro.medium.com/max/1400/1*2z3_9s-SY7dAvfe6xf9IDA.png)
 
-## Community, Community, Community!
+## Komunitas, Komunitas, Komunitas!
 
 
-Welcome to another monthly update from SubQuery. As you all know, community is a key element for every successful crypto project — this month we’ve started to expand our focus in this area.
+Selamat datang di pembaruan bulanan lainnya dari SubQuery. Seperti yang Anda semua tahu, komunitas adalah elemen kunci untuk setiap proyek crypto yang sukses — bulan ini kami mulai memperluas fokus kami di area ini.
 
-In this monthly update:
+Dalam pembaruan bulanan ini:
 
 -   Ambassador Program 👩💼
--   DApp API Grant Work 🏗
--   Patract Open Platform 🌃
--   Parity’s Relaychain podcast 🎙
--   Documentation Improvements 📑
+-   Pekerjaan Hibah API DApp 🏗
+-   Patract Platform Terbuka 🌃
+-   Podcast Relaychain Parity 🎙
+-   Perbaikan Dokumentasi 📑
 
 
 ![](https://miro.medium.com/max/1400/0*pe3Z3x1lGb_RLa5x)
 
-We understand that one of our biggest strengths is our community, and so [we recently launched our ambassador program](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) for communities around the world. We were overwhelmed by the interest in our program, with almost 500 applications received in under a fortnight!
+Kami memahami bahwa salah satu kekuatan terbesar kami adalah komunitas kami, jadi [kami baru saja meluncurkan ambassador program kami](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) untuk komunitas di seluruh dunia. Kami sangat tertarik dengan program kami, dengan hampir 500 permohonan diterima dalam waktu kurang dari dua minggu!
 
 We’re in the process of onboarding our first batch of ambassadors very shortly. We’re particularly excited here because it means that everyone in our community can expect to see better local representation and support in different communities!
 
