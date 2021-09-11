@@ -10,23 +10,23 @@ Sejumlah besar data live dan real time ini berasal dari SubQuery, khususnya dari
 
 > *"SubQuery, dengan lebih dari 60 proyek dan jutaan permintaan kueri per hari, serta data dari Subvis, adalah tempat yang tepat untuk mendukung dan memberi DotMarketCap akses tercepat dan paling akurat ke data Crowdloan & Auction. Dengan sumber data yang andal dan UI UX khas DMC, kami yakin kemitraan ini akan menghadirkan pengalaman hebat dan akses mudah ke komunitas Polkadot."* - Sang Tran (Pendiri DotMarketCap)
 
-Kusama parachain auction is the most important event this year, and with [Auction & Crowdloan tracking](https://dotmarketcap.com/auction), you can stay up to date of the fierce competition between projects, as well as support your favourite candidates to win a parachain slot via their crowdloan.
+Lelang parachain Kusama adalah acara terpenting tahun ini, dan dengan [ pelacakan Lelang & crowdloan](https://dotmarketcap.com/auction), Anda dapat mengikuti perkembangan persaingan sengit antar proyek, serta mendukung kandidat favorit Anda untuk memenangkan slot parachain melalui crowdloan mereka.
 
 ![](https://cdn-images-1.medium.com/max/1600/1*n_y-1CUv1BcU2bzCs15djA.png)
 
-For SubQuery, this is a realisation of our goal to build an open community marketplace of data in our Explorer. This is the best example so far of a huge customer consuming data from a SubQuery project built and maintained by another team. It shows how symbiotic the Polkadot ecosystem is, and how teams work together to achieved a shared goal of a decentralised future
+Untuk SubQuery, ini adalah realisasi dari tujuan kami untuk membangun marketplace data komunitas terbuka di Explorer kami. Ini adalah contoh terbaik sejauh ini dari pelanggan besar yang menggunakan data dari proyek SubQuery yang dibangun dan dikelola oleh tim lain. Ini menunjukkan bagaimana simbiosis ekosistem Polkadot, dan bagaimana tim bekerja sama guna mencapai tujuan bersama untuk masa depan yang terdesentralisasi
 
-> *"For sure DotMarketCap 2.0 couldn’t be completed without the support of our partners: SubQuery and [Subvis.io](http://subvis.io/). All the data we used for our auction & crowdloan page was taken from [Subvis.io](http://subvis.io/). Thanks to this cooperation, things are much easier for us to get access to decentralised data. We would like to express our gratitude to Sam Zou, James Bayly and the entire SubQuery team."* - DotMarketCap
+> *"Yang pasti DotMarketCap 2.0 tidak dapat diselesaikan tanpa dukungan mitra kami: SubQuery dan [Subvis.io](http://subvis.io/). Semua data yang kami gunakan untuk halaman lelang & crowdloan kami diambil dari [Subvis.io](http://subvis.io/). Berkat kerja sama ini, segalanya menjadi lebih mudah bagi kami untuk mendapatkan akses ke data yang terdesentralisasi. Kami ingin mengucapkan terima kasih kepada Sam Zou, James Bayly, dan seluruh tim SubQuery."* - DotMarketCap
 
-[View the SubVis data source here](https://explorer.subquery.network/subquery/subvis-io/kusama-auction)
+[Lihat sumber data SubVis di sini](https://explorer.subquery.network/subquery/subvis-io/kusama-auction)
 
 ---
 
 ![SubQuery x SubVis.png](https://cdn-images-1.medium.com/max/1600/1*ZOtmJdlgr-5H4BAt2gVKLw.png)
 
-## **About DotMarketCap**
+## **Tentang DotMarketCap**
 
-DotMarketCap is a non-profit project funded by Illusionist Group, it is a website where you can find data of prices, charts, capitalization as well as the latest information and analysis of entire projects on the Polkadot ecosystem. After moths of improving, DotMarketCap has finally shown up with brand-new and interesting features. Visit dotmarketcap.com for more information.
+DotMarketCap adalah proyek non-profit yang didanai oleh Illusionist Group, merupakan website di mana Anda dapat menemukan data harga, grafik, kapitalisasi serta informasi dan analisis terbaru dari seluruh proyek di ekosistem Polkadot. After moths of improving, DotMarketCap has finally shown up with brand-new and interesting features. Visit dotmarketcap.com for more information.
 
 [Website](http://dotmarketcap.com/) | [Telegram](https://t.me/DotMarketCap_ANN) | [Twitter](https://twitter.com/DotMarketCap?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
