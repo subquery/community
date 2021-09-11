@@ -2,7 +2,7 @@
 
 **Memperluas Jangkauan Kami**
 
-Selamat datang di pembaruan bulanan terbaru dari SubQuery. Melanjutkan dari bulan lalu, Agustus telah melihat ekspansi pesat dalam pertumbuhan Komunitas kami di seluruh dunia! Kami juga sibuk bekerja untuk mendesentralisasikan platform kami saat kami mempersiapkan TGE dalam beberapa bulan mendatang.
+Selamat datang di pembaruan bulanan terbaru dari SubQuery. Melanjutkan dari bulan lalu, Agustus terlihat mendapat ekspansi pesat dalam pertumbuhan Komunitas kami di seluruh dunia! Kami juga sibuk bekerja untuk mendesentralisasikan platform kami yang mana kami sedang mempersiapkan TGE dalam beberapa bulan mendatang.
 
 Dalam pembaruan bulanan ini:
 
