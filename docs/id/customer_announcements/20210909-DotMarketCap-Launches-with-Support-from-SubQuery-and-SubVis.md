@@ -1,4 +1,4 @@
-# DotMarketCap 2.0 Diluncurkan dengan Dukungan dari SubQuery dan SubVis
+# DotMarketCap 2.0 Meluncur dengan Dukungan dari SubQuery dan SubVis
 
 ![](https://cdn-images-1.medium.com/max/1600/1*fIxEXupCMUaaMsWQbA7zFQ.gif)
 
