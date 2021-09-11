@@ -6,25 +6,25 @@ Selamat datang di pembaruan bulanan terbaru dari SubQuery. Melanjutkan dari bula
 
 Dalam pembaruan bulanan ini:
 
--   Ambassador Onboarding 👩‍💼
--   Memulai pekerjaan di Jaringan SubQuery 🏗
+-   Onboarding Ambassador 👩‍💼
+-   Memulai pekerjaan di SubQuery Network 🏗
 -   Pertumbuhan Komunitas yang Besar 🚀
 -   Proyek Baru di SubQuery 🤝
 -   AMA dengan DotMarketCap 🎙
 -   Aktivitas di Cina 🇨🇳
 -   Menyampaikan Milestone ke-2 dari Polkadot Common API ✅
 
-## Ambassador Onboarding 👩‍💼
+## Onboarding Ambassador 👩‍💼
 
 ![](https://miro.medium.com/max/1400/0*_nOcsPjhQxta_FPH)
 
-Setelah [meluncurkan program Ambassador kami](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) bulan lalu, kami kagum dengan antusiasme komunitas dan kualitas para peserta. Hingga saat ini, kami telah menerima kurang dari 2.000 aplikasi hampir di setiap benua (kami memanggil aplikasi dari Antartika ️) dan sejauh ini telah menerima lebih dari 30 orang.
+Setelah [meluncurkan program Ambassador kami](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) bulan lalu, kami kagum dengan antusiasme komunitas dan kualitas para peserta. Hingga saat ini, kami telah menerima kurang dari 2.000 aplikasi hampir di setiap benua (kami memanggil lamaran dari Antartika ️) dan sejauh ini telah menerima lebih dari 30 orang.
 
 Tre telah melakukan pekerjaan yang sangat baik dalam memimpin inisiatif ini dan [terlibat dengan komunitas di Discord](https://discord.com/invite/78zg8aBSMG). Karena kami telah melihat manfaat dari memiliki hubungan yang lebih dekat dengan pendukung SubQuery, kami akan memperluas tim dalam beberapa minggu ke depan, jadi harap bersabar jika Anda belum mendengar kabar dari kami!
 
 ## Pertumbuhan Komunitas yang Besar🚀
 
-Pertumbuhan di komunitas kami semakin cepat bulan ini dengan ledakan Discord kami mendekati 2.000 anggota yang bersemangat dan mendukung. Kami juga telah mengembangkan audiens Twitter kami menjadi lebih dari 6.000 pengikut.
+Pertumbuhan di komunitas kami semakin cepat bulan ini dengan ledakan Discord kami mendekati 2.000 anggota yang bersemangat dan suportif. Kami juga telah mengembangkan audiens Twitter kami menjadi lebih dari 6.000 pengikut.
 
 Kami sangat senang dengan pertumbuhan ini karena proyek kami berfokus untuk membangun komunitas pengembang yang lebih kecil namun berkualitas tinggi terlebih dahulu. Saat kami mendekati TGE, angka-angka ini akan meledak saat kami mengalihkan fokus ke audiens ritel dan investor.
 
@@ -32,7 +32,7 @@ Untuk membantu kami mempercepat pertumbuhan ini, dan memastikan bahwa komunitas 
 
 ## Memulai pekerjaan di SubQuery Network 🏗
 
-Ya! Upaya [memindahkan SubQuery ke jaringan yang terdesentralisasi dan ter-token](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010); Jaringan SubQuery, telah dimulai! Migrasi ini akan memastikan bahwa tidak ada titik kegagalan tunggal untuk SubQuery dan untuk mendorong peserta melalui token SQT. Untuk membantu kami dengan perubahan signifikan ini, kami telah merekrut pengembang baru untuk bergabung dengan kami bulan ini.
+Ya! Upaya [memindahkan SubQuery ke jaringan yang terdesentralisasi dan ter-tokenisasi](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010); SubQuery Network, telah dimulai! Migrasi ini akan memastikan bahwa tidak ada titik kegagalan tunggal untuk SubQuery dan untuk mendorong peserta melalui token SQT. Untuk membantu kami dengan perubahan signifikan ini, kami telah merekrut pengembang baru untuk bergabung dengan kami bulan ini.
 
 ## Proyek Baru di SubQuery 🤝
 
@@ -40,7 +40,7 @@ Ya! Upaya [memindahkan SubQuery ke jaringan yang terdesentralisasi dan ter-toke
 
 Pada bulan Agustus kami meluncurkan beberapa proyek baru di SubQuery termasuk yang dengan Subscan, Karura, Subscan, Polkaswap, dan Soramitsu.
 
-Untuk Karura, [SubQuery digunakan untuk mengekstrak dan membuat kueri data dari Karura chain](https://subquery.medium.com/karura-integrates-with-subquery-to-aggregate-and-serve-defi-data-to-kusama-builders-d34f0e722311?source=your_stories_page-------------------------------------), membuat kueri menjadi cepat dan efisien untuk [Karura app](https://apps.karura.network/).
+Untuk Karura, [SubQuery digunakan untuk mengekstrak dan membuat kueri data dari chain Karura](https://subquery.medium.com/karura-integrates-with-subquery-to-aggregate-and-serve-defi-data-to-kusama-builders-d34f0e722311?source=your_stories_page-------------------------------------), membuat kueri menjadi cepat dan efisien untuk [aplikasi Karura](https://apps.karura.network/).
 
 Layanan SubQuery memainkan peran penting dalam [Subscan](https://www.subscan.io/) dengan [menyediakan data transaksi yang cepat](https://subquery.medium.com/subscans-multi-signature-tool-powered-by-subquery-926da3e4fc25?source=your_stories_page-------------------------------------) untuk setiap multi signature address tertentu, sehingga meningkatkan UX dan memungkinkan fitur yang lebih canggih.
 
@@ -76,7 +76,7 @@ Mendekati penyelesaian milestone kedua dalam proyek ini berarti bahwa akan seger
 
 *****
 
-Seperti biasa, silakan bergabung dengan saluran sosial kami untuk tetap mendapatkan berita dan pengumuman terbaru kami.
+Seperti biasa, silakan bergabung dengan channel sosial kami untuk tetap mendapatkan berita dan pengumuman terbaru kami.
 
 James, Sam, dan Tim SubQuery
 
