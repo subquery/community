@@ -1,14 +1,14 @@
-# DotMarketCap 2.0 Launches with Support from SubQuery and SubVis
+# DotMarketCap 2.0 Diluncurkan dengan Dukungan dari SubQuery dan SubVis
 
 ![](https://cdn-images-1.medium.com/max/1600/1*fIxEXupCMUaaMsWQbA7zFQ.gif)
 
-Last week, [DotMarketCap.com](https://dotmarketcap.com/) launched just ahead of the second batch of Kusama Parachain Auctions to provide data, blogs, prices, and other content on the Polkadot/Kusama ecosystem.
+Minggu lalu, [DotMarketCap.com](https://dotmarketcap.com/) diluncurkan tepat sebelum Lelang Parachain Kusama gelombang kedua untuk menyediakan data, blog, harga, dan konten lainnya di ekosistem Polkadot/Kusama.
 
-A huge amount of this live, real time data comes from SubQuery, specifically from the existing project maintained by [SubVis](https://explorer.subquery.network/subquery/subvis-io/kusama-auction). This is an excellent example of how [SubQuery's Explorer](https://explorer.subquery.network/) and open source approach facilitates collaboration and teamwork in the Polkadot ecosystem
+Sejumlah besar data live dan real time ini berasal dari SubQuery, khususnya dari proyek yang ada yang dikelola oleh [SubVis](https://explorer.subquery.network/subquery/subvis-io/kusama-auction). Ini adalah contoh yang sangat baik tentang bagaimana [SubQuery Explorer](https://explorer.subquery.network/) dan pendekatan open source memfasilitasi kolaborasi dan kerja tim dalam ekosistem Polkadot
 
 ![](https://cdn-images-1.medium.com/max/1600/1*-UL84MrIB3TtZBkDPwLMmw.png)
 
-> *"SubQuery, with over 60 projects and millions of query requests per day, as well as data from Subvis, is the perfect place to support and provide DotMarketCap with the fastest and most accurate access to Crowdloan & Auction data. With that reliable data source and DMC's signature UI UX, we believe this partnership will bring great experience and easy access to the Polkadot community."* - Sang Tran (Founder DotMarketCap)
+> *"SubQuery, dengan lebih dari 60 proyek dan jutaan permintaan kueri per hari, serta data dari Subvis, adalah tempat yang tepat untuk mendukung dan memberi DotMarketCap akses tercepat dan paling akurat ke data Crowdloan & Auction. Dengan sumber data yang andal dan UI UX khas DMC, kami yakin kemitraan ini akan menghadirkan pengalaman hebat dan akses mudah ke komunitas Polkadot."* - Sang Tran (Pendiri DotMarketCap)
 
 Kusama parachain auction is the most important event this year, and with [Auction & Crowdloan tracking](https://dotmarketcap.com/auction), you can stay up to date of the fierce competition between projects, as well as support your favourite candidates to win a parachain slot via their crowdloan.
 
@@ -30,9 +30,9 @@ DotMarketCap is a non-profit project funded by Illusionist Group, it is a websit
 
 [Website](http://dotmarketcap.com/) | [Telegram](https://t.me/DotMarketCap_ANN) | [Twitter](https://twitter.com/DotMarketCap?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
-## **About SubQuery**
+## **Tentang SubQuery**
 
-[SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications (DApps). Currently focused on Polkadot and Substrate projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+[SubQuery](https://subquery.network/) adalah agregasi data terdesentralisasi, mengindeks & mengkueri lapisan antara blockchain Layer-1 dan aplikasi terdesentralisasi (DApps). Saat ini berfokus pada proyek Polkadot dan Substrate, data sebagai layanan ini memungkinkan pengembang untuk fokus pada use case inti dan front-end mereka, tanpa perlu membuang waktu untuk membangun backend khusus untuk pemrosesan data.
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)
 
