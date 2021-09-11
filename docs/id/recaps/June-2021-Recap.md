@@ -36,8 +36,8 @@ China adalah bagian penting dari rencana ekspansi strategis kami. Pada bulan Jun
 
 Siqi berada di [panggung di acara Tur Nasional Ekologi Polka yang sangat sukses di Stasiun Hefei](https://twitter.com/SubQueryNetwork/status/1409696588465721348), menjalin kontak dengan banyak pihak proyek lain yang juga menghadiri konferensi. Dia akan hadir di banyak acara ke depan, jadi awasi dia dan sapa!
 
-Heading into next month we look to continue our rapid growth and are working on many exciting projects. Stay in touch through our social media to be the first to know what is happening!
+Menuju bulan depan, kami ingin melanjutkan pertumbuhan pesat kami dan sedang mengerjakan banyak proyek menarik. Tetap terhubung melalui media sosial kami untuk menjadi yang pertama mengetahui apa yang terjadi!
 
-James, Sam, and the SubQuery Team
+James, Sam, dan Tim SubQuery
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Medium](https://subquery.medium.com/)
