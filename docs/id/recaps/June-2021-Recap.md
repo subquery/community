@@ -1,13 +1,13 @@
-# June 2021 Recap
+# Rekap Juni 2021
 
-## Things are getting busy 🔥
+## Hal-hal menjadi sibuk 🔥
 
-In this monthly update:
+Dalam pembaruan bulanan ini:
 
--   Whitepaper Release 🎊
--   Team Expansion 👩💻
--   Staging Deployments 📥
--   SubQuery Dictionary Service 📖
+-   Rilis Whitepaper 🎊
+-   Ekspansi Tim 👩💻
+-   Penempatan Pementasan 📥
+-   Layanan Kamus SubQuery 📖
 -   Improving our Reach in China 🇨🇳
 
 The SubQuery Network is our effort to move towards a decentralised and tokenised network in order to ensure no single point of failure for SubQuery and to encourage as many participants in the process as possible.
