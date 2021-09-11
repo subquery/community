@@ -26,7 +26,7 @@ Untuk SubQuery, ini adalah realisasi dari tujuan kami untuk membangun marketplac
 
 ## **Tentang DotMarketCap**
 
-DotMarketCap adalah proyek non-profit yang didanai oleh Illusionist Group, merupakan website di mana Anda dapat menemukan data harga, grafik, kapitalisasi serta informasi dan analisis terbaru dari seluruh proyek di ekosistem Polkadot. After moths of improving, DotMarketCap has finally shown up with brand-new and interesting features. Visit dotmarketcap.com for more information.
+DotMarketCap adalah proyek non-profit yang didanai oleh Illusionist Group, merupakan website di mana Anda dapat menemukan data harga, grafik, kapitalisasi serta informasi dan analisis terbaru dari seluruh proyek di ekosistem Polkadot. Setelah sekian lama berkembang, DotMarketCap akhirnya muncul dengan fitur baru dan menarik. Kunjungi dotmarketcap.com untuk informasi lebih lanjut.
 
 [Website](http://dotmarketcap.com/) | [Telegram](https://t.me/DotMarketCap_ANN) | [Twitter](https://twitter.com/DotMarketCap?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
@@ -36,8 +36,8 @@ DotMarketCap adalah proyek non-profit yang didanai oleh Illusionist Group, merup
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)
 
-## **About Subvis.io**
+## **Tentang Subvis.io**
 
-[Subvis.io](https://dotmarketcap.com/blog-detail/541/Subvis.io) is the primary source of data for Polkadot that investors go to in order to explore, analyse, and learn about Polkadot ecosystem. Investors use SubVis to monitor important events (especially auctions and crowdloans), analyse on-chain data to get insights for better investment decisions, and learn how the Polkadot ecosystem works.
+[Subvis.io](https://dotmarketcap.com/blog-detail/541/Subvis.io) adalah sumber data utama Polkadot yang dikunjungi investor untuk mengeksplorasi, menganalisis, dan mempelajari ekosistem Polkadot. Investor menggunakan SubVis untuk memantau peristiwa penting (terutama lelang dan crowdloan), menganalisis data on-chain untuk mendapatkan wawasan untuk keputusan investasi yang lebih baik, dan mempelajari cara kerja ekosistem Polkadot.
 
 [Website](https://www.subvis.io/) | [Twitter](https://twitter.com/subvisioapp)
