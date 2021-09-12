@@ -1,18 +1,18 @@
-# SubQuery Projects — Publish your own creation!
+# SubQuery Projeleri — Kendi eserinizi yayınlayın!
 
 ![](https://miro.medium.com/max/1400/0*Jhkt10DyMiptFocJ)
 
-SubQuery Projects
+SubQuery Projeleri
 
-Today we’re launching the next phase of SubQuery — [Projects](https://project.subquery.network). SubQuery’s mission is to make the world’s decentralised data more accessible, so this announcement this week is huge for our community!
+Bugün, SubQuery - Projelerin bir sonraki aşamasını başlatıyoruz. SubQuery'nin misyonu, dünyanın merkezi olmayan verilerini daha erişilebilir hale getirmektir, bu nedenle bu haftaki bu duyuru topluluğumuz için çok önemli!
 
 
 
 ![](https://miro.medium.com/max/464/0*FTsLOuy0A4cWEwcp)
 
-[SubQuery Projects](https://project.subquery.network) is the new place where you can publish your projects to our managed service. Once you connect your GitHub account, you’re only minutes away from sharing your SubQuery project to over 500 users of the [SubQuery Explorer](https://explorer.subquery.network/). Your own project can be hosted online right next to our existing SubQuery projects from [Acala](https://explorer.subquery.network/subquery/OnFinality-io/acala-subql) and [Bifrost](https://explorer.subquery.network/subquery/bifrost-finance/subql).
+SubQuery Projeleri, projelerinizi yönetilen hizmetimize yayınlayabileceğiniz yeni yerdir. GitHub hesabınızı bağladığınızda, SubQuery projenizi SubQuery Explorer'ın 500'den fazla kullanıcısıyla paylaşmaktan yalnızca birkaç dakika uzaktasınız. Kendi projeniz, Acala ve Bifrost'tan mevcut Alt Sorgu projelerimizin hemen yanında çevrimiçi olarak barındırılabilir.
 
-You can also keep your SubQuery project private by not showing it in the Explorer, perfect if you want to privately test it using our managed infrastructure. Additionally, we’re integrated with GitHub, so creating a SubQuery project within a GitHub organisation account will automatically share it with your team members.
+Ayrıca, SubQuery projenizi Explorer'da göstermeyerek gizli tutabilirsiniz; bu, yönetilen altyapımızı kullanarak özel olarak test etmek istiyorsanız mükemmeldir. Ek olarak GitHub ile entegreyiz, bu nedenle GitHub kuruluş hesabı içinde bir Alt Sorgu projesi oluşturmak, onu otomatik olarak ekip üyelerinizle paylaşacaktır.
 
 
 
