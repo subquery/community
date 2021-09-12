@@ -22,4 +22,4 @@ Im following Beispiel verwenden wir SubQuery um die ersten 5 NFT-Ergebnisse zu f
 
 Kodadot verwendet [SubQuery-Projekte](https://project.subquery.network/), um sein eigenes Projekt zu verwalten und bei Bedarf Aktualisierungen vorzunehmen. Die von uns bereitgestellten Indexierungs- und Abfragedienste werden vollständig von SubQuery verwaltet und der Polkadot-Community kostenlos im [SubQuery-Explorer](https://explorer.subquery.network/) zur Verfügung gestellt.
 
-[Explore the Kodadot data set](https://explorer.subquery.network/subquery/vikiival/magick)
+[Erkunde die Kodadot-Datenmenge](https://explorer.subquery.network/subquery/vikiival/magick)
