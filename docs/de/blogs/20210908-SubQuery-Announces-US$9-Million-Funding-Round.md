@@ -1,12 +1,12 @@
-# SubQuery Announces US$9 Million Funding Round
+# SubQuery kündigt Finanzierungsrunde in Höhe von 9 Millionen US-Dollar an
 
-**Building a decentralised data protocol for the Polkadot Ecosystem. Co-Led By Arrington Capital, DCG and Stratos Technologies**
+**Aufbau eines dezentralisierten Datenprotokolls für das Polkadot-Ökosystem. Gemeinsam geführt von Arrington Capital, DCG und Stratos Technologies**
 
 ![](https://cdn-images-1.medium.com/max/1600/0*PR4oqrB9Am03VseR)
 
-SubQuery announces a US$9M funding round for the first decentralised data aggregation layer for the Polkadot ecosystem. This round brings together key stakeholders into the Web3 Ecosystem, building toward SubQuery's vision as fundamental data indexing infrastructure for all Polkadot and Kusama parachains and applications.
+SubQuery kündigt eine Finanzierungsrunde in Höhe von 9 Millionen US-Dollar für die erste dezentrale Datenaggregationsschicht für das Polkadot-Ökosystem an. Diese Runde bringt die wichtigsten Interessenvertreter des Web3-Ökosystems zusammen und baut auf die Vision von SubQuery als grundlegende Datenindexierungsinfrastruktur für alle Polkadot- und Kusama-Parachains und -Anwendungen auf.
 
-SubQuery aims to improve access to decentralised blockchain data by creating a vibrant marketplace for data indexing and provisioning. Its technology provides Polkadot and Kusama developers with the tools needed to easily explore, transform and analyse on-chain data. Abstracting the backend, SubQuery eliminates the need for custom data processing servers. It lets developers focus on product development and user experience rather than building their own querying systems.
+SubQuery zielt darauf ab, den Zugang zu dezentralisierten Blockchain-Daten zu verbessern, indem ein dynamischer Marktplatz für die Datenindizierung und -bereitstellung geschaffen wird. Seine Technologie bietet Polkadot- und Kusama-Entwicklern die Tools, die zum einfachen Erkunden, Transformieren und Analysieren von On-Chain-Daten erforderlich sind. Durch die Abstraktion des Backends macht SubQuery den Bedarf an benutzerdefinierten Datenverarbeitungsservern überflüssig. Entwickler können sich auf die Produktentwicklung und die Benutzererfahrung konzentrieren, anstatt ihre eigenen Abfragesysteme zu erstellen.
 
 Diese strategische Runde wurde gemeinsam von [Arrington Capital](https://arringtonxrpcapital.com/), [DCG](https://dcg.co/) und [Stratos Technologies](https://www.stratoslp.com/) geleitet und beinhaltete die Beteiligung von [Hypersphere Ventures](https://hypersphere.ventures/), [Neo Global Capital (NGC)](http://ngc.fund/), [Wintermute](https://www.wintermute.com/) und [Skynet Trading](http://skynettrading.com/). Es folgt auf eine Seed-Runde Anfang 2021, die [DeFi Alliance](https://defialliance.co/), [The LAO](https://www.thelao.io/), [Digital Renaissance](https://drf.ee/),
 
