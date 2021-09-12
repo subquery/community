@@ -18,25 +18,25 @@ Ayrıca, SubQuery projenizi Explorer'da göstermeyerek gizli tutabilirsiniz; bu,
 
 ![](https://miro.medium.com/max/1400/1*IupCbHA6aaal26sYbK-Hbw.png)
 
-Creating a new SubQuery Project
+Yeni bir SubQuery Projesi Oluşturma
 
-Once you’ve published and deployed your new project, you can interact with it over our GraphQL endpoint or simply play in our [Explorer playground](https://explorer.subquery.network/)! We’ll run it like it’s a production application, so you can unlock your decentralized data in your next dApp today using SubQuery.
+Yeni projenizi yayınlayıp dağıttıktan sonra, onunla GraphQL uç noktamız üzerinden etkileşime geçebilir veya sadece [Explorer playground](https://explorer.subquery.network/) alanımızda oynayabilirsiniz!<0>! Bir üretim uygulaması gibi çalıştıracağız, böylece SubQuery kullanarak bugün bir sonraki dApp'inizde merkezi olmayan verilerinizin kilidini açabilirsiniz.
 
 
 
 ![](https://miro.medium.com/max/1400/1*Re6uHuy05UzWttfWQBM6hg.png)
 
-A new published SubQuery Project
+Yeni yayınlanan bir SubQuery Projesi
 
-Don’t worry about running production SubQuery nodes, leave it to the experts. We’re going to focus on managing indexing servers so that you don’t have to.
+Üretim SubQuery düğümlerini çalıştırma konusunda endişelenmeyin, işi uzmanlara bırakın. Endeksleme sunucularını yönetmeye odaklanacağız, böylece zorunda kalmazsınız.
 
-## Learn More
+## Daha fazla bilgi edin
 
-[Follow our guide to publish your first project](https://doc.subquery.network/publish/publish.html) on [SubQuery Projects](https://project.subquery.network)
+[İlk projenizi yayınlamak için kılavuzumuzu takip edin](https://doc.subquery.network/publish/publish.html) on [SubQuery Projects](https://project.subquery.network)
 
-Start querying data on the new [SubQuery Explorer](https://explorer.subquery.network/)
+Yeni verileri sorgulamaya başlayın [SubQuery Explorer](https://explorer.subquery.network/)
 
-Build your own SubQuery project by following our [SubQuery docs](https://doc.subquery.network/)
+Aşağıdaki yönergelerimizi izleyerek kendi SubQuery projenizi oluşturun [SubQuery docs](https://doc.subquery.network/)
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Twitter](https://twitter.com/subquerynetwork) | [Telegram](https://t.me/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
 
