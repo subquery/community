@@ -4,7 +4,7 @@
 
 ## Repräsentieren Sie SubQuery in Ihrer Community!
 
-[SubQuery](https://subquery.network/) aims to be the leading data provider in Polkadot. Unsere Mission ist es, die größten dApps in unserem wachsenden Ökosystem zu betreiben, und wir arbeiten bereits mit DeFi-Apps wie [Acala](https://acala.network/) und [Bifrost](https://bifrost.finance/), Wallets wie [Fearless Wallet](https://fearlesswallet.io/), NFT-Plattformen wie
+[SubQuery](https://subquery.network/) möchte der führende Datenanbieter in Polkadot sein. Unsere Mission ist es, die größten dApps in unserem wachsenden Ökosystem zu betreiben, und wir arbeiten bereits mit DeFi-Apps wie [Acala](https://acala.network/) und [Bifrost](https://bifrost.finance/), Wallets wie [Fearless Wallet](https://fearlesswallet.io/), NFT-Plattformen wie
 
 KodaDot</2>, Cross-Chain-Brücken wie [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia) und Analyseplattformen wie [SubVis](https://subvis.io/).</p> 
 
@@ -36,7 +36,7 @@ Bei SubQuery arbeiten wir hart daran, das zu erreichen, was wir tun. In ähnlich
 
 **Netzwerkentwicklung:** Erwarten Sie, dass Sie Ihr berufliches Netzwerk erweitern, indem Sie Ambassador für eines der Top-Projekte von Polkadot werden. Treffen Sie andere Ambassadors auf der ganzen Welt und erhalten Sie Einführungen zu lokalen Polkadot-Projekten, die wir vor Ort unterstützen müssen. Möglicherweise erhalten Sie sogar freien Eintritt, um SubQuery in Veranstaltungen in Ihrer Nähe darzustellen.
 
-**Swag und andere kostenlose Sache:** Jeder mag kostenlose Sache! Erhalten Sie eine jährliche Zuteilung von SubQuery-Swag, mit der Sie sich von der Masse abheben. Plus additional allocation that you can share around at community events. You’ll also receive an exclusive NFT for your Ambassador status.
+**Swag und andere kostenlose Sache:** Jeder mag kostenlose Sache! Erhalten Sie eine jährliche Zuteilung von SubQuery-Swag, mit der Sie sich von der Masse abheben. Plus zusätzliche Zuteilung, die Sie bei Community-Events teilen können. Sie erhalten außerdem eine exklusive NFT für Ihren Ambassador-Status.
 
 
 
