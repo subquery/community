@@ -44,8 +44,8 @@ SubQuery wurde von über 50 Kandidaten für das exklusive Web 3.0 Bootcamp in Sh
 
 Wir erwarten, viel zu lernen, viele neue Freunde und Partner zu finden und viel Feedback zu unserer Produktentwicklung zu bekommen. Wir erwarten, dass wir noch stärker aus diesem Bootcamp hervorgehen, als wir es jetzt sind. Unten könnt ihr unsere Eröffnungszeremonie anschauen
 
-Next month we’ve got some exciting new announcements to share with our community, stay subscribed to our social media channels to hear about them first.
+Nächsten Monat haben wir einige aufregende neue Ankündigungen, die wir mit unserer Community teilen können. Abonnieren Sie unsere Social-Media-Kanäle, um zuerst davon zu erfahren.
 
-James, Sam, and the SubQuery Team
+James, Sam, und das SubQuery-Team
 
-[Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Medium](https://subquery.medium.com/)
+[Webseite](https://subquery.network/) | [E-Mail](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Medium](https://subquery.medium.com/)
