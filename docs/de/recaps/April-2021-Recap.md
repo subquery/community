@@ -19,7 +19,7 @@ Das letzte fehlende Stück bedeutet jetzt, dass wir über eine vollständige Sui
 
 Im April startete [Bifrost Finance](https://bifrost.finance/) die Beta ihrer neuen dApp, der offiziellen interaktiven Schnittstelle für alle Bifrost Dienste. Über diese dApp können Benutzer vTokens prägen, diese Derivate einlösen und tauschen und ihre Einnahmen in Echtzeit einsehen.
 
-Der Dienst von SubQuery hilft Bifrost dabei, viele der in ihrer neuen dApp angezeigten Daten zu verarbeiten. Alle historischen Daten zu Transfer-, Präge- und Einlösungsereignissen (wie Preis, Datum, Währung und Pool) werden aggregiert und vom erweiterten Indexierungs- und Abfrageservice von SubQuery abgefragt. For example, SubQuery allows Bifrost to calculate real time mint and redemption prices for vDot and vEth to show in their app, and to get the total number of vTokens in a certain wallet.
+Der Dienst von SubQuery hilft Bifrost dabei, viele der in ihrer neuen dApp angezeigten Daten zu verarbeiten. Alle historischen Daten zu Transfer-, Präge- und Einlösungsereignissen (wie Preis, Datum, Währung und Pool) werden aggregiert und vom erweiterten Indexierungs- und Abfrageservice von SubQuery abgefragt. SubQuery ermöglicht es Bifrost beispielsweise, Münz- und Rücknahmepreise in Echtzeit für vDot und vEth zu berechnen, um sie in ihrer App anzuzeigen, und die Gesamtzahl der vTokens in einer bestimmten Wallet abzurufen.
 
 ![](https://miro.medium.com/max/1400/0*heWoX8Kw1nm1iYd9)
 
