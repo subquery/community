@@ -1,34 +1,34 @@
-# Bifrost chooses SubQuery to provide the data for their new dApp
+# Bifrost wählt SubQuery, um die Daten für seine neue dApp bereitzustellen
 
 ![](https://miro.medium.com/max/1400/0*nqNosmn0y7FHOI42)
 
-Bifrost recently launched the beta of their new dApp, the official interactive interface for all Bifrost services. Through this dApp, users can mint vTokens, redeem and swap these derivatives, and view their earnings in real time. This beta dApp is a huge step forward in allowing users to reduce staking costs across chains by maintaining liquidity. [You can try out Bifrost’s new dApp here](https://apps.bifrost.finance/).
+Bifrost hat kürzlich die Beta seiner neuen dApp veröffentlicht, der offiziellen interaktiven Schnittstelle für alle Bifrost-Dienste. Über diese dApp können Benutzer vTokens prägen, diese Derivate einlösen und tauschen und ihre Einnahmen in Echtzeit einsehen. Diese Beta-dApp ist ein großer Schritt vorwärts, um es Benutzern zu ermöglichen, die Absteckkosten über Ketten hinweg zu senken, indem sie die Liquidität aufrechterhalten. [Du kannst Bifrosts neue dApp hier ausprobieren](https://apps.bifrost.finance/).
 
-> “Without SubQuery, it is difficult to imagine how complicated it is to manually collect data from the chain. Bifrost developers may spend a lot of time searching for all transaction data on chain to be used for transaction history. SubQuery helps developers save a lot of repetitive work costs. Bifrost will cooperate with SubQuery for a long time to accelerate the iterative speed of product development”. — Bifrost.Finance
+> „Ohne SubQuery ist es schwer vorstellbar, wie kompliziert es ist, manuell Daten aus der Kette zu sammeln. Bifrost-Entwickler verbringen möglicherweise viel Zeit damit, nach allen Transaktionsdaten in der Kette zu suchen, die für den Transaktionsverlauf verwendet werden sollen. SubQuery hilft Entwicklern, eine Menge sich wiederholender Arbeitskosten zu sparen. Bifrost wird noch lange mit SubQuery zusammenarbeiten, um die iterative Geschwindigkeit der Produktentwicklung zu beschleunigen.“. — Bifrost.Finance
 
 
 ![](https://miro.medium.com/max/1400/0*_JK-h0rjef6rk1ot)
 
-The new Bifrost SubQuery project in the SubQuery Explorer
+Das neue Bifrost-SubQuery-Projekt im SubQuery-Explorer
 
-[SubQuery’s](https://subquery.network/) service helps [Bifrost](https://bifrost.finance/) power much of the data shown in their new dApp. All historical data on transfers, minting, and redemption events (such as price, date, currency and pool) are aggregated and queried from SubQuery’s advanced indexing and query service. For example, SubQuery allows Bifrost to calculate real time mint and redemption prices for vDot and vEth to show in their app, and to get the total number of vTokens in a certain wallet.
+Der Dienst von [SubQuery](https://subquery.network/) hilft [Bifrost](https://bifrost.finance/) dabei, einen Großteil der in der neuen dApp angezeigten Daten zu verarbeiten. Alle historischen Daten zu Transfer-, Präge- und Einlösungsereignissen (wie Preis, Datum, Währung und Pool) werden aggregiert und vom erweiterten Indexierungs- und Abfrageservice von SubQuery abgefragt. SubQuery ermöglicht es Bifrost beispielsweise, Münz- und Rücknahmepreise in Echtzeit für vDot und vEth zu berechnen, um sie in ihrer App anzuzeigen, und die Gesamtzahl der vTokens in einer bestimmten Wallet abzurufen.
 
 ![](https://miro.medium.com/max/1400/0*WIxvwcgPIHzCf0E3)
 
-A simple example showing real time mint price for vDOT
+Ein einfaches Beispiel mit Echtzeit-Münzpreis für vDOT
 
-Bifrost is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services for this service is completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/). You can play around with the Bifrost SubQuery dataset using the Explorer without implementing any code [here](https://explorer.subquery.network/subquery/bifrost-finance/subql).
+Bifrost verwendet [SubQuery-Projekte](https://project.subquery.network/), um sein eigenes Projekt zu verwalten und bei Bedarf Aktualisierungen vorzunehmen. Die Indizierungs- und Abfragedienste für diesen Dienst werden vollständig von SubQuery verwaltet und der Polkadot-Community kostenlos im [SubQuery-Explorer](https://explorer.subquery.network/) zur Verfügung gestellt. Sie können im Explorer mit dem Bifrost SubQuery-Datensatz herumspielen, ohne [hier](https://explorer.subquery.network/subquery/bifrost-finance/subql) Code zu implementieren.
 
 ![](https://miro.medium.com/max/1400/0*J9Rao6oyFMxVNWzZ)
 
-Another SubQuery example to retrieve total staking revenue for vDOT
+Ein weiteres SubQuery-Beispiel zum Abrufen des gesamten Staking-Umsatzes für vDOT
 
-[SubQuery](https://subquery.network/) is a data aggregation layer that will operate between the layer-1 blockchains (Bifrost) and DApps. The solution aggregates and organises data from [Bifrost](https://bifrost.finance/) and other blockchains, serving up well-structured data for their dApp and for other developers to use in a wide array of projects. This service allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+[SubQuery](https://subquery.network/) ist eine Datenaggregationsschicht, die zwischen den Schicht-1-Blockchains (Bifrost) und DApps operiert. Die Lösung aggregiert und organisiert Daten aus [Bifrost](https://bifrost.finance/) und anderen Blockchains und stellt gut strukturierte Daten für ihre dApp und für andere Entwickler zur Verwendung in einer Vielzahl von Projekten bereit. Dieser Service ermöglicht es DApp-Entwicklern, sich auf ihren Kernanwendungsfall und das Front-End zu konzentrieren, ohne Zeit mit dem Erstellen eines benutzerdefinierten Back-Ends für die Datenverarbeitung zu verschwenden.
 
-Learn more about Bifrost
+Erfahren Sie mehr über Bifrost
 
-[Website](https://bifrost.finance/) | [Telegram](https://t.me/bifrost_finance) | [Twitter](https://twitter.com/bifrost_finance) | [Discord](https://discord.gg/XjnjdKBNXj)
+[Webseite](https://bifrost.finance/) | [Telegram](https://t.me/bifrost_finance) | [Twitter](https://twitter.com/bifrost_finance) | [Discord](https://discord.gg/XjnjdKBNXj)
 
-Learn more about SubQuery
+Erfahren Sie mehr über SubQuery
 
-[Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
+[Webseite](https://subquery.network/) | [E-Mail](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)

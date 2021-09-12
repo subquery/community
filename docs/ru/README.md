@@ -1,6 +1,6 @@
 # Блоги SubQuery & amp; Контент сообщества
 
-SubQuery is here to help you transform and query the world’s data for a web3.0 future.
+SubQuery служит для того, чтобы помочь вам преобразовать и запрашивать данные мира для веб-3.0 будущего.
 
 Это глобальное хранилище всех блогов сообщества, объявлений, статей и видео из SubQuery.
 
@@ -20,7 +20,7 @@ SubQuery - это активный проект, который поддержи
 
 - [Discord](https://discord.com/invite/78zg8aBSMG) (Основное сообщество с выделенными каналами технической поддержки)
 - [Medium](https://subquery.medium.com) (канал первичных объявлений)
-- [Twitter](https://twitter.com/subquerynetwork)
+- [Твиттер](https://twitter.com/subquerynetwork)
 - [WeChat]()
 - [Telegram](https://t.me/subquerynetwork) (только канал объявлений)
 - [GitHub](https://github.com/SubQuery/subql)
