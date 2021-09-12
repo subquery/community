@@ -1,26 +1,26 @@
-# August 2021 Recap
+# August 2021 Zusammenfassung
 
-**Expanding Our Reach**
+**Erweiterung unserer Reichweite**
 
-Welcome to the latest monthly update from SubQuery. Following on from last month, August has seen rapid expansion in the growth of our Community around the world! We have also been busy working on decentralising our platform as we prepare for a TGE in the coming months.
+Herzlich Willkommen zum neuesten monatlichen Update von SubQuery. Nach dem letzten Monat hat sich im August das Wachstum unserer Community auf der ganzen Welt rasant ausgeweitet! Wir haben auch fleißig an der Dezentralisierung unserer Plattform gearbeitet, während wir uns auf eine TGE in den kommenden Monaten vorbereiten.
 
-In this monthly update:
+In diesem monatlichen Update:
 
 -   Onboarding Ambassadors 👩‍💼
--   Kicked off work on the SubQuery Network 🏗
--   Huge Community Growth 🚀
--   New Projects on SubQuery 🤝
--   AMA with DotMarketCap 🎙
--   Activity in China 🇨🇳
--   Delivering the 2nd Milestone of Polkadot Common API ✅
+-   Die Arbeit am SubQuery-Netzwerk gestartet🏗
+-   Großes Community-Wachstum 🚀
+-   Neue Projekte in SubQuery🤝
+-   AMA mit DotMarketCap 🎙
+-   Aktivität in China 🇨🇳
+-   Bereitstellung des zweiten Meilensteins der Polkadot Common API ✅
 
 ## Onboarding Ambassadors 👩‍💼
 
 ![](https://miro.medium.com/max/1400/0*_nOcsPjhQxta_FPH)
 
-After [launching our Ambassador program](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) last month, we have been amazed by the excitement in the community and quality of the participants. To date, we have received just under 2,000 applications almost every continent (we're calling out for applications from Antarctica ☃️) and onboarded over 30 people thus far.
+Nachdem wir letzten Monat [unser Ambassador-Programm](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) gestartet haben, waren wir erstaunt über die Begeisterung in der Community und die Qualität der Teilnehmer. Bis heute haben wir auf fast allen Kontinenten knapp 2.000 Bewerbungen erhalten (wir rufen nach Bewerbungen aus der Antarktis ☃️) und bisher über 30 Personen an Bord.
 
-Tre has been doing an excellent job leading this initiative and [engaging with the community on Discord](https://discord.com/invite/78zg8aBSMG). As we are already seeing the benefits of having a closer relationship with the supporters of SubQuery, we will be expanding the team in the next few weeks so please be patient if you haven't heard from us yet!
+Tre hat hervorragende Arbeit geleistet, diese Initiative zu leiten und [mit der Community auf Discord zu interagieren](https://discord.com/invite/78zg8aBSMG). Da wir bereits die Vorteile einer engeren Beziehung zu den Unterstützern von SubQuery sehen, werden wir das Team in den nächsten Wochen erweitern. Bitte haben Sie etwas Geduld, wenn Sie noch nichts von uns gehört haben!
 
 ## Huge Community Growth 🚀
 
