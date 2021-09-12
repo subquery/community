@@ -20,8 +20,8 @@ Der Dictionary Endpunkt kann in [Ihrer ‚project.yaml‘-Datei](https://doc.sub
 
 Lesen Sie mehr über das Wörterbuch in unserer [hilfreichen Dokumentation hier](https://doc.subquery.network/run/run.html#using-a-dictionary).
 
-Wir glauben, dass SubQuery die beste verfügbare Datenindizierungsoption für jede Polkadot/Substrate-dApp ist, und diese neue Implementierung des SubQuery-Wörterbuchs ermöglicht es uns, unseren Service weiter zu verbessern, indem wir den Indexierungsprozess für Ihre SubQuery-Projekte beschleunigen.
+Wir glauben, dass SubQuery die beste verfügbare Datenindizierungsoption für jede Polkadot/Substrate-dApp ist, und diese neue Implementierung des SubQuery Dictionary ermöglicht es uns, unseren Service weiter zu verbessern, indem wir den Indexierungsprozess für Ihre SubQuery Projekte beschleunigen.
 
-Sie können es selbst in [SubQuery-Projekten](https://project.subquery.network/) ausprobieren oder die Wörterbücher selbst in [unserem Explorer](https://explorer.subquery.network/) ansehen. Um ein Wörterbuch in Ihrem existierenden Projekt verwenden zu können, muss Ihre [@subql/cli](https://www.npmjs.com/package/@subql/cli) Version mindestens 0.10.0 sein
+Sie können es selbst in [SubQuery Projekten](https://project.subquery.network/) ausprobieren oder die Dictionaries selbst in [unserem Explorer](https://explorer.subquery.network/) ansehen. Um ein Dictionary in Ihrem existierenden Projekt verwenden zu können, muss Ihre [@subql/cli](https://www.npmjs.com/package/@subql/cli) Version mindestens 0.10.0 sein
 
 ![](https://miro.medium.com/max/1400/1*CrbWsx1rFiBNjkCepxbkPQ.png)
