@@ -6,23 +6,23 @@ This is the global repository of all community blogs, announcements, articles, a
 
 **Read in your own language! You can change your language using the selector on the top right of all pages.**
 
-## We need help translating!
+## Wir brauchen die Hilfe bei der Übersetzung!
 
-We understand that one of our biggest strengths is our community, and with your help, we want to grow and establish local ambassadors to help translate our material for communities around the world.
+Wir kennen, dass eine unserer größten Stärken unsere Community ist, und mit Ihrer Hilfe möchten wir wachsen und lokale Botschafter etablieren, die dabei helfen, unser Material für Gemeinden auf der ganzen Welt zu übersetzen.
 
-[Join our Ambassador Program](https://doc.subquery.network/miscellaneous/ambassadors.html)
+[Nehmen Sie an unserem Ambassadorprogramm teil](https://doc.subquery.network/miscellaneous/ambassadors.html)
 
-## Social Media Links
+## Social-Media-Links
 
-SubQuery is an active project that maintains and communicates with our followers through many social media channels.
+SubQuery ist ein aktives Projekt, das unsere Follower über viele Social-Media-Kanäle pflegt und mit ihnen kommuniziert.
 
-It is our aim to always listen and engage with our loyal community so please join the conversation and send us your ideas or questions!
+Es ist unser Ziel, unserer treuen Community immer zuzuhören und mit ihr in Kontakt zu treten. Bitte beteiligen Sie sich an der Diskussion und senden Sie uns Ihre Ideen oder Fragen!
 
-- [Discord](https://discord.com/invite/78zg8aBSMG) (Primary Community with dedicated technical support channels)
-- [Medium](https://subquery.medium.com) (Primary announcements channel)
+- [Discord](https://discord.com/invite/78zg8aBSMG) (Primäre Community mit dedizierten technischen Supportkanälen)
+- [Mittel](https://subquery.medium.com) (Primärer Ankündigungskanal)
 - [Twitter](https://twitter.com/subquerynetwork)
 - [WeChat]()
-- [Telegram](https://t.me/subquerynetwork) (Announcements channel only)
+- [Telegram](https://t.me/subquerynetwork) (nur Ankündigungskanal)
 - [GitHub](https://github.com/SubQuery/subql)
 - [Matrix/Riot](https://matrix.to/#/#subquery:matrix.org)
 - [LinkedIn](https://www.linkedin.com/company/subquery)
