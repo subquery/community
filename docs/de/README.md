@@ -1,10 +1,10 @@
-# SubQuery Blogs & Community Content
+# SubQuery-Blogs & Community-Inhalte
 
-SubQuery is here to help you transform and query the world’s data for a web3.0 future.
+SubQuery ist hier, um Ihnen zu helfen, die Daten der Welt für eine Web3.0-Zukunft zu transformieren und abzufragen.
 
-This is the global repository of all community blogs, announcements, articles, and videos from SubQuery.
+Dies ist das globale Repository aller Community-Blogs, Ankündigungen, Artikel und Videos von SubQuery.
 
-**Read in your own language! You can change your language using the selector on the top right of all pages.**
+**Lesen Sie bitte in Ihrer eigenen Sprache! Sie können Ihre Sprache über die Auswahl oben rechts auf allen Seiten ändern.**
 
 ## Wir brauchen die Hilfe bei der Übersetzung!
 
