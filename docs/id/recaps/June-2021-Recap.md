@@ -6,15 +6,15 @@ Dalam pembaruan bulanan ini:
 
 -   Rilis Whitepaper 🎊
 -   Ekspansi Tim 👩💻
--   Penempatan Pementasan 📥
--   Layanan Kamus SubQuery 📖
+-   Staging Deployments 📥
+-   Layanan SubQuery Dictionary 📖
 -   Meningkatkan Jangkauan kami di China 🇨🇳
 
 SubQuery Network adalah upaya kami untuk bergerak menuju jaringan terdesentralisasi dan tokenized untuk memastikan tidak ada satu titik kegagalan untuk SubQuery dan untuk mendorong sebanyak mungkin peserta dalam proses tersebut.
 
 [Bulan lalu, kami merilis whitepaper kami secara publik untuk dibaca dunia.](https://static.subquery.network/whitepaper.pdf) Anda juga dapat membaca/menonton [penjelasan singkat di sini](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010).
 
-Kami memiliki tujuan ambisius di SubQuery untuk menjadi penyedia layanan data tercepat dan dapat diakses di Substrat. Kami telah menulis whitepaper ini untuk menyoroti [keunggulan kompetitif](https://subquery.medium.com/subquery-network-our-goals-and-competitive-advantages-a6efdd544be4) kami dan fokus kami sekarang adalah menjalankan visi ini. SubQuery Network berkisar pada dua aspek utama, fleksibilitas dan kesederhanaan.
+Kami memiliki tujuan ambisius di SubQuery untuk menjadi penyedia layanan data tercepat dan dapat diakses di Substrate. Kami telah menulis whitepaper ini untuk menyoroti [keunggulan kompetitif](https://subquery.medium.com/subquery-network-our-goals-and-competitive-advantages-a6efdd544be4) kami dan fokus kami sekarang adalah menjalankan visi ini. SubQuery Network berfokus pada dua aspek utama, fleksibilitas dan kesederhanaan.
 
 Tujuan ambisius membutuhkan tim kelas satu, dan kami terus menambahkan anggota baru ke tim selama bulan Juni. Ini termasuk; magang pengembangan baru, desainer UX, penulis dokumentasi pengembangan, dan staf pengembangan bisnis yang berbasis di China.
 
