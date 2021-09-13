@@ -1,4 +1,4 @@
-# SubQuery Just Got a Lot Faster with the Dictionary
+# SubQuery став набагато швидше зі словником
 
 ![](https://miro.medium.com/max/1400/1*iEQbr-KZNIkztylVowAuaQ.png)
 
