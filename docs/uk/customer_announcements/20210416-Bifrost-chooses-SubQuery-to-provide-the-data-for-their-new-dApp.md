@@ -1,4 +1,4 @@
-# Bifrost chooses SubQuery to provide the data for their new dApp
+# Bifrost вибирає SubQuery для надання даних для свого нового dApp
 
 ![](https://miro.medium.com/max/1400/0*nqNosmn0y7FHOI42)
 
