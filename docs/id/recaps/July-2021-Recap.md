@@ -10,10 +10,10 @@ Selamat datang di pembaruan bulanan lainnya dari SubQuery. Seperti yang Anda sem
 Dalam pembaruan bulanan ini:
 
 -   Ambassador Program 👩💼
--   Pekerjaan Hibah API DApp 🏗
+-   DApp API Grant Work 🏗
 -   Patract Platform Terbuka 🌃
 -   Podcast Relaychain Parity 🎙
--   Perbaikan Dokumentasi 📑
+-   Peningkatan Dokumentasi 📑
 
 
 ![](https://miro.medium.com/max/1400/0*pe3Z3x1lGb_RLa5x)
@@ -22,9 +22,9 @@ Kami memahami bahwa salah satu kekuatan terbesar kami adalah komunitas kami, jad
 
 Kami sedang dalam proses onboarding ambassador pertama kami dalam waktu dekat. Kami sangat senang di sini karena ini berarti bahwa setiap orang di komunitas kami dapat mengharapkan untuk melihat perwakilan dan dukungan lokal yang lebih baik di komunitas yang berbeda!
 
-Pada akhir Juli, kami telah membuat kemajuan yang baik pada dua pencapaian pertama dari [hibah perbendaharaan API dApp open-source](https://kusama.polkassembly.io/treasury/95) kami. Meskipun di permukaan tidak terlihat banyak, sebenarnya ini adalah inisiatif yang sangat penting bagi kami. Pertama, ini merupakan kerja sama strategis yang mendalam dengan salah satu wallet asli Polkadot terbesar, Fearless Wallet.
+Pada akhir Juli, kami telah membuat kemajuan yang baik pada dua pencapaian pertama dari [open-source dApp API treasury grant](https://kusama.polkassembly.io/treasury/95) kami. Meskipun tidak terlihat banyak, sebenarnya ini adalah inisiatif yang sangat penting bagi kami. Pertama, ini merupakan kerja sama strategis yang mendalam dengan salah satu wallet native Polkadot terbesar, Fearless Wallet.
 
-Kedua, API sumber terbuka ini harus dapat menyediakan berbagai jenis aplikasi dengan tampilan yang memadai (tetapi hanya-baca) dari semua data kunci dalam Kusama chain. E.g. seorang pengembang dapat menggunakannya untuk membuat penjelajah chain mereka sendiri tanpa perlu secara langsung menanyakan data chain.
+Kedua, API open-source ini harus dapat menyediakan berbagai jenis aplikasi dengan tampilan yang memadai (tetapi read-only) dari semua data utama dalam Kusama chain. Contohnya. seorang pengembang dapat menggunakannya untuk membuat chain explorer mereka sendiri tanpa perlu secara langsung mengkueri data chain.
 
 Kami membangun ini dengan cara yang memudahkan untuk memperluas jumlah parachain yang terus bertambah. Ini juga akan memberikan dasar yang jauh lebih baik untuk membangun aplikasi baru di SubQuery, memungkinkan kami untuk bergabung dengan kemitraan baru lebih cepat!
 
@@ -32,7 +32,7 @@ Kami membangun ini dengan cara yang memudahkan untuk memperluas jumlah parachain
 
 Kami telah [bergabung dengan aliansi Patract Open Platform](https://subquery.medium.com/subquery-is-joining-the-patract-open-platform-91682c748a57) untuk bersama-sama mempromosikan pengembangan infrastruktur publik, mempromosikan evolusi teknologi kontrak, dan untuk mengembangkan ekosistem pengembangan kontrak Wasm.
 
-Kami percaya bahwa kontrak adalah bagian penting dari ekosistem Polkadot yang berkembang, menyediakan layanan pengindeksan data untuk kontrak Wasm selalu menjadi tujuan utama SubQuery. Sangat menarik untuk melihat bahwa Platform Terbuka telah menyatukan sejumlah besar proyek hebat, dan bahwa setiap orang bekerja sama untuk berkontribusi pada kemajuan kontrak Wasm yang sehat dan stabil.
+Kami percaya bahwa kontrak adalah bagian penting dari ekosistem Polkadot yang berkembang, menyediakan layanan pengindeksan data untuk kontrak Wasm selalu menjadi tujuan utama SubQuery. Sangat menarik untuk melihat bahwa Platform Terbuka telah menyatukan sejumlah besar proyek hebat, dan setiap orang bekerja sama untuk berkontribusi pada kemajuan kontrak Wasm yang sehat dan stabil.
 
 Awal bulan lalu saya bergabung dengan Jorrin Burns di Relay Chain Podcast Parity, kami berbicara tentang misi kami dan bagaimana kami bekerja dengan proyek di ekosistem kami. Kami juga membahas bagaimana kolaborasi dan umpan balik dari proyek Polkadot lainnya di New Zealand (seperti Acala dan Bitcountry) telah memengaruhi beberapa fitur nilai tambah kami, rencana jangka panjang kami untuk menjadi parachain, dan jalan menuju 1 miliar permintaan API.
 

@@ -2,7 +2,7 @@
 
 **Mở rộng phạm vi tiếp cận của chúng tôi**
 
-Chào mừng bạn đến với bản cập nhật hàng tháng mới nhất từ ​​SubQuery. Tiếp nối từ tháng trước, tháng 8 đã chứng kiến ​​sự mở rộng nhanh chóng về tốc độ phát triển của Cộng đồng của chúng tôi trên toàn thế giới! Chúng tôi cũng đang bận rộn với việc phân cấp nền tảng của mình khi chúng tôi chuẩn bị cho TGE trong những tháng tới.
+Chào mừng bạn đến với bản cập nhật hàng tháng mới nhất từ ​​SubQuery. Tiếp nối từ tháng trước, tháng 8 đã chứng kiến ​​sự mở rộng nhanh chóng về tốc độ phát triển của Cộng đồng của chúng tôi trên toàn thế giới! Chúng tôi cũng đang bận rộn với việc phân cấp nền tảng của mình cũng như chuẩn bị cho TGE trong những tháng tới.
 
 Trong bản cập nhật tháng này:
 
@@ -24,7 +24,7 @@ Tre đã rất xuất sắc trong việc dẫn dắt sự khởi đầu này và
 
 ## Cộng đồng tăng trưởng mạnh 🚀
 
-Sự phát triển trong cộng đồng của chúng tôi đã được tăng tốc trong tháng này với việc Discord của chúng tôi có gần 2.000 thành viên sôi nổi và đầy hỗ trợ. Chúng tôi cũng đã tăng lượng người xem trên Twitter của mình lên hơn 6.000 người theo dõi.
+Sự phát triển trong cộng đồng của chúng tôi đã được tăng tốc trong tháng này với việc Discord của chúng tôi có gần 2.000 thành viên sôi nổi và đầy hỗ trợ. Lượng người theo dõi chúng tôi trên Twitter đã tăng lên hơn 6.000.
 
 Chúng tôi đặc biệt hài lòng về sự tăng trưởng này vì trước tiên dự án của chúng tôi tập trung vào việc xây dựng một cộng đồng nhà phát triển nhỏ hơn nhưng chất lượng cao. Khi chúng tôi tiếp cận TGE của mình, những con số này sẽ bùng nổ khi chúng tôi chuyển trọng tâm sang đối tượng bán lẻ và nhà đầu tư.
 
