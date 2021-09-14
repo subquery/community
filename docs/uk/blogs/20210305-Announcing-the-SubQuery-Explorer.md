@@ -1,4 +1,4 @@
-# Announcing the SubQuery Explorer
+# Оголошення провідника SubQuery
 
 Since announcing SubQuery to the world just a month ago, the response and feedback we’ve received from the Polkadot community has been overwhelmingly positive. We’ve gained thousands of followers on our channels, and there have been over 1,353 installs from NPM. It’s inspiring to receive all the messages of support, and to see the engagement from the community. **It’s time for us to give something back!**
 

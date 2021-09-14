@@ -1,4 +1,4 @@
-# June 2021 Recap
+# Підсумок червня 2021
 
 ## Things are getting busy 🔥
 
@@ -40,4 +40,4 @@ Heading into next month we look to continue our rapid growth and are working on 
 
 James, Sam, and the SubQuery Team
 
-[Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Medium](https://subquery.medium.com/)
+[ Веб -сайт ](https://subquery.network/) | [ Електронна пошта ](mailto:hello@subquery.network) | [ Діскорд ](https://discord.com/invite/78zg8aBSMG) | [ Telegram ](https://t.me/subquerynetwork) | [ Twitter ](https://twitter.com/subquerynetwork) | [ Мatrix ](https://matrix.to/#/#subquery:matrix.org) | [ LinkedIn ](https://www.linkedin.com/company/subquery) | [ Медіум ](https://subquery.medium.com/)

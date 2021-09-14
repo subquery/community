@@ -1,4 +1,4 @@
-# SubQuery is Joining the Patract Open Platform
+# SubQuery приєднується до відкритої платформи Patract
 
 ![](https://miro.medium.com/max/1400/0*0inUQ8U1g9auTjfU)
 
