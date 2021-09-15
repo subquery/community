@@ -1,29 +1,29 @@
-# Dağıtım Yuvaları, SubQuery Projeleri için burada
+# Deployment Slots are here for SubQuery Projects
 
-> Bugün, SubQuery'nin barındırılan hizmetindeki geliştirici deneyimini iyileştiren yepyeni bir özellik olan dağıtım yuvalarını sunuyoruz.
+> Today we’re introducing deployment slots, a whole new feature that improves the developer experience in SubQuery’s hosted service.
 
-[SubQuery Proje](https://project.subquery.network/)leri, zincir kaşifler, cüzdanlar, NFT kaşifler veya diğerleri olsun, birçok Proje için zaten yönetilen ve barındırılan bir hizmet olarak kullanılmaktadır. Müşterilerimizin güvendiği bir hizmettir.
+[SubQuery Projects](https://project.subquery.network/) is already being used as a managed and hosted service for many Projects, whether they’re chain explorers, wallets, NFT explorers, or others. It’s a service that our customers rely on.
 
 ![](https://miro.medium.com/max/1400/0*PugDgh6weZspRIO2)
 
-Artık yalıtılmış bir hazırlama yuvasına dağıtabilirsiniz
+You can now deploy to a isolated staging slot
 
-SubQuery altyapısını her zaman kendiniz çalıştırabilseniz de (kendi düğümünüz ve sorgu hizmetinizle), barındırılan hizmetimizi Polkadot/Substrate ekosistemindeki en güvenilir, esnek ve performanslı veri sağlayıcısı yapmayı amaçlıyoruz.
+Although you can always run SubQuery’s infrastructure yourself (with your own node and query service), we aim to make our hosted service the most reliable, resilient, and performant data provider in the Polkadot/Substrate ecosystem.
 
-[SubQuery Projelerinin ](https://project.subquery.network/) yaratıcıları, Projelerini ve bu projelerdeki verileri sürekli olarak geliştirmekte ve güncellemektedir. Ne yazık ki, büyük bir değişiklik durumunda zincir verilerinin yeniden endekslenmesi günler olmasa da saatler sürer - nihai olarak hedefimiz, Projenizi güncellemenize, verilerinizi yeniden dizine eklemenize ve barındırılan SubQuery Projelerinizi **sıfır kesinti** süresiyle yükseltmenize izin vermektir
+Creators of [SubQuery Projects](https://project.subquery.network/) are constantly improving and updating their Projects and the data within those projects. Unfortunately it takes hours if not days to reindex chain data in the event of a major change — ultimately our goal to to allow you to update your Project, reindex your data, and upgrade your hosted SubQuery Projects with **zero downtime**
 
-**Dağıtım yuvaları bunu çözmek için burada**
+**That’s what deployment slots are here to solve**
 
 ![](https://miro.medium.com/max/1400/0*vQ33aqhn1eVllo5t)
 
-Hazırlama yuvanız, birincil üretim yuvasından bağımsız olarak çalışır
+Your staging slot will run independently of the primary production slot
 
-Barındırılan hizmetimizde [SubQuery Projenize](https://project.subquery.network/) yeni bir dağıtım oluştururken, üretim veya hazırlama yuvasına dağıtmayı seçebilirsiniz. Bu iki yuva yalıtılmış ortamlardır, her birinin kendi veritabanı vardır ve bağımsız olarak eşitlenir. Hazırlama yuvanız bir kez başlayıp dizine eklemeyi tamamladıktan sonra, sıfır kesinti süresiyle üretime yükseltebilirsiniz.
+When creating a new deployment to your [SubQuery Project in our hosted service](https://project.subquery.network/), you can choose to either deploy to the production or staging slot. These two slots are isolated environments, each has its own database and sync independently. Once your staging slot has started and completed indexing, you can then promote it to production with zero downtime.
 
-Hazırlama yuvası aşağıdakiler için mükemmeldir:
+The staging slot is perfect for:
 
--   SubQuery Projenizdeki değişiklikleri ayrı bir ortamda doğrulama. Hazırlama yuvasının, dApp'lerinizde kullanabileceğiniz farklı bir üretim URL'si vardır.
--   Dapp'inizdeki kesinti süresini ortadan kaldırmak için güncellenmiş bir Alt Sorgu projesi için verileri ısıtma ve dizine ekleme
--   Alt Sorgu Projeniz için herkese açık hale getirmeden yeni bir sürüm hazırlamak. Hazırlama yuvası, Explorer'da herkese gösterilmez ve yalnızca sizin görebileceğiniz benzersiz bir URL'ye sahiptir.
+-   Validating changes to your SubQuery Project in a separate environment. The staging slot has a different URL to production that you can use in your dApps.
+-   Warming up and indexing data for an updated SubQuery project to eliminate downtime in your dApp
+-   Preparing a new release for your SubQuery Project without exposing it publicly. The staging slot is not shown to the public in the Explorer and has a unique URL that is visible only to you.
 
-Şimdi [SubQuery Projelerinde](https://project.subquery.network/)kendiniz deneyebilirsiniz.
+You can try it yourself now in [SubQuery Projects](https://project.subquery.network/).
