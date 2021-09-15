@@ -10,7 +10,7 @@ SubQuery zielt darauf ab, den Zugang zu dezentralisierten Blockchain-Daten zu ve
 
 Diese strategische Runde wurde gemeinsam von [Arrington Capital](https://arringtonxrpcapital.com/), [DCG](https://dcg.co/) und [Stratos Technologies](https://www.stratoslp.com/) geleitet und beinhaltete die Beteiligung von [Hypersphere Ventures](https://hypersphere.ventures/), [Neo Global Capital (NGC)](http://ngc.fund/), [Wintermute](https://www.wintermute.com/) und [Skynet Trading](http://skynettrading.com/). Es folgt auf eine Seed-Runde Anfang 2021, die [DeFi Alliance](https://defialliance.co/), [The LAO](https://www.thelao.io/), [Digital Renaissance](https://drf.ee/),
 
-P2P Capital</ umfasste. 3> und [Web3 Capital](https://web3.capital/).</p> 
+P2P Capital und [Web3 Capital](https://web3.capital/).
 
 
 
