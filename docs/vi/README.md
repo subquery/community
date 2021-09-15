@@ -4,7 +4,7 @@ SubQuery ở đây để giúp bạn chuyển đổi và truy vấn dữ liệu 
 
 Đây là kho lưu trữ toàn cầu của tất cả các blog cộng đồng, thông báo, bài viết và video từ SubQuery.
 
-**Read in your own language! You can change your language using the selector on the top right of all pages.**
+**Đọc bằng ngôn ngữ của bạn! Bạn có thể thay đổi ngôn ngữ của mình bằng cách sử dụng bộ chọn ở trên cùng bên phải của tất cả các trang.**
 
 ## Chúng tôi cần giúp đỡ trong việc dịch thuật!
 
