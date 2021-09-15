@@ -1,49 +1,43 @@
-# Karura lässt sich in SubQuery integrieren, um DeFi-Daten zu aggregieren und für Kusama-Builder bereitzustellen
+# Karura Integrates with SubQuery to Aggregate and Serve DeFi Data to Kusama Builders
 
 ![](https://cdn-images-1.medium.com/max/1600/0*EBj5be1webNUchfi)
 
-In den letzten Wochen feierten Karura und das Acala-Team den Start von [Karura Swap](https://apps.karura.network/), der ersten dezentralen Börse im Polkadot/Kusama-Ökosystem.
+In recent weeks, Karura and Acala team celebrated the launch of [Karura Swap](https://apps.karura.network/), the first decentralized exchange in the Polkadot/Kusama ecosystem.
 
-Heute untersuchen wir, wie SubQuery diesen Start ermöglicht hat. Karura verwendet SubQuery, um Daten aus Karuras Kette zu extrahieren und abzufragen, wodurch Abfragen für [Karuras App](https://apps.karura.network/) schnell und effizient werden.
+Today, we explore how SubQuery helped make this launch possible. Karura is using SubQuery to extract and query data from Karura's chain, making queries fast and efficient for [Karura's app](https://apps.karura.network/).
 
-> "Die Verwendung von Subquery macht das Erstellen von Dapps einfach, keine komplizierten Aufrufe mehr, um die benötigten Daten zu erhalten."* --- Brett (Entwickler bei Acala)*
+> "Using Subquery makes building dapps easy, no more making a complicated series of calls to get the data I need."* --- Brett (Developer at Acala)*
 
-Die Entwicklung von dApps auf Karura ist jetzt mit den neuen öffentlichen SubQuery-Projekten von Karura viel schneller. Es gibt ein öffentlich verfügbares [SubQuery-Projekt](https://explorer.subquery.network/subquery/AcalaNetwork/karura), das die Karura-Community forken und jede gewünschte dApp erstellen kann. Außerdem macht ein [Karura-Wörterbuch](https://explorer.subquery.network/subquery/AcalaNetwork/karura-dictionary) die [Indexierung viel schneller](https://subquery.medium.com/subquerys-just-got-a-lot-faster-with-the-dictionary-8a7a1447574).
+Developing dApps on Karura is now much faster with the new public SubQuery projects published by Karura. There is a publicly available [SubQuery project](https://explorer.subquery.network/subquery/AcalaNetwork/karura) that the Karura community can fork and build any dApp that they desire. Additionally, a [Karura Dictionary](https://explorer.subquery.network/subquery/AcalaNetwork/karura-dictionary) makes [indexing much faster](https://subquery.medium.com/subquerys-just-got-a-lot-faster-with-the-dictionary-8a7a1447574).
 
 ![](https://cdn-images-1.medium.com/max/1600/1*vvI_pI93mhe4kzSNQ2yMoQ.png)
 
-## Was ist Karura?
+## What is Karura?
 
-Karura wurde von der Acala Foundation gegründet und ist ein skalierbares, EVM-kompatibles Netzwerk, das für DeFi optimiert ist und auf Kusama basiert. Die Plattform bietet eine Reihe von Finanzanwendungen, darunter: ein vertrauenswürdiges Staking-Derivat (liquid KSM), eine multi-besicherte Stablecoin, die durch Cross-Chain-Assets (kUSD) abgesichert ist, und Karura Swap, ein AMM DEX --- alle mit Mikrogasgebühren, die kann in jedem Token bezahlt werden. Folgen Sie [hier](http://apps.karura.network), um die Live-App auszuprobieren, die SubQuery verwendet.
+Founded by the Acala Foundation, Karura is a scalable, EVM-compatible network optimized for DeFi, and built on Kusama. It's an all-in-one DeFi platform that offers a suite of financial applications including: a trustless staking derivative (liquid KSM), a multi-collateralized stablecoin backed by cross-chain assets (kUSD), and an AMM DEX (Karura Swap) --- all with micro gas fees that can be paid in any token. Go [here](http://apps.karura.network) to try the live app that uses SubQuery.
 
 ![](https://cdn-images-1.medium.com/max/1600/0*g174RcFJwJcw2ITS)
 
-Karura bietet auch ein ethisches und nachhaltiges Token-Verteilungsmodell sowie ein Karura-Schatzamt in der Kette, die beide seine Gemeinschaft und Langlebigkeit unterstützen. Karura war die erste Parachain, die eine Parachain-Slot-Auktion auf Kusama gewann und einen Crowdloan von mehr als 500.000 KSM (100 Mio. USD) von ihrer Community einsammelte. Weil Karura die neuartige Acala EVM nutzt, die Ethereum-Kompatibilität mit unbegrenzter Substrate*-Funktionalität ermöglicht, ist das Netzwerk darauf vorbereitet, den Einsatz führender DeFi-Projekte zu unterstützen, die darauf abzielen, ihre Dienste über Ethereum hinaus zu erweitern.
+Karura also provides an ethical and sustainable token distribution model as well as an on-chain Karura Treasury, both of which support its community and longevity. Karura was the first parachain to win a parachain slot auction on Kusama, gathering a crowdloan upwards of 500,000 KSM ($100M USD) from its community. Because Karura leverages the novel Acala EVM, which enables Ethereum compatibility with unlimited Substrate* functionality, the network is primed to support the deployment of leading DeFi projects who aim to expand their services beyond Ethereum.
 
-*[Substrat](http://substrate.dev/) *ist das Blockchain-Building-Framework zum Aufbauen auf Polkadot und Kusama*
+*[Substrate](http://substrate.dev/) *is the blockchain-building framework for building on Polkadot and Kusama*
 
-[Lesen Sie hier mehr in einem Karura Deep Dive](https://medium.com/acalanetwork/countdown-to-karura-a-deep-dive-on-the-defi-hub-of-kusama-410066fc1e1f)
+[Read more in a Karura deep dive here](https://medium.com/acalanetwork/countdown-to-karura-a-deep-dive-on-the-defi-hub-of-kusama-410066fc1e1f)
 
-## Offene Tools für Karura DApp Builder
+## Open Tools for Karura DApp Builders
 
-Es liegt nun an der Karura-Community, die erste Community-dApp im DeFi-Hub von Kusama zu erstellen. Unten ist ein einfaches Beispiel dafür, wie Karura SubQuery verwenden kann, um die vergangenen Extrinsics (und die darin enthaltenen Transfers) für jedes Konto auf Karura zu finden und abzurufen --- Sie können sehen, dass dies vollständig online im
-
-SubQuery-Explorer<. erfolgt /0>.</p> 
+It's now up to the Karura community to build the first community dApp in the DeFi hub of Kusama. Below is a simple example of how Karura can use SubQuery to find and retrieve the past extrinsics (and the transfers within them) for any account on Karura --- you can see that this is made completely online in the [SubQuery explorer](https://explorer.subquery.network/subquery/AcalaNetwork/karura).
 
 ![](https://cdn-images-1.medium.com/max/1600/0*t6stH0LeQC8M5fSp)
 
+## About SubQuery
 
+[SubQuery](https://subquery.network/) is a data aggregation layer that will operate between the layer-1 blockchains (Karura) and dApps. SubQuery allows dApp developers to explore and transform on-chain data to build intuitive dApps faster, without needing to worry about building or managing custom backends for data processing. [Get started now](https://doc.subquery.network/).
 
-## Über SubQuery
+[Website](https://subquery.network/) | [Documentation](https://doc.subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
 
-[SubQuery](https://subquery.network/) ist eine Datenaggregationsschicht, die zwischen den Schicht-1-Blockchains (Kusama) und Dapps (wie Kodadot) operiert. SubQuery ermöglicht den dApp-Entwicklern, On-Chain-Daten zu untersuchen und zu transformieren, um intuitive dApps schneller zu erstellen, ohne sich um die Erstellung oder Verwaltung benutzerdefinierter Backends für die Datenverarbeitung kümmern zu müssen. [Jetzt loslegen](https://doc.subquery.network/).
+## About Karura
 
-[Webseite](https://subquery.network/) | [Dokumentation](https://doc.subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
+[Karura](http://acala.network/karura) is the all-in-one DeFi hub of Kusama. Founded by the Acala Foundation, Karura is a scalable, EVM-compatible network optimized for DeFi. The platform offers a suite of financial applications including: a trustless staking derivative (liquid KSM), a multi-collateralized stablecoin backed by cross-chain assets (kUSD), and Karura Swap, an AMM DEX --- all with micro gas fees that can be paid in any token. Karura is a blockchain platform custom-built for DeFi and powered by KAR, which enables settlement for transactions and smart contract execution, incentivizes node operators, and empowers its holders to participate in governance.
 
-
-
-## Über Karura
-
-[Karura](http://acala.network/karura) ist der All-in-One-DeFi-Hub von Kusama. Karura wurde von der Acala Foundation gegründet und ist ein skalierbares, EVM-kompatibles Netzwerk, das für DeFi optimiert ist. Die Plattform bietet eine Reihe von Finanzanwendungen, darunter: ein vertrauenswürdiges Staking-Derivat (liquid KSM), eine multi-besicherte Stablecoin, die durch Cross-Chain-Assets (kUSD) abgesichert ist, und Karura Swap, ein AMM DEX --- alle mit Mikrogasgebühren, die kann in jedem Token bezahlt werden. Karura ist eine speziell für DeFi entwickelte und von KAR betriebene Blockchain-Plattform, die die Abwicklung von Transaktionen und die Ausführung intelligenter Verträge ermöglicht, Anreize für Knotenbetreiber schafft und ihren Inhabern die Teilnahme an der Governance ermöglicht.
-
-[Linktree](http://linktr.ee/karuranetwork) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) | [Discord](https://discord.gg/vdbFVCH) | [Webseite](http://acala.network/karura) | [Twitter](https://twitter.com/KaruraNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [YouTube](http://youtube.com/c/acalanetwork)
+[Linktree](http://linktr.ee/karuranetwork) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) | [Discord](https://discord.gg/vdbFVCH) | [Website](http://acala.network/karura) | [Twitter](https://twitter.com/KaruraNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [YouTube](http://youtube.com/c/acalanetwork)
