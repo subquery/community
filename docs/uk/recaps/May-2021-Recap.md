@@ -1,4 +1,4 @@
-# May 2021 Recap
+# Підсумок травня 2021
 
 ![](https://miro.medium.com/max/1400/1*5E_eIJBTvHI7W24ib_Syvw.png)
 
@@ -48,4 +48,4 @@ Next month we’ve got some exciting new announcements to share with our communi
 
 James, Sam, and the SubQuery Team
 
-[Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Medium](https://subquery.medium.com/)
+[ Веб -сайт ](https://subquery.network/) | [ Електронна пошта ](mailto:hello@subquery.network) | [ Діскорд ](https://discord.com/invite/78zg8aBSMG) | [ Telegram ](https://t.me/subquerynetwork) | [ Twitter ](https://twitter.com/subquerynetwork) | [ Мatrix ](https://matrix.to/#/#subquery:matrix.org) | [ LinkedIn ](https://www.linkedin.com/company/subquery) | [ Медіум ](https://subquery.medium.com/)
