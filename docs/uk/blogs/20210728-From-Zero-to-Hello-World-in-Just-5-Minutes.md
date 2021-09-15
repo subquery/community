@@ -1,4 +1,4 @@
-# Від Нуля до Привіт Світ всього за 5 хвилин
+# From Zero to Hello World in Just 5 Minutes
 
 ![](https://miro.medium.com/max/1400/1*g51P_PPoseNqEfCBgvpXXA.png)
 
