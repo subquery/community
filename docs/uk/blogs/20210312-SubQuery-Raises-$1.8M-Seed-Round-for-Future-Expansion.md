@@ -1,8 +1,8 @@
-# SubQuery Raises $1.8M Seed Round for Future Expansion
+# SubQuery збирає 1,8 мільйона доларів на майбутнє розширення
 
 ![](https://miro.medium.com/max/1400/0*CrM8-LKRt3slWAsN)
 
-**SubQuery, the service making decentralised data easier to query, announced today that it has successfully raised a US$1.8 million seed round and private sale backed primarily by** [**DeFi Alliance**](https://defialliance.co/)**,** [**D1 Ventures**](https://d1.ventures/)**,** [**Hypersphere Ventures**](https://hypersphere.ventures/)**,** [**Digital Finance Group (DFG)**](https://www.dfg.group/)**, and** [**The Lao**](https://www.thelao.io/)**. The overwhelming demand we received to back SubQuery’s seed round shows the strong interest in infrastructure services and belief in the future of the Polkadot ecosystem.**
+**SubQuery, сервіс, що полегшує запит децентралізованих даних, оголосив сьогодні, що він успішно зібрав 1,8 мільйона доларів США у посівному раунді і приватному раунді продажу за підтримки** [**DeFi Alliance**](https://defialliance.co/)**,** [**D1 Ventures**](https://d1.ventures/)**,** [**Hypersphere Ventures**](https://hypersphere.ventures/)**,** [**Digital Finance Group (DFG)**](https://www.dfg.group/)** та [**The Lao**](https://www.thelao.io/)**. The overwhelming demand we received to back SubQuery’s seed round shows the strong interest in infrastructure services and belief in the future of the Polkadot ecosystem.**
 
 SubQuery allows every Substrate/Polkadot team to process and query their data. The project is inspired by the growth of data protocols serving the application layer and its aim is to help Polkadot/Substrate projects build better dApps by allowing anyone to reliably find and consume data faster. Today, anyone can query and extract Polkadot network data in only minutes and at no cost.
 
@@ -12,7 +12,7 @@ OnFinality is the team behind SubQuery, who are an infrastructure SaaS platform 
 
 > _“Hypersphere is excited to back Sam and the SubQuery team as they quickly build the first indexing protocol to focus exclusively on the Polkadot ecosystem.”_ — Jack Platts, Co-Founder at Hypersphere Ventures
 
-Led by Sam Zou, CEO of SubQuery, the team [received a grant from the Web3 foundation](https://subquery.medium.com/subquery-delivers-its-open-source-sdk-following-a-web3-foundation-grant-20da26ae87f) in December 2020 to build the initial phase of SubQuery, an open source project that allows users to run an indexer across their chain to build a dataset that can be queried with GraphQL.
+Під керівництвом Сам Цзю, генерального директора SubQuery, команда [отримала грант з фонду Web3](https://subquery.medium.com/subquery-delivers-its-open-source-sdk-following-a-web3-foundation-grant-20da26ae87f) в грудні 2020 року для побудови початкової фази SubQuery, проект з відкритим вихідним кодом, який дозволяє користувачам запускати індексацію з різних ланцюжків для створення бази даних, котрі можна перевірити за допомогою GraphQL.
 
 ![](https://miro.medium.com/max/1000/0*kjspGYRr_BtMk015)
 
