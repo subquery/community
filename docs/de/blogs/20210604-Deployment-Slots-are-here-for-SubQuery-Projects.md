@@ -1,29 +1,29 @@
-# Bereitstellungsslots sind hier für SubQuery-Projekte
+# Deployment Slots are here for SubQuery Projects
 
-> Heute führen wir Bereitstellungsplätze ein, eine völlig neue Funktion, die die Entwicklererfahrung im gehosteten Dienst von SubQuery verbessert.
+> Today we’re introducing deployment slots, a whole new feature that improves the developer experience in SubQuery’s hosted service.
 
-[SubQuery Projects](https://project.subquery.network/) wird bereits als verwalteter und gehosteter Dienst für viele Projekte verwendet, egal ob es sich um Chain-Explorer, Wallets, NFT-Explorer oder andere handelt. Es ist ein Service, auf den sich unsere Kunden verlassen.
+[SubQuery Projects](https://project.subquery.network/) is already being used as a managed and hosted service for many Projects, whether they’re chain explorers, wallets, NFT explorers, or others. It’s a service that our customers rely on.
 
 ![](https://miro.medium.com/max/1400/0*PugDgh6weZspRIO2)
 
-Du kannst jetzt einen isolierten Staging-Slot einrichten
+You can now deploy to a isolated staging slot
 
-Obwohl Sie die Infrastruktur von SubQuery jederzeit selbst betreiben können (mit Ihrem eigenen Knoten- und Abfragedienst), möchten wir unseren gehosteten Dienst zum zuverlässigsten, widerstandsfähigsten und leistungsfähigsten Datenanbieter im Polkadot/Substrate-Ökosystem machen.
+Although you can always run SubQuery’s infrastructure yourself (with your own node and query service), we aim to make our hosted service the most reliable, resilient, and performant data provider in the Polkadot/Substrate ecosystem.
 
-Ersteller von [SubQuery-Projekten](https://project.subquery.network/) verbessern und aktualisieren ihre Projekte und die Daten in diesen Projekten ständig. Leider dauert es Stunden, wenn nicht sogar Tage, um Kettendaten im Falle einer größeren Änderung neu zu indizieren – letztendlich ist es unser Ziel, Ihnen zu ermöglichen, Ihr Projekt zu aktualisieren, Ihre Daten neu zu indizieren und Ihre gehosteten SubQuery-Projekte mit **ohne Ausfallzeiten</0 zu aktualisieren ></p>
+Creators of [SubQuery Projects](https://project.subquery.network/) are constantly improving and updating their Projects and the data within those projects. Unfortunately it takes hours if not days to reindex chain data in the event of a major change — ultimately our goal to to allow you to update your Project, reindex your data, and upgrade your hosted SubQuery Projects with **zero downtime**
 
-**Das ist es, was Deployment-Slots hier lösen sollen**
+**That’s what deployment slots are here to solve**
 
 ![](https://miro.medium.com/max/1400/0*vQ33aqhn1eVllo5t)
 
-Ihr Staging-Slot wird unabhängig vom primären Produktionsslot ausgeführt
+Your staging slot will run independently of the primary production slot
 
-Wenn Sie eine neue Bereitstellung für Ihr [SubQuery-Projekt in unserem gehosteten Dienst](https://project.subquery.network/) erstellen, können Sie entweder die Bereitstellung im Produktions- oder Staging-Slot auswählen. Diese beiden Slots sind isolierte Umgebungen, jeder hat seine eigene Datenbank und synchronisiert unabhängig. Sobald der Staging-Slot gestartet und die Indizierung abgeschlossen ist, können Sie ihn dann zur Produktion mit Null Ausfallzeit werben.
+When creating a new deployment to your [SubQuery Project in our hosted service](https://project.subquery.network/), you can choose to either deploy to the production or staging slot. These two slots are isolated environments, each has its own database and sync independently. Once your staging slot has started and completed indexing, you can then promote it to production with zero downtime.
 
-Der Staging-Slot ist perfekt für:
+The staging slot is perfect for:
 
--   Überprüfen von Änderungen an Ihrem SubQuery-Projekt in einer separaten Umgebung. Der Staging-Slot hat eine andere URL als die Produktion, die Sie in Ihren dApps verwenden können.
--   Aufwärmen und Indizieren von Daten für ein aktualisiertes SubQuery-Projekt, um Ausfallzeiten in Ihrer dApp zu vermeiden
--   Eine neue Version für Ihr SubQuery Projekt vorbereiten, ohne es öffentlich freizugeben. Der Staging-Slot wird der Öffentlichkeit im Explorer nicht angezeigt und hat eine einzigartige URL, die nur für Sie sichtbar ist.
+-   Validating changes to your SubQuery Project in a separate environment. The staging slot has a different URL to production that you can use in your dApps.
+-   Warming up and indexing data for an updated SubQuery project to eliminate downtime in your dApp
+-   Preparing a new release for your SubQuery Project without exposing it publicly. The staging slot is not shown to the public in the Explorer and has a unique URL that is visible only to you.
 
-Sie können es jetzt in [SubQuery-Projekten](https://project.subquery.network/) selbst ausprobieren.
+You can try it yourself now in [SubQuery Projects](https://project.subquery.network/).
