@@ -1,83 +1,83 @@
-# บทสรุปของเดือนสิงหาคม 2021
+# August 2021 Recap
 
-**การเติบโตของเรา**
+**Expanding Our Reach**
 
-ยินดีต้อนรับสู่การอัปเดตรายเดือนล่าสุดจาก SubQuery ต่อเนื่องจากเดือนที่แล้ว ในเดือนสิงหาคมนี้เราได้เห็นการเติบโตอย่างรวดเร็วของชุมชนของเราทั่วโลก! และเรายังคงยุ่งอยู่กับการกระจายอำนาจแพลตฟอร์มของเราในขณะที่กำลังเตรียมความพร้อมสำหรับ TGE ในอีกไม่กี่เดือนข้างหน้าอีกด้วย
+Welcome to the latest monthly update from SubQuery. Following on from last month, August has seen rapid expansion in the growth of our Community around the world! We have also been busy working on decentralising our platform as we prepare for a TGE in the coming months.
 
-ในการอัปเดตรายเดือนนี้:
+In this monthly update:
 
--   ปฐมนิเทศน์แอมบาสเดอร์ 👩‍💼
--   เริ่มงานบนเครือข่าย SubQuery 🏗
--   การเติบโตอย่างมหาศาลของชุมชน 🚀
--   โปรเจกต์ใหม่บน SubQuery 🤝
--   AMA กับ DotMarketCap 🎙
--   กิจกรรมในประเทศจีน 🇨🇳
--   ส่งมอบความสำเร็จครั้งที่ 2 ของ Polkadot Common API ✅
+-   Onboarding Ambassadors 👩‍💼
+-   Kicked off work on the SubQuery Network 🏗
+-   Huge Community Growth 🚀
+-   New Projects on SubQuery 🤝
+-   AMA with DotMarketCap 🎙
+-   Activity in China 🇨🇳
+-   Delivering the 2nd Milestone of Polkadot Common API ✅
 
-## ปฐมนิเทศน์แอมบาสเดอร์ 👩‍💼
+## Onboarding Ambassadors 👩‍💼
 
 ![](https://miro.medium.com/max/1400/0*_nOcsPjhQxta_FPH)
 
-หลังจาก[เปิดตัวโปรแกรมแอมบาสเดอร์](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804)เมื่อเดือนที่แล้ว เรารู้สึกทึ่งกับความตื่นเต้นในชุมชนและคุณภาพของผู้เข้าร่วมโปรแกรม จนถึงตอนนี้ เราได้รับใบสมัครจากเกือบ 2,000 คนในแทบทุกทวีป (เรากำลังรอใบสมัครจากแอนตาร์กติกาอยู่ ☃️) และได้ปฐมนิเทศน์ไปมากกว่า 30 คนแล้ว
+After [launching our Ambassador program](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) last month, we have been amazed by the excitement in the community and quality of the participants. To date, we have received just under 2,000 applications almost every continent (we're calling out for applications from Antarctica ☃️) and onboarded over 30 people thus far.
 
-Tre ทำงานได้อย่างยอดเยี่ยมในการเป็นผู้นำโปรแกรมนี้และ[มีส่วนร่วมกับชุมชนบน Discord](https://discord.com/invite/78zg8aBSMG) เนื่องจากเราได้เห็นถึงประโยชน์ของการมีความสัมพันธ์ที่ใกล้ชิดกับผู้สนับสนุน SubQuery แล้ว เรากำลังจะขยายทีมในอีกไม่กี่สัปดาห์ข้างหน้า ดังนั้นโปรดอดใจรอหากคุณยังไม่ได้รับการติดต่อจากเรา!
+Tre has been doing an excellent job leading this initiative and [engaging with the community on Discord](https://discord.com/invite/78zg8aBSMG). As we are already seeing the benefits of having a closer relationship with the supporters of SubQuery, we will be expanding the team in the next few weeks so please be patient if you haven't heard from us yet!
 
-## การเติบโตอย่างมหาศาลของชุมชน 🚀
+## Huge Community Growth 🚀
 
-การเติบโตในชุมชนของเราเพิ่มขึ้นอย่างรวดเร็วในเดือนนี้ โดย Discord ของเรามีสมาชิกที่กระตือรือร้นและคอยสนับสนุนเกือบ 2,000 คน อีกทั้งเรายังมีจำนวนผู้ติดตาม Twitter ของเราเพิ่มขึ้นมากกว่า 6,000 คน
+The growth in our community has been accelerating this month with our Discord blasting nearing 2,000 vibrant and supportive members. We have also grown our Twitter audience to over 6,000 followers.
 
-เรายินดีเป็นอย่างยิ่งกับการเติบโตนี้ เนื่องจากโปรเจกต์ของเรามุ่งเน้นที่การสร้างชุมชนนักพัฒนาที่มีขนาดเล็กแต่คุณภาพสูงเป็นอันดับแรก และขณะที่เรากำลังขยับเข้าใกล้ TGE มากขึ้น ตัวเลขเหล่านี้น่าจะพุ่งขึ้นอย่างรวดเร็วเมื่อเราหันไปโฟกัสที่กลุ่มผู้ค้าปลีกและนักลงทุน
+We are particularly pleased about this growth as our project has focused on building a smaller but high quality developer community firstly. As we approach our TGE, these numbers should explode as we shift focus to the retail and investor audience.
 
-Rob ได้เข้าร่วมทีมของเราในฐานะหัวหน้าฝ่ายการตลาดคนใหม่เพื่อช่วยเราเร่งการเติบโตนี้ และทำให้มั่นใจได้ว่าชุมชนของเราจะมีส่วนร่วมและมีความกระตือรือร้นในระบบนิเวศ นอกจากนี้ เราขอต้อนรับ Tre ในฐานะผู้จัดการฝ่ายพัฒนาธุรกิจเชิงกลยุทธ์ในสหรัฐอเมริกาและยุโรป
+To help us accelerate this growth, and ensure that our community is engaged and active in the ecosystem, Rob has joined our team as our new Head of Marketing. Additionally, we also welcome Tre as our strategic business development manager in the US and Europe.
 
-## เริ่มต้นงานบนเครือข่าย SubQuery 🏗
+## Kicked off work on SubQuery Network 🏗
 
-ใช่แล้ว! งานเกี่ยวกับ[การย้าย SubQuery ไปยังเครือข่ายที่กระจายอำนาจและมีโทเค็น](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010); SubQuery Network ได้เริ่มขึ้นแล้ว! การโยกย้ายนี้จะช่วยทำให้แน่ใจว่าไม่มีจุดผิดพลาดสำหรับ SubQuery และเพื่อเป็นการจูงใจผู้เข้าร่วมผ่านโทเค็น SQT โดยเราได้คัดเลือกนักพัฒนารายใหม่มาร่วมงานกับเราในเดือนนี้เพื่อช่วยในการเปลี่ยนแปลงครั้งสำคัญเช่นนี้
+Yes! The work on [moving SubQuery towards a decentralised and tokenised network](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010); the SubQuery Network, has begun! This migration will ensure that there is no single point of failure for SubQuery and to encourage participants via the SQT token. In order to help us with this significant change, we have recruited new developers to join us this month.
 
-## โปรเจกต์ใหม่บน SubQuery 🤝
+## New Projects on SubQuery 🤝
 
 ![](https://miro.medium.com/max/4800/1*yUruZPSKP_0BA6mA72P8xg.gif)
 
-ในเดือนสิงหาคม เราได้เปิดตัวโปรเจกต์ใหม่หลายโปรเจกต์บน SubQuery รวมถึง Subscan, Karura, Subscan, Polkaswap และ Soramitsu
+In August we launched several new projects on SubQuery including those with Subscan, Karura, Subscan, Polkaswap, and Soramitsu.
 
-สำหรับ Karura นั้น [SubQuery ถูกใช้เพื่อดึงและ query ข้อมูลจากเชนของ Karura](https://subquery.medium.com/karura-integrates-with-subquery-to-aggregate-and-serve-defi-data-to-kusama-builders-d34f0e722311?source=your_stories_page-------------------------------------) ทำให้การสืบค้นรวดเร็วและมีประสิทธิภาพสำหรับ[แอปของ Karura](https://apps.karura.network/)
+For Karura, [SubQuery is being used to extract and query data from Karura's chain](https://subquery.medium.com/karura-integrates-with-subquery-to-aggregate-and-serve-defi-data-to-kusama-builders-d34f0e722311?source=your_stories_page-------------------------------------), making queries fast and efficient for [Karura's app](https://apps.karura.network/).
 
-บริการของ SubQuery มีบทบาทสำคัญใน [Subscan](https://www.subscan.io/) โดย[การให้บริการข้อมูลธุรกรรมที่มีความรวดเร็ว](https://subquery.medium.com/subscans-multi-signature-tool-powered-by-subquery-926da3e4fc25?source=your_stories_page-------------------------------------)สำหรับ multi signature address ซึ่งช่วยปรับปรุง UX และทำให้สามารถใช้ฟีเจอร์ขั้นสูงเพิ่มเติมได้
+SubQuery's service is playing a key role in [Subscan](https://www.subscan.io/) by [providing fast data on transactions](https://subquery.medium.com/subscans-multi-signature-tool-powered-by-subquery-926da3e4fc25?source=your_stories_page-------------------------------------) for any given multi signature address, thereby improving the UX and allowing for more advanced features.
 
-[SORA](https://sora.org/) ได้สร้าง [SubQuery Project ที่ดึงข้อมูลจากเครือข่าย SORA](https://subquery.medium.com/sora-integrates-subquery-to-provide-data-to-the-sora-network-5a73f77a40aa?source=your_stories_page-------------------------------------) เพื่อขับเคลื่อนแอปพลิเคชันมือถือที่สร้างบน SORA และ [Polkaswap.io](http://polkaswap.io/) คุณสามารถอ่านเพิ่มเติมได้ที่นี่
+[SORA](https://sora.org/) has built a [SubQuery Project that retrieves data from the SORA network](https://subquery.medium.com/sora-integrates-subquery-to-provide-data-to-the-sora-network-5a73f77a40aa?source=your_stories_page-------------------------------------) to power mobile applications built on SORA and [Polkaswap.io](http://polkaswap.io/). You can read more here
 
-ในทั้งสองเคส เรารู้สึกขอบคุณที่ได้รับการตอบรับที่ดีเช่นนี้จากพาร์ทเนอร์ของเรา:
+In both cases, we are thankful to have such great feedback like this from our partners:
 
-*"การใช้ Subquery ทำให้การสร้าง dapps เป็นเรื่องง่าย โดยไม่ต้องทำการเรียกข้อมูลที่ซับซ้อนอีกต่อไปเพื่อให้ได้ข้อมูลที่ฉันต้องการ"* - Brett (นักพัฒนาจาก Acala)
+*"Using Subquery makes building dapps easy, no more making a complicated series of calls to get the data I need."* - Brett (Developer at Acala)
 
-*"SubQuery เป็นคำตอบในอุดมคติสำหรับความต้องการของเรา เนื่องจากแอปพลิเคชันนั้นมีความง่ายต่อการปรับใช้และจัดการ, สามารถเรียนรู้และพัฒนาได้ง่าย, รวมทั้งมีการจัดทำเป็นเอกสารอย่างดีและยังมีโครงสร้างพื้นฐานของตัวเองที่มีการผสานรวมกับ Github อีกด้วย"* - ทีมพัฒนา SORA
+*"SubQuery has been the ideal solution for our needs because the application is easy to deploy and manage, it is easy to learn and develop as well as being well documented, and it also has its own infrastructure with Github integration"* - SORA Development Team
 
-[คุณสามารถดูโปรเจกต์ทั้งหมดได้ง่ายๆ ผ่าน Explorer ของเราที่นี่](https://explorer.subquery.network/)
+[You can view all projects easily via our Explorer here](https://explorer.subquery.network/).
 
-## AMA กับ DotMarketCap 🎙
+## AMA with DotMarketCap 🎙
 
-เรารู้สึกยินดีเป็นอย่างยิ่งที่ได้เข้าร่วม AMA ซึ่งจัดโดย DotMarketCap ในวันที่ 5 สิงหาคมที่ผ่านมากับ Sam และ James คำถามจากผู้ชมมีตั้งแต่ DeFi และ NFT ไปจนถึงคำถามมากมายเกี่ยวกับแผนการเติบโตและอนาคตของเรา และเราได้แบ่งปันข้อมูลเชิงลึกว่าทำไมเราจึงเริ่มโปรเจกต์ของเราบน Polkadot และโทเค็นของเราจะเปิดตัวเป็น ERC-20 หรือไม่
+We were delighted to be hosted by DotMarketCap on August 5th for an AMA with Sam and James. The questions from the audience ranged from areas such as DeFi and NFTs through to a lot of questions about our plans for growth and our future. We shared insights on why we began our project in Polkadot and if our token will be launched as an ERC-20 or not.
 
-[คุณสามารถอ่านบทสัมภาษณ์ได้ที่นี่](https://dotmarketcap.com/blog-detail/288/ama30-recap-polkawarriors-x-subquery)
+[You can read the interview here](https://dotmarketcap.com/blog-detail/288/ama30-recap-polkawarriors-x-subquery).
 
-## กิจกรรมในประเทศจีน 🇨🇳
+## Activity in China 🇨🇳
 
 ![](https://miro.medium.com/max/1400/0*A5oqsryFRbGX0MDx)
 
-Siqi ซึ่งเป็นผู้นำด้านการพัฒนาธุรกิจของเราในประเทศจีนนั้นยุ่งตลอดทั้งเดือนกับ[การอภิปรายออนไลน์ร่วมกับ Moonbeam](https://twitter.com/SubQueryNetwork/status/1425293137103122432/photo/1), Acala, Astar และ Phala นอกจากนี้ เธอยังได้เข้าร่วมงาน AMA ซึ่งจัดโดย Polkadot เมื่อวันที่ 11 สิงหาคม และ AMA ที่จัดโดย [ODaily](http://www.odaily.com/) และ Acala เมื่อวันที่ 13 สิงหาคมอีกด้วย
+Siqi, who leads our business development in China, has had a busy month with a number of [online panel discussions alongside Moonbeam](https://twitter.com/SubQueryNetwork/status/1425293137103122432/photo/1), Acala, Astar and Phala. In addition she has participated in AMA's organised by Polkadot on August 11th and an AMA hosted by [ODaily](http://www.odaily.com/) and Acala on August 13th.
 
-เราตั้งตารอที่จะขยายชุมชนชาวจีนของเราอย่างมีนัยสำคัญในอีกไม่กี่เดือนข้างหน้าผ่านกิจกรรมต่างๆ เช่น hackathon ดังนั้น[เราจึงจะจัดเวิร์กชอปกับ Encode Club](https://www.eventbrite.co.uk/e/polkadot-hackathon-subquery-workshop-tickets-167321106935?aff=ebdsoporgprofile) และจัด hackathon กับ OneBlock+ เพื่อช่วยแนะนำ SubQuery ให้กับผู้คนหน้าใหม่
+We are looking forward to growing our Chinese community significantly in the coming months through activities such as hackathons. As such, [we will be running a workshop with Encode Club](https://www.eventbrite.co.uk/e/polkadot-hackathon-subquery-workshop-tickets-167321106935?aff=ebdsoporgprofile) and running a hackathon with OneBlock+ to help introduce SubQuery to new audiences.
 
-## ส่งมอบความสำเร็จครั้งที่ 2 ของ Polkadot Common API ✅
+## Delivering the 2nd Milestone of Polkadot Common API ✅
 
-เรารู้สึกยินดีที่มีความคืบหน้าใน[การพัฒนา dApp API แบบ open-source ](https://docs.google.com/document/d/13L8HBwB6VB-n2g274FFFJKORYPJsq744C6H8iEDQ0-0/edit)สำหรับ Kusama ร่วมกับทีมงานจาก [Fearless Wallet](https://fearlesswallet.io/) ซึ่งงานนี้ได้รับการสนับสนุนเงินทุนจาก Kusama Treasury
+We are pleased to make progress in the [development of an open-source dApp API ](https://docs.google.com/document/d/13L8HBwB6VB-n2g274FFFJKORYPJsq744C6H8iEDQ0-0/edit)for Kusama in conjunction with the team at [Fearless Wallet](https://fearlesswallet.io/). This work is being supported by a Kusama Treasury grant.
 
-การใกล้จะเสร็จสิ้นขั้นที่สองในโปรเจกต์นี้นั้นหมายความว่าเร็วๆ นี้จะมีอินเทอร์เฟซ API ข้อมูลหลักที่มีรูปแบบชัดเจนและสามารถใช้ได้ร่วมกันสำหรับ Polkadot, Kusama และ Parachains อื่นๆ ซึ่งจะช่วยดึงดูดนักพัฒนาเข้าสู่ระบบนิเวศมากขึ้น เพราะการทำให้การพัฒนาเป็นไปอย่างง่ายดายและเกิดปัญหาน้อยที่สุดคือหนึ่งในวัตถุประสงค์หลักของเรา!
+Nearing completion of the second milestone in this project means that there will soon be a defined and common core data API interface for Polkadot, Kusama, and other parachains which will attract more developers to the ecosystem. Making development intuitive and as painless as possible is one of our key objectives!
 
 *****
 
-และเช่นเคย โปรดติดตามช่องทางโซเชียลของเราเพื่อรับข่าวสารและประกาศล่าสุดจากเรา
+As always, please join our social channels to stay updated on our latest news and announcements.
 
-James, Sam และทีม SubQuery
+James, Sam, and the SubQuery Team
 
-[Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
