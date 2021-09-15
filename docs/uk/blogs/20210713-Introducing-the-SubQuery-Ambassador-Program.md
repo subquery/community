@@ -1,4 +1,4 @@
-# Представляємо програму SubQuery Ambassador
+# Introducing the SubQuery Ambassador Program
 
 ![](https://miro.medium.com/max/1400/1*EC5wwTuoB6UK_EESGd8X8w.png)
 
