@@ -4,7 +4,7 @@
 
 **_เรารู้สึกตื่นเต้นที่จะนำเสนอโปรเจกต์ใหม่ SubQuery ซึ่งเป็นตัวอย่างที่ยอดเยี่ยมที่จะแสดงถึงพลังของ SubQuery_**
 
-เมื่อสัปดาห์ที่แล้ว [Subvis.io](https://www.subvis.io/) ได้เปิดตัว explorer ใหม่สำหรับการประมูลสล็อต Kusama parachain เว็บไซต์ใหม่นี้ให้ข้อมูลที่เป็นปัจจุบันตามบริบทเกี่ยวกับ crowdloans และการประมูลที่เพิ่งเริ่มต้นบน Kusama This new website provides contextual up-to-date information about the crowdloans and auctions that have just begun on Kusama.
+เมื่อสัปดาห์ที่แล้ว [Subvis.io](https://www.subvis.io/) ได้เปิดตัว explorer ใหม่สำหรับการประมูลสล็อต Kusama parachain เว็บไซต์ใหม่นี้ให้ข้อมูลที่เป็นปัจจุบันตามบริบทเกี่ยวกับ crowdloans และการประมูลที่เพิ่งเริ่มต้นบน Kusama
 
 
 ![](https://miro.medium.com/max/1400/1*iHO4P9JcW-Gt7GxqwXxa3g.png)
@@ -13,13 +13,13 @@
 
 [Subvis.io](https://www.subvis.io/) ได้แสดงให้เห็นว่าข้อมูลเชิงลึกทั้งหมดนั้นสามารถดึงมาจากข้อมูล on-chain ได้ ด้วยการเปิดเผยข้อมูลเครือข่ายนี้บน SubQuery
 
-> _“SubQuery made it easy to collect complicated chain data for Subvis and to sum it up for display in our website. “SubQuery ทำให้การรวบรวมข้อมูลเชนที่ซับซ้อนสำหรับ Subvis และการสรุปเพื่อแสดงผลในเว็บไซต์ของเราง่ายขึ้น โดยที่เราไม่จำเป็นต้องสร้างฐานข้อมูลใดๆ หรือปรับใช้สิ่งใดกับ AWS— โซลูชันที่ได้รับการส่งเสริมของ SubQuery นั้นทำงานได้เป็นอย่างดี!” — Subvis.io_
+> _“SubQuery ทำให้การรวบรวมข้อมูลเชนที่ซับซ้อนสำหรับ Subvis และการสรุปเพื่อแสดงผลในเว็บไซต์ของเราง่ายขึ้น โดยที่เราไม่จำเป็นต้องสร้างฐานข้อมูลใดๆ หรือปรับใช้สิ่งใดกับ AWS— โซลูชันที่ได้รับการส่งเสริมของ SubQuery นั้นทำงานได้เป็นอย่างดี!” — Subvis.io_
 
 บริการของ [SubQuery's](https://subquery.network/) ช่วยให้ [Subvis.io](https://www.subvis.io/) แปลงและรวบรวมข้อมูล Kusama และช่วยให้ผู้ใช้ทั่วไปอ่านและเข้าใจได้ง่ายยิ่งขึ้น
 
 ![](https://miro.medium.com/max/1400/1*0W6n5vW1yHc3MjfzgsCFZw.png)
 
-[SubQuery ทำให้เราสามารถ query](https://explorer.subquery.network/subquery/subvis-io/kusama-auction) การมีส่วนร่วมทั้งหมดของแต่ละ Parachain ได้อย่างง่ายดาย และดูว่าข้อมูลนี้เปลี่ยนแปลงอย่างไรเมื่อเวลาผ่านไป ยกตัวอย่างเช่น เราสามารถรับการสนับสนุนเดี่ยวที่ใหญ่ที่สุด 5 รายการสำหรับ crowdloans ผ่านการ query ด้านล่าง For example, we can get the 5 largest single contributions to crowdloans through the query below
+[SubQuery ทำให้เราสามารถ query](https://explorer.subquery.network/subquery/subvis-io/kusama-auction) การมีส่วนร่วมทั้งหมดของแต่ละ Parachain ได้อย่างง่ายดาย และดูว่าข้อมูลนี้เปลี่ยนแปลงอย่างไรเมื่อเวลาผ่านไป ยกตัวอย่างเช่น เราสามารถรับการสนับสนุนเดี่ยวที่ใหญ่ที่สุด 5 รายการสำหรับ crowdloans ผ่านการ query ด้านล่าง
 
 ![](https://miro.medium.com/max/1400/1*4509Ki-4lxJyz1kdm6E5PA.png)
 
@@ -31,11 +31,11 @@
 
 การเสนอราคา 3 รายการล่าสุดมาจาก Karura ทั้งหมดในสล็อต 13–20
 
-Subvis.io ใช้ [โปรเจกต์ SubQuery](https://project.subquery.network/) เพื่อจัดการโปรเจกต์ของตนเองและทำการอัปเดตเมื่อจำเป็น การจัดทำดัชนีและสืบค้นข้อมูล (query) สำหรับบริการนี้ได้รับการจัดการโดย SubQuery และให้บริการแก่ชุมชน Polkadot โดยไม่เสียค่าใช้จ่ายใน [SubQuery's Explorer](https://explorer.subquery.network/) The indexing and query services for this service is completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/).
+Subvis.io ใช้ [โปรเจกต์ SubQuery](https://project.subquery.network/) เพื่อจัดการโปรเจกต์ของตนเองและทำการอัปเดตเมื่อจำเป็น การจัดทำดัชนีและสืบค้นข้อมูล (query) สำหรับบริการนี้ได้รับการจัดการโดย SubQuery และให้บริการแก่ชุมชน Polkadot โดยไม่เสียค่าใช้จ่ายใน [SubQuery's Explorer](https://explorer.subquery.network/)
 
 [สำรวจชุดข้อมูล Subvis.io](https://explorer.subquery.network/subquery/subvis-io/kusama-auction)
 
-[SubQuery](https://subquery.network/) เป็นเลเยอร์การรวบรวมข้อมูลที่จะทำงานระหว่างบล็อคเชนเลเยอร์-1 (Kusama) และ DApps (เช่น Subvis.io) บริการนี้ช่วยให้นักพัฒนา DApp สามารถมุ่งเน้นไปที่การพัฒนาการใช้งานหลัก (core use case) และ front-end ของแอปโดยไม่ต้องเสียเวลาไปกับการสร้าง back-end ขึ้นเองสำหรับการประมวลผลข้อมูล This service allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+[SubQuery](https://subquery.network/) เป็นเลเยอร์การรวบรวมข้อมูลที่จะทำงานระหว่างบล็อคเชนเลเยอร์-1 (Kusama) และ DApps (เช่น Subvis.io) บริการนี้ช่วยให้นักพัฒนา DApp สามารถมุ่งเน้นไปที่การพัฒนาการใช้งานหลัก (core use case) และ front-end ของแอปโดยไม่ต้องเสียเวลาไปกับการสร้าง back-end ขึ้นเองสำหรับการประมวลผลข้อมูล
 
 เรียนรู้เพิ่มเติมเกี่ยวกับ SubQuery
 
