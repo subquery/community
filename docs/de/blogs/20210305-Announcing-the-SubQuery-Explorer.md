@@ -1,48 +1,48 @@
-# Announcing the SubQuery Explorer
+# Ankündigung des SubQuery Explorers
 
-Since announcing SubQuery to the world just a month ago, the response and feedback we’ve received from the Polkadot community has been overwhelmingly positive. We’ve gained thousands of followers on our channels, and there have been over 1,353 installs from NPM. It’s inspiring to receive all the messages of support, and to see the engagement from the community. **It’s time for us to give something back!**
+Seit der Ankündigung von SubQuery an die Welt vor nur einem Monat haben wir von der Polkadot Community eine überwältigende positive Antwort erhalten. Wir haben Tausende von Anhängern auf unseren Kanälen gewonnen und es gab mehr als 1.353 Installationen von NPM. Es ist inspirierend, alle Unterstützungsbotschaften zu erhalten und das Engagement der Community zu sehen. **Es ist an der Zeit, dass wir etwas zurückgeben!**
 
-We’ve been working overtime over the last month to release the next major stage of our roadmap for SubQuery. Today we’re announcing the release of the [SubQuery Explorer.](https://explorer.subquery.network/)
+Wir haben im letzten Monat Überstunden gemacht, um die nächste große Phase unserer Roadmap für SubQuery zu veröffentlichen. Heute kündigen wir die Veröffentlichung des [SubQuery-Explorers an.](https://explorer.subquery.network/)
 
 ![](https://miro.medium.com/max/1400/0*2bDaF3HPgNkpm8Kt)
 
-[SubQuery Explorer](https://explorer.subquery.network/) is an online hosted service that provides access to published SubQuery projects made by contributors around the world and managed by the SubQuery team. It furthers our mission to support Polkadot developers by providing infrastructure services by making accessing Polkadot network data even easier.
+[SubQuery Explorer](https://explorer.subquery.network/) ist ein gehosteter Online-Dienst, der Zugriff auf veröffentlichte SubQuery-Projekte bietet, die von Mitwirkenden auf der ganzen Welt erstellt und vom SubQuery-Team verwaltet werden. Es fördert unsere Mission, Polkadot-Entwickler durch die Bereitstellung von Infrastrukturdienstleistungen zu unterstützen, indem der Zugriff auf Polkadot-Netzwerkdaten noch einfacher wird.
 
-Today, anyone can query and extract Polkadot network data in only minutes and at no cost.
+Heute kann jeder die Netzwerkdaten von Polkadot in nur wenigen Minuten kostenlos abfragen und extrahieren.
 
-The SubQuery explorer makes getting started easy. We’ve prebuilt SubQuery projects for two use cases (more about these below) and have indexed each network. We’re hosting these SubQuery nodes online and allow anyone to query each for free. These managed nodes will be monitored and run by the SubQuery team at a performance level that will allow production apps to use and rely on them.
+Der SubQuery Explorer macht den Einstieg einfacher. Wir haben SubQuery Projekte für zwei Anwendungsfälle (mehr über diese weiter unten) erstellt und jedes Netzwerk indiziert. Wir hosten diese SubQuery-Knoten online und erlauben jedem, jeden kostenlos abzufragen. Diese verwalteten Knoten werden vom SubQuery-Team auf einem Leistungsniveau überwacht und ausgeführt, das es Produktionsanwendungen ermöglicht, sie zu verwenden und sich darauf zu verlassen.
 
 ![](https://miro.medium.com/max/1400/0*3hmnk6sNoO5pdOWc)
 
-You’ll also note that the SubQuery Explorer provides a playground for discovering available data with example queries. You can play around with each SubQuery Graph using this explorer without implementing anything in code. Additionally, we’ve made some small improvements to our documentation to better support developers on their journey to better query and analyse the world’s Polkadot data.
+Beachten Sie auch, dass der SubQuery Explorer einen Spielplatz zur Entdeckung verfügbarer Daten mit Beispielabfragen bietet. Sie können mit jedem SubQuery Graph spielen, indem Sie diesen Explorer verwenden, ohne etwas im Code zu implementieren. Zusätzlich haben wir einige kleine Verbesserungen an unserer Dokumentation vorgenommen, um Entwickler auf ihrem Weg zu besserer Abfrage zu unterstützen und die weltweiten Polkadot-Daten zu analysieren.
 
 ![](https://miro.medium.com/max/1400/0*V1Mjpi1-gAT6M8-q)
 
-## **Staking Sum SubQuery Project (**[GitHub Project Code](https://github.com/subquery/subql-examples/tree/main/sum-reward))
+## **Staking Sum SubQuery-Projekt (**[GitHub-Projektcode](https://github.com/subquery/subql-examples/tree/main/sum-reward))
 
-You can quickly find total staking revenue awarded to any account since the beginning of time by querying their account address. This subquery project indexes and records the accounts participating in the staking bond on the blockchain. The continued indexing will find out obtained staking reward and slashes for this account and aggregates their sums to a database.
+Sie können schnell die Gesamterlöse finden, die seit Beginn der Zeit an jedem Konto vergeben werden, indem Sie die Adresse des Kontos abfragen. Dieses Unterabfrageprojekt indiziert und protokolliert die Konten, die an der Staking-Anleihe auf der Blockchain teilnehmen. Die weitere Indexierung wird die erhaltene Prämie und Schrägstriche für dieses Konto herausfinden und ihre Summen zu einer Datenbank zusammenfassen.
 
-## **Validator Threshold SubQuery Project (**[GitHub Project Code](https://github.com/subquery/subql-examples/tree/main/validator-threshold))
+## **Validator Threshold SubQuery-Projekt (**[GitHub-Projektcode](https://github.com/subquery/subql-examples/tree/main/validator-threshold))
 
-You can quickly see the minimum staking amount required for a validator to be elected. This project is an excellent example of implementing query states in the mapping function. It first finds the active staking Era through a state query and records the validators of this session staking amount by each. It then calculates the minimum staking amount and the total amount staked in this Era. Lastly, it records the maximum number of nominators that can be rewarded.
+Sie können schnell den Mindesteinsatzbetrag sehen, der erforderlich ist, damit ein Validator gewählt wird. Dieses Projekt ist ein ausgezeichnetes Beispiel für die Implementierung von Abfragezuständen in der Mapping-Funktion. Es findet zuerst die aktive Absteckung Ära durch eine Zustandsabfrage und protokolliert die Validatoren dieser Session-Abfrage. Es berechnet dann den Mindesteinsatz und den Gesamtbetrag in diesem Era. Schließlich wird die maximale Anzahl von Nominatoren aufgezeichnet, die belohnt werden können.
 
-This SubQuery Explorer is just the first set of our plans to build a community hub for Polkadot data. We’re going to follow up with the following features:
+Dieser SubQuery Explorer ist nur der erste Satz unserer Pläne zum Aufbau eines Community-Hubs für Polkadot-Daten. Wir werden folgende Funktionen verfolgen:
 
--   We’re focusing on community tools, so you can expect more in depth developer documentation, easy to follow tutorials, and example projects that highlight some really cool use cases for the data that SubQuery surfaces.
--   More SubQuery projects will slowly come online based on community feedback,we’d love some ideas on what you’d love to see next — reach out on any of our social channels (see below)
--   We’re going to build a partner platform, so that our community can build and upload their own SubQuery projects and we’ll manage and host them for you for free.
+-   Wir konzentrieren uns auf Community-Tools, sodass Sie eine ausführlichere Entwicklerdokumentation, leicht verständliche Tutorials und Beispielprojekte erwarten können, die einige wirklich coole Anwendungsfälle für die Daten hervorheben, die SubQuery liefert.
+-   Weitere SubQuery-Projekte werden nach und nach auf Grundlage des Community-Feedbacks online gestellt.Wir würden uns über einige Ideen freuen, was Sie als Nächstes sehen möchten – kontaktieren Sie uns auf einem unserer sozialen Kanäle (siehe unten)
+-   Wir werden eine Partnerplattform aufbauen, damit unsere Community ihre eigenen SubQuery-Projekte erstellen und hochladen kann und wir sie kostenlos für Sie verwalten und hosten.
 
-Start querying data on the new [SubQuery Explorer](https://explorer.subquery.network/)
+Beginnen Sie mit der Datenabfrage im neuen [SubQuery Explorer](https://explorer.subquery.network/)
 
-Build your own SubQuery project by following our [SubQuery docs](https://doc.subquery.network/)
+Erstellen Sie Ihr eigenes SubQuery-Projekt, indem Sie unseren [SubQuery-Dokumenten](https://doc.subquery.network/) folgen
 
-Visit our [website](https://subquery.network/)
+Besuchen Sie unsere [-Website](https://subquery.network/)
 
-**Talk to us on:**
+**Sprechen Sie mit uns auf:**
 
 -   [hello@subquery.network](mailto:hello@subquery.network)
 -   [Discord](https://discord.com/invite/78zg8aBSMG)
--   [Telegram](https://t.me/subquerynetwork)
+-   [Telegramm](https://t.me/subquerynetwork)
 -   [Twitter](https://twitter.com/subquerynetwork)
 -   [Matrix](https://matrix.to/#/#subquery:matrix.org)
 -   [LinkedIn](https://www.linkedin.com/company/subquery)
