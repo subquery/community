@@ -2,30 +2,30 @@
 
 ![Subscan header.jpg](https://cdn-images-1.medium.com/max/1600/1*Xs3mJrvClJq3qBzWU48fjg.jpeg)
 
-[Tool wallet multi-signature](https://medium.com/r/?url=https%3A%2F%2Fmultisig.subscan.io%2F) baru dari Subscan dirancang untuk membantu orang lain di ekosistem Polkadot membuat dan mengelola akun dan transaksi multi-signature. Ini didukung oleh [Grants Program Web3 Foundation](https://github.com/w3f/Grants-Program/blob/master/applications/multisignature_management_tool.md) dan menyediakan layanan manajemen wallet multi-signature yang mudah untuk beberapa jaringan yang berbasis di Polkadot.
+Subscan's new [multi-signature wallet tool](https://medium.com/r/?url=https%3A%2F%2Fmultisig.subscan.io%2F) is designed to help others in the Polkadot ecosystem create and manage multi-signature accounts and transactions. It is supported by the [Web3 Foundation Grants Program](https://github.com/w3f/Grants-Program/blob/master/applications/multisignature_management_tool.md) and provides convenient multi-signature wallet management services for multiple networks based in Polkadot.
 
-Layanan SubQuery memainkan peran penting dalam alat ini yang menyediakan data transaksi yang cepat untuk setiap alamat multi signature yang diberikan, yang meningkatkan UX dan memungkinkan fitur yang lebih canggih.
+SubQuery's service plays a key part in this tool providing fast data on transaction for any given multi signature address, which improves the UX and allows more advanced features.
 
-![Pengguna dapat dengan mudah membuat alamat multi-signature baru](https://cdn-images-1.medium.com/max/1600/1*e4AALzw8xzERhzBJgPUktQ.png)
+![Users can easily create new multi-signature addresses](https://cdn-images-1.medium.com/max/1600/1*e4AALzw8xzERhzBJgPUktQ.png)
 
-> *"SubQuery telah memudahkan kami untuk mengindeks data untuk alat Multi-signature Subscan dan dapat dengan mudah dijalankan oleh tim kami. Layanan API Subscan telah distandarisasi, kami merekomendasikan SubQuery kepada pengguna kami ketika mereka memiliki lebih banyak persyaratan kustomisasi."* - Subscan
+> *"SubQuery has made it easy for us to index data for the Subscan Multi-signature tool and can be easily run by our team. Subscan's API service is standardised, we recommend SubQuery to our users when they have more customisation requirements."* - Subscan
 
 ![](https://cdn-images-1.medium.com/max/1600/1*Hy-1IxJ3ZNQX7qC38H19Bg.png)
 
-[Coba alatnya di sini](https://medium.com/r/?url=https%3A%2F%2Fmultisig.subscan.io%2F)
+[Try out the tool here](https://medium.com/r/?url=https%3A%2F%2Fmultisig.subscan.io%2F)
 
 ---
 
-## Tentang Subscan
+## About Subscan
 
-[Subscan.io](https://www.subscan.io/) adalah explorer multi-chain presisi tinggi yang dibuat untuk blockchain berbasis substrate. Subscan mendukung eksplorasi dan visualisasi data lebih dari 30 jaringan di ekosistem Polkadot.
+[Subscan.io](https://www.subscan.io/) is a high-precision multi-chain explorer built for substrate-based blockchains. Subscan supports data exploration and visualization of more than 30 networks in the Polkadot ecosystem.
 
-Subscan menyediakan layanan yang disesuaikan untuk jaringan ekologis, seperti modul EVM, multi-token, dll. Selain itu, Subscan juga menyediakan layanan API yang stabil, bagan data, dan aplikasi alat yang mudah digunakan.
+Subscan provides customized services for the ecological network, such as EVM module, multi-token, etc. In addition, Subscan also provides stable API services, data charts and convenient tool applications.
 
 [Website](https://www.subscan.io/) | [Email](mailto:hello@subscan.io) | [Medium](https://medium.com/subscan) | [Element](https://riot.im/app/#/room/!uaYUrKBueiKUurHliJ:matrix.org) | [Twitter](https://twitter.com/subscan_io/) | [GitHub](https://github.com/itering/subscan-essentials)
 
 ## Tentang SubQuery
 
-[SubQuery](https://subquery.network/) adalah layer agregasi data yang akan beroperasi antara layer-1 blockchain (Kusama) dan DApps (seperti Kodadot). Layanan ini memungkinkan pengembang DApp untuk fokus pada use case inti dan front-end mereka, tanpa perlu membuang waktu untuk membangun backend khusus untuk pemrosesan data.
+[SubQuery](https://subquery.network/) is a data aggregation layer that will operate between the layer-1 blockchains (Kusama) and DApps (like Kodadot). This service allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)
