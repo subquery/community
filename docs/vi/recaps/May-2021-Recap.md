@@ -14,7 +14,7 @@ Trong bản cập nhật tháng này:
 
 ![](https://miro.medium.com/max/640/1*bFOaBnLZUfhRxiQa7fjbwA.gif)
 
-Gần đây, chúng tôi đã tiếp cận với nhiều giao thức, ứng dụng DeFi, dApp, ví, nền tảng NFT, cầu nối chuỗi chéo và nhiều thứ nữa trên hệ sinh thái Polkadot. Chúng tôi đang lên kế hoạch cải thiện quy trình giới thiệu cho các đối tác mới để tăng tốc quá trình này với mã nguồn mẫu, các dự án đã sẵn sàng và thông tin tốt hơn cho nhà phát triển.
+We’ve been reaching out to many protocols, DeFi apps, dApps, Wallets, NFT platforms, cross-chain bridges and more across the Polkadot ecosystem recently. We’re planning on improving our onboarding process for new partners to speed this up with example code, ready made projects, and better information for developers.
 
 > Kỳ vọng các dự án mới của đối tác sẽ biến thành một cơn lũ.
 
@@ -28,11 +28,11 @@ Hãy xem Darwinia nói gì về chúng tôi
 
 ![](https://miro.medium.com/max/1400/0*Bc8P3mcH6rz-KtT0)
 
-> _ “Việc sử dụng SubQuery để truy vấn dữ liệu trên chuỗi của Darwinia đã trở nên rất đơn giản và linh hoạt. SubQuery coi dữ liệu blockchain như một biểu đồ và tận dụng khả năng mở rộng của GraphQL để giới thiệu chức năng bổ sung. Chúng tôi tin rằng trong tương lai, giao diện dữ liệu trên chuỗi substrate sẽ chủ yếu sử dụng GraphQL, SubQuery đang biến điều này thành hiện thực”._ - [Darwinia](https://subquery.medium.com/darwinias-network-data-is-now-available-for-free-in-subquery-b4f51c73fb15)
+> _“Using SubQuery to query Darwinia’s on-chain data has become very simple and flexible. SubQuery regards blockchain data as a graph, and leverages the extensibility of GraphQL to introduce additional functionality. We believe that in the future, the data interface on the substrate chain will mainly use GraphQL, SubQuery is making this a reality”._ — [Darwinia](https://subquery.medium.com/darwinias-network-data-is-now-available-for-free-in-subquery-b4f51c73fb15)
 
 Bạn có thể bắt đầu xây dựng dApp tiếp theo của mình với chúng tôi ngay hôm nay, làm theo [hướng dẫn bắt đầu nhanh](https://doc.subquery.network/quickstart.html) hoặc trò chuyện với chúng tôi trong #technical-support của chúng tôi trong [Discord](https://discord.com/invite/78zg8aBSMG).
 
-Có rất nhiều tiềm năng ở SubQuery, rất nhiều ý tưởng mà chúng tôi đang xây dựng và rất nhiều đối tác mà chúng tôi đang tham gia nên chúng tôi cần phải mở rộng đội ngũ của mình một cách nhanh chóng. Chúng tôi vừa bổ sung 4 nhân viên về UX, tiếp thị, phát triển kinh doanh và kỹ thuật nhưng cần phải tiếp tục bổ sung thêm.
+There is so much potential at SubQuery, so many ideas we are building, and so many partners that we’re onboarding that we need to massively expand our team. We’ve just added 4 employees across UX, marketing, business development, and engineering but need to keep adding more.
 
 Vui lòng cho chúng tôi biết nếu bạn có thể giới thiệu bất kỳ ai cho bất kỳ vai trò nào sau đây, chúng tôi đang tìm kiếm những người giỏi nhất để tham gia cùng chúng tôi trong hành trình của mình 🚀
 
@@ -40,9 +40,9 @@ Vui lòng cho chúng tôi biết nếu bạn có thể giới thiệu bất kỳ
 -   [Lập trình viên Blockchain](https://dash.recooty.com/openings/details/9578a63fbe545bd82cc5bbe749636af1) (có kiến ​​thức về Rust)
 -   [Giám đốc phát triển kinh doanh](https://rcty.co/3coJPrV) (lý tưởng nhất là ở Châu Âu hoặc Bắc Mỹ)
 
-SubQuery đã được chọn từ hơn 50 ứng cử viên để tham gia Bootcamp Web 3.0 2021 độc quyền tại Thượng Hải. Có một số dự án tuyệt vời và lượng nhân tài khổng lồ trong chương trình đào tạo này, vì vậy chúng tôi rất vui được trở thành một phần của nó. Polkadot là hệ sinh thái thú vị nhất hiện có trong ngành của chúng tôi và Trung Quốc là quốc gia phát triển nhanh nhất ở đây.
+SubQuery was selected from over 50 candidates to join the exclusive 2021 Web 3.0 Bootcamp in Shanghai. There are some amazing projects and a huge amount of talent in this bootcamp, so we’re excited to be a part of it. Polkadot is the most exciting ecosystem out there in our industry, and China is the fastest growing country building here.
 
-Chúng tôi mong muốn sẽ học hỏi được nhiều điều, làm quen với nhiều bạn bè và đối tác mới, nhận được nhiều phản hồi trong quá trình phát triển sản phẩm của chúng tôi. Chúng tôi mong đợi bước ra từ bootcamp này thậm chí còn mạnh mẽ hơn chúng tôi hiện tại. Bạn có thể xem buổi lễ khai trương của chúng tôi dưới đây
+We expect to learn a lot, to make a lot of new friends and partners, to get a lot of feedback on our product development. We expect to come out of this bootcamp even stronger than we are now. You can watch our opening ceremony below
 
 Tháng tới, chúng tôi có một số thông báo mới thú vị để chia sẻ với cộng đồng của mình, hãy đăng ký các kênh truyền thông xã hội của chúng tôi để nghe về chúng trước tiên.
 
