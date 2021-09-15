@@ -1,4 +1,4 @@
-# Оголошення SubQuery
+# Announcing SubQuery
 
 ## Transform and query the world’s data for the web3.0 future
 
