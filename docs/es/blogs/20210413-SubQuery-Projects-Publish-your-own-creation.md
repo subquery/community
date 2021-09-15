@@ -20,7 +20,7 @@ You can also keep your SubQuery project private by not showing it in the Explore
 
 Creating a new SubQuery Project
 
-Once you’ve published and deployed your new project, you can interact with it over our GraphQL endpoint or simply play in our [Explorer playground](https://explorer.subquery.network/)! We’ll run it like it’s a production application, so you can unlock your decentralized data in your next dApp today using SubQuery.
+Once you’ve published and deployed your new project, you can interact with it over our GraphQL endpoint or simply play in our [Explorer playground](https://explorer.subquery.network/)! We’ll run it like it’s a production application, so you can unlock your decentralized data in your next dApp today using SubQuery. We’ll run it like it’s a production application, so you can unlock your decentralized data in your next dApp today using SubQuery.
 
 
 
