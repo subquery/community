@@ -1,29 +1,29 @@
-# Deployment Slots are here for SubQuery Projects
+# Слоты развертывания здесь для проектов SubQuery
 
-> Today we’re introducing deployment slots, a whole new feature that improves the developer experience in SubQuery’s hosted service.
+> Сегодня мы представляем совершенно новую функцию, улучшающую опыт разработчиков в хостинге SubQuery.
 
-[SubQuery Projects](https://project.subquery.network/) is already being used as a managed and hosted service for many Projects, whether they’re chain explorers, wallets, NFT explorers, or others. It’s a service that our customers rely on.
+[SubQuery Projects](https://project.subquery.network/) уже используется в качестве управляемой и размещенной службы для многих проектов, таких как chain explorer'ы, кошельки, NFT explorer'ы или другие. Это сервис, на который рассчитывают наши клиенты.
 
 ![](https://miro.medium.com/max/1400/0*PugDgh6weZspRIO2)
 
-You can now deploy to a isolated staging slot
+Теперь вы можете развернуться в изолированный слот
 
-Although you can always run SubQuery’s infrastructure yourself (with your own node and query service), we aim to make our hosted service the most reliable, resilient, and performant data provider in the Polkadot/Substrate ecosystem.
+Хотя вы всегда можете запустить инфраструктуру SubQuery самостоятельно (с вашим собственным узлом и службой запросов), мы стремимся сделать наш хостинг-сервис наиболее надежным, устойчивым и эффективным поставщиком данных в экосистеме Polkadot/Substrate.
 
-Creators of [SubQuery Projects](https://project.subquery.network/) are constantly improving and updating their Projects and the data within those projects. Unfortunately it takes hours if not days to reindex chain data in the event of a major change — ultimately our goal to to allow you to update your Project, reindex your data, and upgrade your hosted SubQuery Projects with **zero downtime**
+Создатели [SubQuery Projects](https://project.subquery.network/) постоянно совершенствуют и обновляют свои проекты и данные в рамках этих проектов. К сожалению, для реиндексирования данных по цепочке в случае значительных изменений требуется час, а в конечном счете наша цель - позволить вам обновить ваш проект, реиндексировать ваши данные и обновить ваши проекты SubQuery с **нулевым временем простоя**
 
-**That’s what deployment slots are here to solve**
+**Это то, что слоты развертывания находятся здесь для решения**
 
 ![](https://miro.medium.com/max/1400/0*vQ33aqhn1eVllo5t)
 
-Your staging slot will run independently of the primary production slot
+Ваш слот будет работать независимо от места первичного производства
 
-When creating a new deployment to your [SubQuery Project in our hosted service](https://project.subquery.network/), you can choose to either deploy to the production or staging slot. These two slots are isolated environments, each has its own database and sync independently. Once your staging slot has started and completed indexing, you can then promote it to production with zero downtime.
+При создании нового развертывания в вашем [SubQuery Project в нашем хостинг-сервисе](https://project.subquery.network/), вы можете выбрать либо развертывать в производстве, либо слот на ступеньках. Эти два слота являются изолированными окружениями, каждая имеет свою собственную базу данных и синхронизацию независимо. Как только ваш слот начался и завершился индексация, вы можете затем продвигать его на производство с нулевым временем простоя.
 
-The staging slot is perfect for:
+Ячейка для фасадов идеально подходит для:
 
--   Validating changes to your SubQuery Project in a separate environment. The staging slot has a different URL to production that you can use in your dApps.
--   Warming up and indexing data for an updated SubQuery project to eliminate downtime in your dApp
--   Preparing a new release for your SubQuery Project without exposing it publicly. The staging slot is not shown to the public in the Explorer and has a unique URL that is visible only to you.
+-   Проверка изменений в вашем SubQuery Project в отдельной среде. Постановочный слот имеет другой URL к производству, который вы можете использовать в ваших приложениях.
+-   Подготовка и индексирование данных обновленного проекта SubQuery для устранения простоя в вашем dApp
+-   Подготовка нового релиза для вашего SubQuery проекта, не раскрывая его публично. Постановочный слот не виден общественности в Explorer и имеет уникальный URL, который видим только вам.
 
-You can try it yourself now in [SubQuery Projects](https://project.subquery.network/).
+Вы можете попробовать себя в [SubQuery Projects](https://project.subquery.network/) сейчас.
