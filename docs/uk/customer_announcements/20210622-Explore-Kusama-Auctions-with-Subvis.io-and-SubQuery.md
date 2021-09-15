@@ -1,4 +1,4 @@
-# Дослідіть аукціони Kusama за допомогою SubVis.io та SubQuery
+# Explore Kusama Auctions with SubVis.io and SubQuery
 
 ![](https://miro.medium.com/max/1400/1*C4rjs3vpR6TUCOqwF3L39g.png)
 
