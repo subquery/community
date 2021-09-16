@@ -24,6 +24,6 @@
 
 ![](https://miro.medium.com/max/1400/0*YaQGpb3xUn7BUESx)
 
-Secret NFT is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/).
+Секретний NFT використовує [SubQuery проекти ](https://project.subquery.network/) для управління власним проектом і створення оновлень, як запитують. Сервіси індексування та запитів, які ми надаємо, повністю керуються SubQuery та надаються спільноті Polkadot безкоштовно в [SubQuery’s](https://explorer.subquery.network/).
 
-[Explore the Ternoa Secret NFT dataset](https://explorer.subquery.network/subquery/capsule-corp-ternoa/indexer)
+[Досліджуйте дані про Ternoa секретні NFT](https://explorer.subquery.network/subquery/capsule-corp-ternoa/indexer)
