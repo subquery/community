@@ -4,7 +4,7 @@ SubQuery hadir untuk membantu Anda mengubah dan mengkueri data dunia untuk masa 
 
 Ini adalah repository global dari semua blog komunitas, pengumuman, artikel, dan video dari SubQuery.
 
-**Read in your own language! You can change your language using the selector on the top right of all pages.**
+**Baca dalam bahasa Anda sendiri! Anda dapat mengubah bahasa Anda menggunakan selector di kanan atas pada semua halaman.**
 
 ## Kami membutuhkan bantuan untuk menerjemahkan!
 
