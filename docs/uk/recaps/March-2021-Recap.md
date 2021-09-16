@@ -22,7 +22,7 @@ We run SubQuery projects in it like they’re production applications, so you ca
 
 SubQuery is ready to grow and deliver! [We successfully raised a US$1.8 million seed round](https://subquery.medium.com/subquery-raises-1-8m-seed-round-for-future-expansion-3348c1f2a931) and private sale backed primarily by DeFi Alliance, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG), and The Lao. The overwhelming demand we received to back SubQuery’s seed round shows the strong interest in infrastructure services and belief in the future of the Polkadot ecosystem.
 
-_We’re planning a subsequent private sale/raise later this year. If you’re interested in taking part please register here:_ [_https://forms.gle/6LMapDNSidQAqy347_](https://forms.gle/6LMapDNSidQAqy347)
+_We’re planning a subsequent private sale/raise later this year. Якщо ви зацікавлені взяти участь, зареєструйтесь тут: _ [_ https://forms.gle/6LMapDNSidQAqy347 _](https://forms.gle/6LMapDNSidQAqy347)
 
 ## **SubQuery Explorer welcomes its first partner use case**
 
@@ -44,7 +44,7 @@ _Do you want to get started and create a new SubQuery project for your own dApp 
 
 ## **Berkeley Blockchain Xcelerator**
 
-[We were excited to announce in March](https://subquery.medium.com/subquery-joins-berkeleys-blockchain-xcelerator-7ea81f96af73) that Berkeley has selected SubQuery to be part of their exclusive [Blockchain Xcelerator](https://www.xcelerator.berkeley.edu/). SubQuery (and it’s parent company OnFinality) were selected from over 200 applications to be part of just 21 exclusive spots.
+[ Ми були раді оголосити в березні ](https://subquery.medium.com/subquery-joins-berkeleys-blockchain-xcelerator-7ea81f96af73), що Берклі вибрав SubQuery для участі в їх ексклюзивному [ Blockchain Xcelerator ](https://www.xcelerator.berkeley.edu/). SubQuery (and it’s parent company OnFinality) were selected from over 200 applications to be part of just 21 exclusive spots.
 
 Berkeley’s blockchain Xcelerator is known around the world as one of the most successful blockchain accelerators for a reason. It has incubated over 40 companies that have raised over $25M in seed and early stage funding, and over 75% of the inaugural batch raised follow-on funding.
 
