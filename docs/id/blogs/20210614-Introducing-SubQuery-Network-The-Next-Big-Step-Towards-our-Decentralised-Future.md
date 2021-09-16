@@ -4,11 +4,11 @@
 
 Kami mengubah dan mengatur data dari proyek Polkadot dan Substrate, kemudian menyediakan data tersebut untuk digunakan para developer untuk berbagai macam proyek (wallet, explorer, custom chain, atau dApp lainnya).
 
-Everyone knows that a core weakness of blockchain data is that the processing and query performance is extremely inefficient. SubQuery provides an open source SDK, which provides the instructions on how any Indexer should traverse the blockchain, what data to collect, and how it should be shown to users.
+Semua orang tahu bahwa kelemahan inti dari data blockchain adalah pemrosesan dan kinerja kueri sangat tidak efisien. SubQuery menyediakan SDK open source, yang memberikan instruksi tentang bagaimana Pengindeks harus melintasi blockchain, data apa yang harus dikumpulkan, dan bagaimana data itu harus ditampilkan kepada pengguna.
 
 ![](https://miro.medium.com/max/700/1*0l37MKpDk2ahHsqDUBxbjw.png)
 
-Creating a SubQuery project is, and always will be, free. Developers should spend time building, not running infrastructure. However we believe that a healthy decentralised future requires multiple distributed data service providers working together to improve resiliency, speed, and network performance.
+Membuat proyek SubQuery adalah, dan akan selalu, gratis. Developer harusnya menggunakan waktu untuk membangun, bukan menjalankan infrastruktur. Namun kami percaya bahwa masa depan terdesentralisasi yang sehat membutuhkan beberapa penyedia layanan data terdistribusi yang bekerja sama untuk meningkatkan ketahanan, kecepatan, dan kinerja jaringan.
 
 # Memperkenalkan SubQuery Network:
 
@@ -16,7 +16,7 @@ SubQuery Network adalah upaya kami untuk bergerak menuju jaringan terdesentralis
 
 [Kami merilis white paper kami hari ini untuk dibaca oleh dunia](https://static.subquery.network/whitepaper.pdf).
 
-The SubQuery Network’s guiding principles are simplicity and flexibility. We’re trying to make it easy for participants to get involved in the network, but also give developers control to adapt SubQuery to fit their needs for any Substrate based chain.
+Prinsip panduan SubQuery Network adalah kesederhanaan dan fleksibilitas. Kami mencoba untuk memudahkan peserta untuk terlibat dalam jaringan, tetapi juga memberikan kontrol kepada developer untuk mengadaptasi SubQuery agar sesuai dengan kebutuhan mereka untuk setiap chain berbasis Substrate.
 
 ![](https://miro.medium.com/max/700/1*5E_eIJBTvHI7W24ib_Syvw.png)
 
