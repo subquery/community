@@ -6,6 +6,8 @@
 
 [SubQuery](https://subquery.network/) möchte der führende Datenanbieter in Polkadot sein. Unsere Mission ist es, die größten dApps in unserem wachsenden Ökosystem zu betreiben, und wir arbeiten bereits mit DeFi-Apps wie [Acala](https://acala.network/) und [Bifrost](https://bifrost.finance/), Wallets wie [Fearless Wallet](https://fearlesswallet.io/), NFT-Plattformen wie
 
+KodaDot</2>, Cross-Chain-Brücken wie [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia) und Analyseplattformen wie [SubVis](https://subvis.io/).</p> 
+
 Unser Ökosystem wächst, und mit unserer Ankündigung des SubQuery Network suchen wir nach Leuten aus der ganzen Welt, die sich unserer Mission anschließen können. Das SubQuery Team freut sich, Ihnen mitteilen zu können, dass wir die Bewerbungen für unser neues Ambassador Programm eröffnen!
 
 Wir verstehen, dass eine unserer größten Stärken unsere Gemeinschaft ist, und mit Ihrer Hilfe möchten wir wachsen und lokale Botschafter für Gemeinschaften auf der ganzen Welt etablieren.
@@ -22,6 +24,8 @@ Unser Team kam mit der gemeinsamen Vision zusammen, die Grundlagen für einen fl
 
 Unser SubQuery Ambassador-Programm zielt darauf ab, Community-Leader zu finden, die sich für Polkadot und SubQuery begeistern. Wir suchen nach Selbststartern, die SubQuery in ihrer Umgebung bekannt machen und neue Entwickler unterstützen, die mit SubQuery fantastische Apps und Dienste auf Polkadot erstellen möchten.
 
+
+
 ## Ambassador-Vorteile
 
 Bei SubQuery arbeiten wir hart daran, das zu erreichen, was wir tun. In ähnlicher Weise wird von Ambassadors erwartet, dass sie sich etwas Zeit nehmen, wenn sie unserem Team beitreten, werden jedoch mit Vorteilen belohnt.
@@ -34,6 +38,8 @@ Bei SubQuery arbeiten wir hart daran, das zu erreichen, was wir tun. In ähnlich
 
 **Swag und andere kostenlose Sache:** Jeder mag kostenlose Sache! Erhalten Sie eine jährliche Zuteilung von SubQuery-Swag, mit der Sie sich von der Masse abheben. Plus zusätzliche Zuteilung, die Sie bei Community-Events teilen können. Sie erhalten außerdem eine exklusive NFT für Ihren Ambassador-Status.
 
+
+
 ## Wie funktioniert es
 
 Unser Ambassador-Programm hat mehrere Stufen, jede Stufe hat unterschiedliche Vorteile und Fähigkeiten. Sie können aufsteigen, indem Sie an Ambassador-Aktivitäten teilnehmen und hart für uns arbeiten.
@@ -43,6 +49,8 @@ Sobald Sie einen Antrag gestellt haben, wählen wir Kandidaten aus, die mit unse
 Sobald Sie das Trainee-Programm bestanden haben, können Sie sich einen Sub-Query Botschafter nennen und werden in unser komplettes Programm aufgenommen. Von hier aus kannst du durch das Programm weiter arbeiten und Fortschritte machen, mehr Belohnungen und Vorteile zu verdienen, wenn du die Ränge steigst.
 
 [Hier anwenden](https://forms.gle/GXBbJ6LDpNfM2v1X6)
+
+
 
 ## Botschafter Aktivitäten
 
