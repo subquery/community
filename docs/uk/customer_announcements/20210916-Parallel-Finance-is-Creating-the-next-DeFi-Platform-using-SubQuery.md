@@ -30,12 +30,12 @@ Parallel Finance використовує [ проекти SubQuery ](https://pr
 
 ## Про Parallel Finance
 
-Parallel Finance - це децентралізований протокол грошового ринку, який пропонує кредитування, ставки та позики в екосистемі Polkadot. Подібно до відносин між Polkadot та його "канарковою мережею" Kusama, Heiko Finance - це дочірня мережа Parallel та парачейн, який ми сподіваємось запустити на блокчейні Kusama. We are building for a decentralized future that empowers the community to increase capital efficiency, security, and accessibility through our leverage staking and auction lending platform.
+Parallel Finance - це децентралізований протокол грошового ринку, який пропонує кредитування, ставки та позики в екосистемі Polkadot. Подібно до відносин між Polkadot та його "канарковою мережею" Kusama, Heiko Finance - це дочірня мережа Parallel та парачейн, який ми сподіваємось запустити на блокчейні Kusama. Ми будуємо децентралізоване майбутнє, яке дає змогу громаді підвищити ефективність капіталу, захищеність та доступність через нашу платформу ставок та аукціонного кредитування.
 
 [Website](https://parallel.fi/) | [Twitter](https://twitter.com/ParallelFi) | [Telegram](https://t.me/parallelfi) | [Medium](https://parallelfinance.medium.com/) | [Github](https://github.com/parallel-finance/parallel-dapp/blob/master/parallel.gif)
 
-## About SubQuery
+## Про SubQuery
 
-[SubQuery](https://subquery.network/) is a data aggregation layer that will operate between the layer-1 blockchains (Kusama) and DApps (like Kodadot). This service allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+[ SubQuery ](https://subquery.network/)-це рівень агрегації даних, який працюватиме між блокчейнами рівня-1 (Kusama) та DApps (наприклад, Kodadot). Ця служба дозволяє розробникам DApp зосередитися на своєму базовому варіанті використання та інтерфейсі, не витрачаючи час на створення власного бекенда для обробки даних.
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
