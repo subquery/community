@@ -14,7 +14,7 @@ Dalam pembaruan bulanan ini:
 
 ![](https://miro.medium.com/max/640/1*bFOaBnLZUfhRxiQa7fjbwA.gif)
 
-We’ve been reaching out to many protocols, DeFi apps, dApps, Wallets, NFT platforms, cross-chain bridges and more across the Polkadot ecosystem recently. We’re planning on improving our onboarding process for new partners to speed this up with example code, ready made projects, and better information for developers.
+Kami telah menjangkau banyak protokol, aplikasi DeFi, dApps, Wallett, platform NFT, bridge cross-chain, dan lainnya di seluruh ekosistem Polkadot baru-baru ini. Kami berencana meningkatkan proses orientasi kami kepada mitra baru untuk mempercepat ini dengan kode contoh, proyek siap pakai, dan informasi yang lebih baik untuk pengembang.
 
 > Bersiaplah untuk aliran proyek baru partner yang akan membanjiri.
 
@@ -28,11 +28,11 @@ Lihatlah apa yang Darwinia katakan tentang kami
 
 ![](https://miro.medium.com/max/1400/0*Bc8P3mcH6rz-KtT0)
 
-> _“Using SubQuery to query Darwinia’s on-chain data has become very simple and flexible. SubQuery regards blockchain data as a graph, and leverages the extensibility of GraphQL to introduce additional functionality. We believe that in the future, the data interface on the substrate chain will mainly use GraphQL, SubQuery is making this a reality”._ — [Darwinia](https://subquery.medium.com/darwinias-network-data-is-now-available-for-free-in-subquery-b4f51c73fb15)
+> _“Menggunakan SubQuery untuk mengkueri data on-chain Darwinia menjadi sangat sederhana dan fleksibel. SubQuery menganggap data blockchain sebagai grafik, dan memanfaatkan ekstensibilitas GraphQL untuk memperkenalkan fungsionalitas tambahan. Kami percaya bahwa di masa depan, antarmuka data pada chain substrate sebagian besar akan menggunakan GraphQL, SubQuery membuat ini menjadi kenyataan”._ — [Darwinia](https://subquery.medium.com/darwinias-network-data-is-now-available-for-free-in-subquery-b4f51c73fb15)
 
 Anda dapat mulai membangun dApp berikutnya bersama kami hari ini, ikuti [panduan quick start](https://doc.subquery.network/quickstart.html) kami atau berbicara dengan kami di channel #technical-support kami di [Discord](https://discord.com/invite/78zg8aBSMG).
 
-There is so much potential at SubQuery, so many ideas we are building, and so many partners that we’re onboarding that we need to massively expand our team. We’ve just added 4 employees across UX, marketing, business development, and engineering but need to keep adding more.
+Ada begitu banyak potensi di SubQuery, begitu banyak ide yang kami bangun, dan begitu banyak mitra yang kami rekrut sehingga kami perlu memperluas tim kami secara besar-besaran. Kami baru saja menambahkan 4 karyawan di seluruh UX, pemasaran, pengembangan bisnis, dan engineering, tetapi perlu terus menambahkan lebih banyak lagi.
 
 Beri tahu kami jika Anda dapat merekomendasikan siapa pun untuk menjadi salah satu peran berikut, kami mencari yang terbaik untuk bergabung dengan kami dalam perjalanan kami
 
@@ -40,9 +40,9 @@ Beri tahu kami jika Anda dapat merekomendasikan siapa pun untuk menjadi salah sa
 -   [Blockchain Developer](https://dash.recooty.com/openings/details/9578a63fbe545bd82cc5bbe749636af1) (dengan pengetahuan tentang Rust)
 -   [Business Development Manager](https://rcty.co/3coJPrV) (idealnya berbasis di Eropa atau Amerika Utara)
 
-SubQuery was selected from over 50 candidates to join the exclusive 2021 Web 3.0 Bootcamp in Shanghai. There are some amazing projects and a huge amount of talent in this bootcamp, so we’re excited to be a part of it. Polkadot is the most exciting ecosystem out there in our industry, and China is the fastest growing country building here.
+SubQuery dipilih dari lebih dari 50 kandidat untuk bergabung dengan Bootcamp Web 3.0 2021 eksklusif di Shanghai. Ada beberapa proyek luar biasa dan sejumlah besar talenta di bootcamp ini, jadi kami senang menjadi bagian darinya. Polkadot adalah ekosistem paling menarik di industri kami, dan China adalah negara dengan pertumbuhan tercepat di sini.
 
-We expect to learn a lot, to make a lot of new friends and partners, to get a lot of feedback on our product development. We expect to come out of this bootcamp even stronger than we are now. You can watch our opening ceremony below
+Kami berharap dapat belajar banyak, mendapatkan banyak teman dan mitra baru, mendapatkan banyak masukan tentang pengembangan produk kami. Kami berharap untuk keluar dari bootcamp ini dan menjadi lebih kuat dari kami yang sekarang. Anda dapat menonton upacara pembukaan kami di bawah ini
 
 Bulan depan kami memiliki beberapa pengumuman baru yang menarik untuk dibagikan dengan komunitas kami, tetap subscribe channel media sosial kami untuk mendengar berita terbaru dari kami.
 
