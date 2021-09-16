@@ -1,36 +1,36 @@
-# Parallel Finance is Creating the next DeFi Platform using SubQuery
+# Parallel Finance створює наступну платформу DeFi за допомогою SubQuery
 
 ![](https://cdn-images-1.medium.com/max/1600/1*WcFjuL_ncmHpgzVhaXDUdg.png)
 
-Parallel's mission is to innovate and bring DeFi to the next level and to a broader audience. Today we are excited to reveal how Parallel Finance are using SubQuery data in [their new application](https://testnet.parallel.fi/#/overview).
+Місія Parallel - ввести нововведення і привести DeFi до наступного рівня і до ширшої аудиторії. Сьогодні ми раді розповісти, як Parallel Finance використовує дані SubQuery у [своїй новій програмі](https://testnet.parallel.fi/#/overview).
 
 ![](https://cdn-images-1.medium.com/max/1600/1*5Ru0mv1hq86BuBhGwsmoqQ.png)
 
-> *"SubQuery is an excellent tool which brought traditional indexing & query technology to Parallel Heiko. The plug-and-play service really saved us a lot time developing our own block indexing tool and maintaining our own solution."* - Parallel Finance*
+> *"SubQuery - це чудовий інструмент, який приніс традиційну технологію індексування запитів у Parallel Heiko. Служба "plug-and-play" дійсно заощадила нам багато часу на розробку власного інструменту індексації блоків та підтримку власного рішення. "*- Parallel Finance*
 
-[SubQuery's](https://subquery.network/) service helps Parallel Finance store, analyse, and query data on their current Heiko testnet. Some of this data is used directly in Parallel's new application, helping users understand and analyse DeFi data.
+[Сервiси SubQuery](https://subquery.network/) допомагають Parallel Finance зберігати, аналізувати та запитувати дані у їх поточній тестовій мережі Heiko. Деякі з цих даних використовуються безпосередньо в новій програмі Parallel, допомагаючи користувачам зрозуміти та проаналізувати дані DeFi.
 
 ![](https://miro.medium.com/max/1200/1*Lmk8BvWg2YYTDZggHN82VQ.gif)
 
-Using SubQuery, you can quickly query account, exchange rates, tokens, transfers, and block data right in [SubQuery's playground](https://explorer.subquery.network/subquery/parallel-finance/parallel-finance).
+За допомогою SubQuery можна швидко надсилати запити до облікового запису, курсів обміну, токенів, переказів та блокувати дані прямо на [майданчику SubQuery](https://explorer.subquery.network/subquery/parallel-finance/parallel-finance).
 
 ![](https://cdn-images-1.medium.com/max/1600/1*FDRgez-G26x1DkWqCkORMQ.png)
 
-> *"We enjoy working with the SubQuery team and the one-to-one customer service they give us. We plan to use it more as we introduce more features into our DeFi application."* - Parallel Finance*
+> *"Нам приємно працювати з командою SubQuery та індивідуальним обслуговуванням клієнтів, яке вони нам надають. Ми плануємо використовувати його більше, оскільки ми впроваджуємо більше можливостей у наш додаток DeFi. "*- Parallel Finance*
 
-In the example below, we're using SubQuery to show the historical exchange rate for all assets at each and every block.
+У наведеному нижче прикладі ми використовуємо SubQuery для показу історичного курсу обміну для всіх активів у кожному блоці.
 
 ![](https://cdn-images-1.medium.com/max/1600/1*yctQKMNqdOnICNblJk9njw.png)
 
-Parallel Finance is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery's Explorer](https://explorer.subquery.network/).
+Parallel Finance використовує [ проекти SubQuery ](https://project.subquery.network/) для управління власним проектом та внесення необхідних оновлень. Послуги індексування та запитів, які ми надаємо, повністю керуються SubQuery і безкоштовно надаються спільноті Polkadot у [ провіднику SubQuery ](https://explorer.subquery.network/).
 
-[You can explore Parallel Finance's data in SubQuery today](https://explorer.subquery.network/subquery/parallel-finance/parallel-finance)
+[Ви можете дослідити дані Parallel Finance в SubQuery сьогодні](https://explorer.subquery.network/subquery/parallel-finance/parallel-finance)
 
 * * * * *
 
-## About Parallel Finance
+## Про Parallel Finance
 
-Parallel Finance is a decentralized money market protocol that offers lending, staking, and borrowing in the Polkadot ecosystem. Similar to the relationship between Polkadot and its "canary network" Kusama, Heiko Finance is the sister network to Parallel, and the parachain that we hope to launch on the Kusama blockchain. We are building for a decentralized future that empowers the community to increase capital efficiency, security, and accessibility through our leverage staking and auction lending platform.
+Parallel Finance - це децентралізований протокол грошового ринку, який пропонує кредитування, ставки та позики в екосистемі Polkadot. Подібно до відносин між Polkadot та його "канарковою мережею" Kusama, Heiko Finance - це дочірня мережа Parallel та парачейн, який ми сподіваємось запустити на блокчейні Kusama. We are building for a decentralized future that empowers the community to increase capital efficiency, security, and accessibility through our leverage staking and auction lending platform.
 
 [Website](https://parallel.fi/) | [Twitter](https://twitter.com/ParallelFi) | [Telegram](https://t.me/parallelfi) | [Medium](https://parallelfinance.medium.com/) | [Github](https://github.com/parallel-finance/parallel-dapp/blob/master/parallel.gif)
 
