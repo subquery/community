@@ -6,7 +6,7 @@
 
 ![](https://cdn-images-1.medium.com/max/1600/1*5Ru0mv1hq86BuBhGwsmoqQ.png)
 
-> *«SubQuery - отличный инструмент, который привнес в Parallel Heiko традиционную технологию индексирования & запросов. The plug-and-play service really saved us a lot time developing our own block indexing tool and maintaining our own solution."* - Parallel Finance*
+> *«SubQuery - отличный инструмент, который привнес в Parallel Heiko традиционную технологию индексирования & запросов. Сервис plug-and-play действительно сэкономил нам много времени на разработку собственного инструмента блочной индексации и поддержку собственного решения ».* - Parallel Finance *
 
 [Сервисы SubQuery](https://subquery.network/) помогают Parallel Finance хранить, анализировать и запрашивать данные в их текущей тестовой сети Heiko. Некоторые из этих данных используются непосредственно в новом приложении Parallel, помогая пользователям понимать и анализировать данные DeFi.
 
@@ -16,7 +16,7 @@
 
 ![](https://cdn-images-1.medium.com/max/1600/1*FDRgez-G26x1DkWqCkORMQ.png)
 
-> *"We enjoy working with the SubQuery team and the one-to-one customer service they give us. Мы планируем использовать SubQuery больше по мере добавления новых функций в наше DeFi приложение».* - Parallel Finance *
+> *«Нам нравится работать с командой SubQuery и индивидуальным обслуживанием клиентов, которое они нам предоставляют. Мы планируем использовать SubQuery больше по мере добавления новых функций в наше DeFi приложение».* - Parallel Finance *
 
 В приведенном ниже примере мы используем SubQuery, чтобы показать исторический обменный курс для всех активов в каждом блоке.
 
@@ -32,7 +32,7 @@ Parallel Finance использует [SubQuery проекты](https://project.
 
 Parallel Finance - это децентрализованный протокол денежного рынка, который предлагает кредитование, стейкинг и заимствование в экосистеме Polkadot. Подобно отношениям между Polkadot и его «канареечной сетью» Kusama, Heiko Finance является дочерней сетью Parallel и парачейном, который мы надеемся запустится на блокчейне Kusama. Мы строим децентрализованное будущее, которое дает сообществу возможность повысить эффективность использования капитала, безопасность и доступность с помощью нашей платформы для стейкинга и аукционного кредитования.
 
-[Website](https://parallel.fi/) | [Twitter](https://twitter.com/ParallelFi) | [Telegram](https://t.me/parallelfi) | [Medium](https://parallelfinance.medium.com/) | [Github](https://github.com/parallel-finance/parallel-dapp/blob/master/parallel.gif)
+[Вебсайт](https://parallel.fi/) | [Twitter](https://twitter.com/ParallelFi) | [Telegram](https://t.me/parallelfi) | [Medium](https://parallelfinance.medium.com/) | [Github](https://github.com/parallel-finance/parallel-dapp/blob/master/parallel.gif)
 
 ## О SubQuery
 
