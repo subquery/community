@@ -1,6 +1,6 @@
 # 서브쿼리, 펀딩 라운드에서 900만 달러 모금 발표
 
-**Building a decentralised data protocol for the Polkadot Ecosystem. Co-Led By Arrington Capital, DCG and Stratos Technologies**
+**폴카닷 생태계를 위한 분산형 데이터 프로토콜 구축을 위해 애링턴 캐피탈, DCG and Stratos Technologies가 투자 모금 주도**
 
 ![](https://cdn-images-1.medium.com/max/1600/0*PR4oqrB9Am03VseR)
 
@@ -10,7 +10,7 @@
 
 이번 전략적 투자 라운드는 [하이퍼스피어 벤처스(Hypersphere Ventures)](https://hypersphere.ventures/), [NGC 벤처스](http://ngc.fund/), [윈터뮤트(Wintermute)](https://www.wintermute.com/) 및 [스카이넷 트레이딩(Skynet Trading)](http://skynettrading.com/)의 추가 참여와 함께 [애링턴 XRP 캐피탈(Arrington XRP Capital)](https://arringtonxrpcapital.com/), [DCG(Digital Currency Group)](https://dcg.co/) 및 [스트라토스 테크놀로지(Stratos Technologies)](https://www.stratoslp.com/)가 공동으로 주도했습니다. 시드 투자자로는 [디파이 얼라이언스(DeFi Alliance)](https://defialliance.co/)와 [LAO](https://www.thelao.io/), [P2P 캐피탈](https://www.p2pcap.com/), [디지털 르네상스(Digital Renaissance)](https://drf.ee/), [Web3캐피탈](https://web3.capital/)이 참여했습니다.
 
-> *"저희는 Moonbeam, Acala와 같은 파라체인에 초기 투자자로써 이러한 생태계에 있는 팀이 프로젝트 개발에만 집중할 수 있기를 바랍니다. SubQuery makes it easier to build. It scales to all parachains and could catalyse the next boom in activity on Polkadot & Kusama"* - Ninor Mansor, Partner at Arrington Capital
+> *"저희는 Moonbeam, Acala와 같은 파라체인에 초기 투자자로써 이러한 생태계에 있는 팀이 프로젝트 개발에만 집중할 수 있기를 바랍니다. 서브쿼리를 사용하면 구축이 더 쉬워질 것이고 이는 폴카닷 & 쿠사마에 있는 모든 파라체인으로 확장될 것입니다."*  - 애링턴 캐피탈 파트너,  Ninor Mansor
 
 ![](https://cdn-images-1.medium.com/max/1600/1*j4VHuY_BgjkYv_bQ6_DmcQ.gif)
 
