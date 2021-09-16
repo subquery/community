@@ -24,7 +24,7 @@ Subscan надає індивідуальні послуги для еколог
 
 [Сайт](https://www.subscan.io/) | [Пошта](mailto:hello@subscan.io) | [Medium](https://medium.com/subscan) | [Element](https://riot.im/app/#/room/!uaYUrKBueiKUurHliJ:matrix.org) | [Twitter](https://twitter.com/subscan_io/) | [GitHub](https://github.com/itering/subscan-essentials)
 
-## About SubQuery
+## Про SubQuery
 
 [ SubQuery ](https://subquery.network/)-це рівень агрегації даних, який працюватиме між блокчейнами рівня-1 (Kusama) та DApps (наприклад, Kodadot). Ця служба дозволяє розробникам DApp зосередитися на своєму базовому варіанті використання та інтерфейсі, не витрачаючи час на створення власного бекенда для обробки даних.
 
