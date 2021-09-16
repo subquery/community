@@ -34,8 +34,8 @@ Parallel Finance is a decentralized money market protocol that offers lending, s
 
 [Website](https://parallel.fi/) | [Twitter](https://twitter.com/ParallelFi) | [Telegram](https://t.me/parallelfi) | [Medium](https://parallelfinance.medium.com/) | [Github](https://github.com/parallel-finance/parallel-dapp/blob/master/parallel.gif)
 
-## About SubQuery
+## Giới thiệu về SubQuery
 
-[SubQuery](https://subquery.network/) is a data aggregation layer that will operate between the layer-1 blockchains (Kusama) and DApps (like Kodadot). This service allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+[SubQuery](https://subquery.network/) là một lớp tổng hợp dữ liệu sẽ hoạt động giữa các blockchains layer-1 (Kusama) và DApps (như Kodadot). Dịch vụ này cho phép các nhà phát triển DApp tập trung vào cốt lõi và giao diện người dùng của họ mà không cần lãng phí thời gian vào việc xây dựng chương trình phụ trợ tùy chỉnh để xử lý dữ liệu.
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
