@@ -1,12 +1,12 @@
-# Parallel Finance is Creating the next DeFi Platform using SubQuery
+# Parallel Finance создает следующую платформу DeFi с использованием SubQuery
 
 ![](https://cdn-images-1.medium.com/max/1600/1*WcFjuL_ncmHpgzVhaXDUdg.png)
 
-Parallel's mission is to innovate and bring DeFi to the next level and to a broader audience. Today we are excited to reveal how Parallel Finance are using SubQuery data in [their new application](https://testnet.parallel.fi/#/overview).
+Миссия Parallel - внедрять инновации и вывести DeFi на новый уровень и охватить более широкую аудиторию. Сегодня мы рады показать, как Parallel Finance использует данные SubQuery в [своем новом приложении](https://testnet.parallel.fi/#/overview).
 
 ![](https://cdn-images-1.medium.com/max/1600/1*5Ru0mv1hq86BuBhGwsmoqQ.png)
 
-> *"SubQuery is an excellent tool which brought traditional indexing & query technology to Parallel Heiko. The plug-and-play service really saved us a lot time developing our own block indexing tool and maintaining our own solution."* - Parallel Finance*
+> *«SubQuery - отличный инструмент, который привнес в Parallel Heiko традиционную технологию индексирования & запросов. Сервис plug-and-play действительно сэкономил нам много времени на разработку собственного инструмента блочной индексации и поддержку собственного решения ».* - Parallel Finance *
 
 [SubQuery's](https://subquery.network/) service helps Parallel Finance store, analyse, and query data on their current Heiko testnet. Some of this data is used directly in Parallel's new application, helping users understand and analyse DeFi data.
 
