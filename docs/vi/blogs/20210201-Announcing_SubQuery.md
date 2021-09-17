@@ -4,7 +4,7 @@
 
 ![](https://miro.medium.com/max/1400/1*J5u22qNxndcuCrFJ1mfGqg.png)
 
-Nhiệm vụ của OnFinality là hỗ trợ các nhà phát triển blockchain bằng cách cung cấp các dịch vụ cơ sở hạ tầng cho khách hàng ở mọi hình dạng và quy mô. Chúng tôi đang khởi động một liên doanh mới nhằm giải quyết một vấn đề cốt lõi để thúc đẩy sứ mệnh này: SubQuery.
+Sứ mệnh của OnFinality là hỗ trợ các nhà phát triển blockchain thông qua việc cung cấp các dịch vụ cơ sở hạ tầng cho khách hàng ở mọi hình thức và quy mô. Chúng tôi đang khởi động một liên doanh mới nhằm giải quyết một vấn đề cốt lõi để thúc đẩy sứ mệnh này: SubQuery.
 
 Hầu hết mọi blockchain đều có nhu cầu xử lý và truy vấn dữ liệu. Cộng đồng Polkadot đang phát triển mạnh sẽ cần một dịch vụ cho phép họ tìm kiếm và sử dụng dữ liệu một cách đáng tin cậy một cách nhanh chóng. Dự án của chúng tôi được lấy cảm hứng từ [The Graph](https://thegraph.com/), một dịch vụ hiện tập trung vào Ethereum cho phép khách hàng thực hiện việc này bằng GraphQL.
 
