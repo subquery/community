@@ -36,6 +36,6 @@ Parallel Finance là một giao thức thị trường tiền tệ phi tập tru
 
 ## Giới thiệu về SubQuery
 
-[SubQuery](https://subquery.network/) là một lớp tổng hợp dữ liệu sẽ hoạt động giữa các blockchain lớp thứ nhất (như Kusama) và các DApps (như Kodadot). Dịch vụ này cho phép các nhà phát triển DApp tập trung vào các tính năng cốt lõi và giao diện người dùng của họ mà không cần lãng phí thời gian vào việc xây dựng chương trình phụ trợ tùy chỉnh để xử lý dữ liệu.
+[SubQuery](https://subquery.network/) là một lớp tổng hợp dữ liệu sẽ hoạt động giữa các blockchain layer-1 (như Kusama) và các DApps (như Kodadot). Dịch vụ này cho phép các nhà phát triển DApp tập trung vào các tính năng cốt lõi và giao diện người dùng của họ mà không cần lãng phí thời gian vào việc xây dựng chương trình phụ trợ tùy chỉnh để xử lý dữ liệu.
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
