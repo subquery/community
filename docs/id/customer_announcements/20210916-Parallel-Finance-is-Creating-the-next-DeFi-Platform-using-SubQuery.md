@@ -22,7 +22,7 @@ Pada contoh di bawah, kami menggunakan SubQuery untuk menampilkan nilai tukar hi
 
 ![](https://cdn-images-1.medium.com/max/1600/1*yctQKMNqdOnICNblJk9njw.png)
 
-Parallel Finance menggunakan [Proyek SubQuery](https://project.subquery.network/) untuk mengelola proyek mereka sendiri dan membuat pembaruan sesuai kebutuhan. Layanan pengindeksan dan kueri yang kami sediakan sepenuhnya dikelola oleh SubQuery dan diberikan kepada komunitas Polkadot secara gratis di [Penjelajah SubQuery](https://explorer.subquery.network/).
+Parallel Finance menggunakan [Proyek SubQuery](https://project.subquery.network/) untuk mengelola proyek mereka sendiri dan membuat pembaruan sesuai kebutuhan. Layanan pengindeksan dan kueri yang kami sediakan sepenuhnya dikelola oleh SubQuery dan diberikan kepada komunitas Polkadot secara gratis di [SubQuery's Explorer](https://explorer.subquery.network/).
 
 [Anda dapat menjelajahi data Parallel Finance di SubQuery hari ini](https://explorer.subquery.network/subquery/parallel-finance/parallel-finance)
 
