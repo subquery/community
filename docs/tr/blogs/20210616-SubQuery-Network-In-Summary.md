@@ -13,21 +13,21 @@ SubQuery Network'deki Katılımcılar
 
 SubQuery Network'de üç tür katılımcı vardır:
 
--   **Consumers**: Consumers will make requests to the SubQuery Network for specific data and pay an advertised amount of SQT
--   **Indexers**: Indexers will host SubQuery Projects in their own infrastructure, running both the node and query service to index data and answer GraphQL requests.
--   **Delegators**: Delegators will participate in the network by supporting their favourite Indexers to earn rewards
+-   **Tüketiciler**: Tüketiciler, belirli veriler için SubQuery Network'e talepte bulunacak ve reklamı yapılan SQT miktarını ödeyecektir
+-   **İndeksleyiciler**: Indeksleyiciler, verileri endekslemek ve GraphQL isteklerini yanıtlamak için hem node hem de sorgu hizmetini çalıştırarak SubQuery Projelerini kendi altyapılarında barındırır.
+-   **Yetkililer**: Delegeler, ödül kazanmak için favori Indeksleyicileri destekleyerek ağa katılacak
 
-## Indexers, Consumers, and Queries
+## Indeksleyiciler, Tüketiciler ve Sorgucular
 
-Let’s start with Indexers, Indexers do a lot of the hard work behind the scenes. The manage hardware, run infrastructure, monitor resources, and choose the right SubQuery projects to index
+Indeksleyiciler ile başlayalım, Indeksleyiciler, perde arkasında çok fazla zor iş yapar. Donanımı yönetin, altyapıyı çalıştırın, kaynakları izleyin ve endekslenecek doğru SubQuery projelerini seçin
 
-This takes time and money, but once they have this, Consumers may come and make requests. Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
+Bu zaman ve para gerektirir, ancak buna sahip olduklarında Tüketiciler gelip talepte bulunabilirler. Tüketiciler: Tüketiciler, belirli veriler için SubQuery network'e talepte bulunacak ve reklamı yapılan SQT miktarını ödeyecektir.
 
 ![](https://miro.medium.com/max/1400/1*dKLkzSc2uXYaPW_IXUxstQ.png)
 
-Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
+Tüketiciler, belirli veriler için SubQuery network'e talepte bulunacak ve reklamı yapılan SQT miktarını ödeyecektir.
 
-## Cobb-Douglas Production Function
+## Cobb-Douglas Üretim Fonksiyonu
 
 This payment goes into a project revenue pool and at the end of a staking era (28 days) we take this project revenue pool and split it. It’s spit across indexers by something called the Cobb-Douglas production function.
 
