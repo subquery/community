@@ -1,6 +1,6 @@
 # SubQuery Network - Özet
 
-> How does the SubQuery Network work? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
+> SubQuery Network nasıl çalışır? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
 
 Today we’re going to talk about how the SubQuery Network works at a high level.
 
