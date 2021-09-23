@@ -6,8 +6,6 @@
 
 [SubQuery](https://subquery.network/) möchte der führende Datenanbieter in Polkadot sein. Unsere Mission ist es, die größten dApps in unserem wachsenden Ökosystem zu betreiben, und wir arbeiten bereits mit DeFi-Apps wie [Acala](https://acala.network/) und [Bifrost](https://bifrost.finance/), Wallets wie [Fearless Wallet](https://fearlesswallet.io/), NFT-Plattformen wie
 
-KodaDot, Cross-Chain-Brücken wie [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia) und Analyseplattformen wie [SubVis](https://subvis.io/).
-
 Unser Ökosystem wächst, und mit unserer Ankündigung des SubQuery Network suchen wir nach Leuten aus der ganzen Welt, die sich unserer Mission anschließen können. Das SubQuery Team freut sich, Ihnen mitteilen zu können, dass wir die Bewerbungen für unser neues Ambassador Programm eröffnen!
 
 Wir verstehen, dass eine unserer größten Stärken unsere Gemeinschaft ist, und mit Ihrer Hilfe möchten wir wachsen und lokale Botschafter für Gemeinschaften auf der ganzen Welt etablieren.
