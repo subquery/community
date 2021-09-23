@@ -4,15 +4,15 @@
 
 SubQuery Проекти
 
-Сьогодні ми запускаємо наступну фазу SubQuery —[проекти](https://project.subquery.network). Місія SubQuery - зробити всесвітні дані, що децентралізуються, доступнішими, так цей анонс цього тижня є величезним для нашого ком'юніті!
+Today we’re launching the next phase of SubQuery — [Projects](https://project.subquery.network). SubQuery’s mission is to make the world’s decentralised data more accessible, so this announcement this week is huge for our community!
 
 
 
 ![](https://miro.medium.com/max/464/0*FTsLOuy0A4cWEwcp)
 
-[Проекти SubQuery](https://project.subquery.network) - нове місце, де ви можете видати свої проекти до нашого керованого обслуговування. Після підключення вашого аккаунту GitHub ви всього за декілька хвилин від спільного користування проектами SubQuery де більш ніж 500 користувачів [SubQuery Explorer](https://explorer.subquery.network/). Ваш власний проект може бути розміщений онлайн поруч із нашими існуючими проектами SubQuery з [ Acala ](https://explorer.subquery.network/subquery/OnFinality-io/acala-subql) та [ Bifrost ](https://explorer.subquery.network/subquery/bifrost-finance/subql).
+[SubQuery Projects](https://project.subquery.network) is the new place where you can publish your projects to our managed service. Once you connect your GitHub account, you’re only minutes away from sharing your SubQuery project to over 500 users of the [SubQuery Explorer](https://explorer.subquery.network/). Your own project can be hosted online right next to our existing SubQuery projects from [Acala](https://explorer.subquery.network/subquery/OnFinality-io/acala-subql) and [Bifrost](https://explorer.subquery.network/subquery/bifrost-finance/subql).
 
-Ви також можете зберегти ваш проект SubQuery, не показуючи його в Explorer, ідеально підходить, якщо ви хочете, щоб приватно перевірили його за допомогою нашої керованої інфраструктури. Крім того, ми інтегровані з GitHub, тому створення SubQuery проекту в рамках аккаунту Github автоматично поділяться з членами вашої команди.
+You can also keep your SubQuery project private by not showing it in the Explorer, perfect if you want to privately test it using our managed infrastructure. Additionally, we’re integrated with GitHub, so creating a SubQuery project within a GitHub organisation account will automatically share it with your team members.
 
 
 
@@ -20,7 +20,7 @@ SubQuery Проекти
 
 Створення нового проекту SubQuery
 
-Після того, як ви опублікували та розгорнули ваш новий проект, ви можете взаємодіяти з ним крізь нашу кінцеву точку GraphQL або просто грати в нашому [Explorer playground](https://explorer.subquery.network/)! Ми запустимо - цi виробничі програми, тому ви зможете розблокувати ваші децентралізовані дані в наступному dApp сьогодні за допомогою SubQuery.
+Once you’ve published and deployed your new project, you can interact with it over our GraphQL endpoint or simply play in our [Explorer playground](https://explorer.subquery.network/)! We’ll run it like it’s a production application, so you can unlock your decentralized data in your next dApp today using SubQuery.
 
 
 
@@ -28,7 +28,7 @@ SubQuery Проекти
 
 Новий опублікований SubQuery проект
 
-Не турбуйтеся про те, що виробляється нодами SubQuery, залиште це експертам. Ми сфокусуємося на керуванні індексованими серверами, щоб вам не довелося цього робити.
+Don’t worry about running production SubQuery nodes, leave it to the experts. We’re going to focus on managing indexing servers so that you don’t have to.
 
 ## Дізнатися більше
 
