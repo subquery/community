@@ -10,7 +10,7 @@ SubQuery направлен на улучшение доступа к децен
 
 Этот стратегический раунд проводился совместно [ Arrington Capital ](https://arringtonxrpcapital.com/), [ DCG ](https://dcg.co/) и [ Stratos Technologies ](https://www.stratoslp.com/), и в нем участвовали [ Hypersphere Ventures ](https://hypersphere.ventures/), [ Neo Global Capital (NGC) ](http://ngc.fund/), [ Wintermute ](https://www.wintermute.com/) и [ Skynet Trading ](http://skynettrading.com/). Это продолжение из начального раунда в начале 2021 года, в который входили [ DeFi Alliance ](https://defialliance.co/), [ The LAO ](https://www.thelao.io/), [ Digital Renaissance ](https://drf.ee/),
 
- P2P Capital и [ Web3 Capital ](https://web3.capital/).
+ P2P Capital </ 3> и [ Web3 Capital ](https://web3.capital/).</p> 
 
 
 

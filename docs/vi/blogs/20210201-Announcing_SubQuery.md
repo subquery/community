@@ -4,7 +4,7 @@
 
 ![](https://miro.medium.com/max/1400/1*J5u22qNxndcuCrFJ1mfGqg.png)
 
-Nhiệm vụ của OnFinality là hỗ trợ các nhà phát triển blockchain bằng cách cung cấp các dịch vụ cơ sở hạ tầng cho khách hàng ở mọi hình dạng và quy mô. Chúng tôi đang khởi động một liên doanh mới nhằm giải quyết một vấn đề cốt lõi để thúc đẩy sứ mệnh này: SubQuery.
+Sứ mệnh của OnFinality là hỗ trợ các nhà phát triển blockchain thông qua việc cung cấp các dịch vụ cơ sở hạ tầng cho khách hàng ở mọi hình thức và quy mô. Chúng tôi đang khởi động một liên doanh mới nhằm giải quyết một vấn đề cốt lõi để thúc đẩy sứ mệnh này: SubQuery.
 
 Hầu hết mọi blockchain đều có nhu cầu xử lý và truy vấn dữ liệu. Cộng đồng Polkadot đang phát triển mạnh sẽ cần một dịch vụ cho phép họ tìm kiếm và sử dụng dữ liệu một cách đáng tin cậy một cách nhanh chóng. Dự án của chúng tôi được lấy cảm hứng từ [The Graph](https://thegraph.com/), một dịch vụ hiện tập trung vào Ethereum cho phép khách hàng thực hiện việc này bằng GraphQL.
 
@@ -12,11 +12,11 @@ Vì các hệ thống phi tập trung lưu trữ dữ liệu trên các mạng n
 
 -   Các nhóm Polkadot/Substrate không cần phải lo lắng về việc xây dựng hoặc quản lý điều này trong khi họ đang xây dựng dApp tiếp theo
 -   Các đội liên tục sáng tạo lại bánh xe; lợi thế cơ bản của khả năng tương tác parachain của Polkadot là tránh được điều này
--   Theo quan điểm của chúng tôi, hệ sinh thái Substrate/Polkadot đã sẵn sàng để đạt được mức tăng trưởng tương tự như Ethereum. Chúng tôi tin rằng nó cần cung cấp cùng một mức độ dịch vụ cộng đồng mà Ethereum đã có
+-   Theo quan điểm của chúng tôi, hệ sinh thái Substrate/Polkadot đã sẵn sàng để đạt được mức tăng trưởng tương tự như Ethereum. Chúng tôi tin rằng nó cũng cần các dịch vụ cộng đồng ở một mức độ tương tự mà Ethereum đã có
 
 ![](https://miro.medium.com/max/1400/1*l4b4BXWkczVDaHyv30lLQQ.png)
 
-Mục đích của SubQuery là giúp các dự án Polkadot/Substrate xây dựng các dApp tốt hơn bằng cách cho phép bất kỳ ai cũng có thể tìm và sử dụng dữ liệu nhanh hơn một cách đáng tin cậy. Dịch vụ của chúng tôi sẽ cho phép người dùng trích xuất, chuyển đổi, duy trì và truy vấn dữ liệu ban đầu, cũng như kết nối và trình bày dữ liệu trong tương lai. Mục đích của chúng tôi là biến đây trở thành một phần cơ sở hạ tầng cốt lõi cho hệ sinh thái Substrate/Polkadot, giống như The Graph trong Ethereum.
+Mục đích của SubQuery là giúp các dự án Polkadot/Substrate xây dựng các dApp tốt hơn bằng cách cho phép bất kỳ ai cũng có thể tìm và sử dụng dữ liệu nhanh hơn một cách đáng tin cậy. Dịch vụ của chúng tôi sẽ cho phép người dùng trích xuất, chuyển đổi, duy trì và truy vấn dữ liệu ban đầu, cũng như kết nối và trình bày dữ liệu trong tương lai. Mục đích của chúng tôi là biến Subquery thành một phần cơ sở hạ tầng cốt lõi cho hệ sinh thái Substrate/Polkadot, giống như The Graph trong Ethereum.
 
 > SubQuery ở đây để giúp bạn chuyển đổi và truy vấn dữ liệu của thế giới cho tương lai web3.0.
 
@@ -24,7 +24,7 @@ Mục đích của SubQuery là giúp các dự án Polkadot/Substrate xây dự
 
 Để giấc mơ Web 3.0 trở thành hiện thực, nó phải nhanh (nếu không muốn nói là nhanh hơn) so với các mạng tập trung cho người dùng cuối.
 
-Đó là lý do tại sao chúng tôi vô cùng tự hào khi công bố SubQuery, một dự án mã nguồn mở cho phép người dùng chạy trình lập chỉ mục trên chuỗi của họ để tạo tập dữ liệu có thể được truy vấn bằng GraphQL. Bộ công cụ này bao gồm một giao diện dòng lệnh để cho phép các dự án tạo dự án SubQuery của riêng họ, xác định cách trình chỉ mục sẽ đi qua và tổng hợp mạng của riêng họ. Có một số node SubQuery lập chỉ mục mạng và hỗ trợ các truy vấn GraphQL. Với sự trợ giúp của các công cụ này, bất kỳ ai cũng có thể tạo và chạy các truy vấn một cách dễ dàng.
+Đó là lý do tại sao chúng tôi vô cùng tự hào khi công bố SubQuery, một dự án mã nguồn mở cho phép người dùng chạy trình lập chỉ mục trên chuỗi của họ để tạo tập dữ liệu có thể được truy vấn bằng GraphQL. Bộ công cụ này bao gồm một giao diện dòng lệnh để cho phép các dự án tạo dự án SubQuery của riêng họ, xác định cách trình chỉ mục sẽ đi qua và tích hợp với mạng lưới. Có một số node SubQuery lập chỉ mục mạng và hỗ trợ các truy vấn GraphQL. Với sự trợ giúp của các công cụ này, bất kỳ ai cũng có thể tạo và chạy các truy vấn một cách dễ dàng.
 
 > _Bạn có thể bắt đầu ngay lập tức bằng cách làm theo ví dụ của chúng tôi trên Github của SubQuery:_ [_https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql)
 
@@ -32,7 +32,7 @@ Ngoài ra, bạn có thể tìm hiểu thêm bằng cách đọc [tài liệu Su
 
 ![](https://miro.medium.com/max/1000/1*3oA1Hvns1vrImTsmowO_Jw.png)
 
-Chúng tôi sẽ tập trung vào việc xây dựng một dịch vụ được lưu trữ được quản lý dựa trên dịch vụ này sẽ hoạt động hiệu quả hơn và có thể mở rộng. Chúng tôi sẽ cung cấp cơ sở hạ tầng công cộng đáng tin cậy sẽ xây dựng một nút SubQuery được sản xuất mạnh mẽ từ một dự án SubQuery đã tải lên. Sau đó, dịch vụ sẽ lập chỉ mục và duy trì trạng thái chuỗi, đồng thời cung cấp điểm cuối GraphQL sản xuất có thể thay thế các triển khai tự lưu trữ. Chúng tôi sẽ tập trung vào vấn đề này để mọi người khác có thể tập trung vào việc xây dựng và phát triển dApp của họ.
+Chúng tôi sẽ tập trung vào việc xây dựng một dịch vụ được lưu trữ và quản lý, nó sẽ hoạt động hiệu quả hơn và có thể mở rộng. Chúng tôi sẽ cung cấp cơ sở hạ tầng công cộng đáng tin cậy sẽ xây dựng một nút SubQuery được sản xuất mạnh mẽ từ một dự án SubQuery đã tải lên. Sau đó, dịch vụ sẽ lập chỉ mục và duy trì trạng thái chuỗi, đồng thời cung cấp điểm cuối GraphQL sản xuất có thể thay thế các triển khai tự lưu trữ. Chúng tôi sẽ tập trung vào vấn đề này để mọi người khác có thể tập trung vào việc xây dựng và phát triển dApp của họ.
 
 Khi điều này đã sẵn sàng, giai đoạn cuối cùng của chúng tôi là mã hóa hoạt động kinh doanh SubQuery bằng cách xây dựng chuỗi của riêng chúng tôi (có thể là parachain) cho Polkadot. Mặc dù chúng tôi sẽ cung cấp mô hình thanh toán tương tự cho người dùng doanh nghiệp và người tiêu dùng cao (gói đăng ký có mức tiêu dùng), nhưng chúng tôi sẽ lưu dữ liệu này vào chuỗi của mình để minh bạch hóa dữ liệu cho mọi người và các bên tham gia có thể đặt cược để nhận phần thưởng dưới dạng khuyến khích. Chúng tôi sẽ phát hành token quản trị để cung cấp sự ổn định cho chuỗi và cho phép cộng đồng ảnh hưởng đến định hướng và lộ trình của chúng tôi.
 
