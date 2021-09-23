@@ -2,8 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/0*CrM8-LKRt3slWAsN)
 
-**SubQuery, der Dienst, der die Abfrage dezentraler Daten erleichtert, gab heute bekannt, dass er erfolgreich eine Seed-Runde in Höhe von 1,8 Mio. ** [**D1 Ventures**](https://d1. ventures/)**,** [**Hypersphere Ventures**](https://hypersphere.ventures/)**,**
-**Digital Finance Group (DFG)** und** [**The Lao**](https://www.thelao.io/)**. Die überwältigende Nachfrage, die wir erhielten, um die Seed-Runde von SubQuery zu unterstützen, zeigt das starke Interesse an Infrastrukturdiensten und den Glauben an die Zukunft des Polkadot-Ökosystems.\*\*
+**SubQuery, der Dienst, der die Abfrage dezentraler Daten erleichtert, gab heute bekannt, dass er erfolgreich eine Seed-Runde in Höhe von 1,8 Mio. ** [**D1 Ventures**](https://d1. ventures/)**,** [**Hypersphere Ventures**](https://hypersphere.ventures/)**,** **Digital Finance Group (DFG)** und** [**The Lao**](https://www.thelao.io/)**. Die überwältigende Nachfrage, die wir erhielten, um die Seed-Runde von SubQuery zu unterstützen, zeigt das starke Interesse an Infrastrukturdiensten und den Glauben an die Zukunft des Polkadot-Ökosystems.\*\*
 
 SubQuery erlaubt jedem Substrate/Polkadot Team, seine Daten zu verarbeiten und abzufragen. Das Projekt ist inspiriert von der Zunahme von Datenprotokollen, die der Anwendungsschicht dienen, und hat zum Ziel, Polkadot/Substrate-Projekten beim Aufbau besserer dApps zu helfen, indem es jedem ermöglicht wird, Daten zuverlässig schneller zu finden und zu konsumieren. Heute kann jeder die Netzwerkdaten von Polkadot in nur wenigen Minuten kostenlos abfragen und extrahieren.
 
@@ -21,15 +20,15 @@ Seitdem hat SubQuery den SubQuery Explorer gestartet. Ein online gehosteter Serv
 
 Diese Seed Raise wird die Entwicklung von SubQuery beschleunigen und die Bereitstellung kritischer Datendienste für die Polkadot/Substrate-Community beschleunigen. Dies umfasst den Aufbau eines kostenlosen öffentlichen Dienstes zum Hosten und Verwalten von Community-SubQuery-Projekten, den Aufbau einer Community rund um den Daten- und Wissensaustausch und die eventuelle Tokenisierung unseres Projekts.
 
-- Probieren Sie es im[SubQuery Explorer](https://explorer.subquery.network/) aus
-- Weitere Informationen zu [SubQuery-Dokumenten](https://doc.subquery.network/)
-- Besuchen Sie unsere [-Website](https://subquery.network/)
+-   Probieren Sie es im[SubQuery Explorer](https://explorer.subquery.network/) aus
+-   Weitere Informationen zu [SubQuery-Dokumenten](https://doc.subquery.network/)
+-   Besuchen Sie unsere [-Website](https://subquery.network/)
 
 **Sprechen Sie mit uns auf:**
 
-- [hello@subquery.network](mailto:hello@subquery.network)
-- [Discord](https://discord.com/invite/78zg8aBSMG)
-- [Telegramm](https://t.me/subquerynetwork)
-- [Twitter](https://twitter.com/subquerynetwork)
-- [Matrix](https://matrix.to/#/#subquery:matrix.org)
-- [LinkedIn](https://www.linkedin.com/company/subquery)
+-   [hello@subquery.network](mailto:hello@subquery.network)
+-   [Discord](https://discord.com/invite/78zg8aBSMG)
+-   [Telegramm](https://t.me/subquerynetwork)
+-   [Twitter](https://twitter.com/subquerynetwork)
+-   [Matrix](https://matrix.to/#/#subquery:matrix.org)
+-   [LinkedIn](https://www.linkedin.com/company/subquery)
