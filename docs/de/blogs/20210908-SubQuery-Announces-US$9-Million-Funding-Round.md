@@ -10,8 +10,6 @@ SubQuery zielt darauf ab, den Zugang zu dezentralisierten Blockchain-Daten zu ve
 
 Diese strategische Runde wurde gemeinsam von [Arrington Capital](https://arringtonxrpcapital.com/), [DCG](https://dcg.co/) und [Stratos Technologies](https://www.stratoslp.com/) geleitet und beinhaltete die Beteiligung von [Hypersphere Ventures](https://hypersphere.ventures/), [Neo Global Capital (NGC)](http://ngc.fund/), [Wintermute](https://www.wintermute.com/) und [Skynet Trading](http://skynettrading.com/). Es folgt auf eine Seed-Runde Anfang 2021, die [DeFi Alliance](https://defialliance.co/), [The LAO](https://www.thelao.io/), [Digital Renaissance](https://drf.ee/),
 
-P2P Capital und [Web3 Capital](https://web3.capital/).
-
 > *"Wir sind frühe Investoren in Parachains wie Moonbeam und Acala und möchten, dass sich Teams in diesen Ökosystemen auf ihre Kernprodukte konzentrieren können. SubQuery erleichtert das Erstellen. Es skaliert auf alle Paraketten und könnte den nächsten Aktivitätsboom auf Polkadot & Kusama"* - Ninor Mansor, Partner bei Arrington Capital
 
 ![](https://cdn-images-1.medium.com/max/1600/1*j4VHuY_BgjkYv_bQ6_DmcQ.gif)
@@ -24,7 +22,7 @@ SubQuery verarbeitet bereits jeden Tag Millionen von Datenabfragen für [über 6
 
 Diese Fundraising-Runde wird die technische und Community-Roadmap von SubQuery im Jahr 2021 und darüber hinaus beschleunigen. Das Team plant, das Protokoll zu dezentralisieren und zu tokenisieren und das SubQuery-Netzwerk aufzubauen, damit es motivierte Teilnehmer aus der ganzen Welt aufnehmen kann. SubQuery plant auch, seine Dienste zu verbessern und zu skalieren, da bereits über 60 Projekte seine gehosteten Dienste nutzen. Mit Blick auf die Zukunft plant das Team die Integration mit anderen Layer-1-Ketten, einschließlich Solana, Terra und anderen.
 
----
+* * * * *
 
 ## Über SubQuery
 
@@ -32,8 +30,8 @@ Diese Fundraising-Runde wird die technische und Community-Roadmap von SubQuery i
 
 ### Finden Sie mehr heraus
 
+Get started by building your own SubQuery project [here](https://doc.subquery.network/).
+
 Beginnen Sie mit dem Erstellen Ihres eigenen SubQuery-Projekts [hier](https://doc.subquery.network/).
 
 Informieren Sie sich [hier](https://static.subquery.network/whitepaper.pdf) über das SubQuery-Netzwerkprotokoll.
-
-[Webseite](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw) | [LinkedIn](https://www.linkedin.com/company/subquery)
