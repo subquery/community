@@ -14,11 +14,11 @@ Mạng SubQuery là nỗ lực của chúng tôi nhằm hướng tới một m�
 
 [Tháng trước, chúng tôi đã phát hành công khai báo cáo chính thức của mình để mọi người đọc.](https://static.subquery.network/whitepaper.pdf) Bạn cũng có thể đọc/xem [giải thích ngắn tại đây](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010).
 
-We have ambitious goals at SubQuery to be the fastest and accessible data service provider on Substrate. We’ve written this whitepaper to highlight our [competitive advantages](https://subquery.medium.com/subquery-network-our-goals-and-competitive-advantages-a6efdd544be4) and our focus now is on executing this vision. The SubQuery Network revolves around two key aspects, flexibility and simplicity.
+Chúng tôi có những mục tiêu đầy tham vọng tại SubQuery là trở thành nhà cung cấp dịch vụ dữ liệu nhanh nhất và có thể truy cập được trên Substrate. Chúng tôi đã viết báo cáo chính thức này để nêu bật [lợi thế cạnh tranh](https://subquery.medium.com/subquery-network-our-goals-and-competitive-advantages-a6efdd544be4) của chúng tôi và trọng tâm của chúng tôi bây giờ là thực hiện tầm nhìn này. Mạng SubQuery xoay quanh hai khía cạnh chính, tính linh hoạt và tính đơn giản.
 
-Ambitious goals require a first class team, and we’ve been steadily adding new members to the team over June. This includes; new development interns, a UX designer, a development documentation writer, and Chinese based business development staff.
+Các mục tiêu đầy tham vọng yêu cầu một nhóm hạng nhất và chúng tôi đã liên tục bổ sung các thành viên mới vào nhóm trong tháng. Bao gôm; thực tập sinh phát triển mới, một nhà thiết kế UX, một người viết tài liệu phát triển và nhân viên phát triển kinh doanh tại Trung Quốc.
 
-We’re still looking for more, especially in the following areas. Please us know if you know if you have someone in mind:
+Chúng tôi vẫn đang tìm kiếm thêm, đặc biệt là trong các lĩnh vực sau. Vui lòng cho chúng tôi biết nếu bạn nghĩ đến ai đó:
 
 -   [Trưởng bộ phận Marketing](https://angel.co/company/subquery/jobs/1494376-head-of-marketing) hoặc phát triển kinh doanh tại Hoa Kỳ EU (đây là cơ hội hiếm có không thể bỏ qua)
 -   [Kỹ sư SRE](https://angel.co/company/subquery/jobs/1497942-site-reliability-engineer)
