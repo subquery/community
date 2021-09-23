@@ -1,6 +1,6 @@
 # Tóm tắt Tháng 3 năm 2021
 
-Đó là một vài tháng cuối cùng căng thẳng tại OnFinality và SubQuery, chúng tôi đã mở rộng nhóm và thu hút thêm một số đối tác mới khi chúng tôi khởi động một số dự án mới quan trọng. Trong bản cập nhật tháng này:
+It’s been an intense last couple of months at OnFinality and SubQuery, we’ve expanded the team and have brought on some new partners as we launch some key new projects. In this monthly update:
 
 -   SubQuery Explorer
 -   Cập nhật vòng hạt giống
@@ -11,7 +11,7 @@
 
 ## SubQuery Explorer hoạt động
 
-[SubQuery Explorer](https://explorer.subquery.network/) là một dịch vụ được lưu trữ trực tuyến cung cấp quyền truy cập vào các dự án SubQuery đã xuất bản được thực hiện bởi những người đóng góp trong cộng đồng của chúng tôi trên khắp thế giới và được lưu trữ bởi nhóm SubQuery. Bạn có thể kiểm tra các truy vấn trực tiếp trong trình duyệt của mình hoặc lấy điểm cuối API cho các trường hợp sử dụng khác nhau. Hãy lấy cảm hứng từ những gì người khác đang xây dựng để bạn có thể đền đáp!
+[SubQuery Explorer](https://explorer.subquery.network/) is an online hosted service that provides access to published SubQuery projects made by contributors in our community around the world and hosted by the SubQuery team. You can test queries directly in your browser, or get API endpoints for different use cases. Be inspired by what others are building so you can give back!
 
 Chúng tôi chạy các dự án SubQuery trong đó giống như chúng là các ứng dụng sản xuất, vì vậy, bạn có thể mở khóa dữ liệu phi tập trung của mình trong dApp tiếp theo ngay hôm nay bằng cách sử dụng SubQuery.
 
@@ -20,15 +20,15 @@ Chúng tôi chạy các dự án SubQuery trong đó giống như chúng là cá
 
 ## **SubQuery Tăng 1,8 triệu đô la vòng hạt giống để mở rộng trong tương lai**
 
-SubQuery đã sẵn sàng để phát triển và phân phối! [Chúng tôi đã huy động thành công vòng hạt giống 1,8 triệu đô la Mỹ](https://subquery.medium.com/subquery-raises-1-8m-seed-round-for-future-expansion-3348c1f2a931) và private sale, được hỗ trợ chủ yếu bởi DeFi Alliance, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG) và The Lao. Nhu cầu lớn mà chúng tôi nhận được để đầu tư vòng hạt giống của SubQuery cho thấy sự quan tâm mạnh mẽ đến các dịch vụ cơ sở hạ tầng và niềm tin vào tương lai của hệ sinh thái Polkadot.
+SubQuery is ready to grow and deliver! [We successfully raised a US$1.8 million seed round](https://subquery.medium.com/subquery-raises-1-8m-seed-round-for-future-expansion-3348c1f2a931) and private sale backed primarily by DeFi Alliance, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG), and The Lao. The overwhelming demand we received to back SubQuery’s seed round shows the strong interest in infrastructure services and belief in the future of the Polkadot ecosystem.
 
-_Chúng tôi đang lên kế hoạch bán/tăng private tiếp theo vào cuối năm nay. Nếu bạn muốn tham gia, vui lòng đăng ký tại đây: _ [_https://forms.gle/6LMapDNSidQAqy347_](https://forms.gle/6LMapDNSidQAqy347)
+_We’re planning a subsequent private sale/raise later this year. If you’re interested in taking part please register here:_ [_https://forms.gle/6LMapDNSidQAqy347_](https://forms.gle/6LMapDNSidQAqy347)
 
 ## **SubQuery Explorer hoan nghênh trường hợp sử dụng đầu tiên của đối tác**
 
-SubQuery là tất cả về việc cung cấp dịch vụ dữ liệu cho các đối tác và khách hàng của chúng tôi. Mọi nhóm blockchain và người xây dựng dApp đều có nhu cầu xử lý và truy vấn dữ liệu nhanh chóng và để giấc mơ web3 thành hiện thực, nó phải nhanh (nếu không muốn nói là nhanh hơn) so với các mạng tập trung cho người dùng cuối. Đó là lý do tại sao chúng tôi đang tăng cường hợp tác với các dự án Polkadot hàng đầu để cung cấp dịch vụ SubQuery miễn phí cho các giao thức của họ.
+SubQuery is all about providing data services to our partners and customers. Every blockchain team and dApp builder has a need to process and query data quickly, and for the web3 dream to be realised, it’s got to be as fast (if not faster) than centralised networks for the end user. That’s why we’re ramping up our efforts to partner with the top Polkadot projects to provide free SubQuery services for their protocols.
 
-[Trước đó, chúng tôi đã khởi động mối quan hệ hợp tác đầu tiên với những người bạn thân thiết của mình tại Acala](https://subquery.medium.com/subquery-integrates-acala-to-aggregate-and-serve-defi-data-to-polkadot-and-kusama-builders-fc9af6a7aae1) để cho phép người dùng và nhà phát triển truy vấn và trích xuất dữ liệu từ trung tâm DeFi của Acala cho Polkadot chỉ trong vài phút và miễn phí. Khi bạn truy cập SubQuery Explorer, bạn sẽ được chào đón với Dự án Acala SubQuery mới. SubQuery này tự động theo dõi tất cả dữ liệu bên ngoài được tạo trên Acala và có thể nhanh chóng hiển thị số liệu thống kê tổng hợp có nguồn gốc cho những điều sau:
+[Earlier we launched our first partnership with our close friends at Acala](https://subquery.medium.com/subquery-integrates-acala-to-aggregate-and-serve-defi-data-to-polkadot-and-kusama-builders-fc9af6a7aae1) to allow users and developers to query and extract data from Acala’s DeFi hub for Polkadot in only minutes and at no cost. When you access the SubQuery Explorer you’ll be welcomed with a new Acala SubQuery Project. This SubQuery dynamically tracks all the extrinsic data created on Acala and can quickly show derived aggregated stats for the following:
 
 -   Dữ liệu lịch sử về những thay đổi thanh khoản (được chia nhỏ bởi các nhà cung cấp)
 -   Dữ liệu lịch sử về tất cả các hoán đổi tài sản chuỗi chéo
@@ -36,26 +36,26 @@ SubQuery là tất cả về việc cung cấp dịch vụ dữ liệu cho các 
 
 ![](https://miro.medium.com/max/1400/0*LOig1jNfPTuVk73D)
 
-> Bạn có thể tạo một dApp cho người cho vay hiển thị tỷ lệ thế chấp, số tiền cho vay, lãi tích lũy, ... Hoặc một dịch vụ cho các sàn giao dịch phi tập trung với tính thanh khoản của cặp, tỷ giá hối đoái, khối lượng giao dịch.
+> You could create a dApp for lenders showing collateralization ratio, loan amount, interests accrued, etc. Or a service for decentralised exchanges with pair liquidity, pair exchange rate, trading volumes.
 
 Chúng tôi đang có kế hoạch sớm cải thiện các công cụ đối tác của mình và đang lên kế hoạch giới thiệu các giao thức hàng đầu khác trong một hoặc hai tuần tới với tốc độ nhanh chóng.
 
-_Bạn có muốn bắt đầu và tạo một dự án SubQuery mới cho dApp của riêng bạn không -_ [_hãy bắt đầu ngay bây giờ _](https://doc.subquery.network/quickstart.html)_. Chúng tôi thậm chí sẽ lưu trữ nó trong_ [_SubQuery Explorer_](https://subquery.medium.com/announcing-the-subquery-explorer-48c051483730) _của chúng tôi miễn phí!_
+_Do you want to get started and create a new SubQuery project for your own dApp —_ [_get started now_](https://doc.subquery.network/quickstart.html)_. We’ll even host it in our_ [_SubQuery Explorer_](https://subquery.medium.com/announcing-the-subquery-explorer-48c051483730) _for free!_
 
 ## **Berkeley Blockchain Xcelerator**
 
-[Chúng tôi rất vui mừng thông báo vào tháng 3](https://subquery.medium.com/subquery-joins-berkeleys-blockchain-xcelerator-7ea81f96af73) rằng Berkeley đã chọn SubQuery trở thành một phần của [Blockchain Xcelerator](https://www.xcelerator.berkeley.edu/) độc quyền của họ. SubQuery (và công ty mẹ của nó là OnFinality) đã được chọn từ hơn 200 ứng dụng để trở thành một phần của chỉ 21 vị trí độc quyền.
+[We were excited to announce in March](https://subquery.medium.com/subquery-joins-berkeleys-blockchain-xcelerator-7ea81f96af73) that Berkeley has selected SubQuery to be part of their exclusive [Blockchain Xcelerator](https://www.xcelerator.berkeley.edu/). SubQuery (and it’s parent company OnFinality) were selected from over 200 applications to be part of just 21 exclusive spots.
 
-Berkeley's blockchain Xcelerator được biết đến trên toàn thế giới như một trong những công cụ tăng tốc blockchain thành công nhất là có lý do. Nó đã ươm tạo hơn 40 công ty và chúng đã huy động được hơn 25 triệu đô la tiền tài trợ hạt giống và giai đoạn đầu, và hơn 75% của lô đầu tiên đã huy động vốn vòng tiếp theo.
+Berkeley’s blockchain Xcelerator is known around the world as one of the most successful blockchain accelerators for a reason. It has incubated over 40 companies that have raised over $25M in seed and early stage funding, and over 75% of the inaugural batch raised follow-on funding.
 
 ![](https://miro.medium.com/max/1400/0*t-_mRJaTnGDQO-VI)
 
 ## **Định tuyến thông minh**
 
-Gần đây, chúng tôi đã được [trao một khoản ngân quỹ](https://kusama.polkassembly.io/treasury/72) để hoàn thành một lớp định tuyến thông minh cho phép chúng tôi hiển thị nhiều cụm phía sau một điểm cuối duy nhất. Điều này sẽ cho phép chúng tôi mở rộng quy mô dịch vụ của mình tốt hơn và nhanh chóng chuyển sang các cụm dự phòng trong trường hợp không chắc rằng một số cơ sở hạ tầng của chúng tôi bị hỏng. Cả OnFinality và SubQuery đều dựa vào cơ sở hạ tầng này nên điều quan trọng là chúng tôi phải tiếp tục đầu tư và cải thiện ở đây.
+We’ve recently been [awarded a treasury grant](https://kusama.polkassembly.io/treasury/72) to complete an intelligent routing layer that allows us to expose multiple clusters behind a single endpoint. This will allow us to scale our service better, and quickly fall over to redundant clusters in the unlikely event that some of our infrastructure goes down. Both OnFinality and SubQuery rely on this infrastructure so it’s important that we continue to invest and improve here.
 
 ## **Nhân viên và Văn phòng mới**
 
-Một trong những thay đổi lớn nhất trong tháng qua là đội đã phát triển như thế nào. Chúng tôi đã bổ sung thêm hai nhân viên mới trong tháng qua và dự kiến ​​sẽ thuê thêm, do đó, chúng tôi đã tìm thấy một văn phòng mới ở Auckland hoàn toàn phù hợp với chúng tôi. Chúng tôi sẽ phát triển, nhưng vẫn có kế hoạch duy trì quy mô nhỏ và nhanh gọn để có thể đưa ra tầm nhìn sản phẩm của mình.
+One of the biggest changes over the past month is how much the team has grown. We’ve added two new staff over the past month and expect to hire more, as a result, we’ve found a new office in Auckland that fits us perfectly. We will grow, but still plan to remain small and nimble so we can deliver our product vision.
 
 ![](https://miro.medium.com/max/1400/1*cJZxerXHfgVGu4-7h2xw4Q.jpeg)
