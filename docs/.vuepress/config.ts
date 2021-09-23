@@ -8,7 +8,7 @@ export default defineUserConfig<DefaultThemeOptions>({
       lang: "en-UK",
       title: "SubQuery Blog Posts",
       description:
-        "Explore and transform your chain data to build intuitive dApps faster!.",
+        "Explore and transform your chain data to build intuitive dApps faster!",
     },
     "/de/": {
       lang: "de",
@@ -16,18 +16,21 @@ export default defineUserConfig<DefaultThemeOptions>({
       description:
         "Explore and transform your chain data to build intuitive dApps faster!.",
     },
+    /*
     "/es/": {
       lang: "es",
       title: "SubQuery Blog Posts",
       description:
         "Explore and transform your chain data to build intuitive dApps faster!.",
     },
+    */
     "/id/": {
       lang: "id",
       title: "SubQuery Blog Posts",
       description:
         "Explore and transform your chain data to build intuitive dApps faster!.",
     },
+    /*
     "/it/": {
       lang: "it",
       title: "SubQuery Blog Posts",
@@ -46,6 +49,7 @@ export default defineUserConfig<DefaultThemeOptions>({
       description:
         "Explore and transform your chain data to build intuitive dApps faster!.",
     },
+    */
     "/ru/": {
       lang: "ru",
       title: "SubQuery Blog Posts",
