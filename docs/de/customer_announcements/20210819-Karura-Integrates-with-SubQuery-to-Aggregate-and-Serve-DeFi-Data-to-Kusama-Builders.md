@@ -20,7 +20,7 @@ Karura wurde von der Acala Foundation gegründet und ist ein skalierbares, EVM-k
 
 Karura bietet auch ein ethisches und nachhaltiges Token-Verteilungsmodell sowie ein Karura-Schatzamt in der Kette, die beide seine Gemeinschaft und Langlebigkeit unterstützen. Karura war die erste Parachain, die eine Parachain-Slot-Auktion auf Kusama gewann und einen Crowdloan von mehr als 500.000 KSM (100 Mio. USD) von ihrer Community einsammelte. Weil Karura die neuartige Acala EVM nutzt, die Ethereum-Kompatibilität mit unbegrenzter Substrate\*-Funktionalität ermöglicht, ist das Netzwerk darauf vorbereitet, den Einsatz führender DeFi-Projekte zu unterstützen, die darauf abzielen, ihre Dienste über Ethereum hinaus zu erweitern.
 
-*[Substrat](http://substrate.dev/) *ist das Blockchain-Building-Framework zum Aufbauen auf Polkadot und Kusama\*
+*[Substrat](http://substrate.dev/) *ist das Blockchain-Building-Framework zum Aufbauen auf Polkadot und Kusama\**
 
 [Lesen Sie hier mehr in einem Karura Deep Dive](https://medium.com/acalanetwork/countdown-to-karura-a-deep-dive-on-the-defi-hub-of-kusama-410066fc1e1f)
 
