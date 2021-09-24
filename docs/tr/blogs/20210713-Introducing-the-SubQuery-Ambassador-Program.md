@@ -14,39 +14,39 @@ En güçlü yönlerimizden birinin topluluğumuz olduğunu anlıyoruz ve sizin y
 
 Ekibimiz, Polkadot ekosistemi için esnek ve kapsayıcı bir veri hizmetinin temellerini oluşturmak için ortak vizyonla bir araya geldi.
 
-**Geliştiriciler tarafından, geliştiriciler için oluşturulmuştur:** SubQuery, geliştiricilerimiz ve ekosistemimizdeki kurucular için en iyi ürünleri ve hizmetleri sağlamaya odaklanan büyüyen bir topluluktur. SubQuery is only successful if the Polkadot ecosystem is successful, and so everything we do is with our customer in mind.
+**Geliştiriciler tarafından, geliştiriciler için oluşturulmuştur:** SubQuery, geliştiricilerimiz ve ekosistemimizdeki kurucular için en iyi ürünleri ve hizmetleri sağlamaya odaklanan büyüyen bir topluluktur. SubQuery, yalnızca Polkadot ekosistemi başarılı olduğunda başarılı olur ve bu nedenle yaptığımız her şey müşterimizi düşünerek yapılır.
 
-**Integrity and Accountability:** We have team members in Auckland, Shanghai, and Sydney and so remote work is important to us. We expect that our team is empowered and works autonomously together to achieve our goals. A key requirement for this is for our team to be accountable for their actions and maintain their integrity.
+**Dürüstlük ve Sorumluluk:** Auckland, Şanghay ve Sidney'de ekip üyelerimiz var ve bu nedenle uzaktan çalışma bizim için önemlidir. Hedeflerimize ulaşmak için ekibimizin yetkilendirilmiş olmasını ve birlikte bağımsız bir şekilde çalışmasını bekliyoruz. Bunun için önemli bir husus, ekibimizin eylemlerinden sorumlu olması ve bütünlüğünü korumasıdır.
 
-**Inclusive Guidance and Support:** Blockchain is hard, and everyone needs help sometimes. There is no such thing as a stupid question in our community and everyone in our team is expected to help support our users. We learn some of the most valuable insights about our service (and how we can improve it) directly from our community.
+**Kapsayıcı Rehberlik ve Destek:** Blockchain zordur ve bazen herkesin yardıma ihtiyacı olur. Topluluğumuzda aptalca soru diye bir şey yoktur ve ekibimizdeki herkesin kullanıcılarımızı desteklemeye yardımcı olmasını bekliyoruz. Hizmetimizle (ve onu nasıl iyileştirebileceğimizle) ilgili en önemli bilgilerden bazılarını doğrudan topluluğumuzdan öğreniyoruz.
 
-Our SubQuery Ambassador program aims to find community leaders passionate about Polkadot and SubQuery. We’re looking for self-starters that can spread the word about SubQuery in their local areas and provide support to new developers that want to use SubQuery to build amazing apps and services on Polkadot.
+Our SubQuery Ambassador program aims to find community leaders passionate about Polkadot and SubQuery. SubQuery'yi kendi yerel bölgelerinde yayacak ve Polkadot'ta harika uygulamalar ve hizmetler oluşturmak için SubQuery kullanmak isteyen yeni geliştiricilere destek sağlayabilecek, başlamak için başkasını beklemeyenleri arıyoruz.
 
-## Ambassador Benefits
+## Ambassador Avantajları
 
-At SubQuery, we work hard to achieve what we do. Similarly, Ambassadors are expected to commit some time when joining our team but will be rewarded with benefits.
+SubQuery'de yaptığımız şeyi başarmak için çok çalışıyoruz. Benzer şekilde, Ambassadorların ekibimize katılırken bir süre taahhütte bulunmaları beklenir, ancak avantajlarla ödüllendirilirler.
 
-**Funding and Support:** You may be rewarded for good work with early opportunities into private sales and bounties. Additionally, we’ll be providing funding grants for you to run community meetups.
+**Finansman ve Destek:** Özel satışlar ve ödüller için erken fırsatlarla iyi işler için ödüllendirilebilirsiniz. Ayrıca, topluluk buluşmaları düzenlemeniz için finansman hibeleri sağlayacağız.
 
-**SubQuery Team Access:** You’ll have direct access to the core SubQuery team with opportunities for hands-on training, exclusive AMAs with our leaders and developers, and insight into our roadmap.
+**SubQuery Ekibine Erişim:** Uygulamalı eğitim fırsatları, liderlerimiz ve geliştiricilerimizle özel AMA'lar ve yol haritamıza ilişkin bilgiler içeren temel SubQuery ekibine doğrudan erişiminiz olacak.
 
-**Network Development:** Expect to grow your professional network by being an Ambassador for one of the top Polkadot projects. Meet other ambassadors around the world and receive introductions to local Polkadot projects that we need to support locally. You might even get free entry to represent SubQuery in events in your local area.
+**Ağ Geliştirme:** En iyi Polkadot projelerinden birinin Ambassador'u olarak profesyonel ağınızı büyütmeyi bekleyin. Dünyanın dört bir yanındaki diğer elçilerle tanışın ve yerel olarak desteklememiz gereken yerel Polkadot projelerinin tanıtımlarını alın. Yerel bölgenizdeki etkinliklerde SubQuery'i temsil etmek için ücretsiz giriş bile alabilirsiniz.
 
-**Swag and other free stuff:** Everyone likes free stuff! Receive an annual allocation of SubQuery swag that’ll make you stand out in the crowd. Plus additional allocation that you can share around at community events. You’ll also receive an exclusive NFT for your Ambassador status.
+**Swag ve diğer ücretsiz şeyler:** Herkes bedava şeyleri sever! Kalabalıkta öne çıkmanızı sağlayacak yıllık bir SubQuery swag tahsisi alın. Ek olarak topluluk etkinliklerinde paylaşabileceğiniz ek tahsisat. Ayrıca Ambassador statünüz için özel bir NFT alacaksınız.
 
-## How does it work
+## Nasıl çalışır?
 
-Our Ambassador program has multiple tiers, each tier has different benefits and capabilities. You can move up tiers by participating in Ambassador activities and working hard for us.
+Ambassador programımızın birden fazla katmanı vardır, her katmanın farklı faydaları ve yetenekleri vardır. Ambassador etkinliklerine katılarak ve bizim için çok çalışarak üst sıralara çıkabilirsiniz.
 
-Once you have sent through an application, we will select candidates that align with our values. If selected you are placed in our trainee program and will receive an information package, expanding your understanding of SubQuery. After this, you can start to work through the trainee program by completing certain onboarding tasks (e.g. creating a SubQuery Project). We will host workshops throughout this process to support you.
+Bir başvuru yolladıktan sonra, değerlerimizle uyumlu adayları seçeceğiz. Seçilirseniz, stajyer programımıza yerleştirilirsiniz ve SubQuery anlayışınızı genişleten bir bilgi paketi alırsınız. Bundan sonra, belirli alıştırma görevlerini tamamlayarak (örneğin, bir SubQuery Projesi oluşturarak) stajyer programı üzerinden çalışmaya başlayabilirsiniz. Bu süreç boyunca size destek olmak için workshoplar düzenleyeceğiz.
 
-Once you pass the trainee program, you can call yourself a SubQuery ambassador and will be accepted into our full program. From here on you can continue to work though the program and progress up the tiers, earning more rewards and benefits as you climb the ranks.
+Stajyer programını geçtikten sonra kendinize bir SubQuery Ambassadoru diyebilirsiniz ve tam programımıza kabul edileceksiniz. Buradan, program dahilinde çalışmaya devam edebilir ve kademelerde ilerleyebilirsiniz, sıraları tırmandıkça daha fazla ödül ve avantaj elde edebilirsiniz.
 
-[Apply Here](https://forms.gle/GXBbJ6LDpNfM2v1X6)
+[Buradan Başvurun](https://forms.gle/GXBbJ6LDpNfM2v1X6)
 
-## Ambassador Activities
+## Ambassador Faaliyetleri
 
-SubQuery Ambassadors are able to contribute through four main areas, including event management, content creation, translation, and community moderation. You can participate in as many areas as you want, you’re not bound to any single one.
+SubQuery Ambassadorları, etkinlik yönetimi, içerik oluşturma, çeviri ve topluluk denetimi dahil olmak üzere dört ana alan aracılığıyla katkıda bulunabilir. İstediğiniz kadar alana katılabilirsiniz, tek bir alana bağlı değilsiniz.
 
 **Event Management:** Build local communities by hosting, organising, and managing different events. Building a local community will be a key part of growing the SubQuery community. SubQuery will support you by providing funding for events, sending swag/merchandise to be given away, as well as attending Q&As or online events as speakers or in AMA sessions.
 
