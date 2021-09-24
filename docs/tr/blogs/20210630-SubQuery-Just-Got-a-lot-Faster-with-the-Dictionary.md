@@ -1,20 +1,20 @@
-# SubQuery Just Got a Lot Faster with the Dictionary
+# SubQuery Sözlükle Daha Çok Hızlı Oldu
 
 ![](https://miro.medium.com/max/1400/1*iEQbr-KZNIkztylVowAuaQ.png)
 
-Today we are proud to announce our new improvement to SubQuery, SubQuery’s Dictionary indexing feature.
+Bugün SubQuery'nin Sözlük indeksleme özelliği olan, SubQuery'deki yeni geliştirmemizi duyurmaktan gurur duyuyoruz.
 
-The SubQuery Dictionary is all about speeding up your Projects. It dramatically improves indexing the performance of your SubQuery Project, **sometimes up to 10x faster.**
+SubQuery Sözlüğü, projelerinizi hızlandırmakla ilgilidir. SubQuery, projenizin performansını dizine eklemeyi önemli ölçüde iyileştirir.** Bazen 10 kata kadar daha hızlıdır.**
 
-When indexing chain data, SubQuery Projects used to inspect each block. Polkadot’s chain is large, 130GB of unstructured data over almost 6 million blocks. This takes many hours to index, time that you don’t want to wait for — especially when testing.
+Zincir verilerini indekslerken, her bloğu incelemek için SubQuery Projeleri kullanılır. Polkadot'un zinciri büyük, neredeyse 6 milyon bloktan oluşan 130 GB'lık yapılandırılmamış veridir. Bu, -özellikle test ederken- beklemek istemediğiniz bir dizine eklemek saatler sürebilir.
 
-SubQuery projects now have the option to skip all this, we essentially pre-index the location of all events within a chain.
+SubQuery projesi artık tamamını atlama seçeneceğine sahip, aslında bir zincir içindeki tüm olayların konumunu önceden indeksliyoruz.
 
 ![](https://miro.medium.com/max/1400/1*uIjz8W4TG9Q0au9zoKbHVw.png)
 
-Performance is improved the most when the data is not a common occurrence, but instead interspersed along the chain, as if the data is rare, the Dictionary skips more blocks, and therefore the impact on performance is greater.
+Verilerin yaygın olmadığı, ancak veri seyrekmiş gibi zincir boyunca iç içe geçtiği durumlarda performans iyileştirilir, Sözlük daha fazla blok atlar ve bu nedenle performans etkisi daha fazladır.
 
-The Dictionary endpoint can be added in [your ‘project.yaml’ file](https://doc.subquery.network/create/manifest.html), or alternatively [specified at run time](https://doc.subquery.network/run/run.html#using-a-dictionary). Additionally, you can also override this endpoint when running your Project in [SubQuery Projects](https://project.subquery.network/).
+Sözlük uç noktası, ['project.yaml'](https://doc.subquery.network/create/manifest.html), dosyanıza eklenebilir veya alternatif olarak [çalışma zamanında belirtilebilir.](https://doc.subquery.network/run/run.html#using-a-dictionary). Ayrıca, Projenizi [SubQuery Projelerinde](https://project.subquery.network/) çalıştırırken de bu uç noktayı geçersiz kılabilirsiniz.
 
 ![](https://miro.medium.com/max/1400/1*xl4wENAv_oNingDQZyrtyw.png)
 
