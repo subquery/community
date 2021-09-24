@@ -1,6 +1,6 @@
 # SubQuery Network - Rangkuman
 
-> How does the SubQuery Network work? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
+> Bagaimana cara kerja SubQuery Network? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
 
 Hari ini kita akan berbicara tentang bagaimana SubQuery Network bekerja pada tingkat tinggi.
 
