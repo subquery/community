@@ -18,10 +18,10 @@ Sözlük uç noktası, ['project.yaml'](https://doc.subquery.network/create/mani
 
 ![](https://miro.medium.com/max/1400/1*xl4wENAv_oNingDQZyrtyw.png)
 
-You can read more about the dictionary in our [helpful documentation here](https://doc.subquery.network/run/run.html#using-a-dictionary).
+Sözlük hakkında daha fazla bilgiyi buradaki [yardımcı belgelerimizden okuyabilirsiniz.](https://doc.subquery.network/run/run.html#using-a-dictionary).
 
-We believe SubQuery is the best data indexing option available for any Polkadot/Substrate dApp, and this new implementation of SubQuery’s Dictionary allows us to further improve our service by speeding up the indexing process for your SubQuery Projects.
+SubQuery'nin herhangi bir Polkadot/Substrate dApp için mevcut en iyi veri indeksleme seçeneği olduğuna inanıyoruz ve SubQuery'nin Sözlüğünün bu yeni uygulaması, SubQuery Projeleriniz için indeksleme süreci hızlandırarak hizmetimizi daha da geliştirmemize olanak sağlıyor.
 
-You can try it yourself in [SubQuery Projects](https://project.subquery.network/) or view the dictionaries themselves in [our explorer](https://explorer.subquery.network/). In order to use a Dictionary in your existing project, your [@subql/cli](https://www.npmjs.com/package/@subql/cli) version must be at least 0.10.0
+Bunu [SubQuery Projelerinde](https://project.subquery.network/) kendiniz deneyebilir veya sözlükleri [explorer'da](https://explorer.subquery.network/) görüntüleyebilirsiniz. Mevcut projenizde Sözlük kullanabilmeniz için [@subql/cli](https://www.npmjs.com/package/@subql/cli) versiyonunuz en az 0.10.0 olmalıdır.
 
 ![](https://miro.medium.com/max/1400/1*CrbWsx1rFiBNjkCepxbkPQ.png)
