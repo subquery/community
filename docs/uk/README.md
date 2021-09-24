@@ -4,7 +4,7 @@ SubQuery тут, щоб допомогти вам трансформувати �
 
 Це глобальне сховище всіх блогів спільнот, оголошень, статей та відео з SubQuery.
 
-**Read in your own language! You can change your language using the selector on the top right of all pages.**
+**Читайте рідною мовою! You can change your language using the selector on the top right of all pages.**
 
 ## Нам потрібна допомога з перекладом!
 
