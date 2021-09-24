@@ -4,27 +4,27 @@
 
 ![](https://miro.medium.com/max/1400/1*f9Jw37LjUGu8P8W39cjDYw.png)
 
-This week OnFinality (the team behind SubQuery), delivered on their Web3 Foundation Grant to provide a complete workflow to create SubQuery projects. We’re excited to announce the work that we’ve done to complete this grant, and to share it with the world so that they can start using our project today to query their networks more efficiently.
+Minggu ini OnFinality (tim di belakang SubQuery), menyampaikan Grant Web3 Foundation mereka untuk menyediakan alur kerja yang lengkap untuk membuat proyek SubQuery. Kami dengan senang hati mengumumkan pekerjaan yang telah kami lakukan untuk menyelesaikan grant ini, dan membagikannya kepada dunia sehingga mereka dapat mulai menggunakan proyek kami hari ini untuk mengkukeri jaringan mereka secara lebih efisien.
 
-SubQuery is built by the team at OnFinality, which is an infrastructure Iaas & SaaS platform for blockchain teams and users to launch nodes and get access to a large range of blockchain protocols. We have a suite of symbiotic services including our API shared node services, and have relationships with the top Polkadot/Substrate teams.
+SubQuery dibangun oleh tim di OnFinality, yang merupakan platform Iaas & SaaS infrastruktur untuk tim dan pengguna blockchain untuk meluncurkan node dan mendapatkan akses ke berbagai protokol blockchain. Kami memiliki serangkaian layanan simbiosis termasuk layanan API shared node kami, dan memiliki hubungan dengan tim Polkadot/Substrate teratas.
 
-Almost every blockchain has a need to process and query data. Our project is inspired by the growth of data protocols serving the application layer and is here to help the thriving Polkadot community. SubQuery’s aim is to help Polkadot/Substrate projects build better dApps by allowing anyone to reliably find and consume data faster. Our service allows users to extract, transform, persist, and query data, as well as connect and present data in the future.
+Hampir setiap blockchain memiliki kebutuhan untuk memproses dan meminta data. Proyek kami terinspirasi oleh pertumbuhan protokol data yang melayani lapisan aplikasi dan hadir untuk membantu komunitas Polkadot yang berkembang pesat. Tujuan SubQuery adalah untuk membantu proyek Polkadot/Substrate membangun dApps yang lebih baik dengan memungkinkan siapa saja menemukan dan menggunakan data lebih cepat dengan andal. Layanan kami memungkinkan pengguna untuk mengekstrak, mengubah, mempertahankan, dan meminta data, serta menghubungkan dan menyajikan data di masa mendatang.
 
 [Program Grants Terbuka Web3 Foundation](https://github.com/w3f/Open-Grants-Program/pull/136) telah memungkinkan kami membangun SubQuery, sebuah proyek open source yang memungkinkan pengguna menjalankan pengindeks di seluruh chain mereka untuk membangun kumpulan data yang dapat dikueri dengan GraphQL.
 
-This suite of tools includes @subql/cli, to allow projects to generate their own SubQuery project, defining how the indexer should traverse and aggregate their own network. As part of our proposal, we have provided a basic tutorial that shows users how to use the cli to index their network that [you can follow here](https://doc.subquery.network/quickstart.html). We’ve even provided more detailed developer documentation for more advanced usages.
+Rangkaian alat ini mencakup @subql/cli, untuk memungkinkan proyek menghasilkan proyek SubQuery mereka sendiri, mendefinisikan bagaimana pengindeks harus melintasi dan menggabungkan jaringan mereka sendiri. Sebagai bagian dari proposal kami, kami telah menyediakan tutorial dasar yang menunjukkan kepada pengguna cara menggunakan cli untuk mengindeks jaringan mereka yang [Anda dapat ikuti di sini](https://doc.subquery.network/quickstart.html). Kami bahkan telah menyediakan dokumentasi pengembang yang lebih mendetail untuk penggunaan yang lebih lanjut.
 
-Secondly, there’s a SubQuery node package that loads the defined SubQuery project created by the CLI and then indexes the network to a Postgres database. Using Hasura, you can run GraphQL queries right away over indexed tables. With the help of these tools, and the community support material that we’re always improving, anyone can create and run queries easily.
+Kedua, ada paket node SubQuery yang memuat proyek SubQuery yang telah ditentukan yang dibuat oleh CLI dan kemudian mengindeks jaringan ke database Postgres. Menggunakan Hasura, Anda dapat langsung menjalankan kueri GraphQL di atas tabel yang diindeks. Dengan bantuan alat ini, dan materi dukungan komunitas yang selalu kami tingkatkan, siapa pun dapat membuat dan menjalankan kueri dengan mudah.
 
-**You can get started right away by following our example on the** [**SubQuery Github repository**](https://github.com/OnFinality-io/subql)**. Additionally, you can find out more by reading our** [**SubQuery docs**](https://doc.subquery.network/) **or** [**visiting our new website**](https://subquery.network/)**.**
+**Anda dapat segera memulai dengan mengikuti contoh kami di** [**repositori Github SubQuery**](https://github.com/OnFinality-io/subql)**. Selain itu, Anda dapat mengetahui lebih lanjut dengan membaca** [**dokumen SubQuery**](https://doc.subquery.network/) **atau** [**mengunjungi website baru kami**](https://subquery.network/)**.**
 
-We’re incredibly grateful for the support provided by Web3 Foundation to help us carry out this project for the community. Web3 Foundation funds research and development teams building the technology stack of the decentralized web. It was established in Zug, Switzerland by Ethereum co-founder and former chief technology officer Dr. Gavin Wood. Polkadot is the Foundation’s flagship project.
+Kami sangat berterima kasih atas dukungan yang diberikan oleh Web3 Foundation untuk membantu kami melaksanakan proyek ini untuk komunitas. Web3 Foundation mendanai tim penelitian dan pengembangan yang membangun stack teknologi web terdesentralisasi. Didirikan di Zug, Swiss oleh salah satu pendiri Ethereum dan mantan chief technology officer Dr. Gavin Wood. Polkadot adalah proyek unggulan Yayasan.
 
-We’ll focus on building a managed hosted service based off this offering that will be more performant and scalable. We are going to provide trusty public infrastructure that will build a powerful productionised SubQuery node from an uploaded SubQuery project. The service will then index and persist the chain state, and provide a production GraphQL endpoint that can replace self-hosted implementations. We’re going to focus on this so that everyone else can focus on building and growing their dApp.
+Kami akan fokus membangun layanan hosted terkelola berdasarkan penawaran ini yang akan lebih berperforma dan skalabel. Kami akan menyediakan infrastruktur publik tepercaya yang akan membangun node SubQuery produksi yang kuat dari proyek SubQuery yang diunggah. Layanan kemudian akan mengindeks dan mempertahankan chain state, dan menyediakan endpoint GraphQL produksi yang dapat menggantikan implementasi yang self-hosted. Kami akan fokus pada hal ini sehingga semua orang dapat fokus membangun dan mengembangkan dApp mereka.
 
-We saw Polkadot’s potential early and right from the start it felt natural to focus our efforts there. The core premise of Polkadot is to create a thriving community of developers, users, and businesses that will tap into its multichain interoperability — that community is going to need a service that allows them to reliably find and consume data quickly.
+Kami melihat potensi Polkadot sejak awal dan rasanya wajar untuk memfokuskan upaya kami di sana. Premis inti Polkadot adalah untuk menciptakan komunitas pengembang, pengguna, dan bisnis yang berkembang pesat yang akan memanfaatkan interoperabilitas multichain — komunitas akan membutuhkan layanan yang memungkinkan mereka menemukan dan menggunakan data dengan andal dengan cepat.
 
-Polkadot’s unique architecture means that we can focus on one network and then be able to support multiple current and future chains with ease. Even though Polkadot is still under development, we will be there ready to help the next generation of blockchain developers create the next big dApp.
+Arsitektur unik Polkadot berarti bahwa kita dapat fokus pada satu jaringan dan kemudian dapat mendukung beberapa chain saat ini dan masa depan dengan mudah. Meskipun Polkadot masih dalam pengembangan, kami akan siap membantu generasi berikutnya dari pengembang blockchain membuat dApp besar berikutnya.
 
 Mulailah di [repository Github SubQuery.](https://github.com/OnFinality-io/subql)
 
@@ -32,7 +32,7 @@ Baca [dokumen SubQuery](https://doc.subquery.network/) kami
 
 [Kunjungi website baru kami](https://subquery.network/)
 
-Learn more about Web3 Foundation by visiting their [website](https://web3.foundation/). To follow the latest developments at Web3 Foundation, join them on [Reddit](https://www.reddit.com/r/dot/) or [Twitter](https://twitter.com/web3foundation).
+Pelajari lebih lanjut tentang Web3 Foundation dengan mengunjungi [website](https://web3.foundation/) mereka. Untuk mengikuti perkembangan terbaru di Web3 Foundation, bergabunglah dengan mereka di [Reddit](https://www.reddit.com/r/dot/) atau [Twitter](https://twitter.com/web3foundation).
 
 Ikuti kami di:
 
