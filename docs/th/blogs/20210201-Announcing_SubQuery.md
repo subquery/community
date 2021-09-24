@@ -4,9 +4,9 @@
 
 ![](https://miro.medium.com/max/1400/1*J5u22qNxndcuCrFJ1mfGqg.png)
 
-ภารกิจของ OnFinality คือการสนับสนุนนักพัฒนาบล็อกเชนโดยการให้บริการโครงสร้างพื้นฐานแก่ลูกค้าทุกรูปแบบและทุกขนาด เรากำลังเปิดตัวกิจการใหม่ที่มุ่งแก้ปัญหาหลักเพื่อให้ภารกิจนี้ก้าวหน้า: SubQuery We’re launching a new venture that aims to solve a core problem to advance this mission: SubQuery.
+ภารกิจของ OnFinality คือการสนับสนุนนักพัฒนาบล็อกเชนโดยการให้บริการโครงสร้างพื้นฐานแก่ลูกค้าทุกรูปแบบและทุกขนาด เรากำลังเปิดตัวกิจการใหม่ที่มุ่งแก้ปัญหาหลักเพื่อให้ภารกิจนี้ก้าวหน้า: SubQuery เรากำลังเปิดตัวกิจการใหม่ที่มุ่งแก้ปัญหาหลักเพื่อพัฒนาภารกิจนี้: SubQuery
 
-Almost every blockchain has a need to process and query data. The thriving Polkadot community is going to need a service that allows them to reliably find and consume data quickly. บล็อคเชนเกือบทั้งหมดมีความต้องการการประมวลผลและสืบค้นข้อมูล ชุมชน Polkadot ที่เจริญรุ่งเรืองต้องการบริการที่ช่วยให้พวกเขาสามารถค้นหาและใช้ข้อมูลได้อย่างรวดเร็ว โครงการของเราได้รับแรงบันดาลใจจาก [The Graph](https://thegraph.com/) ซึ่งเป็นบริการที่โฟกัสที่ Ethereum ในปัจจุบัน ซึ่งช่วยให้ลูกค้าสามารถทำได้โดยใช้ GraphQL
+บล็อคเชนเกือบทั้งหมดมีความจำเป็นที่จะต้องประมวลผลและ query ข้อมูล The thriving Polkadot community is going to need a service that allows them to reliably find and consume data quickly. บล็อคเชนเกือบทั้งหมดมีความต้องการการประมวลผลและสืบค้นข้อมูล ชุมชน Polkadot ที่เจริญรุ่งเรืองต้องการบริการที่ช่วยให้พวกเขาสามารถค้นหาและใช้ข้อมูลได้อย่างรวดเร็ว โครงการของเราได้รับแรงบันดาลใจจาก [The Graph](https://thegraph.com/) ซึ่งเป็นบริการที่โฟกัสที่ Ethereum ในปัจจุบัน ซึ่งช่วยให้ลูกค้าสามารถทำได้โดยใช้ GraphQL
 
 Since decentralised systems store data across networks querying is slow and hard. For the Web 3.0 dream to be realised, it’s got to be as fast (if not faster) than centralised networks for the end user. Protocol teams are currently building centralised indexing servers for their own projects, but this poses three issues:
 
