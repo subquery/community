@@ -1,20 +1,20 @@
-# Introducing the SubQuery Ambassador Program
+# SubQuery Ambassador Programının Tanıtımı
 
 ![](https://miro.medium.com/max/1400/1*EC5wwTuoB6UK_EESGd8X8w.png)
 
-## Represent SubQuery in Your Community!
+## Topluluğunuzda SubQuery'i Temsil Edin!
 
-[SubQuery](https://subquery.network/) aims to be the leading data provider in Polkadot. Our mission is to power the biggest dApps in our growing ecosystem, and we’re already working with DeFi apps like [Acala](https://acala.network/) and [Bifrost](https://bifrost.finance/), wallets like [Fearless Wallet](https://fearlesswallet.io/), NFT platforms like [KodaDot](https://kodadot.xyz/), cross-chain bridges like [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia), and analytics platforms like [SubVis](https://subvis.io/).
+[SubQuery](https://subquery.network/) Polkadot'ta lider veri sağlayıcısı olmayı hedefliyor. Misyonumuz, büyüyen ekosistemimizdeki en büyük dApp'lere güç sağlamak ve şimdiden [Acala](https://acala.network/) ve [Bifrost](https://bifrost.finance/) gibi DeFi uygulamaları, [Fearless Wallet](https://fearlesswallet.io/) gibi cüzdanlarla [KodaDot](https://kodadot.xyz/) gibi NFT platformları, [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia) gibi zincirler arası köprüler ve [SubVis](https://subvis.io/) gibi analiz platformları ile çalışıyoruz.
 
-Our ecosystem is growing, and with our announcement of the SubQuery Network we’re looking for people from around the world to join us on our mission. The SubQuery team is excited to announce that we are opening up applications for our new Ambassador program!
+Ekosistemimiz büyüyor ve SubQuery Ağı duyurumuzla birlikte, dünyanın her yerinden insanları görevimizde bize katılacak insanlar arıyoruz. SubQuery ekibi, yeni Ambassador programı içni başvuruları açtığını duyurmaktan heyecan duyuyor!
 
-We understand that one of our biggest strengths is our community, and with your help we want to grow and establish local ambassadors for communities around the world.
+En güçlü yönlerimizden birinin topluluğumuz olduğunu anlıyoruz ve sizin yardımınızla büyümek ve dünyadaki topluluklar için yerel Ambassadorlar oluşturmak istiyoruz.
 
-[Apply Here](https://forms.gle/GXBbJ6LDpNfM2v1X6)
+[Buradan Başvurun](https://forms.gle/GXBbJ6LDpNfM2v1X6)
 
-Our team came together with the shared vision to build the foundations of a flexible and inclusive data service for the Polkadot ecosystem.
+Ekibimiz, Polkadot ekosistemi için esnek ve kapsayıcı bir veri hizmetinin temellerini oluşturmak için ortak vizyonla bir araya geldi.
 
-**Built by developers, for developers:** SubQuery is a growing community that focuses on providing the best products and services for our developers, and builders in our ecosystem. SubQuery is only successful if the Polkadot ecosystem is successful, and so everything we do is with our customer in mind.
+**Geliştiriciler tarafından, geliştiriciler için oluşturulmuştur:** SubQuery, geliştiricilerimiz ve ekosistemimizdeki kurucular için en iyi ürünleri ve hizmetleri sağlamaya odaklanan büyüyen bir topluluktur. SubQuery is only successful if the Polkadot ecosystem is successful, and so everything we do is with our customer in mind.
 
 **Integrity and Accountability:** We have team members in Auckland, Shanghai, and Sydney and so remote work is important to us. We expect that our team is empowered and works autonomously together to achieve our goals. A key requirement for this is for our team to be accountable for their actions and maintain their integrity.
 
