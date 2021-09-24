@@ -42,7 +42,7 @@ Bitcoin이 처음 시작된 이후 10년이 넘는 기간동안의 발전에도 
 
 Polkadot의 고유한 아키텍처는 우리가 하나의 네트워크에 집중할 수 있고, 이후에 현재와 미래의 여러 체인을 쉽게 지원할 수 있음을 의미합니다. 지금 이 노력을 기울이면, Polkadot이 아직 개발 단계라고 하더라도, 차세대 블록체인 개발자가 차세대 대형 dApp을 만들 수 있도록 도와줄 수 있습니다.
 
-SubQuery는 블록체인 팀과 사용자가 노드를 시작하고 광범위한 블록체인 프로토콜에 액세스할 수 있는 인프라 SaaS 플랫폼인 OnFinality의 팀에 의해 구축됩니다. We have a suite of symbiotic services including our API shared node service, and dedicated nodes that can be used in infrastructure management or as part of a protocol team’s CI/CD testing pipeline. We have relationships with the top Polkadot/Substrate teams, expertise in managed infrastructure hosting for the Substrate/Polkadot network, and the ability to deliver complex infrastructure projects and host them for production use.
+SubQuery는 블록체인 팀과 사용자가 노드를 시작하고 광범위한 블록체인 프로토콜에 액세스할 수 있는 인프라 SaaS 플랫폼인 OnFinality의 팀에 의해 구축됩니다. 우리는 API 공유 노드 서비스 및 인프라 관리 또는 프로토콜 팀의 CI/CD 시험 파이프라인의 일부로 사용할 수 있는 전용 노드를 비롯한 공생 서비스 제품군을 보유하고 있습니다. 우리는 최고의 Polkadot/Substrate 팀, Substate/Polkadot 네트워크 관리 인프라 호스팅에 대한 전문 지식, 그리고 복잡한 인프라 프로젝트를 제공하고 개발출시 용도로 호스팅할 수 있는 능력을 보유하고 있습니다.
 
 **Sam Zou —** CEO ([LinkedIn](https://www.linkedin.com/in/sam-zou-5b8169a/))
 
@@ -58,13 +58,13 @@ Infrastructure & Application Architect, Award-winning software engineer.
 
 **James Bayly** — Head of Business Development ([LinkedIn](https://www.linkedin.com/in/james-bayly/))
 
-Get started on the [SubQuery Github repository.](https://github.com/OnFinality-io/subql)
+[SubQuery Github repository.](https://github.com/OnFinality-io/subql)에서 시작해보세요.
 
-Read our [SubQuery docs](https://doc.subquery.network/)
+[SubQuery docs](https://doc.subquery.network/)을 읽어보세요.
 
-[Visit our new website](https://subquery.network/)
+[우리 웹사이트를 방문해보세요.](https://subquery.network/)
 
-Follow us on:
+우리를 Follow해서 최신 소식을 받아보세요.
 
 -   [Telegram](https://t.me/subquerynetwork)
 -   [Twitter](https://twitter.com/subquerynetwork)
