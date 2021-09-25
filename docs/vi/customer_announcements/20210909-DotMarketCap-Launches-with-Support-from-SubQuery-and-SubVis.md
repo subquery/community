@@ -28,7 +28,7 @@ Một lượng lớn dữ liệu thời gian thực trực tiếp này đến t�
 
 DotMarketCap là một dự án phi lợi nhuận được tài trợ bởi Illusionist Group, đây là một trang web nơi bạn có thể tìm thấy dữ liệu về giá cả, biểu đồ, vốn hóa cũng như thông tin và phân tích mới nhất của toàn bộ dự án trên hệ sinh thái Polkadot. Sau nhiều cải tiến, DotMarketCap cuối cùng đã xuất hiện với các tính năng hoàn toàn mới và thú vị. Truy cập dotmarketcap.com để biết thêm thông tin.
 
-[Website](http://dotmarketcap.com/)|[Telegram](https://t.me/DotMarketCap_ANN)|[Twitter](https://twitter.com/DotMarketCap?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+[Website](http://dotmarketcap.com/) | [Telegram](https://t.me/DotMarketCap_ANN) | [Twitter](https://twitter.com/DotMarketCap?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 ## **Giới thiệu về SubQuery**
 
