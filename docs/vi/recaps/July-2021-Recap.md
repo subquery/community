@@ -5,7 +5,7 @@
 ## Cộng đồng, Cộng đồng, Cộng đồng!
 
 
-Welcome to another monthly update from SubQuery. As you all know, community is a key element for every successful crypto project — this month we’ve started to expand our focus in this area.
+Chào mừng bạn đến với một bản cập nhật hàng tháng khác từ SubQuery. Như các bạn đã biết, cộng đồng là yếu tố then chốt cho mọi dự án tiền điện tử thành công - trong tháng này, chúng tôi đã bắt đầu mở rộng trọng tâm của mình trong lĩnh vực này.
 
 Trong bản cập nhật tháng này:
 
@@ -18,34 +18,34 @@ Trong bản cập nhật tháng này:
 
 ![](https://miro.medium.com/max/1400/0*pe3Z3x1lGb_RLa5x)
 
-We understand that one of our biggest strengths is our community, and so [we recently launched our ambassador program](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) for communities around the world. We were overwhelmed by the interest in our program, with almost 500 applications received in under a fortnight!
+Chúng tôi hiểu rằng một trong những sức mạnh lớn nhất của chúng tôi là cộng đồng của chúng tôi và vì vậy [ gần đây chúng tôi đã khởi động chương trình đại sứ của mình ](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) cho các cộng đồng trên toàn thế giới. Chúng tôi đã bị choáng ngợp bởi sự quan tâm đến chương trình của chúng tôi, với gần 500 đơn đăng ký nhận được trong vòng hai tuần!
 
-We’re in the process of onboarding our first batch of ambassadors very shortly. We’re particularly excited here because it means that everyone in our community can expect to see better local representation and support in different communities!
+Chúng tôi đang trong quá trình giới thiệu nhóm đại sứ đầu tiên trong thời gian ngắn. Chúng tôi đặc biệt vui mừng ở đây vì điều đó có nghĩa là mọi người trong cộng đồng của chúng tôi có thể mong đợi được thấy sự hỗ trợ và đại diện địa phương tốt hơn trong các cộng đồng khác nhau!
 
-By the end of July we’ve made good progress on the first two milestones of our [open-source dApp API treasury grant](https://kusama.polkassembly.io/treasury/95). Although on the surface it doesn’t look like much, it is actually a really important initiative for us. Firstly it represents deep strategic cooperation with one of the largest Polkadot native wallets, Fearless Wallet.
+Đến cuối tháng 7, chúng tôi đã đạt được tiến triển tốt trong hai mốc quan trọng đầu tiên của [ khoản tài trợ kho bạc dApp API mã nguồn mở ](https://kusama.polkassembly.io/treasury/95). Mặc dù nhìn bề ngoài thì nó không giống, nhưng thực sự đây là một sáng kiến ​​thực sự quan trọng đối với chúng tôi. Thứ nhất, nó đại diện cho sự hợp tác chiến lược sâu sắc với một trong những ví gốc Polkadot lớn nhất, Fearless Wallet.
 
-Secondly, this open-source API should be able to provide different types of applications with a sufficient (but read-only) view of all key data within the Kusama chain. E.g. a developer could use it to create their own chain explorer without needing to directly query chain data.
+Thứ hai, API mã nguồn mở này sẽ có thể cung cấp các loại ứng dụng khác nhau với chế độ xem đầy đủ (nhưng chỉ đọc) đối với tất cả dữ liệu chính trong chuỗi Kusama. Ví dụ. nhà phát triển có thể sử dụng nó để tạo trình khám phá chuỗi của riêng họ mà không cần truy vấn trực tiếp dữ liệu chuỗi.
 
-We’re building this in a way that makes it easy to extend to the growing number of parachains. It’ll also provide a much better foundation for new applications building on SubQuery, allowing us onboard new partnerships faster!
+Chúng tôi đang xây dựng điều này theo cách giúp dễ dàng mở rộng số lượng parachains ngày càng tăng. Nó cũng sẽ cung cấp một nền tảng tốt hơn nhiều cho các ứng dụng mới xây dựng trên SubQuery, cho phép chúng tôi xây dựng các mối quan hệ đối tác mới nhanh hơn!
 
 ![](https://miro.medium.com/max/1400/0*AhM68fyjjSp_2edZ)
 
 Chúng tôi đã [tham gia liên minh Nền tảng mở Patract](https://subquery.medium.com/subquery-is-joining-the-patract-open-platform-91682c748a57) để cùng thúc đẩy sự phát triển của cơ sở hạ tầng công cộng, thúc đẩy sự phát triển của công nghệ hợp đồng và phát triển hệ sinh thái phát triển hợp đồng Wasm.
 
-We believe that contracts are an important part of a thriving Polkadot ecosystem, providing data indexing services for Wasm contracts has always been a major goal of SubQuery. It is exciting to see that the Open Platform has brought together a large number of great projects, and that everyone is working together to contribute to the healthy and stable advancement of Wasm contracts.
+Chúng tôi tin rằng hợp đồng là một phần quan trọng của hệ sinh thái Polkadot đang phát triển mạnh, việc cung cấp dịch vụ lập chỉ mục dữ liệu cho các hợp đồng Wasm luôn là mục tiêu chính của SubQuery. Thật thú vị khi thấy rằng Nền tảng mở đã tập hợp một số lượng lớn các dự án tuyệt vời và mọi người đang làm việc cùng nhau để đóng góp vào sự phát triển lành mạnh và ổn định của các hợp đồng Wasm.
 
-Earlier last month I joined Jorrin Burns on Parity’s Relay Chain Podcast, we talked about our mission and how we were working with projects in our ecosystem. We also discussed how collaboration and feedback from other Polkadot projects in New Zealand (like Acala and Bitcountry) has influenced several of our value-added features, our long-term plans to become a parachain, and the road to 1 billion API requests.
+Đầu tháng trước, tôi đã tham gia cùng Jorrin Burns trên Parity’s Relay Chain Podcast, chúng tôi đã nói về sứ mệnh của mình và cách chúng tôi đang làm việc với các dự án trong hệ sinh thái của mình. Chúng tôi cũng đã thảo luận về cách thức cộng tác và phản hồi từ các dự án Polkadot khác ở New Zealand (như Acala và Bitcountry) đã ảnh hưởng đến một số tính năng giá trị gia tăng của chúng tôi, kế hoạch dài hạn của chúng tôi để trở thành parachain và con đường đạt đến 1 tỷ yêu cầu API.
 
 [Bạn có thể nghe podcast trên nền tảng yêu thích của mình tại đây.](https://relaychain.fm/35-querying-the-worlds-data-with-subquery)
 
-> _“Documentation may not be glamorous work but it plays a vital role in communicating how something works and allows us to empower our community members to learn and unleash their creativity. That is why we believe documentation is so important”_ — Sean Au (SubQuery Academy)
+> _“Tài liệu có thể không phải là công việc hấp dẫn nhưng nó đóng một vai trò quan trọng trong việc truyền đạt cách hoạt động của một thứ gì đó và cho phép chúng tôi trao quyền cho các thành viên trong cộng đồng của mình học hỏi và giải phóng sức sáng tạo của họ. Đó là lý do tại sao chúng tôi tin rằng tài liệu rất quan trọng”_ - Sean Au (SubQuery Academy)
 
 ![](https://miro.medium.com/max/1200/0*tvcfXFxHc6shdmAy.gif)
 
-[Our new documentation website](https://doc.subquery.network/) has an inviting landing page designed to welcome all users, regardless of their technical understanding of blockchain or Polkadot. From the landing page users can jump straight into a getting started tutorial, or navigate off to the help they need.
+[Website tài liệu mới của chúng tôi](https://doc.subquery.network/) có một trang đích hấp dẫn được thiết kế để chào đón tất cả người dùng, bất kể sự hiểu biết kỹ thuật của họ về blockchain hoặc Polkadot. Từ trang đích, người dùng có thể chuyển thẳng đến hướng dẫn bắt đầu hoặc chuyển hướng đến trợ giúp họ cần.
 
-Traditionally, blockchain documentation is incredibly technical and littered with jargon — you have to come from a developer background to easily understand it. We’ve taken a different path and written content for users at all levels of experience.
+Theo truyền thống, tài liệu blockchain cực kỳ kỹ thuật và có nhiều biệt ngữ - bạn phải có kiến thức nền tảng lập trình để dễ dàng hiểu nó. Chúng tôi đã thực hiện một con đường khác và nội dung bằng văn bản cho người dùng ở mọi cấp độ trải nghiệm.
 
-Our goal is to publish a tutorial for every piece of major functionality in SubQuery. That means a step-by-step video and written guide with working examples as outcomes — you can see the beginnings of our efforts here [in the Tutorials section](https://doc.subquery.network/tutorials_examples/howto.html).
+Mục tiêu của chúng tôi là xuất bản một hướng dẫn cho mọi phần chức năng chính trong SubQuery. Điều đó có nghĩa là một video từng bước và hướng dẫn bằng văn bản với các ví dụ làm việc là kết quả - bạn có thể xem bước khởi đầu của những nỗ lực của chúng tôi tại đây [trong phần Hướng dẫn.](https://doc.subquery.network/tutorials_examples/howto.html).
 
-We consistently receive feedback from our community that we have some of the best documentation in our industry. We promise to keep it that way!
+Chúng tôi liên tục nhận được phản hồi từ cộng đồng rằng chúng tôi có một số tài liệu tốt nhất trong ngành. Chúng tôi hứa sẽ giữ nó như vậy!
