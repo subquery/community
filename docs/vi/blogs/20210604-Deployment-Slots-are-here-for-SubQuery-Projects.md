@@ -1,12 +1,12 @@
-# Các vị trí triển khai ở đây dành cho các Dự án SubQuery
+# Các vị trí triển khai dành cho các Dự án SubQuery
 
 > Hôm nay, chúng tôi sẽ giới thiệu các vị trí triển khai, một tính năng hoàn toàn mới giúp cải thiện trải nghiệm của nhà phát triển trong dịch vụ được lưu trữ của SubQuery.
 
-[SubQuery Projects](https://project.subquery.network/) is already being used as a managed and hosted service for many Projects, whether they’re chain explorers, wallets, NFT explorers, or others. It’s a service that our customers rely on.
+[Dự án SubQuery](https://project.subquery.network/) đã được sử dụng như một dịch vụ được quản lý và lưu trữ cho nhiều dự án, cho dù chúng là trình khám phá chuỗi, các ví, trình khám phá NFT hay bất kỳ cái gì khác. Đó là một dịch vụ mà khách hàng của chúng tôi tin cậy.
 
 ![](https://miro.medium.com/max/1400/0*PugDgh6weZspRIO2)
 
-Bây giờ bạn có thể triển khai đến một vị trí dàn dựng riêng biệt
+Bây giờ bạn có thể triển khai đến một vị trí được sắp xếp riêng biệt
 
 Mặc dù bạn luôn có thể tự mình chạy cơ sở hạ tầng của SubQuery (với nút và dịch vụ truy vấn của riêng bạn), chúng tôi mong muốn làm cho dịch vụ được lưu trữ của chúng tôi trở thành nhà cung cấp dữ liệu đáng tin cậy, linh hoạt và hiệu quả nhất trong hệ sinh thái Polkadot/Substrate.
 
