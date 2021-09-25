@@ -2,13 +2,13 @@
 
 ![Subscan header.jpg](https://cdn-images-1.medium.com/max/1600/1*Xs3mJrvClJq3qBzWU48fjg.jpeg)
 
-Subscan's new [multi-signature wallet tool](https://medium.com/r/?url=https%3A%2F%2Fmultisig.subscan.io%2F) is designed to help others in the Polkadot ecosystem create and manage multi-signature accounts and transactions. It is supported by the [Web3 Foundation Grants Program](https://github.com/w3f/Grants-Program/blob/master/applications/multisignature_management_tool.md) and provides convenient multi-signature wallet management services for multiple networks based in Polkadot.
+[Công cụ ví đa chữ ký](https://medium.com/r/?url=https%3A%2F%2Fmultisig.subscan.io%2F) mới của Subscan được thiết kế để giúp những người khác trong hệ sinh thái Polkadot tạo và quản lý các tài khoản và giao dịch đa chữ ký. Nó được hỗ trợ bởi [Chương trình tài trợ của Quỹ Web3](https://github.com/w3f/Grants-Program/blob/master/applications/multisignature_management_tool.md) và cung cấp các dịch vụ quản lý ví đa chữ ký thuận tiện cho nhiều mạng dựa trên Polkadot.
 
 Dịch vụ của SubQuery đóng một vai trò quan trọng trong công cụ này, cung cấp dữ liệu nhanh chóng về giao dịch cho bất kỳ địa chỉ đa chữ ký nhất định nào, giúp cải thiện UX và cho phép các tính năng nâng cao hơn.
 
 ![Người dùng có thể dễ dàng tạo địa chỉ đa chữ ký mới](https://cdn-images-1.medium.com/max/1600/1*e4AALzw8xzERhzBJgPUktQ.png)
 
-> *"SubQuery has made it easy for us to index data for the Subscan Multi-signature tool and can be easily run by our team. Subscan's API service is standardised, we recommend SubQuery to our users when they have more customisation requirements."* - Subscan
+> *"SubQuery đã giúp chúng tôi dễ dàng lập chỉ mục dữ liệu cho công cụ Đa chữ ký Subscan và nhóm của chúng tôi có thể dễ dàng điều hành. Dịch vụ API của Subscan được chuẩn hóa, chúng tôi đề xuất SubQuery cho người dùng của chúng tôi khi họ có nhiều yêu cầu tùy chỉnh hơn."* - Subscan
 
 ![](https://cdn-images-1.medium.com/max/1600/1*Hy-1IxJ3ZNQX7qC38H19Bg.png)
 
@@ -18,14 +18,14 @@ Dịch vụ của SubQuery đóng một vai trò quan trọng trong công cụ n
 
 ## Giới thiệu về Subscan
 
-[Subscan.io](https://www.subscan.io/) is a high-precision multi-chain explorer built for substrate-based blockchains. Subscan supports data exploration and visualization of more than 30 networks in the Polkadot ecosystem.
+[Subscan.io](https://www.subscan.io/) là một trình khám phá đa chuỗi có độ chính xác cao được xây dựng cho các chuỗi khối dựa trên substrate. Subscan hỗ trợ khám phá dữ liệu và trực quan hóa hơn 30 mạng trong hệ sinh thái Polkadot.
 
-Subscan provides customized services for the ecological network, such as EVM module, multi-token, etc. In addition, Subscan also provides stable API services, data charts and convenient tool applications.
+Subscan cung cấp các dịch vụ tùy chỉnh cho mạng sinh thái, chẳng hạn như mô-đun EVM, đa token. Ngoài ra, Subscan còn cung cấp các dịch vụ API ổn định, biểu đồ dữ liệu và các ứng dụng công cụ tiện lợi.
 
 [Website](https://www.subscan.io/) | [Email](mailto:hello@subscan.io) | [Medium](https://medium.com/subscan) | [Element](https://riot.im/app/#/room/!uaYUrKBueiKUurHliJ:matrix.org) | [Twitter](https://twitter.com/subscan_io/) | [GitHub](https://github.com/itering/subscan-essentials)
 
 ## Giới thiệu về SubQuery
 
-[SubQuery](https://subquery.network/) is a data aggregation layer that will operate between the layer-1 blockchains (Kusama) and DApps (like Kodadot). This service allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+[SubQuery](https://subquery.network/) là một lớp tổng hợp dữ liệu sẽ hoạt động giữa các blockchains layer-1 (Kusama) và DApps (như Kodadot). Dịch vụ này cho phép các nhà phát triển DApp tập trung vào các tính năng cốt lõi và giao diện người dùng của họ mà không cần lãng phí thời gian vào việc xây dựng chương trình phụ trợ tùy chỉnh để xử lý dữ liệu.
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)
