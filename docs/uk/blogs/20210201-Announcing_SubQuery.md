@@ -40,31 +40,31 @@
 
 Ми рано побачили потенціал Polkadot, і з самого початку зосередили наші зусилля. Він вирішує проблеми управління, форкiв, взаємодії та багато іншого. Основна обiцянка Polkadot - створити процвітаючу спільноту розробників, користувачів та компаній, яка залучатиме її багатоланцюгову сумісність - ця спільнота потребуватиме послуги, яка дозволяє їм надійно швидко знаходити та споживати дані.
 
-Polkadot’s unique architecture means that we can focus on one network and then be able to support multiple current and future chains with ease. By putting in this effort now, even as Polkadot is still under development, we will be there ready to help the next generation of blockchain developers create the next big dApp.
+Унікальна архітектура Polkadot означає, що ми можемо зосередитися на одній мережі, а потім зможемо з легкістю підтримувати декілька поточних та майбутніх ланцюжків. Доклавши цих зусиль зараз, навіть якщо Polkadot все ще знаходиться в стадії розробки, ми будемо готові допомогти наступному поколінню розробників блокчейнів створити наступний великий dApp.
 
-SubQuery will be built by the team at OnFinality, which is an infrastructure SaaS platform for blockchain teams and users to launch nodes and get access to a large range of blockchain protocols. We have a suite of symbiotic services including our API shared node service, and dedicated nodes that can be used in infrastructure management or as part of a protocol team’s CI/CD testing pipeline. We have relationships with the top Polkadot/Substrate teams, expertise in managed infrastructure hosting for the Substrate/Polkadot network, and the ability to deliver complex infrastructure projects and host them for production use.
+SubQuery буде створено командою OnFinality, яка є інфраструктурною платформою SaaS для команд блокчейн і користувачів для запуску вузлів і отримання доступу до широкого спектру протоколів блокчейн. У нас є набір симбіотичних послуг, включаючи нашу службу спільних вузлів API та виділені вузли, які можна використовувати в управлінні інфраструктурою або як частину протоколу тестування CI/CD команди протоколів. Ми маємо стосунки з найкращими командами Polkadot/Substrate, досвід роботи з керованою інфраструктурою для мережі Substrate/Polkadot, а також здатність надавати складні інфраструктурні проекти та розміщувати їх для використання у виробництві.
 
-**Sam Zou —** CEO ([LinkedIn](https://www.linkedin.com/in/sam-zou-5b8169a/))
+**Сем Зоу —** CEO ([LinkedIn](https://www.linkedin.com/in/sam-zou-5b8169a/))
 
-Entrepreneur, Investors with more than 20 years of IT experience specialising in infrastructure and cloud service design
+Підприємець, інвестор з більш ніж 20 -річним досвідом роботи в ІТ, що спеціалізуються на інфраструктурі та дизайні дискiв
 
-**Ian He —** Head of Protocol ([LinkedIn](https://www.linkedin.com/in/yin-he-7a266345/))
+**Ян Хе —** Керівник протоколу ([LinkedIn](https://www.linkedin.com/in/yin-he-7a266345/))
 
-Blockchain Architect, Contributor to polkadot-js, Early adopter of Substrate technology and won second place in the first Polkadot hackathon.
+Архітектор блокчейн, співавтор polkadot-js, ранній користувач технології Substrate і завоював друге місце у першому хакатоні Polkadot.
 
-**James Xu —** Solutions Architect ([LinkedIn](https://www.linkedin.com/in/zhexu/))
+**Джеймс Сю —** Архітектор рішень ([LinkedIn](https://www.linkedin.com/in/zhexu/))
 
-Infrastructure & Application Architect, Award-winning software engineer.
+Архітектор інфраструктури та додатків, інженер-програміст, відзначений нагородами.
 
-**James Bayly** — Head of Business Development ([LinkedIn](https://www.linkedin.com/in/james-bayly/))
+**Джеймс Бейлі** — Керівник бізнес відділу ([LinkedIn](https://www.linkedin.com/in/james-bayly/))
 
-Get started on the [SubQuery Github repository.](https://github.com/OnFinality-io/subql)
+Почніть із [SubQuery Github. ](https://github.com/OnFinality-io/subql)
 
-Read our [SubQuery docs](https://doc.subquery.network/)
+Прочитайте наші [ документи SubQuery ](https://doc.subquery.network/)
 
-[Visit our new website](https://subquery.network/)
+[Відвідайте наш новий веб -сайт](https://subquery.network/)
 
-Follow us on:
+Слідкуй за нами:
 
 -   [Telegram](https://t.me/subquerynetwork)
 -   [Twitter](https://twitter.com/subquerynetwork)
