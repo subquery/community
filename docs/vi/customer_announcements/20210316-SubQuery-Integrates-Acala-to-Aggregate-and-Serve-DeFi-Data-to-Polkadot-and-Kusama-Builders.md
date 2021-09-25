@@ -12,7 +12,7 @@ Hôm nay, khi bạn truy cập [SubQuery Explorer](https://explorer.subquery.net
 
 -   Dữ liệu lịch sử về các thay đổi thanh khoản (được chia nhỏ bởi các nhà cung cấp)
 -   Dữ liệu lịch sử về tất cả các hoán đổi tài sản chuỗi chéo
--   Lịch sử chuyển nhượng
+-   Lịch sử giao dịch
 
 ![](https://miro.medium.com/max/1400/0*sXPljA1RE754fuDQ)
 
