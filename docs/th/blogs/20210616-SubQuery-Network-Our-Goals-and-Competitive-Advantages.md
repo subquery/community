@@ -2,33 +2,33 @@
 
 วันนี้เราจะมาสำรวจเป้าหมายที่เรามีกับ SubQuery และข้อได้เปรียบทางการแข่งขันบางอย่างที่เราคิดว่าทำให้ SubQuery Network ดีกว่าคู่แข่งของเรา
 
-SubQuery’s currently provided indexing and transformation data in a centralised way. ข้อมูลการจัดทำดัชนีและการ transform ของ SubQuery ในปัจจุบันเป็นแบบ centralized แม้ว่าสิ่งนี้จะช่วยให้เราสามารถขับเคลื่อนโครงการ Polkadot ชั้นนำได้; แอป DeFi เช่น Acala และ Bifrost, กระเป๋าเงินอย่าง Fearless Wallet, แพลตฟอร์ม NFT เช่น [KodaDot](https://kodadot.xyz/) บริดจ์ cross-chain เช่น [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia), และแพลตฟอร์มการวิเคราะห์ เช่น [SubVis](https://subvis.io/) - มันมีข้อเสีย
+ข้อมูลการจัดทำดัชนีและการ transform ของ SubQuery ในปัจจุบันเป็นแบบ centralized แม้ว่าสิ่งนี้จะช่วยให้เราสามารถขับเคลื่อนโครงการ Polkadot ชั้นนำได้; แอป DeFi เช่น Acala และ Bifrost, กระเป๋าเงินอย่าง Fearless Wallet, แพลตฟอร์ม NFT เช่น [KodaDot](https://kodadot.xyz/) บริดจ์ cross-chain เช่น [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia), และแพลตฟอร์มการวิเคราะห์ เช่น [SubVis](https://subvis.io/) - มันมีข้อเสีย
 
-ผู้ใช้ต้องเชื่อถือบริการที่เรานำเสนอ และมีความเสี่ยงที่เกี่ยวข้องกับบริการแบบ centralized เช่น ความล้มเหลวของเซิร์ฟเวอร์ที่อาจเกิดขึ้นหรือการหยุดทำงานที่อาจทำให้แอปพลิเคชันของคุณเสียหายได้ นี่คือเหตุผลหลักว่าทำไมเราถึงก้าวไปสู่อนาคตที่เป็นแบบกระจายอำนาจ This is a major reason why we are moving to a decentralised future.
+ผู้ใช้ต้องเชื่อถือบริการที่เรานำเสนอ และมีความเสี่ยงที่เกี่ยวข้องกับบริการแบบ centralized เช่น ความล้มเหลวของเซิร์ฟเวอร์ที่อาจเกิดขึ้นหรือการหยุดทำงานที่อาจทำให้แอปพลิเคชันของคุณเสียหายได้ นี่คือเหตุผลหลักว่าทำไมเราถึงก้าวไปสู่อนาคตที่เป็นแบบกระจายอำนาจ
 
 ![](https://miro.medium.com/max/868/1*CPksnN9_jyMGQ0sSbiJvDQ.png)
 
 ความได้เปรียบในการแข่งขันของเรา
 
-เราเข้าใจดีว่า SubQuery Network กำลังแข่งขันกับผู้เล่นหลายรายในอุตสาหกรรมข้อมูลแบบกระจายอำนาจ SubQuery พยายามที่จะให้ประโยชน์ที่ไม่เหมือนใครผ่านข้อได้เปรียบทางการแข่งขันมากมาย หลักการชี้นำของเรา และสิ่งที่เราคาดหวังว่าจะเป็นข้อได้เปรียบหลัก คือความเรียบง่ายและความยืดหยุ่นของเครือข่ายของเรา Our guiding principles, and what we expect to be the main advantages, are the simplicity and flexibility of our network.
+เราเข้าใจดีว่า SubQuery Network กำลังแข่งขันกับผู้เล่นหลายรายในอุตสาหกรรมข้อมูลแบบกระจายอำนาจ SubQuery พยายามที่จะให้ประโยชน์ที่ไม่เหมือนใครผ่านข้อได้เปรียบทางการแข่งขันมากมาย หลักการชี้นำของเรา และสิ่งที่เราคาดหวังว่าจะเป็นข้อได้เปรียบหลัก คือความเรียบง่ายและความยืดหยุ่นของเครือข่ายของเรา
 
 ## ความยืดหยุ่น
 
-Our first advantage is our flexibility. ข้อได้เปรียบแรกของเราคือความยืดหยุ่นของเรา SubQuery เป็นโอเพ่นซอร์ส ดังนั้นทุกคนจึงมีอิสระในการกำหนดชุดข้อมูลที่เฉพาะเจาะจงกับความต้องการของพวกเขา ซึ่งปรับให้เข้ากับแอปพลิเคชันของตน แทนที่จะต้องรวมการ query ข้อมูลจากปลายทาง API ต่างๆ — คุณสามารถกำหนดรูปร่างของ API ได้ด้วยตัวเอง ช่วยประหยัดเวลา ค่าใช้จ่าย และมอบประสบการณ์ที่ดียิ่งขึ้นให้กับผู้ใช้ของคุณ Rather than having to combine queries from different API endpoints — you can define the shape of your APIs yourself. It saves time, money, and provides a vastly better experience for your users.
+ข้อได้เปรียบแรกของเราคือความยืดหยุ่นของเรา SubQuery เป็นโอเพ่นซอร์ส ดังนั้นทุกคนจึงมีอิสระในการกำหนดชุดข้อมูลที่เฉพาะเจาะจงกับความต้องการของพวกเขา ซึ่งปรับให้เข้ากับแอปพลิเคชันของตน แทนที่จะต้องรวมการ query ข้อมูลจากปลายทาง Api ต่างๆ — คุณสามารถกำหนดรูปร่างของ Api ได้ด้วยตัวเอง ช่วยประหยัดเวลา ค่าใช้จ่าย และมอบประสบการณ์ที่ดียิ่งขึ้นให้กับผู้ใช้ของคุณ
 
 ## ความเรียบง่าย
 
-You do not need to be an expert to take advantage of what SubQuery offers. คุณไม่จำเป็นต้องเป็นผู้เชี่ยวชาญเพื่อใช้ประโยชน์จากสิ่งที่ SubQuery นำเสนอ มีไฟล์เพียงประมาณ 3 ไฟล์ที่ต้องเปลี่ยนเพื่อทำให้โปรเจ็กต์ SubQuery ทำงานได้ เราจะมุ่งเน้นที่การทำให้ SubQuery ใช้งานและสร้างได้ง่ายกว่าคู่แข่ง — ความสำเร็จของ SubQuery ขึ้นอยู่กับความสำเร็จของชุมชนของเราในการสร้างอนาคตด้วย SubQuery Our focus will be on making SubQuery easier to use and build with than our competitors — SubQuery’s success depends on the success of our community building the future with it.
+คุณไม่จำเป็นต้องเป็นผู้เชี่ยวชาญเพื่อใช้ประโยชน์จากสิ่งที่ SubQuery นำเสนอ มีไฟล์เพียงประมาณ 3 ไฟล์ที่ต้องเปลี่ยนเพื่อทำให้โปรเจ็กต์ SubQuery ทำงานได้ เราจะมุ่งเน้นที่การทำให้ SubQuery ใช้งานและสร้างได้ง่ายกว่าคู่แข่ง — ความสำเร็จของ SubQuery ขึ้นอยู่กับความสำเร็จของชุมชนของเราในการสร้างอนาคตด้วย SubQuery
 
 ## Indexer/delegator ที่ไม่เท่าเทียม
 
-Among our competitors, we believe the ability for Indexers to change delegation reward rates without warning is unfair. ในบรรดาคู่แข่งของเรา เราเชื่อว่าความสามารถของ indexer ในการเปลี่ยนแปลงอัตรารางวัล delegation โดยไม่มีการเตือนนั้นไม่ยุติธรรม เราพยายามแก้ไขปัญหานี้โดยกำหนดให้ indexer โฆษณาลดอัตราส่วนแบ่งรายได้ค่าธรรมเนียมการ query สำหรับระยะของการ stake ทั้งหมด (ระยะเวลา 28 วัน)
+ในบรรดาคู่แข่งของเรา เราเชื่อว่าความสามารถของ indexer ในการเปลี่ยนแปลงอัตรารางวัล delegation โดยไม่มีการเตือนนั้นไม่ยุติธรรม เราพยายามแก้ไขปัญหานี้โดยกำหนดให้ indexer โฆษณาลดอัตราส่วนแบ่งรายได้ค่าธรรมเนียมการ query สำหรับระยะของการ stake ทั้งหมด (ระยะเวลา 28 วัน)
 
 ## การซื้อออเดอร์แบบ curators
 
-ในตลาดกลางอย่าง SubQuery ซึ่งมีทั้งผู้ซื้อและผู้ขายข้อมูล การส่งสัญญาณอุปสงค์สำหรับอุปทานในอนาคตเป็นเรื่องยาก คู่แข่งรายอื่นใช้ "curators" เพื่อให้บรรลุสิ่งนี้, ผู้เข้าร่วมที่คาดการณ์ดีมานด์ในอนาคตและได้รับรางวัลเมื่อดีมานด์ในอนาคตนั้นมาถึง Other competitors use “curators” to achieve this, participants who predict future demand and are rewarded when that future demand eventuates.
+ในตลาดกลางอย่าง SubQuery ซึ่งมีทั้งผู้ซื้อและผู้ขายข้อมูล การส่งสัญญาณอุปสงค์สำหรับอุปทานในอนาคตเป็นเรื่องยาก คู่แข่งรายอื่นใช้ "curators" เพื่อให้บรรลุสิ่งนี้, ผู้เข้าร่วมที่คาดการณ์ดีมานด์ในอนาคตและได้รับรางวัลเมื่อดีมานด์ในอนาคตนั้นมาถึง
 
-SubQuery has taken a different approach in where we look to Consumers to create an upfront commitment, a purchase order. SubQuery ได้ใช้แนวทางที่แตกต่างออกไปในการที่เรามองหาผู้บริโภคเพื่อสร้างข้อผูกมัดล่วงหน้า ซึ่งเป็นใบสั่งซื้อ ซึ่งสามารถใช้ได้ทั้งเพื่อดึงดูด indexers ให้กับโปรเจ็ค SubQuery ใหม่ หรือเพื่อดึงดูด indexers เพิ่มเติมให้กับโครงการ SubQuery ที่มีอยู่และยังไม่มีการแข่งขัน
+SubQuery ได้ใช้แนวทางที่แตกต่างออกไปในการที่เรามองหาผู้บริโภคเพื่อสร้างข้อผูกมัดล่วงหน้า ที่เป็น purchase order ซึ่งสามารถใช้ได้ทั้งเพื่อดึงดูด indexers ให้กับโปรเจ็ค SubQuery ใหม่ หรือเพื่อดึงดูด indexers เพิ่มเติมให้กับโครงการ SubQuery ที่มีอยู่และยังไม่มีการแข่งขัน
 
 ## สิ่งจูงใจสำหรับประสิทธิภาพของ Query:
 
@@ -38,4 +38,4 @@ SubQuery has taken a different approach in where we look to Consumers to create 
 
 ## โฟกัสบน Substrate/Polkadot:
 
-SubQuery committed to focus on Polkadot and Substate from the day we started. This allowed our service and tools to be built from the outset to work with Substrate. SubQuery มุ่งมั่นที่จะโฟกัสไปที่ Polkadot และ Substate ตั้งแต่วันที่เราเริ่มต้น สิ่งนี้ทำให้บริการและเครื่องมือของเราถูกสร้างขึ้นตั้งแต่เริ่มแรกเพื่อทำงานกับ Substrate นอกจากนี้ สถาปัตยกรรมที่เป็นเอกลักษณ์ของ Polkadots ยังช่วยให้ SubQuery รองรับบล็อกเชนในปัจจุบันและอนาคตหลายตัวได้ง่ายขึ้นโดยอัตโนมัติ
+SubQuery มุ่งมั่นที่จะโฟกัสไปที่ Polkadot และ Substate ตั้งแต่วันที่เราเริ่มต้น สิ่งนี้ทำให้บริการและเครื่องมือของเราถูกสร้างขึ้นตั้งแต่เริ่มแรกเพื่อทำงานกับ Substrate นอกจากนี้ สถาปัตยกรรมที่เป็นเอกลักษณ์ของ Polkadots ยังช่วยให้ SubQuery รองรับบล็อกเชนในปัจจุบันและอนาคตหลายตัวได้ง่ายขึ้นโดยอัตโนมัติ
