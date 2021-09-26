@@ -2,19 +2,19 @@
 
 ![](https://miro.medium.com/max/1400/1*5E_eIJBTvHI7W24ib_Syvw.png)
 
-Behind the scenes we’ve been busier than ever in May, expanding our team, delivering products, and most importantly, bring on as many partners as possible.
+За лаштунками ми були як ніколи зайняті в травні, розширюючи нашу команду, поставляючи продукцію, а найголовніше - залучаємо якомога більше партнерів.
 
-In this monthly update:
+У цьому щомісячному оновленні:
 
--   More SubQuery partners come onboard
--   We’re hiring!
--   SubQuery is part of the Web3.0 Bootcamp
+-   Більше партнерів SubQuery приєднуються
+-   Ми наймаємо!
+-   SubQuery є частиною табору Web3.0
 
 ![](https://miro.medium.com/freeze/max/60/1*bFOaBnLZUfhRxiQa7fjbwA.gif?q=20)
 
 ![](https://miro.medium.com/max/640/1*bFOaBnLZUfhRxiQa7fjbwA.gif)
 
-We’ve been reaching out to many protocols, DeFi apps, dApps, Wallets, NFT platforms, cross-chain bridges and more across the Polkadot ecosystem recently. We’re planning on improving our onboarding process for new partners to speed this up with example code, ready made projects, and better information for developers.
+Останнім часом ми звертаємось до багатьох протоколів, додатків DeFi, dApps, гаманців, платформ NFT, мостів з перехресними ланцюгами та іншого в екосистемі Polkadot. We’re planning on improving our onboarding process for new partners to speed this up with example code, ready made projects, and better information for developers.
 
 > Expect the stream of new partner projects to turn into a flood.
 
