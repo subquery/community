@@ -1,16 +1,16 @@
 # Оголошення провідника SubQuery
 
-Since announcing SubQuery to the world just a month ago, the response and feedback we’ve received from the Polkadot community has been overwhelmingly positive. Ми отримали тисячі підписників на наших каналах, і було більше 1353 встановлень з NPM. Надихає отримувати всі повідомлення підтримки та бачити участь спільноти. **Настав час нам щось повернути!**
+З моменту анонсування SubQuery всього місяць тому відгуки, які ми отримали від спільноти Polkadot, були переважно позитивними. Ми отримали тисячі підписників на наших каналах, і було більше 1353 встановлень з NPM. Надихає отримувати всі повідомлення підтримки та бачити участь спільноти. **Настав час нам щось повернути!**
 
-We’ve been working overtime over the last month to release the next major stage of our roadmap for SubQuery. Today we’re announcing the release of the [SubQuery Explorer.](https://explorer.subquery.network/)
+Ми працювали протягом останнього місяця, щоб випустити наступний важливий етап нашої дорожньої карти для SubQuery. Сьогодні ми оголошуємо про вихід [SubQuery Explorer.](https://explorer.subquery.network/)
 
 ![](https://miro.medium.com/max/1400/0*2bDaF3HPgNkpm8Kt)
 
-[SubQuery Explorer](https://explorer.subquery.network/) is an online hosted service that provides access to published SubQuery projects made by contributors around the world and managed by the SubQuery team. It furthers our mission to support Polkadot developers by providing infrastructure services by making accessing Polkadot network data even easier.
+[SubQuery Explorer](https://explorer.subquery.network/) - це розміщена в Інтернеті служба, яка надає доступ до опублікованих проектів SubQuery, створених авторами з усього світу та керованих командою SubQuery. Це продовжує нашу місію підтримувати розробників Polkadot, надаючи інфраструктурні послуги, роблячи доступ до мережевих даних Polkadot ще простішим.
 
-Today, anyone can query and extract Polkadot network data in only minutes and at no cost.
+Сьогодні кожен може запитувати та витягувати мережеві дані Polkadot за лічені хвилини і безкоштовно.
 
-The SubQuery explorer makes getting started easy. We’ve prebuilt SubQuery projects for two use cases (more about these below) and have indexed each network. We’re hosting these SubQuery nodes online and allow anyone to query each for free. These managed nodes will be monitored and run by the SubQuery team at a performance level that will allow production apps to use and rely on them.
+SubQuery Explorer стає все простішим. Ми заздалегідь створили проекти SubQuery для двох варіантів використання (докладніше про це нижче) та індексували кожну мережу. Ми розміщуємо ці ноди SubQuery в iнтернеті і дозволяємо кожному безкоштовно отримувати їх. Ці керовані ноди будуть контролюватись та запускатись командою SubQuery на рівні продуктивності, що дозволить виробничим програмам використовувати та покладатися на них.
 
 ![](https://miro.medium.com/max/1400/0*3hmnk6sNoO5pdOWc)
 
