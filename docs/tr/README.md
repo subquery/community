@@ -14,7 +14,7 @@ En güçlü yönlerimizden birinin topluluğumuz olduğunu anlıyoruz ve sizleri
 
 ## Sosyal Medya Bağlantıları
 
-SubQuery, birçok sosyal medya kanalı üzerinden takipçilerimizi koruyan ve iletişim kuran aktif bir projedir.
+SubQuery, birçok sosyal medya kanalı üzerinden takipçilerini koruyan ve iletişim kuran aktif bir projedir.
 
 Amacımız her zaman sadık topluluğumuzu dinlemek ve onlarla etkileşim kurmaktır, bu yüzden lütfen sohbete katılın ve bize fikirlerinizi veya sorularınızı gönderin!
 
