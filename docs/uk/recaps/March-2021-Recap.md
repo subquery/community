@@ -1,6 +1,6 @@
 # Підсумок березня 2021
 
-It’s been an intense last couple of months at OnFinality and SubQuery, we’ve expanded the team and have brought on some new partners as we launch some key new projects. In this monthly update:
+Останні пару місяців у OnFinality та SubQuery пройшло дуже інтенсивно, ми розширили команду та залучили нових партнерів, коли запускаємо деякі ключові нові проекти. In this monthly update:
 
 -   SubQuery Explorer
 -   Seed round update
