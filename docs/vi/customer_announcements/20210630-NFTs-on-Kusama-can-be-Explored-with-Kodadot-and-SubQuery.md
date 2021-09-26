@@ -4,13 +4,13 @@
 
 ![](https://miro.medium.com/max/1400/1*Y4kdG9uEoxrySzb19QKxPg.gif)
 
-Kodadot is a carbon neutral Kusama native NFT platform that uses the RMRK protocol. Users can mint, transfer, and burn NFTs on the network. Most importantly, Kodadot has a responsive web based NFT explorer that provides an intuitive user interface.
+Kodadot là một nền tảng NFT gốc Kusama sử dụng giao thức RMRK. Người dùng có thể đúc, chuyển và đốt các NFT trên mạng. Quan trọng nhất, Kodadot có trình khám phá NFT dựa trên web đáp ứng cung cấp giao diện người dùng trực quan.
 
 Giao diện người dùng này sử dụng [dự án SubQuery](https://explorer.subquery.network/subquery/vikiival/magick) để giúp quá trình khám phá này nhanh hơn.
 
 ![](https://miro.medium.com/max/1400/0*3TdpXjj1iwGNdA3n)
 
-> “At the first we had to realise how much the SubQuery is doing instead of you, so we were able to purely focus on the GraphQL architecture and NFT consolidation logic. Thanks to SubQuery, we are thinking now another feature set we can easily add over weekend” — Kodadot
+> “Ban đầu, chúng tôi nhận ra SubQuery đang giúp chúng tôi rất nhiều, vì vậy chúng tôi có thể hoàn toàn tập trung vào kiến ​​trúc GraphQL và logic hợp nhất NFT. Nhờ SubQuery, giờ đây chúng tôi đang nghĩ đến một bộ tính năng khác mà chúng tôi có thể dễ dàng thêm vào cuối tuần ”- Kodadot
 
 Dịch vụ của [SubQuery](https://subquery.network/) giúp Kodadot trích xuất và truy vấn dữ liệu chuỗi cho NFT trên Kusama và thực hiện việc này theo cách tiết kiệm năng lượng và thân thiện hơn.
 
@@ -20,6 +20,6 @@ Trong ví dụ bên dưới, chúng tôi đang sử dụng SubQuery để tìm 5
 
 ![](https://miro.medium.com/max/1400/0*QTzLpC0D-pYWDngZ)
 
-Kodadot is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/).
+Kodadot đang sử dụng [Dự án SubQuery](https://project.subquery.network/) để quản lý dự án của riêng họ và cập nhật theo yêu cầu. Dịch vụ lập chỉ mục và truy vấn chúng tôi cung cấp hoàn toàn do SubQuery quản lý và được cung cấp miễn phí cho cộng đồng Polkadot trong [SubQuery Explorer](https://explorer.subquery.network/).
 
 [Khám phá tập dữ liệu Kodadot](https://explorer.subquery.network/subquery/vikiival/magick)
