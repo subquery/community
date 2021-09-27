@@ -1,18 +1,18 @@
-# Dự án SubQuery - Tiết lộ sự sáng tạo của riêng bạn!
+# Dự án SubQuery - Hãy công bố sự sáng tạo của riêng bạn!
 
 ![](https://miro.medium.com/max/1400/0*Jhkt10DyMiptFocJ)
 
 Dự án SubQuery
 
-Today we’re launching the next phase of SubQuery — [Projects](https://project.subquery.network). SubQuery’s mission is to make the world’s decentralised data more accessible, so this announcement this week is huge for our community!
+Hôm nay, chúng tôi sẽ khởi chạy giai đoạn tiếp theo của SubQuery - [Dự án](https://project.subquery.network). Sứ mệnh của SubQuery là làm cho dữ liệu phi tập trung của thế giới dễ tiếp cận hơn, vì vậy thông báo tuần này rất quan trọng đối với cộng đồng của chúng tôi!
 
 
 
 ![](https://miro.medium.com/max/464/0*FTsLOuy0A4cWEwcp)
 
-[SubQuery Projects](https://project.subquery.network) is the new place where you can publish your projects to our managed service. Once you connect your GitHub account, you’re only minutes away from sharing your SubQuery project to over 500 users of the [SubQuery Explorer](https://explorer.subquery.network/). Your own project can be hosted online right next to our existing SubQuery projects from [Acala](https://explorer.subquery.network/subquery/OnFinality-io/acala-subql) and [Bifrost](https://explorer.subquery.network/subquery/bifrost-finance/subql).
+[Dự án SubQuery](https://project.subquery.network) là không gian mới mà bạn có thể đưa các dự án của mình lên dịch vụ được chúng tôi quản lý. Sau khi kết nối tài khoản GitHub, bạn chỉ cần chờ vài phút là có thể chia sẻ dự án SubQuery của mình với hơn 500 người dùng [SubQuery Explorer](https://explorer.subquery.network/). Dự án của bạn có thể được lưu trữ trực tuyến cùng với các dự án SubQuery hiện có như [Acala](https://explorer.subquery.network/subquery/OnFinality-io/acala-subql) và [Bifrost](https://explorer.subquery.network/subquery/bifrost-finance/subql).
 
-You can also keep your SubQuery project private by not showing it in the Explorer, perfect if you want to privately test it using our managed infrastructure. Additionally, we’re integrated with GitHub, so creating a SubQuery project within a GitHub organisation account will automatically share it with your team members.
+Bạn cũng có thể giữ cho dự án SubQuery của mình ở chế độ riêng tư bằng cách không hiển thị nó trong Explorer. Sẽ thật hoàn hảo nếu bạn muốn kiểm tra riêng bằng cơ sở hạ tầng được quản lý của chúng tôi. Ngoài ra, chúng tôi đã tích hợp với GitHub. Vì vậy, việc tạo dự án SubQuery trong GitHub sẽ tự động chia sẻ dự án đó với các thành viên trong nhóm của bạn.
 
 
 
@@ -20,19 +20,19 @@ You can also keep your SubQuery project private by not showing it in the Explore
 
 Tạo một dự án SubQuery mới
 
-Once you’ve published and deployed your new project, you can interact with it over our GraphQL endpoint or simply play in our [Explorer playground](https://explorer.subquery.network/)! We’ll run it like it’s a production application, so you can unlock your decentralized data in your next dApp today using SubQuery.
+Khi bạn đã công bố và triển khai dự án mới của mình, bạn có thể tương tác với dự án đó qua điểm cuối giao tiếp GraphQL của chúng tôi hoặc đơn giản là với [Explorer playground](https://explorer.subquery.network/)! Chúng tôi sẽ chạy nó giống như một ứng dụng hoàn chỉnh, vì vậy bạn có thể mở khóa dữ liệu phi tập trung của mình trong dApp bằng cách sử dụng SubQuery.
 
 
 
 ![](https://miro.medium.com/max/1400/1*Re6uHuy05UzWttfWQBM6hg.png)
 
-Dự án SubQuery mới được đẩy lên
+Một Dự án SubQuery mới được công bố
 
-Don’t worry about running production SubQuery nodes, leave it to the experts. We’re going to focus on managing indexing servers so that you don’t have to.
+Đừng lo lắng về việc chạy các nút sản xuất SubQuery, hãy để việc đó cho các chuyên gia. Chúng tôi sẽ tập trung vào việc quản lý các máy chủ lập chỉ mục để bạn không cần phải làm gì cả.
 
 ## Tìm hiểu thêm
 
-[Làm theo hướng dẫn của chúng tôi để đẩy dự án đầu tiên của bạn ](https://doc.subquery.network/publish/publish.html)trên[Dự án SubQuery](https://project.subquery.network)
+[Làm theo hướng dẫn của chúng tôi để công bố dự án đầu tiên của bạn](https://doc.subquery.network/publish/publish.html) trên [Dự án SubQuery](https://project.subquery.network)
 
 Bắt đầu truy vấn dữ liệu trên [SubQuery Explorer](https://explorer.subquery.network/) mới
 
