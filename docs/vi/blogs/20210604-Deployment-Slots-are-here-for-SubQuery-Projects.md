@@ -1,12 +1,12 @@
-# Các vị trí triển khai dành cho các Dự án SubQuery
+# Môi trường triển khai dành cho các Dự án SubQuery
 
-> Hôm nay, chúng tôi sẽ giới thiệu các vị trí triển khai, một tính năng hoàn toàn mới giúp cải thiện trải nghiệm của nhà phát triển trong dịch vụ được lưu trữ của SubQuery.
+> Hôm nay, chúng tôi sẽ giới thiệu môi trường triển khai, một tính năng hoàn toàn mới giúp cải thiện trải nghiệm của nhà phát triển trong dịch vụ được lưu trữ của SubQuery.
 
 [Dự án SubQuery](https://project.subquery.network/) đã được sử dụng như một dịch vụ được quản lý và lưu trữ cho nhiều dự án, cho dù chúng là trình khám phá chuỗi, các ví, trình khám phá NFT hay bất kỳ cái gì khác. Đó là một dịch vụ mà khách hàng của chúng tôi tin cậy.
 
 ![](https://miro.medium.com/max/1400/0*PugDgh6weZspRIO2)
 
-Bây giờ bạn có thể triển khai đến một vị trí được sắp xếp riêng biệt
+Bây giờ bạn có thể triển khai đến một môi trường chạy thử riêng biệt
 
 Mặc dù bạn luôn có thể tự mình chạy cơ sở hạ tầng của SubQuery (với nút và dịch vụ truy vấn riêng), chúng tôi luôn hướng đến việc làm cho dịch vụ của mình trở thành nguồn cung cấp dữ liệu đáng tin cậy, linh hoạt và hiệu quả nhất trong hệ sinh thái Polkadot/Substrate.
 
