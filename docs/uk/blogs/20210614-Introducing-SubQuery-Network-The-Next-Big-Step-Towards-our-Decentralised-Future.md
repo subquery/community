@@ -4,11 +4,11 @@
 
 Ми перетворюємо та впорядковуємо дані з проектів Polkadot та Substrate, а потім надаємо ці дані розробникам для використання у широкому спектрі проектів (гаманці, дослідники, користувацькі ланцюжки чи будь -який інший додаток).
 
-Всім відомо, що основною слабкістю даних блокчейну є те, що продуктивність обробки та запитів надзвичайно неефективна. SubQuery надає SDK з відкритим вихідним кодом, який містить інструкції щодо того, як будь -який індексатор повинен проходити по блокчейну, які дані збирати та як їх показувати користувачам.
+Everyone knows that a core weakness of blockchain data is that the processing and query performance is extremely inefficient. SubQuery provides an open source SDK, which provides the instructions on how any Indexer should traverse the blockchain, what data to collect, and how it should be shown to users.
 
 ![](https://miro.medium.com/max/700/1*0l37MKpDk2ahHsqDUBxbjw.png)
 
-Створення проекту SubQuery є і завжди буде безкоштовним. Розробники повинні витрачати час на створення, а не на інфраструктуру. Однак ми вважаємо, що для здорового децентралізованого майбутнього потрібні багаторазові постачальники послуг розподілених даних, які працюють разом, щоб покращити стійкість, швидкість та продуктивність мережі.
+Creating a SubQuery project is, and always will be, free. Developers should spend time building, not running infrastructure. However we believe that a healthy decentralised future requires multiple distributed data service providers working together to improve resiliency, speed, and network performance.
 
 # Представляємо мережу SubQuery:
 
@@ -16,7 +16,7 @@
 
 [ Ми сьогодні випускаємо наш офіційний вайтпейпер, щоб його прочитав увесь світ ](https://static.subquery.network/whitepaper.pdf).
 
-Керівними принципами мережі SubQuery є простота та гнучкість. Ми намагаємось полегшити учасникам участь у мережі, але також надаємо розробникам можливість адаптувати SubQuery відповідно до своїх потреб у будь -якому ланцюжку на основі Substrate.
+The SubQuery Network’s guiding principles are simplicity and flexibility. We’re trying to make it easy for participants to get involved in the network, but also give developers control to adapt SubQuery to fit their needs for any Substrate based chain.
 
 ![](https://miro.medium.com/max/700/1*5E_eIJBTvHI7W24ib_Syvw.png)
 

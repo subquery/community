@@ -2,18 +2,18 @@
 
 ![](https://miro.medium.com/max/1400/1*2z3_9s-SY7dAvfe6xf9IDA.png)
 
-## Community, Community, Community!
+## Спільнота, спільнота, спільнота!
 
 
-Welcome to another monthly update from SubQuery. As you all know, community is a key element for every successful crypto project — this month we’ve started to expand our focus in this area.
+Ласкаво просимо до іншого щомісячного оновлення з SubQuery. Як ви всі знаєте, спільнота є ключовим елементом кожного успішного криптопроекту - цього місяця ми почали розширювати свою увагу у цій сфері.
 
-In this monthly update:
+У цьому щомісячному оновленні:
 
--   Ambassador Program 👩💼
+-   Програма представника 👩:🩲
 -   DApp API Grant Work 🏗
 -   Patract Open Platform 🌃
--   Parity’s Relaychain podcast 🎙
--   Documentation Improvements 📑
+-   Parity’s Relaychain подкаст 🎙
+-   Покращення документації 📑
 
 
 ![](https://miro.medium.com/max/1400/0*pe3Z3x1lGb_RLa5x)
