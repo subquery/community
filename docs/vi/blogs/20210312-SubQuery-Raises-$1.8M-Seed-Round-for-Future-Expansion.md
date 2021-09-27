@@ -3,7 +3,7 @@
 ![](https://miro.medium.com/max/1400/0*CrM8-LKRt3slWAsN)
 
 ** SubQuery, dịch vụ giúp truy vấn dữ liệu phi tập trung dễ dàng hơn, hôm nay đã thông báo rằng họ đã huy động thành công vòng hạt giống 1,8 triệu đô la Mỹ và bán riêng lẻ được hỗ trợ chủ yếu bởi ** [** DeFi Alliance **](https://defialliance.co/) **, ** [** D1 Ventures **](https://d1.ventures/) **, ** [** Hypersphere Ventures **](https://hypersphere.ventures/) **, **
-** Digital Finance Group (DFG) </4 > ** và ** [**The Lao**](https://www.thelao.io/) **. Nhu cầu lớn mà chúng tôi nhận được để hỗ trợ vòng hạt giống của SubQuery cho thấy sự quan tâm mạnh mẽ đến các dịch vụ cơ sở hạ tầng và niềm tin vào tương lai của hệ sinh thái Polkadot. **</p> 
+** Digital Finance Group (DFG) </4 > ** và ** The Lao**. Nhu cầu lớn mà chúng tôi nhận được để hỗ trợ vòng hạt giống của SubQuery cho thấy sự quan tâm mạnh mẽ đến các dịch vụ cơ sở hạ tầng và niềm tin vào tương lai của hệ sinh thái Polkadot. **</p> 
 
 SubQuery cho phép mọi nhóm Substrate/Polkadot xử lý và truy vấn dữ liệu của họ. Dự án được lấy cảm hứng từ sự phát triển của các giao thức dữ liệu phục vụ lớp ứng dụng và mục đích của nó là giúp các dự án Polkadot/Substrate xây dựng các dApp tốt hơn bằng cách cho phép bất kỳ ai cũng có thể tìm và sử dụng dữ liệu nhanh hơn một cách đáng tin cậy. Ngày nay, bất kỳ ai cũng có thể truy vấn và trích xuất dữ liệu mạng Polkadot chỉ trong vài phút và miễn phí.
 
