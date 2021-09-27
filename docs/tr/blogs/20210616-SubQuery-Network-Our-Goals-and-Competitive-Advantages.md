@@ -20,7 +20,7 @@ SubQuery Network'ün merkezi olmayan veri endüstrisindeki birçok oyuncuya kar�
 
 SubQuery'nin sunduğu avantajlardan yararlanmak için uzman olmanıza gerek yoktur. Çalışan bir SubQuery projesi yapmak için değiştirilmesi gereken tam anlamıyla 3 dosya var. Odak noktamız, SubQuery'nin kullanımını ve rakiplerimizden daha kolay oluşturulmasını sağlamak olacaktır - SubQuery'nin başarısı, topluluğumuzun onunla geleceği inşa etme başarısına bağlıdır.
 
-## Dizin Oluşturucu/Yetkilendirme Oransızlığı
+## Dizin Oluşturucu/Delegasyon Oransızlığı
 
 Rakiplerimiz arasında, indeksleyicilerin delegasyon ödül oranlarını uyarmadan değiştirme yeteneğinin adil olmadığına inanıyoruz. İndeksleyicilerin tüm stake dönemi (28 günlük dönem) için Sorgu Ücreti Gelir Paylaşım Oranında bir düşüş ilan etmesini isteyerek bunu düzeltmeye çalışıyoruz.
 
