@@ -18,9 +18,9 @@
 
 ![](https://miro.medium.com/max/1400/0*pe3Z3x1lGb_RLa5x)
 
-We understand that one of our biggest strengths is our community, and so [we recently launched our ambassador program](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) for communities around the world. We were overwhelmed by the interest in our program, with almost 500 applications received in under a fortnight!
+Ми розуміємо, що однією з наших найбільших сильних сторін є наша спільнота, і тому [ нещодавно ми запустили нашу програму амбассадора](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) для спільнот по всьому світу. Ми були здивовані інтересом до нашої програми, і майже за два тижні надійшло майже 500 заявок!
 
-We’re in the process of onboarding our first batch of ambassadors very shortly. We’re particularly excited here because it means that everyone in our community can expect to see better local representation and support in different communities!
+Найближчим часом ми збираємось залучити нашу першу партію амбассадорiв. We’re particularly excited here because it means that everyone in our community can expect to see better local representation and support in different communities!
 
 By the end of July we’ve made good progress on the first two milestones of our [open-source dApp API treasury grant](https://kusama.polkassembly.io/treasury/95). Although on the surface it doesn’t look like much, it is actually a really important initiative for us. Firstly it represents deep strategic cooperation with one of the largest Polkadot native wallets, Fearless Wallet.
 
