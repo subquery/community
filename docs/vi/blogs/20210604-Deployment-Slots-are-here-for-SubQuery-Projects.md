@@ -12,18 +12,18 @@ Mặc dù bạn luôn có thể tự mình chạy cơ sở hạ tầng của Sub
 
 Những nhà tạo lập trong [Dự án SubQuery](https://project.subquery.network/) luôn không ngừng cải tiến và cập nhật dự án của họ cũng như dữ liệu trong các dự án đó. Thật không may, phải mất hàng giờ hoặc là vài ngày để lập chỉ mục lại dữ liệu chuỗi trong trường hợp có thay đổi lớn - mục tiêu cuối cùng của chúng tôi là cho phép bạn cập nhật dự án của mình, lập chỉ mục lại dữ liệu và nâng cấp các Dự án SubQuery của bạn với **thời gian chết bằng không**
 
-**Do đó chúng ta có các vị trí triển khai để giải quyết vấn đề này**
+**Do đó chúng ta có các môi trường triển khai để giải quyết vấn đề này**
 
 ![](https://miro.medium.com/max/1400/0*vQ33aqhn1eVllo5t)
 
-Vị trí tổ chức của bạn sẽ chạy độc lập với vị trí sản xuất
+Môi trường chạy thử của bạn sẽ chạy độc lập với môi trường chạy chính
 
-Khi tạo một triển khai mới cho [Dự án SubQuery của bạn trong dịch vụ của chúng tôi](https://project.subquery.network/), bạn có thể chọn triển khai tới vị trí sản xuất hoặc vị trí tổ chức. Hai vị trí này là những môi trường biệt lập, mỗi vị trí có cơ sở dữ liệu riêng và đồng bộ độc lập. Sau khi vị trí tổ chức của bạn đã bắt đầu và hoàn tất việc lập chỉ mục, bạn có triển khai nó lên vị trí sản xuất mà không có thời gian chết.
+Khi tạo một triển khai mới cho [Dự án SubQuery của bạn trong dịch vụ của chúng tôi](https://project.subquery.network/), bạn có thể chọn triển khai tới môi trường chạy chính hoặc môi trường chạy thử. Đây là những môi trường biệt lập, mỗi môi trường có cơ sở dữ liệu riêng và được đồng bộ độc lập. Sau khi môi trường chạy thử của bạn đã bắt đầu và hoàn tất việc lập chỉ mục, bạn có triển khai nó lên môi trường chạy chính mà không có thời gian chết.
 
-Staging là hoàn hảo cho:
+Môi trường chạy thử sẽ hoàn hảo cho việc:
 
--   Xác thực các thay đổi đối với Dự án SubQuery của bạn trong một môi trường riêng biệt. The staging slot has a different URL to production that you can use in your dApps.
--   Khởi động và lập chỉ mục dữ liệu cho một dự án SubQuery được cập nhật để loại bỏ thời gian chết trong dApp của bạn
--   Preparing a new release for your SubQuery Project without exposing it publicly. The staging slot is not shown to the public in the Explorer and has a unique URL that is visible only to you.
+-   Xác thực các thay đổi đối với Dự án SubQuery của bạn trong một môi trường riêng biệt. Môi trường chạy thử có một URL riêng mà bạn có thể sử dụng trong dApps của mình.
+-   Khởi động và lập chỉ mục dữ liệu cho một dự án SubQuery đã được cập nhật để loại bỏ thời gian chết trong dApp của bạn
+-   Chuẩn bị một bản phát hành mới cho Dự án SubQuery của bạn mà không cần phải công khai nó. Môi trường chạy thử này không được hiển thị công khai trong Explorer và có một URL duy nhất mà chỉ bạn mới có thể thấy.
 
-Bạn có thể tự mình thử ngay bây giờ trong [Dự án SubQuery](https://project.subquery.network/).
+Bạn có thể tự mình trải nghiệm ngay trong [Dự án SubQuery](https://project.subquery.network/).
