@@ -28,7 +28,7 @@
 
 ![](https://miro.medium.com/max/1400/0*Bc8P3mcH6rz-KtT0)
 
-> «Використання SubQuery для запиту даних Darwinia в мережі стало дуже простим і гнучким. SubQuery розглядає дані блокчейну як графік і використовує розширення GraphQL для впровадження додаткових функцій. Ми вважаємо, що в майбутньому інтерфейс даних у ланцюжку субстратів буде в основному використовувати GraphQL, SubQuery робить це реальністю ». </em>— [Darwinia ](https://subquery.medium.com/darwinias-network-data-is-now-available-for-free-in-subquery-b4f51c73fb15)
+> _«Використання SubQuery для запиту даних Darwinia в мережі стало дуже простим і гнучким. SubQuery розглядає дані блокчейну як графік і використовує розширення GraphQL для впровадження додаткових функцій. Ми вважаємо, що в майбутньому інтерфейс даних у ланцюжку субстратів буде в основному використовувати GraphQL, SubQuery робить це реальністю ». _— [Darwinia ](https://subquery.medium.com/darwinias-network-data-is-now-available-for-free-in-subquery-b4f51c73fb15)
 
 Ви можете розпочати створення наступного dApp з нами сьогодні, дотримуйтесь нашого [короткого посібника з початку роботи](https://doc.subquery.network/quickstart.html) або спілкуйтеся з нами у нашому каналi #technical-support в [Discord](https://discord.com/invite/78zg8aBSMG).
 
