@@ -1,12 +1,12 @@
-# SubQuery Announces US$9 Million Funding Round
+# SubQuery, 9 Milyon ABD Doları Finansman Turunu Duyurdu
 
-**Building a decentralised data protocol for the Polkadot Ecosystem. Co-Led By Arrington Capital, DCG and Stratos Technologies**
+**Polkadot Ekosisteminde merkezi olmayan bir veri protokolü oluşturmak için, Arrington Capital, DCG ve Stratos Technologies Ortak Liderliğinde finansman turu tamamlandı.**
 
 ![](https://cdn-images-1.medium.com/max/1600/0*PR4oqrB9Am03VseR)
 
-SubQuery announces a US$9M funding round for the first decentralised data aggregation layer for the Polkadot ecosystem. This round brings together key stakeholders into the Web3 Ecosystem, building toward SubQuery's vision as fundamental data indexing infrastructure for all Polkadot and Kusama parachains and applications.
+SubQuery, Polkadot ekosisteminde ilk merkezi olmayan veri toplama katmanı için 9 milyon ABD Doları tutarında bir finansman turunu duyurdu. Bu tur, önemli paydaşları Web3 Ekosisteminde bir araya getirerek, SubQuery'nin tüm Polkadot ve Kusama parachainleri ve uygulamaları için temel veri indeksleme altyapısı olarak vizyonu yönünde inşa edildi.
 
-SubQuery aims to improve access to decentralised blockchain data by creating a vibrant marketplace for data indexing and provisioning. Its technology provides Polkadot and Kusama developers with the tools needed to easily explore, transform and analyse on-chain data. Abstracting the backend, SubQuery eliminates the need for custom data processing servers. It lets developers focus on product development and user experience rather than building their own querying systems.
+SubQuery, veri indeksleme ve sağlama için canlı bir pazar yaratarak merkezi olmayan blok zinciri verilerine erişimi iyileştirmeyi amaçlar. Its technology provides Polkadot and Kusama developers with the tools needed to easily explore, transform and analyse on-chain data. Abstracting the backend, SubQuery eliminates the need for custom data processing servers. It lets developers focus on product development and user experience rather than building their own querying systems.
 
 This strategic round was co-led by [Arrington Capital](https://arringtonxrpcapital.com/), [DCG](https://dcg.co/) and [Stratos Technologies](https://www.stratoslp.com/), and included participation from [Hypersphere Ventures](https://hypersphere.ventures/), [Neo Global Capital (NGC)](http://ngc.fund/), [Wintermute](https://www.wintermute.com/) and [Skynet Trading](http://skynettrading.com/). It follows on from a seed round in early 2021, which included [DeFi Alliance](https://defialliance.co/), [The LAO](https://www.thelao.io/), [Digital Renaissance](https://drf.ee/), [P2P Capital](https://www.p2pcap.com/), and [Web3 Capital](https://web3.capital/).
 
