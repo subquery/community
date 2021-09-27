@@ -10,7 +10,7 @@ Anda sekarang dapat mendeploy ke isolated staging slot
 
 Meskipun Anda selalu dapat menjalankan infrastruktur SubQuery sendiri (dengan node dan layanan kueri Anda sendiri), kami bertujuan untuk menjadikan layanan hosted sebagai penyedia data yang paling andal, tangguh, dan berkinerja terbaik di ekosistem Polkadot/Substrate.
 
-Pembuat [Proyek SubQuery](https://project.subquery.network/) terus meningkatkan dan memperbarui Proyek mereka dan data dalam proyek tersebut. Sayangnya, perlu waktu berjam-jam bahkan berhari-hari untuk mengindeks ulang data chain jika terjadi perubahan besar — pada akhirnya tujuan kami adalah memungkinkan Anda memperbarui Proyek, mengindeks ulang data, dan meningkatkan Proyek SubQuery yang dihosting dengan **zero downtime</0 ></p>
+Pembuat [Proyek SubQuery](https://project.subquery.network/) terus meningkatkan dan memperbarui Proyek mereka dan data dalam proyek tersebut. Sayangnya, perlu waktu berjam-jam bahkan berhari-hari untuk mengindeks ulang data chain jika terjadi perubahan besar — pada akhirnya tujuan kami adalah memungkinkan Anda memperbarui Proyek, mengindeks ulang data, dan meningkatkan Proyek SubQuery yang dihosting dengan **zero downtime**
 
 **Itulah mengapa deployment slots hadir untuk memecahkan masalah ini**
 
