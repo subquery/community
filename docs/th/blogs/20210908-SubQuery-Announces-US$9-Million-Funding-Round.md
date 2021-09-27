@@ -1,10 +1,10 @@
 # SubQuery ประกาศการระดมทุนรอบใหม่ มูลค่า 9 ล้านดอลล่าห์สหรัฐ
 
-**Building a decentralised data protocol for the Polkadot Ecosystem. สร้างโปรโตคอลข้อมูลแบบกระจายอำนาจสำหรับระบบนิเวศของ Polkadot นำโดย Arrington Capital, DCG และ Stratos Technologies**
+**สร้างโปรโตคอลข้อมูลแบบกระจายอำนาจสำหรับระบบนิเวศของ Polkadot  นำโดย Arrington Capital, DCG และ Stratos Technologies**
 
 ![](https://cdn-images-1.medium.com/max/1600/0*PR4oqrB9Am03VseR)
 
-SubQuery announces a US$9M funding round for the first decentralised data aggregation layer for the Polkadot ecosystem. SubQuery ประกาศการระดมทุน มูลค่า 9 ล้านดอลล่าห์สหรัฐ สำหรับเลเยอร์การรวบรวมข้อมูลแบบกระจายอำนาจ ที่แรก ของระบบนิเวศ Polkadot การระดมทุนรอบนี้ได้นำผู้มีส่วนร่วมหลักเข้ามาในระบบนิเวศ Web3 โดยมุ่งสู่วิสัยทัศน์ของ SubQuery ในการเป็นโครงสร้างพื้นฐานในการจัดทำดัชนีข้อมูลพื้นฐานสำหรับ Parachain และแอปพลิเคชันต่างๆของ Polkadot และ Kusama
+SubQuery ประกาศการระดมทุน มูลค่า 9 ล้านดอลล่าห์สหรัฐ สำหรับเลเยอร์การรวบรวมข้อมูลแบบกระจายอำนาจ ที่แรก ของระบบนิเวศ Polkadot การระดมทุนรอบนี้ได้นำผู้มีส่วนร่วมหลักเข้ามาในระบบนิเวศ Web3 โดยมุ่งสู่วิสัยทัศน์ของ SubQuery ในการเป็นโครงสร้างพื้นฐานในการจัดทำดัชนีข้อมูลพื้นฐานสำหรับ Parachain และแอปพลิเคชันต่างๆของ Polkadot และ Kusama
 
 SubQuery aims to improve access to decentralised blockchain data by creating a vibrant marketplace for data indexing and provisioning. Its technology provides Polkadot and Kusama developers with the tools needed to easily explore, transform and analyse on-chain data. Abstracting the backend, SubQuery eliminates the need for custom data processing servers. It lets developers focus on product development and user experience rather than building their own querying systems.
 
