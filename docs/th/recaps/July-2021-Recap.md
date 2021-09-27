@@ -38,7 +38,7 @@ We’re building this in a way that makes it easy to extend to the growing numbe
 
 [คุณสามารถฟังพอดแคสต์บนแพลตฟอร์มที่คุณชื่นชอบได้ที่นี่](https://relaychain.fm/35-querying-the-worlds-data-with-subquery)
 
-> _“เอกสารอาจไม่ใช่งานที่หรูหรา แต่มีบทบาทสำคัญในการสื่อสารว่าบางสิ่งทำงานอย่างไร และช่วยให้เราสนับสนุนให้สมาชิกในชุมชนของเราเรียนรู้และปลดปล่อยความคิดสร้างสรรค์ของพวกเขา นั่นคือเหตุผลที่เราเชื่อว่าเอกสารมีความสำคัญมาก”_ — Sean Au (SubQuery Academy) That is why we believe documentation is so important”</em> — Sean Au (SubQuery Academy)
+> _“เอกสารอาจไม่ใช่งานที่หรูหรา แต่มีบทบาทสำคัญในการสื่อสารว่าบางสิ่งทำงานอย่างไร และช่วยให้เราสนับสนุนให้สมาชิกในชุมชนของเราเรียนรู้และปลดปล่อยความคิดสร้างสรรค์ของพวกเขา นั่นคือเหตุผลที่เราเชื่อว่าเอกสารมีความสำคัญมาก”_ — Sean Au (SubQuery Academy)
 
 ![](https://miro.medium.com/max/1200/0*tvcfXFxHc6shdmAy.gif)
 
