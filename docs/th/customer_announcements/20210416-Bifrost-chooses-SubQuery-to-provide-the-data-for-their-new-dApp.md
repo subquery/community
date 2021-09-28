@@ -11,19 +11,21 @@
 
 โครงการ Bifrost SubQuery แบบใหม่ใน SubQuery Explorer
 
-บริการ [SubQuery](https://subquery.network/) ช่วยให้ [Bifrost](https://bifrost.finance/) ขับเคลื่อนข้อมูลส่วนใหญ่ที่แสดงใน dApp ใหม่ All historical data on transfers, minting, and redemption events (such as price, date, currency and pool) are aggregated and queried from SubQuery’s advanced indexing and query service. For example, SubQuery allows Bifrost to calculate real time mint and redemption prices for vDot and vEth to show in their app, and to get the total number of vTokens in a certain wallet.
+บริการ [SubQuery](https://subquery.network/) ช่วยให้ [Bifrost](https://bifrost.finance/) ขับเคลื่อนข้อมูลส่วนใหญ่ที่แสดงใน dApp ใหม่ ข้อมูลประวัติทั้งหมดเกี่ยวกับการโอน การทำเหรียญ และการแลกของรางวัล (เช่น ราคา วันที่ สกุลเงิน และกลุ่ม) จะถูกรวบรวมและสอบถามจากบริการสร้างดัชนีและแบบ query ขั้นสูงของ SubQuery ตัวอย่างเช่น SubQuery จะให้ Bifrost คำนวณราคา mint และ redeem แบบเรียลไทม์ สำหรับ vDot และ vEth เพื่อแสดงในแอปของพวกเขา และเพื่อรับข้อมูลจำนวน vTokens ทั้งหมดในกระเป๋าเงินนั้นๆ
 
 ![](https://miro.medium.com/max/1400/0*WIxvwcgPIHzCf0E3)
 
 ตัวอย่างง่ายๆ ในการแสดงราคา mint แบบเรียลไทม์สำหรับ vDOT
 
-Bifrost ใช้ [SubQuery Projects](https://project.subquery.network/) เพื่อจัดการโครงการของตนเองและทำการอัปเดตตามต้องการ บริการจัดทำ index และ query สำหรับในบริการนี้ได้รับการจัดการโดย SubQuery และให้บริการฟรีแก่ชุมชน Polkadot ใน[SubQuery's Explorer](https://explorer.subquery.network/) คุณสามารถทดลองใช้ชุดข้อมูล Bifrost SubQuery โดยใช้ Explorer โดยไม่ต้องติดตั้งโค้ดใดๆ [ที่นี่](https://explorer.subquery.network/subquery/bifrost-finance/subql) The indexing and query services for this service is completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/). You can play around with the Bifrost SubQuery dataset using the Explorer without implementing any code [here](https://explorer.subquery.network/subquery/bifrost-finance/subql).
+Bifrost ใช้ [SubQuery Projects](https://project.subquery.network/) เพื่อจัดการโครงการของตนเองและทำการอัปเดตตามต้องการ บริการจัดทำ index และ query สำหรับในบริการนี้ได้รับการจัดการโดย SubQuery และให้บริการฟรีแก่ชุมชน Polkadot ใน
+
+SubQuery's Explorer</0 คุณสามารถทดลองใช้ชุดข้อมูล Bifrost SubQuery โดยใช้ Explorer โดยไม่ต้องติดตั้งโค้ดใดๆ [ที่นี่](https://explorer.subquery.network/subquery/bifrost-finance/subql)</p> 
 
 ![](https://miro.medium.com/max/1400/0*J9Rao6oyFMxVNWzZ)
 
 ตัวอย่างอีกแบบของ SubQuery ในการดึงรายได้จากการ stake ทั้งหมดสำหรับ vDOT
 
-[SubQuery](https://subquery.network/) is a data aggregation layer that will operate between the layer-1 blockchains (Bifrost) and DApps. [SubQuery](https://subquery.network/) เป็นเลเยอร์การรวมข้อมูลที่จะทำงานระหว่างบล็อคเชนเลเยอร์-1(Bifrost) และ DApps โซลูชันรวบรวมและจัดระเบียบข้อมูลจาก [Bifrost](https://bifrost.finance/) และบล็อกเชนอื่นๆ โดยให้บริการข้อมูลที่มีโครงสร้างอย่างดีสำหรับ dApp ของตน และสำหรับนักพัฒนารายอื่นๆ เพื่อใช้ในโครงการที่หลากหลาย บริการนี้ช่วยให้นักพัฒนา DApp สามารถมุ่งเน้นไปที่กรณีการใช้งานหลักและ front-end โดยไม่ต้องเสียเวลาไปกับการสร้าง back-end สำหรับการประมวลผลข้อมูลของตัวเอง This service allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+[SubQuery](https://subquery.network/) เป็นเลเยอร์การรวมข้อมูลที่จะทำงานระหว่างบล็อคเชนเลเยอร์-1(Bifrost) และ DApps โซลูชันรวบรวมและจัดระเบียบข้อมูลจาก [Bifrost](https://bifrost.finance/) และบล็อกเชนอื่นๆ โดยให้บริการข้อมูลที่มีโครงสร้างอย่างดีสำหรับ dApp ของตน และสำหรับนักพัฒนารายอื่นๆ เพื่อใช้ในโครงการที่หลากหลาย บริการนี้ช่วยให้นักพัฒนา DApp สามารถมุ่งเน้นไปที่กรณีการใช้งานหลักและ front-end โดยไม่ต้องเสียเวลาไปกับการสร้าง back-end สำหรับการประมวลผลข้อมูลของตัวเอง
 
 เรียนรู้เพิ่มเติมเกี่ยวกับ Bifrost
 
