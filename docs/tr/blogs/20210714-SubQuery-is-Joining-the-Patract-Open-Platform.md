@@ -1,12 +1,12 @@
-# SubQuery is Joining the Patract Open Platform
+# SubQuery, Patract Open Platformuna Katılıyor
 
 ![](https://miro.medium.com/max/1400/0*0inUQ8U1g9auTjfU)
 
-## **Providing Free Data Indexing for Wasm Tech Alliance**
+## **Wasm Tech Alliance için Ücretsiz Veri İndeksleme Sağlama**
 
-SubQuery is joining the Patract Open Platform to jointly promote the development of public infrastructure, promote the evolution of contract technology, and to develop the Wasm contract development ecosystem.
+SubQuery, ortak altyapının geliştirilmesini teşvik etmek, sözleşme teknolojisinin gelişimini desteklemek ve Wasm sözleşme geliştirme ekosistemini geliştirmek için Patract Open Platformuna katılıyor.
 
-SubQuery is a blockchain data-as-a-service provider.
+SubQuery, blockchain veri sağlayıcı hizmeti sunar.
 
 SubQuery aggregates and organises data from Polkadot and Substrate, providing developers with well-structured data support that allows them to use data in various projects efficiently.
 
