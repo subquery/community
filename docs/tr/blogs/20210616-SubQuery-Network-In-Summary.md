@@ -35,13 +35,13 @@ Bu ödeme bir proje gelir havuzuna gider ve bir stake döneminin sonunda (28 gü
 
 Cobb-Douglas üretim fonksiyonu adı verilen bir şey tarafından indeksleyicilere saçılır.
 
-This approach, in simple terms, means that revenue is allocated to competing Indexers as a proportion of both requests answered and amount staked.
+Bu yaklaşım, basit bir ifadeyle, gelirin, hem yanıtlanan taleplerin hem de stake edilen miktarın bir oranı olarak rakip Dizin Oluşturuculara tahsis edildiği anlamına gelir.
 
 ![](https://miro.medium.com/max/1400/1*VhDu2BGDxd3ob7z9XkoOXA.png)
 
-Revenue is allocated to competing Indexers as a proportion of both requests answered and amount staked.
+Gelir, hem yanıtlanan taleplerin hem de stake edilen miktarın bir oranı olarak rakip Dizin Oluşturuculara tahsis edilir.
 
-In our view, the beauty of this equation is that a rational Indexer must maintain a high level of staked SQT relative to the work they do in order to receive optimal revenue. As a result, we do not need to enforce arbitrary staking requirements because Indexers are incentivised to self-manage and maintain a stake or skin in the game.
+Bize göre, bu denklemin güzelliği, rasyonel bir İndeks Oluşturucunun, optimum gelir elde etmek için yaptıkları işe göre yüksek düzeyde SQT'yi sürdürmesi gerektiğidir. As a result, we do not need to enforce arbitrary staking requirements because Indexers are incentivised to self-manage and maintain a stake or skin in the game.
 
 ## Delegators
 
