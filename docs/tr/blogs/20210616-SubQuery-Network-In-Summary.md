@@ -47,28 +47,28 @@ Bize göre, bu denklemin güzelliği, rasyonel bir İndeks Oluşturucunun, optim
 
 Bu nedenle, İndeksleyiciler hem mümkün olduğu kadar çok iş yapmaya hem de ödüllerini en üst düzeye çıkarmak için mümkün olduğunca çok bahis yapmaya teşvik edilir. Delegelerin geldiği yer burasıdır.
 
-Delegators can delegate their spare SQT to Indexers, each Indexer can publish a _query fee revenue share rate_, and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in.
+Delegeler, yedek SQT'lerini Dizin Oluşturuculara devredebilir, her Dizin Oluşturucu bir _sorgu ücreti gelir paylaşım oranı_ yayınlayabilir, ve bu delegeler, dizin oluşturucunun ödüllendirildiği sorgu ücreti gelirinin bir kısmı ile ödüllendirilecektir.
 
 ![](https://miro.medium.com/max/1400/1*YoN7PV7h3a2nAFN-ODqILg.png)
 
-Delegators can delegate their spare SQT to Indexers and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in
+Delegeler, yedek SQT'lerini Dizin Oluşturuculara devredebilir ve bu yetki verenler, dizin oluşturucunun ödüllendirildiği sorgu ücreti gelirinin bir kısmı ile ödüllendirilecektir
 
-The _query fee revenue share rate_ that indexers advertise is locked for each 28 day staking era, and a decrease to it must be advertised for an entire 28 day staking era before coming into force.
+Dizin oluşturucuların reklamını yaptığı _sorgu ücreti gelir payı oranı_, her 28 günlük stake dönemi için kilitlenir ve yürürlüğe girmeden önce 28 günlük stake döneminin tamamı için buna bir düşüş ilan edilmelidir.
 
-Similarly, delegators can remove their delegation amounts at any point, but they will only receive rewards when they have delegated for the entire staking era.
+Benzer şekilde, delegeler delegasyon tutarlarını herhangi bir noktada kaldırabilirler, ancak yalnızca tüm stake dönemi için yetki verdiklerinde ödül alırlar.
 
 ![](https://miro.medium.com/max/1400/0*we0k4A07pbj86COZ)
 
-Delegators will only receive rewards when they have delegated for the entire staking era
+Delegeler, yalnızca tüm bahis dönemi için yetki verdiklerinde ödül alacaklardır
 
-## Purchase Orders
+## Satın alma emirleri
 
-Indexing a project takes time and money, there’s a lot of data on the chain. In order to encourage Indexers to index and support an entirely new SubQuery Project, we plan to implement a market mechanism for Consumers to signal guaranteed revenue to Indexers of new SubQuery Projects.
+Bir projeyi indekslemek zaman ve para gerektirir, zincirde çok fazla veri vardır. Dizin Oluşturucuları, tamamen yeni bir SubQuery Projesini endekslemeye ve desteklemeye teşvik etmek için, Tüketicilerin yeni SubQuery Projelerinin Dizin Oluşturucularına garantili gelir sinyali vermesi için bir piyasa mekanizması uygulamayı planlıyoruz.
 
-We’re calling them purchase orders, and Consumers can advertise a contract on chain for a set price and number of requests. Indexers can view this and choose to fill the contracts.
+Onlara satın alma emirleri diyoruz ve Tüketiciler, belirli bir fiyat ve talep sayısı için zincir üzerinde bir sözleşmenin reklamını yapabilir. Dizin oluşturucular bunu görüntüleyebilir ve sözleşmeleri doldurmayı seçebilirler.
 
 ![](https://miro.medium.com/max/1400/1*IPtaZlt24E7h9bKNZWdSCw.png)
 
-Consumers can advertise a purchase order on chain for a set price and number of requests.
+Tüketiciler, belirli bir fiyat ve talep sayısı için zincirde bir satın alma emirinin reklamını yapabilir.
 
-Purchase orders can also be placed on existing SubQuery Projects to attract additional Indexers to improve competition and decrease prices
+Rekabeti artırmak ve fiyatları düşürmek için ek Dizin Oluşturucuları çekmek için mevcut SubQuery Projelerine satın alma siparişleri de verilebilir
