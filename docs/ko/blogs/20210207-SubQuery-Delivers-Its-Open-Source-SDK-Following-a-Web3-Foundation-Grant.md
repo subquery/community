@@ -16,25 +16,25 @@ SubQuery는 블록체인 팀과 사용자가 노드를 시작하고 광범위한
 
 두번째로, CLI에 의해 생성된 정의된 SubQuery 프로젝트를 불러온 다음 네트워크를 Postgres 데이터베이스에 인덱싱하는 SubQuery 노드 패키지가 있습니다. Hasura를 사용하면, 인덱싱된 테이블에 대해 GraphQL 쿼리를 즉시 실행할 수 있습니다. 이러한 도구들과 우리가 항상 개선하고 있는 커뮤니티 지원의 도움으로, 누구나 쉽게 쿼리를 만들고 실행할 수 있습니다.
 
-**You can get started right away by following our example on the** [**SubQuery Github repository**](https://github.com/OnFinality-io/subql)**. Additionally, you can find out more by reading our** [**SubQuery docs**](https://doc.subquery.network/) **or** [**visiting our new website**](https://subquery.network/)**.**
+**귀하는 [**SubQuery Github 저장소**](https://github.com/OnFinality-io/subql)**에 있는 예제를 따라 바로 시작할 수 있습니다.** 또한 ** [**SubQuery 문서**](https://doc.subquery.network/)를 **읽거나** [**새 웹사이트를 방문하여**](https://subquery.network/) 더 자세히 알아볼 수 있습니다**.**
 
-We’re incredibly grateful for the support provided by Web3 Foundation to help us carry out this project for the community. Web3 Foundation funds research and development teams building the technology stack of the decentralized web. It was established in Zug, Switzerland by Ethereum co-founder and former chief technology officer Dr. Gavin Wood. Polkadot is the Foundation’s flagship project.
+커뮤니티를 위해 이 프로젝트를 수행하는 데 도와주기 위해 Web3 Foundation에서 지원해준 것에 대해 대단히 감사합니다. Web3 Foundation은 분산 웹의 기술 스택을 구축하는 연구 및 개발 팀에 자금을 지원합니다. 이더리움 공동 창립자이자 전 최고 기술 책임자인 Gavin Wood 박사가 스위스 Zug에서 설립했습니다. Polkadot은 재단의 주력 프로젝트입니다.
 
-We’ll focus on building a managed hosted service based off this offering that will be more performant and scalable. We are going to provide trusty public infrastructure that will build a powerful productionised SubQuery node from an uploaded SubQuery project. The service will then index and persist the chain state, and provide a production GraphQL endpoint that can replace self-hosted implementations. We’re going to focus on this so that everyone else can focus on building and growing their dApp.
+우리는 이 제품을 기반으로 더 성능과 확장성을 갖춘 관리형 호스팅 서비스를 구축하는 데 집중할 것입니다. 업로드된 SubQuery 프로젝트에서 강력한 생산적인 SubQuery 노드를 만들 신뢰할만한 공용 인프라를 제공할 것입니다. 그런 다음 서비스는 체인 상태를 인덱싱하고 유지하며, 자체 호스팅 구현을 대체할 수 있는 프로덕션 GraphQL 끝점을 제공합니다. 우리는 다른 모든 사람들이 자신의 dApp을 구축하고 성장시키는 데 집중할 수 있는데 집중할 것입니다.
 
-We saw Polkadot’s potential early and right from the start it felt natural to focus our efforts there. The core premise of Polkadot is to create a thriving community of developers, users, and businesses that will tap into its multichain interoperability — that community is going to need a service that allows them to reliably find and consume data quickly.
+우리는 Polkadot의 잠재력을 일찍이 보았고 처음부터 거기에 우리의 노력을 집중하는 것이 당연하다고 생각했습니다. Polkadot의 핵심 전제는 멀티체인 상호운용성을 활용할 개발자, 사용자 및 비즈니스의 번창하는 커뮤니티를 만드는 것입니다. 커뮤니티는 데이터를 안정적으로 빠르게 찾고 소비할 수 있는 서비스가 필요합니다.
 
-Polkadot’s unique architecture means that we can focus on one network and then be able to support multiple current and future chains with ease. Even though Polkadot is still under development, we will be there ready to help the next generation of blockchain developers create the next big dApp.
+Polkadot의 고유한 아키텍처는 우리가 하나의 네트워크에 집중한 다음 여러 현재 및 미래의 체인들을 쉽게 지원할 수 있음을 의미합니다. Polkadot은 아직 개발 중이지만, 차세대 블록체인 개발자가 차세대 큰 dApp을 만들 수 있도록 도울 것입니다.
 
-Get started on the [SubQuery Github repository.](https://github.com/OnFinality-io/subql)
+[SubQuery Github 저장소](https://github.com/OnFinality-io/subql)에서 시작하십시오.
 
-Read our [SubQuery docs](https://doc.subquery.network/)
+[SubQuery 문서](https://doc.subquery.network/) 읽기
 
-[Visit our new website](https://subquery.network/)
+[새로운 웹사이트 방문](https://subquery.network/)
 
-Learn more about Web3 Foundation by visiting their [website](https://web3.foundation/). To follow the latest developments at Web3 Foundation, join them on [Reddit](https://www.reddit.com/r/dot/) or [Twitter](https://twitter.com/web3foundation).
+Web3 Foundation [웹 사이트](https://web3.foundation/)를 방문하여 자세히 알아보십시오. Web3 Foundation의 최신 개발 사항을 확인하려면, [Reddit](https://www.reddit.com/r/dot/) 또는 [Twitter](https://twitter.com/web3foundation)에서 가입하십시오.
 
-Follow us on:
+우리의 소식이 궁금하다면:
 
 -   [Telegram](https://t.me/subquerynetwork)
 -   [Twitter](https://twitter.com/subquerynetwork)
