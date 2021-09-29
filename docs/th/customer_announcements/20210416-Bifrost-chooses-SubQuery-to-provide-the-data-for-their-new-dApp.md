@@ -17,9 +17,7 @@
 
 ตัวอย่างง่ายๆ ในการแสดงราคา mint แบบเรียลไทม์สำหรับ vDOT
 
-Bifrost ใช้ [SubQuery Projects](https://project.subquery.network/) เพื่อจัดการโครงการของตนเองและทำการอัปเดตตามต้องการ บริการจัดทำ index และ query สำหรับในบริการนี้ได้รับการจัดการโดย SubQuery และให้บริการฟรีแก่ชุมชน Polkadot ใน
-
-SubQuery's Explorer</0 คุณสามารถทดลองใช้ชุดข้อมูล Bifrost SubQuery โดยใช้ Explorer โดยไม่ต้องติดตั้งโค้ดใดๆ [ที่นี่](https://explorer.subquery.network/subquery/bifrost-finance/subql)</p> 
+Bifrost ใช้ [SubQuery Projects](https://project.subquery.network/) เพื่อจัดการโครงการของตนเองและทำการอัปเดตตามต้องการ บริการจัดทำ index และ query สำหรับในบริการนี้ได้รับการจัดการโดย SubQuery และให้บริการฟรีแก่ชุมชน Polkadot ใน[SubQuery's Explorer](https://explorer.subquery.network/) คุณสามารถทดลองใช้ชุดข้อมูล Bifrost SubQuery โดยใช้ Explorer โดยไม่ต้องติดตั้งโค้ดใดๆ [ที่นี่](https://explorer.subquery.network/subquery/bifrost-finance/subql)
 
 ![](https://miro.medium.com/max/1400/0*J9Rao6oyFMxVNWzZ)
 
