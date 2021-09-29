@@ -8,17 +8,11 @@ SubQuery mengumumkan putaran pendanaan US$9 juta untuk lapisan agregasi data ter
 
 SubQuery bertujuan untuk meningkatkan akses ke data blockchain terdesentralisasi dengan menciptakan pasar yang dinamis untuk pengindeksan dan penyediaan data. Teknologinya memberi pengembang Polkadot dan Kusama alat yang dibutuhkan untuk menjelajahi, mengubah, dan menganalisis data on-chain dengan mudah. Mengabstraksi backend, SubQuery menghilangkan kebutuhan akan server pemrosesan data khusus. Ini memungkinkan pengembang fokus pada pengembangan produk dan pengalaman pengguna daripada membangun sistem kueri mereka sendiri.
 
-Putaran strategis ini dipimpin bersama oleh [Arrington Capital](https://arringtonxrpcapital.com/), [DCG](https://dcg.co/) dan [Stratos Technologies](https://www.stratoslp.com/), dan menyertakan partisipasi dari [Hyperphere Ventures](https://hypersphere.ventures/), [Neo Global Capital (NGC)](http://ngc.fund/), [Wintermute](https://www.wintermute.com/) dan [Skynet Trading](http://skynettrading.com/). Ini merupakan lanjutan dari babak unggulan di awal tahun 2021, yang mencakup [DeFi Alliance](https://defialliance.co/), [The LAO](https://www.thelao.io/), [Digital Renaissance](https://drf.ee/),
-
-P2P Capital</ 3>, dan [Modal Web3](https://web3.capital/).</p> 
-
-
+Putaran strategis ini dipimpin bersama oleh [Arrington Capital](https://arringtonxrpcapital.com/), [DCG](https://dcg.co/) dan [Stratos Technologies](https://www.stratoslp.com/), dan menyertakan partisipasi dari [Hyperphere Ventures](https://hypersphere.ventures/), [Neo Global Capital (NGC)](http://ngc.fund/), [Wintermute](https://www.wintermute.com/) dan [Skynet Trading](http://skynettrading.com/). Ini merupakan lanjutan dari babak unggulan di awal tahun 2021, yang mencakup [DeFi Alliance](https://defialliance.co/), [The LAO](https://www.thelao.io/), [Digital Renaissance](https://drf.ee/), [P2P Capital](https://www.p2pcap.com/), dan [Modal Web3](https://web3.capital/).
 
 > *"Kami adalah investor awal di parachain seperti Moonbeam dan Acala dan ingin tim di ekosistem ini dapat fokus pada produk inti mereka. SubQuery membuatnya lebih mudah untuk dibangun. Ini menskalakan ke semua parachains dan dapat mengkatalisasi ledakan aktivitas berikutnya di Polkadot & Kusama"* - Ninor Mansor, Partner di Arrington Capital
 
 ![](https://cdn-images-1.medium.com/max/1600/1*j4VHuY_BgjkYv_bQ6_DmcQ.gif)
-
-
 
 > *"SubQuery adalah bagian penting dari tumpukan Polkadot dan hubungannya yang mendalam dengan proyek Polkadot terkemuka membuktikannya. Sebagai investor aktif di ekosistem Polkadot, kami terkesan dengan semangat, pengetahuan, dan dedikasi tim terhadap pekerjaan mereka dan sangat bersemangat untuk mendukung mereka."* - Matt Beck, Direktur Investasi di DCG
 
@@ -28,17 +22,11 @@ SubQuery sudah melayani jutaan kueri data setiap hari ke [lebih dari 60 proyek d
 
 Putaran penggalangan dana ini akan mempercepat peta jalan teknis dan komunitas SubQuery pada tahun 2021 dan seterusnya. Tim berencana untuk mendesentralisasikan dan memberi token pada protokol dan membangun Jaringan SubQuery sehingga mereka dapat bergabung dengan peserta yang diberi insentif dari seluruh dunia. SubQuery juga berencana untuk meningkatkan dan menskalakan layanan mereka karena lebih dari 60 proyek telah menggunakan layanan yang dihostingnya. Ke depan, tim berencana untuk berintegrasi dengan rantai Layer 1 lainnya, termasuk Solana, Terra, dan lainnya.
 
-
-
 * * * * *
-
-
 
 ## Tentang SubQuery
 
 [SubQuery](https://subquery.network) adalah agregasi data terdesentralisasi, pengindeksan & lapisan kueri antara blockchain Layer-1 dan aplikasi terdesentralisasi. Protokol mengabstraksi keanehan data blockchain dengan SubQuery SDK, memungkinkan pengembang untuk fokus pada penerapan produk inti mereka tanpa membuang upaya yang sia-sia pada teknologi backend khusus.
-
-
 
 ### Temukan lebih banyak lagi
 
