@@ -41,11 +41,11 @@ Bu yaklaşım, basit bir ifadeyle, gelirin, hem yanıtlanan taleplerin hem de st
 
 Gelir, hem yanıtlanan taleplerin hem de stake edilen miktarın bir oranı olarak rakip Dizin Oluşturuculara tahsis edilir.
 
-Bize göre, bu denklemin güzelliği, rasyonel bir İndeks Oluşturucunun, optimum gelir elde etmek için yaptıkları işe göre yüksek düzeyde SQT'yi sürdürmesi gerektiğidir. As a result, we do not need to enforce arbitrary staking requirements because Indexers are incentivised to self-manage and maintain a stake or skin in the game.
+Bize göre, bu denklemin güzelliği, rasyonel bir İndeks Oluşturucunun, optimum gelir elde etmek için yaptıkları işe göre yüksek düzeyde SQT'yi sürdürmesi gerektiğidir. Sonuç olarak, İndeksleyiciler oyunda bir hisseyi veya kaplamayı kendi kendine yönetmeye ve sürdürmeye teşvik edildiğinden, keyfi stake şartlarını zorlamamız gerekmiyor.
 
-## Delegators
+## Delegeler
 
-So Indexers are incentivised to both do as much work as possible, and to stake as much as possible to maximise their rewards. This is where delegators come in.
+Bu nedenle, İndeksleyiciler hem mümkün olduğu kadar çok iş yapmaya hem de ödüllerini en üst düzeye çıkarmak için mümkün olduğunca çok bahis yapmaya teşvik edilir. Delegelerin geldiği yer burasıdır.
 
 Delegators can delegate their spare SQT to Indexers, each Indexer can publish a _query fee revenue share rate_, and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in.
 
