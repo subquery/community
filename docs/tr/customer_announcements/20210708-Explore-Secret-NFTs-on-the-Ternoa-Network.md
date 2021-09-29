@@ -1,4 +1,4 @@
-# Explore Secret NFTs on the Ternoa Network
+# # Ternoa Ağındaki Gizli nft'leri Keşfedin
 
 ![](https://miro.medium.com/max/1200/0*s1fSGGelS-HVJNBm)
 
