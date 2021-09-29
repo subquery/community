@@ -4,9 +4,9 @@
 
 ![](https://miro.medium.com/max/1400/1*J5u22qNxndcuCrFJ1mfGqg.png)
 
-OnFinality的任务是通过向所有类型和体量的客户提供基础设施服务来支持区块链开发人员。 We’re launching a new venture that aims to solve a core problem to advance this mission: SubQuery.
+OnFinality的任务是通过向所有类型和体量的客户提供基础设施服务来支持区块链开发人员。 我们正在启动一个新的事业，旨在解决一个核心问题来推动这项任务：SubQuery。
 
-Almost every blockchain has a need to process and query data. The thriving Polkadot community is going to need a service that allows them to reliably find and consume data quickly. Our project is inspired by [The Graph](https://thegraph.com/), an service currently focused on Ethereum that allows customers to do this using GraphQL. The thriving Polkadot community is going to need a service that allows them to reliably find and consume data quickly. Our project is inspired by [The Graph](https://thegraph.com/), an service currently focused on Ethereum that allows customers to do this using GraphQL.
+几乎每个区块链都需要处理和查询数据。 蓬勃发展的Polkadot社区将需要一种服务，使他们能够很快可靠地找到和消费数据。 我们的项目受到 [The Graph](https://thegraph.com/)的启发，这项服务目前侧重于Etherum，它允许客户使用 GraphQL 来做到这一点。
 
 Since decentralised systems store data across networks querying is slow and hard. Since decentralised systems store data across networks querying is slow and hard. For the Web 3.0 dream to be realised, it’s got to be as fast (if not faster) than centralised networks for the end user. Protocol teams are currently building centralised indexing servers for their own projects, but this poses three issues: Protocol teams are currently building centralised indexing servers for their own projects, but this poses three issues:
 
