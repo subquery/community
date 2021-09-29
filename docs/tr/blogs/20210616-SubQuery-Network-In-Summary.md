@@ -29,11 +29,11 @@ Tüketiciler, belirli veriler için SubQuery network'e talepte bulunacak ve rekl
 
 ## Cobb-Douglas Üretim Fonksiyonu
 
-This payment goes into a project revenue pool and at the end of a staking era (28 days) we take this project revenue pool and split it. It’s spit across indexers by something called the Cobb-Douglas production function.
+Bu ödeme bir proje gelir havuzuna gider ve bir stake döneminin sonunda (28 gün) bu proje gelir havuzunu alır ve böleriz. Cobb-Douglas üretim fonksiyonu adı verilen bir şey tarafından indeksleyicilere saçılır.
 
 ![](https://miro.medium.com/max/1400/1*E-W7o7cWoclxHb8rXAMdpA.png)
 
-It’s spit across indexers by something called the Cobb-Douglas production function.
+Cobb-Douglas üretim fonksiyonu adı verilen bir şey tarafından indeksleyicilere saçılır.
 
 This approach, in simple terms, means that revenue is allocated to competing Indexers as a proportion of both requests answered and amount staked.
 
