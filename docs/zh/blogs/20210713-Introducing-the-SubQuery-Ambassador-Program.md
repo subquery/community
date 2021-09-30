@@ -32,9 +32,9 @@ SubQuery旨在成为Polkadot中的主要数据提供者。 SubQuery 旨在成为
 
 **网络发展：**通过成为顶级 Polkadot 项目之一的大使来发展您的专业人际网。 能够见到世界各地的其他大使，也能接收到当地的需要我们支持的波卡项目的介绍。 您甚至可以免费获得在当地活动中代表SubQuery出席的机会。
 
-**Swag and other free stuff:** Everyone likes free stuff! Receive an annual allocation of SubQuery swag that’ll make you stand out in the crowd. Plus additional allocation that you can share around at community events. You’ll also receive an exclusive NFT for your Ambassador status. Receive an annual allocation of SubQuery swag that’ll make you stand out in the crowd. Plus additional allocation that you can share around at community events. You’ll also receive an exclusive NFT for your Ambassador status.
+交换和其他免费物品：人人都喜欢免费物品！ 接收SubQuery每年分配的代币额度，这将使你在人群中脱颖而出。 另加您可以在社区活动中也可以赢取额外的代币额度。 您还将收到您的专属大使身份NFT。
 
-## How does it work
+## 运作模式
 
 Our Ambassador program has multiple tiers, each tier has different benefits and capabilities. You can move up tiers by participating in Ambassador activities and working hard for us. You can move up tiers by participating in Ambassador activities and working hard for us.
 
