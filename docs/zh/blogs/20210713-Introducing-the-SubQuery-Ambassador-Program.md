@@ -36,26 +36,26 @@ SubQuery旨在成为Polkadot中的主要数据提供者。 SubQuery 旨在成为
 
 ## 运作模式
 
-Our Ambassador program has multiple tiers, each tier has different benefits and capabilities. You can move up tiers by participating in Ambassador activities and working hard for us. You can move up tiers by participating in Ambassador activities and working hard for us.
+我们的大使方案有多个不同层级，每个层级都有不同的收益和能力要求。 你可以通过参加大使活动和为我们努力工作来提高等级。
 
-Once you have sent through an application, we will select candidates that align with our values. Once you have sent through an application, we will select candidates that align with our values. If selected you are placed in our trainee program and will receive an information package, expanding your understanding of SubQuery. After this, you can start to work through the trainee program by completing certain onboarding tasks (e.g. creating a SubQuery Project). We will host workshops throughout this process to support you. After this, you can start to work through the trainee program by completing certain onboarding tasks (e.g. creating a SubQuery Project). We will host workshops throughout this process to support you.
+一旦您通过应用申请资格，我们将选择符合SubQuery价值的候选人。 如果您被选中，您将被放置在我们的实习方案中，并将收到一个信息包，以增强您对 SubQuery 的理解。 在此之后，您可以通过实习方案完成某些在线任务(例如创建一个子查询项目)。 我们将在整个过程中进行专题讲解来支持你的工作。
 
-Once you pass the trainee program, you can call yourself a SubQuery ambassador and will be accepted into our full program. From here on you can continue to work though the program and progress up the tiers, earning more rewards and benefits as you climb the ranks. From here on you can continue to work though the program and progress up the tiers, earning more rewards and benefits as you climb the ranks.
+一旦通过实习阶段，您就可以成为SubQuery大使，并将被纳入我们的全部方案。 从这里开始，你可以继续向上推进， 在你升高等级时赚取更多的奖励和报酬。
 
-[Apply Here](https://forms.gle/GXBbJ6LDpNfM2v1X6)
+[点击申请](https://forms.gle/GXBbJ6LDpNfM2v1X6)
 
-## Ambassador Activities
+## 大使活动
 
-SubQuery Ambassadors are able to contribute through four main areas, including event management, content creation, translation, and community moderation. You can participate in as many areas as you want, you’re not bound to any single one. You can participate in as many areas as you want, you’re not bound to any single one.
+SubQuery 大使需要通过四个主要领域做出贡献，包括活动管理、内容创建、翻译和社区管理。 你可以参与尽可能多的领域，你不会被绑定到任何一个领域。
 
-**Event Management:** Build local communities by hosting, organising, and managing different events. Building a local community will be a key part of growing the SubQuery community. **Event Management:** Build local communities by hosting, organising, and managing different events. Building a local community will be a key part of growing the SubQuery community. SubQuery will support you by providing funding for events, sending swag/merchandise to be given away, as well as attending Q&As or online events as speakers or in AMA sessions.
+**活动管理：** 通过主办、组织和管理不同的活动来建立本地社区。 建立一个地方社区将是扩大SubQuery社区的一个关键部分。 SubQuery 将为你举办的活动提供资金支持，或准备礼物与奖品， 还以发言者身份或在AMA会议上以及其他线上活动提供帮助。
 
-**Content Creation:** We have a long list of content and support material that we need help creating. Remember, our success relies on the ability for our customers to build amazing things on our service, so we need your help to make that easier. Remember, our success relies on the ability for our customers to build amazing things on our service, so we need your help to make that easier.
+**内容创建：** 我们有很长的内容和支持材料，我们需要你帮助创建。 记住，我们的成功取决于我们的用户能否在我们的服务中制造惊人的东西。 这样我们就需要你的帮助来使这更加容易实现。
 
-Content includes videos, infographics, tutorials, animations, or any other related material, to inform, educate, or inspire community members within the SubQuery Ecosystem. SubQuery will support Content Creators by providing branding assets and expertise. We’ll also use SubQuery’s marketing channels to increase awareness of your content (and yourself). SubQuery will support Content Creators by providing branding assets and expertise. We’ll also use SubQuery’s marketing channels to increase awareness of your content (and yourself).
+内容包括视频、信息图表、教程、动画或任何其他相关材料，用于在SubQuery生态系统内宣传、教育或激励社区成员。 SubQuery 将通过提供品牌资产和专门知识来支持内容创建者。 我们还将使用 SubQuery 的营销渠道来提高对您的内容(和您自己)的认识。
 
-**Translation:** Our customers don’t just speak english! We need your help making SubQuery more accessible by translating our content into your own language, as well as helping sharing the word to our international community. We need your help making SubQuery more accessible by translating our content into your own language, as well as helping sharing the word to our international community.
+**翻译：** 我们的客户不只是说英语！ 我们需要您的帮助，通过将我们的内容翻译成您自己的语言，使世界各地的人都更容易了解 SubQuery。
 
-**Community Moderation:** Moderators will help grow the SubQuery community by ensuring that official community channels are active and engaging. SubQuery will support Moderators by promoting the channels that they monitor, as well as provide guidelines for our expectations. SubQuery will support Moderators by promoting the channels that they monitor, as well as provide guidelines for our expectations.
+**社区管理：** 管理员将通过活跃官方社交平台的方式来帮助SubQuery社区的成长。 SubQuery将支持管理员发展他们管理的社交平台渠道，并为我们的目标提供指导方针。
 
 ![](https://miro.medium.com/max/1400/1*xj6_UL1ZWYzlLmlVk25JzQ.png)
