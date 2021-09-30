@@ -32,6 +32,6 @@ Bu bağış toplama turu, SubQuery'nin 2021 ve sonrasındaki teknik ve topluluk 
 
 [Burada](https://doc.subquery.network/) kendi SubQuery projenizi oluşturarak başlayın.
 
-SubQuery Ağı protokolü hakkında [buradan](https://static.subquery.network/whitepaper.pdf) bilgi edinin.
+SubQuery Network protokolü hakkında [buradan](https://static.subquery.network/whitepaper.pdf) bilgi edinin.
 
 [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw) | [LinkedIn](https://www.linkedin.com/company/subquery)

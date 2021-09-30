@@ -46,15 +46,15 @@ SubQuery는 블록체인 팀과 사용자가 노드를 시작하고 광범위한
 
 **Sam Zou —** CEO ([LinkedIn](https://www.linkedin.com/in/sam-zou-5b8169a/))
 
-Entrepreneur, Investors with more than 20 years of IT experience specialising in infrastructure and cloud service design
+인프라 및 클라우드 서비스 설계를 전문으로 하는 20년 이상의 IT 경험을 가진 기업가, 투자자
 
 **Ian He —** Head of Protocol ([LinkedIn](https://www.linkedin.com/in/yin-he-7a266345/))
 
-Blockchain Architect, Contributor to polkadot-js, Early adopter of Substrate technology and won second place in the first Polkadot hackathon.
+Blockchain Architect, polkadot-js 공헌자, Substrate 기술의 얼리 어답터이자 첫 번째 Polkadot 해커톤에서 2위를 차지했습니다.
 
 **James Xu —** Solutions Architect ([LinkedIn](https://www.linkedin.com/in/zhexu/))
 
-Infrastructure & Application Architect, Award-winning software engineer.
+인프라 & 애플리케이션 설계자, 수상 경력에 빛나는 소프트웨어 엔지니어.
 
 **James Bayly** — Head of Business Development ([LinkedIn](https://www.linkedin.com/in/james-bayly/))
 
@@ -66,7 +66,7 @@ Infrastructure & Application Architect, Award-winning software engineer.
 
 우리를 Follow해서 최신 소식을 받아보세요.
 
--   [Telegram](https://t.me/subquerynetwork)
--   [Twitter](https://twitter.com/subquerynetwork)
--   [Matrix](https://matrix.to/#/%23subquery:matrix.org)
--   [LinkedIn](https://www.linkedin.com/company/subquery)
+-   [텔레그램](https://t.me/subquerynetwork)
+-   [트위터](https://twitter.com/subquerynetwork)
+-   [매트릭스](https://matrix.to/#/%23subquery:matrix.org)
+-   [링크드인](https://www.linkedin.com/company/subquery)

@@ -2,33 +2,33 @@
 
 Hôm nay, chúng ta sẽ khám phá các mục tiêu của SubQuery và một số lợi thế cạnh tranh mà chúng tôi cho rằng làm cho Mạng SubQuery tốt hơn so với các đối thủ cạnh tranh.
 
-SubQuery’s currently provided indexing and transformation data in a centralised way. Although this has allowed us to power some of the top Polkadot projects; DeFi apps like Acala and Bifrost, wallets like Fearless Wallet, NFT platforms like [KodaDot](https://kodadot.xyz/), cross-chain bridges like [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia), and analytics platforms like [SubVis](https://subvis.io/) — it has it’s downside.
+SubQuery hiện đã cung cấp dữ liệu chuyển đổi và lập chỉ mục theo cách tập trung. Mặc dù điều này đã cho phép chúng tôi cung cấp năng lượng cho một số dự án Polkadot hàng đầu; Các ứng dụng DeFi như Acala và Bifrost, các ví như Fearless Wallet, các nền tảng NFT như [ KodaDot ](https://kodadot.xyz/), các cầu nối chuỗi chéo như [ Darwinia ](https://explorer.subquery.network/subquery/darwinia-network/darwinia) và các nền tảng phân tích như [ SubVis ](https://subvis.io/) - nó có nhược điểm của nó.
 
-It requires our users to trust the service we provide, and carries risks associated with a centralised service, like potential server failures or outages that can cripple your applications. This is a major reason why we are moving to a decentralised future.
+Nó yêu cầu người dùng của chúng tôi tin tưởng vào dịch vụ mà chúng tôi cung cấp và mang theo các rủi ro liên quan đến dịch vụ tập trung, như lỗi hoặc ngừng hoạt động máy chủ tiềm ẩn có thể làm tê liệt các ứng dụng của bạn. Đây là lý do chính tại sao chúng tôi đang chuyển sang một tương lai phi tập trung.
 
 ![](https://miro.medium.com/max/868/1*CPksnN9_jyMGQ0sSbiJvDQ.png)
 
 Lợi thế cạnh tranh của chúng tôi
 
-We understand that The SubQuery Network is competing against many players in the decentralised data industry, SubQuery looks to provide unique benefits through a multitude of competitive advantages. Our guiding principles, and what we expect to be the main advantages, are the simplicity and flexibility of our network.
+Chúng tôi hiểu rằng Mạng SubQuery đang cạnh tranh với nhiều người chơi trong ngành dữ liệu phi tập trung, SubQuery có vẻ sẽ cung cấp những lợi ích độc đáo thông qua vô số lợi thế cạnh tranh. Nguyên tắc cốt lõi của chúng tôi và những gì chúng tôi mong đợi là lợi thế chính, là sự đơn giản và linh hoạt của mạng lưới của chúng tôi.
 
 ## Tính linh hoạt
 
-Our first advantage is our flexibility. SubQuery is open source, so anyone has the freedom to define the data set that is specific to their needs, tailored to their applications. Rather than having to combine queries from different API endpoints — you can define the shape of your APIs yourself. It saves time, money, and provides a vastly better experience for your users.
+Ưu điểm đầu tiên của chúng tôi là tính linh hoạt. SubQuery là mã nguồn mở, vì vậy bất kỳ ai cũng có quyền tự do xác định tập dữ liệu cụ thể cho nhu cầu của họ, phù hợp với ứng dụng của họ. Thay vì phải kết hợp các truy vấn từ các điểm cuối API khác nhau - bạn có thể tự xác định hình dạng của các API của mình. Nó tiết kiệm thời gian, tiền bạc và cung cấp trải nghiệm tốt hơn rất nhiều cho người dùng của bạn.
 
 ## Sự đơn giản
 
-You do not need to be an expert to take advantage of what SubQuery offers. There is literally 3 files that need to be changed to make a working SubQuery project. Our focus will be on making SubQuery easier to use and build with than our competitors — SubQuery’s success depends on the success of our community building the future with it.
+Bạn không cần phải là một chuyên gia để tận dụng những gì SubQuery cung cấp. There is literally 3 files that need to be changed to make a working SubQuery project. Trọng tâm của chúng tôi sẽ là làm cho SubQuery dễ sử dụng và dễ xây dựng hơn so với các đối thủ cạnh tranh của chúng tôi - Thành công của SubQuery phụ thuộc vào sự thành công của cộng đồng của chúng tôi trong việc xây dựng tương lai với nó.
 
 ## Indexer/Delegator không cân bằng
 
-Among our competitors, we believe the ability for Indexers to change delegation reward rates without warning is unfair. We try to fix this by requiring Indexers to advertise a decrease to the Query Fee Revenue Share Rate for an entire staking era (28 day period).
+Trong số các đối thủ cạnh tranh của chúng tôi, chúng tôi tin rằng khả năng Người lập chỉ mục thay đổi tỷ lệ phần thưởng ủy quyền mà không có cảnh báo là không công bằng. Chúng tôi cố gắng khắc phục điều này bằng cách yêu cầu Người lập chỉ mục quảng cáo giảm Tỷ lệ chia sẻ doanh thu phí truy vấn trong toàn bộ chu kỳ staking (khoảng thời gian 28 ngày).
 
 ## Đơn đặt hàng thay vì người quản lý
 
-In marketplaces like SubQuery, where there are both buyers and sellers of data, signalling demand for future supply is difficult. Other competitors use “curators” to achieve this, participants who predict future demand and are rewarded when that future demand eventuates.
+Trong các thị trường như SubQuery, nơi có cả người mua và người bán dữ liệu, việc báo hiệu nhu cầu về nguồn cung trong tương lai là rất khó. Các đối thủ cạnh tranh khác sử dụng “người quản lý” để đạt được điều này, những người tham gia dự đoán nhu cầu trong tương lai và được thưởng khi nhu cầu tương lai đó xuất hiện.
 
-SubQuery has taken a different approach in where we look to Consumers to create an upfront commitment, a purchase order. This can be used both to attract Indexers to new SubQuery Projects, or to attract additional Indexers to existing and uncompetitive SubQuery Projects.
+SubQuery đã thực hiện một cách tiếp cận khác, trong đó chúng tôi hướng tới Người tiêu dùng để tạo cam kết trả trước, đơn đặt hàng. Điều này có thể được sử dụng cả để thu hút Người lập chỉ mục vào các Dự án SubQuery mới hoặc để thu hút Người lập chỉ mục bổ sung vào các Dự án SubQuery hiện có và không có tính cạnh tranh.
 
 ## Khuyến khích cho Hiệu suất Truy vấn:
 
@@ -38,4 +38,4 @@ Quá trình định tuyến và khám phá Trình lập chỉ mục của chúng
 
 ## Tập trung vào Substrate/Polkadot:
 
-SubQuery committed to focus on Polkadot and Substate from the day we started. This allowed our service and tools to be built from the outset to work with Substrate. On top of this, Polkadots unique architecture makes it easier for SubQuery to support multiple current and future blockchains automatically.
+SubQuery cam kết tập trung vào Polkadot và Substate kể từ ngày chúng tôi bắt đầu. Điều này cho phép dịch vụ và công cụ của chúng tôi được xây dựng ngay từ đầu để hoạt động với Substrate. Trên hết, kiến ​​trúc độc đáo của Polkadots giúp SubQuery hỗ trợ tự động nhiều blockchains hiện tại và tương lai dễ dàng hơn.

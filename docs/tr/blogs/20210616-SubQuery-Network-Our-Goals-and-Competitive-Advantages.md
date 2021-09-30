@@ -24,18 +24,18 @@ SubQuery'nin sunduğu avantajlardan yararlanmak için uzman olmanıza gerek yokt
 
 Rakiplerimiz arasında, indeksleyicilerin delegasyon ödül oranlarını uyarmadan değiştirme yeteneğinin adil olmadığına inanıyoruz. İndeksleyicilerin tüm stake dönemi (28 günlük dönem) için Sorgu Ücreti Gelir Paylaşım Oranında bir düşüş ilan etmesini isteyerek bunu düzeltmeye çalışıyoruz.
 
-## Purchase Orders Instead of Curators
+## Küratörler Yerine Sipariş Satın Alın
 
-In marketplaces like SubQuery, where there are both buyers and sellers of data, signalling demand for future supply is difficult. Other competitors use “curators” to achieve this, participants who predict future demand and are rewarded when that future demand eventuates.
+Hem alıcıların hem de veri satıcılarının bulunduğu SubQuery gibi pazarlarda, gelecekteki arz talebine işaret etmek zordur. Diğer rakipler bunu başarmak için "küratörler" kullanıyor, katılımcılar gelecekteki talebi tahmin ediyor ve bu talep gerçekleştiğinde ödüllendiriliyor.
 
-SubQuery has taken a different approach in where we look to Consumers to create an upfront commitment, a purchase order. This can be used both to attract Indexers to new SubQuery Projects, or to attract additional Indexers to existing and uncompetitive SubQuery Projects.
+SubQuery, Tüketicilerin önceden bir taahhüt, bir satın alma siparişi oluşturmasını istediğimiz yerde farklı bir yaklaşım benimsemiştir. Bu, hem indeksleyicileri yeni SubQuery Projelerine çekmek için hem de mevcut ve rekabetçi olmayan SubQuery Projelerine ek indeksleyicileri çekmek için kullanılabilir.
 
-## Incentives for Query Performance:
+## Sorgu Performansı için Teşvikler:
 
-Our Indexer discovery and routing process will include performance data (latency and uptime) for all Indexers, and we will take steps to ensure that Consumers report on this data when unlocking micropayments to Indexers.
+İndeksleyicileri keşif ve yönlendirme sürecimiz, tüm indeksleyiciler için performans verilerini (gecikme ve çalışma süresi) içerecek ve Tüketicilerin İndeksleyicilere mikro ödemelerin kilidini açarken bu veriler hakkında rapor vermesini sağlamak için adımlar atacağız.
 
-This will ideally encourage Indexers in the SubQuery Network to provide infrastructure with high uptime and low latency, the best performance possible.
+Bu, ideal olarak SubQuery Ağı'ndaki İndeksleyicilere mümkün olan en iyi performansı, yüksek çalışma süresi ve düşük gecikme süresi ile altyapı sağlamaya teşvik edecektir.
 
-## Focus on Substrate/Polkadot:
+## Substrate/Polkadot'a odaklandık:
 
-SubQuery committed to focus on Polkadot and Substate from the day we started. This allowed our service and tools to be built from the outset to work with Substrate. On top of this, Polkadots unique architecture makes it easier for SubQuery to support multiple current and future blockchains automatically.
+SubQuery, başladığımız günden itibaren Polkadot ve Substate'e odaklanmayı taahhüt etti. Bu, hizmetimizin ve araçlarımızın en başından Substrate ile çalışacak şekilde oluşturulmasını sağladı. Bunun da ötesinde, Polkadot'un benzersiz mimarisi, SubQuery'nin birden fazla mevcut ve gelecekteki blok zincirlerini otomatik olarak desteklemesini kolaylaştırır.

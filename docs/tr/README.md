@@ -1,4 +1,4 @@
-# SubQuery Blogs & Community Content
+# SubQuery Blogları Topluluk İçerikleri
 
 SubQuery, dünyanın verilerini web3.0 geleceği için dönüştürmenize ve sorgulamanıza yardımcı olmak için burada.
 
