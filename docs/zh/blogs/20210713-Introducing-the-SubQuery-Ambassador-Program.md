@@ -1,26 +1,26 @@
-# Introducing the SubQuery Ambassador Program
+# SubQuery大使计划介绍
 
 ![](https://miro.medium.com/max/1400/1*EC5wwTuoB6UK_EESGd8X8w.png)
 
-## Represent SubQuery in Your Community!
+## 您可以在社区代表SubQuery！
 
-[SubQuery](https://subquery.network/) aims to be the leading data provider in Polkadot. [SubQuery](https://subquery.network/) aims to be the leading data provider in Polkadot. Our mission is to power the biggest dApps in our growing ecosystem, and we’re already working with DeFi apps like [Acala](https://acala.network/) and [Bifrost](https://bifrost.finance/), wallets like [Fearless Wallet](https://fearlesswallet.io/), NFT platforms like [KodaDot](https://kodadot.xyz/), cross-chain bridges like [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia), and analytics platforms like [SubVis](https://subvis.io/).
+SubQuery旨在成为Polkadot中的主要数据提供者。 SubQuery 旨在成为 Polkadot 中领先的数据提供者。我们的使命是为我们不断发展的生态系统中最大的 dApp 提供支持，我们已经在与 Acala 和 Bifrost 等 DeFi 应用程序、Fearless Wallet 等钱包、KodaDot 等 NFT 平台、Darwinia 等跨链桥以及 SubVis 等分析平台合作。
 
-Our ecosystem is growing, and with our announcement of the SubQuery Network we’re looking for people from around the world to join us on our mission. The SubQuery team is excited to announce that we are opening up applications for our new Ambassador program! The SubQuery team is excited to announce that we are opening up applications for our new Ambassador program!
+我们的生态系统正在不断壮大， 随着SubQuery网络的发布，我们正在寻找来自世界各地的人加入我们的计划。 SubQuery团队很高兴地宣布，我们的新大使方案申请向所有人开放！
 
-We understand that one of our biggest strengths is our community, and with your help we want to grow and establish local ambassadors for communities around the world.
+我们认识到，我们的最大优势之一是我们的社区。 在你们的帮助下，我们想要发展和联系世界各地社区的地方大使。
 
-[Apply Here](https://forms.gle/GXBbJ6LDpNfM2v1X6)
+[点击申请](https://forms.gle/GXBbJ6LDpNfM2v1X6)
 
-Our team came together with the shared vision to build the foundations of a flexible and inclusive data service for the Polkadot ecosystem.
+我们的团队共同愿景是为Polkadot生态系统建立一个更具灵活和包容性的数据服务基础。
 
-**Built by developers, for developers:** SubQuery is a growing community that focuses on providing the best products and services for our developers, and builders in our ecosystem. SubQuery is only successful if the Polkadot ecosystem is successful, and so everything we do is with our customer in mind. SubQuery is only successful if the Polkadot ecosystem is successful, and so everything we do is with our customer in mind.
+由开发人员构建，为开发人员服务：SubQuery 是一个不断发展的社区，专注于为我们的开发人员和我们生态系统中的构建者提供最好的产品和服务。由开发人员构建，为开发人员服务：SubQuery 是一个不断发展的社区，专注于为我们的开发人员和我们生态系统中的构建者提供最好的产品和服务。只有 Polkadot 生态系统成功，SubQuery 才会成功，因此我们所做的一切都以客户为中心。
 
-**Integrity and Accountability:** We have team members in Auckland, Shanghai, and Sydney and so remote work is important to us. We expect that our team is empowered and works autonomously together to achieve our goals. A key requirement for this is for our team to be accountable for their actions and maintain their integrity. We expect that our team is empowered and works autonomously together to achieve our goals. A key requirement for this is for our team to be accountable for their actions and maintain their integrity.
+诚信和责任：我们在奥克兰、上海和悉尼都有团队成员，因此远程工作对我们很重要。我们希望我们的团队拥有自主能力并自主合作以实现我们的目标。对此的一个关键要求是让我们的团队对他们的行为负责并保持他们的诚信。 我们期望我们的团队能够获得权力，能够自主地共同工作，以实现我们的目标。
 
-**Inclusive Guidance and Support:** Blockchain is hard, and everyone needs help sometimes. There is no such thing as a stupid question in our community and everyone in our team is expected to help support our users. We learn some of the most valuable insights about our service (and how we can improve it) directly from our community. There is no such thing as a stupid question in our community and everyone in our team is expected to help support our users. We learn some of the most valuable insights about our service (and how we can improve it) directly from our community.
+包容性指导和支持：区块链很复杂，每个人都有需要帮助的时刻。在我们的社区中没有愚蠢的问题，我们团队中的每个人都应该帮助支持我们的用户。我们直接从我们的社区中了解到一些关于我们的服务（以及我们如何改进它）的最有价值的见解。 在我们的社区中没有所谓愚蠢的问题，我们团队中的每个人都会帮助和支持我们的用户。 We learn some of the most valuable insights about our service (and how we can improve it) directly from our community.
 
-Our SubQuery Ambassador program aims to find community leaders passionate about Polkadot and SubQuery. Our SubQuery Ambassador program aims to find community leaders passionate about Polkadot and SubQuery. We’re looking for self-starters that can spread the word about SubQuery in their local areas and provide support to new developers that want to use SubQuery to build amazing apps and services on Polkadot.
+Our SubQuery Ambassador program aims to find community leaders passionate about Polkadot and SubQuery. 我们的 SubQuery 大使计划旨在寻找对 Polkadot 和 SubQuery 充满热情的社区领袖。我们正在寻找能够在当地传播有关 SubQuery 的信息并为希望使用 SubQuery 在 Polkadot 上构建出色应用程序和服务的新开发人员提供支持的具有内驱力的行动者。
 
 ## Ambassador Benefits
 
