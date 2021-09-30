@@ -1,8 +1,8 @@
-# Announcing the SubQuery Explorer
+# SubQuery Explorer 발표
 
-Since announcing SubQuery to the world just a month ago, the response and feedback we’ve received from the Polkadot community has been overwhelmingly positive. We’ve gained thousands of followers on our channels, and there have been over 1,353 installs from NPM. It’s inspiring to receive all the messages of support, and to see the engagement from the community. **It’s time for us to give something back!**
+불과 한 달 전에 SubQuery를 세상에 발표한 이후, Polkadot 커뮤니티에서 받은 반응과 피드백은 압도적으로 긍정적이었습니다. 우리 채널에서 수천 명의 팔로어가 모였고, NPM에서 1,353개 이상의 설치가 있었습니다. 모든 지원 메시지를 받고 커뮤니티의 참여를 확인하는 것은 고무적입니다. **우리가 무언가를 돌려줄 때입니다!**
 
-We’ve been working overtime over the last month to release the next major stage of our roadmap for SubQuery. Today we’re announcing the release of the [SubQuery Explorer.](https://explorer.subquery.network/)
+우리는 SubQuery 로드맵의 다음 주요 단계를 발표하기 위해 지난 달에 초과 근무를 했습니다. 오늘 우리는 [SubQuery Explorer](https://explorer.subquery.network/)의 출시를 발표합니다.
 
 ![](https://miro.medium.com/max/1400/0*2bDaF3HPgNkpm8Kt)
 
