@@ -16,21 +16,21 @@ SubQuery旨在成为Polkadot中的主要数据提供者。 SubQuery 旨在成为
 
 由开发人员构建，为开发人员服务：SubQuery 是一个不断发展的社区，专注于为我们的开发人员和我们生态系统中的构建者提供最好的产品和服务。由开发人员构建，为开发人员服务：SubQuery 是一个不断发展的社区，专注于为我们的开发人员和我们生态系统中的构建者提供最好的产品和服务。只有 Polkadot 生态系统成功，SubQuery 才会成功，因此我们所做的一切都以客户为中心。
 
-诚信和责任：我们在奥克兰、上海和悉尼都有团队成员，因此远程工作对我们很重要。我们希望我们的团队拥有自主能力并自主合作以实现我们的目标。对此的一个关键要求是让我们的团队对他们的行为负责并保持他们的诚信。 我们期望我们的团队能够获得权力，能够自主地共同工作，以实现我们的目标。
+诚信和责任：我们在奥克兰、上海和悉尼都有团队成员，因此远程工作对我们很重要。我们希望我们的团队拥有自主能力并自主合作以实现我们的目标。对此的一个关键要求是让我们的团队对他们的行为负责并保持他们的诚信。
 
-包容性指导和支持：区块链很复杂，每个人都有需要帮助的时刻。在我们的社区中没有愚蠢的问题，我们团队中的每个人都应该帮助支持我们的用户。我们直接从我们的社区中了解到一些关于我们的服务（以及我们如何改进它）的最有价值的见解。 在我们的社区中没有所谓愚蠢的问题，我们团队中的每个人都会帮助和支持我们的用户。 We learn some of the most valuable insights about our service (and how we can improve it) directly from our community.
+包容性指导和支持：区块链很复杂，每个人都有需要帮助的时刻。在我们的社区中没有愚蠢的问题，我们团队中的每个人都应该帮助支持我们的用户。我们直接从我们的社区中了解到一些关于我们的服务（以及我们如何改进它）的最有价值的见解。
 
-Our SubQuery Ambassador program aims to find community leaders passionate about Polkadot and SubQuery. 我们的 SubQuery 大使计划旨在寻找对 Polkadot 和 SubQuery 充满热情的社区领袖。我们正在寻找能够在当地传播有关 SubQuery 的信息并为希望使用 SubQuery 在 Polkadot 上构建出色应用程序和服务的新开发人员提供支持的具有内驱力的行动者。
+我们的 SubQuery 大使计划旨在寻找对 Polkadot 和 SubQuery 充满热情的社区领袖 。我们正在寻找能够在当地传播有关 SubQuery 的信息并为希望使用 SubQuery 在 Polkadot 上构建出色应用程序和服务的新开发人员提供支持的具有内驱力的行动者。
 
-## Ambassador Benefits
+## 大使福利
 
-At SubQuery, we work hard to achieve what we do. At SubQuery, we work hard to achieve what we do. Similarly, Ambassadors are expected to commit some time when joining our team but will be rewarded with benefits.
+在SubQuery，我们努力实现我们的目标。 同样，我们也期待大使们在加入我们的团队时花费一些时间，他们会通过一些工作得到奖励。
 
-**Funding and Support:** You may be rewarded for good work with early opportunities into private sales and bounties. Additionally, we’ll be providing funding grants for you to run community meetups. Additionally, we’ll be providing funding grants for you to run community meetups.
+**融资和支持：** 您可能会因为工作良好而得到奖励，有机会提前进入私募和奖励阶段。 此外，我们将为您提供资金以举办社区活动
 
-**SubQuery Team Access:** You’ll have direct access to the core SubQuery team with opportunities for hands-on training, exclusive AMAs with our leaders and developers, and insight into our roadmap.
+**SubQuery 团队访问权限：** 您将具有直接访问SubQuery核心 团队的权限，并且有机会接受来自核心团队的亲自培训以及领导者和开发者举办的独家AMA，以便 能够对我们的项目计划进展有深刻的了解。
 
-**Network Development:** Expect to grow your professional network by being an Ambassador for one of the top Polkadot projects. Meet other ambassadors around the world and receive introductions to local Polkadot projects that we need to support locally. You might even get free entry to represent SubQuery in events in your local area. Meet other ambassadors around the world and receive introductions to local Polkadot projects that we need to support locally. You might even get free entry to represent SubQuery in events in your local area.
+**网络发展：**通过成为顶级 Polkadot 项目之一的大使来发展您的专业人际网。 能够见到世界各地的其他大使，也能接收到当地的需要我们支持的波卡项目的介绍。 您甚至可以免费获得在当地活动中代表SubQuery出席的机会。
 
 **Swag and other free stuff:** Everyone likes free stuff! Receive an annual allocation of SubQuery swag that’ll make you stand out in the crowd. Plus additional allocation that you can share around at community events. You’ll also receive an exclusive NFT for your Ambassador status. Receive an annual allocation of SubQuery swag that’ll make you stand out in the crowd. Plus additional allocation that you can share around at community events. You’ll also receive an exclusive NFT for your Ambassador status.
 
