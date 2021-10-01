@@ -34,7 +34,7 @@ SubQuery'de yaptığımız şeyi başarmak için çok çalışıyoruz. Benzer ş
 
 **Swag ve diğer ücretsiz şeyler:** Herkes bedava şeyleri sever! Kalabalıkta öne çıkmanızı sağlayacak yıllık bir SubQuery swag tahsisi alın. Ek olarak topluluk etkinliklerinde paylaşabileceğiniz ek tahsisat. Ayrıca Ambassador statünüz için özel bir NFT alacaksınız.
 
-## Nasıl çalışır?
+## Nasıl işliyor
 
 Ambassador programımızın birden fazla katmanı vardır, her katmanın farklı faydaları ve yetenekleri vardır. Ambassador etkinliklerine katılarak ve bizim için çok çalışarak üst sıralara çıkabilirsiniz.
 
@@ -48,7 +48,7 @@ Stajyer programını geçtikten sonra kendinize bir SubQuery Ambassadoru diyebil
 
 SubQuery Ambassadorları, etkinlik yönetimi, içerik oluşturma, çeviri ve topluluk denetimi dahil olmak üzere dört ana alan aracılığıyla katkıda bulunabilir. İstediğiniz kadar alana katılabilirsiniz, tek bir alana bağlı değilsiniz.
 
-**Etkinlik Yönetimi:** Farklı etkinliklere ev sahipliği yaparak, organize ederek ve yöneterek yerel topluluklar oluşturun. Yerel bir topluluk oluşturmak, SubQuery topluluğunu büyütmenin önemli bir parçası olacaktır. SubQuery, etkinlikler için finansman sağlayarak, hediye edilmek üzere ürün/ürünler göndererek ve ayrıca Soru-Cevap veya çevrimiçi etkinliklere konuşmacı olarak veya AMA oturumlarında katılarak sizi destekleyecektir.
+**Etkinlik Yönetimi:** Farklı etkinliklere ev sahipliği yaparak, organize ederek ve yöneterek yerel topluluklar oluşturun. Yerel bir topluluk oluşturmak, SubQuery topluluğunu büyütmenin önemli bir parçası olacaktır. &SubQuery, etkinlikler için finansman sağlayarak, hediye edilmek üzere ürün/ürünler göndererek ve ayrıca Soru-Cevap veya çevrimiçi etkinliklere konuşmacı olarak veya AMA oturumlarında katılarak sizi destekleyecektir.
 
 **İçerik Oluşturma:** Oluşturmak için yardıma ihtiyacımız olan uzun bir içerik ve destek materyali listemiz var. Unutmayın, başarımız müşterilerimizin hizmetimiz üzerine harika şeyler inşa etme yeteneğine bağlıdır, bu yüzden bunu kolaylaştırmak için yardımınıza ihtiyacımız var.
 
