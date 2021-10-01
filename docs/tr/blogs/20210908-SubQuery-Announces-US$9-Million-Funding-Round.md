@@ -26,7 +26,7 @@ Bu bağış toplama turu, SubQuery'nin 2021 ve sonrasındaki teknik ve topluluk 
 
 ## SubQuery Hakkında
 
-[SubQuery](https://subquery.network), Katman-1 blok zincirleri ve merkezi olmayan uygulamalar arasında merkezi olmayan bir veri toplama, indeksleme ve sorgulama katmanıdır. Protokol, SubQuery SDK ile blok zinciri veri özdeyişlerini soyutlayarak geliştiricilerin, özel arka uç teknolojileri üzerinde gereksiz yere çaba harcamadan temel ürünlerini dağıtmaya odaklanmalarına olanak tanır.
+&[SubQuery](https://subquery.network), Katman-1 blok zincirleri ve merkezi olmayan uygulamalar arasında merkezi olmayan bir veri toplama, indeksleme ve sorgulama katmanıdır. Protokol, SubQuery SDK ile blok zinciri veri özdeyişlerini soyutlayarak geliştiricilerin, özel arka uç teknolojileri üzerinde gereksiz yere çaba harcamadan temel ürünlerini dağıtmaya odaklanmalarına olanak tanır.
 
 ### Daha Fazlasını Bul
 
