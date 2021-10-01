@@ -69,6 +69,6 @@ Onlara satın alma emirleri diyoruz ve Tüketiciler, belirli bir fiyat ve talep 
 
 ![](https://miro.medium.com/max/1400/1*IPtaZlt24E7h9bKNZWdSCw.png)
 
-Tüketiciler, belirli bir fiyat ve talep sayısı için zincirde bir satın alma emirinin reklamını yapabilir.
+Tüketiciler, belirli bir fiyat ve talep sayısı için zincirde bir satın alma emrinin reklamını yapabilir.
 
 Rekabeti artırmak ve fiyatları düşürmek için ek Dizin Oluşturucuları çekmek için mevcut SubQuery Projelerine satın alma siparişleri de verilebilir
