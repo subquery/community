@@ -18,7 +18,7 @@ Acala Vakfı tarafından kurulan Karura, DeFi için optimize edilmiş ve Kusama 
 
 ![](https://cdn-images-1.medium.com/max/1600/0*g174RcFJwJcw2ITS)
 
-Karura ayrıca etik ve sürdürülebilir bir token dağıtım modelinin yanı sıra her ikisi de topluluğunu ve uzun ömürlülüğünü destekleyen zincir üstü bir Karura Hazinesi sağlar. Karura was the first parachain to win a parachain slot auction on Kusama, gathering a crowdloan upwards of 500,000 KSM ($100M USD) from its community. Karura, Kusama'da bir parachain slot müzayedesini kazanan ilk parachain oldu ve topluluğundan 500.000 KSM'ye (100M USD) kadar bir kitle kredisi topladı.
+Karura ayrıca etik ve sürdürülebilir bir token dağıtım modelinin yanı sıra her ikisi de topluluğunu ve uzun ömürlülüğünü destekleyen zincir üstü bir Karura Hazinesi sağlar. Karura, Kusama'da bir parachain slot müzayedesini kazanan ilk parachain oldu ve topluluğundan 500.000 KSM'ye (100M USD) kadar bir kitle kredisi topladı. Karura, Kusama'da bir parachain slot müzayedesini kazanan ilk parachain oldu ve topluluğundan 500.000 KSM'ye (100M USD) kadar bir kitle kredisi topladı.
 
 *[Substrate](http://substrate.dev/) *is the blockchain-building framework for building on Polkadot and Kusama*
 
