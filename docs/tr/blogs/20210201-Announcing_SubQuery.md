@@ -44,7 +44,7 @@ Polkadot'un benzersiz mimarisi, tek bir ağa odaklanabileceğimiz ve daha sonra 
 
 SubQuery, blok zinciri ekiplerinin ve kullanıcıların düğümleri başlatması ve çok çeşitli blok zinciri protokollerine erişmesi için bir altyapı SaaS platformu olan OnFinality'deki ekip tarafından oluşturulacak. API paylaşımlı düğüm hizmetimiz ve altyapı yönetiminde veya bir protokol ekibinin CI/CD test hattının parçası olarak kullanılabilecek özel düğümler de dahil olmak üzere bir simbiyotik hizmetler paketimiz var. En iyi Polkadot/Substrate ekipleriyle ilişkilerimiz, Substrate/Polkadot ağı için yönetilen altyapı barındırma konusunda uzmanlığımız ve karmaşık altyapı projeleri sunma ve bunları üretim kullanımı için barındırma yeteneğimiz var.
 
-**Sam Zou —** CEO ([LinkedIn](https://www.linkedin.com/in/sam-zou-5b8169a/)) CONTEXTREQUEST
+**Ian He —** Protokol Müdürü ([LinkedIn](https://www.linkedin.com/in/sam-zou-5b8169a/))
 
 Girişimci, Altyapı ve bulut hizmeti tasarımında uzmanlaşmış 20 yılı aşkın BT deneyimine sahip yatırımcılar
 
