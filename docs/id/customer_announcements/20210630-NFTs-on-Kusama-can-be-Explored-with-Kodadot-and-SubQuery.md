@@ -4,7 +4,7 @@
 
 ![](https://miro.medium.com/max/1400/1*Y4kdG9uEoxrySzb19QKxPg.gif)
 
-Kodadot is a carbon neutral Kusama native NFT platform that uses the RMRK protocol. Users can mint, transfer, and burn NFTs on the network. Most importantly, Kodadot has a responsive web based NFT explorer that provides an intuitive user interface.
+Kodadot adalah platform NFT asli Kusama netral karbon yang menggunakan protokol RMRK. Users can mint, transfer, and burn NFTs on the network. Most importantly, Kodadot has a responsive web based NFT explorer that provides an intuitive user interface.
 
 Frontend ini menggunakan [proyek SubQuery](https://explorer.subquery.network/subquery/vikiival/magick) untuk mempercepat eksplorasi ini.
 
