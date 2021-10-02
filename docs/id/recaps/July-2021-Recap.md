@@ -22,7 +22,7 @@ Kami memahami bahwa salah satu kekuatan terbesar kami adalah komunitas kami, jad
 
 Kami sedang dalam proses penerimaan ambassador pertama kami dalam waktu dekat. Kami sangat senang di sini karena ini berarti bahwa setiap orang di komunitas kami dapat mengharapkan untuk melihat perwakilan dan dukungan lokal yang lebih baik di komunitas yang berbeda!
 
-By the end of July we’ve made good progress on the first two milestones of our [open-source dApp API treasury grant](https://kusama.polkassembly.io/treasury/95). Although on the surface it doesn’t look like much, it is actually a really important initiative for us. Firstly it represents deep strategic cooperation with one of the largest Polkadot native wallets, Fearless Wallet.
+Pada akhir Juli, kami telah membuat kemajuan yang baik pada dua pencapaian pertama dari [hibah perbendaharaan API dApp sumber open-source](https://kusama.polkassembly.io/treasury/95) kami. Although on the surface it doesn’t look like much, it is actually a really important initiative for us. Firstly it represents deep strategic cooperation with one of the largest Polkadot native wallets, Fearless Wallet.
 
 Secondly, this open-source API should be able to provide different types of applications with a sufficient (but read-only) view of all key data within the Kusama chain. E.g. a developer could use it to create their own chain explorer without needing to directly query chain data.
 
