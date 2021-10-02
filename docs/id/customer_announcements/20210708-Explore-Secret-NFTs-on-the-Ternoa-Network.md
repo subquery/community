@@ -2,11 +2,11 @@
 
 ![](https://miro.medium.com/max/1200/0*s1fSGGelS-HVJNBm)
 
-During the week of July 5th, Ternoa has introduced its new Wallet, an app allowing future users to send and receive $CAPS and ‘**_Secret NFTs’_** minted on the Ternoa Blockchain, as well as easily unveiling their Secret to their owners. The concept of ‘**_Secret_**’ for ‘**_NTFs_**’ has been imagined by the Ternoa team.
+Selama minggu 5 Juli, Ternoa telah memperkenalkan Wallet barunya, sebuah aplikasi yang memungkinkan pengguna masa depan untuk mengirim dan menerima $CAPS dan '**_Secret NFTs'_** yang dicetak di Ternoa Blockchain, serta dengan mudah mengungkap Rahasia mereka kepada pemiliknya. Konsep ‘**_Rahasia_**’ untuk ‘**_NTFs_**’ telah dibayangkan oleh tim Ternoa.
 
-Those ‘_secret NFTs_’ can be found and purchased in the dedicated marketplace ([https://www.secret-nft.com/](https://www.secret-nft.com/)) built by the Ternoa Team. The Ternoa Wallet is a solution inspired by the [WalletConnect](https://walletconnect.org/) project, allowing users to easily login and purchase NFTs with a simple QR code interaction between the website and the app.
+‘_NFT rahasia_’ tersebut dapat ditemukan dan dibeli di pasar khusus ([https://www.secret-nft.com/](https://www.secret-nft.com/)) yang dibuat oleh Tim Ternoa. Ternoa Wallet adalah solusi yang terinspirasi oleh proyek [WalletConnect](https://walletconnect.org/), yang memungkinkan pengguna untuk dengan mudah masuk dan membeli NFT dengan interaksi kode QR sederhana antara website dan aplikasi.
 
-**_Secret NFTs_** are a special kind of NFTs invented and developed by Ternoa, and made possible by their unique and elegant blockchain architecture: Secret-NFTs are composed of two medias, one public with watermark or a lower quality, and the other private that can only be seen by the owner of said NFT. This offers an amazing protection from forgery for artists and KOLs, and opens up a lot of use cases.
+**_NFT Rahasia_** adalah jenis khusus NFT yang ditemukan dan dikembangkan oleh Ternoa, dan dimungkinkan oleh arsitektur blockchain mereka yang unik dan elegan: Secret-NFT terdiri dari dua media, satu publik dengan watermark atau kualitas lebih rendah, dan pribadi lainnya yang hanya dapat dilihat oleh pemilik NFT tersebut. Ini menawarkan perlindungan luar biasa dari pemalsuan untuk artis dan KOL, dan membuka banyak kasus penggunaan.
 
 Media rahasia akan mudah diakses oleh pengguna Wallet yang memegang SecretNFT
 
@@ -14,7 +14,7 @@ Media rahasia akan mudah diakses oleh pengguna Wallet yang memegang SecretNFT
 
 ![](https://miro.medium.com/max/1400/0*gquKRKBgiyAAxRFZ)
 
-> “We made the choice to use SubQuery because the documentation seemed clear to us at first glance and we were not mistaken. SubQuery provides a complete environment with a docker machine which makes testing and deployment very easy. It is relatively easy to develop in this environment and to program the listening of the different events emitted by our blockchain. Congratulations also to the support which is very responsive.” — Ternoa CTO
+> “Kami membuat pilihan untuk menggunakan SubQuery karena dokumentasinya tampak jelas bagi kami pada pandangan pertama dan kami tidak salah. SubQuery menyediakan lingkungan yang lengkap dengan mesin buruh pelabuhan yang membuat pengujian dan penerapan menjadi sangat mudah. Relatif mudah untuk dikembangkan di lingkungan ini dan untuk memprogram mendengarkan berbagai peristiwa yang dipancarkan oleh blockchain kami. Selamat juga atas dukungannya yang sangat responsif.” — Ternoa CTO
 
 Layanan [SubQuery](https://subquery.network/) juga membantu mengekstrak dan mengkueri data on chain untuk Secret-NFT yang dimint di Ternoa Blockchain, dengan cara yang mendukung fitur unik NFT Ternoa.
 
@@ -24,6 +24,6 @@ Pada contoh di bawah, kami [menggunakan SubQuery](https://explorer.subquery.netw
 
 ![](https://miro.medium.com/max/1400/0*YaQGpb3xUn7BUESx)
 
-Secret NFT is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/).
+NFT Rahasia menggunakan [Proyek SubQuery](https://project.subquery.network/) untuk mengelola proyek mereka sendiri dan membuat pembaruan sesuai kebutuhan. Layanan pengindeksan dan kueri yang kami sediakan sepenuhnya dikelola oleh SubQuery dan diberikan kepada komunitas Polkadot secara gratis di [Penjelajah SubQuery](https://explorer.subquery.network/).
 
 [Jelajahi data set Ternoa Secret NFT](https://explorer.subquery.network/subquery/capsule-corp-ternoa/indexer)
