@@ -2,7 +2,7 @@
 
 ![](https://cdn-images-1.medium.com/max/1600/1*WcFjuL_ncmHpgzVhaXDUdg.png)
 
-Parallel's mission is to innovate and bring DeFi to the next level and to a broader audience. Today we are excited to reveal how Parallel Finance are using SubQuery data in [their new application](https://testnet.parallel.fi/#/overview).
+Місія Parallel полягає в тому, щоб впроваджувати інновації та виводити DeFi на новий рівень і залучати ширшу аудиторію. Today we are excited to reveal how Parallel Finance are using SubQuery data in [their new application](https://testnet.parallel.fi/#/overview).
 
 ![](https://cdn-images-1.medium.com/max/1600/1*5Ru0mv1hq86BuBhGwsmoqQ.png)
 
