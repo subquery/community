@@ -2,7 +2,7 @@
 
 > Як працює мережа SubQuery? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
 
-Today we’re going to talk about how the SubQuery Network works at a high level.
+Сьогодні ми поговоримо про те, як саме працює мережа SubQuery на високому рівні.
 
 ## Користувачі
 
@@ -15,31 +15,31 @@ Today we’re going to talk about how the SubQuery Network works at a high level
 
 -   **Споживачі**: споживачі надсилатимуть запити до мережі SubQuery на конкретні дані та сплачуватимуть оголошену суму в розмірі SQT
 -   **Індексатори**: Індексатори будуть розміщувати проекти SubQuery у своїй власній інфраструктурі, керуючи як вузлом, так і службою запитів для індексування даних і для відповідей на запити GraphQL.
--   **Delegators**: Delegators will participate in the network by supporting their favourite Indexers to earn rewards
+-   **Делегатори**: Делегатори візьмуть участь у мережі, підтримуючи своїх улюблених Індексаторів, щоб отримати винагороди
 
-## Indexers, Consumers, and Queries
+## Індексатори, Споживачі та Запити
 
-Let’s start with Indexers, Indexers do a lot of the hard work behind the scenes. The manage hardware, run infrastructure, monitor resources, and choose the right SubQuery projects to index
+Почнемо з Індексаторів, які виконують більшу частину важкої роботи за лаштунками. Управління обладнанням, запуск інфраструктури, моніторинг ресурсів і вибір правильних проектів SubQuery для індексування
 
-This takes time and money, but once they have this, Consumers may come and make requests. Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
+Ці дії вимагають часу і грошей, але як тільки Індексатори отримають дані, Споживачі можуть прийти і зробити запит. Споживачі надсилатимуть запити до мережі SubQuery на конкретні дані та сплачуватимуть оголошену суму в розмірі SQT.
 
 ![](https://miro.medium.com/max/1400/1*dKLkzSc2uXYaPW_IXUxstQ.png)
 
-Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
+Споживачі надсилатимуть запити до мережі SubQuery на конкретні дані та сплачуватимуть оголошену суму в розмірі SQT.
 
-## Cobb-Douglas Production Function
+## Виробнича функція Кобба-Дугласа
 
-This payment goes into a project revenue pool and at the end of a staking era (28 days) we take this project revenue pool and split it. It’s spit across indexers by something called the Cobb-Douglas production function.
+Цей платіж входить в пул доходів для проекту, і в кінці вказаного періоду (28 днів) ми беремо цей пул доходів від проекту і розподіляємо його. Він проходить крізь індексатори за допомогою так званої функції Коба-Дугласа.
 
 ![](https://miro.medium.com/max/1400/1*E-W7o7cWoclxHb8rXAMdpA.png)
 
-It’s spit across indexers by something called the Cobb-Douglas production function.
+Він проходить крізь індексатори за допомогою так званої функції Коба-Дугласа.
 
-This approach, in simple terms, means that revenue is allocated to competing Indexers as a proportion of both requests answered and amount staked.
+Простіше кажучи, цей підхід означає, що дохід розподіляється за конкуруючими індексами в пропорції як до відповідей на запити, так і до суми ставок.
 
 ![](https://miro.medium.com/max/1400/1*VhDu2BGDxd3ob7z9XkoOXA.png)
 
-Revenue is allocated to competing Indexers as a proportion of both requests answered and amount staked.
+Дохід розподіляється між конкуруючими індексами в пропорції як до відповідей на запити, так і до суми ставок.
 
 In our view, the beauty of this equation is that a rational Indexer must maintain a high level of staked SQT relative to the work they do in order to receive optimal revenue. As a result, we do not need to enforce arbitrary staking requirements because Indexers are incentivised to self-manage and maintain a stake or skin in the game.
 
