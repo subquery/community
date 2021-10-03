@@ -18,7 +18,7 @@ Bu ayki güncellemede:
 
 ![](https://miro.medium.com/max/1400/0*_nOcsPjhQxta_FPH)
 
-Geçen ay Elçi programımızı başlattıktan sonra, topluluktaki heyecana ve katılımcıların kalitesine hayran kaldık. Bugüne kadar, hemen hemen her kıtada 2.000'in biraz altında başvuru aldık (Antarktika ☃️'dan başvurular için sesleniyoruz) ve şimdiye kadar 30'dan fazla kişiyi işe aldık.
+Geçen ay [Elçi programımızı başlattıktan sonra](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804), topluluktaki heyecana ve katılımcıların kalitesine hayran kaldık. Bugüne kadar, hemen hemen her kıtada 2.000'in biraz altında başvuru aldık (Antarktika ☃️'dan başvurular için sesleniyoruz) ve şimdiye kadar 30'dan fazla kişiyi işe aldık.
 
 Tre, bu girişime liderlik ederek ve [Discord'da toplulukla etkileşimde bulunarak](https://discord.com/invite/78zg8aBSMG) mükemmel bir iş çıkarıyor. SubQuery destekçileriyle daha yakın bir ilişkiye sahip olmanın faydalarını zaten gördüğümüz için, önümüzdeki birkaç hafta içinde ekibi genişleteceğiz, bu yüzden henüz bizden haber almadıysanız lütfen sabırlı olun!
 
@@ -42,13 +42,13 @@ Ağustos ayında Subscan, Karura, Subscan, Polkaswap ve Soramitsu dahil olmak ü
 
 Karura için, SubQuery, Karura'nın zincirinden veri çıkarmak ve sorgulamak için kullanılıyor ve bu da, Karura'nın uygulaması için sorguları hızlı ve verimli hale getiriyor.
 
-SubQuery'nin hizmeti, herhangi bir çoklu imza adresi için işlemlerle ilgili [hızlı veriler sağlayarak](https://subquery.medium.com/subscans-multi-signature-tool-powered-by-subquery-926da3e4fc25?source=your_stories_page-------------------------------------) [Subscan](https://www.subscan.io/) 'da önemli bir rol oynuyor ve böylece UX'i iyileştiriyor ve daha gelişmiş özelliklere izin veriyor.
+SubQuery'nin hizmeti, herhangi bir çoklu imza adresi için işlemlerle ilgili hızlı veriler sağlayarak[Subscan](https://www.subscan.io/) 'da önemli bir rol oynuyor ve böylece UX'i iyileştiriyor ve daha gelişmiş özelliklere izin veriyor.
 
 [SORA](https://sora.org/), SORA ve Polkaswap.io üzerine kurulu mobil uygulamaları güçlendirmek için SORA ağından veri alan bir [SubQuery Projesi](https://subquery.medium.com/sora-integrates-subquery-to-provide-data-to-the-sora-network-5a73f77a40aa?source=your_stories_page-------------------------------------) oluşturmuştur. Daha fazlasını buradan okuyabilirsiniz
 
 Her iki durumda da ortaklarımızdan böyle harika geri bildirimler aldığımız için müteşekkiriz:
 
-*"Subquery kullanmak, veri uygulamaları oluşturmayı kolaylaştırıyor, artık ihtiyacım olan verileri almak için karmaşık bir dizi arama yapmaya gerek yok."<0> --- Brett (Acala'da Geliştirici)*
+*"Subquery kullanmak, veri uygulamaları oluşturmayı kolaylaştırıyor, artık ihtiyacım olan verileri almak için karmaşık bir dizi arama yapmaya gerek yok."* --- Brett (Acala'da Geliştirici)
 
 *SubQuery, uygulamanın kurulumu ve yönetimi kolay, öğrenmesi ve geliştirmesi kolay olduğu kadar iyi belgelenmiş olması ve Github entegrasyonu ile kendi altyapısına sahip olması nedeniyle ihtiyaçlarımız için ideal bir çözüm olmuştur*
 
@@ -70,7 +70,7 @@ Sam ve James ile bir AMA için 5 Ağustos'ta DotMarketCap tarafından ağırlanm
 
 ## Polkadot Common API'nin 2. Kilometre Taşının Teslimi
 
-[Fearless Wallet](https://fearlesswallet.io/) ekibiyle birlikte Kusama için [açık kaynaklı bir dApp API'sinin geliştirilmesinde](https://docs.google.com/document/d/13L8HBwB6VB-n2g274FFFJKORYPJsq744C6H8iEDQ0-0/edit) ilerleme kaydetmekten memnuniyet duyuyoruz. Bu çalışma bir Kusama Hazine hibesi ile desteklenmektedir.
+Fearless Wallet ekibiyle birlikte Kusama için [açık kaynaklı bir dApp API'sinin geliştirilmesinde](https://docs.google.com/document/d/13L8HBwB6VB-n2g274FFFJKORYPJsq744C6H8iEDQ0-0/edit) ilerleme kaydetmekten memnuniyet duyuyoruz. Bu çalışma bir Kusama Hazine hibesi ile desteklenmektedir.
 
 Bu projedeki ikinci dönüm noktasının tamamlanmasına yakın, yakında Polkadot, Kusama ve ekosisteme daha fazla geliştirici çekecek diğer parachainler için tanımlanmış ve ortak bir çekirdek veri API arayüzü olacağı anlamına geliyor. Geliştirmeyi mümkün olduğunca sezgisel ve acısız hale getirmek temel hedeflerimizden biridir!
 
@@ -80,4 +80,4 @@ Her zaman olduğu gibi, en son haber ve duyurularımızdan haberdar olmak için 
 
 James, Sam, ve the SubQuery Team
 
-</a></0>Website</0> | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)</p>
+[Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
