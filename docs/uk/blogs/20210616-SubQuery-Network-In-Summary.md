@@ -1,20 +1,20 @@
 # SubQuery Network - Підсумок
 
-> How does the SubQuery Network work? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
+> Як працює мережа SubQuery? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
 
 Today we’re going to talk about how the SubQuery Network works at a high level.
 
-## Participants
+## Користувачі
 
 
 ![](https://miro.medium.com/max/1400/1*9993cakplwupZC5tbUv3vA.png)
 
-Participants in the SubQuery Network
+Користувачі в мережі SubQuery
 
-There are three types of participants in the SubQuery Network:
+В мережі SubQuery є три типи користувачів:
 
--   **Consumers**: Consumers will make requests to the SubQuery Network for specific data and pay an advertised amount of SQT
--   **Indexers**: Indexers will host SubQuery Projects in their own infrastructure, running both the node and query service to index data and answer GraphQL requests.
+-   **Споживачі**: споживачі надсилатимуть запити до мережі SubQuery на конкретні дані та сплачуватимуть оголошену суму в розмірі SQT
+-   **Індексатори**: Індексатори будуть розміщувати проекти SubQuery у своїй власній інфраструктурі, керуючи як вузлом, так і службою запитів для індексування даних і для відповідей на запити GraphQL.
 -   **Delegators**: Delegators will participate in the network by supporting their favourite Indexers to earn rewards
 
 ## Indexers, Consumers, and Queries
