@@ -26,21 +26,15 @@ Karura juga menyediakan model distribusi token yang etis dan berkelanjutan serta
 
 ## Tools terbuka untuk para Karura Dapp Builder
 
-Sekarang terserah pada komunitas Karura untuk membangun dApp komunitas pertama di hub DeFi Kusama. Di bawah ini adalah contoh sederhana bagaimana Karura dapat menggunakan SubQuery untuk menemukan dan mengambil ekstrinsik masa lalu (dan transfer di dalamnya) untuk akun apa pun di Karura --- Anda dapat melihat bahwa ini dibuat sepenuhnya online di
-
-penjelajah SubQuery< /0>.</p> 
+Sekarang terserah pada komunitas Karura untuk membangun dApp komunitas pertama di hub DeFi Kusama. Di bawah ini adalah contoh sederhana bagaimana Karura dapat menggunakan SubQuery untuk menemukan dan mengambil ekstrinsik masa lalu (dan transfer di dalamnya) untuk akun apa pun di Karura --- Anda dapat melihat bahwa ini dibuat sepenuhnya online di [penjelajah SubQuery](https://explorer.subquery.network/subquery/AcalaNetwork/karura).
 
 ![](https://cdn-images-1.medium.com/max/1600/0*t6stH0LeQC8M5fSp)
-
-
 
 ## Tentang SubQuery
 
 [SubQuery](https://subquery.network/) adalah lapisan agregasi data yang akan beroperasi antara lapisan-1 blockchain (Karura) dan dApps. SubQuery memungkinkan pengembang dApp untuk mengeksplorasi dan mengubah data on-chain untuk membangun dApps intuitif lebih cepat, tanpa perlu khawatir tentang membangun atau mengelola backend khusus untuk pemrosesan data. [Mulai sekarang](https://doc.subquery.network/).
 
 [Website](https://subquery.network/) | [Dokumentasi](https://doc.subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
-
-
 
 ## Tentang Karura
 
