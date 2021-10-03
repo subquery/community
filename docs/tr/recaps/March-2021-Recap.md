@@ -22,7 +22,7 @@ SubQuery projelerini üretim uygulamaları gibi çalıştırıyoruz, böylece Su
 
 SubQuery büyümeye ve sunmaya hazır! Öncelikli olarak DeFi Alliance, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG) ve The Lao tarafından desteklenen [1,8 milyon ABD Doları'lık bir başlangıç ​​turunu](https://subquery.medium.com/subquery-raises-1-8m-seed-round-for-future-expansion-3348c1f2a931) ve özel satışı başarıyla gerçekleştirdik. SubQuery'nin başlangıç ​​turunu desteklemek için aldığımız yoğun talep, altyapı hizmetlerine olan güçlü ilgiyi ve Polkadot ekosisteminin geleceğine olan inancı gösteriyor.
 
-Bu yıl içinde daha sonra özel bir satış/artış planlıyoruz. Katılmakla ilgileniyorsanız lütfen buradan kaydolun: </em>[_https://forms.gle/6LMapDNSidQAqy347_](https://forms.gle/6LMapDNSidQAqy347)
+_Bu yıl içinde daha sonra özel bir satış/artış planlıyoruz. Katılmakla ilgileniyorsanız lütfen buradan kaydolun:_ [_https://forms.gle/6LMapDNSidQAqy347_](https://forms.gle/6LMapDNSidQAqy347)
 
 ## **SubQuery Explorer ilk iş ortağı kullanım örneğini memnuniyetle karşılıyor**
 
@@ -40,7 +40,7 @@ Kullanıcıların ve geliştiricilerin, Acala'nın Polkadot için DeFi merkezind
 
 Ortaklık araçlarımızı çok yakında geliştirmeyi planlıyoruz ve önümüzdeki bir veya iki hafta içinde hızlı bir şekilde diğer en iyi protokolleri eklemeyi planlıyoruz.
 
-_Başlamak ve kendi dApp'iniz için yeni bir SubQuery projesi oluşturmak ister misiniz_ - [_şimdi başlayın_](https://doc.subquery.network/quickstart.html)_. Hatta onu SubQuery Explorer'ımızda ücretsiz olarak barındıracağız
+_Başlamak ve kendi dApp'iniz için yeni bir SubQuery projesi oluşturmak ister misiniz_ - [_şimdi başlayın_](https://doc.subquery.network/quickstart.html)_. Hatta onu [_SubQuery Explorer'ımızda_](https://subquery.medium.com/announcing-the-subquery-explorer-48c051483730) ücretsiz olarak barındıracağız
 
 ## **Berkeley Blockchain Xcelerator**
 
