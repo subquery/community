@@ -8,7 +8,7 @@ Bu canlı, gerçek zamanlı verilerin büyük bir kısmı SubQuery'den, özellik
 
 ![](https://cdn-images-1.medium.com/max/1600/1*-UL84MrIB3TtZBkDPwLMmw.png)
 
-> "Günlük 60'tan fazla proje ve milyonlarca sorgu isteğinin yanı sıra Subvis'ten gelen verilerle SubQuery, DotMarketCap'i Crowdloan & Auction verilerine en hızlı ve en doğru erişimi desteklemek ve sağlamak için mükemmel bir yerdir. Bu güvenilir veri kaynağı ve DMC'nin imzası olan UI UX ile bu ortaklığın Polkadot topluluğuna harika bir deneyim ve kolay erişim getireceğine inanıyoruz." - Sang Tran (Kurucu DotMarketCap)
+> *"Günlük 60'tan fazla proje ve milyonlarca sorgu isteğinin yanı sıra Subvis'ten gelen verilerle SubQuery, DotMarketCap'i Crowdloan & Auction verilerine en hızlı ve en doğru erişimi desteklemek ve sağlamak için mükemmel bir yerdir. Bu güvenilir veri kaynağı ve DMC'nin imzası olan UI UX ile bu ortaklığın Polkadot topluluğuna harika bir deneyim ve kolay erişim getireceğine inanıyoruz."* - Sang Tran (Kurucu DotMarketCap)
 
 Kusama parachain müzayedesi bu yılki en önemli etkinlik ve Müzayede ve Kitle Kredisi takibi ile projeler arasındaki şiddetli rekabetten haberdar olabilir ve favori adaylarınızın kitle kredileri aracılığıyla parachain yuvası kazanmalarını destekleyebilirsiniz.
 
@@ -16,7 +16,7 @@ Kusama parachain müzayedesi bu yılki en önemli etkinlik ve Müzayede ve Kitle
 
 SubQuery için bu, Explorer'ımızda açık bir topluluk veri pazarı oluşturma hedefimizin gerçekleşmesidir. Bu, başka bir ekip tarafından oluşturulan ve sürdürülen bir SubQuery projesinden veri tüketen büyük bir müşterinin şimdiye kadarki en iyi örneğidir. Polkadot ekosisteminin ne kadar simbiyotik olduğunu ve ekiplerin merkezi olmayan bir geleceğin ortak bir hedefine ulaşmak için nasıl birlikte çalıştığını gösteriyor
 
-> "Kesinlikle DotMarketCap 2.0, ortaklarımızın desteği olmadan tamamlanamaz: SubQuery ve Subvis.io. Açık artırma ve kitle kredisi sayfamız için kullandığımız tüm veriler Subvis.io'dan alınmıştır. Bu işbirliği sayesinde, merkezi olmayan verilere erişim bizim için çok daha kolay. Sam Zou, James Bayly ve tüm SubQuery ekibine minnettarlığımızı ifade etmek istiyoruz." - DotMarketCap
+> *"Kesinlikle DotMarketCap 2.0, ortaklarımızın desteği olmadan tamamlanamaz: SubQuery ve [Subvis.io](http://subvis.io/). Açık artırma ve kitle kredisi sayfamız için kullandığımız tüm veriler [Subvis.io'dan](http://subvis.io/) alınmıştır. Bu işbirliği sayesinde, merkezi olmayan verilere erişim bizim için çok daha kolay. Sam Zou, James Bayly ve tüm SubQuery ekibine minnettarlığımızı ifade etmek istiyoruz."* - DotMarketCap
 
 [SubVis veri kaynağını buradan görüntüleyin](https://explorer.subquery.network/subquery/subvis-io/kusama-auction)
 
@@ -32,16 +32,12 @@ DotMarketCap, Illusionist Group tarafından finanse edilen kar amacı gütmeyen 
 
 ## **SubQuery hakkında**
 
-SubQuery, Katman-1 blok zincirleri ve merkezi olmayan uygulamalar (DApp'ler) arasında merkezi olmayan bir veri toplama, indeksleme ve sorgulama katmanıdır. Şu anda Polkadot ve Substrate projelerine odaklanan bu hizmet olarak veri, geliştiricilerin veri işleme için özel bir arka uç oluşturmaya zaman kaybetmeden temel kullanım durumlarına ve ön uçlarına odaklanmalarına olanak tanır.
+[SubQuery](https://subquery.network/), Katman-1 blok zincirleri ve merkezi olmayan uygulamalar (DApp'ler) arasında merkezi olmayan bir veri toplama, indeksleme ve sorgulama katmanıdır. Şu anda Polkadot ve Substrate projelerine odaklanan bu hizmet olarak veri, geliştiricilerin veri işleme için özel bir arka uç oluşturmaya zaman kaybetmeden temel kullanım durumlarına ve ön uçlarına odaklanmalarına olanak tanır.
 
-</a></0>
-
-Website</0> | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)</p> 
-
-
+[Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)
 
 ## **Subvis.io hakkında**
 
 Subvis.io, yatırımcıların Polkadot ekosistemini keşfetmek, analiz etmek ve öğrenmek için gittikleri Polkadot için birincil veri kaynağıdır. Yatırımcılar, önemli olayları (özellikle müzayedeler ve kitle kredileri) izlemek, daha iyi yatırım kararları için içgörüler elde etmek için zincir üzerindeki verileri analiz etmek ve Polkadot ekosisteminin nasıl çalıştığını öğrenmek için SubVis'i kullanır.
 
-[Website](https://www.subvis.io/) | [Twitter](https://twitter.com/subvisioapp)
+[Website](https://www.subvis.io/) | [Twitter](https://twitter.com/subvisioapp)
