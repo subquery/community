@@ -28,7 +28,7 @@ Darwinia'nın hakkımızda söylediklerine bir göz atın
 
 ![](https://miro.medium.com/max/1400/0*Bc8P3mcH6rz-KtT0)
 
-> "Darwinia'nın zincir üzerindeki verilerini sorgulamak için SubQuery kullanmak çok basit ve esnek hale geldi. SubQuery, blok zinciri verilerini bir grafik olarak görür ve ek işlevler sunmak için GraphQL'nin genişletilebilirliğinden yararlanır. We believe that in the future, the data interface on the substrate chain will mainly use GraphQL, SubQuery is making this a reality”. </em> — [Darwinia](https://subquery.medium.com/darwinias-network-data-is-now-available-for-free-in-subquery-b4f51c73fb15)
+> _"Darwinia'nın zincir üzerindeki verilerini sorgulamak için SubQuery kullanmak çok basit ve esnek hale geldi. SubQuery, blok zinciri verilerini bir grafik olarak görür ve ek işlevler sunmak için GraphQL'nin genişletilebilirliğinden yararlanır. We believe that in the future, the data interface on the substrate chain will mainly use GraphQL, SubQuery is making this a reality”._ — [Darwinia](https://subquery.medium.com/darwinias-network-data-is-now-available-for-free-in-subquery-b4f51c73fb15)
 
 Bir sonraki dApp'inizi bugün bizimle oluşturmaya başlayabilir, [hızlı başlangıç ​​kılavuzumuzu](https://doc.subquery.network/quickstart.html) takip edebilir veya [Discord](https://discord.com/invite/78zg8aBSMG)'daki #teknik-destek kanalımızda bizimle sohbet edebilirsiniz.
 
@@ -37,7 +37,7 @@ SubQuery'de o kadar çok potansiyel var ki, geliştirdiğimiz o kadar çok fikir
 Aşağıdaki rollerden herhangi biri için birini önerebilirseniz lütfen bize bildirin, yolculuğumuzda bize katılmak için en iyisini arıyoruz 🚀
 
 -   [Site Güvenilirlik Mühendisi](https://dash.recooty.com/openings/details/e44cf9762b402f5d8b5bc36f60304a15) (Orta Doğu, Avrupa veya Doğu ABD merkezli)
--   </a>Blockchain Geliştiricileri</0> (herhangi bir Rust bilgisine sahip)
+-   [Blockchain Geliştiricileri](https://dash.recooty.com/openings/details/9578a63fbe545bd82cc5bbe749636af1) (herhangi bir Rust bilgisine sahip)
 -   [İş Geliştirme Müdürü](https://rcty.co/3coJPrV) (ideal olarak Avrupa veya Kuzey Amerika merkezli)
 
 UbQuery, Şanghay'daki özel 2021 Web 3.0 Eğitim Kampına katılmak için 50'den fazla aday arasından seçildi. Bu eğitim kampında bazı harika projeler ve çok sayıda yetenek var, bu yüzden bunun bir parçası olmaktan heyecan duyuyoruz. Polkadot, sektörümüzdeki en heyecan verici ekosistemdir ve Çin, buradaki en hızlı büyüyen ülkedir.
