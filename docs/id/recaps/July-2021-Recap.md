@@ -5,12 +5,12 @@
 ## Komunitas, Komunitas, Komunitas!
 
 
-Welcome to another monthly update from SubQuery. As you all know, community is a key element for every successful crypto project — this month we’ve started to expand our focus in this area.
+Selamat datang di pembaruan bulanan lainnya dari SubQuery. Seperti yang Anda semua tahu, komunitas adalah elemen kunci untuk setiap proyek kripto yang sukses — bulan ini kami mulai memperluas fokus kami di area ini.
 
 Dalam pembaruan bulanan ini:
 
 -   Ambassador Program 👩💼
--   DApp API Grant Work 🏗
+-   Pekerjaan Grant API DApp 🏗
 -   Patract Platform Terbuka 🌃
 -   Podcast Relaychain Parity 🎙
 -   Peningkatan Dokumentasi 📑
@@ -18,34 +18,34 @@ Dalam pembaruan bulanan ini:
 
 ![](https://miro.medium.com/max/1400/0*pe3Z3x1lGb_RLa5x)
 
-We understand that one of our biggest strengths is our community, and so [we recently launched our ambassador program](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) for communities around the world. We were overwhelmed by the interest in our program, with almost 500 applications received in under a fortnight!
+Kami memahami bahwa salah satu kekuatan terbesar kami adalah komunitas kami, jadi [kami baru saja meluncurkan program ambassador kami](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) untuk komunitas di seluruh dunia. Kami sangat tertarik dengan program kami, dengan hampir 500 aplikasi diterima dalam waktu kurang dari dua minggu!
 
-We’re in the process of onboarding our first batch of ambassadors very shortly. We’re particularly excited here because it means that everyone in our community can expect to see better local representation and support in different communities!
+Kami sedang dalam proses penerimaan ambassador pertama kami dalam waktu dekat. Kami sangat senang di sini karena ini berarti bahwa setiap orang di komunitas kami dapat mengharapkan untuk melihat perwakilan dan dukungan lokal yang lebih baik di komunitas yang berbeda!
 
-By the end of July we’ve made good progress on the first two milestones of our [open-source dApp API treasury grant](https://kusama.polkassembly.io/treasury/95). Although on the surface it doesn’t look like much, it is actually a really important initiative for us. Firstly it represents deep strategic cooperation with one of the largest Polkadot native wallets, Fearless Wallet.
+Pada akhir Juli, kami telah membuat kemajuan yang baik pada dua pencapaian pertama dari [hibah perbendaharaan API dApp sumber open-source](https://kusama.polkassembly.io/treasury/95) kami. Meskipun di permukaan tidak terlihat banyak, sebenarnya ini adalah inisiatif yang sangat penting bagi kami. Pertama, ini merupakan kerja sama strategis yang mendalam dengan salah satu wallet asli Polkadot terbesar, Fearless Wallet.
 
-Secondly, this open-source API should be able to provide different types of applications with a sufficient (but read-only) view of all key data within the Kusama chain. E.g. a developer could use it to create their own chain explorer without needing to directly query chain data.
+Kedua, API open-source ini harus dapat menyediakan berbagai jenis aplikasi dengan tampilan yang memadai (tetapi hanya-baca) dari semua data kunci dalam chain Kusama. E.g. seorang pengembang dapat menggunakannya untuk membuat penjelajah rantai mereka sendiri tanpa perlu secara langsung menanyakan data chain.
 
-We’re building this in a way that makes it easy to extend to the growing number of parachains. It’ll also provide a much better foundation for new applications building on SubQuery, allowing us onboard new partnerships faster!
+Kami membangun ini dengan cara yang memudahkan untuk memperluas jumlah parachain yang terus bertambah. Ini juga akan memberikan dasar yang jauh lebih baik untuk membangun aplikasi baru di SubQuery, memungkinkan kami untuk bergabung dengan kemitraan baru lebih cepat!
 
 ![](https://miro.medium.com/max/1400/0*AhM68fyjjSp_2edZ)
 
 Kami telah [bergabung dengan aliansi Patract Open Platform](https://subquery.medium.com/subquery-is-joining-the-patract-open-platform-91682c748a57) untuk bersama-sama mempromosikan pengembangan infrastruktur publik, mempromosikan evolusi teknologi kontrak, dan untuk mengembangkan ekosistem pengembangan kontrak Wasm.
 
-We believe that contracts are an important part of a thriving Polkadot ecosystem, providing data indexing services for Wasm contracts has always been a major goal of SubQuery. It is exciting to see that the Open Platform has brought together a large number of great projects, and that everyone is working together to contribute to the healthy and stable advancement of Wasm contracts.
+Kami percaya bahwa kontrak adalah bagian penting dari ekosistem Polkadot yang berkembang, menyediakan layanan pengindeksan data untuk kontrak Wasm selalu menjadi tujuan utama SubQuery. Sangat menarik untuk melihat bahwa Platform Terbuka telah menyatukan sejumlah besar proyek hebat, dan bahwa setiap orang bekerja sama untuk berkontribusi pada kemajuan kontrak Wasm yang sehat dan stabil.
 
-Earlier last month I joined Jorrin Burns on Parity’s Relay Chain Podcast, we talked about our mission and how we were working with projects in our ecosystem. We also discussed how collaboration and feedback from other Polkadot projects in New Zealand (like Acala and Bitcountry) has influenced several of our value-added features, our long-term plans to become a parachain, and the road to 1 billion API requests.
+Awal bulan lalu saya bergabung dengan Jorrin Burns di Relay Chain Podcast Parity, kami berbicara tentang misi kami dan bagaimana kami bekerja dengan proyek di ekosistem kami. Kami juga membahas bagaimana kolaborasi dan umpan balik dari proyek Polkadot lainnya di Selandia Baru (seperti Acala dan Bitcountry) telah memengaruhi beberapa fitur nilai tambah kami, rencana jangka panjang kami untuk menjadi parachain, dan jalan menuju 1 miliar permintaan API.
 
 [Anda dapat mendengarkan podcast di platform favorit Anda di sini.](https://relaychain.fm/35-querying-the-worlds-data-with-subquery)
 
-> _“Documentation may not be glamorous work but it plays a vital role in communicating how something works and allows us to empower our community members to learn and unleash their creativity. That is why we believe documentation is so important”_ — Sean Au (SubQuery Academy)
+> _“Dokumentasi mungkin bukan pekerjaan yang glamor tetapi memainkan peran penting dalam mengkomunikasikan bagaimana sesuatu bekerja dan memungkinkan kami untuk memberdayakan anggota komunitas kami untuk belajar dan melepaskan kreativitas mereka. Itulah mengapa kami percaya bahwa dokumentasi sangat penting”_ — Sean Au (SubQuery Academy)
 
 ![](https://miro.medium.com/max/1200/0*tvcfXFxHc6shdmAy.gif)
 
-[Our new documentation website](https://doc.subquery.network/) has an inviting landing page designed to welcome all users, regardless of their technical understanding of blockchain or Polkadot. From the landing page users can jump straight into a getting started tutorial, or navigate off to the help they need.
+[Website dokumentasi baru kami](https://doc.subquery.network/) memiliki halaman arahan yang mengundang yang dirancang untuk menyambut semua pengguna, terlepas dari pemahaman teknis mereka tentang blockchain atau Polkadot. Dari halaman arahan, pengguna dapat langsung masuk ke tutorial memulai, atau membuka bantuan yang mereka butuhkan.
 
-Traditionally, blockchain documentation is incredibly technical and littered with jargon — you have to come from a developer background to easily understand it. We’ve taken a different path and written content for users at all levels of experience.
+Secara tradisional, dokumentasi blockchain sangat teknis dan penuh dengan jargon — Anda harus berasal dari latar belakang pengembang agar mudah memahaminya. Kami telah mengambil jalur dan konten tertulis yang berbeda untuk pengguna di semua tingkat pengalaman.
 
-Our goal is to publish a tutorial for every piece of major functionality in SubQuery. That means a step-by-step video and written guide with working examples as outcomes — you can see the beginnings of our efforts here [in the Tutorials section](https://doc.subquery.network/tutorials_examples/howto.html).
+Tujuan kami adalah memublikasikan tutorial untuk setiap fungsi utama di SubQuery. Itu berarti video langkah-demi-langkah dan panduan tertulis dengan contoh kerja sebagai hasil — Anda dapat melihat awal dari upaya kami di sini [di bagian Tutorial](https://doc.subquery.network/tutorials_examples/howto.html).
 
-We consistently receive feedback from our community that we have some of the best documentation in our industry. We promise to keep it that way!
+Kami secara konsisten menerima umpan balik dari komunitas kami bahwa kami memiliki beberapa dokumentasi terbaik di industri kami. Kami berjanji untuk tetap seperti itu!

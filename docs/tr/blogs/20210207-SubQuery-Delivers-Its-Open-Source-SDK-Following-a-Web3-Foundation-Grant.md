@@ -16,7 +16,7 @@ Bu araç paketi, projelerin kendi Alt Sorgu projelerini oluşturmasına izin ver
 
 İkinci olarak, CLI tarafından oluşturulan tanımlanmış SubQuery projesini yükleyen ve ardından ağı bir Postgres veritabanına endeksleyen bir SubQuery düğüm paketi vardır. Hasura'yı kullanarak, dizinlenmiş tablolar üzerinde GraphQL sorgularını hemen çalıştırabilirsiniz. Bu araçların ve her zaman geliştirdiğimiz topluluk destek materyallerinin yardımıyla, herkes kolayca sorgu oluşturabilir ve çalıştırabilir.
 
-**adresindeki örneğimizi takip ederek hemen başlayabilirsiniz.** [**SubQuery Github repository**](https://github.com/OnFinality-io/subql)**. Ek olarak, yazımızı okuyarak daha fazlasını öğrenebilirsiniz.** [**SubQuery docs**](https://doc.subquery.network/) **or** [**visiting our new website**](https://subquery.network/)**.**
+**adresindeki örneğimizi takip ederek hemen başlayabilirsiniz.** [**SubQuery Github repository**](https://github.com/OnFinality-io/subql)**. Ek olarak, yazımızı okuyarak daha fazlasını öğrenebilirsiniz.** [**SubQuery dökümanları**](https://doc.subquery.network/) **or** [**yeni web sitemiz**](https://subquery.network/)**.**
 
 Bu projeyi topluluk için gerçekleştirmemize yardımcı olmak üzere Web3 Vakfı tarafından sağlanan destek için inanılmaz derecede minnettarız. Web3 Vakfı, merkezi olmayan ağın teknoloji yığınını oluşturan araştırma ve geliştirme ekiplerine fon sağlar. İsviçre'nin Zug kentinde Ethereum kurucu ortağı ve eski teknoloji baş sorumlusu Dr. Gavin Wood tarafından kuruldu. Polkadot, Vakfın amiral gemisi projesidir.
 

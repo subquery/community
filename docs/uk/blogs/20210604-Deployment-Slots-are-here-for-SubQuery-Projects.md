@@ -1,6 +1,6 @@
 # Слоти розгортання призначені для проектів SubQuery
 
-> Today we’re introducing deployment slots, a whole new feature that improves the developer experience in SubQuery’s hosted service.
+> Сьогодні ми представляємо слоти розгортання, абсолютно нову функцію, яка покращує роботу розробників в хостинговому сервісі SubQuery.
 
 [SubQuery Projects](https://project.subquery.network/) is already being used as a managed and hosted service for many Projects, whether they’re chain explorers, wallets, NFT explorers, or others. It’s a service that our customers rely on.
 

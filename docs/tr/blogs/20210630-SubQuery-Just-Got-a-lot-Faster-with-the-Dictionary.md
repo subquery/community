@@ -22,6 +22,6 @@ Sözlük hakkında daha fazla bilgiyi buradaki [yardımcı belgelerimizden okuya
 
 SubQuery'nin herhangi bir Polkadot/Substrate dApp için mevcut en iyi veri indeksleme seçeneği olduğuna inanıyoruz ve SubQuery'nin Sözlüğünün bu yeni uygulaması, SubQuery Projeleriniz için indeksleme süreci hızlandırarak hizmetimizi daha da geliştirmemize olanak sağlıyor.
 
-Bunu [SubQuery Projelerinde](https://project.subquery.network/) kendiniz deneyebilir veya sözlükleri [explorer'da](https://explorer.subquery.network/) görüntüleyebilirsiniz. Mevcut projenizde Sözlük kullanabilmeniz için [@subql/cli](https://www.npmjs.com/package/@subql/cli) versiyonunuz en az 0.10.0 olmalıdır.
+Bunu [SubQuery Projelerinde](https://project.subquery.network/) kendiniz deneyebilir veya sözlükleri [explorer'da](https://explorer.subquery.network/) görüntüleyebilirsiniz. Mevcut projenizde Sözlük kullanabilmeniz için [@subql/cli](https://www.npmjs.com/package/@subql/cli) versiyonunuz en az 0.10.0 olmalıdır
 
 ![](https://miro.medium.com/max/1400/1*CrbWsx1rFiBNjkCepxbkPQ.png)
