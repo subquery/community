@@ -56,6 +56,6 @@ Nội dung bao gồm video, đồ họa thông tin, hướng dẫn, hoạt ảnh
 
 ** Dịch: ** Khách hàng của chúng tôi không chỉ nói tiếng Anh! Chúng tôi cần sự trợ giúp của bạn để làm cho SubQuery dễ tiếp cận hơn bằng cách dịch nội dung của chúng tôi sang ngôn ngữ của bạn, cũng như giúp chia sẻ từ này đến cộng đồng quốc tế của chúng tôi.
 
-** Kiểm duyệt cộng đồng: ** Người kiểm duyệt sẽ giúp phát triển cộng đồng SubQuery bằng cách đảm bảo rằng các kênh cộng đồng chính thức đang hoạt động và hấp dẫn. SubQuery will support Moderators by promoting the channels that they monitor, as well as provide guidelines for our expectations.
+** Kiểm duyệt cộng đồng: ** Người kiểm duyệt sẽ giúp phát triển cộng đồng SubQuery bằng cách đảm bảo rằng các kênh cộng đồng chính thức đang hoạt động và hấp dẫn. SubQuery sẽ hỗ trợ Người kiểm duyệt bằng cách quảng bá các kênh mà họ giám sát, cũng như cung cấp các nguyên tắc cho kỳ vọng của chúng tôi.
 
 ![](https://miro.medium.com/max/1400/1*xj6_UL1ZWYzlLmlVk25JzQ.png)
