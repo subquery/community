@@ -27,7 +27,7 @@
 
 Споживачі надсилатимуть запити до мережі SubQuery на конкретні дані та сплачуватимуть оголошену суму в розмірі SQT.
 
-## Виробнича функція Кобба-Дугласа
+## Виробнича функція Коба-Дугласа
 
 Цей платіж входить в пул доходів для проекту, і в кінці вказаного періоду (28 днів) ми беремо цей пул доходів від проекту і розподіляємо його. Він проходить крізь індексатори за допомогою так званої функції Коба-Дугласа.
 
@@ -41,21 +41,21 @@
 
 Дохід розподіляється між конкуруючими індексами в пропорції як до відповідей на запити, так і до суми ставок.
 
-In our view, the beauty of this equation is that a rational Indexer must maintain a high level of staked SQT relative to the work they do in order to receive optimal revenue. As a result, we do not need to enforce arbitrary staking requirements because Indexers are incentivised to self-manage and maintain a stake or skin in the game.
+На наш погляд, принадність цього рівняння полягає в тому, що Індексатор, за ріціональної точки зору повинен підтримувати високий рівень ставки SQT щодо виконуваної ним роботи, для отримання оптимального доходу. В результаті нам не потрібно застосовувати довільні вимоги до ставок, тому що Індексери стимулюються до самостійного управління і підтримки ставки чи скіну в грі.
 
-## Delegators
+## Делегатори
 
-So Indexers are incentivised to both do as much work as possible, and to stake as much as possible to maximise their rewards. This is where delegators come in.
+Таким чином, Індексатори зацікавлені як в тому, щоб робити якомога більше роботи, так і в тому, щоб робити ставки якомога вищими, щоб отримати максимальну винагороду. Ось де з'являються делегатори.
 
-Delegators can delegate their spare SQT to Indexers, each Indexer can publish a _query fee revenue share rate_, and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in.
+Делегати можуть делегувати свої резервні SQT індикаторам, кожен індикатор може публікувати _ставку частки доходу за запит_, і ці делегати будуть винагороджені частиною доходу від комісійних за запит, за який отримує винагороду індексатор.
 
 ![](https://miro.medium.com/max/1400/1*YoN7PV7h3a2nAFN-ODqILg.png)
 
-Delegators can delegate their spare SQT to Indexers and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in
+Делегати можуть делегувати свої резервні SQT індексаторам, і ці делегати будуть винагороджені частиною доходу від збору за запит, що отримує як винагороду індексатор
 
-The _query fee revenue share rate_ that indexers advertise is locked for each 28 day staking era, and a decrease to it must be advertised for an entire 28 day staking era before coming into force.
+_Ставка частки доходу від комісії за запит_, що оголошена індексаторами, блокується для кожного 28-денного періоду ставок, і її зниження необхідно оголошувати протягом всього 28-денного періоду, перш ніж вона набуде чинності.
 
-Similarly, delegators can remove their delegation amounts at any point, but they will only receive rewards when they have delegated for the entire staking era.
+Аналогічним чином, делегати можуть в будь-який момент видалити свої суми делегування, але вони отримують винагороду тільки в тому випадку, якщо делегували повноваження на весь період розміщення ставок.
 
 ![](https://miro.medium.com/max/1400/0*we0k4A07pbj86COZ)
 
