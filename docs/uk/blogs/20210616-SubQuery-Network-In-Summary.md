@@ -59,16 +59,16 @@ _Ставка частки доходу від комісії за запит_, 
 
 ![](https://miro.medium.com/max/1400/0*we0k4A07pbj86COZ)
 
-Delegators will only receive rewards when they have delegated for the entire staking era
+Делегати отримають винагороду тільки в тому випадку, якщо делегували повноваження на весь період ставок
 
-## Purchase Orders
+## Замовлення
 
-Indexing a project takes time and money, there’s a lot of data on the chain. In order to encourage Indexers to index and support an entirely new SubQuery Project, we plan to implement a market mechanism for Consumers to signal guaranteed revenue to Indexers of new SubQuery Projects.
+Індексація проекту вимагає часу і грошей, тому що в ланцюзі велика кількість даних. Щоб заохотити Індексаторів індексувати і підтримувати абсолютно новий SubQuery проект, ми плануємо впровадити ринковий механізм, що буде повідомляти про гарантований дохід Індексаторам нових проектів SubQuery.
 
-We’re calling them purchase orders, and Consumers can advertise a contract on chain for a set price and number of requests. Indexers can view this and choose to fill the contracts.
+Ми називаємо їх замовленнями на покупку, і споживачі можуть рекламувати контракт у ланцюзі за встановленою ціною і кількістю запитів. Індексатори можуть це переглянути та обрати, щоб заповнити контракти.
 
 ![](https://miro.medium.com/max/1400/1*IPtaZlt24E7h9bKNZWdSCw.png)
 
-Consumers can advertise a purchase order on chain for a set price and number of requests.
+Споживачі можуть рекламувати замовлення на покупку в ланцюжку за встановленою ціною і кількістю запитів.
 
-Purchase orders can also be placed on existing SubQuery Projects to attract additional Indexers to improve competition and decrease prices
+Замовлення на покупку також можуть бути розміщені в існуючих проектах SubQuery для залучення додаткових індексаторів для підвищення конкуренції та зниження цін
