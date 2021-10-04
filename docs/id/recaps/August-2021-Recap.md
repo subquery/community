@@ -2,7 +2,7 @@
 
 **Memperluas Jangkauan Kami**
 
-Welcome to the latest monthly update from SubQuery. Following on from last month, August has seen rapid expansion in the growth of our Community around the world! We have also been busy working on decentralising our platform as we prepare for a TGE in the coming months.
+Selamat datang di pembaruan bulanan terbaru dari SubQuery. Melanjutkan dari bulan lalu, Agustus telah melihat ekspansi pesat dalam pertumbuhan Komunitas kami di seluruh dunia! Kami juga sibuk bekerja untuk mendesentralisasikan platform kami saat kami mempersiapkan TGE dalam beberapa bulan mendatang.
 
 Dalam pembaruan bulanan ini:
 
@@ -18,21 +18,21 @@ Dalam pembaruan bulanan ini:
 
 ![](https://miro.medium.com/max/1400/0*_nOcsPjhQxta_FPH)
 
-After [launching our Ambassador program](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) last month, we have been amazed by the excitement in the community and quality of the participants. To date, we have received just under 2,000 applications almost every continent (we're calling out for applications from Antarctica ☃️) and onboarded over 30 people thus far.
+Setelah [meluncurkan program Ambassador kami](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) bulan lalu, kami kagum dengan antusiasme komunitas dan kualitas para peserta. Hingga saat ini, kami telah menerima kurang dari 2.000 aplikasi hampir di setiap benua (kami meminta aplikasi dari Antartika ☃️ ️) dan sejauh ini telah menerima lebih dari 30 orang.
 
-Tre has been doing an excellent job leading this initiative and [engaging with the community on Discord](https://discord.com/invite/78zg8aBSMG). As we are already seeing the benefits of having a closer relationship with the supporters of SubQuery, we will be expanding the team in the next few weeks so please be patient if you haven't heard from us yet!
+Tre telah melakukan pekerjaan yang sangat baik dalam memimpin inisiatif ini dan [terlibat dengan komunitas di Discord](https://discord.com/invite/78zg8aBSMG). Karena kami telah melihat manfaat dari memiliki hubungan yang lebih dekat dengan pendukung SubQuery, kami akan memperluas tim dalam beberapa minggu ke depan, jadi harap bersabar jika Anda belum mendengar kabar dari kami!
 
 ## Pertumbuhan Komunitas yang Besar🚀
 
-The growth in our community has been accelerating this month with our Discord blasting nearing 2,000 vibrant and supportive members. We have also grown our Twitter audience to over 6,000 followers.
+Pertumbuhan di komunitas kami semakin cepat bulan ini dengan ledakan Discord kami mendekati 2.000 anggota yang bersemangat dan mendukung. Kami juga telah mengembangkan pemirsa Twitter kami menjadi lebih dari 6.000 pengikut.
 
-We are particularly pleased about this growth as our project has focused on building a smaller but high quality developer community firstly. As we approach our TGE, these numbers should explode as we shift focus to the retail and investor audience.
+Kami sangat senang dengan pertumbuhan ini karena proyek kami berfokus untuk membangun komunitas pengembang yang lebih kecil namun berkualitas tinggi terlebih dahulu. Saat kami mendekati TGE kami, angka-angka ini akan meledak saat kami mengalihkan fokus ke audiens ritel dan investor.
 
-To help us accelerate this growth, and ensure that our community is engaged and active in the ecosystem, Rob has joined our team as our new Head of Marketing. Additionally, we also welcome Tre as our strategic business development manager in the US and Europe.
+Untuk membantu kami mempercepat pertumbuhan ini, dan memastikan bahwa komunitas kami terlibat dan aktif dalam ekosistem, Rob telah bergabung dengan tim kami sebagai Kepala Pemasaran kami yang baru. Selain itu, kami juga menyambut Tre sebagai manajer pengembangan bisnis strategis kami di AS dan Eropa.
 
 ## Memulai pekerjaan di SubQuery Network 🏗
 
-Yes! The work on [moving SubQuery towards a decentralised and tokenised network](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010); the SubQuery Network, has begun! This migration will ensure that there is no single point of failure for SubQuery and to encourage participants via the SQT token. In order to help us with this significant change, we have recruited new developers to join us this month.
+Ya! Pekerjaan [memindahkan SubQuery ke jaringan yang terdesentralisasi dan tokenisasi](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010); Jaringan SubQuery, telah dimulai! Migrasi ini akan memastikan bahwa tidak ada titik kegagalan tunggal untuk SubQuery dan untuk mendorong peserta melalui token SQT. Untuk membantu kami dengan perubahan signifikan ini, kami telah merekrut pengembang baru untuk bergabung dengan kami bulan ini.
 
 ## Proyek Baru di SubQuery 🤝
 
@@ -44,7 +44,7 @@ Untuk Karura, [SubQuery digunakan untuk mengekstrak dan membuat kueri data dari
 
 Layanan SubQuery memainkan peran penting dalam [Subscan](https://www.subscan.io/) dengan [menyediakan data transaksi yang cepat](https://subquery.medium.com/subscans-multi-signature-tool-powered-by-subquery-926da3e4fc25?source=your_stories_page-------------------------------------) untuk setiap multi signature address tertentu, sehingga meningkatkan UX dan memungkinkan fitur yang lebih canggih.
 
-[SORA](https://sora.org/) has built a [SubQuery Project that retrieves data from the SORA network](https://subquery.medium.com/sora-integrates-subquery-to-provide-data-to-the-sora-network-5a73f77a40aa?source=your_stories_page-------------------------------------) to power mobile applications built on SORA and [Polkaswap.io](http://polkaswap.io/). You can read more here
+[SORA](https://sora.org/) telah membangun [Proyek SubQuery yang mengambil data dari jaringan SORA](https://subquery.medium.com/sora-integrates-subquery-to-provide-data-to-the-sora-network-5a73f77a40aa?source=your_stories_page-------------------------------------) untuk mendukung aplikasi seluler yang dibangun di SORA dan [Polkaswap.io](http://polkaswap.io/). Kamu bisa membaca selengkapnya disini
 
 Dalam kedua kasus tersebut, kami berterima kasih atas feedback yang luar biasa seperti ini dari mitra kami:
 
@@ -56,7 +56,7 @@ Dalam kedua kasus tersebut, kami berterima kasih atas feedback yang luar biasa s
 
 ## AMA dengan DotMarketCap 🎙
 
-We were delighted to be hosted by DotMarketCap on August 5th for an AMA with Sam and James. The questions from the audience ranged from areas such as DeFi and NFTs through to a lot of questions about our plans for growth and our future. We shared insights on why we began our project in Polkadot and if our token will be launched as an ERC-20 or not.
+Kami senang dijamu oleh DotMarketCap pada tanggal 5 Agustus untuk AMA dengan Sam dan James. Pertanyaan dari audiens berkisar dari area seperti DeFi dan NFT hingga banyak pertanyaan tentang rencana kami untuk pertumbuhan dan masa depan kami. Kami berbagi wawasan tentang mengapa kami memulai proyek kami di Polkadot dan apakah token kami akan diluncurkan sebagai ERC-20 atau tidak.
 
 [Anda dapat membaca interviewnya di sini](https://dotmarketcap.com/blog-detail/288/ama30-recap-polkawarriors-x-subquery).
 
@@ -64,15 +64,15 @@ We were delighted to be hosted by DotMarketCap on August 5th for an AMA with Sam
 
 ![](https://miro.medium.com/max/1400/0*A5oqsryFRbGX0MDx)
 
-Siqi, who leads our business development in China, has had a busy month with a number of [online panel discussions alongside Moonbeam](https://twitter.com/SubQueryNetwork/status/1425293137103122432/photo/1), Acala, Astar and Phala. In addition she has participated in AMA's organised by Polkadot on August 11th and an AMA hosted by [ODaily](http://www.odaily.com/) and Acala on August 13th.
+Siqi, yang memimpin pengembangan bisnis kami di China, menjalani bulan yang sibuk dengan sejumlah [diskusi panel online bersama Moonbeam](https://twitter.com/SubQueryNetwork/status/1425293137103122432/photo/1), Acala, Astar, dan Phala. Selain itu ia telah berpartisipasi dalam AMA yang diselenggarakan oleh Polkadot pada 11 Agustus dan AMA yang diselenggarakan oleh [ODaily](http://www.odaily.com/) dan Acala pada 13 Agustus.
 
-We are looking forward to growing our Chinese community significantly in the coming months through activities such as hackathons. As such, [we will be running a workshop with Encode Club](https://www.eventbrite.co.uk/e/polkadot-hackathon-subquery-workshop-tickets-167321106935?aff=ebdsoporgprofile) and running a hackathon with OneBlock+ to help introduce SubQuery to new audiences.
+Kami berharap dapat mengembangkan komunitas Tionghoa kami secara signifikan dalam beberapa bulan mendatang melalui kegiatan seperti hackathon. Oleh karena itu, [kami akan menjalankan lokakarya dengan Encode Club](https://www.eventbrite.co.uk/e/polkadot-hackathon-subquery-workshop-tickets-167321106935?aff=ebdsoporgprofile) dan menjalankan hackathon dengan OneBlock+ untuk membantu memperkenalkan SubQuery kepada audiens baru.
 
 ## Menyampaikan Milestone ke-2 dari Polkadot Common API ✅
 
-We are pleased to make progress in the [development of an open-source dApp API ](https://docs.google.com/document/d/13L8HBwB6VB-n2g274FFFJKORYPJsq744C6H8iEDQ0-0/edit)for Kusama in conjunction with the team at [Fearless Wallet](https://fearlesswallet.io/). This work is being supported by a Kusama Treasury grant.
+Kami senang membuat kemajuan dalam [pengembangan dApp API open-source ](https://docs.google.com/document/d/13L8HBwB6VB-n2g274FFFJKORYPJsq744C6H8iEDQ0-0/edit)untuk Kusama bersama dengan tim di [Fearless Wallet](https://fearlesswallet.io/). Pekerjaan ini didukung oleh hibah Perbendaharaan Kusama.
 
-Nearing completion of the second milestone in this project means that there will soon be a defined and common core data API interface for Polkadot, Kusama, and other parachains which will attract more developers to the ecosystem. Making development intuitive and as painless as possible is one of our key objectives!
+Mendekati penyelesaian tonggak kedua dalam proyek ini berarti bahwa akan segera ada antarmuka API data inti yang ditetapkan dan umum untuk Polkadot, Kusama, dan parachains lainnya yang akan menarik lebih banyak pengembang ke ekosistem. Membuat pengembangan menjadi intuitif dan semudah mungkin adalah salah satu tujuan utama kami!
 
 *****
 
