@@ -1,41 +1,41 @@
-# SubQuery Network - Our Goals and Competitive Advantages
+# SubQuery 네트워크 - 우리의 목표와 경쟁 우위
 
-Today we’re going to explore the goals that we have with SubQuery and some of the competitive advantages that we think make the SubQuery Network better than our competitors.
+오늘 우리는 SubQuery의 목표와 SubQuery 네트워크를 경쟁사보다 더 낫게 만드는 몇 가지 경쟁 우위를 탐색할 것입니다.
 
-SubQuery’s currently provided indexing and transformation data in a centralised way. Although this has allowed us to power some of the top Polkadot projects; DeFi apps like Acala and Bifrost, wallets like Fearless Wallet, NFT platforms like [KodaDot](https://kodadot.xyz/), cross-chain bridges like [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia), and analytics platforms like [SubVis](https://subvis.io/) — it has it’s downside.
+SubQuery는 현재 중앙 집중식으로 인덱싱 및 변환 데이터를 제공합니다. 이를 통해 일부 최고의 Polkadot 프로젝트에 전원을 공급할 수 있었습니다. Acala 및 Bifrost와 같은 DeFi 앱, Fearless Wallet과 같은 지갑, [KodaDot](https://kodadot.xyz/)과 같은 NFT 플랫폼, [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia)와 같은 크로스체인 브리지, [SubVis](https://subvis.io/)와 같은 분석 플랫폼에는 단점이 있습니다.
 
-It requires our users to trust the service we provide, and carries risks associated with a centralised service, like potential server failures or outages that can cripple your applications. This is a major reason why we are moving to a decentralised future.
+이를 위해서는 사용자가 당사가 제공하는 서비스를 신뢰해야 하며, 애플리케이션을 손상시킬 수 있는 잠재적인 서버 장애 또는 중단과 같은 중앙 집중식 서비스와 관련된 위험을 감수해야 합니다. 이것이 우리가 탈중앙화된 미래로 나아가는 주요 이유입니다.
 
 ![](https://miro.medium.com/max/868/1*CPksnN9_jyMGQ0sSbiJvDQ.png)
 
-Our Competitive Advantages
+우리의 경쟁 우위
 
-We understand that The SubQuery Network is competing against many players in the decentralised data industry, SubQuery looks to provide unique benefits through a multitude of competitive advantages. Our guiding principles, and what we expect to be the main advantages, are the simplicity and flexibility of our network.
+우리는 SubQuery 네트워크가 분산 데이터 산업의 많은 플레이어와 경쟁하고 있다는 것을 이해하고 있으며, SubQuery는 다양한 경쟁 우위를 통해 고유한 이점을 제공하고자 합니다. 우리의 기본 원칙과 우리가 기대하는 주요 이점은 네트워크의 단순성과 유연성입니다.
 
-## Flexibility
+## 유연성
 
-Our first advantage is our flexibility. SubQuery is open source, so anyone has the freedom to define the data set that is specific to their needs, tailored to their applications. Rather than having to combine queries from different API endpoints — you can define the shape of your APIs yourself. It saves time, money, and provides a vastly better experience for your users.
+우리의 첫 번째 장점은 유연성입니다. SubQuery는 오픈 소스이므로 누구나 자신의 요구 사항에 맞는 데이터 세트를 자유롭게 정의할 수 있습니다. 서로 다른 API 엔드포인트의 쿼리를 결합하는 대신 API의 모양을 직접 정의할 수 있습니다. 시간과 비용을 절약하고 사용자에게 훨씬 더 나은 경험을 제공합니다.
 
-## Simplicity
+## 단순화
 
-You do not need to be an expert to take advantage of what SubQuery offers. There is literally 3 files that need to be changed to make a working SubQuery project. Our focus will be on making SubQuery easier to use and build with than our competitors — SubQuery’s success depends on the success of our community building the future with it.
+SubQuery가 제공하는 것을 활용하기 위해 전문가가 될 필요는 없습니다. 작동하는 SubQuery 프로젝트를 만들기 위해 변경해야 하는 파일은 말 그대로 3개입니다. 우리는 경쟁사보다 SubQuery를 사용하고 구축하기 쉽게 만드는 데 중점을 둘 것입니다. SubQuery의 성공은 이를 통해 미래를 구축하는 커뮤니티의 성공에 달려 있습니다.
 
-## Indexer/Delegator Imbalance
+## 인덱서/위임자 불균형
 
-Among our competitors, we believe the ability for Indexers to change delegation reward rates without warning is unfair. We try to fix this by requiring Indexers to advertise a decrease to the Query Fee Revenue Share Rate for an entire staking era (28 day period).
+경쟁사 중에서 인덱서가 경고 없이 위임 보상 비율을 변경하는 기능은 불공정하다고 생각합니다. 인덱서가 전체 스테이킹 기간(28일 기간) 동안 쿼리 수수료 수익 공유 비율 감소를 광고하도록 요구하여 이 문제를 해결하려고 합니다.
 
-## Purchase Orders Instead of Curators
+## 큐레이터를 대신한 Purchase Orders
 
-In marketplaces like SubQuery, where there are both buyers and sellers of data, signalling demand for future supply is difficult. Other competitors use “curators” to achieve this, participants who predict future demand and are rewarded when that future demand eventuates.
+데이터의 구매자와 판매자가 모두 있는 SubQuery와 같은 시장에서는 미래 공급에 대한 수요 신호를 보내기가 어렵습니다. 다른 경쟁자는 이를 달성하기 위해 "큐레이터"를 사용합니다. 참가자는 미래 수요를 예측하고 해당 미래 수요가 발생할 때 보상을 받습니다.
 
-SubQuery has taken a different approach in where we look to Consumers to create an upfront commitment, a purchase order. This can be used both to attract Indexers to new SubQuery Projects, or to attract additional Indexers to existing and uncompetitive SubQuery Projects.
+SubQuery는 사전 약정인 구매 주문을 생성하기 위해 소비자를 찾는 다른 접근 방식을 취했습니다. 이것은 새로운 SubQuery 프로젝트에 인덱서를 유인하거나 기존 및 경쟁이 없는 SubQuery 프로젝트에 추가 인덱서를 유인하는 데 모두 사용할 수 있습니다.
 
-## Incentives for Query Performance:
+## 쿼리 성능에 대한 인센티브:
 
-Our Indexer discovery and routing process will include performance data (latency and uptime) for all Indexers, and we will take steps to ensure that Consumers report on this data when unlocking micropayments to Indexers.
+당사의 인덱서 검색 및 라우팅 프로세스에는 모든 인덱서에 대한 성능 데이터(대기 시간 및 가동 시간)가 포함되며, 소비자가 인덱서에 대한 소액 결제를 해제할 때 이 데이터에 대해 보고하도록 조치를 취할 것입니다.
 
-This will ideally encourage Indexers in the SubQuery Network to provide infrastructure with high uptime and low latency, the best performance possible.
+이렇게 하면 SubQuery 네트워크의 인덱서가 높은 가동 시간과 짧은 대기 시간, 가능한 최고의 성능을 제공하는 인프라를 제공하는 것이 이상적입니다.
 
-## Focus on Substrate/Polkadot:
+## Substrate/Polkadot에 초점:
 
-SubQuery committed to focus on Polkadot and Substate from the day we started. This allowed our service and tools to be built from the outset to work with Substrate. On top of this, Polkadots unique architecture makes it easier for SubQuery to support multiple current and future blockchains automatically.
+SubQuery는 우리가 시작한 날부터 Polkadot과 Substate에 집중했습니다. 이를 통해 처음부터 Substrate와 함께 작동하도록 서비스와 도구를 구축할 수 있었습니다. 또한, Polkadots 고유 아키텍처는 SubQuery가 여러 현재 및 미래 블록체인을 자동으로 지원하는 것을 더 쉽게 만듭니다.
