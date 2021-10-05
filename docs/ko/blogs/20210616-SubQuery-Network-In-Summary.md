@@ -1,25 +1,25 @@
-# SubQuery Network - Summary
+# SubQuery 네트워크 - 요약
 
-> How does the SubQuery Network work? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
+> SubQuery 네트워크는 어떻게 작동이 되나요? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
 
-Today we’re going to talk about how the SubQuery Network works at a high level.
+오늘 우리는 SubQuery 네트워크가 높은 수준에서 어떻게 작동하는지에 대해 이야기할 것입니다.
 
-## Participants
+## 참가자들
 
 
 ![](https://miro.medium.com/max/1400/1*9993cakplwupZC5tbUv3vA.png)
 
-Participants in the SubQuery Network
+SubQuery 네트워크 참가자들
 
-There are three types of participants in the SubQuery Network:
+SubQuery 네트워크에는 세 가지 유형의 참가자가 있습니다.
 
--   **Consumers**: Consumers will make requests to the SubQuery Network for specific data and pay an advertised amount of SQT
--   **Indexers**: Indexers will host SubQuery Projects in their own infrastructure, running both the node and query service to index data and answer GraphQL requests.
--   **Delegators**: Delegators will participate in the network by supporting their favourite Indexers to earn rewards
+-   **소비자**: 소비자는 특정 데이터에 대해 SubQuery 네트워크에 요청하고 광고한만큼의 SQT를 지불합니다.
+-   **인덱서**: 인덱서는 데이터를 인덱싱하고 GraphQL 요청에 응답하기 위해 노드와 쿼리 서비스를 모두 실행하여 자체 인프라에서 SubQuery 프로젝트를 호스팅합니다.
+-   **위임자**: 위임자는 자신이 좋아하는 인덱서를 지원하여 네트워크에 참여하여 보상을 받습니다.
 
-## Indexers, Consumers, and Queries
+## 인덱서, 소비자 및 쿼리
 
-Let’s start with Indexers, Indexers do a lot of the hard work behind the scenes. The manage hardware, run infrastructure, monitor resources, and choose the right SubQuery projects to index
+인덱서부터 시작하겠습니다. 인덱서는 뒤에서 많은 일을 합니다. 하드웨어 관리, 인프라 실행, 리소스 모니터링, 인덱싱할 올바른 SubQuery 프로젝트 선택
 
 This takes time and money, but once they have this, Consumers may come and make requests. Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
 
