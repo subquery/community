@@ -1,28 +1,39 @@
-# SubQuery Blogları Topluluk İçerikleri
+# SubQuery Blogs & Community Content
 
 SubQuery, dünyanın verilerini web3.0 geleceği için dönüştürmenize ve sorgulamanıza yardımcı olmak için burada.
 
-Bu, SubQuery'deki tüm topluluk bloglarının, duyuruların, makalelerin ve videoların küresel deposudur.
+This is the global repository of all community blogs, announcements, articles, and videos from SubQuery.
 
-**Kendi dilinizde okuyun! Tüm sayfaların sağ üst köşesindeki seçiciyi kullanarak dilinizi değiştirebilirsiniz.**
+**Read in your own language! You can change your language using the selector on the top right of all pages.**
 
-## Çeviri için yardıma ihtiyacımız var!
+## We need help translating!
 
-En güçlü yönlerimizden birinin topluluğumuz olduğunu anlıyoruz ve sizlerin yardımıyla, kaynaklarımızı dünyanın her yerindeki topluluklar için tercüme etmeye yardımcı olacak yerel ambassadorlar oluşturmak ve büyütmek istiyoruz.
+We understand that one of our biggest strengths is our community, and with your help, we want to grow and establish local ambassadors to help translate our material for communities around the world.
 
-[Ambassador Programımıza Katılın](https://doc.subquery.network/miscellaneous/ambassadors.html)
+[Join our Ambassador Program](https://doc.subquery.network/miscellaneous/ambassadors.html)
 
-## Sosyal Medya Bağlantıları
+## Social Media Links
 
-SubQuery, birçok sosyal medya kanalı üzerinden takipçilerini koruyan ve iletişim kuran aktif bir projedir.
+SubQuery is an active project that maintains and communicates with our followers through many social media channels.
 
-Amacımız her zaman sadık topluluğumuzu dinlemek ve onlarla etkileşim kurmaktır, bu yüzden lütfen sohbete katılın ve bize fikirlerinizi veya sorularınızı gönderin!
+It is our aim to always listen and engage with our loyal community so please join the conversation and send us your ideas or questions!
 
-- [Discord](https://discord.com/invite/78zg8aBSMG) (Özel teknik destek kanallarına sahip Birincil Topluluk)
-- [Medium](https://subquery.medium.com) (Birincil duyurular kanalı)
+- [Discord](https://discord.com/invite/78zg8aBSMG) (Primary Community with dedicated technical support channels)
+- [Medium](https://subquery.medium.com) (Primary announcements channel)
 - [Twitter](https://twitter.com/subquerynetwork)
 - [WeChat]()
-- [Telegram](https://t.me/subquerynetwork) (Yalnızca Duyurular kanalı)
+- [Telegram](https://t.me/subquerynetwork) (Announcements channel only)
 - [GitHub](https://github.com/SubQuery/subql)
 - [Matrix/Riot](https://matrix.to/#/#subquery:matrix.org)
 - [LinkedIn](https://www.linkedin.com/company/subquery)
+
+### Unofficial Social Media Channels
+
+These channels are not monitored by the SubQuery team and are run by our community:
+
+- [Telegram (Chinese)](https://t.me/subquerychina)
+- [Telegram (Russian)](https://t.me/SubQuery_russia)
+- [Telegram (Spanish)](https://t.me/SubQueryES)
+- [Telegram (Thai)](https://t.me/subquerynetworkthai)
+- [Telegram (Turkish)](https://t.me/subquery_TR)
+- [Telegram (Vietnamese)](https://t.me/subqueryvietnam)
