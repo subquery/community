@@ -8,7 +8,7 @@ Semua orang tahu bahwa kelemahan inti dari data blockchain adalah pemrosesan dan
 
 ![](https://miro.medium.com/max/700/1*0l37MKpDk2ahHsqDUBxbjw.png)
 
-Membuat proyek SubQuery adalah, dan akan selalu, gratis. Pengembang harusnya menghabiskan waktu untuk membangun, bukan menjalankan infrastruktur. Namun kami percaya bahwa masa depan terdesentralisasi yang sehat membutuhkan beberapa penyedia layanan data terdistribusi yang bekerja sama untuk meningkatkan ketahanan, kecepatan, dan kinerja jaringan.
+Membuat proyek SubQuery adalah, dan akan selalu, gratis. Developer harusnya menggunakan waktu untuk membangun, bukan menjalankan infrastruktur. Namun kami percaya bahwa masa depan terdesentralisasi yang sehat membutuhkan beberapa penyedia layanan data terdistribusi yang bekerja sama untuk meningkatkan ketahanan, kecepatan, dan kinerja jaringan.
 
 # Memperkenalkan SubQuery Network:
 
@@ -16,7 +16,7 @@ SubQuery Network adalah upaya kami untuk bergerak menuju jaringan terdesentralis
 
 [Kami merilis white paper kami hari ini untuk dibaca oleh dunia](https://static.subquery.network/whitepaper.pdf).
 
-Prinsip panduan SubQuery Network adalah kesederhanaan dan fleksibilitas. Kami mencoba untuk memudahkan peserta untuk terlibat dalam jaringan, tetapi juga memberikan kontrol kepada pengembang untuk mengadaptasi SubQuery agar sesuai dengan kebutuhan mereka untuk setiap chain berbasis Substrate.
+Prinsip panduan SubQuery Network adalah kesederhanaan dan fleksibilitas. Kami mencoba untuk memudahkan peserta untuk terlibat dalam jaringan, tetapi juga memberikan kontrol kepada developer untuk mengadaptasi SubQuery agar sesuai dengan kebutuhan mereka untuk setiap chain berbasis Substrate.
 
 ![](https://miro.medium.com/max/700/1*5E_eIJBTvHI7W24ib_Syvw.png)
 
