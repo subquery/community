@@ -4,7 +4,7 @@ SubQuery ở đây để giúp bạn chuyển đổi và truy vấn dữ liệu 
 
 Đây là kho lưu trữ toàn cầu của tất cả các blog cộng đồng, thông báo, bài viết và video từ SubQuery.
 
-**Đọc bằng ngôn ngữ của riêng bạn! Bạn có thể thay đổi ngôn ngữ của mình bằng cách sử dụng bộ chọn ở trên cùng bên phải của tất cả các trang.**
+**Đọc bằng ngôn ngữ của bạn! Bạn có thể thay đổi ngôn ngữ của mình bằng cách sử dụng bộ chọn ở trên cùng bên phải của tất cả các trang.**
 
 ## Chúng tôi cần giúp đỡ trong việc dịch thuật!
 
@@ -22,7 +22,7 @@ Mục đích của chúng tôi là luôn lắng nghe và tương tác với cộ
 
 - [Linktree](https://linktr.ee/subquerynetwork)
 - [Discord](https://discord.com/invite/subquery) (Primary Community with dedicated technical support channels)
-- [Medium](https://subquery.medium.com) (Primary announcements channel)
+- [ Medium](https://subquery.medium.com) (Kênh thông báo chính)
 - [Twitter](https://twitter.com/subquerynetwork)
 - [Telegram](https://t.me/subquerynetwork) (Chỉ kênh thông báo)
 - [GitHub](https://github.com/SubQuery/subql)
