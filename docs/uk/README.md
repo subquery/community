@@ -4,7 +4,7 @@ SubQuery тут, щоб допомогти вам трансформувати �
 
 Це глобальне сховище всіх блогів спільнот, оголошень, статей та відео з SubQuery.
 
-**Читайте рідною мовою! Ви можете змінити мову використовуючи вибір у правому верхньому куті на всіх сторінках.**
+**Читайте рідною мовою! Ви можете змінити мову за допомогою селектора у верхньому правому куті всіх сторінок.**
 
 ## Нам потрібна допомога з перекладом!
 
@@ -26,3 +26,14 @@ SubQuery - це активний проект, який підтримує та 
 - [GitHub](https://github.com/SubQuery/subql)
 - [Matrix/Riot](https://matrix.to/#/#subquery:matrix.org)
 - [LinkedIn](https://www.linkedin.com/company/subquery)
+
+### Unofficial Social Media Channels
+
+These channels are not monitored by the SubQuery team and are run by our community:
+
+- [Telegram (Chinese)](https://t.me/subquerychina)
+- [Telegram (Russian)](https://t.me/SubQuery_russia)
+- [Telegram (Spanish)](https://t.me/SubQueryES)
+- [Telegram (Thai)](https://t.me/subquerynetworkthai)
+- [Telegram (Turkish)](https://t.me/subquery_TR)
+- [Telegram (Vietnamese)](https://t.me/subqueryvietnam)
