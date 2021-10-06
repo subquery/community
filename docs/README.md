@@ -31,9 +31,9 @@ It is our aim to always listen and engage with our loyal community so please joi
 
 These channels are not monitored by the SubQuery team and are run by our community:
 
-- [Telegram (China)](https://t.me/subquerychina)
-- [Telegram (Russia)](https://t.me/SubQuery_russia)
+- [Telegram (Chinese)](https://t.me/subquerychina)
+- [Telegram (Russian)](https://t.me/SubQuery_russia)
 - [Telegram (Spanish)](https://t.me/SubQueryES)
 - [Telegram (Thai)](https://t.me/subquerynetworkthai)
 - [Telegram (Turkish)](https://t.me/subquery_TR)
-- [Telegram (Vietnam)](https://t.me/subqueryvietnam)
+- [Telegram (Vietnamese)](https://t.me/subqueryvietnam)
