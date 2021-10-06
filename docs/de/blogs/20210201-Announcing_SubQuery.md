@@ -1,6 +1,6 @@
 # Ankündigung von SubQuery
 
-## Transform und Abfrage der aktuellen Daten für die Web 3.0 Zukunft
+## Transform und Abfrage der weltweiten Daten für die Zukunft web3.0
 
 ![](https://miro.medium.com/max/1400/1*J5u22qNxndcuCrFJ1mfGqg.png)
 
@@ -46,17 +46,17 @@ SubQuery wird vom Team von OnFinality entwickelt, einer Infrastruktur-SaaS-Platt
 
 **Sam Zou —** CEO ([LinkedIn](https://www.linkedin.com/in/sam-zou-5b8169a/))
 
-Unternehmer, Investoren, die mehr als 20 Jahren IT-Erfahrung haben, spezialisieren auf Infrastruktur- und Cloud-Service-Design
+Unternehmer, Investoren mit mehr als 20 Jahren IT-Erfahrung, spezialisiert auf Infrastruktur- und Cloud-Service-Design
 
-**Ian He –** Protokollleiter ([LinkedIn](https://www.linkedin.com/in/yin-he-7a266345/))
+**Ian He —** Head of Protocol ([LinkedIn](https://www.linkedin.com/in/yin-he-7a266345/))
 
-Blockchain Architect, Mitwirkender bei polkadot-js, Early Adopter der Substrate-Technologie und erwarb den zweiten Platz beim ersten Polkadot-Hackathon.
+Blockchain Architect, Mitwirkender bei polkadot-js, Early Adopter der Substrate-Technologie und gewann den zweiten Platz beim ersten Polkadot-Hackathon.
 
 **James Xu —** Lösungsarchitekt ([LinkedIn](https://www.linkedin.com/in/zhexu/))
 
 Infrastruktur & Application Architect, preisgekrönter Software-Engineer.
 
-**James Bayly** – Leiter der Geschäftsentwicklung ([LinkedIn](https://www.linkedin.com/in/james-bayly/))
+**James Bayly** — Head of Business Development ([LinkedIn](https://www.linkedin.com/in/james-bayly/))
 
 Beginnen Sie mit dem [SubQuery Github-Repository.](https://github.com/OnFinality-io/subql)
 
