@@ -26,3 +26,14 @@ Es ist unser Ziel, unserer treuen Community immer zuzuhören und mit ihr in Kont
 - [GitHub](https://github.com/SubQuery/subql)
 - [Matrix/Riot](https://matrix.to/#/#subquery:matrix.org)
 - [LinkedIn](https://www.linkedin.com/company/subquery)
+
+### Unofficial Social Media Channels
+
+These channels are not monitored by the SubQuery team and are run by our community:
+
+- [Telegram (Chinese)](https://t.me/subquerychina)
+- [Telegram (Russian)](https://t.me/SubQuery_russia)
+- [Telegram (Spanish)](https://t.me/SubQueryES)
+- [Telegram (Thai)](https://t.me/subquerynetworkthai)
+- [Telegram (Turkish)](https://t.me/subquery_TR)
+- [Telegram (Vietnamese)](https://t.me/subqueryvietnam)
