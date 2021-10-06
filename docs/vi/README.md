@@ -4,7 +4,7 @@ SubQuery ở đây để giúp bạn chuyển đổi và truy vấn dữ liệu 
 
 Đây là kho lưu trữ toàn cầu của tất cả các blog cộng đồng, thông báo, bài viết và video từ SubQuery.
 
-**Đọc bằng ngôn ngữ của riêng bạn! Bạn có thể thay đổi ngôn ngữ của mình bằng cách sử dụng bộ chọn ở trên cùng bên phải của tất cả các trang.**
+**Đọc bằng ngôn ngữ của bạn! Bạn có thể thay đổi ngôn ngữ của mình bằng cách sử dụng bộ chọn ở trên cùng bên phải của tất cả các trang.**
 
 ## Chúng tôi cần giúp đỡ trong việc dịch thuật!
 
@@ -26,3 +26,14 @@ Mục đích của chúng tôi là luôn lắng nghe và tương tác với cộ
 - [GitHub](https://github.com/SubQuery/subql)
 - [Matrix/Riot](https://matrix.to/#/#subquery:matrix.org)
 - [LinkedIn](https://www.linkedin.com/company/subquery)
+
+### Unofficial Social Media Channels
+
+These channels are not monitored by the SubQuery team and are run by our community:
+
+- [Telegram (Chinese)](https://t.me/subquerychina)
+- [Telegram (Russian)](https://t.me/SubQuery_russia)
+- [Telegram (Spanish)](https://t.me/SubQueryES)
+- [Telegram (Thai)](https://t.me/subquerynetworkthai)
+- [Telegram (Turkish)](https://t.me/subquery_TR)
+- [Telegram (Vietnamese)](https://t.me/subqueryvietnam)
