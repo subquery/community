@@ -44,25 +44,25 @@ Polkadot'un benzersiz mimarisi, tek bir ağa odaklanabileceğimiz ve daha sonra 
 
 SubQuery, blok zinciri ekiplerinin ve kullanıcıların düğümleri başlatması ve çok çeşitli blok zinciri protokollerine erişmesi için bir altyapı SaaS platformu olan OnFinality'deki ekip tarafından oluşturulacak. API paylaşımlı düğüm hizmetimiz ve altyapı yönetiminde veya bir protokol ekibinin CI/CD test hattının parçası olarak kullanılabilecek özel düğümler de dahil olmak üzere bir simbiyotik hizmetler paketimiz var. En iyi Polkadot/Substrate ekipleriyle ilişkilerimiz, Substrate/Polkadot ağı için yönetilen altyapı barındırma konusunda uzmanlığımız ve karmaşık altyapı projeleri sunma ve bunları üretim kullanımı için barındırma yeteneğimiz var.
 
-**Ian He —** Protokol Müdürü ([LinkedIn](https://www.linkedin.com/in/sam-zou-5b8169a/))
+**Sam Zou —** CEO ([LinkedIn](https://www.linkedin.com/in/sam-zou-5b8169a/))
 
 Girişimci, Altyapı ve bulut hizmeti tasarımında uzmanlaşmış 20 yılı aşkın BT deneyimine sahip yatırımcılar
 
-**Ian He —** Protokol Müdürü ([LinkedIn](https://www.linkedin.com/in/yin-he-7a266345/))
+**Ian He —** Head of Protocol ([LinkedIn](https://www.linkedin.com/in/yin-he-7a266345/))
 
 Blockchain Mimarı, Polkadot-js'ye Katkıda Bulunan, Substrate teknolojisini erken benimseyen ve ilk Polkadot hackathon'unda ikincilik kazandı.
 
-**James Xu —** Çözüm Mimarı ([LinkedIn](https://www.linkedin.com/in/zhexu/))
+**James Xu —** Solutions Architect ([LinkedIn](https://www.linkedin.com/in/zhexu/))
 
 Altyapı ve Uygulama Mimarı, Ödüllü yazılım mühendisi
 
-**James Bayly** — İş Geliştirme Müdürü ([LinkedIn](https://www.linkedin.com/in/james-bayly/))
+**James Bayly** — Head of Business Development ([LinkedIn](https://www.linkedin.com/in/james-bayly/))
 
 Buradan başlayın [SubQuery Github repository.](https://github.com/OnFinality-io/subql)
 
 Okuyun [SubQuery docs](https://doc.subquery.network/)
 
-[Yeni web sitemizi ziyaret edin](https://subquery.network/)
+[Visit our new website](https://subquery.network/)
 
 Bizi takip edin
 
