@@ -4,7 +4,7 @@ SubQuery hadir untuk membantu Anda mengubah dan mengkueri data dunia untuk masa 
 
 Ini adalah repository global dari semua blog komunitas, pengumuman, artikel, dan video dari SubQuery.
 
-**Baca dalam bahasa Anda sendiri! Anda dapat mengubah bahasa Anda menggunakan pemilih di kanan atas semua halaman.**
+**Baca dalam bahasa Anda sendiri! Anda dapat mengubah bahasa Anda menggunakan selector di kanan atas pada semua halaman.**
 
 ## Kami membutuhkan bantuan untuk menerjemahkan!
 
@@ -26,3 +26,14 @@ Adalah tujuan kami untuk selalu mendengarkan dan terlibat dengan komunitas setia
 - [GitHub](https://github.com/SubQuery/subql)
 - [Matrix/Riot](https://matrix.to/#/#subquery:matrix.org)
 - [LinkedIn](https://www.linkedin.com/company/subquery)
+
+### Unofficial Social Media Channels
+
+These channels are not monitored by the SubQuery team and are run by our community:
+
+- [Telegram (Chinese)](https://t.me/subquerychina)
+- [Telegram (Russian)](https://t.me/SubQuery_russia)
+- [Telegram (Spanish)](https://t.me/SubQueryES)
+- [Telegram (Thai)](https://t.me/subquerynetworkthai)
+- [Telegram (Turkish)](https://t.me/subquery_TR)
+- [Telegram (Vietnamese)](https://t.me/subqueryvietnam)
