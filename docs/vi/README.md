@@ -4,7 +4,7 @@ SubQuery ở đây để giúp bạn chuyển đổi và truy vấn dữ liệu 
 
 Đây là kho lưu trữ toàn cầu của tất cả các blog cộng đồng, thông báo, bài viết và video từ SubQuery.
 
-**Đọc bằng ngôn ngữ của bạn! Bạn có thể thay đổi ngôn ngữ của mình bằng cách sử dụng bộ chọn ở trên cùng bên phải của tất cả các trang.**
+**Đọc bằng ngôn ngữ của riêng bạn! Bạn có thể thay đổi ngôn ngữ của mình bằng cách sử dụng bộ chọn ở trên cùng bên phải của tất cả các trang.**
 
 ## Chúng tôi cần giúp đỡ trong việc dịch thuật!
 
@@ -18,18 +18,20 @@ SubQuery là một dự án hoạt động nhằm duy trì và giao tiếp với
 
 Mục đích của chúng tôi là luôn lắng nghe và tương tác với cộng đồng trung thành của mình, vì vậy hãy tham gia trò chuyện và gửi cho chúng tôi ý tưởng hoặc câu hỏi của bạn!
 
-- [Discord](https://discord.com/invite/78zg8aBSMG) (Cộng đồng chính với các kênh hỗ trợ kỹ thuật chuyên dụng)
-- [ Medium](https://subquery.medium.com) (Kênh thông báo chính)
+### Official SubQuery Communities
+
+- [Linktree](https://linktr.ee/subquerynetwork)
+- [Discord](https://discord.com/invite/subquery) (Primary Community with dedicated technical support channels)
+- [Medium](https://subquery.medium.com) (Primary announcements channel)
 - [Twitter](https://twitter.com/subquerynetwork)
-- [WeChat]()
 - [Telegram](https://t.me/subquerynetwork) (Chỉ kênh thông báo)
 - [GitHub](https://github.com/SubQuery/subql)
 - [Matrix/Riot](https://matrix.to/#/#subquery:matrix.org)
 - [LinkedIn](https://www.linkedin.com/company/subquery)
 
-### Unofficial Social Media Channels
+### Unofficial SubQuery Communities
 
-These channels are not monitored by the SubQuery team and are run by our community:
+These communities are not moderated by the SubQuery team, but our ambassadors may be there to provide support. Please be careful of scams as SubQuery is **not** responsible for what happens within them.
 
 - [Telegram (Chinese)](https://t.me/subquerychina)
 - [Telegram (Russian)](https://t.me/SubQuery_russia)
@@ -37,3 +39,4 @@ These channels are not monitored by the SubQuery team and are run by our communi
 - [Telegram (Thai)](https://t.me/subquerynetworkthai)
 - [Telegram (Turkish)](https://t.me/subquery_TR)
 - [Telegram (Vietnamese)](https://t.me/subqueryvietnam)
+- [Telegram (Vietnamese Announcement)](https://t.me/subqueryannvn)
