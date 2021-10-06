@@ -58,7 +58,7 @@ Cơ sở hạ tầng & Kiến trúc sư ứng dụng, kỹ sư phần mềm từ
 
 ** James Bayly ** - Trưởng phòng Phát triển Kinh doanh ([ LinkedIn ](https://www.linkedin.com/in/james-bayly/))
 
-Bắt đầu trên [SubQuery Github repository.](https://github.com/OnFinality-io/subql)
+Bắt đầu trên [ kho lưu trữ Github SubQuery. ](https://github.com/OnFinality-io/subql)
 
 Đọc [ tài liệu SubQuery ](https://doc.subquery.network/) của chúng tôi
 
