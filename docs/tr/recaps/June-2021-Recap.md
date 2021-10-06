@@ -1,43 +1,43 @@
-# Haziran 2021 Özeti
+# June 2021 Recap
 
-## İşler yoğunlaşıyor 🔥
+## Things are getting busy 🔥
 
-Bu ayki güncellemede:
+In this monthly update:
 
--   Teknik İnceleme Yayını 🎊
--   Ekip Genişletme 👩💻
--   Dağıtımları Hazırlama 📥
--   SubQuery Sözlük Hizmeti 📖
--   Çin'deki Erişimimizi Geliştirme 🇨🇳
+-   Whitepaper Release 🎊
+-   Team Expansion 👩💻
+-   Staging Deployments 📥
+-   SubQuery Dictionary Service 📖
+-   Improving our Reach in China 🇨🇳
 
-SubQuery Ağı, SubQuery için tek bir hata noktası olmamasını sağlamak ve sürece mümkün olduğunca çok katılımcıyı teşvik etmek için merkezi olmayan ve belirteçli bir ağa geçme çabamızdır.
+The SubQuery Network is our effort to move towards a decentralised and tokenised network in order to ensure no single point of failure for SubQuery and to encourage as many participants in the process as possible.
 
-[Geçen ay, dünyanın okuması için teknik incelememizi herkese açık bir şekilde yayınladık.](https://static.subquery.network/whitepaper.pdf) Ayrıca buradan kısa bir açıklama okuyabilir[/izleyebilirsiniz](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010).
+[Last month, we publicly released our whitepaper for the world to read.](https://static.subquery.network/whitepaper.pdf) You can also read/watch a [short explanation here](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010).
 
-Substrate'da en hızlı ve erişilebilir veri hizmeti sağlayıcısı olmak için SubQuery'de iddialı hedeflerimiz var. Bu tanıtım belgesini rekabet avantajlarımızı vurgulamak için yazdık ve şimdi bu vizyonu hayata geçirmeye odaklanıyoruz. SubQuery Ağı, esneklik ve basitlik olmak üzere iki temel husus etrafında döner.
+We have ambitious goals at SubQuery to be the fastest and accessible data service provider on Substrate. We’ve written this whitepaper to highlight our [competitive advantages](https://subquery.medium.com/subquery-network-our-goals-and-competitive-advantages-a6efdd544be4) and our focus now is on executing this vision. The SubQuery Network revolves around two key aspects, flexibility and simplicity.
 
-Hırslı hedefler birinci sınıf bir ekip gerektirir ve Haziran ayı boyunca sürekli olarak ekibe yeni üyeler ekliyoruz. Bu; yeni geliştirme stajyerleri, bir UX tasarımcısı, bir geliştirme dokümantasyon yazarı ve Çin merkezli iş geliştirme personelini içeriyor.
+Ambitious goals require a first class team, and we’ve been steadily adding new members to the team over June. This includes; new development interns, a UX designer, a development documentation writer, and Chinese based business development staff.
 
-Özellikle aşağıdaki alanlarda hala daha fazlasını arıyoruz. Aklınızda biri varsa lütfen bize bildirin:
+We’re still looking for more, especially in the following areas. Please us know if you know if you have someone in mind:
 
--   [Pazarlama Müdürü](https://angel.co/company/subquery/jobs/1494376-head-of-marketing) veya ABD/AB merkezli iş geliştirme (bu, kaçırılmaması gereken nadir bir fırsattır)
--   [SRE Mühendisleri](https://angel.co/company/subquery/jobs/1497942-site-reliability-engineer)
--   Rust ve Solidity geliştiricileri
+-   [Head of Marketing](https://angel.co/company/subquery/jobs/1494376-head-of-marketing) or US/EU based business development (this is a rare opportunity not to be missed)
+-   [SRE Engineers](https://angel.co/company/subquery/jobs/1497942-site-reliability-engineer)
+-   [Rust](https://angel.co/company/subquery/jobs/1494414-rust-developer) and [Solidity](https://angel.co/company/subquery/jobs/1494435-solidity-developer) developers
 
-Sektörümüzdeki geliştiricilerin altyapıyı çalıştırmaya değil geleceği inşa etmeye odaklanması gerektiğine inanıyoruz - SubQuery barındırılan hizmetimiz bunun tezahürüdür. Haziran ayında, SubQuery'nin barındırılan hizmetinde geliştirici deneyimini iyileştiren yepyeni bir özellik olan [dağıtım yuvalarını](https://subquery.medium.com/deployment-slots-are-here-subquery-projects-4fe2629f8858) yayınladık.
+It’s our belief that developers in our industry should focus on building the future, not running infrastructure — our SubQuery hosted service is the manifestation of that. [In June we released deployment slots](https://subquery.medium.com/deployment-slots-are-here-subquery-projects-4fe2629f8858), a whole new feature that improves the developer experience in SubQuery’s hosted service.
 
-Dağıtım yuvaları, geliştiricilerin Projelerini güncelleyebilecekleri, verilerini yeniden dizine ekleyebilecekleri ve barındırılan üretim SubQuery Projelerini sıfır kesinti süresiyle yükseltebilecekleri yeni bir özelliktir. Ücretsiz yönetilen hizmetimizi, müşterilerimizin altyapılarını çalıştırmayı tercih ettikleri yerler için varsayılan seçenek haline getirmeye devam ediyoruz.
+Deployment slots are a new feature that means developers can update their Project, reindex their data, and upgrade their hosted production SubQuery Project with zero downtime. We continue to make our free managed service the default choice for where our customers choose to run their infrastructure.
 
-Müşterilerimizden gelen ortak bir istek, SubQuery projelerinin indeksleme hızının nasıl iyileştirileceğidir. Polkadot kadar büyük bir zincirdeki geçmiş verileri indekslemek, günler olmasa da saatler sürebilir ve bu da testi zorlaştırır.
+A common request we face from our customers is how to improve the indexing speed of their SubQuery project. Indexing historical data on a chain as large as Polkadot can take hours if not days, making testing difficult.
 
-SubQuery projeleri artık yeni özelliğimiz olan [SubQuery Sözlüğü'nü](https://subquery.medium.com/subquerys-just-got-a-lot-faster-with-the-dictionary-8a7a1447574) kullanarak tüm bunları atlama seçeneğine sahiptir. Esasen bir zincir içindeki tüm olayların konumunu önceden indeksliyoruz ve sonuç olarak 10 kata kadar daha hızlı indeksleme hızı gördük, SubQuery her zamankinden daha hızlı.
+SubQuery projects now have the option to skip all this using our new feature — [the SubQuery Dictionary](https://subquery.medium.com/subquerys-just-got-a-lot-faster-with-the-dictionary-8a7a1447574). We essentially pre-index the location of all events within a chain and as a result we’ve seen up to 10x faster indexing speed, SubQuery is faster than ever before.
 
-Çin, stratejik genişleme planlarımızın önemli bir parçasıdır. Haziran ayında Siqi bize katıldı ve bölgedeki iş geliştirmemize öncülük edecek. Oradaki birçok müşterimiz ve ortağımızla bağlantı kurarak kesinlikle temel atmaya başladı.
+China is a key part of our strategic expansion plans. In June Siqi joined us and will lead our business development in the region. She’s certainly hit the ground running, connecting with many of our existing customers and partners there.
 
-Siqi, Hefei İstasyonu'ndaki son derece başarılı Polka Ekoloji Ulusal Turu etkinliğinde sahne aldı ve konferansa katılan diğer birçok proje tarafıyla temas kurdu. İleride birçok etkinlikte yer alacak, bu yüzden ona göz kulak olun ve merhaba deyin!
+Siqi was on [stage at the extremely successful Polka Ecology National Tour event at Hefei Station](https://twitter.com/SubQueryNetwork/status/1409696588465721348), establishing contact with many other project parties who also attended the conference. She’ll be at many events going forward, so keep an eye out for her and say hi!
 
-Önümüzdeki aya girerken hızlı büyümemizi sürdürmeye çalışıyoruz ve birçok heyecan verici proje üzerinde çalışıyoruz. Neler olup bittiğini ilk öğrenen olmak için sosyal medyamız aracılığıyla iletişimde kalın!
+Heading into next month we look to continue our rapid growth and are working on many exciting projects. Stay in touch through our social media to be the first to know what is happening!
 
-James, Sam, ve the SubQuery Team
+James, Sam, and the SubQuery Team
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Medium](https://subquery.medium.com/)
