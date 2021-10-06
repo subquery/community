@@ -5,7 +5,7 @@
 
 Цього тижня ми раді повідомити, що Berkeley обрав SubQuery для участі у їх ексклюзивному [ Blockchain Xcelerator ](https://www.xcelerator.berkeley.edu/). SubQuery (та його материнська компанія OnFinality) були обрані з більш ніж 200 заявок, щоб зайняти одне з 21 ексклюзивного місця.
 
-Блокчейн Berkeley - Xcelerator - відомий у всьому світі як один з найуспішніших прискорювачів блокчейна не дарма. It has incubated over 40 companies that have raised over $25M in seed and early stage funding, and over 75% of the inaugural batch raised follow-on funding. Additionally UC Berkeley remains a key hub for technology and innovation right next door to Silicon Valley. It’s certainly one of the leading university-based, non-dilutive blockchain accelerators worldwide — we’re thrilled to be a part of it!
+Блокчейн Berkeley - Xcelerator - відомий у всьому світі як один з найуспішніших прискорювачів блокчейна не дарма. Він охопив понад 40 компаній, які зібрали понад 25 млн. доларів в якості початкового капіталу і на ранніх стадіях фінансування, і більше 75% першої партії залучили подальше фінансування. Крім того, UC Berkeley залишається ключовим центром технологій та інновацій поруч із Кремнієвою долиною. It’s certainly one of the leading university-based, non-dilutive blockchain accelerators worldwide — we’re thrilled to be a part of it!
 
 > _“The team is over the moon to find out that we’re part of this awesome program! We’re looking forward to accelerating the development of SubQuery decentralized web data products. We’re ready to connect with some of the most influential projects and investors in Blockchain and to learn about how we can improve SubQuery”_ — Sam Zou (CEO and Founder of SubQuery and OnFinality).
 
