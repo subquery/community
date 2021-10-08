@@ -11,15 +11,15 @@
 - 宣布我们的筹款活动💰
 - 多语言博客和文档 🌍
 - 与Discord社区合作的独家工作室🔊
-- 编码俱乐部Hackathon👩‍🎓
-- 社区飞速增长🚀
+- 编码俱乐部Hackathon（黑客松）👩‍🎓
+- 社区增长 🚀
 - 访谈Layah Heilpern🎙
-- SubQuery 网络不断推进🏗
+- SubQuery 网络的进展🏗
 - SubQuery新项目🤝
 
 ## 宣布我们的筹款💰
 
-我们很高兴地宣布9月份我们900万美元的A轮募款活动结束，感谢所有媒体的支持。 除了Cointdesk、Cointrapper、The Block和许多其他网站的报道外，我们的一些主要投资者还发表了他们的投资观点。
+我们很高兴地宣布9月份我们900万美元的A轮募款活动结束，感谢所有媒体的支持。 除了[Cointdesk](https://www.coindesk.com/business/2021/09/08/subquery-gets-9m-in-series-a-to-improve-access-to-blockchain-data-on-polkadot/)[Cointrapper](https://cointelegraph.com/news/subquery-raises-9m-for-polkadot-data-protocol)[The Block](https://www.theblockcrypto.com/post/116915/subquery-indexing-protocol-polkadot-funding-saft)和许多其他网站的报道外，我们的一些主要投资者还发表了他们的投资观点。
 
 Stratos Capital的伦尼克·帕利（Rennick Palley）表示：SubQuery是“去中心化的谷歌”，“SubQuery是Web3.0如何从Web2.0中获取工作成果的典型示例，使其透明、公平、社区驱动。”
 
@@ -41,11 +41,11 @@ Stratos Capital的伦尼克·帕利（Rennick Palley）表示：SubQuery是“�
 
 最近，我们邀请社区参加一系列专门的讲习班，了解更多关于SubQuery的信息，我们将在今后几个月里在Discord范围内做更多的工作。 如果您想要获得更多独家消息并更多地参与团队，请确保您加入！
 
-## 编码俱乐部ClubHackathon 👩‍🎓
+## 编码俱乐部 Hackathon 黑客松👩‍🎓
 
 为了更接近开发者社区并显示我们对生态系统的支持，我们将继续支持开发者。 我们很开心的赞助了编码俱乐部的Polkadot Hackathon。 我们已经与Acala/Karura的朋友合作，帮助社区建立一些改变游戏规则的DAPP，并且迫不及待地想看看团队想出了什么！
 
-## 社区飞速增长🚀
+## 社区增长🚀
 
 我们的社区继续快速增长，我们在9月份跨越了两个关键里程碑，Twitter拥有10000名粉丝，我们的Discord group拥有3000名成员。 感谢您的所有支持，如果您还没有关注我们，请参与吧！
 
@@ -57,7 +57,7 @@ Crypto influencer Layah Heilpern 采访了萨姆和詹姆斯·，谈到我们迄
 
 ## SubQuery 网络进度 🏗
 
-在过去一个月里，我们真正加快了我们正在进行的 SubQuery Network的工作。 我们已经把新成员带到我们的团队中，开始编写代码，并对微调了我们的tokenomics。
+在过去一个月里，我们加快了我们正在进行的 SubQuery Network的工作。 我们已经把新成员带到我们的团队中，开始编写代码，并对微调了我们的tokenomics。
 
 我们正在最后敲定索引的证据，这是一项必要且重要的工作，它保证了两个SubQuery索引器是等价的。 我们正在使用Merkle来实现这一点，如果您感兴趣，请查看代码。
 
