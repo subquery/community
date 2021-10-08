@@ -1,12 +1,12 @@
-# 2021年9月回顾
+# September 2021 Recap
 
-**隐藏已退出**
+**The Secret Is Out**
 
 ![](https://miro.medium.com/max/700/1*nU7PnYFMR6MMBfccYE_Ujg.png)
 
-欢迎阅读SubQuery 最新每月更新。 九月对于SubQuery来说是一个重要的月份，因为我们宣布了我们的筹资计划，并在各个业务领域取得了巨大的进展。 我们一直在寻找有才华的人才，因此，如果您能帮助我们实现访问去中心化数据使命，请联系我们！
+Welcome to the latest monthly update from SubQuery. September was a massive month for SubQuery as we announced our fundraising and made huge strides in all areas of the business. We are constantly on the look-out for talented individuals so please reach out if you can help us on our mission of making the world's decentralised data more accessible!
 
-每月更新：
+In this monthly update:
 
 - Announced our fundraising round 💰
 - Multi language blogs and documentation 🌍
