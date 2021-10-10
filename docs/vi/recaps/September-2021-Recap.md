@@ -1,21 +1,21 @@
-# September 2021 Recap
+# Tháng 9 năm 2021 Tóm tắt
 
-**The Secret Is Out**
+**Bí mật bị lộ**
 
 ![](https://miro.medium.com/max/700/1*nU7PnYFMR6MMBfccYE_Ujg.png)
 
-Chào mừng bạn đến với bản cập nhật hàng tháng mới nhất từ ​​SubQuery. September was a massive month for SubQuery as we announced our fundraising and made huge strides in all areas of the business. We are constantly on the look-out for talented individuals so please reach out if you can help us on our mission of making the world's decentralised data more accessible!
+Chào mừng bạn đến với bản cập nhật hàng tháng mới nhất từ ​​SubQuery. Tháng 9 là một tháng tuyệt vời đối với SubQuery khi chúng tôi thông báo về việc gây quỹ của mình và đạt được những bước tiến lớn trong tất cả các lĩnh vực kinh doanh. Chúng tôi không ngừng tìm kiếm những cá nhân tài năng, vì vậy vui lòng liên hệ nếu bạn có thể giúp chúng tôi trong sứ mệnh làm cho dữ liệu phi tập trung của thế giới dễ tiếp cận hơn!
 
-Trong bản cập nhật tháng này:
+Trong bản cập nhật hàng tháng này:
 
-- Announced our fundraising round 💰
+- Đã công bố đợt gây quỹ của chúng tôi 💰
 - Multi language blogs and documentation 🌍
 - Exclusive workshops with Discord Community 🔊
 - Encode Club Hackathon 👩‍🎓
 - Community Growth 🚀
 - Interview with Layah Heilpern 🎙
 - Progress on the SubQuery Network 🏗
-- Những dự án mới trên SubQuery 🤝
+- New Projects on SubQuery 🤝
 
 ## Announced our fundraising round 💰
 
@@ -63,11 +63,11 @@ We're putting the finishing touches on proof of indexing, a necessary and signif
 
 Keep an eye out in the coming weeks for our first draft of a high level product roadmap --- we know you've all been asking for it!
 
-## Những dự án mới trên SubQuery 🤝
+## New Projects on SubQuery 🤝
 
 In September, we announced that we were helping the teams at [Parallel Finance](https://parallel.fi/) and [DotMarketCap](http://www.dotmarketcap.com/) with their data needs.
 
-Parallel Finance là một giao thức thị trường tiền tệ phi tập trung cung cấp dịch vụ cho vay, đặt cọc và vay trong hệ sinh thái Polkadot. [SubQuery's service helps Parallel Finance](https://subquery.medium.com/parallel-finance-is-creating-the-next-defi-platform-using-subquery-6fc1e366985a) store, analyse, and query data on their current Heiko testnet. Một số dữ liệu này được sử dụng trực tiếp trong ứng dụng mới của Parallel, giúp người dùng hiểu và phân tích dữ liệu DeFi.
+Parallel Finance is a decentralized money market protocol that offers lending, staking, and borrowing in the Polkadot ecosystem. [SubQuery's service helps Parallel Finance](https://subquery.medium.com/parallel-finance-is-creating-the-next-defi-platform-using-subquery-6fc1e366985a) store, analyse, and query data on their current Heiko testnet. Some of this data is used directly in Parallel's new application, helping users understand and analyse DeFi data.
 
 We are always delighted to get feedback like this from our partners:
 
@@ -77,8 +77,8 @@ In the case of DotMarketCap, [SubQuery was responsible for feeding information]
 
 If you would like to learn more [you can view all projects easily via our Explorer here](https://explorer.subquery.network/).
 
-Như mọi khi, hãy tham gia các mạng xã hội của chúng tôi để được cập nhật tin tức và thông báo mới nhất.
+As always, please join our social channels to stay updated on our latest news and announcements.
 
-James, Sam và Đội ngũ SubQuery
+James, Sam, and the SubQuery Team
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
