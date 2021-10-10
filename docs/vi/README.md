@@ -4,7 +4,7 @@ SubQuery ở đây để giúp bạn chuyển đổi và truy vấn dữ liệu 
 
 Đây là kho lưu trữ toàn cầu của tất cả các blog cộng đồng, thông báo, bài viết và video từ SubQuery.
 
-**Đọc bằng ngôn ngữ của bạn! Bạn có thể thay đổi ngôn ngữ của mình bằng cách sử dụng bộ chọn ở trên cùng bên phải của tất cả các trang.**
+**Đọc bằng ngôn ngữ của riêng bạn! Bạn có thể thay đổi ngôn ngữ của mình bằng cách sử dụng bộ chọn ở trên cùng bên phải của tất cả các trang.**
 
 ## Chúng tôi cần giúp đỡ trong việc dịch thuật!
 
@@ -18,10 +18,10 @@ SubQuery là một dự án hoạt động nhằm duy trì và giao tiếp với
 
 Mục đích của chúng tôi là luôn lắng nghe và tương tác với cộng đồng trung thành của mình, vì vậy hãy tham gia trò chuyện và gửi cho chúng tôi ý tưởng hoặc câu hỏi của bạn!
 
-### Official SubQuery Communities
+### Cộng đồng SubQuery chính thức
 
 - [Linktree](https://linktr.ee/subquerynetwork)
-- [Discord](https://discord.com/invite/subquery) (Primary Community with dedicated technical support channels)
+- [ Discord ](https://discord.com/invite/subquery) (Cộng đồng chính với các kênh hỗ trợ kỹ thuật chuyên dụng)
 - [ Medium](https://subquery.medium.com) (Kênh thông báo chính)
 - [Twitter](https://twitter.com/subquerynetwork)
 - [Telegram](https://t.me/subquerynetwork) (Chỉ kênh thông báo)
@@ -29,9 +29,9 @@ Mục đích của chúng tôi là luôn lắng nghe và tương tác với cộ
 - [Matrix/Riot](https://matrix.to/#/#subquery:matrix.org)
 - [LinkedIn](https://www.linkedin.com/company/subquery)
 
-### Unofficial SubQuery Communities
+### Cộng đồng SubQuery không chính thức
 
-These communities are not moderated by the SubQuery team, but our ambassadors may be there to provide support. Please be careful of scams as SubQuery is **not** responsible for what happens within them.
+Những cộng đồng này không được kiểm duyệt bởi nhóm SubQuery, nhưng các đại sứ của chúng tôi có thể ở đó để hỗ trợ. Hãy cẩn thận với các trò gian lận vì SubQuery ** không ** chịu trách nhiệm về những gì xảy ra bên trong chúng.
 
 - [Telegram (Chinese)](https://t.me/subquerychina)
 - [Telegram (Russian)](https://t.me/SubQuery_russia)
@@ -39,4 +39,4 @@ These communities are not moderated by the SubQuery team, but our ambassadors ma
 - [Telegram (Thai)](https://t.me/subquerynetworkthai)
 - [Telegram (Turkish)](https://t.me/subquery_TR)
 - [Telegram (Vietnamese)](https://t.me/subqueryvietnam)
-- [Telegram (Vietnamese Announcement)](https://t.me/subqueryannvn)
+- [Telegram (Thông báo tiếng Việt)](https://t.me/subqueryannvn)
