@@ -19,7 +19,7 @@
 
 ## 宣布完成融资计划💰
 
-我们很高兴地宣布9月份我们900万美元的A轮融资活动结束，感谢所有媒体的支持。 除了[Cointdesk](https://www.coindesk.com/business/2021/09/08/subquery-gets-9m-in-series-a-to-improve-access-to-blockchain-data-on-polkadot/)[Cointrapper](https://cointelegraph.com/news/subquery-raises-9m-for-polkadot-data-protocol)[The Block](https://www.theblockcrypto.com/post/116915/subquery-indexing-protocol-polkadot-funding-saft)和许多其他网站的报道外，我们的一些主要投资者还发表了他们的投资观点。
+我们很高兴地宣布9月份我们900万美元的A轮融资活动结束，感谢所有媒体的支持。 除了[Cointdesk](https://www.coindesk.com/business/2021/09/08/subquery-gets-9m-in-series-a-to-improve-access-to-blockchain-data-on-polkadot/),[Cointrapper](https://cointelegraph.com/news/subquery-raises-9m-for-polkadot-data-protocol),[The Block](https://www.theblockcrypto.com/post/116915/subquery-indexing-protocol-polkadot-funding-saft)和许多其他网站的报道外，我们的一些主要投资者还发表了他们的投资观点。
 
 Stratos Capital的伦尼克·帕利（Rennick Palley）表示：SubQuery是“去中心化的谷歌”，“SubQuery是Web3.0如何从Web2.0中获取工作成果的典型示例，使其透明、公平、社区驱动。”
 
@@ -43,7 +43,7 @@ Arrington Capital 的尼诺·曼索（Ninor Mansor）在他们的“The League o
 
 ## Encode Club Hackathon 👩‍🎓
 
-为了更接近开发者社区并显示我们对生态系统的支持，我们将继续支持开发者。 我们很开心的赞助了编码俱乐部的Polkadot Hackathon。 我们已经与Acala/Karura的朋友合作，帮助社区建立一些改变游戏规则的DAPP，并且迫不及待地想看看团队想出了什么！
+为了更接近开发者社区并显示我们对生态系统的支持，我们将继续支持开发者。 我们很开心的赞助了Encode Club的Polkadot Hackathon。 我们已经与Acala/Karura的朋友合作，帮助社区建立一些改变游戏规则的DAPP，并且迫不及待地想看看团队想出了什么！
 
 ## 社区增长🚀
 
