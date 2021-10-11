@@ -1,14 +1,14 @@
-# September 2021 Recap
+# Підсумок вересня 2021 р
 
-**The Secret Is Out**
+**Секрет розкритий**
 
 ![](https://miro.medium.com/max/700/1*nU7PnYFMR6MMBfccYE_Ujg.png)
 
-Welcome to the latest monthly update from SubQuery. September was a massive month for SubQuery as we announced our fundraising and made huge strides in all areas of the business. We are constantly on the look-out for talented individuals so please reach out if you can help us on our mission of making the world's decentralised data more accessible!
+Ласкаво просимо до останнього щомісячного оновлення від SubQuery. Вересень став масовим місяцем для SubQuery, коли ми оголосили про збір коштів та досягли значних успіхів у всіх сферах бізнесу. Ми постійно стежимо за талановитими людьми, тому, будь ласка, зверніться, якщо ви можете допомогти нам у нашій місії зробити доступнішими децентралізовані дані у світі!
 
-In this monthly update:
+У цьому щомісячному оновленні:
 
-- Announced our fundraising round 💰
+- Оголошуємо наш раунд збору коштів 💰
 - Multi language blogs and documentation 🌍
 - Exclusive workshops with Discord Community 🔊
 - Encode Club Hackathon 👩‍🎓
