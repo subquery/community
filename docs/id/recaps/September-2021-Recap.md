@@ -1,21 +1,21 @@
-# September 2021 Recap
+# Rekap September 2021
 
-**The Secret Is Out**
+**Rahasianya Terungkap**
 
 ![](https://miro.medium.com/max/700/1*nU7PnYFMR6MMBfccYE_Ujg.png)
 
-Selamat datang di pembaruan bulanan terbaru dari SubQuery. September was a massive month for SubQuery as we announced our fundraising and made huge strides in all areas of the business. We are constantly on the look-out for talented individuals so please reach out if you can help us on our mission of making the world's decentralised data more accessible!
+Selamat datang di pembaruan bulanan terbaru dari SubQuery. September adalah bulan besar bagi SubQuery karena kami mengumumkan penggalangan dana dan membuat langkah besar di semua bidang bisnis. Kami terus-menerus mencari individu-individu berbakat, jadi silakan hubungi kami jika Anda dapat membantu kami dalam misi kami untuk membuat data dunia yang terdesentralisasi lebih mudah diakses!
 
 Dalam pembaruan bulanan ini:
 
-- Announced our fundraising round 💰
-- Multi language blogs and documentation 🌍
+- Mengumumkan putaran penggalangan dana kami 💰
+- Blog dan dokumentasi multi bahasa 🌍
 - Exclusive workshops with Discord Community 🔊
 - Encode Club Hackathon 👩‍🎓
 - Community Growth 🚀
 - Interview with Layah Heilpern 🎙
 - Progress on the SubQuery Network 🏗
-- Proyek Baru di SubQuery 🤝
+- New Projects on SubQuery 🤝
 
 ## Announced our fundraising round 💰
 
@@ -63,11 +63,11 @@ We're putting the finishing touches on proof of indexing, a necessary and signif
 
 Keep an eye out in the coming weeks for our first draft of a high level product roadmap --- we know you've all been asking for it!
 
-## Proyek Baru di SubQuery 🤝
+## New Projects on SubQuery 🤝
 
 In September, we announced that we were helping the teams at [Parallel Finance](https://parallel.fi/) and [DotMarketCap](http://www.dotmarketcap.com/) with their data needs.
 
-Parallel Finance adalah protokol money market terdesentralisasi yang menawarkan pinjaman, staking, dan pinjaman di ekosistem Polkadot. [SubQuery's service helps Parallel Finance](https://subquery.medium.com/parallel-finance-is-creating-the-next-defi-platform-using-subquery-6fc1e366985a) store, analyse, and query data on their current Heiko testnet. Beberapa data ini digunakan langsung di aplikasi baru Parallel, membantu pengguna memahami dan menganalisis data DeFi.
+Parallel Finance is a decentralized money market protocol that offers lending, staking, and borrowing in the Polkadot ecosystem. [SubQuery's service helps Parallel Finance](https://subquery.medium.com/parallel-finance-is-creating-the-next-defi-platform-using-subquery-6fc1e366985a) store, analyse, and query data on their current Heiko testnet. Some of this data is used directly in Parallel's new application, helping users understand and analyse DeFi data.
 
 We are always delighted to get feedback like this from our partners:
 
@@ -77,8 +77,8 @@ In the case of DotMarketCap, [SubQuery was responsible for feeding information]
 
 If you would like to learn more [you can view all projects easily via our Explorer here](https://explorer.subquery.network/).
 
-Seperti biasa, silakan bergabung dengan channel sosial kami untuk tetap mendapatkan berita dan pengumuman terbaru kami.
+As always, please join our social channels to stay updated on our latest news and announcements.
 
-James, Sam, dan Tim SubQuery
+James, Sam, and the SubQuery Team
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
