@@ -10,7 +10,7 @@ SubQuery, her Substrate/Polkadot ekibinin verilerini işlemesine ve sorgulaması
 
 OnFinality, blok zinciri ekiplerinin ve kullanıcıların düğümleri başlatması ve çok çeşitli blok zinciri protokollerine erişmesi için bir altyapı SaaS platformu olan SubQuery'nin arkasındaki ekiptir. Paylaşılan düğüm API hizmetleri de dahil olmak üzere bir dizi ortak yaşam hizmetlerine sahiptirler ve en iyi Polkadot/Substrate ekipleriyle ilişkileri vardır.
 
-> Hypersphere Ventures'ın Kurucu Ortağı olan Jack Platts, "Hypersphere, yalnızca Polkadot ekosistemine odaklanmak için ilk dizin oluşturma protokolünü hızla oluştururken Sam ve SubQuery ekibini desteklemekten heyecan duyuyor." dedi
+> Hypersphere Ventures'ın Kurucu Ortağı olan Jack Platts, "Hypersphere, yalnızca Polkadot ekosistemine odaklanmak için ilk dizin oluşturma protokolünü hızla oluştururken Sam ve SubQuery ekibini desteklemekten heyecan duyuyor."
 
 Subquery'nin CEO'su Sam Zou liderliğindeki ekip, Aralık 2020'de Web3 Vakfı'ndan, kullanıcıların GraphQL ile sorgulanabilecek bir veri kümesi oluşturmak için zincirlerinde bir dizinleyici çalıştırmasına olanak tanıyan açık kaynaklı bir proje olan Subquery'nin ilk aşamasını oluşturmak için bir hibe aldı.
 
