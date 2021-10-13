@@ -2,29 +2,29 @@
 
 ![](https://miro.medium.com/max/1400/0*CrM8-LKRt3slWAsN)
 
-**SubQuery, сервіс, що полегшує запит децентралізованих даних, оголосив сьогодні, що він успішно зібрав 1,8 мільйона доларів США у посівному раунді і приватному раунді продажу за підтримки** [**DeFi Alliance**](https://defialliance.co/)**,** [**D1 Ventures**](https://d1.ventures/)**,** [**Hypersphere Ventures**](https://hypersphere.ventures/)**,** [**Digital Finance Group (DFG)**](https://www.dfg.group/)** та [**The Lao**](https://www.thelao.io/)**. The overwhelming demand we received to back SubQuery’s seed round shows the strong interest in infrastructure services and belief in the future of the Polkadot ecosystem.**
+**SubQuery, сервіс, що полегшує запит децентралізованих даних, оголосив сьогодні, що він успішно залучив 1,8 мільйона доларів США і закрив приватний продаж за підтримки **[**Alliance DeFi**](https://defialliance.co/)**,**[**D1 Ventures**](https://d1.ventures/)**,**[**Hypersphere Ventures**](https://hypersphere.ventures/)**, **[**igital Finance Group (DFG)**](https://www.dfg.group/)** і **[**The Lao**](https://www.thelao.io/)**. Величезний попит, який ми отримали для підтримки seed раунду SubQuery, свідчить про сильний інтерес до послуг інфраструктури та віру в майбутнє екосистеми Polkadot. **
 
-SubQuery allows every Substrate/Polkadot team to process and query their data. The project is inspired by the growth of data protocols serving the application layer and its aim is to help Polkadot/Substrate projects build better dApps by allowing anyone to reliably find and consume data faster. Today, anyone can query and extract Polkadot network data in only minutes and at no cost.
+SubQuery дозволяє кожній команді Substrate/Polkadot обробляти та запитувати свої дані. Проект натхненний зростанням протоколів даних, що обслуговують прикладний рівень, і його мета полягає в тому, щоб допомогти проектам Polkadot/Substrate створювати кращі програми dApp, дозволяючи будь -кому надійніше знаходити та споживати дані швидше. Сьогодні будь -хто може запитувати та витягувати мережеві дані Polkadot всього за лічені хвилини і безкоштовно.
 
-> _“Betting on Subquery is betting on the overall Polkadot ecosystem, and in this early stage a big part of that is infrastructure. They are a front-runner in this area as their customer base includes some of the top Polkadot projects. The Subquery team is also one of the most passionate teams in crypto we’ve come across. We are excited to support them.”_ — Imran Khan, Partner at the DeFi Alliance
+> _«Ставки на Subquery - це ставки на загальну екосистему Polkadot, і на цій ранній стадії значна частина цього - інфраструктура. Вони є лідерами в цій галузі, оскільки їхня клієнтська база включає деякі з найкращих проектів Polkadot. Команда Subquery також є однією з найзапекліших команд у криптовалюті, з якими ми стикалися. Ми раді їх підтримати. ”_ - Імран Хан, партнер Альянсу DeFi
 
-OnFinality is the team behind SubQuery, who are an infrastructure SaaS platform for blockchain teams and users to launch nodes and get access to a large range of blockchain protocols. They have a suite of symbiotic services including shared node API services, and have relationships with the top Polkadot/Substrate teams.
+OnFinality - це команда, яка стоїть за SubQuery, яка є інфраструктурною платформою SaaS для команд блокчейн і користувачів для запуску нод і отримання доступу до широкого спектру протоколів блокчейн. Вони мають набір симбіотичних послуг, включаючи служби API спільних вузлів, і мають стосунки з найкращими командами Polkadot/Substrate.
 
-> _“Hypersphere is excited to back Sam and the SubQuery team as they quickly build the first indexing protocol to focus exclusively on the Polkadot ecosystem.”_ — Jack Platts, Co-Founder at Hypersphere Ventures
+> _“Hypersphere із задоволенням підтримують Сема та команду SubQuery, оскільки вони швидко створюють перший протокол індексування, зосереджений виключно на екосистемі Polkadot.” _ - Джек Платтс, співзасновник Hypersphere Ventures
 
 Під керівництвом Сам Цзю, генерального директора SubQuery, команда [отримала грант з фонду Web3](https://subquery.medium.com/subquery-delivers-its-open-source-sdk-following-a-web3-foundation-grant-20da26ae87f) в грудні 2020 року для побудови початкової фази SubQuery, проект з відкритим вихідним кодом, який дозволяє користувачам запускати індексацію з різних ланцюжків для створення бази даних, котрі можна перевірити за допомогою GraphQL.
 
 ![](https://miro.medium.com/max/1000/0*kjspGYRr_BtMk015)
 
-Since then SubQuery has launched the SubQuery Explorer. An online hosted service that provides access to published SubQuery projects made by contributors around the world and managed by the SubQuery team. We’ve also established strategic partnerships with the top Polkadot projects, including Acala, Plasm, and Moonbeam.
+З тих пір SubQuery запустив SubQuery Explorer. Сервіс, розміщений в iнтернеті, який надає доступ до опублікованих проектів SubQuery, створених авторами з усього світу та керованих командою SubQuery. Ми також встановили стратегічні партнерські відносини з провідними проектами Polkadot, включаючи Acala, Plasm та Moonbeam.
 
-This seed raise will supercharge the development of SubQuery and accelerate the delivery of critical data services to the Polkadot/Substrate community. This includes building a free public service to host and manage community SubQuery projects, building a community around data and knowledge sharing, and the eventual tokenization of our project.
+Це збирання грошей прискорить розвиток SubQuery та прискорить доставку критично важливих послуг передач даних до спільноти Polkadot/Substrate. Це включає створення безкоштовного публічного сервісу для розміщення та управління проектами спільноти SubQuery, створення спільноти навколо обміну даними та знаннями, а також остаточну токенізацію нашого проекту.
 
--   Try it out on the[SubQuery Explorer](https://explorer.subquery.network/)
--   Read more on [SubQuery docs](https://doc.subquery.network/)
--   Visit our [website](https://subquery.network/)
+-   Спробуйте в [SubQuery Explorer](https://explorer.subquery.network/)
+-   Прочитайте наші [ документи SubQuery](https://doc.subquery.network/)
+-   Відвідайте наш [веб -сайт](https://subquery.network/)
 
-**Talk to us on:**
+**Зв’яжіться з нами:**
 
 -   [hello@subquery.network](mailto:hello@subquery.network)
 -   [Discord](https://discord.com/invite/78zg8aBSMG)
