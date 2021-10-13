@@ -6,7 +6,7 @@
 
 SubQuery允许每个Substrate/Polkadot团队处理和查询他们的数据。 这个项目的灵感来自于为应用层服务的数据协议的增长，其目的是通过允许任何人更快地可靠地查找和使用数据，帮助Polkadot/Substrate项目构建更好的dApps。 时至今日，任何人都可以在几分钟内查询和提取Polkadot网络数据，而且不需要花费任何费用。
 
-> “专注于Subquery就是专注于整个Polkadot生态系统，在这个早期阶段，基础设施是一个很大的组成部分。 他们是这一领域的开拓者，因为他们的所服务的客户包括一些顶级的Polkadot项目。 Subquery团队也是我们遇到过的最富有激情的团队之一。 我们很高兴能支持他们。”</em>—Imran Khan, DeFi Alliance的合伙人
+> _“专注于Subquery就是专注于整个Polkadot生态系统，在这个早期阶段，基础设施是一个很大的组成部分。 他们是这一领域的开拓者，因为他们的所服务的客户包括一些顶级的Polkadot项目。 Subquery团队也是我们遇到过的最富有激情的团队之一。 我们很高兴能支持他们。”_—Imran Khan, DeFi Alliance的合伙人
 
 OnFinality是SubQuery背后的团队，SubQuery是区块链团队和用户启动节点并访问大量区块链协议的基础架构SaaS平台。 它们是一套相辅相成的服务，包括共享的节点API服务，并与顶级的Polkadot/Substrate团队相合作。
 
