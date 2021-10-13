@@ -20,7 +20,7 @@
 
 Darwinia กำลังใช้ [SubQuery Projects](https://project.subquery.network/) เพื่อบริหารโครงการของตนเองและทำการอัปเดตตามต้องการ บริการจัดทำ index และ query สำหรับในบริการนี้ได้รับการจัดการโดย SubQuery และให้บริการฟรีแก่ชุมชน Polkadot ใน[SubQuery's Explorer](https://explorer.subquery.network/) คุณสามารถทดลองใช้ชุดข้อมูล Darwinia SubQuery ได้ที่นี่ (และ Crab ของ Darwinia ที่นี่) ด้วย Explorer โดยไม่ต้องใช้โค้ดใดๆเลย ตามที่คุณต้องการ การรับบันทึกของบัญชีเฉพาะจะกลายเป็นเรื่องง่ายมาก
 
-โดย query บ่งชี้ว่าเราต้องรับข้อมูลของ 20 ธุรกรรมล่าสุดไม่ว่าจะรับหรือส่ง _2qeMxq616BhqvTW8a1bp2g7VKPAmpda1vXuAAz5TxV5ehivG_
+โดย query บ่งชี้ว่าเราต้องรับข้อมูลของ 20 ธุรกรรมล่าสุดไม่ว่าจะรับหรือส่งโดย address _2qeMxq616BhqvTW8a1bp2g7VKPAmpda1vXuAAz5TxV5ehivG_
 
 ![](https://miro.medium.com/max/1400/0*z-9giNk4RnhxliYy)
 
