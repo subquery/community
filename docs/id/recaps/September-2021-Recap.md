@@ -10,30 +10,36 @@ Dalam pembaruan bulanan ini:
 
 - Mengumumkan putaran penggalangan dana kami 💰
 - Blog dan dokumentasi multi bahasa 🌍
-- Exclusive workshops with Discord Community 🔊
+- Lokakarya eksklusif dengan Komunitas Discord 🔊
 - Encode Club Hackathon 👩‍🎓
-- Community Growth 🚀
-- Interview with Layah Heilpern 🎙
-- Progress on the SubQuery Network 🏗
-- New Projects on SubQuery 🤝
+- Pertumbuhan Komunitas 🚀
+- Interview dengan Layah Heilpern 🎙
+- Kemajuan di Jaringan SubQuery 🏗
+- Projek baru di SubQuery 🤝
 
-## Announced our fundraising round 💰
+## Mengumumkan putaran penggalangan dana kami 💰
 
-We were thrilled to announce the [close of our US$9m Series A fundraising](https://subquery.medium.com/series-a-1abed6c1c2af) in September and were delighted with the response that we received from all the key crypto media. Apart from coverage in [Coindesk](https://www.coindesk.com/business/2021/09/08/subquery-gets-9m-in-series-a-to-improve-access-to-blockchain-data-on-polkadot/), [CoinTelegraph](https://cointelegraph.com/news/subquery-raises-9m-for-polkadot-data-protocol), [The Block](https://www.theblockcrypto.com/post/116915/subquery-indexing-protocol-polkadot-funding-saft) and many others, some of our leading investors also published their investment thesis.
+Kami sangat senang mengumumkan [penutupan penggalangan dana Seri A senilai US$9 juta](https://subquery.medium.com/series-a-1abed6c1c2af) pada bulan September dan senang dengan tanggapan yang kami terima dari semua media kripto utama. Selain liputan di [Coindesk](https://www.coindesk.com/business/2021/09/08/subquery-gets-9m-in-series-a-to-improve-access-to-blockchain-data-on-polkadot/), [CoinTelegraph](https://cointelegraph.com/news/subquery-raises-9m-for-polkadot-data-protocol), [The Block](https://www.theblockcrypto.com/post/116915/subquery-indexing-protocol-polkadot-funding-saft) dan banyak lainnya, beberapa investor terkemuka kami juga menerbitkan tesis investasi mereka.
 
-Rennick Palley of [Stratos Capital stated that SubQuery](https://medium.com/stratos-technologies/the-google-of-the-decentralized-world-our-investment-in-subquery-e6e7d949b00a) is "The Google of the Decentralized World" and that "SubQuery is a prototypical example of how Web 3 principals take what works from Web 2 & makes it transparent, fair, and community driven."
+Rennick Palley dari [Stratos Capital menyatakan bahwa SubQuery](https://medium.com/stratos-technologies/the-google-of-the-decentralized-world-our-investment-in-subquery-e6e7d949b00a) adalah "Google dari Dunia yang Terdesentralisasi" dan bahwa "SubQuery adalah contoh prototipikal tentang bagaimana para pelaku Web 3 mengambil apa yang berhasil dari Web 2 & membuatnya transparan, adil
 
-While Ninor Mansor of Arrington Capital shared in their ["The League of Parachains" report](https://arringtonxrpcapital.com/2021/09/17/the-league-of-parachains-polkadot/): "If Parachains are nations and the Relay Chain is an international alliance, then SubQuery is the common language --- the lingua franca --- of this new global order."
+Sementara Ninor Mansor dari Arrington Capital berbagi dalam [laporan "The League of Parachains"](https://arringtonxrpcapital.com/2021/09/17/the-league-of-parachains-polkadot/): "Jika Parachains adalah negara dan Relay Chain adalah aliansi internasional, maka SubQuery adalah bahasa umum --- lingua franca --- dari tatanan global baru ini."
 
-For more insights and analysis on SubQuery, please check out the following thoughts from [Arrington Capital](https://arringtonxrpcapital.com/2021/09/08/building-the-multi-chain-world-announcing-our-investment-into-subquery/), [Node Capital](https://www.node.capital/blog-posts/a-subquery-to-supercharge-your-insights) , [Stratos](https://medium.com/stratos-technologies/the-google-of-the-decentralized-world-our-investment-in-subquery-e6e7d949b00a) and [IconPlus Capital](https://medium.com/@iconpluscapital/understanding-the-aggregation-of-data-in-subquery-network-investment-thesis-90fe8f6b7abe) or check out this video by James Bayly, our Head of Business Development:
+Untuk wawasan dan analisis lebih lanjut tentang SubQuery, silakan lihat pemikiran berikut dari [Arrington Capital](https://arringtonxrpcapital.com/2021/09/08/building-the-multi-chain-world-announcing-our-investment-into-subquery/), [Node Capital](https://www.node.capital/blog-posts/a-subquery-to-supercharge-your-insights), [Stratos](https://medium.com/stratos-technologies/the-google-of-the-decentralized-world-our-investment-in-subquery-e6e7d949b00a) dan
 
-[Watch Here](https://youtu.be/NRn3E-ERIds)
+IconPlus Capital< /3> atau lihat video ini oleh James Bayly, Kepala Pengembangan Bisnis kami:</p> 
 
-## Multi-language blogs and documentation 🌍
+[Lihat Disini](https://youtu.be/NRn3E-ERIds)
 
-We are fortunate to have community members and Ambassadors from around the world. As our mission is to help make developers' lives easier, we are working hard to make SubQuery accessible to our global community.
 
-In order to achieve this, we are pleased to announce that our [blog is well on track to being translated to 9 different languages](https://blog.subquery.network/). In addition, our [developer documentation is also in progress](https://doc.subquery.network/), with 4 languages released already. In the coming months, we will also be releasing modular educational content across all the major languages.
+
+## Blog dan dokumentasi multi-bahasa 🌍
+
+Kami beruntung memiliki anggota komunitas dan duta besar dari seluruh dunia. Karena misi kami adalah membantu membuat hidup pengembang lebih mudah, kami bekerja keras untuk membuat SubQuery dapat diakses oleh komunitas global kami.
+
+Untuk mencapai hal ini, dengan senang hati kami umumkan bahwa [blog kami sudah siap untuk diterjemahkan ke dalam 9 bahasa berbeda](https://blog.subquery.network/). Selain itu, [dokumentasi pengembang kami juga sedang dalam proses](https://doc.subquery.network/), dengan 4 bahasa telah dirilis. Dalam beberapa bulan mendatang, kami juga akan merilis konten pendidikan modular di semua bahasa utama.
+
+
 
 ## Exclusive workshops via our Discord community 🔊
 
@@ -41,19 +47,27 @@ We are extremely proud of [our vibrant and inclusive Discord community](https:/
 
 Recently we invited the community to a series of exclusive workshops to learn more about SubQuery and we will be doing more within our Discord in the coming months. If you want to hear about exclusive events and get more involved with the team, please make sure you join!
 
+
+
 ## Encode Club Hackathon 👩‍🎓
 
 In order to get closer to the developer community and show our support for the ecosystem, we are thrilled to be sponsoring the largest challenge at [Encode Club's Polkadot Hackathon](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e). We've partnered with our friends at Acala/Karura to help the community build some game changing dApps and can't wait to see what the teams come up with!
 
+
+
 ## Community Growth 🚀
 
 Our community continues to grow at a rapid pace and we crossed two key milestones in September with [Twitter](https://twitter.com/SubQueryNetwork) crossing 10,000 followers and [our Discord group](https://discord.com/invite/subquery) reaching 3,000 members. Thank you for all of your support and if you're not following us already, please get involved!
+
+
 
 ## Interview with Layah Heilpern 🎙
 
 Crypto influencer Layah Heilpern interviewed Sam and James about our progress to date and our thoughts on the future decentralised SubQuery Network. You can watch the interview below.
 
 [Watch here](https://youtu.be/WApnpFjEofg)
+
+
 
 ## SubQuery Network Progress 🏗
 
@@ -62,6 +76,8 @@ In the past month we have really accelerated the work that we're doing on the Su
 We're putting the finishing touches on proof of indexing, a necessary and significant bit of work that provides guarantees that two SubQuery indexers are equivalent. We're using Merkle Mountain ranges to do this, take a look at the code if you're interested.
 
 Keep an eye out in the coming weeks for our first draft of a high level product roadmap --- we know you've all been asking for it!
+
+
 
 ## New Projects on SubQuery 🤝
 
