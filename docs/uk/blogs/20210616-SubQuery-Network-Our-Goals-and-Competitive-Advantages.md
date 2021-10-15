@@ -1,14 +1,14 @@
 # Мережа SubQuery - наші цілі та конкурентні переваги
 
-Today we’re going to explore the goals that we have with SubQuery and some of the competitive advantages that we think make the SubQuery Network better than our competitors.
+Сьогодні ми збираємося розкрити цілі SubQuery та деякі конкурентні переваги, які, на нашу думку, роблять SubQuery кращою за наших конкурентів.
 
-SubQuery’s currently provided indexing and transformation data in a centralised way. Although this has allowed us to power some of the top Polkadot projects; DeFi apps like Acala and Bifrost, wallets like Fearless Wallet, NFT platforms like [KodaDot](https://kodadot.xyz/), cross-chain bridges like [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia), and analytics platforms like [SubVis](https://subvis.io/) — it has it’s downside.
+Наразі SubQuery надає індексацію та трансформацію даних централізовано. Хоча це й дозволило нам підтримати деякі з найкращих проектів Polkadot; DEFI додатки як Acala та Bifrost, гаманці як Fearless Wallet, NFT платформи як [KodaDot](https://kodadot.xyz/), міжмережеві мости як [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia), та аналітичні платформи як [SubVis](https://subvis.io/) - але це має свою зворотню сторону.
 
-It requires our users to trust the service we provide, and carries risks associated with a centralised service, like potential server failures or outages that can cripple your applications. This is a major reason why we are moving to a decentralised future.
+Наші користувачі вимушені довіряти послугам, які ми надаємо, та несуть такі ризики централізованого сервісу, як перебої в роботі серверів та їх поломку, що в свою чергу може негативно вплинути на роботу ваших програм. Це основна причина, чому ми переходимо до децентралізованого майбутнього.
 
 ![](https://miro.medium.com/max/868/1*CPksnN9_jyMGQ0sSbiJvDQ.png)
 
-Our Competitive Advantages
+Наші конкурентні переваги
 
 We understand that The SubQuery Network is competing against many players in the decentralised data industry, SubQuery looks to provide unique benefits through a multitude of competitive advantages. Our guiding principles, and what we expect to be the main advantages, are the simplicity and flexibility of our network.
 
