@@ -14,11 +14,11 @@
 
 ## Гнучкість
 
-Наша перша перевага - це наша гнучкість. SubQuery має відкритий код, тому будь-хто має змогу визначати набір даних відповідно до своїх потреб та адаптувати їх під свої програми. Rather than having to combine queries from different API endpoints — you can define the shape of your APIs yourself. It saves time, money, and provides a vastly better experience for your users.
+Наша перша перевага - це наша гнучкість. SubQuery має відкритий код, тому будь-хто має змогу визначати набір даних відповідно до своїх потреб та адаптувати їх під свої програми. Замість того, щоб комбінувати запити з різних кінцевих точок API - ви можете визначити форму вашого API самостійно. Це заощаджує час, гроші і забезпечує значно кращий досвід для ваших користувачів.
 
-## Simplicity
+## Простота
 
-You do not need to be an expert to take advantage of what SubQuery offers. There is literally 3 files that need to be changed to make a working SubQuery project. Our focus will be on making SubQuery easier to use and build with than our competitors — SubQuery’s success depends on the success of our community building the future with it.
+Вам не потрібно бути експертом, щоб скористатися тим, що пропонує SubQuery. Потрібно змінити лише 3 файли для того, щоб зробити робочий проект SubQuery. Our focus will be on making SubQuery easier to use and build with than our competitors — SubQuery’s success depends on the success of our community building the future with it.
 
 ## Indexer/Delegator Imbalance
 
