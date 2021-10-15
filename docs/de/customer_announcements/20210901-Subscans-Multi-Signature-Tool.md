@@ -20,7 +20,7 @@ Der Service von SubQuery spielt eine Schlüsselrolle in diesem Tool, das schnell
 
 [Subscan.io](https://www.subscan.io/) ist ein hochpräziser Multi-Chain-Explorer, der für substratbasierte Blockchains entwickelt wurde. Subscan unterstützt die Datenexploration und Visualisierung von mehr als 30 Netzwerken im Polkadot-Ökosystem.
 
-Subscan provides customized services for the ecological network, such as EVM module, multi-token, etc. Subscan bietet maßgeschneiderte Dienste für das ökologische Netzwerk, wie EVM-Modul, Multi-Token usw. Darüber hinaus bietet Subscan auch stabile API-Dienste, Datendiagramme und praktische Tool-Anwendungen.
+Subscan bietet maßgeschneiderte Dienste für das ökologische Netzwerk, wie EVM-Modul, Multi-Token usw. Subscan bietet maßgeschneiderte Dienste für das ökologische Netzwerk, wie EVM-Modul, Multi-Token usw. Darüber hinaus bietet Subscan auch stabile API-Dienste, Datendiagramme und praktische Tool-Anwendungen.
 
 [Webseite](https://www.subscan.io/) | [E-Mail](mailto:hello@subscan.io) | [Medium](https://medium.com/subscan) | [Element](https://riot.im/app/#/room/!uaYUrKBueiKUurHliJ:matrix.org) | [Twitter](https://twitter.com/subscan_io/) | [GitHub](https://github.com/itering/subscan-essentials)
 
