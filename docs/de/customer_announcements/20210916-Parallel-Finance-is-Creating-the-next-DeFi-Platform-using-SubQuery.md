@@ -6,17 +6,17 @@ Parallel hat folgendes zum Ziel: DeFi zu innovieren und auf die nächste Stufe u
 
 ![](https://cdn-images-1.medium.com/max/1600/1*5Ru0mv1hq86BuBhGwsmoqQ.png)
 
-> *"SubQuery is an excellent tool which brought traditional indexing & query technology to Parallel Heiko. The plug-and-play service really saved us a lot time developing our own block indexing tool and maintaining our own solution."* - Parallel Finance*
+> *"SubQuery ist ein hervorragendes Tool, das Parallel Heiko die traditionelle Indexierungs- und Abfragetechnologie brachte. Der Plug-and-Play-Service hat uns wirklich viel Zeit bei der Entwicklung unseres eigenen Blockindexierungstools und der Wartung unserer eigenen Lösung gespart."* - Parallel Finance*
 
 Der Service von [SubQuery](https://subquery.network/) hilft Parallel Finance beim Speichern, Analysieren und Abfragen von Daten in ihrem aktuellen Heiko-Testnetz. Einige dieser Daten werden direkt in der neuen Anwendung von Parallel verwendet und helfen den Benutzern, DeFi-Daten zu verstehen und zu analysieren.
 
 ![](https://miro.medium.com/max/1200/1*Lmk8BvWg2YYTDZggHN82VQ.gif)
 
-Using SubQuery, you can quickly query account, exchange rates, tokens, transfers, and block data right in [SubQuery's playground](https://explorer.subquery.network/subquery/parallel-finance/parallel-finance).
+Mit SubQuery können Sie direkt im [SubQuery-Spielplatz](https://explorer.subquery.network/subquery/parallel-finance/parallel-finance) schnell Konten, Wechselkurse, Token, Überweisungen abfragen und Daten blockieren.
 
 ![](https://cdn-images-1.medium.com/max/1600/1*FDRgez-G26x1DkWqCkORMQ.png)
 
-> *"We enjoy working with the SubQuery team and the one-to-one customer service they give us. We plan to use it more as we introduce more features into our DeFi application."* - Parallel Finance*
+> *"Wir arbeiten gerne mit dem SubQuery-Team und dem persönlichen Kundenservice zusammen, den sie uns bieten. We plan to use it more as we introduce more features into our DeFi application."* - Parallel Finance*
 
 Im folgenden Beispiel verwenden wir SubQuery um den historischen Wechselkurs für alle Assets an jedem Block anzuzeigen.
 
