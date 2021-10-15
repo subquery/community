@@ -10,11 +10,11 @@
 
 Наші конкурентні переваги
 
-We understand that The SubQuery Network is competing against many players in the decentralised data industry, SubQuery looks to provide unique benefits through a multitude of competitive advantages. Our guiding principles, and what we expect to be the main advantages, are the simplicity and flexibility of our network.
+Ми розуміємо, що SubQuery Network конкурує проти багатьох гравців у децентралізованій індустрії даних тому SubQuery прагне забезпечити унікальні привілеї за допомогою безлічі конкурентних переваг. Наші керівні принципи та головні переваги - це простота та гнучкість нашої мережі.
 
-## Flexibility
+## Гнучкість
 
-Our first advantage is our flexibility. SubQuery is open source, so anyone has the freedom to define the data set that is specific to their needs, tailored to their applications. Rather than having to combine queries from different API endpoints — you can define the shape of your APIs yourself. It saves time, money, and provides a vastly better experience for your users.
+Наша перша перевага - це наша гнучкість. SubQuery має відкритий код, тому будь-хто має змогу визначати набір даних відповідно до своїх потреб та адаптувати їх під свої програми. Rather than having to combine queries from different API endpoints — you can define the shape of your APIs yourself. It saves time, money, and provides a vastly better experience for your users.
 
 ## Simplicity
 
