@@ -38,4 +38,4 @@ Our Indexer discovery and routing process will include performance data (latency
 
 ## Фокус на Substrate/Polkadot:
 
-SubQuery committed to focus on Polkadot and Substate from the day we started. This allowed our service and tools to be built from the outset to work with Substrate. On top of this, Polkadots unique architecture makes it easier for SubQuery to support multiple current and future blockchains automatically.
+SubQuery зобов'язалася фокусуватися на Polkadot та Substate з першого дня роботи. Це дозволило нашому сервісу та інструментам з самого початку будувати роботу з Substrate. Крім того, унікальна архітектура Polkadot полегшує для SubQuery автоматичну підтримку декількох поточних та майбутніх блокчейнів.
