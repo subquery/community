@@ -18,24 +18,24 @@
 
 ## Простота
 
-Вам не потрібно бути експертом, щоб скористатися тим, що пропонує SubQuery. Потрібно змінити лише 3 файли для того, щоб зробити робочий проект SubQuery. Our focus will be on making SubQuery easier to use and build with than our competitors — SubQuery’s success depends on the success of our community building the future with it.
+Вам не потрібно бути експертом, щоб скористатися тим, що пропонує SubQuery. Потрібно змінити лише 3 файли для того, щоб зробити робочий проект SubQuery. Ми будемо фокусуватися на легкості для використання та побудови на SubQuery в порівнянні з нашими конкурентами - а успіх SubQuery залежить від успіху нашої спільноти, що будує її майбутнє.
 
-## Indexer/Delegator Imbalance
+## Імбаланс індексаторів та делегаторів
 
-Among our competitors, we believe the ability for Indexers to change delegation reward rates without warning is unfair. We try to fix this by requiring Indexers to advertise a decrease to the Query Fee Revenue Share Rate for an entire staking era (28 day period).
+В порівнянні з нашими конкурентами ми вважаємо, що можливість індексаторів змінити норми винагороди за делегування без попередження, є несправедливим. Ми намагаємося виправити це, вимагаючи від індексерів оголошувати про зниження ставки доходів від плати за запити на всю еру ставок (28 -денний період).
 
-## Purchase Orders Instead of Curators
+## Замовлення на поставки замість кураторів
 
-In marketplaces like SubQuery, where there are both buyers and sellers of data, signalling demand for future supply is difficult. Other competitors use “curators” to achieve this, participants who predict future demand and are rewarded when that future demand eventuates.
+На таких ринках, як SubQuery, де є і покупці і продавці даних - важко сигналізувати попит на майбутні пропозиції. Інші конкуренти використовують "кураторів" для цього: учасники, які прогнозують майбутній попит, винагороджуються, якщо такий майбутній попит реалізується.
 
-SubQuery has taken a different approach in where we look to Consumers to create an upfront commitment, a purchase order. This can be used both to attract Indexers to new SubQuery Projects, or to attract additional Indexers to existing and uncompetitive SubQuery Projects.
+SubQuery використовує інший підхід - ми очікуємо від споживачів створення попередніх зобов’язань - замовлення на поставки. Такий підхід добре підходить як для залучення індексаторів до нових проектів SubQuery, так і для залучення додаткових індексаторів до існуючих та неконкурентоспроможних проектів SubQuery.
 
-## Incentives for Query Performance:
+## Стимули для ефективності запитів:
 
 Our Indexer discovery and routing process will include performance data (latency and uptime) for all Indexers, and we will take steps to ensure that Consumers report on this data when unlocking micropayments to Indexers.
 
-This will ideally encourage Indexers in the SubQuery Network to provide infrastructure with high uptime and low latency, the best performance possible.
+Це буде ідеально заохочувати індексаторів SubQuery Network до забезпечення інфраструктури з високою тривалістю роботи та низькими затримками - найкращої можливої ефективності.
 
-## Focus on Substrate/Polkadot:
+## Фокус на Substrate/Polkadot:
 
 SubQuery committed to focus on Polkadot and Substate from the day we started. This allowed our service and tools to be built from the outset to work with Substrate. On top of this, Polkadots unique architecture makes it easier for SubQuery to support multiple current and future blockchains automatically.
