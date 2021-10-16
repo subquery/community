@@ -6,7 +6,7 @@ Il nuovo [strumento multi-signature wallet](https://medium.com/r/?url=https%3A%2
 
 Il servizio di SubQuery svolge un ruolo fondamentale in questo strumento fornendo dati veloci sulle transazioni riguardanti un determinato indirizzo multi-firma, migliorando l'esperienza utente e consentendo funzionalità più avanzate.
 
-![Users can easily create new multi-signature addresses](https://cdn-images-1.medium.com/max/1600/1*e4AALzw8xzERhzBJgPUktQ.png)
+![Gli utenti saranno in grado facilmente di creare nuovi indirizzi multi-firma](https://cdn-images-1.medium.com/max/1600/1*e4AALzw8xzERhzBJgPUktQ.png)
 
 > *"SubQuery ci ha facilitato enormemente la possibilità di indicizzare dei dati per il tool Subscan Multi-signature e può essere facilmente utilizzato dalla nostra squadra. Il servizio API di Subscan è standardizzato, consigliamo SubQuery ai nostri utenti ogni volta che viene richiesto un alto numero di requisiti di personalizzazione."* - Subscan
 
