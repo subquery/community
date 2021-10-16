@@ -66,18 +66,18 @@ Siamo stati davvero lieti di essere stati ospitati da DotMarketCap il 5 agosto p
 
 Siqi, che guida lo sviluppo del nostro business in Cina, ha vissuto un mese intenso grazie ad una serie di [dibattiti online insieme a Moonbeam](https://twitter.com/SubQueryNetwork/status/1425293137103122432/photo/1), Acala, Astar e Phala. Oltretutto, ha partecipato agli AMA organizzati da Polkadot l'11 agosto e ad un AMA ospitato da [ODaily](http://www.odaily.com/) e Acala il 13 agosto.
 
-We are looking forward to growing our Chinese community significantly in the coming months through activities such as hackathons. As such, [we will be running a workshop with Encode Club](https://www.eventbrite.co.uk/e/polkadot-hackathon-subquery-workshop-tickets-167321106935?aff=ebdsoporgprofile) and running a hackathon with OneBlock+ to help introduce SubQuery to new audiences.
+Non vediamo l'ora di far crescere significativamente, nei prossimi mesi, la nostra comunità cinese tramite attività come gli hackathon. Di conseguenza, [organizzeremo un workshop con Encode Club](https://www.eventbrite.co.uk/e/polkadot-hackathon-subquery-workshop-tickets-167321106935?aff=ebdsoporgprofile) e un hackathon con OneBlock+ per aiutare a presentare SubQuery ad un nuovo pubblico.
 
-## Delivering the 2nd Milestone of Polkadot Common API ✅
+## Pubblicazione della seconda Milestone di Polkadot Common API ✅
 
-We are pleased to make progress in the [development of an open-source dApp API ](https://docs.google.com/document/d/13L8HBwB6VB-n2g274FFFJKORYPJsq744C6H8iEDQ0-0/edit)for Kusama in conjunction with the team at [Fearless Wallet](https://fearlesswallet.io/). This work is being supported by a Kusama Treasury grant.
+Siamo davvero lieti di aver compiuto dei progressi nello [sviluppo di un'API open source per le dApp ](https://docs.google.com/document/d/13L8HBwB6VB-n2g274FFFJKORYPJsq744C6H8iEDQ0-0/edit) per Kusama in collaborazione con la squadra di [Fearless Wallet](https://fearlesswallet.io/). Questo lavoro è stato supportato da una sovvenzione da parte di Kusama Treasury.
 
-Nearing completion of the second milestone in this project means that there will soon be a defined and common core data API interface for Polkadot, Kusama, and other parachains which will attract more developers to the ecosystem. Making development intuitive and as painless as possible is one of our key objectives!
+L'avvicinarsi del completamento della seconda milestone all'interno di questo progetto si traduce nel fatto che presto sarà disponibile un'interfaccia API common core data per Polkadot, Kusama e altre parachain che attireranno sempre più sviluppatori all'interno dell'ecosistema. Rendere lo sviluppo più intuitivo e il più indolore possibile è uno dei nostri obiettivi fondamentali!
 
 *****
 
-As always, please join our social channels to stay updated on our latest news and announcements.
+Come sempre, sentitevi liberi di unirvi ai nostri canali social per rimanere aggiornati sulle nostre ultime novità e annunci.
 
-James, Sam, and the SubQuery Team
+James, Sam e la squadra di SubQuery
 
-[Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
