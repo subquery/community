@@ -30,8 +30,8 @@ Questo giro di raccolta fondi accelererà la roadmap tecnica e comunitaria di Su
 
 ### Scopri Di Più
 
-Get started by building your own SubQuery project [here](https://doc.subquery.network/).
+Inizia a creare il tuo progetto SubQuery [qui](https://doc.subquery.network/).
 
-Learn about the SubQuery Network protocol [here](https://static.subquery.network/whitepaper.pdf).
+Scopri il protocollo SubQuery Network [qui](https://static.subquery.network/whitepaper.pdf).
 
 [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw) | [LinkedIn](https://www.linkedin.com/company/subquery)
