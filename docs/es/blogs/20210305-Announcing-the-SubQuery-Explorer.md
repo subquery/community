@@ -1,20 +1,20 @@
-# Anuncio del Explorador de SubQuery
+# Anuncio de SubQuery Explorer
 
-Since announcing SubQuery to the world just a month ago, the response and feedback we’ve received from the Polkadot community has been overwhelmingly positive. We’ve gained thousands of followers on our channels, and there have been over 1,353 installs from NPM. It’s inspiring to receive all the messages of support, and to see the engagement from the community. **It’s time for us to give something back!**
+Desde que anunciamos SubQuery al mundo hace apenas un mes, la respuesta y los comentarios que hemos recibido de la comunidad de Polkadot han sido abrumadoramente positivos. Hemos ganado miles de seguidores en nuestros canales y ha habido más de 1353 instalaciones de NPM. Es inspirador recibir todos los mensajes de apoyo y ver el compromiso de la comunidad. **¡Es hora de que demos algo a cambio!**
 
-We’ve been working overtime over the last month to release the next major stage of our roadmap for SubQuery. Today we’re announcing the release of the [SubQuery Explorer.](https://explorer.subquery.network/)
+Hemos estado trabajando horas extra durante el último mes para lanzar la siguiente etapa importante de nuestra hoja de ruta para SubQuery. Hoy anunciamos el lanzamiento de [SubQuery Explorer.](https://explorer.subquery.network/)
 
 ![](https://miro.medium.com/max/1400/0*2bDaF3HPgNkpm8Kt)
 
-[SubQuery Explorer](https://explorer.subquery.network/) is an online hosted service that provides access to published SubQuery projects made by contributors around the world and managed by the SubQuery team. It furthers our mission to support Polkadot developers by providing infrastructure services by making accessing Polkadot network data even easier.
+[SubQuery Explorer](https://explorer.subquery.network/) es un servicio alojado en línea que brinda acceso a proyectos SubQuery publicados y hechos por colaboradores de todo el mundo y administrados por el equipo de SubQuery. Impulsa nuestra misión de apoyar a los desarrolladores de Polkadot al proporcionar servicios de infraestructura y facilitar aún más el acceso a los datos de la red de Polkadot.
 
-Today, anyone can query and extract Polkadot network data in only minutes and at no cost.
+Hoy en día, cualquiera puede consultar y extraer datos de la red Polkadot en solo minutos y sin costo alguno.
 
-The SubQuery explorer makes getting started easy. We’ve prebuilt SubQuery projects for two use cases (more about these below) and have indexed each network. We’re hosting these SubQuery nodes online and allow anyone to query each for free. These managed nodes will be monitored and run by the SubQuery team at a performance level that will allow production apps to use and rely on them.
+SubQuery explorer facilita la puesta en marcha. Hemos creado previamente proyectos de SubQuery para dos casos de uso (más información sobre estos a continuación) y hemos indexado cada red. Estamos alojando estos nodos de SubQuery en línea y permitimos que cualquiera pueda consultarlos de forma gratuita. Estos nodos administrados serán monitoreados y ejecutados por el equipo de SubQuery a un nivel de rendimiento que permitirá que aplicaciones de producción los usen y confíen en ellos.
 
 ![](https://miro.medium.com/max/1400/0*3hmnk6sNoO5pdOWc)
 
-You’ll also note that the SubQuery Explorer provides a playground for discovering available data with example queries. You can play around with each SubQuery Graph using this explorer without implementing anything in code. Additionally, we’ve made some small improvements to our documentation to better support developers on their journey to better query and analyse the world’s Polkadot data.
+También notarás que SubQuery Explorer proporciona un campo de juego para descubrir datos disponibles con consultas de ejemplo. You can play around with each SubQuery Graph using this explorer without implementing anything in code. Additionally, we’ve made some small improvements to our documentation to better support developers on their journey to better query and analyse the world’s Polkadot data.
 
 ![](https://miro.medium.com/max/1400/0*V1Mjpi1-gAT6M8-q)
 
