@@ -33,17 +33,17 @@ OnFinality는 SubQuery의 핵심 서비스 제공업체입니다. Polkadot 및 K
 
 ![](https://miro.medium.com/max/1400/0*FLq4vXluI9CTiBQ8)
 
-OnFinality also [delivered their treasury proposal](https://kusama.polkassembly.io/treasury/72) for the second milestone to improve the scalability of their API service. Intelligent routing that allows them to maximise the use of different clusters of nodes across their user base in different geographic regions. SubQuery relies on this infrastructure so it’s important to note the continued investment and improvements here. The past month has demonstrated how critical it is to continue to invest in scale so that we can continue to provide the best service every day.
+OnFinality는 또한 API 서비스의 확장성을 개선하기 위한 두 번째 이정표에 대한 [재무 제안을 전달](https://kusama.polkassembly.io/treasury/72)했습니다. 서로 다른 지리적 지역의 사용자 기반에서 서로 다른 노드 클러스터의 사용을 최대화할 수 있는 지능형 라우팅. SubQuery는 이 인프라에 의존하므로 여기서 지속적인 투자와 개선을 주목하는 것이 중요합니다. 지난 달은 우리가 매일 최고의 서비스를 계속 제공할 수 있도록 계속해서 규모에 투자하는 것이 얼마나 중요한지 보여주었습니다.
 
--   Our CEO Sam Zou presented _Cyber future on Parachains_ online event with Web3, Acala, Polkawarriors, and Bitfwd
+-   CEO Sam Zou는 Web3, Acala, Polkawarriors 및 Bitfwd와 함께 온라인 이벤트에서 _Parachain에서의 Cyber ​​future_를 발표했습니다.
 
--   Our Head of Business Development James Bayly joined an interesting virtual fireside chat with DFG and James Wo as part of their DFG Talks series.
+-   사업 개발 책임자인 James Bayly는 DFG Talks 시리즈의 일부로 DFG 및 James Wo와 함께 흥미로운 가상 노변 채팅에 참여했습니다.
 
--   Our time in the Berkeley Xcelerator has started — we’ve attended some excellent sessions so far
--   We’ve made some big improvements to our [SubQuery website](https://subquery.network/)
--   A new release of [improved documentation](https://doc.subquery.network/) for SubQuery developers
--   Our offices are improving, we’re lucky to be able to work in the same space here in New Zealand
+-   Berkeley Xcelerator에서의 시간이 시작되었습니다. 지금까지 훌륭한 세션에 참석했습니다.
+-   [SubQuery 웹사이트](https://subquery.network/)를 크게 개선했습니다.
+-   SubQuery 개발자를 위한 [향상된 문서](https://doc.subquery.network/)의 새 릴리스
+-   사무실이 개선되고 있습니다. 여기 뉴질랜드에서 같은 공간에서 일할 수 있어 행운입니다.
 
 ![](https://miro.medium.com/max/1400/0*cOsJ2TLa4yqpY0Ig)
 
-Expect some big news coming in May for our community — we’ve been working on something massive and we can’t wait to share it. In the meantime, have a go creating your own SubQuery project by following our [new quick start guide here](https://doc.subquery.network/quickstart.html).
+5월에 커뮤니티를 위한 큰 소식이 있을 것으로 기대합니다. 우리는 엄청난 일을 하고 있으며 빨리 공유하고 싶습니다. 그 동안 [여기에서 새로운 빠른 시작 가이드](https://doc.subquery.network/quickstart.html)를 따라 자신만의 SubQuery 프로젝트를 만들어 보세요.
