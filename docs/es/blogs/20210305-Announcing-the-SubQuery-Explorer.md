@@ -14,7 +14,7 @@ SubQuery explorer facilita la puesta en marcha. Hemos creado previamente proyect
 
 ![](https://miro.medium.com/max/1400/0*3hmnk6sNoO5pdOWc)
 
-También notarás que SubQuery Explorer proporciona un campo de juego para descubrir datos disponibles con consultas de ejemplo. You can play around with each SubQuery Graph using this explorer without implementing anything in code. Additionally, we’ve made some small improvements to our documentation to better support developers on their journey to better query and analyse the world’s Polkadot data.
+También notarás que SubQuery Explorer proporciona un campo de juego para descubrir datos disponibles con consultas de ejemplo. Puedes jugar con cada SubQuery Graph usando este explorador sin implementar nada en el código. Además, hemos realizado algunas pequeñas mejoras en nuestra documentación de forma que podemos ayudar mejor a los desarrolladores en su viaje para consultar y analizar mejor los datos mundiales de Polkadot.
 
 ![](https://miro.medium.com/max/1400/0*V1Mjpi1-gAT6M8-q)
 
