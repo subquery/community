@@ -1,27 +1,27 @@
-# September 2021 Recap
+# Zusammenfassung September 2021
 
-**The Secret Is Out**
+**Es ist kein Geheimnis mehr**
 
 ![](https://miro.medium.com/max/700/1*nU7PnYFMR6MMBfccYE_Ujg.png)
 
-Welcome to the latest monthly update from SubQuery. September was a massive month for SubQuery as we announced our fundraising and made huge strides in all areas of the business. We are constantly on the look-out for talented individuals so please reach out if you can help us on our mission of making the world's decentralised data more accessible!
+Herzlich Willkommen zum neuesten monatlichen Update von SubQuery. Der September war ein großartiger Monat für SubQuery, da wir unser Fundraising ankündigten und große Fortschritte in allen Bereichen des Geschäfts machten. Wir sind ständig auf der Suche nach talentierten Personen. Bitte kontaktieren Sie uns, wenn Sie uns bei unserer Mission helfen können, die dezentralen Daten der Welt leichter zugänglich zu machen!
 
-In this monthly update:
+In diesem monatlichen Update:
 
-- Announced our fundraising round 💰
-- Multi language blogs and documentation 🌍
-- Exclusive workshops with Discord Community 🔊
-- Encode Club Hackathon 👩‍🎓
-- Community Growth 🚀
-- Interview with Layah Heilpern 🎙
-- Progress on the SubQuery Network 🏗
-- New Projects on SubQuery 🤝
+- Wir haben unsere Spendenrunde angekündigt💰
+- Mehrsprachige Blogs und Dokumentation 🌍
+- Exklusive Workshops mit Discord Community 🔊
+- Code Club Hackathon 👩‍🎓
+- Gemeinschaftswachstum 🚀
+- Interview mit Layah Heilpern 🎙
+- Fortschritt im SubQuery-Netzwerk🏗
+- Neue Projekte in SubQuery🤝
 
-## Announced our fundraising round 💰
+## Wir haben unsere Spendenrunde angekündigt💰
 
-We were thrilled to announce the [close of our US$9m Series A fundraising](https://subquery.medium.com/series-a-1abed6c1c2af) in September and were delighted with the response that we received from all the key crypto media. Apart from coverage in [Coindesk](https://www.coindesk.com/business/2021/09/08/subquery-gets-9m-in-series-a-to-improve-access-to-blockchain-data-on-polkadot/), [CoinTelegraph](https://cointelegraph.com/news/subquery-raises-9m-for-polkadot-data-protocol), [The Block](https://www.theblockcrypto.com/post/116915/subquery-indexing-protocol-polkadot-funding-saft) and many others, some of our leading investors also published their investment thesis.
+Wir waren begeistert, den [Abschluss unserer 9 Mio.Spendensammlung der Serie A](https://subquery.medium.com/series-a-1abed6c1c2af) im September mitteilen und freuten sich über die Resonanz, die wir von allen wichtigen Kryptomedien erhalten haben. Neben der Berichterstattung in [Coindesk](https://www.coindesk.com/business/2021/09/08/subquery-gets-9m-in-series-a-to-improve-access-to-blockchain-data-on-polkadot/), [CoinTelegraph](https://cointelegraph.com/news/subquery-raises-9m-for-polkadot-data-protocol), [The Block](https://www.theblockcrypto.com/post/116915/subquery-indexing-protocol-polkadot-funding-saft) und vielen anderen haben einige unserer führenden Investoren auch ihre Investment-These veröffentlicht.
 
-Rennick Palley of [Stratos Capital stated that SubQuery](https://medium.com/stratos-technologies/the-google-of-the-decentralized-world-our-investment-in-subquery-e6e7d949b00a) is "The Google of the Decentralized World" and that "SubQuery is a prototypical example of how Web 3 principals take what works from Web 2 & makes it transparent, fair, and community driven."
+Rennick Palley von [Stratos Capital erklärte, dass SubQuery](https://medium.com/stratos-technologies/the-google-of-the-decentralized-world-our-investment-in-subquery-e6e7d949b00a) "das Google der dezentralen Welt" ist und dass "SubQuery ein prototypisches Beispiel dafür ist, wie Web 3-Prinzipien das, was aus Web 2 funktioniert, übernehmen und es transparent und fair machen , und gemeinschaftsorientiert."
 
 While Ninor Mansor of Arrington Capital shared in their ["The League of Parachains" report](https://arringtonxrpcapital.com/2021/09/17/the-league-of-parachains-polkadot/): "If Parachains are nations and the Relay Chain is an international alliance, then SubQuery is the common language --- the lingua franca --- of this new global order."
 
