@@ -43,25 +43,17 @@ Kısa süre önce topluluğu SubQuery hakkında daha fazla bilgi edinmek için b
 
 ## Club Hackathon'u Kodlama 👩‍🎓
 
-Geliştirici topluluğuna daha yakın olmak ve ekosisteme desteğimizi göstermek için
-
-Encode Club'ın Polkadot Hackathon'undaki <0> en büyük mücadeleye sponsor olmaktan heyecan duyuyoruz. Acala/Karura'daki arkadaşlarımızla, topluluğun oyunu değiştiren bazı dApp'ler oluşturmasına yardımcı olmak için ortaklık kurduk ve ekiplerin ne yapacağını görmek için sabırsızlanıyoruz!</p> 
-
-
+Geliştirici topluluğuna daha yakın olmak ve ekosisteme desteğimizi göstermek için [Encode Club'ın Polkadot Hackathon'undaki](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e) en büyük mücadeleye sponsor olmaktan heyecan duyuyoruz. Acala/Karura'daki arkadaşlarımızla, topluluğun oyunu değiştiren bazı dApp'ler oluşturmasına yardımcı olmak için ortaklık kurduk ve ekiplerin ne yapacağını görmek için sabırsızlanıyoruz!
 
 ## Topluluk Büyümesi 🚀
 
 Topluluğumuz hızla büyümeye devam ediyor ve Eylül ayında [Twitter'ın ](https://twitter.com/SubQueryNetwork) 10.000 takipçiye ve [Discord grubumuzun ](https://discord.com/invite/subquery) 3.000 üyeye ulaşmasıyla iki önemli dönüm noktasını aştık. Tüm desteğiniz için teşekkür ederiz ve bizi henüz takip etmiyorsanız, lütfen ekibimize katılın!
-
-
 
 ## Layah Heilpern ile röportaj 🎙
 
 Kripto fenomeni Layah Heilpern, Sam ve James ile bugüne kadarki ilerlememiz ve gelecekteki merkezi olmayan SubQuery Ağı hakkındaki düşüncelerimiz hakkında röportaj yaptık. Aşağıdan röportajı izleyebilirsiniz.
 
 [Buradan izleyin](https://youtu.be/WApnpFjEofg)
-
-
 
 ## SubQuery Ağı İlerleme Durumu 🏗
 
@@ -71,8 +63,6 @@ Geçen ay, [merkezi olmayan ve teşvik edilmiş geleceğimiz ](https://subquery.
 
 Üst düzey bir ürün yol haritasının ilk taslağı için önümüzdeki haftalarda bir göz atın --- hepinizin bunu istediğini biliyoruz!
 
-
-
 ## SubQuery Yeni Projeler ↑
 
 Eylül ayında, [Parallel Finance](https://parallel.fi/) ve [DotMarketCap](http://www.dotmarketcap.com/) ekiplerine veri ihtiyaçları konusunda yardımcı olduğumuzu duyurmuştuk.
@@ -81,7 +71,7 @@ Paralel Finans, Polkadot ekosisteminde borç verme, stake etme ve borçlanma sun
 
 Ortaklarımızdan böyle geri bildirimler almaktan her zaman mutluluk duyarız:
 
-"SubQuery, Parallel Heiko'ya geleneksel indeksleme ve sorgulama & teknolojisini getiren mükemmel bir araçtır. Tak ve çalıştır hizmeti, kendi blok dizine ekleme aracımızı geliştirmek ve kendi çözümümüzü sürdürmek için bize gerçekten çok zaman kazandırdı."</em> --- Paralel Finans
+_"SubQuery, Parallel Heiko'ya geleneksel indeksleme ve sorgulama & teknolojisini getiren mükemmel bir araçtır. Tak ve çalıştır hizmeti, kendi blok dizine ekleme aracımızı geliştirmek ve kendi çözümümüzü sürdürmek için bize gerçekten çok zaman kazandırdı."_ --- Paralel Finans
 
 DotMarketCap söz konusu olduğunda, [SubQuery, ikinci grup Kusama Parachain Açık Artırmaları ile ilgili bilgileri](https://subquery.medium.com/dotmarketcap-2-0-launches-with-support-from-subquery-and-subvis-ef85b5e0ee31) DotMarketCap kullanıcılarına sağlamaktan sorumluydu. Bu ortak çalışmayla ilgili ilginç olan şey, gerçek zamanlı verilerin SubQuery'den [SubVis](https://explorer.subquery.network/subquery/subvis-io/kusama-auction) tarafından yürütülen mevcut bir projeye gelmesi ve ardından DotMarketCap tarafından tekrar alınmasıdır. SubQuery için bu, Explorer'ımızda açık bir topluluk veri pazarı oluşturma hedefimizin gerçekleşmesidir, ayrıca Polkadot ekosisteminin ne kadar simbiyotik olduğunu ve ekiplerin merkezi olmayan bir geleceğin ortak bir hedefine ulaşmak için nasıl birlikte çalıştığını gösterir.
 
