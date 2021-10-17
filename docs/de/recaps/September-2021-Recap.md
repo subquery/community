@@ -23,37 +23,51 @@ Wir waren begeistert, den [Abschluss unserer 9 Mio.Spendensammlung der Serie A](
 
 Rennick Palley von [Stratos Capital erklärte, dass SubQuery](https://medium.com/stratos-technologies/the-google-of-the-decentralized-world-our-investment-in-subquery-e6e7d949b00a) "das Google der dezentralen Welt" ist und dass "SubQuery ein prototypisches Beispiel dafür ist, wie Web 3-Prinzipien das, was aus Web 2 funktioniert, übernehmen und es transparent und fair machen , und gemeinschaftsorientiert."
 
-While Ninor Mansor of Arrington Capital shared in their ["The League of Parachains" report](https://arringtonxrpcapital.com/2021/09/17/the-league-of-parachains-polkadot/): "If Parachains are nations and the Relay Chain is an international alliance, then SubQuery is the common language --- the lingua franca --- of this new global order."
+Während Ninor Mansor von Arrington Capital in ihrem ["The League of Parachains"-Bericht](https://arringtonxrpcapital.com/2021/09/17/the-league-of-parachains-polkadot/) teilte: "Wenn Parachains Nationen sind und die Relay Chain eine internationale Allianz ist, dann ist SubQuery die gemeinsame Sprache --- die Lingua Franca --- dieser neuen globalen Ordnung."
 
-For more insights and analysis on SubQuery, please check out the following thoughts from [Arrington Capital](https://arringtonxrpcapital.com/2021/09/08/building-the-multi-chain-world-announcing-our-investment-into-subquery/), [Node Capital](https://www.node.capital/blog-posts/a-subquery-to-supercharge-your-insights) , [Stratos](https://medium.com/stratos-technologies/the-google-of-the-decentralized-world-our-investment-in-subquery-e6e7d949b00a) and [IconPlus Capital](https://medium.com/@iconpluscapital/understanding-the-aggregation-of-data-in-subquery-network-investment-thesis-90fe8f6b7abe) or check out this video by James Bayly, our Head of Business Development:
+Für nächste Einblicke und Analysen zu SubQuery lesen Sie bitte die folgenden Gedanken von [Arrington Capital](https://arringtonxrpcapital.com/2021/09/08/building-the-multi-chain-world-announcing-our-investment-into-subquery/), [Node Capital](https://www.node.capital/blog-posts/a-subquery-to-supercharge-your-insights) , [Stratos](https://medium.com/stratos-technologies/the-google-of-the-decentralized-world-our-investment-in-subquery-e6e7d949b00a) und
 
-[Watch Here](https://youtu.be/NRn3E-ERIds)
+IconPlus Capital< /3> oder sehen Sie sich dieses Video von James Bayly, unserem Head of Business Development, an:</p> 
 
-## Multi-language blogs and documentation 🌍
+[Schau hier](https://youtu.be/NRn3E-ERIds)
 
-We are fortunate to have community members and Ambassadors from around the world. As our mission is to help make developers' lives easier, we are working hard to make SubQuery accessible to our global community.
 
-In order to achieve this, we are pleased to announce that our [blog is well on track to being translated to 9 different languages](https://blog.subquery.network/). In addition, our [developer documentation is also in progress](https://doc.subquery.network/), with 4 languages released already. In the coming months, we will also be releasing modular educational content across all the major languages.
 
-## Exclusive workshops via our Discord community 🔊
+## Mehrsprachige Blogs und Dokumentation 🌍
 
-We are extremely proud of [our vibrant and inclusive Discord community](https://discord.com/invite/subquery) which is led by Sally, our newest team member. We have several social channels, however Discord is our primary community where we share news and engage with everyone.
+Wir haben das Glück, Community-Mitglieder und Botschafter aus der ganzen Welt zu haben. Da es unsere Mission ist, das Leben von Entwicklern zu erleichtern, arbeiten wir hart daran, SubQuery für unsere globale Community zugänglich zu machen.
 
-Recently we invited the community to a series of exclusive workshops to learn more about SubQuery and we will be doing more within our Discord in the coming months. If you want to hear about exclusive events and get more involved with the team, please make sure you join!
+Um dieses Ziel zu erreichen, freuen wir uns, Ihnen mitteilen zu können, dass unser [Blog auf dem besten Weg ist, in 9 verschiedene Sprachen übersetzt zu werden](https://blog.subquery.network/). Darüber hinaus ist auch unsere [Entwicklerdokumentation in Arbeit](https://doc.subquery.network/), wobei bereits 4 Sprachen veröffentlicht wurden. In den kommenden Monaten werden wir außerdem modulare Bildungsinhalte in allen wichtigen Sprachen veröffentlichen.
+
+
+
+## Exklusive Workshops mit Discord Community 🔊
+
+Wir sind sehr stolz auf [unsere lebendige und integrative Discord-Community](https://discord.com/invite/subquery), die von Sally, unserem neuesten Teammitglied, geleitet wird. Wir haben mehrere soziale Kanäle, aber Discord ist unsere primäre Community, in der wir Neuigkeiten teilen und mit allen interagieren.
+
+Vor kurzem haben wir die Community zu einer Reihe exklusiver Workshops eingeladen, um mehr über SubQuery zu erfahren, und wir werden in den kommenden Monaten mehr in unserem Discord tun. Wenn Sie mehr über exklusive Events erfahren und sich mehr mit dem Team einbringen möchten, stellen Sie sicher, dass Sie mitmachen!
+
+
 
 ## Encode Club Hackathon 👩‍🎓
 
 In order to get closer to the developer community and show our support for the ecosystem, we are thrilled to be sponsoring the largest challenge at [Encode Club's Polkadot Hackathon](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e). We've partnered with our friends at Acala/Karura to help the community build some game changing dApps and can't wait to see what the teams come up with!
 
+
+
 ## Community Growth 🚀
 
 Our community continues to grow at a rapid pace and we crossed two key milestones in September with [Twitter](https://twitter.com/SubQueryNetwork) crossing 10,000 followers and [our Discord group](https://discord.com/invite/subquery) reaching 3,000 members. Thank you for all of your support and if you're not following us already, please get involved!
+
+
 
 ## Interview with Layah Heilpern 🎙
 
 Crypto influencer Layah Heilpern interviewed Sam and James about our progress to date and our thoughts on the future decentralised SubQuery Network. You can watch the interview below.
 
 [Watch here](https://youtu.be/WApnpFjEofg)
+
+
 
 ## SubQuery Network Progress 🏗
 
@@ -62,6 +76,8 @@ In the past month we have really accelerated the work that we're doing on the Su
 We're putting the finishing touches on proof of indexing, a necessary and significant bit of work that provides guarantees that two SubQuery indexers are equivalent. We're using Merkle Mountain ranges to do this, take a look at the code if you're interested.
 
 Keep an eye out in the coming weeks for our first draft of a high level product roadmap --- we know you've all been asking for it!
+
+
 
 ## New Projects on SubQuery 🤝
 
