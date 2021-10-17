@@ -34,8 +34,8 @@ SubQuery has taken a different approach in where we look to Consumers to create 
 
 Our Indexer discovery and routing process will include performance data (latency and uptime) for all Indexers, and we will take steps to ensure that Consumers report on this data when unlocking micropayments to Indexers.
 
-This will ideally encourage Indexers in the SubQuery Network to provide infrastructure with high uptime and low latency, the best performance possible.
+Esto alentará idealmente a los Indexadores de SubQuery Network a proporcionar infraestructura con tiempo de alta actividad y baja latencia, el mejor rendimiento posible.
 
-## Focus on Substrate/Polkadot:
+## Concentrado en Substrate/Polkadot:
 
-SubQuery committed to focus on Polkadot and Substate from the day we started. This allowed our service and tools to be built from the outset to work with Substrate. On top of this, Polkadots unique architecture makes it easier for SubQuery to support multiple current and future blockchains automatically.
+SubQuery se comprometió a centrarse en Polkadot y Subestado desde el día en que comenzamos. Esto permitió que nuestro servicio y herramientas se construyeran desde el principio para trabajar con Substrate. Además, la arquitectura única de Polkadots hace más fácil que SubQuery soporte múltiples cadenas de bloques actuales y futuras automáticamente.
