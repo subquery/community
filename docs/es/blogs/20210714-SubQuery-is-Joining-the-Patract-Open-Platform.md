@@ -24,12 +24,12 @@ Patract Labs believes that the development of Polkadot Wasm contract technology 
 
 About Patract Labs
 
-Patract Labs provides solutions for the development of Parachains and DApps in the Wasm smart contract ecosystem of Polkadot. We help the community to design and develop on-chain contract modules and Runtime support, and provide DApp developers with full-stack tools and services support, covering development, testing, debugging, deployment, monitoring, data provider, and front-end development stages.
+Patract Labs provides solutions for the development of Parachains and DApps in the Wasm smart contract ecosystem of Polkadot. Ayudamos a la comunidad a diseñar y desarrollar módulos de contrato en cadena y soporte de Runtime, y proporcionamos a los desarrolladores de DApp herramientas y servicios completos de soporte cubre las fases de desarrollo, pruebas, debugging, despliegue, monitoreo, proveedor de datos y desarrollo del front-end.
 
 [Website](https://patract.io/)｜[Element](https://app.element.io/#/room/#PatractLabsDev:matrix.org)｜[Twitter](https://twitter.com/PatractLabs)｜[GitHub](https://github.com/patractlabs) ｜[Discord](https://discord.gg/yMRMqcAb24) ｜[Telegram](https://t.me/patract)
 
-About SubQuery
+Acerca de SubQuery
 
-The mission of SubQuery is to make the world’s decentralized data more accessible. SubQuery is a data-as-a-service provider that aggregates and organises data from Polkadot and Substrate projects; it empowers Polkadot/Substrate projects to build better DApps by providing well-structured data for developers.
+La misión de SubQuery es hacer los datos descentralizados del mundo más accesibles. SubQuery es un proveedor de servicios de datos que agrega y organiza datos de proyectos Polkadot y Substrate; empoderar proyectos Polkadot/Substrate para construir mejores DApps proporcionando datos bien estructurados para desarrolladores.
 
 [Website](https://www.subquery.network/)丨[Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Linkedin](https://www.linkedin.com/company/subquery) | [Medium](https://subquery.medium.com/)丨[GitHub](https://github.com/subquery/subql) | [Matrix](https://matrix.to/#/#subquery:matrix.org)
