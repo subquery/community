@@ -32,30 +32,30 @@ En SubQuery, trabajamos duro para lograr lo que hacemos. Del mismo modo, se espe
 
 **Desarrollo de red:** Espere que su red profesional crezca siendo un embajador de uno de los mejores proyectos Polkadot. Conoce a otros embajadores de todo el mundo y recibe presentaciones a proyectos locales de Polkadot que necesitamos apoyar localmente. Incluso puede obtener entrada gratuita para representar a SubQuery en eventos en su área local.
 
-**Swag y otras cosas gratis:** ¡A todo el mundo le gusta las cosas gratis! Recibe una asignación anual de SubQuery swag que te hará destacar del resto. Plus additional allocation that you can share around at community events. You’ll also receive an exclusive NFT for your Ambassador status.
+**Swag y otras cosas gratis:** ¡A todo el mundo le gusta las cosas gratis! Recibe una asignación anual de SubQuery swag que te hará destacar del resto. Además de la asignación adicional que puedes compartir en eventos de la comunidad. También recibiás un NFT exclusivo para tu estatus de Embajador.
 
-## How does it work
+## ¿Cómo funciona?
 
-Our Ambassador program has multiple tiers, each tier has different benefits and capabilities. You can move up tiers by participating in Ambassador activities and working hard for us.
+Nuestro programa de Embajadores tiene múltiples niveles, cada nivel tiene diferentes beneficios y capacidades. Usted puede subir niveles participando en las actividades del Embajador y trabajando duro para nosotros.
 
-Once you have sent through an application, we will select candidates that align with our values. If selected you are placed in our trainee program and will receive an information package, expanding your understanding of SubQuery. After this, you can start to work through the trainee program by completing certain onboarding tasks (e.g. creating a SubQuery Project). We will host workshops throughout this process to support you.
+Una vez que haya enviado una solicitud, seleccionaremos candidatos que se ajusten a nuestros valores. Si lo seleccionamos, usted se coloca en nuestro programa de prácticas y recibirá un paquete de información, ampliando su comprensión de SubQuery. Después de esto, puede comenzar a trabajar a través del programa de prácticas completando ciertas tareas de incorporación (por ejemplo, crear un Proyecto de SubQuery). Realizaremos talleres durante todo este proceso para apoyarle.
 
-Once you pass the trainee program, you can call yourself a SubQuery ambassador and will be accepted into our full program. From here on you can continue to work though the program and progress up the tiers, earning more rewards and benefits as you climb the ranks.
+Una vez que pase el programa de aprendizaje, puede llamarse embajador de SubQuery y será aceptado en nuestro programa completo. Desde aquí puedes continuar trabajando a través del programa y progresar en los niveles, ganar más recompensas y beneficios a medida que subas el rango.
 
-[Apply Here](https://forms.gle/GXBbJ6LDpNfM2v1X6)
+[Aplica aquí](https://forms.gle/GXBbJ6LDpNfM2v1X6)
 
-## Ambassador Activities
+## Actividades del embajador
 
-SubQuery Ambassadors are able to contribute through four main areas, including event management, content creation, translation, and community moderation. You can participate in as many areas as you want, you’re not bound to any single one.
+Los Embajadores de SubQuery pueden contribuir a través de cuatro áreas principales, incluyendo gestión de eventos, creación de contenidos, traducción y moderación de la comunidad. Puedes participar en todas las áreas que quieras, no estás vinculado a ninguna sola.
 
-**Event Management:** Build local communities by hosting, organising, and managing different events. Building a local community will be a key part of growing the SubQuery community. SubQuery will support you by providing funding for events, sending swag/merchandise to be given away, as well as attending Q&As or online events as speakers or in AMA sessions.
+**Gestión de eventos:** Construir comunidades locales organizando y gestionando diferentes eventos. Construir una comunidad local será una parte clave del crecimiento de la comunidad de SubQuery. SubQuery te apoyará proporcionando fondos para eventos, enviando swag/mercancía para ser entregada, así como asistir a Q&Como o eventos en línea como oradores o en sesiones AMA.
 
-**Content Creation:** We have a long list of content and support material that we need help creating. Remember, our success relies on the ability for our customers to build amazing things on our service, so we need your help to make that easier.
+**Creación de contenido:** Tenemos una larga lista de contenido y material de soporte que necesitamos ayuda para crear. Recuerda, nuestro éxito depende de la capacidad de nuestros clientes para construir cosas asombrosas en nuestro servicio, así que necesitamos su ayuda para que esto sea más fácil.
 
-Content includes videos, infographics, tutorials, animations, or any other related material, to inform, educate, or inspire community members within the SubQuery Ecosystem. SubQuery will support Content Creators by providing branding assets and expertise. We’ll also use SubQuery’s marketing channels to increase awareness of your content (and yourself).
+El contenido incluye vídeos, infográficos, tutoriales, animaciones o cualquier otro material relacionado, para informar, educar o inspirar a los miembros de la comunidad dentro del ecosistema de SubQuery. SubQuery apoyará a los Creadores de Contenido proporcionando activos y experiencia de marca. También usaremos los canales de marketing de SubQuery para aumentar el interes sobre tu contenido (y tú).
 
-**Translation:** Our customers don’t just speak english! We need your help making SubQuery more accessible by translating our content into your own language, as well as helping sharing the word to our international community.
+**Traducción:** ¡Nuestros clientes no solo hablan inglés! Necesitamos tu ayuda para que SubQuery sea más accesible traduciendo nuestro contenido a tu propio idioma, además de ayudar a compartir la palabra a nuestra comunidad internacional.
 
-**Community Moderation:** Moderators will help grow the SubQuery community by ensuring that official community channels are active and engaging. SubQuery will support Moderators by promoting the channels that they monitor, as well as provide guidelines for our expectations.
+**Moderación de la comunidad:** Los moderadores ayudarán a hacer crecer la comunidad de SubQuery asegurando que los canales oficiales de la comunidad estén activos y participantes. SubQuery apoyará a los moderadores promoviendo los canales que monitor, así como proveerá pautas para nuestras expectativas.
 
 ![](https://miro.medium.com/max/1400/1*xj6_UL1ZWYzlLmlVk25JzQ.png)
