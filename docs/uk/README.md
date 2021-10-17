@@ -8,9 +8,9 @@ SubQuery тут, щоб допомогти вам трансформувати �
 
 ## Нам потрібна допомога з перекладом!
 
-Ми розуміємо, що одна з наших найбільших сильних сторін - це наша спільнота, і з вашою допомогою ми хочемо зростати та заснувати місцевих послів, які допомагатимуть перекладати наш матеріал для громад по всьому світу.
+Ми розуміємо, що одна з наших найбільших сильних сторін - це наша спільнота, і з вашою допомогою ми хочемо зростати та заснувати місцевих амбассадорів, які допомагатимуть перекладати наш матеріал для громад по всьому світу.
 
-[Приєднуйтесь до нашої програми "Посол"](https://doc.subquery.network/miscellaneous/ambassadors.html)
+[Приєднуйтесь до нашої програми "Амбассадор"](https://doc.subquery.network/miscellaneous/ambassadors.html)
 
 ## Посилання на соціальні медіа
 
@@ -18,25 +18,25 @@ SubQuery - це активний проект, який підтримує та 
 
 Наша мета - завжди слухати та взаємодіяти з нашою лояльною спільнотою, тому, будь ласка, приєднуйтесь до розмови та надсилайте нам свої ідеї чи запитання!
 
-### Official SubQuery Communities
+### Офіційні спільноти SubQuery
 
 - [Linktree](https://linktr.ee/subquerynetwork)
-- [Discord](https://discord.com/invite/subquery) (Primary Community with dedicated technical support channels)
-- [Medium](https://subquery.medium.com) (Primary announcements channel)
+- [Discord](https://discord.com/invite/subquery) (Первинна спільнота з виділеними каналами технічної підтримки)
+- [Medium](https://subquery.medium.com) (Первинний канал оголошень)
 - [Twitter](https://twitter.com/subquerynetwork)
 - [ Telegram ](https://t.me/subquerynetwork) (лише канал оголошень)
 - [GitHub](https://github.com/SubQuery/subql)
 - [Matrix/Riot](https://matrix.to/#/#subquery:matrix.org)
 - [LinkedIn](https://www.linkedin.com/company/subquery)
 
-### Unofficial SubQuery Communities
+### Неофіційні спільноти SubQuery
 
-These communities are not moderated by the SubQuery team, but our ambassadors may be there to provide support. Please be careful of scams as SubQuery is **not** responsible for what happens within them.
+Ці спільноти не модеруються командою SubQuery, але наші амбассадори можуть бути там, щоб надати підтримку. Будьте обережні щодо шахрайства, оскільки SubQuery **не ** несе відповідальності за те, що відбувається в цих чатах.
 
-- [Telegram (Chinese)](https://t.me/subquerychina)
-- [Telegram (Russian)](https://t.me/SubQuery_russia)
-- [Telegram (Spanish)](https://t.me/SubQueryES)
-- [Telegram (Thai)](https://t.me/subquerynetworkthai)
-- [Telegram (Turkish)](https://t.me/subquery_TR)
-- [Telegram (Vietnamese)](https://t.me/subqueryvietnam)
-- [Telegram (Vietnamese Announcement)](https://t.me/subqueryannvn)
+- [Telegram (Китайська)](https://t.me/subquerychina)
+- [Telegram (Російська)](https://t.me/SubQuery_russia)
+- [Telegram (Іспанська)](https://t.me/SubQueryES)
+- [Telegram (Тайська)](https://t.me/subquerynetworkthai)
+- [Telegram (Турецька)](https://t.me/subquery_TR)
+- [Telegram (В'єтнамська)](https://t.me/subqueryvietnam)
+- [Telegram (В'єтнамськi оголошення)](https://t.me/subqueryannvn)
