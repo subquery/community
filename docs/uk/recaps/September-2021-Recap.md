@@ -37,7 +37,7 @@
 
 ## Ексклюзивні майстер -класи з спільнотою Discord 🔊
 
-Ми надзвичайно пишаємося [ нашою яскравою та всеохоплюючою спільнотою Discord ](https://discord.com/invite/subquery), яку очолює Саллі, наш найновіший член команди. We have several social channels, however Discord is our primary community where we share news and engage with everyone.
+Ми надзвичайно пишаємося [ нашою яскравою та всеохоплюючою спільнотою Discord ](https://discord.com/invite/subquery), яку очолює Саллі, наш найновіший член команди. У нас є кілька соціальних каналів, проте Discord - це наша основна спільнота, де ми ділимося новинами та спілкуємось з усіма.
 
 Recently we invited the community to a series of exclusive workshops to learn more about SubQuery and we will be doing more within our Discord in the coming months. If you want to hear about exclusive events and get more involved with the team, please make sure you join!
 
