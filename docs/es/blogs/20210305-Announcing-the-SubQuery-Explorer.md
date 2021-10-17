@@ -20,25 +20,25 @@ También notarás que SubQuery Explorer proporciona un campo de juego para descu
 
 ## **Staking Sum SubQuery Project (**[GitHub Project Code](https://github.com/subquery/subql-examples/tree/main/sum-reward))
 
-You can quickly find total staking revenue awarded to any account since the beginning of time by querying their account address. This subquery project indexes and records the accounts participating in the staking bond on the blockchain. The continued indexing will find out obtained staking reward and slashes for this account and aggregates their sums to a database.
+Usted puede encontrar rápidamente los ingresos totales de apuesta otorgados a cualquier cuenta desde el principio del tiempo consultando su dirección de cuenta. Este proyecto de subconsulta indexa y registra las cuentas que participan en el bono de apuesta en la cadena de bloques. El índice continuado descubrirá las recompensas obtenidas de apuesta y las barras de esta cuenta y agregará sus sumas a una base de datos.
 
-## **Validator Threshold SubQuery Project (**[GitHub Project Code](https://github.com/subquery/subql-examples/tree/main/validator-threshold))
+## **Umbral de validación del proyecto subquery (**[Código del proyecto GitHub](https://github.com/subquery/subql-examples/tree/main/validator-threshold))
 
-You can quickly see the minimum staking amount required for a validator to be elected. This project is an excellent example of implementing query states in the mapping function. It first finds the active staking Era through a state query and records the validators of this session staking amount by each. It then calculates the minimum staking amount and the total amount staked in this Era. Lastly, it records the maximum number of nominators that can be rewarded.
+Indexa la cantidad mínima de apuesta requerida para que un validador sea elegido. Este proyecto es un excelente ejemplo de implementación de estados de consulta en la función de mapeo. Primero encuentra la Era de la apuesta activa a través de una consulta estatal y registra cada uno de los validadores de esta sesión. Luego calcula la cantidad mínima de apuesta y la cantidad total apostada en esta era. Por último, registra el número máximo de nominadores que pueden ser recompensados.
 
-This SubQuery Explorer is just the first set of our plans to build a community hub for Polkadot data. We’re going to follow up with the following features:
+Este SubQuery Explorer es sólo el primer conjunto de nuestros planes para construir un centro comunitario para datos de Polkadot. Vamos a hacer un seguimiento con las siguientes características:
 
--   We’re focusing on community tools, so you can expect more in depth developer documentation, easy to follow tutorials, and example projects that highlight some really cool use cases for the data that SubQuery surfaces.
--   More SubQuery projects will slowly come online based on community feedback,we’d love some ideas on what you’d love to see next — reach out on any of our social channels (see below)
--   We’re going to build a partner platform, so that our community can build and upload their own SubQuery projects and we’ll manage and host them for you for free.
+-   Nos estamos centrando en las herramientas de la comunidad, así que puedes esperar más documentación en profundidad para desarrolladores, sencillos de seguir los tutoriales, y proyectos de ejemplo que destacan algunos casos de uso realmente fresco para los datos que subQuery superficie.
+-   Más proyectos de SubQuery se conectarán lentamente en base a comentarios de la comunidad, me encantarían algunas ideas sobre lo que te gustaría ver a continuación: contacta con cualquiera de nuestros canales sociales (ver abajo)
+-   Vamos a construir una plataforma de socios, para que nuestra comunidad pueda construir y cargar sus propios proyectos SubQuery y los gestionaremos y alojaremos gratis.
 
-Start querying data on the new [SubQuery Explorer](https://explorer.subquery.network/)
+Comiece a consultar datos en el nuevo [Explorador SubQuery](https://explorer.subquery.network/)
 
-Build your own SubQuery project by following our [SubQuery docs](https://doc.subquery.network/)
+Construya su propio proyecto SubQuery siguiendo nuestros [documentos SubQuery](https://doc.subquery.network/)
 
-Visit our [website](https://subquery.network/)
+Visite nuestro [sitio web](https://subquery.network/)
 
-**Talk to us on:**
+**Habla con nosotros en:**
 
 -   [hello@subquery.network](mailto:hello@subquery.network)
 -   [Discord](https://discord.com/invite/78zg8aBSMG)
