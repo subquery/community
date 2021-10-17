@@ -18,20 +18,20 @@ SubQuery es un proyecto activo que se mantiene y comunica con nuestros seguidore
 
 Nuestra meta es siempre escuchar e interactuar con nuestra leal comunidad, así que por favor, ¡únase a la conversación y envíenos sus ideas o preguntas!
 
-### Official SubQuery Communities
+### Comunidades Oficiales de SubQuery
 
 - [Linktree](https://linktr.ee/subquerynetwork)
-- [Discord](https://discord.com/invite/subquery) (Primary Community with dedicated technical support channels)
-- [Medium](https://subquery.medium.com) (Primary announcements channel)
+- [Discord](https://discord.com/invite/subquery) (Comunidad primaria con canales de soporte técnico dedicados)
+- [Medium](https://subquery.medium.com) (Canal de anuncios principal)
 - [Twitter](https://twitter.com/subquerynetwork)
 - [Telegram](https://t.me/subquerynetwork) (Canal de anuncios unicamente)
 - [GitHub](https://github.com/SubQuery/subql)
 - [Matrix/Riot](https://matrix.to/#/#subquery:matrix.org)
 - [LinkedIn](https://www.linkedin.com/company/subquery)
 
-### Unofficial SubQuery Communities
+### Comunidades de SubQuery no oficiales
 
-These communities are not moderated by the SubQuery team, but our ambassadors may be there to provide support. Please be careful of scams as SubQuery is **not** responsible for what happens within them.
+Estas comunidades no son moderadas por el equipo de SubQuery, pero es posible que nuestros embajadores estén allí para proporcionar apoyo. Por favor, ten cuidado con las estafas ya que SubQuery **no** es responsable de lo que sucede dentro de ellas.
 
 - [Telegram (Chinese)](https://t.me/subquerychina)
 - [Telegram (Russian)](https://t.me/SubQuery_russia)
