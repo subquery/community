@@ -33,11 +33,7 @@ SubQuery에 대한 더 많은 통찰력과 분석은 [Arrington Capital](https:/
 
 전 세계에서 온 커뮤니티 회원과 대사가 있다는 것은 행운입니다. 우리의 임무는 개발자의 삶을 더 쉽게 만드는 것이므로 SubQuery를 글로벌 커뮤니티에서 액세스할 수 있도록 열심히 노력하고 있습니다.
 
-이를 달성하기 위해 저희
-
-블로그가 9개 언어로 번역될 예정임<0>을 발표하게 된 것을 기쁘게 생각합니다. 또한 이미 4개 언어가 [릴리스된 개발자 문서도 진행 중](https://doc.subquery.network/)입니다. 앞으로 몇 달 안에 모든 주요 언어에 대해 모듈식 교육 콘텐츠를 출시할 예정입니다.</p> 
-
-
+이를 달성하기 위해 저희 [블로그가 9개 언어로 번역될 예정임](https://blog.subquery.network/)을 발표하게 된 것을 기쁘게 생각합니다. 또한 이미 4개 언어가 [릴리스된 개발자 문서도 진행 중](https://doc.subquery.network/)입니다. 앞으로 몇 달 안에 모든 주요 언어에 대해 모듈식 교육 콘텐츠를 출시할 예정입니다.
 
 ## Discord 커뮤니티를 통한 독점 워크샵 🔊
 
@@ -45,27 +41,19 @@ SubQuery에 대한 더 많은 통찰력과 분석은 [Arrington Capital](https:/
 
 최근에 우리는 SubQuery에 대해 더 많이 배우기 위해 일련의 독점 워크샵에 커뮤니티를 초대했으며 앞으로 몇 개월 동안 Discord에서 더 많은 일을 할 것입니다. 독점 이벤트에 대한 소식을 듣고 팀에 더 많이 참여하고 싶다면 꼭 참여하세요!
 
-
-
 ## 인코딩 클럽 해커톤 👩‍🎓
 
 개발자 커뮤니티에 더 가까워지고 생태계에 대한 지원을 보여주기 위해 [Encode Club의 Polkadot Hackathon](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e)에서 가장 큰 도전을 후원하게 된 것을 기쁘게 생각합니다. 우리는 커뮤니티가 판도를 바꾸는 dApp을 구축하는 데 도움을 주기 위해 Acala/Karura의 친구들과 협력했으며 팀이 무엇을 내놓을지 무척 기대됩니다!
 
-
-
 ## 커뮤니티 성장 🚀
 
 우리 커뮤니티는 빠른 속도로 계속 성장하고 있으며 9월에 [Twitter](https://twitter.com/SubQueryNetwork)의 팔로워 수가 10,000명을 넘어섰고 [Discord 그룹](https://discord.com/invite/subquery)이 3,000명의 회원을 달성하면서 두 가지 주요 이정표를 넘었습니다. 지원해 주셔서 감사합니다. 아직 팔로우하지 않으셨다면 참여해 주세요!
-
-
 
 ## Layah Heilpern과의 인터뷰 🎙
 
 크립토 인플루언서 Layah Heilpern은 Sam과 James를 인터뷰하여 현재까지의 진행 상황과 미래의 탈중앙화 SubQuery Network에 대한 생각에 대해 이야기했습니다. 인터뷰는 아래에서 볼 수 있습니다.
 
 [여기에서 시청](https://youtu.be/WApnpFjEofg)
-
-
 
 ## SubQuery 네트워크 진행률 🏗
 
@@ -74,8 +62,6 @@ SubQuery에 대한 더 많은 통찰력과 분석은 [Arrington Capital](https:/
 두 개의 SubQuery 인덱서가 동등함을 보장하는 필수적이고 중요한 작업인 인덱싱 증명을 마무리하는 중입니다. 우리는 이를 위해 Merkle Mountain 범위를 사용하고 있습니다. 관심이 있다면 코드를 살펴보십시오.
 
 높은 수준의 제품 로드맵의 첫 번째 초안을 위해 앞으로 몇 주 동안 주시하십시오 --- 우리는 당신이 그것을 모두 요구했다는 것을 알고 있습니다!
-
-
 
 ## SubQuery의 새로운 프로젝트 🤝
 
