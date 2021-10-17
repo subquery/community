@@ -1,33 +1,33 @@
-# SubQuery Network - Summary
+# Red de SubQuery - Resumen
 
 > How does the SubQuery Network work? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.) [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
 
-Today we’re going to talk about how the SubQuery Network works at a high level.
+Hoy vamos a hablar de cómo funciona SubQuery Network en un nivel alto.
 
-## Participants
+## Participantes
 
 
 ![](https://miro.medium.com/max/1400/1*9993cakplwupZC5tbUv3vA.png)
 
-Participants in the SubQuery Network
+Participantes en la Red de SubQuery
 
-There are three types of participants in the SubQuery Network:
+Hay tres tipos de participantes en la red de SubQuery:
 
--   **Consumers**: Consumers will make requests to the SubQuery Network for specific data and pay an advertised amount of SQT
--   **Indexers**: Indexers will host SubQuery Projects in their own infrastructure, running both the node and query service to index data and answer GraphQL requests.
--   **Delegators**: Delegators will participate in the network by supporting their favourite Indexers to earn rewards
+-   **Consumidores**: Los consumidores harán solicitudes a la red de SubQuery para datos específicos y pagarán una cantidad anunciada de SQT
+-   **Indexadores**: Los indexadores alojarán los proyectos de SubQuery en su propia infraestructura, ejecutando tanto el nodo como el servicio de consultas para indexar datos y responder solicitudes GraphQL.
+-   **Delegators**: Los delegadores participarán en la red apoyando a sus Indexadores favoritos para ganar recompensas
 
-## Indexers, Consumers, and Queries
+## Indexadores, Consumidores y Consultas
 
-Let’s start with Indexers, Indexers do a lot of the hard work behind the scenes. The manage hardware, run infrastructure, monitor resources, and choose the right SubQuery projects to index
+Empecemos por los Indexers, Indexadores hace mucho trabajo detrás de las escenas. El hardware de gestión, ejecutar infraestructura, supervisar recursos y elegir los proyectos de SubQuery correctos para indexar
 
-This takes time and money, but once they have this, Consumers may come and make requests. Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
+Esto lleva tiempo y dinero, pero una vez que lo tienen, los consumidores pueden venir a hacer peticiones. Los consumidores harán peticiones a la red de SubQuery para datos específicos y pagarán una cantidad anunciada de nuestro token, SQT.
 
 ![](https://miro.medium.com/max/1400/1*dKLkzSc2uXYaPW_IXUxstQ.png)
 
-Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
+Los consumidores harán peticiones a la red de SubQuery para datos específicos y pagarán una cantidad anunciada de nuestro token, SQT.
 
-## Cobb-Douglas Production Function
+## Función de Producción Cobb-Dougla
 
 This payment goes into a project revenue pool and at the end of a staking era (28 days) we take this project revenue pool and split it. It’s spit across indexers by something called the Cobb-Douglas production function.
 
