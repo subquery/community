@@ -1,10 +1,10 @@
-# NFTs on Kusama can be Explored on Kodadot and SubQuery
+# Los NFTs en Kusama pueden ser explorados en Kodadot y SubQuery
 
-**Today we want to announce our strategic partnership between Kodadot and SubQuery Network.**
+**Hoy queremos anunciar nuestra asociación estratégica entre Kodadot y SubQuery Network.**
 
 ![](https://miro.medium.com/max/1400/1*Y4kdG9uEoxrySzb19QKxPg.gif)
 
-Kodadot is a carbon neutral Kusama native NFT platform that uses the RMRK protocol. Users can mint, transfer, and burn NFTs on the network. Lo más importante es que Kodadot tiene un explorador de NFT basado en web que proporciona una interfaz de usuario intuitiva.
+Kodadot es una plataforma NFT nativa de Kusama que utiliza el protocolo RMRK. Los usuarios pueden detectar, transferir y grabar NFT en la red. Lo más importante es que Kodadot tiene un explorador de NFT basado en web que proporciona una interfaz de usuario intuitiva.
 
 Este frontal utiliza un [proyecto de subquery](https://explorer.subquery.network/subquery/vikiival/magick) para hacer esta exploración más rápida.
 
