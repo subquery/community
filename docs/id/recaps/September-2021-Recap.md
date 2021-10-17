@@ -25,13 +25,9 @@ Rennick Palley dari [Stratos Capital menyatakan bahwa SubQuery](https://medium.c
 
 Sementara Ninor Mansor dari Arrington Capital berbagi dalam [laporan "The League of Parachains"](https://arringtonxrpcapital.com/2021/09/17/the-league-of-parachains-polkadot/): "Jika Parachains adalah negara dan Relay Chain adalah aliansi internasional, maka SubQuery adalah bahasa umum --- lingua franca --- dari tatanan global baru ini."
 
-Untuk wawasan dan analisis lebih lanjut tentang SubQuery, silakan lihat pemikiran berikut dari [Arrington Capital](https://arringtonxrpcapital.com/2021/09/08/building-the-multi-chain-world-announcing-our-investment-into-subquery/), [Node Capital](https://www.node.capital/blog-posts/a-subquery-to-supercharge-your-insights), [Stratos](https://medium.com/stratos-technologies/the-google-of-the-decentralized-world-our-investment-in-subquery-e6e7d949b00a) dan
-
-IconPlus Capital< /3> atau lihat video ini oleh James Bayly, Kepala Pengembangan Bisnis kami:</p> 
+Untuk wawasan dan analisis lebih lanjut tentang SubQuery, silakan lihat pemikiran berikut dari [Arrington Capital](https://arringtonxrpcapital.com/2021/09/08/building-the-multi-chain-world-announcing-our-investment-into-subquery/), [Node Capital](https://www.node.capital/blog-posts/a-subquery-to-supercharge-your-insights), [Stratos](https://medium.com/stratos-technologies/the-google-of-the-decentralized-world-our-investment-in-subquery-e6e7d949b00a) dan [IconPlus Capital](https://medium.com/@iconpluscapital/understanding-the-aggregation-of-data-in-subquery-network-investment-thesis-90fe8f6b7abe) atau lihat video ini oleh James Bayly, Kepala Pengembangan Bisnis kami:
 
 [Lihat Disini](https://youtu.be/NRn3E-ERIds)
-
-
 
 ## Blog dan dokumentasi multi-bahasa 🌍
 
@@ -39,35 +35,25 @@ Kami beruntung memiliki anggota komunitas dan duta besar dari seluruh dunia. Kar
 
 Untuk mencapai hal ini, dengan senang hati kami umumkan bahwa [blog kami sudah siap untuk diterjemahkan ke dalam 9 bahasa berbeda](https://blog.subquery.network/). Selain itu, [dokumentasi pengembang kami juga sedang dalam proses](https://doc.subquery.network/), dengan 4 bahasa telah dirilis. Dalam beberapa bulan mendatang, kami juga akan merilis konten pendidikan modular di semua bahasa utama.
 
-
-
 ## Lokakarya eksklusif melalui komunitas Discord kami🔊
 
 Kami sangat bangga dengan [komunitas Discord kami yang dinamis dan inklusif](https://discord.com/invite/subquery) yang dipimpin oleh Sally, anggota tim terbaru kami. Kami memiliki beberapa saluran sosial, namun Discord adalah komunitas utama kami tempat kami berbagi berita dan terlibat dengan semua orang.
 
 Baru-baru ini kami mengundang komunitas ke serangkaian lokakarya eksklusif untuk mempelajari lebih lanjut tentang SubQuery dan kami akan melakukan lebih banyak lagi dalam Perselisihan kami dalam beberapa bulan mendatang. Jika Anda ingin mendengar tentang acara eksklusif dan terlibat lebih banyak dengan tim, pastikan Anda bergabung!
 
-
-
 ## Encode Club Hackathon 👩‍🎓
 
 Untuk lebih dekat dengan komunitas pengembang dan menunjukkan dukungan kami untuk ekosistem, kami sangat senang dapat mensponsori tantangan terbesar di [Polkadot Hackathon Encode Club](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e). Kami telah bermitra dengan teman-teman kami di Acala/Karura untuk membantu komunitas membangun beberapa dApps yang mengubah permainan dan tidak sabar untuk melihat apa yang dihasilkan oleh tim!
 
-
-
 ## Pertumbuhan Komunitas 🚀
 
 Komunitas kami terus berkembang dengan pesat dan kami melewati dua tonggak penting pada bulan September dengan [Twitter](https://twitter.com/SubQueryNetwork) mencapai 10.000 pengikut dan [grup Perselisihan kami](https://discord.com/invite/subquery) mencapai 3.000 anggota. Terima kasih atas semua dukungan Anda dan jika Anda belum mengikuti kami, silakan terlibat!
-
-
 
 ## Interview dengan Layah Heilpern 🎙
 
 Influencer Crypto Layah Heilpern mewawancarai Sam dan James tentang kemajuan kami hingga saat ini dan pemikiran kami tentang Jaringan SubQuery terdesentralisasi di masa depan. Anda dapat menonton wawancara di bawah ini.
 
 [Tonton Disini](https://youtu.be/WApnpFjEofg)
-
-
 
 ## Kemajuan Jaringan SubQuery 🏗
 
@@ -76,8 +62,6 @@ Dalam sebulan terakhir, kami benar-benar mempercepat pekerjaan yang kami lakukan
 We're putting the finishing touches on proof of indexing, a necessary and significant bit of work that provides guarantees that two SubQuery indexers are equivalent. Kami menggunakan pegunungan Merkle untuk melakukan ini, lihat kodenya jika Anda tertarik.
 
 Nantikan dalam beberapa minggu mendatang untuk draf pertama kami dari peta jalan produk tingkat tinggi --- kami tahu Anda semua telah memintanya!
-
-
 
 ## Projek baru di SubQuery 🤝
 
