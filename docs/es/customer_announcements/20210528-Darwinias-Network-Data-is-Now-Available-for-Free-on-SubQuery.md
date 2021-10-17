@@ -1,14 +1,14 @@
-# Darwinia's Network Data is Now Available for Free on SubQuery
+# Los datos de la red de Darwinia están ahora disponibles gratis en SubQuery
 
 ![](https://miro.medium.com/max/1400/0*7_sagAfI_wTKePuH)
 
 **中文阅读版本请见下方**
 
-**We are pleased to announce that SubQuery and Darwinia Network have formed a strategic partnership.**
+**Nos complace anunciar que SubQuery y Darwinia Network han formado una asociación estratégica.**
 
-[Darwinia](https://darwinia.network/) recently released two new SubQuery projects, one for their [main network](https://explorer.subquery.network/subquery/darwinia-network/darwinia) and the other for [Crab](https://explorer.subquery.network/subquery/darwinia-network/crab), their canary network. By exposing their data on SubQuery, Darwinia is opening the door for their application ecosystem to build more engaging applications on this free datasource.
+[Darwinia](https://darwinia.network/) ha publicado recientemente dos nuevos proyectos SubQuery una para su [red principal](https://explorer.subquery.network/subquery/darwinia-network/darwinia) y la otra para [Tocar](https://explorer.subquery.network/subquery/darwinia-network/crab), su red canaria. Al exponer sus datos en SubQuery, Darwinia está abriendo la puerta a su ecosistema de aplicaciones para construir aplicaciones más atractivas en esta fuente de datos gratuita.
 
-> “Using SubQuery to query Darwinia’s on-chain data has become very simple and flexible. SubQuery regards blockchain data as a graph, and leverages the extensibility of GraphQL to introduce additional functionality. We believe that in the future, the data interface on the substrate chain will mainly use GraphQL, SubQuery is making this a reality”. — Darwinia
+> “Utilizar SubQuery para consultar los datos en cadena de Darwinia se ha vuelto muy simple y flexible. SubQuery considera los datos de blockchain como una gráfica, y aprovecha la extensibilidad de GraphQL para introducir funcionalidad adicional. We believe that in the future, the data interface on the substrate chain will mainly use GraphQL, SubQuery is making this a reality”. — Darwinia
 
 [SubQuery’s](https://subquery.network/) service helps Darwinia unlock chain data and to make it more accessible for their application ecosystem. Applications, for example a NFT marketplace, could use the data from Darwnia’s SubQuery to show auction statistics, and could even extend the Darwinia SubQuery project to aggregate and transform data to provide even more unique data insights.
 
