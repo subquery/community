@@ -28,14 +28,14 @@ Explora el proyecto de SORA en el explorador de SubQuery [aquí](https://explore
 
 ### Acerca de SORA
 
-SORA is creating a supranational world economic system with built-in tools for decentralized finance (DeFi) under the cryptographic sortition-based democratic supervision of the SORA Parliament.
+SORA está creando un sistema económico mundial con herramientas integradas para las finanzas descentralizadas (DeFi) bajo la supervisión democrática del Parlamento SORA basada en la clasificación criptográfica.
 
-The SORA network excels at providing tools for decentralized applications that use digital assets, such as atomic token swaps, bridging tokens to other blockchains, and creating programmatic rules involving digital assets.
+La red SORA destaca por proporcionar herramientas para aplicaciones descentralizadas que utilizan activos digitales, tales como los swaps atómicos de tokens, los tokens de puente a otras blockchains, y la creación de reglas programáticas que involucren activos digitales.
 
 [Website](https://sora.org/) | [Reddit](https://www.reddit.com/r/SORA/) | [Blog](https://sora.org/blog) | [Telegram](https://t.me/sora_xor) | [Twitter](https://twitter.com/sora_xor) | [YouTube](https://youtube.com/sora_xor) | [Instagram](https://instagram.com/sora_xor)
 
-### About SubQuery
+### Acerca de SubQuery
 
-[SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications (DApps). Currently focused on Polkadot and Substrate projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+[SubQuery](https://subquery.network/) es una agregación de datos descentralizada, indexación & capa de consulta entre las blockchains Capa-1 y las aplicaciones descentralizadas (DApps). Actualmente enfocados en proyectos de Polkadot y Substrate, estos datos a manera de servicio permiten a los desarrolladores concentrarse en su caso de uso principal y front-end, sin necesidad de perder tiempo construyendo un backend personalizado para el procesamiento de datos.
 
 [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Email](mailto:hello@subquery.network)
