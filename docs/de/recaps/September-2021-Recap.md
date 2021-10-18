@@ -51,47 +51,47 @@ Vor kurzem haben wir die Community zu einer Reihe exklusiver Workshops eingelade
 
 ## Encode Club Hackathon 👩‍🎓
 
-In order to get closer to the developer community and show our support for the ecosystem, we are thrilled to be sponsoring the largest challenge at [Encode Club's Polkadot Hackathon](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e). We've partnered with our friends at Acala/Karura to help the community build some game changing dApps and can't wait to see what the teams come up with!
+Um der Entwickler-Community näher zu kommen und unsere Unterstützung für das Ökosystem zu zeigen, freuen wir uns, die größte Herausforderung beim [Polkadot Hackathon des Encode Club](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e) zu sponsern. Wir haben uns mit unseren Freunden bei Acala/Karura zusammengetan, um der Community dabei zu helfen, einige bahnbrechende dApps zu entwickeln, und können es kaum erwarten zu sehen, was die Teams herausbringen! 
 
 
 
-## Community Growth 🚀
+## Gemeinschaftswachstum 🚀
 
-Our community continues to grow at a rapid pace and we crossed two key milestones in September with [Twitter](https://twitter.com/SubQueryNetwork) crossing 10,000 followers and [our Discord group](https://discord.com/invite/subquery) reaching 3,000 members. Thank you for all of your support and if you're not following us already, please get involved!
-
-
-
-## Interview with Layah Heilpern 🎙
-
-Crypto influencer Layah Heilpern interviewed Sam and James about our progress to date and our thoughts on the future decentralised SubQuery Network. You can watch the interview below.
-
-[Watch here](https://youtu.be/WApnpFjEofg)
+Unsere Community wächst weiterhin rasant und wir haben im September zwei wichtige Meilensteine erreicht: [Twitter](https://twitter.com/SubQueryNetwork) hat 10.000 Follower und [unsere Discord-Gruppe](https://discord.com/invite/subquery) erreichte 3.000 Mitglieder. Vielen Dank für Ihre Unterstützung und wenn Sie uns noch nicht folgen, machen Sie mit!
 
 
 
-## SubQuery Network Progress 🏗
+## Interview mit Layah Heilpern 🎙
 
-In the past month we have really accelerated the work that we're doing on the SubQuery Network, [our decentralised and incentivised future](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010). We've brought on new members to our team to start work on code and also fine tune our tokenomics.
+Krypto-Influencer Layah Heilpern hat Sam und James zu unseren bisherigen Fortschritten und unseren Gedanken zum zukünftigen dezentralen SubQuery-Netzwerk interviewt. Das Interview können Sie sich unten ansehen.
 
-We're putting the finishing touches on proof of indexing, a necessary and significant bit of work that provides guarantees that two SubQuery indexers are equivalent. We're using Merkle Mountain ranges to do this, take a look at the code if you're interested.
-
-Keep an eye out in the coming weeks for our first draft of a high level product roadmap --- we know you've all been asking for it!
+[Schau hier](https://youtu.be/WApnpFjEofg)
 
 
 
-## New Projects on SubQuery 🤝
+## SubQuery-Netzwerkfortschritt 🏗
 
-In September, we announced that we were helping the teams at [Parallel Finance](https://parallel.fi/) and [DotMarketCap](http://www.dotmarketcap.com/) with their data needs.
+Im letzten Monat haben wir unsere Arbeit am SubQuery-Netzwerk, [unserer dezentralisierten und anreizorientierten Zukunft](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010), wirklich beschleunigt. Wir haben neue Mitglieder in unser Team geholt, um mit der Arbeit am Code zu beginnen und auch unsere Tokenomik zu verfeinern.
 
-Parallel Finance is a decentralized money market protocol that offers lending, staking, and borrowing in the Polkadot ecosystem. [SubQuery's service helps Parallel Finance](https://subquery.medium.com/parallel-finance-is-creating-the-next-defi-platform-using-subquery-6fc1e366985a) store, analyse, and query data on their current Heiko testnet. Some of this data is used directly in Parallel's new application, helping users understand and analyse DeFi data.
+Wir geben dem Indizierungsnachweis den letzten Schliff, eine notwendige und bedeutende Arbeit, die garantiert, dass zwei SubQuery-Indexer gleichwertig sind. Wir verwenden dazu Merkle Mountain Ranges, sehen Sie sich den Code an, wenn Sie daran interessiert sind.
 
-We are always delighted to get feedback like this from our partners:
+Halten Sie in den kommenden Wochen Ausschau nach unserem ersten Entwurf einer High-Level-Produkt-Roadmap --- wir wissen, dass Sie alle danach gefragt haben!
 
-_"SubQuery is an excellent tool which brought traditional indexing & query technology to Parallel Heiko. The plug-and-play service really saved us a lot of time developing our own block indexing tool and maintaining our own solution."_ --- Parallel Finance
 
-In the case of DotMarketCap, [SubQuery was responsible for feeding information](https://subquery.medium.com/dotmarketcap-2-0-launches-with-support-from-subquery-and-subvis-ef85b5e0ee31) relating to the second batch of Kusama Parachain Auctions to DotMarketCap users. The interesting thing about this collaboration is that the real-time data was actually coming from SubQuery to an existing [project maintained by SubVis](https://explorer.subquery.network/subquery/subvis-io/kusama-auction) and then picked up again by DotMarketCap. For SubQuery, this is a realisation of our goal to build an open community marketplace of data in our Explorer, it also shows how symbiotic the Polkadot ecosystem is and how teams work together to achieve a shared goal of a decentralised future.
 
-If you would like to learn more [you can view all projects easily via our Explorer here](https://explorer.subquery.network/).
+## Neue Projekte in SubQuery🤝
+
+Im September gaben wir bekannt, dass wir die Teams von [Parallel Finance](https://parallel.fi/) und [DotMarketCap](http://www.dotmarketcap.com/) bei ihren Datenanforderungen unterstützen.
+
+Parallel Finance ist ein dezentralisiertes Geldmarktprotokoll, das Kredite, Staking und Borrowing im Polkadot-Ökosystem anbietet. Der Service von [SubQuery hilft Parallel Finance](https://subquery.medium.com/parallel-finance-is-creating-the-next-defi-platform-using-subquery-6fc1e366985a), Daten in ihrem aktuellen Heiko-Testnetz zu speichern, zu analysieren und abzufragen. Einige dieser Daten werden direkt in der neuen Anwendung von Parallel verwendet und helfen den Benutzern, DeFi-Daten zu verstehen und zu analysieren.
+
+Wir freuen uns immer über Feedback wie dieses von unseren Partnern:
+
+_"SubQuery ist ein hervorragendes Tool, das Parallel Heiko die traditionelle Indexierungs- und Abfragetechnologie brachte. Der Plug-and-Play-Service hat uns wirklich viel Zeit bei der Entwicklung unseres eigenen Blockindexierungstools und der Wartung unserer eigenen Lösung gespart."_ --- Parallel Finance
+
+Im Fall von DotMarketCap war [SubQuery dafür verantwortlich, DotMarketCap-Benutzer mit Informationen](https://subquery.medium.com/dotmarketcap-2-0-launches-with-support-from-subquery-and-subvis-ef85b5e0ee31) in Bezug auf die zweite Charge von Kusama Parachain-Auktionen zu versorgen. Das Interessante an dieser Zusammenarbeit ist, dass die Echtzeitdaten tatsächlich von SubQuery zu einem bestehenden [Projekt kamen, das von SubVis verwaltet wurde](https://explorer.subquery.network/subquery/subvis-io/kusama-auction) und dann von DotMarketCap wieder abgeholt wurden. Für SubQuery ist dies eine Verwirklichung unseres Ziels, einen offenen Community-Marktplatz für Daten in unserem Explorer aufzubauen, es zeigt auch, wie symbiotisch das Polkadot-Ökosystem ist und wie Teams zusammenarbeiten, um ein gemeinsames Ziel einer dezentralen Zukunft zu erreichen.
+
+Wenn Sie mehr erfahren möchten [können Sie sich hier alle Projekte bequem über unseren Explorer ansehen](https://explorer.subquery.network/).
 
 As always, please join our social channels to stay updated on our latest news and announcements.
 
