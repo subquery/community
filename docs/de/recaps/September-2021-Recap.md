@@ -93,8 +93,8 @@ Im Fall von DotMarketCap war [SubQuery dafür verantwortlich, DotMarketCap-Benut
 
 Wenn Sie mehr erfahren möchten [können Sie sich hier alle Projekte bequem über unseren Explorer ansehen](https://explorer.subquery.network/).
 
-As always, please join our social channels to stay updated on our latest news and announcements.
+Bitte treten Sie wie immer unseren sozialen Kanälen bei, um über unsere neuesten Nachrichten und Ankündigungen auf dem Laufenden zu bleiben.
 
-James, Sam, and the SubQuery Team
+James, Sam und das SubQuery-Team
 
-[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork) | [Webseite](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
