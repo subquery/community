@@ -1,11 +1,11 @@
-# July 2021 Recap
+# Resumen Julio 2021
 
 ![](https://miro.medium.com/max/1400/1*2z3_9s-SY7dAvfe6xf9IDA.png)
 
-## Community, Community, Community!
+## ¡Comunidad, Comunidad, Comunidad!
 
 
-Welcome to another monthly update from SubQuery. As you all know, community is a key element for every successful crypto project — this month we’ve started to expand our focus in this area.
+Bienvenido/a a la última actualización mensual de SubQuery. Como todos ustedes saben, es un elemento clave para cada proyecto criptográfico exitoso — este mes hemos comenzado a expandir nuestro enfoque en esta área.
 
 Actualización en este mes:
 
@@ -34,18 +34,18 @@ Nos hemos unido [a la alianza Patract Open Platform](https://subquery.medium.com
 
 Creemos que los contratos son una parte importante de un ecosistema polkadot emocionante. proporcionar servicios de indexación de datos para los contratos de Wasm siempre ha sido un objetivo importante de SubQuery. Es emocionante ver que la Plataforma Abierta ha reunido un gran número de grandes proyectos. y que todo el mundo colabore para contribuir al avance saludable y estable de los contratos de Wasm.
 
-Earlier last month I joined Jorrin Burns on Parity’s Relay Chain Podcast, we talked about our mission and how we were working with projects in our ecosystem. We also discussed how collaboration and feedback from other Polkadot projects in New Zealand (like Acala and Bitcountry) has influenced several of our value-added features, our long-term plans to become a parachain, and the road to 1 billion API requests.
+A principios del mes pasado me uní al Rin Burns en el Relay Chain Podcast de París, hablamos de nuestra misión y de cómo estábamos trabajando con proyectos en nuestro ecosistema. También discutimos cómo la colaboración y la retroalimentación de otros proyectos Polkadot en Nueva Zelanda (como Acala y Bitcountry) han influido en varias de nuestras características añadidas de valor, nuestros planes a largo plazo para convertirse en un parachain, y el camino a mil millones de solicitudes de API.
 
-[You can listen to the podcast on your favourite platform here.](https://relaychain.fm/35-querying-the-worlds-data-with-subquery)
+[Aquí puedes escuchar el podcast en tu plataforma favorita.](https://relaychain.fm/35-querying-the-worlds-data-with-subquery)
 
-> _“Documentation may not be glamorous work but it plays a vital role in communicating how something works and allows us to empower our community members to learn and unleash their creativity. That is why we believe documentation is so important”_ — Sean Au (SubQuery Academy)
+> _"_Documentation puede no ser un trabajo glamuroso, pero desempeña un papel vital en la comunicación de cómo funciona algo y nos permite capacitar a los miembros de nuestra comunidad para aprender y desatar su creatividad. Por eso creemos que la documentación es tan importante_— Sean Au (SubQuery Academy)
 
 ![](https://miro.medium.com/max/1200/0*tvcfXFxHc6shdmAy.gif)
 
-[Our new documentation website](https://doc.subquery.network/) has an inviting landing page designed to welcome all users, regardless of their technical understanding of blockchain or Polkadot. From the landing page users can jump straight into a getting started tutorial, or navigate off to the help they need.
+[Nuestro nuevo sitio web de documentación](https://doc.subquery.network/) tiene una página de inicio de invitación diseñada para dar la bienvenida a todos los usuarios, independientemente de su comprensión técnica de blockchain o Polkadot. Desde la página de inicio los usuarios pueden saltar directamente a un tutorial de inicio, o navegar hasta la ayuda que necesitan.
 
-Traditionally, blockchain documentation is incredibly technical and littered with jargon — you have to come from a developer background to easily understand it. We’ve taken a different path and written content for users at all levels of experience.
+Tradicionalmente, la documentación de blockchain es increíblemente técnica y está plagada de jerga — tienes que venir de un entorno de desarrollador para entenderlo fácilmente. Hemos tomado una ruta diferente y contenido escrito para los usuarios en todos los niveles de experiencia.
 
-Our goal is to publish a tutorial for every piece of major functionality in SubQuery. That means a step-by-step video and written guide with working examples as outcomes — you can see the beginnings of our efforts here [in the Tutorials section](https://doc.subquery.network/tutorials_examples/howto.html).
+Nuestro objetivo es publicar un tutorial para cada pieza de funcionalidad principal en SubQuery. Eso significa un vídeo paso a paso y una guía escrita con ejemplos de trabajo como resultados — puede ver el comienzo de nuestros esfuerzos aquí [en la Sección de tutoriales](https://doc.subquery.network/tutorials_examples/howto.html).
 
-We consistently receive feedback from our community that we have some of the best documentation in our industry. We promise to keep it that way!
+Constantemente recibimos la opinión de nuestra comunidad de que contamos con la mejor documentación de nuestra industria. ¡Prometemos mantenerlo de ese modo!
