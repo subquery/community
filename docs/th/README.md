@@ -22,7 +22,7 @@ SubQuery เป็นโครงการที่ใช้งานอยู�
 
 - [Linktree](https://linktr.ee/subquerynetwork)
 - [Discord](https://discord.com/invite/subquery) (Primary Community with dedicated technical support channels)
-- [Medium](https://subquery.medium.com) (Primary announcements channel)
+- [Medium](https://subquery.medium.com) (Channel ประกาศเบื้องต้น)
 - [Twitter](https://twitter.com/subquerynetwork)
 - [Telegram](https://t.me/subquerynetwork) (Channel เพื่อประกาศ เท่านั้น)
 - [GitHub](https://github.com/SubQuery/subql)
