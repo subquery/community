@@ -8,7 +8,7 @@ Mọi người đều biết rằng một điểm yếu cốt lõi của dữ li
 
 ![](https://miro.medium.com/max/700/1*0l37MKpDk2ahHsqDUBxbjw.png)
 
-Tạo một dự án SubQuery luôn và sẽ miễn phí. Các lập trình viên nên dành thời gian xây dựng chứ không phải chạy cơ sở hạ tầng. Tuy nhiên, chúng tôi tin rằng một tương lai phi tập trung lành mạnh đòi hỏi nhiều nhà cung cấp dịch vụ dữ liệu phân tán làm việc cùng nhau để cải thiện khả năng phục hồi, tốc độ và hiệu suất mạng.
+Tạo một dự án SubQuery luôn và sẽ miễn phí. Các nhà phát triển nên dành thời gian xây dựng chứ không phải chạy cơ sở hạ tầng. Tuy nhiên, chúng tôi tin rằng một tương lai phi tập trung lành mạnh đòi hỏi nhiều nhà cung cấp dịch vụ dữ liệu phân tán làm việc cùng nhau để cải thiện khả năng phục hồi, tốc độ và hiệu suất mạng.
 
 # Giới thiệu Mạng SubQuery:
 
@@ -16,7 +16,7 @@ Mạng SubQuery là nỗ lực của chúng tôi nhằm hướng tới một m�
 
 [Hôm nay, chúng tôi sẽ phát hành sách trắng của mình để cả thế giới đọc](https://static.subquery.network/whitepaper.pdf).
 
-Nguyên tắc cốt lõi của Mạng SubQuery là tính đơn giản và linh hoạt. Chúng tôi đang cố gắng giúp người tham gia dễ dàng tham gia vào mạng, nhưng cũng cấp cho nhà phát triển quyền kiểm soát để điều chỉnh SubQuery cho phù hợp với nhu cầu của họ đối với bất kỳ chuỗi dựa trên Substrate nào.
+Nguyên tắc căn bản của Mạng SubQuery là tính đơn giản và linh hoạt. Chúng tôi đang cố gắng giúp người tham gia dễ dàng tham gia vào mạng, nhưng cũng cấp cho nhà phát triển quyền kiểm soát để điều chỉnh SubQuery cho phù hợp với nhu cầu của họ đối với bất kỳ chuỗi dựa trên Substrate nào.
 
 ![](https://miro.medium.com/max/700/1*5E_eIJBTvHI7W24ib_Syvw.png)
 
