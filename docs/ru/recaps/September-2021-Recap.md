@@ -1,23 +1,23 @@
-# September 2021 Recap
+# Итоги сентября 2021
 
-**The Secret Is Out**
+**Секрет выплыл наружу**
 
 ![](https://miro.medium.com/max/700/1*nU7PnYFMR6MMBfccYE_Ujg.png)
 
-Welcome to the latest monthly update from SubQuery. September was a massive month for SubQuery as we announced our fundraising and made huge strides in all areas of the business. We are constantly on the look-out for talented individuals so please reach out if you can help us on our mission of making the world's decentralised data more accessible!
+Добро пожаловать в последнее ежемесячное обновление от SubQuery. Сентябрь стал масштабным месяцем для SubQuery, поскольку мы объявили о сборе средств и добились огромных успехов во всех сферах бизнеса. Мы постоянно ищем талантливых людей, поэтому, пожалуйста, свяжитесь с нами, если вы можете помочь нам в выполнении нашей миссии по повышению доступности децентрализованных данных в мире!
 
-In this monthly update:
+В этом ежемесячном обновлении:
 
-- Announced our fundraising round 💰
-- Multi language blogs and documentation 🌍
-- Exclusive workshops with Discord Community 🔊
-- Encode Club Hackathon 👩‍🎓
-- Community Growth 🚀
-- Interview with Layah Heilpern 🎙
-- Progress on the SubQuery Network 🏗
-- New Projects on SubQuery 🤝
+- Объявлен наш раунд сбора средств 💰
+- Мультиязычные блоги и документация 🌍
+- Эксклюзивные мастер-классы с сообществом Discord 🔊
+- Хакатон Encode Club 👩‍🎓
+- Огромный рост сообщества 🚀
+- Интервью с Layah Heilpern 🎙
+- Прогресс в сети SubQuery 🏗
+- Новые проекты в SubQuery 🤝
 
-## Announced our fundraising round 💰
+## Объявлен наш раунд сбора средств 💰
 
 We were thrilled to announce the [close of our US$9m Series A fundraising](https://subquery.medium.com/series-a-1abed6c1c2af) in September and were delighted with the response that we received from all the key crypto media. Apart from coverage in [Coindesk](https://www.coindesk.com/business/2021/09/08/subquery-gets-9m-in-series-a-to-improve-access-to-blockchain-data-on-polkadot/), [CoinTelegraph](https://cointelegraph.com/news/subquery-raises-9m-for-polkadot-data-protocol), [The Block](https://www.theblockcrypto.com/post/116915/subquery-indexing-protocol-polkadot-funding-saft) and many others, some of our leading investors also published their investment thesis.
 
