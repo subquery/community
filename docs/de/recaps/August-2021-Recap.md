@@ -6,7 +6,7 @@ Herzlich Willkommen zum neuesten monatlichen Update von SubQuery. Nach dem letzt
 
 In diesem monatlichen Update:
 
--   Onboarding-Ambassadors 👩‍💼
+-   Onboarding Ambassadors 👩‍💼
 -   Die Arbeit am SubQuery-Netzwerk gestartet🏗
 -   Großes Community-Wachstum 🚀
 -   Neue Projekte in SubQuery🤝
@@ -14,7 +14,7 @@ In diesem monatlichen Update:
 -   Aktivität in China 🇨🇳
 -   Bereitstellung des zweiten Meilensteins der Polkadot Common API ✅
 
-## Onboarding-Ambassadors 👩‍💼
+## Onboarding Ambassadors 👩‍💼
 
 ![](https://miro.medium.com/max/1400/0*_nOcsPjhQxta_FPH)
 
