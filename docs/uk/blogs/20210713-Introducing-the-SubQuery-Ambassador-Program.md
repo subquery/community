@@ -50,12 +50,12 @@
 
 **Керування подіями:** Створюйте місцеві спільноти, розміщуючи, організовуючи та керуючи різними подіями. Створення місцевої спільноти стане ключовою частиною зростання спільноти SubQuery. SubQuery підтримає вас, надаючи фінансування для заходів, розсилаючи swag/merch, які будуть роздані, а також відвідує заходи питання&відповіді чи онлайн -заходи як доповідачі або на сесіях AMA.
 
-**Content Creation:** We have a long list of content and support material that we need help creating. Remember, our success relies on the ability for our customers to build amazing things on our service, so we need your help to make that easier.
+**Створення контенту:** Ми маємо довгий список контенту та допоміжних матеріалів, які нам потрібно зробити. Пам’ятайте, що наш успіх залежить від уміння наших клієнтів створювати дивовижні речі на нашому сервісі, тому нам потрібна ваша допомога, щоб зробити це простіше.
 
-Content includes videos, infographics, tutorials, animations, or any other related material, to inform, educate, or inspire community members within the SubQuery Ecosystem. SubQuery will support Content Creators by providing branding assets and expertise. We’ll also use SubQuery’s marketing channels to increase awareness of your content (and yourself).
+Контент включає відео, інфографіку, навчальні посібники, анімацію чи будь -який інший пов’язаний матеріал для інформування, навчання чи надихання членів спільноти в екосистемі SubQuery. SubQuery підтримуватиме творців контенту, надаючи брендові ресурси та досвід. Ми також будемо використовувати маркетингові канали SubQuery для підвищення обізнаності про ваш контент (і вас самих).
 
-**Translation:** Our customers don’t just speak english! We need your help making SubQuery more accessible by translating our content into your own language, as well as helping sharing the word to our international community.
+**Переклад:** Наші клієнти не розмовляють англійською! Нам потрібна ваша допомога, щоб зробити SubQuery більш доступним, переклавши наш контент на вашу мову, а також допомагаючи ділитися ним з нашою міжнародною спільнотою.
 
-**Community Moderation:** Moderators will help grow the SubQuery community by ensuring that official community channels are active and engaging. SubQuery will support Moderators by promoting the channels that they monitor, as well as provide guidelines for our expectations.
+**Модерація спільноти:** Модератори допоможуть розширити спільноту SubQuery, гарантуючи, що офіційні канали спільноти активні та ангажовані. SubQuery підтримуватиме модераторів, рекламуючи канали, які вони контролюють, а також надаватиме орієнтири для наших очікувань.
 
 ![](https://miro.medium.com/max/1400/1*xj6_UL1ZWYzlLmlVk25JzQ.png)
