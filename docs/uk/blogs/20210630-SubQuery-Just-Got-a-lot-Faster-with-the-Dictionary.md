@@ -22,6 +22,6 @@
 
 Ми вважаємо, що SubQuery є найкращим варіантом індексування даних, доступним для будь -якого додатка Polkadot/Substrate, і ця нова реалізація Словника SubQuery дозволяє нам ще більше покращити наш сервіс, прискоривши процес індексації для ваших проектів SubQuery.
 
-You can try it yourself in [SubQuery Projects](https://project.subquery.network/) or view the dictionaries themselves in [our explorer](https://explorer.subquery.network/). In order to use a Dictionary in your existing project, your [@subql/cli](https://www.npmjs.com/package/@subql/cli) version must be at least 0.10.0
+Ви можете спробувати самі в [SubQuery Projects](https://project.subquery.network/) або переглянути самі словники в [нашому досліднику](https://explorer.subquery.network/). Для того, щоб використовувати словник у вашому існуючому проекті, версія [@subql/cli](https://www.npmjs.com/package/@subql/cli) має бути принаймні 0.10.0
 
 ![](https://miro.medium.com/max/1400/1*CrbWsx1rFiBNjkCepxbkPQ.png)
