@@ -20,7 +20,7 @@ Ayrıca, SubQuery projenizi Explorer'da göstermeyerek gizli tutabilirsiniz; bu,
 
 Yeni bir SubQuery Projesi Oluşturma
 
-Yeni projenizi yayınlayıp dağıttıktan sonra, onunla GraphQL uç noktamız üzerinden etkileşime geçebilir veya sadece [Explorer playground](https://explorer.subquery.network/) alanımızda oynayabilirsiniz!<0>! Bir üretim uygulaması gibi çalıştıracağız, böylece SubQuery kullanarak bugün bir sonraki dApp'inizde merkezi olmayan verilerinizin kilidini açabilirsiniz.
+Yeni projenizi yayınlayıp dağıttıktan sonra, onunla GraphQL uç noktamız üzerinden etkileşime geçebilir veya sadece [Explorer playground](https://explorer.subquery.network/) alanımızda oynayabilirsiniz! ! Bir üretim uygulaması gibi çalıştıracağız, böylece SubQuery kullanarak bugün bir sonraki dApp'inizde merkezi olmayan verilerinizin kilidini açabilirsiniz.
 
 
 
@@ -38,6 +38,6 @@ Yeni verileri sorgulamaya başlayın [SubQuery Explorer](https://explorer.subque
 
 Aşağıdaki yönergelerimizi izleyerek kendi SubQuery projenizi oluşturun [SubQuery docs](https://doc.subquery.network/)
 
-[Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Twitter](https://twitter.com/subquerynetwork) | [Telegram](https://t.me/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
+[Website](https://subquery.network/) | [Documentation](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://twitter.com/subquerynetwork) | [Twitter](https://t.me/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
 
 ![](https://miro.medium.com/max/1400/0*4Yetj66AO5gHV2rt)
