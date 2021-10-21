@@ -1,51 +1,51 @@
-# July 2021 Recap
+# 2021년 7월 요약
 
 ![](https://miro.medium.com/max/1400/1*2z3_9s-SY7dAvfe6xf9IDA.png)
 
-## Community, Community, Community!
+## 커뮤니티, 커뮤니티, 커뮤니티!
 
 
-Welcome to another monthly update from SubQuery. As you all know, community is a key element for every successful crypto project — this month we’ve started to expand our focus in this area.
+SubQuery의 또 다른 월간 업데이트에 오신 것을 환영합니다. 모두 아시다시피 커뮤니티는 모든 성공적인 암호화 프로젝트의 핵심 요소입니다. 이번 달에 우리는 이 분야에 초점을 맞추기 시작했습니다.
 
-In this monthly update:
+이번 월간 업데이트:
 
--   Ambassador Program 👩💼
--   DApp API Grant Work 🏗
--   Patract Open Platform 🌃
--   Parity’s Relaychain podcast 🎙
--   Documentation Improvements 📑
+-   앰배서더 프로그램 👩💼
+-   DApp API 보조금 작업 🏗
+-   Patract 오픈 플랫폼 🌃
+-   Parity's Relaychain 팟캐스트 🎙
+-   문서 개선 📑
 
 
 ![](https://miro.medium.com/max/1400/0*pe3Z3x1lGb_RLa5x)
 
-We understand that one of our biggest strengths is our community, and so [we recently launched our ambassador program](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) for communities around the world. We were overwhelmed by the interest in our program, with almost 500 applications received in under a fortnight!
+우리는 우리의 가장 큰 강점 중 하나가 우리 커뮤니티라는 것을 이해하고 있으며, 그래서 [최근에 전 세계 커뮤니티를 위한 대사 프로그램을 시작했습니다](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804). 우리 프로그램에 대한 관심에 압도되었고 거의 500개의 지원서가 2주 이내에 접수되었습니다!
 
-We’re in the process of onboarding our first batch of ambassadors very shortly. We’re particularly excited here because it means that everyone in our community can expect to see better local representation and support in different communities!
+우리는 곧 첫 번째 앰버서더 배치를 온보딩하는 과정에 있습니다. 우리 커뮤니티의 모든 사람들이 다른 커뮤니티에서 더 나은 지역 대표성과 지원을 기대할 수 있기 때문에 여기에서 특히 기쁩니다!
 
-By the end of July we’ve made good progress on the first two milestones of our [open-source dApp API treasury grant](https://kusama.polkassembly.io/treasury/95). Although on the surface it doesn’t look like much, it is actually a really important initiative for us. Firstly it represents deep strategic cooperation with one of the largest Polkadot native wallets, Fearless Wallet.
+7월 말까지 우리는 [오픈 소스 dApp API 자금 지원](https://kusama.polkassembly.io/treasury/95)의 처음 두 이정표에서 좋은 진전을 이루었습니다. 겉으로 보기에는 별 것 아닌 것 같지만 사실은 우리에게 정말 중요한 이니셔티브입니다. 첫째, 가장 큰 Polkadot 기본 지갑 중 하나인 Fearless Wallet과의 깊은 전략적 협력을 나타냅니다.
 
-Secondly, this open-source API should be able to provide different types of applications with a sufficient (but read-only) view of all key data within the Kusama chain. E.g. a developer could use it to create their own chain explorer without needing to directly query chain data.
+둘째, 이 오픈 소스 API는 Kusama 체인 내의 모든 주요 데이터에 대한 충분한(그러나 읽기 전용) 보기와 함께 다양한 유형의 애플리케이션을 제공할 수 있어야 합니다. 예를 들어 개발자는 체인 데이터를 직접 쿼리할 필요 없이 자체 체인 탐색기를 만드는 데 사용할 수 있습니다.
 
-We’re building this in a way that makes it easy to extend to the growing number of parachains. It’ll also provide a much better foundation for new applications building on SubQuery, allowing us onboard new partnerships faster!
+우리는 점점 더 많은 파라체인으로 쉽게 확장할 수 있는 방식으로 이것을 구축하고 있습니다. 또한 SubQuery를 기반으로 구축되는 새로운 애플리케이션을 위한 훨씬 더 나은 기반을 제공하여 새로운 파트너십을 더 빨리 온보딩할 수 있습니다!
 
 ![](https://miro.medium.com/max/1400/0*AhM68fyjjSp_2edZ)
 
-We have [joined the Patract Open Platform alliance](https://subquery.medium.com/subquery-is-joining-the-patract-open-platform-91682c748a57) to jointly promote the development of public infrastructure, promote the evolution of contract technology, and to develop the Wasm contract development ecosystem.
+우리는 공공 인프라 개발을 공동으로 추진하고 계약 기술의 발전을 촉진하며 Wasm 계약 개발 생태계를 개발하기 위해 [Patract Open Platform 동맹에 합류했습니다](https://subquery.medium.com/subquery-is-joining-the-patract-open-platform-91682c748a57).
 
-We believe that contracts are an important part of a thriving Polkadot ecosystem, providing data indexing services for Wasm contracts has always been a major goal of SubQuery. It is exciting to see that the Open Platform has brought together a large number of great projects, and that everyone is working together to contribute to the healthy and stable advancement of Wasm contracts.
+우리는 계약이 번창하는 Polkadot 생태계의 중요한 부분이라고 믿고, Wasm 계약에 대한 데이터 인덱싱 서비스를 제공하는 것은 항상 SubQuery의 주요 목표였습니다. Open Platform이 수많은 훌륭한 프로젝트를 한데 모았고 모든 사람들이 Wasm 계약의 건전하고 안정적인 발전에 기여하기 위해 함께 일하고 있다는 것을 보는 것은 흥미진진합니다.
 
-Earlier last month I joined Jorrin Burns on Parity’s Relay Chain Podcast, we talked about our mission and how we were working with projects in our ecosystem. We also discussed how collaboration and feedback from other Polkadot projects in New Zealand (like Acala and Bitcountry) has influenced several of our value-added features, our long-term plans to become a parachain, and the road to 1 billion API requests.
+지난 달 초 저는 Parity의 Relay Chain Podcast에서 Jorrin Burns에 합류하여 우리의 사명과 우리 생태계의 프로젝트와 협력하는 방법에 대해 이야기했습니다. 우리는 또한 뉴질랜드의 다른 Polkadot 프로젝트(예: Acala 및 Bitcountry)의 협업 및 피드백이 여러 부가 가치 기능, 파라체인이 되기 위한 장기 계획, 10억 개의 API 요청에 미치는 영향에 대해 논의했습니다.
 
-[You can listen to the podcast on your favourite platform here.](https://relaychain.fm/35-querying-the-worlds-data-with-subquery)
+[여기에서 좋아하는 플랫폼에서 팟캐스트를 들을 수 있습니다.](https://relaychain.fm/35-querying-the-worlds-data-with-subquery)
 
-> _“Documentation may not be glamorous work but it plays a vital role in communicating how something works and allows us to empower our community members to learn and unleash their creativity. That is why we believe documentation is so important”_ — Sean Au (SubQuery Academy)
+> _“문서화는 멋진 작업이 아닐 수 있지만 작업 방식을 전달하는 데 중요한 역할을 하며 커뮤니티 구성원이 창의력을 배우고 발휘할 수 있도록 권한을 부여합니다. 그렇기 때문에 문서화가 중요하다고 생각합니다.”_ — Sean Au(SubQuery Academy)
 
 ![](https://miro.medium.com/max/1200/0*tvcfXFxHc6shdmAy.gif)
 
-[Our new documentation website](https://doc.subquery.network/) has an inviting landing page designed to welcome all users, regardless of their technical understanding of blockchain or Polkadot. From the landing page users can jump straight into a getting started tutorial, or navigate off to the help they need.
+[우리의 새로운 문서 웹사이트](https://doc.subquery.network/)에는 블록체인이나 Polkadot에 대한 기술적 이해와 상관없이 모든 사용자를 환영하도록 설계된 매력적인 방문 페이지가 있습니다. 랜딩 페이지에서 사용자는 시작하기 튜토리얼로 바로 이동하거나 필요한 도움말로 이동할 수 있습니다.
 
-Traditionally, blockchain documentation is incredibly technical and littered with jargon — you have to come from a developer background to easily understand it. We’ve taken a different path and written content for users at all levels of experience.
+전통적으로 블록체인 문서는 믿을 수 없을 정도로 기술적이고 전문 용어로 가득 차 있습니다. 쉽게 이해하려면 개발자 배경 지식이 있어야 합니다. 우리는 모든 수준의 경험을 가진 사용자를 위해 다른 길을 택하고 콘텐츠를 작성했습니다.
 
-Our goal is to publish a tutorial for every piece of major functionality in SubQuery. That means a step-by-step video and written guide with working examples as outcomes — you can see the beginnings of our efforts here [in the Tutorials section](https://doc.subquery.network/tutorials_examples/howto.html).
+우리의 목표는 SubQuery의 모든 주요 기능에 대한 자습서를 게시하는 것입니다. 즉, 단계별 비디오와 작업 예제가 포함된 서면 가이드를 의미합니다. 여기 [자습서 섹션](https://doc.subquery.network/tutorials_examples/howto.html)에서 우리 노력의 시작을 볼 수 있습니다.
 
-We consistently receive feedback from our community that we have some of the best documentation in our industry. We promise to keep it that way!
+우리는 업계 최고의 문서를 보유하고 있다는 커뮤니티로부터 지속적으로 피드백을 받고 있습니다. 우리는 그렇게 유지하기로 약속합니다!
