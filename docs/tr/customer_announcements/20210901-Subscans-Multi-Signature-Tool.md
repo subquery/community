@@ -1,31 +1,32 @@
-# Subscan's Multi-Signature Tool - Powered by SubQuery
+# Subscan'ın Çoklu İmza Aracı - Destekleyen SubQuery
 
 ![Subscan header.jpg](https://cdn-images-1.medium.com/max/1600/1*Xs3mJrvClJq3qBzWU48fjg.jpeg)
 
-Subscan's new [multi-signature wallet tool](https://medium.com/r/?url=https%3A%2F%2Fmultisig.subscan.io%2F) is designed to help others in the Polkadot ecosystem create and manage multi-signature accounts and transactions. It is supported by the [Web3 Foundation Grants Program](https://github.com/w3f/Grants-Program/blob/master/applications/multisignature_management_tool.md) and provides convenient multi-signature wallet management services for multiple networks based in Polkadot.
+Subscan'ın yeni [çoklu imzalı cüzdan aracı](https://medium.com/r/?url=https%3A%2F%2Fmultisig.subscan.io%2F), Polkadot ekosistemindeki diğer kişilerin çok imzalı hesaplar ve işlemler oluşturmasına ve yönetmesine yardımcı olmak için tasarlanmıştır. [Web3 Foundation Grants Program](https://github.com/w3f/Grants-Program/blob/master/applications/multisignature_management_tool.md) tarafından desteklenir ve Polkadot'ta bulunan birden çok ağ için uygun çoklu imza cüzdan yönetimi hizmetleri sağlar.
 
-SubQuery's service plays a key part in this tool providing fast data on transaction for any given multi signature address, which improves the UX and allows more advanced features.
+SubQuery'nin hizmeti, UX'i iyileştiren ve daha gelişmiş özelliklere izin veren herhangi bir çoklu imza adresi için işlem hakkında hızlı veri sağlayan bu araçta önemli bir rol oynar.
 
-![Users can easily create new multi-signature addresses](https://cdn-images-1.medium.com/max/1600/1*e4AALzw8xzERhzBJgPUktQ.png)
+![Kullanıcılar kolayca yeni çoklu imza adresleri oluşturabilir](https://cdn-images-1.medium.com/max/1600/1*e4AALzw8xzERhzBJgPUktQ.png)
 
-> *"SubQuery has made it easy for us to index data for the Subscan Multi-signature tool and can be easily run by our team. Subscan's API service is standardised, we recommend SubQuery to our users when they have more customisation requirements."* - Subscan
+> *"SubQuery, Subscan Çoklu İmza aracı için verileri endekslememizi kolaylaştırdı ve ekibimiz tarafından kolayca çalıştırılabilir. Subscan'ın API hizmeti standartlaştırılmıştır, daha fazla özelleştirme gereksinimleri olduğunda kullanıcılarımıza SubQuery'yi öneriyoruz."* - Subscan
 
-![](https://cdn-images-1.medium.com/max/1600/1*Hy-1IxJ3ZNQX7qC38H19Bg.png)
+![](https://cdn-images-1.medium.com/max/1600/1*Hy-1IxJ3ZNQX7qC38H19Bg.png
+)
 
-[Try out the tool here](https://medium.com/r/?url=https%3A%2F%2Fmultisig.subscan.io%2F)
+[Aracı burada deneyin](https://medium.com/r/?url=https%3A%2F%2Fmultisig.subscan.io%2F)
 
 ---
 
-## About Subscan
+## Subscan hakkında
 
-[Subscan.io](https://www.subscan.io/) is a high-precision multi-chain explorer built for substrate-based blockchains. Subscan supports data exploration and visualization of more than 30 networks in the Polkadot ecosystem.
+[Subscan.io](https://www.subscan.io/), alt katman tabanlı blok zincirler için oluşturulmuş yüksek hassasiyetli çok zincirli bir gezgindir. Subscan, Polkadot ekosistemindeki 30'dan fazla ağın veri keşfini ve görselleştirilmesini destekler.
 
-Subscan provides customized services for the ecological network, such as EVM module, multi-token, etc. In addition, Subscan also provides stable API services, data charts and convenient tool applications.
+Subscan, ekolojik ağ için EVM modülü, çoklu belirteç vb. gibi özelleştirilmiş hizmetler sağlar. Ayrıca Subscan, kararlı API hizmetleri, veri çizelgeleri ve kullanışlı araç uygulamaları da sağlar.
 
 [Website](https://www.subscan.io/) | [Email](mailto:hello@subscan.io) | [Medium](https://medium.com/subscan) | [Element](https://riot.im/app/#/room/!uaYUrKBueiKUurHliJ:matrix.org) | [Twitter](https://twitter.com/subscan_io/) | [GitHub](https://github.com/itering/subscan-essentials)
 
-## About SubQuery
+## SubQuery hakkında
 
-[SubQuery](https://subquery.network/) is a data aggregation layer that will operate between the layer-1 blockchains (Kusama) and DApps (like Kodadot). This service allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+[SubQuery](https://subquery.network/), katman-1 blok zincirleri (Kusama) ve DApp'ler (Kodadot gibi) arasında çalışacak bir veri toplama katmanıdır. Bu hizmet, DApp geliştiricilerinin veri işleme için özel bir arka uç oluşturmaya zaman kaybetmeden temel kullanım durumlarına ve ön uçlarına odaklanmalarına olanak tanır.
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)
