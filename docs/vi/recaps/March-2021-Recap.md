@@ -20,7 +20,7 @@ Chúng tôi chạy các dự án SubQuery trong đó giống như chúng là cá
 
 ## **SubQuery Tăng 1,8 triệu đô la vòng hạt giống để mở rộng trong tương lai**
 
-SubQuery đã sẵn sàng để phát triển và phân phối! [Chúng tôi đã huy động thành công vòng hạt giống 1,8 triệu đô la Mỹ](https://subquery.medium.com/subquery-raises-1-8m-seed-round-for-future-expansion-3348c1f2a931) và private sale, được hỗ trợ chủ yếu bởi DeFi Alliance, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG) và The Lao. Nhu cầu lớn mà chúng tôi nhận được để đầu tư vòng hạt giống của SubQuery cho thấy sự quan tâm mạnh mẽ đến các dịch vụ cơ sở hạ tầng và niềm tin vào tương lai của hệ sinh thái Polkadot.
+SubQuery đã sẵn sàng để phát triển và phân phối! [ Chúng tôi đã huy động thành công vòng hạt giống 1,8 triệu đô la Mỹ ](https://subquery.medium.com/subquery-raises-1-8m-seed-round-for-future-expansion-3348c1f2a931) và private sale được hỗ trợ chủ yếu bởi DeFi Alliance, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG) và The Lao. Nhu cầu lớn mà chúng tôi nhận được để hỗ trợ vòng hạt giống của SubQuery cho thấy sự quan tâm mạnh mẽ đến các dịch vụ cơ sở hạ tầng và niềm tin vào tương lai của hệ sinh thái Polkadot.
 
 _Chúng tôi đang lên kế hoạch bán/tăng private tiếp theo vào cuối năm nay. Nếu bạn muốn tham gia, vui lòng đăng ký tại đây: _ [_https://forms.gle/6LMapDNSidQAqy347_](https://forms.gle/6LMapDNSidQAqy347)
 
@@ -36,11 +36,11 @@ SubQuery là tất cả về việc cung cấp dịch vụ dữ liệu cho các 
 
 ![](https://miro.medium.com/max/1400/0*LOig1jNfPTuVk73D)
 
-> Bạn có thể tạo một dApp cho người cho vay hiển thị tỷ lệ thế chấp, số tiền cho vay, lãi tích lũy, ... Hoặc một dịch vụ cho các sàn giao dịch phi tập trung với tính thanh khoản của cặp, tỷ giá hối đoái, khối lượng giao dịch.
+> Bạn có thể tạo một dApp cho người cho vay hiển thị tỷ lệ thế chấp, số tiền cho vay, lãi tích lũy,. Hoặc một dịch vụ cho các sàn giao dịch phi tập trung với tính thanh khoản của cặp, tỷ giá hối đoái, khối lượng giao dịch.
 
 Chúng tôi đang có kế hoạch sớm cải thiện các công cụ đối tác của mình và đang lên kế hoạch giới thiệu các giao thức hàng đầu khác trong một hoặc hai tuần tới với tốc độ nhanh chóng.
 
-_Bạn có muốn bắt đầu và tạo một dự án SubQuery mới cho dApp của riêng bạn không -_ [_hãy bắt đầu ngay bây giờ _](https://doc.subquery.network/quickstart.html)_. Chúng tôi thậm chí sẽ lưu trữ nó trong_ [_SubQuery Explorer_](https://subquery.medium.com/announcing-the-subquery-explorer-48c051483730) _của chúng tôi miễn phí!_
+_ Bạn có muốn bắt đầu và tạo một dự án SubQuery mới cho dApp của riêng bạn không - _ [_ hãy bắt đầu ngay bây giờ _](https://doc.subquery.network/quickstart.html) _. Chúng tôi thậm chí sẽ lưu trữ nó trong_ [_ SubQuery Explorer _](https://subquery.medium.com/announcing-the-subquery-explorer-48c051483730) _ của chúng tôi miễn phí! _
 
 ## **Berkeley Blockchain Xcelerator**
 
@@ -52,7 +52,7 @@ Berkeley's blockchain Xcelerator được biết đến trên toàn thế giới
 
 ## **Định tuyến thông minh**
 
-Gần đây, chúng tôi đã được [trao một khoản ngân quỹ](https://kusama.polkassembly.io/treasury/72) để hoàn thành một lớp định tuyến thông minh cho phép chúng tôi hiển thị nhiều cụm phía sau một điểm cuối duy nhất. Điều này sẽ cho phép chúng tôi mở rộng quy mô dịch vụ của mình tốt hơn và nhanh chóng chuyển sang các cụm dự phòng trong trường hợp không chắc rằng một số cơ sở hạ tầng của chúng tôi bị hỏng. Cả OnFinality và SubQuery đều dựa vào cơ sở hạ tầng này nên điều quan trọng là chúng tôi phải tiếp tục đầu tư và cải thiện ở đây.
+Gần đây, chúng tôi đã được [ trao một khoản ngân quỹ ](https://kusama.polkassembly.io/treasury/72) để hoàn thành một lớp định tuyến thông minh cho phép chúng tôi hiển thị nhiều cụm phía sau một điểm cuối duy nhất. Điều này sẽ cho phép chúng tôi mở rộng quy mô dịch vụ của mình tốt hơn và nhanh chóng chuyển sang các cụm dự phòng trong trường hợp không chắc rằng một số cơ sở hạ tầng của chúng tôi bị hỏng. Cả OnFinality và SubQuery đều dựa vào cơ sở hạ tầng này nên điều quan trọng là chúng tôi phải tiếp tục đầu tư và cải thiện ở đây.
 
 ## **Nhân viên và Văn phòng mới**
 
