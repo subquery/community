@@ -32,4 +32,4 @@ Patract Labs bietet Lösungen für die Entwicklung von Parachains und DApps im W
 
 Die Mission von SubQuery ist es, die dezentralen Daten der Welt leichter zugänglich zu machen. SubQuery ist ein Daten-as-a-Dienstleister, der Daten aus Polkadot und Substrat zusammenfasst und organisiert; Es ermöglicht Polkadot/Substrat Projekten bessere DApps zu bauen, indem es gut strukturierte Daten für Entwickler bereitstellt.
 
-[Webseite](https://www.subquery.network/)<unk>[Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Linkedin](https://www.linkedin.com/company/subquery) | [Medium](https://subquery.medium.com/)<unk>[GitHub](https://github.com/subquery/subql) | [Matrix](https://matrix.to/#/#subquery:matrix.org)
+[Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Linkedin](https://www.linkedin.com/company/subquery) | [Medium](https://subquery.medium.com/)
