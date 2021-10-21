@@ -1,25 +1,25 @@
 # บทสรุปของเดือนกันยายน 2021
 
-**The Secret Is Out**
+**ความลับเปิดเผยแล้ว**
 
 ![](https://miro.medium.com/max/700/1*nU7PnYFMR6MMBfccYE_Ujg.png)
 
-Welcome to the latest monthly update from SubQuery. September was a massive month for SubQuery as we announced our fundraising and made huge strides in all areas of the business. We are constantly on the look-out for talented individuals so please reach out if you can help us on our mission of making the world's decentralised data more accessible!
+ยินดีต้อนรับสู่การอัปเดตรายเดือนล่าสุดจาก SubQuery เดือนกันยายนเป็นเดือนที่ยิ่งใหญ่สำหรับ SubQuery เนื่องจากเราได้ประกาศการระดมทุนของเราและมีความก้าวหน้าอย่างมากในทุกด้านของธุรกิจ เรายังคงมองหาบุคคลที่มีความสามารถอยู่ตลอด ดังนั้นโปรดติดต่อเราหากคุณสามารถช่วยเราในภารกิจการทำให้ข้อมูลแบบกระจายศูนย์บนโลกสามารถเข้าถึงได้มากขึ้น!
 
-In this monthly update:
+ความคืบหน้าในเดือนนี้:
 
-- Announced our fundraising round 💰
-- Multi language blogs and documentation 🌍
-- Exclusive workshops with Discord Community 🔊
+- ประกาศรอบการระดมทุน 💰
+- บล็อกและเอกสารในหลากหลายภาษา 🌍
+- เวิร์กชอปสุดเอ็กซ์คลูซีฟกับชุมชน Discord 🔊
 - Encode Club Hackathon 👩‍🎓
-- Community Growth 🚀
-- Interview with Layah Heilpern 🎙
-- Progress on the SubQuery Network 🏗
-- New Projects on SubQuery 🤝
+- การเติบโตของชุมชน 🚀
+- บทสัมภาษณ์กับ Layah Heilpern 🎙
+- ความคืบหน้าบนเครือข่าย SubQuery 🏗
+- โปรเจกต์ใหม่บน SubQuery 🤝
 
-## Announced our fundraising round 💰
+## ประกาศรอบการระดมทุน 💰
 
-We were thrilled to announce the [close of our US$9m Series A fundraising](https://subquery.medium.com/series-a-1abed6c1c2af) in September and were delighted with the response that we received from all the key crypto media. Apart from coverage in [Coindesk](https://www.coindesk.com/business/2021/09/08/subquery-gets-9m-in-series-a-to-improve-access-to-blockchain-data-on-polkadot/), [CoinTelegraph](https://cointelegraph.com/news/subquery-raises-9m-for-polkadot-data-protocol), [The Block](https://www.theblockcrypto.com/post/116915/subquery-indexing-protocol-polkadot-funding-saft) and many others, some of our leading investors also published their investment thesis.
+เรารู้สึกตื่นเต้นที่จะประกาศ[ปิดการระดมทุน Series A มูลค่า 9 ล้านเหรียญสหรัฐ](https://subquery.medium.com/series-a-1abed6c1c2af)ในเดือนกันยายน และรู้สึกยินดีกับการตอบรับที่เราได้รับจากสื่อคริปโตรายใหญ่ต่างๆ ไม่ว่าจะเป็นการรายงานข่าวใน [Coindesk](https://www.coindesk.com/business/2021/09/08/subquery-gets-9m-in-series-a-to-improve-access-to-blockchain-data-on-polkadot/), [CoinTelegraph](https://cointelegraph.com/news/subquery-raises-9m-for-polkadot-data-protocol), [The Block](https://www.theblockcrypto.com/post/116915/subquery-indexing-protocol-polkadot-funding-saft) รวมถึงสื่ออื่นๆ อีกมากมาย นักลงทุนชั้นนำบางคนของเรายังได้เผยแพร่วิทยานิพนธ์ด้านการลงทุนของพวกเขาอีกด้วย
 
 Rennick Palley of [Stratos Capital stated that SubQuery](https://medium.com/stratos-technologies/the-google-of-the-decentralized-world-our-investment-in-subquery-e6e7d949b00a) is "The Google of the Decentralized World" and that "SubQuery is a prototypical example of how Web 3 principals take what works from Web 2 & makes it transparent, fair, and community driven."
 
@@ -79,6 +79,6 @@ If you would like to learn more [you can view all projects easily via our Explo
 
 As always, please join our social channels to stay updated on our latest news and announcements.
 
-James, Sam, and the SubQuery Team
+James, Sam และทีม SubQuery
 
-[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
