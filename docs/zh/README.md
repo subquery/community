@@ -4,7 +4,7 @@ SubQuery is here to help you transform and query the world’s data for a web3.0
 
 This is the global repository of all community blogs, announcements, articles, and videos from SubQuery.
 
-**Read in your own language! You can change your language using the selector on the top right of all pages.**
+**Read in your own language! Read in your own language! You can change your language using the selector on the top right of all pages.**
 
 ## We need help translating!
 
