@@ -1,61 +1,61 @@
-# Introducing the SubQuery Ambassador Program
+# SubQuery 프로그램 소개
 
 ![](https://miro.medium.com/max/1400/1*EC5wwTuoB6UK_EESGd8X8w.png)
 
-## Represent SubQuery in Your Community!
+## 커뮤니티에서 SubQuery를 대표하십시오!
 
-[SubQuery](https://subquery.network/) aims to be the leading data provider in Polkadot. Our mission is to power the biggest dApps in our growing ecosystem, and we’re already working with DeFi apps like [Acala](https://acala.network/) and [Bifrost](https://bifrost.finance/), wallets like [Fearless Wallet](https://fearlesswallet.io/), NFT platforms like [KodaDot](https://kodadot.xyz/), cross-chain bridges like [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia), and analytics platforms like [SubVis](https://subvis.io/).
+[SubQuery](https://subquery.network/)는 Polkadot의 선도적인 데이터 공급자를 목표로 합니다. 우리의 임무는 성장하는 생태계에서 가장 큰 dApp을 지원하는 것이며, 이미 [Acala](https://acala.network/) 및 [Bifrost](https://bifrost.finance/)와 같은 DeFi 앱, [Fearless Wallet](https://fearlesswallet.io/)과 같은 지갑, [KodaDot](https://kodadot.xyz/)과 같은 NFT 플랫폼, [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia)와 같은 교차 체인 브리지 및 [SubVis](https://subvis.io/)와 같은 분석 플랫폼과 협력하고 있습니다.
 
-Our ecosystem is growing, and with our announcement of the SubQuery Network we’re looking for people from around the world to join us on our mission. The SubQuery team is excited to announce that we are opening up applications for our new Ambassador program!
+우리의 생태계는 성장하고 있으며 SubQuery Network의 발표와 함께 우리는 전 세계에서 우리의 사명에 동참할 사람들을 찾고 있습니다. SubQuery 팀은 새로운 Ambassador 프로그램에 대한 지원을 개시하게 되어 기쁩니다!
 
-We understand that one of our biggest strengths is our community, and with your help we want to grow and establish local ambassadors for communities around the world.
+우리는 우리의 가장 큰 강점 중 하나가 우리 지역사회라는 것을 이해하고 있으며, 여러분의 도움으로 전 세계 지역사회를 위한 지역 대사를 성장시키고 설립하고자 합니다.
 
-[Apply Here](https://forms.gle/GXBbJ6LDpNfM2v1X6)
+[여기에서 신청하세요.](https://forms.gle/GXBbJ6LDpNfM2v1X6)
 
-Our team came together with the shared vision to build the foundations of a flexible and inclusive data service for the Polkadot ecosystem.
+우리 팀은 Polkadot 생태계를 위한 유연하고 포괄적인 데이터 서비스의 기반을 구축하기 위해 공통의 비전을 가지고 함께했습니다.
 
-**Built by developers, for developers:** SubQuery is a growing community that focuses on providing the best products and services for our developers, and builders in our ecosystem. SubQuery is only successful if the Polkadot ecosystem is successful, and so everything we do is with our customer in mind.
+**개발자에 의해, 개발자를 위한:** SubQuery는 개발자와 생태계의 빌더에게 최고의 제품과 서비스를 제공하는 데 중점을 둔 성장하는 커뮤니티입니다. SubQuery는 Polkadot 생태계가 성공해야만 성공하므로 우리가 하는 모든 일은 고객을 염두에 두고 있습니다.
 
-**Integrity and Accountability:** We have team members in Auckland, Shanghai, and Sydney and so remote work is important to us. We expect that our team is empowered and works autonomously together to achieve our goals. A key requirement for this is for our team to be accountable for their actions and maintain their integrity.
+**무결성 및 책임:** 오클랜드, 상하이 및 시드니에 팀원이 있으므로 원격 근무가 중요합니다. 우리는 우리 팀이 우리의 목표를 달성하기 위해 권한을 부여받고 자율적으로 함께 일하기를 기대합니다. 이를 위한 핵심 요구 사항은 우리 팀이 자신의 행동에 대해 책임을 지고 무결성을 유지하는 것입니다.
 
-**Inclusive Guidance and Support:** Blockchain is hard, and everyone needs help sometimes. There is no such thing as a stupid question in our community and everyone in our team is expected to help support our users. We learn some of the most valuable insights about our service (and how we can improve it) directly from our community.
+**포괄적인 지침 및 지원:** 블록체인은 어렵고 누구나 때때로 도움이 필요합니다. 우리 커뮤니티에 어리석은 질문 같은 것은 없으며 우리 팀의 모든 사람들은 사용자를 지원하는 데 도움이 될 것으로 기대됩니다. 우리는 커뮤니티에서 직접 서비스(및 개선 방법)에 대한 가장 귀중한 통찰력을 배웁니다.
 
-Our SubQuery Ambassador program aims to find community leaders passionate about Polkadot and SubQuery. We’re looking for self-starters that can spread the word about SubQuery in their local areas and provide support to new developers that want to use SubQuery to build amazing apps and services on Polkadot.
+SubQuery Ambassador 프로그램은 Polkadot 및 SubQuery에 대한 열정적인 커뮤니티 리더를 찾는 것을 목표로 합니다. 우리는 지역에서 SubQuery에 대한 소문을 퍼뜨리고 SubQuery를 사용하여 Polkadot에서 놀라운 앱과 서비스를 구축하려는 새로운 개발자를 지원할 수 있는 셀프 스타터를 찾고 있습니다.
 
-## Ambassador Benefits
+## 앰배서더 혜택
 
-At SubQuery, we work hard to achieve what we do. Similarly, Ambassadors are expected to commit some time when joining our team but will be rewarded with benefits.
+SubQuery에서 우리는 우리가 하는 일을 달성하기 위해 열심히 일합니다. 마찬가지로 앰배서더는 우리 팀에 합류할 때 약간의 시간을 할애해야 하지만 혜택을 받을 것입니다.
 
-**Funding and Support:** You may be rewarded for good work with early opportunities into private sales and bounties. Additionally, we’ll be providing funding grants for you to run community meetups.
+**자금 및 지원:** 열심히 일한 것에 대해 사전 판매 및 포상금에 대한 선기회 보상을 받을 수 있습니다.  또한 커뮤니티 모임을 운영할 수 있도록 자금 지원을 제공할 것입니다.
 
-**SubQuery Team Access:** You’ll have direct access to the core SubQuery team with opportunities for hands-on training, exclusive AMAs with our leaders and developers, and insight into our roadmap.
+**SubQuery 팀 액세스:** 실습 교육, 리더 및 개발자와의 독점 AMA, 로드맵에 대한 통찰력을 제공하는 핵심 SubQuery 팀에 직접 액세스할 수 있습니다.
 
-**Network Development:** Expect to grow your professional network by being an Ambassador for one of the top Polkadot projects. Meet other ambassadors around the world and receive introductions to local Polkadot projects that we need to support locally. You might even get free entry to represent SubQuery in events in your local area.
+**네트워크 개발:** 최고의 Polkadot 프로젝트 중 하나의 대사가 되어 전문 네트워크를 성장시키십시오. 세계의 다른 대사를 만나고 현지에서 지원해야 하는 현지 Polkadot 프로젝트에 대한 소개를 받으십시오. 지역 이벤트에서 SubQuery를 대표하기 위해 무료로 입장할 수도 있습니다.
 
-**Swag and other free stuff:** Everyone likes free stuff! Receive an annual allocation of SubQuery swag that’ll make you stand out in the crowd. Plus additional allocation that you can share around at community events. You’ll also receive an exclusive NFT for your Ambassador status.
+**Swag 및 기타 무료 항목:** 누구나 무료 항목을 좋아합니다!  군중 속에서 당신을 돋보이게 할 SubQuery 장식의 연간 할당을 받으십시오. 커뮤니티 이벤트에서 공유할 수 있는 추가 할당. 또한 앰배서더 자격에 대한 독점적인 NFT도 받게 됩니다.
 
-## How does it work
+## 어떻게 작동합니까
 
-Our Ambassador program has multiple tiers, each tier has different benefits and capabilities. You can move up tiers by participating in Ambassador activities and working hard for us.
+앰배서더 프로그램에는 여러 계층이 있으며 각 계층에는 서로 다른 혜택과 기능이 있습니다. 앰배서더 활동에 참여하고 우리를 위해 열심히 일하면 등급을 올릴 수 있습니다.
 
-Once you have sent through an application, we will select candidates that align with our values. If selected you are placed in our trainee program and will receive an information package, expanding your understanding of SubQuery. After this, you can start to work through the trainee program by completing certain onboarding tasks (e.g. creating a SubQuery Project). We will host workshops throughout this process to support you.
+지원서를 보내주시면 저희의 가치관에 맞는 후보자를 선정해 드립니다. 선택되면 교육생 프로그램에 배치되고 정보 패키지를 받게 되어 SubQuery에 대한 이해를 넓힐 수 있습니다. 그런 다음 특정 온보딩 작업(예: SubQuery 프로젝트 생성)을 완료하여 연수생 프로그램을 통해 작업을 시작할 수 있습니다. 우리는 당신을 지원하기 위해 이 과정 전반에 걸쳐 워크숍을 개최할 것입니다.
 
-Once you pass the trainee program, you can call yourself a SubQuery ambassador and will be accepted into our full program. From here on you can continue to work though the program and progress up the tiers, earning more rewards and benefits as you climb the ranks.
+연수생 프로그램을 통과하면 스스로를 SubQuery 대사라고 부를 수 있으며 전체 프로그램에 참여할 수 있습니다. 이제부터 프로그램을 계속 진행하고 등급을 올릴 수 있으며 등급이 올라갈수록 더 많은 보상과 혜택을 받을 수 있습니다.
 
-[Apply Here](https://forms.gle/GXBbJ6LDpNfM2v1X6)
+[여기에서 지원하세요.](https://forms.gle/GXBbJ6LDpNfM2v1X6)
 
-## Ambassador Activities
+## 대사 활동
 
-SubQuery Ambassadors are able to contribute through four main areas, including event management, content creation, translation, and community moderation. You can participate in as many areas as you want, you’re not bound to any single one.
+SubQuery 대사는 이벤트 관리, 콘텐츠 생성, 번역 및 커뮤니티 중재를 포함한 네 가지 주요 영역을 통해 기여할 수 있습니다. 원하는 만큼 많은 분야에 참여할 수 있으며 어느 한 분야에 국한되지 않습니다.
 
-**Event Management:** Build local communities by hosting, organising, and managing different events. Building a local community will be a key part of growing the SubQuery community. SubQuery will support you by providing funding for events, sending swag/merchandise to be given away, as well as attending Q&As or online events as speakers or in AMA sessions.
+**이벤트 관리:** 다양한 이벤트를 주최, 조직 및 관리하여 지역 커뮤니티를 구축합니다. 지역 커뮤니티를 구축하는 것은 SubQuery 커뮤니티 성장의 핵심 부분이 될 것입니다. SubQuery는 이벤트 자금을 제공하고, 선물/상품을 나눠주고, Q&&A 또는 온라인 이벤트에 연사로 또는 AMA 세션에 참석하여 지원합니다.
 
-**Content Creation:** We have a long list of content and support material that we need help creating. Remember, our success relies on the ability for our customers to build amazing things on our service, so we need your help to make that easier.
+**콘텐츠 생성:** 생성하는 데 도움이 필요한 콘텐츠 및 지원 자료의 긴 목록이 있습니다. 기억하십시오. 우리의 성공은 고객이 우리 서비스에서 놀라운 것을 구축할 수 있는 능력에 달려 있으므로 더 쉽게 만들려면 귀하의 도움이 필요합니다.
 
-Content includes videos, infographics, tutorials, animations, or any other related material, to inform, educate, or inspire community members within the SubQuery Ecosystem. SubQuery will support Content Creators by providing branding assets and expertise. We’ll also use SubQuery’s marketing channels to increase awareness of your content (and yourself).
+콘텐츠에는 SubQuery 생태계 내에서 커뮤니티 구성원에게 정보를 제공하거나 교육하거나 영감을 주기 위한 비디오, 인포그래픽, 튜토리얼, 애니메이션 또는 기타 관련 자료가 포함됩니다. SubQuery는 브랜딩 자산과 전문 지식을 제공하여 콘텐츠 작성자를 지원합니다. 또한 SubQuery의 마케팅 채널을 사용하여 귀하의 콘텐츠(그리고 귀하 자신)에 대한 인지도를 높일 것입니다.
 
-**Translation:** Our customers don’t just speak english! We need your help making SubQuery more accessible by translating our content into your own language, as well as helping sharing the word to our international community.
+**번역:** 우리 고객은 영어만 하는 것이 아닙니다! 귀하의 콘텐츠를 귀하의 언어로 번역하고 국제 커뮤니티에 단어를 공유하는 데 도움을 주어 SubQuery에 더 쉽게 액세스할 수 있도록 귀하의 도움이 필요합니다.
 
-**Community Moderation:** Moderators will help grow the SubQuery community by ensuring that official community channels are active and engaging. SubQuery will support Moderators by promoting the channels that they monitor, as well as provide guidelines for our expectations.
+**커뮤니티 중재:** 중재자는 공식 커뮤니티 채널이 활성화되고 참여하도록 하여 SubQuery 커뮤니티를 성장시키는 데 도움을 줄 것입니다. SubQuery는 중재자가 모니터링하는 채널을 승격하여 중재자를 지원하고 기대치에 대한 지침을 제공합니다.
 
 ![](https://miro.medium.com/max/1400/1*xj6_UL1ZWYzlLmlVk25JzQ.png)
