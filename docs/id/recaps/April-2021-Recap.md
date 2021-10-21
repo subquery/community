@@ -13,7 +13,7 @@ Di sisi mitra, kami meluncurkan produk utama yang diperlukan untuk mempercepat p
 
 ![](https://miro.medium.com/max/1400/0*zZkmiEq5g2BbAxfl)
 
-Bagian terakhir yang hilang ini sekarang berarti kami memiliki rangkaian alat yang lengkap untuk memungkinkan dan memberdayakan pelanggan untuk [menjelajah](https://explorer.subquery.network/), [membuat](https://doc.subquery.network/quickstart.html), [menjalankan](https://doc.subquery.network/run/indexing_query.html), dan kemudian mempublikasikan proyek SubQuery semuanya sendiri.
+Bagian terakhir yang hilang ini sekarang berarti kami memiliki rangkaian alat yang lengkap untuk memungkinkan dan memberdayakan pelanggan untuk [menjelajah](https://explorer.subquery.network/), [membuat](https://doc.subquery.network/quickstart.html), [menjalankan](https://doc.subquery.network/run/indexing_query.html), dan kemudian [mempublikasikan](https://doc.subquery.network/publish/publish.html#benefits) proyek SubQuery semuanya sendiri.
 
 ![](https://miro.medium.com/max/1400/0*pDQgyo3phe2ZcMml)
 
