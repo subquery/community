@@ -87,13 +87,13 @@ Parallel Finance เป็นโปรโตคอลตลาดเงินแ
 
 เรารู้สึกยินดีเสมอที่ได้รับฟีดแบคเช่นนี้จากพาร์ทเนอร์ของเรา:
 
-_"SubQuery เป็นเครื่องมือที่ยอดเยี่ยมซึ่งนำเทคโนโลยีการจัดทำดัชนีและการสืบค้นแบบดั้งเดิมมาสู่ Parallel Heiko The plug-and-play service really saved us a lot of time developing our own block indexing tool and maintaining our own solution."_ --- Parallel Finance
+_"SubQuery เป็นเครื่องมือที่ยอดเยี่ยมซึ่งนำเทคโนโลยีการจัดทำดัชนีและการสืบค้นแบบดั้งเดิมมาสู่ Parallel Heiko บริการ Plug-and-play ช่วยเราประหยัดเวลาได้มากจริงๆ ในการพัฒนาเครื่องมือสร้างดัชนีบล็อกและดูแลรักษาโซลูชันของเราเอง"_ --- Parallel Finance
 
-In the case of DotMarketCap, [SubQuery was responsible for feeding information](https://subquery.medium.com/dotmarketcap-2-0-launches-with-support-from-subquery-and-subvis-ef85b5e0ee31) relating to the second batch of Kusama Parachain Auctions to DotMarketCap users. The interesting thing about this collaboration is that the real-time data was actually coming from SubQuery to an existing [project maintained by SubVis](https://explorer.subquery.network/subquery/subvis-io/kusama-auction) and then picked up again by DotMarketCap. For SubQuery, this is a realisation of our goal to build an open community marketplace of data in our Explorer, it also shows how symbiotic the Polkadot ecosystem is and how teams work together to achieve a shared goal of a decentralised future.
+ในกรณีของ DotMarketCap [SubQuery มีหน้าที่ป้อนข้อมูล](https://subquery.medium.com/dotmarketcap-2-0-launches-with-support-from-subquery-and-subvis-ef85b5e0ee31)ที่เกี่ยวกับการประมูล Kusama Parachain ชุดที่สองให้กับผู้ใช้ DotMarketCap สิ่งที่น่าสนใจเกี่ยวกับการทำงานร่วมกันนี้คือข้อมูลแบบเรียลไทม์นั้นมาจาก SubQuery และเดินทางไปยัง[โปรเจกต์ที่มีอยู่แล้วซึ่งดูแลโดย SubVis](https://explorer.subquery.network/subquery/subvis-io/kusama-auction) จากนั้นถูกหยิบมาใช้อีกครั้งโดย DotMarketCap สำหรับ SubQuery นี่คือการบรรลุเป้าหมายของเราในการสร้าง marketplace ชุมชนแบบเปิดสำหรับข้อมูลใน Explorer ของเรา นอกจากนี้ยังแสดงให้เห็นว่าระบบนิเวศของ Polkadot มีความเกี่ยวข้องกันอย่างไรและทีมต่างๆ ทำงานร่วมกันอย่างไรเพื่อบรรลุเป้าหมายร่วมกันของอนาคตที่มีการกระจายอำนาจ
 
-If you would like to learn more [you can view all projects easily via our Explorer here](https://explorer.subquery.network/).
+หากคุณต้องการเรียนรู้เพิ่มเติม [คุณสามารถดูโปรเจกต์ทั้งหมดได้อย่างง่ายดายผ่าน Explorer ของเราที่นี่](https://explorer.subquery.network/)
 
-As always, please join our social channels to stay updated on our latest news and announcements.
+และเช่นเคย โปรดติดตามช่องทางโซเชียลของเราเพื่อรับข่าวสารและประกาศล่าสุดจากเรา
 
 James, Sam และทีม SubQuery
 
