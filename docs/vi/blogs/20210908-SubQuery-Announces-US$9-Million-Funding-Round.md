@@ -4,13 +4,13 @@
 
 ![](https://cdn-images-1.medium.com/max/1600/0*PR4oqrB9Am03VseR)
 
-SubQuery công bố vòng tài trợ 9 triệu đô la Mỹ cho lớp tổng hợp dữ liệu phi tập trung đầu tiên cho hệ sinh thái Polkadot. Vòng này tập hợp các bên liên quan chính trong Hệ sinh thái Web3, hướng tới tầm nhìn của SubQuery như một cơ sở hạ tầng lập chỉ mục dữ liệu cơ bản cho tất cả các parachains cũng các ứng dụng của Polkadot và Kusama.
+SubQuery công bố vòng tài trợ 9 triệu đô la Mỹ cho lớp tổng hợp dữ liệu phi tập trung đầu tiên cho hệ sinh thái Polkadot. Vòng này tập hợp các bên liên quan chính trong Hệ sinh thái Web3, hướng tới tầm nhìn của SubQuery như một cơ sở hạ tầng lập chỉ mục dữ liệu cơ bản cho tất cả các parachain cũng các ứng dụng của Polkadot và Kusama.
 
 SubQuery hướng đến việc tiếp cận các dữ liệu blockchain phi tập trung bằng cách tạo ra một thị trường sôi động cho việc lập chỉ mục và cung cấp dữ liệu. Công nghệ của chúng tôi cung cấp cho các nhà phát triển Polkadot và Kusama các công cụ cần thiết để dễ dàng khám phá, chuyển đổi và phân tích dữ liệu trên chuỗi. Hơn cả, SubQuery giúp loại bỏ sự bức thiết của các máy chủ xử lý dữ liệu truyền thống. Nó cho phép các nhà phát triển tập trung vào phát triển sản phẩm và trải nghiệm người dùng hơn là xây dựng hệ thống truy vấn của riêng họ.
 
 Vòng gọi vốn chiến lược này do [Arrington Capital](https://arringtonxrpcapital.com/), [DCG](https://dcg.co/) và [Stratos Technologies](https://www.stratoslp.com/) cùng dẫn dắt với sự tham gia của [Hypersphere Ventures](https://hypersphere.ventures/), [Neo Global Capital (NGC)](http://ngc.fund/), [Wintermute](https://www.wintermute.com/) và [Skynet Trading](http://skynettrading.com/). Nó được tiếp tục sau một vòng hạt giống vào đầu năm 2021, bao gồm [DeFi Alliance](https://defialliance.co/), [The LAO](https://www.thelao.io/), [Digital Renaissance](https://drf.ee/), [P2P Capital](https://www.p2pcap.com/) và [Web3 Capital](https://web3.capital/).
 
-> *"Chúng tôi là những nhà đầu tư sớm vào các chuỗi nhánh như Moonbeam và Acala và mong muốn các đội ngũ trong hệ sinh thái này có thể tập trung vào các sản phẩm cốt lõi của họ. SubQuery giúp việc xây dựng trở nên dễ dàng hơn. Dự án giúp mở rộng đến tất cả các parachains và có thể thúc đẩy sự bùng nổ trong các hoạt động tiếp theo trên Polkadot & Kusama"*- Ninor Mansor, Đối tác tại Arrington Capital
+> *"Chúng tôi là những nhà đầu tư sớm vào các parachain như Moonbeam và Acala và mong muốn các đội ngũ trong hệ sinh thái này có thể tập trung vào các sản phẩm cốt lõi của họ. SubQuery giúp việc xây dựng trở nên dễ dàng hơn. Dự án giúp mở rộng đến tất cả các parachain và có thể thúc đẩy sự bùng nổ trong các hoạt động tiếp theo trên Polkadot & Kusama"*- Ninor Mansor, Đối tác tại Arrington Capital
 
 ![](https://cdn-images-1.medium.com/max/1600/1*j4VHuY_BgjkYv_bQ6_DmcQ.gif)
 
