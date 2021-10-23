@@ -28,7 +28,7 @@ Eche un vistazo a lo que Darwinia dijo sobre nosotros
 
 ![](https://miro.medium.com/max/1400/0*Bc8P3mcH6rz-KtT0)
 
-> “Utilizar SubQuery para consultar los datos en cadena de Darwinia se ha vuelto muy simple y flexible. SubQuery considera los datos de blockchain como una gráfica, y aprovecha la extensibilidad de GraphQL para introducir funcionalidad adicional. Creemos que en el futuro, la interfaz de datos de la cadena de substratos usará principalmente GraphQL, SubQuery está haciendo de esto una realidad”.</em> — [Darwinia](https://subquery.medium.com/darwinias-network-data-is-now-available-for-free-in-subquery-b4f51c73fb15)
+> _“Utilizar SubQuery para consultar los datos en cadena de Darwinia se ha vuelto muy simple y flexible. SubQuery considera los datos de blockchain como una gráfica, y aprovecha la extensibilidad de GraphQL para introducir funcionalidad adicional. Creemos que en el futuro, la interfaz de datos de la cadena de substratos usará principalmente GraphQL, SubQuery está haciendo de esto una realidad”._ — [Darwinia](https://subquery.medium.com/darwinias-network-data-is-now-available-for-free-in-subquery-b4f51c73fb15)
 
 Puedes empezar a construir tu siguiente dApp con nosotros hoy, sigue nuestra [guía de inicio rápido](https://doc.subquery.network/quickstart.html) o chatea con nosotros en nuestro canal de soporte técnico en [Discord](https://discord.com/invite/78zg8aBSMG).
 
