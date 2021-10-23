@@ -1,4 +1,4 @@
-# Dự án SubQuery - Hãy công bố sự sáng tạo của riêng bạn!
+# Dự án SubQuery - Hãy lan tỏa sự sáng tạo của riêng bạn!
 
 ![](https://miro.medium.com/max/1400/0*Jhkt10DyMiptFocJ)
 

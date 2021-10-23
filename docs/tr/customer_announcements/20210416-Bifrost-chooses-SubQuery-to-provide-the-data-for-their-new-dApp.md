@@ -23,7 +23,7 @@ Bifrost, kendi projelerini yönetmek ve gerektiğinde güncellemeler yapmak içi
 
 Vdot için toplam stake gelirini almak için başka bir SubQuery örneği
 
-[SubQuery](https://subquery.network/), katman-1 blok zincirleri (Bifrost) ve DApp'ler arasında çalışacak bir veri toplama katmanıdır. Çözüm, [Bifrost](https://bifrost.finance/) ve diğer blok zincirlerinden gelen verileri toplar ve düzenler, dApp'leri ve diğer geliştiricilerin çok çeşitli projelerde kullanmaları için iyi yapılandırılmış veriler sunar. Çözüm, <0>Bifrost</0> ve diğer blok zincirlerinden gelen verileri toplar ve düzenler, dApp'leri ve diğer geliştiricilerin çok çeşitli projelerde kullanmaları için iyi yapılandırılmış veriler sunar.
+[SubQuery](https://subquery.network/), katman-1 blok zincirleri (Bifrost) ve DApp'ler arasında çalışacak bir veri toplama katmanıdır. Çözüm, [Bifrost](https://bifrost.finance/) ve diğer blok zincirlerinden gelen verileri toplar ve düzenler, dApp'leri ve diğer geliştiricilerin çok çeşitli projelerde kullanmaları için iyi yapılandırılmış veriler sunar. Bu hizmet, DApp geliştiricilerinin veri işleme için özel bir arka uç oluşturmaya zaman kaybetmeden temel kullanım durumlarına ve ön uçlarına odaklanmalarına olanak tanır.
 
 Bifrost hakkında daha fazla bilgi edinin
 

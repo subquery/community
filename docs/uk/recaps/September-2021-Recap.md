@@ -37,48 +37,48 @@
 
 ## Ексклюзивні майстер -класи з спільнотою Discord 🔊
 
-We are extremely proud of [our vibrant and inclusive Discord community](https://discord.com/invite/subquery) which is led by Sally, our newest team member. We have several social channels, however Discord is our primary community where we share news and engage with everyone.
+Ми надзвичайно пишаємося [ нашою яскравою та всеохоплюючою спільнотою Discord ](https://discord.com/invite/subquery), яку очолює Саллі, наш найновіший член команди. У нас є кілька соціальних каналів, проте Discord - це наша основна спільнота, де ми ділимося новинами та спілкуємось з усіма.
 
-Recently we invited the community to a series of exclusive workshops to learn more about SubQuery and we will be doing more within our Discord in the coming months. If you want to hear about exclusive events and get more involved with the team, please make sure you join!
+Нещодавно ми запросили спільноту на серію ексклюзивних майстер -класів, щоб вони дізналися більше про SubQuery, і ми зробимо більше в рамках нашого Discord у найближчі місяці. Якщо ви хочете почути про ексклюзивні події та більше зацікавитись командою, обов’язково приєднуйтесь!
 
-## Encode Club Hackathon 👩‍🎓
+## Хакотон Encode Club 👩‍🎓
 
-In order to get closer to the developer community and show our support for the ecosystem, we are thrilled to be sponsoring the largest challenge at [Encode Club's Polkadot Hackathon](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e). We've partnered with our friends at Acala/Karura to help the community build some game changing dApps and can't wait to see what the teams come up with!
+Для того, щоб наблизитися до спільноти розробників та висловити свою підтримку екосистемі, ми в захваті від того, що спонсоруємо найбільший челендж у хакатоні Polkadot [Encode Club](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e). Ми співпрацюємо з нашими друзями в Акалі/Карурі, щоб допомогти спільноті створити деякі програми, які змінюють гру в розробці dApps, і не можемо чекати, щоб побачити, що придумали команди!
 
-## Community Growth 🚀
+## Зростання спільноти 🚀
 
-Our community continues to grow at a rapid pace and we crossed two key milestones in September with [Twitter](https://twitter.com/SubQueryNetwork) crossing 10,000 followers and [our Discord group](https://discord.com/invite/subquery) reaching 3,000 members. Thank you for all of your support and if you're not following us already, please get involved!
+Наша спільнота продовжує стрімкими темпами зростати, і у вересні ми подолали дві ключові віхи: [Twitter](https://twitter.com/SubQueryNetwork) перетнув 10 000 підписників, а [наша група Discord](https://discord.com/invite/subquery) набрала 3 000 членів. Дякуємо за всю вашу підтримку, і якщо ви ще не стежите за нами, будь ласка, долучіться!
 
-## Interview with Layah Heilpern 🎙
+## Інтерв'ю з Лайєю Хайлперн 🎙
 
-Crypto influencer Layah Heilpern interviewed Sam and James about our progress to date and our thoughts on the future decentralised SubQuery Network. You can watch the interview below.
+Крипто-інфлюенцер Лайя Хейлперн взяла інтерв’ю у Сема та Джеймса щодо нашого прогресу на сьогодні та наших думок щодо майбутньої децентралізованої мережі SubQuery. Інтерв’ю можна подивитися нижче.
 
-[Watch here](https://youtu.be/WApnpFjEofg)
+[Дивись тут](https://youtu.be/WApnpFjEofg)
 
-## SubQuery Network Progress 🏗
+## Прогрес у мережі SubQuery 🏗
 
-In the past month we have really accelerated the work that we're doing on the SubQuery Network, [our decentralised and incentivised future](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010). We've brought on new members to our team to start work on code and also fine tune our tokenomics.
+За останній місяць ми дійсно прискорили роботу над мережею SubQuery, [наше децентралізоване та стимульоване майбутнє](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010). Ми залучили до нашої команди нових членів, щоб розпочати роботу над кодом, а також досконало налаштувати нашу токеноміку.
 
-We're putting the finishing touches on proof of indexing, a necessary and significant bit of work that provides guarantees that two SubQuery indexers are equivalent. We're using Merkle Mountain ranges to do this, take a look at the code if you're interested.
+Ми доводимо останні штрихи до доказу індексації, необхідної та значної частини роботи, яка гарантує, що два індексатори SubQuery є еквівалентними. Для цього ми використовуємо Merkle Mountain, подивіться код, якщо вам це цікаво.
 
-Keep an eye out in the coming weeks for our first draft of a high level product roadmap --- we know you've all been asking for it!
+У найближчі тижні слідкуйте за нашим першим проектом дорожньої карти продуктів на високому рівні-ми знаємо, що ви всі про це просили!
 
-## New Projects on SubQuery 🤝
+## Нові проекти на SubQuery 🤝
 
-In September, we announced that we were helping the teams at [Parallel Finance](https://parallel.fi/) and [DotMarketCap](http://www.dotmarketcap.com/) with their data needs.
+У вересні ми оголосили, що допомагаємо командам [Parallel Finance](https://parallel.fi/) та [DotMarketCap](http://www.dotmarketcap.com/) у їхніх потребах у передачі даних.
 
-Parallel Finance is a decentralized money market protocol that offers lending, staking, and borrowing in the Polkadot ecosystem. [SubQuery's service helps Parallel Finance](https://subquery.medium.com/parallel-finance-is-creating-the-next-defi-platform-using-subquery-6fc1e366985a) store, analyse, and query data on their current Heiko testnet. Some of this data is used directly in Parallel's new application, helping users understand and analyse DeFi data.
+Parallel Finance - це децентралізований протокол грошового ринку, який пропонує кредитування, ставки та позики в екосистемі Polkadot. [Служба SubQuery допомагає Parallel Finance](https://subquery.medium.com/parallel-finance-is-creating-the-next-defi-platform-using-subquery-6fc1e366985a) зберігати, аналізувати та запитувати дані у їх поточній тестовій мережі Heiko. Деякі з цих даних використовуються безпосередньо в новій програмі Parallel, допомагаючи користувачам зрозуміти та проаналізувати дані DeFi.
 
-We are always delighted to get feedback like this from our partners:
+Ми завжди раді отримати такі відгуки від наших партнерів:
 
-_"SubQuery is an excellent tool which brought traditional indexing & query technology to Parallel Heiko. The plug-and-play service really saved us a lot of time developing our own block indexing tool and maintaining our own solution."_ --- Parallel Finance
+_"SubQuery - це чудовий інструмент, який приніс традиційну технологію індексування & запитів у Parallel Heiko. Служба "plug-and-play" дійсно заощадила нам багато часу на розробку власного інструменту індексації блоків та підтримку власного рішення. "_ ---  Parallel Finance
 
-In the case of DotMarketCap, [SubQuery was responsible for feeding information](https://subquery.medium.com/dotmarketcap-2-0-launches-with-support-from-subquery-and-subvis-ef85b5e0ee31) relating to the second batch of Kusama Parachain Auctions to DotMarketCap users. The interesting thing about this collaboration is that the real-time data was actually coming from SubQuery to an existing [project maintained by SubVis](https://explorer.subquery.network/subquery/subvis-io/kusama-auction) and then picked up again by DotMarketCap. For SubQuery, this is a realisation of our goal to build an open community marketplace of data in our Explorer, it also shows how symbiotic the Polkadot ecosystem is and how teams work together to achieve a shared goal of a decentralised future.
+У випадку DotMarketCap [SubQuery відповідав за подачу інформації](https://subquery.medium.com/dotmarketcap-2-0-launches-with-support-from-subquery-and-subvis-ef85b5e0ee31) щодо другої партії аукціонів Kusama Parachain для користувачів DotMarketCap. Цікавим у цій співпраці є те, що дані в реальному часі фактично надходили з SubQuery до існуючого [проекту, що підтримується SubVis](https://explorer.subquery.network/subquery/subvis-io/kusama-auction), а потім знову збиралися у DotMarketCap. Для SubQuery це реалізація нашої мети створити відкритий спільнотний ринок даних у нашому Провіднику, він також показує, наскільки симбіотична екосистема Polkadot і як команди працюють разом для досягнення спільної мети децентралізованого майбутнього.
 
-If you would like to learn more [you can view all projects easily via our Explorer here](https://explorer.subquery.network/).
+Якщо ви хочете дізнатися більше [, ви можете легко переглянути всі проекти за допомогою нашого Провідника тут](https://explorer.subquery.network/).
 
-As always, please join our social channels to stay updated on our latest news and announcements.
+Як завжди, приєднуйтесь до наших соціальних каналів, щоб бути в курсі наших останніх новин та оголошень.
 
-James, Sam, and the SubQuery Team
+Джеймс, Сем і команда SubQuery
 
-[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork) | [Веб-сайт](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)

@@ -32,4 +32,4 @@ Patract Labs предоставляет решения для разработк
 
 Задача SubQuery - сделать децентрализованные данные в мире более доступными. SubQuery - это поставщик данных как услуг, который собирает и организует данные из Polkadot и Substrate; он дает возможность Polkadot/Substrate проектам создавать лучшие DApp, предоставляя хорошо структурированные данные для разработчиков.
 
-[Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Linkedin](https://www.linkedin.com/company/subquery) | [Средний](https://subquery.medium.com/)
+[Website](https://www.subquery.network/)丨[Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Linkedin](https://www.linkedin.com/company/subquery) | [Medium](https://subquery.medium.com/)丨[GitHub](https://github.com/subquery/subql) | [Matrix](https://matrix.to/#/#subquery:matrix.org)

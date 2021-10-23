@@ -14,7 +14,7 @@ Dalam pembaruan bulanan ini:
 
 ![](https://miro.medium.com/max/640/1*bFOaBnLZUfhRxiQa7fjbwA.gif)
 
-Kami telah menjangkau banyak protokol, aplikasi DeFi, dApps, Dompet, platform NFT, jembatan lintas rantai, dan lainnya di seluruh ekosistem Polkadot baru-baru ini. Kami berencana meningkatkan proses orientasi kami untuk mitra baru untuk mempercepat ini dengan kode contoh, proyek siap pakai, dan informasi yang lebih baik untuk pengembang.
+Kami telah menjangkau banyak protokol, aplikasi DeFi, dApps, Dompet, platform NFT, jembatan lintas chain, dan lainnya di seluruh ekosistem Polkadot baru-baru ini. Kami berencana meningkatkan proses orientasi kami untuk mitra baru untuk mempercepat ini dengan kode contoh, proyek siap pakai, dan informasi yang lebih baik untuk pengembang.
 
 > Bersiaplah untuk aliran proyek baru partner yang akan membanjiri.
 

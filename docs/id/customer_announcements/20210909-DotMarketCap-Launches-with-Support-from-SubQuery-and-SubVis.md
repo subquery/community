@@ -26,7 +26,7 @@ Untuk SubQuery, ini adalah realisasi dari tujuan kami untuk membangun pasar data
 
 ## **Tentang DotMarketCap**
 
-DotMarketCap adalah proyek nirlaba yang didanai oleh Illusionist Group, merupakan situs web di mana Anda dapat menemukan data harga, grafik, kapitalisasi serta informasi dan analisis terbaru dari seluruh proyek di ekosistem Polkadot. Setelah beberapa lama berkembang, DotMarketCap akhirnya muncul dengan fitur-fitur baru dan menarik. Kunjungi dotmarketcap.com untuk informasi lebih lanjut.
+DotMarketCap adalah proyek nirlaba yang didanai oleh Illusionist Group, merupakan website di mana Anda dapat menemukan data harga, grafik, kapitalisasi serta informasi dan analisis terbaru dari seluruh proyek di ekosistem Polkadot. Setelah beberapa lama berkembang, DotMarketCap akhirnya muncul dengan fitur-fitur baru dan menarik. Kunjungi dotmarketcap.com untuk informasi lebih lanjut.
 
 [Website](http://dotmarketcap.com/) | [Telegram](https://t.me/DotMarketCap_ANN) | [Twitter](https://twitter.com/DotMarketCap?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 

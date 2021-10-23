@@ -13,7 +13,7 @@ Subvis.io Müzayede Panosu
 
 [Subvis.io](https://www.subvis.io/), bu ağ verilerini SubQuery'de göstererek, zincirdeki verilerden zengin içgörülerin elde edilebileceğini herkese gösteriyor.
 
-> _<0>Subvis. io</0>, bu ağ verilerini SubQuery'de göstererek, zincirdeki verilerden zengin içgörülerin elde edilebileceğini herkese gösteriyor. Herhangi bir veritabanı oluşturmamız veya AWS'ye herhangi bir şey dağıtmamız gerekmedi - SubQuery'nin yapı iskelesi çözümü işe yaradı!”. — Subvis.io_
+> _“SubQuery made it easy to collect complicated chain data for Subvis and to sum it up for display in our website. Herhangi bir veritabanı oluşturmamız veya AWS'ye herhangi bir şey dağıtmamız gerekmedi - SubQuery'nin yapı iskelesi çözümü işe yaradı!”. — Subvis.io_
 
 [SubQuery'nin](https://subquery.network/) hizmeti, [Subvis.io](https://www.subvis.io/)'nun Kusama verilerini dönüştürmesine ve toplamasına ve normal kullanıcıların anlaması ve okuması için daha erişilebilir hale getirmesine yardımcı olur.
 

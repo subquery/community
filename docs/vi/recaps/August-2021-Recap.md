@@ -58,15 +58,15 @@ Trong cả hai trường hợp, chúng tôi rất biết ơn khi nhận được
 
 Chúng tôi rất vui khi được DotMarketCap tổ chức một AMA vào ngày 5 tháng 8 với Sam và James. Các câu hỏi của khán giả trải dài từ các lĩnh vực như DeFi và NFT cho đến rất nhiều câu hỏi về kế hoạch phát triển và tương lai của chúng tôi. Chúng tôi đã chia sẻ thông tin chi tiết về lý do tại sao chúng tôi bắt đầu dự án của mình ở Polkadot và liệu token của chúng tôi có được khởi chạy dưới dạng ERC-20 hay không.
 
-[ Bạn có thể đọc bài phỏng vấn tại đây ](https://dotmarketcap.com/blog-detail/288/ama30-recap-polkawarriors-x-subquery).
+[Bạn có thể đọc bài phỏng vấn tại đây](https://dotmarketcap.com/blog-detail/288/ama30-recap-polkawarriors-x-subquery).
 
 ## Hoạt động ở Trung Quốc 🇨🇳
 
 ![](https://miro.medium.com/max/1400/0*A5oqsryFRbGX0MDx)
 
-Siqi, người lãnh đạo sự phát triển kinh doanh của chúng tôi tại Trung Quốc, đã có một tháng bận rộn với một số [ cuộc thảo luận trực tuyến cùng với Moonbeam ](https://twitter.com/SubQueryNetwork/status/1425293137103122432/photo/1), Acala, Astar và Phala. Ngoài ra, cô đã tham gia AMA do Polkadot tổ chức vào ngày 11 tháng 8 và AMA do [ ODaily ](http://www.odaily.com/) và Acala tổ chức vào ngày 13 tháng 8.
+Siqi, người lãnh đạo sự phát triển kinh doanh của chúng tôi tại Trung Quốc, đã có một tháng bận rộn với một số [cuộc thảo luận trực tuyến cùng với Moonbeam](https://twitter.com/SubQueryNetwork/status/1425293137103122432/photo/1), Acala, Astar và Phala. Ngoài ra, cô đã tham gia AMA do Polkadot tổ chức vào ngày 11 tháng 8 và AMA do [ ODaily ](http://www.odaily.com/) và Acala tổ chức vào ngày 13 tháng 8.
 
-Chúng tôi mong muốn cộng đồng người Trung Quốc của chúng tôi phát triển đáng kể trong những tháng tới thông qua các hoạt động như hackathons. Như vậy, [ chúng tôi sẽ tổ chức hội thảo với Encode Club ](https://www.eventbrite.co.uk/e/polkadot-hackathon-subquery-workshop-tickets-167321106935?aff=ebdsoporgprofile) và chạy hackathon với OneBlock + để giúp giới thiệu SubQuery với khán giả mới.
+Chúng tôi mong muốn cộng đồng người Trung Quốc của chúng tôi phát triển đáng kể trong những tháng tới thông qua các hoạt động như hackathons. Như vậy, [chúng tôi sẽ tổ chức hội thảo với Encode Club](https://www.eventbrite.co.uk/e/polkadot-hackathon-subquery-workshop-tickets-167321106935?aff=ebdsoporgprofile) và chạy hackathon với OneBlock+ để giúp giới thiệu SubQuery với khán giả mới.
 
 ## Đánh dấu cột mốc thứ 2 của API chung Polkadot ✅
 

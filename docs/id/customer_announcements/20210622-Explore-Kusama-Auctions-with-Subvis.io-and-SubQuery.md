@@ -13,7 +13,7 @@ Dasbor Lelang Subvis.io
 
 Dengan memaparkan data jaringan ini di SubQuery, [Subvis.io](https://www.subvis.io/) menunjukkan kepada semuanya bahwa wawasan yang kaya sudah dapat diekstraksi dari data on-chain.
 
-> _“SubQuery memudahkan pengumpulan data rantai yang rumit untuk Subvis dan merangkumnya untuk ditampilkan di situs web kami. Kami tidak perlu membuat database apa pun atau menerapkan apa pun ke AWS— Solusi scaffolded SubQuery baru saja berhasil!”. — Subvis.io_
+> _“SubQuery memudahkan pengumpulan data rantai yang rumit untuk Subvis dan merangkumnya untuk ditampilkan di website kami. Kami tidak perlu membuat database apa pun atau menerapkan apa pun ke AWS— Solusi scaffolded SubQuery baru saja berhasil!”. — Subvis.io_
 
 Layanan [SubQuery](https://subquery.network/) membantu [Subvis.io](https://www.subvis.io/) mengubah dan menggabungkan data Kusama dan membuatnya lebih mudah diakses oleh pengguna biasa untuk memahami dan membacanya.
 

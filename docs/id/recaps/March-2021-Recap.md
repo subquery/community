@@ -56,6 +56,6 @@ Kami baru-baru ini [diberikan hibah perbendaharaan](https://kusama.polkassembly.
 
 ## **Staf dan Kantor Baru**
 
-Salah satu perubahan terbesar selama sebulan terakhir adalah seberapa banyak tim telah berkembang. We’ve added two new staff over the past month and expect to hire more, as a result, we’ve found a new office in Auckland that fits us perfectly. Kami akan tumbuh, tetapi masih berencana untuk tetap kecil dan gesit sehingga kami dapat mewujudkan visi produk kami.
+Salah satu perubahan terbesar selama sebulan terakhir adalah seberapa banyak tim telah berkembang. Kami telah menambahkan dua staf baru selama sebulan terakhir dan berharap untuk mempekerjakan lebih banyak, sebagai hasilnya, kami menemukan kantor baru di Auckland yang sangat cocok untuk kami. Kami akan tumbuh, tetapi masih berencana untuk tetap kecil dan gesit sehingga kami dapat mewujudkan visi produk kami.
 
 ![](https://miro.medium.com/max/1400/1*cJZxerXHfgVGu4-7h2xw4Q.jpeg)

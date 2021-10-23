@@ -30,7 +30,7 @@ Diese Fundraising-Runde wird die technische und Community-Roadmap von SubQuery i
 
 ### Finden Sie mehr heraus
 
-Get started by building your own SubQuery project [here](https://doc.subquery.network/).
+Beginnen Sie mit der Erstellung Ihres eigenen SubQuery-Projekts [hier](https://doc.subquery.network/).
 
 Beginnen Sie mit dem Erstellen Ihres eigenen SubQuery-Projekts [hier](https://doc.subquery.network/).
 

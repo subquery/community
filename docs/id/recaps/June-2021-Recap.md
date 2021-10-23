@@ -28,9 +28,9 @@ Kami percaya bahwa pengembang di industri kami harus fokus membangun masa depan,
 
 Slot penerapan adalah fitur baru yang berarti pengembang dapat memperbarui Proyek mereka, mengindeks ulang data mereka, dan meningkatkan Proyek SubQuery produksi yang dihosting tanpa waktu henti. Kami terus menjadikan layanan terkelola gratis kami sebagai pilihan default di mana pelanggan kami memilih untuk menjalankan infrastruktur mereka.
 
-Permintaan umum yang kami hadapi dari pelanggan kami adalah bagaimana meningkatkan kecepatan pengindeksan proyek SubQuery mereka. Mengindeks data historis pada rantai sebesar Polkadot dapat memakan waktu berjam-jam jika bukan berhari-hari, sehingga membuat pengujian menjadi sulit.
+Permintaan umum yang kami hadapi dari pelanggan kami adalah bagaimana meningkatkan kecepatan pengindeksan proyek SubQuery mereka. Mengindeks data historis pada chain sebesar Polkadot dapat memakan waktu berjam-jam jika bukan berhari-hari, sehingga membuat pengujian menjadi sulit.
 
-Proyek SubQuery sekarang memiliki opsi untuk melewati semua ini menggunakan fitur baru kami — [Kamus SubQuery](https://subquery.medium.com/subquerys-just-got-a-lot-faster-with-the-dictionary-8a7a1447574). Kami pada dasarnya melakukan pra-indeks lokasi semua peristiwa dalam rantai dan sebagai hasilnya kami telah melihat kecepatan pengindeksan hingga 10x lebih cepat, SubQuery lebih cepat dari sebelumnya.
+Proyek SubQuery sekarang memiliki opsi untuk melewati semua ini menggunakan fitur baru kami — [Kamus SubQuery](https://subquery.medium.com/subquerys-just-got-a-lot-faster-with-the-dictionary-8a7a1447574). Kami pada dasarnya melakukan pra-indeks lokasi semua peristiwa dalam chain dan sebagai hasilnya kami telah melihat kecepatan pengindeksan hingga 10x lebih cepat, SubQuery lebih cepat dari sebelumnya.
 
 China adalah bagian penting dari rencana ekspansi strategis kami. Pada bulan Juni Siqi bergabung dengan kami dan akan memimpin pengembangan bisnis kami di wilayah tersebut. Dia benar-benar berhasil, terhubung dengan banyak pelanggan dan mitra kami yang ada di sana.
 

@@ -1,12 +1,12 @@
-# Ankündigung von SubQuery
+# Die Ankündigung von SubQuery
 
-## Transform und Abfrage der aktuellen Daten für die Web 3.0 Zukunft
+## Transformieren und Abfragen der Weltdaten für die Web3.0-Zukunft
 
 ![](https://miro.medium.com/max/1400/1*J5u22qNxndcuCrFJ1mfGqg.png)
 
-OnFinality hat folgendes zum Ziel: Blockchain-Entwickler zu unterstützen, indem sie den Kunden aller Formen und Größen Infrastrukturdienstleistungen anbietet. Wir starten ein neues Unternehmen, das darauf abzielt, ein Kernproblem zu lösen, um diese Mission voranzutreiben: SubQuery.
+Die Mission von OnFinality besteht darin, Blockchain-Entwickler durch die Bereitstellung von Infrastrukturdiensten für Kunden aller Formen und Größen zu unterstützen. Wir starten ein neues Projekt, das darauf abzielt, ein Kernproblem zu lösen, um diese Mission voranzutreiben: SubQuery.
 
-Fast jede Blockchain muss Daten verarbeiten und abfragen. Die blühende Polkadot Community wird einen Service benötigen, der macht möglich, schnell Daten zu finden und zu konsumieren. Unser Projekt ist inspiriert von [The Graph](https://thegraph.com/), einem Dienst, der sich derzeit auf Ethereum konzentriert, der den Kunden ermöglicht, dies mit GraphQL zu tun.
+Fast jede Blockchain soll Daten verarbeiten und abfragen. Die florierende Polkadot-Community wird einen Dienst benötigen, der es ihnen ermöglicht, Daten zuverlässig schnell zu finden und zu konsumieren. Unser Projekt ist inspiriert von [The Graph](https://thegraph.com/), einem Dienst, der sich derzeit auf Ethereum konzentriert und es Kunden ermöglicht, dies mithilfe von GraphQL zu tun.
 
 Da dezentrale Systemdaten über Netzwerke hinweg speichern, ist die Abfrage langsam und schwierig. Damit der Web 3.0-Traum verwirklicht werden kann, muss er für den Endbenutzer so schnell (wenn nicht schneller) wie zentralisierte Netzwerke sein. Protokoll-Teams bauen derzeit zentralisierte Indizierungsserver für ihre eigenen Projekte, aber dies wirft drei Probleme auf:
 

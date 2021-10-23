@@ -24,7 +24,7 @@ Kami sedang dalam proses penerimaan ambassador pertama kami dalam waktu dekat. K
 
 Pada akhir Juli, kami telah membuat kemajuan yang baik pada dua pencapaian pertama dari [hibah perbendaharaan API dApp sumber open-source](https://kusama.polkassembly.io/treasury/95) kami. Meskipun di permukaan tidak terlihat banyak, sebenarnya ini adalah inisiatif yang sangat penting bagi kami. Pertama, ini merupakan kerja sama strategis yang mendalam dengan salah satu wallet asli Polkadot terbesar, Fearless Wallet.
 
-Kedua, API open-source ini harus dapat menyediakan berbagai jenis aplikasi dengan tampilan yang memadai (tetapi hanya-baca) dari semua data kunci dalam chain Kusama. E.g. seorang pengembang dapat menggunakannya untuk membuat penjelajah rantai mereka sendiri tanpa perlu secara langsung menanyakan data chain.
+Kedua, API open-source ini harus dapat menyediakan berbagai jenis aplikasi dengan tampilan yang memadai (tetapi hanya-baca) dari semua data kunci dalam chain Kusama. E.g. seorang pengembang dapat menggunakannya untuk membuat penjelajah chain mereka sendiri tanpa perlu secara langsung menanyakan data chain.
 
 Kami membangun ini dengan cara yang memudahkan untuk memperluas jumlah parachain yang terus bertambah. Ini juga akan memberikan dasar yang jauh lebih baik untuk membangun aplikasi baru di SubQuery, memungkinkan kami untuk bergabung dengan kemitraan baru lebih cepat!
 

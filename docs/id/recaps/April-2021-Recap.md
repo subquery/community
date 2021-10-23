@@ -13,7 +13,7 @@ Di sisi mitra, kami meluncurkan produk utama yang diperlukan untuk mempercepat p
 
 ![](https://miro.medium.com/max/1400/0*zZkmiEq5g2BbAxfl)
 
-Bagian terakhir yang hilang ini sekarang berarti kami memiliki rangkaian alat yang lengkap untuk memungkinkan dan memberdayakan pelanggan untuk [menjelajah](https://explorer.subquery.network/), [membuat](https://doc.subquery.network/quickstart.html), [menjalankan](https://doc.subquery.network/run/indexing_query.html), dan kemudian mempublikasikan proyek SubQuery semuanya sendiri.
+Bagian terakhir yang hilang ini sekarang berarti kami memiliki rangkaian alat yang lengkap untuk memungkinkan dan memberdayakan pelanggan untuk [menjelajah](https://explorer.subquery.network/), [membuat](https://doc.subquery.network/quickstart.html), [menjalankan](https://doc.subquery.network/run/indexing_query.html), dan kemudian [mempublikasikan](https://doc.subquery.network/publish/publish.html#benefits) proyek SubQuery semuanya sendiri.
 
 ![](https://miro.medium.com/max/1400/0*pDQgyo3phe2ZcMml)
 
@@ -25,9 +25,9 @@ Layanan SubQuery membantu Bifrost menggerakkan sebagian besar data yang ditampil
 
 Proyek SubQuery Bifrost baru di SubQuery Explorer
 
-> “Tanpa SubQuery, sulit membayangkan betapa rumitnya mengumpulkan data secara manual dari rantai. Pengembang bifrost mungkin menghabiskan banyak waktu mencari semua data transaksi di rantai yang akan digunakan untuk riwayat transaksi. SubQuery membantu pengembang menghemat banyak biaya pekerjaan berulang. Bifrost akan bekerja sama dengan SubQuery untuk waktu yang lama untuk mempercepat kecepatan pengembangan produk yang berulang”. — Bifrost Finance
+> “Tanpa SubQuery, sulit membayangkan betapa rumitnya mengumpulkan data secara manual dari rantai. Pengembang bifrost mungkin menghabiskan banyak waktu mencari semua data transaksi di chain yang akan digunakan untuk riwayat transaksi. SubQuery membantu pengembang menghemat banyak biaya pekerjaan berulang. Bifrost akan bekerja sama dengan SubQuery untuk waktu yang lama untuk mempercepat kecepatan pengembangan produk yang berulang”. — Bifrost Finance
 
-OnFinality adalah penyedia layanan utama untuk SubQuery — sebagian besar pengindeks SubQuery di proyek Polkadot dan Kusama menggunakan titik akhir API publik OnFinality untuk mendapatkan data mereka. The significant traffic from SubQuery is one of the reasons why OnFinality is the largest infrastructure provider in the Polkadot/Kusama ecosystem.
+OnFinality adalah penyedia layanan utama untuk SubQuery — sebagian besar pengindeks SubQuery di proyek Polkadot dan Kusama menggunakan titik akhir API publik OnFinality untuk mendapatkan data mereka. Traffic yang signifikan dari SubQuery menjadi salah satu alasan mengapa OnFinality menjadi penyedia infrastruktur terbesar di ekosistem Polkadot/Kusama.
 
 Pada bulan April, OnFinality mencapai target jangka panjang 100 juta dalam satu hari, bahkan mereka memecahkannya dengan 127 juta permintaan dalam 24 jam (hampir 1.500 setiap detik).
 
