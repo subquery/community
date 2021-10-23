@@ -12,7 +12,7 @@ OnFinality是SubQuery背后的团队，SubQuery是区块链团队和用户启动
 
 > _“Hypersphere很高兴能够支持Sam和SubQuery团队，因为他们很快就建立了第一个专用于Polkadot生态系统的索引协议 ”_ — Jack Platts, Hypersphere Ventures的联合创始人
 
-由SubQuery的CEO，Sam Zou所引领的团队在2020年12月< 0 >收到Web3基金会授予< / 0 > 的创立基金并建立了SubQuery的初始阶段, 一个开源项目, 允许用户运行一个索引器来跨链构建一个可供查询的数据集和GraphQL。
+由SubQuery的CEO，Sam Zou所引领的团队在2020年12月[收到Web3基金会授予](https://subquery.medium.com/subquery-delivers-its-open-source-sdk-following-a-web3-foundation-grant-20da26ae87f) 的创立基金并建立了SubQuery的初始阶段, 一个开源项目, 允许用户运行一个索引器来跨链构建一个可供查询的数据集和GraphQL。
 
 ![](https://miro.medium.com/max/1000/0*kjspGYRr_BtMk015)
 
