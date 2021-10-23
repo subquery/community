@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1200/0*s1fSGGelS-HVJNBm)
 
-Durante la semana del 5 de julio, Ternoa ha introducido su nueva Cartera, una aplicación que permite a los futuros usuarios enviar y recibir $CAPS y ‘**_NFT Secretos_** mintados en la Ternoa Blockchain, así como revelar fácilmente su Secreto a sus propietarios. El concepto de **_secreto_** para los **_NFTs</o> ha sido imaginado por el equipo de Ternoa.</p>
+Durante la semana del 5 de julio, Ternoa ha introducido su nueva Cartera, una aplicación que permite a los futuros usuarios enviar y recibir $CAPS y ‘**_NFT Secretos_** mintados en la Ternoa Blockchain, así como revelar fácilmente su Secreto a sus propietarios. El concepto de **_secreto_** para los **_NFTs_** ha sido imaginado por el equipo de Ternoa.
 
 Esos_NFTs secretos_pueden ser encontrados y comprados en el mercado dedicado ([https://www. ecret-nft.com/](https://www.secret-nft.com/)) construido por el equipo de Ternoa. La Ternoa Wallet es una solución inspirada en el proyecto [WalletConnect](https://walletconnect.org/), permitiendo a los usuarios iniciar sesión y comprar NFT fácilmente con una interacción de código QR simple entre el sitio web y la aplicación.
 
