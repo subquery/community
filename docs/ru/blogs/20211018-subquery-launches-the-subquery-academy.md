@@ -1,10 +1,10 @@
-# SubQuery Launches The SubQuery Academy
+# SubQuery запускает Академию SubQuery
 
 ![](https://miro.medium.com/max/700/1*5zmCSCrmqL2gGE-BP_6rDQ.png)
 
-Helping developers build the applications of tomorrow
+Помощь разработчикам в создании приложений будущего
 
-We are pleased to announce the launch of The SubQuery Academy. The Academy is designed to up-skill and empower developers in the SubQuery ecosystem by providing them with a modular programme. The content of this programme will take an aspiring blockchain developer from beginning to advanced , and is  [100% free and accessible online](https://doc.subquery.network/).
+Мы рады сообщить о запуске Академии SubQuery. Академия создана для повышения квалификации и расширения возможностей разработчиков экосистемы SubQuery путем предоставления им модульной программы. Содержание этой программы поможет начинающему разработчику блокчейна пройти путь от начального до продвинутого уровня, и она 100% бесплатна и доступна онлайн.
 
 Our first course is the  *SubQuery Hero Course*  and will be available from Friday 22 October 2021. The course will be released with a new module every week for six weeks based on the following structure:
 
