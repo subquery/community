@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/0*nqNosmn0y7FHOI42)
 
-Bifrost baru-baru ini meluncurkan versi beta dari dApp baru mereka, antarmuka interaktif resmi untuk semua layanan Bifrost. Melalui dApp ini, pengguna dapat mencetak vToken, menukarkan dan menukar derivatif ini, dan melihat penghasilan mereka secara real time. Dapp beta ini adalah langkah maju yang besar dalam memungkinkan pengguna untuk mengurangi biaya taruhan di seluruh rantai dengan menjaga likuiditas. [Anda dapat mencoba dApp baru Bifrost di sini](https://apps.bifrost.finance/).
+Bifrost baru-baru ini meluncurkan versi beta dari dApp baru mereka, antarmuka interaktif resmi untuk semua layanan Bifrost. Melalui dApp ini, pengguna dapat mencetak vToken, menukarkan dan menukar derivatif ini, dan melihat penghasilan mereka secara real time. Dapp beta ini adalah langkah maju yang besar dalam memungkinkan pengguna untuk mengurangi biaya staking di seluruh chain dengan menjaga likuiditas. [Anda dapat mencoba dApp baru Bifrost di sini](https://apps.bifrost.finance/).
 
 > “Tanpa SubQuery, sulit membayangkan betapa rumitnya mengumpulkan data secara manual dari chain. Pengembang bifrost mungkin menghabiskan banyak waktu mencari semua data transaksi di chain yang akan digunakan untuk riwayat transaksi. SubQuery membantu pengembang menghemat banyak biaya pekerjaan berulang. Bifrost akan bekerja sama dengan SubQuery untuk waktu yang lama untuk mempercepat kecepatan pengembangan produk yang berulang”. — Bifrost.Finance
 
