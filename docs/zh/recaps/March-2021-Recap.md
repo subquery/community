@@ -1,9 +1,9 @@
 # March 2021 Recap
 
-It’s been an intense last couple of months at OnFinality and SubQuery, we’ve expanded the team and have brought on some new partners as we launch some key new projects. In this monthly update:
+这是最近几个月内OnFinality 和 SubQuery 的紧张状态。 随着我们启动一些关键的新项目，我们扩大了团队，并带来了一些新的伙伴。 在本月更新中：
 
--   SubQuery Explorer
--   Seed round update
+-   SubQuery 浏览器
+-   种子轮动态
 -   Our first partner use case for SubQuery
 -   Berkeley Blockchain Xcelerator
 -   Intelligent routing
