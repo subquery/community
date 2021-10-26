@@ -1,12 +1,12 @@
-# SubQuery Announces US$9 Million Funding Round
+# subquery宣布了900万美元一轮的筹资计划
 
-**Building a decentralised data protocol for the Polkadot Ecosystem. Co-Led By Arrington Capital, DCG and Stratos Technologies**
+**为Polkadot生态系统建立一个分散化的数据协议。 由 Arrington Capital, DCG 和 Stratos Technologies 共同领导。**
 
 ![](https://cdn-images-1.medium.com/max/1600/0*PR4oqrB9Am03VseR)
 
-SubQuery announces a US$9M funding round for the first decentralised data aggregation layer for the Polkadot ecosystem. This round brings together key stakeholders into the Web3 Ecosystem, building toward SubQuery's vision as fundamental data indexing infrastructure for all Polkadot and Kusama parachains and applications.
+SubQuery宣布为Polkadot生态系统的第一个分散化数据集合层提供900万美元资金。 这一轮活动将主要利益攸关方聚集到Web3生态系统中。 构建SubQuery的视野，作为所有Polkadot和Kusama parachains和Kusama parachains及其应用的基本数据索引基础设施。
 
-SubQuery aims to improve access to decentralised blockchain data by creating a vibrant marketplace for data indexing and provisioning. Its technology provides Polkadot and Kusama developers with the tools needed to easily explore, transform and analyse on-chain data. Abstracting the backend, SubQuery eliminates the need for custom data processing servers. It lets developers focus on product development and user experience rather than building their own querying systems.
+SubQuery旨在通过创建一个充满活力的数据索引和备用市场来改善对分散区块链数据的获取。 它的技术为Polkadot和Kusama开发商提供了方便地探索、转换和分析链上数据所需的工具。 Abstracting the backend, SubQuery eliminates the need for custom data processing servers. It lets developers focus on product development and user experience rather than building their own querying systems.
 
 This strategic round was co-led by [Arrington Capital](https://arringtonxrpcapital.com/), [DCG](https://dcg.co/) and [Stratos Technologies](https://www.stratoslp.com/), and included participation from [Hypersphere Ventures](https://hypersphere.ventures/), [Neo Global Capital (NGC)](http://ngc.fund/), [Wintermute](https://www.wintermute.com/) and [Skynet Trading](http://skynettrading.com/). It follows on from a seed round in early 2021, which included [DeFi Alliance](https://defialliance.co/), [The LAO](https://www.thelao.io/), [Digital Renaissance](https://drf.ee/), [P2P Capital](https://www.p2pcap.com/), and [Web3 Capital](https://web3.capital/).
 
