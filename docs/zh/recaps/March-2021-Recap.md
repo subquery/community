@@ -11,7 +11,7 @@
 
 ## SubQuery Explorer 实时访问
 
-[SubQuery Explorer](https://explorer.subquery.network/) 是一种在线托管服务，它提供访问已经发布的 SubQuery 项目，这些项目是由我们世界各地的社群贡献者制作的，并由SubQuery 团队主办。 您可以直接在您的浏览器中测试查询，或者获取API节点用于不同的情况。 别人正在建设的项目将启发您！
+[SubQuery Explorer](https://explorer.subquery.network/) 是一种在线托管服务，它提供访问已经发布的 SubQuery 项目，这些项目是由我们世界各地的社群贡献者制作的，并由SubQuery 团队主办。 您可以直接在您的浏览器中测试查询，或者获取API节点用于不同的情况。 别人正在建设的项目将启发您，这或许能使得您更好地反馈社区！
 
 我们运行类似于生产应用程序的SubQuery项目，所以您可以在现在使用SubQuery来解锁下一个应用程序中的分散数据。
 
