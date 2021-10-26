@@ -2,18 +2,18 @@
 
 ![](https://miro.medium.com/max/1400/1*2z3_9s-SY7dAvfe6xf9IDA.png)
 
-## Community, Community, Community!
+## 社区消息！
 
 
-Welcome to another monthly update from SubQuery. As you all know, community is a key element for every successful crypto project — this month we’ve started to expand our focus in this area.
+欢迎阅读SubQuery 最新每月更新。 大家都知道， 社区是每个成功的加密项目的一个关键元素 — — 本月我们已开始在这个领域聚集我们的焦点。
 
-In this monthly update:
+在本月更新中：
 
--   Ambassador Program 👩💼
--   DApp API Grant Work 🏗
--   Patract Open Platform 🌃
--   Parity’s Relaychain podcast 🎙
--   Documentation Improvements 📑
+-   大使方案 👩💼
+-   DApp API 授予工作 🏗
+-   开放绘制平台 🌃
+-   平等的链上相关博客 🎙
+-   文档改进 📑
 
 
 ![](https://miro.medium.com/max/1400/0*pe3Z3x1lGb_RLa5x)
