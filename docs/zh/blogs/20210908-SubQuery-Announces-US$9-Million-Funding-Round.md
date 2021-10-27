@@ -1,10 +1,10 @@
-# subquery宣布了900万美元一轮的筹资计划
+# subquery宣布900万美元的新一轮融资
 
 **为Polkadot生态系统建立一个分散化的数据协议。 由 Arrington Capital, DCG 和 Stratos Technologies 共同领导。**
 
 ![](https://cdn-images-1.medium.com/max/1600/0*PR4oqrB9Am03VseR)
 
-SubQuery宣布为Polkadot生态系统的第一个分散化数据集合层提供900万美元资金。 这一轮活动将主要利益攸关方聚集到Web3生态系统中。 构建SubQuery的视野，作为所有Polkadot和Kusama parachains和Kusama parachains及其应用的基本数据索引基础设施。
+SubQuery宣布为Polkadot生态系统的第一个分散化数据集合层提供900万美元资金。 这一轮将关键的利益相关者聚集到 Web3生态系统中，为 SubQuery 构建基础数据索引基础设施，为所有的 Polkadot 和 Kusama parachains 和应用程序提供支持。
 
 SubQuery旨在通过创建一个充满活力的数据索引和备用市场来改善对分散区块链数据的获取。 它的技术为Polkadot和Kusama开发商提供了方便地探索、转换和分析链上数据所需的工具。 Abstracting the backend, SubQuery eliminates the need for custom data processing servers. It lets developers focus on product development and user experience rather than building their own querying systems.
 
