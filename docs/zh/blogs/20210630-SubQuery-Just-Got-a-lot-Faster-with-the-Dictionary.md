@@ -1,14 +1,14 @@
-# SubQuery Just Got a Lot Faster with the Dictionary
+# 有了字典，SubQuery 变得更快了
 
 ![](https://miro.medium.com/max/1400/1*iEQbr-KZNIkztylVowAuaQ.png)
 
-Today we are proud to announce our new improvement to SubQuery, SubQuery’s Dictionary indexing feature.
+今天，我们自豪地宣布我们对 SubQuery 字典索引功能的新改进。
 
-The SubQuery Dictionary is all about speeding up your Projects. The SubQuery Dictionary is all about speeding up your Projects. It dramatically improves indexing the performance of your SubQuery Project, **sometimes up to 10x faster.**
+SubQuery 字典就是用来加速你的项目的。 它极大地提高了SubQuery项目的索引性能，< 0 > 有时可以快10倍
 
-When indexing chain data, SubQuery Projects used to inspect each block. Polkadot’s chain is large, 130GB of unstructured data over almost 6 million blocks. This takes many hours to index, time that you don’t want to wait for — especially when testing. Polkadot’s chain is large, 130GB of unstructured data over almost 6 million blocks. This takes many hours to index, time that you don’t want to wait for — especially when testing.
+在索引链数据时，SubQuery Project用来检查每个方块。 Polkadot的链条庞大，近600万个区块的无结构数据超过了130GB。 这需要许多小时才能索引，您不想等待——特别是在测试时。
 
-SubQuery projects now have the option to skip all this, we essentially pre-index the location of all events within a chain.
+SubQuery 项目现在可以选择跳过所有这一切，我们基本上将所有事件的位置预设索引。
 
 ![](https://miro.medium.com/max/1400/1*uIjz8W4TG9Q0au9zoKbHVw.png)
 
