@@ -1,19 +1,19 @@
-# April 2021 Recap
+# 2021年4月回顾
 
-April was an incredibly busy month for SubQuery, our growth is starting to accelerate at a serious pace and we’re breaking new records each day. As we mentioned last month, our focus in the short term is on two elements; scaling our platform to keep up with skyrocketing demand, and engaging with more and more partners to help them create their own SubQuery projects. As we mentioned last month, our focus in the short term is on two elements; scaling our platform to keep up with skyrocketing demand, and engaging with more and more partners to help them create their own SubQuery projects.
+对于SubQuery来说，四月是非常忙碌的一个月，我们的增长速度开始加快，每天都在打破新的记录。正如我们上个月提到的，短期内我们的重点是两个要素;扩大我们的平台以跟上飞速增长的需求，另一方面是和越来越多的合作伙伴合作，帮助他们创建自己的SubQuery项目。 正如我们上个月提到的那样，我们短期内的重点是两个方面。 扩大我们的平台以跟上飞速上涨的需求，并与越来越多的伙伴进行接触，帮助它们创建自己的 SubQuery 项目。
 
-In this monthly update:
+在本月更新中：
 
--   Focus on Partner tools — SubQuery Projects Launch
--   BiFrost SubQuery use case
--   Scalability Improvements by our service provider OnFinality
--   And more…
+-   聚焦于合作伙伴工具——SubQuery 项目启动
+-   BiFrost SubQuery 使用案件
+-   我们的服务提供商OnFinality在可伸缩性上的改进
+-   其他更多信息...
 
-On the partner front we launched a key product that is needed to operationally accelerate the growth of SubQuery. Before you could create and run your own SubQuery projects locally or in your own infrastructure. [Projects](https://project.subquery.network/) allows users to publish their projects to the SubQuery community and we’ll run them in a high performance, scalable, and managed public service — for free! Before you could create and run your own SubQuery projects locally or in your own infrastructure. [Projects](https://project.subquery.network/) allows users to publish their projects to the SubQuery community and we’ll run them in a high performance, scalable, and managed public service — for free!
+在辅助产品方面，我们启用了一个关键产品，这是加速SubQuery增长所需的。 在此之前，您只能在本地或在自己的基础设施中创建和运行您自己的 SubQuery 项目。 [Projects](https://project.subquery.network/) 允许用户向SubQuery社区发布他们的项目，我们将以高性能运行它们。 可扩展和管理的公共服务——它们是完全免费的！
 
 ![](https://miro.medium.com/max/1400/0*zZkmiEq5g2BbAxfl)
 
-This final missing piece now means we have a complete suite of tools to enable and empower customers to [explore](https://explorer.subquery.network/), [create](https://doc.subquery.network/quickstart.html), [run](https://doc.subquery.network/run/indexing_query.html), and then [publish](https://doc.subquery.network/publish/publish.html#benefits) SubQuery projects all on their own.
+这最后一个缺失的部分现在意味着我们有一个完整的工具套件来支持和授权客户去 [探索](https://explorer.subquery.network/), [创建](https://doc.subquery.network/quickstart.html), [运行](https://doc.subquery.network/run/indexing_query.html), and then [发布](https://doc.subquery.network/publish/publish.html#benefits)他们自己的SubQuery项目
 
 ![](https://miro.medium.com/max/1400/0*pDQgyo3phe2ZcMml)
 
