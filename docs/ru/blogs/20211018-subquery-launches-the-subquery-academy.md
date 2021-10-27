@@ -6,7 +6,7 @@
 
 Мы рады сообщить о запуске Академии SubQuery. Академия создана для повышения квалификации и расширения возможностей разработчиков экосистемы SubQuery путем предоставления им модульной программы. Содержание этой программы поможет начинающему разработчику блокчейна пройти путь от начального до продвинутого уровня, и она 100% бесплатна и доступна онлайн.
 
-Our first course is the  *SubQuery Hero Course*  and will be available from Friday 22 October 2021. The course will be released with a new module every week for six weeks based on the following structure:
+Наш первый курс - * SubQuery Hero Course * - будет доступен с пятницы, 22 октября 2021 года. The course will be released with a new module every week for six weeks based on the following structure:
 
 -   Module 1 — Getting Started
 -   Module 2 — SubQuery Basics
