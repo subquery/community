@@ -51,33 +51,33 @@ Rennick Palley из [ Stratos Capital заявил, что SubQuery ](https://me
 
 ## Интервью с Layah Heilpern 🎙
 
-Влиятельный криптограф Layah Heilpern взяла интервью у Sam и James о нашем прогрессе на сегодняшний день и наших мыслях о будущей децентрализованной сети SubQuery. You can watch the interview below.
+Влиятельный криптограф Layah Heilpern взяла интервью у Sam и James о нашем прогрессе на сегодняшний день и наших мыслях о будущей децентрализованной сети SubQuery. Вы можете посмотреть интервью ниже.
 
 [Смотреть здесь](https://youtu.be/WApnpFjEofg)
 
-## Прогресс сети подзапросов 🏗
+## Прогресс сети SubQuery 🏗
 
-In the past month we have really accelerated the work that we're doing on the SubQuery Network, [our decentralised and incentivised future](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010). We've brought on new members to our team to start work on code and also fine tune our tokenomics.
+За последний месяц мы действительно ускорили работу, которую мы делаем над SubQuery Network, [ нашим децентрализованным и стимулируемым будущим ](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010). Мы привлекли новых членов в нашу команду, чтобы начать работу над кодом, а также доработать нашу токеномику.
 
-We're putting the finishing touches on proof of indexing, a necessary and significant bit of work that provides guarantees that two SubQuery indexers are equivalent. We're using Merkle Mountain ranges to do this, take a look at the code if you're interested.
+Мы вносим последние штрихи в доказательство индексации - необходимую и важную часть работы, которая гарантирует, что два индексатора SubQuery эквивалентны. Для этого мы используем хребты Меркл Маунтин, взгляните на код, если вам интересно.
 
-Keep an eye out in the coming weeks for our first draft of a high level product roadmap --- we know you've all been asking for it!
+В ближайшие недели ждите нашего первого черновика дорожной карты высокого уровня - мы знаем, что вы все просили об этом!
 
-## New Projects on SubQuery 🤝
+## Новые проекты на SubQuery 🤝
 
-In September, we announced that we were helping the teams at [Parallel Finance](https://parallel.fi/) and [DotMarketCap](http://www.dotmarketcap.com/) with their data needs.
+В сентябре мы объявили, что помогаем командам [ Parallel Finance ](https://parallel.fi/) и [ DotMarketCap ](http://www.dotmarketcap.com/) с их потребностями в данных.
 
-Parallel Finance is a decentralized money market protocol that offers lending, staking, and borrowing in the Polkadot ecosystem. [SubQuery's service helps Parallel Finance](https://subquery.medium.com/parallel-finance-is-creating-the-next-defi-platform-using-subquery-6fc1e366985a) store, analyse, and query data on their current Heiko testnet. Some of this data is used directly in Parallel's new application, helping users understand and analyse DeFi data.
+Parallel Finance - это децентрализованный протокол денежного рынка, который предлагает кредитование, размещение ставок и заимствование в экосистеме Polkadot. [ Служба SubQuery помогает Parallel Finance ](https://subquery.medium.com/parallel-finance-is-creating-the-next-defi-platform-using-subquery-6fc1e366985a) хранить, анализировать и запрашивать данные в их текущей тестовой сети Heiko. Некоторые из этих данных используются непосредственно в новом приложении Parallel, помогая пользователям понимать и анализировать данные DeFi.
 
-We are always delighted to get feedback like this from our partners:
+Мы всегда рады получить такие отзывы от наших партнеров:
 
-_"SubQuery is an excellent tool which brought traditional indexing & query technology to Parallel Heiko. The plug-and-play service really saved us a lot of time developing our own block indexing tool and maintaining our own solution."_ --- Parallel Finance
+_ "SubQuery - отличный инструмент, который привнес в Parallel Heiko традиционную технологию индексирования и запросов. Услуга plug-and-play действительно сэкономила нам много времени на разработку нашего собственного инструмента индексирования блоков и поддержку собственного решения ». _ --- Parallel Finance
 
-In the case of DotMarketCap, [SubQuery was responsible for feeding information](https://subquery.medium.com/dotmarketcap-2-0-launches-with-support-from-subquery-and-subvis-ef85b5e0ee31) relating to the second batch of Kusama Parachain Auctions to DotMarketCap users. The interesting thing about this collaboration is that the real-time data was actually coming from SubQuery to an existing [project maintained by SubVis](https://explorer.subquery.network/subquery/subvis-io/kusama-auction) and then picked up again by DotMarketCap. For SubQuery, this is a realisation of our goal to build an open community marketplace of data in our Explorer, it also shows how symbiotic the Polkadot ecosystem is and how teams work together to achieve a shared goal of a decentralised future.
+В случае DotMarketCap, [ SubQuery отвечал за передачу информации ](https://subquery.medium.com/dotmarketcap-2-0-launches-with-support-from-subquery-and-subvis-ef85b5e0ee31), относящейся ко второй партии аукционов Kusama Parachain Auctions, пользователям DotMarketCap. В этом сотрудничестве интересно то, что данные в реальном времени действительно поступали из SubQuery в существующий [ проект, поддерживаемый SubVis ](https://explorer.subquery.network/subquery/subvis-io/kusama-auction), а затем снова собирались DotMarketCap. Для SubQuery это реализация нашей цели по созданию открытого сообщества рынка данных в нашем Explorer, это также показывает, насколько симбиотична экосистема Polkadot и как команды работают вместе для достижения общей цели децентрализованного будущего.
 
-If you would like to learn more [you can view all projects easily via our Explorer here](https://explorer.subquery.network/).
+Если вы хотите узнать больше, [ вы можете легко просмотреть все проекты через наш проводник здесь ](https://explorer.subquery.network/).
 
-As always, please join our social channels to stay updated on our latest news and announcements.
+Как всегда, присоединяйтесь к нашим социальным каналам, чтобы быть в курсе наших последних новостей и объявлений.
 
 James, Sam, and the SubQuery Team
 
