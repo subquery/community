@@ -1,12 +1,12 @@
-# SubQuery Blogs & Community Content
+# SubQuery 博客 & 社区内容
 
-SubQuery is here to help you transform and query the world’s data for a web3.0 future.
+SubQuery 在这里帮助您重新编码并整合全球数据来为一个web3.0 未来做准备。
 
-This is the global repository of all community blogs, announcements, articles, and videos from SubQuery.
+这里有SubQuery的所有社区博客、公告、文章和视频。
 
-**Read in your own language! Read in your own language! You can change your language using the selector on the top right of all pages.**
+**用最适合你自己的语言阅读！ 您可以使用所有页面右上方的选择按钮更改您的语言。**
 
-## We need help translating!
+## 我们需要你来帮助翻译!
 
 We understand that one of our biggest strengths is our community, and with your help, we want to grow and establish local ambassadors to help translate our material for communities around the world.
 
