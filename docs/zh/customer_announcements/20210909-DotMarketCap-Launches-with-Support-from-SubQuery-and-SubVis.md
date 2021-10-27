@@ -1,14 +1,14 @@
-# DotMarketCap 2.0 Launches with Support from SubQuery and SubVis
+# DotMarketCap 2.0 在 SubQuery 和 SubVis 的支持下启动
 
 ![](https://cdn-images-1.medium.com/max/1600/1*fIxEXupCMUaaMsWQbA7zFQ.gif)
 
-Last week, [DotMarketCap.com](https://dotmarketcap.com/) launched just ahead of the second batch of Kusama Parachain Auctions to provide data, blogs, prices, and other content on the Polkadot/Kusama ecosystem.
+上个星期， [DotMarketCap.com](https://dotmarketcap.com/) 在第二批 Kusama 平行链拍卖之前就开启了提供数据、Polkadot/Kusama 生态系统上的博客、价格和其他内容的功能。
 
-A huge amount of this live, real time data comes from SubQuery, specifically from the existing project maintained by [SubVis](https://explorer.subquery.network/subquery/subvis-io/kusama-auction). This is an excellent example of how [SubQuery's Explorer](https://explorer.subquery.network/) and open source approach facilitates collaboration and teamwork in the Polkadot ecosystem This is an excellent example of how [SubQuery's Explorer](https://explorer.subquery.network/) and open source approach facilitates collaboration and teamwork in the Polkadot ecosystem
+大量实时实时实时数据来自 SubQuery，特别是来自由 [SubVis](https://explorer.subquery.network/subquery/subvis-io/kusama-auction) 维护的项目。 这是一个很好的例子，说明了 [SubQuery 的 Explorer](https://explorer.subquery.network/) 和开源方法是如何促进 Polkadot 生态系统中的协作和团队合作的。
 
 ![](https://cdn-images-1.medium.com/max/1600/1*-UL84MrIB3TtZBkDPwLMmw.png)
 
-> *"SubQuery, with over 60 projects and millions of query requests per day, as well as data from Subvis, is the perfect place to support and provide DotMarketCap with the fastest and most accurate access to Crowdloan & Auction data. With that reliable data source and DMC's signature UI UX, we believe this partnership will bring great experience and easy access to the Polkadot community."* - Sang Tran (Founder DotMarketCap)
+> *"SubQuery, 每天有超过60个项目和数百万查询请求以及来自 Subvis 的数据， 是支持和提供 DotMarketCap 最快和最准确地访问众贷数据的完美地方。 With that reliable data source and DMC's signature UI UX, we believe this partnership will bring great experience and easy access to the Polkadot community."* - Sang Tran (Founder DotMarketCap)
 
 Kusama parachain auction is the most important event this year, and with [Auction & Crowdloan tracking](https://dotmarketcap.com/auction), you can stay up to date of the fierce competition between projects, as well as support your favourite candidates to win a parachain slot via their crowdloan.
 
