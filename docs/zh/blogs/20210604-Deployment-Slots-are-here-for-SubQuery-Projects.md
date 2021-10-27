@@ -1,29 +1,31 @@
-# Deployment Slots are here for SubQuery Projects
+# 可部署插槽为 SubQuery 项目提供服务
 
-> Today we’re introducing deployment slots, a whole new feature that improves the developer experience in SubQuery’s hosted service.
+> 今天我们正在引入部署插槽，这是一个改进SubQuery 托管服务开发者体验的全新功能。
 
-[SubQuery Projects](https://project.subquery.network/) is already being used as a managed and hosted service for many Projects, whether they’re chain explorers, wallets, NFT explorers, or others. It’s a service that our customers rely on. It’s a service that our customers rely on.
+[SubQuery Projects](https://project.subquery.network/)已经被用作许多项目的托管和托管服务，无论它们是链管理器、钱包、非功能性管理器或其他。 这是我们的客户所依赖的服务。
 
 ![](https://miro.medium.com/max/1400/0*PugDgh6weZspRIO2)
 
-You can now deploy to a isolated staging slot
+您现在可以部署到一个单独的中转插槽。
 
-Although you can always run SubQuery’s infrastructure yourself (with your own node and query service), we aim to make our hosted service the most reliable, resilient, and performant data provider in the Polkadot/Substrate ecosystem.
+尽管您总是可以运行 SubQuery 的基础设施(使用您自己的节点和查询服务)， 我们的目标是使我们的托管服务成为Polkadot/ Substrate 生态系统中最可靠、复原力强和性能最佳的数据提供者。
 
-Creators of [SubQuery Projects](https://project.subquery.network/) are constantly improving and updating their Projects and the data within those projects. Creators of [SubQuery Projects](https://project.subquery.network/) are constantly improving and updating their Projects and the data within those projects. Unfortunately it takes hours if not days to reindex chain data in the event of a major change — ultimately our goal to to allow you to update your Project, reindex your data, and upgrade your hosted SubQuery Projects with **zero downtime**
+[SubQuery 项目](https://project.subquery.network/) 的创建者正在不断改进和更新他们的项目以及这些项目中的数据。 不幸的是，如果发生重大更改，需要花费数小时(如果不是数天)来重新索引链数据——我们的最终目标是允许您在** 0停机时间**的情况下更新项目、重新索引数据和升级托管的SubQuery项目
 
-**That’s what deployment slots are here to solve**
+**这就是部署插槽来解决的问题。**
 
 ![](https://miro.medium.com/max/1400/0*vQ33aqhn1eVllo5t)
 
-Your staging slot will run independently of the primary production slot
+您的中转插槽将独立于主生产插槽外运行。
 
-When creating a new deployment to your [SubQuery Project in our hosted service](https://project.subquery.network/), you can choose to either deploy to the production or staging slot. These two slots are isolated environments, each has its own database and sync independently. Once your staging slot has started and completed indexing, you can then promote it to production with zero downtime. These two slots are isolated environments, each has its own database and sync independently. Once your staging slot has started and completed indexing, you can then promote it to production with zero downtime.
+当在我们的托管服务</a>中为您的
 
-The staging slot is perfect for:
+SubQuery项目创建新部署时，您可以选择部署到生产槽或中转槽。 这两个位置是孤立的环境，每个位置都有自己的数据库并独立地同步。 一旦你的中转槽已经开始并完成索引，你就可以在零停机后发布到生产环境。</p> 
 
--   Validating changes to your SubQuery Project in a separate environment. Validating changes to your SubQuery Project in a separate environment. The staging slot has a different URL to production that you can use in your dApps.
--   Warming up and indexing data for an updated SubQuery project to eliminate downtime in your dApp
--   Preparing a new release for your SubQuery Project without exposing it publicly. The staging slot is not shown to the public in the Explorer and has a unique URL that is visible only to you. The staging slot is not shown to the public in the Explorer and has a unique URL that is visible only to you.
+中转插槽对以下支持非常完美：
 
-You can try it yourself now in [SubQuery Projects](https://project.subquery.network/).
+-   在单独的环境中验证您的 SubQuery 项目的更改。 中转槽有一个不同的用于生产的URL，可以在dApps中使用它。
+-   为更新的SubQuery项目预热和索引数据，以消除dApp中的停机时间
+-   为您的SubQuery Project准备一个新版本，而不公开它。 中转插槽不会在Explorer中显示给公众，它有一个唯一的URL，仅对您可见。
+
+您现在可以在 [SubQuery 项目](https://project.subquery.network/) 中体验。
