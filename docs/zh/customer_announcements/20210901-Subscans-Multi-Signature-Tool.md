@@ -1,8 +1,8 @@
-# 基于 SubQuery 的 Subscan 多签名工具
+# 基于 SubQuery 的 Subscan 多签工具
 
 ![订阅header.jpg](https://cdn-images-1.medium.com/max/1600/1*Xs3mJrvClJq3qBzWU48fjg.jpeg)
 
-子扫描的新的 [多签名钱包工具](https://medium.com/r/?url=https%3A%2F%2Fmultisig.subscan.io%2F) 旨在帮助Polkadot 生态系统中的其他人创建和管理多签名账户和交易。 它得到 [Web3基金会赠款方案](https://github.com/w3f/Grants-Program/blob/master/applications/multisignature_management_tool.md) 的支持，并为设在Polkadot的多个网络提供便利的多签名钱包管理服务。
+Subscan的新的 [多签名钱包工具](https://medium.com/r/?url=https%3A%2F%2Fmultisig.subscan.io%2F) 旨在帮助Polkadot 生态系统中的其他人创建和管理多签账户和交易。 它得到 [Web3基金会赠款方案](https://github.com/w3f/Grants-Program/blob/master/applications/multisignature_management_tool.md) 的支持，并为设在Polkadot的多个网络提供便利的多签名钱包管理服务。
 
 SubQuery的服务在这个工具中发挥了关键的作用，为任何给定的多签名地址提供了交易的快速数据。这改进了用户体验，并允许更高级的功能。
 
