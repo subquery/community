@@ -42,11 +42,9 @@ Tre 一直在出色地领导这项倡议，并且[在Discord上与社区联系](
 
 Karura 正在使用[SubQuery从Karura的链](https://subquery.medium.com/karura-integrates-with-subquery-to-aggregate-and-serve-defi-data-to-kusama-builders-d34f0e722311?source=your_stories_page-------------------------------------)中提取和查询数据，从而实现快速高效地查询[ Karura 的APP](https://apps.karura.network/)。
 
-SubQuery 的服务通过[为任何给定的多重签名地址提供关于事务的快速数据](https://subquery.medium.com/subscans-multi-signature-tool-powered-by-subquery-926da3e4fc25?source=your_stories_page-------------------------------------)，从而改进 UX 并允许更高级的功能，从而在[Subscan](https://www.subscan.io/)中发挥关键作用。
+SubQuery 的服务通过[为任何给定的多重签名地址提供关于事务的快速数据](https://subquery.medium.com/subscans-multi-signature-tool-powered-by-subquery-926da3e4fc25?source=your_stories_page-------------------------------------)，从而改进 UX 并允许更高级的功能，从而在Subscan中发挥关键作用。
 
-[ SORA ](https://sora.org/)已经构建了一个 [SubQuery 项目，该项目从 SORA 网络](https://subquery.medium.com/sora-integrates-subquery-to-provide-data-to-the-sora-network-5a73f77a40aa?source=your_stories_page-------------------------------------)检索数据，以支持基于 SORA 和
-
-Polkaswap.io 2>构 建的移动应用程序。 您可以在这里阅读更多。</p> 
+[ SORA ](https://sora.org/)已经构建了一个 [SubQuery 项目，该项目从 SORA 网络](https://subquery.medium.com/sora-integrates-subquery-to-provide-data-to-the-sora-network-5a73f77a40aa?source=your_stories_page-------------------------------------)检索数据，以支持基于 SORA 和 [Polkaswap.io](http://polkaswap.io/)构 建的移动应用程序。 您可以在这里阅读更多。
 
 在这两种情况下，我们都很感激从我们的合作伙伴那里得到这样好的反馈：
 
@@ -56,15 +54,11 @@ Polkaswap.io 2>构 建的移动应用程序。 您可以在这里阅读更多。
 
 [您可以通过我们的 Explorer 轻松地查看所有项目](https://explorer.subquery.network/)。
 
-
-
 ## 和 DotMarkerCap 举行了 AMA  🎙
 
 我们很高兴在 8 月 5 日由 DotMarketCap 主持下与 Sam 和 James 举行了 AMA。 观众提出的许多从 Defi 和 NFT 等领域到我们的增长计划和未来的问题不一而足。 我们分享了我们为什么在 Polkadot 创建我们的项目，以及我们的通证是否会作为 ERC-20 发放的见解。
 
 [您可以在这里阅读访谈](https://dotmarketcap.com/blog-detail/288/ama30-recap-polkawarriors-x-subquery)。
-
-
 
 ## 在中国举办了活动  🇨🇳
 
@@ -74,15 +68,11 @@ Siqi 负责我们在中国的业务发展，她与 MoonBeam、Acala、Astar 和 
 
 我们期待着在接下来的几个月里通过黑客松等活动加大发展我们的华人社区。 因此，[我们将与 Encode Club](https://www.eventbrite.co.uk/e/polkadot-hackathon-subquery-workshop-tickets-167321106935?aff=ebdsoporgprofile) 合作举办研讨会，并与 OneBlock+ 合作举办黑客松，以帮助将 SubQuery 介绍给新的受众。
 
-
-
 ## 交付 Polkadot 通用 API 的第二个里程碑 ✅
 
 我们很高兴与 [Fearless Wallet](https://fearlesswallet.io/) 的团队一起，为 Kusama [开发开源 dApp API](https://docs.google.com/document/d/13L8HBwB6VB-n2g274FFFJKORYPJsq744C6H8iEDQ0-0/edit)。 这项工作得到了 Kusama 财政部拨款的支持。
 
 该项目的第二个里程碑即将完成，这意味着很快就会有针对 Polkadot、Kusama 和其他平行链的通用核心数据 API 接口，这将吸引更多的开发人员进入生态系统。 让开发变得尽可能直观和轻松是我们的主要目标之一！
-
-
 
 *****
 
