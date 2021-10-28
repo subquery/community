@@ -6,7 +6,7 @@ Parallel的任务是创新，并将DeFi系统带到下一个层次和更广泛�
 
 ![](https://cdn-images-1.medium.com/max/1600/1*5Ru0mv1hq86BuBhGwsmoqQ.png)
 
-> "SubQuery是一个优秀的工具，它将传统的索引和查询技术引入到Parallel Heiko中。 插件和播放服务真正为我们节省了很多时间，开发我们自己的块索引工具并保持我们自己的解决方案。</em>- 并行融资*
+> *"SubQuery是一个优秀的工具，它将传统的索引和查询技术引入到Parallel Heiko中。 插件和播放服务真正为我们节省了很多时间，开发我们自己的块索引工具并保持我们自己的解决方案。*- 并行融资*
 
 [SubQuery的](https://subquery.network/) 服务有助于并行金融存储、分析和查询他们当前Heiko测试网上的数据。 其中一些数据直接用于平行的新应用程序，帮助用户理解和分析DeFi数据。
 
