@@ -1,17 +1,17 @@
-# SubQuery Joins Berkeley's Blockchain Xcelerator
+# SubQuery正式加入Berkeley的Blockchain Xcelerator
 
 ![](https://miro.medium.com/max/1400/0*gYUy-1COtbpLV1X1)
 
 
-This week we’re excited to announce that Berkeley has selected SubQuery to be part of their exclusive [Blockchain Xcelerator](https://www.xcelerator.berkeley.edu/). SubQuery (and it’s parent company OnFinality) were selected from over 200 applications to be part of just 21 exclusive spots. SubQuery (and it’s parent company OnFinality) were selected from over 200 applications to be part of just 21 exclusive spots.
+本周我们很高兴地宣布，Berkeley 已选择SubQuery作为他们独家的 [Blockchain Xcelerator](https://www.xcelerator.berkeley.edu/) 的一部分。 SubQuery (和它的母公司OnFinality) 是从200多个申请中选定的，仅仅是21个独家点的一部分。
 
-Berkeley’s blockchain Xcelerator is known around the world as one of the most successful blockchain accelerators for a reason. It has incubated over 40 companies that have raised over $25M in seed and early stage funding, and over 75% of the inaugural batch raised follow-on funding. Additionally UC Berkeley remains a key hub for technology and innovation right next door to Silicon Valley. It’s certainly one of the leading university-based, non-dilutive blockchain accelerators worldwide — we’re thrilled to be a part of it! It has incubated over 40 companies that have raised over $25M in seed and early stage funding, and over 75% of the inaugural batch raised follow-on funding. Additionally UC Berkeley remains a key hub for technology and innovation right next door to Silicon Valley. It’s certainly one of the leading university-based, non-dilutive blockchain accelerators worldwide — we’re thrilled to be a part of it!
+Berkele's blockchain Xcelerator 在全世界被称为最成功的区块链加速器之一。 它培育了40多家公司，这些公司筹集了2500多万美元的种子和早期资金。 在首批活动中，75%以上筹集了后续资金。 此外，UC Berkeley仍然是靠近硅谷的关键技术和创新枢纽。 它当然是世界各地大学的一个主要的非稀释区块链加速器 — — 我们很想成为它的一部分！
 
-> _“The team is over the moon to find out that we’re part of this awesome program! We’re looking forward to accelerating the development of SubQuery decentralized web data products. We’re ready to connect with some of the most influential projects and investors in Blockchain and to learn about how we can improve SubQuery”_ — Sam Zou (CEO and Founder of SubQuery and OnFinality).
+> _“团队已经在月球上发现我们是这个非常棒的方案的一部分！ 我们期待加速开发分散的 SubQuery 网络数据产品。 我们随时准备与Blockchain的一些最有影响力的项目和投资者联系，并了解我们如何改进SubQuery”_ - Sam Zou (CEO and 创始人SubQuery and OnFinality)。
 
-We’re following in the footsteps of [Acala Network](https://acala.network/) (who we joined forces with last week to [launch the first SubQuery partner project](https://subquery.medium.com/subquery-integrates-acala-to-aggregate-and-serve-defi-data-to-polkadot-and-kusama-builders-fc9af6a7aae1)) and other industry leaders like [StormX](https://stormx.io/) and [Eluv.io](https://eluv.io/). There is huge value to SubQuery and OnFinality in the network of highly regarded mentors, speakers, and fellows that the Xcelerator provides. As a data service provider (SubQuery) and an infrastructure service provider (OnFinality), long term partnerships and relationships with our customers is key to our success. There is huge value to SubQuery and OnFinality in the network of highly regarded mentors, speakers, and fellows that the Xcelerator provides. As a data service provider (SubQuery) and an infrastructure service provider (OnFinality), long term partnerships and relationships with our customers is key to our success.
+我们正在跟随 [Acala Network](https://acala.network/) (我们上周与他一起参与 [启动第一个SubQuery 合作伙伴项目](https://subquery.medium.com/subquery-integrates-acala-to-aggregate-and-serve-defi-data-to-polkadot-and-kusama-builders-fc9af6a7aae1))以及其他行业领导人，如 [StormX](https://stormx.io/) 和 [Eluv o](https://eluv.io/) SubQuery和OnFinal在Xcelerater提供的知名导师、演讲人和研究员网络中具有巨大价值。 作为数据服务提供商（SubQuery）和基础设施服务提供商（OnFinality），我们与客户的长期伙伴关系和关系是我们取得成功的关键。
 
-[SubQuery](https://www.subquery.network/) allows every Substrate/Polkadot team to process and query their data. The project is inspired by the growth of data protocols serving the application layer and its aim is to help Polkadot/Substrate projects build better dApps by allowing anyone to reliably find and consume data faster. Today, anyone can query and extract Polkadot network data in only minutes and at no cost.
+[SubQuery](https://www.subquery.network/) 允许每个Substrate/Polkadot 团队处理和查询他们的数据。 这个项目的灵感来自于为应用层服务的数据协议的增长，其目的是通过允许任何人更快地可靠地查找和使用数据，帮助Polkadot/Substrate项目构建更好的dApps。 现如今，任何人都可以在几分钟内免费查询和提取Polkadot网络数据。
 
 [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
 
