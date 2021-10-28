@@ -1,20 +1,20 @@
-# SubQuery Delivers its Open Source SDK Following a Web3 Foundation Grant
+# SubQuery 在 Web3 基金会拨款后交付开源SDK
 
-## Developers can now transform and query the world’s data for the Web3 future
+## 开发人员现在可以转换和查询Web3未来的全球数据了
 
 ![](https://miro.medium.com/max/1400/1*f9Jw37LjUGu8P8W39cjDYw.png)
 
-This week OnFinality (the team behind SubQuery), delivered on their Web3 Foundation Grant to provide a complete workflow to create SubQuery projects. We’re excited to announce the work that we’ve done to complete this grant, and to share it with the world so that they can start using our project today to query their networks more efficiently. We’re excited to announce the work that we’ve done to complete this grant, and to share it with the world so that they can start using our project today to query their networks more efficiently.
+本周，OnFinality (SubQuery背后的团队) 在他们的 Web3 Foundation Grant 上提供了创建 SubQuery 项目的完整工作流程。 我们很兴奋地宣布我们为完成这笔赠款所做的工作，并将与世界分享，以便今天就可以开始使用我们的项目来更有效地查询网络。
 
-SubQuery is built by the team at OnFinality, which is an infrastructure Iaas & SaaS platform for blockchain teams and users to launch nodes and get access to a large range of blockchain protocols. We have a suite of symbiotic services including our API shared node services, and have relationships with the top Polkadot/Substrate teams. We have a suite of symbiotic services including our API shared node services, and have relationships with the top Polkadot/Substrate teams.
+SubQuery 是由 OnFinality 团队构建的，OnFinality 是一个基础设施 SaaS 平台，供区块链团队和用户启动节点并访问广泛的区块链协议。 我们拥有包括 API 共享节点服务在内的一套共生服务，并与顶尖的 Polkadot/Substrate 团队建立了合作关系。
 
-Almost every blockchain has a need to process and query data. Our project is inspired by the growth of data protocols serving the application layer and is here to help the thriving Polkadot community. Almost every blockchain has a need to process and query data. Our project is inspired by the growth of data protocols serving the application layer and is here to help the thriving Polkadot community. SubQuery’s aim is to help Polkadot/Substrate projects build better dApps by allowing anyone to reliably find and consume data faster. Our service allows users to extract, transform, persist, and query data, as well as connect and present data in the future. Our service allows users to extract, transform, persist, and query data, as well as connect and present data in the future.
+几乎每个区块链都需要处理和查询数据。 我们的项目是受服务于应用层的数据协议增长的启发，旨在帮助蓬勃发展的 Polkadot 社区。 SubQuery 的目标是让任何人都能更快可靠地查找和使用数据，从而帮助Polkadot/Substrate 项目构建更好的 dApp。 我们的服务允许用户提取、转换、维持和查询数据，以及连接和呈现将来的数据。
 
-The [Web3 Foundation Open Grants Program](https://github.com/w3f/Open-Grants-Program/pull/136) has enabled us to build SubQuery, an open source project that allows users to run an indexer across their chain to build a dataset that can be queried with GraphQL.
+[Web3 Foundation Open Grants Program](https://github.com/w3f/Open-Grants-Program/pull/136) 使我们能够构建 SubQuery，这是一个开源项目，允许用户在链上运行索引器以构建可使用 GraphQL 查询的数据集。
 
-This suite of tools includes @subql/cli, to allow projects to generate their own SubQuery project, defining how the indexer should traverse and aggregate their own network. As part of our proposal, we have provided a basic tutorial that shows users how to use the cli to index their network that [you can follow here](https://doc.subquery.network/quickstart.html). We’ve even provided more detailed developer documentation for more advanced usages. As part of our proposal, we have provided a basic tutorial that shows users how to use the cli to index their network that [you can follow here](https://doc.subquery.network/quickstart.html). We’ve even provided more detailed developer documentation for more advanced usages.
+这套工具包括 @subql/cli，允许项目生成自己的 SubQuery 项目，设定索引器应该如何遍历和聚合自己的网络。 作为我们提议的一部分，我们提供了一个基本教程，向用户展示如何使用 cli 索引他们的网络， [你可以在这里查看](https://doc.subquery.network/quickstart.html)。 我们甚至提供了更详细的开发者文档，供更高级的使用。
 
-Secondly, there’s a SubQuery node package that loads the defined SubQuery project created by the CLI and then indexes the network to a Postgres database. Using Hasura, you can run GraphQL queries right away over indexed tables. With the help of these tools, and the community support material that we’re always improving, anyone can create and run queries easily. Using Hasura, you can run GraphQL queries right away over indexed tables. With the help of these tools, and the community support material that we’re always improving, anyone can create and run queries easily.
+其次是一个 SubQuery 节点包，其可以加载由 CLI 创建的定义的 SubQuery 项目，然后将网络索引到 Postgres 数据库。 您可以使用 Hasura 在索引表中运行 GraphQL 查询。 在这些工具和我们一直在改进的社区支持的帮助下，任何人都可以轻易地创建和运行查询。
 
 **You can get started right away by following our example on the** [**SubQuery Github repository**](https://github.com/OnFinality-io/subql)**. Additionally, you can find out more by reading our** [**SubQuery docs**](https://doc.subquery.network/) **or** [**visiting our new website**](https://subquery.network/)**.** Additionally, you can find out more by reading our** [**SubQuery docs**](https://doc.subquery.network/) **or** [**visiting our new website**](https://subquery.network/)**.**
 
