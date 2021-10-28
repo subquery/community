@@ -24,7 +24,7 @@ SubQuery网络是我们努力建立的一个分散和标记化的网络，以确
 -   [SRE 工程师](https://angel.co/company/subquery/jobs/1497942-site-reliability-engineer)
 -   [Rust](https://angel.co/company/subquery/jobs/1494414-rust-developer) and [Solidity](https://angel.co/company/subquery/jobs/1494435-solidity-developer) 开发人员
 
-我们认为，我们行业的开发人员应该专注于构建未来，而不是运行基础设施ーー我们的 SubQuery 托管服务就是这种想法的体现。 六月份，我们发布了部署槽 </0 > ，这是一个全新的特性，改善了 SubQuery 托管服务中开发人员的体验。
+我们认为，我们行业的开发人员应该专注于构建未来，而不是运行基础设施ーー我们的 SubQuery 托管服务就是这种想法的体现。 [六月份，我们发布了部署槽 ](https://subquery.medium.com/deployment-slots-are-here-subquery-projects-4fe2629f8858) ，这是一个全新的特性，改善了 SubQuery 托管服务中开发人员的体验。
 
 部署槽是一个新特性，这意味着开发人员可以更新他们的项目，重新索引他们的数据，并在零停机时间内升级他们托管的生产SubQuery项目。 我们继续将我们的免费托管服务作为客户选择在哪里运行其基础设施的默认选择。
 
