@@ -18,7 +18,7 @@ SubQuery旨在通过创建一个充满活力的数据索引和备用市场来改
 > 
 > Polkadot 的 parachein 架构是区别于其他第一层区块链的关键。 与竞争的单链设计不同，每个副链作为自己的独立协议，通过共同的中继与其他副链互操作。 为了赢得中继链上的一个槽位，parachains 通过众筹活动从社区筹集资金。 它要求参与者对他们最喜欢的项目持有股份--长期--- 原生的 Kusama 或 Polkadot 代币。 从一开始，SubQuery就可以与任何传送器集成，只需要最小的配置。
 > 
-> SubQuery 每天已经为60多个项目的 Polkadot & Kusama </0 > 提供数百万个数据查询。 在其现有的客户基础中，SubQuery 集成了已经建立的应用程序，如 < 0 > Subscan </0 > 、 < 1 > Fearless Wallet </1 > 和 < 2 > SubVis </2 > ，以及最初的5个 Kusama parachain 众筹贷款中的3个: < 3 > Acala’s Karura </3 > 、 Phala’s Khala 和 < 4 > Bifrost </4 > 。 接下来的五个 parachain 众贷计划将在整个九月份投入使用。
+> [SubQuery 每天已经为60多个项目的 Polkadot & Kusama ](https://explorer.subquery.network/) 提供数百万个数据查询。 在其现有的客户基础中，SubQuery 集成了已经建立的应用程序，如 [ Subscan ](https://subquery.medium.com/subscans-multi-signature-tool-powered-by-subquery-926da3e4fc25) 、 [ Fearless Wallet ](https://explorer.subquery.network/subquery/ef1rspb/fearless-wallet) 和 [ SubVis ](https://subquery.medium.com/explore-kusama-auctions-with-subvis-io-and-subquery-522351538d17) ，以及最初的5个 Kusama parachain 众筹贷款中的3个: [ Acala’s Karura ](https://subquery.medium.com/karura-integrates-with-subquery-to-aggregate-and-serve-defi-data-to-kusama-builders-d34f0e722311) 、 Phala’s Khala 和 [ Bifrost ](https://subquery.medium.com/bifrost-chooses-subquery-to-provide-the-data-for-their-new-dapp-c8005ee54f38) 。 接下来的五个 parachain 众贷计划将在整个九月份投入使用。
 > 
 > 这轮筹资活动将加速SubQuery在2021年及以后的技术和社区路线图。 该小组计划下放协议的权力和代币化，并建立SubQuery网络，以便他们能够激励来自世界各地的参与者。 由于60多个项目已经在使用托管服务，SubQuery还在计划改进和扩大服务。 展望未来，团队计划整合其他第一层链，包括Solana, Terra和其他。
 > 
