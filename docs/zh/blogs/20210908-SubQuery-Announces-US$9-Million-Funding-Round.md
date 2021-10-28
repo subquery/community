@@ -10,7 +10,7 @@ SubQuery旨在通过创建一个充满活力的数据索引和备用市场来改
 
 这一战略回合由 [Arrington Capital](https://arringtonxrpcapital.com/), [DCG](https://dcg.co/) 和 [Stratos Technologies](https://www.stratoslp.com/)共同牵头， 参加者包括来自 [超声波风险](https://hypersphere.ventures/), [全球新资本](http://ngc.fund/), [Wintermete](https://www.wintermute.com/) and [Skynet Trading](http://skynettrading.com/). 它来自2021年初的种子回合，其中包括 [DeFi 联盟](https://defialliance.co/), [LAO](https://www.thelao.io/), [数字复兴](https://drf.ee/), [P2P Capital](https://www.p2pcap.com/), and [Web3 Capital](https://web3.capital/)
 
-> 我们是 Moonbeam 和 Acala 等副产品的早期投资者，希望这些生态系统中的团队能够专注于他们的核心产品。 SubQuery 让构建变得更容易。 它可以扩展到所有的副产品，可以促进Polkadot & Kusama的下一次活动繁荣。</em>- Arrington Capital Partner Ninor Mansor。
+> *我们是 Moonbeam 和 Acala 等副产品的早期投资者，希望这些生态系统中的团队能够专注于他们的核心产品。 SubQuery 让构建变得更容易。 它可以扩展到所有的副产品，可以促进Polkadot & Kusama的下一次活动繁荣。*- Arrington Capital Partner Ninor Mansor。
 
 ![](https://cdn-images-1.medium.com/max/1600/1*j4VHuY_BgjkYv_bQ6_DmcQ.gif)
 
