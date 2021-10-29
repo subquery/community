@@ -2,17 +2,17 @@
 
 ![](https://cdn-images-1.medium.com/max/800/1*Qcu5mFIs8eJhAXaMpWOlMQ.png)
 
-**SubQuery announces key milestones including TGE timeline**
+**SubQuery 发布了项目的关键里程碑，包括TGE时间表**
 
-Today we are pleased to release our detailed technical roadmap for the first time. SubQuery’s goal is to be the leading data provider in the Polkadot ecosystem and the support we have had from the community to help us realise this vision has been amazing. From our formal establishment at the end of 2020 via a [Web3 Grant](https://web3.foundation/), to releasing our first open source version in January 2021, and [closing our Series A in September](https://subquery.medium.com/series-a-1abed6c1c2af) we would like to thank you for all of your support in getting us to this stage!
+今天，我们很高兴首次发布我们详细的技术路线图。 SubQuery的目标是成为Polkadot生态系统中的主要数据提供者，来自社区的支持帮助我们实现了这个非常棒的愿景。 我们从2020年年底 在[Web3 Grant](https://web3.foundation/)的支持下正式成立， 到2021年1月发布了第一个开源版本， 再到 [9月份结束了我们的Series A](https://subquery.medium.com/series-a-1abed6c1c2af) 我们要感谢您给予我们的一切支持，使我们能够进入这个阶段！
 
-As we continue to gain momentum, the time has come to share more about our plans for the future including our technical roadmap. We are excited about how the next evolution of SubQuery will drive even more value to the Polkadot ecosystem and provide more opportunities for our community to participate in our growth.
+随着我们的持续成长，现在是时候来分享我们未来的计划，包括我们的技术路线图。 我们对SubQuery的下一个版本将如何为Polkadot生态系统带来更大的价值和为我们的社区提供更多的机会来参与我们的成长而感到兴奋。
 
-## Our Future
+## 我们的未来
 
-While SubQuery is already serving millions of data queries each day to [over 60 projects on Polkadot & Kusama](https://project.subquery.network/), we wanted to ensure that our next phase of growth was conducted in an organised and controlled manner.
+SubQuery 已经为 [超过60个 Polkadot & Kusama上的项目](https://project.subquery.network/)提供每天数以百万计的数据查询服务， 我们希望确保下一阶段可以有组织和有控制的成长。
 
-For this reason, we feel it is critical that we demonstrate and fully test the scalability of the SubQuery Network through an incentivised testnet program. This process will also allow us to establish a community of indexers before launching publicly via a TGE in March 2022 and our eventual mainnet later next year.
+为此，我们认为通过奖励性测试网方案来展示和充分测试SubQuery网络的可扩展性至关重要。 This process will also allow us to establish a community of indexers before launching publicly via a TGE in March 2022 and our eventual mainnet later next year.
 
 ![](https://cdn-images-1.medium.com/max/800/1*I6mko5xumHAArzGePvEZiQ.jpeg)
 
