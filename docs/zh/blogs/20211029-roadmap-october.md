@@ -1,4 +1,4 @@
-# SubQuery Releases Technical Roadmap
+# SubQuery 发布技术路线图
 
 ![](https://cdn-images-1.medium.com/max/800/1*Qcu5mFIs8eJhAXaMpWOlMQ.png)
 
@@ -12,47 +12,47 @@
 
 SubQuery 已经为 [超过60个 Polkadot & Kusama上的项目](https://project.subquery.network/)提供每天数以百万计的数据查询服务， 我们希望确保下一阶段可以有组织和有控制的成长。
 
-为此，我们认为通过奖励性测试网方案来展示和充分测试SubQuery网络的可扩展性至关重要。 This process will also allow us to establish a community of indexers before launching publicly via a TGE in March 2022 and our eventual mainnet later next year.
+为此，我们认为通过奖励性测试网方案来展示和充分测试SubQuery网络的可扩展性至关重要。 在这个过程中, 我们可以在2022年3月的TGE公开发行和明年稍晚的主网上线之前建立一个indexer社区。
 
 ![](https://cdn-images-1.medium.com/max/800/1*I6mko5xumHAArzGePvEZiQ.jpeg)
 
-As such, the key deliverables in our work-flow can be broken into the following major milestones.
+因此，我们将通过以下几个主要里程碑来展示我们的项目进展。
 
-## Where we are now — Middle of Q4 2021
+## 我们现在的节点——2021年Q4中期
 
-### EVM support for parachains
+### EVM对平行链的支持
 
-We will be releasing [our beta support for Polkadot implementations of the Ethereum Virtual Machine (EVM)](https://medium.com/@subquery/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff) soon. This allows Polkadot and Ethereum developers to seamlessly integrate both Substrate and EVM data into one place and query this single datasource using GraphQL.
+我们将很快发布对[Polkadot 版本的 Ethereum 虚拟机 (EVM)](https://medium.com/@subquery/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff) 的beta 支持。 这将允许Polkadot和Etherum开发者可以无缝地将 Substrate 和 EVM 的数据整合归一，并使用 GraphQL 查询这个单一的数据源。
 
-SubQuery will introduce more advanced filters than other indexers, allowing filtering of non-contract transactions, transaction senders, contracts and indexed log arguments, so developers can build a wide variety of projects that cater to their specific data needs.
+SubQuery 引入了比其他indexer更高级的过滤器，允许过滤非合约交易、交易发送者、合约和索引日志参数，因此开发人员可以构建各种满足其特定数据需求的项目。
 
-### SubQuery Academy
+### SubQuery 学院
 
-The Academy is designed to up-skill and empower developers in the SubQuery ecosystem by providing them with modular education. [Our first course in the Academy is the _Hero Course_](https://doc.subquery.network/academy/herocourse/) and was launched on Friday 22 October 2021.
+建立SubQuery学院的目的是为了通过模块化的教学来为SubQuery 生态中的开发者提升和赋能。 [我们学院的第一期课程是 _Hero Course_](https://doc.subquery.network/academy/herocourse/), 已经在2021年10月22日星期五上线。
 
-Within each module of the _Hero Course_, there are several 5 to 10 minute lessons which are delivered by a recorded video. The video content is accompanied by written tutorials, slides, workbooks, and links to the finished GitHub code repository.
+_Hero Course_的每个模块中包含几个录制好的5-10分钟的课程。 视频内容还附有书面教程、幻灯片、练习簿, 同时我们提供了已完成的 GitHub 代码库来提供参考。
 
-The course is designed to get a developer from knowing nothing about SubQuery to becoming an expert in building a SubQuery data source for their new blockchain application.
+本课程旨在让开发者从 SubQuery 小白变成为可以为他们新的区块链应用构建 SubQuery 数据源的专家。
 
-In the next few months we will be deploying more education for the Community, with weekly releases of new SubQuery _Hero Course_ content, and more courses in the coming weeks.
+在今后几个月中，我们将为社区提供更多课程。 每周发布新的 SubQuery _Hero Course_ 课程内容，以及今后几周内的更多课程。
 
-### Proof of Indexing
+### Indexing证明
 
-Proof of indexing allows us to guarantee that two different indexers working with the same SubQuery project have indexed the exact same data. It’s a critical component required for the development of a decentralized SubQuery network. We’re using a concept called Merkle Mountain ranges to confirm and guarantee this, keep an eye out for a future blog post that explores this deeper.
+Indexing证明使我们能够保证使用同一个SubQuery项目的两个不同的indexer索引了完全相同的数据， 这对于开发去中心化SubQuery 网络非常关键。 我们用Merkle Mountain ranges算法来确认和保证这一点， 如果需要更深入的了解，请保持对我们博客的关注。
 
-### Premium Enterprise Service
+### 高级企业服务
 
-We have some large customers such as Karura, Kodadot and Fearless Wallet all running production applications in SubQuery. These teams are demanding improved service and higher levels of reliability.
+我们的大客户，如Karura，Kodadot和Fearless钱包，都在运行依托SubQuery的产品应用 。 这些团队对改进服务和提高可靠性有巨大的需求。
 
-We’re rising to the challenge, with Service Level Agreements, enterprise service tiers, and other tools that our larger customers need to run their own businesses and receive the best possible performance from SubQuery for their applications.
+面对服务级协议的实施，特别是企业级别的服务， 以及为了满足我们大客户为了经营业务和从SubQuery获得最佳性能而所需工具的需求，我们迎来了巨大的挑战。
 
-Please get in contact with the team if you want to talk to us about receiving enterprise level services and support from SubQuery.
+如果您需要 SubQuery 的企业服务和支持，请与我们的团队联系。
 
-## Milestone 1 — End of Q4 2021
+## 里程碑1——2021 Q4结束
 
-### SubQuery Builders/Grants Programme
+### SubQuery Builders/Grants 计划
 
-This grants programme is designed to facilitate and catalyse innovation with Polkadot and SubQuery, and to build the next generation of dApps to power the web3 revolution. It will support new projects with grants, technical support, marketing and business development advice from SubQuery and others.
+这项基金方案旨在方便和促进Polkadot和SubQuery应用的创新， 并建造新一代的 dApps 来为web3 带来革新。 该基金计划旨在让SubQuery和其他机构为新项目提供技术支持、营销和商业发展咨询。
 
 We are excited about the potential of this and will be releasing more information soon.
 
