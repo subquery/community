@@ -54,67 +54,67 @@ Indexing证明使我们能够保证使用同一个SubQuery项目的两个不同�
 
 这项基金方案旨在方便和促进Polkadot和SubQuery应用的创新， 并建造新一代的 dApps 来为web3 带来革新。 该基金计划旨在让SubQuery和其他机构为新项目提供技术支持、营销和商业发展咨询。
 
-We are excited about the potential of this and will be releasing more information soon.
+我们非常高兴的看到该计划带来的无限可能，不久将公布更多信息。
 
 ### Coordinator and client SDK implementations
 
-We will be improving our core SubQuery SDK and adding additional components for a SubQuery coordinator and client.
+我们将改进我们核心的 SubQuery SDK ，并为SubQuery Coordinator 和client添加更多的组件。
 
-The indexer coordinator will be deployed by indexers to expose the network to the indexer, and allow the indexer to register itself with the SubQuery network and advertise the data that it is making available
+Indexer coordinator由indexer来部署，以使网络对indexer开放并允许indexer在SubQuery网络注册并发布可获得的的数据。
 
-The client SDK will be for the consumer role, and will allow them to find indexers and manage the entire transaction that a consumer will need to retrieve and pay for data.
+Client SDK供消费者使用， 使他们能够找到indexer并会管理消费者获取数据并且支付的整个交易。
 
 ### SQT Network contract internal MVP
 
-Our first version of the SubQuery network will be within a smart contract, deployed on a leading Polkadot parachain. The internal MVP will allow us to internally start testing out everything here, and is a huge milestone for us to complete.
+我们的第一版智能合约SubQuery网络将部署在一个主要的 Polkadot 平行链上。 内部MVP将使我们能够在内部测试任何需求，这将是我们要完成的一个巨大的里程碑。
 
 ### EU Cluster
 
-Our customers are requesting support for more clusters for SubQuery data around the world. More clusters mean more resiliency, and hosted SubQuery data closer to where their customers are. A new European cluster means faster requests for consumers, unrivalled performance for dApp developers and more resiliency for the SubQuery network.
+我们的世界各地客户需要更多的集群来满足他们对SubQuery数据的需求。 更多的集群意味着更高的弹性，并且使得托管的SubQuery数据靠近其使用者的所在地。 一个新的欧洲集群意味着使用者可以更快的发送请求，开发者可以获得无与伦比的性能，以及SubQuery网络可以获得更强的弹性。
 
 ### Improvements to subql init
 
-The _subql init_ command is a familiar one for anyone that has built a SubQuery project; it represents a blank canvas — limitless opportunities. We are aware that we can do better to help others get started, rather than a blank canvas developers want a blank scaffold, where all the boiler-plate code is already written.
+相信任何一个已经构建SubQuery 项目的开发者都对_subql init_ 命令非常熟悉，它就像一张空白的画布，意味着无限的机会。 我们意识到，我们可以更好地帮助他人开始一个项目， 相比一张空白的画布，开发者想要一个空白的脚手架，为此我们丰富了这个命令的功能，现在开发者可以通过它生成样板代码。
 
-This roadmap item represents work we want to do to allow developers to start building on any parachain without needing to worry about endpoints, dictionaries, and types — all saving time for developers and helping others get started.
+这个路线图项目代表着我们需要更多的工作，为了方便开发人员能够在任何平行链上进行开发，而不必担心endpoints, dictionaries, and types 。 这一切都是为了帮助开发者节省时间并帮助他人更方便的开始。
 
-## Milestone 2 — Middle of Q1 2022
+## 里程碑2——2022 Q1中期
 
-### Public testnet launch
+### 公开测试网络启动
 
-Following the SQT Network contract internal MVP, we will invite a small group of participants to onboard and join us as we start testing the SubQuery Network. In order to launch, we need to complete a large number of tasks and an even bigger amount of documentation!
+遵循SQT网络合约的内部MVP的要求，我们将邀请一小批参与者同我们一起开始测试SubQuery网络。 为了启动，我们需要完成大量的任务和更多的文档！
 
-In early 2022, we will share more information about this process and how you can apply to take part.
+2022年初，我们将分享更多关于这个进程以及如何申请参与的信息。
 
 ### Point-in-time indexing
 
-Imagine being able to find out the state of the blockchain at a certain point in time - what exactly did a SubQuery project look like back at the 5 millionth block? This is exactly what this new feature will provide.
+想象一下，如果能够找到区块链在某个时间点的状态 — 在第500万个区块上，SubQuery项目到底是什么样子的？ 这正是这一新功能将提供的。
 
-### SQT Network contract v1 and external code audit
+### SQT网络合约 v1 和外部代码审计
 
-All important networks require a through code audit by an external partner to ensure that the network’s code is secure and scalable. SubQuery is no different, so we’ll be working with key partners for a full code audit here and also continue to receive code audits for our smart contracts going forward.
+所有重要的网络都需要外部合作伙伴通过代码审计来确保网络代码的安全性和可扩展性。 SubQuery也不例外， 因此，我们将与主要伙伴合作来进行一次全面的代码审计，并持续接受对我们的智能合约的代码审计。
 
-### Internal micropayments testing
+### 内部小额支付测试
 
-This is a key feature for us. We are going to be doing a lot of work within the Polkadot ecosystem to manage and handle micropayments within SubQuery. The advantage of Polkadot is tiny transaction fees relative to other networks like Ethereum, meaning micropayments are much more relevant to. This will roll out to our incentivised test network after we carry out thorough internal testing.
+这是我们的一个重要特点。 我们将在Polkadot生态系统内进行大量工作，通过SubQuery管理和处理小额付款。 Polkadot的优点是，相对于以太坊等其他网络来说，交易费很低，这意味着对小额付款更加适用。 这将在我们进行彻底的内部测试后推出到我们的激励测试网络。
 
 ### SubQuery Network Explorer and App
 
-We’re building an explorer and other applications to allow participants in the SubQuery Network explore and find data within the SubQuery Network. Consumers will also use this to navigate the library of supported data sources, as well as delegators to analyse how indexers are performing to decide how to delegate their SQT tokens.
+我们正在构建浏览器和其他应用程序，以允许SubQuery网络的参与者在SubQuery网络内探索和查找数据。 消费者还可以使用该功能浏览支持的数据源库。 delegator也可以借此分析indexer如何决定怎样分配他们的 SQT 令牌。
 
-### Enterprise health monitoring
+### 企业健康监测
 
-Following on from our SubQuery Enterprise service tier, you can also expect a large amount of health monitoring and other performance analytics tools to be made available to customers.
+加入我们的 SubQuery 企业服务级， 您还可以获得我们向客户提供的大量健康监测和其他的性能分析工具。
 
-## Milestone 3 — End of Q1 2022
+## 里程碑3——2022 Q1结束
 
 ### SQT token generation event
 
-After a successful test network phase we are expecting to launch the SubQuery token on a Polkadot parachain partner. We will be sharing more information on our tokenomics with the community in the coming weeks.
+在测试网络阶段成功后，我们期待在一个 Polkadot 平行链合作伙伴上发布SubQuery token。 在今后几个星期里，我们将与社区分享更多有关我们的令牌经济的信息。
 
-### Public incentivised testnet launch with micropayments
+### 启动公共激励测试网和小额付款
 
-This is the final stage of our test network. We will release everything to our test network and expect participants to push it to its limits. This includes scale and load testing, fine tuning our economic models and coefficients, testing our documentation and onboarding processes, and making sure that you can transact with a precursor to SQT within it.
+这是我们测试网络的最后一个阶段。 我们将向我们的测试网络释放一切，并期望参与者可以压力测试。 这包括规模和负载测试，微调我们的经济模型和系数，测试我们的文档和管理流程，并确保您可以在其中与SQT的先行者进行交易。
 
 We expect that we will be rewarding participants of our test network, those that complete certain quests or tasks, and those that act as different members of the test network.
 
