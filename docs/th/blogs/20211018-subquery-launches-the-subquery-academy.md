@@ -1,8 +1,8 @@
-# SubQuery เปิดตัว The SubQuery Academy
+# SubQuery Launches The SubQuery Academy
 
 ![](https://miro.medium.com/max/700/1*5zmCSCrmqL2gGE-BP_6rDQ.png)
 
-เพื่อช่วยนักพัฒนาสร้างแอปพลิเคชันแห่งอนาคต
+Helping developers build the applications of tomorrow
 
 We are pleased to announce the launch of The SubQuery Academy. The Academy is designed to up-skill and empower developers in the SubQuery ecosystem by providing them with a modular programme. The content of this programme will take an aspiring blockchain developer from beginning to advanced , and is  [100% free and accessible online](https://doc.subquery.network/).
 
