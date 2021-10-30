@@ -54,122 +54,122 @@ SubQuery'den kurumsal düzeyde hizmet ve destek alma hakkında bizimle konuşmak
 
 Bu hibe programı, Polkadot ve SubQuery ile yeniliği kolaylaştırmak ve hızlandırmak ve web3 devrimini güçlendirmek için yeni nesil dApp'leri oluşturmak için tasarlanmıştır. SubQuery ve diğerlerinden hibeler, teknik destek, pazarlama ve iş geliştirme tavsiyeleri ile yeni projeleri destekleyecektir.
 
-We are excited about the potential of this and will be releasing more information soon.
+Bunun potansiyeli konusunda heyecanlıyız ve yakında daha fazla bilgi yayınlayacağız.
 
-### Coordinator and client SDK implementations
+### Koordinatör ve istemci SDK uygulamaları
 
-We will be improving our core SubQuery SDK and adding additional components for a SubQuery coordinator and client.
+Temel SubQuery SDK'mızı geliştireceğiz ve bir SubQuery koordinatörü ve istemcisi için ek bileşenler ekleyeceğiz.
 
-The indexer coordinator will be deployed by indexers to expose the network to the indexer, and allow the indexer to register itself with the SubQuery network and advertise the data that it is making available
+Dizin oluşturucu koordinatörü, ağı dizin oluşturucuya göstermek için dizin oluşturucular tarafından konuşlandırılacak ve dizin oluşturucunun kendisini SubQuery ağına kaydetmesine ve kullanılabilir hale getirdiği verilerin reklamını yapmasına olanak tanıyacaktır
 
-The client SDK will be for the consumer role, and will allow them to find indexers and manage the entire transaction that a consumer will need to retrieve and pay for data.
+İstemci SDK'sı tüketici rolü için olacak ve onların dizin oluşturucuları bulmasına ve bir tüketicinin alması ve veri için ödemesi gereken tüm işlemi yönetmesine izin verecek.
 
-### SQT Network contract internal MVP
+### SQT Network sözleşmesi dahili MVP
 
-Our first version of the SubQuery network will be within a smart contract, deployed on a leading Polkadot parachain. The internal MVP will allow us to internally start testing out everything here, and is a huge milestone for us to complete.
+SubQuery ağımızın ilk versiyonu, önde gelen bir Polkadot parachain üzerinde konuşlandırılmış bir akıllı sözleşme dahilinde olacaktır. Dahili MVP, burada her şeyi dahili olarak test etmeye başlamamıza izin verecek ve tamamlamamız için büyük bir kilometre taşı.
 
-### EU Cluster
+### AB Kümesi
 
-Our customers are requesting support for more clusters for SubQuery data around the world. More clusters mean more resiliency, and hosted SubQuery data closer to where their customers are. A new European cluster means faster requests for consumers, unrivalled performance for dApp developers and more resiliency for the SubQuery network.
+Müşterilerimiz, dünya çapında SubQuery verileri için daha fazla küme için destek talep ediyor. Daha fazla küme, daha fazla esneklik ve müşterilerin bulunduğu yere daha yakın bir yerde barındırılan SubQuery verileri anlamına gelir. Yeni bir Avrupa kümesi, tüketiciler için daha hızlı istekler, dApp geliştiricileri için rakipsiz performans ve SubQuery ağı için daha fazla esneklik anlamına gelir.
 
-### Improvements to subql init
+### Subql init için iyileştirmeler
 
-The _subql init_ command is a familiar one for anyone that has built a SubQuery project; it represents a blank canvas — limitless opportunities. We are aware that we can do better to help others get started, rather than a blank canvas developers want a blank scaffold, where all the boiler-plate code is already written.
+_subql init komutu_, bir SubQuery projesi oluşturan herkes için tanıdık bir komuttur; boş bir tuvali temsil eder — sınırsız fırsatlar. Boş bir tuval geliştiricileri, tüm kazan plakası kodunun zaten yazıldığı boş bir iskele istemek yerine, başkalarının başlamasına yardımcı olmak için daha iyisini yapabileceğimizin farkındayız.
 
-This roadmap item represents work we want to do to allow developers to start building on any parachain without needing to worry about endpoints, dictionaries, and types — all saving time for developers and helping others get started.
+Bu yol haritası öğesi, geliştiricilerin uç noktalar, sözlükler ve türler hakkında endişelenmelerine gerek kalmadan herhangi bir parachain üzerinde oluşturmaya başlamalarına izin vermek için yapmak istediğimiz işi temsil eder; bu, geliştiriciler için zamandan tasarruf sağlar ve diğerlerinin başlamasına yardımcı olur.
 
-## Milestone 2 — Middle of Q1 2022
+## Dönüm Noktası 2 — 2022 1. Çeyreğin Ortası
 
-### Public testnet launch
+### Herkese açık test ağı lansmanı
 
-Following the SQT Network contract internal MVP, we will invite a small group of participants to onboard and join us as we start testing the SubQuery Network. In order to launch, we need to complete a large number of tasks and an even bigger amount of documentation!
+SQT Ağı sözleşmesi dahili MVP'sini takiben, SubQuery Ağını test etmeye başlarken küçük bir katılımcı grubunu gemiye katılmaya ve bize katılmaya davet edeceğiz. Başlatmak için çok sayıda görevi ve daha da fazla miktarda belgeyi tamamlamamız gerekiyor!
 
-In early 2022, we will share more information about this process and how you can apply to take part.
+2022'nin başlarında, bu süreç ve katılmak için nasıl başvurabileceğiniz hakkında daha fazla bilgi paylaşacağız.
 
-### Point-in-time indexing
+### Anlık indeksleme
 
-Imagine being able to find out the state of the blockchain at a certain point in time - what exactly did a SubQuery project look like back at the 5 millionth block? This is exactly what this new feature will provide.
+Belirli bir zamanda blok zincirinin durumunu öğrenebildiğinizi hayal edin - 5 milyonuncu blokta bir SubQuery projesi tam olarak neye benziyordu? Bu yeni özelliğin sağlayacağı tam olarak budur.
 
-### SQT Network contract v1 and external code audit
+### SQT Network sözleşmesi v1 ve harici kod denetimi
 
-All important networks require a through code audit by an external partner to ensure that the network’s code is secure and scalable. SubQuery is no different, so we’ll be working with key partners for a full code audit here and also continue to receive code audits for our smart contracts going forward.
+Tüm önemli ağlar, ağ kodunun güvenli ve ölçeklenebilir olduğundan emin olmak için harici bir ortak tarafından kod denetimi gerektirir. SubQuery farklı değil, bu nedenle burada tam bir kod denetimi için kilit ortaklarla birlikte çalışacağız ve bundan sonra akıllı sözleşmelerimiz için kod denetimleri almaya devam edeceğiz.
 
-### Internal micropayments testing
+### Dahili mikro ödeme testi
 
-This is a key feature for us. We are going to be doing a lot of work within the Polkadot ecosystem to manage and handle micropayments within SubQuery. The advantage of Polkadot is tiny transaction fees relative to other networks like Ethereum, meaning micropayments are much more relevant to. This will roll out to our incentivised test network after we carry out thorough internal testing.
+Bu bizim için önemli bir özellik. SubQuery içindeki mikro ödemeleri yönetmek ve işlemek için Polkadot ekosisteminde çok iş yapacağız. SubQuery içindeki mikro ödemeleri yönetmek ve işlemek için Polkadot ekosisteminde çok iş yapacağız. Bu, kapsamlı dahili testler gerçekleştirdikten sonra teşvikli test ağımıza yayılacaktır.
 
-### SubQuery Network Explorer and App
+### SubQuery Ağ Gezgini ve Uygulaması
 
-We’re building an explorer and other applications to allow participants in the SubQuery Network explore and find data within the SubQuery Network. Consumers will also use this to navigate the library of supported data sources, as well as delegators to analyse how indexers are performing to decide how to delegate their SQT tokens.
+SubQuery Ağı'ndaki katılımcıların SubQuery Ağı içindeki verileri keşfetmesine ve bulmasına izin vermek için bir gezgin ve diğer uygulamalar oluşturuyoruz. Tüketiciler bunu ayrıca desteklenen veri kaynakları kitaplığında gezinmek için ve delegatörler SQT tokenlarını nasıl devredeceklerine karar vermek için dizin oluşturucuların nasıl performans gösterdiğini analiz etmek için kullanacak.
 
-### Enterprise health monitoring
+### Kurumsal sağlık izleme
 
-Following on from our SubQuery Enterprise service tier, you can also expect a large amount of health monitoring and other performance analytics tools to be made available to customers.
+SubQuery Enterprise hizmet katmanımızdan sonra, büyük miktarda sistem durumu izleme ve diğer performans analizi araçlarının müşterilere sunulmasını bekleyebilirsiniz.
 
-## Milestone 3 — End of Q1 2022
+## Dönüm Noktası 3 —  2022 4. Çeyreğin Sonu
 
-### SQT token generation event
+### SQT token oluşturma olayı
 
-After a successful test network phase we are expecting to launch the SubQuery token on a Polkadot parachain partner. We will be sharing more information on our tokenomics with the community in the coming weeks.
+Başarılı bir test ağı aşamasından sonra, bir Polkadot parachain ortağı üzerinde SubQuery tokenını başlatmayı bekliyoruz. Önümüzdeki haftalarda tokenomiklerimiz hakkında toplulukla daha fazla bilgi paylaşacağız.
 
-### Public incentivised testnet launch with micropayments
+### Mikroödemelerle kamu teşvikli test ağı lansmanı
 
-This is the final stage of our test network. We will release everything to our test network and expect participants to push it to its limits. This includes scale and load testing, fine tuning our economic models and coefficients, testing our documentation and onboarding processes, and making sure that you can transact with a precursor to SQT within it.
+Bu, test ağımızın son aşamasıdır. Her şeyi test ağımıza sunacağız ve katılımcıların sınırlarını zorlamasını bekleyeceğiz. Buna ölçek ve yük testi, ekonomik modellerimizin ve katsayılarımızın ince ayarının yapılması, belgelerimizin ve işe alım süreçlerimizin test edilmesi ve bunun içinde SQT'ye yönelik bir öncü ile işlem yapabileceğinizden emin olunması dahildir.
 
-We expect that we will be rewarding participants of our test network, those that complete certain quests or tasks, and those that act as different members of the test network.
+Test ağımızın katılımcılarını, belirli görevleri veya görevleri tamamlayanları ve test ağının farklı üyeleri olarak hareket edenleri ödüllendireceğimizi umuyoruz.
 
-### Data traffic insights and reporting
+### Veri trafiği içgörüleri ve raporlama
 
-We are handling millions of data requests to SubQuery projects each day. Most of our customers don’t have analytics in their own dApps for user privacy but they still need to know how their dApps are operating so we will be improving this.
+Her gün SubQuery projelerine yönelik milyonlarca veri talebini işliyoruz. Müşterilerimizin çoğu, kullanıcı gizliliği için kendi dApp'lerinde analitiklere sahip değildir, ancak yine de dApp'lerinin nasıl çalıştığını bilmeleri gerekir, bu yüzden bunu iyileştireceğiz.
 
-### Scalable intelligent routing
+### Ölçeklenebilir akıllı yönlendirme
 
-We have a goal of a Billion daily SubQuery requests to our hosted service, that’s why we are going to introduce a globally scalable service with multiple SubQuery hosted services running.
+Barındırılan hizmetimiz için günlük Milyarlarca SubQuery isteği hedefimiz var, bu nedenle birden fazla SubQuery barındırılan hizmetinin çalıştığı küresel olarak ölçeklenebilir bir hizmet sunacağız.
 
-It’s a new and continuously improving feature that automatically routes requests to the closest available node. Additionally, it allows us to redirect all requests immediately to a backup SubQuery zone, providing us with a fault tolerant system in the case of regional outage.
+İstekleri otomatik olarak mevcut en yakın düğüme yönlendiren yeni ve sürekli gelişen bir özelliktir. Ek olarak, bölgesel kesinti durumunda bize hataya dayanıklı bir sistem sağlayarak tüm istekleri hemen bir yedek SubQuery bölgesine yönlendirmemize olanak tanır.
 
-In the future it means that we’ll be creating more and more smaller SubQuery hosted services tactically placed closer to our users.
+Gelecekte bu, kullanıcılarımıza taktiksel olarak daha yakın yerleştirilmiş daha küçük SubQuery barındırılan hizmetler oluşturacağımız anlamına geliyor.
 
-## Milestone 4 — Middle of Q2 2022
+## Dönüm Noktası 4 — 2022 1. Çeyreğin Ortası
 
-### Launch of the SubQuery Foundation
+### SubQuery Foundation'ın Başlatılması
 
-In our move to create a decentralized SubQuery Network we will establish a SubQuery Foundation to administer the future governance and growth of the ecosystem. The ownership of the SubQuery Network will come under the SubQuery foundation initially.
+Merkezi olmayan bir SubQuery Ağı oluşturma hamlemizde, ekosistemin gelecekteki yönetimini ve büyümesini yönetmek için bir SubQuery Vakfı kuracağız. SubQuery Ağının mülkiyeti, başlangıçta SubQuery temeli altına girecektir.
 
-### Finalise research for other Layer-1 chains
+### Diğer Katman-1 zincirleri için araştırmayı sonlandırın
 
-While our home will always be Polkadot we are exploring supporting various other Layer-1 blockchains with our indexing capabilities.
+Evimiz her zaman Polkadot olacak olsa da, indeksleme yeteneklerimizle çeşitli diğer Katman-1 blok zincirlerini desteklemeyi araştırıyoruz.
 
-### Liquidity mining program
+### Likidite madenciliği programı
 
-In order to enhance the liquidity of the SQT token, we will create a liquidity mining program with a decentralized exchange (DEX). This will enable token holders to generate returns on their investment.
+SQT tokeninin likiditesini artırmak için, merkezi olmayan bir borsa (DEX) içeren bir likidite madenciliği programı oluşturacağız. Bu, token sahiplerinin yatırımlarından getiri elde etmelerini sağlayacaktır.
 
-## Milestone 5 — End of Q2 2022
+## Dönüm Noktası 5 —  2022 4. Çeyreğin Sonu
 
-### Mainnet launch 🚀
+### Ana ağ başlatma
 
-After we complete testing of the SubQuery network will launch the first SubQuery Network mainnet. This is where everything really starts. Initially, we will onboard and reward participants of the test network, and then it will be completely open to everyone in the community.
+SubQuery ağının testini tamamladıktan sonra, ilk SubQuery Ağı ana ağını başlatacağız. İşte her şey gerçekten burada başlıyor. İlk olarak, test ağının katılımcılarını dahil edip ödüllendireceğiz ve daha sonra topluluktaki herkese tamamen açık olacak.
 
-### Centralised Exchange launch
+### Merkezi Exchange lansmanı
 
-In order to drive increased adoption of SQT, we anticipate launching the token on one if not multiple leading CEX during this period as well as many other DEXs.
+SQT'nin daha fazla benimsenmesini sağlamak için, diğer birçok DEX'in yanı sıra, bu dönemde birden fazla olmasa da bir öncü CEX'te belirteci başlatmayı bekliyoruz.
 
-## Milestone 6 — Long term plans
+## Milestone 6 — Uzun vadeli planlar
 
-### Launch our own Parachain
+### Kendi Parachain'imizi başlatın
 
-Although we initially plan to partner with a top Polkadot parachain to get SubQuery Network released and scaled quicker, in the long-term SubQuery also intends to launch on it’s own parachain and integrate itself even more in the ecosystem.
+SubQuery Network'ün daha hızlı yayınlanmasını ve ölçeklenmesini sağlamak için başlangıçta en iyi Polkadot parachain ile ortak olmayı planlasak da, uzun vadede SubQuery de kendi parachain'ini başlatmayı ve kendisini ekosisteme daha da entegre etmeyi planlıyor.
 
-This self owned parachain will allow us to further innovate in tools that can help developers build the web3 future faster. We want to aim for a parachain slot once we have a proven track record behind us and the data, community, and token to support it.
+Bu kendi kendine sahip olunan parachain, geliştiricilerin web3'ün geleceğini daha hızlı inşa etmelerine yardımcı olabilecek araçlarda daha fazla yenilik yapmamızı sağlayacak. Arkamızda kanıtlanmış bir sicile ve onu destekleyecek veriye, topluluğa ve tokena sahip olduğumuzda bir parachain yuvasını hedeflemek istiyoruz.
 
-### SubQuery Foundation moves to a DAO
+### SubQuery Foundation bir DAO'ya taşınıyor
 
-This one is a long way off, but it’s always our dream the SubQuery eventually becomes a community owned DAO. We’ve said many times that the community plays a huge part in SubQuery, everything that we do is for our customers — becoming a DAO is the embodiment of that focus.
+Bu çok uzakta, ancak her zaman bizim hayalimiz, SubQuery'nin sonunda DAO'ya ait bir topluluğa dönüşmesi. Topluluğun SubQuery'de büyük bir rol oynadığını defalarca söyledik, yaptığımız her şey müşterilerimiz için —  bir DAO olmak bu odaklanmanın somutlaşmış halidir.
 
-That being said, this is a long long way off, and will only be done once we are absolutely confident of SubQuery's success and future with the community.
+Bununla birlikte, bu çok uzun bir yol ve yalnızca SubQuery'nin başarısından ve toplulukla geleceğinden kesinlikle emin olduğumuzda yapılacaktır.
 
-## About SubQuery
+## SubQuery Hakkında
 
-[SubQuery](https://subquery.network) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. The protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+&[SubQuery](https://subquery.network), Katman-1 blok zincirleri ve merkezi olmayan uygulamalar arasında merkezi olmayan bir veri toplama, indeksleme ve sorgulama katmanıdır. Protokol, SubQuery SDK ile blok zinciri veri özdeyişlerini soyutlayarak geliştiricilerin, özel arka uç teknolojileri üzerinde gereksiz yere çaba harcamadan temel ürünlerini dağıtmaya odaklanmalarına olanak tanır.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
