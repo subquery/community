@@ -112,64 +112,64 @@ Sebagai lanjutan dari tingkat layanan SubQuery Enterprise kami, Anda juga dapat 
 
 Setelah fase jaringan uji yang berhasil, kami berharap untuk meluncurkan token SubQuery pada mitra parachain Polkadot. Kami akan membagikan lebih banyak informasi tentang tokennomics kami dengan komunitas dalam beberapa minggu mendatang.
 
-### Public incentivised testnet launch with micropayments
+### Peluncuran testnet berinsentif publik dengan pembayaran mikro
 
-This is the final stage of our test network. We will release everything to our test network and expect participants to push it to its limits. This includes scale and load testing, fine tuning our economic models and coefficients, testing our documentation and onboarding processes, and making sure that you can transact with a precursor to SQT within it.
+Ini adalah tahap akhir dari jaringan pengujian kami. Kami akan merilis semuanya ke jaringan pengujian kami dan mengharapkan peserta untuk mendorongnya hingga batasnya. Ini termasuk pengujian skala dan beban, menyempurnakan model dan koefisien ekonomi kami, menguji dokumentasi dan proses orientasi kami, dan memastikan bahwa Anda dapat bertransaksi dengan pendahulu SQT di dalamnya.
 
-We expect that we will be rewarding participants of our test network, those that complete certain quests or tasks, and those that act as different members of the test network.
+Kami berharap bahwa kami akan memberi reward kepada peserta jaringan pengujian kami, mereka yang menyelesaikan misi atau tugas tertentu, dan mereka yang bertindak sebagai anggota berbeda dari jaringan pengujian.
 
-### Data traffic insights and reporting
+### Wawasan dan pelaporan lalu lintas data
 
-We are handling millions of data requests to SubQuery projects each day. Most of our customers don’t have analytics in their own dApps for user privacy but they still need to know how their dApps are operating so we will be improving this.
+Kami menangani jutaan permintaan data ke proyek SubQuery setiap hari. Sebagian besar pelanggan kami tidak memiliki analitik di dApps mereka sendiri untuk privasi pengguna, tetapi mereka masih perlu mengetahui bagaimana dApps mereka beroperasi sehingga kami akan meningkatkannya.
 
-### Scalable intelligent routing
+### Routing cerdas yang dapat diskalakan
 
-We have a goal of a Billion daily SubQuery requests to our hosted service, that’s why we are going to introduce a globally scalable service with multiple SubQuery hosted services running.
+Kami memiliki sasaran satu Miliar permintaan SubQuery harian ke layanan hosted kami, itulah sebabnya kami akan memperkenalkan layanan yang dapat diskalakan secara global dengan beberapa layanan hosted SubQuery yang berjalan.
 
-It’s a new and continuously improving feature that automatically routes requests to the closest available node. Additionally, it allows us to redirect all requests immediately to a backup SubQuery zone, providing us with a fault tolerant system in the case of regional outage.
+Ini adalah fitur baru dan terus ditingkatkan yang secara otomatis mengarahkan permintaan ke node terdekat yang tersedia. Selain itu, ini memungkinkan kami untuk mengarahkan semua permintaan segera ke zona SubQuery cadangan, memberi kami sistem yang toleran terhadap kesalahan jika terjadi pemadaman regional.
 
-In the future it means that we’ll be creating more and more smaller SubQuery hosted services tactically placed closer to our users.
+Di masa mendatang, ini berarti bahwa kami akan membuat semakin banyak layanan hosted SubQuery yang lebih kecil yang secara taktis ditempatkan lebih dekat dengan pengguna kami.
 
-## Milestone 4 — Middle of Q2 2022
+## Pencapaian 4 — Pertengahan Q2 2022
 
-### Launch of the SubQuery Foundation
+### Peluncuran SubQuery Foundation
 
-In our move to create a decentralized SubQuery Network we will establish a SubQuery Foundation to administer the future governance and growth of the ecosystem. The ownership of the SubQuery Network will come under the SubQuery foundation initially.
+Dalam langkah kami untuk membuat Jaringan SubQuery yang terdesentralisasi, kami akan mendirikan SubQuery Foundation untuk mengelola governance dan pertumbuhan ekosistem di masa depan. Kepemilikan SubQuery Network akan berada di bawah SubQuery foundation pada awalnya.
 
-### Finalise research for other Layer-1 chains
+### Menyelesaikan penelitian untuk chain Layer-1 lainnya
 
-While our home will always be Polkadot we are exploring supporting various other Layer-1 blockchains with our indexing capabilities.
+Sementara rumah kami akan selalu menjadi Polkadot, kami sedang menjajaki untuk mendukung berbagai blockchain Layer-1 lainnya dengan kemampuan pengindeksan kami.
 
-### Liquidity mining program
+### Program liquidity mining
 
-In order to enhance the liquidity of the SQT token, we will create a liquidity mining program with a decentralized exchange (DEX). This will enable token holders to generate returns on their investment.
+Untuk meningkatkan likuiditas token SQT, kami akan membuat program penambangan likuiditas dengan pertukaran terdesentralisasi (DEX). Ini akan memungkinkan pemegang token untuk menghasilkan tambahan atas investasi mereka.
 
-## Milestone 5 — End of Q2 2022
+## Pencapaian 5 — Akhir Q2 2022
 
-### Mainnet launch 🚀
+### Peluncuran mainnet 🚀
 
-After we complete testing of the SubQuery network will launch the first SubQuery Network mainnet. This is where everything really starts. Initially, we will onboard and reward participants of the test network, and then it will be completely open to everyone in the community.
+Setelah kami menyelesaikan pengujian jaringan SubQuery, kami akan meluncurkan mainnet SubQuery Network pertama. Di sinilah semuanya benar-benar dimulai. Awalnya, kami akan bergabung dan memberi penghargaan kepada peserta jaringan uji, dan kemudian akan sepenuhnya terbuka untuk semua orang di komunitas.
 
-### Centralised Exchange launch
+### Peluncuran Exchange Terpusat
 
-In order to drive increased adoption of SQT, we anticipate launching the token on one if not multiple leading CEX during this period as well as many other DEXs.
+Untuk mendorong peningkatan adopsi SQT, kami mengantisipasi peluncuran token pada satu atau beberapa CEX terkemuka selama periode ini serta banyak DEX lainnya.
 
-## Milestone 6 — Long term plans
+## Pencapaian 6 — Rencana jangka panjang
 
-### Launch our own Parachain
+### Meluncurkan Parachain kami sendiri
 
-Although we initially plan to partner with a top Polkadot parachain to get SubQuery Network released and scaled quicker, in the long-term SubQuery also intends to launch on it’s own parachain and integrate itself even more in the ecosystem.
+Meskipun pada awalnya kami berencana untuk bermitra dengan parachain Polkadot teratas untuk membuat Jaringan SubQuery dirilis dan diskalakan lebih cepat, dalam jangka panjang SubQuery juga bermaksud untuk meluncurkan parachainnya sendiri dan mengintegrasikan dirinya lebih jauh lagi dalam ekosistem.
 
-This self owned parachain will allow us to further innovate in tools that can help developers build the web3 future faster. We want to aim for a parachain slot once we have a proven track record behind us and the data, community, and token to support it.
+Parachain milik sendiri ini akan memungkinkan kami untuk lebih berinovasi dalam alat yang dapat membantu pengembang membangun masa depan web3 lebih cepat. Kami ingin membidik slot parachain setelah kami memiliki rekam jejak yang terbukti di belakang kami dan data, komunitas, serta token untuk mendukungnya.
 
-### SubQuery Foundation moves to a DAO
+### SubQuery Foundation pindah ke DAO
 
-This one is a long way off, but it’s always our dream the SubQuery eventually becomes a community owned DAO. We’ve said many times that the community plays a huge part in SubQuery, everything that we do is for our customers — becoming a DAO is the embodiment of that focus.
+Ini masih jauh, tapi selalu menjadi impian kami bahwa SubQuery akhirnya menjadi DAO milik komunitas. Kami telah berulang kali mengatakan bahwa komunitas memainkan peran besar dalam SubQuery, semua yang kami lakukan adalah untuk pelanggan kami — menjadi DAO adalah perwujudan dari fokus itu.
 
-That being said, this is a long long way off, and will only be done once we are absolutely confident of SubQuery's success and future with the community.
+Meskipun demikian, ini masih jauh, dan hanya akan dilakukan setelah kami benar-benar yakin akan kesuksesan dan masa depan SubQuery bersama komunitas.
 
-## About SubQuery
+## Tentang SubQuery
 
-[SubQuery](https://subquery.network) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. The protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+[SubQuery](https://subquery.network) adalah agregasi data terdesentralisasi, pengindeksan & lapisan kueri antara blockchain Layer-1 dan aplikasi terdesentralisasi. Protokol mengabstraksi keanehan data blockchain dengan SubQuery SDK, memungkinkan pengembang untuk fokus pada penerapan produk inti mereka tanpa membuang upaya yang sia-sia pada teknologi backend khusus.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
