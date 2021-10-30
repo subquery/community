@@ -22,13 +22,13 @@ Dengan demikian, hasil utama dalam alur kerja kami dapat dipecah menjadi tonggak
 
 ### Dukungan EVM untuk parachains
 
-We will be releasing [our beta support for Polkadot implementations of the Ethereum Virtual Machine (EVM)](https://medium.com/@subquery/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff) soon. This allows Polkadot and Ethereum developers to seamlessly integrate both Substrate and EVM data into one place and query this single datasource using GraphQL.
+Kami akan segera merilis [dukungan beta kami untuk implementasi Polkadot dari Ethereum Virtual Machine (EVM)](https://medium.com/@subquery/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff). Ini memungkinkan pengembang Polkadot dan Ethereum untuk mengintegrasikan data Substrate dan EVM dengan mulus ke dalam satu tempat dan mengkueri sumber data tunggal ini menggunakan GraphQL.
 
-SubQuery will introduce more advanced filters than other indexers, allowing filtering of non-contract transactions, transaction senders, contracts and indexed log arguments, so developers can build a wide variety of projects that cater to their specific data needs.
+SubQuery akan memperkenalkan filter yang lebih canggih daripada pengindeks lainnya, memungkinkan pemfilteran transaksi non-kontrak, pengirim transaksi, kontrak, dan argumen log yang diindeks, sehingga pengembang dapat membangun berbagai proyek yang memenuhi kebutuhan data spesifik mereka.
 
-### SubQuery Academy
+### Akademi SubQuery
 
-The Academy is designed to up-skill and empower developers in the SubQuery ecosystem by providing them with modular education. [Our first course in the Academy is the _Hero Course_](https://doc.subquery.network/academy/herocourse/) and was launched on Friday 22 October 2021.
+Akademi dirancang untuk meningkatkan keterampilan dan memberdayakan pengembang di ekosistem SubQuery dengan menyediakan edukasi modular kepada mereka. [Our first course in the Academy is the _Hero Course_](https://doc.subquery.network/academy/herocourse/) and was launched on Friday 22 October 2021.
 
 Within each module of the _Hero Course_, there are several 5 to 10 minute lessons which are delivered by a recorded video. The video content is accompanied by written tutorials, slides, workbooks, and links to the finished GitHub code repository.
 
