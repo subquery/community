@@ -96,21 +96,21 @@ Semua jaringan penting memerlukan audit kode menyeluruh oleh mitra eksternal unt
 
 ### Pengujian pembayaran mikro internal
 
-This is a key feature for us. We are going to be doing a lot of work within the Polkadot ecosystem to manage and handle micropayments within SubQuery. The advantage of Polkadot is tiny transaction fees relative to other networks like Ethereum, meaning micropayments are much more relevant to. This will roll out to our incentivised test network after we carry out thorough internal testing.
+Ini adalah fitur utama bagi kami. Kami akan melakukan banyak pekerjaan dalam ekosistem Polkadot untuk mengelola dan menangani pembayaran mikro dalam SubQuery. Keuntungan dari Polkadot adalah biaya transaksi yang kecil dibandingkan dengan jaringan lain seperti Ethereum, yang berarti pembayaran mikro jauh lebih relevan. Ini akan diluncurkan ke jaringan pengujian kami yang diberi insentif setelah kami melakukan pengujian internal yang menyeluruh.
 
-### SubQuery Network Explorer and App
+### Explorer dan Aplikasi SubQuery Network
 
-We’re building an explorer and other applications to allow participants in the SubQuery Network explore and find data within the SubQuery Network. Consumers will also use this to navigate the library of supported data sources, as well as delegators to analyse how indexers are performing to decide how to delegate their SQT tokens.
+Kami sedang membangun explorer dan aplikasi lain untuk memungkinkan peserta di SubQuery Network menjelajahi dan menemukan data dalam SubQuery Network. Konsumen juga akan menggunakan ini untuk menavigasi perpustakaan sumber data yang didukung, serta delegator untuk menganalisis bagaimana kinerja pengindeks untuk memutuskan bagaimana mendelegasikan token SQT mereka.
 
-### Enterprise health monitoring
+### Pemantauan kesehatan Enterprise
 
-Following on from our SubQuery Enterprise service tier, you can also expect a large amount of health monitoring and other performance analytics tools to be made available to customers.
+Sebagai lanjutan dari tingkat layanan SubQuery Enterprise kami, Anda juga dapat mengharapkan sejumlah besar pemantauan kesehatan dan alat analisis kinerja lainnya yang tersedia untuk pelanggan.
 
-## Milestone 3 — End of Q1 2022
+## Pencapaian 3 — Akhir Q1 2022
 
 ### SQT token generation event
 
-After a successful test network phase we are expecting to launch the SubQuery token on a Polkadot parachain partner. We will be sharing more information on our tokenomics with the community in the coming weeks.
+Setelah fase jaringan uji yang berhasil, kami berharap untuk meluncurkan token SubQuery pada mitra parachain Polkadot. Kami akan membagikan lebih banyak informasi tentang tokennomics kami dengan komunitas dalam beberapa minggu mendatang.
 
 ### Public incentivised testnet launch with micropayments
 
