@@ -4,7 +4,7 @@
 
 **SubQuery thông báo các cột mốc quan trọng bao gồm cả tiến trình TGE**
 
-Hôm nay, chúng tôi rất vui mừng khi lần đầu tiên được công bố lộ trình kỹ thuật chi tiết của mình. Mục tiêu của SubQuery là trở thành nhà cung cấp dữ liệu hàng đầu trong hệ sinh thái Polkadot và sự hỗ trợ mà chúng tôi nhận được từ cộng đồng để giúp chúng tôi đạt được điều này thực sự tuyệt vời. From our formal establishment at the end of 2020 via a [Web3 Grant](https://web3.foundation/), to releasing our first open source version in January 2021, and [closing our Series A in September](https://subquery.medium.com/series-a-1abed6c1c2af) we would like to thank you for all of your support in getting us to this stage!
+Hôm nay, chúng tôi rất vui mừng khi lần đầu tiên được công bố lộ trình kỹ thuật chi tiết của mình. Mục tiêu của SubQuery là trở thành nhà cung cấp dữ liệu hàng đầu trong hệ sinh thái Polkadot và sự hỗ trợ mà chúng tôi nhận được từ cộng đồng để giúp chúng tôi đạt được điều này thực sự tuyệt vời. Từ lúc chính thức thành lập vào cuối năm 2020 thông qua một [nguồn tài trợ Web3](https://web3.foundation/) cho đến khi phát hành phiên bản mã nguồn mở đầu tiên của chúng tôi vào tháng 1 năm 2021 rồi cả khi [kết thúc vòng gọi vốn Series A vào tháng 9](https://subquery.medium.com/series-a-1abed6c1c2af), chúng tôi xin chân thành cảm ơn sự hỗ trợ của tất cả các bạn đã giúp chúng tôi đi được đến giai đoạn này!
 
 As we continue to gain momentum, the time has come to share more about our plans for the future including our technical roadmap. We are excited about how the next evolution of SubQuery will drive even more value to the Polkadot ecosystem and provide more opportunities for our community to participate in our growth.
 
