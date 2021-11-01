@@ -1,10 +1,10 @@
-# SubQuery Releases Technical Roadmap
+# SubQuery công bố lộ trình kỹ thuật
 
 ![](https://cdn-images-1.medium.com/max/800/1*Qcu5mFIs8eJhAXaMpWOlMQ.png)
 
-**SubQuery announces key milestones including TGE timeline**
+**SubQuery thông báo các cột mốc quan trọng bao gồm cả tiến trình TGE**
 
-Today we are pleased to release our detailed technical roadmap for the first time. SubQuery’s goal is to be the leading data provider in the Polkadot ecosystem and the support we have had from the community to help us realise this vision has been amazing. From our formal establishment at the end of 2020 via a [Web3 Grant](https://web3.foundation/), to releasing our first open source version in January 2021, and [closing our Series A in September](https://subquery.medium.com/series-a-1abed6c1c2af) we would like to thank you for all of your support in getting us to this stage!
+Hôm nay, chúng tôi rất vui mừng khi lần đầu tiên được công bố lộ trình kỹ thuật chi tiết của mình. Mục tiêu của SubQuery là trở thành nhà cung cấp dữ liệu hàng đầu trong hệ sinh thái Polkadot và sự hỗ trợ mà chúng tôi nhận được từ cộng đồng để giúp chúng tôi đạt được điều này thực sự tuyệt vời. From our formal establishment at the end of 2020 via a [Web3 Grant](https://web3.foundation/), to releasing our first open source version in January 2021, and [closing our Series A in September](https://subquery.medium.com/series-a-1abed6c1c2af) we would like to thank you for all of your support in getting us to this stage!
 
 As we continue to gain momentum, the time has come to share more about our plans for the future including our technical roadmap. We are excited about how the next evolution of SubQuery will drive even more value to the Polkadot ecosystem and provide more opportunities for our community to participate in our growth.
 
@@ -168,8 +168,8 @@ This one is a long way off, but it’s always our dream the SubQuery eventually 
 
 That being said, this is a long long way off, and will only be done once we are absolutely confident of SubQuery's success and future with the community.
 
-## Giới thiệu về SubQuery
+## About SubQuery
 
-[SubQuery](https://subquery.network) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. Giao thức này loại bỏ các đặc điểm riêng của dữ liệu blockchain với SubQuery SDK, cho phép các nhà phát triển tập trung vào việc triển khai sản phẩm cốt lõi của họ mà không cần lãng phí một cách vô ích vào các công nghệ phụ trợ truyền thống.
+[SubQuery](https://subquery.network) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. The protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
