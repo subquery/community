@@ -2,15 +2,15 @@
 
 ![](https://miro.medium.com/max/1400/1*g51P_PPoseNqEfCBgvpXXA.png)
 
-**We are working hard to help every developer learn how to use SubQuery to explore and transform their chain data so they can build intuitive dApps faster.**
+**Ми наполегливо працюємо, щоб допомогти кожному розробнику навчитися досліджувати та трансформувати дані блокчейну за допомогою SubQuery, та щоб вони могли швидше створювати інтуїтивно зрозумілі децентралізовані програми.**
 
-Today we launch our new [documentation website at doc.subquery.network](https://doc.subquery.network/). We have carefully redesigned it with our community in mind and we’re excited to share it with you.
+Сьогодні ми запускаємо наш новий [сайт документації на doc.subquery.network](https://doc.subquery.network/). Ми ретельно переробили його з нашою спільнотою, та раді поділитися ним з вами.
 
 ![](https://miro.medium.com/max/1200/1*snyFSjyQ9q116bmIcaVfsQ.gif)
 
-> _“_Documentation may not be glamorous work but it plays a vital role in communicating how something works and allows us to empower our community members to learn and unleash their creativity. That is why we believe documentation is so important_” — Sean Au (SubQuery Academy)_
+> _«Документація може й не є гламурною роботою, але вона відіграє життєво важливу роль у комунікації про те, як щось працює, та дозволяє нам розширити можливості членів нашої спільноти вчитися та розкривати свою творчість. Тому ми вважаємо, що документація дуже важлива »_ - Sean Au (Академія SubQuery)_
 
-[Our new documentation website](https://doc.subquery.network/) has an inviting landing page designed to welcome all users, regardless of their technical understanding of blockchain or Polkadot. From the landing page users can jump straight into a getting started tutorial, or navigate off to the help they need.
+[На нашому новому веб-сайті з документацією](https://doc.subquery.network/) є сторінка, призначена для всіх користувачів, незалежно від їх технічного розуміння блокчейну чи Polkadot. З сторінки користувачі можуть перейти безпосередньо до стартового посібника або перейти до конкретної необхідної допомоги.
 
 
 ![](https://miro.medium.com/max/1400/1*obZau98aya3Ohtc43DAuEw.png)
