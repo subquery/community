@@ -80,41 +80,41 @@ Mục lộ trình này đại diện cho công việc mà chúng tôi muốn là
 
 ## Mốc 2 - Giữa Q1 2022
 
-### Public testnet launch
+### Khởi chạy testnet công khai
 
-Following the SQT Network contract internal MVP, we will invite a small group of participants to onboard and join us as we start testing the SubQuery Network. In order to launch, we need to complete a large number of tasks and an even bigger amount of documentation!
+Tuân theo MVP nội bộ của hợp đồng Mạng SQT, chúng tôi sẽ mời một nhóm nhỏ người tham gia cùng chúng tôi khi chúng tôi bắt đầu thử nghiệm Mạng SubQuery. Để khởi chạy, chúng tôi cần hoàn thành một số lượng lớn nhiệm vụ và một lượng tài liệu lớn hơn nữa!
 
-In early 2022, we will share more information about this process and how you can apply to take part.
+Vào đầu năm 2022, chúng tôi sẽ chia sẻ thêm thông tin về quá trình này và cách bạn có thể đăng ký tham gia.
 
-### Point-in-time indexing
+### Lập chỉ mục điểm trong thời gian
 
-Imagine being able to find out the state of the blockchain at a certain point in time - what exactly did a SubQuery project look like back at the 5 millionth block? This is exactly what this new feature will provide.
+Hãy tưởng tượng có thể tìm ra trạng thái của blockchain tại một thời điểm nhất định - chính xác thì một dự án SubQuery trông như thế nào ở khối thứ 5 triệu? Đây chính xác là những gì tính năng mới này sẽ cung cấp.
 
-### SQT Network contract v1 and external code audit
+### Hợp đồng mạng SQT v1 và kiểm tra mã bởi một đối tác uy tín
 
-All important networks require a through code audit by an external partner to ensure that the network’s code is secure and scalable. SubQuery is no different, so we’ll be working with key partners for a full code audit here and also continue to receive code audits for our smart contracts going forward.
+Tất cả các mạng quan trọng đều yêu cầu đối tác bên ngoài kiểm tra mã thông qua để đảm bảo rằng mã của mạng đó an toàn và có thể mở rộng. SubQuery cũng không khác, vì vậy chúng tôi sẽ làm việc với các đối tác chính để kiểm tra toàn bộ mã tại đây và cũng tiếp tục nhận kiểm tra mã cho các hợp đồng thông minh của chúng tôi trong tương lai.
 
-### Internal micropayments testing
+### Thử nghiệm thanh toán vi mô nội bộ
 
-This is a key feature for us. We are going to be doing a lot of work within the Polkadot ecosystem to manage and handle micropayments within SubQuery. The advantage of Polkadot is tiny transaction fees relative to other networks like Ethereum, meaning micropayments are much more relevant to. This will roll out to our incentivised test network after we carry out thorough internal testing.
+Đây là một tính năng chính đối với chúng tôi. Chúng tôi sẽ thực hiện nhiều công việc trong hệ sinh thái Polkadot để quản lý và xử lý các khoản thanh toán vi mô trong SubQuery. Lợi thế của Polkadot là phí giao dịch nhỏ so với các mạng khác như Ethereum, có nghĩa là các khoản thanh toán vi mô có liên quan hơn nhiều. Điều này sẽ được triển khai cho mạng thử nghiệm được khuyến khích của chúng tôi sau khi chúng tôi thực hiện thử nghiệm nội bộ kỹ lưỡng.
 
-### SubQuery Network Explorer and App
+### Ứng dụng và Trình khám phá mạng SubQuery
 
-We’re building an explorer and other applications to allow participants in the SubQuery Network explore and find data within the SubQuery Network. Consumers will also use this to navigate the library of supported data sources, as well as delegators to analyse how indexers are performing to decide how to delegate their SQT tokens.
+Chúng tôi đang xây dựng trình khám phá và các ứng dụng khác để cho phép những người tham gia trong Mạng SubQuery khám phá và tìm dữ liệu trong Mạng SubQuery. Người tiêu dùng cũng sẽ sử dụng điều này để điều hướng thư viện các nguồn dữ liệu được hỗ trợ, cũng như người ủy quyền để phân tích cách người lập chỉ mục đang hoạt động để quyết định cách ủy quyền mã thông báo SQT của họ.
 
-### Enterprise health monitoring
+### Giám sát sức khỏe doanh nghiệp
 
-Following on from our SubQuery Enterprise service tier, you can also expect a large amount of health monitoring and other performance analytics tools to be made available to customers.
+Tiếp theo từ cấp dịch vụ SubQuery Enterprise của chúng tôi, bạn cũng có thể mong đợi một lượng lớn các công cụ theo dõi sức khỏe và phân tích hiệu suất khác được cung cấp cho khách hàng.
 
-## Milestone 3 — End of Q1 2022
+## Mốc 3 - Cuối Q1 2022
 
-### SQT token generation event
+### Sự kiện tạo token SQT
 
-After a successful test network phase we are expecting to launch the SubQuery token on a Polkadot parachain partner. We will be sharing more information on our tokenomics with the community in the coming weeks.
+Sau giai đoạn mạng thử nghiệm thành công, chúng tôi dự kiến ​​sẽ khởi chạy token SubQuery trên đối tác parachain của Polkadot. Chúng tôi sẽ chia sẻ thêm thông tin về tokenomics của chúng tôi với cộng đồng trong những tuần tới.
 
-### Public incentivised testnet launch with micropayments
+### Khởi chạy testnet được khuyến khích công khai với các khoản thanh toán vi mô
 
-This is the final stage of our test network. We will release everything to our test network and expect participants to push it to its limits. This includes scale and load testing, fine tuning our economic models and coefficients, testing our documentation and onboarding processes, and making sure that you can transact with a precursor to SQT within it.
+Đây là giai đoạn cuối cùng của mạng thử nghiệm của chúng tôi. Chúng tôi sẽ phát hành mọi thứ lên mạng thử nghiệm của mình và mong những người tham gia đẩy nó đến giới hạn. Điều này bao gồm kiểm tra quy mô và tải, tinh chỉnh các mô hình và hệ số kinh tế của chúng tôi, kiểm tra tài liệu và quy trình giới thiệu của chúng tôi, đồng thời đảm bảo rằng bạn có thể giao dịch với tiền thân của SQT trong đó.
 
 We expect that we will be rewarding participants of our test network, those that complete certain quests or tasks, and those that act as different members of the test network.
 
