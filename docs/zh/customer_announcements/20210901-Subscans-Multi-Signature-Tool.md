@@ -12,7 +12,7 @@ SubQuery的服务在这个工具中发挥了关键的作用，为任何给定的
 
 ![](https://cdn-images-1.medium.com/max/1600/1*Hy-1IxJ3ZNQX7qC38H19Bg.png)
 
-[在Subscan即可尝试](https://medium.com/r/?url=https%3A%2F%2Fmultisig.subscan.io%2F)
+[在如图页面尝试该索引工具](https://medium.com/r/?url=https%3A%2F%2Fmultisig.subscan.io%2F)
 
 ---
 
