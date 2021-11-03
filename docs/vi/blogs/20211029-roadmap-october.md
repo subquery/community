@@ -116,60 +116,60 @@ Sau giai đoạn mạng thử nghiệm thành công, chúng tôi dự kiến ​
 
 Đây là giai đoạn cuối cùng của mạng thử nghiệm của chúng tôi. Chúng tôi sẽ phát hành mọi thứ lên mạng thử nghiệm của mình và mong những người tham gia đẩy nó đến giới hạn. Điều này bao gồm kiểm tra quy mô và tải, tinh chỉnh các mô hình và hệ số kinh tế của chúng tôi, kiểm tra tài liệu và quy trình giới thiệu của chúng tôi, đồng thời đảm bảo rằng bạn có thể giao dịch với tiền thân của SQT trong đó.
 
-We expect that we will be rewarding participants of our test network, those that complete certain quests or tasks, and those that act as different members of the test network.
+Chúng tôi cũng mong muốn sẽ thưởng cho những người tham gia thử nghiệm mạng lưới của chúng tôi, những người hoàn thành nhiệm vụ hoặc một số nhiệm vụ nhất định và cả những thành viên khác của mạng thử nghiệm này.
 
-### Data traffic insights and reporting
+### Báo cáo và thông tin chi tiết về lưu lượng dữ liệu
 
-We are handling millions of data requests to SubQuery projects each day. Most of our customers don’t have analytics in their own dApps for user privacy but they still need to know how their dApps are operating so we will be improving this.
+Chúng tôi đang xử lý hàng triệu yêu cầu dữ liệu cho các dự án SubQuery mỗi ngày. Hầu hết khách hàng của chúng tôi không có số liệu phân tích trong dApp của riêng họ do chính sách về quyền riêng tư của người dùng nhưng họ vẫn cần biết dApp của họ đang hoạt động như thế nào, vì vậy chúng tôi sẽ cải thiện điều này.
 
-### Scalable intelligent routing
+### Định tuyến thông minh có thể mở rộng
 
-We have a goal of a Billion daily SubQuery requests to our hosted service, that’s why we are going to introduce a globally scalable service with multiple SubQuery hosted services running.
+Mục tiêu của chúng tôi là mỗi ngày có một tỷ yêu cầu đối với dịch vụ được lưu trữ, đó là lý do tại sao chúng tôi sẽ giới thiệu một dịch vụ có thể mở rộng ra toàn cầu cho những vụ đang hoạt động được lưu trữ trên SubQuery.
 
-It’s a new and continuously improving feature that automatically routes requests to the closest available node. Additionally, it allows us to redirect all requests immediately to a backup SubQuery zone, providing us with a fault tolerant system in the case of regional outage.
+Đây là một tính năng mới và liên tục được cải tiến, tự động định tuyến các yêu cầu đến nút có sẵn gần nhất. Ngoài ra, nó cho phép chúng tôi chuyển hướng tất cả các yêu cầu ngay lập tức đến vùng SubQuery dự phòng, cung cấp cho chúng tôi một hệ thống chịu lỗi trong trường hợp khu vực ngừng hoạt động.
 
-In the future it means that we’ll be creating more and more smaller SubQuery hosted services tactically placed closer to our users.
+Trong tương lai, điều này có nghĩa là chúng tôi sẽ tạo ra ngày càng nhiều dịch vụ nhỏ hơn được lưu trữ trên SubQuery và tiếp cận người dùng một cách có chiến thuật.
 
-## Milestone 4 — Middle of Q2 2022
+## Cột mốc 4 - Giữa quý 2 năm 2022
 
-### Launch of the SubQuery Foundation
+### Khởi chạy SubQuery Foundation
 
-In our move to create a decentralized SubQuery Network we will establish a SubQuery Foundation to administer the future governance and growth of the ecosystem. The ownership of the SubQuery Network will come under the SubQuery foundation initially.
+Với động thái nhằm tạo ra một Mạng SubQuery phi tập trung, chúng tôi sẽ thành lập Tổ chức SubQuery để quản lý việc quản trị và tăng trưởng của hệ sinh thái trong tương lai. Quyền sở hữu của Mạng lưới SubQuery ban đầu sẽ thuộc về Tổ chức SubQuery.
 
-### Finalise research for other Layer-1 chains
+### Hoàn thiện nghiên cứu cho các chuỗi lớp 1 khác
 
-While our home will always be Polkadot we are exploring supporting various other Layer-1 blockchains with our indexing capabilities.
+Trong khi ngôi nhà của chúng tôi sẽ luôn là Polkadot, chúng tôi sẽ khai thác và hỗ trợ nhiều blockchain Lớp-1 khác với khả năng lập chỉ mục của chúng tôi.
 
-### Liquidity mining program
+### Chương trình khai thác thanh khoản
 
-In order to enhance the liquidity of the SQT token, we will create a liquidity mining program with a decentralized exchange (DEX). This will enable token holders to generate returns on their investment.
+Để tăng cường tính thanh khoản của token SQT, chúng tôi sẽ tạo một chương trình khai thác thanh khoản với sàn giao dịch phi tập trung (DEX). Điều này sẽ cho phép chủ sở hữu token tạo ra lợi nhuận từ khoản đầu tư của họ.
 
-## Milestone 5 — End of Q2 2022
+## Cột mốc 5- Cuối Quý 2 năm 2022
 
-### Mainnet launch 🚀
+### Khởi chạy mainnet 🚀
 
-After we complete testing of the SubQuery network will launch the first SubQuery Network mainnet. This is where everything really starts. Initially, we will onboard and reward participants of the test network, and then it will be completely open to everyone in the community.
+Sau khi hoàn tất quá trình chạy thử, chúng tôi sẽ khởi chạy mạng lưới SubQuery chính thức đầu tiên. Đây là nơi mọi thứ thực sự bắt đầu. Ban đầu, chúng tôi sẽ giới thiệu và trao thưởng cho những người tham gia mạng thử nghiệm, sau đó sẽ mở rộng hoàn toàn cho tất cả mọi người trong cộng đồng.
 
-### Centralised Exchange launch
+### Niêm yết trên sàn tập trung
 
-In order to drive increased adoption of SQT, we anticipate launching the token on one if not multiple leading CEX during this period as well as many other DEXs.
+Để thúc đẩy ứng dụng của SQT, chúng tôi dự kiến sẽ giới thiệu token trên một hoặc là nhiều sàn tập trung hàng đầu trong giai đoạn này cũng như nhiều sàn phi tập trung khác.
 
-## Milestone 6 — Long term plans
+## Cột mốc 6 - Kế hoạch dài hạn
 
-### Launch our own Parachain
+### Khởi chạy Parachain riêng
 
-Although we initially plan to partner with a top Polkadot parachain to get SubQuery Network released and scaled quicker, in the long-term SubQuery also intends to launch on it’s own parachain and integrate itself even more in the ecosystem.
+Mặc dù ban đầu chúng tôi dự định hợp tác với một parachain hàng đầu trên Polkadot để triển khai và mở rộng SubQuery Network với quy mô nhanh hơn, nhưng về lâu dài, SubQuery cũng có ý định ra mắt parachain của riêng mình để có thể tích hợp nhiều hơn nữa trong hệ sinh thái.
 
-This self owned parachain will allow us to further innovate in tools that can help developers build the web3 future faster. We want to aim for a parachain slot once we have a proven track record behind us and the data, community, and token to support it.
+Parachain riêng này sẽ cho phép chúng tôi đổi mới các công cụ hơn nữa để có thể giúp các nhà phát triển xây dựng tương lai web3 nhanh hơn. Chúng tôi muốn nhắm tới một vị trí parachain sau khi chúng tôi có một hồ sơ theo dõi đã được chứng minh và cả những dữ liệu, cộng đồng cùng một token để hỗ trợ điều đó.
 
-### SubQuery Foundation moves to a DAO
+### Tổ chức SubQuery chuyển sang hình thức DAO
 
-This one is a long way off, but it’s always our dream the SubQuery eventually becomes a community owned DAO. We’ve said many times that the community plays a huge part in SubQuery, everything that we do is for our customers — becoming a DAO is the embodiment of that focus.
+Đây là một chặng đường dài, nhưng chúng tôi luôn mơ ước SubQuery cuối cùng sẽ trở thành một Tổ chức tự trị phi tập trung- DAO thuộc sở hữu của cộng đồng. Chúng tôi đã nói nhiều lần rằng cộng đồng đóng một vai trò rất lớn trong SubQuery, mọi thứ chúng tôi làm đều là vì khách hàng của mình - trở thành DAO là hiện thân của trọng tâm đó.
 
-That being said, this is a long long way off, and will only be done once we are absolutely confident of SubQuery's success and future with the community.
+Nói như vậy, đây là một chặng đường dài và sẽ chỉ được thực hiện khi chúng tôi hoàn toàn tin tưởng vào sự thành công và tương lai của SubQuery với cộng đồng.
 
-## About SubQuery
+## Giới thiệu về SubQuery
 
-[SubQuery](https://subquery.network) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. The protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+[SubQuery](https://subquery.network) là một lớp tổng hợp dữ liệu, lập chỉ mục & và truy vấn phi tập trung giữa các blockchains Lớp-1 và các ứng dụng phi tập trung. Giao thức này loại bỏ các đặc điểm riêng của dữ liệu blockchain với SubQuery SDK, cho phép các nhà phát triển tập trung vào việc triển khai sản phẩm cốt lõi của họ mà không cần lãng phí vô ích vào các công nghệ phụ trợ tùy chỉnh.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
