@@ -6,79 +6,79 @@
 
 Hôm nay, chúng tôi rất vui mừng khi lần đầu tiên được công bố lộ trình kỹ thuật chi tiết của mình. Mục tiêu của SubQuery là trở thành nhà cung cấp dữ liệu hàng đầu trong hệ sinh thái Polkadot và sự hỗ trợ mà chúng tôi nhận được từ cộng đồng để giúp chúng tôi đạt được điều này thực sự tuyệt vời. Từ lúc chính thức thành lập vào cuối năm 2020 thông qua một [nguồn tài trợ Web3](https://web3.foundation/) cho đến khi phát hành phiên bản mã nguồn mở đầu tiên của chúng tôi vào tháng 1 năm 2021 rồi cả khi [kết thúc vòng gọi vốn Series A vào tháng 9](https://subquery.medium.com/series-a-1abed6c1c2af), chúng tôi xin chân thành cảm ơn sự hỗ trợ của tất cả các bạn đã giúp chúng tôi đi được đến giai đoạn này!
 
-As we continue to gain momentum, the time has come to share more about our plans for the future including our technical roadmap. We are excited about how the next evolution of SubQuery will drive even more value to the Polkadot ecosystem and provide more opportunities for our community to participate in our growth.
+Khi chúng tôi tiếp tục đạt được động lực, đã đến lúc chúng tôi phải chia sẻ nhiều hơn về kế hoạch của chúng tôi cho tương lai, bao gồm cả lộ trình kỹ thuật của chúng tôi. Chúng tôi rất vui mừng về cách phát triển tiếp theo của SubQuery sẽ thúc đẩy nhiều giá trị hơn nữa cho hệ sinh thái Polkadot và mang lại nhiều cơ hội hơn cho cộng đồng tham gia vào sự phát triển của chúng tôi.
 
-## Our Future
+## Tương lai của chúng ta
 
-While SubQuery is already serving millions of data queries each day to [over 60 projects on Polkadot & Kusama](https://project.subquery.network/), we wanted to ensure that our next phase of growth was conducted in an organised and controlled manner.
+Mặc dù SubQuery đã phục vụ hàng triệu truy vấn dữ liệu mỗi ngày cho [hơn 60 dự án trên Polkadot & Kusama](https://project.subquery.network/), chúng tôi muốn đảm bảo rằng giai đoạn tăng trưởng tiếp theo của chúng tôi được tiến hành một cách có tổ chức và có kiểm soát.
 
-For this reason, we feel it is critical that we demonstrate and fully test the scalability of the SubQuery Network through an incentivised testnet program. This process will also allow us to establish a community of indexers before launching publicly via a TGE in March 2022 and our eventual mainnet later next year.
+Vì lý do này, chúng tôi cảm thấy điều quan trọng là chúng tôi phải chứng minh và kiểm tra đầy đủ khả năng mở rộng của Mạng SubQuery thông qua một chương trình mạng thử nghiệm được khuyến khích. Quá trình này cũng sẽ cho phép chúng tôi thiết lập một cộng đồng các nhà lập chỉ mục trước khi ra mắt công khai thông qua TGE vào tháng 3 năm 2022 và mạng chính cuối cùng của chúng tôi vào cuối năm sau.
 
 ![](https://cdn-images-1.medium.com/max/800/1*I6mko5xumHAArzGePvEZiQ.jpeg)
 
-As such, the key deliverables in our work-flow can be broken into the following major milestones.
+Do đó, các nhiệm vụ chính trong quy trình làm việc của chúng tôi có thể được chia thành các mốc quan trọng sau.
 
-## Where we are now — Middle of Q4 2021
+## Hiện tại chúng ta đang ở đâu - Giữa quý 4 năm 2021
 
-### EVM support for parachains
+### Hỗ trợ EVM cho parachains
 
-We will be releasing [our beta support for Polkadot implementations of the Ethereum Virtual Machine (EVM)](https://medium.com/@subquery/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff) soon. This allows Polkadot and Ethereum developers to seamlessly integrate both Substrate and EVM data into one place and query this single datasource using GraphQL.
+Chúng tôi sẽ sớm phát hành [hỗ trợ beta của chúng tôi cho việc triển khai Polkadot của Máy ảo Ethereum (EVM)](https://medium.com/@subquery/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff). Điều này cho phép các nhà phát triển Polkadot và Ethereum tích hợp liền mạch cả dữ liệu Substrate và EVM vào một nơi và truy vấn nguồn dữ liệu duy nhất này bằng GraphQL.
 
-SubQuery will introduce more advanced filters than other indexers, allowing filtering of non-contract transactions, transaction senders, contracts and indexed log arguments, so developers can build a wide variety of projects that cater to their specific data needs.
+SubQuery sẽ giới thiệu các bộ lọc nâng cao hơn các trình chỉ mục khác, cho phép lọc các giao dịch không theo hợp đồng, người gửi giao dịch, hợp đồng và các đối số nhật ký được lập chỉ mục, vì vậy các nhà phát triển có thể xây dựng nhiều dự án phục vụ cho nhu cầu dữ liệu cụ thể của họ.
 
-### SubQuery Academy
+### Học viện SubQuery
 
-The Academy is designed to up-skill and empower developers in the SubQuery ecosystem by providing them with modular education. [Our first course in the Academy is the _Hero Course_](https://doc.subquery.network/academy/herocourse/) and was launched on Friday 22 October 2021.
+Học viện được thiết kế để nâng cao kỹ năng và trao quyền cho các nhà phát triển trong hệ sinh thái SubQuery bằng cách cung cấp cho họ chương trình giáo dục theo mô-đun. [Khóa học đầu tiên của chúng tôi trong Học viện là _Khóa học Anh hùng_](https://doc.subquery.network/academy/herocourse/) và được khai giảng vào Thứ Sáu ngày 22 tháng 10 năm 2021.
 
-Within each module of the _Hero Course_, there are several 5 to 10 minute lessons which are delivered by a recorded video. The video content is accompanied by written tutorials, slides, workbooks, and links to the finished GitHub code repository.
+Trong mỗi mô-đun của _Khóa học Anh hùng_, có một số bài học từ 5 đến 10 phút được cung cấp bằng một video được ghi lại. Nội dung video đi kèm với các hướng dẫn bằng văn bản, các trang trình bày, sổ làm việc và các liên kết đến kho lưu trữ mã GitHub đã hoàn thành.
 
-The course is designed to get a developer from knowing nothing about SubQuery to becoming an expert in building a SubQuery data source for their new blockchain application.
+Khóa học được thiết kế để giúp một nhà phát triển từ không biết gì về SubQuery trở thành chuyên gia trong việc xây dựng nguồn dữ liệu SubQuery cho ứng dụng blockchain mới của họ.
 
-In the next few months we will be deploying more education for the Community, with weekly releases of new SubQuery _Hero Course_ content, and more courses in the coming weeks.
+Trong vài tháng tới, chúng tôi sẽ triển khai nhiều chương trình giáo dục hơn cho Cộng đồng, với việc phát hành hàng tuần nội dung SubQuery _Khóa học anh hùng_ mới và các khóa học khác trong những tuần tới.
 
-### Proof of Indexing
+### Bằng chứng lập chỉ mục
 
-Proof of indexing allows us to guarantee that two different indexers working with the same SubQuery project have indexed the exact same data. It’s a critical component required for the development of a decentralized SubQuery network. We’re using a concept called Merkle Mountain ranges to confirm and guarantee this, keep an eye out for a future blog post that explores this deeper.
+Bằng chứng về việc lập chỉ mục cho phép chúng tôi đảm bảo rằng hai người lập chỉ mục khác nhau làm việc với cùng một dự án SubQuery đã lập chỉ mục cho cùng một dữ liệu chính xác. Đây là một thành phần quan trọng cần thiết để phát triển mạng SubQuery phi tập trung. Chúng tôi đang sử dụng một khái niệm gọi là Dãy núi Merkle để xác nhận và đảm bảo điều này, hãy theo dõi một bài đăng blog trong tương lai khám phá sâu hơn về điều này.
 
-### Premium Enterprise Service
+### Dịch vụ doanh nghiệp cao cấp
 
-We have some large customers such as Karura, Kodadot and Fearless Wallet all running production applications in SubQuery. These teams are demanding improved service and higher levels of reliability.
+Chúng tôi có một số khách hàng lớn như Karura, Kodadot và Fearless Wallet, tất cả đều đang chạy các ứng dụng production trong SubQuery. Các đội này đang yêu cầu dịch vụ được cải thiện và mức độ tin cậy cao hơn.
 
-We’re rising to the challenge, with Service Level Agreements, enterprise service tiers, and other tools that our larger customers need to run their own businesses and receive the best possible performance from SubQuery for their applications.
+Chúng tôi đang vượt qua thách thức với Thỏa thuận mức dịch vụ, cấp dịch vụ doanh nghiệp và các công cụ khác mà khách hàng lớn hơn của chúng tôi cần để điều hành doanh nghiệp của riêng họ và nhận được hiệu suất tốt nhất có thể từ SubQuery cho các ứng dụng của họ.
 
-Please get in contact with the team if you want to talk to us about receiving enterprise level services and support from SubQuery.
+Vui lòng liên hệ với nhóm nếu bạn muốn trao đổi với chúng tôi về việc nhận hỗ trợ và dịch vụ cấp doanh nghiệp từ SubQuery.
 
-## Milestone 1 — End of Q4 2021
+## Mốc 1 - Cuối quý 4 năm 2021
 
-### SubQuery Builders/Grants Programme
+### Chương trình Nhà xây dựng / Tài trợ SubQuery
 
-This grants programme is designed to facilitate and catalyse innovation with Polkadot and SubQuery, and to build the next generation of dApps to power the web3 revolution. It will support new projects with grants, technical support, marketing and business development advice from SubQuery and others.
+Chương trình tài trợ này được thiết kế để tạo điều kiện và thúc đẩy sự đổi mới với Polkadot và SubQuery, đồng thời xây dựng thế hệ dApp tiếp theo để thúc đẩy cuộc cách mạng web3. Nó sẽ hỗ trợ các dự án mới với các khoản tài trợ, hỗ trợ kỹ thuật, tiếp thị và tư vấn phát triển kinh doanh từ SubQuery và những người khác.
 
-We are excited about the potential of this and will be releasing more information soon.
+Chúng tôi rất vui mừng về tiềm năng của điều này và sẽ sớm công bố thêm thông tin.
 
-### Coordinator and client SDK implementations
+### Điều phối viên và triển khai SDK khách hàng
 
-We will be improving our core SubQuery SDK and adding additional components for a SubQuery coordinator and client.
+Chúng tôi sẽ cải thiện SubQuery SDK cốt lõi của mình và thêm các thành phần bổ sung cho khách hàng và điều phối viên SubQuery.
 
-The indexer coordinator will be deployed by indexers to expose the network to the indexer, and allow the indexer to register itself with the SubQuery network and advertise the data that it is making available
+Bộ điều phối trình lập chỉ mục sẽ được triển khai bởi người lập chỉ mục để hiển thị mạng với trình lập chỉ mục và cho phép trình lập chỉ mục tự đăng ký với mạng SubQuery và quảng cáo dữ liệu mà nó đang cung cấp
 
-The client SDK will be for the consumer role, and will allow them to find indexers and manage the entire transaction that a consumer will need to retrieve and pay for data.
+SDK khách hàng sẽ dành cho vai trò người tiêu dùng và sẽ cho phép họ tìm người lập chỉ mục và quản lý toàn bộ giao dịch mà người tiêu dùng sẽ cần để truy xuất và trả tiền cho dữ liệu.
 
-### SQT Network contract internal MVP
+### Hợp đồng nội bộ của Mạng SQT MVP
 
-Our first version of the SubQuery network will be within a smart contract, deployed on a leading Polkadot parachain. The internal MVP will allow us to internally start testing out everything here, and is a huge milestone for us to complete.
+Phiên bản mạng SubQuery đầu tiên của chúng tôi sẽ nằm trong một hợp đồng thông minh, được triển khai trên một parachain Polkadot hàng đầu. MVP nội bộ sẽ cho phép chúng tôi bắt đầu thử nghiệm nội bộ mọi thứ ở đây và là một cột mốc quan trọng để chúng tôi hoàn thành.
 
-### EU Cluster
+### Cụm EU
 
-Our customers are requesting support for more clusters for SubQuery data around the world. More clusters mean more resiliency, and hosted SubQuery data closer to where their customers are. A new European cluster means faster requests for consumers, unrivalled performance for dApp developers and more resiliency for the SubQuery network.
+Khách hàng của chúng tôi đang yêu cầu hỗ trợ thêm các cụm cho dữ liệu SubQuery trên khắp thế giới. Nhiều cụm hơn có nghĩa là nhiều khả năng phục hồi hơn và dữ liệu SubQuery được lưu trữ gần hơn với vị trí khách hàng của họ. Một cụm châu Âu mới có nghĩa là yêu cầu nhanh hơn cho người tiêu dùng, hiệu suất vô song cho các nhà phát triển dApp và khả năng phục hồi cao hơn cho mạng SubQuery.
 
-### Improvements to subql init
+### Các cải tiến đối với subql init
 
-The _subql init_ command is a familiar one for anyone that has built a SubQuery project; it represents a blank canvas — limitless opportunities. We are aware that we can do better to help others get started, rather than a blank canvas developers want a blank scaffold, where all the boiler-plate code is already written.
+Lệnh _subql init_ là một lệnh quen thuộc đối với bất kỳ ai đã xây dựng dự án SubQuery; nó đại diện cho một khung trống - cơ hội vô hạn. Chúng tôi nhận thức được rằng chúng tôi có thể làm tốt hơn để giúp những người khác bắt đầu, thay vì một nhà phát triển canvas trống rỗng muốn có một khung trống, nơi tất cả mã boiler-plate đã được viết sẵn.
 
-This roadmap item represents work we want to do to allow developers to start building on any parachain without needing to worry about endpoints, dictionaries, and types — all saving time for developers and helping others get started.
+Mục lộ trình này đại diện cho công việc mà chúng tôi muốn làm để cho phép các nhà phát triển bắt đầu xây dựng trên bất kỳ parachain nào mà không cần lo lắng về điểm cuối, từ điển và loại - tất cả đều tiết kiệm thời gian cho nhà phát triển và giúp những người khác bắt đầu.
 
-## Milestone 2 — Middle of Q1 2022
+## Mốc 2 - Giữa Q1 2022
 
 ### Public testnet launch
 
