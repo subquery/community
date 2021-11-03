@@ -1,54 +1,54 @@
-# SubQuery Releases Technical Roadmap
+# SubQuery, 기술 로드맵 출시
 
 ![](https://cdn-images-1.medium.com/max/800/1*Qcu5mFIs8eJhAXaMpWOlMQ.png)
 
-**SubQuery announces key milestones including TGE timeline**
+**SubQuery, TGE 타임라인을 포함한 주요 이정표 발표**
 
-Today we are pleased to release our detailed technical roadmap for the first time. SubQuery’s goal is to be the leading data provider in the Polkadot ecosystem and the support we have had from the community to help us realise this vision has been amazing. From our formal establishment at the end of 2020 via a [Web3 Grant](https://web3.foundation/), to releasing our first open source version in January 2021, and [closing our Series A in September](https://subquery.medium.com/series-a-1abed6c1c2af) we would like to thank you for all of your support in getting us to this stage!
+오늘 우리는 처음으로 상세한 기술 로드맵을 발표하게 된 것을 기쁘게 생각합니다. SubQuery의 목표는 Polkadot 생태계의 선도적인 데이터 제공업체이며 이 비전이 놀랍다는 것을 깨닫도록 돕기 위해 커뮤니티에서 받은 지원입니다. 2020년 말 [Web3 Grant](https://web3.foundation/)를 통해 공식 설립된 후 2021년 1월 첫 번째 오픈 소스 버전을 출시하고 [9월에 시리즈 A를 종료할 때까지](https://subquery.medium.com/series-a-1abed6c1c2af) 이 단계에 이르기까지 모든 지원에 감사드립니다!
 
-As we continue to gain momentum, the time has come to share more about our plans for the future including our technical roadmap. We are excited about how the next evolution of SubQuery will drive even more value to the Polkadot ecosystem and provide more opportunities for our community to participate in our growth.
+우리가 계속 추진력을 얻으면서 기술 로드맵을 포함하여 미래 계획에 대해 더 많이 공유할 때가 되었습니다. 우리는 SubQuery의 다음 진화가 어떻게 Polkadot 생태계에 더 많은 가치를 부여하고 커뮤니티가 성장에 참여할 수 있는 더 많은 기회를 제공할 것인지에 대해 흥분하고 있습니다.
 
-## Our Future
+## 우리의 미래
 
-While SubQuery is already serving millions of data queries each day to [over 60 projects on Polkadot & Kusama](https://project.subquery.network/), we wanted to ensure that our next phase of growth was conducted in an organised and controlled manner.
+SubQuery는 이미 [Polkadot & Kusama의 60개 이상의 프로젝트](https://project.subquery.network/)에 대해 매일 수백만 개의 데이터 쿼리를 제공하고 있지만 우리는 다음 성장 단계가 조직적이고 통제된 방식으로 수행되도록 하고 싶었습니다.
 
-For this reason, we feel it is critical that we demonstrate and fully test the scalability of the SubQuery Network through an incentivised testnet program. This process will also allow us to establish a community of indexers before launching publicly via a TGE in March 2022 and our eventual mainnet later next year.
+이러한 이유로 인센티브화된 테스트넷 프로그램을 통해 SubQuery 네트워크의 확장성을 시연하고 완전히 테스트하는 것이 중요하다고 생각합니다. 이 프로세스를 통해 2022년 3월 TGE와 내년 말 최종 메인넷을 통해 공개적으로 출시하기 전에 인덱서 커뮤니티를 구축할 수도 있습니다.
 
 ![](https://cdn-images-1.medium.com/max/800/1*I6mko5xumHAArzGePvEZiQ.jpeg)
 
-As such, the key deliverables in our work-flow can be broken into the following major milestones.
+따라서 워크플로의 주요 결과물은 다음과 같은 주요 이정표로 나눌 수 있습니다.
 
-## Where we are now — Middle of Q4 2021
+## 현재 위치 — 2021년 4분기 중반
 
-### EVM support for parachains
+### 파라체인에 대한 EVM 지원
 
-We will be releasing [our beta support for Polkadot implementations of the Ethereum Virtual Machine (EVM)](https://medium.com/@subquery/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff) soon. This allows Polkadot and Ethereum developers to seamlessly integrate both Substrate and EVM data into one place and query this single datasource using GraphQL.
+[EVM(Ethereum Virtual Machine)의 Polkadot 구현에 대한 베타 지원](https://medium.com/@subquery/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff)을 곧 출시할 예정입니다. 이를 통해 Polkadot 및 Ethereum 개발자는 Substrate와 EVM 데이터를 한 곳으로 원활하게 통합하고 GraphQL을 사용하여 이 단일 데이터 소스를 쿼리할 수 있습니다.
 
-SubQuery will introduce more advanced filters than other indexers, allowing filtering of non-contract transactions, transaction senders, contracts and indexed log arguments, so developers can build a wide variety of projects that cater to their specific data needs.
+SubQuery는 다른 인덱서보다 고급 필터를 도입하여 비계약 트랜잭션, 트랜잭션 발신자, 계약 및 인덱싱된 로그 인수를 필터링할 수 있으므로 개발자는 특정 데이터 요구 사항을 충족하는 다양한 프로젝트를 구축할 수 있습니다.
 
-### SubQuery Academy
+### SubQuery 아카데미
 
-The Academy is designed to up-skill and empower developers in the SubQuery ecosystem by providing them with modular education. [Our first course in the Academy is the _Hero Course_](https://doc.subquery.network/academy/herocourse/) and was launched on Friday 22 October 2021.
+Academy는 모듈식 교육을 제공하여 SubQuery 생태계의 개발자에게 기술을 향상하고 권한을 부여하도록 설계되었습니다. [아카데미의 첫 번째 과정은 _Hero Course_](https://doc.subquery.network/academy/herocourse/)이며 2021년 10월 22일 금요일에 시작되었습니다.
 
-Within each module of the _Hero Course_, there are several 5 to 10 minute lessons which are delivered by a recorded video. The video content is accompanied by written tutorials, slides, workbooks, and links to the finished GitHub code repository.
+_Hero Course_의 각 모듈에는 녹화된 비디오로 제공되는 5분에서 10분 정도의 여러 수업이 있습니다. 비디오 콘텐츠에는 작성된 자습서, 슬라이드, 통합 문서 및 완성된 GitHub 코드 리포지토리에 대한 링크가 함께 제공됩니다.
 
-The course is designed to get a developer from knowing nothing about SubQuery to becoming an expert in building a SubQuery data source for their new blockchain application.
+이 과정은 개발자가 SubQuery에 대해 전혀 모르는 상태에서 새로운 블록체인 애플리케이션을 위한 SubQuery 데이터 소스를 구축하는 전문가가 될 수 있도록 설계되었습니다.
 
-In the next few months we will be deploying more education for the Community, with weekly releases of new SubQuery _Hero Course_ content, and more courses in the coming weeks.
+앞으로 몇 개월 동안 우리는 새로운 SubQuery _Hero Course_ 콘텐츠의 주간 릴리스와 앞으로 몇 주 동안 더 많은 과정을 통해 커뮤니티를 위한 더 많은 교육을 배포할 것입니다.
 
 ### Proof of Indexing
 
-Proof of indexing allows us to guarantee that two different indexers working with the same SubQuery project have indexed the exact same data. It’s a critical component required for the development of a decentralized SubQuery network. We’re using a concept called Merkle Mountain ranges to confirm and guarantee this, keep an eye out for a future blog post that explores this deeper.
+인덱싱 증명을 통해 동일한 SubQuery 프로젝트에서 작업하는 두 개의 서로 다른 인덱서가 정확히 동일한 데이터를 인덱싱했음을 보장할 수 있습니다. 탈중앙화 SubQuery 네트워크 개발에 필요한 핵심 컴포넌트입니다. 우리는 이것을 확인하고 보장하기 위해 Merkle Mountain 범위라는 개념을 사용하고 있습니다. 이에 대해 더 깊이 탐구하는 향후 블로그 게시물을 주목하십시오.
 
-### Premium Enterprise Service
+### 프리미엄 엔터프라이즈 서비스
 
-We have some large customers such as Karura, Kodadot and Fearless Wallet all running production applications in SubQuery. These teams are demanding improved service and higher levels of reliability.
+Karura, Kodadot 및 Fearless Wallet과 같은 일부 대규모 고객은 모두 SubQuery에서 프로덕션 애플리케이션을 실행하고 있습니다. 이러한 팀은 향상된 서비스와 더 높은 수준의 안정성을 요구하고 있습니다.
 
-We’re rising to the challenge, with Service Level Agreements, enterprise service tiers, and other tools that our larger customers need to run their own businesses and receive the best possible performance from SubQuery for their applications.
+우리는 대규모 고객이 자체 비즈니스를 운영하고 응용 프로그램에 대해 SubQuery에서 가능한 최고의 성능을 얻는 데 필요한 서비스 수준 계약, 엔터프라이즈 서비스 계층 및 기타 도구를 통해 문제에 대처하고 있습니다.
 
-Please get in contact with the team if you want to talk to us about receiving enterprise level services and support from SubQuery.
+SubQuery로부터 엔터프라이즈급 서비스 및 지원을 받는 것에 대해 이야기하고 싶다면 팀에 연락하십시오.
 
-## Milestone 1 — End of Q4 2021
+## 마일스톤 1 — 2021년 4분기 말
 
 ### SubQuery Builders/Grants Programme
 
@@ -168,8 +168,8 @@ This one is a long way off, but it’s always our dream the SubQuery eventually 
 
 That being said, this is a long long way off, and will only be done once we are absolutely confident of SubQuery's success and future with the community.
 
-## 서브쿼리란
+## About SubQuery
 
-[SubQuery](https://subquery.network) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. 이 프로토콜은 서브쿼리 SDK를 사용하여 블록체인 데이터 고유성을 추상화하고 개발자가 사용자 지정 백엔드 기술에 대한 시간과 노력을 불필요하게 낭비하지 않도록하며 제품 개발 및 배포에 집중할 수 있도록 지원합니다.
+[SubQuery](https://subquery.network) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. The protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
