@@ -1,16 +1,16 @@
-# SubQuery Releases Technical Roadmap
+# Выпуск технической карты SubQuery
 
 ![](https://cdn-images-1.medium.com/max/800/1*Qcu5mFIs8eJhAXaMpWOlMQ.png)
 
-**SubQuery announces key milestones including TGE timeline**
+**SubQuery объявляет основные этапы, включая график TGE**
 
-Today we are pleased to release our detailed technical roadmap for the first time. SubQuery’s goal is to be the leading data provider in the Polkadot ecosystem and the support we have had from the community to help us realise this vision has been amazing. From our formal establishment at the end of 2020 via a [Web3 Grant](https://web3.foundation/), to releasing our first open source version in January 2021, and [closing our Series A in September](https://subquery.medium.com/series-a-1abed6c1c2af) we would like to thank you for all of your support in getting us to this stage!
+Сегодня мы рады впервые опубликовать нашу подробную техническую дорожную карту. Цель SubQuery - стать ведущим поставщиком данных в экосистеме Polkadot, и поддержка, которую мы получили от сообщества, чтобы помочь нам реализовать это видение, была потрясающей. От нашего официального основания в конце 2020 года через [Web3 Grant](https://web3.foundation/) до выпуска нашей первой версии с открытым исходным кодом в январе 2021 года и [закрытия нашей серии A в сентябре](https://subquery.medium.com/series-a-1abed6c1c2af) мы хотели бы сказать спасибо за всю вашу поддержку на протяжении этих этапов!
 
-As we continue to gain momentum, the time has come to share more about our plans for the future including our technical roadmap. We are excited about how the next evolution of SubQuery will drive even more value to the Polkadot ecosystem and provide more opportunities for our community to participate in our growth.
+По мере того, как мы продолжаем набирать обороты, пришло время рассказать больше о наших планах на будущее, включая нашу техническую дорожную карту. Мы воодушевлены тем, как следующая эволюция SubQuery повысит ценность экосистемы Polkadot и предоставит нашему сообществу больше возможностей для участия в нашем росте.
 
-## Our Future
+## Наше будущее
 
-While SubQuery is already serving millions of data queries each day to [over 60 projects on Polkadot & Kusama](https://project.subquery.network/), we wanted to ensure that our next phase of growth was conducted in an organised and controlled manner.
+Хотя SubQuery уже обслуживает миллионы запросов к данным каждый день для [более чем 60 проектов на Polkadot& Kusama](https://project.subquery.network/), мы хотим сделать так, чтобы наша следующая фаза роста была организованной и контролируемой.
 
 For this reason, we feel it is critical that we demonstrate and fully test the scalability of the SubQuery Network through an incentivised testnet program. This process will also allow us to establish a community of indexers before launching publicly via a TGE in March 2022 and our eventual mainnet later next year.
 
