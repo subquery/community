@@ -4,19 +4,19 @@
 
 Chúng tôi chuyển đổi và sắp xếp dữ liệu từ các dự án Polkadot và Substrate, sau đó cung cấp dữ liệu đó cho các nhà phát triển để sử dụng cho nhiều loại dự án (ví, trình khám phá, chuỗi tùy chỉnh hoặc bất kỳ dApp nào khác).
 
-Mọi người đều biết rằng một điểm yếu cốt lõi của dữ liệu blockchain là hiệu suất xử lý và truy vấn cực kỳ kém hiệu quả. SubQuery cung cấp một SDK mã nguồn mở, cung cấp hướng dẫn về cách bất kỳ Indexer nào nên duyệt qua chuỗi khối, dữ liệu nào cần thu thập và cách hiển thị dữ liệu đó cho người dùng.
+Mọi người đều biết rằng một điểm yếu cốt lõi của dữ liệu blockchain là hiệu suất xử lý và truy vấn cực kỳ kém hiệu quả. SubQuery cung cấp một SDK mã nguồn mở, cung cấp hướng dẫn về cách bất kỳ Trình lập chỉ mục nào nên duyệt qua chuỗi khối, dữ liệu nào cần thu thập và cách hiển thị dữ liệu đó cho người dùng.
 
 ![](https://miro.medium.com/max/700/1*0l37MKpDk2ahHsqDUBxbjw.png)
 
-Tạo một dự án SubQuery luôn và sẽ miễn phí. Các nhà phát triển nên dành thời gian xây dựng chứ không phải chạy cơ sở hạ tầng. Tuy nhiên, chúng tôi tin rằng một tương lai phi tập trung lành mạnh đòi hỏi nhiều nhà cung cấp dịch vụ dữ liệu phân tán làm việc cùng nhau để cải thiện khả năng phục hồi, tốc độ và hiệu suất mạng.
+Tạo một dự án SubQuery hiện đang và sẽ luôn miễn phí. Các nhà phát triển nên dành thời gian xây dựng chứ không phải chạy cơ sở hạ tầng. Tuy nhiên, chúng tôi tin rằng một tương lai phi tập trung lành mạnh đòi hỏi nhiều nhà cung cấp dịch vụ dữ liệu phân tán làm việc cùng nhau để cải thiện khả năng phục hồi, tốc độ và hiệu suất mạng.
 
 # Giới thiệu Mạng SubQuery:
 
 Mạng SubQuery là nỗ lực của chúng tôi nhằm hướng tới một mạng phân quyền và được mã hóa để đảm bảo không có điểm nào bị lỗi cho SubQuery và khuyến khích càng nhiều người tham gia vào quá trình này càng tốt.
 
-[Hôm nay, chúng tôi sẽ phát hành sách trắng của mình để cả thế giới đọc](https://static.subquery.network/whitepaper.pdf).
+[Hôm nay, chúng tôi sẽ phát hành sách trắng của mình ra công chúng](https://static.subquery.network/whitepaper.pdf).
 
-Nguyên tắc căn bản của Mạng SubQuery là tính đơn giản và linh hoạt. Chúng tôi đang cố gắng giúp người tham gia dễ dàng tham gia vào mạng, nhưng cũng cấp cho nhà phát triển quyền kiểm soát để điều chỉnh SubQuery cho phù hợp với nhu cầu của họ đối với bất kỳ chuỗi dựa trên Substrate nào.
+Nguyên tắc cốt lõi của Mạng SubQuery là tính đơn giản và linh hoạt. Chúng tôi đang cố gắng giúp người tham gia tiếp cận vào mạng dễ dàng hơn, nhưng cũng cấp cho nhà phát triển quyền kiểm soát để điều chỉnh SubQuery cho phù hợp với nhu cầu của họ đối với bất kỳ chuỗi dựa trên Substrate nào.
 
 ![](https://miro.medium.com/max/700/1*5E_eIJBTvHI7W24ib_Syvw.png)
 
