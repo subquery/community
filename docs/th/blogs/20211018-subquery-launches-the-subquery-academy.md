@@ -1,23 +1,23 @@
-# SubQuery เปิดตัว The SubQuery Academy
+# SubQuery Launches The SubQuery Academy
 
 ![](https://miro.medium.com/max/700/1*5zmCSCrmqL2gGE-BP_6rDQ.png)
 
-เพื่อช่วยนักพัฒนาสร้างแอปพลิเคชันแห่งอนาคต
+Helping developers build the applications of tomorrow
 
-เรามีความยินดีที่จะประกาศเปิดตัว SubQuery Academy ซึ่ง Academy นี้ได้รับการออกแบบเพื่อเสริมทักษะและเพิ่มขีดความสามารถให้กับนักพัฒนาในระบบนิเวศของ SubQuery ด้วยโปรแกรมที่แบ่งแยกเป็นหน่วยย่อยๆ เนื้อหาของโปรแกรมนี้จะนำทางนักพัฒนาบล็อกเชนที่มีความทะเยอทะยานตั้งแต่ต้นจนจบ และ[สามารถเรียนทางออนไลน์ได้รวมถึงฟรี 100%](https://doc.subquery.network/)
+We are pleased to announce the launch of The SubQuery Academy. The Academy is designed to up-skill and empower developers in the SubQuery ecosystem by providing them with a modular programme. The content of this programme will take an aspiring blockchain developer from beginning to advanced , and is  [100% free and accessible online](https://doc.subquery.network/).
 
-หลักสูตรแรกของเราคือ *SubQuery Hero Course* ซึ่งจะเปิดให้บริการตั้งแต่วันศุกร์ที่ 22 ตุลาคม 2021 หลักสูตรจะออกมาพร้อมกับหน่วยย่อยใหม่ทุกสัปดาห์เป็นเวลาหกสัปดาห์ตามโครงสร้างต่อไปนี้:
+Our first course is the  *SubQuery Hero Course*  and will be available from Friday 22 October 2021. The course will be released with a new module every week for six weeks based on the following structure:
 
--   หน่วยที่ 1 — Getting Started
--   หน่วยที่ 2 — SubQuery Basics
--   หน่วยที่ 3 — Relationships
--   หน่วยที่ 4 — SubQuery Projects & SubQuery Explorer
--   หน่วยที่ 5 — Aggregation and Event Calls
--   หน่วยที่ 6 — Tips & Tricks
+-   Module 1 — Getting Started
+-   Module 2 — SubQuery Basics
+-   Module 3 — Relationships
+-   Module 4 — SubQuery Projects & SubQuery Explorer
+-   Module 5 — Aggregation and Event Calls
+-   Module 6 — Tips & Tricks
 
-ภายในแต่ละหน่วยจะประกอบไปด้วยบทเรียนต่างๆ ที่มีความยาว 5 ถึง 10 นาทีซึ่งสามารถรับชมได้ในรูปแบบของวิดีโอที่ถูกอัดไว้แล้ว โดยเนื้อหาวิดีโอจะมาพร้อมกับเอกสารตามบทเรียน, สไลด์, แล็บเวิร์กบุ๊ก, และลิงก์ไปยัง GitHub code repository ที่เสร็จสมบูรณ์ หลักสูตรนี้ถูกออกแบบมาเพื่อทำให้นักพัฒนาที่มีความรู้เกี่ยวกับ SubQuery เป็นศูนย์สามารถกลายเป็นผู้เชี่ยวชาญในการสร้างแหล่งข้อมูล SubQuery สำหรับแอปพลิเคชันบล็อกเชนใหม่ๆ ได้ รวมไปถึงการพัฒนาโปรเจกต์ SubQuery ที่ซับซ้อนและ[การ deploy พวกมันในโปรเจกต์ SubQuery อื่นๆ](https://project.subquery.network/)
-> *“SubQuery ได้รับการออกแบบมาเพื่อช่วยให้นักพัฒนาปลดล็อกมูลค่าจากข้อมูลบล็อคเชนได้อย่างง่ายดายและรวดเร็ว นั่นคือเหตุผลที่การเตรียมความพร้อมให้กับนักพัฒนาหน้าใหม่และการสอนทักษะที่จำเป็นสำหรับการสร้าง dApps แห่งอนาคตจึงมีความสำคัญอย่างยิ่งต่อความสำเร็จของชุมชนของเรา SubQuery Hero Course จะเป็นหลักสูตรแรกในอีกหลายๆ หลักสูตรที่จะสอนทักษะอันทรงคุณค่าจาก SubQuery Academy ใหม่ของเรา”* — James Bayly (หัวหน้าฝ่ายพัฒนาธุรกิจ)
+Within each module there are several 5 to 10 minute lessons which are delivered by a recorded video. The video content is accompanied by written tutorials, slides, Lab workbooks, and links to the finished GitHub code repository. The course is designed to get a developer from knowing nothing about SubQuery to becoming an expert in building a SubQuery data source for their new blockchain application. This includes developing complex SubQuery Projects and  [deploying them in SubQuery Projects](https://project.subquery.network/).
+> *“SubQuery has been designed to help developers unlock value from blockchain data easily and quickly. That’s why onboarding new developers and teaching them the skills they need to build the dApps of tomorrow is incredibly important to the success of our community. The SubQuery Hero Course is going to be the first of many courses teaching valuable skills in our new SubQuery Academy”* — James Bayly (Head of Business Development)
 
-ในอีกไม่กี่เดือนข้างหน้า เราจะเพิ่มเนื้อหาโบนัสให้กับ *SubQuery Hero Course* ดังนั้นโปรดติดตามการอัปเดตจากเรา และเราจะแปลเอกสารบทเรียนที่มีอยู่เป็นภาษาต่างๆ เพื่อช่วยขับเคลื่อนภารกิจของเราในการทำให้ข้อมูลแบบกระจายศูนย์บนโลกสามารถเข้าถึงได้มากขึ้น!
+In the next few months, we will be adding bonus content to our *SubQuery Hero Course* so please watch out for updates. In addition, we will also be translating the existing course material to various languages to help drive towards our mission of making the world’s decentralised data more accessible!
 
 [Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
