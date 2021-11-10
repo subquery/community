@@ -1,38 +1,38 @@
-# SubQuery Releases Technical Roadmap
+# SubQuery lanza un mapa de ruta técnico
 
 ![](https://cdn-images-1.medium.com/max/800/1*Qcu5mFIs8eJhAXaMpWOlMQ.png)
 
-**SubQuery announces key milestones including TGE timeline**
+**SubQuery anuncia hitos clave incluyendo la línea de tiempo TGE**
 
-Today we are pleased to release our detailed technical roadmap for the first time. SubQuery’s goal is to be the leading data provider in the Polkadot ecosystem and the support we have had from the community to help us realise this vision has been amazing. From our formal establishment at the end of 2020 via a [Web3 Grant](https://web3.foundation/), to releasing our first open source version in January 2021, and [closing our Series A in September](https://subquery.medium.com/series-a-1abed6c1c2af) we would like to thank you for all of your support in getting us to this stage!
+Hoy publicamos por primera vez nuestro mapa de ruta técnico detallado. El objetivo de SubQuery es ser el proveedor de datos líder en el ecosistema Polkadot y el apoyo que hemos recibido de la comunidad para ayudarnos a darse cuenta de que esta visión ha sido asombrosa. Desde nuestro establecimiento formal a finales de 2020 a través de una [Beca de Web3](https://web3.foundation/), para publicar nuestra primera versión de código abierto en enero de 2021, y [cerrando nuestra Serie A en septiembre](https://subquery.medium.com/series-a-1abed6c1c2af) nos gustaría darle las gracias por todo su apoyo para llevarnos a esta etapa!
 
-As we continue to gain momentum, the time has come to share more about our plans for the future including our technical roadmap. We are excited about how the next evolution of SubQuery will drive even more value to the Polkadot ecosystem and provide more opportunities for our community to participate in our growth.
+A medida que seguimos ganando impulso, ha llegado el momento de compartir más sobre nuestros planes para el futuro, incluida nuestra hoja de ruta técnica. Estamos entusiasmados por cómo la próxima evolución de SubQuery impulsará aún más valor al ecosistema Polkadot y proporcionará más oportunidades para que nuestra comunidad participe en nuestro crecimiento.
 
-## Our Future
+## Nuestro Futuro
 
-While SubQuery is already serving millions of data queries each day to [over 60 projects on Polkadot & Kusama](https://project.subquery.network/), we wanted to ensure that our next phase of growth was conducted in an organised and controlled manner.
+Mientras SubQuery ya está sirviendo millones de consultas de datos cada día a [más de 60 proyectos en Polkadot & Kusama](https://project.subquery.network/), queríamos garantizar que nuestra próxima fase de crecimiento se desarrollara de forma organizada y controlada.
 
-For this reason, we feel it is critical that we demonstrate and fully test the scalability of the SubQuery Network through an incentivised testnet program. This process will also allow us to establish a community of indexers before launching publicly via a TGE in March 2022 and our eventual mainnet later next year.
+Por esta razón, creemos que es fundamental que demostremos y probemos completamente la escalabilidad de la SubQuery Network a través de un programa de red de pruebas incentivado. Este proceso también nos permitirá establecer una comunidad de indexadores antes de lanzar públicamente a través de un TGE en marzo de 2022 y nuestro eventual red principal a finales del año próximo.
 
 ![](https://cdn-images-1.medium.com/max/800/1*I6mko5xumHAArzGePvEZiQ.jpeg)
 
-As such, the key deliverables in our work-flow can be broken into the following major milestones.
+Como tal, los resultados clave en nuestro flujo de trabajo se pueden dividir en los siguientes hitos principales.
 
-## Where we are now — Middle of Q4 2021
+## ¿Dónde estamos? Medio de Q4 2021
 
-### EVM support for parachains
+### Soporte EVM para parachains
 
-We will be releasing [our beta support for Polkadot implementations of the Ethereum Virtual Machine (EVM)](https://medium.com/@subquery/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff) soon. This allows Polkadot and Ethereum developers to seamlessly integrate both Substrate and EVM data into one place and query this single datasource using GraphQL.
+Pronto lanzaremos [nuestro soporte beta para implementaciones Polkadot de la máquina virtual Ethereum (EVM)](https://medium.com/@subquery/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff). Esto permite a los desarrolladores de Polkadot y Ethereum integrar sin problemas los datos de Substrate y EVM en un solo lugar y consultar a este solo dato usando GraphQL.
 
-SubQuery will introduce more advanced filters than other indexers, allowing filtering of non-contract transactions, transaction senders, contracts and indexed log arguments, so developers can build a wide variety of projects that cater to their specific data needs.
+SubQuery introducirá filtros más avanzados que otros indexadores, permitiendo el filtrado de transacciones no contratadas, remitentes de transacciones, contratos y argumentos de registro indexados, por lo que los desarrolladores pueden construir una amplia variedad de proyectos que atiendan a sus necesidades específicas de datos.
 
-### SubQuery Academy
+### Academia de SubQuery
 
-The Academy is designed to up-skill and empower developers in the SubQuery ecosystem by providing them with modular education. [Our first course in the Academy is the _Hero Course_](https://doc.subquery.network/academy/herocourse/) and was launched on Friday 22 October 2021.
+La Academia está diseñada para mejorar las habilidades y capacitar a los desarrolladores en el ecosistema de SubQuery proporcionándoles un programa modular. [Nuestro primer curso en la Academia es el _Curso de Héroe_](https://doc.subquery.network/academy/herocourse/) y fue lanzado el viernes 22 de octubre de 2021.
 
-Within each module of the _Hero Course_, there are several 5 to 10 minute lessons which are delivered by a recorded video. The video content is accompanied by written tutorials, slides, workbooks, and links to the finished GitHub code repository.
+Dentro de cada módulo del _Curso de Héroe_, hay varias lecciones de 5 a 10 minutos que se entregan por un vídeo grabado. El contenido en vídeo está acompañado de tutoriales, diapositivas, libros y enlaces escritos al repositorio de código de GitHub terminado.
 
-The course is designed to get a developer from knowing nothing about SubQuery to becoming an expert in building a SubQuery data source for their new blockchain application.
+El curso está diseñado para hacer que un desarrollador que no sepa nada acerca de SubQuery a convertirse en un experto en la construcción de una fuente de datos de SubQuery para su nueva aplicación blockchain.
 
 In the next few months we will be deploying more education for the Community, with weekly releases of new SubQuery _Hero Course_ content, and more courses in the coming weeks.
 
