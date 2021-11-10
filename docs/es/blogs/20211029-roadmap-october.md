@@ -158,11 +158,11 @@ Con el fin de impulsar una mayor adopción de SQT, anticipamos el lanzamiento de
 
 ### Lanza nuestra propia Parachain
 
-Although we initially plan to partner with a top Polkadot parachain to get SubQuery Network released and scaled quicker, in the long-term SubQuery also intends to launch on it’s own parachain and integrate itself even more in the ecosystem.
+Aunque inicialmente planeamos asociarnos con un parachain top de Polkadot para obtener SubQuery Network liberado y escalar más rápidamente, a largo plazo SubQuery también tiene la intención de lanzar su propio parachain e integrarse aún más en el ecosistema.
 
-This self owned parachain will allow us to further innovate in tools that can help developers build the web3 future faster. We want to aim for a parachain slot once we have a proven track record behind us and the data, community, and token to support it.
+Este parachain propio nos permitirá innovar aún más en herramientas que pueden ayudar a los desarrolladores a construir el futuro web 3 más rápido. Queremos apuntar a una ranura de parachain una vez que tengamos un historial comprobado detrás de nosotros con los datos y un token para apoyarlo.
 
-### SubQuery Foundation moves to a DAO
+### La Fundacion SubQuery se mueve a un DAO
 
 This one is a long way off, but it’s always our dream the SubQuery eventually becomes a community owned DAO. We’ve said many times that the community plays a huge part in SubQuery, everything that we do is for our customers — becoming a DAO is the embodiment of that focus.
 
