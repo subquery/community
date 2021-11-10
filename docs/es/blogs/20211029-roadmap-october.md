@@ -34,19 +34,19 @@ Dentro de cada módulo del _Curso de Héroe_, hay varias lecciones de 5 a 10 min
 
 El curso está diseñado para hacer que un desarrollador que no sepa nada acerca de SubQuery a convertirse en un experto en la construcción de una fuente de datos de SubQuery para su nueva aplicación blockchain.
 
-In the next few months we will be deploying more education for the Community, with weekly releases of new SubQuery _Hero Course_ content, and more courses in the coming weeks.
+En los próximos meses desplegaremos más educación para la Comunidad, con lanzamientos semanales de nuevo contenido de _SubQuery Curso de Héroe_, y más cursos en las próximas semanas.
 
-### Proof of Indexing
+### Prueba de Indexación
 
-Proof of indexing allows us to guarantee that two different indexers working with the same SubQuery project have indexed the exact same data. It’s a critical component required for the development of a decentralized SubQuery network. We’re using a concept called Merkle Mountain ranges to confirm and guarantee this, keep an eye out for a future blog post that explores this deeper.
+La prueba de indexación nos permite garantizar que dos índices diferentes que trabajan con el mismo proyecto de SubQuery indexen exactamente los mismos datos. Es un componente crítico necesario para el desarrollo de una red de SubQuery descentralizada. Estamos utilizando un concepto llamado Merkle Mountain ranges para confirmar y garantizar esto, mantente atento a un post futuro que explora este más profundo.
 
-### Premium Enterprise Service
+### Servicio Premium para Empresas
 
-We have some large customers such as Karura, Kodadot and Fearless Wallet all running production applications in SubQuery. These teams are demanding improved service and higher levels of reliability.
+Tenemos algunos clientes grandes como Karura, Kodadot y Fearless Wallet que ejecutan aplicaciones de producción en SubQuery. Estos equipos están exigiendo un mejor servicio y mayores niveles de fiabilidad.
 
-We’re rising to the challenge, with Service Level Agreements, enterprise service tiers, and other tools that our larger customers need to run their own businesses and receive the best possible performance from SubQuery for their applications.
+Estamos a la altura del desafío, con acuerdos de nivel de servicio, niveles de servicio empresarial, y otras herramientas que nuestros clientes más grandes necesitan para gestionar sus propios negocios y recibir el mejor rendimiento posible de SubQuery para sus aplicaciones.
 
-Please get in contact with the team if you want to talk to us about receiving enterprise level services and support from SubQuery.
+Por favor, póngase en contacto con el equipo si desea hablar con nosotros acerca de recibir servicios de nivel empresarial y apoyo de SubQuery.
 
 ## Milestone 1 — End of Q4 2021
 
