@@ -1,6 +1,6 @@
-# SubQuery, 펀딩 라운드에서 900만 달러 모금 발표
+# 서브쿼리, 펀딩 라운드에서 900만 달러 모금 발표
 
-**Polkadot 생태계를 위한 분산 데이터 프로토콜 구축. Arrington Capital, DCG 및 Stratos Technologies 공동 주도**
+**폴카닷 생태계를 위한 분산형 데이터 프로토콜 구축을 위해 애링턴 캐피탈, DCG and Stratos Technologies가 투자 모금 주도**
 
 ![](https://cdn-images-1.medium.com/max/1600/0*PR4oqrB9Am03VseR)
 
@@ -10,7 +10,7 @@
 
 이번 전략적 투자 라운드는 [하이퍼스피어 벤처스(Hypersphere Ventures)](https://hypersphere.ventures/), [NGC 벤처스](http://ngc.fund/), [윈터뮤트(Wintermute)](https://www.wintermute.com/) 및 [스카이넷 트레이딩(Skynet Trading)](http://skynettrading.com/)의 추가 참여와 함께 [애링턴 XRP 캐피탈(Arrington XRP Capital)](https://arringtonxrpcapital.com/), [DCG(Digital Currency Group)](https://dcg.co/) 및 [스트라토스 테크놀로지(Stratos Technologies)](https://www.stratoslp.com/)가 공동으로 주도했습니다. 시드 투자자로는 [디파이 얼라이언스(DeFi Alliance)](https://defialliance.co/)와 [LAO](https://www.thelao.io/), [P2P 캐피탈](https://www.p2pcap.com/), [디지털 르네상스(Digital Renaissance)](https://drf.ee/), [Web3캐피탈](https://web3.capital/)이 참여했습니다.
 
-> *"저희는 Moonbeam, Acala와 같은 파라체인에 초기 투자자로써 이러한 생태계에 있는 팀이 프로젝트 개발에만 집중할 수 있기를 바랍니다. SubQuery를 사용하면 더 쉽게 만들 수 있습니다. 모든 파라체인으로 확장되며, Polkadot & Kusama에서의 새로운 활동 붐업을 일으킬 수 있습니다."* - Ninor Mansor, Arrington Capital 파트너
+> *"저희는 Moonbeam, Acala와 같은 파라체인에 초기 투자자로써 이러한 생태계에 있는 팀이 프로젝트 개발에만 집중할 수 있기를 바랍니다. 서브쿼리를 사용하면 구축이 더 쉬워질 것이고 이는 폴카닷 & 쿠사마에 있는 모든 파라체인으로 확장될 것입니다."*  - 애링턴 캐피탈 파트너,  Ninor Mansor
 
 ![](https://cdn-images-1.medium.com/max/1600/1*j4VHuY_BgjkYv_bQ6_DmcQ.gif)
 
@@ -28,7 +28,7 @@
 
 [서브쿼리](https://subquery.network)는 레이어1 블록체인과 분산 애플리케이션 간의 분산 데이터 집계, 인덱싱 & 쿼리를 처리하는 분산 데이터 수집기입니다. 이 프로토콜은 서브쿼리 SDK를 사용하여 블록체인 데이터 고유성을 추상화하고 개발자가 사용자 지정 백엔드 기술에 대한 시간과 노력을 불필요하게 낭비하지 않도록하며 제품 개발 및 배포에 집중할 수 있도록 지원합니다.
 
-### 자세한 내용 보기
+### Find Out More
 
 [여기](https://doc.subquery.network/)에서 자신만의 서브쿼리 프로젝트를 구축하여 시작해보세요.
 
