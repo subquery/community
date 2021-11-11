@@ -22,7 +22,7 @@ Nuestra meta es siempre escuchar e interactuar con nuestra leal comunidad, así 
 
 - [Linktree](https://linktr.ee/subquerynetwork)
 - [Discord](https://discord.com/invite/subquery) (Comunidad primaria con canales de soporte técnico dedicados)
-- [Medium](https://subquery.medium.com) (Canal de anuncios principal)
+- [Medium](https://subquery.medium.com) (Canal de anuncios primarios)
 - [Twitter](https://twitter.com/subquerynetwork)
 - [Telegram](https://t.me/subquerynetwork) (Canal de anuncios unicamente)
 - [GitHub](https://github.com/SubQuery/subql)
