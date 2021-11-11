@@ -1,42 +1,42 @@
-# SubQuery Projects — Publish your own creation!
+# Proyectos SubQuery - ¡Publique su propia creación!
 
 ![](https://miro.medium.com/max/1400/0*Jhkt10DyMiptFocJ)
 
-SubQuery Projects
+Proyectos SubQuery
 
-Today we’re launching the next phase of SubQuery — [Projects](https://project.subquery.network). SubQuery’s mission is to make the world’s decentralised data more accessible, so this announcement this week is huge for our community!
+Hoy lanzamos la siguiente fase de SubQuery — [Proyectos](https://project.subquery.network). La misión de SubQuery es hacer que los datos descentralizados del mundo sean más accesibles, entonces el anuncio de esta semana es importante para nuestra comunidad!
 
 
 
 ![](https://miro.medium.com/max/464/0*FTsLOuy0A4cWEwcp)
 
-[SubQuery Projects](https://project.subquery.network) is the new place where you can publish your projects to our managed service. Once you connect your GitHub account, you’re only minutes away from sharing your SubQuery project to over 500 users of the [SubQuery Explorer](https://explorer.subquery.network/). Your own project can be hosted online right next to our existing SubQuery projects from [Acala](https://explorer.subquery.network/subquery/OnFinality-io/acala-subql) and [Bifrost](https://explorer.subquery.network/subquery/bifrost-finance/subql).
+[Proyectos SubQuery](https://project.subquery.network) es el nuevo lugar donde puede publicar sus proyectos en nuestro servicio administrado. Una vez que conecte su cuenta de GitHub, estará a pocos minutos de compartir su proyecto de SubQuery con más de 500 usuarios del [Explorador SubQuery](https://explorer.subquery.network/). Su propio proyecto puede alojarse online junto a nuestros proyectos SubQuery de [Acala](https://explorer.subquery.network/subquery/OnFinality-io/acala-subql) y [Bifrost](https://explorer.subquery.network/subquery/bifrost-finance/subql).
 
-You can also keep your SubQuery project private by not showing it in the Explorer, perfect if you want to privately test it using our managed infrastructure. Additionally, we’re integrated with GitHub, so creating a SubQuery project within a GitHub organisation account will automatically share it with your team members.
+También puede mantener en privado su proyecto SubQuery y no mostrarlo en el Explorador. Es perfecto si desea probarlo de forma privada usando nuestra infraestructura administrada. Adicionalmente estamos integrados con GitHub, entonces crear un proyecto de SubQuery en una cuenta de organización de GitHub lo compartirá automáticamente con los miembros de su equipo.
 
 
 
 ![](https://miro.medium.com/max/1400/1*IupCbHA6aaal26sYbK-Hbw.png)
 
-Creating a new SubQuery Project
+Creando un nuevo proyecto SubQuery
 
-Once you’ve published and deployed your new project, you can interact with it over our GraphQL endpoint or simply play in our [Explorer playground](https://explorer.subquery.network/)! We’ll run it like it’s a production application, so you can unlock your decentralized data in your next dApp today using SubQuery.
+Once you’ve published and deployed your new project, you can interact with it over our GraphQL endpoint or simply play in our [Explorer playground](https://explorer.subquery.network/)! We’ll run it like it’s a production application, so you can unlock your decentralized data in your next dApp today using SubQuery. Lo ejecutaremos como si fuera una aplicación de producción, entonces puede desbloquear sus datos descentralizados en su próxima dApp usando SubQuery.
 
 
 
 ![](https://miro.medium.com/max/1400/1*Re6uHuy05UzWttfWQBM6hg.png)
 
-A new published SubQuery Project
+Un nuevo proyecto SubQuery publicado
 
-Don’t worry about running production SubQuery nodes, leave it to the experts. We’re going to focus on managing indexing servers so that you don’t have to.
+No se preocupe por ejecutar nodos de producción SubQuery. Déjelo a los expertos. Nos enfocaremos en administrar los servidores de indexado para que usted no tenga que hacerlo.
 
-## Learn More
+## Aprenda más
 
-[Follow our guide to publish your first project](https://doc.subquery.network/publish/publish.html) on [SubQuery Projects](https://project.subquery.network)
+[Siga nuestra guía para publicar su primer proyecto](https://doc.subquery.network/publish/publish.html) en [Proyectos SubQuery](https://project.subquery.network)
 
-Start querying data on the new [SubQuery Explorer](https://explorer.subquery.network/)
+Comiece a consultar datos en el nuevo [Explorador SubQuery](https://explorer.subquery.network/)
 
-Build your own SubQuery project by following our [SubQuery docs](https://doc.subquery.network/)
+Construya su propio proyecto SubQuery siguiendo nuestros [documentos SubQuery](https://doc.subquery.network/)
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Twitter](https://twitter.com/subquerynetwork) | [Telegram](https://t.me/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
 
