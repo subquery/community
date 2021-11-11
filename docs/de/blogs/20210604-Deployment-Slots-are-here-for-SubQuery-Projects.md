@@ -10,7 +10,7 @@ Du kannst jetzt einen isolierten Staging-Slot einrichten
 
 Obwohl Sie die Infrastruktur von SubQuery jederzeit selbst betreiben können (mit Ihrem eigenen Knoten- und Abfragedienst), möchten wir unseren gehosteten Dienst zum zuverlässigsten, widerstandsfähigsten und leistungsfähigsten Datenanbieter im Polkadot/Substrate-Ökosystem machen.
 
-Ersteller von [SubQuery-Projekten](https://project.subquery.network/) verbessern und aktualisieren ihre Projekte und die Daten in diesen Projekten ständig. Leider dauert es Stunden, wenn nicht sogar Tage, um Kettendaten im Falle einer größeren Änderung neu zu indizieren – letztendlich ist es unser Ziel, Ihnen zu ermöglichen, Ihr Projekt zu aktualisieren, Ihre Daten neu zu indizieren und Ihre gehosteten SubQuery-Projekte mit **ohne Ausfallzeiten
+Ersteller von [SubQuery-Projekten](https://project.subquery.network/) verbessern und aktualisieren ihre Projekte und die Daten in diesen Projekten ständig. Leider dauert es Stunden, wenn nicht sogar Tage, um Kettendaten im Falle einer größeren Änderung neu zu indizieren – letztendlich ist es unser Ziel, Ihnen zu ermöglichen, Ihr Projekt zu aktualisieren, Ihre Daten neu zu indizieren und Ihre gehosteten SubQuery-Projekte mit **ohne Ausfallzeiten**
 
 **Das ist es, was Deployment-Slots hier lösen sollen**
 

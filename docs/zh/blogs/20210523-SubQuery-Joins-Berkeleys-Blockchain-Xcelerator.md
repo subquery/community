@@ -3,9 +3,9 @@
 ![](https://miro.medium.com/max/1400/0*gYUy-1COtbpLV1X1)
 
 
-本周我们很高兴地宣布，Berkeley 已选择SubQuery作为他们独家的 [Blockchain Xcelerator](https://www.xcelerator.berkeley.edu/) 的一部分。 SubQuery (和它的母公司OnFinality) 是从200多个申请中选定的，仅仅是21个独家点的一部分。
+本周我们很高兴地宣布，Berkeley 已选择SubQuery作为他们 [Blockchain Xcelerator](https://www.xcelerator.berkeley.edu/) 的一部分。 SubQuery (以及其母公司OnFinality) 是从200多个申请者中被挑选的，是仅有的21个独家项目的一部分。
 
-Berkele's blockchain Xcelerator 在全世界被称为最成功的区块链加速器之一。 它培育了40多家公司，这些公司筹集了2500多万美元的种子和早期资金。 在首批活动中，75%以上筹集了后续资金。 此外，UC Berkeley仍然是靠近硅谷的关键技术和创新枢纽。 它当然是世界各地大学的一个主要的非稀释区块链加速器 — — 我们很想成为它的一部分！
+Berkele's blockchain Xcelerator 在全世界被称为最成功的区块链加速器之一。 它孵化了40多家公司，通过种子期和早期融资筹集了超过2500万美元，其中超过75%的公司获得了后续融资。 此外，UC Berkeley还是靠近硅谷的关键技术和创新枢纽。 它当然是世界各地大学的一个主要的非稀释区块链加速器 — — 我们很想成为它的一部分！
 
 > _“团队已经在月球上发现我们是这个非常棒的方案的一部分！ 我们期待加速开发分散的 SubQuery 网络数据产品。 我们随时准备与Blockchain的一些最有影响力的项目和投资者联系，并了解我们如何改进SubQuery”_ - Sam Zou (CEO and 创始人SubQuery and OnFinality)。
 

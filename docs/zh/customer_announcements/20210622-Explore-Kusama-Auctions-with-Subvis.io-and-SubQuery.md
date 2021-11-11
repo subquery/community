@@ -19,17 +19,17 @@ Subvis.io 拍卖仪表盘
 
 ![](https://miro.medium.com/max/1400/1*0W6n5vW1yHc3MjfzgsCFZw.png)
 
-多亏了 SubQuery，我们可以很容易地查询每个 parachain 的总贡献值，并查看这些数据随着时间的推移如何变化。 例如，我们可以通过下面的查询获得5笔最大的单笔贷款金额
+多亏了 SubQuery，我们可以很容易地查询每个平行链的总贡献值，并查看这些数据随着时间的推移如何变化。 例如，我们可以通过下面的查询获得5笔最大的单笔贷款金额
 
 ![](https://miro.medium.com/max/1400/1*4509Ki-4lxJyz1kdm6E5PA.png)
 
-在向所有人群提供的约37 000笔贷款中，最大一笔捐款是向卡鲁拉提供的18.25k KSM
+在向所有人群提供的约37 000笔贷款中，最大一笔捐款是向Karura提供的18.25k KSM
 
 您还可以通过下面的查询获得每次拍卖的最新出价。
 
 ![](https://miro.medium.com/max/1400/1*M0nrOoms7fNEm-qfBZsJEA.png)
 
-最近的三个出价都是卡鲁拉在13-20 槽上
+最近的三个出价都是Karura在13-20 插槽上
 
 Subvis.io正在使用 [SubQuery 项目](https://project.subquery.network/) 来管理自己的项目并根据需要进行更新。 我们提供的索引和查询服务完全由 SubQuery 管理，并在 [SubQuery 的资源管理器](https://explorer.subquery.network/) 中向 Polkadot 社区免费提供。
 

@@ -12,13 +12,13 @@ SubQuery的服务在这个工具中发挥了关键的作用，为任何给定的
 
 ![](https://cdn-images-1.medium.com/max/1600/1*Hy-1IxJ3ZNQX7qC38H19Bg.png)
 
-[在此尝试工具](https://medium.com/r/?url=https%3A%2F%2Fmultisig.subscan.io%2F)
+[在如图页面尝试该索引工具](https://medium.com/r/?url=https%3A%2F%2Fmultisig.subscan.io%2F)
 
 ---
 
 ## 关于Subscan
 
-[Subscan.io](https://www.subscan.io/) 是为基于 Substrath 的区块链构建的高精度多链探索器。 Subscan 支持 Polkadot 生态系统中30多个网络的数据探索和可视化。
+[Subscan.io](https://www.subscan.io/) 是为基于 Substrath 的区块链构建的高精度多链区块链浏览器。 Subscan 支持 Polkadot 生态系统中30多个网络的数据探索和可视化。
 
 Subscan为生态网络提供定制服务，例如EVM模块、多令牌等。 此外，Subscan还提供稳定的 API 服务、数据图表和方便的工具应用。
 

@@ -1,6 +1,6 @@
 # Kusama上的 NFTs 可以在Kodadot 和 SubQuery 上被探索了
 
-**今天，我们要宣布我们在Kodadot和 SubQuery Network之间的战略伙伴关系。**
+**今天，我们要宣布 Kodadot 与 SubQuery Network之间的战略伙伴关系。**
 
 ![](https://miro.medium.com/max/1400/1*Y4kdG9uEoxrySzb19QKxPg.gif)
 

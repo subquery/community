@@ -2,7 +2,7 @@
 
 自从一个月前向全世界宣布SubQuery以来，我们从Polkadot社区收到的响应和反馈都是非常积极的。 我们已经在我们的频道上获得了数千名追随者，NPM已经有超过1353次安装。 收到的每一份支持信息，看到的每一个社区成员的参与，都让我们备受鼓舞。 **是我们该回馈的时候了！**
 
-上个月以来，我们一直在加班，以完成SubQuery Explorer路线图的下一个主要阶段。 通过一个月的努力工作，今天我们将发布[SubQuery Explorer](https://explorer.subquery.network/)。
+上个月以来，我们一直在加班加点以完成SubQuery Explorer路线图的下一个主要阶段。 通过一个月的努力工作，今天我们将发布[SubQuery Explorer](https://explorer.subquery.network/)。
 
 ![](https://miro.medium.com/max/1400/0*2bDaF3HPgNkpm8Kt)
 
@@ -10,7 +10,7 @@
 
 现如今，任何人都可以在几分钟内免费查询和提取Polkadot网络数据。
 
-SubQuery Explorer 使得入门变得更加简单。 我们已经为两个用例预先构建了SubQuery项目（下面将详细介绍这些用例），并为每个网络编制了索引。 我们将在线托管这些子查询节点，并允许任何人免费查询每个节点。 这些托管节点将由SubQuery团队通过生产应用的使用频率和性能级别进行监测和运行。
+SubQuery Explorer 使得入门变得更加简单。 我们已经为两个案例预先构建了SubQuery项目(下面将详细介绍这些用例)，并为每个网络增加了索引。 我们将在线托管这些子查询节点，并允许任何人免费查询每个节点。 这些托管节点将由SubQuery团队通过生产应用的使用频率和性能级别进行监测和运行。
 
 ![](https://miro.medium.com/max/1400/0*3hmnk6sNoO5pdOWc)
 
