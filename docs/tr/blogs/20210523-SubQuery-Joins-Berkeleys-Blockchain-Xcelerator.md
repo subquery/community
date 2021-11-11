@@ -13,5 +13,5 @@ Berkeley'in blockchain Xcelerator'ı, bir nedenden dolayı dünya çapında en b
 
 [SubQuery](https://www.subquery.network/), her Substrate/Polkadot ekibinin verilerini işlemesine ve sorgulamasına olanak tanır. Proje, uygulama katmanına hizmet eden veri protokollerinin büyümesinden ilham alıyor ve amacı, Polkadot/Substrate projelerinin, herkesin verileri güvenilir bir şekilde daha hızlı bulmasını ve tüketmesini sağlayarak daha iyi dApp'ler oluşturmasına yardımcı olmaktır. Bugün herkes Polkadot ağ verilerini sadece birkaç dakika içinde ve hiçbir ücret ödemeden sorgulayabilir ve ayıklıyabilir.
 
-[Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
+[E-posta](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [Linkedin](https://www.linkedin.com/company/subquery)
 
