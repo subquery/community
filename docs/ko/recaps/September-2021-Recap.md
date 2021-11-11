@@ -1,84 +1,84 @@
-# September 2021 Recap
+# 2021년 9월 요약
 
-**The Secret Is Out**
+**비밀이 나왔다**
 
 ![](https://miro.medium.com/max/700/1*nU7PnYFMR6MMBfccYE_Ujg.png)
 
-Welcome to the latest monthly update from SubQuery. September was a massive month for SubQuery as we announced our fundraising and made huge strides in all areas of the business. We are constantly on the look-out for talented individuals so please reach out if you can help us on our mission of making the world's decentralised data more accessible!
+SubQuery의 최신 월간 업데이트에 오신 것을 환영합니다. 9월은 기금 마련을 발표하고 비즈니스의 모든 영역에서 큰 발전을 이루었기 때문에 SubQuery에게 엄청난 달이었습니다. 우리는 재능 있는 개인을 지속적으로 찾고 있으므로 전 세계의 분산된 데이터에 더 쉽게 액세스할 수 있도록 하는 우리의 사명을 수행하는 데 도움을 주실 수 있는지 문의하십시오!
 
-In this monthly update:
+이번 월간 업데이트:
 
-- Announced our fundraising round 💰
-- Multi language blogs and documentation 🌍
-- Exclusive workshops with Discord Community 🔊
-- Encode Club Hackathon 👩‍🎓
-- Community Growth 🚀
-- Interview with Layah Heilpern 🎙
-- Progress on the SubQuery Network 🏗
-- New Projects on SubQuery 🤝
+- 모금 라운드를 발표했습니다 💰
+- 다국어 블로그 및 문서 🌍
+- Discord 커뮤니티와 함께하는 독점 워크샵 🔊
+- 인코딩 클럽 해커톤 👩‍🎓
+- 커뮤니티 성장 🚀
+- Layah Heilpern과의 인터뷰 🎙
+- SubQuery 네트워크의 진행 상황 🏗
+- SubQuery의 새로운 프로젝트 🤝
 
-## Announced our fundraising round 💰
+## 모금 라운드를 발표했습니다 💰
 
-We were thrilled to announce the [close of our US$9m Series A fundraising](https://subquery.medium.com/series-a-1abed6c1c2af) in September and were delighted with the response that we received from all the key crypto media. Apart from coverage in [Coindesk](https://www.coindesk.com/business/2021/09/08/subquery-gets-9m-in-series-a-to-improve-access-to-blockchain-data-on-polkadot/), [CoinTelegraph](https://cointelegraph.com/news/subquery-raises-9m-for-polkadot-data-protocol), [The Block](https://www.theblockcrypto.com/post/116915/subquery-indexing-protocol-polkadot-funding-saft) and many others, some of our leading investors also published their investment thesis.
+우리는 9월에 [900만 달러의 시리즈 A 기금 모금 종료](https://subquery.medium.com/series-a-1abed6c1c2af) 를 발표하게 되어 기뻤고 모든 주요 암호화 미디어로부터 받은 응답에 기뻤습니다.  [Coindesk](https://www.coindesk.com/business/2021/09/08/subquery-gets-9m-in-series-a-to-improve-access-to-blockchain-data-on-polkadot/), [CoinTelegraph](https://cointelegraph.com/news/subquery-raises-9m-for-polkadot-data-protocol), [The Block](https://www.theblockcrypto.com/post/116915/subquery-indexing-protocol-polkadot-funding-saft) 및 기타 여러 분야에서 다루는 것 외에도 당사의 주요 투자자 중 일부는 투자 논문도 발표했습니다.
 
-Rennick Palley of [Stratos Capital stated that SubQuery](https://medium.com/stratos-technologies/the-google-of-the-decentralized-world-our-investment-in-subquery-e6e7d949b00a) is "The Google of the Decentralized World" and that "SubQuery is a prototypical example of how Web 3 principals take what works from Web 2 & makes it transparent, fair, and community driven."
+[Stratos Capital의 Rennick Palley는 SubQuery](https://medium.com/stratos-technologies/the-google-of-the-decentralized-world-our-investment-in-subquery-e6e7d949b00a)가 "분권화된 세계의 Google"이며 "SubQuery는 Web 3의 보안 주체가 Web 2에서 작동하는 것을 가져와 투명하고 공정하며 커뮤니티 기반으로 만드는 방법에 대한 전형적인 예입니다."라고 말했습니다.
 
-While Ninor Mansor of Arrington Capital shared in their ["The League of Parachains" report](https://arringtonxrpcapital.com/2021/09/17/the-league-of-parachains-polkadot/): "If Parachains are nations and the Relay Chain is an international alliance, then SubQuery is the common language --- the lingua franca --- of this new global order."
+Arrington Capital의 Ninor Mansor는 ["The League of Parachains" 보고서](https://arringtonxrpcapital.com/2021/09/17/the-league-of-parachains-polkadot/)에서 다음과 같이 말했습니다. "Parachains가 국가이고 Relay Chain이 국제 동맹이라면 SubQuery는 공용어입니다. --- 이 새로운 글로벌 질서의."
 
-For more insights and analysis on SubQuery, please check out the following thoughts from [Arrington Capital](https://arringtonxrpcapital.com/2021/09/08/building-the-multi-chain-world-announcing-our-investment-into-subquery/), [Node Capital](https://www.node.capital/blog-posts/a-subquery-to-supercharge-your-insights) , [Stratos](https://medium.com/stratos-technologies/the-google-of-the-decentralized-world-our-investment-in-subquery-e6e7d949b00a) and [IconPlus Capital](https://medium.com/@iconpluscapital/understanding-the-aggregation-of-data-in-subquery-network-investment-thesis-90fe8f6b7abe) or check out this video by James Bayly, our Head of Business Development:
+SubQuery에 대한 더 많은 통찰력과 분석은 [Arrington Capital](https://arringtonxrpcapital.com/2021/09/08/building-the-multi-chain-world-announcing-our-investment-into-subquery/), [Node Capital](https://www.node.capital/blog-posts/a-subquery-to-supercharge-your-insights), [Stratos](https://medium.com/stratos-technologies/the-google-of-the-decentralized-world-our-investment-in-subquery-e6e7d949b00a) 및 [IconPlus Capital](https://medium.com/@iconpluscapital/understanding-the-aggregation-of-data-in-subquery-network-investment-thesis-90fe8f6b7abe)의 다음 의견을 확인하거나 비즈니스 개발 책임자인 James Bayly의 이 비디오를 확인하십시오.
 
-[Watch Here](https://youtu.be/NRn3E-ERIds)
+[여기서 시청하세요.](https://youtu.be/NRn3E-ERIds)
 
-## Multi-language blogs and documentation 🌍
+## 다국어 블로그 및 문서 🌍
 
-We are fortunate to have community members and Ambassadors from around the world. As our mission is to help make developers' lives easier, we are working hard to make SubQuery accessible to our global community.
+전 세계에서 온 커뮤니티 회원과 대사가 있다는 것은 행운입니다. 우리의 임무는 개발자의 삶을 더 쉽게 만드는 것이므로 SubQuery를 글로벌 커뮤니티에서 액세스할 수 있도록 열심히 노력하고 있습니다.
 
-In order to achieve this, we are pleased to announce that our [blog is well on track to being translated to 9 different languages](https://blog.subquery.network/). In addition, our [developer documentation is also in progress](https://doc.subquery.network/), with 4 languages released already. In the coming months, we will also be releasing modular educational content across all the major languages.
+이를 달성하기 위해 저희 [블로그가 9개 언어로 번역될 예정임](https://blog.subquery.network/)을 발표하게 된 것을 기쁘게 생각합니다. 또한 이미 4개 언어가 [릴리스된 개발자 문서도 진행 중](https://doc.subquery.network/)입니다. 앞으로 몇 달 안에 모든 주요 언어에 대해 모듈식 교육 콘텐츠를 출시할 예정입니다.
 
-## Exclusive workshops via our Discord community 🔊
+## Discord 커뮤니티를 통한 독점 워크샵 🔊
 
-We are extremely proud of [our vibrant and inclusive Discord community](https://discord.com/invite/subquery) which is led by Sally, our newest team member. We have several social channels, however Discord is our primary community where we share news and engage with everyone.
+우리는 최신 팀원인 Sally가 이끄는 [활기차고 포괄적인 Discord 커뮤니티](https://discord.com/invite/subquery)를 매우 자랑스럽게 생각합니다. 여러 소셜 채널이 있지만 Discord는 뉴스를 공유하고 모든 사람과 소통하는 주요 커뮤니티입니다.
 
-Recently we invited the community to a series of exclusive workshops to learn more about SubQuery and we will be doing more within our Discord in the coming months. If you want to hear about exclusive events and get more involved with the team, please make sure you join!
+최근에 우리는 SubQuery에 대해 더 많이 배우기 위해 일련의 독점 워크샵에 커뮤니티를 초대했으며 앞으로 몇 개월 동안 Discord에서 더 많은 일을 할 것입니다. 독점 이벤트에 대한 소식을 듣고 팀에 더 많이 참여하고 싶다면 꼭 참여하세요!
 
-## Encode Club Hackathon 👩‍🎓
+## 인코딩 클럽 해커톤 👩‍🎓
 
-In order to get closer to the developer community and show our support for the ecosystem, we are thrilled to be sponsoring the largest challenge at [Encode Club's Polkadot Hackathon](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e). We've partnered with our friends at Acala/Karura to help the community build some game changing dApps and can't wait to see what the teams come up with!
+개발자 커뮤니티에 더 가까워지고 생태계에 대한 지원을 보여주기 위해 [Encode Club의 Polkadot Hackathon](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e)에서 가장 큰 도전을 후원하게 된 것을 기쁘게 생각합니다. 우리는 커뮤니티가 판도를 바꾸는 dApp을 구축하는 데 도움을 주기 위해 Acala/Karura의 친구들과 협력했으며 팀이 무엇을 내놓을지 무척 기대됩니다!
 
-## Community Growth 🚀
+## 커뮤니티 성장 🚀
 
-Our community continues to grow at a rapid pace and we crossed two key milestones in September with [Twitter](https://twitter.com/SubQueryNetwork) crossing 10,000 followers and [our Discord group](https://discord.com/invite/subquery) reaching 3,000 members. Thank you for all of your support and if you're not following us already, please get involved!
+우리 커뮤니티는 빠른 속도로 계속 성장하고 있으며 9월에 [Twitter](https://twitter.com/SubQueryNetwork)의 팔로워 수가 10,000명을 넘어섰고 [Discord 그룹](https://discord.com/invite/subquery)이 3,000명의 회원을 달성하면서 두 가지 주요 이정표를 넘었습니다. 지원해 주셔서 감사합니다. 아직 팔로우하지 않으셨다면 참여해 주세요!
 
-## Interview with Layah Heilpern 🎙
+## Layah Heilpern과의 인터뷰 🎙
 
-Crypto influencer Layah Heilpern interviewed Sam and James about our progress to date and our thoughts on the future decentralised SubQuery Network. You can watch the interview below.
+크립토 인플루언서 Layah Heilpern은 Sam과 James를 인터뷰하여 현재까지의 진행 상황과 미래의 탈중앙화 SubQuery Network에 대한 생각에 대해 이야기했습니다. 인터뷰는 아래에서 볼 수 있습니다.
 
-[Watch here](https://youtu.be/WApnpFjEofg)
+[여기에서 시청](https://youtu.be/WApnpFjEofg)
 
-## SubQuery Network Progress 🏗
+## SubQuery 네트워크 진행률 🏗
 
-In the past month we have really accelerated the work that we're doing on the SubQuery Network, [our decentralised and incentivised future](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010). We've brought on new members to our team to start work on code and also fine tune our tokenomics.
+지난 달에 [우리는 분권화되고 인센티브화된 미래인](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010) SubQuery Network에서 하고 있는 작업을 정말 가속화했습니다. 우리는 코드 작업을 시작하고 토큰 노믹스를 미세 조정하기 위해 새로운 구성원을 팀에 영입했습니다.
 
-We're putting the finishing touches on proof of indexing, a necessary and significant bit of work that provides guarantees that two SubQuery indexers are equivalent. We're using Merkle Mountain ranges to do this, take a look at the code if you're interested.
+두 개의 SubQuery 인덱서가 동등함을 보장하는 필수적이고 중요한 작업인 인덱싱 증명을 마무리하는 중입니다. 우리는 이를 위해 Merkle Mountain 범위를 사용하고 있습니다. 관심이 있다면 코드를 살펴보십시오.
 
-Keep an eye out in the coming weeks for our first draft of a high level product roadmap --- we know you've all been asking for it!
+높은 수준의 제품 로드맵의 첫 번째 초안을 위해 앞으로 몇 주 동안 주시하십시오 --- 우리는 당신이 그것을 모두 요구했다는 것을 알고 있습니다!
 
-## New Projects on SubQuery 🤝
+## SubQuery의 새로운 프로젝트 🤝
 
-In September, we announced that we were helping the teams at [Parallel Finance](https://parallel.fi/) and [DotMarketCap](http://www.dotmarketcap.com/) with their data needs.
+9월에 우리는 [Parallel Finance](https://parallel.fi/) 및 [DotMarketCap](http://www.dotmarketcap.com/) 팀의 데이터 요구 사항을 지원하고 있다고 발표했습니다.
 
-Parallel Finance is a decentralized money market protocol that offers lending, staking, and borrowing in the Polkadot ecosystem. [SubQuery's service helps Parallel Finance](https://subquery.medium.com/parallel-finance-is-creating-the-next-defi-platform-using-subquery-6fc1e366985a) store, analyse, and query data on their current Heiko testnet. Some of this data is used directly in Parallel's new application, helping users understand and analyse DeFi data.
+Parallel Finance는 Polkadot 생태계에서 대출, 스테이킹 및 차입을 제공하는 분산형 머니 마켓 프로토콜입니다. [SubQuery의 서비스는 Parallel Finance](https://subquery.medium.com/parallel-finance-is-creating-the-next-defi-platform-using-subquery-6fc1e366985a)가 현재 Heiko 테스트넷에서 데이터를 저장, 분석 및 쿼리하는 데 도움이 됩니다. 이 데이터 중 일부는 Parallel의 새로운 애플리케이션에서 직접 사용되어 사용자가 DeFi 데이터를 이해하고 분석하는 데 도움이 됩니다.
 
-We are always delighted to get feedback like this from our partners:
+우리는 파트너로부터 다음과 같은 피드백을 받는 것을 항상 기쁘게 생각합니다.
 
-_"SubQuery is an excellent tool which brought traditional indexing & query technology to Parallel Heiko. The plug-and-play service really saved us a lot of time developing our own block indexing tool and maintaining our own solution."_ --- Parallel Finance
+_"SubQuery는 Parallel Heiko에 전통적인 인덱싱 & 쿼리 기술을 도입한 훌륭한 도구입니다. 플러그 앤 플레이 서비스를 통해 자체 블록 인덱싱 도구를 개발하고 자체 솔루션을 유지 관리하는 데 많은 시간을 절약할 수 있었습니다."_ --- Parallel Finance
 
-In the case of DotMarketCap, [SubQuery was responsible for feeding information](https://subquery.medium.com/dotmarketcap-2-0-launches-with-support-from-subquery-and-subvis-ef85b5e0ee31) relating to the second batch of Kusama Parachain Auctions to DotMarketCap users. The interesting thing about this collaboration is that the real-time data was actually coming from SubQuery to an existing [project maintained by SubVis](https://explorer.subquery.network/subquery/subvis-io/kusama-auction) and then picked up again by DotMarketCap. For SubQuery, this is a realisation of our goal to build an open community marketplace of data in our Explorer, it also shows how symbiotic the Polkadot ecosystem is and how teams work together to achieve a shared goal of a decentralised future.
+DotMarketCap의 경우, [SubQuery는 DotMarketCap 사용자에게 Kusama Parachain Auctions의 두 번째 배치와 관련된 정보를 제공하는 역할을 담당했습니다](https://subquery.medium.com/dotmarketcap-2-0-launches-with-support-from-subquery-and-subvis-ef85b5e0ee31). 이 협업의 흥미로운 점은 실시간 데이터가 실제로 SubQuery에서 [SubVis가 유지 관리하는](https://explorer.subquery.network/subquery/subvis-io/kusama-auction) 기존 프로젝트로 전달된 다음 DotMarketCap에서 다시 선택했다는 것입니다. SubQuery의 경우 이것은 Explorer에서 데이터의 개방형 커뮤니티 마켓플레이스를 구축하려는 우리의 목표를 실현한 것이며, Polkadot 생태계가 공생하는 방식과 팀이 분산된 미래의 공유 목표를 달성하기 위해 어떻게 협력하는지 보여줍니다.
 
-If you would like to learn more [you can view all projects easily via our Explorer here](https://explorer.subquery.network/).
+더 자세히 알아보려면 [여기의 탐색기를 통해 모든 프로젝트를 쉽게 볼 수 있습니다](https://explorer.subquery.network/).
 
-As always, please join our social channels to stay updated on our latest news and announcements.
+항상 그렇듯이 소셜 채널에 가입하여 최신 뉴스와 공지 사항을 받아보세요.
 
-James, Sam, and the SubQuery Team
+James, Sam 및 SubQuery 팀
 
-[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
