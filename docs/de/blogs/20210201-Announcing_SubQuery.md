@@ -1,12 +1,12 @@
-# Ankündigung von SubQuery
+# Die Ankündigung von SubQuery
 
-## Transform und Abfrage der weltweiten Daten für die Zukunft web3.0
+## Transformieren und Abfragen der Weltdaten für die Web3.0-Zukunft
 
 ![](https://miro.medium.com/max/1400/1*J5u22qNxndcuCrFJ1mfGqg.png)
 
-OnFinality hat folgendes zum Ziel: Blockchain-Entwickler zu unterstützen, indem sie den Kunden aller Formen und Größen Infrastrukturdienstleistungen anbietet. Wir starten ein neues Unternehmen, das darauf abzielt, ein Kernproblem zu lösen, um diese Mission voranzutreiben: SubQuery.
+Die Mission von OnFinality besteht darin, Blockchain-Entwickler durch die Bereitstellung von Infrastrukturdiensten für Kunden aller Formen und Größen zu unterstützen. Wir starten ein neues Projekt, das darauf abzielt, ein Kernproblem zu lösen, um diese Mission voranzutreiben: SubQuery.
 
-Fast jede Blockchain muss Daten verarbeiten und abfragen. Die blühende Polkadot Community wird einen Service benötigen, der macht möglich, schnell Daten zu finden und zu konsumieren. Unser Projekt ist inspiriert von [The Graph](https://thegraph.com/), einem Dienst, der sich derzeit auf Ethereum konzentriert, der den Kunden ermöglicht, dies mit GraphQL zu tun.
+Fast jede Blockchain soll Daten verarbeiten und abfragen. Die florierende Polkadot-Community wird einen Dienst benötigen, der es ihnen ermöglicht, Daten zuverlässig schnell zu finden und zu konsumieren. Unser Projekt ist inspiriert von [The Graph](https://thegraph.com/), einem Dienst, der sich derzeit auf Ethereum konzentriert und es Kunden ermöglicht, dies mithilfe von GraphQL zu tun.
 
 Da dezentrale Systemdaten über Netzwerke hinweg speichern, ist die Abfrage langsam und schwierig. Damit der Web 3.0-Traum verwirklicht werden kann, muss er für den Endbenutzer so schnell (wenn nicht schneller) wie zentralisierte Netzwerke sein. Protokoll-Teams bauen derzeit zentralisierte Indizierungsserver für ihre eigenen Projekte, aber dies wirft drei Probleme auf:
 
@@ -46,17 +46,17 @@ SubQuery wird vom Team von OnFinality entwickelt, einer Infrastruktur-SaaS-Platt
 
 **Sam Zou —** CEO ([LinkedIn](https://www.linkedin.com/in/sam-zou-5b8169a/))
 
-Unternehmer, Investoren mit mehr als 20 Jahren IT-Erfahrung, spezialisiert auf Infrastruktur- und Cloud-Service-Design
+Unternehmer, Investoren, die mehr als 20 Jahren IT-Erfahrung haben, spezialisieren auf Infrastruktur- und Cloud-Service-Design
 
-**Ian He —** Head of Protocol ([LinkedIn](https://www.linkedin.com/in/yin-he-7a266345/))
+**Ian He –** Protokollleiter ([LinkedIn](https://www.linkedin.com/in/yin-he-7a266345/))
 
-Blockchain Architect, Mitwirkender bei polkadot-js, Early Adopter der Substrate-Technologie und gewann den zweiten Platz beim ersten Polkadot-Hackathon.
+Blockchain Architect, Mitwirkender bei polkadot-js, Early Adopter der Substrate-Technologie und erwarb den zweiten Platz beim ersten Polkadot-Hackathon.
 
 **James Xu —** Lösungsarchitekt ([LinkedIn](https://www.linkedin.com/in/zhexu/))
 
 Infrastruktur & Application Architect, preisgekrönter Software-Engineer.
 
-**James Bayly** — Head of Business Development ([LinkedIn](https://www.linkedin.com/in/james-bayly/))
+**James Bayly** – Leiter der Geschäftsentwicklung ([LinkedIn](https://www.linkedin.com/in/james-bayly/))
 
 Beginnen Sie mit dem [SubQuery Github-Repository.](https://github.com/OnFinality-io/subql)
 
