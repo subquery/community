@@ -1,4 +1,4 @@
-# Anunciando SubQuery
+# Anuncio de SubQuery
 
 ## Transforma y consulta los datos del mundo para el futuro de web3.0
 
@@ -32,7 +32,7 @@ Además, puedes obtener más información leyendo nuestros documentos de [SubQue
 
 ![](https://miro.medium.com/max/1000/1*3oA1Hvns1vrImTsmowO_Jw.png)
 
-Nos enfocaremos en construir un servicio alojado gestionado basado en esta oferta que será más rendidor y escalable. Vamos a proveer una infraestructura pública confiable que creará un poderoso nodo SubQuery en producción a partir de un proyecto SubQuery cargado. El servicio indexará, mantendrá el estado de la cadena y proveerá un punto final GraphQL de producción que puede reemplazar implementaciones auto-hospedadas. Nos concentraremos en esto para que todos puedan enfocarse en crear y hacer crecer su dApp.
+Nos enfocaremos en construir un servicio alojado gestionado basado en esta oferta que será más eficiente y escalable. Vamos a proveer una infraestructura pública confiable que creará un poderoso nodo SubQuery en producción a partir de un proyecto SubQuery cargado. El servicio indexará, mantendrá el estado de la cadena y proveerá un punto final GraphQL de producción que puede reemplazar implementaciones auto-hospedadas. Nos concentraremos en esto para que todos puedan enfocarse en crear y hacer crecer su dApp.
 
 Una vez que esto está en su lugar, nuestra fase final es tokenize el negocio de SubQuery construyendo nuestra propia cadena (probablemente parachain) para Polkadot. Aunque proporcionaremos un modelo de facturación similar para los usuarios empresariales y de alto consumo (plan de suscripción con niveles de consumo), guardaremos estos datos en nuestra cadena para que sean transparentes para todos y las partes participantes pueden apostar por recompensas como incentivos. Emitiremos un token de gobernanza para proporcionar estabilidad a la cadena y permitir que la comunidad influya en nuestra dirección y ruta.
 
@@ -58,7 +58,7 @@ Infraestructura & Arquitecto de Aplicaciones, Ingeniero de software premiado.
 
 **James Bayly** — Jefe de Desarrollo de Negocios ([LinkedIn](https://www.linkedin.com/in/james-bayly/))
 
-Comience con el [repositorio SubQuery Github.](https://github.com/OnFinality-io/subql)
+Comience con el [repositorio de SubQuery en Github.](https://github.com/OnFinality-io/subql)
 
 Lea nuestra documentación de [SubQuery](https://doc.subquery.network/)
 
