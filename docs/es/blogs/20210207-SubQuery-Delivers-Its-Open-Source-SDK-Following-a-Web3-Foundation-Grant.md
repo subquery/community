@@ -4,7 +4,7 @@
 
 ![](https://miro.medium.com/max/1400/1*f9Jw37LjUGu8P8W39cjDYw.png)
 
-Esta semana, OnFinality (el equipo detrás de SubQuery), entregó su subvención del Web3 Foundation para proporcionar un flujo de trabajo completo para crear proyectos de SubQuery. Nos emociona anunciar el trabajo que hemos realizado para completar esta subvención y compartirlo con el mundo para que puedan comenzar a usar nuestro proyecto para consultar sus redes más eficientemente.
+Esta semana, OnFinality (el equipo detrás de SubQuery), entregó su subvención a la fundación Web3 para proporcionar un flujo de trabajo completo para crear proyectos de SubQuery. Nos emociona anunciar el trabajo que hemos realizado para completar esta subvención y compartirlo con el mundo para que puedan comenzar a usar nuestro proyecto para consultar sus redes más eficientemente.
 
 SubQuery es creado por el equipo de OnFinality la cual es una infraestructura Iaas & Plataforma SaaS para que los equipos y usuarios blockchain lancen nodos y obtengan acceso a una amplia gama de protocolos blockchain. Tenemos un conjunto de servicios simbióticos incluyendo nuestros servicios de nodo compartido API y tenemos relaciones con los equipos líderes de Polkadot/Substrate.
 
@@ -18,9 +18,9 @@ En segundo lugar, hay un paquete de nodo SubQuery que carga el proyecto SubQuery
 
 **Puede comenzar inmediatamente siguiendo nuestro ejemplo en el** [**Repositorio de SubQuery Github**](https://github.com/OnFinality-io/subql)**. Adicionalmente puede encontrar más información leyendo nuestros** [**documentos de SubQuery**](https://doc.subquery.network/) **o** [**visitando nuestro nuevo sitio web**](https://subquery.network/)**.**
 
-Estamos increíblemente agradecidos por el apoyo brindado por la Fundación Web3 para ayudarnos a llevar a cabo este proyecto para la comunidad. La Fundación Web3 financia equipos de investigación y desarrollo que construyen la pila tecnológica de la web descentralizada. Fue establecido en Zug, Suiza por el Dr. Gavin Wood, cofundador y exdirector de tecnología de Ethereum. Polkadot es el proyecto insignia de la fundación.
+Estamos increíblemente agradecidos por el apoyo brindado por la Fundación Web3 para ayudarnos a llevar a cabo este proyecto para la comunidad. La Fundación Web3 financia equipos de investigación y desarrollo que construyen la pila tecnológica de la web descentralizada. Fue establecido en Zug, Suiza por el Dr. Gavin Wood, co-fundador y ex-director de la tecnología de Ethereum. Polkadot es el proyecto insignia de la fundación.
 
-Nos enfocaremos en construir un servicio alojado gestionado basado en esta oferta que será más rendidor y escalable. Vamos a proveer una infraestructura pública confiable que creará un poderoso nodo SubQuery en producción a partir de un proyecto SubQuery cargado. El servicio indexará, mantendrá el estado de la cadena y proveerá un punto final GraphQL de producción que puede reemplazar implementaciones auto-hospedadas. Nos concentraremos en esto para que todos puedan enfocarse en crear y hacer crecer su dApp.
+Nos enfocaremos en construir un servicio alojado gestionado basado en esta oferta que será más eficiente y escalable. Vamos a proveer una infraestructura pública confiable que creará un poderoso nodo SubQuery en producción a partir de un proyecto SubQuery cargado. El servicio indexará, mantendrá el estado de la cadena y proveerá un punto final GraphQL de producción que puede reemplazar implementaciones auto-hospedadas. Nos concentraremos en esto para que todos puedan enfocarse en crear y hacer crecer su dApp.
 
 Desde un principio vimos el potencial de Polkadot y nos pareció natural concentrar allí nuestros esfuerzos. La premisa central de Polkadot es crear una comunidad próspera de desarrolladores, usuarios y negocios que aprovecharán su interoperabilidad multichain - Esa comunidad va a necesitar un servicio que les permita encontrar y consumir datos confiable y rápidamente.
 
@@ -34,7 +34,7 @@ Lea nuestros [documentos SubQuery](https://doc.subquery.network/)
 
 Aprenda más acerca de la fundación Web3 visitando su [sitio web](https://web3.foundation/). Para seguir los últimos desarrollos en la Fundación Web3, únase a ellos en [Reddit](https://www.reddit.com/r/dot/) o [Twitter](https://twitter.com/web3foundation).
 
-Siganos en:
+Síguenos en:
 
 -   [Telegram](https://t.me/subquerynetwork)
 -   [Twitter](https://twitter.com/subquerynetwork)
