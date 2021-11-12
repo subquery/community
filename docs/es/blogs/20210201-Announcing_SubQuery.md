@@ -50,7 +50,7 @@ Inversores con más de 20 años de experiencia en TI especializados en el diseñ
 
 **Ian He —** Jefe de Protocolo ([LinkedIn](https://www.linkedin.com/in/yin-he-7a266345/))
 
-Blockchain Architect, Contributor de polkadot-js, Early adopter of Substrate technology and won second place in the first Polkadot hackathon.
+Arquitecto de cadena de bloques y Colaborador de polkadot-js, pionero en la adopción de la tecnología Substrate y obtuvo el segundo lugar en el primer Polkadot hackathon.
 
 **James Xu —** Arquitecto de Soluciones ([LinkedIn](https://www.linkedin.com/in/zhexu/))
 
