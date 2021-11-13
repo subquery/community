@@ -20,7 +20,7 @@ También notarás que SubQuery Explorer proporciona un campo de juego para descu
 
 ## **Staking Sum SubQuery Project (**[GitHub Project Code](https://github.com/subquery/subql-examples/tree/main/sum-reward))
 
-Usted puede encontrar rápidamente los ingresos totales de apuesta otorgados a cualquier cuenta desde el principio del tiempo consultando su dirección de cuenta. Este proyecto de subconsulta indexa y registra las cuentas que participan en el bono de apuesta en la cadena de bloques. El índice continuado descubrirá las recompensas obtenidas de apuesta y las barras de esta cuenta y agregará sus sumas a una base de datos.
+Usted puede encontrar rápidamente los ingresos totales de apuesta otorgados a cualquier cuenta desde el principio del tiempo consultando su dirección de cuenta. Este proyecto de SubQuery indexa y registra las cuentas que participan en el bono de apuesta en la cadena de bloques. El índice continuado descubrirá las recompensas obtenidas de apuesta y las barras de esta cuenta y agregará sus sumas a una base de datos.
 
 ## **Umbral de validación del proyecto subquery (**[Código del proyecto GitHub](https://github.com/subquery/subql-examples/tree/main/validator-threshold))
 
