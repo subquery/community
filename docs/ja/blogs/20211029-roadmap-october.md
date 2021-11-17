@@ -4,11 +4,11 @@
 
 **SubQueryがTGEのタイムラインを含む重要なマイルストーンを発表**
 
-本日、初めて詳細な技術ロードマップを発表できることを嬉しく思います。 SubQuery’s goal is to be the leading data provider in the Polkadot ecosystem and the support we have had from the community to help us realise this vision has been amazing. From our formal establishment at the end of 2020 via a [Web3 Grant](https://web3.foundation/), to releasing our first open source version in January 2021, and [closing our Series A in September](https://subquery.medium.com/series-a-1abed6c1c2af) we would like to thank you for all of your support in getting us to this stage!
+本日、初めて詳細な技術ロードマップを発表できることを嬉しく思います。 SubQueryの目標は、Polkadotのエコシステムにおける主要なデータプロバイダーになることであり、このビジョンを実現するための、コミュニティからのサポートは素晴らしいものでした。 2020年末の[Web3 Grant](https://web3.foundation/)を介した正式な設立から、2021年1月の最初のオープンソースバージョンのリリース、そして[9月のシリーズAの終了](https://subquery.medium.com/series-a-1abed6c1c2af)まで、私たちがこの段階に至るまでにご支援いただいた皆様に感謝いたします。
 
-As we continue to gain momentum, the time has come to share more about our plans for the future including our technical roadmap. We are excited about how the next evolution of SubQuery will drive even more value to the Polkadot ecosystem and provide more opportunities for our community to participate in our growth.
+私たちの勢いが増すにつれ、技術的なロードマップを含む将来の計画について、より多くのことをお伝えする時期が来ました。 SubQueryの次の進化が、Polkadotのエコシステムにさらなる価値をもたらし、コミュニティが我々の成長に参加する機会をどのように提供するのかということに、興奮しています。
 
-## Our Future
+## 私たちの未来
 
 While SubQuery is already serving millions of data queries each day to [over 60 projects on Polkadot & Kusama](https://project.subquery.network/), we wanted to ensure that our next phase of growth was conducted in an organised and controlled manner.
 
