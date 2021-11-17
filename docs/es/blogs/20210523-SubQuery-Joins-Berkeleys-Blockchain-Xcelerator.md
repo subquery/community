@@ -1,4 +1,4 @@
-# SubQuery se une a Blockchain Xcelerator de Berkeley
+# SubQuery se une al acelerador Blockchain de Berkeley
 
 ![](https://miro.medium.com/max/1400/0*gYUy-1COtbpLV1X1)
 
