@@ -1,27 +1,27 @@
-# SubQuery Just Got a Lot Faster with the Dictionary
+# SubQuery devient beaucoup plus rapide avec le dictionnaire
 
 ![](https://miro.medium.com/max/1400/1*iEQbr-KZNIkztylVowAuaQ.png)
 
-Today we are proud to announce our new improvement to SubQuery, SubQuery’s Dictionary indexing feature.
+Aujourd'hui, nous sommes fiers d'annoncer notre nouvelle amélioration de SubQuery, la fonction d'indexation du dictionnaire de SubQuery.
 
-The SubQuery Dictionary is all about speeding up your Projects. It dramatically improves indexing the performance of your SubQuery Project, **sometimes up to 10x faster.**
+Le dictionnaire SubQuery a pour but d'accélérer vos projets. Il améliore considérablement les performances d'indexation de votre projet SubQuery, **parfois jusqu'à 10 fois plus vite.**
 
-When indexing chain data, SubQuery Projects used to inspect each block. Polkadot’s chain is large, 130GB of unstructured data over almost 6 million blocks. This takes many hours to index, time that you don’t want to wait for — especially when testing.
+Lors de l'indexation de données en chaîne, les projets SubQuery inspectaient chaque bloc. La chaîne de Polkadot est volumineuse, 130 Go de données non structurées sur près de 6 millions de blocs. L'indexation prend plusieurs heures, un temps que vous ne voulez pas attendre, surtout lors des tests.
 
-SubQuery projects now have the option to skip all this, we essentially pre-index the location of all events within a chain.
+Les projets SubQuery ont maintenant la possibilité de sauter tout cela, nous pré-indexons essentiellement l'emplacement de tous les événements dans une chaîne.
 
 ![](https://miro.medium.com/max/1400/1*uIjz8W4TG9Q0au9zoKbHVw.png)
 
-Performance is improved the most when the data is not a common occurrence, but instead interspersed along the chain, as if the data is rare, the Dictionary skips more blocks, and therefore the impact on performance is greater.
+Les performances s'améliorent le plus lorsque les données ne sont pas courantes, mais plutôt intercalées le long de la chaîne. En effet, si les données sont rares, le dictionnaire saute plus de blocs, et l'impact sur les performances est donc plus important.
 
-The Dictionary endpoint can be added in [your ‘project.yaml’ file](https://doc.subquery.network/create/manifest.html), or alternatively [specified at run time](https://doc.subquery.network/run/run.html#using-a-dictionary). Additionally, you can also override this endpoint when running your Project in [SubQuery Projects](https://project.subquery.network/).
+Le point de terminaison du dictionnaire peut être ajouté dans [votre fichier 'project.yaml'](https://doc.subquery.network/create/manifest.html), ou [spécifié au moment de l'exécution](https://doc.subquery.network/run/run.html#using-a-dictionary). En outre, vous pouvez également remplacer ce point de terminaison lors de l'exécution de votre projet dans les [projets de SubQuery](https://project.subquery.network/).
 
 ![](https://miro.medium.com/max/1400/1*xl4wENAv_oNingDQZyrtyw.png)
 
-You can read more about the dictionary in our [helpful documentation here](https://doc.subquery.network/run/run.html#using-a-dictionary).
+Vous pouvez en savoir plus sur le dictionnaire dans notre [documentation utile ici](https://doc.subquery.network/run/run.html#using-a-dictionary).
 
-We believe SubQuery is the best data indexing option available for any Polkadot/Substrate dApp, and this new implementation of SubQuery’s Dictionary allows us to further improve our service by speeding up the indexing process for your SubQuery Projects.
+Nous pensons que SubQuery est la meilleure option d'indexation des données disponible pour toute application numérique Polkadot/Substrate, et cette nouvelle implémentation du dictionnaire SubQuery nous permet d'améliorer encore notre service en accélérant le processus d'indexation de vos projets SubQuery.
 
-You can try it yourself in [SubQuery Projects](https://project.subquery.network/) or view the dictionaries themselves in [our explorer](https://explorer.subquery.network/). In order to use a Dictionary in your existing project, your [@subql/cli](https://www.npmjs.com/package/@subql/cli) version must be at least 0.10.0
+Vous pouvez l'essayer vous-même dans [SubQuery Projects](https://project.subquery.network/) ou visualiser les dictionnaires eux-mêmes dans [notre explorateur](https://explorer.subquery.network/). Afin d'utiliser un dictionnaire dans votre projet existant, votre version [@subql/cli](https://www.npmjs.com/package/@subql/cli) doit être au moins 0.10.0.
 
 ![](https://miro.medium.com/max/1400/1*CrbWsx1rFiBNjkCepxbkPQ.png)
