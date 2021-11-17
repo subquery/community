@@ -13,7 +13,7 @@ Les participants au réseau SubQuery
 
 Il y a trois types de participants dans le réseau SubQuery :
 
--   Les**consommateurs**: Les consommateurs font des demandes au réseau SubQuery pour des données spécifiques et paient un montant annoncé de SQT.
+-   **Consommateurs**: Les consommateurs font des demandes au réseau SubQuery pour des données spécifiques et paient un montant annoncé de SQT.
 -   **Indexeurs**: Les indexeurs hébergent les projets SubQuery dans leur propre infrastructure, en exécutant à la fois le nœud et le service de requête pour indexer les données et répondre aux requêtes GraphQL.
 -   **Délégués**: Les délégués participeront au réseau en soutenant leurs indexeurs favoris afin de gagner des récompenses.
 
@@ -35,13 +35,13 @@ Ce paiement va dans un pool de revenus de projet et à la fin d'une période de 
 
 Il est réparti entre les indexeurs par une fonction de production dite Cobb-Douglas.
 
-Cette approche, en termes simples, signifie que les revenus sont alloués aux indexeurs concurrents en proportion des demandes auxquelles il est répondu et du montant des mises.
+Cette approche, en termes simples, signifie que les revenus sont alloués aux indexeurs concurrents en proportion des demandes auxquelles ils ont répondu et du montant des mises.
 
 ![](https://miro.medium.com/max/1400/1*VhDu2BGDxd3ob7z9XkoOXA.png)
 
 Les revenus sont alloués aux indexeurs concurrents en fonction des demandes auxquelles ils ont répondu et du montant des mises.
 
-À notre avis, la beauté de cette équation est qu'un indexeur rationnel doit maintenir un niveau élevé de SQT jalonné par rapport au travail qu'il effectue afin de recevoir un revenu optimal. Par conséquent, nous n'avons pas besoin d'appliquer des exigences arbitraires en matière de jalonnement, car les indexeurs sont incités à s'autogérer et à maintenir un enjeu ou une peau dans le jeu.
+À notre avis, la beauté de cette équation est qu'un indexeur rationnel doit maintenir un niveau élevé de SQT jalonné par rapport au travail qu'il effectue afin de recevoir un revenu optimal. Par conséquent, nous n'avons pas besoin d'appliquer des exigences arbitraires en matière de jalonnement, car les indexeurs sont incités à s'autogérer et à maintenir un jalonnement ou une main dans le jeu.
 
 ## Délégués
 
@@ -51,7 +51,7 @@ Les délégués peuvent déléguer leur SQT libre aux indexeurs, chaque indexeur
 
 ![](https://miro.medium.com/max/1400/1*YoN7PV7h3a2nAFN-ODqILg.png)
 
-Les délégués peuvent déléguer leur SQT libre aux indexeurs et ces délégués seront récompensés par une partie du revenu de la redevance de requête que l'indexeur est récompensé.
+Les délégués peuvent déléguer leur SQT libre aux indexeurs et ces délégués seront récompensés par une partie du revenu de la redevance de requête que par laquelle l'indexeur est récompensé.
 
 Le _taux de partage des revenus de la redevance de requête_ que les indexeurs annoncent est bloqué pour chaque période de jalonnement de 28 jours, et une diminution de ce taux doit être annoncée pour une période de jalonnement de 28 jours avant d'entrer en vigueur.
 
@@ -63,7 +63,7 @@ Les délégués ne recevront des récompenses que lorsqu'ils auront délégué p
 
 ## Bons de commande
 
-L'indexation d'un projet prend du temps et de l'argent, il y a beaucoup de données sur la chaîne. Afin d'encourager les indexeurs à indexer et à soutenir un tout nouveau projet de sous-quartier, nous prévoyons de mettre en place un mécanisme de marché permettant aux consommateurs de signaler des revenus garantis aux indexeurs de nouveaux projets de sous-quartier.
+L'indexation d'un projet prend du temps et de l'argent, il y a beaucoup de données sur la chaîne. Afin d'encourager les indexeurs à indexer et à soutenir un tout nouveau projet de SubQuery, nous prévoyons de mettre en place un mécanisme de marché permettant aux consommateurs de signaler des revenus garantis aux indexeurs de nouveaux projets de SubQuery.
 
 Nous appelons cela des bons de commande, et les consommateurs peuvent annoncer un contrat sur la chaîne pour un prix et un nombre de requêtes déterminés. Les indexeurs peuvent voir cela et choisir de remplir les contrats.
 
@@ -71,4 +71,4 @@ Nous appelons cela des bons de commande, et les consommateurs peuvent annoncer u
 
 Les consommateurs peuvent annoncer un ordre d'achat sur la chaîne pour un prix et un nombre de demandes déterminés.
 
-Les commandes peuvent également être placées sur des projets de sous-quêtes existants afin d'attirer des indexeurs supplémentaires pour améliorer la concurrence et diminuer les prix.
+Les commandes peuvent également être placées sur des projets de SubQuery existants afin d'attirer des indexeurs supplémentaires pour améliorer la concurrence et diminuer les prix.
