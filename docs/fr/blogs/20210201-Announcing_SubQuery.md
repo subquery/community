@@ -26,9 +26,9 @@ Pour que le rêve du Web 3.0 se réalise, il doit être aussi rapide (sinon plus
 
 C'est pourquoi nous sommes incroyablement fiers d'annoncer SubQuery, un projet open source qui permet aux utilisateurs d'exécuter un indexeur à travers leur chaîne pour construire un ensemble de données qui peut être interrogé avec GraphQL. Cette suite d'outils comprend une interface en ligne de commande qui permet aux projets de générer leur propre projet SubQuery, en définissant comment l'indexeur doit traverser et agréger leur propre réseau. Il existe un paquet de nœuds SubQuery qui indexe le réseau et prend en charge les requêtes GraphQL. Grâce à ces outils, tout le monde peut créer et exécuter des requêtes facilement.
 
-> _Vous pouvez commencer tout de suite en suivant notre exemple sur le dépôt Github de SubQuery_ [_: https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql).
+> _Vous pouvez commencer tout de suite en suivant notre exemple sur le dépôt Github de SubQuery:_ [_https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql).
 
-En outre, vous pouvez en savoir plus en lisant notre [documentation sur SubQuery](https://doc.subquery.network/) ou en visitant notre nouveau site Web à l'adresse <https://subquery.network/>.
+En outre, vous pouvez en savoir plus en lisant notre [documentation sur SubQuery](https://doc.subquery.network/) ou en visitant notre nouveau site Web à l'adresse [https://subquery.network/](https://subquery.network/)
 
 ![](https://miro.medium.com/max/1000/1*3oA1Hvns1vrImTsmowO_Jw.png)
 
