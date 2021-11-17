@@ -20,7 +20,7 @@ Vous pouvez également garder votre projet SubQuery privé en ne l'affichant pas
 
 Création d'un nouveau projet SubQuery
 
-Une fois que vous avez publié et déployé votre nouveau projet, vous pouvez interagir avec lui via notre point de terminaison GraphQL ou simplement jouer dans notre [terrain de jeu Explorer](https://explorer.subquery.network/)! Nous l'exécuterons comme s'il s'agissait d'une application de production, afin que vous puissiez débloquer vos données décentralisées dans votre prochaine dApp dès aujourd'hui en utilisant SubQuery.
+Une fois que vous avez publié et déployé votre nouveau projet, vous pouvez interagir avec celui-ci via notre point de terminaison GraphQL ou simplement jouer dans notre [terrain de jeu, l'explorateur SubQuery](https://explorer.subquery.network/)! Nous l'exécuterons comme s'il s'agissait d'une application de production, afin que vous puissiez débloquer vos données décentralisées dans votre prochaine dApp dès aujourd'hui en utilisant SubQuery.
 
 
 
