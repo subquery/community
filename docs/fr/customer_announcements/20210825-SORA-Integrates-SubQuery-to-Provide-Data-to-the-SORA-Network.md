@@ -1,41 +1,41 @@
-# SORA Integrates SubQuery to Provide Data to the SORA Network
+# SORA intègre SubQuery pour fournir des données au réseau de SORA
 
 ![sora-header.jpg](https://miro.medium.com/max/1400/1*fPPW0DsynIt9QpvK4ZrsUA.jpeg)
 
-Today we are pleased to announce an exciting new project on SubQuery — SORA and Polkaswap. [SORA](https://sora.org/) has built a SubQuery Project that retrieves data from the SORA network to power mobile applications built on SORA and [Polkaswap.io](http://polkaswap.io/). You can try it out [here](https://explorer.subquery.network/subquery/sora-xor/sora).
+Aujourd'hui, nous sommes heureux d'annoncer un nouveau projet passionnant sur SubQuery - SORA et Polkaswap. [SORA](https://sora.org/) a construit un projet SubQuery qui récupère les données du réseau SORA pour alimenter les applications mobiles construites sur SORA et Polkaswap [.io](http://polkaswap.io/). Vous pouvez l'essayer [ici](https://explorer.subquery.network/subquery/sora-xor/sora).
 
 ![sora-frontend.jpg](https://miro.medium.com/max/1400/1*pq0U6wsutlf8rjXqq7i2BQ.jpeg)
 
-> "SubQuery was selected to improve the UX of SORA network usage. We used SubQuery to get and list extrinsic details, calculate fiat prices and liquidity pool APY. Our goal was to get transaction history and aggregated data for applications that work with the SORA network.
+> "SubQuery a été choisi pour améliorer l'UX de l'utilisation du réseau SORA. Nous avons utilisé SubQuery pour obtenir et lister les détails extrinsèques, calculer les prix fiat et l'APY du pool de liquidité. Notre objectif était d'obtenir l'historique des transactions et des données agrégées pour les applications qui travaillent avec le réseau SORA.
 > 
-> SubQuery has been the ideal solution for our needs because the application is easy to deploy and manage, it is easy to learn and develop as well as being well documented, and it also has its own infrastructure with Github integration. SubQuery's plain data structuring provides fast access, it supports GraphQL API for client applications, it has a flexible configuration for parsing events, extrinsics, and blocks with additional filtration. Finally, the application is completely transparent for users, so they won't notice if the application was updated or stopped."—SORA Development Team
+> SubQuery a été la solution idéale pour nos besoins car l'application est facile à déployer et à gérer, elle est facile à apprendre et à développer, elle est bien documentée et elle a aussi sa propre infrastructure avec l'intégration de Github. La structuration simple des données de SubQuery permet un accès rapide, elle prend en charge l'API GraphQL pour les applications clientes, elle dispose d'une configuration flexible pour analyser les événements, les extrinsèques et les blocs avec un filtrage supplémentaire. Enfin, l'application est complètement transparente pour les utilisateurs, de sorte qu'ils ne remarqueront pas si l'application a été mise à jour ou arrêtée."-SORA Development Team
 
-Polkaswap is a leading DEX in the thriving Polkadot ecosystem and uses SubQuery to retrieve transfers, swaps that happen in Polkaswap, the addition or removal of liquidity, the flat price of tokens, and the APY for liquidity pools.
+Polkaswap est un DEX de premier plan dans l'écosystème florissant de Polkadot et utilise SubQuery pour récupérer les transferts, les échanges qui ont lieu dans Polkaswap, l'ajout ou la suppression de liquidités, le prix fixe des jetons et l'APY pour les pools de liquidités.
 
-SubQuery already makes developing the SORA mobile app and Polkaswap easier by reducing the time the team spends on building custom backend solutions and the team at SORA plan to expand their Polkaswap SubQuery Project to better support Polkaswap in the future.
+SubQuery facilite déjà le développement de l'application mobile de la SORA et de Polkaswap en réduisant le temps que l'équipe passe à construire des solutions backend personnalisées et l'équipe de la SORA prévoit d'étendre son projet SubQuery Polkaswap pour mieux soutenir Polkaswap à l'avenir.
 
 ![sora-explorer.jpg](https://miro.medium.com/max/1400/1*vjdjmmffvJ7zfOQyxo0ZAA.jpeg)
 
-In this example, we’re using SubQuery to pull the total amount of XOR that is held in each liquidity pool (filtered to show only the first 2 pools). This example also shows the current APY associated to each liquidity pool (filtered to show only the first 2 pools).
+Dans cet exemple, nous utilisons SubQuery pour extraire le montant total de XOR qui est détenu dans chaque pool de liquidité (filtré pour ne montrer que les 2 premiers pools). Cet exemple montre également le rendement annuel courant associé à chaque pool de liquidité (filtré pour ne montrer que les 2 premiers pools).
 
 ![sora-playground.jpg](https://miro.medium.com/max/1400/1*oTh-ajGfG1oEhYdvqo12tQ.jpeg)
 
-SORA is using [SubQuery Projects](https://project.subquery.network/) to manage their project and make updates as required. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/).
+SORA utilise [SubQuery Projects](https://project.subquery.network/) pour gérer son projet et effectuer les mises à jour nécessaires. Les services d'indexation et d'interrogation que nous fournissons sont entièrement gérés par SubQuery et mis à la disposition de la communauté Polkadot gratuitement dans l'[Explorateur de SubQuery](https://explorer.subquery.network/).
 
-Explore SORA's project in the SubQuery explorer [here](https://explorer.subquery.network/subquery/sora-xor/sora).
+Explorez le projet de SORA dans l'explorateur SubQuery [ici](https://explorer.subquery.network/subquery/sora-xor/sora).
 
 ---
 
-### About SORA
+### A propos de SORA
 
-SORA is creating a supranational world economic system with built-in tools for decentralized finance (DeFi) under the cryptographic sortition-based democratic supervision of the SORA Parliament.
+SORA crée un système économique mondial supranational avec des outils intégrés pour la finance décentralisée (DeFi) sous la supervision démocratique basée sur la sortition cryptographique du Parlement de SORA.
 
-The SORA network excels at providing tools for decentralized applications that use digital assets, such as atomic token swaps, bridging tokens to other blockchains, and creating programmatic rules involving digital assets.
+Le réseau SORA excelle dans la fourniture d'outils pour les applications décentralisées qui utilisent des actifs numériques, tels que les échanges de jetons atomiques, le pontage de jetons vers d'autres blockchains, et la création de règles programmatiques impliquant des actifs numériques.
 
-[Website](https://sora.org/) | [Reddit](https://www.reddit.com/r/SORA/) | [Blog](https://sora.org/blog) | [Telegram](https://t.me/sora_xor) | [Twitter](https://twitter.com/sora_xor) | [YouTube](https://youtube.com/sora_xor) | [Instagram](https://instagram.com/sora_xor)
+[Site Web](https://sora.org/) | [Reddit](https://www.reddit.com/r/SORA/) | [Blog](https://sora.org/blog) | [Telegram](https://t.me/sora_xor) | [Twitter](https://twitter.com/sora_xor) | [YouTube](https://youtube.com/sora_xor) | [Instagram](https://instagram.com/sora_xor)
 
-### About SubQuery
+### À propos de SubQuery
 
-[SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications (DApps). Currently focused on Polkadot and Substrate projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+[SubQuery](https://subquery.network/) est une couche décentralisée d'agrégation, d'indexation et d'interrogation de données entre les blockchains de couche 1 et les applications décentralisées (DApps). Actuellement axé sur les projets Polkadot et Substrate, ce data-as-a-service permet aux développeurs de se concentrer sur leur cas d'utilisation principal et leur front-end, sans avoir besoin de perdre du temps à construire un backend personnalisé pour le traitement des données.
 
-[Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Email](mailto:hello@subquery.network)
+[Site Web](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Email](mailto:hello@subquery.network)
