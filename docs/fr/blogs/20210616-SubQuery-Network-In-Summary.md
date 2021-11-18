@@ -1,6 +1,6 @@
 # Réseau SubQuery - Résumé
 
-> Comment fonctionne le réseau SubQuery ? [ELI5](https://www.dictionary.com/e/slang/eli5/#:\~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
+> Comment fonctionne le réseau SubQuery ? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
 
 Aujourd'hui, nous allons parler du fonctionnement du réseau SubQuery à un haut niveau.
 
@@ -15,11 +15,11 @@ Il y a trois types de participants dans le réseau SubQuery :
 
 -   **Consommateurs**: Les consommateurs font des demandes au réseau SubQuery pour des données spécifiques et paient un montant annoncé de SQT
 -   **Indexeurs**: Les indexeurs hébergent les projets SubQuery dans leur propre infrastructure, en exécutant à la fois le nœud et le service de requête pour indexer les données et répondre aux requêtes GraphQL.
--   **Délégués**: Les délégués participeront au réseau en soutenant leurs indexeurs favoris afin de gagner des récompenses.
+-   **Délégués**: Les délégués participeront au réseau en soutenant leurs indexeurs favoris afin de gagner des récompenses
 
 ## Indexeurs, consommateurs et requêtes
 
-Commençons par les indexeurs, qui effectuent une grande partie du travail en coulisse. Ils gèrent le matériel, font fonctionner l'infrastructure, surveillent les ressources et choisissent les bons projets de sous-requêtes à indexer.
+Commençons par les indexeurs, qui effectuent une grande partie du travail en coulisse. Ils gèrent le matériel, font fonctionner l'infrastructure, surveillent les ressources et choisissent les bons projets de sous-requêtes à indexer
 
 Cela prend du temps et de l'argent, mais une fois qu'ils l'ont fait, les consommateurs peuvent venir et faire des demandes. Les consommateurs feront des demandes au réseau SubQuery pour des données spécifiques et paieront un montant annoncé de notre jeton, SQT.
 
@@ -51,7 +51,7 @@ Les délégués peuvent déléguer leur SQT libre aux indexeurs, chaque indexeur
 
 ![](https://miro.medium.com/max/1400/1*YoN7PV7h3a2nAFN-ODqILg.png)
 
-Les délégués peuvent déléguer leur SQT libre aux indexeurs et ces délégués seront récompensés par une partie du revenu de la redevance de requête que par laquelle l'indexeur est récompensé.
+Les délégués peuvent déléguer leur SQT libre aux indexeurs et ces délégués seront récompensés par une partie du revenu de la redevance de requête que par laquelle l'indexeur est récompensé
 
 Le _taux de partage des revenus de la redevance de requête_ que les indexeurs annoncent est bloqué pour chaque période de jalonnement de 28 jours, et une diminution de ce taux doit être annoncée pour une période de jalonnement de 28 jours avant d'entrer en vigueur.
 
@@ -59,7 +59,7 @@ De même, les délégués peuvent retirer leurs montants de délégation à tout
 
 ![](https://miro.medium.com/max/1400/0*we0k4A07pbj86COZ)
 
-Les délégués ne recevront des récompenses que lorsqu'ils auront délégué pour toute la période d'enchères.
+Les délégués ne recevront des récompenses que lorsqu'ils auront délégué pour toute la période du staking
 
 ## Bons de commande
 
@@ -71,4 +71,4 @@ Nous appelons cela des bons de commande, et les consommateurs peuvent annoncer u
 
 Les consommateurs peuvent annoncer un ordre d'achat sur la chaîne pour un prix et un nombre de demandes déterminés.
 
-Les commandes peuvent également être placées sur des projets de SubQuery existants afin d'attirer des indexeurs supplémentaires pour améliorer la concurrence et diminuer les prix.
+Les commandes peuvent également être placées sur des projets de SubQuery existants afin d'attirer des indexeurs supplémentaires pour améliorer la concurrence et diminuer les prix
