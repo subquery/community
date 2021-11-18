@@ -1,6 +1,6 @@
 # Annonce de SubQuery
 
-## Transformez et interrogez les données du monde entier pour l'avenir du web3.0.
+## Transformez et interrogez les données du monde entier pour l'avenir du web3.0
 
 ![](https://miro.medium.com/max/1400/1*J5u22qNxndcuCrFJ1mfGqg.png)
 
@@ -10,9 +10,9 @@ Presque toutes les blockchains ont besoin de traiter et d'interroger des donnée
 
 Comme les systèmes décentralisés stockent les données à travers les réseaux, l'interrogation est lente et difficile. Pour que le rêve du Web 3.0 se réalise, il faut qu'il soit aussi rapide (sinon plus) que les réseaux centralisés pour l'utilisateur final. Les équipes de protocole construisent actuellement des serveurs d'indexation centralisés pour leurs propres projets, mais cela pose trois problèmes :
 
--   Les équipes de Polkadot/Substrate ne devraient pas avoir à se soucier de la construction ou de la gestion de ces serveurs pendant qu'elles construisent leur prochaine application numérique.
--   Les équipes réinventent constamment la roue ; l'avantage fondamental de l'interopérabilité parachain de Polkadot est d'éviter cela.
--   Selon nous, l'écosystème Substrate/Polkadot est prêt à atteindre le même niveau de croissance qu'Ethereum. Nous pensons qu'il doit fournir le même niveau de services communautaires qu'Ethereum.
+-   Les équipes de Polkadot/Substrate ne devraient pas avoir à se soucier de la construction ou de la gestion de ces serveurs pendant qu'elles construisent leur prochaine application numérique
+-   Les équipes réinventent constamment la roue ; l'avantage fondamental de l'interopérabilité parachain de Polkadot est d'éviter cela
+-   Selon nous, l'écosystème Substrate/Polkadot est prêt à atteindre le même niveau de croissance qu'Ethereum. Nous pensons qu'il doit fournir le même niveau de services communautaires qu'Ethereum
 
 ![](https://miro.medium.com/max/1400/1*l4b4BXWkczVDaHyv30lLQQ.png)
 
@@ -26,7 +26,7 @@ Pour que le rêve du Web 3.0 se réalise, il doit être aussi rapide (sinon plus
 
 C'est pourquoi nous sommes incroyablement fiers d'annoncer SubQuery, un projet open source qui permet aux utilisateurs d'exécuter un indexeur à travers leur chaîne pour construire un ensemble de données qui peut être interrogé avec GraphQL. Cette suite d'outils comprend une interface en ligne de commande qui permet aux projets de générer leur propre projet SubQuery, en définissant comment l'indexeur doit traverser et agréger leur propre réseau. Il existe un paquet de nœuds SubQuery qui indexe le réseau et prend en charge les requêtes GraphQL. Grâce à ces outils, tout le monde peut créer et exécuter des requêtes facilement.
 
-> _Vous pouvez commencer tout de suite en suivant notre exemple sur le dépôt Github de SubQuery:_ [_https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql).
+> _Vous pouvez commencer tout de suite en suivant notre exemple sur le dépôt Github de SubQuery:_ [_https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql)
 
 En outre, vous pouvez en savoir plus en lisant notre [documentation sur SubQuery](https://doc.subquery.network/) ou en visitant notre nouveau site Web à l'adresse [https://subquery.network/](https://subquery.network/)
 
@@ -46,9 +46,9 @@ SubQuery sera construit par l'équipe d'OnFinality, qui est une plateforme SaaS 
 
 **Sam Zou -** PDG[(LinkedIn](https://www.linkedin.com/in/sam-zou-5b8169a/))
 
-Entrepreneur, Investisseur avec plus de 20 ans d'expérience en informatique, spécialisé dans la conception d'infrastructures et de services cloud.
+Entrepreneur, Investisseur avec plus de 20 ans d'expérience en informatique, spécialisé dans la conception d'infrastructures et de services cloud
 
-**Ian He -** Responsable du protocole[(LinkedIn](https://www.linkedin.com/in/yin-he-7a266345/))
+**Ian He -** Responsable du protocole([LinkedIn](https://www.linkedin.com/in/yin-he-7a266345/))
 
 Architecte blockchain, Contributeur à polkadot-js, Adopteur précoce de la technologie Substrate et a remporté la deuxième place au premier hackathon Polkadot.
 
@@ -56,7 +56,7 @@ Architecte blockchain, Contributeur à polkadot-js, Adopteur précoce de la tech
 
 Architecte d'infrastructure et d'application, ingénieur logiciel primé.
 
-**James Bayly** - Responsable du développement commercial[(LinkedIn](https://www.linkedin.com/in/james-bayly/))
+**James Bayly** - Responsable du développement commercial([LinkedIn](https://www.linkedin.com/in/james-bayly/))
 
 Commencez à travailler sur le [dépôt Github de SubQuery.](https://github.com/OnFinality-io/subql)
 
