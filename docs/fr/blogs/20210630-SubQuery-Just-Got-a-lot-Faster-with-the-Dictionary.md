@@ -22,6 +22,6 @@ Vous pouvez en savoir plus sur le dictionnaire dans notre [documentation utile i
 
 Nous pensons que SubQuery est la meilleure option d'indexation des données disponible pour toute application numérique Polkadot/Substrate, et cette nouvelle implémentation du dictionnaire SubQuery nous permet d'améliorer encore notre service en accélérant le processus d'indexation de vos projets SubQuery.
 
-Vous pouvez l'essayer vous-même dans [SubQuery Projects](https://project.subquery.network/) ou visualiser les dictionnaires eux-mêmes dans [notre explorateur](https://explorer.subquery.network/). Afin d'utiliser un dictionnaire dans votre projet existant, votre version [@subql/cli](https://www.npmjs.com/package/@subql/cli) doit être au moins 0.10.0.
+Vous pouvez l'essayer vous-même dans [SubQuery Projects](https://project.subquery.network/) ou visualiser les dictionnaires eux-mêmes dans [notre explorateur](https://explorer.subquery.network/). Afin d'utiliser un dictionnaire dans votre projet existant, votre version [@subql/cli](https://www.npmjs.com/package/@subql/cli) doit être au moins 0.10.0
 
 ![](https://miro.medium.com/max/1400/1*CrbWsx1rFiBNjkCepxbkPQ.png)
