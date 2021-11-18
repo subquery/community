@@ -20,7 +20,7 @@ Depuis lors, SubQuery a lancé SubQuery Explorer. Il s'agit d'un service héberg
 
 Cette levée de fonds permettra de dynamiser le développement de SubQuery et d'accélérer la fourniture de services de données essentiels à la communauté Polkadot/Substrate. Cela inclut la création d'un service public gratuit pour héberger et gérer les projets communautaires SubQuery, la création d'une communauté autour du partage des données et des connaissances, et la tokenisation éventuelle de notre projet.
 
--   Essayez-le sur l'[explorateur SubQuery](https://explorer.subquery.network/).
+-   Essayez-le sur l'[explorateur SubQuery](https://explorer.subquery.network/)
 -   Plus d'informations sur la [documentation de SubQuery](https://doc.subquery.network/)
 -   Visitez notre [site Web](https://subquery.network/)
 
