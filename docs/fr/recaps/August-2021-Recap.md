@@ -20,7 +20,7 @@ Dans cette mise à jour mensuelle :
 
 Après avoir [lancé notre programme d'ambassadeurs](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) le mois dernier, nous avons été stupéfaits par l'engouement de la communauté et la qualité des participants. À ce jour, nous avons reçu un peu moins de 2 000 candidatures sur presque tous les continents (nous lançons un appel à candidatures pour l'Antarctique ☃️) et avons embarqué plus de 30 personnes jusqu'à présent.
 
-Tre a fait un excellent travail en dirigeant cette initiative et en [s'engageant auprès de la communauté sur Discord](https://discord.com/invite/78zg8aBSMG). Comme nous voyons déjà les avantages d'avoir une relation plus étroite avec les partisans de SubQuery, nous allons élargir l'équipe dans les prochaines semaines, alors soyez patient si vous n'avez pas encore entendu parler de nous !
+Tre a fait un excellent travail en menant cette initiative et[en s'engageant avec la communauté sur Discord](https://discord.com/invite/78zg8aBSMG). Comme nous voyons déjà les avantages d'avoir une relation plus étroite avec les partisans de SubQuery, nous allons élargir l'équipe dans les prochaines semaines, alors soyez patient si vous n'avez pas encore entendu parler de nous !
 
 ## Croissance énorme de la communauté 🚀
 
@@ -80,4 +80,4 @@ Comme toujours, n'hésitez pas à rejoindre nos canaux sociaux pour rester au co
 
 James, Sam, et l'équipe SubQuery
 
-[Site web](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Site Web](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
