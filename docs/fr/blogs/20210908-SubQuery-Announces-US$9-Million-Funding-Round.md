@@ -1,6 +1,6 @@
 # SubQuery annonce une levée de fonds de 9 millions de dollars US
 
-**Construction d'un protocole de données décentralisé pour l'écosystème Polkadot.Co-dirigé par Arrington Capital, DCG et Stratos Technologies. Co-dirigé par Arrington Capital, DCG et Stratos Technologies**
+**Construction d'un protocole de données décentralisé pour l'écosystème Polkadot. Co-dirigé par Arrington Capital, DCG et Stratos Technologies**
 
 ![](https://cdn-images-1.medium.com/max/1600/0*PR4oqrB9Am03VseR)
 
