@@ -34,9 +34,9 @@ Ne vous inquiétez pas de l'exécution des nœuds SubQuery de production, laisse
 
 [Suivez notre guide pour publier votre premier projet](https://doc.subquery.network/publish/publish.html) sur [SubQuery Projects](https://project.subquery.network)
 
-Commencez à interroger des données dans le nouvel [explorateur SubQuery](https://explorer.subquery.network/).
+Commencez à interroger des données dans le nouvel [explorateur SubQuery](https://explorer.subquery.network/)
 
-Créez votre propre projet SubQuery en suivant notre [documentation sur SubQuery](https://doc.subquery.network/).
+Créez votre propre projet SubQuery en suivant notre [documentation sur SubQuery](https://doc.subquery.network/)
 
 [Site web](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Twitter](https://twitter.com/subquerynetwork) | [Telegram](https://t.me/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
 
