@@ -8,7 +8,7 @@ Dans cette mise à jour mensuelle :
 
 -   De nouveaux partenaires SubQuery nous rejoignent
 -   Nous embauchons !
--   SubQuery fait partie du Web3.0 Bootcamp.
+-   SubQuery fait partie du Web3.0 Bootcamp
 
 ![](https://miro.medium.com/freeze/max/60/1*bFOaBnLZUfhRxiQa7fjbwA.gif?q=20)
 
@@ -18,7 +18,7 @@ Nous avons récemment contacté de nombreux protocoles, applications DeFi, dApps
 
 > Attendez-vous à ce que le flot de nouveaux projets de partenaires se transforme en un déluge.
 
-À la fin du mois de mai, nous comptons désormais un total de 48 projets hébergés sur SubQuery, notamment
+À la fin du mois de mai, nous comptons désormais un total de 48 projets hébergés sur SubQuery, notamment:
 
 -   [Fearless Wallet](https://fearlesswallet.io/) (un portefeuille Polkadot de premier plan avec lequel nous allons travailler en étroite collaboration),
 -   [KodaDot](https://kodadot.xyz/) et [NFTMart](https://www.nftmart.io/) (plates-formes NFT)
