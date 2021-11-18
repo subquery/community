@@ -1,6 +1,6 @@
 # SubQuery livre son SDK Open Source suite à une subvention de la Fondation Web3
 
-## Les développeurs peuvent désormais transformer et interroger les données du monde entier pour l'avenir du Web3.
+## Les développeurs peuvent désormais transformer et interroger les données du monde entier pour l'avenir du Web3
 
 ![](https://miro.medium.com/max/1400/1*f9Jw37LjUGu8P8W39cjDYw.png)
 
