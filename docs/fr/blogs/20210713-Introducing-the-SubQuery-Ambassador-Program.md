@@ -34,7 +34,7 @@ Chez SubQuery, nous travaillons dur pour réaliser ce que nous faisons. De même
 
 **Swag et autres choses gratuites :** Tout le monde aime les choses gratuites ! Recevez une allocation annuelle de cadeaux SubQuery qui vous permettront de vous démarquer. Plus une allocation supplémentaire que vous pourrez partager lors d'événements communautaires. Vous recevrez également un NFT exclusif pour votre statut d'ambassadeur.
 
-## Comment cela fonctionne-t-il ?
+## Comment cela fonctionne
 
 Notre programme Ambassadeur comporte plusieurs niveaux, chaque niveau offrant des avantages et des capacités différents. Vous pouvez gravir les échelons en participant aux activités des ambassadeurs et en travaillant dur pour nous.
 
