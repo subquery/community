@@ -6,7 +6,7 @@ Dans cette mise à jour mensuelle :
 
 -   Publication du Livre blanc
 -   Expansion de l'équipe 👩💻
--   Déploiements de staging 📥
+-   Déploiements de staging/pré-production 📥
 -   Service de dictionnaire SubQuery 📖
 -   Améliorer notre portée en Chine 🇨🇳
 
@@ -20,7 +20,7 @@ Des objectifs ambitieux nécessitent une équipe de premier ordre, et nous avons
 
 Nous sommes toujours à la recherche de nouveaux membres, en particulier dans les domaines suivants. Veuillez nous faire savoir si vous avez quelqu'un en tête :
 
--   [Responsable du marketing](https://angel.co/company/subquery/jobs/1494376-head-of-marketing) ou du développement commercial basé aux États-Unis et en Europe (il s'agit d'une opportunité rare à ne pas manquer).
+-   [Responsable du marketing](https://angel.co/company/subquery/jobs/1494376-head-of-marketing) ou du développement commercial basé aux États-Unis et en Europe (il s'agit d'une opportunité rare à ne pas manquer)
 -   [Ingénieurs SRE](https://angel.co/company/subquery/jobs/1497942-site-reliability-engineer)
 -   Développeurs[Rust](https://angel.co/company/subquery/jobs/1494414-rust-developer) et [Solidity](https://angel.co/company/subquery/jobs/1494435-solidity-developer)
 
