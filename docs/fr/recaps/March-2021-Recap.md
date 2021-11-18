@@ -1,61 +1,61 @@
-# March 2021 Recap
+# Récapitulatif de mars 2021
 
-It’s been an intense last couple of months at OnFinality and SubQuery, we’ve expanded the team and have brought on some new partners as we launch some key new projects. In this monthly update:
+Cela a été intense ces deux derniers mois chez OnFinality et SubQuery, Nous avons élargi notre équipe et mis en place de nouveaux partenaires au fur et à mesure que nous lançons des projets clés. Dans cette mise à jour mensuelle :
 
--   SubQuery Explorer
--   Seed round update
--   Our first partner use case for SubQuery
+-   L'Explorateur de SubQuery
+-   Mise à jour de la levée de fonds
+-   Notre premier cas d'utilisation de SubQuery par un partenaire
 -   Berkeley Blockchain Xcelerator
--   Intelligent routing
--   New office and team members
+-   Routage intelligent
+-   Nouveaux bureaux et membres de l'équipe
 
-## SubQuery Explorer goes Live
+## Lancement de SubQuery Explorer
 
-[SubQuery Explorer](https://explorer.subquery.network/) is an online hosted service that provides access to published SubQuery projects made by contributors in our community around the world and hosted by the SubQuery team. You can test queries directly in your browser, or get API endpoints for different use cases. Be inspired by what others are building so you can give back!
+[SubQuery Explorer](https://explorer.subquery.network/) est un service hébergé en ligne qui donne accès aux projets SubQuery publiés, réalisés par des contributeurs de notre communauté dans le monde entier et hébergés par l'équipe SubQuery. Vous pouvez tester des requêtes directement dans votre navigateur, ou obtenir des points de terminaison API pour différents cas d'utilisation. Laissez-vous inspirer par ce que les autres construisent pour pouvoir donner en retour !
 
-We run SubQuery projects in it like they’re production applications, so you can unlock your decentralized data in your next dApp today using SubQuery.
+Nous y exécutons les projets SubQuery comme s'il s'agissait d'applications de production. Vous pouvez donc déverrouiller vos données décentralisées dans votre prochaine application numérique dès aujourd'hui grâce à SubQuery.
 
 
 ![](https://miro.medium.com/max/1400/1*GE-Y6XKNOkj_MKY4ZuM5oQ.png)
 
-## **SubQuery Raises $1.8M seed round for future expansion**
+## **SubQuery lève 1,8 million de dollars pour son expansion future.**
 
-SubQuery is ready to grow and deliver! [We successfully raised a US$1.8 million seed round](https://subquery.medium.com/subquery-raises-1-8m-seed-round-for-future-expansion-3348c1f2a931) and private sale backed primarily by DeFi Alliance, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG), and The Lao. The overwhelming demand we received to back SubQuery’s seed round shows the strong interest in infrastructure services and belief in the future of the Polkadot ecosystem.
+SubQuery est prêt à se développer et à tenir ses promesses ! [Nous avons réussi à lever 1,8 million de dollars US lors d'un premier tour de table](https://subquery.medium.com/subquery-raises-1-8m-seed-round-for-future-expansion-3348c1f2a931) et d'une vente privée, soutenus principalement par DeFi Alliance, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG) et The Lao. La demande écrasante que nous avons reçue pour soutenir le tour de table de SubQuery montre le fort intérêt pour les services d'infrastructure et la confiance dans l'avenir de l'écosystème Polkadot.
 
-_We’re planning a subsequent private sale/raise later this year. If you’re interested in taking part please register here:_ [_https://forms.gle/6LMapDNSidQAqy347_](https://forms.gle/6LMapDNSidQAqy347)
+_Nous prévoyons une vente/levée privée ultérieure plus tard dans l'année. Si vous souhaitez participer, veuillez vous inscrire ici:_ [_https://forms.gle/6LMapDNSidQAqy347_](https://forms.gle/6LMapDNSidQAqy347).
 
-## **SubQuery Explorer welcomes its first partner use case**
+## **SubQuery Explorer accueille son premier cas d'utilisation partenaire**
 
-SubQuery is all about providing data services to our partners and customers. Every blockchain team and dApp builder has a need to process and query data quickly, and for the web3 dream to be realised, it’s got to be as fast (if not faster) than centralised networks for the end user. That’s why we’re ramping up our efforts to partner with the top Polkadot projects to provide free SubQuery services for their protocols.
+SubQuery a pour vocation de fournir des services de données à nos partenaires et clients. Chaque équipe de blockchain et chaque créateur de dApp a besoin de traiter et d'interroger des données rapidement. Pour que le rêve du web3 se réalise, il faut que l'utilisateur final soit aussi rapide (sinon plus) que les réseaux centralisés. C'est pourquoi nous intensifions nos efforts pour nous associer aux principaux projets Polkadot afin de fournir des services SubQuery gratuits pour leurs protocoles.
 
-[Earlier we launched our first partnership with our close friends at Acala](https://subquery.medium.com/subquery-integrates-acala-to-aggregate-and-serve-defi-data-to-polkadot-and-kusama-builders-fc9af6a7aae1) to allow users and developers to query and extract data from Acala’s DeFi hub for Polkadot in only minutes and at no cost. When you access the SubQuery Explorer you’ll be welcomed with a new Acala SubQuery Project. This SubQuery dynamically tracks all the extrinsic data created on Acala and can quickly show derived aggregated stats for the following:
+[Plus tôt, nous avons lancé notre premier partenariat avec nos amis proches d'Acala](https://subquery.medium.com/subquery-integrates-acala-to-aggregate-and-serve-defi-data-to-polkadot-and-kusama-builders-fc9af6a7aae1) pour permettre aux utilisateurs et aux développeurs d'interroger et d'extraire des données du hub DeFi d'Acala pour Polkadot en quelques minutes seulement et gratuitement. Lorsque vous accédez à l'explorateur de sous-qualités, vous êtes accueilli par un nouveau projet de sous-qualité Acala. Ce SubQuery suit dynamiquement toutes les données extrinsèques créées sur Acala et peut rapidement montrer des statistiques agrégées dérivées pour les éléments suivants :
 
--   Historical Data on liquidity changes (broken down by providers)
--   Historical Data on all cross chain asset swaps
--   Transfer history
+-   Données historiques sur les changements de liquidité (ventilées par fournisseurs)
+-   Données historiques sur tous les échanges d'actifs entre chaînes
+-   Historique des transferts
 
 ![](https://miro.medium.com/max/1400/0*LOig1jNfPTuVk73D)
 
-> You could create a dApp for lenders showing collateralization ratio, loan amount, interests accrued, etc. Or a service for decentralised exchanges with pair liquidity, pair exchange rate, trading volumes.
+> Vous pourriez créer une dApp pour les prêteurs montrant le ratio de collatéralisation, le montant du prêt, les intérêts courus, etc. Ou un service pour les échanges décentralisés avec la liquidité de la paire, le taux de change de la paire, les volumes d'échange.
 
-We’re planning to improve our partnership tools very soon and are planning on onboarding other top protocols in the next week or two at a rapid pace.
+Nous prévoyons d'améliorer nos outils de partenariat très bientôt et nous prévoyons d'intégrer d'autres protocoles de premier plan dans la semaine ou les deux semaines à venir à un rythme rapide.
 
-_Do you want to get started and create a new SubQuery project for your own dApp —_ [_get started now_](https://doc.subquery.network/quickstart.html)_. We’ll even host it in our_ [_SubQuery Explorer_](https://subquery.medium.com/announcing-the-subquery-explorer-48c051483730) _for free!_
+_Si vous souhaitez vous lancer et créer un nouveau projet SubQuery pour votre propre dApp -_ [_commencez dès maintenant_](https://doc.subquery.network/quickstart.html)_. Nous l'hébergerons même gratuitement dans notre_ [_SubQuery Explorer_](https://subquery.medium.com/announcing-the-subquery-explorer-48c051483730) _!_
 
 ## **Berkeley Blockchain Xcelerator**
 
-[We were excited to announce in March](https://subquery.medium.com/subquery-joins-berkeleys-blockchain-xcelerator-7ea81f96af73) that Berkeley has selected SubQuery to be part of their exclusive [Blockchain Xcelerator](https://www.xcelerator.berkeley.edu/). SubQuery (and it’s parent company OnFinality) were selected from over 200 applications to be part of just 21 exclusive spots.
+[Nous avons été ravis d'annoncer en mars](https://subquery.medium.com/subquery-joins-berkeleys-blockchain-xcelerator-7ea81f96af73) que Berkeley a sélectionné SubQuery pour faire partie de son [Blockchain Xcelerator](https://www.xcelerator.berkeley.edu/) exclusif. SubQuery (et sa société mère OnFinality) ont été sélectionnés parmi plus de 200 candidatures pour faire partie des 21 places exclusives.
 
-Berkeley’s blockchain Xcelerator is known around the world as one of the most successful blockchain accelerators for a reason. It has incubated over 40 companies that have raised over $25M in seed and early stage funding, and over 75% of the inaugural batch raised follow-on funding.
+Le blockchain Xcelerator de Berkeley est connu dans le monde entier comme l'un des accélérateurs de blockchain les plus performants, et ce n'est pas sans raison. Il a incubé plus de 40 entreprises qui ont levé plus de 25 millions de dollars en fonds d'amorçage et de démarrage, et plus de 75 % du lot inaugural a levé des fonds de suivi.
 
 ![](https://miro.medium.com/max/1400/0*t-_mRJaTnGDQO-VI)
 
-## **Intelligent Routing**
+## **Routage intelligent**
 
-We’ve recently been [awarded a treasury grant](https://kusama.polkassembly.io/treasury/72) to complete an intelligent routing layer that allows us to expose multiple clusters behind a single endpoint. This will allow us to scale our service better, and quickly fall over to redundant clusters in the unlikely event that some of our infrastructure goes down. Both OnFinality and SubQuery rely on this infrastructure so it’s important that we continue to invest and improve here.
+Nous avons récemment [reçu une subvention du Trésor](https://kusama.polkassembly.io/treasury/72) pour compléter une couche de routage intelligent qui nous permet d'exposer plusieurs clusters derrière un seul point de terminaison. Cela nous permettra de mieux adapter notre service et de passer rapidement à des clusters redondants dans le cas peu probable où une partie de notre infrastructure tomberait en panne. OnFinality et SubQuery reposent tous deux sur cette infrastructure. Il est donc important que nous continuions à investir et à nous améliorer dans ce domaine.
 
-## **New Staff and Office**
+## **Nouvelle équipe et nouveau bureau**
 
-One of the biggest changes over the past month is how much the team has grown. We’ve added two new staff over the past month and expect to hire more, as a result, we’ve found a new office in Auckland that fits us perfectly. We will grow, but still plan to remain small and nimble so we can deliver our product vision.
+L'un des plus grands changements survenus au cours du mois dernier est la croissance de l'équipe. Nous avons ajouté deux nouveaux employés au cours du dernier mois et nous prévoyons d'en embaucher d'autres. En conséquence, nous avons trouvé un nouveau bureau à Auckland qui nous convient parfaitement. Nous allons nous développer, mais nous prévoyons de rester petits et agiles afin de pouvoir concrétiser notre vision du produit.
 
 ![](https://miro.medium.com/max/1400/1*cJZxerXHfgVGu4-7h2xw4Q.jpeg)
