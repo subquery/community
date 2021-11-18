@@ -1,12 +1,12 @@
 # L'outil multi-signatures de Subscan - Powered by SubQuery
 
-![Subscan header.jpg](https://cdn-images-1.medium.com/max/1600/1*Xs3mJrvClJq3qBzWU48fjg.jpeg)
+![En-tête de Subscan..jpg](https://cdn-images-1.medium.com/max/1600/1*Xs3mJrvClJq3qBzWU48fjg.jpeg)
 
 Le nouvel [outil de portefeuille multi-signatures](https://medium.com/r/?url=https%3A%2F%2Fmultisig.subscan.io%2F) de Subscan est conçu pour aider les autres membres de l'écosystème Polkadot à créer et à gérer des comptes et des transactions multi-signatures. Il est soutenu par le [programme de subventions de la Fondation Web3](https://github.com/w3f/Grants-Program/blob/master/applications/multisignature_management_tool.md) et fournit des services pratiques de gestion de portefeuilles multi-signatures pour plusieurs réseaux basés dans Polkadot.
 
 Le service de SubQuery joue un rôle clé dans cet outil en fournissant des données rapides sur les transactions pour toute adresse multi-signature donnée, ce qui améliore l'UX et permet des fonctionnalités plus avancées.
 
-![Users can easily create new multi-signature addresses](https://cdn-images-1.medium.com/max/1600/1*e4AALzw8xzERhzBJgPUktQ.png)
+![Les utilisateurs peuvent facilement créer de nouvelles adresses multi-signatures](https://cdn-images-1.medium.com/max/1600/1*e4AALzw8xzERhzBJgPUktQ.png)
 
 > _"SubQuery nous a facilité l'indexation des données pour l'outil Subscan Multi-signature et peut être facilement exploité par notre équipe. Le service API de Subscan est standardisé, nous recommandons SubQuery à nos utilisateurs lorsqu'ils ont des besoins de personnalisation plus importantes."_- Subscan
 
