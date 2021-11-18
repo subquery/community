@@ -2,7 +2,7 @@
 
 ![](https://cdn-images-1.medium.com/max/800/1*Qcu5mFIs8eJhAXaMpWOlMQ.png)
 
-**SubQuery annonce des étapes clés, y compris le calendrier du TGE.**
+**SubQuery annonce des étapes clés, y compris le calendrier du TGE**
 
 Aujourd'hui, nous avons le plaisir de publier pour la première fois notre feuille de route technique détaillée. L'objectif de SubQuery est d'être le principal fournisseur de données dans l'écosystème Polkadot et le soutien que nous avons reçu de la communauté pour nous aider à réaliser cette vision a été incroyable. De notre établissement formel à la fin de 2020 via une [subvention Web3](https://web3.foundation/), à la publication de notre première version open source en janvier 2021, et à la [clôture de notre série A en septembre](https://subquery.medium.com/series-a-1abed6c1c2af), nous tenons à vous remercier pour tout votre soutien qui nous a permis d'atteindre ce stade !
 
@@ -10,7 +10,7 @@ Alors que nous continuons à prendre de l'élan, le temps est venu de partager d
 
 ## Notre avenir
 
-Alors que SubQuery sert déjà des millions de requêtes de données chaque jour à [plus de 60 projets sur Polkadot et Kusama](https://project.subquery.network/), nous voulions nous assurer que notre prochaine phase de croissance soit menée de manière organisée et contrôlée.
+Alors que SubQuery sert déjà des millions de requêtes de données chaque jour à [plus de 60 projets sur Polkadot & Kusama](https://project.subquery.network/), nous voulions nous assurer que notre prochaine phase de croissance soit menée de manière organisée et contrôlée.
 
 Pour cette raison, nous pensons qu'il est essentiel de démontrer et de tester pleinement l'évolutivité du réseau SubQuery par le biais d'un programme de testnet incitatif. Ce processus nous permettra également d'établir une communauté d'indexeurs avant le lancement public via un TGE en mars 2022 et notre éventuel mainnet plus tard l'année prochaine.
 
@@ -28,7 +28,7 @@ SubQuery introduira des filtres plus avancés que les autres indexeurs, permetta
 
 ### Académie SubQuery
 
-L'Académie est conçue pour permettre aux développeurs de se perfectionner et de s'autonomiser dans l'écosystème SubQuery en leur offrant une formation modulaire. Le [premier cours de l'académie,](https://doc.subquery.network/academy/herocourse/) le [_Hero Course_](https://doc.subquery.network/academy/herocourse/), a été lancé le vendredi 22 octobre 2021.
+L'Académie est conçue pour permettre aux développeurs de se perfectionner et de s'autonomiser dans l'écosystème SubQuery en leur offrant une formation modulaire. Le [premier cours de l'académie le _Hero Course_](https://doc.subquery.network/academy/herocourse/), a été lancé le vendredi 22 octobre 2021.
 
 Dans chaque module du _cours Hero_, il y a plusieurs leçons de 5 à 10 minutes qui sont délivrées par une vidéo enregistrée. Le contenu vidéo est accompagné de tutoriels écrits, de diapositives, de cahiers d'exercices et de liens vers le dépôt de code GitHub terminé.
 
@@ -60,7 +60,7 @@ Nous sommes enthousiasmés par le potentiel de cette initiative et nous publiero
 
 Nous allons améliorer notre SDK SubQuery de base et ajouter des composants supplémentaires pour un coordinateur et un client SubQuery.
 
-Le coordinateur d'indexation sera déployé par les indexeurs pour exposer le réseau à l'indexeur, et permettre à l'indexeur de s'enregistrer dans le réseau SubQuery et de faire la publicité des données qu'il met à disposition.
+Le coordinateur d'indexation sera déployé par les indexeurs pour exposer le réseau à l'indexeur, et permettre à l'indexeur de s'enregistrer dans le réseau SubQuery et de faire la publicité des données qu'il met à disposition
 
 Le client SDK sera destiné aux consommateurs et leur permettra de trouver des indexeurs et de gérer l'ensemble de la transaction dont un consommateur aura besoin pour récupérer et payer les données.
 
@@ -110,7 +110,7 @@ Dans le prolongement de notre niveau de service SubQuery Enterprise, vous pouvez
 
 ### Événement de génération de jetons SQT
 
-Après une phase de réseau de test réussie, nous prévoyons de lancer le jeton SubQuery sur un partenaire, Polkadot parachain. Nous partagerons plus d'informations sur notre tokenomics avec la communauté dans les semaines à venir.
+Après une phase de réseau de test réussie, nous prévoyons de lancer le jeton SubQuery sur un partenaire parachain de Polkadot. Nous partagerons plus d'informations sur notre tokenomics avec la communauté dans les semaines à venir.
 
 ### Lancement d'un testnet public incitatif avec micropaiements
 
@@ -150,7 +150,7 @@ Afin d'améliorer la liquidité du jeton SQT, nous allons créer un programme d'
 
 Après avoir terminé les tests du réseau SubQuery lancera le premier réseau principal SubQuery Network. C'est là que tout commence vraiment. Dans un premier temps, nous embarquerons et récompenserons les participants du réseau de test, puis il sera complètement ouvert à tous les membres de la communauté.
 
-### Lancement de la bourse centralisée
+### Lancement de l'échange centralisé
 
 Afin d'accroître l'adoption de SQT, nous prévoyons de lancer le jeton sur un, voire plusieurs grands CEX au cours de cette période, ainsi que sur de nombreux autres DEX.
 
@@ -170,6 +170,6 @@ Ceci étant dit, nous sommes encore loin du compte, et nous ne le ferons que lor
 
 ## À propos de SubQuery
 
-[SubQuery](https://subquery.network) est une couche décentralisée d'agrégation, d'indexation et d'interrogation de données entre les blockchains de niveau 1 et les applications décentralisées. Le protocole fait abstraction des idiosyncrasies des données de la blockchain grâce au SDK SubQuery, ce qui permet aux développeurs de se concentrer sur le déploiement de leur produit principal sans avoir à gaspiller leurs efforts sur des technologies dorsales personnalisées.
+[SubQuery](https://subquery.network) est une couche décentralisée d'agrégation, d'indexation & d'interrogation de données entre les blockchains de niveau 1 et les applications décentralisées. Le protocole fait abstraction des idiosyncrasies des données de la blockchain grâce au SDK SubQuery, ce qui permet aux développeurs de se concentrer sur le déploiement de leur produit principal sans avoir à gaspiller leurs efforts sur des technologies dorsales personnalisées.
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Site Web](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
