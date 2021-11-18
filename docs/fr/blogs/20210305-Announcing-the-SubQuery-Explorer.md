@@ -10,7 +10,7 @@ Nous avons fait des heures supplémentaires au cours du mois dernier pour publie
 
 Aujourd'hui, tout le monde peut interroger et extraire les données du réseau Polkadot en quelques minutes seulement et sans frais.
 
-L'explorateur SubQuery facilite la mise en route. Nous avons préconstruit des projets SubQuery pour deux cas d'utilisation (voir ci-dessous) et avons indexé chaque réseau. Nous hébergeons ces nœuds SubQuery en ligne et permettons à quiconque de les interroger gratuitement. Ces nœuds gérés seront surveillés et gérés par l'équipe SubQuery à un niveau de performance qui permettra aux applications de production de les utiliser et de s'y fier.
+L'explorateur SubQuery facilite la mise en route. Nous avons pré-construit des projets SubQuery pour deux cas d'utilisation (voir ci-dessous) et avons indexé chaque réseau. Nous hébergeons ces nœuds SubQuery en ligne et permettons à quiconque de les interroger gratuitement. Ces nœuds gérés seront surveillés et gérés par l'équipe SubQuery à un niveau de performance qui permettra aux applications de production de les utiliser et de s'y fier.
 
 ![](https://miro.medium.com/max/1400/0*3hmnk6sNoO5pdOWc)
 
@@ -29,12 +29,12 @@ Vous pouvez rapidement voir le montant minimum de mise requis pour qu'un validat
 Ce SubQuery Explorer n'est que le premier volet de notre projet de création d'un centre communautaire pour les données Polkadot. Nous allons poursuivre avec les fonctionnalités suivantes :
 
 -   Nous nous concentrons sur les outils communautaires, vous pouvez donc vous attendre à une documentation plus approfondie à l'intention des développeurs, à des didacticiels faciles à suivre et à des projets d'exemple qui mettent en évidence des cas d'utilisation vraiment intéressants pour les données que SubQuery fait apparaître.
--   D'autres projets SubQuery seront progressivement mis en ligne en fonction des commentaires de la communauté. Nous aimerions avoir des idées sur ce que vous aimeriez voir ensuite - contactez-nous sur l'un de nos canaux sociaux (voir ci-dessous).
+-   D'autres projets SubQuery seront progressivement mis en ligne en fonction des commentaires de la communauté. Nous aimerions avoir des idées sur ce que vous aimeriez voir ensuite - contactez-nous sur l'un de nos canaux sociaux (voir ci-dessous)
 -   Nous allons créer une plateforme partenaire, afin que notre communauté puisse créer et télécharger ses propres projets SubQuery et que nous les gérions et les hébergions pour vous gratuitement.
 
-Commencez à interroger des données dans le nouvel [explorateur SubQuery](https://explorer.subquery.network/).
+Commencez à interroger des données dans le nouvel [explorateur SubQuery](https://explorer.subquery.network/)
 
-Créez votre propre projet SubQuery en suivant notre [documentation sur SubQuery](https://doc.subquery.network/).
+Créez votre propre projet SubQuery en suivant notre [documentation sur SubQuery](https://doc.subquery.network/)
 
 Visitez notre [site Web](https://subquery.network/)
 
