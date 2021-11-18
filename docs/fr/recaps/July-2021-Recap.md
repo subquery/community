@@ -38,7 +38,7 @@ Au début du mois dernier, j'ai rejoint Jorrin Burns sur le Podcast Relay Chain 
 
 [Vous pouvez écouter le podcast sur votre plateforme préférée ici.](https://relaychain.fm/35-querying-the-worlds-data-with-subquery)
 
-> _"La documentation n'est peut-être pas un travail prestigieux, mais elle joue un rôle essentiel dans la communication du fonctionnement de quelque chose et nous permet de donner aux membres de notre communauté les moyens d'apprendre et de libérer leur créativité._ C*'est pourquoi nous pensons que la documentation est si importante* " - Sean Au (SubQuery Academy) C’est pourquoi nous pensons que la documentation est si importante »</em> — Sean Au (SubQuery Academy)
+> _"La documentation n'est peut-être pas un travail prestigieux, mais elle joue un rôle essentiel dans la communication du fonctionnement de quelque chose et nous permet de donner aux membres de notre communauté les moyens d'apprendre et de libérer leur créativité. C’est pourquoi nous pensons que la documentation est si importante »_ — Sean Au (SubQuery Academy)
 
 ![](https://miro.medium.com/max/1200/0*tvcfXFxHc6shdmAy.gif)
 
