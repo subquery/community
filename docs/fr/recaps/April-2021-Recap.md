@@ -39,7 +39,7 @@ OnFinality a également [livré sa proposition de trésorerie](https://kusama.po
 
 -   Notre responsable du développement commercial, James Bayly, a participé à une intéressante discussion virtuelle au coin du feu avec la DFG et James Wo dans le cadre de la série DFG Talks.
 
--   Notre participation au Berkeley Xcelerator a commencé - nous avons assisté à d'excellentes sessions jusqu'à présent.
+-   Notre temps dans le Xcelerator Berkeley a commencé — nous avons assisté à d'excellentes sessions jusqu'à présent
 -   Nous avons apporté des améliorations importantes à notre [site web SubQuery](https://subquery.network/).
 -   Une nouvelle version de la [documentation améliorée](https://doc.subquery.network/) pour les développeurs SubQuery
 -   Nos bureaux s'améliorent. Nous avons la chance de pouvoir travailler dans le même espace ici en Nouvelle-Zélande.
