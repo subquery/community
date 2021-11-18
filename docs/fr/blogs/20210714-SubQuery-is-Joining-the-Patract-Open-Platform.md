@@ -24,7 +24,7 @@ Patract Labs estime que le développement de la technologie de contrat Polkadot 
 
 À propos de Patract Labs
 
-Patract Labs fournit des solutions pour le développement de Parachains et DApps dans l'écosystème Wasm smart contract de Polkadot. Nous aidons la communauté à concevoir et à développer des modules de contrats on-chain et un support Runtime, et nous fournissons aux développeurs de DApp des outils et des services de soutien full-stack, couvrant les étapes de développement, de test, de débogage, de déploiement, de surveillance, de fournisseur de données et de développement front-end.
+Patract Labs fournit des solutions pour le développement de Parachains et DApps dans l'écosystème Wasm smart contract de Polkadot. Nous aidons la communauté à concevoir et à développer des modules de contrats on-chain et un support pendant la durée de fonctionnement, et nous fournissons aux développeurs de DApp des outils et des services de soutien full-stack, couvrant les étapes de développement, de test, de débogage, de déploiement, de surveillance, de fournisseur de données et de développement front-end.
 
 [Site web](https://patract.io/)｜[Element](https://app.element.io/#/room/#PatractLabsDev:matrix.org)｜[Twitter](https://twitter.com/PatractLabs)｜[GitHub](https://github.com/patractlabs) ｜[Discord](https://discord.gg/yMRMqcAb24) ｜[Telegram](https://t.me/patract)
 
