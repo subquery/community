@@ -6,9 +6,9 @@ La mission de Parallel est d'innover et de faire passer la DeFi au niveau supér
 
 ![](https://cdn-images-1.medium.com/max/1600/1*5Ru0mv1hq86BuBhGwsmoqQ.png)
 
-> _"SubQuery est un excellent outil qui a apporté la technologie traditionnelle d'indexation et de requête à Parallel Heiko. Le service plug-and-play nous a vraiment fait gagner beaucoup de temps dans le développement de notre propre outil d'indexation par blocs et dans la maintenance de notre propre solution."_- Parallel Finance\*
+> *"SubQuery est un excellent outil qui a apporté la technologie traditionnelle d'indexation & de requête à Parallel Heiko. Le service plug-and-play nous a vraiment fait gagner beaucoup de temps dans le développement de notre propre outil d'indexation par blocs et dans la maintenance de notre propre solution."*- Parallel Finance*
 
-Le service[de SubQuery](https://subquery.network/) aide Parallel Finance à stocker, analyser et interroger les données de son réseau de test Heiko actuel. Certaines de ces données sont utilisées directement dans la nouvelle application de Parallel, qui aide les utilisateurs à comprendre et à analyser les données de DeFi.
+Le service [de SubQuery](https://subquery.network/) aide Parallel Finance à stocker, analyser et interroger les données de son réseau de test Heiko actuel. Certaines de ces données sont utilisées directement dans la nouvelle application de Parallel, qui aide les utilisateurs à comprendre et à analyser les données de DeFi.
 
 ![](https://miro.medium.com/max/1200/1*Lmk8BvWg2YYTDZggHN82VQ.gif)
 
@@ -16,7 +16,7 @@ Grâce à SubQuery, vous pouvez rapidement interroger les données relatives aux
 
 ![](https://cdn-images-1.medium.com/max/1600/1*FDRgez-G26x1DkWqCkORMQ.png)
 
-> _"Nous apprécions de travailler avec l'équipe de SubQuery et le service client personnalisé qu'elle nous offre. Nous prévoyons de l'utiliser davantage à mesure que nous introduisons de nouvelles fonctionnalités dans notre application DeFi."_- Finance en parallèle
+> *"Nous apprécions de travailler avec l'équipe de SubQuery et le service client personnalisé qu'elle nous offre. Nous prévoyons de l'utiliser davantage à mesure que nous introduisons de nouvelles fonctionnalités dans notre application DeFi."*- Parallel Finance*
 
 Dans l'exemple ci-dessous, nous utilisons SubQuery pour afficher le taux de change historique de tous les actifs à chaque bloc.
 
@@ -24,7 +24,7 @@ Dans l'exemple ci-dessous, nous utilisons SubQuery pour afficher le taux de chan
 
 Parallel Finance utilise [SubQuery Projects](https://project.subquery.network/) pour gérer son propre projet et effectuer les mises à jour nécessaires. Les services d'indexation et d'interrogation que nous fournissons sont entièrement gérés par SubQuery et mis gratuitement à la disposition de la communauté Polkadot dans l'[Explorer de SubQuery](https://explorer.subquery.network/).
 
-[Vous pouvez explorer les données de Parallel Finance dans SubQuery dès aujourd'hui.](https://explorer.subquery.network/subquery/parallel-finance/parallel-finance)
+[Vous pouvez explorer les données de Parallel Finance dans SubQuery dès aujourd'hui](https://explorer.subquery.network/subquery/parallel-finance/parallel-finance)
 
 * * * * *
 
