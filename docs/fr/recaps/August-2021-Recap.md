@@ -6,7 +6,7 @@ Bienvenue dans la dernière mise à jour mensuelle de SubQuery. Dans la continui
 
 Dans cette mise à jour mensuelle :
 
--   Embauche d'ambassadeurs 👩💼
+-   Embauche d'ambassadeurs 👩
 -   Début des travaux sur le réseau SubQuery 🏗
 -   Croissance énorme de la communauté 🚀
 -   Nouveaux projets sur SubQuery 🤝
@@ -14,11 +14,11 @@ Dans cette mise à jour mensuelle :
 -   Activité en Chine 🇨🇳
 -   Livraison de la deuxième étape de l'API commune Polkadot ✅
 
-## Embauche d'ambassadeurs 👩
+## Recrutement d'ambassadeurs 👩
 
 ![](https://miro.medium.com/max/1400/0*_nOcsPjhQxta_FPH)
 
-Après avoir [lancé notre programme d'ambassadeurs](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) le mois dernier, nous avons été stupéfaits par l'engouement de la communauté et la qualité des participants. À ce jour, nous avons reçu un peu moins de 2 000 candidatures sur presque tous les continents (nous lançons un appel à candidatures pour l'Antarctique ☃️) et avons embarqué plus de 30 personnes jusqu'à présent.
+Après avoir[ lancé notre programme d'ambassadeurs ](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804)le mois dernier, nous avons été stupéfaits par l'engouement de la communauté et la qualité des participants. À ce jour, nous avons reçu un peu moins de 2 000 candidatures sur presque tous les continents (nous lançons un appel à candidatures pour l'Antarctique ☃️) et avons embarqué plus de 30 personnes jusqu'à présent.
 
 Tre a fait un excellent travail en menant cette initiative et[en s'engageant avec la communauté sur Discord](https://discord.com/invite/78zg8aBSMG). Comme nous voyons déjà les avantages d'avoir une relation plus étroite avec les partisans de SubQuery, nous allons élargir l'équipe dans les prochaines semaines, alors soyez patient si vous n'avez pas encore entendu parler de nous !
 
