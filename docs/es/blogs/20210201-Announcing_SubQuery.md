@@ -1,4 +1,4 @@
-# Anunciando SubQuery
+# Anuncio de SubQuery
 
 ## Transforma y consulta los datos del mundo para el futuro de web3.0
 
@@ -18,7 +18,7 @@ Dado que los sistemas descentralizados almacenan datos entre redes de consulta e
 
 El objetivo de SubQuery es ayudar a los proyectos Polkadot/Substrate a crear mejores dApps al permitir que cualquier persona encuentre y consuma datos de manera rápida y confiable. Nuestro servicio permite a los usuarios extraer, transformar y consultar datos, así como conectar y presentar datos en el futuro. Nuestro objetivo es hacer de esto una pieza central de infraestructura para el ecosistema Substrate/Polkadot, del mismo modo que el the graph se ha convertido para Ethereum.
 
-> SubQuery está aquí para ayudarlo a transformar y consultar los datos del mundo para un futuro web3.0.
+> SubQuery está aquí para ayudarte a transformar y consultar los datos del mundo para un futuro web3.0.
 
 ![](https://miro.medium.com/max/1000/1*IHstJG-hBwQzicLdWkGR5w.png)
 
@@ -32,7 +32,7 @@ Además, puedes obtener más información leyendo nuestros documentos de [SubQue
 
 ![](https://miro.medium.com/max/1000/1*3oA1Hvns1vrImTsmowO_Jw.png)
 
-Nos enfocaremos en construir un servicio alojado gestionado basado en esta oferta que será más rendidor y escalable. Vamos a proveer una infraestructura pública confiable que creará un poderoso nodo SubQuery en producción a partir de un proyecto SubQuery cargado. El servicio indexará, mantendrá el estado de la cadena y proveerá un punto final GraphQL de producción que puede reemplazar implementaciones auto-hospedadas. Nos concentraremos en esto para que todos puedan enfocarse en crear y hacer crecer su dApp.
+Nos enfocaremos en construir un servicio alojado gestionado basado en esta oferta que será más eficiente y escalable. Vamos a proveer una infraestructura pública confiable que creará un poderoso nodo SubQuery en producción a partir de un proyecto SubQuery cargado. El servicio indexará, mantendrá el estado de la cadena y proveerá un punto final GraphQL de producción que puede reemplazar implementaciones auto-hospedadas. Nos concentraremos en esto para que todos puedan enfocarse en crear y hacer crecer su dApp.
 
 Una vez que esto está en su lugar, nuestra fase final es tokenize el negocio de SubQuery construyendo nuestra propia cadena (probablemente parachain) para Polkadot. Aunque proporcionaremos un modelo de facturación similar para los usuarios empresariales y de alto consumo (plan de suscripción con niveles de consumo), guardaremos estos datos en nuestra cadena para que sean transparentes para todos y las partes participantes pueden apostar por recompensas como incentivos. Emitiremos un token de gobernanza para proporcionar estabilidad a la cadena y permitir que la comunidad influya en nuestra dirección y ruta.
 
@@ -50,7 +50,7 @@ Inversores con más de 20 años de experiencia en TI especializados en el diseñ
 
 **Ian He —** Jefe de Protocolo ([LinkedIn](https://www.linkedin.com/in/yin-he-7a266345/))
 
-Blockchain Architect, Contributor de polkadot-js, Early adopter of Substrate technology and won second place in the first Polkadot hackathon.
+Arquitecto de cadena de bloques y Colaborador de polkadot-js, pionero en la adopción de la tecnología Substrate y obtuvo el segundo lugar en el primer Polkadot hackathon.
 
 **James Xu —** Arquitecto de Soluciones ([LinkedIn](https://www.linkedin.com/in/zhexu/))
 
@@ -58,7 +58,7 @@ Infraestructura & Arquitecto de Aplicaciones, Ingeniero de software premiado.
 
 **James Bayly** — Jefe de Desarrollo de Negocios ([LinkedIn](https://www.linkedin.com/in/james-bayly/))
 
-Comience con el [repositorio SubQuery Github.](https://github.com/OnFinality-io/subql)
+Comience con el [repositorio de SubQuery en Github.](https://github.com/OnFinality-io/subql)
 
 Lea nuestra documentación de [SubQuery](https://doc.subquery.network/)
 

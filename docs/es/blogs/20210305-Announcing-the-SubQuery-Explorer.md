@@ -20,19 +20,19 @@ También notarás que SubQuery Explorer proporciona un campo de juego para descu
 
 ## **Staking Sum SubQuery Project (**[GitHub Project Code](https://github.com/subquery/subql-examples/tree/main/sum-reward))
 
-Usted puede encontrar rápidamente los ingresos totales de apuesta otorgados a cualquier cuenta desde el principio del tiempo consultando su dirección de cuenta. Este proyecto de subconsulta indexa y registra las cuentas que participan en el bono de apuesta en la cadena de bloques. El índice continuado descubrirá las recompensas obtenidas de apuesta y las barras de esta cuenta y agregará sus sumas a una base de datos.
+Usted puede encontrar rápidamente los ingresos totales de apuesta otorgados a cualquier cuenta desde el principio del tiempo consultando su dirección de cuenta. Este proyecto de SubQuery indexa y registra las cuentas que participan en el bono de apuesta en la cadena de bloques. El índice continuado descubrirá las recompensas obtenidas de apuesta y las barras de esta cuenta y agregará sus sumas a una base de datos.
 
-## **Umbral de validación del proyecto subquery (**[Código del proyecto GitHub](https://github.com/subquery/subql-examples/tree/main/validator-threshold))
+## **Umbral de validación del proyecto SubQuery (**[Código del proyecto en GitHub](https://github.com/subquery/subql-examples/tree/main/validator-threshold))
 
 Indexa la cantidad mínima de apuesta requerida para que un validador sea elegido. Este proyecto es un excelente ejemplo de implementación de estados de consulta en la función de mapeo. Primero encuentra la Era de la apuesta activa a través de una consulta estatal y registra cada uno de los validadores de esta sesión. Luego calcula la cantidad mínima de apuesta y la cantidad total apostada en esta era. Por último, registra el número máximo de nominadores que pueden ser recompensados.
 
 Este SubQuery Explorer es sólo el primer conjunto de nuestros planes para construir un centro comunitario para datos de Polkadot. Vamos a hacer un seguimiento con las siguientes características:
 
--   Nos estamos centrando en las herramientas de la comunidad, así que puedes esperar más documentación en profundidad para desarrolladores, sencillos de seguir los tutoriales, y proyectos de ejemplo que destacan algunos casos de uso realmente fresco para los datos que subQuery superficie.
+-   Nos estamos centrando en las herramientas de la comunidad, así que puedes esperar más documentación en profundidad para desarrolladores, sencillos de seguir los tutoriales, y proyectos de ejemplo que destacan algunos casos de uso realmente fresco para los datos que SubQuery superficie.
 -   Más proyectos de SubQuery se conectarán lentamente en base a comentarios de la comunidad, me encantarían algunas ideas sobre lo que te gustaría ver a continuación: contacta con cualquiera de nuestros canales sociales (ver abajo)
 -   Vamos a construir una plataforma de socios, para que nuestra comunidad pueda construir y cargar sus propios proyectos SubQuery y los gestionaremos y alojaremos gratis.
 
-Comiece a consultar datos en el nuevo [Explorador SubQuery](https://explorer.subquery.network/)
+Comenzar a consultar datos en el nuevo [SubQuery Explorer](https://explorer.subquery.network/)
 
 Construya su propio proyecto SubQuery siguiendo nuestros [documentos SubQuery](https://doc.subquery.network/)
 

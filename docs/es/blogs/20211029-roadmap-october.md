@@ -164,12 +164,12 @@ Este parachain propio nos permitirá innovar aún más en herramientas que puede
 
 ### La Fundacion SubQuery se mueve a un DAO
 
-This one is a long way off, but it’s always our dream the SubQuery eventually becomes a community owned DAO. We’ve said many times that the community plays a huge part in SubQuery, everything that we do is for our customers — becoming a DAO is the embodiment of that focus.
+Este está muy lejos, pero es siempre nuestro sueño que SubQuery eventualmente se convierta en una comunidad propiedad de DAO. Hemos dicho muchas veces que la comunidad juega un papel enorme en SubQuery, todo lo que hacemos es para nuestros clientes — convertirse en un DAO es la encarnación de ese enfoque.
 
-That being said, this is a long long way off, and will only be done once we are absolutely confident of SubQuery's success and future with the community.
+Dicho esto, estamos muy lejos y sólo se hará una vez que estemos absolutamente seguros del éxito y futuro de SubQuery con la comunidad.
 
-## About SubQuery
+## Acerca de SubQuery
 
-[SubQuery](https://subquery.network) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. The protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+[SubQuery](https://subquery.network) es una agregación de datos descentralizada, indexando & consultando capa entre blockchains Layer-1 y aplicaciones descentralizados. El protocolo abstrae las idiosincrasias de datos de blockchain con el SDK SubQuery, lo que permite a los desarrolladores enfocarse en desarrollar su producto principal sin desperdiciar esfuerzos innecesarios en tecnologías backend personalizadas.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
