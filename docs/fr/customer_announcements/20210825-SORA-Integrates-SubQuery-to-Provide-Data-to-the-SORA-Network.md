@@ -28,7 +28,7 @@ Explorez le projet de SORA dans l'explorateur SubQuery [ici](https://explorer.su
 
 ### A propos de SORA
 
-SORA crée un système économique mondial supranational avec des outils intégrés pour la finance décentralisée (DeFi) sous la supervision démocratique basée sur la sortition cryptographique du Parlement de SORA.
+SORA est en train de créer un système économique mondial supranational avec des outils intégrés pour la finance décentralisée (DeFi) sous le contrôle démocratique basé sur le tirage au sort cryptographique du Parlement de SORA.
 
 Le réseau SORA excelle dans la fourniture d'outils pour les applications décentralisées qui utilisent des actifs numériques, tels que les échanges de jetons atomiques, le pontage de jetons vers d'autres blockchains, et la création de règles programmatiques impliquant des actifs numériques.
 
