@@ -27,7 +27,7 @@ Esto lleva tiempo y dinero, pero una vez que lo tienen, los consumidores pueden 
 
 Los consumidores harán peticiones a la red de SubQuery para datos específicos y pagarán una cantidad anunciada de nuestro token, SQT.
 
-## Función de Producción Cobb-Dougla
+## Función de Producción Cobb-Douglas
 
 Este pago va en un grupo de ingresos del proyecto y al final de una era de apuestas, (28 días) tomamos este grupo de ingresos del proyecto y lo dividimos. Es escupido a través de los indexadores por algo llamado la función de producción Cobb-Douglas.
 
