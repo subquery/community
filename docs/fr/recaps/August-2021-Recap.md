@@ -14,7 +14,7 @@ Dans cette mise à jour mensuelle :
 -   Activité en Chine 🇨🇳
 -   Livraison de la deuxième étape de l'API commune Polkadot ✅
 
-## Embauche d'ambassadeurs 👩💼
+## Embauche d'ambassadeurs 👩
 
 ![](https://miro.medium.com/max/1400/0*_nOcsPjhQxta_FPH)
 
