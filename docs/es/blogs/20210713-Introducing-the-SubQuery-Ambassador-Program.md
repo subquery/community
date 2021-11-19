@@ -32,7 +32,7 @@ En SubQuery, trabajamos duro para lograr lo que hacemos. Del mismo modo, se espe
 
 **Desarrollo de red:** Espere que su red profesional crezca siendo un embajador de uno de los mejores proyectos Polkadot. Conoce a otros embajadores de todo el mundo y recibe presentaciones a proyectos locales de Polkadot que necesitamos apoyar localmente. Incluso puede obtener entrada gratuita para representar a SubQuery en eventos en su área local.
 
-**Swag y otras cosas gratis:** ¡A todo el mundo le gusta las cosas gratis! Recibe una asignación anual de SubQuery swag que te hará destacar del resto. Además de la asignación adicional que puedes compartir en eventos de la comunidad. También recibiás un NFT exclusivo para tu estatus de Embajador.
+**Swag y otras cosas gratis:** ¡A todo el mundo le gusta las cosas gratis! Recibe una asignación anual de SubQuery swag que te hará destacar del resto. Además de la asignación adicional que puedes compartir en eventos de la comunidad. También recibirás un NFT exclusivo para tu estatus de Embajador.
 
 ## ¿Cómo funciona?
 
