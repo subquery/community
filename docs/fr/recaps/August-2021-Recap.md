@@ -30,7 +30,7 @@ Nous sommes particulièrement heureux de cette croissance, car notre projet s'es
 
 Pour nous aider à accélérer cette croissance, et s'assurer que notre communauté est engagée et active dans l'écosystème, Rob a rejoint notre équipe en tant que nouveau chef du marketing. De plus, nous accueillons également Tre en tant que responsable du développement commercial stratégique aux États-Unis et en Europe.
 
-## J'ai commencé à travailler sur SubQuery Network 🏗
+## Début des travaux sur le réseau SubQuery 🏗
 
 Oui ! Le travail de [migration de SubQuery vers un réseau décentralisé et à jetons](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010); le SubQuery Network, a commencé ! Cette migration permettra de s'assurer qu'il n'y a pas de point de défaillance unique pour SubQuery et d'encourager les participants via le jeton SQT. Afin de nous aider dans ce changement important, nous avons recruté de nouveaux développeurs pour nous rejoindre ce mois-ci.
 
@@ -48,9 +48,9 @@ Le service de SubQuery joue un rôle clé dans [Subscan](https://www.subscan.io/
 
 Dans les deux cas, nous sommes reconnaissants d'avoir de tels retours de la part de nos partenaires :
 
-_"L'utilisation de Subquery rend la construction de dapps facile, plus besoin de faire une série compliquée d'appels pour obtenir les données dont j'ai besoin."_ - Brett (Développeur chez Acala)
+*"L'utilisation de Subquery rend la construction de dapps facile, plus besoin de faire une série compliquée d'appels pour obtenir les données dont j'ai besoin."* - Brett (Développeur chez Acala)
 
-_"SubQuery a été la solution idéale pour nos besoins car l'application est facile à déployer et à gérer, elle est facile à apprendre et à développer tout en étant bien documentée, et elle a également sa propre infrastructure avec l'intégration de Github"_ - Équipe de développement de SORA.
+*"SubQuery a été la solution idéale pour nos besoins car l'application est facile à déployer et à gérer, elle est facile à apprendre et à développer tout en étant bien documentée, et elle a également sa propre infrastructure avec l'intégration de Github"* - Équipe de développement de SORA.
 
 [Vous pouvez voir tous les projets facilement via notre Explorer ici](https://explorer.subquery.network/).
 
