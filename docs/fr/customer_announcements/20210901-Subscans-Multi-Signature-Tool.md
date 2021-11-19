@@ -1,4 +1,4 @@
-# L'outil multi-signatures de Subscan - Powered by SubQuery
+# Outil Multi-Signature de Subscan - Propulsé par SubQuery
 
 ![En-tête de Subscan..jpg](https://cdn-images-1.medium.com/max/1600/1*Xs3mJrvClJq3qBzWU48fjg.jpeg)
 
@@ -8,7 +8,7 @@ Le service de SubQuery joue un rôle clé dans cet outil en fournissant des donn
 
 ![Les utilisateurs peuvent facilement créer de nouvelles adresses multi-signatures](https://cdn-images-1.medium.com/max/1600/1*e4AALzw8xzERhzBJgPUktQ.png)
 
-> _"SubQuery nous a facilité l'indexation des données pour l'outil Subscan Multi-signature et peut être facilement exploité par notre équipe. Le service API de Subscan est standardisé, nous recommandons SubQuery à nos utilisateurs lorsqu'ils ont des besoins de personnalisation plus importantes."_- Subscan
+> *"SubQuery nous a facilité l'indexation des données pour l'outil Subscan Multi-signature et peut être facilement exploité par notre équipe. Le service API de Subscan est standardisé, nous recommandons SubQuery à nos utilisateurs lorsqu'ils ont des besoins de personnalisation plus importantes."*- Subscan
 
 ![](https://cdn-images-1.medium.com/max/1600/1*Hy-1IxJ3ZNQX7qC38H19Bg.png)
 
