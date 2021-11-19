@@ -20,7 +20,7 @@ Kami akan menjalankannya seperti aplikasi produksi, sehingga Anda dapat membuka 
 
 ## **SubQuery Mendapatkan Pendanaan Seed Round $1,8 juta untuk Ekspansi di Masa Depan**
 
-SubQuery siap berkembang dan ditayangkan! [Kami berhasil mengumpulkan putaran awal US$1,8 juta](https://subquery.medium.com/subquery-raises-1-8m-seed-round-for-future-expansion-3348c1f2a931) dan penjualan pribadi yang didukung terutama oleh DeFi Alliance, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG), dan The Lao. Permintaan luar biasa yang kami terima untuk mendukung putaran benih SubQuery menunjukkan minat yang kuat pada layanan infrastruktur dan keyakinan akan masa depan ekosistem Polkadot.
+SubQuery siap berkembang dan ditayangkan! [Kami berhasil mengumpulkan putaran awal US$1,8 juta](https://subquery.medium.com/subquery-raises-1-8m-seed-round-for-future-expansion-3348c1f2a931) dan penjualan pribadi yang didukung terutama oleh DeFi Alliance, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG), dan The Lao. Permintaan luar biasa yang kami terima untuk mendukung seed round SubQuery menunjukkan minat yang kuat pada layanan infrastruktur dan keyakinan akan masa depan ekosistem Polkadot.
 
 _Kami merencanakan penjualan/peningkatan pribadi berikutnya akhir tahun ini. Jika Anda tertarik untuk ikut serta, silakan mendaftar di sini:_ [_https://forms.gle/6LMapDNSidQAqy347_](https://forms.gle/6LMapDNSidQAqy347)
 
@@ -36,7 +36,7 @@ SubQuery adalah tentang menyediakan layanan data kepada mitra dan pelanggan kami
 
 ![](https://miro.medium.com/max/1400/0*LOig1jNfPTuVk73D)
 
-> Anda dapat membuat dApp untuk pemberi pinjaman yang menunjukkan rasio agunan, jumlah pinjaman, bunga yang masih harus dibayar, dll. Atau layanan untuk pertukaran terdesentralisasi dengan likuiditas pasangan, nilai tukar pasangan, volume perdagangan.
+> Anda dapat membuat dApp untuk pemberi pinjaman yang menunjukkan rasio jaminan, jumlah pinjaman, bunga yang masih harus dibayar, dll. Atau layanan untuk pertukaran terdesentralisasi dengan likuiditas pasangan, nilai tukar pasangan, volume perdagangan.
 
 Kami berencana untuk meningkatkan alat kemitraan kami segera dan berencana untuk menerapkan protokol teratas lainnya dalam satu atau dua minggu ke depan dengan cepat.
 
@@ -46,13 +46,13 @@ _Apakah Anda ingin memulai dan membuat proyek SubQuery baru untuk dApp Anda send
 
 [Kami sangat senang mengumumkan pada bulan Maret](https://subquery.medium.com/subquery-joins-berkeleys-blockchain-xcelerator-7ea81f96af73) bahwa Berkeley telah memilih SubQuery untuk menjadi bagian dari [Blockchain Xcelerator](https://www.xcelerator.berkeley.edu/) eksklusif mereka. SubQuery (dan perusahaan induknya OnFinality) dipilih dari lebih dari 200 aplikasi untuk menjadi bagian dari hanya 21 tempat eksklusif.
 
-Xcelerator blockchain Berkeley dikenal di seluruh dunia sebagai salah satu akselerator blockchain paling sukses karena suatu alasan. Ini telah menginkubasi lebih dari 40 perusahaan yang telah mengumpulkan lebih dari $25 juta dalam bentuk awal dan pendanaan tahap awal, dan lebih dari 75% dari batch perdana mengumpulkan pendanaan lanjutan.
+Xcelerator blockchain Berkeley dikenal di seluruh dunia sebagai salah satu akselerator blockchain paling sukses karena suatu alasan. Mereka telah menginkubasi lebih dari 40 perusahaan yang telah mengumpulkan lebih dari $25 juta dalam seed dan pendanaan tahap awal, dan lebih dari 75% dari batch perdana mengumpulkan pendanaan lanjutan.
 
 ![](https://miro.medium.com/max/1400/0*t-_mRJaTnGDQO-VI)
 
 ## **Perutean cerdas**
 
-Kami baru-baru ini [diberikan hibah perbendaharaan](https://kusama.polkassembly.io/treasury/72) untuk menyelesaikan lapisan perutean cerdas yang memungkinkan kami mengekspos beberapa kluster di belakang satu titik akhir. Ini akan memungkinkan kami untuk meningkatkan skala layanan kami dengan lebih baik, dan dengan cepat beralih ke cluster yang berlebihan jika beberapa infrastruktur kami tidak berfungsi. Baik OnFinality dan SubQuery mengandalkan infrastruktur ini, jadi penting bagi kami untuk terus berinvestasi dan meningkatkan di sini.
+Kami baru-baru ini [diberikan grant perbendaharaan](https://kusama.polkassembly.io/treasury/72) untuk menyelesaikan lapisan perutean cerdas yang memungkinkan kami mengekspos beberapa kluster di belakang satu titik akhir. Ini akan memungkinkan kami untuk meningkatkan skala layanan kami dengan lebih baik, dan dengan cepat beralih ke cluster yang berlebihan jika beberapa infrastruktur kami tidak berfungsi. Baik OnFinality dan SubQuery mengandalkan infrastruktur ini, jadi penting bagi kami untuk terus berinvestasi dan meningkatkan di sini.
 
 ## **Staf dan Kantor Baru**
 
