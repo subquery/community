@@ -6,9 +6,9 @@ Ces dernières semaines, les équipes de Karura et d'Acala ont célébré le lan
 
 Aujourd'hui, nous explorons comment SubQuery a aidé à rendre ce lancement possible. Karura utilise SubQuery pour extraire et interroger les données de la chaîne Karura, rendant les requêtes rapides et efficaces pour l'[application Karura](https://apps.karura.network/).
 
-> "L'utilisation de Subquery facilite la création de dapps. Je n'ai plus besoin de faire une série d'appels compliqués pour obtenir les données dont j'ai besoin "\* --- Brett (Développeur chez Acala)\*.
+> "L'utilisation de Subquery facilite la création de dapps. Je n'ai plus besoin de faire une série d'appels compliqués pour obtenir les données dont j'ai besoin."*---Brett (Développeur chez Acala)*
 
-Le développement de dApps sur Karura est désormais beaucoup plus rapide grâce aux nouveaux projets publics SubQuery publiés par Karura. Il y a un [projet SubQuery](https://explorer.subquery.network/subquery/AcalaNetwork/karura) disponible publiquement que la communauté Karura peut forker et construire n'importe quelle dApp qu'elle désire. De plus, un [dictionnaire Karura](https://explorer.subquery.network/subquery/AcalaNetwork/karura-dictionary) rend l'[indexation beaucoup plus rapide](https://subquery.medium.com/subquerys-just-got-a-lot-faster-with-the-dictionary-8a7a1447574).
+Le développement de dApps sur Karura est désormais beaucoup plus rapide grâce aux nouveaux projets publics SubQuery publiés par Karura. Il y a un [projet SubQuery](https://explorer.subquery.network/subquery/AcalaNetwork/karura) disponible publiquement que la communauté Karura peut fork et construire n'importe quelle dApp qu'elle désire. De plus, un [dictionnaire Karura](https://explorer.subquery.network/subquery/AcalaNetwork/karura-dictionary) rend l'[indexation beaucoup plus rapide](https://subquery.medium.com/subquerys-just-got-a-lot-faster-with-the-dictionary-8a7a1447574).
 
 ![](https://cdn-images-1.medium.com/max/1600/1*vvI_pI93mhe4kzSNQ2yMoQ.png)
 
@@ -18,11 +18,11 @@ Fondé par la Fondation Acala, Karura est un réseau évolutif, compatible EVM, 
 
 ![](https://cdn-images-1.medium.com/max/1600/0*g174RcFJwJcw2ITS)
 
-Karura propose également un modèle de distribution de jetons éthique et durable ainsi qu'un Trésor Karura sur la chaîne, qui soutiennent tous deux sa communauté et sa longévité. Karura a été la première parachain à remporter une enchère de créneaux parachain sur Kusama, recueillant un crowdloan de plus de 500 000 KSM (100 millions de dollars US) de la part de sa communauté. Parce que Karura s'appuie sur le nouveau Acala EVM, qui permet la compatibilité avec Ethereum avec une fonctionnalité illimitée de Substrate\*, le réseau est prêt à soutenir le déploiement des principaux projets DeFi qui visent à étendre leurs services au-delà d'Ethereum.
+Karura propose également un modèle de distribution de jetons éthique et durable ainsi qu'un Trésor Karura sur la chaîne, qui soutiennent tous deux sa communauté et sa longévité. Karura a été la première parachain à remporter une enchère de créneaux parachain sur Kusama, recueillant un crowdloan de plus de 500 000 KSM (100 millions de dollars US) de la part de sa communauté. Parce que Karura s'appuie sur le nouveau EVM Acala, qui permet la compatibilité avec Ethereum avec une fonctionnalité illimitée de Substrate*, le réseau est prêt à soutenir le déploiement des principaux projets DeFi qui visent à étendre leurs services au-delà d'Ethereum.
 
-*[Substrate](http://substrate.dev/)est le cadre de construction de la blockchain pour construire sur Polkadot et Kusama*
+*[Substrate](http://substrate.dev/)*est le cadre de construction de la blockchain pour construire sur Polkadot et Kusama*
 
-[Pour en savoir plus sur Karura, cliquez ici.](https://medium.com/acalanetwork/countdown-to-karura-a-deep-dive-on-the-defi-hub-of-kusama-410066fc1e1f)
+[Pour en savoir plus sur Karura, cliquez ici](https://medium.com/acalanetwork/countdown-to-karura-a-deep-dive-on-the-defi-hub-of-kusama-410066fc1e1f)
 
 ## Outils ouverts pour les créateurs de DApp Karura
 
