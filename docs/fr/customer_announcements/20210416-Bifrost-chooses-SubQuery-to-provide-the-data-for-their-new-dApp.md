@@ -21,7 +21,7 @@ Bifrost utilise [SubQuery Projects](https://project.subquery.network/) pour gér
 
 ![](https://miro.medium.com/max/1400/0*J9Rao6oyFMxVNWzZ)
 
-Un autre exemple de SubQuery pour récupérer le revenu total du jalonnement pour vDOT
+Un autre exemple de SubQuery pour récupérer le total des revenus de staking de vDOT
 
 [SubQuery](https://subquery.network/) est une couche d'agrégation de données qui fonctionnera entre les blockchains de niveau 1 (Bifrost) et les DApps. La solution agrège et organise les données de [Bifrost](https://bifrost.finance/) et d'autres blockchains, en fournissant des données bien structurées pour leur dApp et pour d'autres développeurs qui les utiliseront dans un large éventail de projets. Ce service permet aux développeurs de DApp de se concentrer sur leur cas d'utilisation principal et leur front-end, sans avoir à perdre de temps à construire un back-end personnalisé pour le traitement des données.
 
