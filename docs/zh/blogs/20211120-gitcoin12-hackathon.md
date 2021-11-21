@@ -1,4 +1,4 @@
-# SubQuery Announces Gitcoin Hackathon
+# SubQuery 公告 Gitcoin Hackathon
 
 ![](https://miro.medium.com/max/1400/1*deQMrJlp2aJ5YVAGoFhO-Q.png)
 
