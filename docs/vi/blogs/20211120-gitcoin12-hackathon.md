@@ -1,8 +1,8 @@
-# SubQuery Announces Gitcoin Hackathon
+# SubQuery thông báo Hackathon Gitcoin
 
 ![](https://miro.medium.com/max/1400/1*deQMrJlp2aJ5YVAGoFhO-Q.png)
 
-**The leading data indexer in Polkadot will participate in Gitcoin Grants Round 12**
+**Dự án lập chỉ mục dữ liệu hàng đầu Polkadot sẽ tham gia Vòng 12 của Gitcoin Grants**
 
 Hot on the heels of the overwhelming success of the SubQuery Academy’s “Hero Course”, we are proud to announce that we will be providing our first hackathon opportunity for all developers via Gitcoin Grants Round 12 starting on December 1st.
 
@@ -28,8 +28,8 @@ As part of the GR 12 Hackathon, SubQuery will be running workshops at the beginn
 
 [Discord](https://discord.gg/6PZUM3cFpz)  | [Website](http://www.gitcoin.co/)  |  [Twitter](https://twitter.com/gitcoin)  |  [GitHub](https://github.com/gitcoinco/)  |
 
-## Giới thiệu về SubQuery
+## About SubQuery
 
-[SubQuery](https://subquery.network/)  is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. Giao thức này loại bỏ các đặc điểm riêng của dữ liệu blockchain với SubQuery SDK, cho phép các nhà phát triển tập trung vào việc triển khai sản phẩm cốt lõi của họ mà không cần lãng phí một cách vô ích vào các công nghệ phụ trợ truyền thống.
+[SubQuery](https://subquery.network/)  is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. The protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
