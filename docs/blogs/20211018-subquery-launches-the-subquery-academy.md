@@ -11,8 +11,8 @@ Our first course is the  *SubQuery Hero Course*  and will be available from Frid
 -   Module 1 — Getting Started
 -   Module 2 — SubQuery Basics
 -   Module 3 — Relationships
--   Module 4 — SubQuery Projects & SubQuery Explorer
--   Module 5 — Aggregation and Event Calls
+-   Module 4 — Aggregation and Event Calls
+-   Module 5 — SubQuery Projects & SubQuery Explorer
 -   Module 6 — Tips & Tricks
 
 Within each module there are several 5 to 10 minute lessons which are delivered by a recorded video. The video content is accompanied by written tutorials, slides, Lab workbooks, and links to the finished GitHub code repository. The course is designed to get a developer from knowing nothing about SubQuery to becoming an expert in building a SubQuery data source for their new blockchain application. This includes developing complex SubQuery Projects and  [deploying them in SubQuery Projects](https://project.subquery.network/).
