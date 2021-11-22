@@ -4,59 +4,59 @@
 
 ![](https://miro.medium.com/max/1400/1*J5u22qNxndcuCrFJ1mfGqg.png)
 
-OnFinality’s mission is to support blockchain developers by providing infrastructure services to customers of all shapes and sizes. We’re launching a new venture that aims to solve a core problem to advance this mission: SubQuery.
+OnFinalityの使命は、あらゆる形やサイズのお客様にインフラストラクチャサービスを提供することでブロックチェーン開発者をサポートすることです。 私たちは、このミッションを前進させるためにコアな問題を解決することを目的とした新しいベンチャーを立ち上げています: SubQuery.
 
-Almost every blockchain has a need to process and query data. The thriving Polkadot community is going to need a service that allows them to reliably find and consume data quickly. Our project is inspired by [The Graph](https://thegraph.com/), an service currently focused on Ethereum that allows customers to do this using GraphQL.
+ほとんどすべてのブロックチェーンには、データを処理しクエリする必要があります。 繁栄しているポルカドットコミュニティは、データを迅速に確実に見つけて消費できるサービスを必要としています。 私たちのプロジェクトは、GraphQLを使用して顧客がこれを行うことを可能にするEthereumに現在焦点を当てているサービスである [The Graph](https://thegraph.com/)に触発されています。
 
-Since decentralised systems store data across networks querying is slow and hard. For the Web 3.0 dream to be realised, it’s got to be as fast (if not faster) than centralised networks for the end user. Protocol teams are currently building centralised indexing servers for their own projects, but this poses three issues:
+分散型システムは、クエリを行うネットワーク全体でデータを格納するため、遅くて難しいです。 Web 3.0の夢を実現するためには、エンドユーザーのための集中化されたネットワークよりも速い(速くない) 必要があります。 現在チームは、独自のプロジェクトのための集中型インデックスサーバーを構築していますが、これは3つの問題を引き起こします:
 
--   Polkadot/Substrate teams shouldn’t need to worry about building or managing this while they’re building the next dApp
--   Teams are constantly reinventing the wheel; the fundamental advantage of Polkadot’s parachain interoperability is to avoid this
--   In our view, the Substrate/Polkadot ecosystem is poised to reach the same level of growth as Ethereum. We believe that it needs to provide the same level of community services that Ethereum already has
+-   Polkadot / Substrateチームは、次のdAppを構築する際に、これを構築または管理することについて心配する必要はありません。
+-   チームは常にホイールを再発明します。Polkadotのパラチェーン相互運用性の基本的な利点はこれを避けることです。
+-   私たちの見解では、Substrate/PolkadotエコシステムはEthereumと同じレベルの成長に到達する準備ができています。 私たちは、Ethereumがすでに持っているのと同じレベルのコミュニティサービスを提供する必要があると考えています
 
 ![](https://miro.medium.com/max/1400/1*l4b4BXWkczVDaHyv30lLQQ.png)
 
-SubQuery’s aim is to help Polkadot/Substrate projects build better dApps by allowing anyone to reliably find and consume data faster. Our service will allow users to extract, transform, persist, and query data initially, as well as connect and present data in the future. Our aim is to make this a core piece of infrastructure for the Substrate/Polkadot ecosystem, just as The Graph has become for Ethereum.
+SubQueryの目的は、誰もが確実にデータをすばやく見つけて消費できるようにすることで、Polkadot / Substrateプロジェクトがより優れたdAppを構築できるようにすることです。 当社のサービスにより、ユーザーは最初にデータを抽出、変換、永続、クエリを行うことができ、将来的にデータを接続および提示することができます。 私たちの目標は、The GraphがEthereumのためになったように、Substrate/Polkadotエコシステムのためのインフラストラクチャのコアピースにすることです。
 
-> SubQuery is here to help you transform and query the world’s data for a web3.0 future.
+> SubQuery は、Web 3.0 の将来に向けて世界中のデータを変換してクエリするのに役立ちます。
 
 ![](https://miro.medium.com/max/1000/1*IHstJG-hBwQzicLdWkGR5w.png)
 
-For the Web 3.0 dream to be realised, it’s got to be as fast (if not faster) than centralised networks for the end user.
+Web 3.0の夢を実現するためには、エンドユーザーのための集中化されたネットワークよりも速い(速くない)　必要があります。
 
-That’s why we’re incredibly proud to announce SubQuery, an open source project that allows users to run an indexer across their chain to build a dataset that can be queried with GraphQL. This suite of tools includes a command line interface to allow projects to generate their own SubQuery project, defining how the indexer should traverse and aggregate their own network. There’s a SubQuery node package that indexes the network and supports GraphQL queries. With the help of these tools, anyone can create and run queries easily.
+SubQueryを発表できることを大変誇りに思っています。 ユーザーがチェーン全体でインデクサーを実行して、GraphQL で照会できるデータセットを構築できるオープンソースプロジェクト。 このツールスイートには、プロジェクトが独自の SubQuery プロジェクトを生成できるようにするためのコマンドラインインターフェイスが含まれています。 インデクサがどのようにネットワークを横断し集約すべきかを定義しました。 ネットワークをインデックス化しGraphQLクエリをサポートするSubQueryノードパッケージがあります。 これらのツールの助けを借りれば、誰でも簡単にクエリを作成して実行できます。
 
-> _You can get started right away by following our example on the SubQuery Github repository:_ [_https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql)
+> _SubQuery Github リポジトリの例を参照してください:_ [_https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql)
 
-Additionally, you can find out more by reading our [SubQuery docs](https://doc.subquery.network/) or visiting our new website at [https://subquery.network/](https://subquery.network/)
+さらに、 [SubQuery ドキュメント](https://doc.subquery.network/) を読むか、 [https://subquery.network/](https://subquery.network/) を読むことで、詳細を知ることができます。
 
 ![](https://miro.medium.com/max/1000/1*3oA1Hvns1vrImTsmowO_Jw.png)
 
-We’ll focus on building a managed hosted service based off this offering that will be more performant and scalable. We are going to provide trusty public infrastructure that will build a powerful productionised SubQuery node from an uploaded SubQuery project. The service will then index and persist the chain state, and provide a production GraphQL endpoint that can replace self-hosted implementations. We’re going to focus on this so that everyone else can focus on building and growing their dApp.
+私たちは、よりパフォーマンスが高く、スケーラブルになるこのオファーに基づいて管理されたサービスを構築することに焦点を当てます。 アップロードされたSubQueryプロジェクトから強力なプロダクションSubQueryノードを構築する信頼できるパブリックインフラストラクチャを提供します。 その後、サービスはチェーン状態をインデックスして保持し、自己ホストの実装を置き換えることのできる本番用のGraphQLエンドポイントを提供します。 私たちはこれに焦点を当て、誰もが自分のdAppの構築と成長に集中できるようにします。
 
-Once this is in place, our final phase is to tokenize the SubQuery business by building our own chain (likely parachain) for Polkadot. Although we’ll provide a similar billing model for enterprise and high consumption users (subscription plan with consumption levels), we’ll save this data to our chain to make it transparent to everyone and participating parties can stake for rewards as incentives. We’ll issue a governance token to provide stability to the chain and to allow the community to influence our direction and roadmap.
+一度これは場所にあります, 私たちの最終段階は、私たち自身のチェーンを構築することによってSubQueryビジネスをトークン化することです (可能性が高いparachain) のために Polkadot. 私たちは、エンタープライズと高消費ユーザー(消費レベルのサブスクリプションプラン)のために同様の課金モデルを提供しますが。 我々はこのデータをチェーンに保存して誰にでも透明にする 参加者は報酬を報酬として賭けることができる。 私たちは、チェーンに安定性を提供し、コミュニティが私たちの方向とロードマップに影響を与えることを可能にするためにガバナンストークンを発行します。
 
-Despite over 10 years of development since bitcoin first started, centralised networks are still the mainstream. It’s largely due to the speed and cost of accessing and writing to the network. Ethereum made a huge step forward with decentralised smart contracts (and the Graph is an incredibly successful piece of infrastructure as a result), but the core network is struggling to mitigate transaction costs.
+ビットコインが最初に開始されて以来10年以上の開発にもかかわらず、集中型ネットワークは依然として主流です。 主にネットワークへのアクセスと書き込みの速度とコストが原因です。 Ethereumは分散型スマートコントラクトで大きな一歩を踏み出しました(グラフは結果として非常に成功したインフラストラクチャです)。 しかしコアネットワークは取引コストを抑えるのに苦労しています。
 
-We saw Polkadot’s potential early and right from the start it felt natural to focus our efforts there. It solves Ethereum’s governance, forking, interoperability problems, and more. The core premise of Polkadot is to create a thriving community of developers, users, and businesses that will tap into its multichain interoperability — that community is going to need a service that allows them to reliably find and consume data quickly.
+私たちは、Polkadotの潜在的な早い段階から、最初から私たちの努力に焦点を当てるのは当然のことだと感じました。 それはEthereumのガバナンス、フォーク、相互運用性の問題などを解決します。 Polkadotの大前提は、マルチチェーンの相互運用性を活用する開発者、ユーザー、ビジネスの活発なコミュニティを作成することです。このコミュニティには、データを確実にすばやく見つけて消費できるサービスが必要です。
 
-Polkadot’s unique architecture means that we can focus on one network and then be able to support multiple current and future chains with ease. By putting in this effort now, even as Polkadot is still under development, we will be there ready to help the next generation of blockchain developers create the next big dApp.
+ポルカドットの独自のアーキテクチャは、1つのネットワークに集中し、現在および将来の複数のチェーンを簡単にサポートできることを意味します。 今この努力をすることによって、 Polkadot はまだ開発中です。 私たちは次世代のブロックチェーン開発者が次の大きなdAppを作成するのを支援する準備ができています。
 
-SubQuery will be built by the team at OnFinality, which is an infrastructure SaaS platform for blockchain teams and users to launch nodes and get access to a large range of blockchain protocols. We have a suite of symbiotic services including our API shared node service, and dedicated nodes that can be used in infrastructure management or as part of a protocol team’s CI/CD testing pipeline. We have relationships with the top Polkadot/Substrate teams, expertise in managed infrastructure hosting for the Substrate/Polkadot network, and the ability to deliver complex infrastructure projects and host them for production use.
+SubQuery は OnFinality のチームによって構築されます。 これは、ブロックチェーンチームとユーザーがノードを立ち上げ、広範なブロックチェーンプロトコルにアクセスするためのインフラストラクチャSaaSプラットフォームです。 私たちは、API共有ノードサービスを含む共生サービスのスイートを持っています また、インフラストラクチャ管理やプロトコルチームのCI/CDテストパイプラインの一部として使用できる専用ノードもあります。 私たちは、トップのポルカドット/基板チームとの関係、基板/ポルカドットネットワークのマネージドインフラストラクチャホスティングの専門知識、および複雑なインフラストラクチャプロジェクトを提供して本番環境で使用するためにそれらをホストする能力を持っています。
 
 **Sam Zou —** CEO ([LinkedIn](https://www.linkedin.com/in/sam-zou-5b8169a/))
 
-Entrepreneur, Investors with more than 20 years of IT experience specialising in infrastructure and cloud service design
+起業家、インフラストラクチャとクラウドサービス設計に特化した20年以上のIT経験を持つ投資家たち
 
-**Ian He —** Head of Protocol ([LinkedIn](https://www.linkedin.com/in/yin-he-7a266345/))
+**Sam Zou —** CEO ([LinkedIn](https://www.linkedin.com/in/yin-he-7a266345/))
 
 Blockchain Architect, Contributor to polkadot-js, Early adopter of Substrate technology and won second place in the first Polkadot hackathon.
 
 **James Xu —** Solutions Architect ([LinkedIn](https://www.linkedin.com/in/zhexu/))
 
-Infrastructure & Application Architect, Award-winning software engineer.
+インフラストラクチャ & アプリケーション アーキテクト, 受賞歴のあるソフトウェア エンジニア。
 
-**James Bayly** — Head of Business Development ([LinkedIn](https://www.linkedin.com/in/james-bayly/))
+**James Bayly** — ビジネス開発責任者([LinkedIn](https://www.linkedin.com/in/james-bayly/))
 
 Get started on the [SubQuery Github repository.](https://github.com/OnFinality-io/subql)
 
@@ -68,5 +68,5 @@ Follow us on:
 
 -   [Telegram](https://t.me/subquerynetwork)
 -   [Twitter](https://twitter.com/subquerynetwork)
--   [Matrix](https://matrix.to/#/%23subquery:matrix.org)
+-   [Matrix](https://matrix.to/#/ubquery:matrix.org)
 -   [LinkedIn](https://www.linkedin.com/company/subquery)
