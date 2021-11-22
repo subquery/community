@@ -11,8 +11,8 @@ Notre premier cours est le  *cours SubQuery Hero* et sera disponible à partir d
 -   Module 1 - Mise en route
 -   Module 2 - Les bases de SubQuery
 -   Module 3 - Relations
--   Module 4 - Projets SubQuery & SubQuery Explorer
--   Module 5 - Agrégation et appels d'événements
+-   Module 4 — Aggregation and Event Calls
+-   Module 5 — SubQuery Projects & SubQuery Explorer
 -   Module 6 - Conseils & astuces
 
 Chaque module comprend plusieurs leçons de 5 à 10 minutes, présentées sous forme de vidéo enregistrée. Le contenu de la vidéo est accompagné de tutoriels écrits, de diapositives, de cahiers d'exercices et de liens vers le dépôt de code GitHub. Le cours est conçu pour permettre à un développeur de ne rien connaître de SubQuery et de devenir un expert dans la construction d'une source de données SubQuery pour sa nouvelle application blockchain. Cela inclut le développement de projets SubQuery complexes et [leur déploiement dans des projets SubQuery](https://project.subquery.network/).
