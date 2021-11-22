@@ -1,6 +1,6 @@
-# Announcing SubQuery
+# SubQueryのお知らせ
 
-## Transform and query the world’s data for the web3.0 future
+## Web3.0の将来のために世界のデータを変換してクエリする
 
 ![](https://miro.medium.com/max/1400/1*J5u22qNxndcuCrFJ1mfGqg.png)
 
