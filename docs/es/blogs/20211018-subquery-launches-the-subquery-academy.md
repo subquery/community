@@ -1,23 +1,23 @@
-# SubQuery lanza la Academia de SubQuery
+# SubQuery Launches The SubQuery Academy
 
 ![](https://miro.medium.com/max/700/1*5zmCSCrmqL2gGE-BP_6rDQ.png)
 
-Ayudando a los desarrolladores a construir las aplicaciones del mañana
+Helping developers build the applications of tomorrow
 
-Nos complace anunciar el lanzamiento de The SubQuery Academy. La Academia está diseñada para mejorar las habilidades y capacitar a los desarrolladores en el ecosistema de SubQuery proporcionándoles un programa modular. El contenido de este programa tomará a un aspirante desarrollador de blockchain desde principio a avanzado, y es  [100% gratis y accesible en línea](https://doc.subquery.network/).
+We are pleased to announce the launch of The SubQuery Academy. The Academy is designed to up-skill and empower developers in the SubQuery ecosystem by providing them with a modular programme. The content of this programme will take an aspiring blockchain developer from beginning to advanced , and is  [100% free and accessible online](https://doc.subquery.network/).
 
-Nuestro primer curso es el  *SubQuery Hero Course*  y estará disponible a partir del viernes 22 de octubre de 2021. El curso será lanzado con un nuevo módulo cada semana durante seis semanas basado en la siguiente estructura:
+Our first course is the  *SubQuery Hero Course*  and will be available from Friday 22 October 2021. The course will be released with a new module every week for six weeks based on the following structure:
 
--   Módulo 1 — Comenzando
--   Module 2 — SubQuery Basicos
--   Módulo 3 — Relaciones
+-   Module 1 — Getting Started
+-   Module 2 — SubQuery Basics
+-   Module 3 — Relationships
 -   Module 4 — Aggregation and Event Calls
 -   Module 5 — SubQuery Projects & SubQuery Explorer
--   Módulo 6 — Consejos & Trucos
+-   Module 6 — Tips & Tricks
 
-Dentro de cada módulo hay varias lecciones de 5 a 10 minutos que son entregadas por un vídeo grabado. El contenido en vídeo está acompañado de tutoriales escritos, diapositivas, libros de trabajo de Lab, y enlaces al repositorio de código de GitHub terminado. El curso está diseñado para que un desarrollador de no saber nada sobre SubQuery logre convertirse en un experto en la construcción de una fuente de datos de SubQuery para su nueva aplicación blockchain. Esto incluye desarrollar proyectos complejos de SubQuery y  [implementarlos en Proyectos de SubQuery](https://project.subquery.network/).
-> *“SubQuery ha sido diseñado para ayudar a los desarrolladores a desbloquear el valor de los datos de blockchain de forma fácil y rápida. Es por eso que incorporar a nuevos desarrolladores y enseñarles las habilidades que necesitan para construir las aplicaciones del futuro es increíblemente importante para el éxito de nuestra comunidad. El Curso de Héroe de SubQuery va a ser el primero de muchos cursos que enseñan habilidades valiosas en nuestra nueva academia de SubQuery”* — James Bayly (Director de Desarrollo de Empresas)
+Within each module there are several 5 to 10 minute lessons which are delivered by a recorded video. The video content is accompanied by written tutorials, slides, Lab workbooks, and links to the finished GitHub code repository. The course is designed to get a developer from knowing nothing about SubQuery to becoming an expert in building a SubQuery data source for their new blockchain application. This includes developing complex SubQuery Projects and  [deploying them in SubQuery Projects](https://project.subquery.network/).
+> *“SubQuery has been designed to help developers unlock value from blockchain data easily and quickly. That’s why onboarding new developers and teaching them the skills they need to build the dApps of tomorrow is incredibly important to the success of our community. The SubQuery Hero Course is going to be the first of many courses teaching valuable skills in our new SubQuery Academy”* — James Bayly (Head of Business Development)
 
-En los próximos meses, añadiremos contenido adicional a nuestro *Curso de Héroe de SubQuery* así que ten en cuenta las actualizaciones. Además, también traduciremos el material de los cursos existentes a varios idiomas para ayudar a avanzar hacia nuestra misión de hacer más accesibles los datos descentralizados del mundo!
+In the next few months, we will be adding bonus content to our *SubQuery Hero Course* so please watch out for updates. In addition, we will also be translating the existing course material to various languages to help drive towards our mission of making the world’s decentralised data more accessible!
 
 [Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
