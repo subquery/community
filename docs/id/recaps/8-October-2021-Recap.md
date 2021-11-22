@@ -67,6 +67,6 @@ We held our first-ever community call on October 28th to share our roadmap and t
 
 If you would like to learn more you can view all projects easily via our Explorer here.
 
-As always, please join our social channels to stay updated on our latest news and announcements. James, Sam, and the SubQuery Team
+Seperti biasa, silakan bergabung dengan channel sosial kami untuk tetap mendapatkan berita dan pengumuman terbaru kami. James, Sam, dan Tim SubQuery
 
 [Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
