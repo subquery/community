@@ -2,7 +2,7 @@
 
 ![](https://miro.medi.com/max/1400/1*k5cScGKMiC45i_N-em3x0Q.png)
 
-8月，[SubQuery启动了其大使方案](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) ，以唤醒波卡和搜易的社区领袖的热情。 我们的目标是找到能够在本地传播关于SubQuery的信息的自启动器，并为新开发者在 Polkadot 建造惊人的应用和服务提供支持。
+8月，[SubQuery启动了其大使方案](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) ，以唤醒Polkadot和SubQuery的社区领袖的热情。 我们的目标是找到能够在本地传播关于SubQuery的信息的自启动器，并为新开发者在 Polkadot 建造惊人的应用和服务提供支持。
 
 我们本不期望接下来会发生的情况！
 
@@ -10,7 +10,7 @@
 
 在与现任大使协商后，我们设计了一个新的大使馆。 以及一种可以升级到 [我们的Discord社区](https://discord.com/invite/subquery) 大使的方法。
 
-今天，我们高兴地宣布SubQuery Spartan方案的制定。 Spartan方案完全存在于我们的Discord社区，在那里，有成为大使愿景的人可以完成每月的任务和竞赛，以赢得Spartan标签。 现任大使将向SubQuery小组推荐那些达到最高贡献等级的Spartan人加入其队伍。
+今天，我们高兴地宣布SubQuery Spartan计划的制定。 Spartan计划完全存在于我们的Discord社区，在那里，有成为大使愿景的人可以完成每月的任务和竞赛，以赢得Spartan标签。 现任大使将向SubQuery小组推荐那些达到最高贡献等级的Spartan人加入其队伍。
 
 除了有可能成为大使之外， 获得Spartan身份的Discord成员在社区内将获得特殊的津贴以及权利。
 
