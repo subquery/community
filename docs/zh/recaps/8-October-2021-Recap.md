@@ -1,4 +1,4 @@
-# 2021年9月回顾
+# 2021年10月回顾
 
 ![](https://miro.medium.com/max/1400/1*Yf3LOc6onAZ-XRQLPyxAmQ.png)
 
@@ -70,6 +70,6 @@
 
 如果您想了解更多信息，您可以通过我们的资源管理器轻松地查看所有项目。
 
-请一如既往地加入我们的社交频道，随时了解我们的最新消息和公告。 James, Sam, 和SubQuery团队
+请一如往常那般加入我们的社交频道，随时了解我们的最新消息和公告。 James, Sam, 和SubQuery团队
 
 [Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
