@@ -22,21 +22,21 @@ SubQueryはOnFinalityのチームによって構築されます。 これは、�
 
 私たちは、よりパフォーマンスが高く、スケーラブルになるこのオファーに基づいて管理されたサービスを構築することに焦点を当てます。 アップロードされた SubQuery プロジェクトから強力なプロダクション化された SubQuery ノードを構築する信頼性の高いパブリックインフラストラクチャを提供します。 その後、サービスはチェーン状態をインデックスして保持し、自己ホストの実装を置き換えることのできる本番用のGraphQLエンドポイントを提供します。 私たちはこれに焦点を当て、誰もが自分のdAppの構築と成長に集中できるようにします。
 
-We saw Polkadot’s potential early and right from the start it felt natural to focus our efforts there. The core premise of Polkadot is to create a thriving community of developers, users, and businesses that will tap into its multichain interoperability — that community is going to need a service that allows them to reliably find and consume data quickly.
+私たちは、Polkadotの潜在的な早い段階から、最初から私たちの努力に焦点を当てるのは当然のことだと感じました。 Polkadotの中核となる前提は、マルチチェーンの相互運用性を活用する開発者、ユーザー、企業の繁栄するコミュニティを作成することです。そのコミュニティには、データを迅速に確実に見つけて消費できるサービスが必要になります。
 
-Polkadot’s unique architecture means that we can focus on one network and then be able to support multiple current and future chains with ease. Even though Polkadot is still under development, we will be there ready to help the next generation of blockchain developers create the next big dApp.
+ポルカドットのユニークなアーキテクチャは、1つのネットワークに集中し、複数の現在および将来のチェーンを簡単にサポートできることを意味します。 ポルカドットはまだ開発中ですが、次世代のブロックチェーン開発者が次の大きなdAppを作成するのを支援する準備ができています。
 
-Get started on the [SubQuery Github repository.](https://github.com/OnFinality-io/subql)
+[SubQuery Github リポジトリから始めましょう。](https://github.com/OnFinality-io/subql)
 
-Read our [SubQuery docs](https://doc.subquery.network/)
+[SubQuery Docs](https://doc.subquery.network/) を読んでください
 
-[Visit our new website](https://subquery.network/)
+[新しいウェブサイトを見る](https://subquery.network/)
 
-Learn more about Web3 Foundation by visiting their [website](https://web3.foundation/). To follow the latest developments at Web3 Foundation, join them on [Reddit](https://www.reddit.com/r/dot/) or [Twitter](https://twitter.com/web3foundation).
+Web3 Foundationの詳細については、 [ウェブサイト](https://web3.foundation/) をご覧ください. Web3 Foundationでの最新の開発をフォローするには、 [Reddit](https://www.reddit.com/r/dot/) または [Twitter](https://twitter.com/web3foundation) に参加してください。
 
-Follow us on:
+ぜひフォローしてください
 
--   [Telegram](https://t.me/subquerynetwork)
--   [Twitter](https://twitter.com/subquerynetwork)
--   [Matrix](https://matrix.to/#/%23subquery:matrix.org)
+-   [テレグラム](https://t.me/subquerynetwork)
+-   [ツイッター](https://twitter.com/subquerynetwork)
+-   [マトリックス](https://matrix.to/#/ubquery:matrix.org)
 -   [LinkedIn](https://www.linkedin.com/company/subquery)
