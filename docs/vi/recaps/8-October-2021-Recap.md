@@ -63,10 +63,10 @@ Chúng tôi đã tổ chức cuộc nói chuyện với cộng đồng lần đ�
 # Những thứ khác bạn có thể đã bỏ lỡ
 
 -   Chúng tôi đã hợp tác với Acala để cung cấp [nhóm giải thưởng lớn nhất cho Encode Club Polkadot Hackathons](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e).
--   [SubQuery helps Khala Build their New ERC20 Chain Bridge](https://subquery.medium.com/subquery-helps-khala-build-their-new-erc20-chain-bridge-c3aa0e1e6a89)
+-   [SubQuery giúp Khala xây dựng Cầu chuỗi ERC20 mới của họ](https://subquery.medium.com/subquery-helps-khala-build-their-new-erc20-chain-bridge-c3aa0e1e6a89)
 
-If you would like to learn more you can view all projects easily via our Explorer here.
+Nếu bạn muốn tìm hiểu thêm, bạn có thể xem tất cả các dự án một cách dễ dàng thông qua Trình khám phá của chúng tôi tại đây.
 
-As always, please join our social channels to stay updated on our latest news and announcements. James, Sam, and the SubQuery Team
+Như mọi khi, hãy tham gia các kênh xã hội của chúng tôi để được cập nhật tin tức và thông báo mới nhất của chúng tôi. James, Sam và Đội ngũ SubQuery
 
 [Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
