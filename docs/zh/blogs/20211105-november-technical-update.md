@@ -1,8 +1,8 @@
-# SubQuery November Technical Update: EVM and Manifest Updates
+# SubQuery11月技术的更新：EVM 和清单更新
 
 ![](https://miro.medium.com/max/1400/1*q9GErDrvAyacOPm97krV6Q.png)
 
-**Read more for our technical deep dive into the latest release of SubQuery**
+**请阅读更多关于技术的内容以此深入了解最新版本的 SubQuery**
 
 # Support for External Chain Type Files in Project Manifest
 
