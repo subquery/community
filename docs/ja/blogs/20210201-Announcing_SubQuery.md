@@ -50,7 +50,7 @@ SubQuery は OnFinality のチームによって構築されます。 これは�
 
 **Sam Zou —** CEO ([LinkedIn](https://www.linkedin.com/in/yin-he-7a266345/))
 
-Blockchain Architect, Contributor to polkadot-js, Early adopter of Substrate technology and won second place in the first Polkadot hackathon.
+ブロックチェーンアーキテクト、ポルカドットjsへの貢献者、基板技術の早期採用者、最初のポルカドットハッカソンで2位を獲得しました。
 
 **James Xu —** Solutions Architect ([LinkedIn](https://www.linkedin.com/in/zhexu/))
 
@@ -58,15 +58,15 @@ Blockchain Architect, Contributor to polkadot-js, Early adopter of Substrate tec
 
 **James Bayly** — ビジネス開発責任者([LinkedIn](https://www.linkedin.com/in/james-bayly/))
 
-Get started on the [SubQuery Github repository.](https://github.com/OnFinality-io/subql)
+[SubQuery Githubリポジトリを使い始めましょう。](https://github.com/OnFinality-io/subql)
 
-Read our [SubQuery docs](https://doc.subquery.network/)
+[SubQuery Docs](https://doc.subquery.network/) を読んでください
 
-[Visit our new website](https://subquery.network/)
+[新しいウェブサイトを見る](https://subquery.network/)
 
-Follow us on:
+ぜひフォローしてください
 
--   [Telegram](https://t.me/subquerynetwork)
--   [Twitter](https://twitter.com/subquerynetwork)
--   [Matrix](https://matrix.to/#/ubquery:matrix.org)
+-   [テレグラム](https://t.me/subquerynetwork)
+-   [ツイッター](https://twitter.com/subquerynetwork)
+-   [マトリックス](https://matrix.to/#/ubquery:matrix.org)
 -   [LinkedIn](https://www.linkedin.com/company/subquery)
