@@ -1,4 +1,4 @@
-# SubQuery11月技术的更新：EVM 和清单更新
+# SubQuery11月技术的更新：EVM和清单更新
 
 ![](https://miro.medium.com/max/1400/1*q9GErDrvAyacOPm97krV6Q.png)
 
@@ -6,11 +6,11 @@
 
 # 项目清单中的外部链式文件支持
 
-今天是我们项目清单文件的 [0.2.0版本](https://doc.subquery.network/create/manifest/) 的启动之日(`project.yaml`)。 这个新版本为开发者提供了客户要求的各种改进。
+今天是我们项目清单文件的[0.2.0版本](https://doc.subquery.network/create/manifest/)的启动之日(`project.yaml`)。 这个新版本为开发者提供了客户要求的各种改进。
 
-最重要的是，您现在可以引用一个链式定义文件，当您索引自定义的底层链时其中将包含所有自定义类型。 更快的速度意味着您可以将一个新的 SubQuery 项目连接到任何基于Substrate的链，包括所有的Kusama的平行链。 这是一个标准的链类型文件它需要声明这个区块链支持的特定类型比如 ` son`或`.yaml`格式。
+最重要的是，您现在可以引用一个链式定义文件，当您索引自定义的底层链时其中将包含所有自定义类型。 更快的速度意味着您可以将一个新的 SubQuery 项目连接到任何基于Substrate的链，包括所有的Kusama的平行链。 这是一个标准的链类型文件它需要声明这个区块链支持的特定类型比如`son`或`.yaml`格式。
 
-这个解决方案允许您避免复制和管理清单中的链式定义。 并允许您只复制在 PolkadotJS</a> 等仓库中列出的
+这个解决方案允许您避免复制和管理清单中的链式定义。 并允许您只复制在PolkadotJS</a>等仓库中列出的
 
 已发布的链路类型文件。</p> 
 
@@ -44,7 +44,7 @@ SubQuery采用了比其他索引器更先进的过滤器，允许过滤非合同
 
 ## 第 2 步：索引moonbeam数据
 
-就像一个普通的 SubQuery 项目一样，您使用映射函数将数据转换成您定义的 GraphQL 实体，不同的是，并不是`SubstrateEvent`或`SubstrateExtrinsic`, 您的映射函数将收到一个`MoonbeamCall`或`MoonbeamEvent`基于以往的 [交易响应](https://docs.ethers.io/v5/api/providers/types/#providers-TransactionResponse) 或 [日志](https://docs.ethers.io/v5/api/providers/types/#providers-Log) 类型。 [您可以在这里阅读更多关于这些内容的信息](https://doc.subquery.network/create/moonbeam/#moonbeamcall)。
+就像一个普通的 SubQuery 项目一样，您使用映射函数将数据转换成您定义的 GraphQL 实体，不同的是，并不是`SubstrateEvent`或`SubstrateExtrinsic`, 您的映射函数将收到一个`MoonbeamCall`或`MoonbeamEvent`基于以往的[交易响应](https://docs.ethers.io/v5/api/providers/types/#providers-TransactionResponse)或[日志](https://docs.ethers.io/v5/api/providers/types/#providers-Log)类型。 [您可以在这里阅读更多关于这些内容的信息](https://doc.subquery.network/create/moonbeam/#moonbeamcall)。
 
 [在此阅读此进程的完整文档](https://doc.subquery.network/create/moonbeam/#moonbeamcall)
 
@@ -52,9 +52,9 @@ SubQuery采用了比其他索引器更先进的过滤器，允许过滤非合同
 
 ## 示例项目
 
-有一个完整的示例项目用于索引ES`传输`事件和`批准`智能合同调用。 此示例项目的代码是[在 GitHub](https://github.com/subquery/tutorials-moonriver-evm-starter)上，或通过[live SubQuery 项目在这里的 SubQuery Explorer 访问](https://explorer.subquery.network/subquery/subquery/moonriver-evm-starter-project)访问。
+有一个完整的示例项目用于索引ES`传输`事件和`批准`智能合同调用。 此示例项目的代码是[在 GitHub](https://github.com/subquery/tutorials-moonriver-evm-starter)上，或通过[live SubQuery 项目在这里的 SubQuery Explorer 访问](https://explorer.subquery.network/subquery/subquery/moonriver-evm-starter-project)。
 
-大部分更改发生在清单文件中(`project.yaml`)。 您可以在下面看到我们有 [扩展通话筛选器](https://doc.subquery.network/create/moonbeam/#call-filters) 来支持 [函数签名字符串](https://docs.ethers.io/v5/api/utils/abi/fragments/#FunctionFragment) 或通过函数视野来过滤被调用的函数。 对于 [事件筛选器](https://doc.subquery.network/create/moonbeam/#event-filters), 您可以使用按照 [Ethereum JSON-PRC 日志过滤标准进行的主题筛选。](https://docs.ethers.io/v5/concepts/events/). 请注意，SubQuery为Moonbeam EVM引入了比其他索引器更高级的过滤器，这些改进将大大有利于开发人员。
+大部分更改发生在清单文件中(`project.yaml`)。 您可以在下面看到我们有 [扩展通话筛选器](https://doc.subquery.network/create/moonbeam/#call-filters) 来支持 [函数签名字符串](https://docs.ethers.io/v5/api/utils/abi/fragments/#FunctionFragment) 或通过函数视野来过滤被调用的函数。 对于 [事件筛选器](https://doc.subquery.network/create/moonbeam/#event-filters), 您可以使用按照[Ethereum JSON-PRC 日志过滤标准进行的主题筛。](https://docs.ethers.io/v5/concepts/events/). 请注意，SubQuery为Moonbeam EVM引入了比其他索引器更高级的过滤器，这些改进将大大有利于开发人员。
 
 ![](https://miro.medium.com/max/700/1*4JRHItnILfCie4FT6sYLEA.png)
 
@@ -66,7 +66,7 @@ SubQuery采用了比其他索引器更先进的过滤器，允许过滤非合同
 
 [在 GitHub 上复制示例项目](https://github.com/subquery/tutorials-moonriver-evm-starter)
 
-你们可以看到的。创建一个 Moonrier 或 Moonbase Alpha项目，将Substrate和EVM数据都索引在一个单一的项目中是极其简单和大体相似的。 您可以使用 SubQuery 的高级手写脚本工具来加速您的 dApp 开发，并利用或丰富你的数据索引来构建更直观的dApp。 我们已迫不及待想看看你接下来构建的项目！
+你们可以看到的。创建一个 Moonrier 或 Moonbase Alpha项目，将Substrate和EVM数据都索引在一个单一的项目中是极其简单和大体相似的。 您可以使用SubQuery的高级手写脚本工具来加速您的dApp开发，并利用或丰富你的数据索引来构建更直观的dApp。 我们已迫不及待想看看你接下来构建的项目！
 
 
 
