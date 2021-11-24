@@ -2,9 +2,9 @@
 
 ![](https://miro.medium.com/max/1400/1*k5cScGKMiC45i_N-em3x0Q.png)
 
-In August, [SubQuery launched its Ambassador programme](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) to find community leaders passionate about Polkadot and SubQuery. Our goal was to find self-starters that could spread the word about SubQuery in their local areas and provide support to new developers building amazing apps and services on Polkadot.
+Vào tháng 8,[SubQuery đã khởi động chương trình Đại sứ](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) để tìm kiếm các nhà lãnh đạo cộng đồng đam mê Polkadot và SubQuery. Mục tiêu của chúng tôi là tìm kiếm những người luôn tự chủ và có thể quảng bá rộng rãi về SubQuery ở các khu vực mà họ đang sinh sống và hỗ trợ cho các nhà phát triển mới xây dựng các ứng dụng và dịch vụ trên Polkadot.
 
-We did not expect what happened next!
+Chúng tôi thực lòng không mong đợi những gì xảy ra sau đó!
 
 In the last few months we have been completely overwhelmed by thousands and thousands of applications, and our initial plans to manually onboard applicants has become challenging. We know that there are many applicants who have not heard back from us and it has become clear that we need to do a better job and provide a way that our community can work with us.
 
