@@ -6,7 +6,7 @@ Vào tháng 8,[SubQuery đã khởi động chương trình Đại sứ](https:/
 
 Chúng tôi thực lòng không mong đợi những gì xảy ra sau đó!
 
-In the last few months we have been completely overwhelmed by thousands and thousands of applications, and our initial plans to manually onboard applicants has become challenging. We know that there are many applicants who have not heard back from us and it has become clear that we need to do a better job and provide a way that our community can work with us.
+Trong vài tháng qua, chúng tôi đã hoàn toàn bị choáng ngợp bởi hàng nghìn hàng nghìn đơn đăng ký, và kế hoạch ban đầu của chúng tôi là kiểm tra những đơn ứng tuyển một cách thủ công đã trở nên đầy thách thức. We know that there are many applicants who have not heard back from us and it has become clear that we need to do a better job and provide a way that our community can work with us.
 
 After consultation with our existing Ambassadors we have designed a new, and transparent method to level up in [our Discord community](https://discord.com/invite/subquery) and potentially become an Ambassador.
 
