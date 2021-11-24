@@ -1,4 +1,4 @@
-# SubQuery’s New Spartan Programme
+# Chương trình Spartan của SubQuery
 
 ![](https://miro.medium.com/max/1400/1*k5cScGKMiC45i_N-em3x0Q.png)
 
@@ -16,7 +16,7 @@ In addition to the potential of becoming an Ambassador, Discord members with the
 
 To find out more about our Spartan programme and participate in our November competition please [join our Discord](https://discord.com/invite/subquery).
 
-# Giới thiệu về SubQuery
+# About SubQuery
 
 SubQuery is a data aggregation layer that operates between the layer-1 blockchains (such as Moonriver and Polkadot) and DApps. This service unlocks blockchain data and transforms it to a queryable state so that it can be used in intuitive applications. It allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
 
