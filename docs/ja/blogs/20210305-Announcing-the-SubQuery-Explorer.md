@@ -1,50 +1,50 @@
-# Announcing the SubQuery Explorer
+# サブクエリエクスプローラのお知らせ
 
-Since announcing SubQuery to the world just a month ago, the response and feedback we’ve received from the Polkadot community has been overwhelmingly positive. We’ve gained thousands of followers on our channels, and there have been over 1,353 installs from NPM. It’s inspiring to receive all the messages of support, and to see the engagement from the community. **It’s time for us to give something back!**
+SubQueryを世界に発表してからわずか1ヶ月前に、回答とフィードバックは、Polkadot コミュニティから受け取ったものです。 私たちのチャンネルで何千人ものフォロワーを獲得し、NPMから1,353以上のインストールがありました。 すべてのサポートメッセージを受け取ったり、コミュニティからの関与を見ることは刺激的です。 **何かお返ししましょう！**
 
-We’ve been working overtime over the last month to release the next major stage of our roadmap for SubQuery. Today we’re announcing the release of the [SubQuery Explorer.](https://explorer.subquery.network/)
+SubQueryのロードマップの次の大きなステージをリリースするために、先月残業を行っています。 本日、 [SubQuery Explorer のリリースを発表します。](https://explorer.subquery.network/)
 
 ![](https://miro.medium.com/max/1400/0*2bDaF3HPgNkpm8Kt)
 
-[SubQuery Explorer](https://explorer.subquery.network/) is an online hosted service that provides access to published SubQuery projects made by contributors around the world and managed by the SubQuery team. It furthers our mission to support Polkadot developers by providing infrastructure services by making accessing Polkadot network data even easier.
+[SubQuery Explorer](https://explorer.subquery.network/) は、世界中の貢献者によって作成され、SubQuery チームによって管理されている公開された SubQuery プロジェクトへのアクセスを提供するオンラインホスト型サービスです。 Polkadotネットワークデータへのアクセスをさらに簡単にすることで、インフラストラクチャサービスを提供することにより、Polkadot開発者をサポートするという使命をさらに高めます。
 
-Today, anyone can query and extract Polkadot network data in only minutes and at no cost.
+今日, 誰でもクエリを実行し、わずか数分で、無料でPolkadotネットワークデータを抽出することができます.
 
-The SubQuery explorer makes getting started easy. We’ve prebuilt SubQuery projects for two use cases (more about these below) and have indexed each network. We’re hosting these SubQuery nodes online and allow anyone to query each for free. These managed nodes will be monitored and run by the SubQuery team at a performance level that will allow production apps to use and rely on them.
+SubQueryエクスプローラは簡単に開始できます。 SubQueryプロジェクトは2つのユースケース(詳細は下記を参照)用に事前に構築されており、各ネットワークにインデックスを作成しています。 私たちはこれらのSubQueryノードをオンラインでホスティングしており、誰もが無料でそれぞれクエリを行うことができます。 これらの管理されたノードは、SubQueryチームによってパフォーマンスレベルで監視および実行され、これにより本番アプリケーションの使用と依存が可能になります。
 
 ![](https://miro.medium.com/max/1400/0*3hmnk6sNoO5pdOWc)
 
-You’ll also note that the SubQuery Explorer provides a playground for discovering available data with example queries. You can play around with each SubQuery Graph using this explorer without implementing anything in code. Additionally, we’ve made some small improvements to our documentation to better support developers on their journey to better query and analyse the world’s Polkadot data.
+また、SubQuery Explorer は、クエリ例と共に利用可能なデータを検出するための遊び場を提供します。 このエクスプローラを使用すると、コードに何も実装することなく、各SubQuery Graphで遊ぶことができます。 加えて, 私たちはいくつかの小さな改善を行いました 私たちのドキュメント より良いサポートの開発者への彼らの旅の良いクエリと世界の Polkadot データを分析します。
 
 ![](https://miro.medium.com/max/1400/0*V1Mjpi1-gAT6M8-q)
 
-## **Staking Sum SubQuery Project (**[GitHub Project Code](https://github.com/subquery/subql-examples/tree/main/sum-reward))
+## **Staking Sum SubQuery Project (**[GitHub プロジェクトコード](https://github.com/subquery/subql-examples/tree/main/sum-reward))
 
-You can quickly find total staking revenue awarded to any account since the beginning of time by querying their account address. This subquery project indexes and records the accounts participating in the staking bond on the blockchain. The continued indexing will find out obtained staking reward and slashes for this account and aggregates their sums to a database.
+アカウントアドレスを照会することで、任意のアカウントに付与された投資収益の合計をすばやく見つけることができます。 このサブクエリプロジェクトは、ブロックチェーン上のステーキングボンドに参加しているアカウントをインデックスして記録します。 継続的なインデックス作成では、この口座で得られたステーキング報酬とスラッシュが見つかり、合計をデータベースに集約します。
 
-## **Validator Threshold SubQuery Project (**[GitHub Project Code](https://github.com/subquery/subql-examples/tree/main/validator-threshold))
+## **Staking Sum SubQuery Project (**[GitHub プロジェクトコード](https://github.com/subquery/subql-examples/tree/main/validator-threshold))
 
-You can quickly see the minimum staking amount required for a validator to be elected. This project is an excellent example of implementing query states in the mapping function. It first finds the active staking Era through a state query and records the validators of this session staking amount by each. It then calculates the minimum staking amount and the total amount staked in this Era. Lastly, it records the maximum number of nominators that can be rewarded.
+検証者が選ばれるのに必要な最小ステーキング金額をすばやく確認できます。 このプロジェクトは、マッピング関数内でクエリ状態を実装する優れた例です。 最初に状態クエリを通じてアクティブステーキングEraを検索し、このセッションステーキング量のバリデーターをそれぞれ記録します。 その後、この時代に投資された最小投資額と総投資額を計算します。 最後に、報酬を与えることができるノミネーターの最大数を記録します。
 
-This SubQuery Explorer is just the first set of our plans to build a community hub for Polkadot data. We’re going to follow up with the following features:
+このSubQuery Explorerは、ポルカドットデータのコミュニティハブを構築する計画の最初のセットにすぎません。 次の機能のフォローアップを予定しています。
 
--   We’re focusing on community tools, so you can expect more in depth developer documentation, easy to follow tutorials, and example projects that highlight some really cool use cases for the data that SubQuery surfaces.
--   More SubQuery projects will slowly come online based on community feedback,we’d love some ideas on what you’d love to see next — reach out on any of our social channels (see below)
--   We’re going to build a partner platform, so that our community can build and upload their own SubQuery projects and we’ll manage and host them for you for free.
+-   私たちはコミュニティツールに焦点を当てているので、より詳細な開発者向けのドキュメントが期待できます。チュートリアルを簡単にフォローできます。 そして、SubQueryが表示するデータの本当にクールなユースケースを強調するプロジェクト例を示します。
+-   コミュニティのフィードバックに基づいて、より多くのSubQueryプロジェクトがゆっくりとオンラインになります。次に見たいものに関するアイデアをいくつか紹介します。ソーシャルチャネルのいずれかに手を差し伸べてください(下記参照)。
+-   パートナープラットフォームを構築します 私たちのコミュニティが独自のSubQueryプロジェクトを構築してアップロードできるようにしました。そして私たちはあなたのためにそれらを管理し、あなたのためにホストします。
 
-Start querying data on the new [SubQuery Explorer](https://explorer.subquery.network/)
+新しい [SubQuery Explorer](https://explorer.subquery.network/) でデータのクエリを開始する
 
-Build your own SubQuery project by following our [SubQuery docs](https://doc.subquery.network/)
+[SubQueryドキュメント](https://doc.subquery.network/)に従って、独自のSubQueryプロジェクトを構築してください
 
-Visit our [website](https://subquery.network/)
+[ウェブサイト](https://subquery.network/) をご覧ください
 
-**Talk to us on:**
+**お問い合わせ**
 
--   [hello@subquery.network](mailto:hello@subquery.network)
+-   [hello@subquery.network](hello@subquery.network)
 -   [Discord](https://discord.com/invite/78zg8aBSMG)
 -   [Telegram](https://t.me/subquerynetwork)
 -   [Twitter](https://twitter.com/subquerynetwork)
--   [Matrix](https://matrix.to/#/#subquery:matrix.org)
+-   [マトリックス](https://matrix.to/#/#subquery:matrix.org)
 -   [LinkedIn](https://www.linkedin.com/company/subquery)
 
 ![](https://miro.medium.com/max/1400/0*tzhwpKRunR7AqFhr)

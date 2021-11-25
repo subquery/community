@@ -11,8 +11,8 @@ The SubQuery Academy'nin lansmanını duyurmaktan mutluluk duyuyoruz. Akademi, S
 -   Modül 1 — Başlangıç
 -   Modül 2 — SubQuery Temelleri
 -   Modül 3 — İlişkiler
--   Modül 4 — SubQuery Projeleri & SubQuery Gezgini
--   Modül 5 — Toplanma ve Etkinlik Çağrıları
+-   Modül 4 — Toplanma ve Olay Çağrıları
+-   Modül 5 — SubQuery Projeleri ve SubQuery Gezgini
 -   Modül 6 — İpuçları ve Püf Noktaları
 
 Her modülde, kaydedilmiş bir video ile verilen 5 ila 10 dakikalık birkaç ders vardır. Video içeriğine yazılı öğreticiler, slaytlar, Lab çalışma kitapları ve bitmiş GitHub kod deposuna bağlantılar eşlik eder. Kurs, bir geliştiricinin SubQuery hakkında hiçbir şey bilmeden yeni blok zinciri uygulamaları için bir SubQuery veri kaynağı oluşturma konusunda uzman olmasını sağlamak için tasarlanmıştır. Bu, karmaşık SubQuery Projeleri geliştirmeyi ve [bunları SubQuery Projelerinde dağıtmayı](https://project.subquery.network/) içerir.

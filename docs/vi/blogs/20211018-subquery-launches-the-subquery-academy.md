@@ -11,8 +11,8 @@ Khóa học đầu tiên của chúng tôi là *Khóa học Người hùng SubQu
 -   Học phần 1 - Bắt đầu
 -   Học phần 2 - Khái niệm cơ bản về SubQuery
 -   Học phần 3 - Các mối quan hệ
--   Học phần 4 - Các dự án SubQuery & Trình khám phá SubQuery
--   Học phần 5 - Tích hợp và gọi sự kiện
+-   Học phần 4 - Tích hợp và gọi các sự kiện
+-   Học phần 5 - Các dự án SubQuery & Trình khám phá SubQuery
 -   Học phần 6 - Mẹo & Thủ thuật
 
 Trong mỗi học phần sẽ có các bài học dài từ 5 đến 10 phút được cung cấp dưới dạng các video được ghi lại. Nội dung video sẽ đi kèm với các hướng dẫn bằng văn bản, các trang trình bày, bài tập thực hành và các liên kết đến kho mã GitHub đã hoàn thành trước đó. Khóa học được thiết kế để giúp một nhà phát triển từ không biết gì về SubQuery trở thành chuyên gia trong việc xây dựng nguồn dữ liệu SubQuery cho ứng dụng blockchain mới của họ. Điều này bao gồm việc phát triển các dự án SubQuery phức tạp và [triển khai chúng trong Dự án SubQuery](https://project.subquery.network/).

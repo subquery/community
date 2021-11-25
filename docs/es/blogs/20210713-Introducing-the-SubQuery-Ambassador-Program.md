@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/1*EC5wwTuoB6UK_EESGd8X8w.png)
 
-## Representa SubQuery en tu comunidad!
+## Representa a SubQuery en tu comunidad!
 
 [SubQuery](https://subquery.network/) pretende ser el lider proveedor de datos en Polkadot. Nuestra misión es dar energía a los dApps más grandes de nuestro ecosistema creciente, y ya estamos trabajando con aplicaciones DeFi como [Acala](https://acala.network/) y [Bifrost](https://bifrost.finance/), carteras como [Fearless Wallet](https://fearlesswallet.io/), plataformas NFT como [KodaDot](https://kodadot.xyz/), puentes de cadena cruzada como [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia), y plataformas analíticas como [SubVis](https://subvis.io/).
 
@@ -32,7 +32,7 @@ En SubQuery, trabajamos duro para lograr lo que hacemos. Del mismo modo, se espe
 
 **Desarrollo de red:** Espere que su red profesional crezca siendo un embajador de uno de los mejores proyectos Polkadot. Conoce a otros embajadores de todo el mundo y recibe presentaciones a proyectos locales de Polkadot que necesitamos apoyar localmente. Incluso puede obtener entrada gratuita para representar a SubQuery en eventos en su área local.
 
-**Swag y otras cosas gratis:** ¡A todo el mundo le gusta las cosas gratis! Recibe una asignación anual de SubQuery swag que te hará destacar del resto. Además de la asignación adicional que puedes compartir en eventos de la comunidad. También recibiás un NFT exclusivo para tu estatus de Embajador.
+**Swag y otras cosas gratis:** ¡A todo el mundo le gusta las cosas gratis! Recibe una asignación anual de SubQuery swag que te hará destacar del resto. Además de la asignación adicional que puedes compartir en eventos de la comunidad. También recibirás un NFT exclusivo para tu estatus de Embajador.
 
 ## ¿Cómo funciona?
 

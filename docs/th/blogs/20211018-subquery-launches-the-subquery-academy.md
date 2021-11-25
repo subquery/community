@@ -11,8 +11,8 @@
 -   หน่วยที่ 1 — Getting Started
 -   หน่วยที่ 2 — SubQuery Basics
 -   หน่วยที่ 3 — Relationships
--   หน่วยที่ 4 — SubQuery Projects & SubQuery Explorer
--   หน่วยที่ 5 — Aggregation and Event Calls
+-   Module 4 — Aggregation and Event Calls
+-   Module 5 — SubQuery Projects & SubQuery Explorer
 -   หน่วยที่ 6 — Tips & Tricks
 
 ภายในแต่ละหน่วยจะประกอบไปด้วยบทเรียนต่างๆ ที่มีความยาว 5 ถึง 10 นาทีซึ่งสามารถรับชมได้ในรูปแบบของวิดีโอที่ถูกอัดไว้แล้ว โดยเนื้อหาวิดีโอจะมาพร้อมกับเอกสารตามบทเรียน, สไลด์, แล็บเวิร์กบุ๊ก, และลิงก์ไปยัง GitHub code repository ที่เสร็จสมบูรณ์ หลักสูตรนี้ถูกออกแบบมาเพื่อทำให้นักพัฒนาที่มีความรู้เกี่ยวกับ SubQuery เป็นศูนย์สามารถกลายเป็นผู้เชี่ยวชาญในการสร้างแหล่งข้อมูล SubQuery สำหรับแอปพลิเคชันบล็อกเชนใหม่ๆ ได้ รวมไปถึงการพัฒนาโปรเจกต์ SubQuery ที่ซับซ้อนและ[การ deploy พวกมันในโปรเจกต์ SubQuery อื่นๆ](https://project.subquery.network/)

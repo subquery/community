@@ -26,7 +26,7 @@ Karura bietet auch ein ethisches und nachhaltiges Token-Verteilungsmodell sowie 
 
 ## Offene Tools für Karura DApp Builder
 
-Es liegt nun an der Karura-Community, die erste Community-dApp im DeFi-Hub von Kusama zu erstellen. Below is a simple example of how Karura can use SubQuery to find and retrieve the past extrinsics (and the transfers within them) for any account on Karura --- you can see that this is made completely online in the [SubQuery explorer](https://explorer.subquery.network/subquery/AcalaNetwork/karura).
+Es liegt nun an der Karura-Community, die erste Community-dApp im DeFi-Hub von Kusama zu erstellen. Unten ist ein einfaches Beispiel dafür, wie Karura SubQuery verwenden kann, um die vergangenen Extrinsics (und die darin enthaltenen Transfers) für jedes Konto auf Karura zu finden und abzurufen --- Sie können sehen, dass dies vollständig online im [SubQuery explorer](https://explorer.subquery.network/subquery/AcalaNetwork/karura).
 
 ![](https://cdn-images-1.medium.com/max/1600/0*t6stH0LeQC8M5fSp)
 

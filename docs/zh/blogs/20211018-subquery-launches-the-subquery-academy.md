@@ -11,8 +11,8 @@
 -   单元 1 — 从零开始
 -   单元 2 — SubQuery 基础内容
 -   单元 3 — Sub与其他的关系
--   单元 4— SubQuery 项目 & SubQuery 游览器
--   单元 5 — 系统中项目聚合和调用
+-   单元 4 — Aggregation和Event调用
+-   单元 5— SubQuery 项目 & SubQuery 浏览器
 -   单元 6 — 小建议& 小技巧
 
 在每个模块中有几个 5 到 10 分钟的课程，这些课程通过录制的视频提供。 视频内容附有书面教程、幻灯片、实验室工作簿以及超链接到已完成的 GitHub 代码库。 本课程旨在让开发者从 SubQuery 小白变成为可以开发新区块链应用程序构建 SubQuery 数据源的专家。 这包括开发复杂SubQuery项目并将它们[部署在SubQuery项目中](https://project.subquery.network/)。

@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/0*0inUQ8U1g9auTjfU)
 
-## **Proveer un índice de datos gratuito para la Alianza Técnica de Desperdicios**
+## **Proveer una indexación de datos gratuito para Wasm Tech Alliance**
 
 SubQuery se une a Patract Open Platform para promover conjuntamente el desarrollo de infraestructura pública, promover la evolución de la tecnología de contratos, y desarrollar el ecosistema de desarrollo de contratos de Wasm.
 
