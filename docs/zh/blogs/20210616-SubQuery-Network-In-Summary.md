@@ -1,74 +1,74 @@
-# SubQuery Network - Summary
+# SubQuery 网络 - 摘要
 
-> How does the SubQuery Network work? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
+> SubQuery 网络是如何工作的？ [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
 
-Today we’re going to talk about how the SubQuery Network works at a high level.
+今天，我们来谈谈 SubQuery 网络是如何运作的。
 
-## Participants
+## 参与者
 
 
 ![](https://miro.medium.com/max/1400/1*9993cakplwupZC5tbUv3vA.png)
 
-Participants in the SubQuery Network
+SubQuery 网络参与者
 
-There are three types of participants in the SubQuery Network:
+SubQuery 网络有三类参与者：
 
--   **Consumers**: Consumers will make requests to the SubQuery Network for specific data and pay an advertised amount of SQT
--   **Indexers**: Indexers will host SubQuery Projects in their own infrastructure, running both the node and query service to index data and answer GraphQL requests.
--   **Delegators**: Delegators will participate in the network by supporting their favourite Indexers to earn rewards
+-   数据消费者：数据消费者会对 SubQuery 网络请求得到特定数据并且支付一定广播价格数量的 SQT。
+-   **索引者**: 索引者将在自己的基础架构中托管 SubQuery 项目，通过运行节点和查询服务来索引数据并应答 GraphQL 的请求。
+-   **代理者**: 代表者将通过支持他们最喜欢的索引器来参与网络，并以此获得奖励。
 
-## Indexers, Consumers, and Queries
+## 索引者、消费者和数据查询
 
-Let’s start with Indexers, Indexers do a lot of the hard work behind the scenes. The manage hardware, run infrastructure, monitor resources, and choose the right SubQuery projects to index
+让我们从索引者开始，索引者在幕后做了大量的艰苦工作。 他们管理硬件、运行基础设施、监测资源并选择正确的 SubQuery 项目进行索引。
 
-This takes time and money, but once they have this, Consumers may come and make requests. Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
+这需要时间和金钱，一旦有了索引者，消费者就可以来提出请求。 消费者将向 SubQuery 网络提出特定数据的请求，并支付以我们的代币 SQT 计数的广播金额。
 
 ![](https://miro.medium.com/max/1400/1*dKLkzSc2uXYaPW_IXUxstQ.png)
 
-Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
+消费者将向 SubQuery 网络提出特定数据的请求，并支付以我们的代币 SQT 计数的广播金额。
 
-## Cobb-Douglas Production Function
+## 柯布-道格拉斯生产函数
 
-This payment goes into a project revenue pool and at the end of a staking era (28 days) we take this project revenue pool and split it. It’s spit across indexers by something called the Cobb-Douglas production function.
+支付的款项将进入一个项目财政库，在质押期限 (28天) 结束后，我们会把这个项目的财政库分成两部分来奖励索引者。 这将通过用一个叫做柯布-道格拉斯生产函数方法来分配给索引者们。
 
 ![](https://miro.medium.com/max/1400/1*E-W7o7cWoclxHb8rXAMdpA.png)
 
-It’s spit across indexers by something called the Cobb-Douglas production function.
+通过柯布-道格拉斯函数向索引者们分配奖励。
 
-This approach, in simple terms, means that revenue is allocated to competing Indexers as a proportion of both requests answered and amount staked.
+这种方法简单来说，意味着将收入分配给相互竞争的索引员，以此作为它们回应数据请求和质押的一部分奖励。
 
 ![](https://miro.medium.com/max/1400/1*VhDu2BGDxd3ob7z9XkoOXA.png)
 
-Revenue is allocated to competing Indexers as a proportion of both requests answered and amount staked.
+收入分配给相互竞争的索引者，以此作为他们在回应数据请求和质押方面的奖励，并且这两方面的贡献分别占据了所获奖励的一定比例。
 
-In our view, the beauty of this equation is that a rational Indexer must maintain a high level of staked SQT relative to the work they do in order to receive optimal revenue. As a result, we do not need to enforce arbitrary staking requirements because Indexers are incentivised to self-manage and maintain a stake or skin in the game.
+我们认为，这种做法将有助于实现我们的目标。 这个方法的好处是，合理的索引者为了获得好回报，必须保持较高的 SQT 质押数量，相对于他们所做的工作来说。 这样的结果是，我们不需要强制执行随意的质押要求，因为索引者会因此受到激励，在竞争中自行调节质押数量。
 
-## Delegators
+## 代理者
 
-So Indexers are incentivised to both do as much work as possible, and to stake as much as possible to maximise their rewards. This is where delegators come in.
+因此，索引者将受到激励，他们既要尽可能多地从事工作，又要尽可能多地参与质押，以获得最大限度的报酬。 这里就有了代理者的功能。
 
-Delegators can delegate their spare SQT to Indexers, each Indexer can publish a _query fee revenue share rate_, and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in.
+代理者可以将他们的剩余 SQT 委托给索引者，每个索引者可以发布 _查询费收入分享率_， 以致代理者得到索引者所得奖励的一部分。
 
 ![](https://miro.medium.com/max/1400/1*YoN7PV7h3a2nAFN-ODqILg.png)
 
-Delegators can delegate their spare SQT to Indexers and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in
+代理者可以将他们的 SQT 委托给索引者，从而获得一部分查询费收入的奖励，这笔查询费收入是来自索引者所获的奖励。
 
-The _query fee revenue share rate_ that indexers advertise is locked for each 28 day staking era, and a decrease to it must be advertised for an entire 28 day staking era before coming into force.
+索引者提供出的 _查询费收入分享率_ 将每28天被锁定。如果想要减少该分享率，必须在28天的锁定期后才能生效。
 
-Similarly, delegators can remove their delegation amounts at any point, but they will only receive rewards when they have delegated for the entire staking era.
+同样地，代理者可以随时从其已代理的索引者中退出，但是他们只有在整个锁定期间中质押时才会得到回报。
 
 ![](https://miro.medium.com/max/1400/0*we0k4A07pbj86COZ)
 
-Delegators will only receive rewards when they have delegated for the entire staking era
+代理者有在整个锁定期间质押才会得到奖励。
 
-## Purchase Orders
+## 数据定购订单
 
-Indexing a project takes time and money, there’s a lot of data on the chain. In order to encourage Indexers to index and support an entirely new SubQuery Project, we plan to implement a market mechanism for Consumers to signal guaranteed revenue to Indexers of new SubQuery Projects.
+编制项目的索引时需要时间和金钱，因为链上有许多数据。 为了鼓励索引者支持一个全新的 SubQuery 项目， 我们计划为数据消费者建立一个市场机制，以向索引者发出新的 SubQuery 项目来保证索引者的收入。
 
-We’re calling them purchase orders, and Consumers can advertise a contract on chain for a set price and number of requests. Indexers can view this and choose to fill the contracts.
+我们称之为数据定购订单，数据消费者可以在链上为一定价格和请求数目的数据相关合约广播。 然后索引者便可以查看并选择需要的合约。
 
 ![](https://miro.medium.com/max/1400/1*IPtaZlt24E7h9bKNZWdSCw.png)
 
-Consumers can advertise a purchase order on chain for a set price and number of requests.
+数据消费者可以在链上为定价和请求数量广播数据定购单。
 
-Purchase orders can also be placed on existing SubQuery Projects to attract additional Indexers to improve competition and decrease prices
+还可以在现有的 SubQuery 项目上下订购单，以吸引更多的索引者来竞争和并降低价格。
