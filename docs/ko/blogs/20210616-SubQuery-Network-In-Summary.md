@@ -1,74 +1,74 @@
-# SubQuery Network - Summary
+# SubQuery 네트워크 - 요약
 
-> How does the SubQuery Network work? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
+> SubQuery 네트워크는 어떻게 작동이 되나요? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
 
-Today we’re going to talk about how the SubQuery Network works at a high level.
+오늘 우리는 SubQuery 네트워크가 높은 수준에서 어떻게 작동하는지에 대해 이야기할 것입니다.
 
-## Participants
+## 참가자들
 
 
 ![](https://miro.medium.com/max/1400/1*9993cakplwupZC5tbUv3vA.png)
 
-Participants in the SubQuery Network
+SubQuery 네트워크 참가자들
 
-There are three types of participants in the SubQuery Network:
+SubQuery 네트워크에는 세 가지 유형의 참가자가 있습니다.
 
--   **Consumers**: Consumers will make requests to the SubQuery Network for specific data and pay an advertised amount of SQT
--   **Indexers**: Indexers will host SubQuery Projects in their own infrastructure, running both the node and query service to index data and answer GraphQL requests.
--   **Delegators**: Delegators will participate in the network by supporting their favourite Indexers to earn rewards
+-   **소비자**: 소비자는 특정 데이터에 대해 SubQuery 네트워크에 요청하고 광고한만큼의 SQT를 지불합니다.
+-   **인덱서**: 인덱서는 데이터를 인덱싱하고 GraphQL 요청에 응답하기 위해 노드와 쿼리 서비스를 모두 실행하여 자체 인프라에서 SubQuery 프로젝트를 호스팅합니다.
+-   **위임자**: 위임자는 자신이 좋아하는 인덱서를 지원하여 네트워크에 참여하여 보상을 받습니다.
 
-## Indexers, Consumers, and Queries
+## 인덱서, 소비자 및 쿼리
 
-Let’s start with Indexers, Indexers do a lot of the hard work behind the scenes. The manage hardware, run infrastructure, monitor resources, and choose the right SubQuery projects to index
+인덱서부터 시작하겠습니다. 인덱서는 뒤에서 많은 일을 합니다. 하드웨어 관리, 인프라 실행, 리소스 모니터링, 인덱싱할 올바른 SubQuery 프로젝트 선택
 
-This takes time and money, but once they have this, Consumers may come and make requests. Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
+시간과 비용이 들지만, 일단 이거만 있으면 소비자들이 와서 요청을 하기도 합니다. 소비자는 특정 데이터에 대해 SubQuery 네트워크에 요청하고 광고된 양의 토큰 SQT를 지불합니다.
 
 ![](https://miro.medium.com/max/1400/1*dKLkzSc2uXYaPW_IXUxstQ.png)
 
-Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
+소비자는 특정 데이터에 대해 SubQuery 네트워크에 요청하고 광고된 양의 토큰 SQT를 지불합니다.
 
-## Cobb-Douglas Production Function
+## Cobb-Douglas 생산 함수
 
-This payment goes into a project revenue pool and at the end of a staking era (28 days) we take this project revenue pool and split it. It’s spit across indexers by something called the Cobb-Douglas production function.
+이 지불은 프로젝트 수익 풀로 들어가고 스테이킹 기간(28일)이 끝나면 이 프로젝트 수익 풀을 가져와 분할합니다. Cobb-Douglas 생산 함수라고 하는 것에 의해 인덱서 전체에 걸쳐 발생합니다.
 
 ![](https://miro.medium.com/max/1400/1*E-W7o7cWoclxHb8rXAMdpA.png)
 
-It’s spit across indexers by something called the Cobb-Douglas production function.
+Cobb-Douglas 생산 함수라고 하는 것에 의해 인덱서 전체에 걸쳐 발생합니다.
 
-This approach, in simple terms, means that revenue is allocated to competing Indexers as a proportion of both requests answered and amount staked.
+이 접근 방식은 간단히 말해서 수익이 응답된 요청과 스테이킹된 금액의 비율로 경쟁 인덱서에 할당됨을 의미합니다.
 
 ![](https://miro.medium.com/max/1400/1*VhDu2BGDxd3ob7z9XkoOXA.png)
 
-Revenue is allocated to competing Indexers as a proportion of both requests answered and amount staked.
+수익은 응답된 요청과 스테이킹된 금액의 비율로 경쟁 인덱서에 할당됩니다.
 
-In our view, the beauty of this equation is that a rational Indexer must maintain a high level of staked SQT relative to the work they do in order to receive optimal revenue. As a result, we do not need to enforce arbitrary staking requirements because Indexers are incentivised to self-manage and maintain a stake or skin in the game.
+이 방정식의 장점은 합리적인 인덱서가 최적의 수익을 얻기 위해 수행하는 작업에 비해 높은 수준의 스테이킹된 SQT를 유지해야 한다는 것입니다. 결과적으로 인덱서가 게임에서 지분 또는 스킨을 자체 관리하고 유지하도록 장려되기 때문에 임의의 지분 요구 사항을 시행할 필요가 없습니다.
 
-## Delegators
+## 위임자
 
-So Indexers are incentivised to both do as much work as possible, and to stake as much as possible to maximise their rewards. This is where delegators come in.
+따라서 인덱서는 가능한 한 많은 작업을 수행하고 보상을 최대화하기 위해 가능한 한 많이 스테이킹하도록 장려됩니다. 여기에서 위임자가 등장합니다.
 
-Delegators can delegate their spare SQT to Indexers, each Indexer can publish a _query fee revenue share rate_, and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in.
+위임자는 여분의 SQT를 인덱서에 위임할 수 있고, 각 인덱서는 _쿼리 수수료 수익 공유 비율_을 게시할 수 있으며, 이러한 위임자는 인덱서가 보상을 받는 쿼리 수수료 수익의 일부로 보상을 받습니다.
 
-![](https://miro.medium.com/max/1400/1*YoN7PV7h3a2nAFN-ODqILg.png)
+![](위임자는 여분의 SQT를 인덱서에 위임할 수 있으며 해당 위임자는 인덱서가 보상받는 쿼리 수수료 수익의 일부로 보상을 받습니다.)
 
-Delegators can delegate their spare SQT to Indexers and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in
+위임자는 여분의 SQT를 인덱서에 위임할 수 있으며 해당 위임자는 인덱서가 보상받는 쿼리 수수료 수익의 일부로 보상을 받습니다.
 
-The _query fee revenue share rate_ that indexers advertise is locked for each 28 day staking era, and a decrease to it must be advertised for an entire 28 day staking era before coming into force.
+인덱서가 광고하는 _쿼리 수수료 수익 공유 비율_은 각 28일 스테이킹 기간 동안 고정되며, 그 감소는 발효되기 전에 전체 28일 스테이킹 기간 동안 공지되어야 합니다.
 
-Similarly, delegators can remove their delegation amounts at any point, but they will only receive rewards when they have delegated for the entire staking era.
+마찬가지로 위임자는 언제든지 위임 금액을 제거할 수 있지만 전체 스테이킹 기간 동안 위임한 경우에만 보상을 받습니다.
 
 ![](https://miro.medium.com/max/1400/0*we0k4A07pbj86COZ)
 
-Delegators will only receive rewards when they have delegated for the entire staking era
+위임자는 전체 스테이킹 기간 동안 위임한 경우에만 보상을 받습니다.
 
 ## Purchase Orders
 
-Indexing a project takes time and money, there’s a lot of data on the chain. In order to encourage Indexers to index and support an entirely new SubQuery Project, we plan to implement a market mechanism for Consumers to signal guaranteed revenue to Indexers of new SubQuery Projects.
+프로젝트 인덱싱에는 시간과 돈이 필요하며 체인에는 많은 데이터가 있습니다. 인덱서가 완전히 새로운 SubQuery 프로젝트를 인덱싱하고 지원하도록 장려하기 위해 소비자가 새로운 SubQuery 프로젝트의 인덱서에 보장된 수익을 알릴 수 있는 시장 메커니즘을 구현할 계획입니다.
 
-We’re calling them purchase orders, and Consumers can advertise a contract on chain for a set price and number of requests. Indexers can view this and choose to fill the contracts.
+우리는 그것을 구매 주문이라고 부르며, 소비자는 정해진 가격과 요청 수에 대해 체인에서 계약을 광고할 수 있습니다. 인덱서는 이것을 보고 계약을 채우도록 선택할 수 있습니다.
 
 ![](https://miro.medium.com/max/1400/1*IPtaZlt24E7h9bKNZWdSCw.png)
 
-Consumers can advertise a purchase order on chain for a set price and number of requests.
+소비자는 정해진 가격과 요청 횟수에 대해 체인에서 구매 주문을 광고할 수 있습니다.
 
-Purchase orders can also be placed on existing SubQuery Projects to attract additional Indexers to improve competition and decrease prices
+경쟁을 개선하고 가격을 낮추기 위해 추가 인덱서를 유치하기 위해 기존 SubQuery 프로젝트에 구매 주문을 할 수도 있습니다.
