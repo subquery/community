@@ -62,11 +62,8 @@
 
 # 您可能错过的其他内容
 
--   我们已经与Acala结成伙伴关系，为Club Polkadot Hackathons</a>提供
-
-最大的奖品库。</li> 
-  
-  -   [SubQuery帮助Khala构建新的ERC20链桥。](https://subquery.medium.com/subquery-helps-khala-build-their-new-erc20-chain-bridge-c3aa0e1e6a89)</ul> 
+-   我们已经与Acala结成伙伴关系，[为Club Polkadot Hackathons](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e)提供<0>最大的奖品库。
+-   [SubQuery帮助Khala构建新的ERC20链桥。](https://subquery.medium.com/subquery-helps-khala-build-their-new-erc20-chain-bridge-c3aa0e1e6a89)
 
 如果您想了解更多信息，您可以通过我们的资源管理器轻松地查看所有项目。
 
