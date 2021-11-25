@@ -2,7 +2,7 @@
 
 ![sora-header.jpg](https://miro.medium.com/max/1400/1*fPPW0DsynIt9QpvK4ZrsUA.jpeg)
 
-Hôm nay, chúng tôi vui mừng thông báo về một dự án mới thú vị trên SubQuery - SORA và Polkaswap. [SORA](https://sora.org/) đã xây dựng Dự án SubQuery lấy dữ liệu từ mạng SORA để cung cấp cho các ứng dụng di động được xây dựng trên SORA và [Polkaswap.io](http://polkaswap.io/). Bạn có thể dùng thử [tại đây](https://explorer.subquery.network/subquery/sora-xor/sora).
+Hôm nay, chúng tôi vui mừng thông báo về một dự án mới thú vị trên SubQuery - SORA và Polkaswap. [SORA](https://sora.org/) đã xây dựng Dự án SubQuery lấy dữ liệu từ mạng SORA để cung cấp cho các ứng dụng di động được xây dựng trên SORA và [Polkaswap.io](http://polkaswap.io/). Bạn có thể dùng thử [ tại đây ](https://explorer.subquery.network/subquery/sora-xor/sora).
 
 ![sora-frontend.jpg](https://miro.medium.com/max/1400/1*pq0U6wsutlf8rjXqq7i2BQ.jpeg)
 
@@ -36,6 +36,6 @@ Mạng SORA vượt trội trong việc cung cấp các công cụ cho các ứn
 
 ### Giới thiệu về SubQuery
 
-[SubQuery](https://subquery.network/) là một tập hợp dữ liệu phi tập trung, lập chỉ mục & lớp truy vấn giữa các blockchains Layer-1 và các ứng dụng phi tập trung (DApps). Hiện đang tập trung vào các dự án Polkadot và Substrate, dữ liệu dưới dạng dịch vụ này cho phép các nhà phát triển tập trung vào trường cốt lõi và giao diện người dùng của họ mà không cần lãng phí thời gian xây dựng chương trình phụ trợ tùy chỉnh để xử lý dữ liệu.
+[SubQuery](https://subquery.network/) là một tập hợp dữ liệu phi tập trung, lập chỉ mục & lớp truy vấn giữa các blockchains Layer-1 và các ứng dụng phi tập trung (DApps). Hiện đang tập trung vào các dự án Polkadot và Substrate, dữ liệu dưới dạng dịch vụ này cho phép các nhà phát triển tập trung vào tính năng cốt lõi và giao diện người dùng của họ mà không cần lãng phí thời gian xây dựng chương trình phụ trợ tùy chỉnh để xử lý dữ liệu.
 
 [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Email](mailto:hello@subquery.network)
