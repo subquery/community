@@ -44,9 +44,7 @@ Normal bir SubQuery projesinde olduğu gibi, zincir dışı verileri tanımladı
 
 `transfer` olaylarını ve akıllı sözleşme çağrılarını `onay` dizine ekleyen eksiksiz bir örnek proje vardır. Bu örnek projenin kodu [burada GitHub'da](https://github.com/subquery/tutorials-moonriver-evm-starter) veya [SubQuery Explorer'da canlı SubQuery projesi aracılığıyla buradan erişilebilir](https://explorer.subquery.network/subquery/subquery/moonriver-evm-starter-project).
 
-Değişikliklerin çoğu Manifest dosyasında (`project.yaml`) gerçekleşir. Aşağıda,
-
-işlev imza dizelerini veya sözleşmede [çağrılan işlevi filtrelemek için <1>işlev iç çekişini desteklemek için <0>genişletilmiş çağrı filtrelerimiz](https://doc.subquery.network/create/moonbeam/#call-filters) olduğunu görebilirsiniz. [Olay filtreleri](https://doc.subquery.network/create/moonbeam/#event-filters) için, [burada bulunan Ethereum JSON-PRC günlük filtreleri standardını](https://docs.ethers.io/v5/concepts/events/) izleyen konu filtrelemesini kullanabilirsiniz. SubQuery'nin Moonbeam EVM için diğer dizin oluşturuculardan daha gelişmiş filtreler sunduğunu ve bu iyileştirmelerin geliştiricilere önemli ölçüde fayda sağlayacağını unutmayın.</p> 
+Değişikliklerin çoğu Manifest dosyasında (`project.yaml`) gerçekleşir. Aşağıda, işlev imza dizelerini veya sözleşmede çağrılan işlevi filtrelemek için işlev iç çekişini desteklemek için [genişletilmiş çağrı filtrelerimiz](https://doc.subquery.network/create/moonbeam/#call-filters) olduğunu görebilirsiniz. [Olay filtreleri](https://doc.subquery.network/create/moonbeam/#event-filters) için, [burada bulunan Ethereum JSON-PRC günlük filtreleri standardını](https://docs.ethers.io/v5/concepts/events/) izleyen konu filtrelemesini kullanabilirsiniz. SubQuery'nin Moonbeam EVM için diğer dizin oluşturuculardan daha gelişmiş filtreler sunduğunu ve bu iyileştirmelerin geliştiricilere önemli ölçüde fayda sağlayacağını unutmayın.
 
 ![](https://miro.medium.com/max/700/1*4JRHItnILfCie4FT6sYLEA.png)
 
@@ -60,15 +58,11 @@ Bununla ilgili herhangi bir sorunuz varsa, [belgelerimizi kontrol ettiğinizden]
 
 Gördüğünüz gibi, hem Substrate hem de EVM verilerini tek bir projede indeksleyen bir Moonriver veya Moonbase Alpha projesi oluşturmak son derece basit ve büyük ölçüde benzer. Dapp geliştirmenizi hızlandırmak için SubQuery'nin gelişmiş iskele araçlarını kullanabilir ve daha sezgisel dApp'ler oluşturmak için verilerinizin avantajlarından veya daha zengin indekslemeden yararlanabilirsiniz. Bundan sonra ne geliştireceğini görmek için sabırsızlanıyoruz!
 
-
-
 ## SubQuery Hakkında
 
 SubQuery, katman-1 blok zincirleri (Moonriver ve Polkadot gibi) ve DApp'ler arasında çalışan bir veri toplama katmanıdır. Bu hizmet, zincir verilerinin kilidini açar ve sezgisel uygulamalarda kullanılabilmesi için sorgulanabilir bir duruma dönüştürür. DApp geliştiricilerinin, veri işleme için özel bir arka uç oluşturmaya zaman kaybetmeden temel kullanım durumlarına ve ön uçlarına odaklanmalarına olanak tanır.
 
-[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)</a>
-
-
+​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Github](https://github.com/subquery/subql) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
 
 ## Moonbeam Hakkında
 
