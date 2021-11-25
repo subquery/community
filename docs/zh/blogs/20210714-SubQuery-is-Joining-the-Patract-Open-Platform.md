@@ -1,4 +1,4 @@
-# SubQuery is Joining the Patract Open Platform
+# SubQuery 正在加入Patract Open Platform
 
 ![](https://miro.medium.com/max/1400/0*0inUQ8U1g9auTjfU)
 
@@ -18,9 +18,9 @@ SubQuery 可以支持每个 Substrate 或 Polkadot 生态团队处理、查询�
 
 我们相信 Polkadot 生态的繁荣，合约是一个重要的组成部分。 为 Wasm 合约提供数据索引服务一直都是 SubQuery 项目的目标之一。 我们很兴奋能看到 Patract Open Platform 已经凝聚了大量优秀的区块链项目，并且大家都共同为推动 Wasm 合约健康地、稳健地发展贡献自己的力量。
 
-接下来我们会与联盟内合约项目进行合作，参与我们早期支持合约版本的测试， 并免费提供数据索引技术支持和部署服务。 所有项目都可以使用我们的开源 SDK 来构建自己的 SubQuery Projects ，之后可以上传托管给我们运行和提供 GraphQL 查询服务， 其次 SubQuery Network —我们的网络即将上线，我们将为所有的参与者提供去中心化和透明的网络，可以更好地解决数据的冗余问题。
+SubQuery将与联盟内部的合约项目合作，参加对我们支持的合约版本的早期试验。 提供免费的数据索引技术支助和部署服务。 所有项目都可以使用我们的开源 SDK 来构建自己的 SubQuery Projects ，之后可以上传托管给我们运行和提供 GraphQL 查询服务， 其次 SubQuery Network —我们的网络即将上线，我们将为所有的参与者提供去中心化和透明的网络，可以更好地解决数据的冗余问题。 第二，SubQuery网络将很快在线， 和SubQuery将为所有参与者提供一个分散和透明的网络，以便更好地解决数据效率低下的问题。
 
-Patract Labs 表示，波卡 Wasm 合约技术的发展就是需要基础设施的不断补充和完善， SubQuery 作为数据类的基础设施提供商加入 Patract Open Platform ，很好的补充了波卡生态上对去中心化数据的高度自由化访问，降低了项目在连接、应用数据的运营成本， 同时开发者无需再投入大量精力来构建维护自己的索引解决方案。 其次，DApp 是需要从底层数据源获取和转换数据，因此区块链数据很难在 DApp 应用中直接调取使用的格式存储， 那么 SubQuery 的链上索引方案则为波卡生态上的 DAPP 应用爆发带来很好的基础支撑。 目前 SubQuery 也在探索将 SQL 工具结合到 Wasm 智能合约的解决方案，对此，我们十分期待。
+Patract Labs认为，Polkadot Wasm 合约技术的开发需要不断补充和改善基础设施。 SubQuery 作为一个数据基础设施提供商加入了Pater Open Platform，补充Polkadot 生态系统的需求， 通过开放存取和降低项目中连接和应用数据的操作成本，提供去中心化的数据。 因此，开发者不再需要投入大量时间来建立和维持自己的索引解决方案。 其次，DApp 是需要从底层数据源获取和转换数据，因此区块链数据很难在 DApp 应用中直接调取使用的格式存储， 那么 SubQuery 的链上索引方案则为波卡生态上的 DAPP 应用爆发带来很好的基础支撑。 因此，SubQuery的链上索引方案为Polkadot生态学中DApps的爆炸性增长打下了一个良好的基础。 目前 SubQuery 也在探索将 SQL 工具结合到 Wasm 智能合约的解决方案，对此，我们十分期待。
 
 关于 Patract Labs
 
@@ -30,6 +30,6 @@ Patract Labs 是波卡 Wasm 合约生态的平行链，为 DApp 开发提供解�
 
 关于 SubQuery
 
-SubQuery 的使命是让世界上去中心化的数据更容易获取。 SubQuery 的使命是让世界上去中心化的数据更容易获取。SubQuery 是一个数据即服务的供应商，聚集和整理来自 Polkadot 和 Substrate 项目的数据，为开发者提供结构良好的数据，帮助 Polkadot/Substrate 项目更好的创建 DApps 。
+SubQuery 的任务是使世界范围内去中心化的数据更容易获取。 SubQuery 是一个数据即服务的供应商，聚集和整理来自 Polkadot 和 Substrate 项目的数据，为开发者提供结构良好的数据，帮助 Polkadot/Substrate 项目更好的创建 DApps 。
 
 [网站](https://www.subquery.network/)=[Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Linkedin](https://www.linkedin.com/company/subquery) | [medium](https://subquery.medium.com/)x[GitHub](https://github.com/subquery/subql) | [Matrix](https://matrix.to/#/#subquery:matrix.org)
