@@ -2,13 +2,13 @@
 
 ![](https://miro.medium.com/max/1400/0*CrM8-LKRt3slWAsN)
 
-** SubQuery, layanan yang membuat kueri data terdesentralisasi lebih mudah, hari ini mengumumkan bahwa mereka telah berhasil mengumpulkan seed round senilai US$1,8 juta dan private sale yang didukung terutama oleh** [**DeFi Alliance**](https://defialliance.co/)**,** [**D1 Ventures**](https://d1.ventures/)**,** [**Hyperphere Ventures**](https://hypersphere.ventures/)**,** [**Digital Finance Group (DFG)**](https://www.dfg.group/)**, dan** [**The Lao**](https://www.thelao.io/)**. Permintaan luar biasa yang kami terima untuk mendukung seed round SubQuery menunjukkan minat yang kuat pada layanan infrastruktur dan keyakinan akan masa depan ekosistem Polkadot.**
+**SubQuery, layanan yang membuat kueri data terdesentralisasi lebih mudah, hari ini mengumumkan bahwa mereka telah berhasil mengumpulkan seed round senilai US$1,8 juta dan private sale yang didukung terutama oleh** [**DeFi Alliance**](https://defialliance.co/)**, ** [**D1 Ventures**](https://d1.ventures/)**,** [**Hyperphere Ventures**](https://hypersphere.ventures/)**,** [**Digital Finance Group (DFG)**](https://www.dfg.group/)**, dan** [**The Lao**](https://www.thelao.io/)**. Permintaan luar biasa yang kami terima untuk mendukung seed round SubQuery menunjukkan minat yang kuat pada layanan infrastruktur dan keyakinan akan masa depan ekosistem Polkadot.**
 
-SubQuery memungkinkan setiap tim Substrate/Polkadot untuk memproses dan mengkueri data mereka. Proyek ini terinspirasi oleh pertumbuhan protokol data yang melayani lapisan aplikasi dan tujuannya adalah untuk membantu proyek Polkadot/Substrate membangun dApp yang lebih baik dengan memungkinkan siapa pun untuk secara andal menemukan dan mengkonsumsi data lebih cepat. Hari ini, siapa pun dapat mengkueri dan mengekstrak data jaringan Polkadot hanya dalam hitungan menit dan tanpa biaya.
+SubQuery memungkinkan setiap tim Substrate/Polkadot untuk memproses dan mengkueri data mereka. Proyek ini terinspirasi oleh pertumbuhan protokol data yang melayani lapisan aplikasi dan tujuannya adalah untuk membantu proyek Polkadot/Substrate membangun dApps yang lebih baik dengan memungkinkan siapa saja untuk menemukan dan menggunakan data lebih cepat secara andal. Hari ini, siapa pun dapat mengkueri dan mengekstrak data jaringan Polkadot hanya dalam hitungan menit dan tanpa biaya.
 
-> _“Bertaruh pada Subquery adalah bertaruh pada ekosistem Polkadot secara keseluruhan, dan pada tahap awal ini sebagian besar adalah infrastruktur. Mereka adalah yang terdepan di bidang ini karena basis pelanggan mereka mencakup beberapa proyek Polkadot teratas. Tim Subquery juga merupakan salah satu tim paling bersemangat dalam crypto yang pernah kami temui. Kami sangat antusias untuk mendukung mereka."_ — Imran Khan, Mitra di DeFi Alliance
+> _“Bertaruh pada Subquery adalah bertaruh pada ekosistem Polkadot secara keseluruhan, dan pada tahap awal ini sebagian besar adalah infrastruktur. Mereka adalah yang terdepan di bidang ini karena basis pelanggan mereka mencakup beberapa proyek Polkadot teratas. Tim Subquery juga merupakan salah satu tim paling bersemangat dalam kripto yang pernah kami temui. Kami sangat antusias untuk mendukung mereka.”_ — Imran Khan, Partner di DeFi Alliance
 
-OnFinality adalah tim di balik SubQuery, yang merupakan platform SaaS infrastruktur untuk tim blockchain dan pengguna untuk meluncurkan node dan mendapatkan akses ke berbagai protokol blockchain. Mereka memiliki serangkaian layanan simbiosis termasuk layanan shared node API, dan memiliki hubungan dengan tim Polkadot/Substrate teratas.
+OnFinality adalah tim di belakang SubQuery, yang merupakan platform SaaS infrastruktur untuk tim dan pengguna blockchain untuk meluncurkan node dan mendapatkan akses ke berbagai protokol blockchain. Mereka memiliki serangkaian layanan simbiosis termasuk layanan API shared node, dan memiliki hubungan dengan tim Polkadot/Substrate teratas.
 
 > _“Hypersphere dengan senang hati mendukung Sam dan tim SubQuery karena mereka dengan cepat membangun protokol pengindeksan pertama yang berfokus secara eksklusif pada ekosistem Polkadot.”_ — Jack Platts, Co-Founder di Hypersphere Ventures
 
@@ -16,9 +16,9 @@ Dipimpin oleh Sam Zou, CEO dari SubQuery, tim [menerima grants dari Web3 foundat
 
 ![](https://miro.medium.com/max/1000/0*kjspGYRr_BtMk015)
 
-Sejak saat itu SubQuery telah meluncurkan SubQuery Explorer. Sebuah layanan host online yang menyediakan akses ke proyek SubQuery yang diterbitkan yang dibuat oleh kontributor di seluruh dunia dan dikelola oleh tim SubQuery. Kami juga telah menjalin kemitraan strategis dengan proyek Polkadot teratas, termasuk Acala, Plasm, dan Moonbeam.
+Dari situ SubQuery telah meluncurkan SubQuery Explorer. Sebuah layanan hosted online yang menyediakan akses ke proyek SubQuery yang telah dipublikasikan yang dibuat oleh kontributor di seluruh dunia dan dikelola oleh tim SubQuery. Kami juga telah menjalin kemitraan strategis dengan proyek Polkadot teratas, termasuk Acala, Plasm, dan Moonbeam.
 
-Pendanaan seed ini akan mempercepat pengembangan SubQuery dan mempercepat delivery layanan data penting ke komunitas Polkadot/Substrate. Ini termasuk membangun layanan publik gratis untuk menghosting dan mengelola proyek SubQuery komunitas, membangun komunitas seputar data dan berbagi pengetahuan, dan pada akhirnya tokenisasi proyek kami.
+Pendanaan seed ini akan mempercepat pengembangan SubQuery dan mempercepat pengiriman layanan data penting ke komunitas Polkadot/Substrate. Ini termasuk membangun layanan publik gratis untuk menampung dan mengelola proyek SubQuery komunitas, membangun komunitas di sekitar data dan berbagi pengetahuan, hingga akhirnya tokenisasi proyek kami.
 
 -   Cobalah di [SubQuery Explorer](https://explorer.subquery.network/)
 -   Baca lebih lanjut di [dokumen SubQuery](https://doc.subquery.network/)
