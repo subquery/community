@@ -10,13 +10,9 @@
 
 最重要的是，您现在可以引用一个链式定义文件，当您索引自定义的底层链时其中将包含所有自定义类型。 更快的速度意味着您可以将一个新的 SubQuery 项目连接到任何基于Substrate的链，包括所有的Kusama的平行链。 这是一个标准的链类型文件它需要声明这个区块链支持的特定类型比如`son`或`.yaml`格式。
 
-这个解决方案允许您避免复制和管理清单中的链式定义。 并允许您只复制在PolkadotJS</a>等仓库中列出的
-
-已发布的链路类型文件。</p> 
+这个解决方案允许您避免复制和管理清单中的链式定义。[并允许您只复制在PolkadotJS](https://github.com/polkadot-js/apps/tree/master/packages/apps-config/src/api/spec)等仓库中列出的<0>已发布的链路类型文件。
 
 [您可以阅读新的清单文件，包括如何将您的项目迁移到它，详细内容将更新在我们的文档中。](https://doc.subquery.network/create/manifest/)
-
-
 
 # Moonbeam的EVM支持
 
@@ -32,23 +28,17 @@
 
 [首先，熟悉关于如何连接和索引来自Moonbeam，Moonbase Alpha和Moonriver的数据的最新文档。](https://doc.subquery.network/create/moonbeam/)索引moonbeam数据的过程只是两个步骤：
 
-
-
 ## 第 1 步：添加moonbeam自定义数据源
 
 我们已经创建了一个数据处理器，专门用于使用Moonbeam实现 [Frontier](https://github.com/paritytech/frontier)。 它允许您引用处理器用于解析参数的特定ABI资源以及事件来源或调用的智能合约地址。 [您可以在这里阅读更多](https://doc.subquery.network/create/moonbeam/#data-source-spec)
 
 SubQuery采用了比其他索引器更先进的过滤器，允许过滤非合同交易、交易发送人、合同和索引日志参数。 这使得开发人员能够根据他们的具体数据需要建立各种各样的项目。
 
-
-
 ## 第 2 步：索引moonbeam数据
 
 就像一个普通的 SubQuery 项目一样，您使用映射函数将数据转换成您定义的 GraphQL 实体，不同的是，并不是`SubstrateEvent`或`SubstrateExtrinsic`, 您的映射函数将收到一个`MoonbeamCall`或`MoonbeamEvent`基于以往的[交易响应](https://docs.ethers.io/v5/api/providers/types/#providers-TransactionResponse)或[日志](https://docs.ethers.io/v5/api/providers/types/#providers-Log)类型。 [您可以在这里阅读更多关于这些内容的信息](https://doc.subquery.network/create/moonbeam/#moonbeamcall)。
 
 [在此阅读此进程的完整文档](https://doc.subquery.network/create/moonbeam/#moonbeamcall)
-
-
 
 ## 示例项目
 
@@ -68,15 +58,11 @@ SubQuery采用了比其他索引器更先进的过滤器，允许过滤非合同
 
 你们可以看到的。创建一个 Moonrier 或 Moonbase Alpha项目，将Substrate和EVM数据都索引在一个单一的项目中是极其简单和大体相似的。 您可以使用SubQuery的高级手写脚本工具来加速您的dApp开发，并利用或丰富你的数据索引来构建更直观的dApp。 我们已迫不及待想看看你接下来构建的项目！
 
-
-
 ## 关于 SubQuery
 
 SubQuery是一个数据聚合层，在第一层区块链（Moonriver 和 Polkadot）和DApp之间运行。 提供解锁区块链数据并将其转换为可查询状态的服务，以便使用者能够用直观地使用。 它允许 DApp 开发者专注于核心应用案例和前端，在建立数据处理的自定义后端上为他们节省时间。
 
 ​​[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [Github](https://github.com/subquery/subql)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
-
-
 
 ## 关于Moonbeam
 
