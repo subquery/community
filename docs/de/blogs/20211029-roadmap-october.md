@@ -62,114 +62,114 @@ Wir werden unser Kern-SubQuery-SDK verbessern und zusätzliche Komponenten für 
 
 Der Indexer-Koordinator wird von den Indexern bereitgestellt, um das Netzwerk für den Indexer verfügbar zu machen und es dem Indexer zu ermöglichen, sich beim SubQuery-Netzwerk zu registrieren und die Daten, die er zur Verfügung stellt, bekannt zu geben
 
-The client SDK will be for the consumer role, and will allow them to find indexers and manage the entire transaction that a consumer will need to retrieve and pay for data.
+Das Client-SDK dient der Verbraucherrolle und ermöglicht es ihnen, Indexer zu finden und die gesamte Transaktion zu verwalten, die ein Verbraucher zum Abrufen und Bezahlen von Daten benötigt.
 
-### SQT Network contract internal MVP
+### SQT Netzwerkvertrag interner MVP
 
-Our first version of the SubQuery network will be within a smart contract, deployed on a leading Polkadot parachain. The internal MVP will allow us to internally start testing out everything here, and is a huge milestone for us to complete.
+Unsere erste Version des SubQuery-Netzwerks wird innerhalb eines Smart Contracts sein, der auf einer führenden Polkadot-Parachain bereitgestellt wird. Das interne MVP wird es uns ermöglichen, alles hier intern zu testen, und ist ein großer Meilenstein für uns.
 
 ### EU Cluster
 
-Our customers are requesting support for more clusters for SubQuery data around the world. More clusters mean more resiliency, and hosted SubQuery data closer to where their customers are. A new European cluster means faster requests for consumers, unrivalled performance for dApp developers and more resiliency for the SubQuery network.
+Unsere Kunden bitten um Unterstützung für weitere Cluster für SubQuery-Daten in der ganzen Welt. Mehr Cluster bedeuten mehr Ausfallsicherheit und gehostete SubQuery-Daten näher am Standort ihrer Kunden. Ein neuer europäischer Cluster bedeutet schnellere Anfragen für Verbraucher, unübertroffene Leistung für dApp-Entwickler und mehr Ausfallsicherheit für das SubQuery-Netzwerk.
 
-### Improvements to subql init
+### Verbesserungen an subql init
 
-The _subql init_ command is a familiar one for anyone that has built a SubQuery project; it represents a blank canvas — limitless opportunities. We are aware that we can do better to help others get started, rather than a blank canvas developers want a blank scaffold, where all the boiler-plate code is already written.
+Der Befehl _subql init_ ist jedem bekannt, der ein SubQuery-Projekt erstellt hat; es stellt eine leere Leinwand dar – grenzenlose Möglichkeiten. Wir sind uns bewusst, dass wir anderen beim Einstieg besser helfen können, als dass Entwickler ein leeres Gerüst wollen, auf dem der gesamte Standardcode bereits geschrieben ist.
 
-This roadmap item represents work we want to do to allow developers to start building on any parachain without needing to worry about endpoints, dictionaries, and types — all saving time for developers and helping others get started.
+Dieses Roadmap-Element stellt die Arbeit dar, die wir tun möchten, damit Entwickler mit dem Aufbau auf jeder Parachain beginnen können, ohne sich um Endpunkte, Wörterbücher und Typen kümmern zu müssen – all das spart Zeit für Entwickler und hilft anderen beim Einstieg.
 
-## Milestone 2 — Middle of Q1 2022
+## Meilenstein 2  –  Mitte Q1 2022
 
-### Public testnet launch
+### Start des öffentlichen Testnetzes
 
-Following the SQT Network contract internal MVP, we will invite a small group of participants to onboard and join us as we start testing the SubQuery Network. In order to launch, we need to complete a large number of tasks and an even bigger amount of documentation!
+Im Anschluss an den internen MVP des SQT Network-Vertrags werden wir eine kleine Gruppe von Teilnehmern einladen, an Bord zu gehen und sich uns anzuschließen, wenn wir mit dem Testen des SubQuery-Netzwerks beginnen. Um zu starten, müssen wir eine Vielzahl von Aufgaben und eine noch größere Menge an Dokumentation erledigen!
 
-In early 2022, we will share more information about this process and how you can apply to take part.
+Anfang 2022 werden wir weitere Informationen zu diesem Prozess und zur Bewerbung für die Teilnahme veröffentlichen.
 
-### Point-in-time indexing
+### Point-in-Time-Indizierung a.g Point-in-time indexing
 
-Imagine being able to find out the state of the blockchain at a certain point in time - what exactly did a SubQuery project look like back at the 5 millionth block? This is exactly what this new feature will provide.
+Stellen Sie sich vor, Sie könnten den Zustand der Blockchain zu einem bestimmten Zeitpunkt herausfinden – wie genau sah ein SubQuery-Projekt beim 5-millionsten Block aus? Genau das bietet diese neue Funktion.
 
-### SQT Network contract v1 and external code audit
+### SQT-Netzwerkvertrag v1 und externes Code-Audit
 
-All important networks require a through code audit by an external partner to ensure that the network’s code is secure and scalable. SubQuery is no different, so we’ll be working with key partners for a full code audit here and also continue to receive code audits for our smart contracts going forward.
+Alle wichtigen Netzwerke erfordern ein Code-Audit durch einen externen Partner, um sicherzustellen, dass der Code des Netzwerks sicher und skalierbar ist. Bei SubQuery ist das nicht anders, daher werden wir hier mit wichtigen Partnern für ein vollständiges Code-Audit zusammenarbeiten und auch in Zukunft Code-Audits für unsere Smart Contracts erhalten.
 
-### Internal micropayments testing
+### Interne Mikrozahlungstests
 
-This is a key feature for us. We are going to be doing a lot of work within the Polkadot ecosystem to manage and handle micropayments within SubQuery. The advantage of Polkadot is tiny transaction fees relative to other networks like Ethereum, meaning micropayments are much more relevant to. This will roll out to our incentivised test network after we carry out thorough internal testing.
+Es ist ein wichtiges Merkmal für uns. Wir werden innerhalb des Polkadot-Ökosystems viel daran arbeiten, Mikrozahlungen innerhalb von SubQuery zu verwalten und abzuwickeln. Der Vorteil von Polkadot sind winzige Transaktionsgebühren im Vergleich zu anderen Netzwerken wie Ethereum, was bedeutet, dass Mikrozahlungen viel relevanter sind. Dies wird in unserem incentivierten Testnetzwerk eingeführt, nachdem wir gründliche interne Tests durchgeführt haben.
 
-### SubQuery Network Explorer and App
+### SubQuery Network Explorer und App
 
-We’re building an explorer and other applications to allow participants in the SubQuery Network explore and find data within the SubQuery Network. Consumers will also use this to navigate the library of supported data sources, as well as delegators to analyse how indexers are performing to decide how to delegate their SQT tokens.
+Wir erstellen einen Explorer und andere Anwendungen, die es Teilnehmern des SubQuery-Netzwerks ermöglichen, Daten innerhalb des SubQuery-Netzwerks zu durchsuchen und zu finden. Verbraucher verwenden dies auch, um in der Bibliothek unterstützter Datenquellen zu navigieren, sowie Delegatoren, um zu analysieren, wie Indexer arbeiten, um zu entscheiden, wie sie ihre SQT-Token delegieren.
 
-### Enterprise health monitoring
+### Unternehmenszustandsüberwachung
 
-Following on from our SubQuery Enterprise service tier, you can also expect a large amount of health monitoring and other performance analytics tools to be made available to customers.
+Im Anschluss an unsere SubQuery Enterprise-Dienstebene können Sie auch davon ausgehen, dass den Kunden eine große Menge an Integritätsüberwachungs- und anderen Leistungsanalysetools zur Verfügung gestellt wird.
 
-## Milestone 3 — End of Q1 2022
+## Meilenstein 3  –  Ende Q1 2022
 
-### SQT token generation event
+### SQT-Token-Generierungsereignis
 
-After a successful test network phase we are expecting to launch the SubQuery token on a Polkadot parachain partner. We will be sharing more information on our tokenomics with the community in the coming weeks.
+Nach einer erfolgreichen Testnetzwerkphase erwarten wir, den SubQuery-Token auf einem Polkadot-Parachain-Partner zu starten. Wir werden in den kommenden Wochen weitere Informationen zu unseren Tokenomics mit der Community teilen.
 
-### Public incentivised testnet launch with micropayments
+### Öffentlicher Testnet-Start mit Mikrozahlungen
 
-This is the final stage of our test network. We will release everything to our test network and expect participants to push it to its limits. This includes scale and load testing, fine tuning our economic models and coefficients, testing our documentation and onboarding processes, and making sure that you can transact with a precursor to SQT within it.
+Dies ist die letzte Stufe unseres Testnetzwerks. Wir werden alles für unser Testnetzwerk freigeben und erwarten, dass die Teilnehmer es an seine Grenzen bringen. Dazu gehören Skalierungs- und Lasttests, die Feinabstimmung unserer Wirtschaftsmodelle und Koeffizienten, das Testen unserer Dokumentations- und Onboarding-Prozesse und das Sicherstellen, dass Sie mit einem SQT-Vorläufer darin Geschäfte tätigen können.
 
-We expect that we will be rewarding participants of our test network, those that complete certain quests or tasks, and those that act as different members of the test network.
+Wir erwarten, dass wir Teilnehmer unseres Testnetzwerks belohnen werden, diejenigen, die bestimmte Quests oder Aufgaben abschließen, und diejenigen, die als verschiedene Mitglieder des Testnetzwerks fungieren.
 
-### Data traffic insights and reporting
+### Einblicke in den Datenverkehr und Berichte
 
-We are handling millions of data requests to SubQuery projects each day. Most of our customers don’t have analytics in their own dApps for user privacy but they still need to know how their dApps are operating so we will be improving this.
+Wir bearbeiten täglich Millionen von Datenanfragen an SubQuery-Projekte. Die meisten unserer Kunden haben keine Analysen in ihren eigenen dApps für den Datenschutz der Benutzer, aber sie müssen trotzdem wissen, wie ihre dApps funktionieren, also werden wir dies verbessern.
 
-### Scalable intelligent routing
+### Skalierbares intelligentes Routing
 
-We have a goal of a Billion daily SubQuery requests to our hosted service, that’s why we are going to introduce a globally scalable service with multiple SubQuery hosted services running.
+Wir haben ein Ziel von einer Milliarde täglichen SubQuery-Anfragen an unseren gehosteten Dienst. Aus diesem Grund werden wir einen global skalierbaren Dienst mit mehreren ausgeführten SubQuery-gehosteten Diensten einführen.
 
-It’s a new and continuously improving feature that automatically routes requests to the closest available node. Additionally, it allows us to redirect all requests immediately to a backup SubQuery zone, providing us with a fault tolerant system in the case of regional outage.
+Es handelt sich um eine neue und sich ständig verbessernde Funktion, die Anfragen automatisch an den nächstgelegenen verfügbaren Knoten weiterleitet. Darüber hinaus ermöglicht es uns, alle Anfragen sofort an eine Backup-SubQuery-Zone umzuleiten, was uns im Falle eines regionalen Ausfalls ein fehlertolerantes System bietet.
 
-In the future it means that we’ll be creating more and more smaller SubQuery hosted services tactically placed closer to our users.
+In der Zukunft bedeutet es, dass wir immer mehr kleinere gehostete SubQuery-Dienste erstellen werden, die taktisch näher an unseren Benutzern platziert sind.
 
-## Milestone 4 — Middle of Q2 2022
+## Meilenstein 4  –  Mitte Q2 2022
 
-### Launch of the SubQuery Foundation
+### Start der SubQuery Foundation
 
-In our move to create a decentralized SubQuery Network we will establish a SubQuery Foundation to administer the future governance and growth of the ecosystem. The ownership of the SubQuery Network will come under the SubQuery foundation initially.
+In unserem Bestreben, ein dezentralisiertes SubQuery-Netzwerk zu schaffen, werden wir eine SubQuery Foundation einrichten, um die zukünftige Governance und das Wachstum des Ökosystems zu verwalten. Das Eigentum am SubQuery-Netzwerk fällt zunächst unter die SubQuery-Stiftung.
 
-### Finalise research for other Layer-1 chains
+### Forschung für andere Layer-1-Ketten abschließen
 
-While our home will always be Polkadot we are exploring supporting various other Layer-1 blockchains with our indexing capabilities.
+Während unser Zuhause immer Polkadot sein wird, untersuchen wir die Unterstützung verschiedener anderer Layer-1-Blockchains mit unseren Indexierungsfunktionen.
 
-### Liquidity mining program
+### Liquiditätsmining-Programm
 
-In order to enhance the liquidity of the SQT token, we will create a liquidity mining program with a decentralized exchange (DEX). This will enable token holders to generate returns on their investment.
+Um die Liquidität des SQT-Tokens zu erhöhen, werden wir ein Liquidity-Mining-Programm mit einer dezentralen Börse (DEX) erstellen. Auf diese Weise können Token-Inhaber Renditen auf ihre Investition erzielen.
 
-## Milestone 5 — End of Q2 2022
+## Meilenstein 5  –  Ende des zweiten Quartals 2022
 
-### Mainnet launch 🚀
+### Mainnet-Start🚀
 
-After we complete testing of the SubQuery network will launch the first SubQuery Network mainnet. This is where everything really starts. Initially, we will onboard and reward participants of the test network, and then it will be completely open to everyone in the community.
+Nachdem wir das Testen des SubQuery-Netzwerks abgeschlossen haben, wird das erste SubQuery-Netzwerk-Mainnet gestartet. Hier fängt wirklich alles an. Zunächst werden wir die Teilnehmer des Testnetzwerks an Bord nehmen und belohnen, dann wird es allen in der Community vollständig offenstehen.
 
-### Centralised Exchange launch
+### Zentralisierte Exchange-Einführung
 
-In order to drive increased adoption of SQT, we anticipate launching the token on one if not multiple leading CEX during this period as well as many other DEXs.
+Um die Akzeptanz von SQT zu steigern, gehen wir davon aus, dass der Token in diesem Zeitraum auf einem, wenn nicht mehreren führenden CEX sowie auf vielen anderen DEXs eingeführt wird.
 
-## Milestone 6 — Long term plans
+## Meilenstein 6  –  Langfristige Pläne
 
-### Launch our own Parachain
+### Einführung von unseren eigenen Parachain
 
-Although we initially plan to partner with a top Polkadot parachain to get SubQuery Network released and scaled quicker, in the long-term SubQuery also intends to launch on it’s own parachain and integrate itself even more in the ecosystem.
+Obwohl wir zunächst planen, mit einer Top-Polkadot-Parachain zusammenzuarbeiten, um eine schnellere Veröffentlichung und Skalierung des SubQuery-Netzwerks zu erreichen, beabsichtigt SubQuery langfristig auch, eine eigene Parachain zu starten und sich noch stärker in das Ökosystem zu integrieren.
 
-This self owned parachain will allow us to further innovate in tools that can help developers build the web3 future faster. We want to aim for a parachain slot once we have a proven track record behind us and the data, community, and token to support it.
+Diese eigene Parachain wird es uns ermöglichen, weitere Innovationen bei Tools zu entwickeln, die Entwicklern helfen können, die web3-Zukunft schneller aufzubauen. Wir wollen einen Parachain-Slot anstreben, sobald wir eine nachgewiesene Erfolgsbilanz hinter uns und die Daten, die Community und die Token haben, um ihn zu unterstützen.
 
-### SubQuery Foundation moves to a DAO
+### SubQuery Foundation wechselt zu einem DAO
 
-This one is a long way off, but it’s always our dream the SubQuery eventually becomes a community owned DAO. We’ve said many times that the community plays a huge part in SubQuery, everything that we do is for our customers — becoming a DAO is the embodiment of that focus.
+Dies ist noch weit entfernt, aber es ist immer unser Traum, dass SubQuery schließlich ein DAO im Besitz der Community wird. Wir haben oft gesagt, dass die Community eine große Rolle bei SubQuery spielt, alles, was wir tun, ist für unsere Kunden – ein DAO zu werden, ist die Verkörperung dieses Fokus.
 
-That being said, this is a long long way off, and will only be done once we are absolutely confident of SubQuery's success and future with the community.
+Davon abgesehen ist dies noch ein langer Weg und wird nur dann durchgeführt, wenn wir vom Erfolg und der Zukunft von SubQuery mit der Community absolut überzeugt sind.
 
-## About SubQuery
+## Über SubQuery
 
-[SubQuery](https://subquery.network) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. The protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+[SubQuery](https://subquery.network) ist eine dezentrale Datenaggregation, Indexierung & Abfrageschicht zwischen Layer-1-Blockchains und dezentralen Anwendungen. Das Protokoll abstrahiert mit dem SubQuery SDK die Eigenheiten der Blockchain-Daten, sodass sich Entwickler auf die Bereitstellung ihres Kernprodukts konzentrieren können, ohne unnötigen Aufwand für benutzerdefinierte Backend-Technologien zu verschwenden.
 
-​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+​​[Linktree](https://linktr.ee/subquerynetwork) | [Webseite](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
