@@ -1,16 +1,16 @@
-# SubQuery’s New Spartan Programme
+# Das neue Spartan-Programm von SubQuery
 
 ![](https://miro.medium.com/max/1400/1*k5cScGKMiC45i_N-em3x0Q.png)
 
-In August, [SubQuery launched its Ambassador programme](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) to find community leaders passionate about Polkadot and SubQuery. Our goal was to find self-starters that could spread the word about SubQuery in their local areas and provide support to new developers building amazing apps and services on Polkadot.
+Im August startete [SubQuery sein Ambassador-Programm](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804), um Community-Führungskräfte zu finden, die sich für Polkadot und SubQuery begeistern. Unser Ziel war es, Selbststarter zu finden, die SubQuery in ihrer Umgebung bekannt machen und neue Entwickler unterstützen, die großartige Apps und Dienste auf Polkadot erstellen.
 
-We did not expect what happened next!
+Wir haben nicht erwartet, was als nächstes passierte!
 
-In the last few months we have been completely overwhelmed by thousands and thousands of applications, and our initial plans to manually onboard applicants has become challenging. We know that there are many applicants who have not heard back from us and it has become clear that we need to do a better job and provide a way that our community can work with us.
+In den letzten Monaten wurden wir von Tausenden und Abertausenden von Bewerbungen völlig überwältigt, und unsere anfänglichen Pläne, Bewerber manuell einzubinden, sind zu einer Herausforderung geworden. Wir wissen, dass es viele Bewerber gibt, die noch nichts von uns gehört haben, und es ist klar geworden, dass wir einen besseren Job machen und eine Möglichkeit bieten müssen, dass unsere Community mit uns zusammenarbeiten kann.
 
-After consultation with our existing Ambassadors we have designed a new, and transparent method to level up in [our Discord community](https://discord.com/invite/subquery) and potentially become an Ambassador.
+Nach Rücksprache mit unseren bestehenden Ambassadors haben wir eine neue und transparente Methode entwickelt, um in [unserer Discord-Community](https://discord.com/invite/subquery) aufzusteigen und möglicherweise Ambassador zu werden.
 
-Today, we are pleased to announce the creation of the SubQuery Spartan Programme. The Spartan Programme exists entirely within our Discord community, where aspiring Ambassadors can complete monthly tasks and competitions in order to earn the Spartan tag. The Spartans who then rise to the top of their class will be recommended by the existing Ambassadors to the SubQuery team to join their ranks.
+Heute freuen wir uns, die Schaffung des SubQuery Spartan-Programms bekannt zu geben. The Spartan Programme exists entirely within our Discord community, where aspiring Ambassadors can complete monthly tasks and competitions in order to earn the Spartan tag. The Spartans who then rise to the top of their class will be recommended by the existing Ambassadors to the SubQuery team to join their ranks.
 
 In addition to the potential of becoming an Ambassador, Discord members with the Spartan role will be afforded special perks and rights within the SubQuery community.
 
