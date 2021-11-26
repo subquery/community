@@ -1,175 +1,175 @@
-# SubQuery Meluncurkan Roadmap Teknikal
+# SubQuery Releases Technical Roadmap
 
 ![](https://cdn-images-1.medium.com/max/800/1*Qcu5mFIs8eJhAXaMpWOlMQ.png)
 
-**SubQuery mengumumkan pencapaian utama termasuk timeline TGE**
+**SubQuery announces key milestones including TGE timeline**
 
-Hari ini kami dengan senang hati merilis roadmap teknis terperinci kami untuk pertama kalinya. Tujuan SubQuery adalah menjadi penyedia data terkemuka di ekosistem Polkadot dan dukungan yang kami dapatkan dari komunitas dalam membantu kami mewujudkan visi ini luar biasa. Dari pendirian resmi kami pada akhir tahun 2020 melalui [Web3 Grant](https://web3.foundation/), hingga merilis versi open source pertama kami pada Januari 2021, dan [menutup Seri A kami pada bulan September](https://subquery.medium.com/series-a-1abed6c1c2af), kami ingin berterima kasih atas semua dukungan Anda dalam membawa kami ke tahap ini!
+Today we are pleased to release our detailed technical roadmap for the first time. SubQuery’s goal is to be the leading data provider in the Polkadot ecosystem and the support we have had from the community to help us realise this vision has been amazing. From our formal establishment at the end of 2020 via a [Web3 Grant](https://web3.foundation/), to releasing our first open source version in January 2021, and [closing our Series A in September](https://subquery.medium.com/series-a-1abed6c1c2af) we would like to thank you for all of your support in getting us to this stage!
 
-Saat kami terus mendapatkan momentum, saatnya telah tiba untuk berbagi lebih banyak tentang rencana kami untuk masa depan termasuk roadmap teknis kami. Kami sangat senang tentang bagaimana evolusi SubQuery berikutnya akan mendorong nilai lebih bagi ekosistem Polkadot dan memberikan lebih banyak peluang bagi komunitas kami untuk berpartisipasi dalam pertumbuhan kami.
+As we continue to gain momentum, the time has come to share more about our plans for the future including our technical roadmap. We are excited about how the next evolution of SubQuery will drive even more value to the Polkadot ecosystem and provide more opportunities for our community to participate in our growth.
 
-## Masa depan kita
+## Our Future
 
-Disaat SubQuery sudah melayani jutaan kueri data setiap hari ke [lebih dari 60 proyek di Polkadot & Kusama](https://project.subquery.network/), kami ingin memastikan bahwa fase pertumbuhan kami berikutnya dilakukan secara terorganisir dan terkendali.
+While SubQuery is already serving millions of data queries each day to [over 60 projects on Polkadot & Kusama](https://project.subquery.network/), we wanted to ensure that our next phase of growth was conducted in an organised and controlled manner.
 
-Karena alasan ini, kami merasa sangat penting untuk mendemonstrasikan dan menguji skalabilitas Jaringan SubQuery melalui program testnet yang diberi insentif. Proses ini juga akan memungkinkan kami untuk membentuk komunitas pengindeks sebelum diluncurkan secara publik melalui TGE pada Maret 2022 dan mainnet kami pada akhir tahun depan.
+For this reason, we feel it is critical that we demonstrate and fully test the scalability of the SubQuery Network through an incentivised testnet program. This process will also allow us to establish a community of indexers before launching publicly via a TGE in March 2022 and our eventual mainnet later next year.
 
-![](https://cdn-images-1.medium.com/max/800/1*I6mko5xumHAArzGePvEZiQ.jpeg)
+![](https://miro.medium.com/max/2400/1*I6mko5xumHAArzGePvEZiQ.jpeg)
 
-Dengan demikian, hasil utama dalam alur kerja kami dapat dipecah menjadi tonggak utama berikut.
+As such, the key deliverables in our work-flow can be broken into the following major milestones.
 
-## Di mana kita sekarang — Pertengahan Q4 2021
+## Where we are now — Middle of Q4 2021
 
-### Dukungan EVM untuk parachains
+### EVM support for parachains
 
-Kami akan segera merilis [dukungan beta kami untuk implementasi Polkadot dari Ethereum Virtual Machine (EVM)](https://medium.com/@subquery/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff). Ini memungkinkan pengembang Polkadot dan Ethereum untuk mengintegrasikan data Substrate dan EVM dengan mulus ke dalam satu tempat dan mengkueri sumber data tunggal ini menggunakan GraphQL.
+We will be releasing [our beta support for Polkadot implementations of the Ethereum Virtual Machine (EVM)](https://medium.com/@subquery/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff) soon. This allows Polkadot and Ethereum developers to seamlessly integrate both Substrate and EVM data into one place and query this single datasource using GraphQL.
 
-SubQuery akan memperkenalkan filter yang lebih canggih daripada pengindeks lainnya, memungkinkan pemfilteran transaksi non-kontrak, pengirim transaksi, kontrak, dan argumen log yang diindeks, sehingga pengembang dapat membangun berbagai proyek yang memenuhi kebutuhan data spesifik mereka.
+SubQuery will introduce more advanced filters than other indexers, allowing filtering of non-contract transactions, transaction senders, contracts and indexed log arguments, so developers can build a wide variety of projects that cater to their specific data needs.
 
-### Akademi SubQuery
+### SubQuery Academy
 
-Akademi dirancang untuk meningkatkan keterampilan dan memberdayakan pengembang di ekosistem SubQuery dengan menyediakan edukasi modular kepada mereka. [Kursus pertama kami di Akademi adalah _Hero Course_](https://doc.subquery.network/academy/herocourse/) dan diluncurkan pada hari Jumat 22 Oktober 2021.
+The Academy is designed to up-skill and empower developers in the SubQuery ecosystem by providing them with modular education. [Our first course in the Academy is the _Hero Course_](https://doc.subquery.network/academy/herocourse/) and was launched on Friday 22 October 2021.
 
-Dalam setiap modul _Hero Course_, ada beberapa pelajaran 5 sampai 10 menit yang disampaikan melalui rekaman video. Konten video disertai dengan tutorial tertulis, slide, buku kerja, dan tautan ke repositori kode GitHub yang telah selesai.
+Within each module of the _Hero Course_, there are several 5 to 10 minute lessons which are delivered by a recorded video. The video content is accompanied by written tutorials, slides, workbooks, and links to the finished GitHub code repository.
 
-Kursus ini dirancang untuk membuat pengembang dari tidak tahu apa-apa tentang SubQuery menjadi ahli dalam membangun sumber data SubQuery untuk aplikasi blockchain baru mereka.
+The course is designed to get a developer from knowing nothing about SubQuery to becoming an expert in building a SubQuery data source for their new blockchain application.
 
-Dalam beberapa bulan ke depan, kami akan menerapkan lebih banyak edukasi untuk Komunitas, dengan rilis mingguan konten baru SubQuery _Hero Course_, dan lebih banyak kursus dalam beberapa minggu mendatang.
+In the next few months we will be deploying more education for the Community, with weekly releases of new SubQuery _Hero Course_ content, and more courses in the coming weeks.
 
-### Bukti Pengindeksan
+### Proof of Indexing
 
-Bukti pengindeksan memungkinkan kami untuk menjamin bahwa dua pengindeks berbeda yang bekerja dengan proyek SubQuery yang sama telah mengindeks data yang sama persis. Ini adalah komponen penting yang diperlukan untuk pengembangan jaringan SubQuery yang terdesentralisasi. Kami menggunakan konsep yang disebut Pegunungan Merkle untuk mengonfirmasi dan menjamin hal ini, pantau terus postingan blog mendatang yang mengeksplorasi hal ini lebih dalam.
+Proof of indexing allows us to guarantee that two different indexers working with the same SubQuery project have indexed the exact same data. It’s a critical component required for the development of a decentralized SubQuery network. We’re using a concept called Merkle Mountain ranges to confirm and guarantee this, keep an eye out for a future blog post that explores this deeper.
 
-### Layanan Enterprise Premium
+### Premium Enterprise Service
 
-Kami memiliki beberapa pelanggan besar seperti Karura, Kodadot dan Fearless Wallet yang semuanya menjalankan aplikasi produksi di SubQuery. Tim-tim ini menuntut peningkatan layanan dan tingkat keandalan yang lebih tinggi.
+We have some large customers such as Karura, Kodadot and Fearless Wallet all running production applications in SubQuery. These teams are demanding improved service and higher levels of reliability.
 
-Kami menghadapi tantangan, dengan Perjanjian Tingkat Layanan, tingkat layanan perusahaan, dan alat lain yang dibutuhkan pelanggan kami yang lebih besar untuk menjalankan bisnis mereka sendiri dan menerima kinerja terbaik dari SubQuery untuk aplikasi mereka.
+We’re rising to the challenge, with Service Level Agreements, enterprise service tiers, and other tools that our larger customers need to run their own businesses and receive the best possible performance from SubQuery for their applications.
 
-Silakan hubungi tim jika Anda ingin berbicara dengan kami tentang menerima layanan dan dukungan tingkat perusahaan dari SubQuery.
+Please get in contact with the team if you want to talk to us about receiving enterprise level services and support from SubQuery.
 
-## Pencapaian 1 — Akhir Q4 2021
+## Milestone 1 — End of Q4 2021
 
-### SubQuery Builders/Grants Program
+### SubQuery Builders/Grants Programme
 
-Program grant ini dirancang untuk memfasilitasi dan mendorong inovasi dengan Polkadot dan SubQuery, dan untuk membangun dApps generasi berikutnya untuk mendukung revolusi web3. Ini akan mendukung proyek baru dengan grant, dukungan teknis, pemasaran dan saran pengembangan bisnis dari SubQuery dan lainnya.
+This grants programme is designed to facilitate and catalyse innovation with Polkadot and SubQuery, and to build the next generation of dApps to power the web3 revolution. It will support new projects with grants, technical support, marketing and business development advice from SubQuery and others.
 
-Kami sangat senang dengan potensi ini dan akan segera merilis lebih banyak informasi.
+We are excited about the potential of this and will be releasing more information soon.
 
-### Koordinator dan implementasi SDK klien
+### Coordinator and client SDK implementations
 
-Kami akan meningkatkan SDK SubQuery inti kami dan menambahkan komponen tambahan untuk koordinator dan klien SubQuery.
+We will be improving our core SubQuery SDK and adding additional components for a SubQuery coordinator and client.
 
-Koordinator pengindeks akan dikerahkan oleh pengindeks untuk mengekspos jaringan ke pengindeks, dan memungkinkan pengindeks untuk mendaftarkan dirinya dengan jaringan SubQuery dan mengiklankan data yang tersedia
+The indexer coordinator will be deployed by indexers to expose the network to the indexer, and allow the indexer to register itself with the SubQuery network and advertise the data that it is making available
 
-SDK klien akan menjadi peran konsumen, dan akan memungkinkan mereka menemukan pengindeks dan mengelola seluruh transaksi yang perlu diambil dan dibayar oleh konsumen untuk data.
+The client SDK will be for the consumer role, and will allow them to find indexers and manage the entire transaction that a consumer will need to retrieve and pay for data.
 
-### MVP internal kontrak Jaringan SQT
+### SQT Network contract internal MVP
 
-Jaringan SubQuery versi pertama kami akan berada dalam smart contract, yang diterapkan pada parachain Polkadot terkemuka. MVP internal akan memungkinkan kami untuk mulai menguji semuanya secara internal di sini, dan merupakan pencapaian besar yang harus kami selesaikan.
+Our first version of the SubQuery network will be within a smart contract, deployed on a leading Polkadot parachain. The internal MVP will allow us to internally start testing out everything here, and is a huge milestone for us to complete.
 
 ### EU Cluster
 
-Pelanggan kami meminta dukungan untuk lebih banyak cluster untuk data SubQuery di seluruh dunia. Lebih banyak cluster berarti lebih banyak ketahanan, dan menghosting data SubQuery lebih dekat ke tempat pelanggan mereka berada. Cluster Eropa baru berarti permintaan yang lebih cepat untuk konsumen, kinerja tak tertandingi untuk pengembang dApp, dan ketahanan yang lebih besar untuk jaringan SubQuery.
+Our customers are requesting support for more clusters for SubQuery data around the world. More clusters mean more resiliency, and hosted SubQuery data closer to where their customers are. A new European cluster means faster requests for consumers, unrivalled performance for dApp developers and more resiliency for the SubQuery network.
 
-### Peningkatan subql init
+### Improvements to subql init
 
-Perintah _subql init_ adalah perintah yang familiar bagi siapa saja yang telah membangun proyek SubQuery; itu mewakili kanvas kosong — kesempatan tanpa batas. Kami sadar bahwa kami dapat berbuat lebih baik untuk membantu orang lain memulai, daripada pengembang kanvas kosong menginginkan perancah kosong, di mana semua kode boiler-plate sudah ditulis.
+The _subql init_ command is a familiar one for anyone that has built a SubQuery project; it represents a blank canvas — limitless opportunities. We are aware that we can do better to help others get started, rather than a blank canvas developers want a blank scaffold, where all the boiler-plate code is already written.
 
-Item roadmap ini mewakili pekerjaan yang ingin kami lakukan untuk memungkinkan pengembang mulai membangun di parachain apa pun tanpa perlu khawatir tentang endpoint, dictionaries, dan types  — semuanya menghemat waktu bagi pengembang dan membantu orang lain memulai.
+This roadmap item represents work we want to do to allow developers to start building on any parachain without needing to worry about endpoints, dictionaries, and types — all saving time for developers and helping others get started.
 
-## Pencapaian 2 — Pertengahan Q1 2022
+## Milestone 2 — Middle of Q1 2022
 
-### Peluncuran testnet publik
+### Public testnet launch
 
-Setelah MVP internal kontrak Jaringan SQT, kami akan mengundang sekelompok kecil peserta untuk bergabung dengan kami saat kami mulai menguji Jaringan SubQuery. Untuk memulai, kita perlu menyelesaikan sejumlah besar tugas dan dokumentasi yang lebih banyak lagi!
+Following the SQT Network contract internal MVP, we will invite a small group of participants to onboard and join us as we start testing the SubQuery Network. In order to launch, we need to complete a large number of tasks and an even bigger amount of documentation!
 
-Pada awal tahun 2022, kami akan membagikan lebih banyak informasi tentang proses ini dan bagaimana Anda dapat mendaftar untuk ikut serta.
+In early 2022, we will share more information about this process and how you can apply to take part.
 
 ### Point-in-time indexing
 
-Bayangkan bisa mengetahui keadaan blockchain pada titik waktu tertentu - seperti apa sebenarnya proyek SubQuery di blok ke-5 juta? Inilah yang akan disediakan oleh fitur baru ini.
+Imagine being able to find out the state of the blockchain at a certain point in time - what exactly did a SubQuery project look like back at the 5 millionth block? This is exactly what this new feature will provide.
 
-### Kontrak Jaringan SQT v1 dan audit kode eksternal
+### SQT Network contract v1 and external code audit
 
-Semua jaringan penting memerlukan audit kode menyeluruh oleh mitra eksternal untuk memastikan bahwa kode jaringan aman dan dapat diskalakan. SubQuery tidak berbeda, jadi kami akan bekerja dengan mitra utama untuk audit kode lengkap di sini dan juga terus menerima audit kode untuk smart contract kami di masa mendatang.
+All important networks require a through code audit by an external partner to ensure that the network’s code is secure and scalable. SubQuery is no different, so we’ll be working with key partners for a full code audit here and also continue to receive code audits for our smart contracts going forward.
 
-### Pengujian pembayaran mikro internal
+### Internal micropayments testing
 
-Ini adalah fitur utama bagi kami. Kami akan melakukan banyak pekerjaan dalam ekosistem Polkadot untuk mengelola dan menangani pembayaran mikro dalam SubQuery. Keuntungan dari Polkadot adalah biaya transaksi yang kecil dibandingkan dengan jaringan lain seperti Ethereum, yang berarti pembayaran mikro jauh lebih relevan. Ini akan diluncurkan ke jaringan pengujian kami yang diberi insentif setelah kami melakukan pengujian internal yang menyeluruh.
+This is a key feature for us. We are going to be doing a lot of work within the Polkadot ecosystem to manage and handle micropayments within SubQuery. The advantage of Polkadot is tiny transaction fees relative to other networks like Ethereum, meaning micropayments are much more relevant to. This will roll out to our incentivised test network after we carry out thorough internal testing.
 
-### Explorer dan Aplikasi SubQuery Network
+### SubQuery Network Explorer and App
 
-Kami sedang membangun explorer dan aplikasi lain untuk memungkinkan peserta di SubQuery Network menjelajahi dan menemukan data dalam SubQuery Network. Konsumen juga akan menggunakan ini untuk menavigasi perpustakaan sumber data yang didukung, serta delegator untuk menganalisis bagaimana kinerja pengindeks untuk memutuskan bagaimana mendelegasikan token SQT mereka.
+We’re building an explorer and other applications to allow participants in the SubQuery Network explore and find data within the SubQuery Network. Consumers will also use this to navigate the library of supported data sources, as well as delegators to analyse how indexers are performing to decide how to delegate their SQT tokens.
 
-### Pemantauan kesehatan Enterprise
+### Enterprise health monitoring
 
-Sebagai lanjutan dari tingkat layanan SubQuery Enterprise kami, Anda juga dapat mengharapkan sejumlah besar pemantauan kesehatan dan alat analisis kinerja lainnya yang tersedia untuk pelanggan.
+Following on from our SubQuery Enterprise service tier, you can also expect a large amount of health monitoring and other performance analytics tools to be made available to customers.
 
-## Pencapaian 3 — Akhir Q1 2022
+## Milestone 3 — End of Q1 2022
 
 ### SQT token generation event
 
-Setelah fase jaringan uji yang berhasil, kami berharap untuk meluncurkan token SubQuery pada mitra parachain Polkadot. Kami akan membagikan lebih banyak informasi tentang tokennomics kami dengan komunitas dalam beberapa minggu mendatang.
+After a successful test network phase we are expecting to launch the SubQuery token on a Polkadot parachain partner. We will be sharing more information on our tokenomics with the community in the coming weeks.
 
-### Peluncuran testnet berinsentif publik dengan pembayaran mikro
+### Public incentivised testnet launch with micropayments
 
-Ini adalah tahap akhir dari jaringan pengujian kami. Kami akan merilis semuanya ke jaringan pengujian kami dan mengharapkan peserta untuk mendorongnya hingga batasnya. Ini termasuk pengujian skala dan beban, menyempurnakan model dan koefisien ekonomi kami, menguji dokumentasi dan proses orientasi kami, dan memastikan bahwa Anda dapat bertransaksi dengan pendahulu SQT di dalamnya.
+This is the final stage of our test network. We will release everything to our test network and expect participants to push it to its limits. This includes scale and load testing, fine tuning our economic models and coefficients, testing our documentation and onboarding processes, and making sure that you can transact with a precursor to SQT within it.
 
-Kami berharap bahwa kami akan memberi reward kepada peserta jaringan pengujian kami, mereka yang menyelesaikan misi atau tugas tertentu, dan mereka yang bertindak sebagai anggota berbeda dari jaringan pengujian.
+We expect that we will be rewarding participants of our test network, those that complete certain quests or tasks, and those that act as different members of the test network.
 
-### Wawasan dan pelaporan lalu lintas data
+### Data traffic insights and reporting
 
-Kami menangani jutaan permintaan data ke proyek SubQuery setiap hari. Sebagian besar pelanggan kami tidak memiliki analitik di dApps mereka sendiri untuk privasi pengguna, tetapi mereka masih perlu mengetahui bagaimana dApps mereka beroperasi sehingga kami akan meningkatkannya.
+We are handling millions of data requests to SubQuery projects each day. Most of our customers don’t have analytics in their own dApps for user privacy but they still need to know how their dApps are operating so we will be improving this.
 
-### Routing cerdas yang dapat diskalakan
+### Scalable intelligent routing
 
-Kami memiliki sasaran satu Miliar permintaan SubQuery harian ke layanan hosted kami, itulah sebabnya kami akan memperkenalkan layanan yang dapat diskalakan secara global dengan beberapa layanan hosted SubQuery yang berjalan.
+We have a goal of a Billion daily SubQuery requests to our hosted service, that’s why we are going to introduce a globally scalable service with multiple SubQuery hosted services running.
 
-Ini adalah fitur baru dan terus ditingkatkan yang secara otomatis mengarahkan permintaan ke node terdekat yang tersedia. Selain itu, ini memungkinkan kami untuk mengarahkan semua permintaan segera ke zona SubQuery cadangan, memberi kami sistem yang toleran terhadap kesalahan jika terjadi pemadaman regional.
+It’s a new and continuously improving feature that automatically routes requests to the closest available node. Additionally, it allows us to redirect all requests immediately to a backup SubQuery zone, providing us with a fault tolerant system in the case of regional outage.
 
-Di masa mendatang, ini berarti bahwa kami akan membuat semakin banyak layanan hosted SubQuery yang lebih kecil yang secara taktis ditempatkan lebih dekat dengan pengguna kami.
+In the future it means that we’ll be creating more and more smaller SubQuery hosted services tactically placed closer to our users.
 
-## Pencapaian 4 — Pertengahan Q2 2022
+## Milestone 4 — Middle of Q2 2022
 
-### Peluncuran SubQuery Foundation
+### Launch of the SubQuery Foundation
 
-Dalam langkah kami untuk membuat Jaringan SubQuery yang terdesentralisasi, kami akan mendirikan SubQuery Foundation untuk mengelola governance dan pertumbuhan ekosistem di masa depan. Kepemilikan SubQuery Network akan berada di bawah SubQuery foundation pada awalnya.
+In our move to create a decentralized SubQuery Network we will establish a SubQuery Foundation to administer the future governance and growth of the ecosystem. The ownership of the SubQuery Network will come under the SubQuery foundation initially.
 
-### Menyelesaikan penelitian untuk chain Layer-1 lainnya
+### Finalise research for other Layer-1 chains
 
-Sementara rumah kami akan selalu menjadi Polkadot, kami sedang menjajaki untuk mendukung berbagai blockchain Layer-1 lainnya dengan kemampuan pengindeksan kami.
+While our home will always be Polkadot we are exploring supporting various other Layer-1 blockchains with our indexing capabilities.
 
-### Program liquidity mining
+### Liquidity mining program
 
-Untuk meningkatkan likuiditas token SQT, kami akan membuat program penambangan likuiditas dengan pertukaran terdesentralisasi (DEX). Ini akan memungkinkan pemegang token untuk menghasilkan tambahan atas investasi mereka.
+In order to enhance the liquidity of the SQT token, we will create a liquidity mining program with a decentralized exchange (DEX). This will enable token holders to generate returns on their investment.
 
-## Pencapaian 5 — Akhir Q2 2022
+## Milestone 5 — End of Q2 2022
 
-### Peluncuran mainnet 🚀
+### Mainnet launch 🚀
 
-Setelah kami menyelesaikan pengujian jaringan SubQuery, kami akan meluncurkan mainnet SubQuery Network pertama. Di sinilah semuanya benar-benar dimulai. Awalnya, kami akan bergabung dan memberi penghargaan kepada peserta jaringan uji, dan kemudian akan sepenuhnya terbuka untuk semua orang di komunitas.
+After we complete testing of the SubQuery network will launch the first SubQuery Network mainnet. This is where everything really starts. Initially, we will onboard and reward participants of the test network, and then it will be completely open to everyone in the community.
 
-### Peluncuran Exchange Terpusat
+### Centralised Exchange launch
 
-Untuk mendorong peningkatan adopsi SQT, kami mengantisipasi peluncuran token pada satu atau beberapa CEX terkemuka selama periode ini serta banyak DEX lainnya.
+In order to drive increased adoption of SQT, we anticipate launching the token on one if not multiple leading CEX during this period as well as many other DEXs.
 
-## Pencapaian 6 — Rencana jangka panjang
+## Milestone 6 — Long term plans
 
-### Meluncurkan Parachain kami sendiri
+### Launch our own Parachain
 
-Meskipun pada awalnya kami berencana untuk bermitra dengan parachain Polkadot teratas untuk membuat Jaringan SubQuery dirilis dan diskalakan lebih cepat, dalam jangka panjang SubQuery juga bermaksud untuk meluncurkan parachainnya sendiri dan mengintegrasikan dirinya lebih jauh lagi dalam ekosistem.
+Although we initially plan to partner with a top Polkadot parachain to get SubQuery Network released and scaled quicker, in the long-term SubQuery also intends to launch on it’s own parachain and integrate itself even more in the ecosystem.
 
-Parachain milik sendiri ini akan memungkinkan kami untuk lebih berinovasi dalam alat yang dapat membantu pengembang membangun masa depan web3 lebih cepat. Kami ingin membidik slot parachain setelah kami memiliki rekam jejak yang terbukti di belakang kami dan data, komunitas, serta token untuk mendukungnya.
+This self owned parachain will allow us to further innovate in tools that can help developers build the web3 future faster. We want to aim for a parachain slot once we have a proven track record behind us and the data, community, and token to support it.
 
-### SubQuery Foundation pindah ke DAO
+### SubQuery Foundation moves to a DAO
 
-Ini masih jauh, tapi selalu menjadi impian kami bahwa SubQuery akhirnya menjadi DAO milik komunitas. Kami telah berulang kali mengatakan bahwa komunitas memainkan peran besar dalam SubQuery, semua yang kami lakukan adalah untuk pelanggan kami — menjadi DAO adalah perwujudan dari fokus itu.
+This one is a long way off, but it’s always our dream the SubQuery eventually becomes a community owned DAO. We’ve said many times that the community plays a huge part in SubQuery, everything that we do is for our customers — becoming a DAO is the embodiment of that focus.
 
-Meskipun demikian, ini masih jauh, dan hanya akan dilakukan setelah kami benar-benar yakin akan kesuksesan dan masa depan SubQuery bersama komunitas.
+That being said, this is a long long way off, and will only be done once we are absolutely confident of SubQuery's success and future with the community.
 
 ## Tentang SubQuery
 
-[SubQuery](https://subquery.network) adalah agregasi data terdesentralisasi, pengindeksan & lapisan kueri antara blockchain Layer-1 dan aplikasi terdesentralisasi. Protokol mengabstraksi keanehan data blockchain dengan SubQuery SDK, memungkinkan pengembang untuk fokus pada penerapan produk inti mereka tanpa membuang upaya yang sia-sia pada teknologi backend khusus.
+[SubQuery](https://subquery.network) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. Protokol mengabstraksikan data idiosyncrasies blockchain dengan SubQuery SDK, memungkinkan pengembang untuk fokus pada penerapan produk inti mereka tanpa membuang upaya yang sia-sia pada teknologi backend khusus.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
