@@ -1,14 +1,14 @@
-# SubQuery November Technical Update: EVM and Manifest Updates
+# SubQuery tháng 11: Cập nhật EVM và Tệp kê khai
 
 ![](https://miro.medium.com/max/1400/1*q9GErDrvAyacOPm97krV6Q.png)
 
-**Read more for our technical deep dive into the latest release of SubQuery**
+**Đọc thêm để tìm hiểu sâu hơn về các yếu tố kỹ thuật trong bản phát hành mới nhất của SubQuery**
 
-# Support for External Chain Type Files in Project Manifest
+# Hỗ trợ cho các tệp ngoại chuỗi trong hồ sơ dự án
 
-Today is the launch of [version 0.2.0](https://doc.subquery.network/create/manifest/) of our project manifest file (`project.yaml`). This new version provides developers with various improvements that have been requested by customers.
+Today is the launch of [version 0.2.0](https://doc.subquery.network/create/manifest/) of our project manifest file (`project.yaml`). Phiên bản mới này cung cấp cho các nhà phát triển nhiều cải tiến đã được yêu cầu bởi khách hàng.
 
-Most importantly, you can now reference a chain type definition file that has all the custom types included when you’re indexing a custom substrate chain. This quickly allows you to connect a new SubQuery project to any substrate based chain, including all of Kusama’s parachains. This should be a standard chain type file that declares the specific types supported by this blockchain in either `.json` or `.yaml` format.
+Quan trọng nhất, giờ đây bạn có thể tham chiếu khái niệm của một loại chuỗi bất kỳ bao gồm các tuỳ chỉnh khi bạn lập chỉ mục chuỗi Substrate. Điều này cho phép bạn kết nối một dự án SubQuery mới với bất kỳ chuỗi Substrate nào bao gồm tất cả các parachain của Kusama. This should be a standard chain type file that declares the specific types supported by this blockchain in either `.json` or `.yaml` format.
 
 This solution allows you to avoid copying and managing chain type definitions in the manifest itself, and allows you to just clone the [published chain type files listed in repositories like PolkadotJS](https://github.com/polkadot-js/apps/tree/master/packages/apps-config/src/api/spec).
 
@@ -58,7 +58,7 @@ If you have any questions about this make sure you [check our docs](https://doc.
 
 As you can see, creating a Moonriver or Moonbase Alpha project that indexes both Substrate and EVM data in a single project is extremely simple and largely similar. You can use SubQuery’s advanced scaffolding tools to speed up your dApp development and take advantage or richer indexing for you data to build more intuitive dApps. We can’t wait to see what you build!
 
-## Giới thiệu về SubQuery
+## About SubQuery
 
 SubQuery is a data aggregation layer that operates between the layer-1 blockchains (such as Moonriver and Polkadot) and DApps. This service unlocks blockchain data and transforms it to a queryable state so that it can be used in intuitive applications. It allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
 
