@@ -36,34 +36,34 @@ SubQuery giới thiệu các bộ lọc nâng cao hơn các trình lập chỉ m
 
 ## Bước 2: Lập chỉ mục dữ liệu Moonbeam
 
-Just like a normal SubQuery project, you use a mapping function to transform off chain data to the GraphQL entities that you define, the difference is that instead of a `SubstrateEvent` or `SubstrateExtrinsic`, your mapping function will receive a `MoonbeamCall` or `MoonbeamEvent` which are based on Ether's [TransactionResponse](https://docs.ethers.io/v5/api/providers/types/#providers-TransactionResponse) or [Log](https://docs.ethers.io/v5/api/providers/types/#providers-Log) type. [You can read more about these here](https://doc.subquery.network/create/moonbeam/#moonbeamcall).
+Cũng giống như một dự án SubQuery thông thường, bạn sử dụng một hàm ánh xạ để chuyển đổi dữ liệu chuỗi thành các thực thể GraphQL mà bạn đã xác định. Sự khác biệt là thay vì nhận được một `SubstrateEvent` hoặc `SubstrateExtriuality`, hàm ánh xạ của bạn sẽ nhận được một `MoonbeamCall` hoặc `MoonbeamEvent` dựa trên các dạng [TransactionResponse](https://docs.ethers.io/v5/api/providers/types/#providers-TransactionResponse) hoặc [Log](https://docs.ethers.io/v5/api/providers/types/#providers-Log) của Ether. [Bạn có thể đọc thêm về những điều này tại đây](https://doc.subquery.network/create/moonbeam/#moonbeamcall).
 
-[Read the full documentation on this process here](https://doc.subquery.network/create/moonbeam/#moonbeamcall)
+[Đọc tài liệu đầy đủ về quy trình này tại đây](https://doc.subquery.network/create/moonbeam/#moonbeamcall)
 
-## Example Project
+## Dự án mẫu
 
-There is a complete example project that indexes eth `transfer` events and `approve` smart contract calls. The code for this example project is [here on GitHub](https://github.com/subquery/tutorials-moonriver-evm-starter) or accessible via the [live SubQuery project on SubQuery Explorer here](https://explorer.subquery.network/subquery/subquery/moonriver-evm-starter-project).
+Có một dự án mẫu hoàn chỉnh lập chỉ mục các sự kiện `transfer` trên Ethereum và các cuộc gọi `approve` của hợp đồng thông minh. Mã cho dự án mẫu này hiện có [trên GitHub ](https://github.com/subquery/tutorials-moonriver-evm-starter) hoặc có thể được truy cập thông qua [dự án SubQuery trên SubQuery Explorer tại đây](https://explorer.subquery.network/subquery/subquery/moonriver-evm-starter-project).
 
-The bulk of the changes happen in the Manifest file (`project.yaml`). You can see below that we have [extended call filters](https://doc.subquery.network/create/moonbeam/#call-filters) to support either [function signature strings](https://docs.ethers.io/v5/api/utils/abi/fragments/#FunctionFragment) or the function sighash to filter the function called on the contract. For [event filters](https://doc.subquery.network/create/moonbeam/#event-filters), you can use topics filtering that follows the [Ethereum JSON-PRC log filters standard found here](https://docs.ethers.io/v5/concepts/events/). Note that SubQuery introduces more advanced filters than other indexers for Moonbeam EVM and these improvements should significantly benefit developers.
+Phần lớn các thay đổi xảy ra trong tập tin kê khai (`project.yaml`). Bạn có thể thấy như dưới đây rằng chúng tôi có [ các bộ lọc cuộc gọi mở rộng](https://doc.subquery.network/create/moonbeam/#call-filters) để hỗ trợ [ các chuỗi hàm ký](https://docs.ethers.io/v5/api/utils/abi/fragments/#FunctionFragment) hoặc hàm sighash để lọc các hàm được gọi trên hợp đồng. Đối với [bộ lọc sự kiện](https://doc.subquery.network/create/moonbeam/#event-filters), bạn có thể sử dụng bộ lọc chủ đề tuân theo [tiêu chuẩn bộ lọc nhật ký của Ethereum JSON-PRC tại đây](https://docs.ethers.io/v5/concepts/events/). Lưu ý rằng SubQuery giới thiệu nhiều bộ lọc nâng cao hơn các bộ lập chỉ mục khác cho Moonbeam EVM và những cải tiến này sẽ mang lại lợi ích đáng kể cho các nhà phát triển.
 
 ![](https://miro.medium.com/max/700/1*4JRHItnILfCie4FT6sYLEA.png)
 
-If you are familiar with how Substrate based SubQuery project are made, you’ll notice how similar the mapping functions are for the new Moonriver support. Each mapping function receives a `MoonbeamCall` or `MoonbeamEvent` and processes them just like any other SubQuery project.
+Nếu bạn đã quen với cách thực hiện dự án SubQuery dựa trên Substrate, bạn sẽ nhận thấy các hàm ánh xạ cũng tương tự như đối với việc hỗ trợ Moonriver. Mỗi hàm ánh xạ nhận được một `MoonbeamCall` hoặc `MoonbeamEvent` và xử lý chúng giống như bất kỳ dự án SubQuery nào khác.
 
 ![](https://miro.medium.com/max/700/1*k4_uJYYCsTnPRRJ7avq2WA.png)
 
-If you have any questions about this make sure you [check our docs](https://doc.subquery.network/create/moonbeam) or reach out to us on our #technical-support channel in our [Discord community](https://discord.com/invite/subquery).
+Nếu bạn có bất kỳ câu hỏi nào về vấn đề này, hãy [kiểm tra tài liệu của chúng tôi](https://doc.subquery.network/create/moonbeam) hoặc liên hệ với chúng tôi qua kênh #technical-support [trên Discord](https://discord.com/invite/subquery).
 
-[Clone the example project on GitHub](https://github.com/subquery/tutorials-moonriver-evm-starter)
+[Sao chép dự án mẫu trên GitHub](https://github.com/subquery/tutorials-moonriver-evm-starter)
 
-As you can see, creating a Moonriver or Moonbase Alpha project that indexes both Substrate and EVM data in a single project is extremely simple and largely similar. You can use SubQuery’s advanced scaffolding tools to speed up your dApp development and take advantage or richer indexing for you data to build more intuitive dApps. We can’t wait to see what you build!
+Như bạn có thể thấy, việc tạo một dự án Moonriver hoặc Moonbase Alpha lập chỉ mục dữ liệu của cả Substrate và EVM trong một dự án duy nhất là cực kỳ đơn giản và khá tương đồng. Bạn có thể sử dụng các công cụ nâng cao của SubQuery để tăng tốc độ phát triển dApp của mình và tận dụng lợi thế của việc lập chỉ mục phong phú cho dữ liệu của bạn để xây dựng các dApp trực quan hơn. Chúng tôi rất nóng lòng được xem những gì bạn xây dựng!
 
-## About SubQuery
+## Giới thiệu về SubQuery
 
-SubQuery is a data aggregation layer that operates between the layer-1 blockchains (such as Moonriver and Polkadot) and DApps. This service unlocks blockchain data and transforms it to a queryable state so that it can be used in intuitive applications. It allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+SubQuery là một lớp tổng hợp dữ liệu hoạt động giữa các blockchain lớp 1 (chẳng hạn như Moonriver và Polkadot) và DApps. Dịch vụ này mở khóa dữ liệu blockchain và chuyển nó sang trạng thái có thể truy vấn để có thể sử dụng trong các ứng dụng trực quan. Nó cho phép các nhà phát triển DApp tập trung vào các tính năng cốt lõi và giao diện người dùng của họ, mà không cần lãng phí thời gian vào việc xây dựng các chương trình phụ trợ tùy chỉnh để xử lý dữ liệu.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Github](https://github.com/subquery/subql) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
 
-## About Moonbeam
+## Giới thiệu về Moonbeam
 
-Moonbeam is an Ethereum-compatible smart contract platform on the Polkadot network that makes it easy to build natively interoperable applications. This Ethereum compatibility allows developers to deploy existing Solidity smart contracts and DApp frontends to Moonbeam with minimal changes. As a parachain on the Polkadot network, Moonbeam will benefit from the shared security of the Polkadot relay chain and integrations with other chains that are connected to Polkadot. Currently in active development by PureStake, Moonbeam is expected to reach MainNet by Q4 2021. Learn more: [https://moonbeam.network/](https://moonbeam.network/).
+Moonbeam là một nền tảng hợp đồng thông minh tương thích với Ethereum trên mạng Polkadot giúp dễ dàng xây dựng các ứng dụng có thể tương tác nguyên bản. Khả năng tương thích Ethereum này cho phép các nhà phát triển triển khai các hợp đồng thông minh Solidity hiện có và giao diện người dùng DApp trên Moonbeam với những thay đổi tối thiểu. Với tư cách là một parachain trên mạng Polkadot, Moonbeam sẽ được hưởng lợi bảo mật của relay chain Polkadot và có thể tích hợp với các chuỗi khác được kết nối với Polkadot. Hiện đang được PureStake tích cực phát triển, Moonbeam dự kiến sẽ khởi chạy MainNet vào quý 4 năm 2021. Tìm hiểu thêm tại đây: [https://moonbeam.network/](https://moonbeam.network/).
