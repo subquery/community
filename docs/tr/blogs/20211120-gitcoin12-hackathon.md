@@ -11,7 +11,7 @@ SubQuery Academy'nin "Kahraman Kursu"nun ezici başarısının hemen ardından, 
 [Gitcoin GR12 Hackathon](https://gitcoin.co/hackathon/gr12/onboard), çeşitli ödül havuzlarına katkıda bulunan önde gelen blok zinciri projeleriyle 1-16 Aralık 2021 tarihleri ​​arasında gerçekleşecek.  [SubQuery has proposed 5 bounties with a total prize pool of up to $34,000](https://gitcoin.co/hackathon/gr12/?org=subquery). Ödüller, projeleri önceden belirlenmiş standartlarda başarıyla tamamlayanlara ve en yaratıcı fikirleri sunanlara veya temel SubQuery SDK'sını geliştirmek için alanlar veya çözenlere verilecektir. Zorlukların kısa bir özeti aşağıdadır:
 
 -   [Create a unified block explorer that combines Substrate and EVM insights from Moonbeam and Astar into one easy to use application](https://gitcoin.co/issue/subquery/grants/1)  — US$12,000  **[Sponsored by Moonbeam and Astar]**
--   [Work with SubQuery and the DeFi hub at Karura/Acala to build a dashboard that’s inspired by Zapper.fi or defisaver.com](https://gitcoin.co/issue/subquery/grants/2)  — US$5,000
+-   [Work with SubQuery and the DeFi hub at Karura/Acala to build a dashboard that’s inspired by Zapper.fi or defisaver.com](https://gitcoin.co/issue/subquery/grants/2)  — US$8,000 **[Sponsored by Acala]**
 -   [Create a staking dashboard that shows the best staking opportunities across Polkadot and its various parachains](https://gitcoin.co/issue/subquery/grants/3)  — US$3,000
 -   [Build a marketplace explorer for all RMRK protocol based NFTs](https://gitcoin.co/issue/subquery/grants/4)  — US$2,000
 -   [Extend the @subql/node service to index data from another layer 1 chain](https://gitcoin.co/issue/subquery/grants/5)  — US$12,000
