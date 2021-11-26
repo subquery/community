@@ -1,10 +1,10 @@
-# SubQuery tháng 11: Cập nhật EVM và Tệp kê khai
+# SubQuery November Technical Update: EVM and Manifest Updates
 
 ![](https://miro.medium.com/max/1400/1*q9GErDrvAyacOPm97krV6Q.png)
 
-**Đọc thêm để tìm hiểu sâu hơn về các yếu tố kỹ thuật trong bản phát hành mới nhất của SubQuery**
+**Read more for our technical deep dive into the latest release of SubQuery**
 
-# Hỗ trợ cho các tệp ngoại chuỗi trong hồ sơ dự án
+# Support for External Chain Type Files in Project Manifest
 
 Today is the launch of [version 0.2.0](https://doc.subquery.network/create/manifest/) of our project manifest file (`project.yaml`). This new version provides developers with various improvements that have been requested by customers.
 
@@ -58,7 +58,7 @@ If you have any questions about this make sure you [check our docs](https://doc.
 
 As you can see, creating a Moonriver or Moonbase Alpha project that indexes both Substrate and EVM data in a single project is extremely simple and largely similar. You can use SubQuery’s advanced scaffolding tools to speed up your dApp development and take advantage or richer indexing for you data to build more intuitive dApps. We can’t wait to see what you build!
 
-## About SubQuery
+## Giới thiệu về SubQuery
 
 SubQuery is a data aggregation layer that operates between the layer-1 blockchains (such as Moonriver and Polkadot) and DApps. This service unlocks blockchain data and transforms it to a queryable state so that it can be used in intuitive applications. It allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
 
