@@ -1,40 +1,40 @@
-# SubQuery tháng 11: Cập nhật EVM và Tệp kê khai
+# SubQuery tháng 11: Cập nhật EVM và Tập tin kê khai
 
 ![](https://miro.medium.com/max/1400/1*q9GErDrvAyacOPm97krV6Q.png)
 
 **Đọc thêm để tìm hiểu sâu hơn về các yếu tố kỹ thuật trong bản phát hành mới nhất của SubQuery**
 
-# Hỗ trợ cho các tệp ngoại chuỗi trong hồ sơ dự án
+# Hỗ trợ cho các tệp ngoại chuỗi trong Tập tin kê khai Dự án
 
-Today is the launch of [version 0.2.0](https://doc.subquery.network/create/manifest/) of our project manifest file (`project.yaml`). Phiên bản mới này cung cấp cho các nhà phát triển nhiều cải tiến đã được yêu cầu bởi khách hàng.
+Hôm nay, [phiên bản 0.2.0](https://doc.subquery.network/create/manifest/) của tập tin kê khai dự án của chúng tôi (`project.yaml`) đã chính thức được ra mắt. Phiên bản mới này cung cấp cho các nhà phát triển nhiều cải tiến đã được yêu cầu bởi khách hàng.
 
-Quan trọng nhất, giờ đây bạn có thể tham chiếu khái niệm của một loại chuỗi bất kỳ bao gồm các tuỳ chỉnh khi bạn lập chỉ mục chuỗi Substrate. Điều này cho phép bạn kết nối một dự án SubQuery mới với bất kỳ chuỗi Substrate nào bao gồm tất cả các parachain của Kusama. This should be a standard chain type file that declares the specific types supported by this blockchain in either `.json` or `.yaml` format.
+Quan trọng nhất, giờ đây bạn có thể tham chiếu khái niệm của một loại chuỗi bất kỳ bao gồm các tuỳ chỉnh khi bạn lập chỉ mục chuỗi Substrate. Điều này cho phép bạn kết nối một dự án SubQuery mới với bất kỳ chuỗi Substrate nào bao gồm tất cả các parachain của Kusama. Đây phải là một tệp chuỗi tiêu chuẩn chỉ ra các loại cụ thể được hỗ trợ bởi chuỗi khối này ở định dạng `.json` hoặc `.yaml`.
 
-This solution allows you to avoid copying and managing chain type definitions in the manifest itself, and allows you to just clone the [published chain type files listed in repositories like PolkadotJS](https://github.com/polkadot-js/apps/tree/master/packages/apps-config/src/api/spec).
+Giải pháp này cho phép bạn tránh sao chép và quản lý các khái niệm chuỗi trong chính tập tin kê khai và cho phép bạn chỉ sao chép [các tệp chuỗi đã xuất bản mà được liệt kê trong các kho lưu trữ như PolkadotJS](https://github.com/polkadot-js/apps/tree/master/packages/apps-config/src/api/spec).
 
-[You can read about the new manifest file, including how you can migrate your projects to it, here in our updated docs.](https://doc.subquery.network/create/manifest/)
+[Bạn có thể đọc thêm về tập tin kê khai mới bao gồm cách bạn có thể di chuyển các dự án của mình sang tập tin đó ngay trong tài liệu cập nhật của chúng tôi.](https://doc.subquery.network/create/manifest/)
 
-# Moonbeam EVM Support
+# Hỗ trợ Moonbeam EVM
 
-Last week we were pleased to [announce that we were working with Moonbeam to bring complete EVM and Substrate indexing support to Moonriver](https://subquery.medium.com/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff).
+Tuần trước, chúng tôi đã [thông báo rằng chúng tôi đang làm việc với Moonbeam để hỗ trợ lập chỉ mục EVM và Substrate hoàn chỉnh cho Moonriver](https://subquery.medium.com/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff).
 
-Today we are following up on that announcement with all the developer resources that you need to get started.
+Cùng với thông báo đó, hôm nay chúng tôi sẽ cung cấp tất cả các tài nguyên dành cho nhà phát triển mà bạn cần để có thể bắt đầu.
 
-Currently, there is no open-source tool which allows developers to flexibly collect and query data across both Ethereum and Polkadot/Kusama. This limitation can cause dApps solutions within Moonriver to be siloed into the smart contract layer and thereby limit their potential to consumers across both thriving networks. This partnership with Moonbeam brings a complete and unified data indexing solution for all blockchain data within Moonriver and will greatly benefit Moonriver’s growing application ecosystem.
+Hiện tại, không có công cụ mã nguồn mở nào cho phép các nhà phát triển thu thập và truy vấn dữ liệu một cách linh hoạt trên cả Ethereum và Polkadot/Kusama. Hạn chế này có thể khiến các giải pháp dApps trong Moonriver bị đưa vào lớp hợp đồng thông minh và do đó hạn chế tiềm năng của chúng đối với người tiêu dùng trên cả hai mạng lưới đang phát triển mạnh này. Sự hợp tác này với Moonbeam mang đến một giải pháp lập chỉ mục dữ liệu thống nhất và hoàn chỉnh cho tất cả dữ liệu chuỗi khối trong Moonriver và sẽ mang lại lợi ích to lớn cho hệ sinh thái ứng dụng đang phát triển trên đó.
 
-**SubQuery is going to be a guest on the next Moonbuilders Workshop on Wednesday December 1st,** [**register for it here**](https://www.crowdcast.io/e/moonbuilders-ws/10)**.**
+**SubQuery sẽ là khách mời trong Hội thảo Moonbuilders tiếp theo vào Thứ Tư, ngày 1 tháng 12**. [**Các bạn hãy đăng ký tại đây**](https://www.crowdcast.io/e/moonbuilders-ws/10)**.**
 
 ![](https://miro.medium.com/max/600/1*AET6Ek_PqFDRoc29Jiitnw.gif)
 
-[Firstly, familiarize yourself with the updated documentation on how to connect to and index data from Moonbeam, Moonbase Alpha, and Moonriver.](https://doc.subquery.network/create/moonbeam/) The process to index Moonbeam data is only two steps:
+[Trước hết, hãy làm quen với tài liệu cập nhật về cách kết nối và lập chỉ mục dữ liệu từ Moonbeam, Moonbase Alpha và Moonriver.](https://doc.subquery.network/create/moonbeam/) Quy trình lập chỉ mục dữ liệu Moonbeam chỉ bao gồm hai bước:
 
-## Step 1: Add the Moonbeam Custom Data Source
+## Bước 1: Thêm nguồn dữ liệu tùy chỉnh của Moonbeam
 
-We have created a data processor specifically made to work with Moonbeam’s implementation of [Frontier](https://github.com/paritytech/frontier). It allows you to reference specific ABI resources used by the processor to parse arguments and the smart contract address that the events is from or the call is made to. [You can read more here](https://doc.subquery.network/create/moonbeam/#data-source-spec).
+Chúng tôi đã tạo một bộ xử lý dữ liệu được thiết kế riêng để làm việc với việc triển khai [Frontier](https://github.com/paritytech/frontier) của Moonbeam. Nó cho phép bạn tham chiếu các tài nguyên ABI cụ thể được bộ xử lý sử dụng để phân tích cú pháp các đối số và địa chỉ hợp đồng thông minh nơi mà các sự kiện bắt đầu hoặc lệnh gọi được thực hiện. [Bạn có thể đọc thêm tại đây](https://doc.subquery.network/create/moonbeam/#data-source-spec).
 
-SubQuery introduces more advanced filters than other indexers, allowing filtering of non-contract transactions, transaction senders, contracts and indexed log arguments. This allows developers to build a wide variety of projects that cater to their specific data needs.
+SubQuery giới thiệu các bộ lọc nâng cao hơn các trình lập chỉ mục khác, cho phép lọc các giao dịch không theo hợp đồng, người gửi giao dịch, hợp đồng và các đối số nhật ký được lập chỉ mục. Điều này cho phép các nhà phát triển xây dựng nhiều loại dự án phục vụ cho nhu cầu dữ liệu cụ thể của họ.
 
-## Step 2: Index Moonbeam Data
+## Bước 2: Lập chỉ mục dữ liệu Moonbeam
 
 Just like a normal SubQuery project, you use a mapping function to transform off chain data to the GraphQL entities that you define, the difference is that instead of a `SubstrateEvent` or `SubstrateExtrinsic`, your mapping function will receive a `MoonbeamCall` or `MoonbeamEvent` which are based on Ether's [TransactionResponse](https://docs.ethers.io/v5/api/providers/types/#providers-TransactionResponse) or [Log](https://docs.ethers.io/v5/api/providers/types/#providers-Log) type. [You can read more about these here](https://doc.subquery.network/create/moonbeam/#moonbeamcall).
 
