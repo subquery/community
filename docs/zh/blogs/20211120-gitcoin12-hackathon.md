@@ -8,7 +8,7 @@
 
 SubQuery的任务是使世界上分散化的数据更容易访问，这取决于一个能够在 Substrate/Polkadot 生态系统内创建和创新的开发者网络。 我们与Gitcoin的伙伴关系反映了我们致力于为世界各地积极的开发者提供机会，以创造未来的应用程序。
 
-[Gitcoin GR12 Hackathon](https://gitcoin.co/hackathon/gr12/onboard)  将在2021年12月1日至16日举办，主要的区块链项目为各种奖品池做出了贡献。  [SubQuery has proposed 5 bounties with a total prize pool of up to $34,000](https://gitcoin.co/hackathon/gr12/?org=subquery). 该奖项将授予那些成功地完成了预先设定标准的项目并切提供了最有创意的想法的项目组，以及那些解决了领域的核心SubQuery SDK改进问题的项目组。 以下简要概述了这些挑战：
+[Gitcoin GR12 Hackathon](https://gitcoin.co/hackathon/gr12/onboard)  将在2021年12月1日至16日举办，主要的区块链项目为各种奖品池做出了贡献。  [SubQuery 已经提出了5个奖项，奖池总量高达34000美元](https://gitcoin.co/hackathon/gr12/?org=subquery)。 该奖项将授予那些成功地完成了预先设定标准的项目并切提供了最有创意的想法的项目组，以及那些解决了领域的核心SubQuery SDK改进问题的项目组。 以下简要概述了这些挑战：
 
 -   [Create a unified block explorer that combines Substrate and EVM insights from Moonbeam and Astar into one easy to use application](https://gitcoin.co/issue/subquery/grants/1)  — US$12,000  **[Sponsored by Moonbeam and Astar]**
 -   [Work with SubQuery and the DeFi hub at Karura/Acala to build a dashboard that’s inspired by Zapper.fi or defisaver.com](https://gitcoin.co/issue/subquery/grants/2)  — US$5,000
