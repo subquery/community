@@ -2,18 +2,13 @@
 
 ![](https://miro.medium.com/max/1400/0*CrM8-LKRt3slWAsN)
 
-**SubQuery, der Dienst, der die Abfrage dezentraler Daten erleichtert, gab heute bekannt, dass er erfolgreich eine Seed-Runde in Höhe von 1,8 Mio. ** [**D1 Ventures**](https://d1. ventures/)**,** [**Hypersphere Ventures**](https://hypersphere.ventures/)**,**
-**Digital Finance Group (DFG)</4 >** und** [**The Lao**](https://www.thelao.io/)**. Die überwältigende Nachfrage, die wir erhielten, um die Seed-Runde von SubQuery zu unterstützen, zeigt das starke Interesse an Infrastrukturdiensten und den Glauben an die Zukunft des Polkadot-Ökosystems.**</p> 
+**SubQuery, der Dienst, der die Abfrage dezentraler Daten erleichtert, gab heute bekannt, dass er erfolgreich eine Seed-Runde in Höhe von 1,8 Mio. ** [**DeFi Alliance**](https://defialliance.co/)**,** [**D1 Ventures**](https://d1.ventures/)**,** [**Hypersphere Ventures**](https://hypersphere.ventures/)**, **[**Digital Finance Group (DFG)**](https://www.dfg.group/)**, und** [**The Lao**](https://www.thelao.io/)**. Die überwältigende Nachfrage, die wir erhielten, um die Seed-Runde von SubQuery zu unterstützen, zeigt das starke Interesse an Infrastrukturdiensten und den Glauben an die Zukunft des Polkadot-Ökosystems.**
 
 SubQuery erlaubt jedem Substrate/Polkadot Team, seine Daten zu verarbeiten und abzufragen. Das Projekt ist inspiriert von der Zunahme von Datenprotokollen, die der Anwendungsschicht dienen, und hat zum Ziel, Polkadot/Substrate-Projekten beim Aufbau besserer dApps zu helfen, indem es jedem ermöglicht wird, Daten zuverlässig schneller zu finden und zu konsumieren. Heute kann jeder die Netzwerkdaten von Polkadot in nur wenigen Minuten kostenlos abfragen und extrahieren.
-
-
 
 > _“Wetten auf Subquery sind Wetten auf das gesamte Polkadot-Ökosystem, und in dieser frühen Phase ist ein großer Teil davon die Infrastruktur. Sie sind in diesem Bereich Vorreiter, da ihr Kundenstamm einige der Top-Projekte von Polkadot umfasst. Das Subquery-Team ist auch eines der leidenschaftlichsten Teams im Bereich Krypto, die uns begegnet sind. Wir freuen uns, sie zu unterstützen.“_ – Imran Khan, Partner der DeFi Alliance
 
 OnFinality ist das Team hinter SubQuery, die eine Infrastruktur SaaS-Plattform für Blockchain Teams und Benutzer sind, um Knoten zu starten und Zugang zu einer großen Reihe von Blockchain Protokollen zu erhalten. Sie verfügen über eine Reihe von symbiotischen Diensten einschließlich gemeinsamer Knoten-API-Dienste und unterhalten Beziehungen zu den besten Polkadot/Substrat-Teams.
-
-
 
 > _„Hypersphäre ist aufgeregt, Sam und das SubQuery Team zu unterstützen, da sie schnell das erste Indizierungsprotokoll aufbauen, das sich ausschließlich auf das Polkadot Ökosystem konzentriert._ — Jack Platts, Mitbegründer bei Hypersphere Ventures
 
