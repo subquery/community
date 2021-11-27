@@ -11,7 +11,7 @@ SubQuery的任务是使世界上分散化的数据更容易访问，这取决于
 [Gitcoin GR12 Hackathon](https://gitcoin.co/hackathon/gr12/onboard)  将在2021年12月1日至16日举办，主要的区块链项目为各种奖品池做出了贡献。  [SubQuery 已经提出了5个奖项，奖池总量高达34000美元](https://gitcoin.co/hackathon/gr12/?org=subquery)。 该奖项将授予那些成功地完成了预先设定标准的项目并切提供了最有创意的想法的项目组，以及那些解决了领域的核心SubQuery SDK改进问题的项目组。 以下简要概述了这些挑战：
 
 -   [创建一个统一的区块浏览器，将Moonbeam和Astar的Substrate和EVM视图合并为一个简单易用的应用程序](https://gitcoin.co/issue/subquery/grants/1) —$12, 00**[由Moonbeam和Astar赞助]**
--   [Work with SubQuery and the DeFi hub at Karura/Acala to build a dashboard that’s inspired by Zapper.fi or defisaver.com](https://gitcoin.co/issue/subquery/grants/2)  — US$8,000 **[Sponsored by Acala]**
+-   [与SubQuery和DeFi hub Karura/Acala合作，构建一个受到 Zapper.fi和defisaver.com启发的的仪表盘](https://gitcoin.co/issue/subquery/grants/2)  — $5000美元[Acala赞助]
 -   [创建一个记录界面，显示所有Polkadot及其各种parachains](https://gitcoin.co/issue/subquery/grants/3) 的最佳隐藏机会 — $3000
 -   [为所有RMRK协议创建一个市场浏览器](https://gitcoin.co/issue/subquery/grants/4) —$2000
 -   [扩展@subql/节点服务，以索引另一层1链中的数据](https://gitcoin.co/issue/subquery/grants/5) —$12,000
