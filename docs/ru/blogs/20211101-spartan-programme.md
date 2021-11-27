@@ -18,6 +18,6 @@
 
 # О SubQuery
 
-SubQuery - это уровень агрегации данных, который работает между блокчейнами уровня 1 (такими как Moonriver и Polkadot) и DApps. Эта служба разблокирует данные блокчейна и преобразует их в запрашиваемое состояние, чтобы их можно было использовать в интуитивно понятных приложениях. It allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+SubQuery - это уровень агрегации данных, который работает между блокчейнами уровня 1 (такими как Moonriver и Polkadot) и DApps. Эта служба разблокирует данные блокчейна и преобразует их в запрашиваемое состояние, чтобы их можно было использовать в интуитивно понятных приложениях. Это позволяет разработчикам DApp сосредоточиться на основном сценарии использования и интерфейсе, не тратя время на создание настраиваемого внутреннего интерфейса для обработки данных.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Github](https://github.com/subquery/subql) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
