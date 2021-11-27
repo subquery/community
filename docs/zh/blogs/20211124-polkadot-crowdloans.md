@@ -32,49 +32,49 @@ SubQuery是Polkadot上提供数据索引服务的领导者，在过去的一周�
 
 第一个时间发生在UTC时间11月11日下午1点25分开始的5分钟内。 一个币安众贷的关联地址共进行了7次交易，这些交易的总价值超过1900万DOT(约合7.689亿美元)。 第一笔是对Moonbeam的最大单笔交易，贡献了超过900万DOT(约合3.64亿美元)，其次是其他6笔捐款，平均间隔34秒。 这个地址也为Acala(260万DOT)、Clover(210万DOT) Astar(200万DOT) 和Manta(170万DOT) 做出了重大贡献。
 
-第二个重要事件发生在11月13日上午10点40分的75分钟内，当时一个账户对Acala提供了多笔重大贡献。 这个账户是Acala的LCDOT地址，是Acala把其部署的所有流动质押的DOT的全部用于参与众贷。 刚开始是几笔测试交易，然后是进行了主要交易，其中包括了550万个DOT(2.225亿美元) 的最大交易。 In the end Acala’s LCDOT fund made 3758 contributions over the auction.
+第二个重要事件发生在11月13日上午10点40分的75分钟内，当时一个账户对Acala提供了多笔重大贡献。 这个账户是Acala的LCDOT地址，是Acala把其部署的所有流动质押的DOT的全部用于参与众贷。 刚开始是几笔测试交易，然后是进行了主要交易，其中包括了550万个DOT(2.225亿美元) 的最大交易。 Acala的LCDOT基金在此次拍卖中贡了3758笔。
 
 ![](https://miro.medium.com/max/2400/0*GTJviXqhPmRIIf73)
 
-These series of transactions were ultimately able to push Acala above Moonbeam, and provide Acala with a winning percentage of 63.11% of the blocks. When the random winning block was selected ~56 hours later at block 7,718,090, Acala was ahead of Moonbeam by just ~38,000 DOT (USD$1.5 million).
+这一系列的交易最终使得Acala名列Moonbeam之前，并为Acala提供了63.11%的区块胜率。 56个小时后，在7,718,090区块随机选出了获胜区块，Acala以38,000 DOT(150万美元) 的优势领先Moonbeam。
 
-One of the amazing things about these auctions, is that even after raising over 66 million DOT (USD$2.67 billion) between Acala and Moonbeam, the winning margin at the randomly selected block was just 0.056% of the total amount.
+令人惊讶的是，Acala和Moonbeam共筹集了超过6600万DOT(26.7亿美元) 的资金，随机选择的区块的获胜差额仅为总金额的0.056%。
 
-So who was contributing to the crowdloans? Firstly, the median amount contributed by all was just 12 DOT (USD$485.64), 47% of all contributions were less than 10 DOT and 88% were less than 100 DOT (US$4,047.00). This clearly demonstrates an extremely strong and robust community of individual contributors, testament to the retail interest in the parachain auctions.
+那么谁为众贷做出了贡献？ 首先，所有人贡献的金额中位数仅为 12 DOT（485.64 美元），47%的贡献低于 10 DOT，88%的低于 100 DOT（4,047.00 美元）。 这清楚地表明了波卡拥有一个极其强大和健壮的个人贡献者社区，展示了大众对平行链拍卖的兴趣。
 
-The big question on everyone’s mind is who’s the people’s network? Which network has the largest proportion of small contributors? For the following insights into contribution size breakdown we have excluded some known exchange or crowdloan accounts (list in the appendix). You can see that some networks are almost completely small cap funded (SubGame Gamma and Darwinia). On the other hand, large cap investors (>5,000 DOT) make up 68% of Moonbeam’s crowdloan (by value), 62% of Parallel Finance’s, and 58% of Clover’s.
+每个人心目中的大问题是究竟谁是人民群众的网络？ 哪个网络的小贡献者比例最大？ 对于以下对贡献规模的深入分析，我们排除了一些已知的交易所或众贷账户（在附录中列出）。 您可以看到一些网络几乎完全由小规模资金支持（SubGame Gamma 和 Darwinia）。 另一方面，大资金投资者（> 5,000 DOT）占 Moonbeam 众筹（按价值计算）的 68%、Parallel Finance 的 62% 和 Clover 的 58%。
 
 ![](https://miro.medium.com/max/2400/0*ztRnFrVfJ2aTlMiU)
 
-Obviously we are here to look at Moonbeam and Acala, and here we can see that Acala has more small cap funding than Moonbeam, with 33% of Acala’s contributions being less than 1,000 DOT (USD$40,470) compared to 21% of Moonbeam’s.
+言归正传，我们来到这里是为了分析Moonbeam和Acala，在这里我们可以看到，Acala比Moonbeam拥有更多的小资金支持者，其中33%的Acala的支持者提供了不足1,000 DOT(40,470美元) 的贡献，而Moonbeam只有21%。
 
 ![](https://miro.medium.com/max/2400/0*ge-2XDPgddj-J07V)
 
-_Note, the previous insights around “the people’s network” have been taken after excluding known contributors that aggregate other contributions into one. SubQuery has only identified a small number, there will certainly be aggregators that we have missed that may be material to the data shared here_
+_请注意，之前关于“人民大众的网络”的分析前提是排除已知的贡献者，然后将其他贡献者总体考虑后得出的。 SubQuery只识别了一小部分，肯定会有一些我们错过的聚合器，这些聚合器可能对我们在这里共享的数据来说很重要。_
 
-So where are people contributing from? SubQuery has identified that  [Acala’s LCDOT](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157)  was a runaway success, and resulted in almost 28% of all contributions. With over 24 million DOT (US$971 million) contributed directly to Acala, this auction would likely have gone another way without it.
+那么人们是从哪里贡献的呢? SubQuery已经确定Acala的LCDOT是一个巨大的成功，并且产生了几乎28%的贡献。 由于有超过2400万DOT(9.71亿美元) 直接捐赠给了Acala，如果没有它的支持，拍卖可能是另一个结果。
 
-Additionally,  [Binance](https://www.binance.com/en/dotslot)  proved to be a popular participation pathway with 27% of contributions across all most participants. We round out the significance contribution methods with  [Parallel Finance](https://crowdloan.parallel.fi/#/auction/polkadot)  at 11% of contributions, and  [Kraken](https://www.kraken.com/learn/parachain-auctions)  at 7%. Centralised exchanges are still clearly a preferred method of participation.
+此外，数据证明了通过币安参与众贷是很受欢迎，在所有大多数参与者中有27%的贡献。 接下来我们完善关于重要贡献的数据分析， Parallel Finance占11%，Kraken占7%。 中心化交易所显然仍是首选的参与方式。
 
-## About SubQuery Network
+## 关于SubQuery网络
 
-SubQuery is Polkadot’s leading data provider, supporting an indexing & querying layer between Layer-1 blockchains (Polkadot) and decentralized applications. SubQuery’s data service is being used by most of the Polkadot and Kusama crowdloan and parachain auction websites live today.
+SubQuery是Polkadot领先的数据提供商，支持在第一层区块链(Polkadot) 和去中心化应用程序之间的索引和查询。 SubQuery的数据服务目前被大多数Polkadot和Kusama众贷和平行链链拍卖网站所使用。
 
-SubQuery’s protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+SubQuery 的协议通过 SubQuery SDK 抽象出区块链数据特性，使开发人员能够专注于部署他们的核心产品，而无需在自定义后端技术上浪费精力。
 
-​​​​[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
 
-## Appendix
+## 附录
 
-All USD prices are quoted at the price at the 1st Auctions’s close = USD$40.47
+所有美元价格均以第一次拍卖收盘价计算 = 40.47 美元
 
-All data is from the start of the Polkadot Crowdloans to the completion of the first auction on 18th November 11.57AM UTC (block 7,756,107)
+所有数据都是从波卡众筹开始采集到UTC时间11月18日上午11点57分（区块 7,756,107）完成第一次拍卖。
 
-Excluded Crowdloan Sites
+排除的众筹网站
 
 -   [Acala LCDOT](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157)
--   [Binance Crowdloan](https://www.binance.com/en/dotslot)
+-   [Binance Crowdlife](https://www.binance.com/en/dotslot)
 -   [Parallel Finance](https://crowdloan.parallel.fi/#/auction/polkadot)
--   [Kraken Crowdloan](https://www.kraken.com/learn/parachain-auctions)
+-   [Kraken Crowdlow](https://www.kraken.com/learn/parachain-auctions)
 -   [https://pos.dog/](https://pos.dog/)
 -   [Bifrost SALP](https://medium.com/bifrost-finance/bifrost-announces-slot-auction-liquidity-protocol-salp-weekly-report-51-57a7f69aad34)
