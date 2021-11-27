@@ -1,38 +1,38 @@
-# Inside The Polkadot Crowdloans
+# 一窥波卡众贷
 
 ![](https://miro.medium.com/max/2400/1*JvR4YsstF6OHG3mTr_1Seg.png)
 
-**SubQuery Digs Into The Parachain Auction Data**
+**用SubQuery分析平行链拍卖数据**
 
-A huge milestone has just been achieved for Polkadot, the completion of the first round of the parachain auctions. Over the past weeks we’ve observed a heated fight for the Polkadot crown, the first parachain slot, between Moonbeam and Acala. After a tightly fought race the winner of the auction was revealed to be Acala, if you want to learn more about how winners are selected in this modern candlestick auction then take a look at  [Dan Reecer’s (from Acala) excellent summary](https://twitter.com/danreecer_/status/1364646604024786949).
+Polkadot 刚刚成功实现了一个巨大的里程碑，完成了第一轮平行链拍卖。 在过去的几周里，我们目睹了 Moonbeam 和 Acala 对第一个平行链插槽的进行了焦灼的竞拍。 在一场激烈的竞争后，第一个插槽最终花落Acala，如果你想获得更多关于获胜者究竟如何赢得竞拍的信息，请查看Dan Reecer的(来自Acala项目) 优秀的总结。
 
-SubQuery is  Polkadot’s leading data indexing service, and over the past week we’ve been powering millions of daily requests to the majority of the crowdloan dashboards, contribution apps, and analytics websites. Teams like  [SubVis](https://www.subvis.io/),  [Parallel Finance](https://parallel.fi/), and  [DotMarketCap](https://dotmarketcap.com/)  rely on SubQuery to provide real time data on the crowdloans and other on-chain data directly to their websites and apps.
+SubQuery是Polkadot上提供数据索引服务的领导者，在过去的一周中，我们每天都为大多数众贷仪表板、贡献应用和分析网站的成功处理了数百万个请求。 SubVis、Parallel Finance和DotMarketCap等团队依靠SubQuery向他们的网站和应用程序提供关于众贷和其他链上数据的实时数据。
 
-Today we are going to explore a little more about what happened within the first auction by diving into the data behind every single contribution.
+今天，我们将通过深入分析每一笔捐款背后的数据，进一步了解在第一次拍卖中发生了什么。
 
 ![](https://miro.medium.com/max/2400/0*Pcp3KJvC5eyP2KQ3)
 
-Firstly, from the launch of the first crowdloan to the close of the first auction (a little over 13 days), over 87.5 million DOT was contributed across all crowdloans by just under 68,000 addresses. Essentially 68,000 addresses worked together over 187,000 contributions to raise and commit over US$3.54 billion in 2 weeks. That’s a phenomenal amount by any standard, and a huge indication of how committed individuals (and entities) are to locking up their DOT for up to 2 years to support their favourite networks. The committed capital equates to almost 10% of Polkadot’s entire circulating supply.
+首先，从第一个众贷启动到第一次拍卖结束(时间跨度为13天多一点)，在整个众贷过程中，不到68,000个地址贡献了超过8750万的DOT。 在两周内, 这68,000个地址共发起超过187,000笔交易，筹集和提供了超过35.4亿美元。 无论以什么标准来衡量，这都是一个非常惊人的数字，表明了个人(和实体) 对自己喜爱的网络展现出了坚定的信念，愿意将自己的DOT锁仓长达2年的时间。 筹集的数量几乎相当于波卡整个流通供应的10%。
 
 ![](https://miro.medium.com/max/2400/0*-ovBJnjxAKfeB81Y)
 
-Investor interest really boomed in the start of the auctions, with a surge of contributions (by count) for the first few hours and also right towards the end before close. The first day of the crowdloans saw over 34,000 contributions and the last minute rush returned with 5,618 contributions in a 2 hour period.
+在拍卖开始的时候，投资者的兴趣爆炸式增涨，在最初的几个小时里，抵押数量激增(按数量计算，直到结束前也是如此。 众贷第一天就有超过34,000份捐款，如果以2个小时为尺度，最后一次就有5618笔贡献涌入。
 
-As you can see in the graph below, Moonbeam had by far the largest number of contributions throughout the auction, attracting almost 23,984 contributions from more than 21,333 more unique addresses than Acala.
+如下图所示, Moonbeam在整个拍卖中收到的捐款数量最多，比 Acala 多吸引了 23,984 个贡献，这些贡献来自于超过 21,333 个的独立地址。
 
 ![](https://miro.medium.com/max/2400/0*MSHfjnu7KmMvDmnY)
 
-Acala obviously came ahead as the winner, so how did this happen? The number of contributors and their contributions hides the fact that Acala’s contributors on average contributed far more than Moonbeam. As a result the total contributions in terms of value looked like the graph below where Acala were slightly ahead of Moonbeam throughout the auction.
+但最终赢家显然是Acala，这是如何发生的呢? 从出资人的数量和出资人的贡献来看，Acala的平均贡献远远超过了Moonbeam 因此，如下图所示, 按价值的总贡献来说，在整个拍卖过程中，Acala略微领先于Moonbeam。
 
 ![](https://miro.medium.com/max/2400/0*YbV-ReqSwfimUsbO)
 
-The majority of contributions by value occurred in two individual events, these two significant events essentially changed the outcome of the first auction.
+大部分以价值评估的贡献发生在两个单独的事件中，这两个重要的事件从根本上改变了第一次拍卖的结果。
 
 ![](https://miro.medium.com/max/2400/0*jmRsZ7kxEYAWYaUq)
 
-The first occurred in the space of 5 minutes starting at 1:25pm UTC on the 11th of November. A single address that we have linked to  [Binance’s Crowdloan](https://www.binance.com/en/dotslot)  address made a series of 7 transactions with a total value of over 19 million DOT (US$768.9 million). The first was the largest single contribution to Moonbeam with over 9 million DOT (US$364 million), followed by 6 other contributions on average 34 seconds apart. This address also made significant contributions to Acala (2.6 million DOT), Clover (2.1 million DOT), Astar (2 million DOT), and Manta (1.7 million DOT).
+第一个时间发生在UTC时间11月11日下午1点25分开始的5分钟内。 一个币安众贷的关联地址共进行了7次交易，这些交易的总价值超过1900万DOT(约合7.689亿美元)。 第一笔是对Moonbeam的最大单笔交易，贡献了超过900万DOT(约合3.64亿美元)，其次是其他6笔捐款，平均间隔34秒。 这个地址也为Acala(260万DOT)、Clover(210万DOT) Astar(200万DOT) 和Manta(170万DOT) 做出了重大贡献。
 
-The second significant event occurred in the space of 75 minutes from 10.40am on the 13th of November when a single account made multiple significant contributions to Acala. This account represents  [Acala’s LCDOT address](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157)  and was Acala deploying all of its liquid staked DOT to its crowdloan. First were some test transactions, then some major transactions which include the largest of 5.5 million DOT (USD$222.5 million). In the end Acala’s LCDOT fund made 3758 contributions over the auction.
+第二个重要事件发生在11月13日上午10点40分的75分钟内，当时一个账户对Acala提供了多笔重大贡献。 这个账户是Acala的LCDOT地址，是Acala把其部署的所有流动质押的DOT的全部用于参与众贷。 刚开始是几笔测试交易，然后是进行了主要交易，其中包括了550万个DOT(2.225亿美元) 的最大交易。 In the end Acala’s LCDOT fund made 3758 contributions over the auction.
 
 ![](https://miro.medium.com/max/2400/0*GTJviXqhPmRIIf73)
 
