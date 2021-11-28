@@ -1,10 +1,10 @@
-# Inside The Polkadot Crowdloans
+# Dans les coulisses des crowdloans Polkadot
 
 ![](https://miro.medium.com/max/2400/1*JvR4YsstF6OHG3mTr_1Seg.png)
 
-**SubQuery Digs Into The Parachain Auction Data**
+**SubQuery creuse dans les données des enchères de Parachain**
 
-A huge milestone has just been achieved for Polkadot, the completion of the first round of the parachain auctions. Over the past weeks we’ve observed a heated fight for the Polkadot crown, the first parachain slot, between Moonbeam and Acala. After a tightly fought race the winner of the auction was revealed to be Acala, if you want to learn more about how winners are selected in this modern candlestick auction then take a look at  [Dan Reecer’s (from Acala) excellent summary](https://twitter.com/danreecer_/status/1364646604024786949).
+Une étape importante vient d'être franchie pour Polkadot, l'achèvement du premier tour des enchères de parachain. Au cours des dernières semaines, nous avons assisté à une lutte acharnée pour la couronne Polkadot, le premier emplacement parachain, entre Moonbeam et Acala. Après une course serrée, le gagnant de l'enchère s'est révélé être Acala. Si vous voulez en savoir plus sur la façon dont les gagnants sont sélectionnés dans cette enchère moderne au chandelier, jetez un coup d'œil à l'excellent résumé de [Dan Reecer (d'Acala)](https://twitter.com/danreecer_/status/1364646604024786949).
 
 SubQuery is  Polkadot’s leading data indexing service, and over the past week we’ve been powering millions of daily requests to the majority of the crowdloan dashboards, contribution apps, and analytics websites. Teams like  [SubVis](https://www.subvis.io/),  [Parallel Finance](https://parallel.fi/), and  [DotMarketCap](https://dotmarketcap.com/)  rely on SubQuery to provide real time data on the crowdloans and other on-chain data directly to their websites and apps.
 
