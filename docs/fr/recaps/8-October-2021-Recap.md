@@ -52,21 +52,21 @@ L'Académie sera une série hebdomadaire de 6 modules avec plusieurs cours de 5 
 
 Notre Académie vise à faire passer un développeur blockchain inspiré de débutant à avancé, et il est 100% gratuit et accessible en ligne. Nous avons eu plus de 1'200 inscriptions pour notre premier cours de héros depuis son lancement il y a deux semaines et nous sommes reconnaissants à la communauté passionnée que nous avons avec nous.
 
-[Read more about SubQuery’s Academy here](https://subquery.medium.com/subquery-launches-the-subquery-academy-9505dc66a01)
+[En savoir plus sur l'académie de SubQuery ici](https://subquery.medium.com/subquery-launches-the-subquery-academy-9505dc66a01)
 
-## Community Call
+## Appel Communautaire
 
-We held our first-ever community call on October 28th to share our roadmap and the latest community updates. It was great to share with our community the things they had been asking for a long time in a more personal way. We appreciate all those who came to the call and we plan on hosting these calls more regularly. It would have been the first time for a lot of you to hear from our new community manager Sally as well who joined us in early October.
+Nous avons tenu notre tout premier appel communautaire le 28 octobre pour partager notre feuille de route et les dernières mises à jour de la communauté. C’était formidable de partager avec notre communauté les sujets qu’ils demandaient depuis longtemps de manière plus personnelle. Nous apprécions tous ceux qui sont venus à l'appel et nous prévoyons d'organiser ces appels plus régulièrement. Cela aurait été la première fois pour beaucoup d'entre vous de faire connaissance avec notre nouveau responsable communautaire Sally qui nous a rejoint début octobre.
 
-[Watch the October session recording here](https://www.crowdcast.io/e/subquery-sessions-october)
+[Regardez l’enregistrement de la session d’octobre ici](https://www.crowdcast.io/e/subquery-sessions-october)
 
-# Other things you might have missed
+# Autres choses que vous avez peut-être manquées
 
--   We’ve partnered with Acala to provide the  [largest pool of prizes for the Encode Club Polkadot Hackathons](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e).
--   [SubQuery helps Khala Build their New ERC20 Chain Bridge](https://subquery.medium.com/subquery-helps-khala-build-their-new-erc20-chain-bridge-c3aa0e1e6a89)
+-   Nous nous sommes associés à Acala pour offrir  [le plus grand pool de prix pour l'Encode Club Polkadot Hackathons](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e).
+-   [SubQuery aide Khala à construire leur nouveau bridge ERC20](https://subquery.medium.com/subquery-helps-khala-build-their-new-erc20-chain-bridge-c3aa0e1e6a89)
 
-If you would like to learn more you can view all projects easily via our Explorer here.
+Si vous souhaitez en savoir plus, vous pouvez voir tous les projets facilement via notre Explorateur ici.
 
-As always, please join our social channels to stay updated on our latest news and announcements. James, Sam, and the SubQuery Team
+Comme toujours, n'hésitez pas à rejoindre nos réseaux sociaux pour rester au courant de nos dernières nouvelles et annonces. James, Sam et l'équipe SubQuery
 
-[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://www.linkedin.com/company/subquery)  |  [LinkedIn](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)  |  YouTube](https://linktr.ee/subquerynetwork)
