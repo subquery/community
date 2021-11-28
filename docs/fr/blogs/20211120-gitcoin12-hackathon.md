@@ -1,35 +1,35 @@
-# SubQuery Announces Gitcoin Hackathon
+# SubQuery annonce un hackathon Gitcoin
 
 ![](https://miro.medium.com/max/1400/1*deQMrJlp2aJ5YVAGoFhO-Q.png)
 
-**The leading data indexer in Polkadot will participate in Gitcoin Grants Round 12**
+**Le premier indexeur de données de Polkadot participera à la 12ème manche Gitcoin Grants**
 
-Hot on the heels of the overwhelming success of the SubQuery Academy’s “Hero Course”, we are proud to announce that we will be providing our first hackathon opportunity for all developers via Gitcoin Grants Round 12 starting on December 1st.
+Dans la foulée de l'immense succès du "Hero Course" de la SubQuery Academy, nous sommes fiers d'annoncer que nous offrirons notre premier hackathon à tous les développeurs via le Gitcoin Grants Round 12 à partir du 1er décembre.
 
-SubQuery’s mission of making the world’s decentralised data more accessible relies on having a network of developers who are empowered to create and innovate within the Substrate/Polkadot ecosystem. Our partnership with Gitcoin reflects our commitment to provide opportunities for motivated developers around the world to build the applications of tomorrow.
+La mission de SubQuery, qui consiste à rendre les données décentralisées du monde plus accessibles, repose sur un réseau de développeurs habilités à créer et à innover au sein de l'écosystème Substrate/Polkadot. Notre partenariat avec Gitcoin reflète notre engagement à offrir des opportunités aux développeurs motivés du monde entier pour construire les applications de demain.
 
-The  [Gitcoin GR12 Hackathon](https://gitcoin.co/hackathon/gr12/onboard)  takes place from December 1st — 16th 2021 with leading blockchain projects contributing to various prize pools.  [SubQuery has proposed 5 bounties with a total prize pool of up to $34,000](https://gitcoin.co/hackathon/gr12/?org=subquery). The prizes will be granted to those who have successfully completed the projects to the pre-set standards, and who deliver the most creative ideas, or those or solve areas to improve the core SubQuery SDK. A short summary of the challenges are below:
+Le  [Gitcoin GR12 Hackathon](https://gitcoin.co/hackathon/gr12/onboard)  se déroule du 1er décembre au 16 décembre 2021 avec des projets de blockchain de premier plan contribuant à divers lots de prix.  [SubQuery a proposé 5 récompenses avec une cagnotte de prix pouvant atteindre 34 000 $](https://gitcoin.co/hackathon/gr12/?org=subquery). Les prix seront attribués à ceux qui auront mené à bien les projets selon les normes préétablies, et qui auront proposé les idées les plus créatives, ou qui auront résolu des problèmes pour améliorer le noyau du SDK SubQuery. Vous trouverez ci-dessous un bref résumé de ces défis :
 
--   [Create a unified block explorer that combines Substrate and EVM insights from Moonbeam and Astar into one easy to use application](https://gitcoin.co/issue/subquery/grants/1)  — US$12,000  **[Sponsored by Moonbeam and Astar]**
--   [Work with SubQuery and the DeFi hub at Karura/Acala to build a dashboard that’s inspired by Zapper.fi or defisaver.com](https://gitcoin.co/issue/subquery/grants/2)  — US$8,000 **[Sponsored by Acala]**
--   [Create a staking dashboard that shows the best staking opportunities across Polkadot and its various parachains](https://gitcoin.co/issue/subquery/grants/3)  — US$3,000
--   [Build a marketplace explorer for all RMRK protocol based NFTs](https://gitcoin.co/issue/subquery/grants/4)  — US$2,000
--   [Extend the @subql/node service to index data from another layer 1 chain](https://gitcoin.co/issue/subquery/grants/5)  — US$12,000
+-   [Créer un explorateur de blocs unifié qui combine les aperçus de Substrate et EVM de Moonbeam et d'Astar dans une application facile à utiliser](https://gitcoin.co/issue/subquery/grants/1)  - 12 000$ US **[Sponsorisé par Moonbeam et Astar]**
+-   [Travailler avec SubQuery et le hub DeFi à Karura/Acala pour construire un tableau de bord inspiré de Zapper.fi ou defisaver.com](https://gitcoin.co/issue/subquery/grants/2)  — 8 000 $US **[Sponsorisé par Acala]**
+-   [Créez un tableau de bord de staking qui montre les meilleures opportunités de staking sur Polkadot et ses différents parachains](https://gitcoin.co/issue/subquery/grants/3)  - 3 000$ US
+-   [Construire un explorateur de marché pour tous les NFTs basés sur le protocole RMRK](https://gitcoin.co/issue/subquery/grants/4)  - 2 000$ US
+-   [Prolonger le service @subql/node pour indexer les données d'une autre couche 1 chaîne](https://gitcoin.co/issue/subquery/grants/5)  — 12 000$ US
 
-[Sam Zou](https://twitter.com/zoujialiu), the CEO and Founder of SubQuery commented,  _“SubQuery is proud to partner with the Gitcoin GR12 Hackathon to build the future of Web3.0. As the leading data indexer in the Polkadot ecosystem we strongly believe in building tools that allow dApp developers to focus on their front-end, so they don’t need to waste time on building a custom server for data processing. The bounties we have developed reflect our desire to give opportunities for graduates of our ‘Hero Course’ and more advanced challenges for experienced developers”_
+[Sam Zou](https://twitter.com/zoujialiu), le PDG et fondateur de SubQuery a commenté,  _« SubQuery est fier de collaborer avec le Gitcoin GR12 Hackathon pour construire le futur de Web3.0. En tant que principal indexeur de données de l'écosystème Polkadot, nous croyons fermement en la création d'outils qui permettent aux développeurs dApp de se concentrer sur leur front-end, donc ils n’ont pas besoin de perdre du temps à construire un serveur personnalisé pour le traitement des données. Les primes que nous avons développées reflètent notre désir de donner des opportunités aux diplômés de notre « Cours de héros » et des défis plus avancés pour les développeurs expérimentés_
 
-As part of the GR 12 Hackathon, SubQuery will be running workshops at the beginner and advanced level to help familiarise developers with our platform. In the meantime, you can  [learn how to build applications in about SubQuery via the SubQuery Academy](https://subquery.coassemble.com/unlock/dOKZW6O#/). If you are interested in participating, you can [join the onboarding page here](https://gitcoin.co/hackathon/gr12/onboard), while the Hackathon kickoff event will be 1st December with exact details available soon.
+Dans le cadre du GR 12 Hackathon, SubQuery dirigera des ateliers au niveau débutant et avancé pour aider à familiariser les développeurs avec notre plateforme. En attendant, vous pouvez [apprendre à construire des applications sur SubQuery via l'Académie SubQuery](https://subquery.coassemble.com/unlock/dOKZW6O#/). Si vous souhaitez participer, vous pouvez [rejoindre la page d'intégration ici](https://gitcoin.co/hackathon/gr12/onboard), tandis que l'événement de lancement du hackathon aura lieu le 1er décembre, les détails exacts étant disponibles prochainement.
 
 ---
 
-## About Gitcoin
+## À propos de Gitcoin
 
-[Gitcoin](http://www.gitcoin.co/)  is on a mission to build an internet that is open source, collaborative, and economically empowering. Gitcoin is creating community and infrastructure for Web 3 — a diverse range of tools, technologies, and networks that enable people to work for the open internet. By funding projects, building community, and making learning resources accessible, Gitcoin is teaming up to create the digital public infrastructure of tomorrow.
+[Gitcoin](http://www.gitcoin.co/)  a pour mission de construire un internet open source, collaboratif et économiquement autonome. Gitcoin crée une communauté et une infrastructure pour Web 3 — une gamme variée d’outils, des technologies et des réseaux qui permettent aux gens de travailler pour l'Internet ouvert. En finançant des projets, en construisant une communauté et en rendant accessibles les ressources d’apprentissage, Gitcoin s’associe pour créer les infrastructures publiques numériques de demain.
 
 [Discord](https://discord.gg/6PZUM3cFpz)  | [Website](http://www.gitcoin.co/)  |  [Twitter](https://twitter.com/gitcoin)  |  [GitHub](https://github.com/gitcoinco/)  |
 
-## About SubQuery
+## À propos de SubQuery
 
-[SubQuery](https://subquery.network/)  is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. The protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+[SubQuery](https://subquery.network/) est une couche décentralisée d'agrégation, d'indexation & d'interrogation de données entre les blockchains de niveau 1 et les applications décentralisées. Le protocole fait abstraction des idiosyncrasies des données de la blockchain grâce au SDK SubQuery, ce qui permet aux développeurs de se concentrer sur le déploiement de leur produit principal sans avoir à gaspiller leurs efforts sur des technologies backend personnalisées.
 
-​​[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork) | [Site Web](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
