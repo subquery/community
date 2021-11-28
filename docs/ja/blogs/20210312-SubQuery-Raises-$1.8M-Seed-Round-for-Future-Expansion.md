@@ -1,4 +1,4 @@
-# SubQuery Raises $1.8M Seed Round for Future Expansion
+# SubQuery は将来の拡張のために $1.8M シードラウンドを上げます。
 
 ![](https://miro.medium.com/max/1400/0*CrM8-LKRt3slWAsN)
 
