@@ -10,7 +10,7 @@ Au cours des derniers mois, nous avons été complètement submergés par des mi
 
 Après avoir consulté nos ambassadeurs existants, nous avons conçu une nouvelle méthode transparente pour monter en niveau dans [notre communauté Discord](https://discord.com/invite/subquery) et potentiellement devenir ambassadeur.
 
-Aujourd'hui, nous avons le plaisir d'annoncer la création du programme Spartan de SubQuery. Le programme spartiate existe entièrement au sein de notre communauté Discord, où les ambassadeurs en herbe peuvent accomplir des tâches et des concours mensuels afin de gagner le label spartiate. Les spartiates qui se hissent alors au sommet de leur classe seront recommandés par les ambassadeurs existants à l'équipe de SubQuery pour rejoindre leurs rangs.
+Aujourd'hui, nous avons le plaisir d'annoncer la création du programme Spartan de SubQuery. Le programme Spartan existe entièrement au sein de notre communauté Discord, où les ambassadeurs en herbe peuvent accomplir des tâches et des concours mensuels afin de gagner le label Spartan. Les spartiates qui se hissent alors au sommet de leur classe seront recommandés par les ambassadeurs existants à l'équipe de SubQuery pour rejoindre leurs rangs.
 
 En plus de la possibilité de devenir ambassadeur, les membres Discord ayant le rôle de spartiate bénéficieront d'avantages et de droits spéciaux au sein de la communauté SubQuery.
 
