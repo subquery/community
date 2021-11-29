@@ -26,7 +26,7 @@ Dans le cadre du GR 12 Hackathon, SubQuery dirigera des ateliers au niveau débu
 
 [Gitcoin](http://www.gitcoin.co/)  a pour mission de construire un internet open source, collaboratif et économiquement autonome. Gitcoin crée une communauté et une infrastructure pour Web 3 — une gamme variée d’outils, des technologies et des réseaux qui permettent aux gens de travailler pour l'Internet ouvert. En finançant des projets, en construisant une communauté et en rendant accessibles les ressources d’apprentissage, Gitcoin s’associe pour créer les infrastructures publiques numériques de demain.
 
-[Discord](https://discord.gg/6PZUM3cFpz)  | [Website](http://www.gitcoin.co/)  |  [Twitter](https://twitter.com/gitcoin)  |  [GitHub](https://github.com/gitcoinco/)  |
+[Discord](https://discord.gg/6PZUM3cFpz)  | [Site Web](http://www.gitcoin.co/)  |  [Twitter](https://twitter.com/gitcoin)  |  [GitHub](https://github.com/gitcoinco/)  |
 
 ## À propos de SubQuery
 
