@@ -69,4 +69,4 @@ Si vous souhaitez en savoir plus, vous pouvez voir tous les projets facilement v
 
 Comme toujours, n'hésitez pas à rejoindre nos réseaux sociaux pour rester au courant de nos dernières nouvelles et annonces. James, Sam et l'équipe SubQuery
 
-[Linktree  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://www.linkedin.com/company/subquery)  |  [LinkedIn](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)  |  YouTube](https://linktr.ee/subquerynetwork)
+[Linktree](https://linktr.ee/subquerynetwork)  |  [Site Web](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
