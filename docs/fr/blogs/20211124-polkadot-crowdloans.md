@@ -1,4 +1,4 @@
-# Dans les coulisses des crowdloans Polkadot
+# Dans les coulisses des Crowdloans Polkadot
 
 ![](https://miro.medium.com/max/2400/1*JvR4YsstF6OHG3mTr_1Seg.png)
 
@@ -6,7 +6,7 @@
 
 Une étape importante vient d'être franchie pour Polkadot, l'achèvement du premier tour des enchères de parachain. Au cours des dernières semaines, nous avons assisté à une lutte acharnée pour la couronne Polkadot, le premier emplacement parachain, entre Moonbeam et Acala. Après une course serrée, le gagnant de l'enchère s'est révélé être Acala. Si vous voulez en savoir plus sur la façon dont les gagnants sont sélectionnés dans cette enchère moderne au chandelier, jetez un coup d'œil à l'excellent résumé de [Dan Reecer (d'Acala)](https://twitter.com/danreecer_/status/1364646604024786949).
 
-SubQuery est le premier service d'indexation des données de Polkadot, et au cours de la semaine dernière, nous avons alimenté des millions de demandes quotidiennes à la majorité des tableaux de bord du crowdloan, des applications de contribution et des sites Web d'analyse. Des équipes comme  [SubVis](https://www.subvis.io/),  [la finance parallèle](https://parallel.fi/), et  [DotMarketCap](https://dotmarketcap.com/)  comptent sur SubQuery pour fournir des données en temps réel sur les crowdloans et d'autres données sur la chaîne directement sur leurs sites Web et leurs applications.
+SubQuery est le premier service d'indexation des données de Polkadot, et au cours de la semaine dernière, nous avons alimenté des millions de demandes quotidiennes à la majorité des tableaux de bord du crowdloan, des applications de contribution et des sites Web d'analyse. Des équipes comme  [SubVis](https://www.subvis.io/),  [Parallel Finance](https://parallel.fi/), et  [DotMarketCap](https://dotmarketcap.com/)  comptent sur SubQuery pour fournir des données en temps réel sur les crowdloans et d'autres données sur la chaîne directement sur leurs sites Web et leurs applications.
 
 Aujourd'hui, nous allons explorer un peu plus ce qui s'est passé lors de la première vente aux enchères en plongeant dans les données derrière chaque contribution.
 
@@ -62,7 +62,7 @@ SubQuery est le principal fournisseur de données de Polkadot, prenant en charge
 
 Le protocole SubQuery fait abstraction des idiosyncrasies des données de la blockchain grâce au SDK SubQuery, ce qui permet aux développeurs de se concentrer sur le déploiement de leur produit principal sans avoir à gaspiller leurs efforts sur des technologies backend personnalisées.
 
-​​​​[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+​​​​[Linktree](https://linktr.ee/subquerynetwork)  |  [Site Web](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
 
 ## Annexe
 
