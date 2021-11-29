@@ -10,7 +10,7 @@ Au cours des derniers mois, nous avons été complètement submergés par des mi
 
 Après avoir consulté nos ambassadeurs existants, nous avons conçu une nouvelle méthode transparente pour monter en niveau dans [notre communauté Discord](https://discord.com/invite/subquery) et potentiellement devenir ambassadeur.
 
-Aujourd'hui, nous avons le plaisir d'annoncer la création du programme Spartan de SubQuery. Le programme Spartan existe entièrement au sein de notre communauté Discord, où les ambassadeurs en herbe peuvent accomplir des tâches et des concours mensuels afin de gagner le label Spartan. Les spartiates qui se hissent alors au sommet de leur classe seront recommandés par les ambassadeurs existants à l'équipe de SubQuery pour rejoindre leurs rangs.
+Aujourd'hui, nous avons le plaisir d'annoncer la création du programme Spartan de SubQuery. Le programme Spartiate existe entièrement au sein de notre communauté Discord, où les ambassadeurs en herbe peuvent accomplir des tâches et des concours mensuels afin de gagner le label Spartiate. Les Spartiates qui se hissent alors au sommet de leur classe seront recommandés par les ambassadeurs existants à l'équipe de SubQuery pour rejoindre leurs rangs.
 
 En plus de la possibilité de devenir ambassadeur, les membres Discord ayant le rôle de spartiate bénéficieront d'avantages et de droits spéciaux au sein de la communauté SubQuery.
 
@@ -20,4 +20,4 @@ Pour en savoir plus sur notre programme Spartan et participer à notre concours 
 
 SubQuery est une couche d'agrégation de données qui fonctionne entre les blockchains de couche 1 (comme Moonriver et Polkadot) et les DApps. Ce service débloque les données de la blockchain et les transforme en un état interrogeable afin qu'elles puissent être utilisées dans des applications intuitives. Il permet aux développeurs de DApps de se concentrer sur leur cas d'utilisation principal et leur front-end, sans avoir besoin de perdre du temps à construire un back-end personnalisé pour le traitement des données.
 
-​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Github](https://github.com/subquery/subql) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+​​[Linktree](https://linktr.ee/subquerynetwork) | [Site Web](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Github](https://github.com/subquery/subql) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
