@@ -8,7 +8,7 @@
 
 Aujourd'hui est le lancement de [version 0.2.0](https://doc.subquery.network/create/manifest/) de notre fichier manifeste de projet (`project.yaml`). Cette nouvelle version apporte aux développeurs diverses améliorations qui ont été demandées par les clients.
 
-Plus important encore, vous pouvez maintenant référencer un fichier de définition de types de chaîne qui a tous les types personnalisés inclus lorsque vous indexez une chaîne de substrat personnalisée. Cela vous permet de connecter rapidement un nouveau projet SubQuery à n'importe quelle chaîne basée sur le substrat, y compris tous les parachains de Kusama. Ce devrait être un fichier type de chaîne standard qui déclare les types spécifiques pris en charge par cette blockchain dans l'un ou l'autre des `. format fils` ou `.yaml`.
+Plus important encore, vous pouvez maintenant référencer un fichier de définition de types de chaîne qui a tous les types personnalisés inclus lorsque vous indexez une chaîne de substrat personnalisée. Cela vous permet de connecter rapidement un nouveau projet SubQuery à n'importe quelle chaîne basée sur le substrat, y compris toutes les parachains de Kusama. Ce devrait être un fichier type de chaîne standard qui déclare les types spécifiques pris en charge par cette blockchain dans l'un ou l'autre des formats `.json` ou `.yaml`.
 
 Cette solution vous permet d'éviter de copier et de gérer les définitions de type de chaîne dans le manifeste lui-même, et vous permet de simplement cloner les [fichiers de type de chaîne publiés répertoriés dans des dépôts comme PolkadotJS](https://github.com/polkadot-js/apps/tree/master/packages/apps-config/src/api/spec).
 
@@ -52,7 +52,7 @@ Si vous connaissez la façon dont le projet SubQuery basé sur Substrate est ré
 
 ![](https://miro.medium.com/max/700/1*k4_uJYYCsTnPRRJ7avq2WA.png)
 
-Si vous avez des questions à ce sujet, assurez-vous d'avoir [consultez notre documentation](https://doc.subquery.network/create/moonbeam) ou contactez-nous sur notre canal de support #technical-support dans notre communauté [Discord](https://discord.com/invite/subquery).
+Si vous avez des questions à ce sujet, assurez-vous d'avoir [consultez notre documentation](https://doc.subquery.network/create/moonbeam) ou contactez notre [communauté Discord](https://discord.com/invite/subquery) sur notre canal de support #technical-support.
 
 [Cloner le projet d'exemple sur GitHub](https://github.com/subquery/tutorials-moonriver-evm-starter)
 
@@ -62,7 +62,7 @@ Comme vous pouvez le constater, la création d'un projet Moonriver ou Moonbase A
 
 SubQuery est une couche d'agrégation de données qui fonctionne entre les blockchains de couche 1 (comme Moonriver et Polkadot) et les DApps. Ce service débloque les données de la blockchain et les transforme en un état interrogeable afin qu'elles puissent être utilisées dans des applications intuitives. Il permet aux développeurs de DApps de se concentrer sur leur cas d'utilisation principal et leur front-end, sans avoir besoin de perdre du temps à construire un back-end personnalisé pour le traitement des données.
 
-​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Github](https://github.com/subquery/subql) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+​​[Linktree](https://linktr.ee/subquerynetwork) | [Site Web](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Github](https://github.com/subquery/subql) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
 
 ## À propos de Moonbeam
 
