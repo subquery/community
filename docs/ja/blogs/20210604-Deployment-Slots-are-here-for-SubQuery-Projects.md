@@ -1,29 +1,29 @@
-# Deployment Slots are here for SubQuery Projects
+# 配備スロットはサブクエリプロジェクトでございます
 
-> Today we’re introducing deployment slots, a whole new feature that improves the developer experience in SubQuery’s hosted service.
+> 本日、SubQueryのホストサービスでの開発者エクスペリエンスを向上させるまったく新しい機能、デプロイメントスロットを導入しました。
 
-[SubQuery Projects](https://project.subquery.network/) is already being used as a managed and hosted service for many Projects, whether they’re chain explorers, wallets, NFT explorers, or others. It’s a service that our customers rely on.
+[サブクエリ プロジェクト](https://project.subquery.network/) は、多くのプロジェクトのマネージド サービスとしてすでに使用されています。 チェーンエクスプローラー、財布、NFTエクスプローラー、または他の人であろうと。 それは当社のお客様が信頼しているサービスです。
 
 ![](https://miro.medium.com/max/1400/0*PugDgh6weZspRIO2)
 
-You can now deploy to a isolated staging slot
+隔離されたステージングスロットにデプロイできるようになりました
 
-Although you can always run SubQuery’s infrastructure yourself (with your own node and query service), we aim to make our hosted service the most reliable, resilient, and performant data provider in the Polkadot/Substrate ecosystem.
+SubQueryのインフラストラクチャはいつでも自分で実行できますが(独自のノードとクエリサービスを使用して)、自分で実行できます。 私たちは、私たちのホストされたサービスを、最も信頼性が高く、回復力があり、パフォーマンスの高いデータプロバイダにすることを目指しています。
 
-Creators of [SubQuery Projects](https://project.subquery.network/) are constantly improving and updating their Projects and the data within those projects. Unfortunately it takes hours if not days to reindex chain data in the event of a major change — ultimately our goal to to allow you to update your Project, reindex your data, and upgrade your hosted SubQuery Projects with **zero downtime**
+[SubQuery Projects](https://project.subquery.network/) の作成者は、プロジェクトとそれらのプロジェクト内のデータを常に改善し、更新しています。 残念ながら、大きな変更があった場合にチェーンデータのインデックスを再作成するには数日かかりませんが、最終的にプロジェクトの更新を許可することが目標です。 データのインデックスを再作成し、ホストされているSubQuery Projectsを **ゼロのダウンタイム**でアップグレードします。
 
-**That’s what deployment slots are here to solve**
+**これを解決するためにここにデプロイスロットがあります**
 
 ![](https://miro.medium.com/max/1400/0*vQ33aqhn1eVllo5t)
 
-Your staging slot will run independently of the primary production slot
+ステージングスロットはプライマリ生産スロットとは独立して実行されます。
 
-When creating a new deployment to your [SubQuery Project in our hosted service](https://project.subquery.network/), you can choose to either deploy to the production or staging slot. These two slots are isolated environments, each has its own database and sync independently. Once your staging slot has started and completed indexing, you can then promote it to production with zero downtime.
+ホストされたサービスで [SubQuery Projectに新しいデプロイを作成する場合](https://project.subquery.network/)本番スロットまたはステージングスロットにデプロイするかを選択できます。 これらの2つのスロットは、それぞれ独自のデータベースを持っており、独立して同期します。 ステージングスロットが開始してインデックスが完了したら、ダウンタイムゼロでプロダクションにプロモーションできます。
 
-The staging slot is perfect for:
+ステージングスロットは以下のために完璧です：
 
--   Validating changes to your SubQuery Project in a separate environment. The staging slot has a different URL to production that you can use in your dApps.
--   Warming up and indexing data for an updated SubQuery project to eliminate downtime in your dApp
--   Preparing a new release for your SubQuery Project without exposing it publicly. The staging slot is not shown to the public in the Explorer and has a unique URL that is visible only to you.
+-   SubQuery Projectの変更を別の環境で検証する。 ステージングスロットには、dAppsで使用できるプロダクションとは異なるURLがあります。
+-   更新されたSubQueryプロジェクトのデータをウォームアップしてインデックス化することで、dAppのダウンタイムをなくすことができます
+-   公開せずに、SubQuery プロジェクトの新しいリリースを準備します。 The staging slot is not shown to the public in the Explorer and has a unique URL that is visible only to you.
 
 You can try it yourself now in [SubQuery Projects](https://project.subquery.network/).
