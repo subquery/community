@@ -24,6 +24,6 @@ SubQueryのインフラストラクチャはいつでも自分で実行できま
 
 -   SubQuery Projectの変更を別の環境で検証する。 ステージングスロットには、dAppsで使用できるプロダクションとは異なるURLがあります。
 -   更新されたSubQueryプロジェクトのデータをウォームアップしてインデックス化することで、dAppのダウンタイムをなくすことができます
--   公開せずに、SubQuery プロジェクトの新しいリリースを準備します。 The staging slot is not shown to the public in the Explorer and has a unique URL that is visible only to you.
+-   公開せずに、SubQuery プロジェクトの新しいリリースを準備します。 エクスプローラ では、ステージングスロットは一般には表示されず、あなただけに表示される固有のURLを持っています。
 
-You can try it yourself now in [SubQuery Projects](https://project.subquery.network/).
+[SubQuery Projects](https://project.subquery.network/) で自分で試すことができます。
