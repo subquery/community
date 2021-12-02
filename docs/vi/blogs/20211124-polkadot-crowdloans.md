@@ -1,38 +1,38 @@
-# Inside The Polkadot Crowdloans
+# Tìm hiểu về Polkadot Crowdloan
 
 ![](https://miro.medium.com/max/2400/1*JvR4YsstF6OHG3mTr_1Seg.png)
 
-**SubQuery Digs Into The Parachain Auction Data**
+**SubQuery đào sâu vào dữ liệu đấu giá Parachain**
 
-A huge milestone has just been achieved for Polkadot, the completion of the first round of the parachain auctions. Over the past weeks we’ve observed a heated fight for the Polkadot crown, the first parachain slot, between Moonbeam and Acala. After a tightly fought race the winner of the auction was revealed to be Acala, if you want to learn more about how winners are selected in this modern candlestick auction then take a look at  [Dan Reecer’s (from Acala) excellent summary](https://twitter.com/danreecer_/status/1364646604024786949).
+Polkadot vừa đạt được một cột mốc quan trọng, đó là việc hoàn thành vòng đấu giá parachain đầu tiên. Trong những tuần qua, chúng tôi đã quan sát thấy một cuộc chiến nảy lửa để giành lấy vương miện Polkadot, vị trí parachain đầu tiên, giữa Moonbeam và Acala. Sau một cuộc đua gay cấn, người chiến thắng trong cuộc đấu giá được tiết lộ là Acala, nếu bạn muốn tìm hiểu thêm về cách người chiến thắng được chọn trong cuộc đấu giá hình nến hiện đại này, hãy xem bản tóm tắt xuất sắc của [Dan Reecer (từ Acala)](https://twitter.com/danreecer_/status/1364646604024786949).
 
-SubQuery is  Polkadot’s leading data indexing service, and over the past week we’ve been powering millions of daily requests to the majority of the crowdloan dashboards, contribution apps, and analytics websites. Teams like  [SubVis](https://www.subvis.io/),  [Parallel Finance](https://parallel.fi/), and  [DotMarketCap](https://dotmarketcap.com/)  rely on SubQuery to provide real time data on the crowdloans and other on-chain data directly to their websites and apps.
+SubQuery là dịch vụ lập chỉ mục dữ liệu hàng đầu của Polkadot và trong tuần qua, chúng tôi đã cung cấp hàng triệu yêu cầu hàng ngày cho phần lớn các trang tổng quan cộng đồng, ứng dụng đóng góp và trang web phân tích. Các nhóm như [ SubVis ](https://www.subvis.io/), [Parallel Finance](https://parallel.fi/) và [ DotMarketCap ](https://dotmarketcap.com/) sử dụng SubQuery để cung cấp dữ liệu thời gian thực trên các kênh cộng đồng và dữ liệu trực tuyến khác trực tiếp cho trang web và ứng dụng.
 
-Today we are going to explore a little more about what happened within the first auction by diving into the data behind every single contribution.
+Hôm nay chúng ta sẽ khám phá thêm một chút về những gì đã xảy ra trong phiên đấu giá đầu tiên bằng cách đi sâu vào dữ liệu đằng sau mỗi đóng góp.
 
 ![](https://miro.medium.com/max/2400/0*Pcp3KJvC5eyP2KQ3)
 
-Firstly, from the launch of the first crowdloan to the close of the first auction (a little over 13 days), over 87.5 million DOT was contributed across all crowdloans by just under 68,000 addresses. Essentially 68,000 addresses worked together over 187,000 contributions to raise and commit over US$3.54 billion in 2 weeks. That’s a phenomenal amount by any standard, and a huge indication of how committed individuals (and entities) are to locking up their DOT for up to 2 years to support their favourite networks. The committed capital equates to almost 10% of Polkadot’s entire circulating supply.
+Thứ nhất, từ khi ra mắt quảng cáo cộng đồng đầu tiên cho đến khi kết thúc phiên đấu giá đầu tiên (hơn 13 ngày một chút), hơn 87,5 triệu DOT đã được đóng góp trên tất cả các quỹ cộng đồng chỉ dưới 68.000 địa chỉ. Về cơ bản, 68.000 địa chỉ đã làm việc cùng nhau trên 187.000 đóng góp để gây quỹ và cam kết hơn 3,54 tỷ đô la Mỹ trong 2 tuần. Đó là một con số phi thường theo bất kỳ tiêu chuẩn nào và là dấu hiệu rất lớn về cách các cá nhân (và tổ chức) cam kết khóa DOT của họ trong tối đa 2 năm để hỗ trợ các mạng yêu thích của họ. Số vốn cam kết tương đương với gần 10% toàn bộ nguồn cung lưu hành của Polkadot.
 
 ![](https://miro.medium.com/max/2400/0*-ovBJnjxAKfeB81Y)
 
-Investor interest really boomed in the start of the auctions, with a surge of contributions (by count) for the first few hours and also right towards the end before close. The first day of the crowdloans saw over 34,000 contributions and the last minute rush returned with 5,618 contributions in a 2 hour period.
+Sự quan tâm của nhà đầu tư thực sự bùng nổ khi bắt đầu các cuộc đấu giá, với một lượng lớn các khoản đóng góp (theo số lượng) trong vài giờ đầu tiên và cũng ngay trước khi kết thúc phiên đấu giá. Ngày đầu tiên của các khoản huy động vốn từ cộng đồng đã chứng kiến ​​hơn 34.000 lượt đóng góp và mức cao điểm vào phút cuối đã quay trở lại với 5.618 lượt đóng góp trong khoảng thời gian 2 giờ.
 
-As you can see in the graph below, Moonbeam had by far the largest number of contributions throughout the auction, attracting almost 23,984 contributions from more than 21,333 more unique addresses than Acala.
+Như bạn có thể thấy trong biểu đồ bên dưới, cho đến nay, Moonbeam có số lượng đóng góp lớn nhất trong suốt phiên đấu giá, thu hút gần 23.984 đóng góp từ hơn 21.333 địa chỉ duy nhất so với Acala.
 
 ![](https://miro.medium.com/max/2400/0*MSHfjnu7KmMvDmnY)
 
-Acala obviously came ahead as the winner, so how did this happen? The number of contributors and their contributions hides the fact that Acala’s contributors on average contributed far more than Moonbeam. As a result the total contributions in terms of value looked like the graph below where Acala were slightly ahead of Moonbeam throughout the auction.
+Acala rõ ràng đã đi trước với tư cách là người chiến thắng, vậy điều này xảy ra như thế nào? Số lượng người đóng góp và đóng góp của họ che dấu một sự thực là trung bình các đóng góp của Acala nhiều hơn Moonbeam. Do đó, tổng đóng góp về mặt giá trị trông giống như biểu đồ bên dưới, trong đó Acala dẫn trước Moonbeam một chút trong suốt phiên đấu giá.
 
 ![](https://miro.medium.com/max/2400/0*YbV-ReqSwfimUsbO)
 
-The majority of contributions by value occurred in two individual events, these two significant events essentially changed the outcome of the first auction.
+Phần lớn các đóng góp theo giá trị xảy ra trong hai sự kiện riêng lẻ, hai sự kiện quan trọng này về cơ bản đã thay đổi kết quả của phiên đấu giá đầu tiên.
 
 ![](https://miro.medium.com/max/2400/0*jmRsZ7kxEYAWYaUq)
 
-The first occurred in the space of 5 minutes starting at 1:25pm UTC on the 11th of November. A single address that we have linked to  [Binance’s Crowdloan](https://www.binance.com/en/dotslot)  address made a series of 7 transactions with a total value of over 19 million DOT (US$768.9 million). The first was the largest single contribution to Moonbeam with over 9 million DOT (US$364 million), followed by 6 other contributions on average 34 seconds apart. This address also made significant contributions to Acala (2.6 million DOT), Clover (2.1 million DOT), Astar (2 million DOT), and Manta (1.7 million DOT).
+Sự kiện đầu tiên xảy ra trong khoảng thời gian 5 phút bắt đầu lúc 1:25 chiều UTC vào ngày 11 tháng 11. Một địa chỉ duy nhất mà chúng tôi đã liên kết với địa chỉ [ Binance’s Crowdloan ](https://www.binance.com/en/dotslot) đã thực hiện một loạt 7 giao dịch với tổng giá trị hơn 19 triệu DOT (768,9 triệu đô la Mỹ). Đầu tiên là đóng góp đơn lẻ lớn nhất cho Moonbeam với hơn 9 triệu DOT (364 triệu USD), tiếp theo là 6 đóng góp khác cách nhau trung bình 34 giây. Địa chỉ này cũng có đóng góp đáng kể cho Acala (2,6 triệu DOT), Clover (2,1 triệu DOT), Astar (2 triệu DOT), và Manta (1,7 triệu DOT).
 
-The second significant event occurred in the space of 75 minutes from 10.40am on the 13th of November when a single account made multiple significant contributions to Acala. This account represents  [Acala’s LCDOT address](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157)  and was Acala deploying all of its liquid staked DOT to its crowdloan. First were some test transactions, then some major transactions which include the largest of 5.5 million DOT (USD$222.5 million). In the end Acala’s LCDOT fund made 3758 contributions over the auction.
+Sự kiện quan trọng thứ hai xảy ra trong khoảng thời gian 75 phút từ 10h40 sáng ngày 13 tháng 11 khi một tài khoản đã có nhiều đóng góp đáng kể cho Acala. Tài khoản này đại diện cho [ địa chỉ LCDOT của Acala ](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157) và Acala đã triển khai tất cả DOT stake của mình crowdloan của chính nó. Đầu tiên là một số giao dịch thử nghiệm, sau đó là một số giao dịch lớn bao gồm lớn nhất là 5,5 triệu DOT (222,5 triệu USD). Cuối cùng, quỹ LCDOT của Acala đã đóng góp được 3758 lần trong cuộc đấu giá.
 
 ![](https://miro.medium.com/max/2400/0*GTJviXqhPmRIIf73)
 
