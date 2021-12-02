@@ -16,9 +16,9 @@ Thứ nhất, từ khi công bố đợt huy động vốn cộng đồng lần 
 
 ![](https://miro.medium.com/max/2400/0*-ovBJnjxAKfeB81Y)
 
-Sự quan tâm của nhà đầu tư thực sự bùng nổ khi bắt đầu các cuộc đấu giá, với một lượng lớn các khoản đóng góp (theo số lượng) trong vài giờ đầu tiên và cũng ngay trước khi kết thúc phiên đấu giá. Ngày đầu tiên của các khoản huy động vốn từ cộng đồng đã chứng kiến ​​hơn 34.000 lượt đóng góp và mức cao điểm vào phút cuối đã quay trở lại với 5.618 lượt đóng góp trong khoảng thời gian 2 giờ.
+Sự quan tâm của nhà đầu tư thực sự bùng nổ khi bắt đầu các cuộc đấu giá với một lượng lớn các khoản đóng góp (theo số lượng) trong vài giờ đầu tiên cũng như ngay trước khi kết thúc phiên đấu giá. Ngày đầu tiên huy động vốn từ cộng đồng đã chứng kiến ​​hơn 34.000 lượt đóng góp và những lúc cao điểm đã có đến 5.618 lượt đóng góp chỉ trong khoảng 2 giờ.
 
-Như bạn có thể thấy trong biểu đồ bên dưới, cho đến nay, Moonbeam có số lượng đóng góp lớn nhất trong suốt phiên đấu giá, thu hút gần 23.984 đóng góp từ hơn 21.333 địa chỉ duy nhất so với Acala.
+Như bạn có thể thấy trong biểu đồ bên dưới, cho đến nay Moonbeam có số lượng đóng góp lớn nhất trong suốt phiên đấu giá, thu hút gần 23.984 đóng góp từ 21.333 địa chỉ so với Acala.
 
 ![](https://miro.medium.com/max/2400/0*MSHfjnu7KmMvDmnY)
 
