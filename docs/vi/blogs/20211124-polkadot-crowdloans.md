@@ -36,41 +36,41 @@ Sự kiện quan trọng thứ hai xảy ra trong khoảng thời gian 75 phút 
 
 ![](https://miro.medium.com/max/2400/0*GTJviXqhPmRIIf73)
 
-These series of transactions were ultimately able to push Acala above Moonbeam, and provide Acala with a winning percentage of 63.11% of the blocks. When the random winning block was selected ~56 hours later at block 7,718,090, Acala was ahead of Moonbeam by just ~38,000 DOT (USD$1.5 million).
+Các chuỗi giao dịch này cuối cùng đã có thể đẩy Acala lên trên Moonbeam và mang lại cho Acala tỷ lệ chiến thắng là 63,11% trong số các khối. Khi khối chiến thắng ngẫu nhiên được chọn ~ 56 giờ sau ở khối 7.718.090, Acala đã dẫn trước Moonbeam chỉ ~ 38.000 DOT (1,5 triệu USD).
 
-One of the amazing things about these auctions, is that even after raising over 66 million DOT (USD$2.67 billion) between Acala and Moonbeam, the winning margin at the randomly selected block was just 0.056% of the total amount.
+Một trong những điều đáng kinh ngạc về các cuộc đấu giá này, là ngay cả sau khi huy động được hơn 66 triệu DOT (2,67 tỷ USD) giữa Acala và Moonbeam, tỷ lệ chiến thắng ở khối được chọn ngẫu nhiên chỉ là 0,056% tổng số tiền.
 
-So who was contributing to the crowdloans? Firstly, the median amount contributed by all was just 12 DOT (USD$485.64), 47% of all contributions were less than 10 DOT and 88% were less than 100 DOT (US$4,047.00). This clearly demonstrates an extremely strong and robust community of individual contributors, testament to the retail interest in the parachain auctions.
+Vậy ai đã đóng góp vào các khoản huy động vốn từ cộng đồng? Thứ nhất, số tiền trung bình mà tất cả đóng góp chỉ là 12 DOT (USD 485,64), 47% của tất cả các khoản đóng góp dưới 10 DOT và 88% dưới 100 DOT (USD 4,047,00). Điều này rõ ràng chứng tỏ một cộng đồng cá nhân đóng góp cực kỳ mạnh mẽ và mạnh mẽ, minh chứng cho sự quan tâm của các nhà bán lẻ đối với các cuộc đấu giá parachain.
 
-The big question on everyone’s mind is who’s the people’s network? Which network has the largest proportion of small contributors? For the following insights into contribution size breakdown we have excluded some known exchange or crowdloan accounts (list in the appendix). You can see that some networks are almost completely small cap funded (SubGame Gamma and Darwinia). On the other hand, large cap investors (>5,000 DOT) make up 68% of Moonbeam’s crowdloan (by value), 62% of Parallel Finance’s, and 58% of Clover’s.
+Câu hỏi lớn trong đầu mọi người là mọi người sẽ đóng góp cho dự án nào? Mạng lưới nào có tỷ lệ người đóng góp nhỏ lớn nhất? Để có những thông tin chi tiết sau đây về phân tích quy mô đóng góp, chúng tôi đã loại trừ một số tài khoản trao đổi hoặc tài khoản cộng đồng đã biết (danh sách trong phụ lục). Bạn có thể thấy rằng một số mạng được tài trợ gần như hoàn toàn với lượng đóng góp nhỏ (SubGame Gamma và Darwinia). Mặt khác, các nhà đầu tư vốn hóa lớn (> 5.000 DOT) chiếm 68% số tiền từ cộng đồng của Moonbeam (theo giá trị), 62% của Parallel Finance và 58% của Clover.
 
 ![](https://miro.medium.com/max/2400/0*ztRnFrVfJ2aTlMiU)
 
-Obviously we are here to look at Moonbeam and Acala, and here we can see that Acala has more small cap funding than Moonbeam, with 33% of Acala’s contributions being less than 1,000 DOT (USD$40,470) compared to 21% of Moonbeam’s.
+Rõ ràng là chúng ta ở đây để xem xét Moonbeam và Acala, và ở đây chúng ta có thể thấy rằng Acala có nguồn vốn giới hạn nhỏ hơn Moonbeam, với 33% đóng góp của Acala thấp hơn 1.000 DOT (USD 40.470) so với 21% của Moonbeam.
 
 ![](https://miro.medium.com/max/2400/0*ge-2XDPgddj-J07V)
 
-_Note, the previous insights around “the people’s network” have been taken after excluding known contributors that aggregate other contributions into one. SubQuery has only identified a small number, there will certainly be aggregators that we have missed that may be material to the data shared here_
+_Lưu ý, những thông tin chi tiết trước đây về “mạng lưới của mọi người” đã được thực hiện sau khi loại trừ những người đóng góp tổng hợp các đóng góp khác thành một. SubQuery mới chỉ xác định được một số lượng nhỏ, chắc chắn sẽ có những tập hợp mà chúng tôi đã bỏ qua có thể là quan trọng đối với dữ liệu được chia sẻ tại đây_
 
-So where are people contributing from? SubQuery has identified that  [Acala’s LCDOT](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157)  was a runaway success, and resulted in almost 28% of all contributions. With over 24 million DOT (US$971 million) contributed directly to Acala, this auction would likely have gone another way without it.
+Vậy mọi người đang đóng góp từ đâu? SubQuery đã xác định rằng [ Acala’s LCDOT ](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157) là một thành công trong quá trình này và dẫn đến gần 28% tổng số đóng góp. Với hơn 24 triệu DOT (971 triệu đô la Mỹ) được đóng góp trực tiếp cho Acala, cuộc đấu giá này có thể sẽ diễn ra theo một hướng khác nếu không có nó.
 
-Additionally,  [Binance](https://www.binance.com/en/dotslot)  proved to be a popular participation pathway with 27% of contributions across all most participants. We round out the significance contribution methods with  [Parallel Finance](https://crowdloan.parallel.fi/#/auction/polkadot)  at 11% of contributions, and  [Kraken](https://www.kraken.com/learn/parachain-auctions)  at 7%. Centralised exchanges are still clearly a preferred method of participation.
+Ngoài ra, [ Binance ](https://www.binance.com/en/dotslot) được chứng minh là một con đường tham gia phổ biến với 27% đóng góp trên hầu hết những người tham gia. Chúng tôi làm tròn các phương pháp đóng góp ý nghĩa với [Parallel Finance](https://crowdloan.parallel.fi/#/auction/polkadot) ở mức 11% đóng góp và [Kraken](https://www.kraken.com/learn/parachain-auctions) là 7%. Các sàn giao dịch tập trung rõ ràng vẫn là một phương thức tham gia được ưa thích.
 
-## About SubQuery Network
+## Giới thiệu về mạng SubQuery
 
-SubQuery is Polkadot’s leading data provider, supporting an indexing & querying layer between Layer-1 blockchains (Polkadot) and decentralized applications. SubQuery’s data service is being used by most of the Polkadot and Kusama crowdloan and parachain auction websites live today.
+SubQuery là nhà cung cấp dữ liệu hàng đầu của Polkadot, hỗ trợ lập chỉ mục & lớp truy vấn giữa các blockchains Lớp-1 (Polkadot) và các ứng dụng phi tập trung. Dịch vụ dữ liệu của SubQuery đang được hầu hết các trang web đấu giá parachain và crowdloan Polkadot và Kusama sử dụng.
 
-SubQuery’s protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+Giao thức của SubQuery loại bỏ các đặc điểm riêng của dữ liệu blockchain với SubQuery SDK, cho phép các nhà phát triển tập trung vào việc triển khai sản phẩm cốt lõi của họ mà không cần lãng phí nỗ lực vào các công nghệ phụ trợ tùy chỉnh.
 
 ​​​​[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
 
 ## Appendix
 
-All USD prices are quoted at the price at the 1st Auctions’s close = USD$40.47
+Tất cả giá USD được niêm yết theo giá đóng cửa của Phiên đấu giá đầu tiên = USD 40,47
 
-All data is from the start of the Polkadot Crowdloans to the completion of the first auction on 18th November 11.57AM UTC (block 7,756,107)
+Tất cả dữ liệu là từ khi bắt đầu Polkadot Crowdloans đến khi hoàn thành phiên đấu giá đầu tiên vào ngày 18 tháng 11, 11.57 giờ sáng UTC (khối 7,756.107)
 
-Excluded Crowdloan Sites
+Các trang web Crowdloan bị loại trừ
 
 -   [Acala LCDOT](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157)
 -   [Binance Crowdloan](https://www.binance.com/en/dotslot)
