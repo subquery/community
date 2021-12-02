@@ -12,7 +12,7 @@ Hôm nay chúng ta sẽ khám phá thêm một chút về những gì đã xảy
 
 ![](https://miro.medium.com/max/2400/0*Pcp3KJvC5eyP2KQ3)
 
-Thứ nhất, từ khi công bố đợt huy động vốn cộng đồng lần đầu tiên cho đến khi phiên đấu giá thứ nhất kết thúc (hơn 13 ngày một chút), hơn 87,5 triệu DOT đã được huy động trên tất cả các kênh với gần 68.000 địa chỉ. Về cơ bản, 68.000 địa chỉ đã làm việc cùng nhau trên 187.000 đóng góp để gây quỹ và cam kết hơn 3,54 tỷ đô la Mỹ trong 2 tuần. Đó là một con số phi thường theo bất kỳ tiêu chuẩn nào và là dấu hiệu rất lớn về cách các cá nhân (và tổ chức) cam kết khóa DOT của họ trong tối đa 2 năm để hỗ trợ các mạng yêu thích của họ. Số vốn cam kết tương đương với gần 10% toàn bộ nguồn cung lưu hành của Polkadot.
+Thứ nhất, từ khi công bố đợt huy động vốn cộng đồng lần đầu tiên cho đến khi phiên đấu giá thứ nhất kết thúc (hơn 13 ngày một chút), hơn 87,5 triệu DOT đã được huy động trên tất cả các kênh với gần 68.000 địa chỉ. Với 68.000 địa chỉ cùng 187.000 đóng góp đã đem về con số 3,54 tỷ đô la Mỹ trong 2 tuần. Đó là một con số phi thường theo bất kỳ tiêu chuẩn nào và là dấu hiệu rất lớn về cách các cá nhân (và tổ chức) cam kết khóa DOT trong tối đa 2 năm để hỗ trợ các mạng yêu thích của họ. Số vốn cam kết tương đương với gần 10% toàn bộ nguồn cung lưu hành của Polkadot.
 
 ![](https://miro.medium.com/max/2400/0*-ovBJnjxAKfeB81Y)
 
