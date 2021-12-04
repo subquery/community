@@ -1,52 +1,52 @@
-# October 2021 Recap
+# Ekim 2021 Özeti
 
 ![](https://miro.medium.com/max/1400/1*Yf3LOc6onAZ-XRQLPyxAmQ.png)
 
-**Putting Our Plans Into Motion**
+**Planlarımızı Harekete Geçirmek**
 
-Welcome to the latest monthly update from SubQuery, and what will be the first one for many of you based on the growth of our community.
+SubQuery'nin en son aylık güncellemesine ve topluluğumuzun büyümesine bağlı olarak birçoğunuz için ilk güncellemeye hoş geldiniz.
 
-From here on out we will try to structure every update around three key areas; community, core product development, and the SubQuery Network.
+Bundan sonra her güncellemeyi üç temel alan etrafında yapılandırmaya çalışacağız; topluluk, temel ürün geliştirme ve SubQuery Ağı.
 
 # SubQuery Network
 
-## Technical Roadmap Announced
+## Teknik Yol Haritası Açıklandı
 
-At our community call last week we shared more  about our plans for the future. We are excited about how the next evolution of SubQuery will drive even more value to the Polkadot ecosystem and provide more opportunities for our community to participate in our growth.
+Geçen haftaki topluluk görüşmemizde geleceğe yönelik planlarımız hakkında daha fazla bilgi paylaştık. SubQuery'nin bir sonraki evriminin Polkadot ekosistemine nasıl daha fazla değer katacağı ve topluluğumuzun büyümemize katılması için nasıl daha fazla fırsat sağlayacağı konusunda heyecanlıyız.
 
-We’ve gone extremely deep here for transparency with the community and to rationalise the work we have ahead. It’s an ambitious timeline that we are internally using as a target, you can see how many moving pieces there are from the image below! That being said, estimating timelines for R&D software development is notoriously difficult, so nothing below is final — it’s just our best effort at estimations.
+Toplulukla şeffaflık ve önümüzde olan işi rasyonalize etmek için burada son derece derinlere indik. Dahili olarak hedef olarak kullandığımız iddialı bir zaman çizelgesi, aşağıdaki görüntüden kaç tane hareketli parça olduğunu görebilirsiniz! Bununla birlikte, Ar-Ge yazılımı geliştirme için zaman çizelgelerini tahmin etmek herkesin bildiği gibi zordur, bu nedenle aşağıdaki hiçbir şey nihai değildir - bu, tahminlerde en iyi çabamızdır.
 
-[Read more about our technical roadmap here](https://subquery.medium.com/subquery-releases-technical-roadmap-2a3a383c49b)
+[Teknik yol haritamız hakkında daha fazla bilgiyi buradan okuyun](https://subquery.medium.com/subquery-releases-technical-roadmap-2a3a383c49b)
 
-## Significant Development on the SubQuery Network
+## SubQuery Ağında Önemli Gelişme
 
-Building a new decentralised and tokenised network is a huge amount of work and it is unfortunately work that isn’t clearly visible externally for some time. That being said, we’ve had a top team of dedicated developers working on this for some time, slowly but surely working through the list of smart contract implementations to bring us closer to launching the first internal testnet by the end of the year.
+Yeni bir merkezi olmayan ve belirteçli ağ oluşturmak çok büyük bir iştir ve ne yazık ki bir süredir dışarıdan açıkça görülemeyen bir iştir. Bununla birlikte, bir süredir bunun üzerinde çalışan, akıllı sözleşme uygulamaları listesi üzerinde yavaş ama emin adımlarla çalışan, yıl sonuna kadar ilk dahili test ağını başlatmaya daha da yakınlaştırmak için çalışan üst düzey bir özel geliştirici ekibimiz vardı.
 
-# Core Product Development
+# Ürün Geliştirme
 
-## Moonriver EVM Support
+## Moonbeam EVM Desteği
 
-This is a significant milestone for us and a huge partnership with Moonbeam. Currently, there is no open-source tool which allows developers to flexibly collect and query data across both Ethereum and Polkadot/Kusama. This limitation can cause dApps solutions within Moonriver to be siloed into the smart contract layer and thereby limit their potential to consumers across both thriving networks.
+Bu bizim için önemli bir kilometre taşı ve Moonbeam ile büyük bir ortaklık. Şu anda, geliştiricilerin hem Ethereum hem de Polkadot/Kusama'da esnek bir şekilde veri toplamasına ve sorgulamasına olanak tanıyan açık kaynaklı bir araç bulunmamaktadır. Bu sınırlama, Moonriver içindeki dApps çözümlerinin akıllı sözleşme katmanına yerleştirilmesine ve böylece potansiyellerini her iki gelişen ağdaki tüketicilerle sınırlandırmasına neden olabilir.
 
-This partnership with Moonbeam brings a complete and unified data indexing solution for all blockchain data within Moonriver and will greatly benefit Moonriver’s growing application ecosystem. With SubQuery’s innovation, one tool can now query and filter EVM logs and transactions in addition to Substrate data sources.
+Moonbeam ile olan bu ortaklık, Moonriver içindeki tüm blok zinciri verileri için eksiksiz ve birleşik bir veri indeksleme çözümü getiriyor ve Moonriver'ın büyüyen uygulama ekosistemine büyük fayda sağlayacak. SubQuery'nin yeniliği ile artık bir araç, Substrate veri kaynaklarına ek olarak EVM günlüklerini ve işlemlerini sorgulayabilir ve filtreleyebilir.
 
-[Read more about our Moonriver EVM support here](https://subquery.medium.com/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff)
+[Moonriver EVM desteğimiz hakkında daha fazla bilgiyi buradan okuyun](https://subquery.medium.com/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff)
 
-# Community
+# Topluluk
 
-## The Spartan Programme
+## Spartalı Programı
 
-In August, SubQuery launched its Ambassador programme to find community leaders passionate about Polkadot and SubQuery. Surprisingly we were completely overwhelmed by thousands and thousands of applications, and our initial plans to manually onboard applicants has become challenging. After consultation with our existing Ambassadors we have designed a new, and transparent method to level up in our Discord community and potentially become an Ambassador.
+SubQuery Büyükelçi programımız, Polkadot ve SubQuery'e tutkuyla yanaşan topluluk liderlerini bulmayı amaçlıyor. Son birkaç ayda yüzlerce ve binlerce başvuru karşısında tamamen bunaldık ve başvuru sahiplerini manuel olarak yerleştirmeye yönelik ilk planlarımız zorlu hale geldi. Mevcut Elçilerimizle görüştükten sonra, Discord topluluğumuzda seviye atlamak ve potansiyel olarak Elçi olmak için yeni ve şeffaf bir yöntem tasarladık.
 
-The Spartan programme exists within our Discord community, and it is designed to complement our established ambassador programme with another tier or contributors. Aspiring members can complete monthly tasks and competitions to become a Spartan. The Spartans who then rise to the top of their class will be nominated by our existing Ambassadors to join their ranks.
+Spartan programı, Discord topluluğumuzda mevcuttur ve yerleşik büyükelçi programımızı başka bir katman veya katkıda bulunanlarla tamamlamak üzere tasarlanmıştır. Kalkınan üyeler, Spartalı olmak için aylık görevleri ve yarışmaları tamamlayabilir. Daha sonra sınıflarının zirvesine yükselen Spartanlar, mevcut SubQuery Elçileri tarafından saflarına katılmaları için tavsiye edilecek.
 
-To find out more about our Spartan programme and participate in our November competition please  [join our Discord](https://discord.com/invite/subquery).
+Spartan programımız hakkında daha fazla bilgi edinmek ve Kasım yarışmamıza katılmak için lütfen [Discordumuza katılın](https://discord.com/invite/subquery).
 
-[Read more about our Spartan programme here](https://subquery.medium.com/subquerys-new-spartan-programme-cf6c13653c6f)
+[Spartan programımız hakkında daha fazla bilgiyi buradan okuyun](https://subquery.medium.com/subquerys-new-spartan-programme-cf6c13653c6f)
 
-## SubQuery Academy
+## SubQuery Akademisi
 
-Onboarding new developers and teaching them the skills they need to build the dApps of tomorrow is incredibly important to the success of our community.
+Bu nedenle, yeni geliştiricileri işe almak ve onlara yarının dApp'lerini oluşturmak için ihtiyaç duydukları becerileri öğretmek, topluluğumuzun başarısı için inanılmaz derecede önemlidir.
 
 The Academy will be a weekly series of 6 modules with several 5 to 10 minute lessons which are delivered by a recorded video. The video content is accompanied by written tutorials, slides, lab workbooks, and links to the finished GitHub code repository.
 
