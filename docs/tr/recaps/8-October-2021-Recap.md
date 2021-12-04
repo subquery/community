@@ -48,25 +48,25 @@ Spartan programımız hakkında daha fazla bilgi edinmek ve Kasım yarışmamız
 
 Bu nedenle, yeni geliştiricileri işe almak ve onlara yarının dApp'lerini oluşturmak için ihtiyaç duydukları becerileri öğretmek, topluluğumuzun başarısı için inanılmaz derecede önemlidir.
 
-The Academy will be a weekly series of 6 modules with several 5 to 10 minute lessons which are delivered by a recorded video. The video content is accompanied by written tutorials, slides, lab workbooks, and links to the finished GitHub code repository.
+Akademi, kaydedilmiş bir video ile verilen birkaç 5 ila 10 dakikalık derslerden oluşan haftalık 6 modülden oluşan bir seri olacaktır. Video içeriğine yazılı öğreticiler, slaytlar, Lab çalışma kitapları ve bitmiş GitHub kod deposuna bağlantılar eşlik eder.
 
-Our Academy aims to take an aspiring blockchain developer from beginner to advanced and it is 100% free and accessible online. We have had over 1,200 enrolments for our first hero course since its launch two weeks ago and we are grateful for the passionate community that we have with us.
+Bu programın içeriği, başlangıçtan ileri seviyeye gelecek vadeden bir blok zinciri geliştiricisi alacak ve %100 ücretsiz ve çevrimiçi olarak erişilebilir kılacak. İki hafta önce başlamasından bu yana ilk kahraman kursumuz için 1.200'ün üzerinde kayıt aldık ve bizimle olan tutkulu topluluğa minnettarız.
 
-[Read more about SubQuery’s Academy here](https://subquery.medium.com/subquery-launches-the-subquery-academy-9505dc66a01)
+[SubQuery Akademisi hakkında daha fazla bilgiyi buradan okuyun](https://subquery.medium.com/subquery-launches-the-subquery-academy-9505dc66a01)
 
-## Community Call
+## Topluluk aramaları
 
-We held our first-ever community call on October 28th to share our roadmap and the latest community updates. It was great to share with our community the things they had been asking for a long time in a more personal way. We appreciate all those who came to the call and we plan on hosting these calls more regularly. It would have been the first time for a lot of you to hear from our new community manager Sally as well who joined us in early October.
+Yol haritamızı ve en son topluluk güncellemelerini paylaşmak için 28 Ekim'de ilk topluluk çağrımızı gerçekleştirdik. Uzun zamandır sordukları şeyleri topluluğumuzla daha kişisel bir şekilde paylaşmak harikaydı. Çağrıya gelen herkese teşekkür ederiz ve bu çağrıları daha düzenli olarak düzenlemeyi planlıyoruz. Birçoğunuz için, Ekim ayının başlarında bize katılan yeni topluluk yöneticimiz Sally'den ilk kez haber almış olurdunuz.
 
-[Watch the October session recording here](https://www.crowdcast.io/e/subquery-sessions-october)
+[Ekim seans kaydını buradan izleyin](https://www.crowdcast.io/e/subquery-sessions-october)
 
-# Other things you might have missed
+# Kaçırmış olabileceğiniz diğer şeyler
 
--   We’ve partnered with Acala to provide the  [largest pool of prizes for the Encode Club Polkadot Hackathons](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e).
--   [SubQuery helps Khala Build their New ERC20 Chain Bridge](https://subquery.medium.com/subquery-helps-khala-build-their-new-erc20-chain-bridge-c3aa0e1e6a89)
+-   [Encode Club Polkadot Hackathons için en büyük ödül havuzunu sağlamak için](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e) Acala ile ortaklık kurduk.
+-   [SubQuery, Khala'nın Yeni ERC20 Zincir Köprülerini Oluşturmasına yardımcı oluyor](https://subquery.medium.com/subquery-helps-khala-build-their-new-erc20-chain-bridge-c3aa0e1e6a89)
 
-If you would like to learn more you can view all projects easily via our Explorer here.
+Daha fazla bilgi edinmek isterseniz, tüm projeleri burada Gezginimiz aracılığıyla kolayca görüntüleyebilirsiniz.
 
-As always, please join our social channels to stay updated on our latest news and announcements. James, Sam, and the SubQuery Team
+Her zaman olduğu gibi, en son haber ve duyurularımızdan haberdar olmak için lütfen sosyal kanallarımıza katılın. James, Sam, and the SubQuery Team
 
-[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://www.linkedin.com/company/subquery)  |  [LinkedIn](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)  |  YouTube](https://linktr.ee/subquerynetwork)
