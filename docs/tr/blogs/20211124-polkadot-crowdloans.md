@@ -12,7 +12,7 @@ Bugün, her bir katkının arkasındaki verilere dalarak ilk müzayedede neler o
 
 ![](https://miro.medium.com/max/2400/0*Pcp3KJvC5eyP2KQ3)
 
-Firstly, from the launch of the first crowdloan to the close of the first auction (a little over 13 days), over 87.5 million DOT was contributed across all crowdloans by just under 68,000 addresses. Essentially 68,000 addresses worked together over 187,000 contributions to raise and commit over US$3.54 billion in 2 weeks. That’s a phenomenal amount by any standard, and a huge indication of how committed individuals (and entities) are to locking up their DOT for up to 2 years to support their favourite networks. The committed capital equates to almost 10% of Polkadot’s entire circulating supply.
+İlk olarak, ilk kitle kredisinin lansmanından ilk müzayedenin kapanışına kadar (13 günden biraz fazla), tüm kitle kredilerinde 68.000'den az adresle 87.5 milyondan fazla DOT katkıda bulunuldu. Temelde 68.000 adres, 2 haftada 3,54 milyar ABD dolarının üzerinde para toplamak ve taahhüt etmek için 187.000'den fazla katkıyla birlikte çalıştı. Bu, herhangi bir standarda göre olağanüstü bir miktardır ve en sevdikleri ağları desteklemek için DOT'larını 2 yıla kadar kilitlemeye kararlı bireylerin (ve kuruluşların) büyük bir göstergesidir. Taahhüt edilen sermaye, Polkadot'un tüm dolaşımdaki arzının neredeyse %10'una eşittir.
 
 ![](https://miro.medium.com/max/2400/0*-ovBJnjxAKfeB81Y)
 
