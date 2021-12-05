@@ -1,14 +1,14 @@
-# Inside The Polkadot Crowdloans
+# Polkadot Crowdloans'ın İçindekiler
 
 ![](https://miro.medium.com/max/2400/1*JvR4YsstF6OHG3mTr_1Seg.png)
 
-**SubQuery Digs Into The Parachain Auction Data**
+**SubQuery, Parachain Açık Artırma Verilerini İnceliyor**
 
-A huge milestone has just been achieved for Polkadot, the completion of the first round of the parachain auctions. Over the past weeks we’ve observed a heated fight for the Polkadot crown, the first parachain slot, between Moonbeam and Acala. After a tightly fought race the winner of the auction was revealed to be Acala, if you want to learn more about how winners are selected in this modern candlestick auction then take a look at  [Dan Reecer’s (from Acala) excellent summary](https://twitter.com/danreecer_/status/1364646604024786949).
+Parachain müzayedelerinin ilk turunu tamamlayan Polkadot için büyük bir dönüm noktasına ulaşıldı. Geçtiğimiz haftalarda, Moonbeam ve Acala arasında ilk parachain yuvası olan Polkadot tacı için hararetli bir mücadele gözlemledik. Sıkı bir mücadelenin ardından müzayedenin galibinin Acala olduğu ortaya çıktı, bu modern şamdan müzayedesinde kazananların nasıl seçildiği hakkında daha fazla bilgi edinmek istiyorsanız [Dan Reecer'ın (Acala'dan) mükemmel özetine bir göz atın](https://twitter.com/danreecer_/status/1364646604024786949).
 
-SubQuery is  Polkadot’s leading data indexing service, and over the past week we’ve been powering millions of daily requests to the majority of the crowdloan dashboards, contribution apps, and analytics websites. Teams like  [SubVis](https://www.subvis.io/),  [Parallel Finance](https://parallel.fi/), and  [DotMarketCap](https://dotmarketcap.com/)  rely on SubQuery to provide real time data on the crowdloans and other on-chain data directly to their websites and apps.
+SubQuery, Polkadot'un önde gelen veri indeksleme hizmetidir ve geçtiğimiz hafta boyunca kitle kredisi panolarının, katkı uygulamalarının ve analitik web sitelerinin çoğuna milyonlarca günlük istekte bulunuyoruz. [SubVis](https://www.subvis.io/), [Parallel Finance](https://parallel.fi/) ve [DotMarketCap](https://dotmarketcap.com/) gibi takımlar, crowdloanlar ve diğer zincir içi veriler hakkında gerçek zamanlı verileri doğrudan web sitelerine ve uygulamalarına sağlamak için SubQuery'e güvenir.
 
-Today we are going to explore a little more about what happened within the first auction by diving into the data behind every single contribution.
+Bugün, her bir katkının arkasındaki verilere dalarak ilk müzayedede neler olduğunu biraz daha keşfedeceğiz.
 
 ![](https://miro.medium.com/max/2400/0*Pcp3KJvC5eyP2KQ3)
 
