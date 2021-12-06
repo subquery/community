@@ -1,25 +1,25 @@
-# SubQuery Network - Summary
+# サブクエリネットワーク - サマリー
 
-> How does the SubQuery Network work? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
+> SubQuery Networkはどのように機能しますか? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
 
-Today we’re going to talk about how the SubQuery Network works at a high level.
+今日はSubQuery Networkがどのように高レベルで動作するかについてお話します。
 
-## Participants
+## 参加者
 
 
 ![](https://miro.medium.com/max/1400/1*9993cakplwupZC5tbUv3vA.png)
 
-Participants in the SubQuery Network
+SubQuery Networkの参加者
 
-There are three types of participants in the SubQuery Network:
+SubQuery Networkには、3つのタイプの参加者がいます。
 
--   **Consumers**: Consumers will make requests to the SubQuery Network for specific data and pay an advertised amount of SQT
--   **Indexers**: Indexers will host SubQuery Projects in their own infrastructure, running both the node and query service to index data and answer GraphQL requests.
--   **Delegators**: Delegators will participate in the network by supporting their favourite Indexers to earn rewards
+-   **コンシューマー**: SubQuery Networkに特定のデータを要求し、SQTの広告された金額を支払います。
+-   **インデックス**: インデックスは、独自のインフラストラクチャでSubQuery Projectsをホストします。 ノードとクエリサービスの両方を実行して、データのインデックスとGraphQLリクエストに答えます。
+-   **デリゲーター**:デリゲーターは、お気に入りのインデクサーをサポートして報酬を獲得することでネットワークに参加します。
 
-## Indexers, Consumers, and Queries
+## インデックス、コンシューマー、クエリ
 
-Let’s start with Indexers, Indexers do a lot of the hard work behind the scenes. The manage hardware, run infrastructure, monitor resources, and choose the right SubQuery projects to index
+インデクサーから始めましょう。インデクサーは裏で多くの努力をしています。 ハードウェアの管理、インフラストラクチャの実行、リソースの監視、インデックスする適切なSubQueryプロジェクトの選択。
 
 This takes time and money, but once they have this, Consumers may come and make requests. Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
 
