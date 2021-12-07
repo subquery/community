@@ -1,27 +1,27 @@
-# SubQuery Networkの紹介 — 分散型未来への次の大きなステップ
+# Introducing SubQuery Network — The Next Big Step Towards our Decentralised Future
 
-**SubQueryの使命は、分散型データにアクセスしやすくすることです。**
+**SubQuery’s mission is to make decentralised data more accessible.**
 
-私たちは、Polkadot と Substrate プロジェクトからのデータを変換し、整理します そして、開発者がさまざまなプロジェクト(ウォレット、エクスプローラ、カスタムチェーン、その他のdApp)に使用できるデータを提供します。
+We transform and organise data from Polkadot and Substrate projects, and then provide that data for developers to use for a wide array of projects (wallets, explorers, custom chains, or any other dApp).
 
-ブロックチェーンデータの中核的な弱点は、処理とクエリのパフォーマンスが非常に非効率であることです。 SubQueryはオープンソースのSDKを提供し、Indexerがどのようにブロックチェーンを横断すべきかについての指示を提供します。 どのようなデータを収集するのか、ユーザーにどのように表示するのか。
+Everyone knows that a core weakness of blockchain data is that the processing and query performance is extremely inefficient. SubQuery provides an open source SDK, which provides the instructions on how any Indexer should traverse the blockchain, what data to collect, and how it should be shown to users.
 
 ![](https://miro.medium.com/max/700/1*0l37MKpDk2ahHsqDUBxbjw.png)
 
-SubQueryプロジェクトを作成することは、常に無料です。 開発者はインフラを運用するのではなく、時間をかけて構築するべきです。 しかし、健全な分散型の未来には、回復力、速度、およびネットワークのパフォーマンスを向上させるために協力している複数の分散型データサービスプロバイダーが必要であると私たちは考えている。
+Creating a SubQuery project is, and always will be, free. Developers should spend time building, not running infrastructure. However we believe that a healthy decentralised future requires multiple distributed data service providers working together to improve resiliency, speed, and network performance.
 
-# SubQuery Networkの紹介:
+# Introducing The SubQuery Network:
 
-SubQueryネットワークは、SubQueryの単一障害点を確保し、できるだけ多くの参加者をプロセスに奨励するために、分散型でトークン化されたネットワークに移行するための取り組みです。
+The SubQuery Network is our effort to move towards a decentralised and tokenised network in order to ensure no single point of failure for SubQuery and to encourage as many participants in the process as possible.
 
-[本日、世界中で](https://static.subquery.network/whitepaper.pdf) を読むためのホワイトペーパーをリリースいたしました。
+[We’re releasing our white paper today for the world to read](https://static.subquery.network/whitepaper.pdf).
 
-SubQuery Networkの指針はシンプルさと柔軟性です。 参加者が簡単にネットワークに参加できるようにしています。 また、Substrate ベースのチェーンのニーズに合わせて SubQuery を適応させることもできます。
+The SubQuery Network’s guiding principles are simplicity and flexibility. We’re trying to make it easy for participants to get involved in the network, but also give developers control to adapt SubQuery to fit their needs for any Substrate based chain.
 
 ![](https://miro.medium.com/max/700/1*5E_eIJBTvHI7W24ib_Syvw.png)
 
-**SubQuery Networkは、Polkadot と Substrate エコシステム内の分散型アプリケーションの活気のあるエコシステムを強化することを目指しています。 一緒に乗ってくれないか?**
+**The SubQuery Network aims to power the vibrant ecosystem of decentralised applications in the Polkadot and Substrate ecosystem, we hope you join us for the ride.**
 
-[今すぐホワイトペーパーを読みなさい。](https://static.subquery.network/whitepaper.pdf)
+[Read the white paper now.](https://static.subquery.network/whitepaper.pdf)
 
-[Linktree](https://subquery.network/) | [Webサイト](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://subquery.medium.com/)
+[Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Medium](https://subquery.medium.com/)
