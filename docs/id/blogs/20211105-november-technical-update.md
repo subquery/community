@@ -56,14 +56,14 @@ Jika Anda memiliki pertanyaan tentang hal ini, pastikan Anda [memeriksa dokumen 
 
 [Kloning proyek contoh di GitHub](https://github.com/subquery/tutorials-moonriver-evm-starter)
 
-As you can see, creating a Moonriver or Moonbase Alpha project that indexes both Substrate and EVM data in a single project is extremely simple and largely similar. You can use SubQuery’s advanced scaffolding tools to speed up your dApp development and take advantage or richer indexing for you data to build more intuitive dApps. We can’t wait to see what you build!
+Seperti yang Anda lihat, membuat proyek Moonriver atau Moonbase Alpha yang mengindeks data Substrat dan EVM dalam satu proyek sangat sederhana dan sebagian besar serupa. Anda dapat menggunakan alat scaffolding canggih SubQuery untuk mempercepat pengembangan dApp Anda dan memanfaatkan atau pengindeksan yang lebih kaya untuk data Anda guna membangun dApps yang lebih intuitif. Kami tidak sabar untuk melihat apa yang Anda buat!
 
-## About SubQuery
+## Tentang SubQuery
 
-SubQuery is a data aggregation layer that operates between the layer-1 blockchains (such as Moonriver and Polkadot) and DApps. This service unlocks blockchain data and transforms it to a queryable state so that it can be used in intuitive applications. It allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+SubQuery adalah lapisan agregasi data yang beroperasi antara blockchain lapisan-1 (seperti Moonriver dan Polkadot) dan DApps. Layanan ini membuka kunci data blockchain dan mengubahnya menjadi status yang dapat ditanyakan sehingga dapat digunakan dalam aplikasi intuitif. Ini memungkinkan pengembang DApp untuk fokus pada kasus penggunaan inti dan front-end mereka, tanpa perlu membuang waktu untuk membangun backend khusus untuk pemrosesan data.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Github](https://github.com/subquery/subql) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
 
-## About Moonbeam
+## Tentang Moonbeam
 
-Moonbeam is an Ethereum-compatible smart contract platform on the Polkadot network that makes it easy to build natively interoperable applications. This Ethereum compatibility allows developers to deploy existing Solidity smart contracts and DApp frontends to Moonbeam with minimal changes. As a parachain on the Polkadot network, Moonbeam will benefit from the shared security of the Polkadot relay chain and integrations with other chains that are connected to Polkadot. Currently in active development by PureStake, Moonbeam is expected to reach MainNet by Q4 2021. Learn more: [https://moonbeam.network/](https://moonbeam.network/).
+Moonbeam adalah platform kontrak pintar yang kompatibel dengan Ethereum di jaringan Polkadot yang memudahkan untuk membangun aplikasi yang dapat dioperasikan secara native. Kompatibilitas Ethereum ini memungkinkan pengembang untuk menyebarkan kontrak pintar Solidity yang ada dan frontend DApp ke Moonbeam dengan sedikit perubahan. Sebagai parachain di jaringan Polkadot, Moonbeam akan mendapatkan keuntungan dari keamanan bersama dari rantai relay Polkadot dan integrasi dengan chain lain yang terhubung ke Polkadot. Saat ini dalam pengembangan aktif oleh PureStake, Moonbeam diharapkan mencapai MainNet pada Q4 2021. Pelajari lebih lanjut: [https://moonbeam.network/](https://moonbeam.network/).
