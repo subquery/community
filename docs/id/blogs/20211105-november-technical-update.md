@@ -32,29 +32,29 @@ Saat ini, tidak ada alat sumber terbuka yang memungkinkan pengembang untuk secar
 
 Kami telah membuat pemroses data yang dibuat khusus untuk bekerja dengan implementasi [Frontier](https://github.com/paritytech/frontier) Moonbeam. Hal ini memungkinkan Anda untuk mereferensikan sumber daya ABI tertentu yang digunakan oleh prosesor untuk mengurai argumen dan alamat kontrak pintar dari mana peristiwa itu berasal atau panggilan dilakukan. [Anda dapat membaca selengkapnya di sini](https://doc.subquery.network/create/moonbeam/#data-source-spec).
 
-SubQuery introduces more advanced filters than other indexers, allowing filtering of non-contract transactions, transaction senders, contracts and indexed log arguments. This allows developers to build a wide variety of projects that cater to their specific data needs.
+SubQuery memperkenalkan filter yang lebih canggih daripada pengindeks lainnya, memungkinkan pemfilteran transaksi non-kontrak, pengirim transaksi, kontrak, dan argumen log yang diindeks. Hal ini memungkinkan pengembang untuk membangun berbagai macam proyek yang memenuhi kebutuhan data spesifik mereka.
 
-## Step 2: Index Moonbeam Data
+## Langkah 2: Indeks Data Moonbeam
 
-Just like a normal SubQuery project, you use a mapping function to transform off chain data to the GraphQL entities that you define, the difference is that instead of a `SubstrateEvent` or `SubstrateExtrinsic`, your mapping function will receive a `MoonbeamCall` or `MoonbeamEvent` which are based on Ether's [TransactionResponse](https://docs.ethers.io/v5/api/providers/types/#providers-TransactionResponse) or [Log](https://docs.ethers.io/v5/api/providers/types/#providers-Log) type. [You can read more about these here](https://doc.subquery.network/create/moonbeam/#moonbeamcall).
+Sama seperti proyek SubQuery biasa, Anda menggunakan fungsi pemetaan untuk mengubah data rantai ke entitas GraphQL yang Anda tentukan, perbedaannya adalah alih-alih `SubstrateEvent` atau `SubstrateExtrinsic`, fungsi pemetaan Anda akan menerima `MoonbeamCall` atau `MoonbeamEvent` yang didasarkan pada jenis [TransactionResponse](https://docs.ethers.io/v5/api/providers/types/#providers-TransactionResponse) atau [Log](https://docs.ethers.io/v5/api/providers/types/#providers-Log) Eter. [Anda dapat membaca lebih lanjut tentang ini di sini](https://doc.subquery.network/create/moonbeam/#moonbeamcall).
 
-[Read the full documentation on this process here](https://doc.subquery.network/create/moonbeam/#moonbeamcall)
+[Baca dokumentasi lengkap tentang proses ini di sini](https://doc.subquery.network/create/moonbeam/#moonbeamcall)
 
-## Example Project
+## Contoh Proyek
 
-There is a complete example project that indexes eth `transfer` events and `approve` smart contract calls. The code for this example project is [here on GitHub](https://github.com/subquery/tutorials-moonriver-evm-starter) or accessible via the [live SubQuery project on SubQuery Explorer here](https://explorer.subquery.network/subquery/subquery/moonriver-evm-starter-project).
+Ada proyek contoh lengkap yang mengindeks peristiwa `transfer` dan `menyetujui` panggilan kontrak pintar. Kode untuk proyek contoh ini [di sini di GitHub](https://github.com/subquery/tutorials-moonriver-evm-starter) atau dapat diakses melalui [proyek SubQuery langsung di SubQuery Explorer di sini](https://explorer.subquery.network/subquery/subquery/moonriver-evm-starter-project).
 
-The bulk of the changes happen in the Manifest file (`project.yaml`). You can see below that we have [extended call filters](https://doc.subquery.network/create/moonbeam/#call-filters) to support either [function signature strings](https://docs.ethers.io/v5/api/utils/abi/fragments/#FunctionFragment) or the function sighash to filter the function called on the contract. For [event filters](https://doc.subquery.network/create/moonbeam/#event-filters), you can use topics filtering that follows the [Ethereum JSON-PRC log filters standard found here](https://docs.ethers.io/v5/concepts/events/). Note that SubQuery introduces more advanced filters than other indexers for Moonbeam EVM and these improvements should significantly benefit developers.
+Sebagian besar perubahan terjadi di file Manifes (`project.yaml`). Anda dapat melihat di bawah bahwa kami memiliki [filter panggilan yang diperluas](https://doc.subquery.network/create/moonbeam/#call-filters) untuk mendukung [string tanda tangan fungsi](https://docs.ethers.io/v5/api/utils/abi/fragments/#FunctionFragment) atau fungsi sighash untuk memfilter fungsi yang dipanggil pada kontrak. Untuk [filter peristiwa](https://doc.subquery.network/create/moonbeam/#event-filters), Anda dapat menggunakan pemfilteran topik yang mengikuti [standar filter log JSON-PRC Ethereum yang ditemukan di sini](https://docs.ethers.io/v5/concepts/events/). Perhatikan bahwa SubQuery memperkenalkan filter yang lebih canggih daripada pengindeks lain untuk Moonbeam EVM dan peningkatan ini akan sangat menguntungkan pengembang.
 
 ![](https://miro.medium.com/max/700/1*4JRHItnILfCie4FT6sYLEA.png)
 
-If you are familiar with how Substrate based SubQuery project are made, you’ll notice how similar the mapping functions are for the new Moonriver support. Each mapping function receives a `MoonbeamCall` or `MoonbeamEvent` and processes them just like any other SubQuery project.
+Jika Anda mengetahui bagaimana proyek SubQuery berbasis Substrat dibuat, Anda akan melihat betapa miripnya fungsi pemetaan untuk dukungan Moonriver yang baru. Setiap fungsi pemetaan menerima `MoonbeamCall` atau `MoonbeamEvent` dan memprosesnya sama seperti proyek SubQuery lainnya.
 
 ![](https://miro.medium.com/max/700/1*k4_uJYYCsTnPRRJ7avq2WA.png)
 
-If you have any questions about this make sure you [check our docs](https://doc.subquery.network/create/moonbeam) or reach out to us on our #technical-support channel in our [Discord community](https://discord.com/invite/subquery).
+Jika Anda memiliki pertanyaan tentang hal ini, pastikan Anda [memeriksa dokumen kami](https://doc.subquery.network/create/moonbeam) atau menghubungi kami di saluran #technical-support di [komunitas Discord](https://discord.com/invite/subquery) kami.
 
-[Clone the example project on GitHub](https://github.com/subquery/tutorials-moonriver-evm-starter)
+[Kloning proyek contoh di GitHub](https://github.com/subquery/tutorials-moonriver-evm-starter)
 
 As you can see, creating a Moonriver or Moonbase Alpha project that indexes both Substrate and EVM data in a single project is extremely simple and largely similar. You can use SubQuery’s advanced scaffolding tools to speed up your dApp development and take advantage or richer indexing for you data to build more intuitive dApps. We can’t wait to see what you build!
 
