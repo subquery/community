@@ -1,8 +1,8 @@
-# SubQuery’s New Spartan Programme
+# โปรแกรม Spartan ใหม่ของSubQuery
 
 ![](https://miro.medium.com/max/1400/1*k5cScGKMiC45i_N-em3x0Q.png)
 
-In August, [SubQuery launched its Ambassador programme](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) to find community leaders passionate about Polkadot and SubQuery. Our goal was to find self-starters that could spread the word about SubQuery in their local areas and provide support to new developers building amazing apps and services on Polkadot.
+[SubQuery ได้เริ่มต้นโปรแกรม Ambassador](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) เมื่อเดือนสิงหาคมที่ผ่านมาเพื่อเฟ้นหาผู้ที่มีความคลั่งไคล้ใน Polkadot และ SubQuery เพื่อมาเป็นผู้นำและขับเคลื่อนชุมชน Our goal was to find self-starters that could spread the word about SubQuery in their local areas and provide support to new developers building amazing apps and services on Polkadot.
 
 We did not expect what happened next!
 
@@ -16,7 +16,7 @@ In addition to the potential of becoming an Ambassador, Discord members with the
 
 To find out more about our Spartan programme and participate in our November competition please [join our Discord](https://discord.com/invite/subquery).
 
-# เกี่ยวกับ SubQuery
+# About SubQuery
 
 SubQuery is a data aggregation layer that operates between the layer-1 blockchains (such as Moonriver and Polkadot) and DApps. This service unlocks blockchain data and transforms it to a queryable state so that it can be used in intuitive applications. It allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
 
