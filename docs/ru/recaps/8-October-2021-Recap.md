@@ -4,7 +4,7 @@
 
 **Putting Our Plans Into Motion**
 
-Welcome to the latest monthly update from SubQuery, and what will be the first one for many of you based on the growth of our community.
+Добро пожаловать в последнее ежемесячное обновление от SubQuery, которое для многих из вас станет первым, учитывая рост нашего сообщества.
 
 From here on out we will try to structure every update around three key areas; community, core product development, and the SubQuery Network.
 
