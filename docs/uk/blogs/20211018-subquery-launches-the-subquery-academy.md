@@ -2,15 +2,15 @@
 
 ![](https://miro.medium.com/max/700/1*5zmCSCrmqL2gGE-BP_6rDQ.png)
 
-Helping developers build the applications of tomorrow
+Допоможемо розробникам створювати додатки майбутнього
 
-We are pleased to announce the launch of The SubQuery Academy. The Academy is designed to up-skill and empower developers in the SubQuery ecosystem by providing them with a modular programme. The content of this programme will take an aspiring blockchain developer from beginning to advanced , and is  [100% free and accessible online](https://doc.subquery.network/).
+Ми з радістю оголошуємо запуск Академії Subquery. Ми створили Академiю для того, щоб підвищити кваліфікацію розробників та розширити їх можливостi в екосистемi SubQuery шляхом надання їм модульної програми. Програма розроблена таким чином, що кожен програміст-початківець буде поступово рухатися від початкового рівня до самого просунутого. При цьому сама програма є [абсолютно безкоштовною, та її можна зручно проходити в онлайн форматi. ](https://doc.subquery.network/).
 
-Our first course is the  *SubQuery Hero Course*  and will be available from Friday 22 October 2021. The course will be released with a new module every week for six weeks based on the following structure:
+Вже в п'ятницю - 22 жовтня 2021 року буде доступний наш перший курс під назвою *SubQuery Hero Course *. Щотижня ми будемо додавати новий модуль до даного курсу. Курс триватиме 6 тижнів та буде мати наступну структуру:
 
--   Module 1 — Getting Started
--   Module 2 — SubQuery Basics
--   Module 3 — Relationships
+-   Модуль 1 - Початок роботи
+-   Модуль 2 - Основи SubQuery
+-   Модуль 3 - Взаємозв'язки
 -   Module 4 — Aggregation and Event Calls
 -   Module 5 — SubQuery Projects & SubQuery Explorer
 -   Module 6 — Tips & Tricks
