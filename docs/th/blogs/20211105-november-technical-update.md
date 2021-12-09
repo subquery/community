@@ -42,28 +42,28 @@ SubQuery ได้แนะนำตัวคัดกรอง (filters) ที
 
 ## ตัวอย่างโครงการ
 
-จะมีตัวอย่างโครงการแบบสมบูรณ์ที่ index eth `transfer` events และ `approve` การเรียกใช้ smart contract The code for this example project is [here on GitHub](https://github.com/subquery/tutorials-moonriver-evm-starter) or accessible via the [live SubQuery project on SubQuery Explorer here](https://explorer.subquery.network/subquery/subquery/moonriver-evm-starter-project).
+จะมีตัวอย่างโครงการแบบสมบูรณ์ที่ index eth `transfer` events และ `approve` การเรียกใช้ smart contract โค้ดสำหรับตัวอย่างโครงงานนี้จะอยู่ที่ [Github](https://github.com/subquery/tutorials-moonriver-evm-starter) หรือสามารถเข้าถึงได้ผ่าน [โครงงาน SubQuery บน SubQuery Explorer ที่นี่](https://explorer.subquery.network/subquery/subquery/moonriver-evm-starter-project)
 
-The bulk of the changes happen in the Manifest file (`project.yaml`). You can see below that we have [extended call filters](https://doc.subquery.network/create/moonbeam/#call-filters) to support either [function signature strings](https://docs.ethers.io/v5/api/utils/abi/fragments/#FunctionFragment) or the function sighash to filter the function called on the contract. For [event filters](https://doc.subquery.network/create/moonbeam/#event-filters), you can use topics filtering that follows the [Ethereum JSON-PRC log filters standard found here](https://docs.ethers.io/v5/concepts/events/). Note that SubQuery introduces more advanced filters than other indexers for Moonbeam EVM and these improvements should significantly benefit developers.
+การเปลี่ยนแปลงครั้งใหญ่เกิดขึ้นในไฟล์ Manifest (`project.yaml`) คุณสามารถสังเกตได้ว่าเรามี [การเรียกใช้ตัวกรอง (filter) เพิ่มเติม](https://doc.subquery.network/create/moonbeam/#call-filters) เพื่อรองรับ [signature ของฟังก์ชั่นในรูปแบบของ strings](https://docs.ethers.io/v5/api/utils/abi/fragments/#FunctionFragment) หรือ ฟังก์ชั่น sighas เพื่อกรองฟังก์ชั่นเมื่อมีการเรียกใช้ contract สำหรับ [event filters](https://doc.subquery.network/create/moonbeam/#event-filters) คุณสามารถใช้ตัวกรอง topics ที่ใช้งาน [มาตรฐาน Ethereum JSON-RPC log filters ที่สามารถพบเจอได้ที่นี่](https://docs.ethers.io/v5/concepts/events/) จะสังเกตุได้ว่า SubQuery ได้ใช้ตัวกรองที่ซับซ้อนกว่า indexer อื่นๆสำหรับ Moonbeam EVM และการพัฒนาครั้งนี้จะส่งผลดีเป็นอย่างมากแก่นักพัฒนา
 
 ![](https://miro.medium.com/max/700/1*4JRHItnILfCie4FT6sYLEA.png)
 
-If you are familiar with how Substrate based SubQuery project are made, you’ll notice how similar the mapping functions are for the new Moonriver support. Each mapping function receives a `MoonbeamCall` or `MoonbeamEvent` and processes them just like any other SubQuery project.
+หากคุณนั้นคุ้นชินกับการสร้างโปรเจค Subquery ผ่านระบบ Substrate based แล้ว คุณจะสังเกตความคล้างคลึงของฟังก์ชั่น mapping สำหรับการรองรับ Moonriver แบบใหม่ ในแต่ละฟังก์ชั่น mapping จะรับค่า `MoonBaemCall` หรือ `MoonbeamEvent` และจัดการค่าเหล่านี้เหมือนกับโครงงานอ่านๆใน SubQuery
 
 ![](https://miro.medium.com/max/700/1*k4_uJYYCsTnPRRJ7avq2WA.png)
 
-If you have any questions about this make sure you [check our docs](https://doc.subquery.network/create/moonbeam) or reach out to us on our #technical-support channel in our [Discord community](https://discord.com/invite/subquery).
+หากคุณมีคำถามเกี่ยวกับสิ่งนี้ อย่าลืม [เช็คเอกสารของเรา](https://doc.subquery.network/create/moonbeam) หรือติดต่อเราได้ที่แชแนล #technical-support ใน [ชุมชนดิสคอร์ดของเรา](https://discord.com/invite/subquery)
 
-[Clone the example project on GitHub](https://github.com/subquery/tutorials-moonriver-evm-starter)
+[Clone โค้ดตัวอย่างจาก GibHub](https://github.com/subquery/tutorials-moonriver-evm-starter)
 
-As you can see, creating a Moonriver or Moonbase Alpha project that indexes both Substrate and EVM data in a single project is extremely simple and largely similar. You can use SubQuery’s advanced scaffolding tools to speed up your dApp development and take advantage or richer indexing for you data to build more intuitive dApps. We can’t wait to see what you build!
+จะสังเกตได้ว่า เมื่อสร้างโครงงาน Moonriver หรือ Moonbase Alpha ที่ index ทั้งข้อมูล Substrate และ EVM ในโปรเจคเดียวนั้นมีความเรียบง่ายและคล้ายคลึงกันอย่างมาก คุณสามารถใช้เครื่องมือขั้นสูงของ SubQuery เพื่อเพิ่มความเร็วในการพัฒนา dApp ของคุณและใช้ประโยชน์จากการมี index ที่ดีขึ้นจากข้อมูลของคุณเพื่อสร้าง dApps ที่ดีไปกว่าเดิม เราอดใจที่จะเห็นสิ่งที่คุณสร้างไม่ไหวเลยหล่ะ!
 
-## About SubQuery
+## เกี่ยวกับ SubQuery
 
-SubQuery is a data aggregation layer that operates between the layer-1 blockchains (such as Moonriver and Polkadot) and DApps. This service unlocks blockchain data and transforms it to a queryable state so that it can be used in intuitive applications. It allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+SubQuery คือ เลเยอร์ในการรวบรวมข้อมูลที่ทำงานระหว่างเลเยอร์ 1 ของบล็อคเชน (เช่น Moonriver และ Polkadot) กับ DApps บริการนี้ปลดล็อกข้อมูลบล็อคเชนและแปลงเป็นสถานะที่สามารถสืบค้นได้ เพื่อให้สามารถใช้งานได้ในแอปพลิเคชันที่ใช้งานง่าย บริการนี้ช่วยให้นักพัฒนา DApp สามารถมุ่งเน้นไปที่กรณีการใช้งานหลักและ front-end โดยไม่ต้องเสียเวลาไปกับการสร้าง back-end สำหรับการประมวลผลข้อมูลเอง
 
-​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Github](https://github.com/subquery/subql) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Github](https://github.com/subquery/subql) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
 
-## About Moonbeam
+## เกี่ยวกับ Moonbeam
 
-Moonbeam is an Ethereum-compatible smart contract platform on the Polkadot network that makes it easy to build natively interoperable applications. This Ethereum compatibility allows developers to deploy existing Solidity smart contracts and DApp frontends to Moonbeam with minimal changes. As a parachain on the Polkadot network, Moonbeam will benefit from the shared security of the Polkadot relay chain and integrations with other chains that are connected to Polkadot. Currently in active development by PureStake, Moonbeam is expected to reach MainNet by Q4 2021. Learn more: [https://moonbeam.network/](https://moonbeam.network/).
+Moonbeam เป็นแพลตฟอร์ม smart contract ที่เข้ากันได้กับ Ethereum บนเครือข่าย Polkadot ที่ทำให้ง่ายต่อการสร้างแอปพลิเคชันที่ทำงานร่วมกันได้โดยกำเนิด ความเข้ากันได้ของ Ethereum นี้ช่วยให้นักพัฒนาสามารถปรับใช้ Solidity smart contract ที่มีอยู่และส่วน front-end ของ DApp กับ Moonbeam โดยมีการเปลี่ยนแปลงเพียงเล็กน้อยเท่านั้น ในฐานะที่เป็น Parachain บนเครือข่าย Polkadot Moonbeam จะได้รับประโยชน์จากการรักษาความปลอดภัยร่วมกันของ Polkadot relay chain และการผสานรวมกับเครือข่ายอื่นๆ ที่เชื่อมต่อกับ Polkadot Moonbeam คาดว่าจะทำการเปิดตัว Mainnet ภายในไตรมาสที่ 4 ปี 2021 ซึ่งขณะนี้อยู่ในระหว่างการพัฒนาอย่างแข็งขันโดย PureStake เรียนรู้เพิ่มเติม: [https://moonbeam.network/](https://moonbeam.network/)
