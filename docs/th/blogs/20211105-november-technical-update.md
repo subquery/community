@@ -1,12 +1,12 @@
-# SubQuery November Technical Update: EVM and Manifest Updates
+# อัพเดทระบบเทคนิคประจำเดือนพฤษจิกายนของ Subquery: การอัพเดท EVM และ Manifests
 
 ![](https://miro.medium.com/max/1400/1*q9GErDrvAyacOPm97krV6Q.png)
 
-**Read more for our technical deep dive into the latest release of SubQuery**
+**อ่านเพิ่มเติมเกี่ยวกับระบบทางเทคนิคโดยละเอียดใน release ล่าสุดของ SubQuery**
 
-# Support for External Chain Type Files in Project Manifest
+# สนับสนุนชนิดบล็อคเชนนอกสำหรับไฟล์ Manifest ของโปรเจค
 
-Today is the launch of [version 0.2.0](https://doc.subquery.network/create/manifest/) of our project manifest file (`project.yaml`). This new version provides developers with various improvements that have been requested by customers.
+วันนี้คือวันที่เราปล่อย [เวอร์ชั่น 0.2.0](https://doc.subquery.network/create/manifest/) ของรูปแบบไฟล์ manifest ของโปรเจค (`project.yaml`) โดนในเวอร์ชั่นนี้จะปรับปรุงหลายสิ่งที่ได้รับการร้องขอมาจากกลุ่มผู้ใช้งานและยังเป็นประโยชน์แก่เหล่าผู้พัฒนา
 
 Most importantly, you can now reference a chain type definition file that has all the custom types included when you’re indexing a custom substrate chain. This quickly allows you to connect a new SubQuery project to any substrate based chain, including all of Kusama’s parachains. This should be a standard chain type file that declares the specific types supported by this blockchain in either `.json` or `.yaml` format.
 
@@ -58,7 +58,7 @@ If you have any questions about this make sure you [check our docs](https://doc.
 
 As you can see, creating a Moonriver or Moonbase Alpha project that indexes both Substrate and EVM data in a single project is extremely simple and largely similar. You can use SubQuery’s advanced scaffolding tools to speed up your dApp development and take advantage or richer indexing for you data to build more intuitive dApps. We can’t wait to see what you build!
 
-## เกี่ยวกับ SubQuery
+## About SubQuery
 
 SubQuery is a data aggregation layer that operates between the layer-1 blockchains (such as Moonriver and Polkadot) and DApps. This service unlocks blockchain data and transforms it to a queryable state so that it can be used in intuitive applications. It allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
 
