@@ -1,4 +1,4 @@
-# October 2021 Recap
+# Итоги октября 2021
 
 ![](https://miro.medium.com/max/1400/1*Yf3LOc6onAZ-XRQLPyxAmQ.png)
 
