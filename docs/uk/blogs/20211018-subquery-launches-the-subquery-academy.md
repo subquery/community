@@ -1,4 +1,4 @@
-# SubQuery Launches The SubQuery Academy
+# SubQuery запускає Академію SubQuery
 
 ![](https://miro.medium.com/max/700/1*5zmCSCrmqL2gGE-BP_6rDQ.png)
 
