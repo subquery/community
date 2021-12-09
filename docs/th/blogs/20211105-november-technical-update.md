@@ -8,19 +8,19 @@
 
 วันนี้คือวันที่เราปล่อย [เวอร์ชั่น 0.2.0](https://doc.subquery.network/create/manifest/) ของรูปแบบไฟล์ manifest ของโปรเจค (`project.yaml`) โดนในเวอร์ชั่นนี้จะปรับปรุงหลายสิ่งที่ได้รับการร้องขอมาจากกลุ่มผู้ใช้งานและยังเป็นประโยชน์แก่เหล่าผู้พัฒนา
 
-Most importantly, you can now reference a chain type definition file that has all the custom types included when you’re indexing a custom substrate chain. This quickly allows you to connect a new SubQuery project to any substrate based chain, including all of Kusama’s parachains. This should be a standard chain type file that declares the specific types supported by this blockchain in either `.json` or `.yaml` format.
+สิ่งที่สำคัญทีสุดคือ คุณสามารถอ้างอิงชนิดของบล็อคเชนในรูปแบบของการนิยาม type ในไฟล์ที่มีการกำหนด type ทั้งหมด โดยไฟล์นี้จะถูกรวมไว้เมื่อคุณได้ทำการ index บนบล็อคเชนที่คุณ substrate เลือก สิ่งนี้จะทำให้คุณสามารถเชื่อมต่อโปรเจค SubQuery ไปหาโปรเจคบน substrate บล็อคเชนได้อย่างรวดเร็ว รวมทั้งบน Kusama parachain ระบบนี้จะเป็นมาตรฐานบนชนิดของบล็อคเชนที่จะประกาศ type เฉพาะ ที่จะถูกรองรับโดยโดยบล็อคเชนนี้ ในรูปแบบของ `.json` หรือ `.yaml`
 
-This solution allows you to avoid copying and managing chain type definitions in the manifest itself, and allows you to just clone the [published chain type files listed in repositories like PolkadotJS](https://github.com/polkadot-js/apps/tree/master/packages/apps-config/src/api/spec).
+ด้วยวิธีนี้ คุณจะไม่ต้องทำการคัดลองและจัดการชนิดของบล็อคเชนด้วยการประกาศชนิดของบล็อคเชนในไฟล์ manifest และยังทำให้คุณสามารถ clone [ไฟล์ของ type บนบล็อคเชน ที่สร้างไว้ใน repositories ดังเช่น PolkadotJS](https://github.com/polkadot-js/apps/tree/master/packages/apps-config/src/api/spec)
 
-[You can read about the new manifest file, including how you can migrate your projects to it, here in our updated docs.](https://doc.subquery.network/create/manifest/)
+[คณสามารถอ่านเกี่ยวกับไฟล์ manifest แบบใหม่ได้ รวมทั้งวิธีที่คุณสามารถโยกย้ายโปรเจคของคุณไปเป็นเวอร์ชั่นใหม่ ในเอกสารที่เราได้อัพเดทแล้ว](https://doc.subquery.network/create/manifest/)
 
-# Moonbeam EVM Support
+# รองรับ EVM ของ Moonbeam
 
-Last week we were pleased to [announce that we were working with Moonbeam to bring complete EVM and Substrate indexing support to Moonriver](https://subquery.medium.com/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff).
+สัปดาห์ที่แล้วเราได้ [ประกาศว่าเราจะทำงานร่วมกับ Moonbeam เพื่อที่จะนำระบบ EVM ที่สมบูรณ์ และการ index substrate เพื่อรองรับ Moonriver](https://subquery.medium.com/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff)
 
-Today we are following up on that announcement with all the developer resources that you need to get started.
+วันนี้เราจะมาตามเรื่องของประกาศดังกล่าวพร้อมกับทรัพยากรผู้พัฒนาที่คุณต้องใช้เพื่อที่จะเริ่มต้น
 
-Currently, there is no open-source tool which allows developers to flexibly collect and query data across both Ethereum and Polkadot/Kusama. This limitation can cause dApps solutions within Moonriver to be siloed into the smart contract layer and thereby limit their potential to consumers across both thriving networks. This partnership with Moonbeam brings a complete and unified data indexing solution for all blockchain data within Moonriver and will greatly benefit Moonriver’s growing application ecosystem.
+ขณะนี้ ไม่มีเครื่องมีเปิด (open-source) ที่จะช่วยให้นักพัฒนาสามารถรวมรวมและดึงข้อมูลจากทั้ง Ethereum และ Polkadot/Kusama ได้อย่างยืดหยุ่น ด้วยข้อจำกัดนี้จะสามารถทำให้ dApps ภายใน Moonriver จะถูกรวมอยู่ภายในระดับของ smart contract และจะจำกัดศักยภาพของพวกเขาต่อผู้ใช้งานบนทั้งสองบล็อคเชน การร่วมงานกับ Moonbeam จะทำให้ระบบการทำ index ข้อมูลทั้งหมดบนบล็อคเชนของ Moonriver นั้นสมบูรณ์ และยังเป็นประโยชน์กับการเติบโตของแอพลิเคชั่นต่างๆบล Moonriver
 
 **SubQuery is going to be a guest on the next Moonbuilders Workshop on Wednesday December 1st,** [**register for it here**](https://www.crowdcast.io/e/moonbuilders-ws/10)**.**
 
