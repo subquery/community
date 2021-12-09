@@ -14,7 +14,7 @@
 
 На прошлой неделе на созвоне сообщества мы рассказали о наших планах на будущее. Мы с нетерпением ждем, как следующий этап эволюции SubQuery принесет еще больше пользы экосистеме Polkadot и предоставит нашему сообществу больше возможностей для участия в нашем росте.
 
-Мы очень углубились в эту тему, чтобы обеспечить прозрачность для сообщества и рационализировать предстоящую работу. It’s an ambitious timeline that we are internally using as a target, you can see how many moving pieces there are from the image below! Тем не менее, оценка сроков R&D разработки программного обеспечения, как известно, сложна, поэтому ничто из нижеперечисленного не является окончательным - это лишь наши лучшие попытки оценки.
+Мы очень углубились в эту тему, чтобы обеспечить прозрачность для сообщества и рационализировать предстоящую работу. На этом амбициозном таймлайне, который мы используем в качестве цели, вы можете видеть, как сильно мы продвинулись вперед! Тем не менее, оценка сроков R&D разработки программного обеспечения, как известно, сложна, поэтому ничто из нижеперечисленного не является окончательным - это лишь наши лучшие попытки оценки.
 
 [Прочитать подробнее о нашей технической дорожной карте можно здесь](https://subquery.medium.com/subquery-releases-technical-roadmap-2a3a383c49b)
 
@@ -54,19 +54,19 @@
 
 [Подробнее об Академии SubQuery читайте здесь](https://subquery.medium.com/subquery-launches-the-subquery-academy-9505dc66a01)
 
-## Community Call
+## Созвон Сообщества
 
-We held our first-ever community call on October 28th to share our roadmap and the latest community updates. It was great to share with our community the things they had been asking for a long time in a more personal way. We appreciate all those who came to the call and we plan on hosting these calls more regularly. It would have been the first time for a lot of you to hear from our new community manager Sally as well who joined us in early October.
+28 октября мы провели первое в нашей истории собрание сообщества, чтобы поделиться нашей дорожной картой и последними обновлениями в сообществе. Было здорово поделиться с нашим сообществом тем, о чем они давно просили, в более личной форме. Мы благодарны всем, кто пришел на встречу, и планируем проводить такие встречи более регулярно. Для многих из вас это был первый раз, когда вы узнали о нашем новом менеджере сообщества Салли, которая присоединилась к нам в начале октября.
 
-[Watch the October session recording here](https://www.crowdcast.io/e/subquery-sessions-october)
+[Смотрите запись октябрьской сессии здесь](https://www.crowdcast.io/e/subquery-sessions-october)
 
-# Other things you might have missed
+# Другие вещи, которые вы могли пропустить
 
--   We’ve partnered with Acala to provide the  [largest pool of prizes for the Encode Club Polkadot Hackathons](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e).
--   [SubQuery helps Khala Build their New ERC20 Chain Bridge](https://subquery.medium.com/subquery-helps-khala-build-their-new-erc20-chain-bridge-c3aa0e1e6a89)
+-   Мы Мы заключили партнерство с компанией Acala, чтобы предоставить [самый большой пул призов для Encode Club Polkadot Hackathons](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e).
+-   [SubQuery помогает компании Khala построить новый ERC20 Chain мост](https://subquery.medium.com/subquery-helps-khala-build-their-new-erc20-chain-bridge-c3aa0e1e6a89)
 
-If you would like to learn more you can view all projects easily via our Explorer here.
+Если вы хотите узнать больше, вы можете легко просмотреть все проекты через наш проводник здесь.
 
-As always, please join our social channels to stay updated on our latest news and announcements. James, Sam, and the SubQuery Team
+Как всегда, присоединяйтесь к нашим социальным каналам, чтобы быть в курсе наших последних новостей и объявлений. Джеймс, Сэм и команда SubQuery
 
 [Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
