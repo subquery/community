@@ -239,7 +239,7 @@ export default defineUserConfig<DefaultThemeOptions>({
         ],
       },
       "/fr/": {
-        selectLanguageName: "Indonesian",
+        selectLanguageName: "French",
         sidebar: [
           {
             text: "Blogs",
