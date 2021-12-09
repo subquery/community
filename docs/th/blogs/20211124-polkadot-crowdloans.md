@@ -1,4 +1,4 @@
-# Inside The Polkadot Crowdloans
+# เจาะลึกการระดมทุนของ Polkadot
 
 ![](https://miro.medium.com/max/2400/1*JvR4YsstF6OHG3mTr_1Seg.png)
 
