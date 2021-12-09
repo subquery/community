@@ -1,4 +1,4 @@
-# Dans les coulisses des Crowdloans Polkadot
+# Inside The Polkadot Crowdloans (Part 1)
 
 ![](https://miro.medium.com/max/2400/1*JvR4YsstF6OHG3mTr_1Seg.png)
 
