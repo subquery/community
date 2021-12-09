@@ -1,4 +1,4 @@
-# Subquery запускає програму Спартанців
+# Subquery запускає програму Спартанців (The Spartan Programme)
 
 ![](https://miro.medium.com/max/1400/1*k5cScGKMiC45i_N-em3x0Q.png)
 
