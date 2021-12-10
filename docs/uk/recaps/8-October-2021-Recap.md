@@ -40,27 +40,27 @@ This partnership with Moonbeam brings a complete and unified data indexing solut
 
 Програма Спартанцiв існує в рамках нашої спільноти у Discord каналі. Вона була розроблена для того, щоб залучити до команди амбасадорів інших учасників, які хочуть принести користь проекту. Для того, щоб отримати звання Спартанець, усі бажаючі можуть прийняти участь у виконаннi щомісячних завдань та брати участь у змаганнях. Спартанці, які зможуть найкраще проявити себе, отримають рекомендації від дiючих амбасадорів, та зможуть до них приєднатися.
 
-Будь ласка, приєднуйтесь до нашої спільноти у Discord каналі, де ви зможете дізнатися більше про цю програму та взяти безпосередню участь у конкурсі, який проводиться у листопаді.
+Будь ласка, приєднуйтесь до нашої спільноти у Discord каналі, де ви зможете дізнатися більше про саму програму та взяти безпосередню участь у конкурсі, який проводиться у листопаді.
 
 [Перейдіть за цим посиланням, щоб дізнатися більше про програму Спартанцiв](https://subquery.medium.com/subquerys-new-spartan-programme-cf6c13653c6f)
 
-## SubQuery Academy
+## Академія SubQuery
 
-Onboarding new developers and teaching them the skills they need to build the dApps of tomorrow is incredibly important to the success of our community.
+Залучення нових розробників та навчання їх навичкам, необхідним для створення децентралізованих додаткiв (dApps) майбутнього, неймовірно важливі для успіху нашої спільноти.
 
-The Academy will be a weekly series of 6 modules with several 5 to 10 minute lessons which are delivered by a recorded video. The video content is accompanied by written tutorials, slides, lab workbooks, and links to the finished GitHub code repository.
+Академія буде включати в себе щотижневі випуски з 6 модулів. Кожен модуль буде містити декілька уроків у форматі відео, тривалістю 5-10 хвилин. До кожного відео додаються письмові посібники, слайди, лабораторні роботи та посилання на готовий репозиторій вихідного коду на GitHub.
 
-Our Academy aims to take an aspiring blockchain developer from beginner to advanced and it is 100% free and accessible online. We have had over 1,200 enrolments for our first hero course since its launch two weeks ago and we are grateful for the passionate community that we have with us.
+Програма розроблена таким чином, що кожен програміст-початківець буде поступово рухатися від початкового рівня до самого просунутого. При цьому сама програма є абсолютно безкоштовною, та її можна зручно проходити в онлайн форматi. Після запуску Hero Course два тижні тому на нього записалося понад 1.2000 учасників. Ми безмежно вдячні нашій спільноті за виявлену довіру.
 
-[Read more about SubQuery’s Academy here](https://subquery.medium.com/subquery-launches-the-subquery-academy-9505dc66a01)
+[Перейдіть за цим посиланням, щоб дізнатися бiльше про Академію SubQuery](https://subquery.medium.com/subquery-launches-the-subquery-academy-9505dc66a01)
 
 ## Community Call
 
-We held our first-ever community call on October 28th to share our roadmap and the latest community updates. It was great to share with our community the things they had been asking for a long time in a more personal way. We appreciate all those who came to the call and we plan on hosting these calls more regularly. It would have been the first time for a lot of you to hear from our new community manager Sally as well who joined us in early October.
+28 жовтня ми провели нашу першу зустріч із спільнотою у форматі дзвінка, щоб поділитися деталями нашої дорожньої карти та розповісти про останні новини нашої спільноти. Нам дуже сподобався цей формат зустрічі, де ми змогли відповісти на багато питань нашої спільноти, які її цікавили вже довгий час. Ми дякуємо всім, хто зміг приєднатися до цієї зустрічі. Ми плануємо проводити зустрічі такого формату на регулярнішій основі. Присутні також мали можливість познайомитися з нашим новим ком'юніті менеджером Sally, яка приєдналася до нашої команди на початку жовтня.
 
-[Watch the October session recording here](https://www.crowdcast.io/e/subquery-sessions-october)
+[У вас є можливість переглянути запис жовтневої сесії за цим посиланням](https://www.crowdcast.io/e/subquery-sessions-october)
 
-# Other things you might have missed
+# Інші події, які ви могли пропустити
 
 -   We’ve partnered with Acala to provide the  [largest pool of prizes for the Encode Club Polkadot Hackathons](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e).
 -   [SubQuery helps Khala Build their New ERC20 Chain Bridge](https://subquery.medium.com/subquery-helps-khala-build-their-new-erc20-chain-bridge-c3aa0e1e6a89)
