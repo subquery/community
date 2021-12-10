@@ -1,6 +1,6 @@
-# SubQuery Partners with OneBlock+ To Educate Blockchain Developers in China
+# SubQuery заключает партнертсво с OneBlock + для обучения блокчейн-разработчиков в Китае
 
-![](https://miro.medium.com/max/700/1*c1X5h-MEHHwjeqczDKvvCQ.png) SubQuery is proud to announce our partnership with OneBlock+ to promote the SubQuery Academy’s  _Hero Course_  in China. One Block+ developed the world’s first substrate developers course with engineers from Parity Asia and are recognised as leaders in blockchain education within China and around the world.
+![](https://miro.medium.com/max/700/1*c1X5h-MEHHwjeqczDKvvCQ.png) SubQuery с гордостью объявляет о нашем партнерстве с OneBlock + для продвижения _ "Курса Героев" _ Академии SubQuery в Китае. One Block+ developed the world’s first substrate developers course with engineers from Parity Asia and are recognised as leaders in blockchain education within China and around the world.
 
 Sam Zou, the CEO and Founder of SubQuery commented,  _“OneBlock+ is well-placed to help SubQuery in its vision to empower developers around the world as they are stewards of the largest blockchain developer community in China. We look forward to engaging with the OneBlock+ team and motivated Chinese Substrate developers to build leading dApps that showcase our vision of a Web3 future”_
 
