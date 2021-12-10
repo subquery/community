@@ -34,15 +34,15 @@ This partnership with Moonbeam brings a complete and unified data indexing solut
 
 # Community
 
-## The Spartan Programme
+## Програма Спартанців (The Spartan Programme)
 
-In August, SubQuery launched its Ambassador programme to find community leaders passionate about Polkadot and SubQuery. Surprisingly we were completely overwhelmed by thousands and thousands of applications, and our initial plans to manually onboard applicants has become challenging. After consultation with our existing Ambassadors we have designed a new, and transparent method to level up in our Discord community and potentially become an Ambassador.
+У серпні проект Subquery запустив програму Амбассадорiв, метою якої було знайти та об'єднати лідерів спільноти, по-справжньому захоплених баченням Polkadot та Subquery. Ми отримали тисячі заявок від кандидатів до амбасадорів, і ми просто не змогли вручну впоратися з таким великим напливом учасників. Разом з нашими Амбасадорами ми розробили нову та абсолютно прозору програму, яка дозволить учасникам отримати більш високий ранг у спільноті Discord та надалі отримати звання Амбасадора.
 
-The Spartan programme exists within our Discord community, and it is designed to complement our established ambassador programme with another tier or contributors. Aspiring members can complete monthly tasks and competitions to become a Spartan. The Spartans who then rise to the top of their class will be nominated by our existing Ambassadors to join their ranks.
+Програма Спартанцiв існує в рамках нашої спільноти у Discord каналі. Вона була розроблена для того, щоб залучити до команди амбасадорів інших учасників, які хочуть принести користь проекту. Для того, щоб отримати звання Спартанець, усі бажаючі можуть прийняти участь у виконаннi щомісячних завдань та брати участь у змаганнях. Спартанці, які зможуть найкраще проявити себе, отримають рекомендації від дiючих амбасадорів, та зможуть до них приєднатися.
 
-To find out more about our Spartan programme and participate in our November competition please  [join our Discord](https://discord.com/invite/subquery).
+Будь ласка, приєднуйтесь до нашої спільноти у Discord каналі, де ви зможете дізнатися більше про цю програму та взяти безпосередню участь у конкурсі, який проводиться у листопаді.
 
-[Read more about our Spartan programme here](https://subquery.medium.com/subquerys-new-spartan-programme-cf6c13653c6f)
+[Перейдіть за цим посиланням, щоб дізнатися більше про програму Спартанцiв](https://subquery.medium.com/subquerys-new-spartan-programme-cf6c13653c6f)
 
 ## SubQuery Academy
 
