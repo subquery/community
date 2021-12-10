@@ -1,52 +1,52 @@
-# November 2021 Recap
+# Итоги Ноября 2021
 
-![](https://miro.medium.com/max/1400/1*qzKzZnWY2ao3tiffwwugXQ.png) **_This month it’s all about execution_**
+![](https://miro.medium.com/max/1400/1*qzKzZnWY2ao3tiffwwugXQ.png) **_ Этот месяц полон новостей _**
 
-Welcome to the latest monthly update from SubQuery, and one that is particularly full of all the exciting stuff happening around our community.
+Добро пожаловать в последнее ежемесячное обновление от SubQuery, которое состоит из всего самого интересного, что происходит в нашем сообществе.
 
-# SubQuery Network
+# Сеть Subquery
 
-## SubQuery to launch on Acala
+## Subquery для запуска Acala
 
-![](https://miro.medium.com/max/600/0*SJ1TWt1sGwUWqvuI.gif) At our community call, we finally announced that SubQuery and the SQT token will aim to be the first external application and token to launch with Acala.
+![](https://miro.medium.com/max/600/0*SJ1TWt1sGwUWqvuI.gif) На нашей телеконференции мы наконец объявили, что SubQuery и токен SQT будут стремиться стать первым внешним приложением и токеном, запускаемым с Acala.
 
-We considered a variety of options before electing to deepen its existing partnership with Acala by launching on its leading DeFi protocol built on Polkadot. The three main reasons that went into this decision to launch with Acala were community access, domain/technical excellence, and our existing robust relationship.
+Мы рассмотрели множество вариантов, прежде чем принять решение об углублении существующего партнерства с Acala, запустив его ведущий протокол DeFi, основанный на Polkadot. Три основные причины, по которым было принято решение о запуске вместе с Acala, - это доступ к сообществу, высокое качество домена/техническое совершенство и наши прочные отношения.
 
-James caught up with Acala’s Bette Chen for a wide-ranging interview on this decision and partnership, including the specifics on why Acala and SubQuery are a match made in heaven.
+Джеймс встретился с Бетт Чен из Acala, чтобы дать обширное интервью об этом решении и партнерстве, включая подробности того, почему Acala и SubQuery - это союз, заключенный на небесах.
 
-[Read more about this announcement here](https://blog.subquery.network/blogs/20211125-subquery-network-acala.html)
+[Подробнее об этом читайте здесь](https://blog.subquery.network/blogs/20211125-subquery-network-acala.html)
 
-## Significant Development on the SubQuery Network
+## Значимое развитие сети Subquery
 
-Even though we are busy working hard on the SubQuery Network, and still rushing ahead towards our test network launch in the first quarter of 2022. We’ve made great progress on our smart contracts and refining our token economic model. Expect to see us sharing a lot more about this soon.
+Несмотря на то, что мы напряженно работаем над сетью SubQuery и все еще стремимся к запуску нашей тестовой сети в первом квартале 2022 года. Мы добились больших успехов в разработке смарт-контрактов и усовершенствовании экономической модели токенов. Следите за новостями, скоро мы расскажем об этом гораздо больше.
 
-# Core Product Development
+# Разработка основного продукта
 
-## Scaling our Hosted Service
+## Масштабирование Хостинга
 
-SubQuery Projects has been a recipient of some explosive growth over the past month as  [thousands of academy participants](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html)  have created even more projects in our hosted service ([project.subquery.network](https://project.subquery.network/)) in the space of a few weeks.
+Количество проектов Subquery за последний месяц резко выросло, поскольку [ тысячи участников академии ](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html) создали еще больше проектов в нашем хостинговом сервисе ([ project.subquery.network ](https://project.subquery.network/)) в течение нескольких недель.
 
-We’ve crossed a milestone of over 2,000 projects deployed to our hosted service, and as a result, it’s been a priority to scale our hosted service. We now offer our enterprise customers dedicated resources to improve performance and reliability.
+Мы преодолели рубеж в более чем 2000 проектов, развернутых на нашем хостинге, и в результате его масштабирование стало приоритетной задачей. Теперь мы предлагаем нашим корпоративным клиентам специальные ресурсы для повышения производительности и надежности.
 
-If you would like to upgrade your SubQuery project to receive dedicated resourcing, contact us at  [sales@subquery.network](mailto:sales@subquery.network).
+Если вы хотите обновить свой проект SubQuery, чтобы получить выделенные ресурсы, свяжитесь с нами по адресу [ sales@subquery.network ](mailto:sales@subquery.network).
 
-## Supporting External Chain Type Files in our Project Manifest
+## Поддержка файлов типа внешней цепочки в нашем манифесте проекта
 
-In November we launched  [**version 0.2.0**](https://doc.subquery.network/create/manifest/)  of our project manifest file (`project.yaml`). This new version provides developers with various improvements that have been requested by customers.
+В ноябре мы запустили [** версию 0.2.0 **](https://doc.subquery.network/create/manifest/) файла манифеста нашего проекта (` project.yaml `). Эта новая версия предоставляет разработчикам различные улучшения, запрошенные клиентами.
 
-Most importantly, you can now reference a chain type definition file that has all the custom types included when you’re indexing a custom substrate chain. This quickly allows you to connect a new SubQuery project to any substrate-based chain, including all of Kusama’s parachains.
+Что наиболее важно, теперь вы можете ссылаться на файл определения типа цепочки, в который включены все пользовательские типы, когда вы индексируете цепочку пользовательских подложек. Это позволяет быстро подключить новый проект SubQuery к любой цепочке на основе субстрата, включая все парачейны Кусамы.
 
-[You can read more about this new feature here](https://blog.subquery.network/blogs/20211105-november-technical-update.html#support-for-external-chain-type-files-in-project-manifest).
+[ Подробнее об этой новой функции можно прочитать здесь ](https://blog.subquery.network/blogs/20211105-november-technical-update.html#support-for-external-chain-type-files-in-project-manifest).
 
-## Moonriver EVM Support
+## Поддержка Moonriver EVM
 
 ![](https://miro.medium.com/max/600/0*B27QVtvcR6nXA9ff.gif)
 
-As previously announced we have implemented support for the Moonbeam and Moonriver networks in SubQuery. In November we followed up with all the developer resources that you need to get started.  [You can read the instructions here](https://blog.subquery.network/blogs/20211105-november-technical-update.html#moonbeam-evm-support).
+Как было объявлено ранее, мы реализовали поддержку сетей Moonbeam и Moonriver в SubQuery. В ноябре мы предоставили все ресурсы для разработчиков, необходимые для начала работы.  [ Вы можете прочитать инструкции здесь ](https://blog.subquery.network/blogs/20211105-november-technical-update.html#moonbeam-evm-support).
 
-Additionally, Scott was able to present this entire workflow to the  [Moonbuilders workshop](https://www.crowdcast.io/e/moonbuilders-ws/10)  for everyone to watch. Perfect timing for the lead up to the Gitcoin Grants that we are sponsoring (more on that below).
+Вдобавок Скотт смог представить весь этот рабочий процесс на [ семинаре Moonbuilders ](https://www.crowdcast.io/e/moonbuilders-ws/10), чтобы все могли посмотреть. Идеальное время для подготовки к спонсируемым нами грантам Gitcoin (подробнее об этом ниже).
 
-# Community
+# Сообщество
 
 ## Gitcoin Hackathon
 
