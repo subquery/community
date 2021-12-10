@@ -1,10 +1,10 @@
-# October 2021 Recap
+# Жовтень 2021: Основні Події
 
 ![](https://miro.medium.com/max/1400/1*Yf3LOc6onAZ-XRQLPyxAmQ.png)
 
-**Putting Our Plans Into Motion**
+**Втілюємо у життя наші плани**
 
-Welcome to the latest monthly update from SubQuery, and what will be the first one for many of you based on the growth of our community.
+Ласкаво просимо до нашого щомісячного огляду останніх подій від проекту Subquery. Для багатьох із вас це буде перший огляд, тому що наше ком'юніті постійно зростає та розвивається.
 
 From here on out we will try to structure every update around three key areas; community, core product development, and the SubQuery Network.
 
@@ -32,7 +32,7 @@ This partnership with Moonbeam brings a complete and unified data indexing solut
 
 [Read more about our Moonriver EVM support here](https://subquery.medium.com/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff)
 
-# Community
+# Новини Спільноти
 
 ## Програма Спартанців (The Spartan Programme)
 
@@ -62,11 +62,11 @@ This partnership with Moonbeam brings a complete and unified data indexing solut
 
 # Інші події, які ви могли пропустити
 
--   We’ve partnered with Acala to provide the  [largest pool of prizes for the Encode Club Polkadot Hackathons](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e).
--   [SubQuery helps Khala Build their New ERC20 Chain Bridge](https://subquery.medium.com/subquery-helps-khala-build-their-new-erc20-chain-bridge-c3aa0e1e6a89)
+-   Ми розпочали співпрацю з Acala, щоб надати [ найбільший пул призів для Хакатонів Encode Club Polkadot ](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e).
+-   [SubQuery допомагає Khala створити новий міст ERC20](https://subquery.medium.com/subquery-helps-khala-build-their-new-erc20-chain-bridge-c3aa0e1e6a89)
 
-If you would like to learn more you can view all projects easily via our Explorer here.
+Щоб дізнатися більше новин, ознайомтесь з усіма проектами через наш Explorer за цим посиланням.
 
-As always, please join our social channels to stay updated on our latest news and announcements. James, Sam, and the SubQuery Team
+Підписуйтесь на наші соціальні мережі, щоб залишатися в курсі останніх новин та анонсів. James, Sam, та команда SubQuery
 
 [Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
