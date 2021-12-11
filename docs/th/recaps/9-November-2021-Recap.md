@@ -1,12 +1,12 @@
-# November 2021 Recap
+# บทสรุปของเดือนพฤศจิกายน 2021
 
-![](https://miro.medium.com/max/1400/1*qzKzZnWY2ao3tiffwwugXQ.png) **_This month it’s all about execution_**
+![](https://miro.medium.com/max/1400/1*qzKzZnWY2ao3tiffwwugXQ.png) **_ในเดือนนี้มีข้อมูลเกี่ยวกับการดำเนินงาน_**
 
-Welcome to the latest monthly update from SubQuery, and one that is particularly full of all the exciting stuff happening around our community.
+ยินดีต้อนรับเข้าสู่การอัปเดตรายเดือนล่าสุดจาก SubQuery มีการอัปเดตที่เต็มไปด้วยสิ่งที่น่าตื่นเต้นที่ได้เกิดขึ้นในชุมชนของเรา
 
-# SubQuery Network
+# เครือข่าย SubQuery
 
-## SubQuery to launch on Acala
+## SubQuery เปิดตัวบนเครือข่าย Acala
 
 ![](https://miro.medium.com/max/600/0*SJ1TWt1sGwUWqvuI.gif) At our community call, we finally announced that SubQuery and the SQT token will aim to be the first external application and token to launch with Acala.
 
@@ -46,7 +46,7 @@ As previously announced we have implemented support for the Moonbeam and Moonriv
 
 Additionally, Scott was able to present this entire workflow to the  [Moonbuilders workshop](https://www.crowdcast.io/e/moonbuilders-ws/10)  for everyone to watch. Perfect timing for the lead up to the Gitcoin Grants that we are sponsoring (more on that below).
 
-# Community
+# ชุมชน (Community)
 
 ## Gitcoin Hackathon
 
