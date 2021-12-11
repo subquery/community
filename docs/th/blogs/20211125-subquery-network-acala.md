@@ -1,10 +1,10 @@
-# The SubQuery Network to Launch on Acala, Decentralising Polkadot’s Leading Data Indexing Service
+# เครือข่าย SubQuery เปิดตัวบน Acala, ผู้ให้บริการจัดทำดัชนีข้อมูล (Data Indexing Service) แบบกระจายอำนาจชั้นนำของ Polkadot
 
 ![](https://miro.medium.com/max/2400/1*kj_-zZcjeYdYIZVy1atYOg.gif)
 
-SubQuery, the leading data indexing solution in Polkadot, is proud to announce that the launch of the SubQuery Network will be on the Acala parachain. SubQuery and the SQT token will also aim to be the first external application and token to launch with Acala.
+SubQuery เป็นผู้ให้บริการ การจัดทำดัชนีข้อมูลชั้นนำ บน Polkadot มีความภูมิใจที่จะประกาศว่าการเปิดตัวเครือข่าย SubQuery Network จะอยู่บน Acala Parachain SubQuery และโทเค็น SQT มีเป้าหมายที่จะเป็นแอปพลิเคชันภายนอก (external application) ตัวแรกและโทเค็นที่จะเปิดตัวด้วย Acala
 
-As the development of the SubQuery Network accelerates  ahead of our public incentivised network in early 2022 SubQuery needed to identify a host parachain. SubQuery considered a variety of options before electing to deepen its existing partnership with Acala by launching on its leading DeFi protocol built on Polkadot. The three main reasons that went into this decision to launch with Acala were community access, domain/technical excellence, and our existing robust relationship.
+ในขณะที่การพัฒนาเครือข่าย SubQuery  มุ่งไปข้างหน้าอย่างรวดเร็วเพื่อเป็นเครือข่ายสาธารณะที่น่าสนใจ ในต้นปี 2022 SubQuery จำเป็นต้องระบุ Parachain ของโฮสต์ SubQuery พิจารณาพันธมิตรที่มากมายจากนั้นจึงเลือก Acala ซึ่ง Acala เปิดตัวโปรโตคอล DeFi ชั้นนำที่สร้างขึ้นบน Polkadot The three main reasons that went into this decision to launch with Acala were community access, domain/technical excellence, and our existing robust relationship.
 
 A key factor for SubQuery’s decision was Acala’s upcoming EVM+ launch. SubQuery’s puts its community first, both developers building future SubQuery projects, and investors that want to be a part of the decentralised data revolution. By launching on an EVM compatible chain, SubQuery’s token generation event (TGE) will seamlessly allow participation by investors from the Ethereum ecosystem through the use of Metamask. With Acala’s EVM+ users can even link their Ethereum addresses with their Polkadot addresses, overcoming the need to manage multiple accounts.
 
@@ -20,9 +20,9 @@ Bette Chen, the Co-Founder of Acala explained; _“Acala will play the role of D
 
 ## เกี่ยวกับ Acala
 
-Acala is an Ethereum-compatible smart contract platform optimized for DeFi and scaling DApps to Polkadot. The blockchain has built-in DeFi protocols for application developers to leverage, including a decentralized stablecoin (Acala Dollar — aUSD), a trustless staking derivatives (liquid DOT — LDOT), and a decentralized exchange.
+Acala เป็นแพลตฟอร์ม smart contract ที่เข้ากันได้กับ Ethereum ซึ่งใช้งานด้าน DeFi และscaling DApps บน Polkadot บล็อกเชนมีโปรโตคอล DeFi ในตัวสำหรับนักพัฒนาแอปพลิเคชันเพื่อใช้ประโยชน์ ซึ่งรวมถึงเหรียญ Stablecoin แบบกระจายศูนย์ (Acala Dollar — aUSD) การ staking derivatives (liquid DOT — LDOT) และการแลกเปลี่ยนแบบกระจายอำนาจ หรือ decentralized exchange.
 
-[Linktree](https://linktr.ee/acalanetwork)  | [Discord](https://discord.gg/vdbFVCH)  | [Website](https://acala.network/)  | [Twitter](https://twitter.com/AcalaNetwork)  | [GitHub](https://github.com/AcalaNetwork/Acala)  | [Wiki](https://github.com/AcalaNetwork/Acala/wiki)  | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)  | [YouTube](http://youtube.com/c/acalanetwork)
+[Linktree](https://linktr.ee/acalanetwork)  | [ดิสคอร์ต](https://discord.gg/vdbFVCH)  | [เว็ปไซต์](https://acala.network/)  | [ทวิตเตอร์](https://twitter.com/AcalaNetwork)  | [GitHub](https://github.com/AcalaNetwork/Acala)  | [Wiki](https://github.com/AcalaNetwork/Acala/wiki)  | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)  | [ยูทูป](http://youtube.com/c/acalanetwork)
 
 ## เกี่ยวกับ SubQuery
 
