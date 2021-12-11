@@ -26,7 +26,7 @@ James ได้พูดคุยกับ Bette Chen ทีมของ Acala �
 
 โปรเจ็กต์ SubQuery มีการเติบโตอย่างรวดเร็วในช่วงเดือนที่ผ่านมาเนื่องจาก  [ผู้เข้าร่วม academy จำนวนหลายพันคน](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html) ได้สร้างโปรเจ็กต์เพิ่มเติมในบริการโฮสต์ของเรา หรือ hosted service  ([project.subquery.network](https://project.subquery.network/))  ในพื้นที่ไม่กี่สัปดาห์ที่ผ่านมา
 
-We’ve crossed a milestone of over 2,000 projects deployed to our hosted service, and as a result, it’s been a priority to scale our hosted service. We now offer our enterprise customers dedicated resources to improve performance and reliability.
+เราได้ก้าวข้าม milestone มีโปรเจ็กต์มากกว่า 2,000 ที่ได้ deployed กับบริการโฮสต์ของเรา (hosted service) และด้วยเหตุนี้ scale ของ hosted service จึงเป็นเรื่องสำคัญ We now offer our enterprise customers dedicated resources to improve performance and reliability.
 
 If you would like to upgrade your SubQuery project to receive dedicated resourcing, contact us at  [sales@subquery.network](mailto:sales@subquery.network).
 
