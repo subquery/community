@@ -18,7 +18,7 @@ Bette Chen, the Co-Founder of Acala explained; _“Acala will play the role of D
 
 ---
 
-## About Acala
+## เกี่ยวกับ Acala
 
 Acala is an Ethereum-compatible smart contract platform optimized for DeFi and scaling DApps to Polkadot. The blockchain has built-in DeFi protocols for application developers to leverage, including a decentralized stablecoin (Acala Dollar — aUSD), a trustless staking derivatives (liquid DOT — LDOT), and a decentralized exchange.
 
@@ -26,6 +26,6 @@ Acala is an Ethereum-compatible smart contract platform optimized for DeFi and s
 
 ## เกี่ยวกับ SubQuery
 
-[SubQuery](https://subquery.network/)  is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. This service unlocks blockchain data and transforms it to a queryable state so that it can be used in intuitive applications. It allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The upcoming SubQuery Network will decentralize and tokenize the ecosystem to allow everyone to participate in the web3 data revolution.
+[SubQuery](https://subquery.network/) คือการรวมข้อมูลที่กระจายอำนาจ การจัดทำดัชนี & การค้นหาเลเยอร์ระหว่างบล็อคเชนของ Layer-1 และแอปพลิเคชันที่กระจายอำนาจ การทำงานนี้จะปลดล็อกข้อมูลของบล็อคเชนและแปลงเป็นสถานะที่สามารถสืบค้นได้ เพื่อให้สามารถใช้ในแอปพลิเคชันที่ใช้งานง่าย สิ่งนี้จะทำให้นักพัฒนา DApp สามารถมุ่งเน้นไปที่การใช้งานหลักของแอพพลิเคชั่นและ front-end โดยไม่ต้องเสียเวลาในการสร้าง back-end ของตนเองเพื่อประมวลผลต่าง ๆ เครือข่าย SubQuery ที่กำลังจะมีขึ้น ในรูปแบบของระบบการกระจายอำนาจ (decentralize) และสร้างโทเค็นให้กับระบบนิเวศเพื่อให้ทุกคนมีส่วนร่วมในการเปลี่ยนแปลงข้อมูล web3 อย่างรวดเร็ว
 
-​​[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork)  |  [เว็ปไซต์](https://subquery.network/)  |  [ดิสคอร์ต](https://discord.com/invite/78zg8aBSMG)  |  [เทเลแกรม](https://t.me/subquerynetwork)  |  [ทวิตเตอร์](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [ยูทูป](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
