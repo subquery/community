@@ -22,23 +22,23 @@ James ได้พูดคุยกับ Bette Chen ทีมของ Acala �
 
 # การพัฒนาผลิตภัณฑ์หลัก (Core Product Development)
 
-## การบริการด้าน Scale Hosted
+## การบริการโฮสต์ ด้าน Scale
 
 โปรเจ็กต์ SubQuery มีการเติบโตอย่างรวดเร็วในช่วงเดือนที่ผ่านมาเนื่องจาก  [ผู้เข้าร่วม academy จำนวนหลายพันคน](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html) ได้สร้างโปรเจ็กต์เพิ่มเติมในบริการโฮสต์ของเรา หรือ hosted service  ([project.subquery.network](https://project.subquery.network/))  ในพื้นที่ไม่กี่สัปดาห์ที่ผ่านมา
 
-เราได้ก้าวข้าม milestone มีโปรเจ็กต์มากกว่า 2,000 ที่ได้ deployed กับบริการโฮสต์ของเรา (hosted service) และด้วยเหตุนี้ scale ของ hosted service จึงเป็นเรื่องสำคัญ We now offer our enterprise customers dedicated resources to improve performance and reliability.
+เราได้ก้าวข้าม milestone มีโปรเจ็กต์มากกว่า 2,000 ที่ได้ deployed กับบริการโฮสต์ของเรา (hosted service) และด้วยเหตุนี้ scale ของ hosted service จึงเป็นเรื่องสำคัญ ขณะนี้เรานำเสนอทรัพยากร (resource) สำหรับลูกค้าประเภท enterprise เพื่อปรับปรุงประสิทธิภาพและสร้างความน่าเชื่อถือ
 
-If you would like to upgrade your SubQuery project to receive dedicated resourcing, contact us at  [sales@subquery.network](mailto:sales@subquery.network).
+หากคุณต้องการอัปเกรดโปรเจ็กต์ SubQuery ของคุณเพื่อรับทรัพยากร (resource) โปรดติดต่อเราที่ [sales@subquery.network](mailto:sales@subquery.network).
 
-## Supporting External Chain Type Files in our Project Manifest
+## รองรับ External Chain Type Files ในโปรเจ็กต์ Manifest
 
-In November we launched  [**version 0.2.0**](https://doc.subquery.network/create/manifest/)  of our project manifest file (`project.yaml`). This new version provides developers with various improvements that have been requested by customers.
+ในเดือนพฤศจิกายน เราได้เปิดตัว  [**version 0.2.0**](https://doc.subquery.network/create/manifest/)  ของโปรเจ็กต์ manifest file (`project.yaml`) เวอร์ชันใหม่นี้ช่วยให้นักพัฒนามีการปรับปรุงต่างๆ ตามความต้องการของผู้ใช้บริการ
 
-Most importantly, you can now reference a chain type definition file that has all the custom types included when you’re indexing a custom substrate chain. This quickly allows you to connect a new SubQuery project to any substrate-based chain, including all of Kusama’s parachains.
+สิ่งสำคัญที่สุดคือตอนนี้ คุณสามารถอ้างอิง chain type definition file ที่มีประเภทแบบกำหนดเองทั้งหมดรวมอยู่ด้วยเมื่อคุณสร้างดัชนีบน substrate chain แบบกำหนดเอง วิธีนี้ช่วยให้คุณเชื่อมต่อโปรเจ็กต์ SubQuery ใหม่ๆกับ substrate-based chain ต่างๆได้อย่างรวดเร็ว รวมถึง parachains ของ Kusama ทั้งหมด
 
-[You can read more about this new feature here](https://blog.subquery.network/blogs/20211105-november-technical-update.html#support-for-external-chain-type-files-in-project-manifest).
+[คุณสามารถอ่านเพิ่มเติมเกี่ยวกับฟีเจอร์ใหม่นี้ได้ที่นี่](https://blog.subquery.network/blogs/20211105-november-technical-update.html#support-for-external-chain-type-files-in-project-manifest).
 
-## Moonriver EVM Support
+## การสนับสนุน EVM ของ Moonriver
 
 ![](https://miro.medium.com/max/600/0*B27QVtvcR6nXA9ff.gif)
 
