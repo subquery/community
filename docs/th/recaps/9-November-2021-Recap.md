@@ -1,6 +1,6 @@
 # บทสรุปของเดือนพฤศจิกายน 2021
 
-![](https://miro.medium.com/max/1400/1*qzKzZnWY2ao3tiffwwugXQ.png) **_ในเดือนนี้มีข้อมูลเกี่ยวกับการดำเนินงาน_**
+![](https://miro.medium.com/max/1400/1*qzKzZnWY2ao3tiffwwugXQ.png) **_ในเดือนนี้มีข้อมูลเกี่ยวกับการดำเนินงานต่างๆ ดังนี้_**
 
 ยินดีต้อนรับเข้าสู่การอัปเดตรายเดือนล่าสุดจาก SubQuery มีการอัปเดตที่เต็มไปด้วยสิ่งที่น่าตื่นเต้นที่ได้เกิดขึ้นในชุมชนของเรา
 
@@ -8,23 +8,23 @@
 
 ## SubQuery เปิดตัวบนเครือข่าย Acala
 
-![](https://miro.medium.com/max/600/0*SJ1TWt1sGwUWqvuI.gif) At our community call, we finally announced that SubQuery and the SQT token will aim to be the first external application and token to launch with Acala.
+![](https://miro.medium.com/max/600/0*SJ1TWt1sGwUWqvuI.gif) ในการพูดคุยของชุมชน เราได้ประกาศว่า SubQuery และโทเค็น SQT มีเป้าหมายที่จะเป็นแอปพลิเคชันภายนอกตัวแรก (external application) และโทเค็นจะเปิดตัวบนเครือข่าย Acala
 
-We considered a variety of options before electing to deepen its existing partnership with Acala by launching on its leading DeFi protocol built on Polkadot. The three main reasons that went into this decision to launch with Acala were community access, domain/technical excellence, and our existing robust relationship.
+SubQuery พิจารณาพันธมิตรที่มากมายจากนั้นจึงเลือก Acala ซึ่ง Acala เป็นโปรโตคอล DeFi ชั้นนำที่สร้างขึ้นบนเครือข่าย Polkadot เหตุผลหลักสามประการที่นำไปสู่การตัดสินใจเปิดตัวกับ Acala ได้แก่ การเข้าถึงของชุมชน หรือ community, โดเมน/ความโดดเด่นด้านเทคนิค และความสัมพันธ์ที่แน่นแฟ้นของเรา
 
-James caught up with Acala’s Bette Chen for a wide-ranging interview on this decision and partnership, including the specifics on why Acala and SubQuery are a match made in heaven.
+James ได้พูดคุยกับ Bette Chen ทีมของ Acala เกี่ยวกับการตัดสินใจและการเป็นพันธมิตร รวมถึงไปถึงสาเหตุที่ Acala และ SubQuery เป็นพันธมิตรที่ทำงานเข้ากันได้อย่างยอดเยี่ยม
 
-[Read more about this announcement here](https://blog.subquery.network/blogs/20211125-subquery-network-acala.html)
+[อ่านรายละเอียดเพิ่มเติมได้ที่นี่](https://blog.subquery.network/blogs/20211125-subquery-network-acala.html)
 
-## Significant Development on the SubQuery Network
+## การพัฒนาที่สำคัญในเครือข่าย SubQuery
 
-Even though we are busy working hard on the SubQuery Network, and still rushing ahead towards our test network launch in the first quarter of 2022. We’ve made great progress on our smart contracts and refining our token economic model. Expect to see us sharing a lot more about this soon.
+แม้ว่าเรากำลังยุ่งอยู่กับการทำงานอย่างหนักในเครือข่าย SubQuery และยังคงเร่งดำเนินการเพื่อเปิดตัวเครือข่ายทดสอบของเราในไตรมาสแรกของปี 2022 เรามีความคืบหน้าอย่างมาก เกี่ยวกับ smart contract และการสร้างโมเดลเศรษฐกิจของโทเค็น (token economic model) อย่างละเอียดรอบคอบ คาดว่าเร็ว ๆ นี้จะเห็นเราอธิบายรายละเอียดเกี่ยวกับเรื่องนี้มากขึ้น
 
-# Core Product Development
+# การพัฒนาผลิตภัณฑ์หลัก (Core Product Development)
 
-## Scaling our Hosted Service
+## การบริการด้าน Scale Hosted
 
-SubQuery Projects has been a recipient of some explosive growth over the past month as  [thousands of academy participants](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html)  have created even more projects in our hosted service ([project.subquery.network](https://project.subquery.network/)) in the space of a few weeks.
+โปรเจ็กต์ SubQuery มีการเติบโตอย่างรวดเร็วในช่วงเดือนที่ผ่านมาเนื่องจาก  [ผู้เข้าร่วม academy จำนวนหลายพันคน](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html) ได้สร้างโปรเจ็กต์เพิ่มเติมในบริการโฮสต์ของเรา หรือ hosted service  ([project.subquery.network](https://project.subquery.network/))  ในพื้นที่ไม่กี่สัปดาห์ที่ผ่านมา
 
 We’ve crossed a milestone of over 2,000 projects deployed to our hosted service, and as a result, it’s been a priority to scale our hosted service. We now offer our enterprise customers dedicated resources to improve performance and reliability.
 
