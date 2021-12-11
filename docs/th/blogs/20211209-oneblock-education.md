@@ -1,4 +1,4 @@
-# SubQuery Partners with OneBlock+ To Educate Blockchain Developers in China
+# SubQuery ร่วมมือกับ OneBlock+ เพื่อให้ความรู้แก่นักพัฒนา Blockchain ในประเทศจีน
 
 ![](https://miro.medium.com/max/700/1*c1X5h-MEHHwjeqczDKvvCQ.png) SubQuery is proud to announce our partnership with OneBlock+ to promote the SubQuery Academy’s  _Hero Course_  in China. One Block+ developed the world’s first substrate developers course with engineers from Parity Asia and are recognised as leaders in blockchain education within China and around the world.
 
@@ -24,8 +24,8 @@ OneBlock+ is the first and the largest blockchain developer community in China. 
 
 |  [Twitter](https://mobile.twitter.com/oneblock_)  |  [Medium](https://medium.com/@OneBlockplus?p=5a6193755f9b) |  [Discord](https://discord.gg/5aWx6Rch)  |  [Telegram](https://t.me/oneblock_dev)  |
 
-## เกี่ยวกับ SubQuery
+## About SubQuery
 
-[SubQuery](https://subquery.network/)  is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. โปรโตคอลจะแยกแยะความแตกต่างของข้อมูลบล็อกเชนด้วย SubQuery SDK ซึ่งทำให้นักพัฒนาสามารถโฟกัสไปที่การปรับใช้ผลิตภัณฑ์หลักของตนโดยไม่ต้องเสียแรงไปกับเทคโนโลยีหลังบ้าน (backend) โดยไม่จำเป็น
+[SubQuery](https://subquery.network/)  is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. The protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
