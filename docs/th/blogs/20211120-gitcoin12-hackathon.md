@@ -1,8 +1,8 @@
-# SubQuery Announces Gitcoin Hackathon
+# SubQuery ประกาศเปิดตัว Gitcoin Hackathon
 
 ![](https://miro.medium.com/max/1400/1*deQMrJlp2aJ5YVAGoFhO-Q.png)
 
-**The leading data indexer in Polkadot will participate in Gitcoin Grants Round 12**
+**ผู้ให้บริการจัดทำดัชนีข้อมูล(data indexer) ชั้นนำใน Polkadot เข้าร่วม Gitcoin Grants Round 12**
 
 Hot on the heels of the overwhelming success of the SubQuery Academy’s “Hero Course”, we are proud to announce that we will be providing our first hackathon opportunity for all developers via Gitcoin Grants Round 12 starting on December 1st.
 
@@ -22,14 +22,14 @@ As part of the GR 12 Hackathon, SubQuery will be running workshops at the beginn
 
 ---
 
-## About Gitcoin
+## เกี่ยวกับ Gitcoin
 
 [Gitcoin](http://www.gitcoin.co/)  is on a mission to build an internet that is open source, collaborative, and economically empowering. Gitcoin is creating community and infrastructure for Web 3 — a diverse range of tools, technologies, and networks that enable people to work for the open internet. By funding projects, building community, and making learning resources accessible, Gitcoin is teaming up to create the digital public infrastructure of tomorrow.
 
-[Discord](https://discord.gg/6PZUM3cFpz)  | [Website](http://www.gitcoin.co/)  |  [Twitter](https://twitter.com/gitcoin)  |  [GitHub](https://github.com/gitcoinco/)  |
+[ดิสคอร์ด](https://discord.gg/6PZUM3cFpz)  | [เว็ปไซต์](http://www.gitcoin.co/)  |  [ทวิตเตอร์](https://twitter.com/gitcoin)  |  [GitHub](https://github.com/gitcoinco/)  |
 
 ## เกี่ยวกับ SubQuery
 
-[SubQuery](https://subquery.network/)  is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. โปรโตคอลจะแยกแยะความแตกต่างของข้อมูลบล็อกเชนด้วย SubQuery SDK ซึ่งทำให้นักพัฒนาสามารถโฟกัสไปที่การปรับใช้ผลิตภัณฑ์หลักของตนโดยไม่ต้องเสียแรงไปกับเทคโนโลยีหลังบ้าน (backend) โดยไม่จำเป็น
+[SubQuery](https://subquery.network/) คือการรวมข้อมูลที่กระจายอำนาจ การจัดทำดัชนี & การค้นหาเลเยอร์ระหว่างบล็อคเชนของ Layer-1 และแอปพลิเคชันที่กระจายอำนาจ โปรโตคอล SubQuery จะจัดเรียงข้อมูลบล็อคเชนที่ไม่มีความเป็นระเบียบด้วย SDK ของ SubQuery ทำให้เหล่านักพัฒนาสามารถโฟกัสไปกับการปรับใช้ผลิตภัณฑ์หลักของตนเอง โดยไม่ต้องเสียแรงไปกับการใช้เทคโนโลยีหลังบ้าน (backend) โดยไม่จำเป็น
 
-​​[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork)  |  [เว็ปไซต์](https://subquery.network/)  |  [ดิสคอร์ด](https://discord.com/invite/78zg8aBSMG)  |  [เทเลแกรม](https://t.me/subquerynetwork)  |  [ทวิตเตอร์](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [ยูทูป](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
