@@ -18,11 +18,11 @@ SubQuery (ซับคิวรี่) เป็นบริการชั้�
 
 มีนักลงทุนให้ความสนใจอย่างล้นหลามในช่วงเริ่มการประมูลโดยมีการร่วมระดมทุนอย่างบ้ากระหน่ำ (นับตามจำนวน) ตั้งแต่ชั่วโมงแรก ๆ และยาวไปจนช่วงสุดท้ายก่อนจบการประมูล มีผู้เข้าร่วมการระดมทุนในวันแรกมากกว่า 34,000 คนและในช่วง 2 ชั่วโมงสุดท้ายก็ยังมีผู้ที่เข้าร่วมเพิ่มอีก 5,618 คน
 
-As you can see in the graph below, Moonbeam had by far the largest number of contributions throughout the auction, attracting almost 23,984 contributions from more than 21,333 more unique addresses than Acala.
+จากกราฟด้านล่าง จะเห็นว่า Moonbeam ได้รับการระดมทุนที่มากที่สุดของการประมูลครั้งนี้โดยมีกระดมทุนมากถึง 23,984 ครั้ง และมีผู้ใช้งานโดยเฉพาะมากกว่า Acala ถึง 21,333 ผู้ใช้งาน
 
 ![](https://miro.medium.com/max/2400/0*MSHfjnu7KmMvDmnY)
 
-Acala obviously came ahead as the winner, so how did this happen? The number of contributors and their contributions hides the fact that Acala’s contributors on average contributed far more than Moonbeam. As a result the total contributions in terms of value looked like the graph below where Acala were slightly ahead of Moonbeam throughout the auction.
+แต่แล้วสุดท้าย Acala กลับชนะการประมูลครั้งนี้ได้อย่างไร? The number of contributors and their contributions hides the fact that Acala’s contributors on average contributed far more than Moonbeam. As a result the total contributions in terms of value looked like the graph below where Acala were slightly ahead of Moonbeam throughout the auction.
 
 ![](https://miro.medium.com/max/2400/0*YbV-ReqSwfimUsbO)
 
