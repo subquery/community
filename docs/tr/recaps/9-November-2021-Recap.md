@@ -1,14 +1,14 @@
-# November 2021 Recap
+# Kasım 2021 Özeti
 
-![](https://miro.medium.com/max/1400/1*qzKzZnWY2ao3tiffwwugXQ.png) **_This month it’s all about execution_**
+![](https://miro.medium.com/max/1400/1*qzKzZnWY2ao3tiffwwugXQ.png) **_Bu ay her şey yürütmeyle ilgili_**
 
-Welcome to the latest monthly update from SubQuery, and one that is particularly full of all the exciting stuff happening around our community.
+SubQuery'nin en son aylık güncellemesine hoş geldiniz ve özellikle topluluğumuz çevresinde meydana gelen tüm heyecan verici şeylerle dolu.
 
 # SubQuery Network
 
-## SubQuery to launch on Acala
+## Acala'da başlatılacak SubQuery
 
-![](https://miro.medium.com/max/600/0*SJ1TWt1sGwUWqvuI.gif) At our community call, we finally announced that SubQuery and the SQT token will aim to be the first external application and token to launch with Acala.
+![](https://miro.medium.com/max/600/0*SJ1TWt1sGwUWqvuI.gif) Topluluk çağrımızda, sonunda SubQuery ve SQT belirtecinin Acala ile başlatılan ilk harici uygulama ve belirteç olmayı hedefleyeceğini duyurduk.
 
 We considered a variety of options before electing to deepen its existing partnership with Acala by launching on its leading DeFi protocol built on Polkadot. The three main reasons that went into this decision to launch with Acala were community access, domain/technical excellence, and our existing robust relationship.
 
