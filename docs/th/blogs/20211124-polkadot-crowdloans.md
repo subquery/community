@@ -6,9 +6,9 @@
 
 ในการจัดการประมูลพาราเชนรอบแรกของ Polkadot นั้นประสบความสำเร็จและผ่านไปได้ด้วยดีและนี่เป็นก้าวที่ยิ่งใหญ่ที่เกิดขึ้น ในช่วงหลายสัปดาห์ที่ผ่านมา เราได้เห็นถึงความร้อนแรงในการชิงชัยระหว่าง Moonbeam และ Acala เพื่อเป็นผู้ชนะในการประมูลสล็อตแรกของพาราเชน โดยหลังจากการแข่งขันที่เข้มข้น ผู้ชนะก็ได้ถูกเปิดเผยออกมาว่าเป็น Acala หากคุณต้องการทราบข้อมูลเพิ่มเติมเกี่ยวกับการคัดเลือกผู้ชนะการประมูลครั้งนี้ด้วยวิธีแบบแท่งเทียนคลิกดูบทความสรุปของ Dan Reecer จาก Acala [ได้ที่นี่](https://twitter.com/danreecer_/status/1364646604024786949)
 
-SubQuery is  Polkadot’s leading data indexing service, and over the past week we’ve been powering millions of daily requests to the majority of the crowdloan dashboards, contribution apps, and analytics websites. Teams like  [SubVis](https://www.subvis.io/),  [Parallel Finance](https://parallel.fi/), and  [DotMarketCap](https://dotmarketcap.com/)  rely on SubQuery to provide real time data on the crowdloans and other on-chain data directly to their websites and apps.
+SubQuery (ซับคิวรี่) เป็นบริการชั้นนำด้านการจัดการดัชนีของข้อมูลบน Polkadot เราได้ให้บริการด้านการสรุปข้อมูลการระดมทุนต่าง ๆ รวมถึงการสนับสนุนแอพพลิเคชั่นและการวิเคราะห์เว็บไซต์มากกว่าล้านรายการต่อวัน Subquery ได้รับความไว้วางใจจากทีมของ [SubVis](https://www.subvis.io/), [Parallel Finance](https://parallel.fi/) และ [DotMarketCap](https://dotmarketcap.com/) ในการจัดเตรียมข้อมูลการระดมทุนและข้อมูลต่าง ๆ บนเครือข่ายแบบเรียลไทม์เพื่อส่งตรงไปยังเว็ปไซต์และแอพพลิเคชั่นของพวกเขา
 
-Today we are going to explore a little more about what happened within the first auction by diving into the data behind every single contribution.
+โดยวันนี้เราจะมาเจาะลึกลงไปมากขึ้นอีกนิดเกี่ยวกับสิ่งที่เกิดขึ้นในการประมูลครั้งแรกโดยจะมุ่งเน้นไปที่ข้อมูลเบื้องหลังในทุก ๆ การระดมทุน
 
 ![](https://miro.medium.com/max/2400/0*Pcp3KJvC5eyP2KQ3)
 
