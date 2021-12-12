@@ -2,11 +2,11 @@
 
 ![](https://miro.medium.com/max/1400/1*qa014uV1jHA2WTVhUadrdA.png)
 
-SubQuery, the leading data indexing solution in Polkadot, would like to extend an invitation to all potential indexers to register their interest in participating in our move towards decentralisation in 2022 via our incentivised testnet.
+SubQuery เป็นคำตอบของการ index ข้อมูลบน Polkadot ต้องการจะยืดระยะเวลาเชิญชวนเหล่า indexers เพื่อที่จะสมัครในการเข้าร่วมไปสู่ความกระจายศูนย์ในปี 2022 ด้วยโปรแกรม incentivized testnet
 
-[You can register your interest here](https://forms.gle/RyXyhb8T9Gxkwi7R9)
+[คุณสามารถสมัครได้ที่นี้หากคุณสนใจ](https://forms.gle/RyXyhb8T9Gxkwi7R9)
 
-As indicated in the  [recent publication of our Technical Roadmap](https://subquery.medium.com/subquery-releases-technical-roadmap-2a3a383c49b), SubQuery is currently preparing for our token generation event (TGE) in March 2022. Our current focus is the migration towards a decentralized SubQuery Network, and a key component of that is the need for indexing providers to form a foundational layer of our future network infrastructure.
+จากที่กล่าวไว้ใน [Technical Roadmap ของเราที่เพิ่งได้ประกาศไป](https://subquery.medium.com/subquery-releases-technical-roadmap-2a3a383c49b) SubQuery นั้นกำลังเตรียมกันสำหรับอีเวนท์สร้างโทเคน (Token Generation Event, TGE) ภายในมีนาคมปี 2022 โดยจุดสนใจในปัจจุบันคือการโยกย้ายไปสู่เครือข่าย SubQuery ที่กระจายศูนย์ และเป็นองค์ประกอบสำคัญที่ต้องการสำหรับผู้ช่วยทำการ index (indexing providers) เพื่อที่จะสร้างเลเยอร์พื้นฐานสู่อนาคตของโครงสร้างเครือข่าย
 
 > _“Indexers play a critical part in the SubQuery Network and we are looking to find the best node operators and technical community members to take part in our upcoming testnet. If you wanting to partner with us in building, improving, and scaling the future of decentralised data, please apply now. Our invitation to collaborate with the Indexer community is an exciting step for us as it is represents another major step towards our decentralisation”_ —Sam Zou, the Founder and CEO of SubQuery
 
