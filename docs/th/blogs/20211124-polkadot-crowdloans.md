@@ -16,7 +16,7 @@ SubQuery (ซับคิวรี่) เป็นบริการชั้�
 
 ![](https://miro.medium.com/max/2400/0*-ovBJnjxAKfeB81Y)
 
-Investor interest really boomed in the start of the auctions, with a surge of contributions (by count) for the first few hours and also right towards the end before close. The first day of the crowdloans saw over 34,000 contributions and the last minute rush returned with 5,618 contributions in a 2 hour period.
+มีนักลงทุนให้ความสนใจอย่างล้นหลามในช่วงเริ่มการประมูลโดยมีการร่วมระดมทุนอย่างบ้ากระหน่ำ (นับตามจำนวน) ตั้งแต่ชั่วโมงแรก ๆ และยาวไปจนช่วงสุดท้ายก่อนจบการประมูล มีผู้เข้าร่วมการระดมทุนในวันแรกมากกว่า 34,000 คนและในช่วง 2 ชั่วโมงสุดท้ายก็ยังมีผู้ที่เข้าร่วมเพิ่มอีก 5,618 คน
 
 As you can see in the graph below, Moonbeam had by far the largest number of contributions throughout the auction, attracting almost 23,984 contributions from more than 21,333 more unique addresses than Acala.
 
