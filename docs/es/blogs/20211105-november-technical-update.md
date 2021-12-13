@@ -1,12 +1,12 @@
-# SubQuery November Technical Update: EVM and Manifest Updates
+# Actualización técnica de noviembre de SubQuery: EVM y actualizaciones de manifiesto
 
 ![](https://miro.medium.com/max/1400/1*q9GErDrvAyacOPm97krV6Q.png)
 
-**Read more for our technical deep dive into the latest release of SubQuery**
+**Lea más para nuestro profundo buceo técnico en el último lanzamiento de SubQuery**
 
-# Support for External Chain Type Files in Project Manifest
+# Soporte para archivos de tipo de cadena externa en el proyecto manifestado
 
-Today is the launch of [version 0.2.0](https://doc.subquery.network/create/manifest/) of our project manifest file (`project.yaml`). This new version provides developers with various improvements that have been requested by customers.
+Hoy es el lanzamiento de [versión 0.2.0](https://doc.subquery.network/create/manifest/) de nuestro archivo manifestado de proyecto (`project.yaml`). Esta nueva versión proporciona a los desarrolladores varias mejoras que han sido solicitadas por los clientes.
 
 Most importantly, you can now reference a chain type definition file that has all the custom types included when you’re indexing a custom substrate chain. This quickly allows you to connect a new SubQuery project to any substrate based chain, including all of Kusama’s parachains. This should be a standard chain type file that declares the specific types supported by this blockchain in either `.json` or `.yaml` format.
 
