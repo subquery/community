@@ -56,21 +56,21 @@ So where are people contributing from? SubQuery has identified that  [Acala’s 
 
 Additionally,  [Binance](https://www.binance.com/en/dotslot)  proved to be a popular participation pathway with 27% of contributions across all most participants. We round out the significance contribution methods with  [Parallel Finance](https://crowdloan.parallel.fi/#/auction/polkadot)  at 11% of contributions, and  [Kraken](https://www.kraken.com/learn/parachain-auctions)  at 7%. Centralised exchanges are still clearly a preferred method of participation.
 
-## About SubQuery Network
+## เกี่ยวกับเครือข่าย SubQuery
 
-SubQuery is Polkadot’s leading data provider, supporting an indexing & querying layer between Layer-1 blockchains (Polkadot) and decentralized applications. SubQuery’s data service is being used by most of the Polkadot and Kusama crowdloan and parachain auction websites live today.
+SubQuery เป็นแหล่งให้ข้อมูลชั้นนำบน Polkadot ที่รอบรับการ indexing & การเรียกใช้ข้อมูลบนบล็อคเชนเลเยอร์หนึ่ง (Polkadot) และแอพลิเคชั่นกระจายศูนย์ บริการให้ข้อมูลของ SubQuery นั้นถูกใช้โดยงานเว็ปไซต์ประมูล crowdloan ของทั้ง Polkadot และ Kusama ที่ใช้งานอยู่จนวันนี้
 
-SubQuery’s protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+โปรโตคอล SubQuery นั้นจะพยายามจัดเรียงข้อมูลบล็อคเชนที่ไม่มีความเป็นระเบียบด้วย SDK ของ SubQuery ทำให้เหล่านักพัฒนาสามารถโฟกัสไปกับการปรับใช้ผลิตภัณฑ์หลักของเขา โดยไม่ต้องเสียแรงไปกับการใช้เทคโนโลยีหลังบ้าน (backend) โดยไม่จำเป็น
 
 ​​​​[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
 
-## Appendix
+## ภาคผนวก
 
-All USD prices are quoted at the price at the 1st Auctions’s close = USD$40.47
+ราคา USD ทั้งหมดนั้นถูกคำนวนที่ราคาในการประมูลครั้งแรกจบลง = 40.47 ดอลล่าสหรัฐ
 
-All data is from the start of the Polkadot Crowdloans to the completion of the first auction on 18th November 11.57AM UTC (block 7,756,107)
+ข้อมูลทั้งหมดมาจากเริ่มต้นการประมูล Polkadot Crowdloans ไปจนถึงจุดสิ้นสุดการประมูลรอบที่สามในวันที่ 18 พฤษจิกายน 11:57 UTC (บล็อค 7,756,107)
 
-Excluded Crowdloan Sites
+เว็ปไซต์ Crowdloan อื่นๆ
 
 -   [Acala LCDOT](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157)
 -   [Binance Crowdloan](https://www.binance.com/en/dotslot)
