@@ -52,10 +52,10 @@ SubQuery Ambassadorsは、イベント管理、コンテンツの作成、翻訳
 
 **コンテンツの作成:** 私たちは、コンテンツの長いリストを持っており、支援するために必要な素材を作成します。 当社の成功は、お客様が当社のサービス上で素晴らしいものを構築する能力に依存していることを忘れないでください。 それを簡単にするためには君の助けが必要です。
 
-Content includes videos, infographics, tutorials, animations, or any other related material, to inform, educate, or inspire community members within the SubQuery Ecosystem. SubQuery will support Content Creators by providing branding assets and expertise. We’ll also use SubQuery’s marketing channels to increase awareness of your content (and yourself).
+コンテンツには、SubQuery Ecosystem内のコミュニティメンバーに情報を伝えたり、教育したり、刺激を与えたりするためのビデオ、インフォグラフィック、チュートリアル、アニメーション、その他の関連資料が含まれます。 SubQueryは、ブランディングアセットと専門知識を提供することで、コンテンツクリエーターをサポートします。 SubQueryのマーケティングチャネルを使用して、コンテンツ(および自分自身)の認知度を高めます。
 
-**Translation:** Our customers don’t just speak english! We need your help making SubQuery more accessible by translating our content into your own language, as well as helping sharing the word to our international community.
+**翻訳:** 弊社のお客様は英語を話すだけではありません！ コンテンツを自分の言語に翻訳することで、SubQueryをより使いやすくするために、あなたの助けが必要です。 この言葉を国際社会に共有するのに役立つのです
 
-**Community Moderation:** Moderators will help grow the SubQuery community by ensuring that official community channels are active and engaging. SubQuery will support Moderators by promoting the channels that they monitor, as well as provide guidelines for our expectations.
+**Community Moderation:** モデレータは、公式のコミュニティチャンネルがアクティブで魅力的であることを保証することで、SubQueryコミュニティを成長させるのに役立ちます。 SubQueryは、モニタリングするチャンネルをプロモーションするだけでなく、当社の期待に応えるガイドラインを提供することでモデレータをサポートします。
 
 ![](https://miro.medium.com/max/1400/1*xj6_UL1ZWYzlLmlVk25JzQ.png)
