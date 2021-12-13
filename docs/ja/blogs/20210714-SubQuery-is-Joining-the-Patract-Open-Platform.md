@@ -1,22 +1,22 @@
-# SubQuery is Joining the Patract Open Platform
+# SubQuery は Patract Open Platform に参加しています
 
 ![](https://miro.medium.com/max/1400/0*0inUQ8U1g9auTjfU)
 
-## **Providing Free Data Indexing for Wasm Tech Alliance**
+## **Wasm Tech Allianceに無料データインデックスを提供**
 
-SubQuery is joining the Patract Open Platform to jointly promote the development of public infrastructure, promote the evolution of contract technology, and to develop the Wasm contract development ecosystem.
+SubQueryはPatract Open Platformに参加し、公共インフラの開発を共同で推進しています。 契約技術の進化を促進し、Wasm契約開発エコシステムを開発します。
 
-SubQuery is a blockchain data-as-a-service provider.
+SubQueryは、ブロックチェーンのデータとしてサービスプロバイダーです。
 
-SubQuery aggregates and organises data from Polkadot and Substrate, providing developers with well-structured data support that allows them to use data in various projects efficiently.
+SubQuery は、Polkadot と Substrate からのデータを集約し、整理します。開発者に well-structured data support を提供し、さまざまなプロジェクトでデータを効率的に使用できます。
 
-By doing so, SubQuery helps DApp developers focus on the core and front-end development without the time-consuming task of building a custom back-end for data processing, saving development time and effort.
+そうすることにより、 SubQueryは、DApp開発者がデータ処理のためのカスタムバックエンドを構築するという時間のかかる作業なしに、コアとフロントエンドの開発に集中するのに役立ちます。 開発時間と労力を節約できます
 
-SubQuery can help Polkadot and Substrate projects build better DApps by supporting every Substrate and Polkadot ecological team to process, query, transform, and store data.
+SubQuery は Polkadot と Substrate プロジェクトの構築に役立ちます。すべての Substrate と Polkadot の生態系チームをサポートすることで、データを処理、クエリー、変換、およびストアします。
 
-Today, anyone can query and extract data from Polkadot in a matter of minutes with SubQuery’s free help.
+今日では、誰でもSubQueryの無料ヘルプで数分でPolkadotからデータをクエリして抽出できます。
 
-SubQuery believes that contracts are an important part of a thriving Polkadot ecosystem. Providing data indexing services for Wasm contracts has always been a major goal of SubQuery. SubQuery is excited to see that the Open Platform has brought together a large number of great projects, and that everyone is working together to contribute to the healthy and stable advancement of Wasm contracts.
+SubQuery は、コントラクトが Polkadot エコシステムの重要な部分であると信じています。 Wasm契約にデータインデックスサービスを提供することは、SubQueryの主要な目標でした。 SubQuery is excited to see that the Open Platform has brought together a large number of great projects, and that everyone is working together to contribute to the healthy and stable advancement of Wasm contracts.
 
 SubQuery will be working with contract projects within the alliance to participate in early trials of our supported contract versions. Providing free data indexing technical support and deployment services. All projects can use SubQuery’s open source SDK to build their own SubQuery Projects, which can then be uploaded and hosted by SubQuery where they run the project and provide GraphQL query services. Secondly, the SubQuery Network will be online soon, and SubQuery will provide all participants with a decentralized and transparent network, to better solve the data inefficiency problem.
 
