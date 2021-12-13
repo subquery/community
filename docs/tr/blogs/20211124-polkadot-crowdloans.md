@@ -1,76 +1,76 @@
-# Inside The Polkadot Crowdloans (Part 1)
+# Polkadot Crowdloans'ın İçindekiler (Bölüm 1)
 
 ![](https://miro.medium.com/max/2400/1*JvR4YsstF6OHG3mTr_1Seg.png)
 
-**SubQuery Digs Into The Parachain Auction Data**
+**SubQuery, Parachain Açık Artırma Verilerini İnceliyor**
 
-A huge milestone has just been achieved for Polkadot, the completion of the first round of the parachain auctions. Over the past weeks we’ve observed a heated fight for the Polkadot crown, the first parachain slot, between Moonbeam and Acala. After a tightly fought race the winner of the auction was revealed to be Acala, if you want to learn more about how winners are selected in this modern candlestick auction then take a look at  [Dan Reecer’s (from Acala) excellent summary](https://twitter.com/danreecer_/status/1364646604024786949).
+Parachain müzayedelerinin ilk turunu tamamlayan Polkadot için büyük bir dönüm noktasına ulaşıldı. Geçtiğimiz haftalarda, Moonbeam ve Acala arasında ilk parachain yuvası olan Polkadot tacı için hararetli bir mücadele gözlemledik. Sıkı bir mücadelenin ardından müzayedenin galibinin Acala olduğu ortaya çıktı, bu modern şamdan müzayedesinde kazananların nasıl seçildiği hakkında daha fazla bilgi edinmek istiyorsanız [Dan Reecer'ın (Acala'dan) mükemmel özetine bir göz atın](https://twitter.com/danreecer_/status/1364646604024786949).
 
-SubQuery is  Polkadot’s leading data indexing service, and over the past week we’ve been powering millions of daily requests to the majority of the crowdloan dashboards, contribution apps, and analytics websites. Teams like  [SubVis](https://www.subvis.io/),  [Parallel Finance](https://parallel.fi/), and  [DotMarketCap](https://dotmarketcap.com/)  rely on SubQuery to provide real time data on the crowdloans and other on-chain data directly to their websites and apps.
+SubQuery, Polkadot'un önde gelen veri indeksleme hizmetidir ve geçtiğimiz hafta boyunca kitle kredisi panolarının, katkı uygulamalarının ve analitik web sitelerinin çoğuna milyonlarca günlük istekte bulunuyoruz. [SubVis](https://www.subvis.io/), [Parallel Finance](https://parallel.fi/) ve [DotMarketCap](https://dotmarketcap.com/) gibi takımlar, crowdloanlar ve diğer zincir içi veriler hakkında gerçek zamanlı verileri doğrudan web sitelerine ve uygulamalarına sağlamak için SubQuery'e güvenir.
 
-Today we are going to explore a little more about what happened within the first auction by diving into the data behind every single contribution.
+Bugün, her bir katkının arkasındaki verilere dalarak ilk müzayedede neler olduğunu biraz daha keşfedeceğiz.
 
 ![](https://miro.medium.com/max/2400/0*Pcp3KJvC5eyP2KQ3)
 
-Firstly, from the launch of the first crowdloan to the close of the first auction (a little over 13 days), over 87.5 million DOT was contributed across all crowdloans by just under 68,000 addresses. Essentially 68,000 addresses worked together over 187,000 contributions to raise and commit over US$3.54 billion in 2 weeks. That’s a phenomenal amount by any standard, and a huge indication of how committed individuals (and entities) are to locking up their DOT for up to 2 years to support their favourite networks. The committed capital equates to almost 10% of Polkadot’s entire circulating supply.
+İlk olarak, ilk kitle kredisinin lansmanından ilk müzayedenin kapanışına kadar (13 günden biraz fazla), tüm kitle kredilerinde 68.000'den az adresle 87.5 milyondan fazla DOT katkıda bulunuldu. Temelde 68.000 adres, 2 haftada 3,54 milyar ABD dolarının üzerinde para toplamak ve taahhüt etmek için 187.000'den fazla katkıyla birlikte çalıştı. Bu, herhangi bir standarda göre olağanüstü bir miktardır ve en sevdikleri ağları desteklemek için DOT'larını 2 yıla kadar kilitlemeye kararlı bireylerin (ve kuruluşların) büyük bir göstergesidir. Taahhüt edilen sermaye, Polkadot'un tüm dolaşımdaki arzının neredeyse %10'una eşittir.
 
 ![](https://miro.medium.com/max/2400/0*-ovBJnjxAKfeB81Y)
 
-Investor interest really boomed in the start of the auctions, with a surge of contributions (by count) for the first few hours and also right towards the end before close. The first day of the crowdloans saw over 34,000 contributions and the last minute rush returned with 5,618 contributions in a 2 hour period.
+Yatırımcı ilgisi, müzayedelerin başlangıcında, ilk birkaç saat için (sayıya göre) ve ayrıca kapanıştan hemen önce sonlara doğru bir artışla birlikte gerçekten patlama yaptı. Kitle kredilerinin ilk günü 34.000'den fazla katkı gördü ve son dakika acelesi 2 saatlik bir süre içinde 5.618 katkı ile geri döndü.
 
-As you can see in the graph below, Moonbeam had by far the largest number of contributions throughout the auction, attracting almost 23,984 contributions from more than 21,333 more unique addresses than Acala.
+Aşağıdaki grafikte de görebileceğiniz gibi, Moonbeam, Acala'dan 21.333'ten fazla benzersiz adresten neredeyse 23.984 katkı alarak açık artırma boyunca en fazla katkıyı sağladı.
 
 ![](https://miro.medium.com/max/2400/0*MSHfjnu7KmMvDmnY)
 
-Acala obviously came ahead as the winner, so how did this happen? The number of contributors and their contributions hides the fact that Acala’s contributors on average contributed far more than Moonbeam. As a result the total contributions in terms of value looked like the graph below where Acala were slightly ahead of Moonbeam throughout the auction.
+Acala belli ki kazanan olarak öne çıktı, peki bu nasıl oldu? Katkıda bulunanların sayısı ve katkıları, Acala'nın katkıda bulunanlarının ortalama olarak Moonbeam'den çok daha fazla katkıda bulunduğu gerçeğini gizlemektedir. Sonuç olarak, değer açısından toplam katkılar, Acala'nın müzayede boyunca Moonbeam'in biraz önünde olduğu aşağıdaki grafiğe benziyordu.
 
 ![](https://miro.medium.com/max/2400/0*YbV-ReqSwfimUsbO)
 
-The majority of contributions by value occurred in two individual events, these two significant events essentially changed the outcome of the first auction.
+Değere göre katkıların çoğunluğu iki ayrı olayda meydana geldi, bu iki önemli olay esasen ilk müzayedenin sonucunu değiştirdi.
 
 ![](https://miro.medium.com/max/2400/0*jmRsZ7kxEYAWYaUq)
 
-The first occurred in the space of 5 minutes starting at 1:25pm UTC on the 11th of November. A single address that we have linked to  [Binance’s Crowdloan](https://www.binance.com/en/dotslot)  address made a series of 7 transactions with a total value of over 19 million DOT (US$768.9 million). The first was the largest single contribution to Moonbeam with over 9 million DOT (US$364 million), followed by 6 other contributions on average 34 seconds apart. This address also made significant contributions to Acala (2.6 million DOT), Clover (2.1 million DOT), Astar (2 million DOT), and Manta (1.7 million DOT).
+İlki, 11 Kasım'da UTC 1:25'te başlayan 5 dakikalık bir aralıkta gerçekleşti. [Binance'ın Crowdloan](https://www.binance.com/en/dotslot) adresine bağladığımız tek bir adres, toplam değeri 19 milyon DOT'un (768,9 milyon ABD Doları) üzerinde 7 işlemlik bir dizi işlem gerçekleştirdi. İlki 9 milyonun üzerinde DOT (364 milyon ABD Doları) ile Moonbeam'e yapılan en büyük tek katkıydı ve bunu ortalama 34 saniye arayla 6 diğer katkı izledi. Bu adres ayrıca Acala (2,6 milyon DOT), Clover (2.1 milyon DOT), Astar (2 milyon DOT) ve Manta'ya (1,7 milyon DOT) önemli katkılarda bulundu.
 
-The second significant event occurred in the space of 75 minutes from 10.40am on the 13th of November when a single account made multiple significant contributions to Acala. This account represents  [Acala’s LCDOT address](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157)  and was Acala deploying all of its liquid staked DOT to its crowdloan. First were some test transactions, then some major transactions which include the largest of 5.5 million DOT (USD$222.5 million). In the end Acala’s LCDOT fund made 3758 contributions over the auction.
+İkinci önemli olay, tek bir hesabın Acala'ya birden çok önemli katkılarda bulunmasıyla 13 Kasım sabahı 10.40'tan 75 dakika sonra meydana geldi. Bu hesap [Acala'nın LCDOT adresini](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157) temsil ediyor ve Acala, tüm likit stake DOT'larını kitle kredisine dağıtıyordu. Önce bazı test işlemleri, ardından 5,5 milyon DOT (222,5 milyon ABD Doları) ile en büyüğünü içeren bazı büyük işlemler oldu. Sonunda Acala'nın LCDOT fonu açık artırmaya 3758 katkı yaptı.
 
 ![](https://miro.medium.com/max/2400/0*GTJviXqhPmRIIf73)
 
-These series of transactions were ultimately able to push Acala above Moonbeam, and provide Acala with a winning percentage of 63.11% of the blocks. When the random winning block was selected ~56 hours later at block 7,718,090, Acala was ahead of Moonbeam by just ~38,000 DOT (USD$1.5 million).
+Bu işlemler dizisi sonunda Acala'yı Moonbeam'in üzerine çıkarmayı başardı ve Acala'ya blokların %63,11'lik bir kazanma yüzdesini sağladı. Rastgele kazanan blok ~56 saat sonra 7.718.090 blokta seçildiğinde, Acala Moonbeam'in sadece ~38.000 DOT (1,5 milyon USD) önündeydi.
 
-One of the amazing things about these auctions, is that even after raising over 66 million DOT (USD$2.67 billion) between Acala and Moonbeam, the winning margin at the randomly selected block was just 0.056% of the total amount.
+Bu müzayedelerle ilgili şaşırtıcı şeylerden biri, Acala ve Moonbeam arasında 66 milyon DOT (2.67 milyar USD) üzerinde toplandıktan sonra bile, rastgele seçilen blokta kazanma marjının toplam miktarın sadece %0.056'sı olmasıydı.
 
-So who was contributing to the crowdloans? Firstly, the median amount contributed by all was just 12 DOT (USD$485.64), 47% of all contributions were less than 10 DOT and 88% were less than 100 DOT (US$4,047.00). This clearly demonstrates an extremely strong and robust community of individual contributors, testament to the retail interest in the parachain auctions.
+Peki kitle kredilerine kim katkıda bulundu? İlk olarak, herkesin katkıda bulunduğu medyan miktar sadece 12 DOT (485.64 USD), tüm katkıların %47'si 10 DOT'tan az ve %88'i 100 DOT'tan (4.047.00) azdı. Bu, parachain müzayedelerine perakende ilgisinin kanıtı olarak, bireysel katkıda bulunanlardan oluşan son derece güçlü ve sağlam bir topluluğu açıkça göstermektedir.
 
-The big question on everyone’s mind is who’s the people’s network? Which network has the largest proportion of small contributors? For the following insights into contribution size breakdown we have excluded some known exchange or crowdloan accounts (list in the appendix). You can see that some networks are almost completely small cap funded (SubGame Gamma and Darwinia). On the other hand, large cap investors (>5,000 DOT) make up 68% of Moonbeam’s crowdloan (by value), 62% of Parallel Finance’s, and 58% of Clover’s.
+Herkesin aklındaki büyük soru, insanların ağı kim? Küçük katkıda bulunanların en büyük oranı hangi ağda? Katkı büyüklüğü dağılımına ilişkin aşağıdaki bilgiler için, bilinen bazı takas veya kitle kredisi hesaplarını hariç tuttuk (ekteki liste). Bazı ağların neredeyse tamamen küçük sermaye ile finanse edildiğini görebilirsiniz (SubGame Gamma ve Darwinia). Öte yandan, büyük sermayeli yatırımcılar (>>5.000 DOT) Moonbeam'in kitle kredisinin (değer olarak) %68'ini, Parallel Finance'in %62'sini ve Clover'ın %58'ini oluşturuyor.
 
 ![](https://miro.medium.com/max/2400/0*ztRnFrVfJ2aTlMiU)
 
-Obviously we are here to look at Moonbeam and Acala, and here we can see that Acala has more small cap funding than Moonbeam, with 33% of Acala’s contributions being less than 1,000 DOT (USD$40,470) compared to 21% of Moonbeam’s.
+Açıkçası, Moonbeam ve Acala'ya bakmak için buradayız ve burada Acala'nın Moonbeam'den daha küçük sermaye fonuna sahip olduğunu görebiliriz, Acala'nın katkılarının %33'ü 1.000 DOT'tan (40.470 USD) daha az, Moonbeam'in %21'i.
 
 ![](https://miro.medium.com/max/2400/0*ge-2XDPgddj-J07V)
 
-_Note, the previous insights around “the people’s network” have been taken after excluding known contributors that aggregate other contributions into one. SubQuery has only identified a small number, there will certainly be aggregators that we have missed that may be material to the data shared here_
+_"Halkın ağı" ile ilgili önceki görüşlerin, diğer katkıları bir araya toplayan bilinen katkıda bulunanlar hariç tutulduktan sonra alındığını unutmayın. SubQuery yalnızca küçük bir sayı belirledi, burada paylaşılan veriler için önemli olabilecek, gözden kaçırdığımız toplayıcılar kesinlikle olacaktır._
 
-So where are people contributing from? SubQuery has identified that  [Acala’s LCDOT](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157)  was a runaway success, and resulted in almost 28% of all contributions. With over 24 million DOT (US$971 million) contributed directly to Acala, this auction would likely have gone another way without it.
+Peki insanlar nereden katkı sağlıyor? SubQuery, [Acala'nın LCDOT](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157)'sinin kaçan bir başarı olduğunu belirledi ve tüm katkıların neredeyse %28'iyle sonuçlandı. 24 milyonun üzerinde DOT (971 milyon ABD Doları) doğrudan Acala'ya katkıda bulundu, bu açık artırma muhtemelen onsuz başka bir yöne gidecekti.
 
-Additionally,  [Binance](https://www.binance.com/en/dotslot)  proved to be a popular participation pathway with 27% of contributions across all most participants. We round out the significance contribution methods with  [Parallel Finance](https://crowdloan.parallel.fi/#/auction/polkadot)  at 11% of contributions, and  [Kraken](https://www.kraken.com/learn/parachain-auctions)  at 7%. Centralised exchanges are still clearly a preferred method of participation.
+Ek olarak, [Binance](https://www.binance.com/en/dotslot), çoğu katılımcının %27'sinin katkılarıyla popüler bir katılım yolu olduğunu kanıtladı. Önem katkısı yöntemlerini, katkıların %11'inde [Paralel Finans](https://crowdloan.parallel.fi/#/auction/polkadot) ve %7'de [Kraken](https://www.kraken.com/learn/parachain-auctions) ile tamamlıyoruz. Merkezi borsalar hala açıkça tercih edilen bir katılım yöntemidir.
 
-## About SubQuery Network
+## SubQuery Network
 
-SubQuery is Polkadot’s leading data provider, supporting an indexing & querying layer between Layer-1 blockchains (Polkadot) and decentralized applications. SubQuery’s data service is being used by most of the Polkadot and Kusama crowdloan and parachain auction websites live today.
+SubQuery, Polkadot'un lider veri sağlayıcısıdır ve Layer-1 blok zincirleri (Polkadot) ile merkezi olmayan uygulamalar arasında bir indeksleme& ve sorgulama katmanını destekler. SubQuery'nin veri hizmeti, bugün yaşayan Polkadot ve Kusama kitle kredisi ve parachain açık artırma web sitelerinin çoğu tarafından kullanılıyor.
 
-SubQuery’s protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+Protokol, SubQuery SDK ile blok zinciri veri özdeyişlerini soyutlayarak geliştiricilerin, özel arka uç teknolojileri üzerinde gereksiz yere çaba harcamadan temel ürünlerini dağıtmaya odaklanmalarına olanak tanır.
 
-​​​​[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
 
-## Appendix
+## Ek
 
-All USD prices are quoted at the price at the 1st Auctions’s close = USD$40.47
+Tüm USD fiyatları, 3. Açık Artırmanın kapanış fiyatından verilmiştir = 36,77 USD
 
-All data is from the start of the Polkadot Crowdloans to the completion of the first auction on 18th November 11.57AM UTC (block 7,756,107)
+Tüm veriler, Polkadot Crowdloans'ın başlangıcından 3 Aralık 11.43AM UTC'de (blok 7.957.107) üçüncü müzayedenin tamamlanmasına kadardır
 
-Excluded Crowdloan Sites
+Hariç Tutulan Crowdloan Siteleri
 
 -   [Acala LCDOT](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157)
 -   [Binance Crowdloan](https://www.binance.com/en/dotslot)
