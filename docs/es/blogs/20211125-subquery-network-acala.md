@@ -1,4 +1,4 @@
-# The SubQuery Network to Launch on Acala, Decentralising Polkadot’s Leading Data Indexing Service
+# La red de subconsultas para lanzar en Acala, la descentralización del servicio de indexación de datos líder de Polkadot
 
 ![](https://miro.medium.com/max/2400/1*kj_-zZcjeYdYIZVy1atYOg.gif)
 
