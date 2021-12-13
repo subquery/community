@@ -22,7 +22,7 @@ SubQuery (ซับคิวรี่) เป็นบริการชั้�
 
 ![](https://miro.medium.com/max/2400/0*MSHfjnu7KmMvDmnY)
 
-แต่แล้วสุดท้าย Acala กลับชนะการประมูลครั้งนี้ได้อย่างไร? The number of contributors and their contributions hides the fact that Acala’s contributors on average contributed far more than Moonbeam. As a result the total contributions in terms of value looked like the graph below where Acala were slightly ahead of Moonbeam throughout the auction.
+แต่แล้วสุดท้าย Acala กลับชนะการประมูลครั้งนี้ได้อย่างไร? ตัวเลขและจำนวนของผู้ระดมทุนของ Acala นั้นเผยให้เห็นข้อเท็จจริงที่ว่ามีผู้ร่วมระดมทุนกับ Acala โดยเฉลี่ยแล้วมากกว่า Moonbeam As a result the total contributions in terms of value looked like the graph below where Acala were slightly ahead of Moonbeam throughout the auction.
 
 ![](https://miro.medium.com/max/2400/0*YbV-ReqSwfimUsbO)
 
