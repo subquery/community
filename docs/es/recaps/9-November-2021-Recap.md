@@ -1,4 +1,4 @@
-# November 2021 Recap
+# Resumen de Noviembre 2021
 
 ![](https://miro.medium.com/max/1400/1*qzKzZnWY2ao3tiffwwugXQ.png) **_This month it’s all about execution_**
 
