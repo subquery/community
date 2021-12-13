@@ -1,8 +1,8 @@
-# SubQuery Extends Invitation To Indexing Community
+# Subconsulta amplía la invitación a indexar la comunidad
 
 ![](https://miro.medium.com/max/1400/1*qa014uV1jHA2WTVhUadrdA.png)
 
-SubQuery, the leading data indexing solution in Polkadot, would like to extend an invitation to all potential indexers to register their interest in participating in our move towards decentralisation in 2022 via our incentivised testnet.
+SubQuery, la solución líder de indexación de datos en Polkadot, quisiera extender una invitación a todos los índices potenciales para que registren su interés en participar en nuestro avance hacia la descentralización en 2022 a través de nuestra red de pruebas incentivada.
 
 [You can register your interest here](https://forms.gle/RyXyhb8T9Gxkwi7R9)
 
