@@ -1,72 +1,72 @@
-# October 2021 Recap
+# Recapitulacion de Octubre de 2021
 
 ![](https://miro.medium.com/max/1400/1*Yf3LOc6onAZ-XRQLPyxAmQ.png)
 
-**Putting Our Plans Into Motion**
+**Poniendo nuestros planes en movimiento**
 
-Welcome to the latest monthly update from SubQuery, and what will be the first one for many of you based on the growth of our community.
+Bienvenido a la última actualización mensual de SubQuery, y lo que será el primero para muchos de ustedes basado en el crecimiento de nuestra comunidad.
 
-From here on out we will try to structure every update around three key areas; community, core product development, and the SubQuery Network.
+A partir de aquí intentaremos estructurar cada actualización alrededor de tres áreas clave; comunidad, desarrollo de productos básicos y SubQuery Network.
 
-# SubQuery Network
+# Subconsulta de red
 
-## Technical Roadmap Announced
+## Mapa de ruta Técnica Anunciada
 
-At our community call last week we shared more  about our plans for the future. We are excited about how the next evolution of SubQuery will drive even more value to the Polkadot ecosystem and provide more opportunities for our community to participate in our growth.
+En nuestra llamada comunitaria la semana pasada compartimos más sobre nuestros planes para el futuro. Estamos entusiasmados por cómo la próxima evolución de SubQuery impulsará aún más valor al ecosistema Polkadot y proporcionará más oportunidades para que nuestra comunidad participe en nuestro crecimiento.
 
-We’ve gone extremely deep here for transparency with the community and to rationalise the work we have ahead. It’s an ambitious timeline that we are internally using as a target, you can see how many moving pieces there are from the image below! That being said, estimating timelines for R&D software development is notoriously difficult, so nothing below is final — it’s just our best effort at estimations.
+Nos hemos esforzado mucho por la transparencia con la comunidad y por racionalizar el trabajo que tenemos por delante. Es una línea de tiempo ambiciosa que estamos utilizando internamente como objetivo, ¡puedes ver cuántas piezas en movimiento hay desde la imagen de abajo! Dicho esto, estimar las líneas de tiempo para el desarrollo de software de I&D es notoriamente difícil, por lo que nada a continuación es final — es sólo nuestro mejor esfuerzo en estimaciones.
 
-[Read more about our technical roadmap here](https://subquery.medium.com/subquery-releases-technical-roadmap-2a3a383c49b)
+[Lea más acerca de nuestro mapa de ruta técnico aquí](https://subquery.medium.com/subquery-releases-technical-roadmap-2a3a383c49b)
 
-## Significant Development on the SubQuery Network
+## Desarrollo significativo en la red de SubQuery
 
-Building a new decentralised and tokenised network is a huge amount of work and it is unfortunately work that isn’t clearly visible externally for some time. That being said, we’ve had a top team of dedicated developers working on this for some time, slowly but surely working through the list of smart contract implementations to bring us closer to launching the first internal testnet by the end of the year.
+Construir una nueva red descentralizada y tokenizada es una enorme cantidad de trabajo y por desgracia es un trabajo que no es claramente visible externamente durante algún tiempo. Dicho esto, hemos tenido un equipo de desarrolladores dedicados trabajando en esto durante algún tiempo, trabajando lentamente pero con seguridad a través de la lista de implementaciones de contratos inteligentes para acercarnos al lanzamiento de la primera red de pruebas internas a finales de año.
 
-# Core Product Development
+# Desarrollo de Producto Principal
 
-## Moonriver EVM Support
+## Soporte EVM para Moonriver
 
-This is a significant milestone for us and a huge partnership with Moonbeam. Currently, there is no open-source tool which allows developers to flexibly collect and query data across both Ethereum and Polkadot/Kusama. This limitation can cause dApps solutions within Moonriver to be siloed into the smart contract layer and thereby limit their potential to consumers across both thriving networks.
+Este es un hito importante para nosotros y una enorme asociación con Moonbeam. Actualmente no existe ninguna herramienta de código abierto que permita a los desarrolladores recolectar y consultar datos de forma flexible tanto en Ethereum como en Polkadot/Kusama. Esta limitación puede hacer que las soluciones dApps dentro de Moonriver sean silenciadas en la capa de contratos inteligentes y de este modo limiten su potencial a los consumidores a través de ambas redes de expansión.
 
-This partnership with Moonbeam brings a complete and unified data indexing solution for all blockchain data within Moonriver and will greatly benefit Moonriver’s growing application ecosystem. With SubQuery’s innovation, one tool can now query and filter EVM logs and transactions in addition to Substrate data sources.
+Esta asociación con Moonbeam trae una solución completa y unificada de indexación de datos para todos los datos de blockchain dentro de Moonriver y beneficiará en gran medida al creciente ecosistema de aplicación de Moonriver. Con la innovación de SubQuery, ahora una herramienta puede consultar y filtrar registros y transacciones EVM además de fuentes de datos Substrate.
 
-[Read more about our Moonriver EVM support here](https://subquery.medium.com/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff)
+[Lea más acerca de nuestro soporte para EVM Moonriver aquí](https://subquery.medium.com/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff)
 
-# Community
+# Comunidad
 
-## The Spartan Programme
+## El Programa Espartano
 
-In August, SubQuery launched its Ambassador programme to find community leaders passionate about Polkadot and SubQuery. Surprisingly we were completely overwhelmed by thousands and thousands of applications, and our initial plans to manually onboard applicants has become challenging. After consultation with our existing Ambassadors we have designed a new, and transparent method to level up in our Discord community and potentially become an Ambassador.
+En agosto, SubQuery lanzó su programa de embajadores para encontrar a líderes comunitarios apasionados por Polkadot y SubQuery. Sorprendentemente estuvimos completamente llenos de miles y miles de aplicaciones, y nuestros planes iniciales para incluir manualmente a los solicitantes se han convertido en un desafío. Después de consultar con nuestros embajadores existentes hemos diseñado un nuevo proyecto y método transparente para subir de nivel en nuestra comunidad de Discord y potencialmente convertirse en Embajador.
 
-The Spartan programme exists within our Discord community, and it is designed to complement our established ambassador programme with another tier or contributors. Aspiring members can complete monthly tasks and competitions to become a Spartan. The Spartans who then rise to the top of their class will be nominated by our existing Ambassadors to join their ranks.
+El programa Spartan existe dentro de nuestra comunidad Discord, y está diseñado para complementar nuestro programa de embajadores establecido con otro nivel o colaborador. Los miembros de Aspiring pueden completar las tareas mensuales y las competiciones para convertirse en Espartan. Los Espartanos que luego se elevan a la cima de su clase serán nominados por nuestros Embajadores existentes para unirse a sus rangos.
 
-To find out more about our Spartan programme and participate in our November competition please  [join our Discord](https://discord.com/invite/subquery).
+Para saber más sobre nuestro programa Espartan y participar en nuestro concurso de noviembre, por favor  [únete a nuestro Discord](https://discord.com/invite/subquery).
 
-[Read more about our Spartan programme here](https://subquery.medium.com/subquerys-new-spartan-programme-cf6c13653c6f)
+[Lea más acerca de nuestro programa Espartan aquí](https://subquery.medium.com/subquerys-new-spartan-programme-cf6c13653c6f)
 
-## SubQuery Academy
+## Academia de SubQuery
 
-Onboarding new developers and teaching them the skills they need to build the dApps of tomorrow is incredibly important to the success of our community.
+Incorporar a nuevos desarrolladores y enseñarles las habilidades que necesitan para construir las aplicaciones del futuro es increíblemente importante para el éxito de nuestra comunidad.
 
-The Academy will be a weekly series of 6 modules with several 5 to 10 minute lessons which are delivered by a recorded video. The video content is accompanied by written tutorials, slides, lab workbooks, and links to the finished GitHub code repository.
+La Academia será una serie semanal de 6 módulos con varias clases de 5 a 10 minutos que se impartirán mediante un vídeo grabado. El contenido de vídeo está acompañado de tutoriales escritos, diapositivas, libros de trabajo de laboratorio y enlaces al repositorio de código de GitHub terminado.
 
-Our Academy aims to take an aspiring blockchain developer from beginner to advanced and it is 100% free and accessible online. We have had over 1,200 enrolments for our first hero course since its launch two weeks ago and we are grateful for the passionate community that we have with us.
+Nuestra Academia apunta a tomar a un aspirante desarrollador de blockchain desde principiante a avanzado y es 100% gratis y accesible en línea. Hemos tenido más de 1 00 inscripciones para nuestro primer curso de héroe desde su lanzamiento hace dos semanas y estamos agradecidos por la comunidad pasionada que tenemos con nosotros.
 
-[Read more about SubQuery’s Academy here](https://subquery.medium.com/subquery-launches-the-subquery-academy-9505dc66a01)
+[Lea más sobre la Academia de SubQuery aquí](https://subquery.medium.com/subquery-launches-the-subquery-academy-9505dc66a01)
 
-## Community Call
+## Llamada comunitaria
 
-We held our first-ever community call on October 28th to share our roadmap and the latest community updates. It was great to share with our community the things they had been asking for a long time in a more personal way. We appreciate all those who came to the call and we plan on hosting these calls more regularly. It would have been the first time for a lot of you to hear from our new community manager Sally as well who joined us in early October.
+Celebramos nuestra primera llamada comunitaria el 28 de octubre para compartir nuestra hoja de ruta y las últimas actualizaciones de la comunidad. Fue estupendo compartir con nuestra comunidad las cosas que habían estado pidiendo durante mucho tiempo de una manera más personal. Agradecemos a todos aquellos que acudieron a la llamada y tenemos previsto organizar estas llamadas con mayor regularidad. Hubiera sido la primera vez para muchos de ustedes para escuchar de nuestro nuevo gerente de la comunidad, Sally también que se unió a nosotros a principios de octubre.
 
-[Watch the October session recording here](https://www.crowdcast.io/e/subquery-sessions-october)
+[Ver la grabación de la sesión de octubre aquí](https://www.crowdcast.io/e/subquery-sessions-october)
 
-# Other things you might have missed
+# Otras cosas que puede haber perdido
 
--   We’ve partnered with Acala to provide the  [largest pool of prizes for the Encode Club Polkadot Hackathons](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e).
--   [SubQuery helps Khala Build their New ERC20 Chain Bridge](https://subquery.medium.com/subquery-helps-khala-build-their-new-erc20-chain-bridge-c3aa0e1e6a89)
+-   Nos hemos asociado con Acala para proporcionar  [la mayor reserva de premios para el Club Polkadot Hackathons](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e).
+-   [SubQuery ayuda a Khala a construir su nuevo Puente de Cadena ERC20](https://subquery.medium.com/subquery-helps-khala-build-their-new-erc20-chain-bridge-c3aa0e1e6a89)
 
-If you would like to learn more you can view all projects easily via our Explorer here.
+Si desea obtener más información, puede ver todos los proyectos fácilmente a través de nuestro Explorador aquí.
 
-As always, please join our social channels to stay updated on our latest news and announcements. James, Sam, and the SubQuery Team
+Como siempre, por favor, únase a nuestros canales para mantenerse actualizado/a sobre nuestras últimas noticias y anuncios. James, Sam y el equipo de SubQuery
 
 [Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
