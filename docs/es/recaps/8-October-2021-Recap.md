@@ -1,4 +1,4 @@
-# Recapitulacion de Octubre de 2021
+# Resumen de Octubre de 2021
 
 ![](https://miro.medium.com/max/1400/1*Yf3LOc6onAZ-XRQLPyxAmQ.png)
 
