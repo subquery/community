@@ -12,23 +12,23 @@ Xin được gửi đến các bạn bản cập nhật hàng tháng mới nhấ
 
 Chúng tôi đã cân nhắc nhiều lựa chọn trước khi quyết định tăng cường quan hệ đối tác hiện tại với Acala bằng cách khởi chạy trên giao thức DeFi hàng đầu được xây dựng trên Polkadot này. Ba lý do chính dẫn đến quyết định khởi chạy trên Acala này là sự tiếp cận cộng đồng, phạm vi ảnh hưởng/kỹ thuật xuất sắc và hơn cả là mối quan hệ bền chặt hiện có của chúng tôi.
 
-James caught up with Acala’s Bette Chen for a wide-ranging interview on this decision and partnership, including the specifics on why Acala and SubQuery are a match made in heaven.
+James đã cùng với Bette Chen của Acala có một cuộc phỏng vấn sâu rộng về sự quyết định cho mối quan hệ đối tác này bao gồm cả những chi tiết về lý do tại sao Acala và SubQuery được mệnh danh là một cặp đôi trời sinh.
 
-[Read more about this announcement here](https://blog.subquery.network/blogs/20211125-subquery-network-acala.html)
+[Đọc thêm về thông báo này tại đây](https://blog.subquery.network/blogs/20211125-subquery-network-acala.html)
 
-## Significant Development on the SubQuery Network
+## Những phát triển quan trọng trên mạng SubQuery
 
-Even though we are busy working hard on the SubQuery Network, and still rushing ahead towards our test network launch in the first quarter of 2022. We’ve made great progress on our smart contracts and refining our token economic model. Expect to see us sharing a lot more about this soon.
+Mặc dù đang rất bận rộn với việc xây dựng Mạng SubQuery, chúng tôi vẫn đang gấp rút xúc tiến việc ra mắt mạng thử nghiệm vào quý đầu tiên của năm 2022. Chúng tôi đã đạt được tiến bộ vượt bậc về các hợp đồng thông minh và cả những cải tiến trong mô hình kinh tế với token của mình. Bạn sẽ sớm được thấy chúng tôi chia sẻ nhiều hơn về điều này.
 
-# Core Product Development
+# Phát triển sản phẩm cốt lõi
 
-## Scaling our Hosted Service
+## Mở rộng quy mô dịch vụ được lưu trữ của chúng tôi
 
-SubQuery Projects has been a recipient of some explosive growth over the past month as  [thousands of academy participants](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html)  have created even more projects in our hosted service ([project.subquery.network](https://project.subquery.network/)) in the space of a few weeks.
+Dự án SubQuery đã có một sự tăng trưởng bùng nổ trong tháng qua khi [hàng nghìn học viên](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html) đã tạo ra rất nhiều dự án hơn trong dịch vụ được lưu trữ của chúng tôi ([project.subquery.network](https://project.subquery.network/)) chỉ trong vòng một vài tuần ngắn ngủi.
 
-We’ve crossed a milestone of over 2,000 projects deployed to our hosted service, and as a result, it’s been a priority to scale our hosted service. We now offer our enterprise customers dedicated resources to improve performance and reliability.
+Chúng tôi đã cán một cột mốc quan trọng với hơn 2.000 dự án được triển khai cho dịch vụ được lưu trữ và nhờ đó chúng tôi có thể ưu tiên mở rộng quy mô dịch vụ được lưu trữ của mình. Giờ đây, chúng tôi có thể cung cấp cho khách hàng doanh nghiệp các nguồn lực đặc biệt để cải thiện hiệu suất và độ tin cậy.
 
-If you would like to upgrade your SubQuery project to receive dedicated resourcing, contact us at  [sales@subquery.network](mailto:sales@subquery.network).
+Nếu bạn muốn nâng cấp dự án SubQuery của mình để nhận được nguồn cung ứng chuyên dụng này, hãy liên hệ với chúng tôi qua [sales@subquery.network](mailto:sales@subquery.network).
 
 ## Supporting External Chain Type Files in our Project Manifest
 
