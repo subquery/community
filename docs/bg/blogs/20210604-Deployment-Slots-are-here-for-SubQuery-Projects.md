@@ -1,29 +1,29 @@
-# Deployment Slots are here for SubQuery Projects
+# Слотовете за внедряване за SubQuery Projects са тук
 
-> Today we’re introducing deployment slots, a whole new feature that improves the developer experience in SubQuery’s hosted service.
+> Днес представяме слотовете за внедряване, изцяло нова функция, която подобрява работата на разработчиците в хостваната услуга на SubQuery.
 
-[SubQuery Projects](https://project.subquery.network/) is already being used as a managed and hosted service for many Projects, whether they’re chain explorers, wallets, NFT explorers, or others. It’s a service that our customers rely on.
+[SubQuery Projects](https://project.subquery.network/) се използва като управлявана и хоствана услуга за много проекти, независимо дали са верижни изследователи, портфейли, NFT изследователи или други. Това е услуга, на която нашите клиенти разчитат.
 
 ![](https://miro.medium.com/max/1400/0*PugDgh6weZspRIO2)
 
-You can now deploy to a isolated staging slot
+Вече можете да използвате изолиран стейджинг слот
 
-Although you can always run SubQuery’s infrastructure yourself (with your own node and query service), we aim to make our hosted service the most reliable, resilient, and performant data provider in the Polkadot/Substrate ecosystem.
+Въпреки, че винаги можете сами да стартирате инфраструктурата на SubQuery (с вашия собствен нод и услуга за заявки), ние се стремим да направим нашата хоствана услуга най-надеждният, устойчив и производителен доставчик на данни в Polkadot/Substrate екосистемата.
 
-Creators of [SubQuery Projects](https://project.subquery.network/) are constantly improving and updating their Projects and the data within those projects. Unfortunately it takes hours if not days to reindex chain data in the event of a major change — ultimately our goal to to allow you to update your Project, reindex your data, and upgrade your hosted SubQuery Projects with **zero downtime**
+Създателите на [SubQuery Projects ](https://project.subquery.network/) непрекъснато подобряват и актуализират своите проекти и данните в тях. За съжаление отнема часове, ако не и дни, за преиндексиране на верижните данни в случай на голяма промяна – в крайна сметка нашата цел е да ви позволим да актуализирате своя проект, да преиндексирате данните си и да надстроите вашите хоствани SubQuery Projects с **нулево бездействие**
 
-**That’s what deployment slots are here to solve**
+**Това е, което слотовете за разгръщане трябва да решат**
 
 ![](https://miro.medium.com/max/1400/0*vQ33aqhn1eVllo5t)
 
-Your staging slot will run independently of the primary production slot
+Вашият стейджинг слот ще работи независимо от основния производствен слот
 
-When creating a new deployment to your [SubQuery Project in our hosted service](https://project.subquery.network/), you can choose to either deploy to the production or staging slot. These two slots are isolated environments, each has its own database and sync independently. Once your staging slot has started and completed indexing, you can then promote it to production with zero downtime.
+Когато създавате ново внедряване към вашия [SubQuery проект в нашата хоствана услуга](https://project.subquery.network/), можете да изберете да внедрите в производствения или стейджинг слота. Тези два слота са изолирани среди, всеки има своя собствена база данни и се синхронизира независимо. След като вашият стейджинг слот започне и завърши индексирането, можете да го промотирате до производствен с нулево бездействие.
 
-The staging slot is perfect for:
+Стейджинг слота е идеален за:
 
--   Validating changes to your SubQuery Project in a separate environment. The staging slot has a different URL to production that you can use in your dApps.
--   Warming up and indexing data for an updated SubQuery project to eliminate downtime in your dApp
--   Preparing a new release for your SubQuery Project without exposing it publicly. The staging slot is not shown to the public in the Explorer and has a unique URL that is visible only to you.
+-   Валидиране на промени във вашия SubQuery проект в отделна среда. Стейджинг слота има различен URL адрес от производствения, който можете да използвате във вашите dApps.
+-   Подготвяне и индексиране на данни за актуализиран SubQuery проект, за да се елиминира забавянето във вашият dApp
+-   Подготовяте нова версия за вашия SubQuery Project, без да го представяте публично. Стейджинг слота не се показва на обществеността в Explorer и има уникален URL адрес, който е видим само за вас.
 
-You can try it yourself now in [SubQuery Projects](https://project.subquery.network/).
+Можете да опитате сами, сега в [SubQuery Projects](https://project.subquery.network/).
