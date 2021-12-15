@@ -1,16 +1,16 @@
 # Tóm tắt Tháng 11-2021
 
-![](https://miro.medium.com/max/1400/1*qzKzZnWY2ao3tiffwwugXQ.png) **_This month it’s all about execution_**
+![](https://miro.medium.com/max/1400/1*qzKzZnWY2ao3tiffwwugXQ.png) **_Tháng này, tất cả sẽ dành để nói về những gì đã được thực hiện_**
 
-Welcome to the latest monthly update from SubQuery, and one that is particularly full of all the exciting stuff happening around our community.
+Xin được gửi đến các bạn bản cập nhật hàng tháng mới nhất từ SubQuery. Đây là bản cập nhật đặc biệt khái quát tất cả những điều thú vị đang diễn ra xung quanh cộng đồng của chúng tôi.
 
-# SubQuery Network
+# Mạng lưới SubQuery
 
-## SubQuery to launch on Acala
+## SubQuery khởi chạy trên Acala
 
-![](https://miro.medium.com/max/600/0*SJ1TWt1sGwUWqvuI.gif) At our community call, we finally announced that SubQuery and the SQT token will aim to be the first external application and token to launch with Acala.
+![](https://miro.medium.com/max/600/0*SJ1TWt1sGwUWqvuI.gif) Trong cuộc gọi cộng đồng, chúng tôi đã thông báo rằng SubQuery và token SQT sẽ hướng tới mục tiêu là ứng dụng ngoại bộ và token đầu tiên khởi chạy trên Acala.
 
-We considered a variety of options before electing to deepen its existing partnership with Acala by launching on its leading DeFi protocol built on Polkadot. The three main reasons that went into this decision to launch with Acala were community access, domain/technical excellence, and our existing robust relationship.
+Chúng tôi đã cân nhắc nhiều lựa chọn trước khi quyết định tăng cường quan hệ đối tác hiện tại với Acala bằng cách khởi chạy trên giao thức DeFi hàng đầu được xây dựng trên Polkadot này. Ba lý do chính dẫn đến quyết định khởi chạy trên Acala này là sự tiếp cận cộng đồng, phạm vi ảnh hưởng/kỹ thuật xuất sắc và hơn cả là mối quan hệ bền chặt hiện có của chúng tôi.
 
 James caught up with Acala’s Bette Chen for a wide-ranging interview on this decision and partnership, including the specifics on why Acala and SubQuery are a match made in heaven.
 
