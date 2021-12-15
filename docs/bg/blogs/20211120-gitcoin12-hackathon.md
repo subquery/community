@@ -2,13 +2,13 @@
 
 ![](https://miro.medium.com/max/1400/1*deQMrJlp2aJ5YVAGoFhO-Q.png)
 
-**The leading data indexer in Polkadot will participate in Gitcoin Grants Round 12**
+**Водещият индексатор на данните в Polkadot приме участие в 12-мия раунд Gitcoin Grants**
 
-Hot on the heels of the overwhelming success of the SubQuery Academy’s “Hero Course”, we are proud to announce that we will be providing our first hackathon opportunity for all developers via Gitcoin Grants Round 12 starting on December 1st.
+Горещи след огромния успех на „Курс за герои“ на SubQuery Academy, ние сме горди да обявим, че ще предоставим първата ни възможност за хакатон за всички разработчици чрез Gitcoin Grants Round 12, започващ на 1 декември.
 
-SubQuery’s mission of making the world’s decentralised data more accessible relies on having a network of developers who are empowered to create and innovate within the Substrate/Polkadot ecosystem. Our partnership with Gitcoin reflects our commitment to provide opportunities for motivated developers around the world to build the applications of tomorrow.
+Мисията на SubQuery да направи децентрализираните данни по света по-достъпни разчита на наличието на мрежа от разработчици, които са овластени да създават и иновират в рамките на екосистемата Substrate/Polkadot. Нашето партньорство с Gitcoin отразява нашия ангажимент да предоставим възможности на мотивирани разработчици по целия свят да изграждат приложенията на утрешния ден.
 
-The  [Gitcoin GR12 Hackathon](https://gitcoin.co/hackathon/gr12/onboard)  takes place from December 1st — 16th 2021 with leading blockchain projects contributing to various prize pools.  [SubQuery has proposed 5 bounties with a total prize pool of up to $34,000](https://gitcoin.co/hackathon/gr12/?org=subquery). The prizes will be granted to those who have successfully completed the projects to the pre-set standards, and who deliver the most creative ideas, or those or solve areas to improve the core SubQuery SDK. A short summary of the challenges are below:
+[Gitcoin GR12 Hackathon](https://gitcoin.co/hackathon/gr12/onboard) се провежда от 1 до 16 декември 2021 г. с водещи блокчейн проекти, които допринасят за различни наградни фондове.  [SubQuery предложи 5 награди с общ награден фонд до $34 000](https://gitcoin.co/hackathon/gr12/?org=subquery). The prizes will be granted to those who have successfully completed the projects to the pre-set standards, and who deliver the most creative ideas, or those or solve areas to improve the core SubQuery SDK. A short summary of the challenges are below:
 
 -   [Create a unified block explorer that combines Substrate and EVM insights from Moonbeam and Astar into one easy to use application](https://gitcoin.co/issue/subquery/grants/1)  — US$12,000  **[Sponsored by Moonbeam and Astar]**
 -   [Work with SubQuery and the DeFi hub at Karura/Acala to build a dashboard that’s inspired by Zapper.fi or defisaver.com](https://gitcoin.co/issue/subquery/grants/2)  — US$8,000 **[Sponsored by Acala]**
