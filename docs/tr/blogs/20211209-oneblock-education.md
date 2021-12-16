@@ -16,24 +16,17 @@ Mevcut “Kahraman Kursu” Çince'ye çevrildi ve WeChat aracılığıyla tesli
 
 Kursun ilk oturumu 10 Ocak 2022'de planlanacak ve hazırlık aşamasında OneBlock+, normal Substrate Cumartesi programının bir parçası olarak Aralık 2021'de canlı bir Teknik Atölye gerçekleştirecek. Tarihler hakkında daha fazla bilgi
 
-SubQuery Uyuşmazlığı kanalında yayınlanacaktır. Bu arada, [SubQuery Akademisi aracılığıyla SubQuery ile ilgili uygulamaları nasıl oluşturacağınızı öğrenebilirsiniz](https://subquery.coassemble.com/unlock/dOKZW6O#/).</p> 
-
-
-
----
-
-
+SubQuery Uyuşmazlığı kanalında yayınlanacaktır. Bu arada, [SubQuery Akademisi aracılığıyla SubQuery ile ilgili uygulamaları nasıl oluşturacağınızı öğrenebilirsiniz](https://subquery.coassemble.com/unlock/dOKZW6O#/).
 
 ## OneBlock hakkında +
 
 OneBlock+, Çin'deki ilk ve en büyük blockchain geliştirici topluluğudur. OneBlock+'ta geliştiricilere alt yapı çalışmaları konusunda tam destek sağlıyor ve kariyer yollarını daha da ileriye taşıyoruz; Ekosistemin refahı için inşa etmek ve yenilik yapmak üzere birinci sınıf geliştiricileri çekmek için her sezon Polkadot Hackathons'a ev sahipliği yapıyoruz. Daha büyük bir Çin teknoloji kaynağı entegratörü olarak OneBlock+, teknoloji kursları, haber dağıtımları, AMA ve sektör için çevrimdışı etkinlikler gibi iş sağlamak için blok zinciri endüstrisinde ticari içgörülere ve deneyimlere sahip geliştiriciler, topluluklar, iş seçkinleri ve önemli medya ile de ortaktır. Kripto dünyasını birlikte şekillendirmek ister misiniz? Gelin ve bugün bize katılın!
 
-|  [Twitter](https://mobile.twitter.com/oneblock_)  |  [Medium](https://medium.com/@OneBlockplus?p=5a6193755f9b) |  [Discord](https://discord.gg/5aWx6Rch)  |  [Telegram](https://t.me/oneblock_dev)
-
+ [Twitter](https://mobile.twitter.com/oneblock_) | [Medium](https://medium.com/@OneBlockplus?p=5a6193755f9b) | [Discord](https://discord.gg/5aWx6Rch) | [Telegram](https://t.me/oneblock_dev)
 
 
 ## SubQuery Hakkında
 
-&[SubQuery](https://subquery.network/), Katman-1 blok zincirleri ve merkezi olmayan uygulamalar arasında merkezi olmayan bir veri toplama, indeksleme ve sorgulama katmanıdır. Protokol, SubQuery SDK ile blok zinciri veri özdeyişlerini soyutlayarak geliştiricilerin, özel arka uç teknolojileri üzerinde gereksiz yere çaba harcamadan temel ürünlerini dağıtmaya odaklanmalarına olanak tanır.
+[SubQuery](https://subquery.network/), Katman-1 blok zincirleri ve merkezi olmayan uygulamalar arasında merkezi olmayan bir veri toplama, indeksleme ve sorgulama katmanıdır. Protokol, SubQuery SDK ile blok zinciri veri özdeyişlerini soyutlayarak geliştiricilerin, özel arka uç teknolojileri üzerinde gereksiz yere çaba harcamadan temel ürünlerini dağıtmaya odaklanmalarına olanak tanır.
 
-​​[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)

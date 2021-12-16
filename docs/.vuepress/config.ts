@@ -10,27 +10,36 @@ export default defineUserConfig<DefaultThemeOptions>({
       description:
         "Explore and transform your chain data to build intuitive dApps faster!",
     },
+    "/bg/": {
+      lang: "bg",
+      title: "SubQuery Blog Posts",
+      description:
+        "Explore and transform your chain data to build intuitive dApps faster!.",
+    },
     "/de/": {
       lang: "de",
       title: "SubQuery Blog Posts",
       description:
         "Explore and transform your chain data to build intuitive dApps faster!.",
     },
-    /*
     "/es/": {
       lang: "es",
       title: "SubQuery Blog Posts",
       description:
         "Explore and transform your chain data to build intuitive dApps faster!.",
     },
-    */
+    "/fr/": {
+      lang: "fr",
+      title: "SubQuery Blog Posts",
+      description:
+        "Explore and transform your chain data to build intuitive dApps faster!.",
+    },
     "/id/": {
       lang: "id",
       title: "SubQuery Blog Posts",
       description:
         "Explore and transform your chain data to build intuitive dApps faster!.",
     },
-    /*
     "/it/": {
       lang: "it",
       title: "SubQuery Blog Posts",
@@ -49,7 +58,6 @@ export default defineUserConfig<DefaultThemeOptions>({
       description:
         "Explore and transform your chain data to build intuitive dApps faster!.",
     },
-    */
     "/ru/": {
       lang: "ru",
       title: "SubQuery Blog Posts",
@@ -143,6 +151,35 @@ export default defineUserConfig<DefaultThemeOptions>({
           },
         ],
       },
+      "/bg/": {
+        selectLanguageName: "Bulgarian",
+        sidebar: [
+          {
+            text: "Blogs",
+            link: "/bg/blogs/",
+            children: glob
+              .sync("docs/bg/blogs/*.md")
+              .map((f: string) => f.substr(f.indexOf("/")))
+              .sort((a, b) => (a > b ? -1 : 1)),
+          },
+          {
+            text: "Customer Announcements",
+            link: "/bg/customer_announcements/",
+            children: glob
+              .sync("docs/bg/customer_announcements/*.md")
+              .map((f: string) => f.substr(f.indexOf("/")))
+              .sort((a, b) => (a > b ? -1 : 1)),
+          },
+          {
+            text: "Recaps",
+            link: "bg/recaps/",
+            children: glob
+              .sync("docs/bg/recaps/*.md")
+              .map((f: string) => f.substr(f.indexOf("/")))
+              .sort((a, b) => (a > b ? -1 : 1)),
+          },
+        ],
+      },
       "/de/": {
         selectLanguageName: "German",
         sidebar: [
@@ -164,7 +201,7 @@ export default defineUserConfig<DefaultThemeOptions>({
           },
           {
             text: "Recaps",
-            link: "/recaps/",
+            link: "/de/recaps/",
             children: glob
               .sync("docs/de/recaps/*.md")
               .map((f: string) => f.substr(f.indexOf("/")))
@@ -193,9 +230,38 @@ export default defineUserConfig<DefaultThemeOptions>({
           },
           {
             text: "Recaps",
-            link: "/recaps/",
+            link: "/es/recaps/",
             children: glob
               .sync("docs/es/recaps/*.md")
+              .map((f: string) => f.substr(f.indexOf("/")))
+              .sort((a, b) => (a > b ? -1 : 1)),
+          },
+        ],
+      },
+      "/fr/": {
+        selectLanguageName: "French",
+        sidebar: [
+          {
+            text: "Blogs",
+            link: "/fr/blogs/",
+            children: glob
+              .sync("docs/fr/blogs/*.md")
+              .map((f: string) => f.substr(f.indexOf("/")))
+              .sort((a, b) => (a > b ? -1 : 1)),
+          },
+          {
+            text: "Customer Announcements",
+            link: "/fr/customer_announcements/",
+            children: glob
+              .sync("docs/fr/customer_announcements/*.md")
+              .map((f: string) => f.substr(f.indexOf("/")))
+              .sort((a, b) => (a > b ? -1 : 1)),
+          },
+          {
+            text: "Recaps",
+            link: "/fr/recaps/",
+            children: glob
+              .sync("docs/fr/recaps/*.md")
               .map((f: string) => f.substr(f.indexOf("/")))
               .sort((a, b) => (a > b ? -1 : 1)),
           },
@@ -222,7 +288,7 @@ export default defineUserConfig<DefaultThemeOptions>({
           },
           {
             text: "Recaps",
-            link: "/recaps/",
+            link: "/id/recaps/",
             children: glob
               .sync("docs/id/recaps/*.md")
               .map((f: string) => f.substr(f.indexOf("/")))
@@ -251,7 +317,7 @@ export default defineUserConfig<DefaultThemeOptions>({
           },
           {
             text: "Recaps",
-            link: "/recaps/",
+            link: "/it/recaps/",
             children: glob
               .sync("docs/it/recaps/*.md")
               .map((f: string) => f.substr(f.indexOf("/")))
@@ -280,7 +346,7 @@ export default defineUserConfig<DefaultThemeOptions>({
           },
           {
             text: "Recaps",
-            link: "/recaps/",
+            link: "/ja/recaps/",
             children: glob
               .sync("docs/ja/recaps/*.md")
               .map((f: string) => f.substr(f.indexOf("/")))
@@ -309,7 +375,7 @@ export default defineUserConfig<DefaultThemeOptions>({
           },
           {
             text: "Recaps",
-            link: "/recaps/",
+            link: "/ko/recaps/",
             children: glob
               .sync("docs/ko/recaps/*.md")
               .map((f: string) => f.substr(f.indexOf("/")))
@@ -338,7 +404,7 @@ export default defineUserConfig<DefaultThemeOptions>({
           },
           {
             text: "Recaps",
-            link: "/recaps/",
+            link: "/ru/recaps/",
             children: glob
               .sync("docs/ru/recaps/*.md")
               .map((f: string) => f.substr(f.indexOf("/")))
@@ -367,7 +433,7 @@ export default defineUserConfig<DefaultThemeOptions>({
           },
           {
             text: "Recaps",
-            link: "/recaps/",
+            link: "/th/recaps/",
             children: glob
               .sync("docs/th/recaps/*.md")
               .map((f: string) => f.substr(f.indexOf("/")))
@@ -396,7 +462,7 @@ export default defineUserConfig<DefaultThemeOptions>({
           },
           {
             text: "Recaps",
-            link: "/recaps/",
+            link: "/tr/recaps/",
             children: glob
               .sync("docs/tr/recaps/*.md")
               .map((f: string) => f.substr(f.indexOf("/")))
@@ -425,7 +491,7 @@ export default defineUserConfig<DefaultThemeOptions>({
           },
           {
             text: "Recaps",
-            link: "/recaps/",
+            link: "/uk/recaps/",
             children: glob
               .sync("docs/uk/recaps/*.md")
               .map((f: string) => f.substr(f.indexOf("/")))
@@ -454,7 +520,7 @@ export default defineUserConfig<DefaultThemeOptions>({
           },
           {
             text: "Recaps",
-            link: "/recaps/",
+            link: "/vi/recaps/",
             children: glob
               .sync("docs/vi/recaps/*.md")
               .map((f: string) => f.substr(f.indexOf("/")))
@@ -483,7 +549,7 @@ export default defineUserConfig<DefaultThemeOptions>({
           },
           {
             text: "Recaps",
-            link: "/recaps/",
+            link: "/zh/recaps/",
             children: glob
               .sync("docs/zh/recaps/*.md")
               .map((f: string) => f.substr(f.indexOf("/")))
