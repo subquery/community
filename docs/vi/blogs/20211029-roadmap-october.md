@@ -6,7 +6,7 @@
 
 Hôm nay, chúng tôi rất vui mừng khi lần đầu tiên được công bố lộ trình kỹ thuật chi tiết của mình. Mục tiêu của SubQuery là trở thành nhà cung cấp dữ liệu hàng đầu trong hệ sinh thái Polkadot và sự hỗ trợ mà chúng tôi nhận được từ cộng đồng để giúp chúng tôi đạt được điều này thực sự tuyệt vời. Từ lúc chính thức thành lập vào cuối năm 2020 thông qua một [nguồn tài trợ Web3](https://web3.foundation/) cho đến khi phát hành phiên bản mã nguồn mở đầu tiên của chúng tôi vào tháng 1 năm 2021 rồi cả khi [kết thúc vòng gọi vốn Series A vào tháng 9](https://subquery.medium.com/series-a-1abed6c1c2af), chúng tôi xin chân thành cảm ơn sự hỗ trợ của tất cả các bạn đã giúp chúng tôi đi được đến giai đoạn này!
 
-Khi chúng tôi tiếp tục đạt được động lực, đã đến lúc chúng tôi phải chia sẻ nhiều hơn về kế hoạch của chúng tôi cho tương lai, bao gồm cả lộ trình kỹ thuật của chúng tôi. Chúng tôi rất vui mừng về cách phát triển tiếp theo của SubQuery sẽ thúc đẩy nhiều giá trị hơn nữa cho hệ sinh thái Polkadot và mang lại nhiều cơ hội hơn tham gia vào sự phát triển của chúng tôi cho cộng đồng.
+Khi chúng tôi tiếp tục đạt được động lực, đã đến lúc chúng tôi cần phải chia sẻ nhiều hơn về kế hoạch trong tương lai, bao gồm cả lộ trình kỹ thuật. Chúng tôi rất vui mừng về cách phát triển tiếp theo của SubQuery sẽ thúc đẩy nhiều giá trị hơn nữa cho hệ sinh thái Polkadot và mang lại nhiều cơ hội hơn cho cộng đồng để cùng tham gia vào sự phát triển của chúng tôi.
 
 ## Tương lai của chúng ta
 
