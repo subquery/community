@@ -4,8 +4,7 @@
 
 **SubQuery vertieft sich in die Parachain-Auktionsdaten**
 
-Für Polkadot wurde gerade ein großer Meilenstein erreicht, der Abschluss der ersten Runde der Parachain-Auktionen. In den letzten Wochen haben wir einen hitzigen Kampf um die Polkadot-Krone, den ersten Parachain-Slot, zwischen Moonbeam und Acala beobachtet. Nach einem hart umkämpften Rennen wurde Acala als Gewinner der Auktion bekannt gegeben. Wenn Sie mehr darüber erfahren möchten, wie die Gewinner in dieser modernen Kerzenauktion ausgewählt werden, dann werfen Sie einen Blick auf
-Dan Reecer (aus Acala) ausgezeichnete Zusammenfassung</ 0>.</p> 
+Für Polkadot wurde gerade ein großer Meilenstein erreicht, der Abschluss der ersten Runde der Parachain-Auktionen. In den letzten Wochen haben wir einen hitzigen Kampf um die Polkadot-Krone, den ersten Parachain-Slot, zwischen Moonbeam und Acala beobachtet. Nach einem hart umkämpften Rennen wurde Acala als Gewinner der Auktion bekannt gegeben. Wenn Sie mehr darüber erfahren möchten, wie die Gewinner in dieser modernen Kerzenauktion ausgewählt werden, dann werfen Sie einen Blick auf [Dan Reecer (aus Acala) ausgezeichnete Zusammenfassung](https://twitter.com/danreecer_/status/1364646604024786949).
 
 SubQuery ist der führende Datenindexierungsdienst von Polkadot, und in der letzten Woche haben wir Millionen von täglichen Anfragen an die meisten Crowdloan-Dashboards, Beitrags-Apps und Analyse-Websites gestellt. Teams wie [SubVis](https://www.subvis.io/), [Parallel Finance](https://parallel.fi/) und [DotMarketCap](https://dotmarketcap.com/) verlassen sich auf SubQuery, um Echtzeitdaten zu den Crowdloans und anderen On-Chain-Daten direkt an ihre Webseiten und Apps.
 
@@ -57,8 +56,6 @@ Woher also tragen die Leute bei? SubQuery hat festgestellt, dass [Acalas LCDOT](
 
 Darüber hinaus erwies sich [Binance](https://www.binance.com/en/dotslot) mit 27 % der Beiträge aller meisten Teilnehmer als beliebter Beteiligungsweg. Wir runden die Signifikanzbeitragsmethoden mit [Parallel Finance](https://crowdloan.parallel.fi/#/auction/polkadot) bei 11 % der Beiträge und [Kraken](https://www.kraken.com/learn/parachain-auctions) bei 7 % ab. Der zentralisierte Austausch ist nach wie vor eindeutig eine bevorzugte Methode der Teilnahme.
 
-
-
 ## Über das SubQuery-Netzwerk
 
 SubQuery ist der führende Datenanbieter von Polkadot und unterstützt eine Indexierung & Abfrageschicht zwischen Layer-1-Blockchains (Polkadot) und dezentralen Anwendungen. Der Datendienst von SubQuery wird heute von den meisten Crowdloan- und Parachain-Auktionswebsites von Polkadot und Kusama live verwendet.
@@ -66,8 +63,6 @@ SubQuery ist der führende Datenanbieter von Polkadot und unterstützt eine Inde
 Das Protokoll von SubQuery abstrahiert mit dem SubQuery SDK die Eigenheiten der Blockchain-Daten, sodass sich Entwickler auf die Bereitstellung ihres Kernprodukts konzentrieren können, ohne unnötigen Aufwand für benutzerdefinierte Backend-Technologien zu verschwenden.
 
 [Linktree](https://linktr.ee/subquerynetwork)  |  [Webseite](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
-
-
 
 ## Appendix
 
