@@ -10,7 +10,7 @@ SubQuery kısa süre önce, özellikle Polkadot ekosistemindeki veri indeksleme 
 
 Video içeriğine yazılı öğreticiler, slaytlar, Lab çalışma kitapları ve bitmiş GitHub kod deposuna bağlantılar eşlik eder. Kurs, bir geliştiricinin SubQuery hakkında hiçbir şey bilmeden yeni blok zinciri uygulamaları için bir SubQuery veri kaynağı oluşturma konusunda uzman olmasını sağlamak için tasarlanmıştır. Bu, karmaşık SubQuery Projeleri geliştirmeyi ve [bunları SubQuery Projelerinde dağıtmayı](https://project.subquery.network/) içerir.
 
-OneBlock+'ın Kurucusu Yaxun, _"SubQuery'nin Çin'deki resmi eğitim ortağı olmaktan gurur duyuyoruz. Çin'de 1500'den fazla Substrate geliştiricisi eğitmiş olarak, onları Polkadot ekosistemindeki lider veri indeksleyiciyle tanıştırmaktan heyecan duyuyoruz. SubQuery, öğrencilerimizin öğrenmesi ve yenilikçi dApp'ler oluşturması için temel bir altyapı parçasıdır."</p>
+OneBlock+'ın Kurucusu Yaxun, _"SubQuery'nin Çin'deki resmi eğitim ortağı olmaktan gurur duyuyoruz. Çin'de 1500'den fazla Substrate geliştiricisi eğitmiş olarak, onları Polkadot ekosistemindeki lider veri indeksleyiciyle tanıştırmaktan heyecan duyuyoruz. SubQuery, öğrencilerimizin öğrenmesi ve yenilikçi dApp'ler oluşturması için temel bir altyapı parçasıdır."_
 
 Mevcut “Kahraman Kursu” Çince'ye çevrildi ve WeChat aracılığıyla teslim edilecek. OneBlock+, Tencents Konferans platformunda haftalık “Ofis Saatleri” aracılığıyla öğrencilere ek öğrenme desteği sağlayacaktır.
 
