@@ -11,10 +11,10 @@ Hôm nay chúng ta sẽ nói về cách Mạng SubQuery hoạt động ở cấp
 
 Những người tham gia vào Mạng SubQuery
 
-Có ba loại tham gia trong Mạng SubQuery:
+Những người tham gia vào Mạng SubQuery được chia thành 3 dạng:
 
--   **Người tiêu dùng**: Người tiêu dùng sẽ đưa ra yêu cầu đối với Mạng SubQuery về dữ liệu cụ thể và trả một số tiền được quảng cáo cho SQT
--   **Bộ lập chỉ mục**: Người lập chỉ mục sẽ lưu trữ các Dự án SubQuery trong cơ sở hạ tầng của riêng họ, chạy dịch vụ node và truy vấn để lập chỉ mục dữ liệu và trả lời các yêu cầu GraphQL.
+-   **Người tiêu dùng**: Người tiêu dùng sẽ đưa ra yêu cầu đối với Mạng SubQuery về dữ liệu cụ thể và trả một số lượng SQT được báo trước đó
+-   **Người lập chỉ mục**: Người lập chỉ mục sẽ lưu trữ các Dự án SubQuery trong cơ sở hạ tầng của riêng họ, chạy dịch vụ node và truy vấn để lập chỉ mục dữ liệu và trả lời các yêu cầu GraphQL.
 -   **Người ủy quyền**: Người ủy quyền sẽ tham gia vào mạng bằng cách hỗ trợ Người lập chỉ mục yêu thích của họ để kiếm phần thưởng
 
 ## Indexer (Người lập chỉ mục), Người tiêu dùng và Truy vấn
