@@ -6,11 +6,11 @@
 
 **Chúng tôi vui mừng thông báo rằng SubQuery và Darwinia Network đã hình thành quan hệ đối tác chiến lược.**
 
-[Darwinia](https://darwinia.network/) gần đây đã phát hành hai dự án SubQuery mới, một cho [mạng chính](https://explorer.subquery.network/subquery/darwinia-network/darwinia) và một cho [Crab](https://explorer.subquery.network/subquery/darwinia-network/crab), canary network của họ. Bằng cách tiết lộ dữ liệu của họ trên SubQuery, Darwinia đang mở ra cánh cửa cho hệ sinh thái ứng dụng của họ để xây dựng các ứng dụng hấp dẫn hơn trên nguồn dữ liệu miễn phí này.
+[Darwinia](https://darwinia.network/) gần đây đã phát hành hai dự án SubQuery mới, một cho [mạng chính](https://explorer.subquery.network/subquery/darwinia-network/darwinia) và một cho [Crab](https://explorer.subquery.network/subquery/darwinia-network/crab), canary network của họ. Bằng cách tiết lộ dữ liệu của họ trên SubQuery, Darwinia đang mở ra cánh cửa cho hệ sinh thái của họ để xây dựng các ứng dụng hấp dẫn hơn trên nguồn dữ liệu miễn phí này.
 
 > "Việc sử dụng SubQuery để truy vấn dữ liệu trên chuỗi của Darwinia đã trở nên rất đơn giản và linh hoạt. SubQuery coi dữ liệu blockchain như một biểu đồ và tận dụng khả năng mở rộng của GraphQL để giới thiệu chức năng bổ sung. Chúng tôi tin rằng trong tương lai, giao diện dữ liệu trên chuỗi substrate sẽ chủ yếu sử dụng GraphQL, SubQuery đang biến điều này thành hiện thực". — Darwinia
 
-Dịch vụ của [SubQuery](https://subquery.network/) giúp Darwinia mở khóa dữ liệu chuỗi và giúp hệ sinh thái ứng dụng của họ dễ truy cập hơn. Các ứng dụng, ví dụ như thị trường NFT, có thể sử dụng dữ liệu từ Darwnia’s SubQuery để hiển thị thống kê đấu giá và thậm chí có thể mở rộng dự án Darwinia SubQuery để tổng hợp và chuyển đổi dữ liệu nhằm cung cấp thông tin chi tiết về dữ liệu độc đáo hơn nữa.
+Dịch vụ của [SubQuery](https://subquery.network/) giúp Darwinia mở khóa dữ liệu chuỗi và giúp hệ sinh thái ứng dụng của họ dễ truy cập hơn. Các ứng dụng, ví dụ như thị trường NFT, có thể sử dụng dữ liệu từ Darwnia SubQuery để hiển thị thống kê đấu giá và thậm chí có thể mở rộng dự án Darwinia SubQuery để tổng hợp và chuyển đổi dữ liệu nhằm cung cấp thông tin chi tiết về dữ liệu độc đáo hơn nữa.
 
 ![](https://miro.medium.com/max/1400/0*n2sGrQWOkIFXxMnq)
 
@@ -24,7 +24,7 @@ Truy vấn cho biết rằng chúng tôi cần nhận 20 bản ghi mới nhất 
 
 ![](https://miro.medium.com/max/1400/0*z-9giNk4RnhxliYy)
 
-[SubQuery](https://subquery.network/) là một lớp tổng hợp dữ liệu sẽ hoạt động giữa các blockchains layer-1 (Darwinia) và DApp. Giải pháp tổng hợp và sắp xếp dữ liệu từ [Darwinia](https://darwinia.network/) và các blockchain khác, cung cấp dữ liệu có cấu trúc tốt cho dApp của họ và cho các nhà phát triển khác sử dụng trong nhiều dự án. Dịch vụ này cho phép các nhà phát triển DApp tập trung vào vấn đề cốt lõi và giao diện người dùng của họ mà không cần lãng phí thời gian vào việc xây dựng chương trình phụ trợ tùy chỉnh để xử lý dữ liệu.
+[SubQuery](https://subquery.network/) là một lớp tổng hợp dữ liệu sẽ hoạt động giữa các blockchain layer-1 (Darwinia) và DApp. Giải pháp tổng hợp và sắp xếp dữ liệu từ [Darwinia](https://darwinia.network/) và các blockchain khác, cung cấp dữ liệu có cấu trúc tốt cho dApp của họ và cho các nhà phát triển khác sử dụng trong nhiều dự án. Dịch vụ này cho phép các nhà phát triển DApp tập trung vào tính năng cốt lõi và giao diện người dùng của họ mà không cần lãng phí thời gian vào việc xây dựng chương trình phụ trợ tùy chỉnh để xử lý dữ liệu.
 
 Tìm hiểu thêm về SubQuery
 
@@ -32,7 +32,7 @@ Tìm hiểu thêm về SubQuery
 
 Mạng Darwinia là một giao thức cầu xuyên chuỗi không đồng nhất phi tập trung được xây dựng trên Substrate, tập trung vào trao đổi, trao đổi và thị trường mã thông báo xuyên chuỗi phi tập trung.
 
-Darwinia cũng đóng vai trò là cơ sở hạ tầng quan trọng để nâng cấp ứng dụng chuỗi đơn lên phiên bản chuỗi chéo, bao gồm thị trường Defi, Game, DEX, NFT, ... Tầm nhìn của họ là xây dựng Internet của Token trong tương lai.
+Darwinia cũng đóng vai trò là cơ sở hạ tầng quan trọng để nâng cấp ứng dụng chuỗi đơn lên phiên bản chuỗi chéo, bao gồm thị trường Defi, Game, DEX, NFT,. Tầm nhìn của họ là xây dựng Internet của Token trong tương lai.
 
 Tất cả những gì bạn cần biết về Darwinia
 
