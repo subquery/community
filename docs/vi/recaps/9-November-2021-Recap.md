@@ -22,7 +22,7 @@ Mặc dù đang rất bận rộn với việc xây dựng Mạng SubQuery, chú
 
 # Phát triển sản phẩm cốt lõi
 
-## Mở rộng quy mô dịch vụ được lưu trữ của chúng tôi
+## Mở rộng quy mô dịch vụ được lưu trữ
 
 Dự án SubQuery đã có một sự tăng trưởng bùng nổ trong tháng qua khi [hàng nghìn học viên](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html) đã tạo ra rất nhiều dự án hơn trong dịch vụ được lưu trữ của chúng tôi ([project.subquery.network](https://project.subquery.network/)) chỉ trong vòng một vài tuần ngắn ngủi.
 
@@ -30,59 +30,59 @@ Chúng tôi đã cán một cột mốc quan trọng với hơn 2.000 dự án �
 
 Nếu bạn muốn nâng cấp dự án SubQuery của mình để nhận được nguồn cung ứng chuyên dụng này, hãy liên hệ với chúng tôi qua [sales@subquery.network](mailto:sales@subquery.network).
 
-## Supporting External Chain Type Files in our Project Manifest
+## Hỗ trợ cho các tệp ngoại chuỗi trong Tập tin kê khai Dự án
 
-In November we launched  [**version 0.2.0**](https://doc.subquery.network/create/manifest/)  of our project manifest file (`project.yaml`). This new version provides developers with various improvements that have been requested by customers.
+Trong tháng 11, chúng tôi đã khởi chạy [**phiên bản 0.2.0**](https://doc.subquery.network/create/manifest/) của Tập tin kê khai Dự án (`project.yaml`). Phiên bản mới này cung cấp cho các nhà phát triển nhiều cải tiến đã được yêu cầu bởi khách hàng.
 
-Most importantly, you can now reference a chain type definition file that has all the custom types included when you’re indexing a custom substrate chain. This quickly allows you to connect a new SubQuery project to any substrate-based chain, including all of Kusama’s parachains.
+Quan trọng nhất, giờ đây bạn có thể tham chiếu khái niệm của một loại chuỗi bất kỳ bao gồm các tuỳ chỉnh khi bạn lập chỉ mục chuỗi Substrate. Điều này cho phép bạn kết nối một dự án SubQuery mới với bất kỳ chuỗi Substrate nào bao gồm tất cả các parachain của Kusama.
 
-[You can read more about this new feature here](https://blog.subquery.network/blogs/20211105-november-technical-update.html#support-for-external-chain-type-files-in-project-manifest).
+[Bạn có thể đọc thêm về tính năng mới này tại đây](https://blog.subquery.network/blogs/20211105-november-technical-update.html#support-for-external-chain-type-files-in-project-manifest).
 
-## Moonriver EVM Support
+## Hỗ trợ Moonbeam EVM
 
 ![](https://miro.medium.com/max/600/0*B27QVtvcR6nXA9ff.gif)
 
-As previously announced we have implemented support for the Moonbeam and Moonriver networks in SubQuery. In November we followed up with all the developer resources that you need to get started.  [You can read the instructions here](https://blog.subquery.network/blogs/20211105-november-technical-update.html#moonbeam-evm-support).
+Như đã thông báo trước đây, chúng tôi đã triển khai hỗ trợ cho mạng Moonbeam và Moonriver trong SubQuery. Vào tháng 11, chúng tôi đã cung cấp tất cả các tài nguyên dành cho nhà phát triển mà bạn cần để có thể bắt đầu.  [Bạn có thể đọc hướng dẫn tại đây](https://blog.subquery.network/blogs/20211105-november-technical-update.html#moonbeam-evm-support).
 
-Additionally, Scott was able to present this entire workflow to the  [Moonbuilders workshop](https://www.crowdcast.io/e/moonbuilders-ws/10)  for everyone to watch. Perfect timing for the lead up to the Gitcoin Grants that we are sponsoring (more on that below).
+Ngoài ra, Scott đã giới thiệu toàn bộ quy trình làm việc này tại [hội thảo Moonbuilders](https://www.crowdcast.io/e/moonbuilders-ws/10) cho tất cả mọi người. Đây là thời điểm hoàn hảo để hướng đến Gitcoin Grants mà chúng tôi đang bảo trợ (thông tin chi tiết ở dưới đây).
 
-# Community
+# Phát triển cộng đồng
 
-## Gitcoin Hackathon
+## Hackathon Gitcoin
 
-Hot on the heels of the overwhelming success of the SubQuery Academy’s  _Hero Course_, we were proud to announce that we would be providing our first hackathon opportunity for all developers via  [Gitcoin Grants Round 12](https://gitcoin.co/hackathon/gr12/?org=subquery)  starting on December 1st.
+Tiếp nối thành công vượt bậc của _Khóa học Người hùng_ của Học viện SubQuery, chúng tôi tự hào thông báo rằng chúng tôi sẽ tổ chức hackathon đầu tiên cho tất cả các nhà phát triển thông qua [Gitcoin Grants Round 12](https://gitcoin.co/hackathon/gr12/?org=subquery) bắt đầu từ ngày 1 tháng 12.
 
-SubQuery has proposed 5 bounties with a total prize pool of up to $34,000:
+SubQuery đã đề xuất 5 gói thưởng với tổng giá trị giải thưởng lên đến 34.000 đô la:
 
--   [Create a unified block explorer that combines Substrate and EVM insights from Moonbeam and Astar into one easy to use application](https://gitcoin.co/issue/subquery/grants/1)  — US$12,000 [Sponsored by Moonbeam and Astar]
--   [Work with SubQuery and the DeFi hub at Karura/Acala to build a dashboard that’s inspired by Zapper.fi or defisaver.com](https://gitcoin.co/issue/subquery/grants/2)  — US$8,000 [Sponsored by Acala]
--   [Create a staking dashboard that shows the best staking opportunities across Polkadot and its various parachains](https://gitcoin.co/issue/subquery/grants/3)  — US$3,000
--   [Build a marketplace explorer for all RMRK protocol based NFTs](https://gitcoin.co/issue/subquery/grants/4)  — US$2,000
--   [Extend the @subql/node service to index data from another layer 1 chain](https://gitcoin.co/issue/subquery/grants/5)  — US$12,000
+-   [Tạo trình khám phá khối hợp nhất kết hợp thông tin Substrate và EVM chi tiết từ Moonbeam và Astar thành một ứng dụng dễ sử dụng](https://gitcoin.co/issue/subquery/grants/1) - US$12.000 [Được bảo trợ bởi Moonbeam và Astar]
+-   [Làm việc với SubQuery và trung tâm DeFi tại Karura/Acala để xây dựng trang tổng quan lấy cảm hứng từ Zapper.fi hoặc defisaver.com ](https://gitcoin.co/issue/subquery/grants/2) - USD 8.000 [Acala bảo trợ]
+-   [Tạo trang tổng quan staking hiển thị các tuỳ chọn staking tốt nhất trên Polkadot và các parachain khác nhau của Polkadot](https://gitcoin.co/issue/subquery/grants/3) - US$3.000
+-   [Xây dựng trình khám phá thị trường cho tất cả NFT dựa trên giao thức RMRK](https://gitcoin.co/issue/subquery/grants/4) - US$2.000
+-   [Mở rộng dịch vụ @subql/node để lập chỉ mục dữ liệu từ một chuỗi lớp 1 khác](https://gitcoin.co/issue/subquery/grants/5) - US$12.000
 
-[You can read more about these bounties here.](https://blog.subquery.network/blogs/20211120-gitcoin12-hackathon.html)
+[Bạn có thể đọc thêm về các giải thưởng này tại đây.](https://blog.subquery.network/blogs/20211120-gitcoin12-hackathon.html)
 
-## Analysis into the Polkadot Crowdloans
+## Phân tích về Crowdloan trên Polkadot
 
-SubQuery is Polkadot’s leading data indexing service, and over the past week, we’ve been powering millions of daily requests to the majority of the crowdloan dashboards, contribution apps, and analytics websites. Teams like  [**SubVis**](https://www.subvis.io/),  [**Parallel Finance**](https://parallel.fi/), and  [**DotMarketCap**](https://dotmarketcap.com/)  rely on SubQuery to provide real-time data on the crowdloans and other on-chain data directly to their websites and apps.
+SubQuery là dịch vụ lập chỉ mục dữ liệu hàng đầu của Polkadot. Trong tuần qua, chúng tôi đã xử lý hàng triệu yêu cầu mỗi ngày cho phần lớn các trang tổng quan gọi vốn cộng đồng, các ứng dụng và cả những website phân tích dữ liệu. Các đội ngũ như [**SubVis**](https://www.subvis.io/), [**Parallel Finance**](https://parallel.fi/) và [** DotMarketCap **](https://dotmarketcap.com/) sử dụng SubQuery để cung cấp dữ liệu thời gian thực trên các kênh huy động vốn cộng đồng và cả những dữ liệu trực tuyến khác một cách trực tiếp cho website và ứng dụng của họ.
 
 ![](https://miro.medium.com/max/60/0*HfsoOwpat76ip6Jg?q=20)
 
 ![](https://miro.medium.com/max/700/0*HfsoOwpat76ip6Jg)
 
-We recently took a deep dive into the Polkadot crowdloans (specifically the title fight between Acala and Moonbeam).  [You should read it here if you haven’t already](https://blog.subquery.network/blogs/20211124-polkadot-crowdloans.html).
+Gần đây, chúng tôi đã tìm hiểu sâu hơn về Crowdloan trên Polkadot (cụ thể là cuộc cạnh tranh giữa Acala và Moonbeam).  [Nếu bạn chưa đọc thì có thể tìm hiểu thêm ở đây](https://blog.subquery.network/blogs/20211124-polkadot-crowdloans.html).
 
-# Other things you might have missed
+# Một vài thứ khác mà bạn có thể đã bỏ lỡ
 
--   We’re working closely with the new team at  [Web3Go](https://www.web3go.xyz/)  to  [provide data anaysis tools to the SubQuery ecosystem.](https://blog.subquery.network/customer_announcements/20211110-web3go.html)
--   [Listen to Sam and James on Brave New Coin’s podcast](https://bravenewcoin.com/insights/podcasts/subquery-connecting-the-dots-on-polkadot).
--   James talked to Acala’s Brett Kolodny to talk about how  [Acala use SubQuery in their stack](https://www.youtube.com/watch?v=Wbxwj8K67Lw).
--   Siqi, our China representative,  [talked to Acala Network and Polkaworld about the latest in web3](https://www.huoxing24.com/live/24313016).
--   We released modules  [1](https://doc.subquery.network/academy/herocourse/module1/)  to  [4](https://doc.subquery.network/academy/herocourse/module4/)  of our  [SubQuery Hero Course](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html)
--   James also talked to Jacky to explore Litentry’s plans  [for a future DID protocol](https://www.youtube.com/watch?v=Rqlpo9QIVyk).
+-   Chúng tôi đang hợp tác chặt chẽ với đội ngũ [Web3Go](https://www.web3go.xyz/) để [cung cấp các công cụ xử lý dữ liệu cho hệ sinh thái SubQuery.](https://blog.subquery.network/customer_announcements/20211110-web3go.html)
+-   [Hãy nghe Sam và James trên podcast của Brave New Coin](https://bravenewcoin.com/insights/podcasts/subquery-connecting-the-dots-on-polkadot).
+-   James đã cùng với Brett Kolodny của Acala nói về việc [Acala sử dụng SubQuery như thế nào](https://www.youtube.com/watch?v=Wbxwj8K67Lw).
+-   Siqi, đại diện cộng đồng Trung Quốc của chúng tôi, [đã nói chuyện với Acala Network và Polkaworld về những thông tin mới nhất trong web3](https://www.huoxing24.com/live/24313016).
+-   Chúng tôi đã phát hành các mô-đun [1](https://doc.subquery.network/academy/herocourse/module1/) đến [4](https://doc.subquery.network/academy/herocourse/module4/) của [Khóa học Người hùng SubQuery](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html)
+-   James cũng đã nói chuyện với Jacky để khám phá các kế hoạch của Litentry [trong việc xây dựng một giao thức DID trong tương lai](https://www.youtube.com/watch?v=Rqlpo9QIVyk).
 
-As always, please  [join our social channels](https://linktr.ee/subquerynetwork)  (especially our  [Discord](https://discord.com/invite/subquery)) to stay updated on our latest news and announcements.
+Như thường lệ, hãy [tham gia các kênh xã hội của chúng tôi](https://linktr.ee/subquerynetwork) (đặc biệt là [Discord](https://discord.com/invite/subquery)) để được cập nhật những tin tức và thông báo mới nhất.
 
-James, Sam, and the SubQuery Team
+James, Sam và Đội ngũ SubQuery
 
 [Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
