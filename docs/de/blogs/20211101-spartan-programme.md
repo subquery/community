@@ -14,7 +14,7 @@ Heute freuen wir uns, die Schaffung des SubQuery Spartan-Programms bekannt zu ge
 
 Zusätzlich zu der Möglichkeit, Ambassador zu werden, erhalten Discord-Mitglieder mit der Spartan-Rolle besondere Vergünstigungen und Rechte innerhalb der SubQuery-Community.
 
-Um mehr über unser Spartan-Programm zu erfahren und an unserem November-Gewinnspiel teilzunehmen, treten Sie bitte unserem Discord bei</a>.
+Um mehr über unser Spartan-Programm zu erfahren und an unserem November-Gewinnspiel teilzunehmen, treten Sie bitte unserem [Discord bei](https://discord.com/invite/subquery).
 
 # Über SubQuery
 
