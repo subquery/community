@@ -40,7 +40,7 @@ Im August startete SubQuery sein Ambassador-Programm, um Community-Leader zu fin
 
 Das Spartan-Programm existiert in unserer Discord-Community und soll unser etabliertes Ambassador-Programm durch eine andere Stufe oder Mitwirkende ergänzen. Aufstrebende Mitglieder können monatliche Aufgaben und Wettbewerbe abschließen, um Spartaner zu werden. Die Spartaner, die dann an die Spitze ihrer Klasse aufsteigen, werden von unseren bestehenden Botschaftern nominiert, um sich ihren Reihen anzuschließen.
 
-Um mehr über unser Spartan-Programm zu erfahren und an unserem November-Gewinnspiel teilzunehmen, treten Sie bitte unserem Discord bei</a>.
+Um mehr über unser Spartan-Programm zu erfahren und an unserem November-Gewinnspiel teilzunehmen, treten Sie bitte unserem [Discord bei](https://discord.com/invite/subquery).
 
 [Lesen Sie hier mehr über unser Spartan-Programm](https://subquery.medium.com/subquerys-new-spartan-programme-cf6c13653c6f)
 
