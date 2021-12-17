@@ -51,11 +51,11 @@ Delegator có thể ủy quyền số SQT của họ cho Indexer, mỗi Indexer 
 
 ![](https://miro.medium.com/max/1400/1*YoN7PV7h3a2nAFN-ODqILg.png)
 
-Delegator có thể ủy quyền phần SQT rảnh rỗi của họ cho Indexer và những Delegator đó sẽ được thưởng bằng một phần doanh thu phí truy vấn mà Indexer được thưởng
+Delegator có thể ủy quyền phần SQT nhàn rỗi của họ cho Indexer và những Delegator đó sẽ được thưởng bằng một phần doanh thu phí truy vấn mà Indexer được thưởng
 
 _Tỷ lệ chia sẻ doanh thu phí truy vấn_ mà Indexer quảng cáo bị khóa cho mỗi chu kỳ 28 ngày và việc giảm tỷ lệ này phải được quảng cáo trong toàn bộ chu kỳ staking 28 ngày trước khi có hiệu lực.
 
-Tương tự, Delegator có thể xóa số tiền ủy quyền của họ bất kỳ lúc nào, nhưng họ sẽ chỉ nhận được phần thưởng khi họ đã ủy quyền cho toàn bộ chu kỳ staking.
+Tương tự, Delegator có thể lấy lại số tiền ủy quyền của họ bất kỳ lúc nào, nhưng họ sẽ chỉ nhận được phần thưởng khi họ đã ủy quyền cho toàn bộ chu kỳ staking.
 
 ![](https://miro.medium.com/max/1400/0*we0k4A07pbj86COZ)
 
@@ -63,12 +63,12 @@ Delegator sẽ chỉ nhận được phần thưởng khi họ đã ủy quyền
 
 ## Đơn đặt hàng
 
-Lập chỉ mục một dự án cần nhiều thời gian và tiền bạc, có rất nhiều dữ liệu trên chuỗi. Để khuyến khích Người lập chỉ mục lập chỉ mục và hỗ trợ Dự án SubQuery hoàn toàn mới, chúng tôi có kế hoạch triển khai cơ chế thị trường cho Người tiêu dùng để báo hiệu doanh thu đảm bảo cho Người lập chỉ mục của Dự án SubQuery mới.
+Lập chỉ mục một dự án tiêu tốn nhiều thời gian và tiền bạc vì có rất nhiều dữ liệu trên chuỗi. Để khuyến khích những Người lập chỉ mục bắt đầu lập chỉ mục và hỗ trợ một Dự án SubQuery hoàn toàn mới, chúng tôi có kế hoạch triển khai cơ chế thị trường cho Người tiêu dùng để báo hiệu doanh thu đảm bảo cho Người lập chỉ mục của Dự án SubQuery mới đó.
 
-Chúng tôi đang gọi chúng là đơn đặt hàng và Người tiêu dùng có thể quảng cáo một hợp đồng theo chuỗi với một mức giá và số lượng yêu cầu đã định. Người lập chỉ mục có thể xem điều này và chọn điền vào các hợp đồng.
+Chúng tôi đang gọi chúng là đơn đặt hàng và Người tiêu dùng có thể gửi một hợp đồng trên chuỗi với một mức giá và số lượng yêu cầu đã định trước. Người lập chỉ mục có thể xem các hợp động này và quyết định có thực hiện nó hay không.
 
 ![](https://miro.medium.com/max/1400/1*IPtaZlt24E7h9bKNZWdSCw.png)
 
-Người tiêu dùng có thể quảng cáo một đơn đặt hàng trên chuỗi với một mức giá và số lượng yêu cầu đã định.
+Người tiêu dùng có thể gửi một hợp đồng trên chuỗi với một mức giá và số lượng yêu cầu đã định trước.
 
 Các đơn đặt hàng cũng có thể được đặt trên các Dự án SubQuery hiện có để thu hút thêm Indexer nhằm cải thiện tính cạnh tranh và giảm giá
