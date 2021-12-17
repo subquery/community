@@ -1,22 +1,22 @@
-# From Zero to Hello World in Just 5 Minutes
+# От нула до Hello World само за 5 минути
 
 ![](https://miro.medium.com/max/1400/1*g51P_PPoseNqEfCBgvpXXA.png)
 
-**We are working hard to help every developer learn how to use SubQuery to explore and transform their chain data so they can build intuitive dApps faster.**
+**Работим усилено, за да помогнем на всеки разработчик да се научи как да използва SubQuery, за да изследва и трансформира своите верижни данни, така че да може да създава по-бързо интуитивни dApps.**
 
-Today we launch our new [documentation website at doc.subquery.network](https://doc.subquery.network/). We have carefully redesigned it with our community in mind and we’re excited to share it with you.
+Днес стартираме нашия нов [уебсайт за документи на адрес doc.subquery.network](https://doc.subquery.network/). Внимателно го преработихме, като имаме предвид нашата общност и сме развълнувани да го споделим с вас.
 
 ![](https://miro.medium.com/max/1200/1*snyFSjyQ9q116bmIcaVfsQ.gif)
 
-> _“_Documentation may not be glamorous work but it plays a vital role in communicating how something works and allows us to empower our community members to learn and unleash their creativity. That is why we believe documentation is so important_” — Sean Au (SubQuery Academy)_
+> _„_Документацията може да не е бляскава работа, но играе жизненоважна роля в комуникацията как работи нещо и ни позволява да дадем възможност на членовете на нашата общност да се учат и да разгърнат своята креативност. Ето защо вярваме, че документацията е толкова важна_” – Шон Ау (SubQuery Academy)_
 
-[Our new documentation website](https://doc.subquery.network/) has an inviting landing page designed to welcome all users, regardless of their technical understanding of blockchain or Polkadot. From the landing page users can jump straight into a getting started tutorial, or navigate off to the help they need.
+[Нашият нов уебсайт за документация](https://doc.subquery.network/) има привлекателна целева страница, предназначена да приветства всички потребители, независимо от тяхното техническо разбиране за blockchain или Polkadot. От целевата страница потребителите могат да преминат направо към урока за започване на работа или да преминат към помощта, от която се нуждаят.
 
 
 ![](https://miro.medium.com/max/1400/1*obZau98aya3Ohtc43DAuEw.png)
 
-Traditionally, blockchain documentation is incredibly technical and littered with jargon — you have to come from a developer background to easily understand it. We’ve taken a different path and written content for users at all levels of experience.
+Традиционно документацията за блокчейн е невероятно техническа и пълна с жаргон – трябва да идвате от опит на разработчиците, за да я разберете лесно. Поехме по различен път и писахме съдържание за потребители на всички нива на опит.
 
-Our goal is to publish a tutorial for every piece of major functionality in SubQuery. That means a step-by-step video and written guide with working examples as outcomes — you can see the beginnings of our efforts here [in the Tutorials Section](https://doc.subquery.network/tutorials_examples/howto.html).
+Нашата цел е да публикуваме урок за всяка част от основната функционалност в SubQuery. Това означава видео стъпка по стъпка и писмено ръководство с работни примери като резултати — можете да видите началото на нашите усилия тук [в раздела Уроци](https://doc.subquery.network/tutorials_examples/howto.html).
 
 ![](https://miro.medium.com/max/1200/1*nxy4aDTaQ0EMGudm0QW09g.gif)
