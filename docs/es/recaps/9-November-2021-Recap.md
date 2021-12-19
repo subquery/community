@@ -64,7 +64,7 @@ SubQuery ha propuesto 5 recompensas con un total de premios de hasta $34,000:
 
 ## Análisis de los Crowdloan de Polkadot
 
-SubQuery es el principal servicio de indexación de datos de Polkadot, y en la semana pasada, hemos estado enviando millones de solicitudes diarias a la mayoría de los paneles de control, aplicaciones de contribución y sitios web de análisis. Equipos como  [**SubVis**](https://www.subvis.io/),  [**Finanzas paralelas**](https://parallel.fi/), y  [**DotMarketCap**](https://dotmarketcap.com/)  depende de SubQuery para proporcionar datos en tiempo real sobre los crowdloans y otros datos en cadena directamente a sus sitios web y aplicaciones.
+SubQuery es el principal servicio de indexación de datos de Polkadot, y en la semana pasada, hemos estado enviando millones de solicitudes diarias a la mayoría de los paneles de control, aplicaciones de contribución y sitios web de análisis. Equipos como  [**SubVis**](https://www.subvis.io/),  [**Parallel Finance**](https://parallel.fi/), y  [**DotMarketCap**](https://dotmarketcap.com/)  depende de SubQuery para proporcionar datos en tiempo real sobre los crowdloans y otros datos en cadena directamente a sus sitios web y aplicaciones.
 
 ![](https://miro.medium.com/max/60/0*HfsoOwpat76ip6Jg?q=20)
 
