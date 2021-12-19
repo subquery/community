@@ -1,4 +1,4 @@
-# Subconsulta amplía la invitación a indexar la comunidad
+# SubQuery amplía la invitación a indexar la comunidad
 
 ![](https://miro.medium.com/max/1400/1*qa014uV1jHA2WTVhUadrdA.png)
 
@@ -6,9 +6,9 @@ SubQuery, la solución líder de indexación de datos en Polkadot, quisiera exte
 
 [Puede registrar su interés aquí](https://forms.gle/RyXyhb8T9Gxkwi7R9)
 
-Como se indica en la  [publicación reciente de nuestro mapa de ruta técnico](https://subquery.medium.com/subquery-releases-technical-roadmap-2a3a383c49b), SubQuery se está preparando actualmente para nuestro evento de generación de tokens (TGE) en marzo de 2022. Nuestro enfoque actual es la migración hacia una red de subconsultas descentralizada, y un componente clave de ello es la necesidad de que los proveedores de indexación formen una capa fundacional de nuestra futura infraestructura de red.
+Como se indica en la  [publicación reciente de nuestro mapa de ruta técnico](https://subquery.medium.com/subquery-releases-technical-roadmap-2a3a383c49b), SubQuery se está preparando actualmente para nuestro evento de generación de tokens (TGE) en marzo de 2022. Nuestro enfoque actual es la migración hacia una red de SubQuery descentralizada, y un componente clave de ello es la necesidad de que los proveedores de indexación formen una capa fundacional de nuestra futura infraestructura de red.
 
-> _“Los índices desempeñan un papel crítico en la red de subconsultas y estamos buscando encontrar a los mejores operadores de nodos y miembros técnicos de la comunidad para participar en nuestra próxima red de pruebas. Si desea asociarse con nosotros en la construcción, mejora y escalada del futuro de los datos descentralizados, por favor aplique ahora. Nuestra invitación a colaborar con la comunidad del Indexador es un paso fascinante para nosotros, ya que representa otro gran paso hacia nuestra descentralización”_ —Sam Zou, el fundador y CEO de SubQuery
+> _“Los índices desempeñan un papel crítico en la red de SubQuery y estamos buscando encontrar a los mejores operadores de nodos y miembros técnicos de la comunidad para participar en nuestra próxima red de pruebas. Si desea asociarse con nosotros en la construcción, mejora y escalada del futuro de los datos descentralizados, por favor aplique ahora. Nuestra invitación a colaborar con la comunidad del Indexador es un paso fascinante para nosotros, ya que representa otro gran paso hacia nuestra descentralización”_ —Sam Zou, el fundador y CEO de SubQuery
 
 Estamos buscando operadores de nodos con una profunda comprensión de la SubQuery Network, incluyendo los flujos de ingresos y cómo funciona la apuesta y la delegación. Necesitará ser un experto en el manejo de aplicaciones de producción escalables y de alto rendimiento con monitoreo y seguridad de cartera/infraestructura. Por último, necesitarás una gran actitud y una creencia compartida en el crecimiento del futuro de la web 3.
 
