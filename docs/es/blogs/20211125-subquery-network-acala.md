@@ -1,4 +1,4 @@
-# La red de subconsultas para lanzar en Acala, la descentralización del servicio de indexación de datos líder de Polkadot
+# La red de SubQuery para lanzar en Acala, la descentralización del servicio de indexación de datos líder de Polkadot
 
 ![](https://miro.medium.com/max/2400/1*kj_-zZcjeYdYIZVy1atYOg.gif)
 
