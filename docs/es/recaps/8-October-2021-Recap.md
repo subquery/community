@@ -50,7 +50,7 @@ Incorporar a nuevos desarrolladores y enseñarles las habilidades que necesitan 
 
 La Academia será una serie semanal de 6 módulos con varias clases de 5 a 10 minutos que se impartirán mediante un vídeo grabado. El contenido de vídeo está acompañado de tutoriales escritos, diapositivas, libros de trabajo de laboratorio y enlaces al repositorio de código de GitHub terminado.
 
-Nuestra Academia apunta a tomar a un aspirante desarrollador de blockchain desde principiante a avanzado y es 100% gratis y accesible en línea. Hemos tenido más de 1 00 inscripciones para nuestro primer curso de héroe desde su lanzamiento hace dos semanas y estamos agradecidos por la comunidad pasionada que tenemos con nosotros.
+Nuestra Academia apunta a tomar a un aspirante desarrollador de blockchain desde principiante a avanzado y es 100% gratis y accesible en línea. Hemos tenido más de 1,200 inscripciones para nuestro primer curso de héroe desde su lanzamiento hace dos semanas y estamos agradecidos por la comunidad pasionada que tenemos con nosotros.
 
 [Lea más sobre la Academia de SubQuery aquí](https://subquery.medium.com/subquery-launches-the-subquery-academy-9505dc66a01)
 
