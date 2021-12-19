@@ -26,7 +26,7 @@ Actualmente no existe ninguna herramienta de código abierto que permita a los d
 
 ![](https://miro.medium.com/max/600/1*AET6Ek_PqFDRoc29Jiitnw.gif)
 
-[En primer lugar, familiarícese con la documentación actualizada sobre cómo conectarse e indexar los datos de Moonbeam, Moonbase Alfa y Moonriver.](https://doc.subquery.network/create/moonbeam/) El proceso para indexar los datos de la viga lunar es sólo dos pasos:
+[En primer lugar, familiarícese con la documentación actualizada sobre cómo conectarse e indexar los datos de Moonbeam, Moonbase Alfa y Moonriver.](https://doc.subquery.network/create/moonbeam/) El proceso para indexar los datos en Moonbeam es sólo dos pasos:
 
 ## Paso 1: Añadir la fuente de datos personalizados de Moonbeam
 
@@ -66,4 +66,4 @@ SubQuery es una capa de agregación de datos que opera entre las blockchains de 
 
 ## Acerca de Moonbeam
 
-Moonbeam es una plataforma de contratos inteligentes compatible con Ethereum en la red Polkadot que facilita la construcción de aplicaciones nativamente interoperables. Esta compatibilidad con Ethereum permite a los desarrolladores implementar contratos inteligentes de Solidity existentes y frontends de DApp a Moonbeam con cambios mínimos. Como un parachain en la red Polkadot, Moonbeam se beneficiará de la seguridad compartida de la cadena de relés Polkadot e integraciones con otras cadenas conectadas a Polkadot. Actualmente en desarrollo activo por PureStake, se espera que Moonbeam llegue a MainNet para el Q4 2021. Más información: [https://moonbeam.network/](https://moonbeam.network/).
+Moonbeam es una plataforma de contratos inteligentes compatible con Ethereum en la red Polkadot que facilita la construcción de aplicaciones nativamente interoperables. Esta compatibilidad con Ethereum permite a los desarrolladores implementar contratos inteligentes de Solidity existentes y frontends de DApp a Moonbeam con cambios mínimos. Como un parachain en la red Polkadot, Moonbeam se beneficiará de la seguridad compartida de la cadena principal de Polkadot e integraciones con otras cadenas conectadas a Polkadot. Actualmente en desarrollo activo por PureStake, se espera que Moonbeam llegue a MainNet para el Q4 2021. Más información: [https://moonbeam.network/](https://moonbeam.network/).
