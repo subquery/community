@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/1*q9GErDrvAyacOPm97krV6Q.png)
 
-**Lea más para nuestro profundo buceo técnico en el último lanzamiento de SubQuery**
+**Obtenga más información para conocer nuestro análisis técnico profundo de la última versión de SubQuery**
 
 # Soporte para archivos de tipo de cadena externa en el proyecto manifestado
 
@@ -18,7 +18,7 @@ Esta solución le permite evitar copiar y gestionar definiciones de tipo de cade
 
 La semana pasada tuvimos el placer de [anunciar que estábamos trabajando con Moonbeam para ofrecer soporte completo de indexación EVM y Substrate a Moonriver](https://subquery.medium.com/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff).
 
-Hoy estamos siguiendo ese anuncio con todos los recursos para desarrolladores que necesitas para empezar.
+Hoy damos seguimiento a ese anuncio con todos los recursos para desarrolladores y lo que necesitas para comenzar.
 
 Actualmente no existe ninguna herramienta de código abierto que permita a los desarrolladores recolectar y consultar datos de forma flexible tanto en Ethereum como en Polkadot/Kusama. Esta limitación puede hacer que las soluciones dApps dentro de Moonriver sean silenciadas en la capa de contratos inteligentes y de este modo limiten su potencial a los consumidores a través de ambas redes de expansión. Esta asociación con Moonbeam trae una solución completa y unificada de indexación de datos para todos los datos de blockchain dentro de Moonriver y beneficiará en gran medida al creciente ecosistema de aplicación de Moonriver.
 
