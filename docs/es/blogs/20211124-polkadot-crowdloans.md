@@ -2,9 +2,9 @@
 
 ![](https://miro.medium.com/max/2400/1*JvR4YsstF6OHG3mTr_1Seg.png)
 
-**SubQuery Digs en los datos de subasta de Parachain**
+**SubQuery excava en los datos de subasta de Parachain**
 
-Se acaba de alcanzar un gran hito para Polkadot, la finalización de la primera ronda de las subastas de parachain. En las últimas semanas hemos observado una calurosa lucha por la corona Polkadot, la primera franja de parachain, entre Moonbeam y Acala. Después de una carrera duramente luchada, el ganador de la subasta fue revelado como Acala, si quieres aprender más sobre cómo se seleccionan los ganadores en esta subasta moderna de velas, echa un vistazo a  [Dan Reecer (de Acala) excelente resumen](https://twitter.com/danreecer_/status/1364646604024786949).
+Se acaba de alcanzar un gran hito para Polkadot, la finalización de la primera ronda de las subastas de parachain. En las últimas semanas hemos observado una calurosa lucha por la corona de Polkadot, el primer espacio de parachain, entre Moonbeam y Acala. Después de una carrera duramente luchada, el ganador de la subasta fue revelado como Acala, si quieres aprender más sobre cómo se seleccionan los ganadores en esta subasta moderna de velas, echa un vistazo a  [Dan Reecer (de Acala) excelente resumen](https://twitter.com/danreecer_/status/1364646604024786949).
 
 SubQuery es el principal servicio de indexación de datos de Polkadot y durante la semana pasada hemos estado dando a conocer millones de solicitudes diarias a la mayoría de los paneles de crowdloan y aplicaciones de contribución, y sitios web de analíticas. Equipos como  [SubVis](https://www.subvis.io/),  [Finanzas paralelas](https://parallel.fi/), y  [DotMarketCap](https://dotmarketcap.com/)  confían en SubQuery para proporcionar datos en tiempo real sobre los crowdloans y otros datos en cadena directamente a sus sitios web y aplicaciones.
 
@@ -18,11 +18,11 @@ En primer lugar, desde el lanzamiento del primer préstamo hasta el cierre de la
 
 El interés del inversor realmente floreció en el inicio de las subastas, con una oleada de contribuciones (por cuenta) para las primeras horas y también a la derecha hacia el final antes de cerrar. El primer día de los crowdloans vio más de 34.000 contribuciones y el rush de última hora regresó con 5.618 contribuciones en un período de 2 horas.
 
-Como se puede ver en el gráfico de abajo, la viga lunar tuvo con diferencia el mayor número de contribuciones a lo largo de la subasta, atrayendo casi 23.984 contribuciones de más de 21.333 direcciones más únicas que Acala.
+Como se puede ver en el gráfico de abajo, Moonbeam tuvo con diferencia el mayor número de contribuciones a lo largo de la subasta, atrayendo casi 23.984 contribuciones de más de 21.333 direcciones más únicas que Acala.
 
 ![](https://miro.medium.com/max/2400/0*MSHfjnu7KmMvDmnY)
 
-Acala obviamente se adelantó como el vencedor, así que ¿cómo sucedió esto? El número de contribuyentes y sus contribuciones oculta el hecho de que los contribuyentes de Acala en promedio contribuyeron mucho más que Moonbeam. Como resultado, las contribuciones totales en términos de valor se parecían a la siguiente gráfica, donde Acala estaba ligeramente por delante de la viga lunar a lo largo de la subasta.
+Acala obviamente se adelantó como el vencedor, así que ¿cómo sucedió esto? El número de contribuyentes y sus contribuciones oculta el hecho de que los contribuyentes de Acala en promedio contribuyeron mucho más que Moonbeam. Como resultado, las contribuciones totales en términos de valor se parecían a la siguiente gráfica, donde Acala estaba ligeramente por delante de Moonbeam a lo largo de la subasta.
 
 ![](https://miro.medium.com/max/2400/0*YbV-ReqSwfimUsbO)
 
@@ -38,11 +38,11 @@ El segundo acontecimiento significativo ocurrió en el espacio de 75 minutos a p
 
 Esta serie de transacciones fueron en última instancia capaces de empujar Acala sobre Moonbeam, y proporcionar a Acala un porcentaje ganador del 63,11% de los bloques. Cuando el bloque ganador aleatorio fue seleccionado ~56 horas más tarde en el bloque 7,718,090, Acala estaba por delante de Moonbeam por sólo 38,000 DOT ($1.5 millones).
 
-Una de las cosas asombrosas de estas subastas es que incluso después de recaudar más de 66 millones de DOT (USD$2. 7 mil millones) entre Acala y Luna, el margen ganado en el bloque seleccionado al azar fue de sólo 0,056% de la cantidad total.
+Una de las cosas asombrosas de estas subastas es que incluso después de recaudar más de 66 millones de DOT (USD$2. 7 mil millones) entre Acala y Moonbeam, el margen ganado en el bloque seleccionado al azar fue de sólo 0,056% de la cantidad total.
 
 Entonces, ¿quién estaba contribuyendo a los préstamos? En primer lugar, la cantidad media aportada por todos fue sólo de 12 DOT (USD$485. 4), 47% de todas las contribuciones fueron inferiores a 10 DOT y 88% menos de 100 DOT (4.047.00). Esto demuestra claramente una comunidad extremadamente fuerte y robusta de colaboradores individuales, testamento al interés minorista en las subastas de parachain.
 
-La gran pregunta que todo el mundo tiene en mente es ¿quién es la red de personas? ¿Qué red tiene la mayor proporción de pequeños colaboradores? Para las siguientes informaciones sobre el desglose del tamaño de la contribución hemos excluido algunas cuentas de cambio o crowdloan conocidas (lista en el apéndice). Puedes ver que algunas redes son casi completamente pequeñas tapas financiadas (SubGame Gamma y Darwinia). Por otra parte, grandes inversores de límites (>5, 00 DOT) constituyen el 68% del crédito de Moonbeam (por valor), el 62% del de las finanzas paralelas y el 58% del de Clover’s.
+La gran pregunta que todo el mundo tiene en mente es ¿quién es la red de personas? ¿Qué red tiene la mayor proporción de pequeños colaboradores? Para las siguientes informaciones sobre el desglose del tamaño de la contribución hemos excluido algunas cuentas de cambio o crowdloan conocidas (lista en el apéndice). Puedes ver que algunas redes son casi completamente pequeñas tapas financiadas (SubGame Gamma y Darwinia). Por otra parte, grandes inversores de límites (>5,000 DOT) constituyen el 68% del crédito de Moonbeam (por valor), el 62% del de las finanzas paralelas y el 58% del de Clover’s.
 
 ![](https://miro.medium.com/max/2400/0*ztRnFrVfJ2aTlMiU)
 
@@ -58,7 +58,7 @@ Adicionalmente,  [Binance](https://www.binance.com/en/dotslot)  demostró ser un
 
 ## Acerca de SubQuery Network
 
-SubQuery es el principal proveedor de datos de Polkadot, que soporta una capa de indexación & consulta entre blockchains Layer-1 (Polkadot) y aplicaciones descentralizadas. El servicio de datos de SubQuery está siendo utilizado por la mayoría de los sitios web de subastas de crowdloan y parachain Polkadot y Kusama.
+SubQuery es el principal proveedor de datos de Polkadot, que soporta una capa de indexación & consulta entre blockchains Layer-1 (Polkadot) y aplicaciones descentralizadas. El servicio de datos de SubQuery está siendo utilizado por la mayoría de los sitios web de subastas de crowdloan y parachain de Polkadot y Kusama.
 
 El protocolo de SubQuery abstracta la idiosincrasia de datos de blockchain con SubQuery SDK, que permite a los desarrolladores centrarse en implementar su producto principal sin desperdiciar innecesariamente esfuerzos en tecnologías de backend personalizadas.
 
