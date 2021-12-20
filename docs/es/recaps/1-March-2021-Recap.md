@@ -56,6 +56,6 @@ Recientemente, se nos ha concedido [un subsidio de tesorería](https://kusama.po
 
 ## **Nuevo personal y oficina**
 
-Uno de los mayores cambios en el último mes es cuánto ha crecido el equipo. Hemos añadido dos nuevos empleados en el último mes y esperamos contratar más como resultado, hemos encontrado una nueva oficina en Auckland que nos encaja perfectamente. Vamos a crecer, pero todavía planea seguir siendo pequeño y ágil para que podamos ofrecer nuestra visión de producto.
+Uno de los mayores cambios en el último mes es cuánto ha crecido el equipo. Hemos añadido dos nuevos empleados en el último mes y esperamos contratar más como resultado, hemos encontrado una nueva oficina en Auckland que nos encaja perfectamente. Vamos a crecer, pero todavía planeamos seguir siendo pequeños y ágiles para poder ofrecer nuestra visión de producto.
 
 ![](https://miro.medium.com/max/1400/1*cJZxerXHfgVGu4-7h2xw4Q.jpeg)
