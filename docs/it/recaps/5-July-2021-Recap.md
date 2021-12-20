@@ -24,7 +24,7 @@ We’re in the process of onboarding our first batch of ambassadors very shortly
 
 By the end of July we’ve made good progress on the first two milestones of our [open-source dApp API treasury grant](https://kusama.polkassembly.io/treasury/95). Although on the surface it doesn’t look like much, it is actually a really important initiative for us. Firstly it represents deep strategic cooperation with one of the largest Polkadot native wallets, Fearless Wallet.
 
-Secondly, this open-source API should be able to provide different types of applications with a sufficient (but read-only) view of all key data within the Kusama chain. E.g. E.g. a developer could use it to create their own chain explorer without needing to directly query chain data.
+Secondly, this open-source API should be able to provide different types of applications with a sufficient (but read-only) view of all key data within the Kusama chain. E.g. a developer could use it to create their own chain explorer without needing to directly query chain data.
 
 We’re building this in a way that makes it easy to extend to the growing number of parachains. It’ll also provide a much better foundation for new applications building on SubQuery, allowing us onboard new partnerships faster!
 
