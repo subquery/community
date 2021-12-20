@@ -18,7 +18,7 @@ In the example below, we’re using SubQuery to easily retrieve the top two part
 
 ![](https://miro.medium.com/max/1400/1*5iCwSaU96UtDMFA1MruRlA.png)
 
-Solarbeam is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/).
+Solarbeam is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. Layanan pengindeksan dan kueri yang kami sediakan sepenuhnya dikelola oleh SubQuery dan diberikan kepada komunitas Polkadot secara gratis di [SubQuery's Explorer](https://explorer.subquery.network/).
 
 [You can take a look at Solarbeam’s project in SubQuery’s Explorer here](https://explorer.subquery.network/subquery/csntest/eclipse)
 
@@ -32,8 +32,8 @@ Learn more about Solarbeam by visiting:
 
 [Main website](https://solarbeam.io/exchange/swap) | [Twitter](https://twitter.com/solarbeamio) | [Discord](http://discord.gg/rK4AjZXuwf) | [Telegram](http://t.me/solarbeamio) | [Medium](https://solarbeam.medium.com/)
 
-## About SubQuery
+## Tentang SubQuery
 
-[SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications (DApps). Currently focused on Polkadot and Substrate projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+[SubQuery](https://subquery.network/) adalah agregasi data terdesentralisasi, mengindeks & mengkueri lapisan antara blockchain Layer-1 dan aplikasi terdesentralisasi (DApps). Saat ini berfokus pada proyek Polkadot dan Substrate, data sebagai layanan ini memungkinkan pengembang untuk fokus pada use case inti dan front-end mereka, tanpa perlu membuang waktu untuk membangun backend khusus untuk pemrosesan data.
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)
