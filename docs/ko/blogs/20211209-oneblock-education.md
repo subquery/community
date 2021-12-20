@@ -1,31 +1,31 @@
-# SubQuery Partners with OneBlock+ To Educate Blockchain Developers in China
+# SubQuery는 중국에서 블록체인 개발자를 교육하기 위해 OneBlock+와 협약을 맺었습니다.
 
-![](https://miro.medium.com/max/700/1*c1X5h-MEHHwjeqczDKvvCQ.png) SubQuery is proud to announce our partnership with OneBlock+ to promote the SubQuery Academy’s  _Hero Course_  in China. One Block+ developed the world’s first substrate developers course with engineers from Parity Asia and are recognised as leaders in blockchain education within China and around the world.
+![](https://miro.medium.com/max/700/1*c1X5h-MEHHwjeqczDKvvCQ.png) SubQuery는 중국에서 SubQuery Academy의 _Hero Course_를 홍보하기 위해 OneBlock+와의 파트너십을 발표하게 된 것을 자랑스럽게 생각합니다. One Block+는 Parity Asia의 엔지니어들과 함께 세계 최초의 기판 개발자 과정을 개발했으며 중국 및 전 세계적으로 블록체인 교육의 리더로 인정받고 있습니다.
 
-Sam Zou, the CEO and Founder of SubQuery commented,  _“OneBlock+ is well-placed to help SubQuery in its vision to empower developers around the world as they are stewards of the largest blockchain developer community in China. We look forward to engaging with the OneBlock+ team and motivated Chinese Substrate developers to build leading dApps that showcase our vision of a Web3 future”_
+SubQuery의 CEO이자 설립자인 Sam Zou는 _“OneBlock+는 중국에서 가장 큰 블록체인 개발자 커뮤니티의 청지기로서 전 세계 개발자에게 권한을 부여하려는 SubQuery의 비전을 지원하는 데 적합합니다. 우리는 OneBlock+ 팀과 협력하고 중국 기판 개발자들이 Web3의 미래에 대한 우리의 비전을 보여주는 선도적인 dApp을 구축하도록 동기를 부여하기를 기대합니다.”_
 
-SubQuery’s community has always been global, and a huge number of SubQuery’s customers come from the thriving Polkadot community in China. The delivery of this course in China is the embodiment of SubQuery’s dedication to providing local language support for all of our communities around the world. Concurrently, all of SubQuery’s technical documentation is being translated by  [SubQuery Ambassadors](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804).
+SubQuery의 커뮤니티는 항상 전 세계적으로 활동해 왔으며 수많은 SubQuery 고객은 중국에서 번성하는 Polkadot 커뮤니티에서 왔습니다. 중국에서 이 과정을 제공하는 것은 전 세계의 모든 커뮤니티에 현지 언어 지원을 제공하기 위한 SubQuery의 헌신의 구현입니다. 동시에 SubQuery의 모든 기술 문서는 [SubQuery Ambassadors](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804)에 의해 번역되고 있습니다.
 
-SubQuery recently launched the SubQuery Academy to upskill blockchain developers globally, specifically in the area of data indexing in the Polkadot ecosystem. The  _Hero Course_  is designed to up-skill and empower developers in the SubQuery ecosystem by providing them with a modular programme. The content of this programme takes an aspiring blockchain developer from beginner to advanced over six modular lessons.
+SubQuery는 최근에 SubQuery Academy를 ​​시작하여 전 세계적으로 특히 Polkadot 생태계의 데이터 인덱싱 분야에서 블록체인 개발자의 역량을 강화했습니다. _Hero Course_는 모듈식 프로그램을 제공하여 SubQuery 생태계의 개발자에게 기술을 향상하고 권한을 부여하도록 설계되었습니다. 이 프로그램의 내용은 6개의 모듈식 수업을 통해 야심 찬 블록체인 개발자를 초급에서 고급까지 데려갑니다.
 
-The video content is accompanied by written tutorials, slides, lab workbooks, and links to the finished GitHub code repository. The course is designed to get a developer from knowing nothing about SubQuery to becoming an expert in building a SubQuery data source for their new blockchain application. This includes developing complex SubQuery Projects and  [deploying them in SubQuery Projects](https://project.subquery.network/).
+비디오 콘텐츠에는 작성된 자습서, 슬라이드, 실습 통합 문서 및 완성된 GitHub 코드 리포지토리에 대한 링크가 함께 제공됩니다. 이 과정은 개발자가 SubQuery에 대해 전혀 모르는 상태에서 새로운 블록체인 애플리케이션을 위한 SubQuery 데이터 소스를 구축하는 전문가가 될 수 있도록 설계되었습니다. 여기에는 복잡한 SubQuery 프로젝트 개발 및 [SubQuery 프로젝트 배포가 포함됩니다](https://project.subquery.network/).
 
-Yaxun, the Founder of OneBlock+ said  _“We are proud to be SubQuery’s official educational partner in China. Having trained over 1500 Substrate developers in China, we are excited to introduce them to the leading data indexer in the Polkadot ecosystem. SubQuery is a foundational piece of infrastructure for our students to learn and build innovative dApps with.”_
+OneBlock+의 설립자인 Yaxun은 _“우리는 중국에서 SubQuery의 공식 교육 파트너가 된 것을 자랑스럽게 생각합니다. 중국에서 1500명 이상의 기판 개발자를 교육한 우리는 이들을 Polkadot 생태계의 선도적인 데이터 인덱서에 소개하게 되어 기쁩니다. SubQuery는 학생들이 혁신적인 dApp을 배우고 구축할 수 있는 기반 시설입니다.”_
 
-The existing “Hero Course” has been translated to Chinese and will be delivered via WeChat. OneBlock+ will provide additional learning support to students via weekly “Office Hours” on Tencents Conference platform.
+기존 '영웅 코스'는 중국어로 번역되어 위챗을 통해 전달될 예정이다. OneBlock+는 Tencents Conference 플랫폼에서 매주 "사무실 시간"을 통해 학생들에게 추가 학습 지원을 제공합니다.
 
-The first session in the course will be scheduled from 10th January 2022, and in preparation OneBlock+ will deliver a live Technical Workshop in December 2021 as part of their regular Substrate Saturday programme. More information on the dates will be published in the  [SubQuery Discord channel](https://discord.com/invite/78zg8aBSMG). In the meantime, you can  [learn more about SubQuery via the SubQuery Academy](https://subquery.coassemble.com/unlock/dOKZW6O#/).
+이 과정의 첫 번째 세션은 2022년 1월 10일부터 예정되어 있으며 준비 과정에서 OneBlock+는 정기 Substrate Saturday 프로그램의 일부로 2021년 12월에 라이브 기술 워크숍을 제공할 예정입니다. 날짜에 대한 자세한 내용은 [SubQuery Discord 채널](https://discord.com/invite/78zg8aBSMG)에 게시됩니다. 그동안 [SubQuery Academy를 ​​통해 SubQuery에 대해 자세히 알아볼 수 있습니다](https://subquery.coassemble.com/unlock/dOKZW6O#/).
 
 ---
 
-## About OneBlock+
+## OneBlock+ 소개
 
-OneBlock+ is the first and the largest blockchain developer community in China. At OneBlock+, we provide full support for developers with their substrate studies and further setoff their career paths; we host Polkadot Hackathons every season to attract top notch developers to build and innovate for the prosperity of the ecosystem. As a greater China technology resource integrator, OneBlock+ also partner with developers, communities, business elites, and key media who have business insights and experiences in the blockchain industry to provide business like technology courses, news distributions, AMA, and offline events for the industry. Want to shape the crypto world together? Come and join us today!
+OneBlock+는 중국 최초이자 최대 규모의 블록체인 개발자 커뮤니티입니다. OneBlock+에서 우리는 기판 연구를 통해 개발자에게 전폭적인 지원을 제공하고 더 나아가 경력 경로를 설정합니다. 우리는 생태계의 번영을 위해 구축하고 혁신할 최고 수준의 개발자를 유치하기 위해 매 시즌 Polkadot Hackathons를 개최합니다. 더 큰 중국 기술 리소스 통합업체인 OneBlock+는 또한 블록체인 업계에서 비즈니스 통찰력과 경험을 보유한 개발자, 커뮤니티, 비즈니스 엘리트 및 주요 미디어와 협력하여 업계를 위한 기술 과정, 뉴스 배포, AMA 및 오프라인 이벤트와 같은 비즈니스를 제공합니다. 암호 세계를 함께 만들고 싶습니까? 오늘부터 우리와 함께하십시오!
 
 |  [Twitter](https://mobile.twitter.com/oneblock_)  |  [Medium](https://medium.com/@OneBlockplus?p=5a6193755f9b) |  [Discord](https://discord.gg/5aWx6Rch)  |  [Telegram](https://t.me/oneblock_dev)  |
 
-## 서브쿼리란
+## SubQuery 소개
 
-[SubQuery](https://subquery.network/)  is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. 이 프로토콜은 서브쿼리 SDK를 사용하여 블록체인 데이터 고유성을 추상화하고 개발자가 사용자 지정 백엔드 기술에 대한 시간과 노력을 불필요하게 낭비하지 않도록하며 제품 개발 및 배포에 집중할 수 있도록 지원합니다.
+[SubQuery](https://subquery.network/)는 Layer-1 블록체인과 분산 애플리케이션 간의 분산 데이터 집계, 인덱싱 및 쿼리 레이어입니다 이 프로토콜은 SubQuery SDK를 사용하여 블록체인 데이터 고유성을 추상화하여 개발자가 사용자 지정 백엔드 기술에 대한 노력을 불필요하게 낭비하지 않고 핵심 제품 배포에 집중할 수 있도록 합니다.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
