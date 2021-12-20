@@ -14,7 +14,7 @@ Como se describe en el documento blanco, nuestro objetivo es establecer SQT como
 
 En la práctica, esto significa que SubQuery está destinado a funcionar como un mercado de datos de blockchain donde tanto Consumidores (compradores) como Indexers (vendedores) pueden reunirse para intercambiar datos por tokens SQT. El tercer participante en nuestro modelo son los Delegadores que participan en la red apoyando a sus Indexadores favoritos delegándoles sus fichas para ganar recompensas.
 
-En el futuro prevemos que los titulares del token SQT podrán informar a la SubQuery Foundation sobre su visión de la dirección general de SubQuery, ya que nuestra red adopta algunas cualidades de una organización autónoma descentralizada (DAO).
+En el futuro prevemos que los titulares del token SQT podrán informar a la Fundacion SubQuery sobre su visión de la dirección general de SubQuery, ya que nuestra red adopta algunas cualidades de una organización autónoma descentralizada (DAO).
 
 ## Asignación de Token
 
@@ -22,7 +22,7 @@ SubQuery acuñará un suministro fijo de 10 mil millones de SQT que se asignará
 
 ![](https://miro.medium.com/max/1400/0*eG2TM3J0NZDaT14m)
 
-Desde el principio, SubQuery se ha centrado en la creación de valor dentro de nuestra comunidad y pretendemos que siga siendo así repartiendo la mayor asignación de tokens (41%) a la Comunidad y a la Fundación SubQuery.
+Desde el principio, SubQuery se ha enfocado en la construcción de valor dentro de nuestra comunidad y nuestro objetivo es mantenerlo así repartiendo la mayor asignación de tokens (41%) a la Comunidad y Fundación SubQuery.
 
 La Fundación, que se creará a principios de 2022, administrará la futura gobernanza y el crecimiento del ecosistema, y la propiedad de la Red SubQuery pasará inicialmente a manos de la Fundación SubQuery. Esta amplia asignación también incluye la consideración de las futuras inversiones en el desarrollo y las operaciones de la Red, y los principales impulsores del crecimiento del ecosistema. Esto incluirá herramientas como subvenciones e incentivos/eventos para el ecosistema, así como otras actividades de marketing, como recompensas por errores e incentivos para la mainnet.
 
@@ -32,33 +32,33 @@ Para la venta pública, que prevemos que sea en marzo de 2022, hemos asignado el
 
 Por último, al equipo de SubQuery y a los socios de lanzamiento se les ha asignado el 20% del suministro de tokens a cambio de sus contribuciones en la construcción y promoción del proyecto.
 
-## Token Vesting Schedules
+## Calendario de reparticion del Token
 
 La asignación de tokens por sí misma no es nada si no se entiende la forma en que se distribuyen los tokens a los holders correspondientes. El gráfico siguiente ilustra la entrega de tokens SQT a cada participante a lo largo del tiempo, culminando con la plena circulación de fichas 5 años (60 meses) después del lanzamiento.
 
 ![](https://miro.medium.com/max/1400/0*mfIBkH4SjFZgGuIq)
 
-We have thought carefully about the vesting schedules for each participant in order to create long-term value for the project and generate confidence to token-holders. Perhaps most significantly, the core team will have a 24 month lock-up period while some Public Sale participants can freely use the utility of their token upon launch.
+We have thought carefully about the vesting schedules for each participant in order to create long-term value for the project and generate confidence to token-holders. Lo más significativo es que el equipo principal tendrá un periodo de bloqueo de 24 meses, mientras que algunos participantes en la venta pública podrán utilizar libremente la utilidad de su token en el momento del lanzamiento.
 
-The breakdown of each holder is as follows and is subject to change:
+El desglose de cada holder es el siguiente y está sujeto a cambios:
 
--  **Team and Launch Partners** are locked for 24 months and vest over the next 24.
--  **Seed Investors** are locked for 12 months and vest over the next 24.
--  **Series A investors** are locked for 6 months and vest over the next 18.
--  **Foundation and Community** will have approximately 30% of the allocation unlocked from the start to meet the operational needs of launching and promoting mainnet with the rest of the allocation vesting gradually over 5 years.
--  **Public Sale Round 1** participants have a 12 month lock-up period. Indexers and other key network participants will have a portion of their allocation available to be unlocked immediately to ensure they can kick-start the network. Participants in this round will be whitelisted and have a guaranteed allocation.
--  **Public Sale Round 2** participants have no lock-up period. This round is open to all users who pass KYC requirements on the launchpad platform. This round is “first come, first served” with a minimum and maximum allocation. In this regard, we are aiming to attract a larger number of participants to make the distribution fairer. More information about this may come in the future
+-  **Team y Launch Partners** están bloqueados durante 24 meses y se van otorgando a lo largo de los siguientes 24.
+-  **Seed Investors** se bloquean durante 12 meses y se otorgan en los siguientes 24.
+-  **Series A investors** están bloqueados durante 6 meses y se van consolidando en los siguientes 18.
+-  **La Fundación y la Comunidad** tendrán aproximadamente el 30% de la asignación desbloqueada desde el principio para satisfacer las necesidades operativas del lanzamiento y la promoción de la red principal, y el resto de la asignación se concederá gradualmente a lo largo de 5 años.
+-  **Public Sale Round 1** tienen un periodo de bloqueo de 12 meses. Los indexadores y otros participantes clave de la red dispondrán de una parte de su asignación que se desbloqueará inmediatamente para garantizar que puedan poner en marcha la red. Los participantes en esta ronda estarán en la whitelisted y tendrán una asignación garantizada.
+-  **Public Sale Round 2** no tienen periodo de bloqueo. Esta ronda está abierta a todos los usuarios que superen los requisitos KYC en la plataforma launchpad. Esta ronda es "first come, first served" con una asignación mínima y máxima. En este sentido, pretendemos atraer a un mayor número de participantes para que el reparto sea más justo. Es posible que en el futuro haya más información al respecto
 
-We have also made provisions for a retrospective airdrop to communities that have strategic importance to our network (such as testnet participants) or as a means to attract new users outside of our current ecosystem..
+También hemos previsto un airdrop retrospectivo para las comunidades que tienen una importancia estratégica para nuestra red (como los participantes en la testnet) o como medio para atraer a nuevos usuarios fuera de nuestro ecosistema actual..
 
-The exact details of when and how the SQT token will be allocated and distributed are still subject to finalisation, and will be announced closer to the public sale. At this stage, we anticipate that token distribution to the sale participants will take place with the launch of the mainnet. In other words, there will be a waiting period between the sale and token distribution which will align with the token listing date.
+Los detalles exactos de cuándo y cómo se asignará y distribuirá el token SQT están aún pendientes de finalización, y se anunciarán más cerca de la venta pública. En esta fase, prevemos que la distribución de tokens a los participantes en la venta tendrá lugar con el lanzamiento de la mainnet. En otras palabras, habrá un período de espera entre la venta y la distribución de tokens que coincidirá con la fecha de cotización del token.
 
-For the listing of SQT, we are planning to be available on key decentralised (DEX) and centralised exchanges (CEX) to make it as easy as possible for everyone to participate in the SubQuery Network. We are looking forward to you all joining us on our mission to help developers build the decentralised applications of the future.
+Para la cotización de SQT, estamos planeando estar disponibles en los principales intercambios descentralizados (DEX) y centralizados (CEX) para facilitar al máximo la participación de todos en la Red SubQuery. Esperamos que todos se unan a nosotros en nuestra misión de ayudar a los desarrolladores a crear las aplicaciones descentralizadas del futuro.
 
-## About SubQuery Network
+## Acerca de la Red SubQuery
 
-SubQuery is Polkadot’s leading data provider, supporting an indexing & querying layer between Layer-1 blockchains (Polkadot) and decentralised applications. SubQuery’s data service is being used by most of the Polkadot and Kusama crowdloan and parachain auction websites live today.
+SubQuery es el principal proveedor de datos de Polkadot, que soporta una capa de indexación y consulta entre las blockchains de Layer 1 (Polkadot) y las aplicaciones descentralizadas. El servicio de datos de SubQuery está siendo utilizado por la mayoría de los sitios web de subastas de crowdloan y parachain de Polkadot y Kusama que están en funcionamiento en la actualidad.
 
-SubQuery’s protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+El protocolo de SubQuery elimina la idiosincrasia de los datos de la blockchain con el SDK de SubQuery, lo que permite a los desarrolladores centrarse en el despliegue de su producto principal sin desperdiciar esfuerzos en tecnologías de backend personalizadas.
 
 ​​​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
