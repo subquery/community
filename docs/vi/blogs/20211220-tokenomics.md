@@ -1,8 +1,8 @@
-# SubQuery Releases Tokenomics
+# SubQuery phát hành Tokenomics
 
 ![](https://miro.medium.com/max/1400/1*e42FM0TsNgOM3VacoctOzQ.png)
 
-Tokenomics is an important aspect of any blockchain project and is critical to the success of any utility token. At SubQuery, we’re creating a decentralised and incentivised network that will provide the data for the web3 future ([read our whitepaper](https://static.subquery.network/whitepaper.pdf)). Today we are excited to unveil how the SQT will work and how it will be allocated to boost participation by our thriving community.
+Tokenomics là một khía cạnh quan trọng của bất kỳ dự án blockchain nào và rất quan trọng đối với sự thành công của bất kỳ một token tiện ích nào. Tại SubQuery, chúng tôi đang tạo ra một mạng lưới phi tập trung và được khuyến khích sẽ cung cấp dữ liệu cho web3 trong tương lai ([đọc whitepaper của chúng tôi tại đây](https://static.subquery.network/whitepaper.pdf)). Today we are excited to unveil how the SQT will work and how it will be allocated to boost participation by our thriving community.
 
 [We recently announced that we would be launching the SubQuery Network via Acala](https://subquery.medium.com/the-subquery-network-to-launch-on-acala-decentralising-polkadots-leading-data-indexing-service-8203d686128e). For those who may be new to the Polkadot ecosystem, SubQuery needs to partner with an existing parachain team to deploy its smart contracts (and therefore the SubQuery token SQT) in order to go live. In other words, our token is nested within the Acala blockchain on Polkadot and will seamlessly allow participation by investors from the Ethereum ecosystem due to Acala’s EVM+ (Ethereum Virtual Machine) solution.
 
