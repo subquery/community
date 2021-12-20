@@ -38,16 +38,16 @@ La asignación de tokens por sí misma no es nada si no se entiende la forma en 
 
 ![](https://miro.medium.com/max/1400/0*mfIBkH4SjFZgGuIq)
 
-We have thought carefully about the vesting schedules for each participant in order to create long-term value for the project and generate confidence to token-holders. Lo más significativo es que el equipo principal tendrá un periodo de bloqueo de 24 meses, mientras que algunos participantes en la venta pública podrán utilizar libremente la utilidad de su token en el momento del lanzamiento.
+Hemos reflexionado detenidamente sobre los programas de inversión para cada participante con el fin de crear valor a largo plazo para el proyecto y generar confianza para los tenedores de fichas. Lo más significativo es que el equipo principal tendrá un periodo de bloqueo de 24 meses, mientras que algunos participantes en la venta pública podrán utilizar libremente la utilidad de su token en el momento del lanzamiento.
 
 El desglose de cada holder es el siguiente y está sujeto a cambios:
 
 -  **Team y Launch Partners** están bloqueados durante 24 meses y se van otorgando a lo largo de los siguientes 24.
--  **Seed Investors** se bloquean durante 12 meses y se otorgan en los siguientes 24.
--  **Series A investors** están bloqueados durante 6 meses y se van consolidando en los siguientes 18.
+-  **Inversores Semilla** se bloquean durante 12 meses y se otorgan en los siguientes 24.
+-  **Inversores de Serie A** están bloqueados durante 6 meses y se van consolidando en los siguientes 18.
 -  **La Fundación y la Comunidad** tendrán aproximadamente el 30% de la asignación desbloqueada desde el principio para satisfacer las necesidades operativas del lanzamiento y la promoción de la red principal, y el resto de la asignación se concederá gradualmente a lo largo de 5 años.
--  **Public Sale Round 1** tienen un periodo de bloqueo de 12 meses. Los indexadores y otros participantes clave de la red dispondrán de una parte de su asignación que se desbloqueará inmediatamente para garantizar que puedan poner en marcha la red. Los participantes en esta ronda estarán en la whitelisted y tendrán una asignación garantizada.
--  **Public Sale Round 2** no tienen periodo de bloqueo. Esta ronda está abierta a todos los usuarios que superen los requisitos KYC en la plataforma launchpad. Esta ronda es "first come, first served" con una asignación mínima y máxima. En este sentido, pretendemos atraer a un mayor número de participantes para que el reparto sea más justo. Es posible que en el futuro haya más información al respecto
+-  **Ronda 1 de Venta publica** tienen un periodo de bloqueo de 12 meses. Los indexadores y otros participantes clave de la red dispondrán de una parte de su asignación que se desbloqueará inmediatamente para garantizar que puedan poner en marcha la red. Los participantes en esta ronda estarán en la whitelisted y tendrán una asignación garantizada.
+-  **Ronda 2 de Venta Publica** no tienen periodo de bloqueo. Esta ronda está abierta a todos los usuarios que superen los requisitos KYC en la plataforma launchpad. Esta ronda es "first come, first served" con una asignación mínima y máxima. En este sentido, pretendemos atraer a un mayor número de participantes para que el reparto sea más justo. Es posible que en el futuro haya más información al respecto
 
 También hemos previsto un airdrop retrospectivo para las comunidades que tienen una importancia estratégica para nuestra red (como los participantes en la testnet) o como medio para atraer a nuevos usuarios fuera de nuestro ecosistema actual..
 
