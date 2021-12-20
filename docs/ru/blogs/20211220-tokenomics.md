@@ -47,18 +47,18 @@ Foundation, который будет создан в начале 2022 года
 -  **Series A - инвесторы** - блокировка на 6 месяцев и затем последовательное распределение в следующие 18 месяцев.
 -  **Фонд и Сообщество** - будут иметь примерно 30% аллокации, разблокированной с самого начала для удовлетворения операционных потребностей запуска и продвижения основной сети, а остальная часть аллокации будет постепенно распределяться в течение 5 лет.
 -  **Публичная Продажа Раунд 1** - блокировка на 12 месяцев. Индексеры и другие ключевые участники сети будут иметь часть своего распределения доступную для немедленной разблокировки, чтобы они могли запустить сеть. Участники этого раунда будут внесены в белый список и получат гарантированное распределение.
--  **Публичная Продажа Раунд 2** - нет периода блокировки. Этот раунд открыт для всех пользователей, которые пройдут требуемую KYC-процедуру на платформе запуска. This round is “first come, first served” with a minimum and maximum allocation. In this regard, we are aiming to attract a larger number of participants to make the distribution fairer. More information about this may come in the future
+-  **Публичная Продажа Раунд 2** - нет периода блокировки. Этот раунд открыт для всех пользователей, которые пройдут требуемую KYC-процедуру на платформе запуска. Этот раунд проводится по принципу «первым пришел - первым обслужен», с минимальным и максимальным уровнем аллокации. В связи с этим мы стремимся привлечь большее количество участников, чтобы распределение было более справедливым. Больше информации об этом появится позже
 
-We have also made provisions for a retrospective airdrop to communities that have strategic importance to our network (such as testnet participants) or as a means to attract new users outside of our current ecosystem..
+Мы также предусмотрели ретроспективный airdrop для сообществ, которые имеют стратегическое значение для нашей сети (например, участников тестнета) и как способ привлечь новых пользователей из-за пределов нашей текущей экосистемы..
 
-The exact details of when and how the SQT token will be allocated and distributed are still subject to finalisation, and will be announced closer to the public sale. At this stage, we anticipate that token distribution to the sale participants will take place with the launch of the mainnet. In other words, there will be a waiting period between the sale and token distribution which will align with the token listing date.
+Точные детали того, когда и как будет распределен и выпущен SQT токен, все еще подлежат доработке и будут объявлены ближе к публичной продаже. На данном этапе мы ожидаем, что раздача токенов участникам продажи будет происходить одновременно с запуском основной сети. Другими словами, между продажей и распределением токенов, которое будет связано с датой листинга, будет некоторый период ожидания.
 
-For the listing of SQT, we are planning to be available on key decentralised (DEX) and centralised exchanges (CEX) to make it as easy as possible for everyone to participate in the SubQuery Network. We are looking forward to you all joining us on our mission to help developers build the decentralised applications of the future.
+Что касается листинга SQT, мы планируем стать доступными на ключевых децентрализованных (DEX) и централизованных биржах (CEX), чтобы максимально упростить для всех участие в сети SubQuery. Мы с нетерпением ждем, когда вы все присоединитесь к нам в нашей миссии - помочь разработчикам создавать децентрализованные приложения будущего.
 
-## About SubQuery Network
+## О сети SubQuery
 
-SubQuery is Polkadot’s leading data provider, supporting an indexing & querying layer between Layer-1 blockchains (Polkadot) and decentralised applications. SubQuery’s data service is being used by most of the Polkadot and Kusama crowdloan and parachain auction websites live today.
+SubQuery - ведущий поставщик данных Polkadot, поддерживающий слой индексации и запросов между блокчейнами первого уровня (Polkadot) и децентрализованными приложениями. Большинство существующих сегодня сайтов, осуществляющих краудлоаны и парачейн аукционы на Polkadot и Kusama, используют сервис данных SubQuery.
 
-SubQuery’s protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+Протокол SubQuery абстрагируется от идиосинкразии блокчейн-данных с помощью SubQuery SDK, позволяя разработчикам сосредоточиться на развертывании своего основного продукта, не тратя напрасно усилия на настраивание кастомных бэкенд технологий.
 
 ​​​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
