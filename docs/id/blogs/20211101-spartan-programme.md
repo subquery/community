@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/1*k5cScGKMiC45i_N-em3x0Q.png)
 
-Pada bulan Agustus, [SubQuery meluncurkan program Ambassador](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) untuk menemukan pemimpin komunitas yang menyukai Polkadot dan SubQuery. Tujuan kami adalah menemukan pemula yang dapat menyebarkan berita tentang SubQuery di area lokal mereka dan memberikan dukungan kepada pengembang baru yang membangun aplikasi dan layanan luar biasa di Polkadot.
+Pada bulan Agustus, [SubQuery meluncurkan program Ambassador](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) untuk menemukan pemimpin komunitas yang mempunyai passion terhadap Polkadot dan SubQuery. Tujuan kami adalah menemukan pemula yang dapat menyebarkan berita tentang SubQuery di area lokal mereka dan memberikan dukungan kepada pengembang baru yang membangun aplikasi dan layanan luar biasa di Polkadot.
 
 Kami tidak mengharapkan apa yang terjadi selanjutnya!
 
