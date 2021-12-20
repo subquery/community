@@ -24,7 +24,7 @@ Acala is an Ethereum-compatible smart contract platform optimized for DeFi and s
 
 [Linktree](https://linktr.ee/acalanetwork)  | [Discord](https://discord.gg/vdbFVCH)  | [Website](https://acala.network/)  | [Twitter](https://twitter.com/AcalaNetwork)  | [GitHub](https://github.com/AcalaNetwork/Acala)  | [Wiki](https://github.com/AcalaNetwork/Acala/wiki)  | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)  | [YouTube](http://youtube.com/c/acalanetwork)
 
-## About SubQuery
+## 서브쿼리란
 
 [SubQuery](https://subquery.network/)  is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. This service unlocks blockchain data and transforms it to a queryable state so that it can be used in intuitive applications. It allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The upcoming SubQuery Network will decentralize and tokenize the ecosystem to allow everyone to participate in the web3 data revolution.
 
