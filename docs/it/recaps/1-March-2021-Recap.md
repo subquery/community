@@ -1,4 +1,4 @@
-# Riepilogo Marzo 2021
+# March 2021 Recap
 
 It’s been an intense last couple of months at OnFinality and SubQuery, we’ve expanded the team and have brought on some new partners as we launch some key new projects. In this monthly update:
 
