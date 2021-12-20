@@ -1,24 +1,24 @@
-# SubQuery Releases Tokenomics
+# Tokenomics de SubQuery
 
 ![](https://miro.medium.com/max/1400/1*e42FM0TsNgOM3VacoctOzQ.png)
 
-Tokenomics is an important aspect of any blockchain project and is critical to the success of any utility token. At SubQuery, we’re creating a decentralised and incentivised network that will provide the data for the web3 future ([read our whitepaper](https://static.subquery.network/whitepaper.pdf)). Today we are excited to unveil how the SQT will work and how it will be allocated to boost participation by our thriving community.
+Tokenomics es un aspecto importante de cualquier proyecto blockchain y es crítico para el éxito de cualquier token de utilidad. En SubQuery, estamos creando una red descentralizada y incentivada que proporcionará los datos para el futuro de la web 3 ([lea nuestro whitepaper](https://static.subquery.network/whitepaper.pdf)). Hoy estamos encantados de mostrar cómo funcionará el SQT y cómo se asignará para impulsar la participación de nuestra emocionante comunidad.
 
-[We recently announced that we would be launching the SubQuery Network via Acala](https://subquery.medium.com/the-subquery-network-to-launch-on-acala-decentralising-polkadots-leading-data-indexing-service-8203d686128e). For those who may be new to the Polkadot ecosystem, SubQuery needs to partner with an existing parachain team to deploy its smart contracts (and therefore the SubQuery token SQT) in order to go live. In other words, our token is nested within the Acala blockchain on Polkadot and will seamlessly allow participation by investors from the Ethereum ecosystem due to Acala’s EVM+ (Ethereum Virtual Machine) solution.
+[Recientemente, anunciamos que lanzaremos la red SubQuery a través de Acala](https://subquery.medium.com/the-subquery-network-to-launch-on-acala-decentralising-polkadots-leading-data-indexing-service-8203d686128e). Para aquellos que pueden ser nuevos en el ecosistema Polkadot, SubQuery necesita asociarse con un equipo de parachain existente para desplegar sus contratos inteligentes (y por lo tanto el token de SubQuery SQT) con el fin de ir en directo. En otras palabras, nuestro token está anidado dentro de la blockchain de Acala en Polkadot y permitirá la participación de inversores del ecosistema Ethereum debido a la solución EVM+ de Acala (Ethereum Virtual Machine).
 
-In preparation for the upcoming launch with Acala of SubQuery’s SQT token, it is important to understand a few key aspects such as the token utility, allocation and vesting schedules.
+En preparación para el próximo lanzamiento con Acala del token SQT de SubQuery, es importante entender algunos aspectos clave como la utilidad token, la asignación y los plazos de inversión.
 
-## Token Utility
+## Utilidad del Token
 
-As outlined in the whitepaper, we aim to establish SQT as the token which powers the SubQuery network, providing an incentive for participation, as well as serving as a medium of exchange for transactions within the SubQuery network. SQT will be the fuel for the web3 data revolution.
+Como se describe en el documento blanco, nuestro objetivo es establecer SQT como el token que potencia la red de SubQuery, proporcionar un incentivo para la participación, así como servir como medio de intercambio para las transacciones dentro de la red SubQuery. SQT será el combustible para la revolución de datos web3.
 
-In practice, this means that SubQuery is intended to function as a blockchain data marketplace where both Consumers (buyers) and Indexers (sellers) can meet to exchange data for SQT tokens. The third participant in our model are Delegators who participate in the network by supporting their favourite Indexers by delegating their tokens to them in order to earn rewards.
+En la práctica, esto significa que SubQuery está destinado a funcionar como un mercado de datos de blockchain donde tanto Consumidores (compradores) como Indexers (vendedores) pueden reunirse para intercambiar datos por tokens SQT. El tercer participante en nuestro modelo son los Delegadores que participan en la red apoyando a sus Indexadores favoritos delegándoles sus fichas para ganar recompensas.
 
-In the future we envision that holders of the SQT token will be able to inform the SubQuery Foundation about their vision for the overall direction of SubQuery as our network adopts some qualities of a decentralised autonomous organisation (DAO).
+En el futuro prevemos que los titulares del token SQT podrán informar a la SubQuery Foundation sobre su visión de la dirección general de SubQuery, ya que nuestra red adopta algunas cualidades de una organización autónoma descentralizada (DAO).
 
-## Token Allocation
+## Asignación de Token
 
-SubQuery will mint a fixed supply of 10 billion SQT which will be allocated in the following manner.
+SubQuery acuñará un suministro fijo de 10 mil millones de SQT que se asignará de la siguiente manera.
 
 ![](https://miro.medium.com/max/1400/0*eG2TM3J0NZDaT14m)
 
