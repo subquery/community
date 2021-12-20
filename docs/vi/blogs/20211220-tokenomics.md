@@ -42,23 +42,23 @@ Chúng tôi đã suy tính cẩn thận về lịch trình mở khoá cho từng
 
 Chi tiết mở khoá cho từng đối tượng sở hữu token như sau và có thể được thay đổi:
 
--  **Team and Launch Partners** are locked for 24 months and vest over the next 24.
--  **Seed Investors** are locked for 12 months and vest over the next 24.
--  **Series A investors** are locked for 6 months and vest over the next 18.
--  **Foundation and Community** will have approximately 30% of the allocation unlocked from the start to meet the operational needs of launching and promoting mainnet with the rest of the allocation vesting gradually over 5 years.
--  **Public Sale Round 1** participants have a 12 month lock-up period. Indexers and other key network participants will have a portion of their allocation available to be unlocked immediately to ensure they can kick-start the network. Participants in this round will be whitelisted and have a guaranteed allocation.
--  **Public Sale Round 2** participants have no lock-up period. This round is open to all users who pass KYC requirements on the launchpad platform. This round is “first come, first served” with a minimum and maximum allocation. In this regard, we are aiming to attract a larger number of participants to make the distribution fairer. More information about this may come in the future
+-  **Đội ngũ SubQuery và Đối tác khi khởi chạy**: token khóa 24 tháng và mở khoá trong 24 tháng tiếp theo.
+-  **Các nhà đầu tư hạt giống**: token khóa 12 tháng và mở khoá trong 24 tháng tiếp theo.
+-  **Các nhà đầu tư Seri A**: token khóa 6 tháng và mở khoá trong 18 tháng tiếp theo.
+-  **Nền tảng SubQuery và Cộng đồng**: khoảng 30% token phân bổ được mở khóa ngay từ đầu để đáp ứng nhu cầu hoạt động của việc khởi chạy và quảng bá mainnet, phần còn lại sẽ mở khoá dần dần trong 5 năm.
+-  **Bán công khai Vòng 1**: token có thời gian khóa 12 tháng. Những Người lập chỉ mục và những thành phần chính đã tham gia mạng lưới sẽ có một phần token được mở khóa ngay lập tức để đảm bảo họ có thể hoạt động trên mạng lưới. Những người tham gia vòng này sẽ được whitelist và có được suất đảm bảo.
+-  **Bán công khai Vòng 2**: token không có thời gian khóa. Vòng này dành cho tất cả người dùng hoàn thành KYC được yêu cầu bởi nền tảng launchpad. Vòng này diễn ra theo thể thức "đến trước được phục vụ trước" với mức phân bổ tối thiểu và tối đa. Về vấn đề này, mục tiêu chúng tôi hướng tới là thu hút số lượng người tham gia lớn hơn để đảm bảo việc phân phối trở nên công bằng hơn. Thông tin chi tiết sẽ được công bố trong tương lai
 
-We have also made provisions for a retrospective airdrop to communities that have strategic importance to our network (such as testnet participants) or as a means to attract new users outside of our current ecosystem..
+Chúng tôi cũng có các điều khoản cho một đợt airdrop nhằm tri ân các cộng đồng có tầm quan trọng chiến lược đối với mạng lưới của chúng tôi (chẳng hạn như những người tham gia testnet) hoặc sẽ coi như một phương tiện để thu hút người dùng mới bên ngoài hệ sinh thái hiện tại..
 
-The exact details of when and how the SQT token will be allocated and distributed are still subject to finalisation, and will be announced closer to the public sale. At this stage, we anticipate that token distribution to the sale participants will take place with the launch of the mainnet. In other words, there will be a waiting period between the sale and token distribution which will align with the token listing date.
+Chi tiết chính xác về thời điểm và cách thức phân bổ và phân phối token SQT vẫn đang được hoàn thiện và sẽ được công bố trước đợt mở bán công khai. Ở giai đoạn này, chúng tôi dự tính việc phân phối token cho những người tham gia mua sẽ diễn ra cùng với sự ra mắt của mạng chính. Nói cách khác, sẽ có một khoảng thời gian chờ từ khi mở bán cho đến khi phân phối token phù hợp với ngày lên sàn.
 
-For the listing of SQT, we are planning to be available on key decentralised (DEX) and centralised exchanges (CEX) to make it as easy as possible for everyone to participate in the SubQuery Network. We are looking forward to you all joining us on our mission to help developers build the decentralised applications of the future.
+Đối với việc niêm yết SQT, chúng tôi đang có kế hoạch niêm yết trên các sàn phi tập trung (DEX) và tập trung (CEX) chính để giúp mọi người tham gia vào Mạng SubQuery dễ dàng nhất có thể. Chúng tôi rất mong các bạn đồng hành với chúng tôi trong sứ mệnh giúp các nhà phát triển xây dựng các ứng dụng phi tập trung trong tương lai.
 
-## About SubQuery Network
+## Giới thiệu về mạng SubQuery
 
-SubQuery is Polkadot’s leading data provider, supporting an indexing & querying layer between Layer-1 blockchains (Polkadot) and decentralised applications. SubQuery’s data service is being used by most of the Polkadot and Kusama crowdloan and parachain auction websites live today.
+SubQuery là nhà cung cấp dữ liệu hàng đầu của Polkadot, hỗ trợ lập chỉ mục & lớp truy vấn giữa các blockchain Lớp-1 (Polkadot) và các ứng dụng phi tập trung. Dịch vụ dữ liệu của SubQuery đang được hầu hết các trang web đấu giá parachain và huy động vốn cộng đồng trên Polkadot và Kusama hiện có sử dụng.
 
-SubQuery’s protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+Giao thức của SubQuery loại bỏ đặc điểm riêng của dữ liệu blockchain với SubQuery SDK, cho phép các nhà phát triển tập trung vào việc triển khai các sản phẩm cốt lõi của họ mà không cần lãng phí nỗ lực vào các công nghệ phụ trợ tùy chỉnh.
 
 ​​​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
