@@ -1,4 +1,4 @@
-# Solarbeam work with SubQuery for their new Eclipse Launchpad
+# Solarbeam ร่วมมือกับ SubQuery บน launchpad ตัวใหม่ "Eclipse"
 
 ![](https://miro.medium.com/max/1400/1*ZG9NqT9GIXax5SBpNn5ipg.png)
 
@@ -18,7 +18,7 @@ In the example below, we’re using SubQuery to easily retrieve the top two part
 
 ![](https://miro.medium.com/max/1400/1*5iCwSaU96UtDMFA1MruRlA.png)
 
-Solarbeam is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. บริการจัดทำดัชนีและสืบค้นข้อมูลที่เรามีให้นั้นได้รับการจัดการโดย SubQuery และให้บริการฟรีแก่ชุมชน Polkadot ใน [SubQuery's Explorer](https://explorer.subquery.network/)
+Solarbeam is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/).
 
 [You can take a look at Solarbeam’s project in SubQuery’s Explorer here](https://explorer.subquery.network/subquery/csntest/eclipse)
 
@@ -32,8 +32,8 @@ Learn more about Solarbeam by visiting:
 
 [Main website](https://solarbeam.io/exchange/swap) | [Twitter](https://twitter.com/solarbeamio) | [Discord](http://discord.gg/rK4AjZXuwf) | [Telegram](http://t.me/solarbeamio) | [Medium](https://solarbeam.medium.com/)
 
-## เกี่ยวกับ SubQuery
+## About SubQuery
 
-[SubQuery](https://subquery.network/) คือเลเยอร์การรวบรวม, จัดทำดัชนีและสืบค้น (query) ข้อมูล แบบกระจายศูนย์ ระหว่างเลเยอร์ 1 ของบล็อกเชนและแอปพลิเคชันที่กระจายศูนย์ (DApp) ปัจจุบันมุ่งเน้นไปที่โปรเจกต์ Polkadot และ Substrate ซึ่งบริการข้อมูลนี้ช่วยให้นักพัฒนาสามารถโฟกัสไปที่การใช้งานหลัก (core use case) และระบบหน้าบ้าน (front-end) โดยไม่ต้องเสียเวลาไปกับการออกแบบระบบหลังบ้าน (back-end) เอง เพื่อใช้ประมวลผลข้อมูล
+[SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications (DApps). Currently focused on Polkadot and Substrate projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)
