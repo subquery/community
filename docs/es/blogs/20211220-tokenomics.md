@@ -2,11 +2,11 @@
 
 ![](https://miro.medium.com/max/1400/1*e42FM0TsNgOM3VacoctOzQ.png)
 
-Tokenomics es un aspecto importante de cualquier proyecto blockchain y es crítico para el éxito de cualquier token de utilidad. En SubQuery, estamos creando una red descentralizada y incentivada que proporcionará los datos para el futuro de la web 3 ([lea nuestro whitepaper](https://static.subquery.network/whitepaper.pdf)). Hoy estamos encantados de mostrar cómo funcionará el SQT y cómo se asignará para impulsar la participación de nuestra emocionante comunidad.
+Los tokenomics son un aspecto importante de cualquier proyecto blockchain y es crítico para el éxito de cualquier token de utilidad. En SubQuery, estamos creando una red descentralizada y incentivada que proporcionará los datos para el futuro de la web 3 ([lea nuestro whitepaper](https://static.subquery.network/whitepaper.pdf)). Hoy estamos encantados de mostrar cómo funcionará SQT y cómo se asignará para impulsar la participación de nuestra emocionante comunidad.
 
 [Recientemente, anunciamos que lanzaremos la red SubQuery a través de Acala](https://subquery.medium.com/the-subquery-network-to-launch-on-acala-decentralising-polkadots-leading-data-indexing-service-8203d686128e). Para aquellos que pueden ser nuevos en el ecosistema Polkadot, SubQuery necesita asociarse con un equipo de parachain existente para desplegar sus contratos inteligentes (y por lo tanto el token de SubQuery SQT) con el fin de ir en directo. En otras palabras, nuestro token está anidado dentro de la blockchain de Acala en Polkadot y permitirá la participación de inversores del ecosistema Ethereum debido a la solución EVM+ de Acala (Ethereum Virtual Machine).
 
-En preparación para el próximo lanzamiento con Acala del token SQT de SubQuery, es importante entender algunos aspectos clave como la utilidad token, la asignación y los plazos de inversión.
+En preparación para el próximo lanzamiento con Acala del token SQT de SubQuery, es importante entender algunos aspectos clave como la utilidad del token, la asignación y los plazos de inversión.
 
 ## Utilidad del Token
 
@@ -38,7 +38,7 @@ La asignación de tokens por sí misma no es nada si no se entiende la forma en 
 
 ![](https://miro.medium.com/max/1400/0*mfIBkH4SjFZgGuIq)
 
-Hemos reflexionado detenidamente sobre los programas de inversión para cada participante con el fin de crear valor a largo plazo para el proyecto y generar confianza para los tenedores de fichas. Lo más significativo es que el equipo principal tendrá un periodo de bloqueo de 24 meses, mientras que algunos participantes en la venta pública podrán utilizar libremente la utilidad de su token en el momento del lanzamiento.
+Hemos reflexionado detenidamente sobre los programas de inversión para cada participante con el fin de crear valor a largo plazo para el proyecto y generar confianza para los holders de tokens. Lo más significativo es que el equipo principal tendrá un periodo de bloqueo de 24 meses, mientras que algunos participantes en la venta pública podrán utilizar libremente la utilidad de su token en el momento del lanzamiento.
 
 El desglose de cada holder es el siguiente y está sujeto a cambios:
 
