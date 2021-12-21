@@ -30,7 +30,7 @@ Aprenda más sobre SubQuery
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
 
-La Red Darwinia es un protocolo de puente descentralizado y heterogéneo de cadenas cruzadas construido sobre Substrate, que se centra en el intercambio de tokens descentralizados entre cadenas, el exchange y el mercado.
+La Red Darwinia es un protocolo de puente descentralizado y heterogéneo cross-chain construido sobre Substrate, que se centra en el intercambio de tokens descentralizados entre cadenas, el exchange y el mercado.
 
 Darwinia también sirve como infraestructura crítica para la actualización de aplicaciones de una sola cadena a versión cruzada, incluyendo Defi, Game, DEX, mercado NFT, etc. Su visión es construir la futura Internet de Tokens.
 
