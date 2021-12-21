@@ -14,26 +14,26 @@
 
 ![](https://miro.medium.com/max/1400/1*6_iO6tLt4RxxMvs8u-F_Bg.png)
 
-ในตัวอย่างด้านล่าง เรากำลังใช้ SubQuery เพื่อรับการมีส่วนร่วมและพูลสองอันดับแรกใน DEX ของ Solarbeam ที่เรียงตามจำนวนทั้งหมด You can see how a simple GraphQL query can quickly get the data that Solarbeam need to build an intuitive user experience.
+ในตัวอย่างด้านล่าง เรากำลังใช้ SubQuery เพื่อรับการมีส่วนร่วมและพูลสองอันดับแรกใน DEX ของ Solarbeam ที่เรียงตามจำนวนทั้งหมด คุณจะเห็นได้ว่าเพียงแค่การค้นหาข้อมูลด้วย GraphQL สามารถได้รับข้อมูลที่ Solarbeam จำเป็นต่อการสร้างประสบการณ์ผู้ใช้ที่ใช้งานง่าย
 
 ![](https://miro.medium.com/max/1400/1*5iCwSaU96UtDMFA1MruRlA.png)
 
-Solarbeam is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/).
+Solarbeam ใช้ [SubQuery Projects](https://project.subquery.network/) เพื่อบริหารโปรเจกต์ของตนเองและทำการอัปเดตตามความจำเป็น บริการทำดัชนีและค้นหาข้อมูลที่เราให้บริการได้รับการบริหารโดย SubQuery ทั้งหมด และให้บริการกับชุมชน Poldadot แบบไม่มีค่าใช้จ่ายใน [SubQuery’s Explorer](https://explorer.subquery.network/)
 
-[You can take a look at Solarbeam’s project in SubQuery’s Explorer here](https://explorer.subquery.network/subquery/csntest/eclipse)
+[คุณสามารถลองดูโปรเจกต์ของ Solarbeam ใน SubQuery’s Explorer ได้ที่นี่](https://explorer.subquery.network/subquery/csntest/eclipse)
 
 ---
 
-## About Solarbeam
+## เกี่ยวกับ Solarbeam
 
-[Solarbeam](https://solarbeam.io/) is the leading AMM on Moonriver Network, with a peak TVL of more than $180m. Launched on September 1st 2021, Solarbeam has rapidly established itself as one of the mainstays in the Moonriver ecosystem.
+[Solarbeam](https://solarbeam.io/) เป็น AMM ชั้นนำบน Moonriver Network โดยมี TVL สูงสุดกว่า 180 ล้านดอลลาร์ Solarbeam เปิดตัวเมื่อวันที่ 1 กันยายน พ.ศ. 2564 และได้สร้างชื่อให้ตัวเองอย่างรวดเร็วในฐานะหนึ่งในแกนนำในระบบนิเวศ Moonriver
 
-Learn more about Solarbeam by visiting:
+เรียนรู้เพิ่มเติมเกี่ยวกับ Solarbeam โดยการไปที่:
 
-[Main website](https://solarbeam.io/exchange/swap) | [Twitter](https://twitter.com/solarbeamio) | [Discord](http://discord.gg/rK4AjZXuwf) | [Telegram](http://t.me/solarbeamio) | [Medium](https://solarbeam.medium.com/)
+[เว็บไซต์หลัก](https://solarbeam.io/exchange/swap) | [Twitter](https://twitter.com/solarbeamio) | [Discord](http://discord.gg/rK4AjZXuwf) | [Telegram](http://t.me/solarbeamio) | [Medium](https://solarbeam.medium.com/)
 
-## About SubQuery
+## เกี่ยวกับ SubQuery
 
-[SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications (DApps). Currently focused on Polkadot and Substrate projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+[SubQuery](https://subquery.network/) คือเลเยอร์การรวบรวม การทำดัชนี และการสืบค้นข้อมูลแบบกระจายศูนย์ระหว่างเลเยอร์ 1 ของบล็อกเชนและแอปพลิเคชันที่กระจายศูนย์ (DApp) ปัจจุบันมุ่งเน้นไปที่โปรเจกต์ Polkadot และ Substrate ซึ่งบริการข้อมูลนี้ช่วยให้นักพัฒนาสามารถโฟกัสไปที่การใช้งานหลัก (core use case) และระบบหน้าบ้าน (front-end) โดยไม่ต้องเสียเวลาไปกับการออกแบบระบบหลังบ้าน (back-end) เอง เพื่อใช้ประมวลผลข้อมูล
 
-[Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)
+[เว็บไซต์](https://subquery.network/) | [อีเมล](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)
