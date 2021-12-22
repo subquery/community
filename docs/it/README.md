@@ -1,42 +1,42 @@
 # SubQuery Blogs & Community Content
 
-SubQuery è stato creato per aiutarvi a trasformare e interrogare i dati del mondo per un futuro web3.0.
+SubQuery is here to help you transform and query the world’s data for a web3.0 future.
 
-Questo è il repository globale di tutti i blog, gli annunci, gli articoli e i video della community di SubQuery.
+This is the global repository of all community blogs, announcements, articles, and videos from SubQuery.
 
-**Leggilo nella tua lingua! È possibile modificare la lingua utilizzando il selettore in alto a destra presente su tutte le pagine.**
+**Read in your own language! You can change your language using the selector on the top right of all pages.**
 
-## Abbiamo bisogno di aiuto per tradurre i nostri contenuti!
+## We need help translating!
 
-Siamo consapevoli che uno dei nostri maggiori punti di forza è la nostra comunità e, con il vostro aiuto, desideriamo crescere e stabilire ambasciatori locali per aiutarci a tradurre il nostro materiale per le comunità provenienti da tutto il mondo.
+We understand that one of our biggest strengths is our community, and with your help, we want to grow and establish local ambassadors to help translate our material for communities around the world.
 
-[Unisciti al nostro programma Ambassador](https://doc.subquery.network/miscellaneous/ambassadors.html)
+[Join our Ambassador Program](https://doc.subquery.network/miscellaneous/ambassadors.html)
 
-## Link ai Social media
+## Social Media Links
 
-SubQuery è un progetto attivo che va avanti e comunica con i propri follower attraverso una serie di canali sui social media.
+SubQuery is an active project that maintains and communicates with our followers through many social media channels.
 
-Il nostro obiettivo è quello di ascoltare e interagire sempre con la nostra fedele community, quindi unisciti alla conversazione e inviaci le tue idee o le tue domande!
+It is our aim to always listen and engage with our loyal community so please join the conversation and send us your ideas or questions!
 
-### Comunità Ufficiali Di Subquery
+### Official SubQuery Communities
 
 - [Linktree](https://linktr.ee/subquerynetwork)
-- [Discord](https://discord.com/invite/subquery) (Community principale con dei canali di supporto tecnico dedicati)
-- [Medium](https://subquery.medium.com) (Canale principale per gli annunci)
+- [Discord](https://discord.com/invite/subquery) (Primary Community with dedicated technical support channels)
+- [Medium](https://subquery.medium.com) (Primary announcements channel)
 - [Twitter](https://twitter.com/subquerynetwork)
-- [Telegram](https://t.me/subquerynetwork) (Canale solamente per gli annunci)
+- [Telegram](https://t.me/subquerynetwork) (Announcements channel only)
 - [GitHub](https://github.com/SubQuery/subql)
 - [Matrix/Riot](https://matrix.to/#/#subquery:matrix.org)
 - [LinkedIn](https://www.linkedin.com/company/subquery)
 
-### Comunità non ufficiali Di SubQuery
+### Unofficial SubQuery Communities
 
-Queste comunità non sono moderate dal team SubQuery, ma i nostri ambassador potrebbero essere lì per fornire supporto. Fai attenzione alle truffe poiché SubQuery **non** è responsabile di ciò che accade al loro interno.
+These communities are not moderated by the SubQuery team, but our ambassadors may be there to provide support. Please be careful of scams as SubQuery is **not** responsible for what happens within them.
 
-- [Telegram (Cinese)](https://t.me/subquerychina)
-- [Telegram (Russo)](https://t.me/SubQuery_russia)
-- [Telegram (Spagnolo)](https://t.me/SubQueryES)
-- [Telegram (Tailandese)](https://t.me/subquerynetworkthai)
-- [Telegram (Turco)](https://t.me/subquery_TR)
+- [Telegram (Chinese)](https://t.me/subquerychina)
+- [Telegram (Russian)](https://t.me/SubQuery_russia)
+- [Telegram (Spanish)](https://t.me/SubQueryES)
+- [Telegram (Thai)](https://t.me/subquerynetworkthai)
+- [Telegram (Turkish)](https://t.me/subquery_TR)
 - [Telegram (Vietnamese)](https://t.me/subqueryvietnam)
-- [Telegram (Annunci Vietnamese)](https://t.me/subqueryannvn)
+- [Telegram (Vietnamese Announcement)](https://t.me/subqueryannvn)
