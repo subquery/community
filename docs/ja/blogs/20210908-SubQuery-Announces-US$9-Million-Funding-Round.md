@@ -12,7 +12,7 @@ SubQueryは分散型ブロックチェーンデータへのアクセスを向上
 
 > *「私たちはMoonbeamやAcalaのようなパラチェーンの初期投資家であり、これらのエコシステムのチームがコア製品に集中できるようにしたいと考えています。 SubQueryを使用すると、ビルドが簡単になります。 それはすべてのパラチェンにスケールし、Polkadot & Kusamaでの活動の次のブームを触媒することができます。*- Ninor Mansor, Arrington Capital のパートナー
 
-![](https://cdn-images-1.medium.com/max/1600/1*j4VHuY_BgjkYv_bQ6_DmcQ.gif)
+![](https://cdn-images-1.medium.com/max/1600/1*j4VHuy_BgjkYv_bQ6_DmcQ.gif)
 
 > *"SubQueryは、ポルカドットスタックの重要な部分であり、少なくともポルカドットプロジェクトとの深い関係です。 ポルカドットエコシステムへの積極的な投資家として、私たちはチームの彼らの仕事に対する情熱、知識、献身に感銘を受け、それらを支持することに非常に興奮しています。* - DCGの投資ディレクター、マット・ベック
 
@@ -28,10 +28,10 @@ SubQueryはすでに毎日何百万ものデータクエリを[ポルカドッ�
 
 [SubQuery](https://subquery.network)は、Layer-1ブロックチェーンと分散型アプリケーションの間にある、分散型のデータ集約、インデックス作成、およびクエリを行うためのレイヤーです。 このプロトコルは、SubQuery SDK でブロックチェーンデータを抽象化します。 開発者は、カスタムバックエンド技術の努力を無駄にすることなく、コア製品の展開に集中できるようになります。
 
-### Find Out More
+### 詳しくはこちら
 
-Get started by building your own SubQuery project [here](https://doc.subquery.network/).
+SubQuery プロジェクト [はこちら](https://doc.subquery.network/) から開発を始めましょう。
 
-Learn about the SubQuery Network protocol [here](https://static.subquery.network/whitepaper.pdf).
+SubQuery Network プロトコルについては、こちら [](https://static.subquery.network/whitepaper.pdf) をご覧ください。
 
-[Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw) | [LinkedIn](https://www.linkedin.com/company/subquery)
+[Email](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
