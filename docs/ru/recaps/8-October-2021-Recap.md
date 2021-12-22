@@ -62,7 +62,7 @@
 
 # Другие вещи, которые вы могли пропустить
 
--   Мы Мы заключили партнерство с компанией Acala, чтобы предоставить [самый большой пул призов для Encode Club Polkadot Hackathons](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e).
+-   Мы заключили партнерство с компанией Acala, чтобы предоставить [самый большой пул призов для Encode Club Polkadot Hackathons](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e).
 -   [SubQuery помогает компании Khala построить новый ERC20 Chain мост](https://subquery.medium.com/subquery-helps-khala-build-their-new-erc20-chain-bridge-c3aa0e1e6a89)
 
 Если вы хотите узнать больше, вы можете легко просмотреть все проекты через наш проводник здесь.
