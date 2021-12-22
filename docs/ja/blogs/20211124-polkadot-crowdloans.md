@@ -1,48 +1,48 @@
-# Inside The Polkadot Crowdloans (Part 1)
+# Polkadotのクラウドローンの裏側(パート1)
 
 ![](https://miro.medium.com/max/2400/1*JvR4YsstF6OHG3mTr_1Seg.png)
 
-**SubQuery Digs Into The Parachain Auction Data**
+**Subqueryはパラチェーンオークションデータを掘り下げます**
 
-A huge milestone has just been achieved for Polkadot, the completion of the first round of the parachain auctions. Over the past weeks we’ve observed a heated fight for the Polkadot crown, the first parachain slot, between Moonbeam and Acala. After a tightly fought race the winner of the auction was revealed to be Acala, if you want to learn more about how winners are selected in this modern candlestick auction then take a look at  [Dan Reecer’s (from Acala) excellent summary](https://twitter.com/danreecer_/status/1364646604024786949).
+この度、Polkadot社にとって大きなマイルストーンとなる、パラチェーンオークションの第1回目が終了しました。 ここ数週間、パラチェーンスロット第1号、Polkadotクラウンをめぐって、MoonbeamとAcalaの間で激しい戦いが繰り広げられました。 オークションの勝者はAcalaでした。この現代のキャンドル・オークションで勝者がどのようにして選ばれるのかについて詳しく知りたい方は、[AcalaのDan Reecer氏の素晴らしい要約](https://twitter.com/danreecer_/status/1364646604024786949)をご覧ください。
 
-SubQuery is  Polkadot’s leading data indexing service, and over the past week we’ve been powering millions of daily requests to the majority of the crowdloan dashboards, contribution apps, and analytics websites. Teams like  [SubVis](https://www.subvis.io/),  [Parallel Finance](https://parallel.fi/), and  [DotMarketCap](https://dotmarketcap.com/)  rely on SubQuery to provide real time data on the crowdloans and other on-chain data directly to their websites and apps.
+SubQueryはPolkadotの代表的なデータ・インデックス・サービスであり、過去1週間にわたり、クラウドローンのダッシュボード、コントリビューションアプリ、分析サイトの大半に毎日数百万のリクエストを提供してきました。 [SubVis](https://www.subvis.io/)、[Parallel Finance](https://parallel.fi/)、[DotMarketCap](https://dotmarketcap.com/)などのチームは、SubQueryを利用して、クラウドローンやその他のオンチェーンのデータをリアルタイムでウェブサイトやアプリに直接提供しています。
 
-Today we are going to explore a little more about what happened within the first auction by diving into the data behind every single contribution.
+今日は、最初のオークションで何が起こったのかを、一つ一つの寄付のデータに基づいて、もう少し詳しく調べてみたいと思います。
 
 ![](https://miro.medium.com/max/2400/0*Pcp3KJvC5eyP2KQ3)
 
-Firstly, from the launch of the first crowdloan to the close of the first auction (a little over 13 days), over 87.5 million DOT was contributed across all crowdloans by just under 68,000 addresses. Essentially 68,000 addresses worked together over 187,000 contributions to raise and commit over US$3.54 billion in 2 weeks. That’s a phenomenal amount by any standard, and a huge indication of how committed individuals (and entities) are to locking up their DOT for up to 2 years to support their favourite networks. The committed capital equates to almost 10% of Polkadot’s entire circulating supply.
+まず、最初のクラウドローンが開始されてから最初のオークションが終了するまで(13日強) 、すべてのクラウドローンに関しては、68,000弱のアドレスから8,750万DOT以上が貢献されました。 2週間で68,000アドレスが18万7,000回の寄付を行い、35億4,000万ドルの寄付金を集め、コミットしました。 これは誰が見ても驚異的な金額であり、個人(および企業) がお気に入りのネットワークをサポートするために、DOTを最大2年間ロックすることにどれだけ熱心に取り組んでいるかを示しています。 今回の出資額は、Polkadotの全流通量の約10％に相当します。
 
 ![](https://miro.medium.com/max/2400/0*-ovBJnjxAKfeB81Y)
 
-Investor interest really boomed in the start of the auctions, with a surge of contributions (by count) for the first few hours and also right towards the end before close. The first day of the crowdloans saw over 34,000 contributions and the last minute rush returned with 5,618 contributions in a 2 hour period.
+オークションが始まると投資家の関心が一気に高まり、最初の数時間、そして終了前の最後の方では、貢献数(カウント) が急増しました。 クラウドローンの初日には34,000件以上の貢献があり、直前のラッシュでは2時間で5,618件の貢献がありました。
 
-As you can see in the graph below, Moonbeam had by far the largest number of contributions throughout the auction, attracting almost 23,984 contributions from more than 21,333 more unique addresses than Acala.
+下のグラフにあるように、Moonbeamは、Acalaよりも21,333以上多くのユニークアドレスから23,984の貢献を集め、オークション期間中の貢献数が圧倒的に多かったのです。
 
 ![](https://miro.medium.com/max/2400/0*MSHfjnu7KmMvDmnY)
 
-Acala obviously came ahead as the winner, so how did this happen? The number of contributors and their contributions hides the fact that Acala’s contributors on average contributed far more than Moonbeam. As a result the total contributions in terms of value looked like the graph below where Acala were slightly ahead of Moonbeam throughout the auction.
+Acalaが勝利したのは当然として、なぜこうなったのでしょうか？ 貢献者の数とその貢献量は、Acalaの貢献者が平均してMoonbeamよりもはるかに多く貢献しているという事実を隠しています。 その結果、貢献量の合計は下のグラフのようになり、オークション期間中、AcalaがMoonbeamをわずかに上回っていました。
 
 ![](https://miro.medium.com/max/2400/0*YbV-ReqSwfimUsbO)
 
-The majority of contributions by value occurred in two individual events, these two significant events essentially changed the outcome of the first auction.
+貢献額の大半は2つのイベントで発生しており、この2つの重要なイベントが最初のオークションの結果を大きく変えました。
 
 ![](https://miro.medium.com/max/2400/0*jmRsZ7kxEYAWYaUq)
 
-The first occurred in the space of 5 minutes starting at 1:25pm UTC on the 11th of November. A single address that we have linked to  [Binance’s Crowdloan](https://www.binance.com/en/dotslot)  address made a series of 7 transactions with a total value of over 19 million DOT (US$768.9 million). The first was the largest single contribution to Moonbeam with over 9 million DOT (US$364 million), followed by 6 other contributions on average 34 seconds apart. This address also made significant contributions to Acala (2.6 million DOT), Clover (2.1 million DOT), Astar (2 million DOT), and Manta (1.7 million DOT).
+まず最初のイベントは、11月11日午後1時25分（UTC）から5分間の間に発生しました。 当社が[Binanceクラウドローン](https://www.binance.com/en/dotslot)のアドレスにリンクさせた1つのアドレスでは、総額1,900万DOT(7億8,890万米ドル) 以上の7つの取引が連続して行われていました。 1回目は900万DOT(3億6400万米ドル) を超える「Moonbeam」への最大の単独貢献であり、その後、平均34秒間隔で6回の貢献が続きました。 このアドレスは、Acala(260万DOT) 、Clover(210万DOT) 、Astar(200万DOT) 、Manta(170万DOT) にも大きく貢献しています。
 
-The second significant event occurred in the space of 75 minutes from 10.40am on the 13th of November when a single account made multiple significant contributions to Acala. This account represents  [Acala’s LCDOT address](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157)  and was Acala deploying all of its liquid staked DOT to its crowdloan. First were some test transactions, then some major transactions which include the largest of 5.5 million DOT (USD$222.5 million). In the end Acala’s LCDOT fund made 3758 contributions over the auction.
+2つ目の重要なイベントは、11月13日午前10時40分から75分間の間に発生したもので、1つのアカウントがAcalaに複数の重要な貢献を行ったものです。 このアカウントは[AcalaのLCDOTアドレス](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157)を表しており、Acalaはそのクラウドローンに流動性提供されたDOTをすべて投入していました。 最初にいくつかの試験的な取引が行われ、その後、最大の550万DOT(2億2,250万米ドル) を含む大規模な取引が行われました。 最終的にアカラのLCDOTファンドは、オークション期間中に3758回の貢献を行いました。
 
 ![](https://miro.medium.com/max/2400/0*GTJviXqhPmRIIf73)
 
-These series of transactions were ultimately able to push Acala above Moonbeam, and provide Acala with a winning percentage of 63.11% of the blocks. When the random winning block was selected ~56 hours later at block 7,718,090, Acala was ahead of Moonbeam by just ~38,000 DOT (USD$1.5 million).
+これらの一連の取引により、最終的にAcalaはMoonbeamを上回り、ブロックの勝率は63.11%となりました。 56時間後、ランダムに選ばれた7,718,090ブロックでは、AcalaがMoonbeamに3万8,000DOT(150万米ドル) の差をつけていました。
 
-One of the amazing things about these auctions, is that even after raising over 66 million DOT (USD$2.67 billion) between Acala and Moonbeam, the winning margin at the randomly selected block was just 0.056% of the total amount.
+このオークションのすごいところは、AcalaとMoonbeamの間で6600万DOT(26億7000万米ドル) 以上の資金を集めたにもかかわらず、ランダムに選ばれたブロックでの勝率は、総額のわずか0.056％だったことです。
 
-So who was contributing to the crowdloans? Firstly, the median amount contributed by all was just 12 DOT (USD$485.64), 47% of all contributions were less than 10 DOT and 88% were less than 100 DOT (US$4,047.00). This clearly demonstrates an extremely strong and robust community of individual contributors, testament to the retail interest in the parachain auctions.
+では誰がクラウドローンに貢献していたのでしょうか? まず、全体の貢献額の中央値はわずか12DOT(485.64ドル) 、全体の47％は10DOT以下、88％は100DOT(4,047.00ドル) 以下でした。 これは、個人の貢献者のコミュニティが非常に強く、強固であることを示しており、パラチェーン・オークションに対するリテールの関心の高さを物語っています。
 
-The big question on everyone’s mind is who’s the people’s network? Which network has the largest proportion of small contributors? For the following insights into contribution size breakdown we have excluded some known exchange or crowdloan accounts (list in the appendix). You can see that some networks are almost completely small cap funded (SubGame Gamma and Darwinia). On the other hand, large cap investors (>5,000 DOT) make up 68% of Moonbeam’s crowdloan (by value), 62% of Parallel Finance’s, and 58% of Clover’s.
+みんなの大きな関心事は、誰のためのネットワークなのか？ということです。 少額の貢献者の中で最も多いのはどのネットワークでしょうか？ 貢献額の内訳を把握するために、既知の取引所やクラウドローンのアカウントは除外しています(リストは付録にあります) 。 ネットワークの中には、ほとんどが少額の資金で構成されているものがあることがわかります(SubGame GammaとDarwinia) 。 On the other hand, large cap investors (>5,000 DOT) make up 68% of Moonbeam’s crowdloan (by value), 62% of Parallel Finance’s, and 58% of Clover’s.
 
 ![](https://miro.medium.com/max/2400/0*ztRnFrVfJ2aTlMiU)
 
