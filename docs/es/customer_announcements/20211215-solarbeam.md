@@ -1,39 +1,39 @@
-# Solarbeam trabaja con SubQuery para su nuevo Launchpad Eclipse
+# Solarbeam work with SubQuery for their new Eclipse Launchpad
 
 ![](https://miro.medium.com/max/1400/1*ZG9NqT9GIXax5SBpNn5ipg.png)
 
-Hoy queremos anunciar nuestra asociación entre Solarbeam y SubQuery Network. Solarbeam es el DEX [más grande](https://defillama.com/chain/Moonriver) de Moonriver con un pico de TVL (Valor total Bloqueado) de más de $180 millones. Esto requiere capacidades confiables de consulta de datos de alta velocidad para su interfaz de usuario.
+Today we want to announce our partnership between Solarbeam and SubQuery Network. Solarbeam is the [largest DEX](https://defillama.com/chain/Moonriver) on Moonriver’s Kusama-based parachain with a peak TVL of more than $180m. This requires reliable, high-speed data querying capabilities for their user interface.
 
-Solarbeam ha lanzado recientemente [Eclipse](https://app.solarbeam.io/eclipse), un launchpad construido para pools y subastas de tokens de cadena cruzada permitir que los proyectos obtengan capital en un entorno descentralizado e interoperable basado en Moonriver.
+Solarbeam recently launched [Eclipse](https://app.solarbeam.io/eclipse), a launchpad built for cross-chain token pools and auctions, enabling projects to raise capital on a decentralized and interoperable environment based on Moonriver.
 
 ![](https://miro.medium.com/max/1400/1*IbRN8EnymWvqvh0sx_PNKw.png)
 
-> _“_SubQuery ha demostrado ser una herramienta fiable para consultar eventos y transacciones en cadenas basadas en EVM y Substrate, con una latencia mínima para sincronizar nuevos datos y apto para grandes cantidades de datos. Como resultado, creemos que SubQuery proporcionará una experiencia tan buena en Moonbeam como la que tiene para nosotros en Moonriver”. _— Fundador, Solarbeam_
+> _“_SubQuery has proved to be a reliable tool for querying events and transactions on EVM and Substrate based chains, with a minimal latency for syncing new data and suitable for large amounts of data. As a result, we believe SubQuery will provide as good of an experience on Moonbeam as it has for us on Moonriver”. _— Founder, Solarbeam_
 
-El servicio de [SubQuery](https://subquery.network/) ayuda a impulsar analíticas para el launchpad IDO de Eclipse por Solarbeam. Antes de su lanzamiento en Moonbeam, Solarbeam integrará SubQuery con su herramienta de análisis de portafolio de usuarios que permitirá a los usuarios rastrear su historial de farming y beneficios. Esto es posible gracias a la integración reciente [de EVM de Moonbeam y Moonriver con SubQuery](https://subquery.medium.com/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff).
+[SubQuery’s](https://subquery.network/) service helps drive analytics for the Eclipse IDO launchpad by Solarbeam. Ahead of their launch on Moonbeam, Solarbeam will be integrating SubQuery with their user portfolio analytics tool which will enable users to track their farming and profit history. This is made possible by the [recent integration of Moonbeam and Moonriver’s EVM with SubQuery](https://subquery.medium.com/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff).
 
 ![](https://miro.medium.com/max/1400/1*6_iO6tLt4RxxMvs8u-F_Bg.png)
 
-En el ejemplo siguiente, estamos usando SubQuery para recuperar fácilmente las dos primeras participaciones y pools del DEX de Solarbeam ordenadas por cantidades totales. Puede ver cómo una simple consulta de GraphQL puede obtener rápidamente los datos que Solarbeam necesita para construir una experiencia de usuario intuitiva.
+In the example below, we’re using SubQuery to easily retrieve the top two participations and pools in Solarbeam’s DEX ordered by total amounts. You can see how a simple GraphQL query can quickly get the data that Solarbeam need to build an intuitive user experience.
 
 ![](https://miro.medium.com/max/1400/1*5iCwSaU96UtDMFA1MruRlA.png)
 
-Solarbeam está usando [SubQuery Proyects](https://project.subquery.network/) para administrar su propio proyecto y hacer actualizaciones según sea necesario. Los servicios de indexación y consulta que proveemos están completamente administrados por SubQuery y se comparten de manera gratuita con la comunidad de Polkadot en [SubQuery's Explorer](https://explorer.subquery.network/).
+Solarbeam is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/).
 
-[Puedes echar un vistazo al proyecto de Solarbeam en el Explorador de SubQuery aquí](https://explorer.subquery.network/subquery/csntest/eclipse)
+[You can take a look at Solarbeam’s project in SubQuery’s Explorer here](https://explorer.subquery.network/subquery/csntest/eclipse)
 
 ---
 
-## Acerca de Solarbeam
+## About Solarbeam
 
-[Solarbeam](https://solarbeam.io/) es el principal AMM en la red Moonriver Network, con un pico TVL de más de $180 millones. Iniciada el 1 de septiembre de 2021, Solarbeam se ha establecido rápidamente como uno de los pilares en el ecosistema de Moonriver.
+[Solarbeam](https://solarbeam.io/) is the leading AMM on Moonriver Network, with a peak TVL of more than $180m. Launched on September 1st 2021, Solarbeam has rapidly established itself as one of the mainstays in the Moonriver ecosystem.
 
-Más información sobre Solarbeam visitando:
+Learn more about Solarbeam by visiting:
 
-[Sitio web principal](https://solarbeam.io/exchange/swap) | [Twitter](https://twitter.com/solarbeamio) | [Discord](http://discord.gg/rK4AjZXuwf) | [Telegram](http://t.me/solarbeamio) | [Media](https://solarbeam.medium.com/)
+[Main website](https://solarbeam.io/exchange/swap) | [Twitter](https://twitter.com/solarbeamio) | [Discord](http://discord.gg/rK4AjZXuwf) | [Telegram](http://t.me/solarbeamio) | [Medium](https://solarbeam.medium.com/)
 
-## Acerca de SubQuery
+## About SubQuery
 
-[SubQuery](https://subquery.network/) es una agregación de datos descentralizada, indexación & capa de consulta entre las blockchains Layer-1 y las aplicaciones descentralizadas (DApps). Actualmente enfocados en proyectos de Polkadot y Substrate, estos datos a manera de servicio permiten a los desarrolladores concentrarse en su caso de uso principal y front-end, sin necesidad de perder tiempo construyendo un backend personalizado para el procesamiento de datos.
+[SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications (DApps). Currently focused on Polkadot and Substrate projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)
