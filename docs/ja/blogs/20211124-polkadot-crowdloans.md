@@ -42,39 +42,39 @@ Acalaが勝利したのは当然として、なぜこうなったのでしょう
 
 では誰がクラウドローンに貢献していたのでしょうか? まず、全体の貢献額の中央値はわずか12DOT(485.64ドル) 、全体の47％は10DOT以下、88％は100DOT(4,047.00ドル) 以下でした。 これは、個人の貢献者のコミュニティが非常に強く、強固であることを示しており、パラチェーン・オークションに対するリテールの関心の高さを物語っています。
 
-みんなの大きな関心事は、誰のためのネットワークなのか？ということです。 少額の貢献者の中で最も多いのはどのネットワークでしょうか？ 貢献額の内訳を把握するために、既知の取引所やクラウドローンのアカウントは除外しています(リストは付録にあります) 。 ネットワークの中には、ほとんどが少額の資金で構成されているものがあることがわかります(SubGame GammaとDarwinia) 。 On the other hand, large cap investors (>5,000 DOT) make up 68% of Moonbeam’s crowdloan (by value), 62% of Parallel Finance’s, and 58% of Clover’s.
+みなさんの大きな関心ごとは、誰がネットワークを構築しているのか？ということです。 少額の貢献者の中で最も多いのはどのネットワークでしょうか？ 貢献額の内訳を把握するために、既知の取引所やクラウドローンのアカウントは除外しています(リストは付録にあります) 。 ネットワークの中には、ほとんどが少額の資金で構成されているものがあることがわかります(SubGame GammaとDarwinia) 。 一方、Moonbeamのクラウドローン(金額ベース) の68%、Parallel Financeの62%、Clover社の58%を大口投資家(> 5,000 DOT) が占めています。
 
 ![](https://miro.medium.com/max/2400/0*ztRnFrVfJ2aTlMiU)
 
-Obviously we are here to look at Moonbeam and Acala, and here we can see that Acala has more small cap funding than Moonbeam, with 33% of Acala’s contributions being less than 1,000 DOT (USD$40,470) compared to 21% of Moonbeam’s.
+ここではMoonbeamとAcalaを見ていますが、AcalaはMoonbeamよりも小口資金が多く、Acalaの出資額の33％が1,000DOT(40,470米ドル) 未満であるのに対し、Moonbeamでは21％です。
 
 ![](https://miro.medium.com/max/2400/0*ge-2XDPgddj-J07V)
 
-_Note, the previous insights around “the people’s network” have been taken after excluding known contributors that aggregate other contributions into one. SubQuery has only identified a small number, there will certainly be aggregators that we have missed that may be material to the data shared here_
+_なお、これまでの誰がネットワークを構築しているのかに関する洞察は、既知の貢献者を除外した上で得られたものです。 SubQueryが確認できたのはごく一部であり、ここで共有されているデータに重要な意味を持つ、我々が見逃しているアグリゲータもあるはずです。_
 
-So where are people contributing from? SubQuery has identified that  [Acala’s LCDOT](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157)  was a runaway success, and resulted in almost 28% of all contributions. With over 24 million DOT (US$971 million) contributed directly to Acala, this auction would likely have gone another way without it.
+では、人々はどこから貢献しているのでしょうか。 SubQueryでは、[Acala's LCDOT](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157)の暴走が確認されており、全貢献の約28%を占める結果となりました。 2,400万DOT(9億7,100万ドル) を超える金額が直接Acalaに貢献されており、このオークションはAcalaがなければ別の方法で行われていたかもしれません。
 
-Additionally,  [Binance](https://www.binance.com/en/dotslot)  proved to be a popular participation pathway with 27% of contributions across all most participants. We round out the significance contribution methods with  [Parallel Finance](https://crowdloan.parallel.fi/#/auction/polkadot)  at 11% of contributions, and  [Kraken](https://www.kraken.com/learn/parachain-auctions)  at 7%. Centralised exchanges are still clearly a preferred method of participation.
+さらに、[Binance](https://www.binance.com/en/dotslot)は人気のある参加経路であることがわかり、参加者全体で27%の貢献がありました。 貢献の多い方法としては、[Parallel Finance](https://crowdloan.parallel.fi/#/auction/polkadot)が11％、[Kraken](https://www.kraken.com/learn/parachain-auctions)が7％となっています。 中央集権型取引所は、今でも明らかに好ましい参加方法です。
 
-## About SubQuery Network
+## SubQuery Networkについて
 
-SubQuery is Polkadot’s leading data provider, supporting an indexing & querying layer between Layer-1 blockchains (Polkadot) and decentralized applications. SubQuery’s data service is being used by most of the Polkadot and Kusama crowdloan and parachain auction websites live today.
+SubQueryは、Layer-1ブロックチェーン(Polkadot) と分散型アプリケーションとの間のインデックス & クエリーレイヤーをサポートする、Polkadotの代表的なデータプロバイダーです。 SubQueryのデータサービスは、現在稼働しているPolkadotやKusamaといったクラウドローンやパラチェーンオークションのサイトのほとんどで採用されています。
 
-SubQuery’s protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+SubQueryのプロトコルは、ブロックチェーンのデータの特異性をSubQuery SDKによって抽象化しているため、開発者はカスタムバックエンド技術に無駄な労力を費やすことなく、コア製品の展開に集中することができます。
 
-​​​​[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+​​[Linktree](https://linktr.ee/subquerynetwork) | [Webサイト](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
 
-## Appendix
+## 付録
 
-All USD prices are quoted at the price at the 1st Auctions’s close = USD$40.47
+すべてのDOT価格は、第1回オークションの終了時の価格＝40.47ドルで表示されています。
 
-All data is from the start of the Polkadot Crowdloans to the completion of the first auction on 18th November 11.57AM UTC (block 7,756,107)
+すべてのデータは、Polkadot クラウドローンの開始から、11月18日11:57AM UTCの最初のオークションの完了まで(ブロック7,756,107) のものです。
 
-Excluded Crowdloan Sites
+除外されたクラウドローンサイト
 
 -   [Acala LCDOT](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157)
--   [Binance Crowdloan](https://www.binance.com/en/dotslot)
+-   [Binanceクラウドローン](https://www.binance.com/en/dotslot)
 -   [Parallel Finance](https://crowdloan.parallel.fi/#/auction/polkadot)
--   [Kraken Crowdloan](https://www.kraken.com/learn/parachain-auctions)
+-   [Krakenクラウドローン](https://www.kraken.com/learn/parachain-auctions)
 -   [https://pos.dog/](https://pos.dog/)
 -   [Bifrost SALP](https://medium.com/bifrost-finance/bifrost-announces-slot-auction-liquidity-protocol-salp-weekly-report-51-57a7f69aad34)
