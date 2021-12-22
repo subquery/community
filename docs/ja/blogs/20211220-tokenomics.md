@@ -53,12 +53,12 @@ SubQueryは設立当初からコミュニティの価値を高めることに注
 
 SQTトークンがいつ、どのように割り当てられ、分配されるかについての正確な詳細はまだ確定しておらず、パブリックセールに近い時期に発表されます。 現段階では、セール参加者へのトークンの配布は、メインネットのローンチと同時に行われることを想定しています。 つまり、セールとトークンの配布の間には、トークンの上場日に合わせた待機期間が設けられます。
 
-For the listing of SQT, we are planning to be available on key decentralised (DEX) and centralised exchanges (CEX) to make it as easy as possible for everyone to participate in the SubQuery Network. We are looking forward to you all joining us on our mission to help developers build the decentralised applications of the future.
+SQTの上場にあたっては、誰もができるだけ簡単にSubQuery Networkに参加できるよう、主要な分散型取引所(DEX) と中央集権型取引所(CEX) での提供を予定しています。 私たちは、開発者が未来の分散型アプリケーションを構築するためのミッションに、皆さんが参加してくださることを楽しみにしています。
 
-## About SubQuery Network
+## SubQuery Networkについて
 
-SubQuery is Polkadot’s leading data provider, supporting an indexing & querying layer between Layer-1 blockchains (Polkadot) and decentralised applications. SubQuery’s data service is being used by most of the Polkadot and Kusama crowdloan and parachain auction websites live today.
+SubQueryは、Layer-1ブロックチェーン(Polkadot) と分散型アプリケーションとの間のインデックス & クエリーレイヤーをサポートする、Polkadotの代表的なデータプロバイダーです。 SubQueryのデータサービスは、現在稼働しているPolkadotやKusamaといったクラウドローンやパラチェーンオークションのサイトのほとんどで採用されています。
 
-SubQuery’s protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+SubQueryのプロトコルは、ブロックチェーンのデータの特異性をSubQuery SDKによって抽象化しているため、開発者はカスタムバックエンド技術に無駄な労力を費やすことなく、コア製品の展開に集中することができます。
 
 ​​​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
