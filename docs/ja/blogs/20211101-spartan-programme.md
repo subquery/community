@@ -1,4 +1,4 @@
-# SubQuery’s New Spartan Programme
+# SubQueryの新しいスパルタン・プログラム
 
 ![](https://miro.medium.com/max/1400/1*k5cScGKMiC45i_N-em3x0Q.png)
 
