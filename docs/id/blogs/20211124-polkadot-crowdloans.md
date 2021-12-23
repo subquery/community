@@ -4,8 +4,7 @@
 
 **SubQuery Menggali Data Lelang Parachain**
 
-Sebuah perjalanan besar baru saja dicapai untuk Polkadot, penyelesaian putaran pertama lelang parachain. Selama beberapa minggu terakhir kami telah mengamati pertarungan sengit untuk mahkota Polkadot, slot parachain pertama, antara Moonbeam dan Acala. Setelah pertarungan sengit, pemenang lelang dinyatakan sebagai Acala, jika Anda ingin mempelajari lebih lanjut tentang bagaimana pemenang dipilih dalam lelang candlestick modern ini, lihat
-ringkasan bagus Dan Reecer (dari Acala)</ 0>.</p> 
+Sebuah perjalanan besar baru saja dicapai untuk Polkadot, penyelesaian putaran pertama lelang parachain. Selama beberapa minggu terakhir kami telah mengamati pertarungan sengit untuk mahkota Polkadot, slot parachain pertama, antara Moonbeam dan Acala. Setelah pertarungan sengit, pemenang lelang dinyatakan sebagai Acala, jika Anda ingin mempelajari lebih lanjut tentang bagaimana pemenang dipilih dalam lelang candlestick modern ini, lihat [ringkasan bagus Dan Reecer (dari Acala)](https://twitter.com/danreecer_/status/1364646604024786949).
 
 SubQuery adalah layanan pengindeksan data terkemuka dari Polkadot, dan selama seminggu terakhir kami telah mendukung jutaan permintaan harian ke sebagian besar dasbor crowdloan, aplikasi kontribusi, dan situs web analitik. Tim seperti [SubVis](https://www.subvis.io/), [Parallel Finance](https://parallel.fi/), dan [DotMarketCap](https://dotmarketcap.com/) mengandalkan SubQuery untuk menyediakan data real time tentang crowdloan dan data on-chain lainnya langsung ke website dan aplikasi.
 
@@ -57,8 +56,6 @@ Jadi dari mana orang berkontribusi? SubQuery telah mengidentifikasi bahwa [LCOT 
 
 Selain itu, [Binance](https://www.binance.com/en/dotslot) terbukti menjadi jalur partisipasi yang populer dengan 27% kontribusi di sebagian besar peserta. Kami melengkapi metode kontribusi signifikan dengan [Parallel Finance](https://crowdloan.parallel.fi/#/auction/polkadot) pada 11% kontribusi, dan [Kraken](https://www.kraken.com/learn/parachain-auctions) pada 7%. Pertukaran terpusat masih jelas merupakan metode partisipasi yang disukai.
 
-
-
 ## Tentang SubQuery Network
 
 SubQuery adalah penyedia data terkemuka Polkadot, yang mendukung pengindeksan & lapisan kueri antara blockchain Layer-1 (Polkadot) dan aplikasi terdesentralisasi. Layanan data SubQuery sedang digunakan oleh sebagian besar situs web lelang crowdloan dan parachain Polkadot dan Kusama saat ini.
@@ -66,8 +63,6 @@ SubQuery adalah penyedia data terkemuka Polkadot, yang mendukung pengindeksan & 
 Protokol SubQuery mengabstraksi keanehan data blockchain dengan SubQuery SDK, memungkinkan pengembang untuk fokus pada penerapan produk inti mereka tanpa membuang-buang upaya pada teknologi backend kustom.
 
 ​​​​[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
-
-
 
 ## Appendix
 
