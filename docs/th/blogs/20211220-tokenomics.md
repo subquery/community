@@ -57,8 +57,8 @@ Foundation ซึ่งจะจัดตั้งขึ้นในต้นป
 
 ## เกี่ยวกับ SubQuery Network
 
-SubQuery is Polkadot’s leading data provider, supporting an indexing & querying layer between Layer-1 blockchains (Polkadot) and decentralised applications. SubQuery’s data service is being used by most of the Polkadot and Kusama crowdloan and parachain auction websites live today.
+SubQuery เป็นผู้ให้บริการข้อมูลชั้นนำของ Polkadot ซึ่งรองรับการจัดทำดัชนี & การสืบค้นเลเยอร์ระหว่างบล็อคเชน Layer-1 (ลายจุด) และ Dapps บริการข้อมูลของ SubQuery ถูกใช้โดยเว็บไซต์ Crowdloan และ Parachain ส่วนใหญ่ของ Polkadot และ Kusama ในปัจจุบัน
 
-SubQuery’s protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+โปรโตคอลของ SubQuery แยกแยะความแตกต่างของข้อมูลบล็อกเชนด้วย SubQuery SDK ทำให้นักพัฒนาสามารถมุ่งเน้นไปที่การ deploy ผลิตภัณฑ์หลักของตนโดยไม่ต้องเสียแรงไปกับเทคโนโลยี back-end ที่ต้องจัดทำเองโดยไม่จำเป็น
 
 ​​​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
