@@ -2,31 +2,31 @@
 
 ![](https://miro.medium.com/max/1400/1*e42FM0TsNgOM3VacoctOzQ.png)
 
-Tokenomics is an important aspect of any blockchain project and is critical to the success of any utility token. At SubQuery, we’re creating a decentralised and incentivised network that will provide the data for the web3 future ([read our whitepaper](https://static.subquery.network/whitepaper.pdf)). Today we are excited to unveil how the SQT will work and how it will be allocated to boost participation by our thriving community.
+Tokenomics เป็นส่วนสำคัญของโปรเจกต์บล็อคเชน และยังมีความสำคัญต่อความสำเร็จของทุกๆ ยูทิลิตี้โทเค็น ที่ SubQuery เรากำลังสร้างเครือข่ายที่กระจายอำนาจและสร้างแรงจูงใจที่จะให้บริการข้อมูลสำหรับอนาคตของ web3 ([อ่าน whitepaper ของเรา](https://static.subquery.network/whitepaper.pdf)) วันนี้เรารู้สึกตื่นเต้นที่จะเปิดเผยว่าเหรียญ SQT จะทำงานอย่างไรและจะได้รับการจัดสรรอย่างไรเพื่อเพิ่มการมีส่วนร่วมโดยชุมชนที่กำลังเติบโตของเรา
 
-[We recently announced that we would be launching the SubQuery Network via Acala](https://subquery.medium.com/the-subquery-network-to-launch-on-acala-decentralising-polkadots-leading-data-indexing-service-8203d686128e). For those who may be new to the Polkadot ecosystem, SubQuery needs to partner with an existing parachain team to deploy its smart contracts (and therefore the SubQuery token SQT) in order to go live. In other words, our token is nested within the Acala blockchain on Polkadot and will seamlessly allow participation by investors from the Ethereum ecosystem due to Acala’s EVM+ (Ethereum Virtual Machine) solution.
+[เราเพิ่งประกาศว่าจะเปิดตัว SubQuery Network ผ่าน Acala เมื่อไม่นานมานี้](https://subquery.medium.com/the-subquery-network-to-launch-on-acala-decentralising-polkadots-leading-data-indexing-service-8203d686128e) สำหรับผู้ที่ยังใหม่ต่อระบบนิเวศ Polkadot SubQuery จำเป็นต้องร่วมมือกับทีม Parachain ที่มีอยู่เพื่อปรับใช้ smart contracts (และรวมถึงโทเค็น SubQuery SQT) ในการที่จะเปิดตัว หรือกล่าวอีกนัยหนึ่ง โทเค็นของเราซ้อนอยู่ภายในบล็อคเชน Acala บน Polkadot และจะอนุญาตให้นักลงทุนจากระบบนิเวศ Ethereum ได้มีส่วนร่วมอย่างราบรื่นโดยโซลูชัน EVM+ (Ethereum Virtual Machine) ของ Acala
 
-In preparation for the upcoming launch with Acala of SubQuery’s SQT token, it is important to understand a few key aspects such as the token utility, allocation and vesting schedules.
+ในการเตรียมพร้อมสำหรับการเปิดตัวที่จะเกิดขึ้นของโทเค็น SQT ของ SubQuery บน Acala นั้น สิ่งสำคัญอย่างนึงคือต้องเข้าใจในบางประเด็นสำคัญ เช่น ประโยชน์ (การใช้งาน) ของโทเค็น, การจัดสรร, และกำหนดการปลดเหรียญ
 
-## Token Utility
+## ประโยชน์ของโทเค็น (Token Utility)
 
-As outlined in the whitepaper, we aim to establish SQT as the token which powers the SubQuery network, providing an incentive for participation, as well as serving as a medium of exchange for transactions within the SubQuery network. SQT will be the fuel for the web3 data revolution.
+ตามที่สรุปไว้ใน whitepaper เราตั้งเป้าที่จะสร้าง SQT เป็นโทเค็นที่ขับเคลื่อนเครือข่าย SubQuery, ให้สิ่งจูงใจสำหรับการมีส่วนร่วม, ตลอดจนทำหน้าที่เป็นสื่อกลางในการแลกเปลี่ยนสำหรับธุรกรรมภายในเครือข่าย SubQuery โดย SQT จะเป็นเชื้อเพลิงสำหรับการปฏิวัติข้อมูล web3
 
-In practice, this means that SubQuery is intended to function as a blockchain data marketplace where both Consumers (buyers) and Indexers (sellers) can meet to exchange data for SQT tokens. The third participant in our model are Delegators who participate in the network by supporting their favourite Indexers by delegating their tokens to them in order to earn rewards.
+ในทางปฏิบัติ นี่หมายความว่า SubQuery มีวัตถุประสงค์เพื่อทำหน้าที่เป็นตลาดข้อมูลบล็อกเชนที่ทั้งผู้บริโภค (ผู้ซื้อ) และผู้จัดทำดัชนี (ผู้ขาย) สามารถพบปะกันและแลกเปลี่ยนข้อมูลเพื่อโทเค็น SQT ผู้เข้าร่วมลำดับที่สามในโมเดลของเราคือ Delegators ที่เข้าร่วมในเครือข่ายโดยสนับสนุนผู้จัดทำดัชนีที่พวกเขาชื่นชอบโดยการมอบ (delegate) โทเค็นให้กับพวกเขาเพื่อรับรางวัล
 
-In the future we envision that holders of the SQT token will be able to inform the SubQuery Foundation about their vision for the overall direction of SubQuery as our network adopts some qualities of a decentralised autonomous organisation (DAO).
+ในอนาคต เราคาดว่าผู้ถือโทเค็น SQT จะสามารถบอก SubQuery Foundation เกี่ยวกับวิสัยทัศน์ของพวกเขาสำหรับทิศทางโดยรวมของ SubQuery เพราะเครือข่ายของเราใช้คุณสมบัติบางอย่างขององค์กรอิสระแบบกระจายอำนาจ (DAO)
 
-## Token Allocation
+## การจัดสรรโทเค็น (Token Allocation)
 
-SubQuery will mint a fixed supply of 10 billion SQT which will be allocated in the following manner.
+SubQuery จะออก supply เหรียญ SQT คงที่ 10,000,000,000 (10B) เหรียญซึ่งจะได้รับการจัดสรรดังต่อไปนี้
 
 ![](https://miro.medium.com/max/1400/0*eG2TM3J0NZDaT14m)
 
-From the start, SubQuery has been focused on building value within our community and we aim to keep it that way by apportioning the largest allocation of tokens (41%) to the Community and SubQuery Foundation.
+ตั้งแต่เริ่มต้น SubQuery มุ่งเน้นไปที่การสร้างมูลค่าภายในชุมชนของเรา และเราตั้งเป้าที่จะรักษาไว้โดยการจัดสรรโทเค็นสัดส่วนที่ใหญ่ที่สุด (41%) ให้กับชุมชนและ SubQuery Foundation
 
-The Foundation, which will be established in early 2022, will administer the future governance and growth of the ecosystem and the ownership of the SubQuery Network will come under the SubQuery foundation initially. This large allocation also includes consideration for future investment into the development and operations of the Network, and key ecosystem growth drivers. This will include tools such as grants and ecosystem incentives/events as well as other marketing activities including bug bounties and mainnet incentives.
+Foundation ซึ่งจะจัดตั้งขึ้นในต้นปี 2022 จะจัดการการกำกับดูแลในอนาคตและการเติบโตของระบบนิเวศ โดยกรรมสิทธิ์ของเครือข่าย SubQuery จะอยู่ภายใต้  SubQuery foundation ก่อนในขั้นต้น การจัดสรรขนาดใหญ่นี้ยังรวมถึงการพิจารณาลงทุนในอนาคตในการพัฒนาและการดำเนินงานของเครือข่าย และยังเป็นตัวขับเคลื่อนการเติบโตของระบบนิเวศที่สำคัญ ซึ่งจะรวมถึงเครื่องมือต่างๆ เช่น เงินทุนสนับสนุนและสิ่งจูงใจ/กิจกรรมของระบบนิเวศ ตลอดจนกิจกรรมทางการตลาดอื่นๆ รวมถึง bug bounties และ mainnet incentives
 
-Our early investors in both our Seed and Series A rounds have a combined allocation of 27%. In the case of [our Seed investors](https://subquery.medium.com/subquery-raises-1-8m-seed-round-for-future-expansion-3348c1f2a931), we are grateful for their early vision and commitment after we [received a grant from the Web3 foundation](https://subquery.medium.com/subquery-delivers-its-open-source-sdk-following-a-web3-foundation-grant-20da26ae87f) to build the initial phase of SubQuery. Following on from this, [our growth was accelerated with the support of our Series A investors](https://subquery.medium.com/series-a-1abed6c1c2af) who allowed us to take the project to the next level.
+นักลงทุนรุ่นแรกๆ ของเราทั้งในรอบ Seed และ Series A จะมีสัดส่วนที่ได้รับจัดสรรรวมกัน 27% ในส่วนของ [นักลงทุนรอบ Seed](https://subquery.medium.com/subquery-raises-1-8m-seed-round-for-future-expansion-3348c1f2a931) เรารู้สึกขอบคุณสำหรับวิสัยทัศน์และความมุ่งมั่นในช่วงแรกของพวกเขาหลังจากที่เรา[ได้รับทุนสนับสนุนจาก Web3 Foundation](https://subquery.medium.com/subquery-delivers-its-open-source-sdk-following-a-web3-foundation-grant-20da26ae87f) เพื่อสร้างช่วงเริ่มต้นของ SubQuery Following on from this, [our growth was accelerated with the support of our Series A investors](https://subquery.medium.com/series-a-1abed6c1c2af) who allowed us to take the project to the next level.
 
 For the Public Sale which we anticipate to be in March 2022, we have allocated 12% of token supply across at least two sequential rounds. The exact structure and timing of these rounds will be provided at a later date, however we will be providing guaranteed allocation for [key community members](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) (e.g. Ambassadors, Spartans) and [network participants](https://subquery.medium.com/subquery-extends-invitation-to-indexing-community-348fb2f589e1) (e.g. test network participants and referenceable customers). Each category will have its own minimum and maximum allocation.
 
