@@ -1,17 +1,17 @@
-# SubQuery Joins Berkeley's Blockchain Xcelerator
+# SubQuery, Berkeley의 Blockchain Xcelerator에 합류
 
 ![](https://miro.medium.com/max/1400/0*gYUy-1COtbpLV1X1)
 
 
-This week we’re excited to announce that Berkeley has selected SubQuery to be part of their exclusive [Blockchain Xcelerator](https://www.xcelerator.berkeley.edu/). SubQuery (and it’s parent company OnFinality) were selected from over 200 applications to be part of just 21 exclusive spots.
+이번 주에 Berkeley가 독점적인 [Blockchain Xcelerator](https://www.xcelerator.berkeley.edu/)의 일부로 SubQuery를 선택했음을 발표하게 되어 기쁩니다. SubQuery(및 모회사 OnFinality) 는 200개 이상의 응용 프로그램 중에서 21개 독점 지점의 일부로 선택되었습니다.
 
-Berkeley’s blockchain Xcelerator is known around the world as one of the most successful blockchain accelerators for a reason. It has incubated over 40 companies that have raised over $25M in seed and early stage funding, and over 75% of the inaugural batch raised follow-on funding. Additionally UC Berkeley remains a key hub for technology and innovation right next door to Silicon Valley. It’s certainly one of the leading university-based, non-dilutive blockchain accelerators worldwide — we’re thrilled to be a part of it!
+Berkeley의 blockchain Xcelerator는 세계적으로 가장 성공적인 블록체인 액셀러레이터 중 하나로 알려진 데는 이유가 있습니다. 시드 및 초기 단계 자금 조달에서 2500만 달러 이상을 모금한 40개 이상의 회사를 인큐베이션했으며 첫 번째 배치의 75% 이상이 후속 자금을 조달했습니다. 또한 UC Berkeley는 실리콘 밸리 바로 옆에 기술 및 혁신의 핵심 허브로 남아 있습니다. 이는 분명히 선도적인 대학이 연계된 블록체인 액셀레이터들 중 하나입니다. 우리는 그 일부가 되어 기쁩니다!
 
-> _“The team is over the moon to find out that we’re part of this awesome program! We’re looking forward to accelerating the development of SubQuery decentralized web data products. We’re ready to connect with some of the most influential projects and investors in Blockchain and to learn about how we can improve SubQuery”_ — Sam Zou (CEO and Founder of SubQuery and OnFinality).
+> _“우리 팀은 이 멋진 프로그램의 일부라는 사실을 깨닫고 너무 자랑스러웠습니다.  우리는 SubQuery 분산 웹 데이터 제품의 개발을 가속화하기를 기대합니다. 우리는 블록체인에서 가장 영향력 있는 프로젝트 및 투자자와 연결하고 SubQuery를 개선할 수 있는 방법에 대해 배울 준비가 되어 있습니다.”_ — Sam Zou(CEO 겸 SubQuery 및 OnFinality의 설립자).
 
-We’re following in the footsteps of [Acala Network](https://acala.network/) (who we joined forces with last week to [launch the first SubQuery partner project](https://subquery.medium.com/subquery-integrates-acala-to-aggregate-and-serve-defi-data-to-polkadot-and-kusama-builders-fc9af6a7aae1)) and other industry leaders like [StormX](https://stormx.io/) and [Eluv.io](https://eluv.io/). There is huge value to SubQuery and OnFinality in the network of highly regarded mentors, speakers, and fellows that the Xcelerator provides. As a data service provider (SubQuery) and an infrastructure service provider (OnFinality), long term partnerships and relationships with our customers is key to our success.
+우리는 [Acala Network](https://acala.network/)(지난주 [첫 번째 SubQuery 파트너 프로젝트 시작](https://subquery.medium.com/subquery-integrates-acala-to-aggregate-and-serve-defi-data-to-polkadot-and-kusama-builders-fc9af6a7aae1)를 시작하기 위해 힘을 합친)와 [StormX](https://stormx.io/)와 같은 기타 업계 리더의 발자취를 따르고 있습니다. /2> 및 [Eluv.io](https://eluv.io/). Xcelerator를 통해 만나게 되는 저명한 멘토, 연사 및 동료들의 네트워크는 SubQuery와 OnFinality에 엄청난 도움이 됩니다.  데이터 서비스 제공자(SubQuery) 및 인프라 서비스 제공자(OnFinality) 로서 고객과의 장기적인 파트너십과 관계는 우리 성공의 열쇠입니다.
 
-[SubQuery](https://www.subquery.network/) allows every Substrate/Polkadot team to process and query their data. The project is inspired by the growth of data protocols serving the application layer and its aim is to help Polkadot/Substrate projects build better dApps by allowing anyone to reliably find and consume data faster. Today, anyone can query and extract Polkadot network data in only minutes and at no cost.
+[SubQuery](https://www.subquery.network/)를 사용하면 모든 Substrate/Polkadot 팀이 데이터를 처리하고 쿼리할 수 있습니다. 이 프로젝트는 애플리케이션 계층에 서비스를 제공하는 데이터 프로토콜의 성장에 영감을 받았으며, 그 목표는 누구나 안정적으로 데이터를 더 빨리 찾고 소비할 수 있도록 하여 Polkadot/Substrate 프로젝트가 더 나은 dApp을 구축하도록 돕는 것입니다. 오늘날 누구나 무료로 몇 분 만에 Polkadot 네트워크 데이터를 쿼리하고 추출할 수 있습니다.
 
-[Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
+[이메일](mailto:hello@subquery.network) | [디스코드](https://discord.com/invite/78zg8aBSMG) | [텔레그램](https://t.me/subquerynetwork) | [트위터](https://twitter.com/subquerynetwork) | [매트릭스](https://matrix.to/#/#subquery:matrix.org) | [링크드인](https://www.linkedin.com/company/subquery)
 
