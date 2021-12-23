@@ -1,22 +1,22 @@
-# From Zero to Hello World in Just 5 Minutes
+# De cero a Hola Mundo en sólo 5 minutos
 
 ![](https://miro.medium.com/max/1400/1*g51P_PPoseNqEfCBgvpXXA.png)
 
-**We are working hard to help every developer learn how to use SubQuery to explore and transform their chain data so they can build intuitive dApps faster.**
+**Estamos trabajando duro para ayudar a cada desarrollador a aprender cómo usar SubQuery para explorar y transformar sus datos en cadena para que puedan construir intuitive dApps más rápido.**
 
-Today we launch our new [documentation website at doc.subquery.network](https://doc.subquery.network/). We have carefully redesigned it with our community in mind and we’re excited to share it with you.
+Hoy lanzamos nuestro nuevo sitio web [de documentación en doc.subquery.network](https://doc.subquery.network/). Lo hemos rediseñado cuidadosamente pensando en nuestra comunidad y estamos encantados de compartirlo contigo.
 
 ![](https://miro.medium.com/max/1200/1*snyFSjyQ9q116bmIcaVfsQ.gif)
 
-> _“_Documentation may not be glamorous work but it plays a vital role in communicating how something works and allows us to empower our community members to learn and unleash their creativity. That is why we believe documentation is so important_” — Sean Au (SubQuery Academy)_
+> _"_La documentación puede no ser un trabajo glamuroso, pero desempeña un papel vital en la comunicación de cómo funciona algo y nos permite capacitar a los miembros de nuestra comunidad para aprender y desatar su creatividad. Por eso creemos que la documentación es tan importante_— Sean Au (SubQuery Academy)_
 
-[Our new documentation website](https://doc.subquery.network/) has an inviting landing page designed to welcome all users, regardless of their technical understanding of blockchain or Polkadot. From the landing page users can jump straight into a getting started tutorial, or navigate off to the help they need.
+[Nuestro nuevo sitio web de documentación](https://doc.subquery.network/) tiene una página de inicio de invitación diseñada para dar la bienvenida a todos los usuarios, independientemente de su comprensión técnica de blockchain o Polkadot. Desde la página de inicio los usuarios pueden saltar directamente a un tutorial de inicio, o navegar hasta la ayuda que necesitan.
 
 
 ![](https://miro.medium.com/max/1400/1*obZau98aya3Ohtc43DAuEw.png)
 
-Traditionally, blockchain documentation is incredibly technical and littered with jargon — you have to come from a developer background to easily understand it. We’ve taken a different path and written content for users at all levels of experience.
+Tradicionalmente, la documentación de blockchain es increíblemente técnica y está plagada de jerga — tienes que venir de un entorno de desarrollador para entenderlo fácilmente. Hemos tomado una ruta diferente y contenido escrito para los usuarios en todos los niveles de experiencia.
 
-Our goal is to publish a tutorial for every piece of major functionality in SubQuery. That means a step-by-step video and written guide with working examples as outcomes — you can see the beginnings of our efforts here [in the Tutorials Section](https://doc.subquery.network/tutorials_examples/howto.html).
+Nuestro objetivo es publicar un tutorial para cada pieza de funcionalidad principal en SubQuery. Eso significa un vídeo paso a paso y una guía escrita con ejemplos de trabajo como resultados — puede ver el comienzo de nuestros esfuerzos aquí [en la Sección de tutoriales](https://doc.subquery.network/tutorials_examples/howto.html).
 
 ![](https://miro.medium.com/max/1200/1*nxy4aDTaQ0EMGudm0QW09g.gif)
