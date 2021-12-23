@@ -2,38 +2,38 @@
 
 ![](https://miro.medium.com/max/1400/1*ZG9NqT9GIXax5SBpNn5ipg.png)
 
-今天，我们要宣布 Kodadot 与 SubQuery Network之间的战略伙伴关系。 Solarbeam is the [largest DEX](https://defillama.com/chain/Moonriver) on Moonriver’s Kusama-based parachain with a peak TVL of more than $180m. This requires reliable, high-speed data querying capabilities for their user interface.
+今天，我们要宣布 Kodadot 与 SubQuery Network之间的战略伙伴关系。 Solarbeam是Moonriver的Kusama侧链上最大的[DEX](https://defillama.com/chain/Moonriver) ，峰值TVL超过1.8亿美元。 这需要用户界面可靠、高速的数据查询能力。
 
-Solarbeam recently launched [Eclipse](https://app.solarbeam.io/eclipse), a launchpad built for cross-chain token pools and auctions, enabling projects to raise capital on a decentralized and interoperable environment based on Moonriver.
+Solarbeam最近启动了[Eclipse](https://app.solarbeam.io/eclipse), 这是一个为跨链令牌池和拍卖构建的发射平台，使项目能够在以Moonriver为基础的去中心化和互操作的环境中筹集资本。
 
 ![](https://miro.medium.com/max/1400/1*IbRN8EnymWvqvh0sx_PNKw.png)
 
-> _“_SubQuery has proved to be a reliable tool for querying events and transactions on EVM and Substrate based chains, with a minimal latency for syncing new data and suitable for large amounts of data. As a result, we believe SubQuery will provide as good of an experience on Moonbeam as it has for us on Moonriver”. _— Founder, Solarbeam_
+> _“_SubQuery 已证明是查询EVM 和 Substrate 基于链的事件和交易的可靠工具， 具有最小延迟性以同步新数据，适合于大量数据。 因此，我们认为SubQuery将像我们在Moonriver所拥有的那样，提供关于Moonbeam的丰富经验”。 _— Solarbeam的创建者如是说道_
 
-[SubQuery’s](https://subquery.network/) service helps drive analytics for the Eclipse IDO launchpad by Solarbeam. Ahead of their launch on Moonbeam, Solarbeam will be integrating SubQuery with their user portfolio analytics tool which will enable users to track their farming and profit history. This is made possible by the [recent integration of Moonbeam and Moonriver’s EVM with SubQuery](https://subquery.medium.com/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff).
+[SubQuery](https://subquery.network/)服务帮助Solarbeam的Eclipse IDO启动面板驱动分析器。 在Moonbeam发射之前， Solarbeam 将整合SubQuery与用户组合分析工具，这将使用户能够跟踪他们的种植和利润历史。 这是因为 [最近Moonbeam和Moonriver的EVM与SubQuery](https://subquery.medium.com/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff)的集成才得以实现。
 
 ![](https://miro.medium.com/max/1400/1*6_iO6tLt4RxxMvs8u-F_Bg.png)
 
-In the example below, we’re using SubQuery to easily retrieve the top two participations and pools in Solarbeam’s DEX ordered by total amounts. You can see how a simple GraphQL query can quickly get the data that Solarbeam need to build an intuitive user experience.
+在下面的示例中，我们使用SubQuery轻松地检索Solarbeam DEX 中数额最大的两位参与者和池，按总金额排序。 您可以看到一个简单的 GraphQL查询如何快速获得Solarbeam建立直观用户体验所需的数据。
 
 ![](https://miro.medium.com/max/1400/1*5iCwSaU96UtDMFA1MruRlA.png)
 
-Solarbeam is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/).
+Solarbeam正在使用[SubQuery 项目](https://project.subquery.network/)来管理自己的项目并根据需要进行更新。 我们提供的索引和查询服务完全由 SubQuery 管理，并在 [SubQuery 资源管理器](https://explorer.subquery.network/) 中免费提供给Polkadot 社区。
 
-[You can take a look at Solarbeam’s project in SubQuery’s Explorer here](https://explorer.subquery.network/subquery/csntest/eclipse)
+[您可以在此查看SubQuery Explorer中的Solarbeam的项目](https://explorer.subquery.network/subquery/csntest/eclipse)
 
 ---
 
-## About Solarbeam
+## 关于Solarbeam
 
-[Solarbeam](https://solarbeam.io/) is the leading AMM on Moonriver Network, with a peak TVL of more than $180m. Launched on September 1st 2021, Solarbeam has rapidly established itself as one of the mainstays in the Moonriver ecosystem.
+[Solarbeam](https://solarbeam.io/) 是Moonriver Network上最大的 AMM ，峰值的 TVL 超过180米。 Solarbeam始于2021年9月1日，它已迅速成为Moonriver生态系统的支柱之一。
 
-Learn more about Solarbeam by visiting:
+通过访问了解更多关于 Solarbeam 的信息：
 
 [Main website](https://solarbeam.io/exchange/swap) | [Twitter](https://twitter.com/solarbeamio) | [Discord](http://discord.gg/rK4AjZXuwf) | [Telegram](http://t.me/solarbeamio) | [Medium](https://solarbeam.medium.com/)
 
-## About SubQuery
+## 关于 SubQuery
 
-[SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications (DApps). Currently focused on Polkadot and Substrate projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+[SubQuery](https://subquery.network/)是一个分散的数据集合，正在索引 & 查询layer-1区块链和分散应用程序(DApps)。 目前的重点是Polkadot和BSubstrate 项目，这种数据“服务”使开发人员能够专注于核心使用案例和前端。 建立数据处理的自定义后端则不需要浪费时间。
 
-[Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)
+[Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Github](https://github.com/subquery)
