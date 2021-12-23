@@ -50,9 +50,7 @@ Selain itu, Scott dapat mempresentasikan seluruh alur kerja ini ke [workshop Moo
 
 ## Hackathon Gitcoin
 
-Setelah sukses luar biasa dari _Hero course_ Akademi SubQuery, kami dengan bangga mengumumkan bahwa kami akan memberikan kesempatan hackathon pertama kami untuk semua pengembang melalui
-
-Gitcoin Grants Putaran 12</1 > mulai 1 Desember.</p> 
+Setelah sukses luar biasa dari _Hero course_ Akademi SubQuery, kami dengan bangga mengumumkan bahwa kami akan memberikan kesempatan hackathon pertama kami untuk semua pengembang melalui [Gitcoin Grants Putaran 12](https://gitcoin.co/hackathon/gr12/?org=subquery) mulai 1 Desember.
 
 SubQuery telah mengusulkan 5 hadiah dengan total hadiah hingga $34,000:
 
@@ -64,8 +62,6 @@ SubQuery telah mengusulkan 5 hadiah dengan total hadiah hingga $34,000:
 
 [Anda dapat membaca lebih lanjut tentang bounty ini di sini.](https://blog.subquery.network/blogs/20211120-gitcoin12-hackathon.html)
 
-
-
 ## Analisis ke dalam Crowdloans Polkadot
 
 SubQuery adalah layanan pengindeksan data terkemuka dari Polkadot, dan selama seminggu terakhir, kami telah mendukung jutaan permintaan harian ke sebagian besar dashboard crowdloan, aplikasi kontribusi, dan situs web analitik. Tim seperti [**SubVis**](https://www.subvis.io/), [**Parallel Finance**](https://parallel.fi/), dan [**DotMarketCap**](https://dotmarketcap.com/) mengandalkan SubQuery untuk menyediakan data real-time tentang crowdloan dan data on-chain lainnya langsung ke situs web dan aplikasi mereka.
@@ -75,8 +71,6 @@ SubQuery adalah layanan pengindeksan data terkemuka dari Polkadot, dan selama se
 ![](https://miro.medium.com/max/700/0*HfsoOwpat76ip6Jg)
 
 Kami baru-baru ini menyelam jauh ke dalam crowdloan Polkadot (khususnya pertarungan gelar antara Acala dan Moonbeam).  [Anda harus membacanya di sini jika belum](https://blog.subquery.network/blogs/20211124-polkadot-crowdloans.html).
-
-
 
 # Hal-hal lain yang mungkin Anda lewatkan
 
