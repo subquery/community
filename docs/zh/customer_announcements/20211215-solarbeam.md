@@ -1,8 +1,8 @@
-# Solarbeam work with SubQuery for their new Eclipse Launchpad
+# Solarbeam与SubQuery合作建立了新的平台Eclipse
 
 ![](https://miro.medium.com/max/1400/1*ZG9NqT9GIXax5SBpNn5ipg.png)
 
-Today we want to announce our partnership between Solarbeam and SubQuery Network. Solarbeam is the [largest DEX](https://defillama.com/chain/Moonriver) on Moonriver’s Kusama-based parachain with a peak TVL of more than $180m. This requires reliable, high-speed data querying capabilities for their user interface.
+今天，我们要宣布 Kodadot 与 SubQuery Network之间的战略伙伴关系。 Solarbeam is the [largest DEX](https://defillama.com/chain/Moonriver) on Moonriver’s Kusama-based parachain with a peak TVL of more than $180m. This requires reliable, high-speed data querying capabilities for their user interface.
 
 Solarbeam recently launched [Eclipse](https://app.solarbeam.io/eclipse), a launchpad built for cross-chain token pools and auctions, enabling projects to raise capital on a decentralized and interoperable environment based on Moonriver.
 
