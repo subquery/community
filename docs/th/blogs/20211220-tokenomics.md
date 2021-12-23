@@ -1,4 +1,4 @@
-# SubQuery Releases Tokenomics
+# SubQuery เปิดเผย Tokenomics
 
 ![](https://miro.medium.com/max/1400/1*e42FM0TsNgOM3VacoctOzQ.png)
 
