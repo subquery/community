@@ -10,7 +10,7 @@
 
 > “Utilizar SubQuery para consultar los datos en cadena de Darwinia se ha vuelto muy simple y flexible. SubQuery considera los datos de blockchain como una gráfica, y aprovecha la extensibilidad de GraphQL para introducir funcionalidad adicional. Creemos que en el futuro, la interfaz de datos de la cadena de substratos usará principalmente GraphQL, SubQuery está haciendo de esto una realidad”. — Darwinia
 
-[El servicio](https://subquery.network/) de SubQuery ayuda a Darwinia a desbloquear datos en cadena y a hacerlos más accesibles para su ecosistema de aplicación. Las aplicaciones, por ejemplo, un mercado de NFT, podrían usar los datos de SubQuery de Darwnia para mostrar estadísticas de subastas, y podría incluso extender el proyecto de Darwinia SubQuery para añadir y transformar datos para proporcionar aún más información de datos únicos.
+[El servicio](https://subquery.network/) de SubQuery ayuda a Darwinia a desbloquear datos en cadena y a hacerlos más accesibles para su ecosistema de aplicación. Las aplicaciones, por ejemplo, un mercado de NFT, podrían usar los datos de Darwnia's SubQuery para mostrar estadísticas de subastas, y podría incluso extender el proyecto de Darwinia SubQuery para añadir y transformar datos para proporcionar aún más información de datos únicos.
 
 ![](https://miro.medium.com/max/1400/0*n2sGrQWOkIFXxMnq)
 
@@ -30,7 +30,7 @@ Aprenda más sobre SubQuery
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
 
-La Red Darwinia es un protocolo de puente de cadena cruzada descentralizado basado en Substrate, centrado en el intercambio de tokens de cadena cruzada descentralizado, el intercambio y el mercado.
+La Red Darwinia es un protocolo de puente descentralizado y heterogéneo cross-chain construido sobre Substrate, que se centra en el intercambio de tokens descentralizados entre cadenas, el exchange y el mercado.
 
 Darwinia también sirve como infraestructura crítica para la actualización de aplicaciones de una sola cadena a versión cruzada, incluyendo Defi, Game, DEX, mercado NFT, etc. Su visión es construir la futura Internet de Tokens.
 

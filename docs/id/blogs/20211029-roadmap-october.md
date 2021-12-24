@@ -14,7 +14,7 @@ Disaat SubQuery sudah melayani jutaan kueri data setiap hari ke [lebih dari 60 p
 
 Karena alasan ini, kami merasa sangat penting untuk mendemonstrasikan dan menguji skalabilitas Jaringan SubQuery melalui program testnet yang diberi insentif. Proses ini juga akan memungkinkan kami untuk membentuk komunitas pengindeks sebelum diluncurkan secara publik melalui TGE pada Maret 2022 dan mainnet kami pada akhir tahun depan.
 
-![](https://cdn-images-1.medium.com/max/800/1*I6mko5xumHAArzGePvEZiQ.jpeg)
+![](https://miro.medium.com/max/2400/1*I6mko5xumHAArzGePvEZiQ.jpeg)
 
 Dengan demikian, hasil utama dalam alur kerja kami dapat dipecah menjadi tonggak utama berikut.
 

@@ -24,7 +24,7 @@ Estamos en el proceso de incorporar nuestro primer lote de embajadores muy pront
 
 A finales de julio hemos hecho un buen progreso en los dos primeros hitos de nuestro [subsidio de tesorería de la API de DApp de código abierto](https://kusama.polkassembly.io/treasury/95). Aunque en la superficie no parece mucho, es realmente una iniciativa realmente importante para nosotros. En primer lugar representa una profunda cooperación estratégica con una de las carteras nativas más grandes de Polkadot, Fearless Wallet.
 
-En segundo lugar, esta API de código abierto debería ser capaz de proporcionar diferentes tipos de aplicaciones con una vista suficiente (pero sólo de lectura) de todos los datos clave de la cadena Kusama. Por ejemplo,. E.g. a developer could use it to create their own chain explorer without needing to directly query chain data.
+En segundo lugar, esta API de código abierto debería ser capaz de proporcionar diferentes tipos de aplicaciones con una vista suficiente (pero sólo de lectura) de todos los datos clave de la cadena Kusama. Por ejemplo,. un desarrollador podría usarlo para crear su propio explorador de cadenas sin necesidad de consultar directamente los datos de la cadena.
 
 Estamos construyendo esto de una manera que hace fácil extenderse al creciente número de parachains. También proporcionará una base mucho mejor para nuevas aplicaciones que se construyan en SubQuery, lo que nos permitirá incorporarnos a nuevas asociaciones más rápidamente!
 

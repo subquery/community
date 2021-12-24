@@ -2,7 +2,7 @@
 
 > 오늘 우리는 SubQuery의 호스팅 서비스에서 개발자 경험을 향상시키는 완전히 새로운 기능인 배포 슬롯을 소개합니다.
 
-[SubQuery 프로젝트](https://project.subquery.network/)는 체인 탐색기, 지갑, NFT 탐색기 등 많은 프로젝트에서 이미 관리 및 호스팅 서비스로 사용되고 있습니다. 고객이 신뢰하는 서비스입니다.
+[SubQuery 프로젝트](https://project.subquery.network/)는 체인 탐색기, 지갑, NFT 탐색기 등 많은 프로젝트에서 이미 관리 및 호스팅 서비스로 사용되고 있습니다. 고객이 신뢰하고 사용하는 서비스입니다.
 
 ![](https://miro.medium.com/max/1400/0*PugDgh6weZspRIO2)
 

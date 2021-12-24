@@ -14,7 +14,7 @@ SubQuery 已经为 [超过60个 Polkadot & Kusama上的项目](https://project.s
 
 为此，我们认为通过奖励性测试网方案来展示并且充分测试SubQuery网络的可扩展性至关重要。 在这个过程中, 我们可以在2022年3月的通过TGE的公开发行和明年稍晚的主网上线之前建立一个indexer社区。
 
-![](https://cdn-images-1.medium.com/max/800/1*I6mko5xumHAArzGePvEZiQ.jpeg)
+![](https://miro.medium.com/max/2400/1*I6mko5xumHAArzGePvEZiQ.jpeg)
 
 因此，我们将通过以下几个主要里程碑来展望我们的项目进展。
 

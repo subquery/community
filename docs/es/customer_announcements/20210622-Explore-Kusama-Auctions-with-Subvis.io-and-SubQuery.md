@@ -1,4 +1,4 @@
-# Explorar subastas de Kusama con SubVis.io y SubQuery
+# Explora las subastas de Kusama con SubVis.io y SubQuery
 
 ![](https://miro.medium.com/max/1400/1*C4rjs3vpR6TUCOqwF3L39g.png)
 
@@ -41,6 +41,6 @@ Aprenda más sobre SubQuery
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
 
-Subvis.io apunta a convertirse en el usuario principal en el lugar al que irá para explorar, analizar, y aprender acerca de los parachains de los ecosistemas Polkadot (y las subastas y los créditos de corrida que realizan).
+Subvis.io apunta a convertirse en el principal lugar al que acudirán los usuarios para explorar, analizar, y aprender acerca de los parachains de los ecosistemas Polkadot (y las subastas y crodwloans que realizan).
 
 [Website](https://www.subvis.io/) | [Twitter](https://twitter.com/subvisioapp)

@@ -1,74 +1,74 @@
-# SubQuery Network - Summary
+# SubQuery Network - Обобщение
 
-> How does the SubQuery Network work? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
+> Как работи SubQuery Network? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
 
-Today we’re going to talk about how the SubQuery Network works at a high level.
+Днес ще говорим, за това как SubQuery Network работи на високо ниво.
 
-## Participants
+## Участници
 
 
 ![](https://miro.medium.com/max/1400/1*9993cakplwupZC5tbUv3vA.png)
 
-Participants in the SubQuery Network
+Участници в SubQuery Network
 
-There are three types of participants in the SubQuery Network:
+Има три типа участници в SubQuery Network:
 
--   **Consumers**: Consumers will make requests to the SubQuery Network for specific data and pay an advertised amount of SQT
--   **Indexers**: Indexers will host SubQuery Projects in their own infrastructure, running both the node and query service to index data and answer GraphQL requests.
--   **Delegators**: Delegators will participate in the network by supporting their favourite Indexers to earn rewards
+-   **Потребители**: Потребителите ще отправят заявки към мрежата на SubQuery за конкретни данни и ще плащат рекламираната сума в SQT
+-   **Индексатори**: Индексаторите ще хостват SubQuery проекти в собствена инфраструктура, поддържайки, както нода, така и услугата за заявки, за да могат да индексират данни и да отговарят на GraphQL заявки.
+-   **Делегатори**: Делегаторите ще участват в мрежата, като подкрепят любимите си индексатори, за да печелят награди
 
-## Indexers, Consumers, and Queries
+## Индексатори, Потребители и Заявки
 
-Let’s start with Indexers, Indexers do a lot of the hard work behind the scenes. The manage hardware, run infrastructure, monitor resources, and choose the right SubQuery projects to index
+Нека започнем с индексаторите, те вършат голяма част от „мръсната“ работа зад кулисите. Управляват хардуера, поддържат инфраструктура, наблюдават ресурси и избират правилните SubQuery проекти за индексиране
 
-This takes time and money, but once they have this, Consumers may come and make requests. Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
+Това отнема време и пари, но след като имат това, потребителите могат да дойдат и да правят заявки. Потребителите ще правят заявки до мрежата на SubQuery, за конкретни данни и ще плащат предложената сума в нашия токен SQT.
 
 ![](https://miro.medium.com/max/1400/1*dKLkzSc2uXYaPW_IXUxstQ.png)
 
 Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
 
-## Cobb-Douglas Production Function
+## Производствената Функция на Коб-Дъглас
 
-This payment goes into a project revenue pool and at the end of a staking era (28 days) we take this project revenue pool and split it. It’s spit across indexers by something called the Cobb-Douglas production function.
+Това плащане отива в пул от приходи от проекта и в края на стейк периода (28 дни) ние вземаме този пул и го разделяме. Разделя се и се разпределя към индексаторите от нещо, наречено „производствена функция на Коб-Дъглас“.
 
 ![](https://miro.medium.com/max/1400/1*E-W7o7cWoclxHb8rXAMdpA.png)
 
-It’s spit across indexers by something called the Cobb-Douglas production function.
+Разделя се и се разпределя към индексаторите от нещо, наречено „производствена функция на Коб-Дъглас“.
 
-This approach, in simple terms, means that revenue is allocated to competing Indexers as a proportion of both requests answered and amount staked.
+Този подход, по-просто казано, означава, че приходите се разпределят към конкуриращите се помежду си индексатори, като пропорция от отговорени заявки и стейкнато количество.
 
 ![](https://miro.medium.com/max/1400/1*VhDu2BGDxd3ob7z9XkoOXA.png)
 
-Revenue is allocated to competing Indexers as a proportion of both requests answered and amount staked.
+Приходите се разпределят към конкуриращите се помежду си индексатори, като пропорция от отговорени заявки и стейкнато количество.
 
-In our view, the beauty of this equation is that a rational Indexer must maintain a high level of staked SQT relative to the work they do in order to receive optimal revenue. As a result, we do not need to enforce arbitrary staking requirements because Indexers are incentivised to self-manage and maintain a stake or skin in the game.
+Според нас, красотата на това уравнение е, че рационалният индексатор трябва да поддържа високо ниво на стейкнат SQT спрямо работата, която върши, за да получи оптимални приходи. В резултат на това не е необходимо да налагаме произволни изисквания за стейк, тъй като индексаторите са стимулирани да се самоуправляват и поддържат стейк или с други думи – да дават всичко от себе си.
 
-## Delegators
+## Делегатори
 
-So Indexers are incentivised to both do as much work as possible, and to stake as much as possible to maximise their rewards. This is where delegators come in.
+Индексаторите са стимулирани да вършат възможно най-много работа и да стейкват колкото се може повече, за да увеличат максимално своите възнаграждения. Тук се появяват и делегаторите.
 
-Delegators can delegate their spare SQT to Indexers, each Indexer can publish a _query fee revenue share rate_, and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in.
+Делегаторите могат да възложат своите свободни SQT на индексатори, всеки индексатор може да публикува _процентен дял от приходите, събрани от таксите за заявка_, и тези делегатори ще бъдат възнаградени с част от приходите, с които индексаторът е възнаграден.
 
 ![](https://miro.medium.com/max/1400/1*YoN7PV7h3a2nAFN-ODqILg.png)
 
-Delegators can delegate their spare SQT to Indexers and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in
+Делегаторите могат да делегират своя свободен SQT на индексатори и тези делегатори ще бъдат възнаградени с част от приходите, с които индексаторът е възнаграден
 
-The _query fee revenue share rate_ that indexers advertise is locked for each 28 day staking era, and a decrease to it must be advertised for an entire 28 day staking era before coming into force.
+Процентният дял от _приходите, получени от таксите за заявка,_ които индексаторите обявяват, се заключва за всеки 28-дневен период на стейк и намалението до него трябва да бъде обявено за целия 28-дневен период на стейк, преди да влезе в сила.
 
-Similarly, delegators can remove their delegation amounts at any point, but they will only receive rewards when they have delegated for the entire staking era.
+Делегаторите могат да премахнат своите делегирани суми по всяко време, но ще получат награди, само когато са делегирали за цялият период на стейк.
 
 ![](https://miro.medium.com/max/1400/0*we0k4A07pbj86COZ)
 
-Delegators will only receive rewards when they have delegated for the entire staking era
+Делегаторите ще получат награди, само когато са делегирали за цялият период на стейк
 
-## Purchase Orders
+## Поръчки за покупка
 
-Indexing a project takes time and money, there’s a lot of data on the chain. In order to encourage Indexers to index and support an entirely new SubQuery Project, we plan to implement a market mechanism for Consumers to signal guaranteed revenue to Indexers of new SubQuery Projects.
+Индексирането на проект отнема време и пари, има много данни по веригата. За да насърчим индексаторите да индексират и подкрепят изцяло новият проект SubQuery, ние планираме да приложим пазарен механизъм за потребителите да сигнализират за гарантирани приходи на индексаторите на нови SubQuery проекти.
 
-We’re calling them purchase orders, and Consumers can advertise a contract on chain for a set price and number of requests. Indexers can view this and choose to fill the contracts.
+Ние ги наричаме поръчки за покупка и потребителите могат да рекламират договор във веригата за определена цена и брой заявки. Индексаторите могат да видят това и да изберат да попълнят договорите.
 
 ![](https://miro.medium.com/max/1400/1*IPtaZlt24E7h9bKNZWdSCw.png)
 
-Consumers can advertise a purchase order on chain for a set price and number of requests.
+Потребителите могат да рекламират поръчка за покупка върху веригата за определена цена и брой заявки.
 
-Purchase orders can also be placed on existing SubQuery Projects to attract additional Indexers to improve competition and decrease prices
+Поръчки за покупка могат също да се поставят във вече съществуващи SubQuery проекти, за да привлекат допълнителни индексатори и за подобряване на конкурентоспособността и намаляване на цените

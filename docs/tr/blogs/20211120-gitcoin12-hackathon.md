@@ -10,11 +10,11 @@ SubQuery Academy'nin "Kahraman Kursu"nun ezici başarısının hemen ardından, 
 
 [Gitcoin GR12 Hackathon](https://gitcoin.co/hackathon/gr12/onboard), çeşitli ödül havuzlarına katkıda bulunan önde gelen blok zinciri projeleriyle 1-16 Aralık 2021 tarihleri ​​arasında gerçekleşecek.  [SubQuery, toplam ödül havuzu 15.000$'a kadar olan 5 ödül önerdi](https://gitcoin.co/hackathon/gr12/?org=subquery). Ödüller, projeleri önceden belirlenmiş standartlarda başarıyla tamamlayanlara ve en yaratıcı fikirleri sunanlara veya temel SubQuery SDK'sını geliştirmek için alanlar veya çözenlere verilecektir. Zorlukların kısa bir özeti aşağıdadır:
 
--   Moonbeam ve Astar'dan Substrate ve EVM içgörülerini kullanımı kolay tek bir uygulamada birleştiren birleşik bir blok gezgini oluşturun
--   [Zapper.fi](http://zapper.fi/) veya [defisaver.com](https://defisaver.com/)'dan ilham alan bir gösterge panosu oluşturmak için Karura/Acala'daki SubQuery ve DeFi merkezi ile birlikte çalışın
--   Polkadot ve çeşitli parachainleri genelinde en iyi bahis fırsatlarını gösteren bir bahis panosu oluşturun
--   Tüm RMRK protokolü tabanlı NFT'ler için bir pazar yeri gezgini oluşturun
--   [@subql/node](https://github.com/subquery/subql) hizmetini, @subql/query hizmeti kullanılarak sorgulanabilmesi için başka bir katman 1 zincirinden (Cardano, Solana vb.).
+-   [Moonbeam ve Astar'ın Substrate ve EVM bilgilerini tek bir kullanımı kolay uygulamada birleştiren](https://gitcoin.co/issue/subquery/grants/1) birleşik bir blok gezgini oluşturun — 12.000 ABD Doları **[Moonbeam ve Astar sponsorluğunda]**
+-   [Zapper.fi veya defisaver.com'dan ilham alan bir gösterge panosu oluşturmak için Karura/Acala'daki SubQuery ve DeFi merkezi ile birlikte çalışın](https://gitcoin.co/issue/subquery/grants/2) — 8.000 ABD doları **[Acala Sponsorluğunda]**
+-   [Polkadot ve çeşitli parachainleri genelinde en iyi stake fırsatlarını gösteren bir stake etme panosu oluşturun](https://gitcoin.co/issue/subquery/grants/3) — 3.000 ABD Doları
+-   [Tüm RMRK protokolü tabanlı NFT'ler için bir pazar yeri gezgini oluşturun](https://gitcoin.co/issue/subquery/grants/4) — 2.000 ABD Doları
+-   [Başka bir katman 1 zincirinden gelen verileri endekslemek için @subql/node hizmetini genişletin](https://gitcoin.co/issue/subquery/grants/5) — 12.000 ABD Doları
 
 SubQuery'nin CEO'su ve Kurucusu [Sam Zou](https://twitter.com/zoujialiu), _"SubQuery, Web3.0'ın geleceğini inşa etmek için Gitcoin GR12 Hackathon ile ortak olmaktan gurur duyuyor. Polkadot ekosisteminin önde gelen veri indeksleyicisi olarak, dApp geliştiricilerinin ön uçlarına odaklanmalarına izin veren araçlar oluşturmaya kuvvetle inanıyoruz, bu nedenle veri işleme için özel bir sunucu oluşturmaya zaman kaybetmeleri gerekmiyor. Polkadot ekosisteminin önde gelen veri indeksleyicisi olarak, dApp geliştiricilerinin ön uçlarına odaklanmalarına izin veren araçlar oluşturmaya kuvvetle inanıyoruz, bu nedenle veri işleme için özel bir sunucu oluşturmaya zaman kaybetmeleri gerekmiyor_
 

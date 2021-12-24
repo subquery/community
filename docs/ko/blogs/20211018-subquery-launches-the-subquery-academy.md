@@ -11,8 +11,8 @@ SubQuery Academy의 출범을 알리게 된 것을 기쁘게 생각합니다. Ac
 -   모듈 1 — 시작하기
 -   모듈 2 - SubQuery의 기본 사항
 -   모듈 3 — 관계
--   Module 4 — Aggregation and Event Calls
--   Module 5 — SubQuery Projects & SubQuery Explorer
+-   모듈 4 - 집계 및 이벤트 호출
+-   모듈 5 — SubQuery 프로젝트 & SubQuery 탐색기
 -   모듈 6 — 팁 & 요령
 
 각 모듈에는 녹화된 비디오로 제공되는 5분에서 10분 정도의 여러 수업이 있습니다. 비디오 콘텐츠에는 작성된 자습서, 슬라이드, 랩 통합 문서 및 완성된 GitHub 코드 리포지토리에 대한 링크가 함께 제공됩니다. 이 과정은 개발자가 SubQuery에 대해 전혀 모르는 상태에서 새로운 블록체인 애플리케이션을 위한 SubQuery 데이터 소스를 구축하는 전문가가 될 수 있도록 설계되었습니다. 여기에는 복잡한 SubQuery 프로젝트를 개발하고 이를 [SubQuery 프로젝트에 배포하는 작업](https://project.subquery.network/)이 포함됩니다.

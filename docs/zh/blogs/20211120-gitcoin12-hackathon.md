@@ -8,13 +8,13 @@
 
 SubQuery的任务是使世界上分散化的数据更容易访问，这取决于一个能够在 Substrate/Polkadot 生态系统内创建和创新的开发者网络。 我们与Gitcoin的伙伴关系反映了我们致力于为世界各地积极的开发者提供机会，以创造未来的应用程序。
 
-[Gitcoin GR12 Hackathon](https://gitcoin.co/hackathon/gr12/onboard)  将在2021年12月1日至16日举办，主要的区块链项目为各种奖品池做出了贡献。  [SubQuery 已经提出了5个奖项，奖池总量高达15000美元](https://gitcoin.co/hackathon/gr12/?org=subquery)。 该奖项将授予那些成功地完成了预先设定标准的项目并切提供了最有创意的想法的项目组，以及那些解决了领域的核心SubQuery SDK改进问题的项目组。 以下简要概述了这些挑战：
+[Gitcoin GR12 Hackathon](https://gitcoin.co/hackathon/gr12/onboard)  将在2021年12月1日至16日举办，主要的区块链项目为各种奖品池做出了贡献。  [SubQuery 已经提出了5个奖项，奖池总量高达34000美元](https://gitcoin.co/hackathon/gr12/?org=subquery)。 该奖项将授予那些成功地完成了预先设定标准的项目并切提供了最有创意的想法的项目组，以及那些解决了领域的核心SubQuery SDK改进问题的项目组。 以下简要概述了这些挑战：
 
--   创建一个统一的区块浏览器，将Moonbeam和Astar的Substrate和EVM视图合并为一个简单易用的应用程序
--   使用SubQuery和Karura/Acala的DeFi 枢纽来构建一个受[Zapper.fi](http://zapper.fi/)或  [defisaver.com](https://defisaver.com/) 启发的界面
--   创建一个质押管理界面，展示所有Polkadot及其平行链的最佳质押机会
--   为所有基于RMRK协议的NFT创建一个市场浏览器
--   扩展 [@subql/node](https://github.com/subquery/subql)服务来索引另一些laye 1链(比如Cardano,Solana)中的数据以便可以通过@subql/quisk服务进行查询。
+-   [创建一个统一的区块浏览器，将Moonbeam和Astar的Substrate和EVM视图合并为一个简单易用的应用程序](https://gitcoin.co/issue/subquery/grants/1) —$12, 00**[由Moonbeam和Astar赞助]**
+-   [与SubQuery和DeFi hub Karura/Acala合作，构建一个受到 Zapper.fi和defisaver.com启发的的仪表盘](https://gitcoin.co/issue/subquery/grants/2)  — $5000美元[Acala赞助]
+-   [创建一个记录界面，显示所有Polkadot及其各种parachains](https://gitcoin.co/issue/subquery/grants/3) 的最佳隐藏机会 — $3000
+-   [为所有RMRK协议创建一个市场浏览器](https://gitcoin.co/issue/subquery/grants/4) —$2000
+-   [扩展@subql/节点服务，以索引另一层1链中的数据](https://gitcoin.co/issue/subquery/grants/5) —$12,000
 
 [Sam Zou](https://twitter.com/zoujialiu), SubQuery首席执行官和创始人评论道，_“SubQuery很自豪能与 Gitcoin GR12 Hackathon合作构建Web3.0 的未来。 作为Polkadot生态系统中的主要数据索引器，我们坚信要建立能让App 开发者关注他们的前端的工具，因此他们不需要在建立一个自定义服务器进行数据处理导致浪费时间。 我们开发的奖励反映了我们为“英雄课程”毕业生提供机会的愿望，以及为有经验的开发者提供更先进的挑战的愿望。_
 

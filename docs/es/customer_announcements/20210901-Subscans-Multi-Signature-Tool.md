@@ -18,7 +18,7 @@ El servicio de SubQuery desempeña un papel clave en esta herramienta que provee
 
 ## Acerca de Subscan
 
-[Subscan.io](https://www.subscan.io/) es un explorador multichain de alta precisión creado para blockchains basadas en sustrato. Subscan permite explorar y visualizar datos de más de 30 redes en el ecosistema Polkadot.
+[Subscan.io](https://www.subscan.io/) es un explorador multichain de alta precisión creado para blockchains basadas en substrate. Subscan permite explorar y visualizar datos de más de 30 redes en el ecosistema Polkadot.
 
 Subscan provee servicios personalizados para la red ecológica, como el módulo EVM, multi-token, etc. Subscan también provee servicios API estables, gráficos de datos y convenientes aplicaciones de herramientas.
 
@@ -26,6 +26,6 @@ Subscan provee servicios personalizados para la red ecológica, como el módulo 
 
 ## Acerca de SubQuery
 
-[SubQuery](https://subquery.network/) es una capa de agregación de datos que operará entre las blockchains de capa 1 (Kusama) y las DApps (como Kodadot). Este servicio permite a los desarrolladores de DApp enfocarse en su caso de uso principal y en su front-end, sin perder tiempo en la creación de un backend personalizado para el procesamiento de datos.
+[SubQuery](https://subquery.network/) es una capa de agregación de datos que operará entre las blockchains de layer-1 (Kusama) y las DApps (como Kodadot). Este servicio permite a los desarrolladores de DApp enfocarse en su caso de uso principal y en su front-end, sin perder tiempo en la creación de un backend personalizado para el procesamiento de datos.
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)

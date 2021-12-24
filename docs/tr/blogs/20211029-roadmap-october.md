@@ -14,7 +14,7 @@ SubQuery, her gün [Polkadot ve Kusama'daki 60'tan fazla projeye milyonlarca ver
 
 Bu nedenle, SubQuery Ağı'nın ölçeklenebilirliğini teşvik edilmiş bir test ağı programı aracılığıyla göstermemizin ve tam olarak test etmemizin kritik olduğunu düşünüyoruz. Bu süreç aynı zamanda Mart 2022'de bir TGE aracılığıyla ve gelecek yıl nihai ana ağımız aracılığıyla halka açılmadan önce bir dizin oluşturucular topluluğu oluşturmamıza da olanak tanıyacak.
 
-![](https://cdn-images-1.medium.com/max/800/1*I6mko5xumHAArzGePvEZiQ.jpeg)
+![](https://miro.medium.com/max/2400/1*I6mko5xumHAArzGePvEZiQ.jpeg)
 
 Bu nedenle, iş akışımızdaki kilit çıktılar aşağıdaki ana kilometre taşlarına bölünebilir.
 

@@ -14,7 +14,7 @@ Mientras SubQuery ya está sirviendo millones de consultas de datos cada día a 
 
 Por esta razón, creemos que es fundamental que demostremos y probemos completamente la escalabilidad de la SubQuery Network a través de un programa de red de pruebas incentivado. Este proceso también nos permitirá establecer una comunidad de indexadores antes de lanzar públicamente a través de un TGE en marzo de 2022 y nuestro eventual red principal a finales del año próximo.
 
-![](https://cdn-images-1.medium.com/max/800/1*I6mko5xumHAArzGePvEZiQ.jpeg)
+![](https://miro.medium.com/max/2400/1*I6mko5xumHAArzGePvEZiQ.jpeg)
 
 Como tal, los resultados clave en nuestro flujo de trabajo se pueden dividir en los siguientes hitos principales.
 

@@ -6,15 +6,15 @@
 
 Hôm nay, chúng tôi rất vui mừng khi lần đầu tiên được công bố lộ trình kỹ thuật chi tiết của mình. Mục tiêu của SubQuery là trở thành nhà cung cấp dữ liệu hàng đầu trong hệ sinh thái Polkadot và sự hỗ trợ mà chúng tôi nhận được từ cộng đồng để giúp chúng tôi đạt được điều này thực sự tuyệt vời. Từ lúc chính thức thành lập vào cuối năm 2020 thông qua một [nguồn tài trợ Web3](https://web3.foundation/) cho đến khi phát hành phiên bản mã nguồn mở đầu tiên của chúng tôi vào tháng 1 năm 2021 rồi cả khi [kết thúc vòng gọi vốn Series A vào tháng 9](https://subquery.medium.com/series-a-1abed6c1c2af), chúng tôi xin chân thành cảm ơn sự hỗ trợ của tất cả các bạn đã giúp chúng tôi đi được đến giai đoạn này!
 
-Khi chúng tôi tiếp tục đạt được động lực, đã đến lúc chúng tôi phải chia sẻ nhiều hơn về kế hoạch của chúng tôi cho tương lai, bao gồm cả lộ trình kỹ thuật của chúng tôi. Chúng tôi rất vui mừng về cách phát triển tiếp theo của SubQuery sẽ thúc đẩy nhiều giá trị hơn nữa cho hệ sinh thái Polkadot và mang lại nhiều cơ hội hơn cho cộng đồng tham gia vào sự phát triển của chúng tôi.
+Khi chúng tôi tiếp tục đạt được động lực, đã đến lúc chúng tôi cần phải chia sẻ nhiều hơn về kế hoạch trong tương lai, bao gồm cả lộ trình kỹ thuật. Chúng tôi rất vui mừng về cách phát triển tiếp theo của SubQuery sẽ thúc đẩy nhiều giá trị hơn nữa cho hệ sinh thái Polkadot và mang lại nhiều cơ hội hơn cho cộng đồng để cùng tham gia vào sự phát triển của chúng tôi.
 
 ## Tương lai của chúng ta
 
 Mặc dù SubQuery đã phục vụ hàng triệu truy vấn dữ liệu mỗi ngày cho [hơn 60 dự án trên Polkadot & Kusama](https://project.subquery.network/), chúng tôi muốn đảm bảo rằng giai đoạn tăng trưởng tiếp theo của chúng tôi được tiến hành một cách có tổ chức và có kiểm soát.
 
-Vì lý do này, chúng tôi cảm thấy điều quan trọng là chúng tôi phải chứng minh và kiểm tra đầy đủ khả năng mở rộng của Mạng SubQuery thông qua một chương trình mạng thử nghiệm được khuyến khích. Quá trình này cũng sẽ cho phép chúng tôi thiết lập một cộng đồng các nhà lập chỉ mục trước khi ra mắt công khai thông qua TGE vào tháng 3 năm 2022 và mạng chính cuối cùng của chúng tôi vào cuối năm sau.
+Vì lý do này, chúng tôi cảm thấy điều quan trọng là chứng minh và kiểm tra đầy đủ khả năng mở rộng của Mạng SubQuery thông qua một chương trình mạng thử nghiệm được khuyến khích. Quá trình này cũng sẽ cho phép chúng tôi thiết lập một cộng đồng các nhà lập chỉ mục trước khi ra mắt công khai thông qua TGE vào tháng 3 năm 2022 và mạng chính cuối cùng của chúng tôi vào cuối năm sau.
 
-![](https://cdn-images-1.medium.com/max/800/1*I6mko5xumHAArzGePvEZiQ.jpeg)
+![](https://miro.medium.com/max/2400/1*I6mko5xumHAArzGePvEZiQ.jpeg)
 
 Do đó, các nhiệm vụ chính trong quy trình làm việc của chúng tôi có thể được chia thành các mốc quan trọng sau.
 

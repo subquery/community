@@ -1,27 +1,27 @@
-# SubQuery Just Got a Lot Faster with the Dictionary
+# Подзаявката стана много по-бърза с речника
 
 ![](https://miro.medium.com/max/1400/1*iEQbr-KZNIkztylVowAuaQ.png)
 
-Today we are proud to announce our new improvement to SubQuery, SubQuery’s Dictionary indexing feature.
+Днес ние сме горди да обявим нашето ново подобрение на SubQuery, функцията за индексиране на речник на SubQuery.
 
-The SubQuery Dictionary is all about speeding up your Projects. It dramatically improves indexing the performance of your SubQuery Project, **sometimes up to 10x faster.**
+Речникът на SubQuery е свързан с ускоряване на вашите проекти. Той драстично подобрява индексирането на производителността на вашия SubQuery Project, **понякога до 10 пъти по-бързо.**
 
-When indexing chain data, SubQuery Projects used to inspect each block. Polkadot’s chain is large, 130GB of unstructured data over almost 6 million blocks. This takes many hours to index, time that you don’t want to wait for — especially when testing.
+Когато индексират верижни данни, SubQuery Projects се използва за проверка на всеки блок. Веригата на Polkadot е голяма, 130 GB неструктурирани данни в почти 6 милиона блока Това отнема много часове за индексиране, време, което не искате да чакате – особено при тестване.
 
-SubQuery projects now have the option to skip all this, we essentially pre-index the location of all events within a chain.
+Проектите на SubQuery вече имат опцията да пропускат всичко това, ние по същество предварително индексираме местоположението на всички събития във веригата.
 
 ![](https://miro.medium.com/max/1400/1*uIjz8W4TG9Q0au9zoKbHVw.png)
 
-Performance is improved the most when the data is not a common occurrence, but instead interspersed along the chain, as if the data is rare, the Dictionary skips more blocks, and therefore the impact on performance is greater.
+Производителността се подобрява най-много, когато данните не са често срещано явление, а вместо това са разпръснати по веригата, сякаш данните са редки, речникът пропуска повече блокове и следователно въздействието върху производителността е по-голямо.
 
-The Dictionary endpoint can be added in [your ‘project.yaml’ file](https://doc.subquery.network/create/manifest.html), or alternatively [specified at run time](https://doc.subquery.network/run/run.html#using-a-dictionary). Additionally, you can also override this endpoint when running your Project in [SubQuery Projects](https://project.subquery.network/).
+Крайната точка на речника може да бъде добавена във [вашия файл „project.yaml“](https://doc.subquery.network/create/manifest.html) или алтернативно [посочена по време на изпълнение](https://doc.subquery.network/run/run.html#using-a-dictionary). Освен това можете също да замените тази крайна точка, когато изпълнявате своя проект в [Проекти на подзапитвания](https://project.subquery.network/).
 
 ![](https://miro.medium.com/max/1400/1*xl4wENAv_oNingDQZyrtyw.png)
 
-You can read more about the dictionary in our [helpful documentation here](https://doc.subquery.network/run/run.html#using-a-dictionary).
+Можете да прочетете повече за речника в нашата [полезна документация тук](https://doc.subquery.network/run/run.html#using-a-dictionary).
 
-We believe SubQuery is the best data indexing option available for any Polkadot/Substrate dApp, and this new implementation of SubQuery’s Dictionary allows us to further improve our service by speeding up the indexing process for your SubQuery Projects.
+Вярваме, че SubQuery е най-добрата опция за индексиране на данни, налична за всяко Polkadot/Substrate dApp, и тази нова реализация на SubQuery's Dictionary ни позволява да подобрим допълнително нашата услуга, като ускорим процеса на индексиране за вашите SubQuery проекти.
 
-You can try it yourself in [SubQuery Projects](https://project.subquery.network/) or view the dictionaries themselves in [our explorer](https://explorer.subquery.network/). In order to use a Dictionary in your existing project, your [@subql/cli](https://www.npmjs.com/package/@subql/cli) version must be at least 0.10.0
+Можете да опитате сами в [Проекти за подзапитвания](https://project.subquery.network/) или да видите самите речници в [нашия изследовател](https://explorer.subquery.network/). За да използвате речник във вашия съществуващ проект, вашата версия [@subql/cli](https://www.npmjs.com/package/@subql/cli) трябва да е поне 0.10.0
 
 ![](https://miro.medium.com/max/1400/1*CrbWsx1rFiBNjkCepxbkPQ.png)

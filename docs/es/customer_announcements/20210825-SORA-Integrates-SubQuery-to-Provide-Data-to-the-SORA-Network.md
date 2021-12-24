@@ -1,4 +1,4 @@
-# SORA integra la SubQuery para proporcionar datos a la red SORA
+# SORA integra SubQuery para proporcionar datos a la red SORA
 
 ![sora-header.jpg](https://miro.medium.com/max/1400/1*fPPW0DsynIt9QpvK4ZrsUA.jpeg)
 
@@ -8,7 +8,7 @@ Hoy nos complace anunciar un nuevo y emocionante proyecto en SubQuery — SORA y
 
 > "SubQuery fue seleccionado para mejorar el uso de la red UX de SORA. Utilizamos SubQuery para obtener y listar detalles extrínsecos, calcular los precios fiat y la APY. Nuestro objetivo era obtener el historial de transacciones y datos agregados para aplicaciones que trabajan con la red SORA.
 > 
-> SubQuery ha sido la solución ideal para nuestras necesidades ya que la aplicación es fácil de implementar, de administrar, de aprender y desarrollar, además de estar bien documentada, y también tiene su propia infraestructura con integración Github" - Equipo de desarrollo de Sora. La estructura de datos simple de SubQuery proporciona acceso rápido, soporta API GraphQL para aplicaciones cliente, tiene una configuración flexible para analizar eventos, extrínsecas y bloques con filtración adicional. Finalmente, la aplicación es completamente transparente para los usuarios, por lo que no notarán si la aplicación fue actualizada o detenida."—Equipo de Desarrollo de SORA
+> SubQuery ha sido la solución ideal para nuestras necesidades ya que la aplicación es fácil de implementar, de administrar, de aprender y desarrollar, además de estar bien documentada, y también tiene su propia infraestructura con integración Github" - Equipo de desarrollo de Sora. La estructura de datos simple de SubQuery proporciona acceso rápido, es compatible con la API GraphQL para aplicaciones de clientes, tiene una configuración flexible para analizar eventos, extrínsecas y bloques con filtración adicional. Finalmente, la aplicación es completamente transparente para los usuarios, por lo que no notarán si la aplicación fue actualizada o detenida."—Equipo de Desarrollo de SORA
 
 Polkaswap es un DEX líder en el emocionante ecosistema Polkadot y utiliza SubQuery para recuperar transferencias, swaps que ocurren en Polkaswap, la adición o eliminación de la liquidez, el precio plano de los tokens, y el APY para la liquidez pools.
 
@@ -36,6 +36,6 @@ La red SORA destaca por proporcionar herramientas para aplicaciones descentraliz
 
 ### Acerca de SubQuery
 
-[SubQuery](https://subquery.network/) es una agregación de datos descentralizada, indexación & capa de consulta entre las blockchains Capa-1 y las aplicaciones descentralizadas (DApps). Actualmente enfocados en proyectos de Polkadot y Substrate, estos datos a manera de servicio permiten a los desarrolladores concentrarse en su caso de uso principal y front-end, sin necesidad de perder tiempo construyendo un backend personalizado para el procesamiento de datos.
+[SubQuery](https://subquery.network/) es una agregación de datos descentralizada, indexación & capa de consulta entre las blockchains Layer-1 y las aplicaciones descentralizadas (DApps). Actualmente enfocados en proyectos de Polkadot y Substrate, estos datos a manera de servicio permiten a los desarrolladores concentrarse en su caso de uso principal y front-end, sin necesidad de perder tiempo construyendo un backend personalizado para el procesamiento de datos.
 
 [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Email](mailto:hello@subquery.network)

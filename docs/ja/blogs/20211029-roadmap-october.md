@@ -14,7 +14,7 @@ SubQueryはすでに[PolkadotとKusamaの60以上のプロジェクト](https://
 
 そのため、インセンティブ付きのテストネットプログラムを通じて、SubQuery Networkのスケーラビリティを実証し、完全にテストすることが重要だと考えています。 このプロセスにより、2022年3月にTGEを介して公開し、来年後半には最終的なメインネットを立ち上げる前に、インデクサーのコミュニティを確立することができます。
 
-![](https://cdn-images-1.medium.com/max/800/1*I6mko5xumHAArzGePvEZiQ.jpeg)
+![](https://miro.medium.com/max/2400/1*I6mko5xumHAArzGePvEZiQ.jpeg)
 
 このように、私たちのワークフローにおける主要な成果物は、以下の主要なマイルストーンに分けられます。
 

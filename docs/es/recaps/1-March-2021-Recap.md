@@ -1,6 +1,6 @@
 # Resumen Marzo 2021
 
-Ha sido un par de meses intenso en OnFinality and SubQuery, Hemos ampliado el equipo y hemos traído nuevos socios a medida que lanzamos nuevos proyectos clave. Actualización en este mes:
+Ha sido un par de meses intensos en OnFinality and SubQuery, Hemos ampliado el equipo y hemos traído nuevos socios a medida que lanzamos nuevos proyectos clave. Actualización en este mes:
 
 -   Explorador de SubQuery
 -   Semilla de actualización
@@ -20,7 +20,7 @@ Lo ejecutaremos como si fuera una aplicación de producción, entonces puede des
 
 ## **SubQuery recauda $1.8 Millones en una Seed Round para futura expansión**
 
-¡SubQuery está listo para crecer y entregar! SubQuery is ready to grow and deliver! [We successfully raised a US$1.8 million seed round](https://subquery.medium.com/subquery-raises-1-8m-seed-round-for-future-expansion-3348c1f2a931) and private sale backed primarily by DeFi Alliance, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG), and The Lao. La abrumadora demanda que recibimos para respaldar la seed round de SubQuery muestra el gran interés en los servicios de infraestructura y la fe en el futuro del ecosistema de Polkadot.
+¡SubQuery está listo para crecer y entregar! [Hemos recaudado con éxito una seed round de 1,8 millones de dólares](https://subquery.medium.com/subquery-raises-1-8m-seed-round-for-future-expansion-3348c1f2a931) y una venta privada respaldada principalmente por DeFi Alliance, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG) y The Lao. La abrumadora demanda que recibimos para respaldar la seed round de SubQuery muestra el gran interés en los servicios de infraestructura y la fe en el futuro del ecosistema de Polkadot.
 
 _Estamos planeando una subsiguiente venta privada/aumento más adelante este año. Si estás interesado en participar por favor regístrate aquí:_ [_https://forms.gle/6LMapDNSidQAqy347_](https://forms.gle/6LMapDNSidQAqy347)
 
@@ -52,10 +52,10 @@ El acelerador de la cadena de bloques Xcelerator de Berkeley es conocido en todo
 
 ## **Rutas inteligentes**
 
-Recientemente, se nos ha concedido [un subsidio de tesorería](https://kusama.polkassembly.io/treasury/72) para completar una capa de enrutamiento inteligente que nos permite exponer múltiples clústeres detrás de un único punto final. Esto nos permitirá escalar mejor nuestro servicio. y se caen rápidamente a grupos redundantes en el improbable caso de que parte de nuestra infraestructura se vaya abajo. Tanto OnFinality como SubQuery confían en esta infraestructura por lo que es importante que sigamos invirtiendo y mejorando aquí.
+Recientemente, se nos ha concedido [un subsidio de tesorería](https://kusama.polkassembly.io/treasury/72) para completar una capa de enrutamiento inteligente que nos permite exponer múltiples clústeres detrás de un único punto final. Esto nos permitirá escalar mejor nuestro servicio y pasar rápidamente a grupos redundantes en el improbable caso de que parte de nuestra infraestructura se vaya abajo. Tanto OnFinality como SubQuery confían en esta infraestructura por lo que es importante que sigamos invirtiendo y mejorando aquí.
 
 ## **Nuevo personal y oficina**
 
-Uno de los mayores cambios en el último mes es cuánto ha crecido el equipo. Hemos añadido dos nuevos empleados en el último mes y esperamos contratar más como resultado, hemos encontrado una nueva oficina en Auckland que nos encaja perfectamente. Vamos a crecer, pero todavía planea seguir siendo pequeño y ágil para que podamos ofrecer nuestra visión de producto.
+Uno de los mayores cambios en el último mes es cuánto ha crecido el equipo. Hemos añadido dos nuevos empleados en el último mes y esperamos contratar más como resultado, hemos encontrado una nueva oficina en Auckland que nos encaja perfectamente. Vamos a crecer, pero todavía planeamos seguir siendo pequeños y ágiles para poder ofrecer nuestra visión de producto.
 
 ![](https://miro.medium.com/max/1400/1*cJZxerXHfgVGu4-7h2xw4Q.jpeg)

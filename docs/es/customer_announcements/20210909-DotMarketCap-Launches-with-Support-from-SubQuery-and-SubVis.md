@@ -32,7 +32,7 @@ DotMarketCap es un proyecto sin fines de lucro financiado por Illusionist Group,
 
 ## **Acerca de SubQuery**
 
-[SubQuery](https://subquery.network/) es una agregación de datos descentralizada, indexación & capa de consulta entre las blockchains Capa-1 y las aplicaciones descentralizadas (DApps). Actualmente enfocados en proyectos de Polkadot y Substrate, estos datos a manera de servicio permiten a los desarrolladores concentrarse en su caso de uso principal y front-end, sin necesidad de perder tiempo construyendo un backend personalizado para el procesamiento de datos.
+[SubQuery](https://subquery.network/) es una agregación de datos descentralizada, indexación & capa de consulta entre las blockchains Layer-1 y las aplicaciones descentralizadas (DApps). Actualmente enfocados en proyectos de Polkadot y Substrate, estos datos a manera de servicio permiten a los desarrolladores concentrarse en su caso de uso principal y front-end, sin necesidad de perder tiempo construyendo un backend personalizado para el procesamiento de datos.
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)
 

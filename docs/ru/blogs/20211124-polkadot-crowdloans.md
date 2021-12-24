@@ -4,10 +4,9 @@
 
 **Подзапрос копается в данных аукционов парачейна**
 
-Для Polkadot только что была достигнута важная веха - завершение первого раунда парачейн-аукционов. В последние недели мы наблюдали ожесточенную борьбу за корону Polkadot, первый слот для парачейнов, между Moonbeam и Acala. После напряженной гонки победителем аукциона стал Акала. Если вы хотите узнать больше о том, как выбираются победители на этом современном аукционе свечей, взгляните на отличное резюме
-Дэна Ризера (из Акала).
+Для Polkadot только что была достигнута важная веха - завершение первого раунда парачейн-аукционов. В последние недели мы наблюдали ожесточенную борьбу за корону Polkadot, первый слот для парачейнов, между Moonbeam и Acala. После напряженной гонки победителем аукциона стал Акала. Если вы хотите узнать больше о том, как выбираются победители на этом современном аукционе свечей, взгляните на отличное резюме [ Дэна Ризера (из Акала) ](https://twitter.com/danreecer_/status/1364646604024786949).
 
-После напряженной гонки победителем аукциона стал Акала. Если вы хотите узнать больше о том, как выбираются победители на этом современном аукционе свечей, взгляните на отличное резюме Дэна Ризера (из Акала). Такие команды, как [ SubVis ](https://www.subvis.io/), [ Parallel Finance ](https://parallel.fi/) и [ DotMarketCap ](https://dotmarketcap.com/) полагаются на SubQuery, чтобы предоставлять данные о краудлоанах и другие данные в цепочке непосредственно своим веб-сайты и приложения.
+После напряженной гонки победителем аукциона стал Акала. Если вы хотите узнать больше о том, как выбираются победители на этом современном аукционе свечей, взгляните на отличное резюме Дэна Ризера (из Акала). Такие команды, как [SubVis](https://www.subvis.io/), [Parallel Finance](https://parallel.fi/) и [DotMarketCap](https://dotmarketcap.com/) полагаются на SubQuery, чтобы предоставлять данные о краудлоанах и другие данные в цепочке непосредственно своим веб-сайты и приложения.
 
 Сегодня мы собираемся немного подробнее изучить то, что произошло в рамках первого аукциона, углубившись в данные, лежащие в основе каждого отдельного взноса.
 
@@ -63,7 +62,7 @@ SubQuery - ведущий поставщик данных Polkadot, поддер
 
 Протокол SubQuery абстрагируется от идиосинкразии данных блокчейна с помощью SubQuery SDK, позволяя разработчикам сосредоточиться на развертывании своего основного продукта, не тратя напрасно усилия на специальные серверные технологии.
 
-​​​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+​​​​[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
 
 ## Приложение
 
@@ -73,9 +72,9 @@ SubQuery - ведущий поставщик данных Polkadot, поддер
 
 Исключенные Crowdloan сайты
 
-- [Acala LCDOT](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157)
-- [Binance Crowdloan](https://www.binance.com/en/dotslot)
-- [Parallel Finance](https://crowdloan.parallel.fi/#/auction/polkadot)
-- [Kraken Crowdloan](https://www.kraken.com/learn/parachain-auctions)
-- [https://pos.dog/](https://pos.dog/)
-- [Bifrost SALP](https://medium.com/bifrost-finance/bifrost-announces-slot-auction-liquidity-protocol-salp-weekly-report-51-57a7f69aad34)
+-   [Acala LCDOT](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157)
+-   [Binance Crowdloan](https://www.binance.com/en/dotslot)
+-   [Parallel Finance](https://crowdloan.parallel.fi/#/auction/polkadot)
+-   [Kraken Crowdloan](https://www.kraken.com/learn/parachain-auctions)
+-   [https://pos.dog/](https://pos.dog/)
+-   [Bifrost SALP](https://medium.com/bifrost-finance/bifrost-announces-slot-auction-liquidity-protocol-salp-weekly-report-51-57a7f69aad34)

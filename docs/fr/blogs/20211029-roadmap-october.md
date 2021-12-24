@@ -14,7 +14,7 @@ Alors que SubQuery sert déjà des millions de requêtes de données chaque jour
 
 Pour cette raison, nous pensons qu'il est essentiel de démontrer et de tester pleinement l'évolutivité du réseau SubQuery par le biais d'un programme de testnet incitatif. Ce processus nous permettra également d'établir une communauté d'indexeurs avant le lancement public via un TGE en mars 2022 et notre éventuel mainnet plus tard l'année prochaine.
 
-![](https://cdn-images-1.medium.com/max/800/1*I6mko5xumHAArzGePvEZiQ.jpeg)
+![](https://miro.medium.com/max/2400/1*I6mko5xumHAArzGePvEZiQ.jpeg)
 
 En tant que tel, les principaux résultats attendus de notre flux de travail peuvent être répartis entre les étapes majeures suivantes.
 

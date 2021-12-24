@@ -1,6 +1,6 @@
 # SubQuery anuncia una ronda de financiación de 9 millones de dólares
 
-**Construyendo un protocolo de datos descentralizados para el ecosistema de Polkadot. Codirigido por Arrington Capital, DCG y Stratos Technologies**
+**Construyendo un protocolo de datos descentralizados para el ecosistema de Polkadot. Co-Liderado por Arrington Capital, DCG y Stratos Technologies**
 
 ![](https://cdn-images-1.medium.com/max/1600/0*PR4oqrB9Am03VseR)
 

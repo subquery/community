@@ -2,13 +2,13 @@
 
 ![](https://cdn-images-1.medium.com/max/1600/1*WcFjuL_ncmHpgzVhaXDUdg.png)
 
-La misión de Parallel es innovar, llevar DeFi al siguiente nivel y a una más amplia audiencia. Hoy nos emociona revelar cómo Parallel Finance esta usando los datos de SubQuery en [their new application](https://testnet.parallel.fi/#/overview).
+La misión de Parallel es innovar, llevar DeFi al siguiente nivel y a una más amplia audiencia. Hoy nos emociona revelar cómo Parallel Finance esta usando los datos de SubQuery en [su nueva aplicación](https://testnet.parallel.fi/#/overview).
 
 ![](https://cdn-images-1.medium.com/max/1600/1*5Ru0mv1hq86BuBhGwsmoqQ.png)
 
 > *"SubQuery es una excelente herramienta que trajo la tecnología de indexación tradicional & a Parallel Heiko. El servicio plug-and-play nos ahorró mucho tiempo desarrollando nuestra propia herramienta de indexación de bloques y manteniendo nuestra propia solución ". * - Parallel Finance *
 
-El servicio de [SubQuery's](https://subquery.network/) ayuda a Parallel Finance a almacenar, analizar y consultar datos en su red de prueba de Heiko. Parte de estos datos se utilizan directamente en la nueva aplicación de Parallel, ayudando a que los usuarios a comprendan y analicen los datos DeFi.
+El servicio de [SubQuery's](https://subquery.network/) ayuda a Parallel Finance a almacenar, analizar y consultar datos en la testnet de Heiko. Parte de estos datos se utilizan directamente en la nueva aplicación de Parallel, ayudando a que los usuarios a comprendan y analicen los datos DeFi.
 
 ![](https://miro.medium.com/max/1200/1*Lmk8BvWg2YYTDZggHN82VQ.gif)
 
@@ -36,6 +36,6 @@ Parallel Finance es un protocolo de mercado monetario descentralizado que ofrece
 
 ## Acerca de SubQuery
 
-[SubQuery](https://subquery.network/) es una capa de agregación de datos que operará entre las blockhains de capa 1 (Kusama) y las DApps (como Kodadot). Este servicio permite a los desarrolladores de DApp enfocarse en su caso de uso principal y en el front-end, sin necesidad de perder tiempo creando un backend personalizado para el procesamiento de datos.
+[SubQuery](https://subquery.network/) es una capa de agregación de datos que operará entre las blockchains de layer-1 (Kusama) y las DApps (como Kodadot). Este servicio permite a los desarrolladores de DApp enfocarse en su caso de uso principal y en el front-end, sin necesidad de perder tiempo creando un backend personalizado para el procesamiento de datos.
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)

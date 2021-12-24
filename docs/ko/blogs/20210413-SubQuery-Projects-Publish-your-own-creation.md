@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/0*Jhkt10DyMiptFocJ)
 
-서브쿼리 프로젝트
+SubQuery 프로젝트
 
 오늘 우리는 SubQuery의 다음 단계인 [프로젝트](https://project.subquery.network)를 출시합니다. SubQuery의 임무는 전 세계의 분산된 데이터에 더 쉽게 접근할 수 있도록 하는 것이므로 이번 주 발표는 우리 커뮤니티에 매우 중요합니다!
 
@@ -18,9 +18,9 @@
 
 ![](https://miro.medium.com/max/1400/1*IupCbHA6aaal26sYbK-Hbw.png)
 
-새 서브쿼리 프로젝트 생성
+새로운 SubQuery 프로젝트 생성
 
-새 프로젝트를 게시 및 배포한 후에는 GraphQL 엔드포인트를 통해 프로젝트와 상호 작용하거나 [탐색기 플레이그라운드](https://explorer.subquery.network/)에서 간단히 플레이할 수 있습니다! 프로덕션 애플리케이션처럼 실행할 것이므로 오늘 SubQuery를 사용하여 다음 dApp에서 분산 데이터를 잠금 해제할 수 있습니다.
+새 프로젝트를 게시 및 배포한 후에는 GraphQL 엔드포인트를 통해 프로젝트와 상호 작용하거나 [탐색기 플레이그라운드](https://explorer.subquery.network/)에서 간단히 구동시킬 수 있습니다! 프로덕션 애플리케이션처럼 실행할 것이므로, 오늘 SubQuery를 사용하여 다음 dApp에서 분산 데이터를 잠금 해제할 수 있습니다.
 
 
 

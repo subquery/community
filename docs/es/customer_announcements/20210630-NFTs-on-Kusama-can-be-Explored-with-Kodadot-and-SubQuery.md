@@ -4,13 +4,13 @@
 
 ![](https://miro.medium.com/max/1400/1*Y4kdG9uEoxrySzb19QKxPg.gif)
 
-Kodadot es una plataforma NFT nativa de Kusama que utiliza el protocolo RMRK. Los usuarios pueden detectar, transferir y grabar NFT en la red. Lo más importante es que Kodadot tiene un explorador de NFT basado en web que proporciona una interfaz de usuario intuitiva.
+Kodadot es una plataforma NFT nativa de Kusama que utiliza el protocolo RMRK. Los usuarios pueden acuñar, transferir y grabar NFT en la red. Lo más importante, es que Kodadot tiene un explorador de NFT basado en web que proporciona una interfaz de usuario intuitiva.
 
 Este frontal utiliza un [proyecto de subquery](https://explorer.subquery.network/subquery/vikiival/magick) para hacer esta exploración más rápida.
 
 ![](https://miro.medium.com/max/1400/0*3TdpXjj1iwGNdA3n)
 
-> “Al principio tuvimos que darnos cuenta de cuánto está haciendo SubQuery en lugar de ti, así que pudimos centrarnos exclusivamente en la arquitectura GraphQL y la lógica de consolidación NFT. Gracias a SubQuery, estamos pensando ahora en otro conjunto de características que podemos añadir fácilmente durante el fin de semana” — Kodadot
+> “Al principio tuvimos que darnos cuenta de cuánto está haciendo SubQuery en su lugar, así que pudimos centrarnos exclusivamente en la arquitectura GraphQL y la lógica de consolidación NFT. Gracias a SubQuery, estamos pensando ahora en otro conjunto de características que podemos añadir fácilmente durante el fin de semana” — Kodadot
 
 [El servicio](https://subquery.network/) de SubQuery ayuda a extraer y consultar Kodadot sobre datos de cadena para NFTs en Kusama, y hacer esto de una manera más eficiente desde el punto de vista energético y respetuosa con el carbono.
 

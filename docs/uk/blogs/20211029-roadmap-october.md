@@ -14,7 +14,7 @@ While SubQuery is already serving millions of data queries each day to [over 60 
 
 For this reason, we feel it is critical that we demonstrate and fully test the scalability of the SubQuery Network through an incentivised testnet program. This process will also allow us to establish a community of indexers before launching publicly via a TGE in March 2022 and our eventual mainnet later next year.
 
-![](https://cdn-images-1.medium.com/max/800/1*I6mko5xumHAArzGePvEZiQ.jpeg)
+![](https://miro.medium.com/max/2400/1*I6mko5xumHAArzGePvEZiQ.jpeg)
 
 As such, the key deliverables in our work-flow can be broken into the following major milestones.
 

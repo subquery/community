@@ -1,9 +1,9 @@
-# SubQuery se une al acelerador Blockchain de Berkeley
+# SubQuery se une a Blockchain Xcelerator de Berkeley
 
 ![](https://miro.medium.com/max/1400/0*gYUy-1COtbpLV1X1)
 
 
-Esta semana estamos encantados de anunciar que Berkeley ha seleccionado SubQuery para formar parte de su exclusivo [Blockchain Xcelerator](https://www.xcelerator.berkeley.edu/). SubQuery (y su empresa matriz OnFinality) fueron seleccionados entre más de 200 aplicaciones para formar parte de sólo 21 lugares exclusivos.
+Esta semana estamos encantados de anunciar que Berkeley ha seleccionado a SubQuery para formar parte de su exclusivo [Blockchain Xcelerator](https://www.xcelerator.berkeley.edu/). SubQuery (y su empresa matriz OnFinality) fueron seleccionados entre más de 200 aplicaciones para formar parte de sólo 21 lugares exclusivos.
 
 El acelerador de la cadena de bloques Xcelerator de Berkeley es conocido en todo el mundo como uno de los aceleradores de blockchain más exitosos por una razón. Ha incubado a más de 40 empresas que han recaudado más de 25 millones de dólares en semillas y financiación inicial y más del 75% del lote inagural recaudó fondos a continuación. Además, la UC Berkeley sigue siendo un centro clave para la tecnología y la innovación justo al lado de Silicon Valley. Es sin duda uno de los principales aceleradores de blockchain en todo el mundo basados en la universidad, ¡estamos encantados de formar parte de ella!
 

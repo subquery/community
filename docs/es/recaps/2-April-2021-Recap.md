@@ -4,7 +4,7 @@ Abril fue un mes increíblemente ocupado para SubQuery, nuestro crecimiento est�
 
 En esta actualización mensual:
 
--   Enfocada Concéntrate en las herramientas de socios — lanzamiento de proyectos SubQuery
+-   Enfocada en las herramientas de socios — lanzamiento de proyectos SubQuery
 -   Caso de uso de SubQuery de BiFrost
 -   Mejoras de la escalabilidad por nuestro proveedor de servicios OnFinality
 -   Y más…

@@ -1,8 +1,8 @@
-# Bifrost elige SubQuery para proporcionar los datos de su nuevo dApp
+# Bifrost elige SubQuery para proporcionar los datos de su nueva dApp
 
 ![](https://miro.medium.com/max/1400/0*nqNosmn0y7FHOI42)
 
-Bifrost ha lanzado recientemente la beta de su nuevo dApp, la interfaz interactiva oficial para todos los servicios Bifrost. A través de este dApp, los usuarios pueden acuñar vTokens, canjear e intercambiar estos derivados, y ver sus ganancias en tiempo real. Esta beta dApp es un gran paso adelante para permitir a los usuarios reducir los costos de apuñalamiento a través de las cadenas manteniendo la liquidez. [Puedes probar la nueva aplicación de Bifrost aquí](https://apps.bifrost.finance/).
+Bifrost ha lanzado recientemente la beta de su nueva dApp, la interfaz interactiva oficial para todos los servicios Bifrost. A través de este dApp, los usuarios pueden acuñar vTokens, canjear e intercambiar estos derivados, y ver sus ganancias en tiempo real. Esta beta dApp es un gran paso adelante para permitir a los usuarios reducir los costos de apuñalamiento a través de las cadenas manteniendo la liquidez. [Puedes probar la nueva aplicación de Bifrost aquí](https://apps.bifrost.finance/).
 
 > “Sin SubQuery, es difícil imaginar cuán complicado es recopilar manualmente datos de la cadena. Los desarrolladores de Bifrost pueden dedicar mucho tiempo a la búsqueda de todos los datos de transacción en cadena para ser usados para el historial de transacciones. SubQuery ayuda a los desarrolladores a ahorrar muchos costos de trabajo repetitivos. Bifrost cooperará con SubQuery durante mucho tiempo para acelerar la velocidad iterativa del desarrollo del producto”. — Bifrost. Finance
 
