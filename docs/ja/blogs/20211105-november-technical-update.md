@@ -24,7 +24,7 @@
 
 **SubQueryは、12月1日水曜日の次のムーンビルダーワークショップのゲストになります** [**ここで登録**](https://www.crowdcast.io/e/moonbuilders-ws/10)**。**
 
-![](https://miro.medium.com/max/600/1*AET6Ek_PqFDRoc29Jiitnw.gif)
+![](https://miro.medium.com/max/600/1*AET6Ek_PqFDROC29Jiitnw.gif)
 
 [まず、ムーンビーム、ムーンベースアルファ、ムーンリバーのデータに接続およびインデックスを作成する方法に関する更新されたドキュメントに精通してください。](https://doc.subquery.network/create/moonbeam/) Moonbeamデータのインデックスを作成するプロセスは、2つのステップにすぎません。
 
@@ -46,7 +46,7 @@ thth `transfer` イベントをインデックスし、 `スマートコント�
 
 変更の大部分は、マニフェストファイル (`project.yaml` ) で発生します。 以下に、 [関数署名文字列](https://doc.subquery.network/create/moonbeam/#call-filters) をサポートするための [拡張コールフィルター](https://docs.ethers.io/v5/api/utils/abi/fragments/#FunctionFragment) 、またはコントラクト上で呼び出された関数をフィルタするための関数sighashがあります。 [イベントフィルター](https://doc.subquery.network/create/moonbeam/#event-filters)には、 [イーサリアムJSON-PRCログフィルタの標準に続くトピックのフィルタリングを使用できます](https://docs.ethers.io/v5/concepts/events/)。 SubQueryでは、Moonbeam EVMの他のインデクサよりも高度なフィルタが導入されており、これらの改善は開発者に大きな利益をもたらすはずです。
 
-![](https://miro.medium.com/max/700/1*4JRHItnILfCie4FT6sYLEA.png)
+![](https://miro.medium.com/max/700/1*4JRHITnILfCie4FT6sYLEA.png)
 
 SubstrateベースのSubQueryプロジェクトがどのように作られたかご存知であれば、新しいMoonriverサポートのためにマッピング機能がどのように似ているかがわかります。 それぞれのマッピング関数は `MoonbeamCall` または `MoonbeamEvent` を受け取り、他のSubQuery プロジェクトと同じように処理します。
 
@@ -56,14 +56,14 @@ SubstrateベースのSubQueryプロジェクトがどのように作られたか
 
 [GitHubでサンプルプロジェクトを複製](https://github.com/subquery/tutorials-moonriver-evm-starter)
 
-As you can see, creating a Moonriver or Moonbase Alpha project that indexes both Substrate and EVM data in a single project is extremely simple and largely similar. You can use SubQuery’s advanced scaffolding tools to speed up your dApp development and take advantage or richer indexing for you data to build more intuitive dApps. We can’t wait to see what you build!
+ご覧の通りです 1つのプロジェクトでSubstrateとEVMの両方のデータをインデックス化するMoonriverまたはMoonbase Alphaプロジェクトを作成することは、非常にシンプルで大部分が似ています。 SubQueryの高度な足場ツールを使用して、dApp開発をスピードアップし、データを活用したり、より直感的なdAppを構築することができます。 何を作るのが待ちきれません！
 
-## About SubQuery
+## SubQueryの内容
 
-SubQuery is a data aggregation layer that operates between the layer-1 blockchains (such as Moonriver and Polkadot) and DApps. This service unlocks blockchain data and transforms it to a queryable state so that it can be used in intuitive applications. It allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+SubQueryは、レイヤー1のブロックチェーン(MoonriverやPolkadotなど) とDAppsの間で動作するデータ・アグリゲーション・レイヤーです。 このサービスでは、ブロックチェーンのデータをアンロックし、クエリ可能な状態に変換することで、直感的なアプリケーションでの利用を可能にします。 このサービスにより、DAppの開発者はコアユースケースとフロントエンドに集中できます。 データ処理のためのカスタムバックエンドを構築するのに時間を無駄にする必要はありません。
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Github](https://github.com/subquery/subql) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
 
-## About Moonbeam
+## Moonbeamについて
 
-Moonbeam is an Ethereum-compatible smart contract platform on the Polkadot network that makes it easy to build natively interoperable applications. This Ethereum compatibility allows developers to deploy existing Solidity smart contracts and DApp frontends to Moonbeam with minimal changes. As a parachain on the Polkadot network, Moonbeam will benefit from the shared security of the Polkadot relay chain and integrations with other chains that are connected to Polkadot. Currently in active development by PureStake, Moonbeam is expected to reach MainNet by Q4 2021. Learn more: [https://moonbeam.network/](https://moonbeam.network/).
+MoonbeamはEthereum互換のスマートコントラクトプラットフォームで、ネイティブに相互運用可能なアプリケーションを簡単に構築できるPolkadotネットワーク上にあります。 このEthereum互換性により、開発者は既存のSolidityスマートコントラクトとDAppフロントエンドを最小限の変更でMoonbeamに展開することができます。 Polkadotネットワーク上のパラチェーンとして、MoonbeamはPolkadotリレーチェーンの共有セキュリティとPolkadotに接続されている他のチェーンとの統合の恩恵を受けるでしょう。 現在、PureStakeによる積極的な開発を進めているMoonbeamは2021年第4四半期までにMainNetに到達する予定です。 詳細はこちら: [https://moonbeam.network/](https://moonbeam.network/).
