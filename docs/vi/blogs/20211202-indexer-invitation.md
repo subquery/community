@@ -6,7 +6,7 @@ SubQuery, giải pháp lập chỉ mục dữ liệu hàng đầu trong Polkadot
 
 [Bạn có thể đăng ký tại đây](https://forms.gle/RyXyhb8T9Gxkwi7R9)
 
-Như đã chỉ ra trong [Lộ trình kỹ thuật của chúng tôi](https://subquery.medium.com/subquery-releases-technical-roadmap-2a3a383c49b), SubQuery hiện đang chuẩn bị cho sự kiện sinh token (TGE) của chúng tôi vào tháng 3 năm 2022. Trọng tâm hiện tại của chúng tôi là chuyển đổi sang Mạng SubQuery phi tập trung và thành phần quan trọng là các nhà lập chỉ mục để tạo thành một lớp nền tảng cho cơ sở hạ tầng mạng trong tương lai.
+Như đã chỉ ra trong [Lộ trình kỹ thuật của chúng tôi](https://subquery.medium.com/subquery-releases-technical-roadmap-2a3a383c49b), SubQuery hiện đang chuẩn bị cho sự kiện tạo mã thông báo (TGE) của chúng tôi vào tháng 3 năm 2022. Trọng tâm hiện tại của chúng tôi là chuyển đổi sang Mạng SubQuery phi tập trung và thành phần quan trọng là các nhà lập chỉ mục để tạo thành một lớp nền tảng cho cơ sở hạ tầng mạng trong tương lai.
 
 > _ “Người lập chỉ mục (Indexer) đóng một vai trò quan trọng trong Mạng SubQuery và chúng tôi đang tìm cách tìm các nhà khai thác nút tốt nhất và các thành viên cộng đồng kỹ thuật để tham gia vào mạng thử nghiệm sắp tới. Nếu bạn muốn hợp tác với chúng tôi trong việc xây dựng, cải thiện và mở rộng tương lai của dữ liệu phi tập trung, vui lòng đăng ký ngay bây giờ. Lời mời cộng tác với cộng đồng Người lập chỉ mục (Indexer) là một bước đi thú vị vì nó thể hiện một bước quan trọng đối với sự phi tập trung của chúng tôi”_ —Sam Zou, Người sáng lập và Giám đốc điều hành của SubQuery
 
