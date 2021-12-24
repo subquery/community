@@ -1,14 +1,14 @@
-# The SubQuery Network to Launch on Acala, Decentralising Polkadot’s Leading Data Indexing Service
+# Polkadotの主要なデータ・インデックス・サービスを分散化したSubQuery NetworkをAcala上でローンチ
 
 ![](https://miro.medium.com/max/2400/1*kj_-zZcjeYdYIZVy1atYOg.gif)
 
-SubQuery, the leading data indexing solution in Polkadot, is proud to announce that the launch of the SubQuery Network will be on the Acala parachain. SubQuery and the SQT token will also aim to be the first external application and token to launch with Acala.
+Polkadotでデータインデックスソリューションを提供しているSubQueryは、SubQueryネットワークのローンチをAcalaパラチェーンで行うことを発表しました。 SubQueryとSQTトークンは、Acalaでローンチする最初の外部アプリケーションとトークンを目指します。
 
-As the development of the SubQuery Network accelerates  ahead of our public incentivised network in early 2022 SubQuery needed to identify a host parachain. SubQuery considered a variety of options before electing to deepen its existing partnership with Acala by launching on its leading DeFi protocol built on Polkadot. The three main reasons that went into this decision to launch with Acala were community access, domain/technical excellence, and our existing robust relationship.
+2022年初頭に予定されているインセンティブ付きパブリックネットワークに向けて、SubQueryネットワークの開発を加速させるために、SubQueryはホストとなるパラチェーンを特定する必要がありました。 SubQueryは、様々な選択肢を検討した結果、Acalaとの既存のパートナーシップを深めるために、Polkadot上に構築された主要DeFiプロトコル上であるAcala上でサービスを開始することを選択しました。 Acalaとの提携を決定した主な理由は、コミュニティへのアクセス、ドメイン/技術的な卓越性、そして既存の強固な関係の3つです。
 
-A key factor for SubQuery’s decision was Acala’s upcoming EVM+ launch. SubQuery’s puts its community first, both developers building future SubQuery projects, and investors that want to be a part of the decentralised data revolution. By launching on an EVM compatible chain, SubQuery’s token generation event (TGE) will seamlessly allow participation by investors from the Ethereum ecosystem through the use of Metamask. With Acala’s EVM+ users can even link their Ethereum addresses with their Polkadot addresses, overcoming the need to manage multiple accounts.
+AcalaがEVM+をローンチすることを決定したことも、SubQueryにとっては重要なポイントでした。 SubQueryは、将来のSubQueryプロジェクトを構築する開発者と、非中央集権的なデータ革命に参加したいと考えている投資家の両方のコミュニティを第一に考えています。 SubQueryのトークン生成イベント(TGE) は、EVM互換のチェーンで開始することになるため、Metamaskを使用してイーサリアムのエコシステムからの投資家の参加をシームレスに可能にします。 AcalaのEVM+では、ユーザーはイーサリアムのアドレスとPolkadotのアドレスをリンクさせることもでき、複数のアカウントを管理する必要がなくなります。
 
-Acala is known across the world for their technical expertise in the Polkadot ecosystem, and SubQuery will work closely with the core Acala development team to help deploy the first version of the SubQuery Network as a smart contract in Acala’s EVM+. During our incentivised test network launch SubQuery will be pushing Acala’s EVM+ to the limit with performance and load testing to make sure that it will scale to billions of daily API requests.
+Acalaは、Polkadotのエコシステムにおける技術的な専門性で世界的に知られており、SubQueryはAcalaの中核となる開発チームと緊密に連携し、SubQueryネットワークの最初のバージョンをAcalaのEVM+にスマートコントラクトとして展開することを支援します。 During our incentivised test network launch SubQuery will be pushing Acala’s EVM+ to the limit with performance and load testing to make sure that it will scale to billions of daily API requests.
 
 Sam Zou, the Founder and CEO of SubQuery commented; _“We have ambitious growth plans, but our home will always be Polkadot. By partnering with Acala, the best DeFi platform on Polkadot, we have absolute confidence in their ability to help us not only in our token launch, but also in future areas such as micropayments for indexers across networks.”_
 
