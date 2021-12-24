@@ -10,7 +10,7 @@
 
 最重要的是，您现在可以引用一个链式定义文件，当您索引自定义的底层链时其中将包含所有自定义类型。 更快的速度意味着您可以将一个新的 SubQuery 项目连接到任何基于Substrate的链，包括所有的Kusama的平行链。 这是一个标准的链类型文件它需要声明这个区块链支持的特定类型比如`son`或`.yaml`格式。
 
-这个解决方案允许您避免复制和管理清单中的链式定义。[并允许您只复制在PolkadotJS](https://github.com/polkadot-js/apps/tree/master/packages/apps-config/src/api/spec)等仓库中列出的<0>已发布的链路类型文件。
+这个解决方案允许您避免复制和管理清单中的链式定义。[并允许您只复制在PolkadotJS](https://github.com/polkadot-js/apps/tree/master/packages/apps-config/src/api/spec)等仓库中列出的已发布的链路类型文件。
 
 [您可以阅读新的清单文件，包括如何将您的项目迁移到它，详细内容将更新在我们的文档中。](https://doc.subquery.network/create/manifest/)
 
