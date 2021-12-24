@@ -14,23 +14,15 @@ OneBlock+'ın Kurucusu Yaxun, _"SubQuery'nin Çin'deki resmi eğitim ortağı ol
 
 Mevcut “Kahraman Kursu” Çince'ye çevrildi ve WeChat aracılığıyla teslim edilecek. OneBlock+, Tencents Konferans platformunda haftalık “Ofis Saatleri” aracılığıyla öğrencilere ek öğrenme desteği sağlayacaktır.
 
-Kursun ilk oturumu 10 Ocak 2022'de planlanacak ve hazırlık aşamasında OneBlock+, normal Substrate Cumartesi programının bir parçası olarak Aralık 2021'de canlı bir Teknik Atölye gerçekleştirecek. Tarihler hakkında daha fazla bilgi
-
-SubQuery Uyuşmazlığı kanalında yayınlanacaktır. Bu arada, [SubQuery Akademisi aracılığıyla SubQuery ile ilgili uygulamaları nasıl oluşturacağınızı öğrenebilirsiniz](https://subquery.coassemble.com/unlock/dOKZW6O#/).</p> 
-
-
+Kursun ilk oturumu 10 Ocak 2022'de planlanacak ve hazırlık aşamasında OneBlock+, normal Substrate Cumartesi programının bir parçası olarak Aralık 2021'de canlı bir Teknik Atölye gerçekleştirecek. Tarihler hakkında daha fazla bilgi [SubQuery Uyuşmazlığı kanalında yayınlanacaktır](https://discord.com/invite/78zg8aBSMG). Bu arada, [SubQuery Akademisi aracılığıyla SubQuery ile ilgili uygulamaları nasıl oluşturacağınızı öğrenebilirsiniz](https://subquery.coassemble.com/unlock/dOKZW6O#/).
 
 ---
-
-
 
 ## OneBlock hakkında +
 
 OneBlock+, Çin'deki ilk ve en büyük blockchain geliştirici topluluğudur. OneBlock+'ta geliştiricilere alt yapı çalışmaları konusunda tam destek sağlıyor ve kariyer yollarını daha da ileriye taşıyoruz; Ekosistemin refahı için inşa etmek ve yenilik yapmak üzere birinci sınıf geliştiricileri çekmek için her sezon Polkadot Hackathons'a ev sahipliği yapıyoruz. Daha büyük bir Çin teknoloji kaynağı entegratörü olarak OneBlock+, teknoloji kursları, haber dağıtımları, AMA ve sektör için çevrimdışı etkinlikler gibi iş sağlamak için blok zinciri endüstrisinde ticari içgörülere ve deneyimlere sahip geliştiriciler, topluluklar, iş seçkinleri ve önemli medya ile de ortaktır. Kripto dünyasını birlikte şekillendirmek ister misiniz? Gelin ve bugün bize katılın!
 
 |  [Twitter](https://mobile.twitter.com/oneblock_)  |  [Medium](https://medium.com/@OneBlockplus?p=5a6193755f9b) |  [Discord](https://discord.gg/5aWx6Rch)  |  [Telegram](https://t.me/oneblock_dev)
-
-
 
 ## SubQuery Hakkında
 
