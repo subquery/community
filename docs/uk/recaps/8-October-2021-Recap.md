@@ -6,31 +6,31 @@
 
 Ласкаво просимо до нашого щомісячного огляду останніх подій від проекту Subquery. Для багатьох із вас це буде перший огляд, тому що наше ком'юніті постійно зростає та розвивається.
 
-From here on out we will try to structure every update around three key areas; community, core product development, and the SubQuery Network.
+З цього моменту ми спробуємо структурувати кожне оновлення навколо трьох ключових областей; спільнота, основна розробка продукту та SubQuery Network.
 
-# SubQuery Network
+# SubQuery Network.
 
-## Technical Roadmap Announced
+## Технічна дорожня карта оголошена
 
-At our community call last week we shared more  about our plans for the future. We are excited about how the next evolution of SubQuery will drive even more value to the Polkadot ecosystem and provide more opportunities for our community to participate in our growth.
+На нашому громадському дзвінку минулого тижня ми поділилися більше про наші плани на майбутнє. Ми раді, як наступна еволюція SubQuery принесе ще більшу цінність екосистемі Polkadot та надасть більше можливостей для нашої громади брати участь у нашому зростанні.
 
-We’ve gone extremely deep here for transparency with the community and to rationalise the work we have ahead. It’s an ambitious timeline that we are internally using as a target, you can see how many moving pieces there are from the image below! That being said, estimating timelines for R&D software development is notoriously difficult, so nothing below is final — it’s just our best effort at estimations.
+Ми заглибилися тут для прозорості з громадою та раціоналізації роботи, яку ми маємо попереду. Це амбітна хронологія, яку ми внутрішньо використовуємо в якості цілі, ви можете побачити, скільки рухомих фігур є із зображення нижче! Незважаючи на це, оцінити терміни розробки програмного забезпечення R & amp; D, як відомо, важко, тому нічого нижче не є остаточним - це лише наші найкращі зусилля щодо оцінки.
 
-[Read more about our technical roadmap here](https://subquery.medium.com/subquery-releases-technical-roadmap-2a3a383c49b)
+[Дізнатися більше про нашу технічну дорожню карту](https://subquery.medium.com/subquery-releases-technical-roadmap-2a3a383c49b)
 
-## Significant Development on the SubQuery Network
+## Значний розвиток мережі SubQuery
 
-Building a new decentralised and tokenised network is a huge amount of work and it is unfortunately work that isn’t clearly visible externally for some time. That being said, we’ve had a top team of dedicated developers working on this for some time, slowly but surely working through the list of smart contract implementations to bring us closer to launching the first internal testnet by the end of the year.
+Побудова нової децентралізованої та токенізованої мережі - це величезна кількість роботи, і це, на жаль, робота, яка не видно зовні протягом певного часу. Незважаючи на це, у нас була команда спеціалізованих розробників, які працювали над цим протягом певного часу, повільно, але впевнено працюючи над списком розумних реалізацій контрактів, щоб наблизити нас до запуску першого внутрішнього тестового мережі до кінця року.
 
-# Core Product Development
+# Основна розробка продукту
 
-## Moonriver EVM Support
+## Підтримка Moonbeam EVM
 
-This is a significant milestone for us and a huge partnership with Moonbeam. Currently, there is no open-source tool which allows developers to flexibly collect and query data across both Ethereum and Polkadot/Kusama. This limitation can cause dApps solutions within Moonriver to be siloed into the smart contract layer and thereby limit their potential to consumers across both thriving networks.
+Це важлива віха для нас і величезне партнерство з Moonbeam. Наразі не існує інструменту з відкритим кодом, який дозволяє розробникам гнучко збирати та запитувати дані як в Ethereum, так і в Polkadot / Kusama. Це обмеження може призвести до того, що рішення dApps в Moonriver будуть заглушені в розумний контрактний рівень і тим самим обмежувати їх потенціал для споживачів в обох процвітаючих мережах.
 
-This partnership with Moonbeam brings a complete and unified data indexing solution for all blockchain data within Moonriver and will greatly benefit Moonriver’s growing application ecosystem. With SubQuery’s innovation, one tool can now query and filter EVM logs and transactions in addition to Substrate data sources.
+Це партнерство з Moonbeam пропонує повне і уніфіковане рішення для індексації даних для всіх даних blockchain в Moonriver і значною мірою принесе користь зростаючій екосистемі додатків Moonriver. Завдяки інноваційності SubQuery, один інструмент тепер може запитувати та фільтрувати журнали та транзакції EVM на додаток до джерел даних Substrate.
 
-[Read more about our Moonriver EVM support here](https://subquery.medium.com/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff)
+[Дізнайтеся більше про нашу підтримку Moonriver EVM](https://subquery.medium.com/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff)
 
 # Новини Спільноти
 
