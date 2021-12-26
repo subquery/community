@@ -1,4 +1,4 @@
-# SubQuery 프로그램 소개
+# SubQuery 앰버서더 프로그램 소개
 
 ![](https://miro.medium.com/max/1400/1*EC5wwTuoB6UK_EESGd8X8w.png)
 
@@ -6,7 +6,7 @@
 
 [SubQuery](https://subquery.network/)는 Polkadot의 선도적인 데이터 공급자를 목표로 합니다. 우리의 임무는 성장하는 생태계에서 가장 큰 dApp을 지원하는 것이며, 이미 [Acala](https://acala.network/) 및 [Bifrost](https://bifrost.finance/)와 같은 DeFi 앱, [Fearless Wallet](https://fearlesswallet.io/)과 같은 지갑, [KodaDot](https://kodadot.xyz/)과 같은 NFT 플랫폼, [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia)와 같은 교차 체인 브리지 및 [SubVis](https://subvis.io/)와 같은 분석 플랫폼과 협력하고 있습니다.
 
-우리의 생태계는 성장하고 있으며 SubQuery Network의 발표와 함께 우리는 전 세계에서 우리의 사명에 동참할 사람들을 찾고 있습니다. SubQuery 팀은 새로운 Ambassador 프로그램에 대한 지원을 개시하게 되어 기쁩니다!
+우리의 생태계는 성장하고 있으며 SubQuery Network의 발표와 함께 우리는 전 세계에서 우리의 사명에 동참할 사람들을 찾고 있습니다. SubQuery 팀은 새로운 Ambassador 프로그램에 대한 소식을 전하게되어 기쁩니다!
 
 우리는 우리의 가장 큰 강점 중 하나가 우리 지역사회라는 것을 이해하고 있으며, 여러분의 도움으로 전 세계 지역사회를 위한 지역 대사를 성장시키고 설립하고자 합니다.
 
