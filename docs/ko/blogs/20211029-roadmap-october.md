@@ -136,7 +136,7 @@ SubQuery Enterprise 서비스 계층에 이어 많은 양의 상태 모니터링
 
 분산된 SubQuery 네트워크를 만들기 위한 움직임에서 우리는 생태계의 미래 거버넌스와 성장을 관리하기 위해 SubQuery Foundation을 설립할 것입니다. SubQuery 네트워크의 소유권은 처음에 SubQuery 기반 아래에 있습니다.
 
-### 다른 Layer-1 체인에 대한 연구 마무리
+### Finalise research for other Layer-1 chains
 
 우리의 집은 항상 Polkadot이지만 인덱싱 기능으로 다양한 다른 Layer-1 블록체인을 지원하는 방법을 모색하고 있습니다.
 
