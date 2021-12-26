@@ -56,7 +56,7 @@ Substrate 기반 SubQuery 프로젝트가 어떻게 만들어지는지 잘 알�
 
 [GitHub에서 예제 프로젝트 복제](https://github.com/subquery/tutorials-moonriver-evm-starter)
 
-보시다시피 단일 프로젝트에서 Substrate와 EVM 데이터를 모두 인덱싱하는 Moonriver 또는 Moonbase Alpha 프로젝트를 만드는 것은 매우 간단하고 거의 비슷합니다. SubQuery의 고급 스캐폴딩 도구를 사용하여 dApp 개발 속도를 높이고 보다 직관적인 dApp을 구축하기 위해 데이터에 대한 이점 또는 풍부한 인덱싱을 활용할 수 있습니다. 당신이 무엇을 만들지 정말 기대됩니다!
+보시다시피 단일 프로젝트에서 Substrate와 EVM 데이터를 모두 인덱싱하는 Moonriver 또는 Moonbase Alpha 프로젝트를 만드는 것은 매우 간단하고 거의 비슷합니다. SubQuery의 고급 스캐폴딩 도구를 사용하여 dApp 개발 속도를 높이고 보다 직관적인 dApp을 구축하기 위해 데이터에 대한 이점 또는 풍부한 인덱싱을 활용할 수 있습니다. Wir können es kaum erwarten zu sehen, was Sie bauen!
 
 ## SubQuery 소개
 
