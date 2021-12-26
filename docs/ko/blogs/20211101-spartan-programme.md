@@ -1,6 +1,6 @@
 # SubQuery의 새로운 스파르탄 프로그램
 
-![](https://miro.medium.com/max/1400/1*k5cScGKMiC45i_N-em3x0Q.png)
+![](https://miro.medi.com/max/1400/1*k5cScGKMiC45i_N-em3x0Q.png)
 
 8월에 SubQuery는 Polkadot 및 SubQuery에 대한 열정적인 커뮤니티 리더를 찾기 위해 [Ambassador 프로그램](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804)을 시작했습니다. 우리의 목표는 지역에서 SubQuery에 대한 소문을 퍼뜨리고 Polkadot에서 놀라운 앱과 서비스를 구축하는 새로운 개발자를 지원할 수 있는 자가 시작자를 찾는 것이었습니다.
 
