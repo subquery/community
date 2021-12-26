@@ -1,27 +1,27 @@
-# SubQuery Extends Invitation To Indexing Community
+# SubQueryがインデックスコミュニティへの招待を拡大
 
 ![](https://miro.medium.com/max/1400/1*qa014uV1jHA2WTVhUadrdA.png)
 
-SubQuery, the leading data indexing solution in Polkadot, would like to extend an invitation to all potential indexers to register their interest in participating in our move towards decentralisation in 2022 via our incentivised testnet.
+Polkadotのデータ・インデックス・ソリューションを提供するSubQueryは、2022年の分散化に向けた動きに参加したいと考えているインデクサーの皆様に、インセンティブ付きのテストネットをご案内します。
 
-[You can register your interest here](https://forms.gle/RyXyhb8T9Gxkwi7R9)
+[ご興味のある方はこちらからご登録ください。](https://forms.gle/RyXyhb8T9Gxkwi7R9)
 
-As indicated in the  [recent publication of our Technical Roadmap](https://subquery.medium.com/subquery-releases-technical-roadmap-2a3a383c49b), SubQuery is currently preparing for our token generation event (TGE) in March 2022. Our current focus is the migration towards a decentralized SubQuery Network, and a key component of that is the need for indexing providers to form a foundational layer of our future network infrastructure.
+[先日公開した技術ロードマップ](https://subquery.medium.com/subquery-releases-technical-roadmap-2a3a383c49b)にあるように、SubQueryは2022年3月のトークン生成イベント(TGE) に向けて準備を進めています。 現在、私たちは分散型のSubQuery Networkへの移行を目指していますが、その重要な要素として、将来のネットワークインフラの基盤となるインデックスプロバイダーが必要とされています。
 
-> _“Indexers play a critical part in the SubQuery Network and we are looking to find the best node operators and technical community members to take part in our upcoming testnet. If you wanting to partner with us in building, improving, and scaling the future of decentralised data, please apply now. Our invitation to collaborate with the Indexer community is an exciting step for us as it is represents another major step towards our decentralisation”_ —Sam Zou, the Founder and CEO of SubQuery
+> _「インデクサーはSubQuery Networkにおいて重要な役割を担っており、今後のテストネットに参加してくれる優秀なノードオペレーターやテクニカルコミュニティのメンバーを探しています。 分散型データの未来を構築、改善、拡大するために、私たちとパートナーになりたい方は、今すぐご応募ください。 インデクサー・コミュニティとのコラボレーションの招待は、私たちの分散化に向けた新たな大きな一歩であり、エキサイティングなステップです」_ -SubQueryの創業者兼CEO、Sam Zou
 
-We’re looking for node operators with a deep understanding of the SubQuery Network, including the revenue streams and how staking and delegation works. You’ll need to be an expert in running high performance and scalable production applications with monitoring and wallet/infrastructure security. Finally, you’ll need a great attitude and a shared belief in growing the future of web3.
+私たちは、収益の流れやステーキング、デリゲーションの仕組みなど、SubQuery Networkを深く理解しているノードオペレーターを求めています。 ハイパフォーマンスでスケーラブルなアプリケーションを、モニタリングやウォレット／インフラのセキュリティを駆使して運用するエキスパートとして活躍していただきます。 最後に、素晴らしい姿勢と、web3の未来を育てるという共通の信念が必要です。
 
-Indexers who are interested in participating  [can register their interest with SubQuery here](https://forms.gle/RyXyhb8T9Gxkwi7R9). After reviewing all of the applications, we expect to approve an initial pool of Indexers by the end of January 2022 with the testnet launching at the end of Q1 2022. Indexers will be retrospectively rewarded and invited to participate in the subsequent mainnet anticipated at the end of Q2 2022.
+参加に興味のあるインデクサーは[こちらからSubQueryへの興味を登録することができます](https://forms.gle/RyXyhb8T9Gxkwi7R9)。 すべての申請書を審査した後、2022年1月末までに最初のインデクサーのプールを承認し、2022年第1四半期末にテストネットを開始することを予定しています。 インデクサーには、過去にさかのぼって報酬が与えられ、2022年第2四半期末に予定されている次のメインネットへの参加が招待されます。
 
 ---
 
-## The SubQuery Network
+## SubQuery Network
 
-The key constituents of the future SubQuery Network are  [outlined in our Whitepaper](https://static.subquery.network/whitepaper.pdf)  and consist of Consumers, Delegators and Indexers. Of these, the Indexers are integral to the backbone of the project as they will host SubQuery Projects in their own infrastructure, running both the node and query service to index data and answer GraphQL requests. Consumers are those entities who make requests to the SubQuery Network for specific data (thereby ‘consuming data’) and pay an advertised amount of the SQT token. The final actor in the ecosystem are Delegators who participate by supporting their favourite Indexers to earn rewards.
+将来のSubQuery Networkの主要な構成要素は、[ホワイトペーパーに概説されており](https://static.subquery.network/whitepaper.pdf)、コンシューマー、デリゲーター、インデクサーで構成されています。 その中でもインデクサーは、SubQueryプロジェクトを独自のインフラでホストし、ノードとクエリサービスの両方を実行してデータのインデックスを作成したり、GraphQLリクエストに答えたりと、プロジェクトのバックボーンとして欠かせない存在です。 コンシューマーは、SubQuery Network に特定のデータを要求し(それによって「データを消費」する) 、SQT トークンの宣伝料を支払う存在のことです。 エコシステムの最後の担い手は、お気に入りのインデクサーを支援して報酬を得ることで参加するデリゲーターです。
 
-## About SubQuery
+## SubQuery について
 
-[SubQuery](https://subquery.network/)  is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. This service unlocks blockchain data and transforms it to a queryable state so that it can be used in intuitive applications. It allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The upcoming SubQuery Network will decentralize and tokenize the ecosystem to allow everyone to participate in the web3 data revolution.
+[SubQuery](https://subquery.network/)は、Layer-1ブロックチェーンと分散型アプリケーションの間にある、分散型のデータ集約、インデックス作成、およびクエリを行うためのレイヤーです。 このサービスでは、ブロックチェーンのデータをアンロックし、クエリ可能な状態に変換することで、直感的なアプリケーションでの利用を可能にします。 このサービスにより、DAppの開発者はコアユースケースとフロントエンドに集中できます。 データ処理のためのカスタムバックエンドを構築するのに時間を無駄にする必要はありません。 来るべきSubQuery Networkは、エコシステムの分散化とトークン化を行い、誰もがweb3データ革命に参加できるようにします。
 
 ​​[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
