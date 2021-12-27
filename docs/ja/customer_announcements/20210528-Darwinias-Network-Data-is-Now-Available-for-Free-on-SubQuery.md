@@ -1,8 +1,8 @@
-# Darwinia's Network Data is Now Available for Free on SubQuery
+# DarwiniaのネットワークデータがSubQueryで無料公開されました。
 
 ![](https://miro.medium.com/max/1400/0*7_sagAfI_wTKePuH)
 
-**中文阅读版本请见下方**
+**中国語読み上げ版については、以下をご覧ください。**
 
 **We are pleased to announce that SubQuery and Darwinia Network have formed a strategic partnership.**
 
