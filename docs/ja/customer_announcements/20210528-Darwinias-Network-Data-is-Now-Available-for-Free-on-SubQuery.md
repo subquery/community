@@ -4,36 +4,36 @@
 
 **中国語読み上げ版については、以下をご覧ください。**
 
-**We are pleased to announce that SubQuery and Darwinia Network have formed a strategic partnership.**
+**このたび、SubQueryとDarwinia Networkが戦略的パートナーシップを締結しましたのでお知らせします。**
 
-[Darwinia](https://darwinia.network/) recently released two new SubQuery projects, one for their [main network](https://explorer.subquery.network/subquery/darwinia-network/darwinia) and the other for [Crab](https://explorer.subquery.network/subquery/darwinia-network/crab), their canary network. By exposing their data on SubQuery, Darwinia is opening the door for their application ecosystem to build more engaging applications on this free datasource.
+[Darwinia](https://darwinia.network/)は最近、2つの新しいSubQueryプロジェクトをリリースしました。1つは彼らの[main network](https://explorer.subquery.network/subquery/darwinia-network/darwinia)のため、もう1つは彼らのcanary networkである[Crab](https://explorer.subquery.network/subquery/darwinia-network/crab)のためです。 SubQueryでデータを公開することで、Darwiniaはアプリケーションエコシステムに、この無料のデータソースを使ってより魅力的なアプリケーションを構築するための扉を開いています。
 
-> “Using SubQuery to query Darwinia’s on-chain data has become very simple and flexible. SubQuery regards blockchain data as a graph, and leverages the extensibility of GraphQL to introduce additional functionality. We believe that in the future, the data interface on the substrate chain will mainly use GraphQL, SubQuery is making this a reality”. — Darwinia
+> 「SubQueryを使ってDarwiniaのオンチェーンデータを照会することは、非常にシンプルで柔軟なものになりました。 SubQueryは、ブロックチェーンのデータをグラフとみなし、GraphQLの拡張性を利用して追加機能を導入しています。 将来的には、substrateチェーンのデータインターフェースには、主にGraphQLが使われるようになると考えていますが、SubQueryはそれを現実のものにしてくれます」 — Darwinia
 
-[SubQuery’s](https://subquery.network/) service helps Darwinia unlock chain data and to make it more accessible for their application ecosystem. Applications, for example a NFT marketplace, could use the data from Darwnia’s SubQuery to show auction statistics, and could even extend the Darwinia SubQuery project to aggregate and transform data to provide even more unique data insights.
+[SubQuery](https://subquery.network/)のサービスは、Darwiniaがチェーンデータのロックを解除し、アプリケーションエコシステムでのアクセスを可能にするのに役立ちます。 例えばNFTのマーケットプレイスなどのアプリケーションでは、DarwiniaのSubQueryデータを使ってオークションの統計情報を表示したり、DarwiniaのSubQueryプロジェクトを拡張してデータを集約・変換し、さらにユニークなデータインサイトを提供することも可能です。
 
 ![](https://miro.medium.com/max/1400/0*n2sGrQWOkIFXxMnq)
 
-Thanks to SubQuery, we can easily query the transfer times of each account on the chain. For example, we can get the three account with the most sent and receive transactions through the query below:
+SubQueryのおかげで、チェーン上の各アカウントの転送時間を簡単に照会することができます。 例えば、以下のようなクエリで、送受信回数の多い3つのアカウントを取得することができます。
 
 ![](https://miro.medium.com/max/1400/0*gfS6ksjUL9fR9XA7)
 
-Darwinia is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services for this service is completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/). You can play around with the Darwinia SubQuery dataset here (and Darwinia’s Crab here) using the Explorer without implementing any code. As you wish, obtaining the records of a specific account would become very simple.
+Darwiniaは[SubQuery Projects](https://project.subquery.network/)を使って自分のプロジェクトを管理し、必要に応じてアップデートを行っています。 このサービスのインデックス作成とクエリ・サービスは、SubQueryが完全に管理し、[SubQuery's Explorer](https://explorer.subquery.network/)でPolkadotコミュニティに無料で提供しています。 コードを実装することなく、エクスプローラーを使って、「Darwinia SubQuery」のデータセット(「Darwinia's Crab」はこちら) を使ってプレイすることができます。 希望に応じて、特定のアカウントの記録を取得することは非常に簡単です。
 
-The query indicates that we need to get the latest 20 records whether is sending or receiving with the address _2qeMxq616BhqvTW8a1bp2g7VKPAmpda1vXuAAz5TxV5ehivG_.
+このクエリは、_2qeMxq616BhqvTW8a1bp2g7VKPAmpda1vXuAAz5TxV5ehivG_というアドレスで送信しているか受信しているかに関わらず、最新の20レコードを取得する必要があることを示しています。
 
 ![](https://miro.medium.com/max/1400/0*z-9giNk4RnhxliYy)
 
-[SubQuery](https://subquery.network/) is a data aggregation layer that will operate between the layer-1 blockchains (Darwinia) and DApps. The solution aggregates and organises data from [Darwinia](https://darwinia.network/) and other blockchains, serving up well-structured data for their dApp and for other developers to use in a wide array of projects. This service allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+[SubQuery](https://subquery.network/)は、レイヤー1のブロックチェーン(Darwinia) とDAppsの間で動作するデータ集約レイヤーです。 このソリューションは、[Darwinia](https://darwinia.network/)や他のブロックチェーンからのデータを集約して整理し、構造化されたデータを自社のdAppや他の開発者が幅広いプロジェクトで使用できるように提供します。 このサービスにより、DAppの開発者はコアユースケースとフロントエンドに集中できます。 データ処理のためのカスタムバックエンドを構築するのに時間を無駄にする必要はありません。
 
-Learn more about SubQuery
+SubQueryについてもっと詳しく学ぶ
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
 
-The Darwinia Network is a decentralized heterogeneous cross-chain bridge protocol built on Substrate, focusing on decentralized cross-chain token swap, exchange and market.
+Darwinia Networkは、Substrateをベースに構築された分散型クロスチェーンブリッジプロトコルで、分散型クロスチェーンのトークンスワップ、交換、市場に焦点を当てています。
 
-Darwinia also serves as critical infrastructure for single-chain application upgrade to cross-chain version, including Defi, Game, DEX, NFT market, etc. Their vision is to build the future Internet of Tokens.
+また、Darwiniaは、Defi、Game、DEX、NFT市場など、シングルチェーンのアプリケーションをクロスチェーンにアップグレードする際の重要なインフラとなっています。 彼らのビジョンは、未来のInternet of Tokensを構築することです。
 
-All you need to know about Darwinia
+Darwiniaのすべてを知るには
 
 [Website](https://darwinia.network/) | [Twitter](https://twitter.com/DarwiniaNetwork) | [Telegram](https://t.me/DarwiniaNetwork) | [GitHub](https://github.com/darwinia-network) | [Discord](https://discord.gg/KMZVeyM)
