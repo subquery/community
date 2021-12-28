@@ -50,39 +50,39 @@
 
 ## Gitcoin Hackathon
 
-Hot on the heels of the overwhelming success of the SubQuery Academy’s  _Hero Course_, we were proud to announce that we would be providing our first hackathon opportunity for all developers via  [Gitcoin Grants Round 12](https://gitcoin.co/hackathon/gr12/?org=subquery)  starting on December 1st.
+Гаряче на підборах надзвичайного успіху Академії SubQuery _ Hero Course _, ми з гордістю оголосили, що надамо нашу першу можливість хакатону для всіх розробників через [ Gitcoin Grants Round 12 ](https://gitcoin.co/hackathon/gr12/?org=subquery) починаючи з 1 грудня.
 
-SubQuery has proposed 5 bounties with a total prize pool of up to $34,000:
+SubQuery запропонував 5 щедростей із загальним призовим фондом до 34 000 доларів :
 
--   [Create a unified block explorer that combines Substrate and EVM insights from Moonbeam and Astar into one easy to use application](https://gitcoin.co/issue/subquery/grants/1)  — US$12,000 [Sponsored by Moonbeam and Astar]
--   [Work with SubQuery and the DeFi hub at Karura/Acala to build a dashboard that’s inspired by Zapper.fi or defisaver.com](https://gitcoin.co/issue/subquery/grants/2)  — US$8,000 [Sponsored by Acala]
--   [Create a staking dashboard that shows the best staking opportunities across Polkadot and its various parachains](https://gitcoin.co/issue/subquery/grants/3)  — US$3,000
--   [Build a marketplace explorer for all RMRK protocol based NFTs](https://gitcoin.co/issue/subquery/grants/4)  — US$2,000
--   [Extend the @subql/node service to index data from another layer 1 chain](https://gitcoin.co/issue/subquery/grants/5)  — US$12,000
+-   [ Створіть єдиний дослідник блоку, який поєднує в собі уявлення про Substrate та EVM від Moonbeam та Astar в одну просту у використанні програму ](https://gitcoin.co/issue/subquery/grants/1) - 12 000 доларів США [Спонсор Moonbeam та Astar]
+-   [ Працюйте з SubQuery та концентратором DeFi у Karura / Acala, щоб створити інформаційну панель, натхненну Zapper.fi або defisaver.com ](https://gitcoin.co/issue/subquery/grants/2) - 8000 доларів США [Спонсором Акала]
+-   [ Створіть інформаційну панель, яка показує найкращі можливості для розміщення в Полкадоті та різних його парашанах ](https://gitcoin.co/issue/subquery/grants/3) - 3000 доларів США
+-   [ Створіть дослідника ринку для всіх NFT на основі протоколу RMRK ](https://gitcoin.co/issue/subquery/grants/4) - 2000 доларів США
+-   [ Розширити послугу @subql / node для індексації даних з іншого рівня 1 ланцюга ](https://gitcoin.co/issue/subquery/grants/5) - 12 000 доларів США
 
-[You can read more about these bounties here.](https://blog.subquery.network/blogs/20211120-gitcoin12-hackathon.html)
+[Ви можете прочитати більше про ці щедроти тут.](https://blog.subquery.network/blogs/20211120-gitcoin12-hackathon.html)
 
-## Analysis into the Polkadot Crowdloans
+## Аналіз на Polkadot Crowdloans
 
-SubQuery is Polkadot’s leading data indexing service, and over the past week, we’ve been powering millions of daily requests to the majority of the crowdloan dashboards, contribution apps, and analytics websites. Teams like  [**SubVis**](https://www.subvis.io/),  [**Parallel Finance**](https://parallel.fi/), and  [**DotMarketCap**](https://dotmarketcap.com/)  rely on SubQuery to provide real-time data on the crowdloans and other on-chain data directly to their websites and apps.
+SubQuery - це провідна служба індексації даних Polkadot, і за останній тиждень ми надсилаємо мільйони щоденних запитів на більшість інформаційних панелей, програм для внесків та веб-сайтів аналітики. Такі команди, як [** SubVis **](https://www.subvis.io/),  [**Parallel Finance**](https://parallel.fi/) та [** DotMarketCap **](https://dotmarketcap.com/) покладаються на SubQuery для надання даних у режимі реального часу про круглі локалі та інші дані в ланцюзі безпосередньо на їх веб-сайти та програми.
 
 ![](https://miro.medium.com/max/60/0*HfsoOwpat76ip6Jg?q=20)
 
 ![](https://miro.medium.com/max/700/0*HfsoOwpat76ip6Jg)
 
-We recently took a deep dive into the Polkadot crowdloans (specifically the title fight between Acala and Moonbeam).  [You should read it here if you haven’t already](https://blog.subquery.network/blogs/20211124-polkadot-crowdloans.html).
+Нещодавно ми здійснили глибоке занурення у Polkadot crowdloans (конкретно, за титульний бій між Acala та Moonbeam).  [ Ви повинні прочитати його тут, якщо ви ще не ](https://blog.subquery.network/blogs/20211124-polkadot-crowdloans.html).
 
-# Other things you might have missed
+# Інші події, які ви могли пропустити
 
--   We’re working closely with the new team at  [Web3Go](https://www.web3go.xyz/)  to  [provide data anaysis tools to the SubQuery ecosystem.](https://blog.subquery.network/customer_announcements/20211110-web3go.html)
--   [Listen to Sam and James on Brave New Coin’s podcast](https://bravenewcoin.com/insights/podcasts/subquery-connecting-the-dots-on-polkadot).
--   James talked to Acala’s Brett Kolodny to talk about how  [Acala use SubQuery in their stack](https://www.youtube.com/watch?v=Wbxwj8K67Lw).
--   Siqi, our China representative,  [talked to Acala Network and Polkaworld about the latest in web3](https://www.huoxing24.com/live/24313016).
--   We released modules  [1](https://doc.subquery.network/academy/herocourse/module1/)  to  [4](https://doc.subquery.network/academy/herocourse/module4/)  of our  [SubQuery Hero Course](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html)
--   James also talked to Jacky to explore Litentry’s plans  [for a future DID protocol](https://www.youtube.com/watch?v=Rqlpo9QIVyk).
+-   Ми тісно співпрацюємо з новою командою за адресою [ Web3Go ](https://www.web3go.xyz/) до [, щоб надати інструменти анайзи даних для екосистеми SubQuery.](https://blog.subquery.network/customer_announcements/20211110-web3go.html)
+-   [ Слухайте Сема та Джеймса на подкасті Brave New Coin’s](https://bravenewcoin.com/insights/podcasts/subquery-connecting-the-dots-on-polkadot).
+-   Джеймс розмовляв з Бреттом Колодним Acala, щоб поговорити про те, як [ Акала використовує SubQuery у своєму стеку ](https://www.youtube.com/watch?v=Wbxwj8K67Lw).
+-   Siqi, наш представник Китаю, [ поговорив з мережею Acala та Polkaworld про останні в web3 ](https://www.huoxing24.com/live/24313016).
+-   Ми випустили модулі [ 1 ](https://doc.subquery.network/academy/herocourse/module1/) до [ 4 ](https://doc.subquery.network/academy/herocourse/module4/) нашого [ курсу героя SubQuery ](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html)
+-   Джеймс також розмовляв з Джекі, щоб вивчити плани Літентрі [ щодо майбутнього протоколу DID ](https://www.youtube.com/watch?v=Rqlpo9QIVyk).
 
-As always, please  [join our social channels](https://linktr.ee/subquerynetwork)  (especially our  [Discord](https://discord.com/invite/subquery)) to stay updated on our latest news and announcements.
+Як завжди, будь ласка, [ приєднуйтесь до наших соціальних каналів ](https://linktr.ee/subquerynetwork) (особливо наш [ Discord ](https://discord.com/invite/subquery)), щоб бути в курсі останніх новин та оголошень.
 
-James, Sam, and the SubQuery Team
+Джеймс, Сем і команда SubQuery
 
 [Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
