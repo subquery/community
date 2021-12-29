@@ -1,12 +1,12 @@
-# SubQuery Releases Tokenomics
+# SubQuery veröffentlicht Tokenomics
 
 ![](https://miro.medium.com/max/1400/1*e42FM0TsNgOM3VacoctOzQ.png)
 
-Tokenomics is an important aspect of any blockchain project and is critical to the success of any utility token. At SubQuery, we’re creating a decentralised and incentivised network that will provide the data for the web3 future ([read our whitepaper](https://static.subquery.network/whitepaper.pdf)). Today we are excited to unveil how the SQT will work and how it will be allocated to boost participation by our thriving community.
+Tokenomics ist ein wichtiger Aspekt jedes Blockchain-Projekts und entscheidend für den Erfolg jedes Utility-Tokens. Bei SubQuery schaffen wir ein dezentralisiertes Netzwerk mit Anreizen, das die Daten für die Web3-Zukunft bereitstellt ([Lesen Sie unser Whitepaper](https://static.subquery.network/whitepaper.pdf)).  Heute freuen wir uns, Ihnen mitteilen zu können, wie das SQT funktionieren wird und wie es zugewiesen wird, um die Teilnahme unserer florierenden Community zu fördern.
 
-[We recently announced that we would be launching the SubQuery Network via Acala](https://subquery.medium.com/the-subquery-network-to-launch-on-acala-decentralising-polkadots-leading-data-indexing-service-8203d686128e). For those who may be new to the Polkadot ecosystem, SubQuery needs to partner with an existing parachain team to deploy its smart contracts (and therefore the SubQuery token SQT) in order to go live. In other words, our token is nested within the Acala blockchain on Polkadot and will seamlessly allow participation by investors from the Ethereum ecosystem due to Acala’s EVM+ (Ethereum Virtual Machine) solution.
+[Wir haben vor kurzem angekündigt, das SubQuery-Netzwerk über Acala zu starten](https://subquery.medium.com/the-subquery-network-to-launch-on-acala-decentralising-polkadots-leading-data-indexing-service-8203d686128e). Für diejenigen, die neu im Polkadot-Ökosystem sind, muss SubQuery mit einem bestehenden Parachain-Team zusammenarbeiten, um seine Smart Contracts (und damit das SubQuery-Token SQT) bereitzustellen, um live zu gehen. Mit anderen Worten, unser Token ist in der Acala-Blockchain auf Polkadot verschachtelt und ermöglicht dank der EVM+-Lösung (Ethereum Virtual Machine) von Acala nahtlos die Teilnahme von Investoren aus dem Ethereum-Ökosystem.
 
-In preparation for the upcoming launch with Acala of SubQuery’s SQT token, it is important to understand a few key aspects such as the token utility, allocation and vesting schedules.
+In Vorbereitung auf die bevorstehende Einführung von Acala des SQT-Tokens von SubQuery ist es wichtig, einige Schlüsselaspekte wie den Token-Nutzwert, Zuteilungs- und Vesting-Zeitpläne zu verstehen.
 
 ## Token Utility
 
