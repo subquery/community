@@ -1,52 +1,52 @@
-# SubQuery Releases Technical Roadmap
+# SubQuery випускає технічну дорожню карту
 
 ![](https://cdn-images-1.medium.com/max/800/1*Qcu5mFIs8eJhAXaMpWOlMQ.png)
 
-**SubQuery announces key milestones including TGE timeline**
+**SubQuery оголошує ключові основні етапи, включаючи часову шкалу TGE**
 
-Today we are pleased to release our detailed technical roadmap for the first time. SubQuery’s goal is to be the leading data provider in the Polkadot ecosystem and the support we have had from the community to help us realise this vision has been amazing. From our formal establishment at the end of 2020 via a [Web3 Grant](https://web3.foundation/), to releasing our first open source version in January 2021, and [closing our Series A in September](https://subquery.medium.com/series-a-1abed6c1c2af) we would like to thank you for all of your support in getting us to this stage!
+Сьогодні ми раді вперше випустити нашу детальну технічну дорожню карту. Мета SubQuery - бути провідним постачальником даних в екосистемі Polkadot, і підтримка, яку ми мали від громади, щоб допомогти нам усвідомити це бачення, була дивовижною. Від нашого офіційного закладу наприкінці 2020 року через [ Web3 Grant ](https://web3.foundation/), до випуску нашої першої версії з відкритим кодом у січні 2021 року та [ закриття нашої серії A у вересні ](https://subquery.medium.com/series-a-1abed6c1c2af), ми хотіли б подякувати вам за всю вашу підтримку в тому, щоб перейти до нас на цьому етапі!.
 
-As we continue to gain momentum, the time has come to share more about our plans for the future including our technical roadmap. We are excited about how the next evolution of SubQuery will drive even more value to the Polkadot ecosystem and provide more opportunities for our community to participate in our growth.
+Поки ми продовжуємо набирати обертів, настав час поділитися більше про наші плани на майбутнє, включаючи нашу технічну дорожню карту. Ми раді, як наступна еволюція SubQuery принесе ще більшу цінність екосистемі Polkadot та надасть більше можливостей для нашої громади брати участь у нашому зростанні.
 
-## Our Future
+## Наше майбутнє
 
-While SubQuery is already serving millions of data queries each day to [over 60 projects on Polkadot & Kusama](https://project.subquery.network/), we wanted to ensure that our next phase of growth was conducted in an organised and controlled manner.
+Хоча SubQuery вже щодня обслуговує мільйони запитів даних до [ понад 60 проектів на Polkadot & amp; Kusama ](https://project.subquery.network/), ми хотіли забезпечити, щоб наша наступна фаза зростання була проведена організовано та контрольовано.
 
-For this reason, we feel it is critical that we demonstrate and fully test the scalability of the SubQuery Network through an incentivised testnet program. This process will also allow us to establish a community of indexers before launching publicly via a TGE in March 2022 and our eventual mainnet later next year.
+З цієї причини ми вважаємо, що важливо продемонструвати та повністю перевірити масштабованість мережі SubQuery за допомогою стимульованої програми testnet. Цей процес також дозволить нам створити спільноту індексаторів перед тим, як публічно запустити через TGE у березні 2022 року та наш можливий основний мережу пізніше наступного року.
 
 ![](https://miro.medium.com/max/2400/1*I6mko5xumHAArzGePvEZiQ.jpeg)
 
-As such, the key deliverables in our work-flow can be broken into the following major milestones.
+Таким чином, ключові результати нашого робочого процесу можуть бути розбиті на наступні основні віхи.
 
-## Where we are now — Middle of Q4 2021
+## Де ми зараз - середина четвертого кварталу 2021 року
 
-### EVM support for parachains
+### Підтримка EVM для парашаїв
 
-We will be releasing [our beta support for Polkadot implementations of the Ethereum Virtual Machine (EVM)](https://medium.com/@subquery/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff) soon. This allows Polkadot and Ethereum developers to seamlessly integrate both Substrate and EVM data into one place and query this single datasource using GraphQL.
+Незабаром ми випустимо [ нашу бета-підтримку для реалізації Polkadot віртуальної машини Ethereum (EVM) ](https://medium.com/@subquery/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff). Це дозволяє розробникам Polkadot та Ethereum безперешкодно інтегрувати дані Substrate та EVM в одне місце та запитувати цей єдиний ресурс даних за допомогою GraphQL .
 
-SubQuery will introduce more advanced filters than other indexers, allowing filtering of non-contract transactions, transaction senders, contracts and indexed log arguments, so developers can build a wide variety of projects that cater to their specific data needs.
+SubQuery представить більш досконалі фільтри, ніж інші індексатори, що дозволить фільтрувати позадоговірні транзакції, відправників транзакцій, контрактів та індексованих аргументів журналу, щоб розробники могли створювати широкий спектр проектів, що задовольняють їх конкретні потреби в даних.
 
-### SubQuery Academy
+### Академія SubQuery
 
-The Academy is designed to up-skill and empower developers in the SubQuery ecosystem by providing them with modular education. [Our first course in the Academy is the _Hero Course_](https://doc.subquery.network/academy/herocourse/) and was launched on Friday 22 October 2021.
+Академія розроблена для підвищення кваліфікації та розширення можливостей розробників в екосистемі SubQuery, надаючи їм модульну освіту. [ Наш перший курс в Академії - це _ Hero Course _ ](https://doc.subquery.network/academy/herocourse/) і був запущений у п'ятницю 22 жовтня 2021 року.
 
-Within each module of the _Hero Course_, there are several 5 to 10 minute lessons which are delivered by a recorded video. The video content is accompanied by written tutorials, slides, workbooks, and links to the finished GitHub code repository.
+У межах кожного модуля _ Hero Course_ є кілька уроків від 5 до 10 хвилин, які доставляються записаним відео. Вміст відео супроводжується письмовими підручниками, слайдами, робочими книгами та посиланнями на готове сховище коду GitHub.
 
-The course is designed to get a developer from knowing nothing about SubQuery to becoming an expert in building a SubQuery data source for their new blockchain application.
+Курс призначений для того, щоб розробник нічого не знав про SubQuery, щоб стати експертом у створенні джерела даних SubQuery для їх нового додатка блокчейн.
 
-In the next few months we will be deploying more education for the Community, with weekly releases of new SubQuery _Hero Course_ content, and more courses in the coming weeks.
+У наступні кілька місяців ми будемо впроваджувати більше освіти для Співтовариства, щотижневі випуски нового вмісту SubQuery _ Hero Course _ та більше курсів у найближчі тижні.
 
-### Proof of Indexing
+### Доказ індексації
 
-Proof of indexing allows us to guarantee that two different indexers working with the same SubQuery project have indexed the exact same data. It’s a critical component required for the development of a decentralized SubQuery network. We’re using a concept called Merkle Mountain ranges to confirm and guarantee this, keep an eye out for a future blog post that explores this deeper.
+Доказ індексації дозволяє нам гарантувати, що два різних індексатори, що працюють з одним і тим же проектом SubQuery, індексували точно такі ж дані. Це важливий компонент, необхідний для розвитку децентралізованої мережі SubQuery. Ми використовуємо концепцію під назвою Merkle Mountain, щоб підтвердити та гарантувати це, слідкуйте за майбутнім дописом у блозі, який досліджує це глибше.
 
-### Premium Enterprise Service
+### Преміум-сервіс підприємства
 
-We have some large customers such as Karura, Kodadot and Fearless Wallet all running production applications in SubQuery. These teams are demanding improved service and higher levels of reliability.
+У нас є кілька великих клієнтів, таких як Karura, Kodadot та Fearless Wallet, які працюють у виробництві в SubQuery. Ці команди вимагають покращеного обслуговування та підвищення рівня надійності.
 
-We’re rising to the challenge, with Service Level Agreements, enterprise service tiers, and other tools that our larger customers need to run their own businesses and receive the best possible performance from SubQuery for their applications.
+Ми вирішуємо проблему: Угоди про рівень обслуговування, рівні обслуговування підприємств та інші інструменти, необхідні нашим більшим клієнтам для ведення власного бізнесу та отримання найкращих можливих результатів від SubQuery для їх заявок.
 
-Please get in contact with the team if you want to talk to us about receiving enterprise level services and support from SubQuery.
+Будь ласка, зв'яжіться з командою, якщо ви хочете поговорити з нами про отримання послуг на рівні підприємства та підтримку від SubQuery
 
 ## Milestone 1 — End of Q4 2021
 
