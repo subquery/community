@@ -48,9 +48,9 @@ SubQuery представить більш досконалі фільтри, н
 
 Будь ласка, зв'яжіться з командою, якщо ви хочете поговорити з нами про отримання послуг на рівні підприємства та підтримку від SubQuery
 
-## Milestone 1 — End of Q4 2021
+## Веха 1 - Конец четвертого квартала 2021 года
 
-### SubQuery Builders/Grants Programme
+### Программа SubQuery Builders / Grants
 
 This grants programme is designed to facilitate and catalyse innovation with Polkadot and SubQuery, and to build the next generation of dApps to power the web3 revolution. It will support new projects with grants, technical support, marketing and business development advice from SubQuery and others.
 
