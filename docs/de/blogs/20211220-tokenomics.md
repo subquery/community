@@ -8,57 +8,57 @@ Tokenomics ist ein wichtiger Aspekt jedes Blockchain-Projekts und entscheidend f
 
 In Vorbereitung auf die bevorstehende Einführung von Acala des SQT-Tokens von SubQuery ist es wichtig, einige Schlüsselaspekte wie den Token-Nutzwert, Zuteilungs- und Vesting-Zeitpläne zu verstehen.
 
-## Token Utility
+## Token-Anwendungsfall
 
-As outlined in the whitepaper, we aim to establish SQT as the token which powers the SubQuery network, providing an incentive for participation, as well as serving as a medium of exchange for transactions within the SubQuery network. SQT will be the fuel for the web3 data revolution.
+Wie im Whitepaper bereits beschrieben, wollen wir SQT als Token etablieren, der das SubQuery-Netzwerk antreibt, einen Anreiz zur Teilnahme bietet und als Tauschmittel für Transaktionen innerhalb des SubQuery-Netzwerks dient. SQT wird der Treibstoff für die Web3-Datenrevolution sein.
 
-In practice, this means that SubQuery is intended to function as a blockchain data marketplace where both Consumers (buyers) and Indexers (sellers) can meet to exchange data for SQT tokens. The third participant in our model are Delegators who participate in the network by supporting their favourite Indexers by delegating their tokens to them in order to earn rewards.
+In der Praxis bedeutet dies, dass SubQuery als Blockchain-Datenmarktplatz fungieren soll, auf dem sich sowohl Verbraucher (Käufer) als auch Indexer (Verkäufer) treffen können, um Daten gegen SQT-Token auszutauschen. Der dritte Teilnehmer in unserem Modell sind Delegatoren, die am Netzwerk teilnehmen, indem sie ihre bevorzugten Indexer unterstützen, indem sie ihnen ihre Token delegieren, um Belohnungen zu verdienen.
 
-In the future we envision that holders of the SQT token will be able to inform the SubQuery Foundation about their vision for the overall direction of SubQuery as our network adopts some qualities of a decentralised autonomous organisation (DAO).
+In der Zukunft stellen wir uns vor, dass Inhaber des SQT-Tokens die SubQuery Foundation über ihre Vision für die Gesamtausrichtung von SubQuery informieren können, da unser Netzwerk einige Eigenschaften einer dezentralisierten autonomen Organisation (DAO) annimmt.
 
-## Token Allocation
+## Token-Verteilung
 
-SubQuery will mint a fixed supply of 10 billion SQT which will be allocated in the following manner.
+SubQuery wird ein festes Angebot von 10 Milliarden SQT prägen, das wie folgt zugewiesen wird.
 
 ![](https://miro.medium.com/max/1400/0*eG2TM3J0NZDaT14m)
 
-From the start, SubQuery has been focused on building value within our community and we aim to keep it that way by apportioning the largest allocation of tokens (41%) to the Community and SubQuery Foundation.
+Von Anfang an hat sich SubQuery auf die Wertsteigerung innerhalb unserer Community konzentriert, und wir wollen dies auch so halten, indem wir die größte Zuteilung von Token (41 %) an die Community und die SubQuery Foundation verteilen.
 
-The Foundation, which will be established in early 2022, will administer the future governance and growth of the ecosystem and the ownership of the SubQuery Network will come under the SubQuery foundation initially. This large allocation also includes consideration for future investment into the development and operations of the Network, and key ecosystem growth drivers. This will include tools such as grants and ecosystem incentives/events as well as other marketing activities including bug bounties and mainnet incentives.
+Die Foundation, die Anfang 2022 gegründet wird, wird die zukünftige Governance und das Wachstum des Ökosystems verwalten, und das Eigentum am SubQuery-Netzwerk wird zunächst unter die SubQuery-Stiftung fallen. Diese große Zuteilung beinhaltet auch die Berücksichtigung zukünftiger Investitionen in die Entwicklung und den Betrieb des Netzwerks sowie wichtige Wachstumstreiber für das Ökosystem. Dazu gehören Tools wie Zuschüsse und Ökosystemanreize/-veranstaltungen sowie andere Marketingaktivitäten, einschließlich Bug Bounties und Mainnet-Anreize.
 
-Our early investors in both our Seed and Series A rounds have a combined allocation of 27%. In the case of [our Seed investors](https://subquery.medium.com/subquery-raises-1-8m-seed-round-for-future-expansion-3348c1f2a931), we are grateful for their early vision and commitment after we [received a grant from the Web3 foundation](https://subquery.medium.com/subquery-delivers-its-open-source-sdk-following-a-web3-foundation-grant-20da26ae87f) to build the initial phase of SubQuery. Following on from this, [our growth was accelerated with the support of our Series A investors](https://subquery.medium.com/series-a-1abed6c1c2af) who allowed us to take the project to the next level.
+Unsere frühen Investoren in unseren Seed- und Series-A-Runden haben eine kombinierte Allokation von 27 %. Im Fall [ unserer Seed-Investoren ](https://subquery.medium.com/subquery-raises-1-8m-seed-round-for-future-expansion-3348c1f2a931) sind wir dankbar für ihre frühe Vision und ihr Engagement, nachdem wir [ einen Zuschuss von der Web3-Stiftung ](https://subquery.medium.com/subquery-delivers-its-open-source-sdk-following-a-web3-foundation-grant-20da26ae87f) erhalten hatten, um die Anfangsphase von SubQuery aufzubauen. Im Anschluss daran [ wurde unser Wachstum mit der Unterstützung unserer Serie-A-Investoren beschleunigt ](https://subquery.medium.com/series-a-1abed6c1c2af), die es uns ermöglichten, das Projekt auf die nächste Stufe zu heben.
 
-For the Public Sale which we anticipate to be in March 2022, we have allocated 12% of token supply across at least two sequential rounds. The exact structure and timing of these rounds will be provided at a later date, however we will be providing guaranteed allocation for [key community members](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) (e.g. Ambassadors, Spartans) and [network participants](https://subquery.medium.com/subquery-extends-invitation-to-indexing-community-348fb2f589e1) (e.g. test network participants and referenceable customers). Each category will have its own minimum and maximum allocation.
+Für den öffentlichen Verkauf, der voraussichtlich im März 2022 stattfinden wird, haben wir 12 % des Token-Angebots über mindestens zwei aufeinanderfolgende Runden verteilt. Die genaue Struktur und das Timing dieser Runden werden zu einem späteren Zeitpunkt bekannt gegeben, wir werden jedoch eine garantierte Zuteilung für [ wichtige Community-Mitglieder ](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) (z. B. Botschafter, Spartaner) und [ Netzwerkteilnehmer ](https://subquery.medium.com/subquery-extends-invitation-to-indexing-community-348fb2f589e1) . bereitstellen (z.B Testnetzteilnehmer und referenzierbare Kunden). Jede Kategorie hat ihre eigene minimale und maximale Zuteilung.
 
-Finally, the SubQuery Team and Launch Partners have been allocated 20% of the token supply in return for their contributions in building and promoting the project.
+Schließlich wurden dem SubQuery-Team und den Launch-Partnern 20 % des Token-Angebots als Gegenleistung für ihre Beiträge zum Aufbau und zur Förderung des Projekts zugeteilt.
 
-## Token Vesting Schedules
+## Token-Ausübungszeitpläne
 
-The token allocation by itself is nothing without understanding the way in which the tokens are distributed to the relative holders. The graphic below illustrates the release of the SQT tokens to each participant over time culminating in the full circulation of tokens occurring 5 years (60 months) after launch.
+Die Token-Zuteilung an sich ist nichts, ohne die Art und Weise zu verstehen, wie die Token an die jeweiligen Inhaber verteilt werden. Die folgende Grafik veranschaulicht die Freigabe der SQT-Token an jeden Teilnehmer im Laufe der Zeit, die in der vollständigen Zirkulation der Token 5 Jahre (60 Monate) nach dem Start gipfelt.
 
 ![](https://miro.medium.com/max/1400/0*mfIBkH4SjFZgGuIq)
 
-We have thought carefully about the vesting schedules for each participant in order to create long-term value for the project and generate confidence to token-holders. Perhaps most significantly, the core team will have a 24 month lock-up period while some Public Sale participants can freely use the utility of their token upon launch.
+Wir haben uns die Vesting-Zeitpläne für jeden Teilnehmer sorgfältig überlegt, um einen langfristigen Wert für das Projekt zu schaffen und Vertrauen bei den Token-Inhabern zu schaffen. Am wichtigsten ist vielleicht, dass das Kernteam eine 24-monatige Sperrfrist haben wird, während einige Teilnehmer des Public Sale den Nutzen ihres Tokens beim Start frei nutzen können.
 
-The breakdown of each holder is as follows and is subject to change:
+Die Aufschlüsselung der einzelnen Inhaber ist wie folgt und kann sich ändern:
 
--  **Team and Launch Partners** are locked for 24 months and vest over the next 24.
--  **Seed Investors** are locked for 12 months and vest over the next 24.
--  **Series A investors** are locked for 6 months and vest over the next 18.
--  **Foundation and Community** will have approximately 30% of the allocation unlocked from the start to meet the operational needs of launching and promoting mainnet with the rest of the allocation vesting gradually over 5 years.
--  **Public Sale Round 1** participants have a 12 month lock-up period. Indexers and other key network participants will have a portion of their allocation available to be unlocked immediately to ensure they can kick-start the network. Participants in this round will be whitelisted and have a guaranteed allocation.
--  **Public Sale Round 2** participants have no lock-up period. This round is open to all users who pass KYC requirements on the launchpad platform. This round is “first come, first served” with a minimum and maximum allocation. In this regard, we are aiming to attract a larger number of participants to make the distribution fairer. More information about this may come in the future
+-  **Team- und Launch-Partner** sind für 24 Monate gesperrt und werden in den nächsten 24 Monaten gesperrt.
+-  **Seed-Investoren** sind für 12 Monate gesperrt und werden in den nächsten 24 Monaten unverfallbar.
+-  **Anleger der Serie A** sind für 6 Monate gesperrt und werden über die nächsten 18 Monate gesperrt.
+-  **Foundation und Community** werden ungefähr 30 % der Zuweisung von Anfang an freigeschaltet haben, um den Betriebsbedarf für den Start und die Förderung des Mainnets zu decken, wobei der Rest der Zuweisung schrittweise über 5 Jahre verteilt wird.
+-  Die Teilnehmer der **Public Sale Round 1** haben eine 12-monatige Sperrfrist. Indexern und anderen wichtigen Netzwerkteilnehmern steht ein Teil ihrer Zuweisung zur Verfügung, um sofort freigeschaltet zu werden, um sicherzustellen, dass sie das Netzwerk starten können. Die Teilnehmer dieser Runde werden auf die Whitelist gesetzt und haben eine garantierte Zuteilung.
+-  Die Teilnehmer der **Public Sale Round 2** haben keine Sperrfrist. Diese Runde steht allen Benutzern offen, die die KYC-Anforderungen auf der Launchpad-Plattform erfüllen. Diese Runde ist „first come, first served“ mit einer minimalen und maximalen Zuteilung. Dabei streben wir eine größere Teilnehmerzahl an, um die Verteilung gerechter zu gestalten. Weitere Informationen dazu könnten in Zukunft folgen
 
-We have also made provisions for a retrospective airdrop to communities that have strategic importance to our network (such as testnet participants) or as a means to attract new users outside of our current ecosystem..
+Wir haben auch Vorkehrungen für einen retrospektiven Airdrop zu Communities getroffen, die eine strategische Bedeutung für unser Netzwerk haben (z. B. Testnet-Teilnehmer) oder um neue Benutzer außerhalb unseres aktuellen Ökosystems zu gewinnen.
 
-The exact details of when and how the SQT token will be allocated and distributed are still subject to finalisation, and will be announced closer to the public sale. At this stage, we anticipate that token distribution to the sale participants will take place with the launch of the mainnet. In other words, there will be a waiting period between the sale and token distribution which will align with the token listing date.
+Die genauen Details, wann und wie der SQT-Token zugeteilt und verteilt wird, unterliegen noch der Finalisierung und werden näher zum öffentlichen Verkauf bekannt gegeben. Zum jetzigen Zeitpunkt gehen wir davon aus, dass die Token-Verteilung an die Verkaufsteilnehmer mit dem Start des Mainnets erfolgen wird. Mit anderen Worten, es wird eine Wartezeit zwischen dem Verkauf und der Token-Verteilung geben, die sich an dem Datum der Token-Notierung anpasst.
 
-For the listing of SQT, we are planning to be available on key decentralised (DEX) and centralised exchanges (CEX) to make it as easy as possible for everyone to participate in the SubQuery Network. We are looking forward to you all joining us on our mission to help developers build the decentralised applications of the future.
+Für die Listung von SQT planen wir, an zentralen dezentralen (DEX) und zentralisierten Börsen (CEX) verfügbar zu sein, um jedem die Teilnahme am SubQuery-Netzwerk so einfach wie möglich zu machen. Wir freuen uns darauf, dass Sie sich alle unserer Mission anschließen, Entwicklern beim Aufbau der dezentralen Anwendungen der Zukunft zu helfen.
 
-## About SubQuery Network
+## Über SubQuery-Netzwerk
 
-SubQuery is Polkadot’s leading data provider, supporting an indexing & querying layer between Layer-1 blockchains (Polkadot) and decentralised applications. SubQuery’s data service is being used by most of the Polkadot and Kusama crowdloan and parachain auction websites live today.
+SubQuery ist der führende Datenanbieter von Polkadot und unterstützt eine Indexierung & Abfrageschicht zwischen Layer-1-Blockchains (Polkadot) und dezentralen Anwendungen. Der Datendienst von SubQuery wird heute von den meisten Crowdloan- und Parachain-Auktionswebsites von Polkadot und Kusama live verwendet.
 
-SubQuery’s protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+Das Protokoll von SubQuery abstrahiert mit dem SubQuery SDK die Eigenheiten der Blockchain-Daten, sodass sich Entwickler auf die Bereitstellung ihres Kernprodukts konzentrieren können, ohne unnötigen Aufwand für benutzerdefinierte Backend-Technologien zu verschwenden.
 
-​​​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+​​​​[Linktree](https://linktr.ee/subquerynetwork) | [Webseite](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
