@@ -28,8 +28,8 @@ Patract Labs пропонує рішення для розвитку Parachains 
 
 [Website](https://patract.io/)｜[Element](https://app.element.io/#/room/#PatractLabsDev:matrix.org)｜[Twitter](https://twitter.com/PatractLabs)｜[GitHub](https://github.com/patractlabs) ｜[Discord](https://discord.gg/yMRMqcAb24) ｜[Telegram](https://t.me/patract)
 
-About SubQuery
+Про SubQuery
 
-The mission of SubQuery is to make the world’s decentralized data more accessible. SubQuery is a data-as-a-service provider that aggregates and organises data from Polkadot and Substrate projects; it empowers Polkadot/Substrate projects to build better DApps by providing well-structured data for developers.
+Місія SubQuery - зробити децентралізовані дані у світі більш доступними. SubQuery - це постачальник даних, що надає послуги, який збирає та організовує дані проектів Polkadot та Substrate; він надає можливість проектам Polkadot / Substrate створювати кращі DApps, надаючи добре структуровані дані для розробників.
 
 [Website](https://www.subquery.network/)丨[Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Linkedin](https://www.linkedin.com/company/subquery) | [Medium](https://subquery.medium.com/)丨[GitHub](https://github.com/subquery/subql) | [Matrix](https://matrix.to/#/#subquery:matrix.org)
