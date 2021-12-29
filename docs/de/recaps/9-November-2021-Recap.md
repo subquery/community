@@ -1,28 +1,28 @@
-# November 2021 Recap
+# Zusammenfassung November 2021
 
-![](https://miro.medium.com/max/1400/1*qzKzZnWY2ao3tiffwwugXQ.png) **_This month it’s all about execution_**
+![](https://miro.medium.com/max/1400/1*qzKzZnWY2ao3tiffwwugXQ.png) **_Diesen Monat dreht sich alles um die Hinrichtung_**
 
-Welcome to the latest monthly update from SubQuery, and one that is particularly full of all the exciting stuff happening around our community.
+Herzlich Willkommen zum neuesten monatlichen Update von SubQuery, das besonders voll von all den aufregenden Dingen ist, die in unserer Community passieren.
 
-# SubQuery Network
+# SubQuery-Netzwerk
 
-## SubQuery to launch on Acala
+## SubQuery-Start auf Acala
 
-![](https://miro.medium.com/max/600/0*SJ1TWt1sGwUWqvuI.gif) At our community call, we finally announced that SubQuery and the SQT token will aim to be the first external application and token to launch with Acala.
+![](https://miro.medium.com/max/600/0*SJ1TWt1sGwUWqvuI.gif) Bei unserem Community-Call haben wir schließlich angekündigt, dass SubQuery und der SQT-Token die erste externe Anwendung und das erste Token sein werden, die mit Acala gestartet werden.
 
-We considered a variety of options before electing to deepen its existing partnership with Acala by launching on its leading DeFi protocol built on Polkadot. The three main reasons that went into this decision to launch with Acala were community access, domain/technical excellence, and our existing robust relationship.
+Wir haben eine Vielzahl von Optionen in Betracht gezogen, bevor wir uns entschieden haben, die bestehende Partnerschaft mit Acala durch die Einführung des führenden DeFi-Protokolls basierend auf Polkadot zu vertiefen. Die drei Hauptgründe für diese Entscheidung, mit Acala auf den Markt zu kommen, waren der Zugang zur Community, die fachliche/technische Exzellenz und unsere bestehende solide Beziehung.
 
-James caught up with Acala’s Bette Chen for a wide-ranging interview on this decision and partnership, including the specifics on why Acala and SubQuery are a match made in heaven.
+James hat Bette Chen von Acala für ein umfassendes Interview zu dieser Entscheidung und Partnerschaft getroffen, einschließlich der Einzelheiten, warum Acala und SubQuery ein himmlisches Paar sind.
 
-[Read more about this announcement here](https://blog.subquery.network/blogs/20211125-subquery-network-acala.html)
+[Lesen Sie hier mehr über diese Ankündigung](https://blog.subquery.network/blogs/20211125-subquery-network-acala.html)
 
-## Significant Development on the SubQuery Network
+## Bedeutende Entwicklung im SubQuery-Netzwerk
 
-Even though we are busy working hard on the SubQuery Network, and still rushing ahead towards our test network launch in the first quarter of 2022. We’ve made great progress on our smart contracts and refining our token economic model. Expect to see us sharing a lot more about this soon.
+Auch wenn wir fleißig am SubQuery-Netzwerk arbeiten und immer noch auf den Start unseres Testnetzwerks im ersten Quartal 2022 zusteuern. Wir haben große Fortschritte bei unseren Smart Contracts und der Verfeinerung unseres Token-Wirtschaftsmodells gemacht. Erwarten Sie, dass wir bald viel mehr darüber teilen werden.
 
-# Core Product Development
+# Kernproduktentwicklung
 
-## Scaling our Hosted Service
+## Skalierung unseres Hosted Service
 
 SubQuery Projects has been a recipient of some explosive growth over the past month as  [thousands of academy participants](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html)  have created even more projects in our hosted service ([project.subquery.network](https://project.subquery.network/)) in the space of a few weeks.
 
