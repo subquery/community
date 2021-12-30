@@ -1,64 +1,64 @@
-# SubQuery Releases Tokenomics
+# SubQuery випускає токеноміку
 
 ![](https://miro.medium.com/max/1400/1*e42FM0TsNgOM3VacoctOzQ.png)
 
-Tokenomics is an important aspect of any blockchain project and is critical to the success of any utility token. At SubQuery, we’re creating a decentralised and incentivised network that will provide the data for the web3 future ([read our whitepaper](https://static.subquery.network/whitepaper.pdf)). Today we are excited to unveil how the SQT will work and how it will be allocated to boost participation by our thriving community.
+Tокеномікa є важливим аспектом будь-якого блокчейн-проекту і має вирішальне значення для успіху будь-якого корисного знака. У SubQuery ми створюємо децентралізовану та стимульовану мережу, яка надасть дані для майбутнього web3 ([ читайте нашу довідку ](https://static.subquery.network/whitepaper.pdf)). Сьогодні ми раді розкрити, як працюватиме SQT та як він буде розподілений для активізації участі нашої процвітаючої громади.
 
-[We recently announced that we would be launching the SubQuery Network via Acala](https://subquery.medium.com/the-subquery-network-to-launch-on-acala-decentralising-polkadots-leading-data-indexing-service-8203d686128e). For those who may be new to the Polkadot ecosystem, SubQuery needs to partner with an existing parachain team to deploy its smart contracts (and therefore the SubQuery token SQT) in order to go live. In other words, our token is nested within the Acala blockchain on Polkadot and will seamlessly allow participation by investors from the Ethereum ecosystem due to Acala’s EVM+ (Ethereum Virtual Machine) solution.
+[ Нещодавно ми оголосили, що запустимо мережу SubQuery через Acala ](https://subquery.medium.com/the-subquery-network-to-launch-on-acala-decentralising-polkadots-leading-data-indexing-service-8203d686128e). Для тих, хто може бути новим в екосистемі Polkadot, SubQuery потрібно співпрацювати з існуючою командою парашаїнів для розгортання своїх розумних контрактів (а отже, і SubQuery маркер SQT), щоб перейти наживо. Іншими словами, наш маркер вкладений в блокчейн Acala на Polkadot і безперешкодно дозволить брати участь інвесторам з екосистеми Ethereum завдяки рішенню EVM + (Ethereum Virtual Machine) Acala.
 
-In preparation for the upcoming launch with Acala of SubQuery’s SQT token, it is important to understand a few key aspects such as the token utility, allocation and vesting schedules.
+Готуючись до майбутнього запуску за допомогою маркера SQT SQT Acala of SubQuery, важливо зрозуміти кілька ключових аспектів, таких як утиліта жетонів, графіки розподілу та розміщення.
 
-## Token Utility
+## Утиліта токену
 
-As outlined in the whitepaper, we aim to establish SQT as the token which powers the SubQuery network, providing an incentive for participation, as well as serving as a medium of exchange for transactions within the SubQuery network. SQT will be the fuel for the web3 data revolution.
+Як зазначено в довідці, ми прагнемо встановити SQT як маркер, який забезпечує мережу SubQuery, надаючи стимул для участі, а також слугуючи засобом обміну для транзакцій у мережі SubQuery. SQT стане паливом для революції даних web3.
 
-In practice, this means that SubQuery is intended to function as a blockchain data marketplace where both Consumers (buyers) and Indexers (sellers) can meet to exchange data for SQT tokens. The third participant in our model are Delegators who participate in the network by supporting their favourite Indexers by delegating their tokens to them in order to earn rewards.
+На практиці це означає, що SubQuery призначений для функціонування як блокчейн-ринок даних, де обидва споживачі (покупці) та індексатори (продавці) можуть зустрітися для обміну даними для жетонів SQT. Третім учасником нашої моделі є делегати, які беруть участь у мережі, підтримуючи своїх улюблених індексів, делегуючи їм жетони, щоб заробити нагороди.
 
-In the future we envision that holders of the SQT token will be able to inform the SubQuery Foundation about their vision for the overall direction of SubQuery as our network adopts some qualities of a decentralised autonomous organisation (DAO).
+Надалі ми передбачаємо, що власники маркера SQT зможуть повідомити Фонд SubQuery про своє бачення загального напрямку SubQuery, оскільки наша мережа використовує деякі якості децентралізованої автономної організації (DAO).
 
-## Token Allocation
+## Виділення токена
 
-SubQuery will mint a fixed supply of 10 billion SQT which will be allocated in the following manner.
+SubQuery буде викарбувати фіксовану поставку в розмірі 10 мільярдів SQT, яка буде розподілена наступним чином.
 
 ![](https://miro.medium.com/max/1400/0*eG2TM3J0NZDaT14m)
 
-From the start, SubQuery has been focused on building value within our community and we aim to keep it that way by apportioning the largest allocation of tokens (41%) to the Community and SubQuery Foundation.
+З самого початку SubQuery був зосереджений на побудові вартості в нашій громаді, і ми прагнемо зберегти це таким чином, розподіляючи найбільший розподіл жетонів (41%) для Community та Фонду SubQuery.
 
-The Foundation, which will be established in early 2022, will administer the future governance and growth of the ecosystem and the ownership of the SubQuery Network will come under the SubQuery foundation initially. This large allocation also includes consideration for future investment into the development and operations of the Network, and key ecosystem growth drivers. This will include tools such as grants and ecosystem incentives/events as well as other marketing activities including bug bounties and mainnet incentives.
+Фонд, який буде створений на початку 2022 року, здійснюватиме управління майбутнім управлінням та зростанням екосистеми, а право власності на мережу SubQuery спочатку потрапить до фонду SubQuery. Цей великий розподіл також включає врахування майбутніх інвестицій у розвиток та діяльність Network та ключових рушійних факторів зростання екосистеми. Сюди входять такі інструменти, як гранти та стимули / події екосистеми, а також інші маркетингові заходи, включаючи щедроти помилок та стимули для мережі.
 
-Our early investors in both our Seed and Series A rounds have a combined allocation of 27%. In the case of [our Seed investors](https://subquery.medium.com/subquery-raises-1-8m-seed-round-for-future-expansion-3348c1f2a931), we are grateful for their early vision and commitment after we [received a grant from the Web3 foundation](https://subquery.medium.com/subquery-delivers-its-open-source-sdk-following-a-web3-foundation-grant-20da26ae87f) to build the initial phase of SubQuery. Following on from this, [our growth was accelerated with the support of our Series A investors](https://subquery.medium.com/series-a-1abed6c1c2af) who allowed us to take the project to the next level.
+Наші ранні інвестори як у нашому Seed, так і в Series А мають сукупний розподіл у 27%. У випадку [ наших Seed investors](https://subquery.medium.com/subquery-raises-1-8m-seed-round-for-future-expansion-3348c1f2a931) ми вдячні за їх раннє бачення та відданість після того, як ми отримали грант від фонду Web3 </a> для побудови початкової фази SubQuery. Виходячи з цього, [ наше зростання було прискорене за підтримки наших інвесторів Series A ](https://subquery.medium.com/series-a-1abed6c1c2af), які дозволили нам перейти на наступний рівень.
 
-For the Public Sale which we anticipate to be in March 2022, we have allocated 12% of token supply across at least two sequential rounds. The exact structure and timing of these rounds will be provided at a later date, however we will be providing guaranteed allocation for [key community members](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) (e.g. Ambassadors, Spartans) and [network participants](https://subquery.medium.com/subquery-extends-invitation-to-indexing-community-348fb2f589e1) (e.g. test network participants and referenceable customers). Each category will have its own minimum and maximum allocation.
+Для публічного продажу, який ми очікуємо в березні 2022 року, ми виділили 12% поставок жетонів протягом принаймні двох послідовних раундів. Точна структура та терміни цих раундів будуть надані пізніше, однак ми забезпечимо гарантоване розподіл для [ ключових членів громади ](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) (наприклад,. Посли, спартанці) та [ учасники мережі ](https://subquery.medium.com/subquery-extends-invitation-to-indexing-community-348fb2f589e1) (напр. учасники тестової мережі та референтні клієнти). Кожна категорія матиме свій мінімальний та максимальний розподіл.
 
-Finally, the SubQuery Team and Launch Partners have been allocated 20% of the token supply in return for their contributions in building and promoting the project.
+Нарешті, команді SubQuery та партнерам-початківцям було виділено 20% пропозиції жетонів у відповідь на їх внесок у створення та просування проекту.
 
 ## Token Vesting Schedules
 
-The token allocation by itself is nothing without understanding the way in which the tokens are distributed to the relative holders. The graphic below illustrates the release of the SQT tokens to each participant over time culminating in the full circulation of tokens occurring 5 years (60 months) after launch.
+Розподіл жетонів сам по собі є нічим, не розуміючи способу розподілу жетонів відносним власникам. Наведена нижче графіка ілюструє випуск жетонів SQT кожному учаснику з часом, що завершилося повним тиражем жетонів, що відбулися через 5 років (60 місяців) після запуску.
 
 ![](https://miro.medium.com/max/1400/0*mfIBkH4SjFZgGuIq)
 
-We have thought carefully about the vesting schedules for each participant in order to create long-term value for the project and generate confidence to token-holders. Perhaps most significantly, the core team will have a 24 month lock-up period while some Public Sale participants can freely use the utility of their token upon launch.
+Ми ретельно продумали графіки зберігання для кожного учасника, щоб створити довгострокову цінність для проекту та створити довіру до власників жетонів. Мабуть, найголовніше, що основна команда матиме 24-місячний період блокування, тоді як деякі учасники Public Sale можуть вільно використовувати корисність свого жетону при запуску.
 
-The breakdown of each holder is as follows and is subject to change:
+Розбивка кожного власника така і може змінюватися:
 
--  **Team and Launch Partners** are locked for 24 months and vest over the next 24.
--  **Seed Investors** are locked for 12 months and vest over the next 24.
--  **Series A investors** are locked for 6 months and vest over the next 18.
--  **Foundation and Community** will have approximately 30% of the allocation unlocked from the start to meet the operational needs of launching and promoting mainnet with the rest of the allocation vesting gradually over 5 years.
--  **Public Sale Round 1** participants have a 12 month lock-up period. Indexers and other key network participants will have a portion of their allocation available to be unlocked immediately to ensure they can kick-start the network. Participants in this round will be whitelisted and have a guaranteed allocation.
--  **Public Sale Round 2** participants have no lock-up period. This round is open to all users who pass KYC requirements on the launchpad platform. This round is “first come, first served” with a minimum and maximum allocation. In this regard, we are aiming to attract a larger number of participants to make the distribution fairer. More information about this may come in the future
+-  ** Партнери для команди та старту ** заблоковані на 24 місяці та мають право на наступні 24.
+-  ** Seed Investors ** замикаються на 12 місяців і мають право на наступні 24.
+-  ** Series A investors** заблоковані на 6 місяців і мають право на наступні 18.
+-  ** Foundation and Community ** матимуть приблизно 30% розподілу, розблокованого з самого початку, для задоволення операційних потреб запуску та просування мережі з рештою розподілу, що надається поступово протягом 5 років.
+-  ** Громадський раунд продажу 1 ** учасники мають 12-місячний період блокування. Індексатори та інші ключові учасники мережі матимуть доступ до частини їх розподілу, щоб негайно розблокуватись, щоб переконатися, що вони можуть запустити мережу. Учасники цього раунду будуть знищені та матимуть гарантований розподіл.
+-  ** Громадський раунд продажу 2 ** учасники не мають періоду блокування. Цей раунд відкритий для всіх користувачів, які передають вимоги KYC на платформі startpad. Цей раунд "перший прийшов, вперше" з мінімальним і максимальним розподілом. У зв'язку з цим ми прагнемо залучити більшу кількість учасників, щоб зробити розподіл справедливішим. Більше інформації про це може надійти в майбутньому
 
-We have also made provisions for a retrospective airdrop to communities that have strategic importance to our network (such as testnet participants) or as a means to attract new users outside of our current ecosystem..
+Ми також внесли положення про ретроспективний айрдроп для громад, які мають стратегічне значення для нашої мережі (наприклад, учасників тестових мереж) або як засіб залучення нових користувачів за межі нашої нинішньої екосистеми..
 
-The exact details of when and how the SQT token will be allocated and distributed are still subject to finalisation, and will be announced closer to the public sale. At this stage, we anticipate that token distribution to the sale participants will take place with the launch of the mainnet. In other words, there will be a waiting period between the sale and token distribution which will align with the token listing date.
+Точні деталі того, коли і як буде розподілено та розповсюджено маркер SQT, все ще підлягають доопрацюванню, і вони будуть оголошені ближче до публічного продажу. На цьому етапі ми очікуємо, що розповсюдження жетонів учасникам продажу відбудеться із запуском мережі. Іншими словами, між продажем та розподілом жетонів буде період очікування, який буде узгоджуватися з датою лістингу жетонів.
 
-For the listing of SQT, we are planning to be available on key decentralised (DEX) and centralised exchanges (CEX) to make it as easy as possible for everyone to participate in the SubQuery Network. We are looking forward to you all joining us on our mission to help developers build the decentralised applications of the future.
+Для переліку SQT ми плануємо бути доступними на ключових децентралізованих (DEX) та централізованих біржах (CEX), щоб зробити це максимально легким для участі в мережі SubQuery. Ми з нетерпінням чекаємо, що ви приєднаєтесь до нашої місії, щоб допомогти розробникам будувати децентралізовані програми майбутнього.
 
-## About SubQuery Network
+## Про мережу SubQuery
 
-SubQuery is Polkadot’s leading data provider, supporting an indexing & querying layer between Layer-1 blockchains (Polkadot) and decentralised applications. SubQuery’s data service is being used by most of the Polkadot and Kusama crowdloan and parachain auction websites live today.
+SubQuery - провідний постачальник даних Polkadot, який підтримує індексацію та підсилювач; шар запитів між блокчейнами шару-1 (Polkadot) та децентралізованими програмами. Служба передачі даних SubQuery використовується більшістю веб-сайтів аукціонів Polkadot та Kusama та парашутних парашутів.
 
-SubQuery’s protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+Протокол SubQuery абстрагує ідіосинкразії даних blockchain за допомогою SDK SubQuery, дозволяючи розробникам зосередитись на розгортанні свого основного продукту, не витрачаючи зусиль на власні технології backend.
 
 ​​​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
