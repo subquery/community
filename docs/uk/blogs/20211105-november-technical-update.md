@@ -1,14 +1,14 @@
-# SubQuery November Technical Update: EVM and Manifest Updates
+# SubQuery Листопад Технічне оновлення: оновлення EVM та маніфесту
 
 ![](https://miro.medium.com/max/1400/1*q9GErDrvAyacOPm97krV6Q.png)
 
-**Read more for our technical deep dive into the latest release of SubQuery**
+**Детальніше про наше технічне глибоке занурення в останній випуск SubQuery**
 
-# Support for External Chain Type Files in Project Manifest
+# Підтримка зовнішніх файлів типу ланцюга в нашому Маніфесті проектів
 
-Today is the launch of [version 0.2.0](https://doc.subquery.network/create/manifest/) of our project manifest file (`project.yaml`). This new version provides developers with various improvements that have been requested by customers.
+Сьогодні запуск [ версії 0.2.0 ](https://doc.subquery.network/create/manifest/) нашого файлу маніфесту проекту (` project.yaml `). Ця нова версія надає розробникам різні вдосконалення, які вимагали клієнти.
 
-Most importantly, you can now reference a chain type definition file that has all the custom types included when you’re indexing a custom substrate chain. This quickly allows you to connect a new SubQuery project to any substrate based chain, including all of Kusama’s parachains. This should be a standard chain type file that declares the specific types supported by this blockchain in either `.json` or `.yaml` format.
+Найголовніше, що тепер ви можете посилатися на файл визначення типу ланцюга, який включає всі користувацькі типи, коли ви індексуєте власну ланцюжок підкладки. Це швидко дозволяє підключити новий проект SubQuery до будь-якої ланцюга на основі субстрату, включаючи всі парашаї Kusama. This should be a standard chain type file that declares the specific types supported by this blockchain in either `.json` or `.yaml` format.
 
 This solution allows you to avoid copying and managing chain type definitions in the manifest itself, and allows you to just clone the [published chain type files listed in repositories like PolkadotJS](https://github.com/polkadot-js/apps/tree/master/packages/apps-config/src/api/spec).
 
