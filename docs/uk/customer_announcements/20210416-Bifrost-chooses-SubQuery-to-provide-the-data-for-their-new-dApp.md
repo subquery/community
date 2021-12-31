@@ -2,33 +2,33 @@
 
 ![](https://miro.medium.com/max/1400/0*nqNosmn0y7FHOI42)
 
-Bifrost recently launched the beta of their new dApp, the official interactive interface for all Bifrost services. Through this dApp, users can mint vTokens, redeem and swap these derivatives, and view their earnings in real time. This beta dApp is a huge step forward in allowing users to reduce staking costs across chains by maintaining liquidity. [You can try out Bifrost’s new dApp here](https://apps.bifrost.finance/).
+Нещодавно Bifrost запустив бета-версію свого нового dApp, офіційного інтерактивного інтерфейсу для всіх служб Bifrost. Завдяки цьому dApp користувачі можуть карбувати vTokens, викуповувати та обмінювати ці похідні та переглядати свій заробіток у режимі реального часу. Цей бета-DApp - це величезний крок вперед, що дозволяє користувачам зменшити витрати на розміщення по ланцюгах, підтримуючи ліквідність. [ Ви можете спробувати новий dApp Bifrost тут ](https://apps.bifrost.finance/).
 
-> “Without SubQuery, it is difficult to imagine how complicated it is to manually collect data from the chain. Bifrost developers may spend a lot of time searching for all transaction data on chain to be used for transaction history. SubQuery helps developers save a lot of repetitive work costs. Bifrost will cooperate with SubQuery for a long time to accelerate the iterative speed of product development”. — Bifrost.Finance
+> "Без SubQuery важко уявити, як складно вручну збирати дані з ланцюга. Розробники Bifrost можуть витрачати багато часу на пошук усіх даних транзакцій у ланцюжку, які будуть використані для історії транзакцій. SubQuery допомагає розробникам заощадити багато повторюваних витрат на роботу. Bifrost буде довго співпрацювати з SubQuery для прискорення ітеративної швидкості розробки продукту ». — Bifrost.Finance
 
 
 ![](https://miro.medium.com/max/1400/0*_JK-h0rjef6rk1ot)
 
-The new Bifrost SubQuery project in the SubQuery Explorer
+Новий проект Bifrost SubQuery в SubQuery Explorer
 
-[SubQuery’s](https://subquery.network/) service helps [Bifrost](https://bifrost.finance/) power much of the data shown in their new dApp. All historical data on transfers, minting, and redemption events (such as price, date, currency and pool) are aggregated and queried from SubQuery’s advanced indexing and query service. For example, SubQuery allows Bifrost to calculate real time mint and redemption prices for vDot and vEth to show in their app, and to get the total number of vTokens in a certain wallet.
+[ Сервіс SubQuery ](https://subquery.network/) service helps [ Bifrost ](https://bifrost.finance/) живити більшу частину даних, показаних у новому dApp. Усі історичні дані про події передачі, карбування та викупу (такі як ціна, дата, валюта та пул) агрегуються та запитуються з розширеної послуги індексації та запитів SubQuery. Наприклад, SubQuery дозволяє Bifrost обчислювати ціни на м'яту в режимі реального часу та викуп для vDot та vEth, щоб показати у своєму додатку, а також отримати загальну кількість vTokens у певному гаманці.
 
 ![](https://miro.medium.com/max/1400/0*WIxvwcgPIHzCf0E3)
 
-A simple example showing real time mint price for vDOT
+Простий приклад, що показує ціну м'яти в режимі реального часу для vDOT
 
-Bifrost is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services for this service is completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/). You can play around with the Bifrost SubQuery dataset using the Explorer without implementing any code [here](https://explorer.subquery.network/subquery/bifrost-finance/subql).
+Bifrost використовує [ SubQuery Projects ](https://project.subquery.network/) для управління власним проектом та оновлення за потребою. Послуги з індексації та запитів для цієї послуги повністю керуються SubQuery та надаються спільноті Polkadot безкоштовно у [ SubQuery  Explorer ](https://explorer.subquery.network/). Ви можете грати за допомогою набору даних Bifrost SubQuery за допомогою Провідника, не застосовуючи жодного коду [ тут ](https://explorer.subquery.network/subquery/bifrost-finance/subql).
 
 ![](https://miro.medium.com/max/1400/0*J9Rao6oyFMxVNWzZ)
 
-Another SubQuery example to retrieve total staking revenue for vDOT
+Ще один приклад SubQuery для отримання загального доходу від ставки для vDOT
 
-[SubQuery](https://subquery.network/) is a data aggregation layer that will operate between the layer-1 blockchains (Bifrost) and DApps. The solution aggregates and organises data from [Bifrost](https://bifrost.finance/) and other blockchains, serving up well-structured data for their dApp and for other developers to use in a wide array of projects. This service allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+[ SubQuery ](https://subquery.network/) - це шар агрегації даних, який буде працювати між блокчейнами шару-1 (Bifrost) та DApps. Рішення агрегує та організовує дані з [ Bifrost ](https://bifrost.finance/) та інших блокчейнів, обслуговуючи добре структуровані дані для їх dApp та для інших розробників, які можуть використовуватись у широкому спектрі проектів. Ця послуга дозволяє розробникам DApp зосередитись на своєму основному корпусі використання та передній частині, не витрачаючи часу на створення спеціального бекенда для обробки даних.
 
-Learn more about Bifrost
+Дізнайтеся більше про Bifrost
 
 [Website](https://bifrost.finance/) | [Telegram](https://t.me/bifrost_finance) | [Twitter](https://twitter.com/bifrost_finance) | [Discord](https://discord.gg/XjnjdKBNXj)
 
-Learn more about SubQuery
+Дізнайтеся більше про SubQuery
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
