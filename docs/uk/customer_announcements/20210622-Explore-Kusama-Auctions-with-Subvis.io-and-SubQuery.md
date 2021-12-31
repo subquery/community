@@ -4,43 +4,43 @@
 
 **_Ми раді виділити новий проект SubQuery, який є чудовим прикладом сили SubQuery_**
 
-Last week [Subvis.io](https://www.subvis.io/) launched their new explorer for the Kusama parachain slot auctions. This new website provides contextual up-to-date information about the crowdloans and auctions that have just begun on Kusama.
+Минулого тижня [ Subvis.io ](https://www.subvis.io/) запустили свого нового дослідника на аукціонах слотів для парашана Kusama. Цей новий веб-сайт надає контекстну актуальну інформацію про натовпи та аукціони, що тільки почалися на Kusama.
 
 
 ![](https://miro.medium.com/max/1400/1*iHO4P9JcW-Gt7GxqwXxa3g.png)
 
-The Subvis.io Auction Dashboard
+Інформаційна панель аукціонів Subvis.io
 
-By exposing this network data on SubQuery, [Subvis.io](https://www.subvis.io/) is demonstrating to all that rich insights can already be extracted from on-chain data.
+Викриваючи ці мережеві дані на SubQuery, [ Subvis.io ](https://www.subvis.io/) демонструє всім, що багаті уявлення вже можна витягти з даних ланцюга.
 
-> _“SubQuery made it easy to collect complicated chain data for Subvis and to sum it up for display in our website. We didn’t have to create any databases or deploy anything to AWS— SubQuery’s scaffolded solution just worked!”. — Subvis.io_
+> _«SubQuery полегшив збір складних даних ланцюга для Subvis та підведення підсумків для відображення на нашому веб-сайті. Нам не потрібно було створювати будь-які бази даних або розгортати що-небудь на AWS - рішення, яке було розроблено SubQuery!”. — Subvis.io_
 
-[SubQuery’s](https://subquery.network/) service helps [Subvis.io](https://www.subvis.io/) transform and aggregate Kusama data and to make it more accessible for normal users to understand and read.
+[ Сервіс SubQuery ](https://subquery.network/) допомагає [ Subvis.io ](https://www.subvis.io/) трансформувати та агрегувати дані Kusama та зробити їх більш доступними для нормальних користувачів для розуміння та читання.
 
 ![](https://miro.medium.com/max/1400/1*0W6n5vW1yHc3MjfzgsCFZw.png)
 
-[Thanks to SubQuery, we can easily query](https://explorer.subquery.network/subquery/subvis-io/kusama-auction) the total contributions to each parachain, and see how this data changes over time. For example, we can get the 5 largest single contributions to crowdloans through the query below
+[ Завдяки SubQuery ми можемо легко запитувати ](https://explorer.subquery.network/subquery/subvis-io/kusama-auction) загальний внесок у кожен парашайн і бачити, як ці дані змінюються з часом. Aбо, наприклад, ми можемо отримати 5 найбільших одиночних внесків у краудлани через запит нижче
 
 ![](https://miro.medium.com/max/1400/1*4509Ki-4lxJyz1kdm6E5PA.png)
 
-Of the ~37,000 contributions made to all crowdloans, the largest single contribution was to Karura with 18.25k KSM
+З ~ 37 000 внесків, внесених у всі натовпи, найбільший єдиний внесок був у Karura з 18,25 к. К.М
 
-You could also get the the most up to date bids for each auction using the query below
+Ви також можете отримати найсвіжіші пропозиції на кожен аукціон, використовуючи запит нижче
 
 ![](https://miro.medium.com/max/1400/1*M0nrOoms7fNEm-qfBZsJEA.png)
 
-The most recent 3 bids were all by Karura over slots 13–20
+Останні 3 заявки були зроблені Karura за слоти 13–20
 
-Subvis.io is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services for this service is completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/).
+Subvis.io використовує [ Проекти SubQuery ](https://project.subquery.network/) для управління власним проектом та оновлення за потребою. Послуги з індексації та запитів для цієї послуги повністю керуються SubQuery та надаються спільноті Polkadot безкоштовно у [ SubQuery’s Explorer ](https://explorer.subquery.network/).
 
-[Explore the Subvis.io data set](https://explorer.subquery.network/subquery/subvis-io/kusama-auction)
+[Ознайомтеся з набором даних Subvis.io](https://explorer.subquery.network/subquery/subvis-io/kusama-auction)
 
-[SubQuery](https://subquery.network/) is a data aggregation layer that will operate between the layer-1 blockchains (Kusama) and DApps (like Subvis.io). This service allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+[ SubQuery ](https://subquery.network/) - це шар агрегації даних, який буде працювати між блокчейнами шару-1 (Kusama) та DApps (наприклад, Subvis.io). Ця послуга дозволяє розробникам DApp зосередитись на своєму основному корпусі використання та передній частині, не витрачаючи часу на створення спеціального бекенда для обробки даних.
 
-Learn more about SubQuery
+Дізнайтеся більше про SubQuery
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
 
-Subvis.io aims to become the primary place user will go to in order to explore, analyse, and learn about Polkadot ecosystem parachains (and the auctions and crowdloans they carry out).
+Subvis.io має на меті стати основним місцем, куди користувач піде, щоб вивчити, проаналізувати та дізнатися про парашаї екосистеми Polkadot (та аукціони та краудлани, які вони проводять).
 
 [Website](https://www.subvis.io/) | [Twitter](https://twitter.com/subvisioapp)
