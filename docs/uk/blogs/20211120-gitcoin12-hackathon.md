@@ -1,8 +1,8 @@
-# SubQuery Announces Gitcoin Hackathon
+# SubQuery оголошує Gitcoin Hackathon
 
 ![](https://miro.medium.com/max/1400/1*deQMrJlp2aJ5YVAGoFhO-Q.png)
 
-**The leading data indexer in Polkadot will participate in Gitcoin Grants Round 12**
+**Провідний індексатор даних у Polkadot візьме участь у 12-му раунді грантів Gitcoin**
 
 Hot on the heels of the overwhelming success of the SubQuery Academy’s “Hero Course”, we are proud to announce that we will be providing our first hackathon opportunity for all developers via Gitcoin Grants Round 12 starting on December 1st.
 
