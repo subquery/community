@@ -33,49 +33,49 @@ Acala, очевидно, вийшов переможцем, так як це с�
 
 Перший відбувся протягом 5 хвилин, починаючи з 13:25 UTC 11 листопада. Єдина адреса, яку ми пов’язали з адресою [ Binance's Crowdloan ](https://www.binance.com/en/dotslot), зробила серію з 7 транзакцій загальною вартістю понад 19 мільйонів DOT (768,9 мільйонів доларів США). Перший був найбільшим єдиним внеском у Moonbeam з понад 9 мільйонами DOT (364 мільйони доларів США), а потім 6 інших внесків в середньому на 34 секунди. Ця адреса також внесла вагомий внесок у Acala (2,6 мільйона DOT), Clover (2,1 мільйона DOT), Astar (2 мільйони DOT) та Manta (1,7 мільйона DOT).
 
-Друга значна подія сталася протягом 75 хвилин з 10.40 ранку 13 листопада, коли один рахунок зробив чималий вагомий внесок у Acala. This account represents  [Acala’s LCDOT address](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157)  and was Acala deploying all of its liquid staked DOT to its crowdloan. First were some test transactions, then some major transactions which include the largest of 5.5 million DOT (USD$222.5 million). In the end Acala’s LCDOT fund made 3758 contributions over the auction.
+Друга значна подія сталася протягом 75 хвилин з 10.40 ранку 13 листопада, коли один рахунок зробив чималий вагомий внесок у Acala. Цей обліковий запис представляє [Acala’s LCDOT address](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157)   і Acala розгортала всю свою рідину, поставлену DOT, на свій натовп. Спочатку були деякі тестові транзакції, потім деякі основні транзакції, які включають найбільший 5,5 мільйона DOT (222,5 мільйона доларів США). Врешті-решт фонд Acala LCDOT зробив 3758 внесків за аукціон.
 
 ![](https://miro.medium.com/max/2400/0*GTJviXqhPmRIIf73)
 
-These series of transactions were ultimately able to push Acala above Moonbeam, and provide Acala with a winning percentage of 63.11% of the blocks. When the random winning block was selected ~56 hours later at block 7,718,090, Acala was ahead of Moonbeam by just ~38,000 DOT (USD$1.5 million).
+Ці серії транзакцій в кінцевому рахунку змогли підштовхнути Acala над Moonbeam і забезпечити Acala виграшним відсотком у 63,11% блоків. Коли блок випадкових виграшів був обраний через 56 годин у блоці 7,718,090, Акала випередив Moonbeam лише на ~ 38 000 DOT (1,5 мільйона доларів США).
 
-One of the amazing things about these auctions, is that even after raising over 66 million DOT (USD$2.67 billion) between Acala and Moonbeam, the winning margin at the randomly selected block was just 0.056% of the total amount.
+Однією з дивовижних речей щодо цих аукціонів є те, що навіть після залучення понад 66 мільйонів DOT (2,67 мільярда доларів) між Acala та Moonbeam, виграшна маржа у випадково вибраному блоці становила лише 0,056% від загальної суми.
 
-So who was contributing to the crowdloans? Firstly, the median amount contributed by all was just 12 DOT (USD$485.64), 47% of all contributions were less than 10 DOT and 88% were less than 100 DOT (US$4,047.00). This clearly demonstrates an extremely strong and robust community of individual contributors, testament to the retail interest in the parachain auctions.
+То хто сприяв натовпу? По-перше, середня сума, внесена всіма, становила всього 12 DOT (485,64 дол. США), 47% усіх внесків - менше 10 DOT, а 88% - менше 100 DOT (4 047,00 доларів США). Це наочно демонструє надзвичайно сильну та міцну спільноту окремих учасників, що свідчать про інтерес роздрібної торгівлі до аукціонів парашаїнів.
 
-The big question on everyone’s mind is who’s the people’s network? Which network has the largest proportion of small contributors? For the following insights into contribution size breakdown we have excluded some known exchange or crowdloan accounts (list in the appendix). You can see that some networks are almost completely small cap funded (SubGame Gamma and Darwinia). On the other hand, large cap investors (>5,000 DOT) make up 68% of Moonbeam’s crowdloan (by value), 62% of Parallel Finance’s, and 58% of Clover’s.
+Велике питання, на думку кожного, - хто є мережею людей? Яка мережа має найбільшу частку малих учасників? Для наступних уявлень про розбиття розміру внеску ми виключили деякі відомі рахунки обміну або перекриття (перелік у додатку). Ви можете бачити, що деякі мережі майже повністю фінансуються з обмеженням (SubGame Gamma та Darwinia). З іншого боку, великі інвестори з обмеженнями (& # 062; 5000 DOT) становлять 68% Moonbeam’s crowdloan (за вартістю), 62% Parallel Finance’s і 58% Clover’s.
 
 ![](https://miro.medium.com/max/2400/0*ztRnFrVfJ2aTlMiU)
 
-Obviously we are here to look at Moonbeam and Acala, and here we can see that Acala has more small cap funding than Moonbeam, with 33% of Acala’s contributions being less than 1,000 DOT (USD$40,470) compared to 21% of Moonbeam’s.
+Очевидно, що ми тут, щоб подивитися на Moonbeam та Acala, і тут ми можемо побачити, що Acala має більше фінансування невеликих ковпачків, ніж Moonbeam, 33% внесків Acala становить менше 1000 DOT (40 470 доларів США) порівняно з 21% Moonbeam's.
 
 ![](https://miro.medium.com/max/2400/0*ge-2XDPgddj-J07V)
 
-_Note, the previous insights around “the people’s network” have been taken after excluding known contributors that aggregate other contributions into one. SubQuery has only identified a small number, there will certainly be aggregators that we have missed that may be material to the data shared here_
+_Зауважте, попередні уявлення про "мережу людей" були прийняті після виключення відомих дописувачів, які об'єднують інші внески в один. SubQuery визначив лише невелику кількість, безумовно, будуть агрегатори, які ми пропустили, які можуть бути істотними для даних, що поділяються тут_
 
-So where are people contributing from? SubQuery has identified that  [Acala’s LCDOT](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157)  was a runaway success, and resulted in almost 28% of all contributions. With over 24 million DOT (US$971 million) contributed directly to Acala, this auction would likely have gone another way without it.
+Отже, де люди роблять свій внесок? SubQuery визначив, що [Acala’s LCDOT](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157) мав успіх утікаючих, і це призвело до майже 28% усіх внесків.<0> Оскільки понад 24 мільйони DOT (971 мільйон доларів США) внесли безпосередньо в Acala, цей аукціон, швидше за все, пішов би іншим шляхом без нього.
 
-Additionally,  [Binance](https://www.binance.com/en/dotslot)  proved to be a popular participation pathway with 27% of contributions across all most participants. We round out the significance contribution methods with  [Parallel Finance](https://crowdloan.parallel.fi/#/auction/polkadot)  at 11% of contributions, and  [Kraken](https://www.kraken.com/learn/parachain-auctions)  at 7%. Centralised exchanges are still clearly a preferred method of participation.
+Крім того, [ Binance ](https://www.binance.com/en/dotslot) виявився популярним шляхом участі з 27% внесків у всіх більшості учасників. Ми округляємо методи значущого внеску з [ Parallel Finance](https://crowdloan.parallel.fi/#/auction/polkadot) при 11% внесків і [ Kraken ](https://www.kraken.com/learn/parachain-auctions) при 7%. Централізовані біржі все ще є кращим методом участі.
 
 
 
-## About SubQuery Network
+## Про мережу SubQuery
 
-SubQuery is Polkadot’s leading data provider, supporting an indexing & querying layer between Layer-1 blockchains (Polkadot) and decentralized applications. SubQuery’s data service is being used by most of the Polkadot and Kusama crowdloan and parachain auction websites live today.
+SubQuery - провідний постачальник даних Polkadot, який підтримує індексацію та підсилювач; шар запитів між блокчейнами шару-1 (Polkadot) та децентралізованими програмами. Служба даних SubQuery використовується більшою частиною Polkadot та Kusama Crowdloan та сайтів парачайних аукціонів живе сьогодні.
 
-SubQuery’s protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+Протокол SubQuery абстрагує ідіосинкразії даних blockchain за допомогою SDK SubQuery, дозволяючи розробникам зосередитись на розгортанні свого основного продукту, не витрачаючи зусиль на власні технології backend.
 
 ​​​​[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
 
 
 
-## Appendix
+## Додаток
 
-All USD prices are quoted at the price at the 1st Auctions’s close = USD$40.47
+Усі ціни в доларах США котируються за ціною на 1-му аукціоні близько = 40,47 доларів США
 
-All data is from the start of the Polkadot Crowdloans to the completion of the first auction on 18th November 11.57AM UTC (block 7,756,107)
+Усі дані - від початку натовпу Polkadot до завершення першого аукціону 18 листопада 11.57 UTC (блок 7,756,107)
 
-Excluded Crowdloan Sites
+Виключені краудланські сайти
 
 -   [Acala LCDOT](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157)
 -   [Binance Crowdloan](https://www.binance.com/en/dotslot)
