@@ -1,4 +1,4 @@
-# Inside The Polkadot Crowdloans (Part 1)
+# Всередині The Polkadot Crowdloans (частина 1)
 
 ![](https://miro.medium.com/max/2400/1*JvR4YsstF6OHG3mTr_1Seg.png)
 
