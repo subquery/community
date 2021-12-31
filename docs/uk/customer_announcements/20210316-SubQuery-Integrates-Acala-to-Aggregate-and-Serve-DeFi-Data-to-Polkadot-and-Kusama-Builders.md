@@ -2,13 +2,13 @@
 
 ![](https://miro.medium.com/max/1400/1*cg4kJs0WEcyPP73EAtHomA.png)
 
-Last week [SubQuery](https://www.subquery.network/) released the next stage of their project, the [SubQuery Explorer](https://explorer.subquery.network/). This week, Acala and SubQuery have finalized an integration to allow users and developers to query and extract data from Acala’s DeFi hub for Polkadot in only minutes and at no cost.
+Минулого тижня [ SubQuery ](https://www.subquery.network/) випустили наступний етап свого проекту, [ SubQuery Explorer ](https://explorer.subquery.network/). Цього тижня Acala та SubQuery завершили інтеграцію, щоб дозволити користувачам та розробникам запитувати та витягувати дані з концентратора DeFi Acala для Polkadot лише за кілька хвилин та безкоштовно.
 
-SubQuery is a data aggregation layer that will operate between the layer-1 blockchain (Acala) and DApp layer. The solution aggregates and organizes data from Acala and other blockchains, serving up well-structured data for developers to use for a wide array of projects. This service allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+SubQuery - це шар агрегації даних, який буде працювати між шаром blockchain (Acala) та шаром DApp. Рішення агрегує та організовує дані з Acala та інших блокчейнів, обслуговуючи добре структуровані дані для розробників для використання для широкого спектру проектів. Ця послуга дозволяє розробникам DApp зосередитись на своєму основному корпусі використання та передній частині, не витрачаючи часу на створення спеціального бекенда для обробки даних.
 
-Acala is a firm believer and a long-term builder for the multi-chain future — reducing liquidity fragmentation, increasing composability, and enabling DeFi accessibility to everyone. Acala is a specialized blockchain focusing on decentralized finance (DeFi), and created multiple DeFi primitives that became a DeFi hub and infrastructure serving the Polkadot and Kusama ecosystems. The team has built products including a multi-collateralized stablecoin (aUSD — The Acala Dollar), an automated market maker (AMM) DEX, a tokenized staked asset called Liquid DOT (LDOT), and implemented a bring-your-own-gas feature allowing gas fees to be payable in any supported assets such as stablecoins. Acala’s parachain plans to play the role of DeFi hub for Polkadot and a landing pad that aggregates assets and liquidity from a variety of blockchains.
+Acala - твердий віруючий і довготривалий будівельник майбутнього багато ланцюгів - зменшення фрагментації ліквідності, підвищення композиційності та забезпечення доступності DeFi для всіх. Acala - це спеціалізований блокчейн, орієнтований на децентралізовані фінанси (DeFi), і створив декілька примітивів DeFi, які стали центром DeFi та інфраструктурою, що обслуговує екосистеми Polkadot та Kusama. Команда побудувала продукцію, включаючи багатозабезпечений стабільний колін (aUSD - долар Acala), автоматизованого виробника ринку (AMM) DEX, токенізований накопичений актив під назвою Liquid DOT (LDOT), і впровадила функцію "принести свій власний газ" дозволяючи сплачувати плату за газ у будь-яких підтримуваних активах, таких як стабільні монети. Парачаїн Акала планує зіграти роль концентратора DeFi для Polkadot та посадкового майданчика, який агрегує активи та ліквідність з різних блокчейнів.
 
-Today when you access the [SubQuery Explorer](https://explorer.subquery.network/) you’ll be welcomed with a new Acala SubQuery Project. This SubQuery dynamically tracks all the extrinsic data created on Acala and can quickly show derived aggregated stats for the following:
+Сьогодні, коли ви отримаєте доступ до [ SubQuery Explorer ](https://explorer.subquery.network/), вас чекає новий проект SubQuery Acala. Цей SubQuery динамічно відстежує всі зовнішні дані, створені на Acala, і може швидко показати отримані узагальнені статистичні дані для наступного:
 
 -   Історичні дані про зміни ліквідності (за даними провайдерів)
 -   Історичні дані про всі перехресні обміни активами
@@ -16,13 +16,13 @@ Today when you access the [SubQuery Explorer](https://explorer.subquery.network/
 
 ![](https://miro.medium.com/max/1400/0*sXPljA1RE754fuDQ)
 
-You can play around with the Acala SubQuery Graph using the [Explorer](https://explorer.subquery.network/) without implementing anything in code. Additionally, we’ve documented the types that you can specify in each GraphQL request when analysing Acala’s data.
+Ви можете грати за допомогою графіки підзапиту Acala за допомогою [ Explorer ](https://explorer.subquery.network/), не застосовуючи нічого в коді. Крім того, ми задокументували типи, які ви можете вказати у кожному запиті GraphQL під час аналізу даних Acala.
 
-Below is a simple example of how a user can quickly and easily see the previous 5 transfer events using the ACA token over the Acala Mandala network. You can see here that we use simple GraphQL language to sort and retrieve this data to any client. DApps can use this to monitor loan positions, and jump on auctions etc to help liquidate collaterals.
+Нижче наведено простий приклад того, як користувач може швидко та легко бачити попередні 5 подій передачі за допомогою маркера ACA через мережу Acala Mandala. Тут ви можете бачити, що ми використовуємо просту мову GraphQL для сортування та отримання цих даних будь-якому клієнту. DApps можуть використовувати це для моніторингу позицій позики та стрибків на аукціонах тощо, щоб допомогти ліквідувати застави.
 
 ![](https://miro.medium.com/max/1400/0*zlxPf2tz8DVX95kY)
 
-A slightly more complex example follows, where we inspect a single account and retrieve all token swap events made by it. A portfolio DApp might use this data to create an overview of the holder’s account and token performance, revenue from staking, liquidity provisioning, and expenses on borrowing.
+З цього випливає трохи складніший приклад, коли ми перевіряємо один обліковий запис і отримуємо всі зроблені ним події заміни жетонів. A portfolio DApp might use this data to create an overview of the holder’s account and token performance, revenue from staking, liquidity provisioning, and expenses on borrowing.
 
 ![](https://miro.medium.com/max/1400/0*hdTbn41vDvIYuv3_)
 
