@@ -1,8 +1,8 @@
-# SubQuery 토큰노믹스 출시
+# SubQuery 토큰노믹스 발표
 
 ![](https://miro.medium.com/max/1400/1*e42FM0TsNgOM3VacoctOzQ.png)
 
-Tokenomics는 모든 블록체인 프로젝트의 중요한 측면이며 모든 유틸리티 토큰의 성공에 중요합니다. SubQuery에서 우리는 web3의 미래를 위한 데이터를 제공할 탈중앙화 및 인센티브화 네트워크를 만들고 있습니다([백서 읽기](https://static.subquery.network/whitepaper.pdf)). 오늘 우리는 SQT가 어떻게 작동하고 번성하는 커뮤니티의 참여를 높이기 위해 어떻게 할당되는지 공개하게 된 것을 기쁘게 생각합니다.
+토크노믹스는 모든 블록체인 프로젝트에게 있어 중요하며, 모든 유틸리티 토큰 성공의 핵심입니다. SubQuery에서, 우리는 web3의 미래를 위한 데이터를 제공할 탈중앙화 및 인센티브 네트워크를 만들고 있습니다([백서 읽기](https://static.subquery.network/whitepaper.pdf)). 오늘 우리는 SQT가 어떻게 작동하고 번성하는 커뮤니티의 참여를 높이기 위해 어떻게 할당되는지 공개하게 된 것을 기쁘게 생각합니다.
 
 [우리는 최근 Acala를 통해 SubQuery 네트워크를 출시할 것이라고 발표했습니다](https://subquery.medium.com/the-subquery-network-to-launch-on-acala-decentralising-polkadots-leading-data-indexing-service-8203d686128e). Polkadot 생태계를 처음 접하는 사람들을 위해 SubQuery는 기존 파라체인 팀과 협력하여 스마트 계약(따라서 SubQuery 토큰 SQT)을 배포해야 합니다. 즉, 우리 토큰은 Polkadot의 Acala 블록체인 내에 중첩되며 Acala의 EVM+(Ethereum Virtual Machine) 솔루션으로 인해 Ethereum 생태계의 투자자가 원활하게 참여할 수 있습니다.
 
