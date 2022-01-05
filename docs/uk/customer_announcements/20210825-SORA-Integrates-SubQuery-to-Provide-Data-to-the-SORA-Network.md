@@ -2,7 +2,7 @@
 
 ![sora-header.jpg](https://miro.medium.com/max/1400/1*fPPW0DsynIt9QpvK4ZrsUA.jpeg)
 
-Today we are pleased to announce an exciting new project on SubQuery — SORA and Polkaswap. [SORA](https://sora.org/) has built a SubQuery Project that retrieves data from the SORA network to power mobile applications built on SORA and [Polkaswap.io](http://polkaswap.io/). You can try it out [here](https://explorer.subquery.network/subquery/sora-xor/sora).
+Сьогодні ми раді оголосити про новий захоплюючий проект на SubQuery - SORA та Polkaswap. [SORA](https://sora.org/) has built a SubQuery Project that retrieves data from the SORA network to power mobile applications built on SORA and [Polkaswap.io](http://polkaswap.io/). You can try it out [here](https://explorer.subquery.network/subquery/sora-xor/sora).
 
 ![sora-frontend.jpg](https://miro.medium.com/max/1400/1*pq0U6wsutlf8rjXqq7i2BQ.jpeg)
 
