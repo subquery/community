@@ -2,13 +2,13 @@
 
 ![sora-header.jpg](https://miro.medium.com/max/1400/1*fPPW0DsynIt9QpvK4ZrsUA.jpeg)
 
-Сьогодні ми раді оголосити про новий захоплюючий проект на SubQuery - SORA та Polkaswap. [SORA](https://sora.org/) has built a SubQuery Project that retrieves data from the SORA network to power mobile applications built on SORA and [Polkaswap.io](http://polkaswap.io/). You can try it out [here](https://explorer.subquery.network/subquery/sora-xor/sora).
+Сьогодні ми раді оголосити про новий захоплюючий проект на SubQuery - SORA та Polkaswap. [ SORA ](https://sora.org/) створив проект SubQuery, який отримує дані з мережі SORA для живлення мобільних додатків, побудованих на SORA та [ Polkaswap.io ](http://polkaswap.io/). Ви можете спробувати [ тут ](https://explorer.subquery.network/subquery/sora-xor/sora).
 
 ![sora-frontend.jpg](https://miro.medium.com/max/1400/1*pq0U6wsutlf8rjXqq7i2BQ.jpeg)
 
-> "SubQuery was selected to improve the UX of SORA network usage. We used SubQuery to get and list extrinsic details, calculate fiat prices and liquidity pool APY. Our goal was to get transaction history and aggregated data for applications that work with the SORA network.
+> "SubQuery було обрано для покращення використання UX мережі SORA. Ми використовували SubQuery для отримання та переліку зовнішніх деталей, обчислення фіатних цін та пулу ліквідності APY . Нашою метою було отримати історію транзакцій та узагальнені дані для програм, які працюють з мережею SORA.
 > 
-> SubQuery has been the ideal solution for our needs because the application is easy to deploy and manage, it is easy to learn and develop as well as being well documented, and it also has its own infrastructure with Github integration. SubQuery's plain data structuring provides fast access, it supports GraphQL API for client applications, it has a flexible configuration for parsing events, extrinsics, and blocks with additional filtration. Finally, the application is completely transparent for users, so they won't notice if the application was updated or stopped."—SORA Development Team
+> SubQuery було ідеальним рішенням для наших потреб, оскільки додаток легко розгортати та керувати, його легко вивчити та розвинути, а також добре задокументовано, а також має власну інфраструктуру з інтеграцією Github. Просте структурування даних SubQuery забезпечує швидкий доступ, він підтримує GraphQL API для клієнтських програм, має гнучку конфігурацію для розбору подій, екстрин та блоків з додатковою фільтрацією. Нарешті, програма є повністю прозорою для користувачів, тому вони не помітять, чи додаток було оновлено чи зупинено."- Команда розвитку SORA
 
 Polkaswap - провідний DEX у процвітаючій екосистемі Polkadot і використовує SubQuery для отримання переказів, свопів, які відбуваються в Polkaswap, додавання або видалення ліквідності, фіксованої ціни токенів та APY для пулів ліквідності.
 
@@ -16,11 +16,11 @@ SubQuery вже полегшує розробку мобільного дода�
 
 ![sora-explorer.jpg](https://miro.medium.com/max/1400/1*vjdjmmffvJ7zfOQyxo0ZAA.jpeg)
 
-In this example, we’re using SubQuery to pull the total amount of XOR that is held in each liquidity pool (filtered to show only the first 2 pools). This example also shows the current APY associated to each liquidity pool (filtered to show only the first 2 pools).
+У цьому прикладі ми використовуємо SubQuery для витягування загальної суми XOR, яка зберігається в кожному пулі ліквідності (фільтрується для показу лише перших двох пулів). Цей приклад також показує поточний APY, пов'язаний з кожним пулом ліквідності (фільтрується для показу лише перших 2 пулів).
 
 ![sora-playground.jpg](https://miro.medium.com/max/1400/1*oTh-ajGfG1oEhYdvqo12tQ.jpeg)
 
-SORA is using [SubQuery Projects](https://project.subquery.network/) to manage their project and make updates as required. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/).
+SORA використовує [ Проекти SubQuery ](https://project.subquery.network/) для управління своїм проектом та оновлення за потребою. Послуги з індексації та запитів, які ми надаємо, повністю керуються SubQuery та надаються спільноті Polkadot безкоштовно у [ SubQuery’s Explorer ](https://explorer.subquery.network/).
 
 Дослідіть проект SORA у досліднику SubQuery [ тут ](https://explorer.subquery.network/subquery/sora-xor/sora).
 
@@ -36,6 +36,6 @@ SORA створює наднаціональну світову економіч
 
 ### Про SubQuery
 
-[SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications (DApps). Currently focused on Polkadot and Substrate projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+[ SubQuery ](https://subquery.network/) - це децентралізована агрегація даних, індексація та підсилювач; шар запитів між блокчейнами рівня 1 та децентралізованими програмами (DApps). В даний час, орієнтований на проекти Polkadot та Substrate, ця послуга дозволяє розробникам зосередитись на своєму основному корпусі використання та передній частині, не витрачаючи часу на створення спеціального бекенда для обробки даних.
 
 [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Email](mailto:hello@subquery.network)
