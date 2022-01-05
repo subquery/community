@@ -4,19 +4,19 @@
 
 Минулого тижня [ DotMarketCap.com ](https://dotmarketcap.com/) розпочав свою роботу перед другою партією аукціонів Kusama Parachain, щоб надати дані, блоги, ціни та інший контент про екосистему Polkadot/Kusama.
 
-A huge amount of this live, real time data comes from SubQuery, specifically from the existing project maintained by [SubVis](https://explorer.subquery.network/subquery/subvis-io/kusama-auction). This is an excellent example of how [SubQuery's Explorer](https://explorer.subquery.network/) and open source approach facilitates collaboration and teamwork in the Polkadot ecosystem
+Величезна кількість цих даних у реальному часі надходить із SubQuery, зокрема з існуючого проекту, що підтримується [ SubVis ](https://explorer.subquery.network/subquery/subvis-io/kusama-auction). Це прекрасний приклад того, як [SubQuery's Explorer](https://explorer.subquery.network/) та підхід з відкритим кодом полегшують співпрацю та командну роботу в екосистемі Полкадот
 
 ![](https://cdn-images-1.medium.com/max/1600/1*-UL84MrIB3TtZBkDPwLMmw.png)
 
-> *"SubQuery, with over 60 projects and millions of query requests per day, as well as data from Subvis, is the perfect place to support and provide DotMarketCap with the fastest and most accurate access to Crowdloan & Auction data. With that reliable data source and DMC's signature UI UX, we believe this partnership will bring great experience and easy access to the Polkadot community."* - Sang Tran (Founder DotMarketCap)
+> * "SubQuery, що має понад 60 проектів і мільйони запитів на день, а також дані Subvis - ідеальне місце для підтримки та надання DotMarketCap найшвидшого та найточнішого доступу до Crowdloan & amp; Дані аукціону. Завдяки цьому надійному джерелу даних та UI UX підпису DMC, ми вважаємо, що це партнерство принесе великий досвід та легкий доступ до спільноти Polkadot."* - Санг Тран (засновник DotMarketCap)
 
 Аукціон Kusama parachain - найважливіша подія цього року, а з [Auction Crowdloan tracking ](https://dotmarketcap.com/auction), ви можете бути в курсі запеклої конкуренції між проектами, а також підтримати своїх улюблених кандидатів, щоб виграти слот парачейн за допомогою їх краудлоун.
 
 ![](https://cdn-images-1.medium.com/max/1600/1*n_y-1CUv1BcU2bzCs15djA.png)
 
-For SubQuery, this is a realisation of our goal to build an open community marketplace of data in our Explorer. This is the best example so far of a huge customer consuming data from a SubQuery project built and maintained by another team. It shows how symbiotic the Polkadot ecosystem is, and how teams work together to achieved a shared goal of a decentralised future
+Для SubQuery це реалізація нашої мети створити відкритий ринок даних у нашому Explorer. Це найкращий приклад того, що величезний клієнт споживає дані проекту SubQuery, побудований та підтримуваний іншою командою. Це показує, наскільки симбіотична екосистема Polkadot та як команди працюють разом, щоб досягти спільної мети децентралізованого майбутнього
 
-> *"For sure DotMarketCap 2.0 couldn’t be completed without the support of our partners: SubQuery and [Subvis.io](http://subvis.io/). All the data we used for our auction & crowdloan page was taken from [Subvis.io](http://subvis.io/). Thanks to this cooperation, things are much easier for us to get access to decentralised data. We would like to express our gratitude to Sam Zou, James Bayly and the entire SubQuery team."* - DotMarketCap
+> * "Напевно, DotMarketCap 2.0 не вдалося виконати без підтримки наших партнерів: SubQuery та [ Subvis.io ](http://subvis.io/). Усі дані, які ми використовували для нашого аукціону & amp; сторінка натовпу була взята з [ Subvis.io ](http://subvis.io/). Завдяки цій співпраці нам набагато простіше отримати доступ до децентралізованих даних. Ми хотіли б висловити подяку Сем Зу, Джеймсу Бейлі та всій команді SubQuery."* - DotMarketCap
 
 [Тут ви можете переглянути джерела даних SubVis](https://explorer.subquery.network/subquery/subvis-io/kusama-auction)
 
@@ -26,18 +26,18 @@ For SubQuery, this is a realisation of our goal to build an open community marke
 
 ## **Про DotMarketCap**
 
-DotMarketCap is a non-profit project funded by Illusionist Group, it is a website where you can find data of prices, charts, capitalization as well as the latest information and analysis of entire projects on the Polkadot ecosystem. After moths of improving, DotMarketCap has finally shown up with brand-new and interesting features. Visit dotmarketcap.com for more information.
+DotMarketCap - це некомерційний проект, що фінансується Illusionist Group, це веб-сайт, де ви можете знайти дані про ціни, графіки, капіталізацію, а також останню інформацію та аналіз цілих проектів екосистеми Polkadot. Після вдосконалення молі DotMarketCap нарешті з'явився з абсолютно новими та цікавими функціями. Відвідайте dotmarketcap.com для отримання додаткової інформації.
 
 [Website](http://dotmarketcap.com/) | [Telegram](https://t.me/DotMarketCap_ANN) | [Twitter](https://twitter.com/DotMarketCap?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 ## **Про SubQuery**
 
-[SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications (DApps). Currently focused on Polkadot and Substrate projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+[ SubQuery ](https://subquery.network/) - це децентралізована агрегація даних, індексація та підсилювач; шар запитів між блокчейнами рівня 1 та децентралізованими програмами (DApps). В даний час, орієнтований на проекти Polkadot та Substrate, ця послуга дозволяє розробникам зосередитись на своєму основному корпусі використання та передній частині, не витрачаючи часу на створення спеціального бекенда для обробки даних.
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)
 
 ## **Про Subvis.io**
 
-[Subvis.io](https://dotmarketcap.com/blog-detail/541/Subvis.io) is the primary source of data for Polkadot that investors go to in order to explore, analyse, and learn about Polkadot ecosystem. Investors use SubVis to monitor important events (especially auctions and crowdloans), analyse on-chain data to get insights for better investment decisions, and learn how the Polkadot ecosystem works.
+[ Subvis.io ](https://dotmarketcap.com/blog-detail/541/Subvis.io) є основним джерелом даних для Polkadot, до яких звертаються інвестори, щоб вивчити, проаналізувати та дізнатися про екосистему Polkadot. Інвестори використовують SubVis для моніторингу важливих подій (особливо аукціонів та натовпу), аналізують дані про ланцюги, щоб отримати уявлення про кращі інвестиційні рішення та дізнатися, як працює екосистема Polkadot.
 
 [Вебсайт](https://www.subvis.io/) | [Twitter](https://twitter.com/subvisioapp)
