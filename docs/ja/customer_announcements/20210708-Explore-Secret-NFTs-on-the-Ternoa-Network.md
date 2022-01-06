@@ -1,14 +1,14 @@
-# Explore Secret NFTs on the Ternoa Network
+# TernoaネットワークでSecret NFTを探る
 
 ![](https://miro.medium.com/max/1200/0*s1fSGGelS-HVJNBm)
 
-During the week of July 5th, Ternoa has introduced its new Wallet, an app allowing future users to send and receive $CAPS and ‘**_Secret NFTs’_** minted on the Ternoa Blockchain, as well as easily unveiling their Secret to their owners. The concept of ‘**_Secret_**’ for ‘**_NTFs_**’ has been imagined by the Ternoa team.
+7月5日の週に、Ternoaは新しいWalletを導入しました。このWalletは、未来のユーザーがTernoaブロックチェーンでミントされた$CAPSや「**_Secret NFT_**」を送受信したり、所有者にSecretを簡単に公開したりすることができるアプリです。 **_NTFs_**」のための「**_Secret_**」というコンセプトは、Ternoaチームによって想像されました。
 
-Those ‘_secret NFTs_’ can be found and purchased in the dedicated marketplace ([https://www.secret-nft.com/](https://www.secret-nft.com/)) built by the Ternoa Team. The Ternoa Wallet is a solution inspired by the [WalletConnect](https://walletconnect.org/) project, allowing users to easily login and purchase NFTs with a simple QR code interaction between the website and the app.
+それらの「_Secret NFT_」は、Ternoaチームが構築した専用のマーケットプレイス([https://www.secret-nft.com/](https://www.secret-nft.com/)) で見つけて購入することができます。 Ternoa Walletは、[WalletConnect](https://walletconnect.org/)プロジェクトにヒントを得たソリューションで、ウェブサイトとアプリの間でQRコードをやり取りするだけで、簡単にログインしてNFTを購入することができます。
 
-**_Secret NFTs_** are a special kind of NFTs invented and developed by Ternoa, and made possible by their unique and elegant blockchain architecture: Secret-NFTs are composed of two medias, one public with watermark or a lower quality, and the other private that can only be seen by the owner of said NFT. This offers an amazing protection from forgery for artists and KOLs, and opens up a lot of use cases.
+**_Secret NFT_**は、Ternoaが発明・開発した特別な種類のNFTであり、ユニークでエレガントなブロックチェーン・アーキテクチャによって実現されています。Secret NFTは2つのメディアで構成されており、1つは透かしや低品質のパブリック、もう1つは当該NFTの所有者のみが見ることができるプライベートです。 これは、アーティストやKOLにとって、偽造からの素晴らしい保護となり、多くのユースケースをもたらします。
 
-The secret media will be easily accessible by the Wallet user who is holding its SecretNFT
+シークレットメディアは、そのSecretNFTを持っているWalletユーザーが簡単にアクセスできます。
 
 **SubQuery** is supporting Ternoa by providing indexing solutions for their user balances, NFT explorer on both the Ternoa Wallet and the Secret-NFT website.
 
