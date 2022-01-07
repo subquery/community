@@ -4,15 +4,15 @@
 
 Pada bulan Agustus, [SubQuery meluncurkan program Ambassador](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) untuk menemukan pemimpin komunitas yang mempunyai passion terhadap Polkadot dan SubQuery. Tujuan kami adalah menemukan pemula yang dapat menyebarkan berita tentang SubQuery di area lokal mereka dan memberikan dukungan kepada pengembang baru yang membangun aplikasi dan layanan luar biasa di Polkadot.
 
-Kami tidak mengharapkan apa yang terjadi selanjutnya!
+Kami tidak tahu apa yang akan terjadi selanjutnya!
 
 Dalam beberapa bulan terakhir kami telah benar-benar kewalahan oleh ribuan dan ribuan aplikasi, dan rencana awal kami untuk memasukkan pelamar secara manual menjadi tantangan. Kami tahu bahwa ada banyak pelamar yang belum mendengar kabar dari kami dan menjadi jelas bahwa kami perlu melakukan pekerjaan yang lebih baik dan menyediakan cara agar komunitas kami dapat bekerja sama dengan kami.
 
-Setelah berkonsultasi dengan Duta kami yang ada, kami telah merancang metode baru dan transparan untuk naik level di [komunitas Discord kami](https://discord.com/invite/subquery) dan berpotensi menjadi Ambassador.
+Setelah berkonsultasi dengan Ambassador kami yang ada, kami telah merancang metode baru dan transparan untuk naik level di [komunitas Discord kami](https://discord.com/invite/subquery) dan berpotensi menjadi Ambassador.
 
 Hari ini, kami dengan senang hati mengumumkan pembuatan Program Spartan SubQuery. Program Spartan ada sepenuhnya dalam komunitas Discord kami, di mana calon ambassador dapat menyelesaikan tugas dan kompetisi bulanan untuk mendapatkan tag Spartan. Spartan yang kemudian naik ke puncak kelas mereka akan direkomendasikan oleh ambassador yang ada ke tim SubQuery untuk bergabung dengan barisan mereka.
 
-Selain potensi menjadi Duta, anggota Discord dengan peran Spartan akan diberikan fasilitas dan hak khusus dalam komunitas SubQuery.
+Selain potensi menjadi Ambassador, anggota Discord dengan peran Spartan akan diberikan fasilitas dan hak khusus dalam komunitas SubQuery.
 
 Untuk mengetahui lebih lanjut tentang program Spartan kami dan berpartisipasi dalam kompetisi November kami, silakan [bergabunglah dengan Discord kami](https://discord.com/invite/subquery).
 
