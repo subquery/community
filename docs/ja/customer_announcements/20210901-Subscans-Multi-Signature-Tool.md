@@ -6,7 +6,7 @@ Subscanの新しい[multi-signature wallet tool](https://medium.com/r/?url=https
 
 このツールでは、SubQueryのサービスが重要な役割を果たしており、任意のマルチシグネチャーアドレスのトランザクションに関するデータを迅速に提供することで、UXを向上させ、より高度な機能を実現しています。
 
-![Users can easily create new multi-signature addresses](https://cdn-images-1.medium.com/max/1600/1*e4AALzw8xzERhzBJgPUktQ.png)
+![ユーザーは新しいマルチシグネチャアドレスを簡単に作成できます](https://cdn-images-1.medium.com/max/1600/1*e4AALzw8xzERhzBJgPUktQ.png)
 
 > *「SubQueryのおかげで、Subscan マルチシグネチャーツール用のデータのインデックス作成が簡単になり、我々のチームでも簡単に実行できるようになりました。 SubscanのAPIサービスは標準化されているので、ユーザーがよりカスタマイズを必要とする場合には、SubQueryをお勧めします」* - Subscan
 
@@ -24,8 +24,8 @@ Subscanは、EVMモジュールやマルチトークンなど、エコロジー�
 
 [Website](https://www.subscan.io/) | [Email](mailto:hello@subscan.io) | [Medium](https://medium.com/subscan) | [Element](https://riot.im/app/#/room/!uaYUrKBueiKUurHliJ:matrix.org) | [Twitter](https://twitter.com/subscan_io/) | [GitHub](https://github.com/itering/subscan-essentials)
 
-## About SubQuery
+## SubQuery について
 
-[SubQuery](https://subquery.network/) is a data aggregation layer that will operate between the layer-1 blockchains (Kusama) and DApps (like Kodadot). This service allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+[SubQuery](https://subquery.network/)は、レイヤー1のブロックチェーン(Kusama) とDApps(Kodadotなど) の間で動作するデータ集約レイヤーです。 このサービスにより、DAppの開発者はコアユースケースとフロントエンドに集中できます。 データ処理のためのカスタムバックエンドを構築するのに時間を無駄にする必要はありません。
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)
