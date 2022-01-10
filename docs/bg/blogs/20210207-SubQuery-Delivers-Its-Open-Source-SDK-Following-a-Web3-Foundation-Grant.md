@@ -1,10 +1,10 @@
-# SubQuery Delivers its Open Source SDK Following a Web3 Foundation Grant
+# SubQuery предоставя своя SDK с отворен код след грант от Web3 Foundation
 
-## Developers can now transform and query the world’s data for the Web3 future
+## Разработчиците вече могат да трансформират и да правят заявки за световните данни за бъдещето на Web3
 
 ![](https://miro.medium.com/max/1400/1*f9Jw37LjUGu8P8W39cjDYw.png)
 
-This week OnFinality (the team behind SubQuery), delivered on their Web3 Foundation Grant to provide a complete workflow to create SubQuery projects. We’re excited to announce the work that we’ve done to complete this grant, and to share it with the world so that they can start using our project today to query their networks more efficiently.
+Тази седмица OnFinality (екипът, който стои зад SubQuery) предостави своя грант на Web3 Foundation, за да осигури цялостен работен процес за създаване на проекти SubQuery. We’re excited to announce the work that we’ve done to complete this grant, and to share it with the world so that they can start using our project today to query their networks more efficiently.
 
 SubQuery is built by the team at OnFinality, which is an infrastructure Iaas & SaaS platform for blockchain teams and users to launch nodes and get access to a large range of blockchain protocols. We have a suite of symbiotic services including our API shared node services, and have relationships with the top Polkadot/Substrate teams.
 
