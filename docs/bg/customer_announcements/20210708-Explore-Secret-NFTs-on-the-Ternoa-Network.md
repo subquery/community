@@ -1,8 +1,8 @@
-# Explore Secret NFTs on the Ternoa Network
+# Разглеждане на Secret NFTs в Ternoa Network
 
 ![](https://miro.medium.com/max/1200/0*s1fSGGelS-HVJNBm)
 
-During the week of July 5th, Ternoa has introduced its new Wallet, an app allowing future users to send and receive $CAPS and ‘**_Secret NFTs’_** minted on the Ternoa Blockchain, as well as easily unveiling their Secret to their owners. The concept of ‘**_Secret_**’ for ‘**_NTFs_**’ has been imagined by the Ternoa team.
+През седмицата на 5 юли Ternoa представи новия си портфейл - приложение, което позволява на бъдещите потребители да изпращат и получават $CAPS и ‘**_Secret NFTs’_**, изсечени в блокчейна на Ternoa, както и лесно да разкриват своите Secret на собствениците им. Концепцията ‘**_Secret_**’ for ‘**_NTFs_**’ от екипа на Ternoa.
 
 Those ‘_secret NFTs_’ can be found and purchased in the dedicated marketplace ([https://www.secret-nft.com/](https://www.secret-nft.com/)) built by the Ternoa Team. The Ternoa Wallet is a solution inspired by the [WalletConnect](https://walletconnect.org/) project, allowing users to easily login and purchase NFTs with a simple QR code interaction between the website and the app.
 
