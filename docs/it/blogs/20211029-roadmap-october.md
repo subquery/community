@@ -128,48 +128,48 @@ Abbiamo l'obiettivo di un miliardo di richieste giornaliere di SubQuery al nostr
 
 È una funzionalità nuova e in continuo miglioramento che instrada automaticamente le richieste al nodo disponibile più vicino. Inoltre, ci consente di reindirizzare immediatamente tutte le richieste a una zona di sottointerrogazione di backup, fornendoci un sistema a tolleranza di errore in caso di interruzione regionale.
 
-In the future it means that we’ll be creating more and more smaller SubQuery hosted services tactically placed closer to our users.
+In futuro significa che creeremo servizi ospitati da SubQuery sempre più piccoli posizionati tatticamente più vicino ai nostri utenti.
 
-## Milestone 4 — Middle of Q2 2022
+## Traguardo 4 — metà del secondo trimestre 2022
 
-### Launch of the SubQuery Foundation
+### Lancio della SubQuery Foundation
 
-In our move to create a decentralized SubQuery Network we will establish a SubQuery Foundation to administer the future governance and growth of the ecosystem. The ownership of the SubQuery Network will come under the SubQuery foundation initially.
+Nella nostra mossa per creare una rete di subquery decentralizzata, stabiliremo una SubQuery Foundation per amministrare la futura governance e crescita dell'ecosistema. La proprietà della rete SubQuery rientrerà inizialmente nella fondazione SubQuery.
 
-### Finalise research for other Layer-1 chains
+### Finalizza la ricerca per altre chains Layer-1
 
-While our home will always be Polkadot we are exploring supporting various other Layer-1 blockchains with our indexing capabilities.
+Anche se la nostra casa sarà sempre Polkadot, stiamo esplorando il supporto di vari altri blockchain Layer-1 con le nostre capacità di indicizzazione.
 
-### Liquidity mining program
+### Programma di estrazione di liquidità
 
-In order to enhance the liquidity of the SQT token, we will create a liquidity mining program with a decentralized exchange (DEX). This will enable token holders to generate returns on their investment.
+Al fine di aumentare la liquidità del token SQT, creeremo un programma di mining di liquidità con uno scambio decentralizzato (DEX). Ciò consentirà ai possessori di token di generare ritorni sul proprio investimento.
 
-## Milestone 5 — End of Q2 2022
+## Traguardo 5 — Fine del secondo trimestre 2022
 
 ### Mainnet launch 🚀
 
-After we complete testing of the SubQuery network will launch the first SubQuery Network mainnet. This is where everything really starts. Initially, we will onboard and reward participants of the test network, and then it will be completely open to everyone in the community.
+Dopo aver completato il test della rete SubQuery, verrà avviata la prima mainnet della rete SubQuery. È qui che tutto inizia davvero. Inizialmente, analizzeremo e ricompenseremo i partecipanti alla rete di test, quindi sarà completamente aperta a tutti nella comunità.
 
-### Centralised Exchange launch
+### Lancio di uno scambio centralizzato
 
-In order to drive increased adoption of SQT, we anticipate launching the token on one if not multiple leading CEX during this period as well as many other DEXs.
+Al fine di promuovere una maggiore adozione di SQT, prevediamo di lanciare il token su uno, se non più, CEX leader durante questo periodo, nonché su molti altri DEX.
 
-## Milestone 6 — Long term plans
+## Traguardo 6 — Piani a lungo termine
 
-### Launch our own Parachain
+### Lancia il nostro Parachain
 
-Although we initially plan to partner with a top Polkadot parachain to get SubQuery Network released and scaled quicker, in the long-term SubQuery also intends to launch on it’s own parachain and integrate itself even more in the ecosystem.
+Sebbene inizialmente prevediamo di collaborare con una delle migliori parachain Polkadot per ottenere il rilascio e la scalabilità di SubQuery Network più rapidamente, a lungo termine SubQuery intende anche lanciarsi sulla propria parachain e integrarsi ancora di più nell'ecosistema.
 
-This self owned parachain will allow us to further innovate in tools that can help developers build the web3 future faster. We want to aim for a parachain slot once we have a proven track record behind us and the data, community, and token to support it.
+Questa paracatena di proprietà ci consentirà di innovare ulteriormente in strumenti che possono aiutare gli sviluppatori a costruire più velocemente il futuro del web3. Vogliamo puntare a uno slot parachain una volta che avremo una comprovata esperienza alle spalle e i dati, la community e il token per supportarlo.
 
-### SubQuery Foundation moves to a DAO
+### SubQuery Foundation si sposta in un DAO
 
-This one is a long way off, but it’s always our dream the SubQuery eventually becomes a community owned DAO. We’ve said many times that the community plays a huge part in SubQuery, everything that we do is for our customers — becoming a DAO is the embodiment of that focus.
+Questo è molto lontano, ma è sempre il nostro sogno che SubQuery alla fine diventi un DAO di proprietà della comunità. Abbiamo detto molte volte che la community gioca un ruolo enorme in SubQuery, tutto ciò che facciamo è per i nostri clienti — diventare un DAO è l'incarnazione di tale obiettivo.
 
-That being said, this is a long long way off, and will only be done once we are absolutely confident of SubQuery's success and future with the community.
+Detto questo, questo è molto lontano e sarà fatto solo quando saremo assolutamente sicuri del successo e del futuro di SubQuery con la comunità.
 
-## About SubQuery
+## Informazioni su SubQuery
 
-[SubQuery](https://subquery.network) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. The protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+[SubQuery](https://subquery.network) è un'aggregazione di dati decentralizzata, indicizzazione e & livello di query tra blockchain di livello 1 e applicazioni decentralizzate. Il protocollo astrae le idiosincrasie dei dati blockchain con l'SDK SubQuery, consentendo agli sviluppatori di concentrarsi sull'implementazione del loro prodotto principale senza sprecare inutilmente sforzi in tecnologie di back-end personalizzate.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
