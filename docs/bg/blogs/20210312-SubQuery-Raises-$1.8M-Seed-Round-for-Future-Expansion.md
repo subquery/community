@@ -30,5 +30,5 @@ OnFinality е екипът зад SubQuery, които са инфраструк
 -   [Discord](https://discord.com/invite/78zg8aBSMG)
 -   [Telegram](https://t.me/subquerynetwork)
 -   [Twitter](https://twitter.com/subquerynetwork)
--   [Matrix](https://matrix.to/#/#subquery:matrix.org)
+-   [Twitter](https://matrix.to/#/#subquery:matrix.org)
 -   [LinkedIn](https://www.linkedin.com/company/subquery)
