@@ -1,44 +1,44 @@
-# SubQuery Releases Tokenomics
+# SubQuery пуска токеномикату
 
 ![](https://miro.medium.com/max/1400/1*e42FM0TsNgOM3VacoctOzQ.png)
 
-Tokenomics is an important aspect of any blockchain project and is critical to the success of any utility token. At SubQuery, we’re creating a decentralised and incentivised network that will provide the data for the web3 future ([read our whitepaper](https://static.subquery.network/whitepaper.pdf)). Today we are excited to unveil how the SQT will work and how it will be allocated to boost participation by our thriving community.
+Токеномиката е важен аспект на всеки блокчейн проект и е от решаващо значение за успеха на всеки полезен токен. В SubQuery създаваме децентрализирана и стимулирана мрежа, която ще осигури данните за бъдещето на Web3 ([прочетете нашия whitepaper](https://static.subquery.network/whitepaper.pdf)). Днес сме развълнувани да разкрием как ще работи SQT и как ще се разпределя, за да се стимулира участието на нашата процъфтяваща общност.
 
-[We recently announced that we would be launching the SubQuery Network via Acala](https://subquery.medium.com/the-subquery-network-to-launch-on-acala-decentralising-polkadots-leading-data-indexing-service-8203d686128e). For those who may be new to the Polkadot ecosystem, SubQuery needs to partner with an existing parachain team to deploy its smart contracts (and therefore the SubQuery token SQT) in order to go live. In other words, our token is nested within the Acala blockchain on Polkadot and will seamlessly allow participation by investors from the Ethereum ecosystem due to Acala’s EVM+ (Ethereum Virtual Machine) solution.
+[Наскоро обявихме, че ще стартираме мрежата SubQuery чрез Acala](https://subquery.medium.com/the-subquery-network-to-launch-on-acala-decentralising-polkadots-leading-data-indexing-service-8203d686128e). За тези, които са нови в екосистемата Polkadot, SubQuery трябва да си партнира със съществуващ екип на парачейне, за да разгърне своите smart contracts (и следователно токена SubQuery SQT), за да заработи на живо. С други думи, нашият токен е вложен в блокчейна на Acala в Polkadot и безпроблемно ще позволи участието на инвеститори от екосистемата на Ethereum благодарение на решението EVM+ (Ethereum Virtual Machine) на Acala.
 
-In preparation for the upcoming launch with Acala of SubQuery’s SQT token, it is important to understand a few key aspects such as the token utility, allocation and vesting schedules.
+При подготовката за предстоящото пускане на токена SQT на SubQuery в Acala е важно да се разберат няколко ключови аспекта, като например полезността на токена, графиците за разпределение.
 
-## Token Utility
+## Полезност токени
 
-As outlined in the whitepaper, we aim to establish SQT as the token which powers the SubQuery network, providing an incentive for participation, as well as serving as a medium of exchange for transactions within the SubQuery network. SQT will be the fuel for the web3 data revolution.
+Както е описано в whitepaperт, целта ни е да утвърдим SQT като токена, който захранва мрежата SubQuery, предоставяйки стимул за участие и служейки като средство за размяна на транзакции в рамките на мрежата SubQuery. SQT ще бъде горивото за революцията в областта на данните в web3.
 
-In practice, this means that SubQuery is intended to function as a blockchain data marketplace where both Consumers (buyers) and Indexers (sellers) can meet to exchange data for SQT tokens. The third participant in our model are Delegators who participate in the network by supporting their favourite Indexers by delegating their tokens to them in order to earn rewards.
+На практика това означава, че SubQuery има за цел да функционира като пазар за блокчейн данни, където потребителите (купувачи) и индексиращите (продавачи) могат да се срещат, за да обменят данни срещу SQT токени. Третият участник в нашия модел са делегаторите, които участват в мрежата, като подкрепят любимите си индексатори, делегирайки им своите токени, за да печелят награди.
 
-In the future we envision that holders of the SQT token will be able to inform the SubQuery Foundation about their vision for the overall direction of SubQuery as our network adopts some qualities of a decentralised autonomous organisation (DAO).
+В бъдеще предвиждаме, че притежателите на токена SQT ще могат да информират SubQuery Foundation за своята визия за цялостната посока на SubQuery, тъй като нашата мрежа придобива някои качества на децентрализирана автономна организация (DAO).
 
-## Token Allocation
+## Разпределение на токени
 
-SubQuery will mint a fixed supply of 10 billion SQT which will be allocated in the following manner.
+SubQuery ще изкопае фиксирано количество от 10 милиарда SQT, които ще бъдат разпределени по следния начин.
 
 ![](https://miro.medium.com/max/1400/0*eG2TM3J0NZDaT14m)
 
-From the start, SubQuery has been focused on building value within our community and we aim to keep it that way by apportioning the largest allocation of tokens (41%) to the Community and SubQuery Foundation.
+От самото начало SubQuery се фокусира върху изграждането на стойност в рамките на нашата общност и се стремим да запазим това, като разпределяме най-голямата част от токените (41%) за Общността и SubQuery Foundation.
 
-The Foundation, which will be established in early 2022, will administer the future governance and growth of the ecosystem and the ownership of the SubQuery Network will come under the SubQuery foundation initially. This large allocation also includes consideration for future investment into the development and operations of the Network, and key ecosystem growth drivers. This will include tools such as grants and ecosystem incentives/events as well as other marketing activities including bug bounties and mainnet incentives.
+Фондацията, която ще бъде създадена в началото на 2022 г., ще управлява бъдещото управление и растеж на екосистемата, а собствеността върху SubQuery Network първоначално ще премине към фондацията SubQuery. Това голямо разпределение включва и съображения за бъдещи инвестиции в развитието и експлоатацията на мрежата, както и ключови фактори за растеж на екосистемата. Това ще включва инструменти като безвъзмездни средства и стимули/събития за екосистемите, както и други маркетингови дейности, включително награди за грешки и стимули за mainnet.
 
-Our early investors in both our Seed and Series A rounds have a combined allocation of 27%. In the case of [our Seed investors](https://subquery.medium.com/subquery-raises-1-8m-seed-round-for-future-expansion-3348c1f2a931), we are grateful for their early vision and commitment after we [received a grant from the Web3 foundation](https://subquery.medium.com/subquery-delivers-its-open-source-sdk-following-a-web3-foundation-grant-20da26ae87f) to build the initial phase of SubQuery. Following on from this, [our growth was accelerated with the support of our Series A investors](https://subquery.medium.com/series-a-1abed6c1c2af) who allowed us to take the project to the next level.
+Нашите ранни инвеститори в рундовете Seed и Series A имат общо разпределение от 27%. В случая с нашите [Seed-инвеститори](https://subquery.medium.com/subquery-raises-1-8m-seed-round-for-future-expansion-3348c1f2a931) сме благодарни за тяхната ранна визия и ангажираност, след като [получихме безвъзмездна помощ от Web3 foundation](https://subquery.medium.com/subquery-delivers-its-open-source-sdk-following-a-web3-foundation-grant-20da26ae87f) за изграждане на началната фаза на SubQuery. След това [развитието ни се ускори с подкрепата на нашите инвеститори от серия А](https://subquery.medium.com/series-a-1abed6c1c2af), които ни позволиха да изведем проекта на следващото ниво.
 
-For the Public Sale which we anticipate to be in March 2022, we have allocated 12% of token supply across at least two sequential rounds. The exact structure and timing of these rounds will be provided at a later date, however we will be providing guaranteed allocation for [key community members](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) (e.g. Ambassadors, Spartans) and [network participants](https://subquery.medium.com/subquery-extends-invitation-to-indexing-community-348fb2f589e1) (e.g. test network participants and referenceable customers). Each category will have its own minimum and maximum allocation.
+За публичната продажба, която очакваме да бъде през март 2022 г., сме разпределили 12% от предлаганите токени в поне два последователни кръга. Точната структура и графикът на тези кръгове ще бъдат предоставени на по-късна дата, но ще осигурим гарантирано разпределение на средства за [ключови членове на общността](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) (напр. посланици, спартанци) и [участници в мрежата](https://subquery.medium.com/subquery-extends-invitation-to-indexing-community-348fb2f589e1) (напр. участници в тестови мрежи и референтни клиенти). Всяка категория ще има собствено минимално и максимално разпределение.
 
-Finally, the SubQuery Team and Launch Partners have been allocated 20% of the token supply in return for their contributions in building and promoting the project.
+И накрая, на екипа на SubQuery и на партньорите за стартиране бяха отпуснати 20% от токените в замяна на приноса им в изграждането и популяризирането на проекта.
 
-## Token Vesting Schedules
+## Графици за придобиване на токени
 
-The token allocation by itself is nothing without understanding the way in which the tokens are distributed to the relative holders. The graphic below illustrates the release of the SQT tokens to each participant over time culminating in the full circulation of tokens occurring 5 years (60 months) after launch.
+Разпределението на токените само по себе си е нищо, ако не се разбере начинът, по който токените се разпределят между съответните притежатели. Графиката по-долу илюстрира освобождаването на токени SQT за всеки участник с течение на времето, като кулминацията е пълното разпространение на токените 5 години (60 месеца) след старта.
 
 ![](https://miro.medium.com/max/1400/0*mfIBkH4SjFZgGuIq)
 
-We have thought carefully about the vesting schedules for each participant in order to create long-term value for the project and generate confidence to token-holders. Perhaps most significantly, the core team will have a 24 month lock-up period while some Public Sale participants can freely use the utility of their token upon launch.
+Внимателно обмислихме графиците за придобиване на права за всеки участник, за да създадем дългосрочна стойност за проекта и да вдъхнем доверие на притежателите на токени. Perhaps most significantly, the core team will have a 24 month lock-up period while some Public Sale participants can freely use the utility of their token upon launch.
 
 The breakdown of each holder is as follows and is subject to change:
 
@@ -55,10 +55,10 @@ The exact details of when and how the SQT token will be allocated and distribute
 
 For the listing of SQT, we are planning to be available on key decentralised (DEX) and centralised exchanges (CEX) to make it as easy as possible for everyone to participate in the SubQuery Network. We are looking forward to you all joining us on our mission to help developers build the decentralised applications of the future.
 
-## About SubQuery Network
+## За SubQuery Network
 
 SubQuery is Polkadot’s leading data provider, supporting an indexing & querying layer between Layer-1 blockchains (Polkadot) and decentralised applications. SubQuery’s data service is being used by most of the Polkadot and Kusama crowdloan and parachain auction websites live today.
 
 SubQuery’s protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
 
-​​​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
