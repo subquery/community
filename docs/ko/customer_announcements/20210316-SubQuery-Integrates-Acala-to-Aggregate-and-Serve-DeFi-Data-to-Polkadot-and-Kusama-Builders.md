@@ -1,4 +1,4 @@
-# SubQuery, Acala를 통합하여 DeFi 데이터를 집계하고 Polkadot 및 Kusama 빌더에 제공
+# SubQuery, Acala에 통합하여 DeFi 데이터를 집계하고 Polkadot 및 Kusama 빌더에 제공
 
 ![](https://miro.medium.com/max/1400/1*cg4kJs0WEcyPP73EAtHomA.png)
 
