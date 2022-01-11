@@ -1,11 +1,11 @@
-# April 2021 Recap
+# Riepilogo aprile 2021
 
-April was an incredibly busy month for SubQuery, our growth is starting to accelerate at a serious pace and we’re breaking new records each day. As we mentioned last month, our focus in the short term is on two elements; scaling our platform to keep up with skyrocketing demand, and engaging with more and more partners to help them create their own SubQuery projects.
+Aprile è stato un mese incredibilmente impegnativo per SubQuery, la nostra crescita sta iniziando ad accelerare a un ritmo serio e stiamo battendo nuovi record ogni giorno. Aprile è stato un mese incredibilmente impegnativo per SubQuery, la nostra crescita sta iniziando ad accelerare a un ritmo serio e stiamo battendo nuovi record ogni giorno.
 
-In this monthly update:
+In questo aggiornamento mensile:
 
--   Focus on Partner tools — SubQuery Projects Launch
--   BiFrost SubQuery use case
+-   Concentrarsi sugli strumenti per i partner: lancio di progetti di Subquery
+-   Caso d'uso della SubQuery BiFrost
 -   Scalability Improvements by our service provider OnFinality
 -   And more…
 
