@@ -56,28 +56,28 @@
 
 ## AMA с DotMarketCap 🎙
 
-Имахме удоволствието да бъдем домакини на DotMarketCap на 5 август за AMA със Сам и Джеймс. Въпросите на публиката варираха от области като DeFi и NFT до много въпроси за плановете ни за растеж и нашето бъдеще. We shared insights on why we began our project in Polkadot and if our token will be launched as an ERC-20 or not.
+Имахме удоволствието да бъдем домакини на DotMarketCap на 5 август за AMA със Сам и Джеймс. Въпросите на публиката варираха от области като DeFi и NFT до много въпроси за плановете ни за растеж и нашето бъдеще. Споделихме информация за това защо започнахме проекта си в Polkadot и дали нашият токен ще бъде пуснат като ERC-20 или не.
 
-[You can read the interview here](https://dotmarketcap.com/blog-detail/288/ama30-recap-polkawarriors-x-subquery).
+[Можете да прочетете интервюто тук](https://dotmarketcap.com/blog-detail/288/ama30-recap-polkawarriors-x-subquery).
 
-## Activity in China 🇨🇳
+## Дейност в Китай 🇨🇳
 
 ![](https://miro.medium.com/max/1400/0*A5oqsryFRbGX0MDx)
 
-Siqi, who leads our business development in China, has had a busy month with a number of [online panel discussions alongside Moonbeam](https://twitter.com/SubQueryNetwork/status/1425293137103122432/photo/1), Acala, Astar and Phala. In addition she has participated in AMA's organised by Polkadot on August 11th and an AMA hosted by [ODaily](http://www.odaily.com/) and Acala on August 13th.
+Сики, който ръководи бизнес развитието ни в Китай, имаше натоварен месец с редица [онлайн панелни дискусии заедно с Moonbeam](https://twitter.com/SubQueryNetwork/status/1425293137103122432/photo/1), Acala, Astar и Phala. Освен това тя е участвала в AMA, организиран от Polkadot на 11 август, и в AMA, организиран от [ODaily](http://www.odaily.com/) и Acala на 13 август.
 
-We are looking forward to growing our Chinese community significantly in the coming months through activities such as hackathons. As such, [we will be running a workshop with Encode Club](https://www.eventbrite.co.uk/e/polkadot-hackathon-subquery-workshop-tickets-167321106935?aff=ebdsoporgprofile) and running a hackathon with OneBlock+ to help introduce SubQuery to new audiences.
+Очакваме с нетърпение да увеличим значително китайската си общност през следващите месеци чрез дейности като хакатони. В тази връзка [ще проведем семинар с Encode Club](https://www.eventbrite.co.uk/e/polkadot-hackathon-subquery-workshop-tickets-167321106935?aff=ebdsoporgprofile) и хакатон с OneBlock+, за да представим SubQuery на нова аудитория.
 
-## Delivering the 2nd Milestone of Polkadot Common API ✅
+## Предоставяне на втория крайъгълен камък на Polkadot Common API ✅
 
-We are pleased to make progress in the [development of an open-source dApp API ](https://docs.google.com/document/d/13L8HBwB6VB-n2g274FFFJKORYPJsq744C6H8iEDQ0-0/edit)for Kusama in conjunction with the team at [Fearless Wallet](https://fearlesswallet.io/). This work is being supported by a Kusama Treasury grant.
+Имаме удоволствието да постигнем напредък в [разработването на API за приложения с отворен код ](https://docs.google.com/document/d/13L8HBwB6VB-n2g274FFFJKORYPJsq744C6H8iEDQ0-0/edit)за Kusama съвместно с екипа на [Fearless Wallet](https://fearlesswallet.io/). Тази работа е подкрепена от гранти на Kusama Treasury.
 
-Nearing completion of the second milestone in this project means that there will soon be a defined and common core data API interface for Polkadot, Kusama, and other parachains which will attract more developers to the ecosystem. Making development intuitive and as painless as possible is one of our key objectives!
+Близкото завършване на втория етап от този проект означава, че скоро ще има дефиниран и общ API интерфейс за основните данни за Polkadot, Kusama и други парашайби, което ще привлече повече разработчици към екосистемата. Да направим разработката интуитивна и възможно най-безпроблемна е една от основните ни цели!
 
 *****
 
-As always, please join our social channels to stay updated on our latest news and announcements.
+Както винаги, моля, присъединете се към нашите социални канали, за да бъдете информирани за последните ни новини и съобщения.
 
-James, Sam, and the SubQuery Team
+Джеймс, Сам и екипът на SubQuery
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
