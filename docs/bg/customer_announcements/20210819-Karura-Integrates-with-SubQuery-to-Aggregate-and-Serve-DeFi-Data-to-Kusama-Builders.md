@@ -24,20 +24,20 @@ Karura също така предлага етичен и устойчив мо�
 
 [Прочетете повече за задълбоченото проучване на Karura тук](https://medium.com/acalanetwork/countdown-to-karura-a-deep-dive-on-the-defi-hub-of-kusama-410066fc1e1f)
 
-## Open Tools for Karura DApp Builders
+## Отворени инструменти за създателите на DApp на Karura
 
-It's now up to the Karura community to build the first community dApp in the DeFi hub of Kusama. Below is a simple example of how Karura can use SubQuery to find and retrieve the past extrinsics (and the transfers within them) for any account on Karura --- you can see that this is made completely online in the [SubQuery explorer](https://explorer.subquery.network/subquery/AcalaNetwork/karura).
+Сега от общността на Karura зависи да изгради първия общностен dApp в DeFi центъра на Кусама. По-долу е даден прост пример за това как Karura може да използва SubQuery за намиране и извличане на миналите екстри (и преводите в тях) за всяка сметка в Karura --- можете да видите, че това е направено изцяло онлайн в [SubQuery explorer](https://explorer.subquery.network/subquery/AcalaNetwork/karura).
 
 ![](https://cdn-images-1.medium.com/max/1600/0*t6stH0LeQC8M5fSp)
 
-## About SubQuery
+## За SubQuery
 
-[SubQuery](https://subquery.network/) is a data aggregation layer that will operate between the layer-1 blockchains (Karura) and dApps. SubQuery allows dApp developers to explore and transform on-chain data to build intuitive dApps faster, without needing to worry about building or managing custom backends for data processing. [Get started now](https://doc.subquery.network/).
+[SubQuery](https://subquery.network/) е слой за агрегиране на данни, който ще работи между блокчейн на слой 1 (Karura) и dApps. SubQuery позволява на разработчиците на dApp да изследват и трансформират данни от веригата, за да създават интуитивни dApps по-бързо, без да се налага да се притесняват за изграждането или управлението на персонализирани бекендове за обработка на данни. [Започнете сега](https://doc.subquery.network/).
 
 [Website](https://subquery.network/) | [Documentation](https://doc.subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
 
-## About Karura
+## За Karura
 
-[Karura](http://acala.network/karura) is the all-in-one DeFi hub of Kusama. Founded by the Acala Foundation, Karura is a scalable, EVM-compatible network optimized for DeFi. The platform offers a suite of financial applications including: a trustless staking derivative (liquid KSM), a multi-collateralized stablecoin backed by cross-chain assets (kUSD), and Karura Swap, an AMM DEX --- all with micro gas fees that can be paid in any token. Karura is a blockchain platform custom-built for DeFi and powered by KAR, which enables settlement for transactions and smart contract execution, incentivizes node operators, and empowers its holders to participate in governance.
+[Karura](http://acala.network/karura) е универсалният DeFi център на Кусама. Основана от Acala Foundation, Karura е мащабируема, съвместима с EVM мрежа, оптимизирана за DeFi. Платформата предлага набор от финансови приложения, включително: ненадежден дериват за залози (liquid KSM), мулти-обезпечен стабилкойн, обезпечен с cross-chain активи (kUSD), и Karura Swap, AMM DEX --- всичко това с такси за микро газ, които могат да бъдат платени във всеки токен. Karura е блокчейн платформа, създадена по поръчка за DeFi и захранвана от KAR, която позволява сетълмент на трансакции и изпълнение на smart contract, стимулира операторите на възли и дава възможност на притежателите ѝ да участват в управлението.
 
 [Linktree](http://linktr.ee/karuranetwork) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) | [Discord](https://discord.gg/vdbFVCH) | [Website](http://acala.network/karura) | [Twitter](https://twitter.com/KaruraNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [YouTube](http://youtube.com/c/acalanetwork)
