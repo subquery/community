@@ -1,62 +1,62 @@
-# August 2021 Recap
+# Обобщение за август 2021 г.
 
-**Expanding Our Reach**
+**Разширяване на обхвата ни**
 
-Welcome to the latest monthly update from SubQuery. Following on from last month, August has seen rapid expansion in the growth of our Community around the world! We have also been busy working on decentralising our platform as we prepare for a TGE in the coming months.
+Добре дошли в последната месечна актуализация от SubQuery. В продължение на миналия месец, през август се наблюдава бързо разрастване на нашата Общност по целия свят! Освен това работим усилено по децентрализацията на нашата платформа, тъй като се подготвяме за TGE през следващите месеци.
 
-In this monthly update:
+В тази месечна актуализация:
 
--   Onboarding Ambassadors 👩‍💼
--   Kicked off work on the SubQuery Network 🏗
--   Huge Community Growth 🚀
--   New Projects on SubQuery 🤝
--   AMA with DotMarketCap 🎙
--   Activity in China 🇨🇳
--   Delivering the 2nd Milestone of Polkadot Common API ✅
+-   Набиране на посланици👩‍💼
+-   Започнахме работа по SubQuery Network 🏗
+-   Огромен растеж на общността 🚀
+-   Нови проекти на SubQuery 🤝
+-   AMA с DotMarketCap 🎙
+-   Дейност в Китай 🇨🇳
+-   Предоставяне на втория крайъгълен камък на Polkadot Common API ✅
 
-## Onboarding Ambassadors 👩‍💼
+## Набиране на посланици 👩💼
 
 ![](https://miro.medium.com/max/1400/0*_nOcsPjhQxta_FPH)
 
-After [launching our Ambassador program](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) last month, we have been amazed by the excitement in the community and quality of the participants. To date, we have received just under 2,000 applications almost every continent (we're calling out for applications from Antarctica ☃️) and onboarded over 30 people thus far.
+След [стартирането на нашата програма за посланици](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) миналия месец, бяхме изумени от вълнението в общността и качеството на участниците. До момента сме получили малко под 2000 кандидатури от почти всички континенти (призоваваме за кандидатури от Антарктида ☃️) и сме вземете над 30 души.
 
-Tre has been doing an excellent job leading this initiative and [engaging with the community on Discord](https://discord.com/invite/78zg8aBSMG). As we are already seeing the benefits of having a closer relationship with the supporters of SubQuery, we will be expanding the team in the next few weeks so please be patient if you haven't heard from us yet!
+Тре се справя отлично с ръководенето на тази инициатива и [с общуването с общността в Discord](https://discord.com/invite/78zg8aBSMG). Тъй като вече виждаме ползите от по-близките отношения с поддръжниците на SubQuery, ще разширим екипа през следващите няколко седмици, така че моля, бъдете търпеливи, ако все още не сте получили отговор от нас!
 
-## Huge Community Growth 🚀
+## Огромен растеж на общността 🚀
 
-The growth in our community has been accelerating this month with our Discord blasting nearing 2,000 vibrant and supportive members. We have also grown our Twitter audience to over 6,000 followers.
+Растежът на нашата общност се ускори през този месец, като броят на членовете на Discord наближи 2 000, които ни подкрепят. Също така увеличихме аудиторията си в Twitter до над 6 000 последователи.
 
-We are particularly pleased about this growth as our project has focused on building a smaller but high quality developer community firstly. As we approach our TGE, these numbers should explode as we shift focus to the retail and investor audience.
+Особено сме доволни от този ръст, тъй като нашият проект се фокусира върху изграждането на по-малка, но висококачествена общност от разработчици. С наближаването на TGE тези цифри трябва да нараснат, тъй като се фокусираме върху аудиторията на дребно и инвеститорите.
 
-To help us accelerate this growth, and ensure that our community is engaged and active in the ecosystem, Rob has joined our team as our new Head of Marketing. Additionally, we also welcome Tre as our strategic business development manager in the US and Europe.
+За да ни помогне да ускорим този растеж и да гарантираме, че нашата общност е ангажирана и активна в екосистемата, Роб се присъедини към екипа ни като нов ръководител на отдел "Маркетинг". Освен това приветстваме Тре като наш мениджър стратегическо бизнес развитие в САЩ и Европа.
 
-## Kicked off work on SubQuery Network 🏗
+## Започнах работа по SubQuery Network 🏗
 
-Yes! The work on [moving SubQuery towards a decentralised and tokenised network](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010); the SubQuery Network, has begun! This migration will ensure that there is no single point of failure for SubQuery and to encourage participants via the SQT token. In order to help us with this significant change, we have recruited new developers to join us this month.
+Да! Работата по [преминаването на SubQuery към децентрализирана и токенизирана мрежа](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010) SubQuery Network, започна! Тази миграция ще гарантира, че няма единична точка на отказ за SubQuery и ще насърчи участниците чрез токен SQT. За да ни помогнат с тази значителна промяна, този месец към нас се присъединиха нови разработчици.
 
-## New Projects on SubQuery 🤝
+## Нови проекти на SubQuery 🤝
 
 ![](https://miro.medium.com/max/4800/1*yUruZPSKP_0BA6mA72P8xg.gif)
 
-In August we launched several new projects on SubQuery including those with Subscan, Karura, Subscan, Polkaswap, and Soramitsu.
+През август стартирахме няколко нови проекта в SubQuery, включително тези със Subscan, Karura, Subscan, Polkaswap и Soramitsu.
 
-For Karura, [SubQuery is being used to extract and query data from Karura's chain](https://subquery.medium.com/karura-integrates-with-subquery-to-aggregate-and-serve-defi-data-to-kusama-builders-d34f0e722311?source=your_stories_page-------------------------------------), making queries fast and efficient for [Karura's app](https://apps.karura.network/).
+За Karura се използва [SubQuery за извличане и търсене на данни от веригата на Karura](https://subquery.medium.com/karura-integrates-with-subquery-to-aggregate-and-serve-defi-data-to-kusama-builders-d34f0e722311?source=your_stories_page-------------------------------------), което прави заявките бързи и ефективни за [приложението на Karura](https://apps.karura.network/).
 
-SubQuery's service is playing a key role in [Subscan](https://www.subscan.io/) by [providing fast data on transactions](https://subquery.medium.com/subscans-multi-signature-tool-powered-by-subquery-926da3e4fc25?source=your_stories_page-------------------------------------) for any given multi signature address, thereby improving the UX and allowing for more advanced features.
+Услугата SubQuery играе ключова роля в [Subscan](https://www.subscan.io/) чрез [предоставяне на бързи данни за трансакциите](https://subquery.medium.com/subscans-multi-signature-tool-powered-by-subquery-926da3e4fc25?source=your_stories_page-------------------------------------) за всеки даден адрес с множество подписи, като по този начин подобрява потребителския интерфейс и дава възможност за по-усъвършенствани функции.
 
-[SORA](https://sora.org/) has built a [SubQuery Project that retrieves data from the SORA network](https://subquery.medium.com/sora-integrates-subquery-to-provide-data-to-the-sora-network-5a73f77a40aa?source=your_stories_page-------------------------------------) to power mobile applications built on SORA and [Polkaswap.io](http://polkaswap.io/). You can read more here
+[SORA](https://sora.org/) изгради проект [SubQuery, който извлича данни от мрежата SORA](https://subquery.medium.com/sora-integrates-subquery-to-provide-data-to-the-sora-network-5a73f77a40aa?source=your_stories_page-------------------------------------), за да захранва мобилни приложения, изградени върху SORA и [Polkaswap.io](http://polkaswap.io/). Можете да прочетете повече тук
 
-In both cases, we are thankful to have such great feedback like this from our partners:
+И в двата случая сме благодарни, че получаваме такива отлични отзиви от нашите партньори:
 
-*"Using Subquery makes building dapps easy, no more making a complicated series of calls to get the data I need."* - Brett (Developer at Acala)
+*"Използването на Subquery улеснява създаването на приложения, вече не трябва да правя сложни поредици от повиквания, за да получа необходимите ми данни."* - Брет (разработчик в Acala)
 
-*"SubQuery has been the ideal solution for our needs because the application is easy to deploy and manage, it is easy to learn and develop as well as being well documented, and it also has its own infrastructure with Github integration"* - SORA Development Team
+*"SubQuery е идеалното решение за нашите нужди, тъй като приложението е лесно за внедряване и управление, лесно е за научаване и разработване, както и е добре документирано, а също така има собствена инфраструктура с интеграция в Github"* - Екип за разработка на SORA
 
-[You can view all projects easily via our Explorer here](https://explorer.subquery.network/).
+[Можете лесно да разгледате всички проекти чрез нашия Explorer тук](https://explorer.subquery.network/).
 
-## AMA with DotMarketCap 🎙
+## AMA с DotMarketCap 🎙
 
-We were delighted to be hosted by DotMarketCap on August 5th for an AMA with Sam and James. The questions from the audience ranged from areas such as DeFi and NFTs through to a lot of questions about our plans for growth and our future. We shared insights on why we began our project in Polkadot and if our token will be launched as an ERC-20 or not.
+Имахме удоволствието да бъдем домакини на DotMarketCap на 5 август за AMA със Сам и Джеймс. Въпросите на публиката варираха от области като DeFi и NFT до много въпроси за плановете ни за растеж и нашето бъдеще. We shared insights on why we began our project in Polkadot and if our token will be launched as an ERC-20 or not.
 
 [You can read the interview here](https://dotmarketcap.com/blog-detail/288/ama30-recap-polkawarriors-x-subquery).
 
