@@ -1,18 +1,18 @@
-# October 2021 Recap
+# Обобщение на октомври 2021 г.
 
 ![](https://miro.medium.com/max/1400/1*Yf3LOc6onAZ-XRQLPyxAmQ.png)
 
-**Putting Our Plans Into Motion**
+**Изпълнение на плановете ни**
 
-Welcome to the latest monthly update from SubQuery, and what will be the first one for many of you based on the growth of our community.
+Добре дошли в най-новата месечна актуализация на SubQuery, която ще бъде първата за много от вас, в зависимост от растежа на нашата общност.
 
-From here on out we will try to structure every update around three key areas; community, core product development, and the SubQuery Network.
+Оттук нататък ще се опитваме да структурираме всяка актуализация около три ключови области: общност, разработване на основни продукти и SubQuery Network.
 
 # SubQuery Network
 
-## Technical Roadmap Announced
+## Обявена е техническа пътна карта
 
-At our community call last week we shared more  about our plans for the future. We are excited about how the next evolution of SubQuery will drive even more value to the Polkadot ecosystem and provide more opportunities for our community to participate in our growth.
+По време на разговора с общността миналата седмица споделихме повече за плановете си за бъдещето. We are excited about how the next evolution of SubQuery will drive even more value to the Polkadot ecosystem and provide more opportunities for our community to participate in our growth.
 
 We’ve gone extremely deep here for transparency with the community and to rationalise the work we have ahead. It’s an ambitious timeline that we are internally using as a target, you can see how many moving pieces there are from the image below! That being said, estimating timelines for R&D software development is notoriously difficult, so nothing below is final — it’s just our best effort at estimations.
 
