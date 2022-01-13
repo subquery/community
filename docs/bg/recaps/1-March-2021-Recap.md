@@ -56,6 +56,6 @@ Berkeley’s blockchain Xcelerator не случайно е известен в 
 
 ## **Нов персонал и офис**
 
-One of the biggest changes over the past month is how much the team has grown. We’ve added two new staff over the past month and expect to hire more, as a result, we’ve found a new office in Auckland that fits us perfectly. We will grow, but still plan to remain small and nimble so we can deliver our product vision.
+Една от най-големите промени през последния месец е, че отборът е нараснал. През последния месец добавихме двама нови служители и очакваме да наемем още, в резултат на което намерихме нов офис в Окланд, който ни пасва идеално. Ще се разрастваме, но все пак планираме да останем малки и гъвкави, за да можем да реализираме визията си за продукта.
 
 ![](https://miro.medium.com/max/1400/1*cJZxerXHfgVGu4-7h2xw4Q.jpeg)
