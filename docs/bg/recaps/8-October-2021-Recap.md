@@ -12,61 +12,61 @@
 
 ## Обявена е техническа пътна карта
 
-По време на разговора с общността миналата седмица споделихме повече за плановете си за бъдещето. We are excited about how the next evolution of SubQuery will drive even more value to the Polkadot ecosystem and provide more opportunities for our community to participate in our growth.
+По време на разговора с общността миналата седмица споделихме повече за плановете си за бъдещето. Вълнуваме се как следващата еволюция на SubQuery ще доведе до още по-голяма стойност за екосистемата на Polkadot и ще предостави повече възможности на нашата общност да участва в растежа ни.
 
-We’ve gone extremely deep here for transparency with the community and to rationalise the work we have ahead. It’s an ambitious timeline that we are internally using as a target, you can see how many moving pieces there are from the image below! That being said, estimating timelines for R&D software development is notoriously difficult, so nothing below is final — it’s just our best effort at estimations.
+Навлязохме изключително дълбоко тук, за да осигурим прозрачност за общността и да рационализираме работата, която ни предстои. Това е амбициозен график, който вътрешно използваме като цел - можете да видите колко много движещи се части има на изображението по-долу! Въпреки това оценяването на сроковете за R&D разработване на софтуер за развитие на селските райони е пословично трудно, така че нищо по-долу не е окончателно - това са само нашите най-добри усилия за оценка.
 
-[Read more about our technical roadmap here](https://subquery.medium.com/subquery-releases-technical-roadmap-2a3a383c49b)
+[Прочетете повече за нашата техническа пътна карта тук](https://subquery.medium.com/subquery-releases-technical-roadmap-2a3a383c49b)
 
-## Significant Development on the SubQuery Network
+## Значително развитие на SubQuery Network
 
-Building a new decentralised and tokenised network is a huge amount of work and it is unfortunately work that isn’t clearly visible externally for some time. That being said, we’ve had a top team of dedicated developers working on this for some time, slowly but surely working through the list of smart contract implementations to bring us closer to launching the first internal testnet by the end of the year.
+Изграждането на нова децентрализирана и токенизирана мрежа е огромен обем работа и за съжаление това е работа, която не е ясно видима отвън за известно време. Въпреки това от известно време по този въпрос работи екип от отдадени разработчици, които бавно, но сигурно обработват списъка с имплементации на интелигентни договори, за да ни доближат до стартирането на първата вътрешна тестова мрежа до края на годината.
 
-# Core Product Development
+# Разработване на основни продукти
 
-## Moonriver EVM Support
+## Поддръжка на Moonriver EVM
 
-This is a significant milestone for us and a huge partnership with Moonbeam. Currently, there is no open-source tool which allows developers to flexibly collect and query data across both Ethereum and Polkadot/Kusama. This limitation can cause dApps solutions within Moonriver to be siloed into the smart contract layer and thereby limit their potential to consumers across both thriving networks.
+Това е важен етап за нас и огромно партньорство с Moonbeam. Понастоящем не съществува инструмент с отворен код, който да позволява на разработчиците гъвкаво да събират и обработват данни както за Ethereum, така и за Polkadot/Kusama. Това ограничение може да доведе до изолиране на dApps решенията в рамките на Moonriver в слоя за интелигентни договори и по този начин да ограничи потенциала им за потребителите в двете процъфтяващи мрежи.
 
-This partnership with Moonbeam brings a complete and unified data indexing solution for all blockchain data within Moonriver and will greatly benefit Moonriver’s growing application ecosystem. With SubQuery’s innovation, one tool can now query and filter EVM logs and transactions in addition to Substrate data sources.
+Партньорството с Moonbeam предоставя цялостно и унифицирано решение за индексиране на данни за всички блокчейн данни в рамките на Moonriver и ще бъде от голяма полза за разрастващата се екосистема от приложения на Moonriver. С нововъведенията на SubQuery един инструмент вече може да прави заявки и да филтрира EVM дневници и транзакции в допълнение към източниците на данни на Substrate.
 
-[Read more about our Moonriver EVM support here](https://subquery.medium.com/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff)
+[Прочетете повече за нашата поддръжка на Moonriver EVM тук](https://subquery.medium.com/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff)
 
-# Community
+# Общност
 
-## The Spartan Programme
+## Програмата "Спартан
 
-In August, SubQuery launched its Ambassador programme to find community leaders passionate about Polkadot and SubQuery. Surprisingly we were completely overwhelmed by thousands and thousands of applications, and our initial plans to manually onboard applicants has become challenging. After consultation with our existing Ambassadors we have designed a new, and transparent method to level up in our Discord community and potentially become an Ambassador.
+През август SubQuery стартира програмата си за посланици, за да открие лидери на общността, които са запалени по Polkadot и SubQuery. Изненадващо бяхме напълно затрупани от хиляди и хиляди кандидатури и първоначалните ни планове за ръчно включване на кандидатите се превърнаха в предизвикателство. След като се консултирахме със съществуващите посланици, разработихме нов и прозрачен метод за повишаване на нивото в общността ни в Discord и потенциално ставане на посланик.
 
-The Spartan programme exists within our Discord community, and it is designed to complement our established ambassador programme with another tier or contributors. Aspiring members can complete monthly tasks and competitions to become a Spartan. The Spartans who then rise to the top of their class will be nominated by our existing Ambassadors to join their ranks.
+Програмата Spartan съществува в рамките на общността ни в Discord и има за цел да допълни установената ни програма за посланици с още едно ниво или сътрудници. Желаещите членове могат да изпълняват месечни задачи и състезания, за да станат спартанци. Спартанците, които се издигнат до върха на класа си, ще бъдат номинирани от нашите настоящи посланици, за да се присъединят към техните редици.
 
-To find out more about our Spartan programme and participate in our November competition please  [join our Discord](https://discord.com/invite/subquery).
+За да научите повече за нашата програма Spartan и да участвате в нашето състезание през ноември, моля, [присъединете се към нашия Discord](https://discord.com/invite/subquery).
 
-[Read more about our Spartan programme here](https://subquery.medium.com/subquerys-new-spartan-programme-cf6c13653c6f)
+[Прочетете повече за нашата програма Spartan тук](https://subquery.medium.com/subquerys-new-spartan-programme-cf6c13653c6f)
 
-## SubQuery Academy
+## Академия SubQuery
 
-Onboarding new developers and teaching them the skills they need to build the dApps of tomorrow is incredibly important to the success of our community.
+Набирането на нови разработчици и преподаването на уменията, които са им необходими, за да създават dApps на бъдещето, е изключително важно за успеха на нашата общност.
 
-The Academy will be a weekly series of 6 modules with several 5 to 10 minute lessons which are delivered by a recorded video. The video content is accompanied by written tutorials, slides, lab workbooks, and links to the finished GitHub code repository.
+Академията ще представлява седмична поредица от 6 модула с няколко урока от 5 до 10 минути, които се предават чрез записано видео. Съдържанието на видеоклиповете е придружено от писмени уроци, слайдове, лабораторни учебници и връзки към готовото хранилище за код в GitHub.
 
-Our Academy aims to take an aspiring blockchain developer from beginner to advanced and it is 100% free and accessible online. We have had over 1,200 enrolments for our first hero course since its launch two weeks ago and we are grateful for the passionate community that we have with us.
+Нашата академия има за цел да преведе начинаещия блокчейн разработчик от начинаещ до напреднал и е 100% безплатна и достъпна онлайн. От стартирането на първия ни курс за герои преди две седмици досега за него са се записали над 1200 души и сме благодарни на страстната общност, която ни подкрепя.
 
-[Read more about SubQuery’s Academy here](https://subquery.medium.com/subquery-launches-the-subquery-academy-9505dc66a01)
+[Прочетете повече за Академията на SubQuery тук](https://subquery.medium.com/subquery-launches-the-subquery-academy-9505dc66a01)
 
-## Community Call
+## Общностен призив
 
-We held our first-ever community call on October 28th to share our roadmap and the latest community updates. It was great to share with our community the things they had been asking for a long time in a more personal way. We appreciate all those who came to the call and we plan on hosting these calls more regularly. It would have been the first time for a lot of you to hear from our new community manager Sally as well who joined us in early October.
+На 28 октомври проведохме първата по рода си среща с общността, за да споделим нашата пътна карта и последните актуализации за общността. Беше страхотно да споделим с нашата общност нещата, за които те питат от дълго време, по един по-личен начин. Благодарим на всички, които се включиха в разговора, и планираме да провеждаме такива разговори по-често. За много от вас това щеше да е първият път, в който да чуете и новия ни мениджър на общността Сали, която се присъедини към нас в началото на октомври.
 
-[Watch the October session recording here](https://www.crowdcast.io/e/subquery-sessions-october)
+[Гледайте записа на октомврийската сесия тук](https://www.crowdcast.io/e/subquery-sessions-october)
 
-# Other things you might have missed
+# Други неща, които може да сте пропуснали
 
--   We’ve partnered with Acala to provide the  [largest pool of prizes for the Encode Club Polkadot Hackathons](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e).
--   [SubQuery helps Khala Build their New ERC20 Chain Bridge](https://subquery.medium.com/subquery-helps-khala-build-their-new-erc20-chain-bridge-c3aa0e1e6a89)
+-   Партнираме си с Acala, за да осигурим  [най-големия фонд от награди за хакатоните на Encode Club Polkadot](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e).
+-   [SubQuery помага на Khala да изгради своя нов ERC20 Chain Bridge](https://subquery.medium.com/subquery-helps-khala-build-their-new-erc20-chain-bridge-c3aa0e1e6a89)
 
-If you would like to learn more you can view all projects easily via our Explorer here.
+Ако искате да научите повече, можете лесно да разгледате всички проекти чрез нашия Explorer тук.
 
-As always, please join our social channels to stay updated on our latest news and announcements. James, Sam, and the SubQuery Team
+Както винаги, моля, присъединете се към нашите социални канали, за да бъдете информирани за последните ни новини и съобщения. Джеймс, Сам и екипът на SubQuery
 
 [Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
