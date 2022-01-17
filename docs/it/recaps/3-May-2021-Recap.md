@@ -1,34 +1,34 @@
-# May 2021 Recap
+# Riepilogo maggio 2021
 
 ![](https://miro.medium.com/max/1400/1*5E_eIJBTvHI7W24ib_Syvw.png)
 
-Behind the scenes we’ve been busier than ever in May, expanding our team, delivering products, and most importantly, bring on as many partners as possible.
+Dietro le quinte siamo stati più impegnati che mai a maggio, ampliando il nostro team, fornendo prodotti e, soprattutto, coinvolgendo il maggior numero possibile di partner.
 
-In this monthly update:
+In questo aggiornamento mensile:
 
--   More SubQuery partners come onboard
--   We’re hiring!
--   SubQuery is part of the Web3.0 Bootcamp
+-   Entrano a far parte di altri partner SubQuery
+-   Stiamo assumendo!
+-   SubQuery fa parte del Bootcamp Web3.0
 
 ![](https://miro.medium.com/freeze/max/60/1*bFOaBnLZUfhRxiQa7fjbwA.gif?q=20)
 
 ![](https://miro.medium.com/max/640/1*bFOaBnLZUfhRxiQa7fjbwA.gif)
 
-We’ve been reaching out to many protocols, DeFi apps, dApps, Wallets, NFT platforms, cross-chain bridges and more across the Polkadot ecosystem recently. We’re planning on improving our onboarding process for new partners to speed this up with example code, ready made projects, and better information for developers.
+Di recente abbiamo contattato molti protocolli, app DeFi, dApp, portafogli, piattaforme NFT, bridge cross-chain e altro nell'ecosistema Polkadot. Stiamo pianificando di migliorare il nostro processo di onboarding per i nuovi partner per velocizzarlo con codice di esempio, progetti già pronti e migliori informazioni per gli sviluppatori.
 
-> Expect the stream of new partner projects to turn into a flood.
+> Aspettati che il flusso di nuovi progetti partner si trasformi in un'alluvione.
 
-At the end of May we now have a total of 48 SubQuery projects hosted on SubQuery including:
+Alla fine di maggio ora abbiamo un totale di 48 progetti SubQuery ospitati su SubQuery tra cui:
 
--   [Fearless Wallet](https://fearlesswallet.io/) (a leading Polkadot wallet that we are going to work closely with),
--   [KodaDot](https://kodadot.xyz/) and [NFTMart](https://www.nftmart.io/) (NFT platforms)
--   [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia) (a cross chain bridge) and it’s test network [Crab](https://explorer.subquery.network/subquery/wuminzhe/crab)
+-   [Fearless Wallet](https://fearlesswallet.io/) (un portafoglio Polkadot leader con cui lavoreremo a stretto contatto),
+-   [KodaDot](https://kodadot.xyz/) e [NFTMart](https://www.nftmart.io/) (piattaforme NFT)
+-   [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia) (un ponte a catena incrociata) e la sua rete di prova [Crab](https://explorer.subquery.network/subquery/wuminzhe/crab)
 
-Take a look at what Darwinia said about us
+Dai un'occhiata a ciò che Darwinia ha detto di noi
 
 ![](https://miro.medium.com/max/1400/0*Bc8P3mcH6rz-KtT0)
 
-> _“Using SubQuery to query Darwinia’s on-chain data has become very simple and flexible. SubQuery regards blockchain data as a graph, and leverages the extensibility of GraphQL to introduce additional functionality. We believe that in the future, the data interface on the substrate chain will mainly use GraphQL, SubQuery is making this a reality”._ — [Darwinia](https://subquery.medium.com/darwinias-network-data-is-now-available-for-free-in-subquery-b4f51c73fb15)
+> _"L'utilizzo di SubQuery per interrogare i dati on-chain di Darwinia è diventato molto semplice e flessibile. SubQuery regards blockchain data as a graph, and leverages the extensibility of GraphQL to introduce additional functionality. We believe that in the future, the data interface on the substrate chain will mainly use GraphQL, SubQuery is making this a reality”._ — [Darwinia](https://subquery.medium.com/darwinias-network-data-is-now-available-for-free-in-subquery-b4f51c73fb15)
 
 You can start building your next dApp with us today, follow our [quick start guide](https://doc.subquery.network/quickstart.html) or chat with us in our #technical-support channel in [Discord](https://discord.com/invite/78zg8aBSMG).
 
