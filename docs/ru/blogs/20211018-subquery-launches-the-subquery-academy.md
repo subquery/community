@@ -11,8 +11,8 @@
 -   Модуль 1 - Начало работы
 -   Модуль 2 - Основы SubQuery
 -   Модуль 3 - Отношения
--   Module 4 — Aggregation and Event Calls
--   Module 5 — SubQuery Projects & SubQuery Explorer
+-   Модуль 4 — Агрегация и Вызовы событий
+-   Модуль 5 - SubQuery Projects & SubQuery Explorer
 -   Модуль 6 - Советы и; Трюки
 
 В каждом модуле есть несколько уроков от 5 до 10 минут, которые доставляются записанным видео. Видеоконтент сопровождается письменными руководствами, слайдами, лабораторными работами и ссылками на готовый репозиторий кода GitHub. Курс предназначен для того, чтобы разработчик ничего не знал о SubQuery и стал экспертом в создании источника данных SubQuery для своего нового блокчейн-приложения. Это включает разработку сложных проектов SubQuery и [ их развертывание в проектах SubQuery ](https://project.subquery.network/).
@@ -20,4 +20,4 @@
 
 В ближайшие несколько месяцев мы добавим бонусный контент в наш * SubQuery Hero Course *, поэтому следите за обновлениями. Кроме того, мы также будем переводить существующие материалы курса на разные языки, чтобы помочь нам в достижении нашей миссии - сделать мировые децентрализованные данные более доступными!
 
-[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork)  |  [Вебсайт](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
