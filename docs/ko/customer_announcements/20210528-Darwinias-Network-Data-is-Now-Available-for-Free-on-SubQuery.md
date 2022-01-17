@@ -8,7 +8,7 @@
 
 [Darwinia](https://darwinia.network/)는 최근 두 개의 새로운 SubQuery 프로젝트를 발표했습니다. 하나는 [메인 네트워크용](https://explorer.subquery.network/subquery/darwinia-network/darwinia)이고 다른 하나는 카나리아 네트워크인 [Crab](https://explorer.subquery.network/subquery/darwinia-network/crab)용입니다. SubQuery에 데이터를 노출함으로써 Darwinia는 이 무료 데이터 소스에서 더 매력적인 애플리케이션을 구축할 수 있는 애플리케이션 생태계의 문을 열고 있습니다.
 
-> “SubQuery를 사용하여 Darwinia의 온체인 데이터를 쿼리하는 것은 매우 간단하고 유연해졌습니다. SubQuery는 블록체인 데이터를 그래프로 간주하고 GraphQL의 확장성을 활용하여 추가 기능을 도입합니다. 우리는 미래에 기판 체인의 데이터 인터페이스가 주로 GraphQL을 사용할 것이라고 믿습니다. SubQuery는 이것을 현실로 만들고 있습니다." — Darwinia
+> “SubQuery를 사용하여 Darwinia의 온체인 데이터를 쿼리하는 것은 매우 간단하고 유연해졌습니다. SubQuery는 블록체인 데이터를 그래프로 간주하고 GraphQL의 확장성을 활용하여 추가 기능을 도입합니다. 우리는 미래에 substrate 체인의 데이터 인터페이스가 주로 GraphQL을 사용할 것이라고 믿습니다. SubQuery는 이것을 현실로 만들고 있습니다." — Darwinia
 
 [SubQuery](https://subquery.network/)의 서비스는 Darwinia가 체인 데이터를 잠금 해제하고 애플리케이션 생태계에서 더 쉽게 액세스할 수 있도록 돕습니다. NFT 시장과 같은 애플리케이션은 경매 통계를 표시하기 위해 Darwnia의 SubQuery의 데이터를 사용할 수 있으며, 심지어 더 고유한 데이터 통찰력을 제공하기 위해 데이터를 집계 및 변환하도록 Darwnia SubQuery 프로젝트를 확장할 수도 있습니다.
 
