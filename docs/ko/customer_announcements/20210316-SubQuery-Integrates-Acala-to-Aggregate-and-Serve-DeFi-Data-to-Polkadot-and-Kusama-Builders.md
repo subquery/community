@@ -6,13 +6,13 @@
 
 SubQuery는 Layer-1 블록체인(Acala)과 DApp 계층 사이에서 작동하는 데이터 집계 계층입니다. 이 솔루션은 Acala 및 기타 블록체인의 데이터를 집계 및 구성하여 개발자가 다양한 프로젝트에 사용할 수 있도록 잘 구성된 데이터를 제공합니다. 이 서비스를 통해 DApp 개발자는 데이터 처리를 위한 맞춤형 백엔드 구축에 시간을 낭비할 필요 없이 핵심 사용 사례와 프런트엔드에 집중할 수 있습니다.
 
-Acala는 유동성 단편화를 줄이고 구성 가능성을 높이며 모든 사람이 DeFi에 액세스할 수 있도록 하는 멀티체인 미래를 위한 확고한 신념이자 장기적인 구축자입니다. Acala는 탈중앙화 금융(DeFi)에 중점을 둔 전문 블록체인으로, DeFi 허브와 Polkadot 및 Kusama 생태계를 지원하는 인프라가 된 여러 DeFi 프리미티브를 생성했습니다. 팀은 다중 담보 스테이블 코인(aUSD — The Acala Dollar), AMM(Automated Market Maker) DEX, LDOT(Liquid DOT)라고 하는 토큰화된 지분 자산을 포함한 제품을 구축했으며 자체 가스 가져오기 기능을 구현했습니다. 스테이블코인과 같은 지원 자산에서 가스 요금을 지불할 수 있습니다. Acala의 파라체인은 Polkadot의 DeFi 허브 역할과 다양한 블록체인의 자산과 유동성을 집계하는 랜딩 패드의 역할을 할 계획입니다.
+Acala는 유동성 단편화를 줄이고 구성 가능성을 높이며 모든 사람이 DeFi에 액세스할 수 있도록 하는 멀티체인 미래를 위한 확고한 신념을 갖고 장기적으로 개발해왔습니다. Acala는 탈중앙화 금융(DeFi)에 중점을 둔 전문 블록체인으로, DeFi 허브와 Polkadot 및 Kusama 생태계를 지원하는 인프라가 된 여러 DeFi 프리미티브를 생성했습니다. 팀은 다중 담보 스테이블 코인(aUSD — The Acala Dollar), AMM(Automated Market Maker) DEX, LDOT(Liquid DOT)라고 하는 토큰화된 지분 자산을 포함한 제품을 구축했으며, 스테이블코인처럼 지원되는 어떠한 자산에서 지불이 가스비용으로 지불이 가능한 자체-가스-가져오기 기능을 구현했습니다.  Acala의 파라체인은 Polkadot의 DeFi 허브 역할과 다양한 블록체인의 자산과 유동성을 집계하는 랜딩 패드의 역할을 할 계획입니다.
 
-오늘 [SubQuery Explorer](https://explorer.subquery.network/)에 액세스하면 새로운 Acala SubQuery 프로젝트를 환영합니다. 이 SubQuery는 Acala에서 생성된 모든 외부 데이터를 동적으로 추적하고 다음에 대해 파생된 집계 통계를 빠르게 표시할 수 있습니다.
+오늘 [SubQuery Explorer](https://explorer.subquery.network/)에 액세스하면 새로운 Acala SubQuery 프로젝트를 만날 수 있습니다. 이 SubQuery는 Acala에서 생성된 모든 외부 데이터를 동적으로 추적하고 다음에 대해 파생된 집계 통계를 빠르게 표시할 수 있습니다.
 
 -   유동성 변화에 대한 과거 데이터(제공자별로 분류)
 -   모든 교차 체인 자산 스왑에 대한 과거 데이터
--   이적 내역
+-   이체 내역
 
 ![](https://miro.medium.com/max/1400/0*sXPljA1RE754fuDQ)
 
@@ -28,7 +28,7 @@ Acala는 유동성 단편화를 줄이고 구성 가능성을 높이며 모든 �
 
 [SubQuery Explorer](https://explorer.subquery.network/)는 전 세계의 기여자가 만들고 SubQuery 팀에서 관리하는 게시된 SubQuery 프로젝트에 대한 액세스를 제공하는 온라인 호스팅 서비스입니다. 그 임무는 개발자가 더 많은 것을 달성할 수 있도록 지원하는 인프라 서비스를 제공하여 Polkadot 네트워크 데이터에 쉽게 액세스하는 것입니다.
 
-[SubQuery](https://www.subquery.network/)를 사용하면 모든 Substrate/Polkadot 팀이 데이터를 처리하고 쿼리할 수 있습니다. 이 프로젝트는 애플리케이션 계층에 서비스를 제공하는 데이터 프로토콜의 성장에서 영감을 얻었으며, 그 목표는 누구나 안정적으로 데이터를 더 빨리 찾고 소비할 수 있도록 하여 Polkadot/Substrate 프로젝트가 더 나은 dApp을 구축할 수 있도록 돕는 것입니다. 오늘날 누구나 무료로 몇 분 만에 Polkadot 네트워크 데이터를 쿼리하고 추출할 수 있습니다.
+[SubQuery](https://www.subquery.network/)를 사용하면 모든 Substrate/Polkadot 팀은 데이터를 처리하고 쿼리할 수 있습니다. 이 프로젝트는 애플리케이션 계층에 서비스를 제공하는 데이터 프로토콜의 성장에서 영감을 얻었으며, 그 목표는 누구나 안정적으로 데이터를 더 빨리 찾고 소비할 수 있도록 하여 Polkadot/Substrate 프로젝트가 더 나은 dApp을 구축할 수 있도록 돕는 것입니다. 오늘날 누구나 무료로 몇 분 만에 Polkadot 네트워크 데이터를 쿼리하고 추출할 수 있습니다.
 
 [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
 
