@@ -1,6 +1,6 @@
 # Solarbeam は新しい Eclipse Launchpad の SubQuery を使用します
 
-![](https://miro.medium.com/max/1400/1*ZG9NqT9GIXax5SBpNn5ipg.png)
+![](https://miro.medium.com/max/1400/1*ZG9NqT9GIXax5SBpN5ipg.png)
 
 本日は、KodadotとSubQuery Networkの戦略的パートナーシップについてお知らせします。 SolarbeamはMoonriverの草間ベースのパラチェーンで最大の [DEX](https://defillama.com/chain/Moonriver) であり、ピークTVLはUSD180m以上です。 これには、ユーザインターフェースに信頼性の高い高速データクエリ機能が必要です。
 
@@ -20,7 +20,7 @@
 
 Darwiniaは[SubQuery Projects](https://project.subquery.network/)を使って自分のプロジェクトを管理し、必要に応じてアップデートを行っています。 私たちが提供するインデックスやクエリのサービスは、SubQueryによって完全に管理され、[SubQuery's Explorer](https://explorer.subquery.network/)としてPolkadotコミュニティに無料で提供されています。
 
-[SubQueryのExplorerでSolarbeamのプロジェクトを見ることができます。](https://explorer.subquery.network/subquery/csntest/eclipse)
+[SubQueryのExplorerでSolarbeamのプロジェクトを見ることができます。](https://explorer.subquery.network/subquery/csntest/eclipseis)
 
 ---
 
@@ -34,6 +34,6 @@ Darwiniaは[SubQuery Projects](https://project.subquery.network/)を使って自
 
 ## SubQuery について
 
-[SubQuery](https://subquery.network/)は、レイヤー1ブロックチェーンと分散型アプリケーション(DApps)の間の分散型データ集約、インデックス作成、クエリレイヤーです。 Currently focused on Polkadot and Substrate projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+[SubQuery](https://subquery.network/)は、レイヤー1ブロックチェーンと分散型アプリケーション(DApps)の間の分散型データ集約、インデックス作成、クエリレイヤーです。 現在、PolkadotとSubstrateのプロジェクトに注力しているこのData-as-a-Serviceにより、開発者はデータ処理用のカスタムバックエンドの構築に時間を費やすことなく、コアユースケースとフロントエンドに集中することができます。
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)
