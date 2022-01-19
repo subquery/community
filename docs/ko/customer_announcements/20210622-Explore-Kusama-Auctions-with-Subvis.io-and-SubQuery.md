@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/1*C4rjs3vpR6TUCOqwF3L39g.png)
 
-**_SubQuery의 힘을 보여주는 좋은 예인 새로운 SubQuery 프로젝트를 강조하게 되어 기쁩니다._**
+**_SubQuery의 힘을 보여주는 좋은 예인 새로운 SubQuery 프로젝트를 소개하게 되어 기쁩니다._**
 
 지난 주 [Subvis.io](https://www.subvis.io/)는 Kusama 파라체인 슬롯 경매를 위한 새로운 탐색기를 출시했습니다. 이 새로운 웹사이트는 Kusama에서 막 시작된 ​​크라우드론과 경매에 대한 상황에 맞는 최신 정보를 제공합니다.
 
@@ -19,7 +19,7 @@ Subvis.io 경매 대시보드
 
 ![](https://miro.medium.com/max/1400/1*0W6n5vW1yHc3MjfzgsCFZw.png)
 
-[SubQuery 덕분에 각 파라체인에 대한 총 기여도를 쉽게 쿼리](https://explorer.subquery.network/subquery/subvis-io/kusama-auction)하고 이 데이터가 시간이 지남에 따라 어떻게 변하는지 확인할 수 있습니다. 예를 들어, 아래 쿼리를 통해 crowdloans에 대한 5개의 가장 큰 단일 기부를 얻을 수 있습니다.
+[SubQuery 덕분에 각 파라체인에 대한 총 기여도를 쉽게 쿼리](https://explorer.subquery.network/subquery/subvis-io/kusama-auction)하고 이 데이터가 시간이 지남에 따라 어떻게 변하는지 확인할 수 있습니다. 예를 들어, 아래 쿼리를 통해 crowdloans에 대한 5개의 가장 큰 단일 기부들을 알아낼 수 있습니다.
 
 ![](https://miro.medium.com/max/1400/1*4509Ki-4lxJyz1kdm6E5PA.png)
 
