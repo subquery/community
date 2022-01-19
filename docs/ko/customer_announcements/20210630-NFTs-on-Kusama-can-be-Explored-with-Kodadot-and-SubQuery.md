@@ -1,6 +1,6 @@
 # Kodadot 및 SubQuery에서 Kusama의 NFT 탐색 가능
 
-**오늘 우리는 Kodadot과 SubQuery Network 간의 전략적 파트너십을 발표하고자 합니다.**
+**오늘 우리는 Kodadot과 SubQuery Network의 전략적 파트너십을 발표하고자 합니다.**
 
 ![](https://miro.medium.com/max/1400/1*Y4kdG9uEoxrySzb19QKxPg.gif)
 
