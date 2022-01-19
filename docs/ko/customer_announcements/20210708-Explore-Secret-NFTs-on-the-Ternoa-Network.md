@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1200/0*s1fSGGelS-HVJNBm)
 
-7월 5일 주 동안 Ternoa는 미래 사용자가 Ternoa 블록체인에서 발행된 $CAPS 및 '**_Secret NFT'_**를 보내고 받을 수 있을 뿐만 아니라 소유자에게 자신의 Secret을 쉽게 공개할 수 있는 앱인 새로운 Wallet을 도입했습니다. '**_NTF_**'에 대한 '**_비밀_**'의 개념은 Ternoa 팀에서 상상했습니다.
+7월 5일의 주 동안, Ternoa는 미래 사용자가 Ternoa 블록체인에서 발행된 $CAPS 및 '**_Secret NFT'_**를 보내고 받을 수 있을 뿐만 아니라 소유자에게 자신의 Secret을 쉽게 공개할 수 있는 앱인 새로운 Wallet을 도입했습니다. '**_NTF_**'에 대한 '**_비밀_**'의 개념은 Ternoa 팀에서 생각했습니다.
 
 그 '_비밀 NFTs_'는 Ternoa 팀이 구축한 전용 마켓플레이스([https://www.secret-nft.com/](https://www.secret-nft.com/))에서 찾아 구매할 수 있습니다. Ternoa Wallet은 [WalletConnect](https://walletconnect.org/) 프로젝트에서 영감을 받은 솔루션으로 사용자가 웹사이트와 앱 간의 간단한 QR 코드 상호 작용으로 NFT에 쉽게 로그인하고 구매할 수 있도록 합니다.
 
