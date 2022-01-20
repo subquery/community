@@ -32,10 +32,10 @@ SORA создает наднациональную мировую экономи
 
 Сеть SORA выделяется тем, что предоставляет инструменты для децентрализованных приложений, использующих цифровые активы, такие как атомарные обмены токенов, связывание токенов с другими блокчейнами и создание программных правил, связанных с цифровыми активами.
 
-[Website](https://sora.org/) | [Reddit](https://www.reddit.com/r/SORA/) | [Blog](https://sora.org/blog) | [Telegram](https://t.me/sora_xor) | [Twitter](https://twitter.com/sora_xor) | [YouTube](https://youtube.com/sora_xor) | [Instagram](https://instagram.com/sora_xor)
+[Веб-сайт](https://sora.org/) | [Reddit](https://www.reddit.com/r/SORA/) | [блог](https://sora.org/blog) | [Telegram](https://t.me/sora_xor) | [Twitter](https://twitter.com/sora_xor) | [YouTube](https://youtube.com/sora_xor) | [Instagram](https://instagram.com/sora_xor)
 
 ### Про SubQuery
 
 [SubQuery](https://subquery.network/) это децентрализованный агрегатор данных, индексирующий уровень поисковых запросов между блокчейнами первого уровня и децентрализованными приложениями (DApps). В настоящее время ориентированы на проекты Polkadot и Substrate, эти данные как услуга позволяют разработчикам сосредоточиться на их основном роде деятельности и интерфейсе, не тратя время на создание настраиваемого внутреннего интерфейса для обработки данных.
 
-[Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Email](mailto:hello@subquery.network)
+[Веб-сайт](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Email](mailto:hello@subquery.network)
