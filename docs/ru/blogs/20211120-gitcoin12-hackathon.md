@@ -26,7 +26,7 @@
 
 [ Gitcoin ](http://www.gitcoin.co/) ставит перед собой задачу создать Интернет с открытым исходным кодом, совместный и расширяющий экономические возможности. Gitcoin создает сообщество и инфраструктуру для Web 3 - широкий спектр инструментов, технологий и сетей, которые позволяют людям работать в открытом Интернете. Финансируя проекты, создавая сообщества и делая учебные ресурсы доступными, Gitcoin объединяется для создания цифровой общедоступной инфраструктуры завтрашнего дня.
 
-[Discord](https://discord.gg/6PZUM3cFpz)  | [Website](http://www.gitcoin.co/)  |  [Twitter](https://twitter.com/gitcoin)  |  [GitHub](https://github.com/gitcoinco/)  |
+[Discord](https://discord.gg/6PZUM3cFpz)  | [Веб сайт](http://www.gitcoin.co/)  |  [Twitter](https://twitter.com/gitcoin)  |  [GitHub](https://github.com/gitcoinco/)
 
 ## О SubQuery
 
