@@ -30,7 +30,7 @@ SubQuery уже обслуживает миллионы запросов к да
 
 ### Узнайте больше
 
-Get started by building your own SubQuery project [here](https://doc.subquery.network/).
+Начните с создания собственного проекта SubQuery [здесь](https://doc.subquery.network/).
 
 Начните с создания собственного проекта SubQuery [здесь](https://doc.subquery.network/).
 
