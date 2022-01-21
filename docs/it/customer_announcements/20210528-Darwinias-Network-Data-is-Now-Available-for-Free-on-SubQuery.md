@@ -4,21 +4,21 @@
 
 **中文阅读版本请见下方**
 
-**We are pleased to announce that SubQuery and Darwinia Network have formed a strategic partnership.**
+**Siamo lieti di annunciare che SubQuery e Darwinia Network hanno stretto una partnership strategica.**
 
-[Darwinia](https://darwinia.network/) recently released two new SubQuery projects, one for their [main network](https://explorer.subquery.network/subquery/darwinia-network/darwinia) and the other for [Crab](https://explorer.subquery.network/subquery/darwinia-network/crab), their canary network. By exposing their data on SubQuery, Darwinia is opening the door for their application ecosystem to build more engaging applications on this free datasource.
+[Darwinia](https://darwinia.network/) ha recentemente rilasciato due nuovi progetti SubQuery, uno per la loro [main network](https://explorer.subquery.network/subquery/darwinia-network/darwinia) e l'altro per [Crab](https://explorer.subquery.network/subquery/darwinia-network/crab), la loro rete delle canarie. Esponendo i propri dati su SubQuery, Darwinia sta aprendo le porte al proprio ecosistema applicativo per creare applicazioni più accattivanti su questa origine dati gratuita.
 
-> “Using SubQuery to query Darwinia’s on-chain data has become very simple and flexible. SubQuery regards blockchain data as a graph, and leverages the extensibility of GraphQL to introduce additional functionality. We believe that in the future, the data interface on the substrate chain will mainly use GraphQL, SubQuery is making this a reality”. — Darwinia
+> “L'uso di SubQuery per interrogare i dati on-chain di Darwinia è diventato molto semplice e flessibile. SubQuery considera i dati blockchain come un grafico e sfrutta l'estensibilità di GraphQL per introdurre funzionalità aggiuntive. Crediamo che in futuro l'interfaccia dati sulla catena di substrati utilizzerà principalmente GraphQL, SubQuery lo sta trasformando in realtà”. — Darwinia
 
-[SubQuery’s](https://subquery.network/) service helps Darwinia unlock chain data and to make it more accessible for their application ecosystem. Applications, for example a NFT marketplace, could use the data from Darwnia’s SubQuery to show auction statistics, and could even extend the Darwinia SubQuery project to aggregate and transform data to provide even more unique data insights.
+Il servizio [SubQuery](https://subquery.network/) aiuta Darwinia a sbloccare i dati chain ​​e a renderli più accessibili per il proprio ecosistema applicativo. Le applicazioni, ad esempio un mercato NFT, potrebbero utilizzare i dati di Darwnia's SubQuery per mostrare le statistiche delle aste e potrebbero persino estendere il progetto Darwinia SubQuery per aggregare e trasformare i dati per fornire approfondimenti sui dati ancora più unici.
 
 ![](https://miro.medium.com/max/1400/0*n2sGrQWOkIFXxMnq)
 
-Thanks to SubQuery, we can easily query the transfer times of each account on the chain. For example, we can get the three account with the most sent and receive transactions through the query below:
+Grazie a SubQuery, possiamo facilmente interrogare i tempi di trasferimento di ogni conto sulla chain. Ad esempio, possiamo ottenere i tre account con le transazioni più inviate e ricevute tramite la query seguente:
 
 ![](https://miro.medium.com/max/1400/0*gfS6ksjUL9fR9XA7)
 
-Darwinia is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services for this service is completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/). You can play around with the Darwinia SubQuery dataset here (and Darwinia’s Crab here) using the Explorer without implementing any code. As you wish, obtaining the records of a specific account would become very simple.
+Darwinia utilizza [SubQuery Projects](https://project.subquery.network/) per gestire il proprio progetto e apportare gli aggiornamenti necessari. I servizi di indicizzazione e query per questo servizio sono completamente gestiti da SubQuery e forniti gratuitamente alla community di Polkadot in [SubQuery's Explorer](https://explorer.subquery.network/). You can play around with the Darwinia SubQuery dataset here (and Darwinia’s Crab here) using the Explorer without implementing any code. As you wish, obtaining the records of a specific account would become very simple.
 
 The query indicates that we need to get the latest 20 records whether is sending or receiving with the address _2qeMxq616BhqvTW8a1bp2g7VKPAmpda1vXuAAz5TxV5ehivG_.
 
