@@ -2,7 +2,7 @@
 
 ![](https://cdn-images-1.medium.com/max/1600/1*WcFjuL_ncmHpgzVhaXDUdg.png)
 
-Parallel의 임무는 혁신을 통해 DeFi를 다음 단계로 더 많은 사람들에게 제공하는 것입니다. 오늘 Parallel Finance가 [새 응용 프로그램](https://testnet.parallel.fi/#/overview)에서 SubQuery 데이터를 사용하는 방법을 공개하게 되어 기쁩니다.
+Parallel의 임무는 혁신을 통해 DeFi를 다음 단계로 그리고 더 많은 사람들에게 제공하는 것입니다. 오늘 Parallel Finance가 [새 응용 프로그램](https://testnet.parallel.fi/#/overview)에서 SubQuery 데이터를 사용하는 방법을 공개하게 되어 기쁩니다.
 
 ![](https://cdn-images-1.medium.com/max/1600/1*5Ru0mv1hq86BuBhGwsmoqQ.png)
 
@@ -18,7 +18,7 @@ SubQuery를 사용하면 [SubQuery의 플레이그라운드](https://explorer.su
 
 > *"우리는 SubQuery 팀과 그들이 우리에게 제공하는 일대일 고객 서비스와 협력하는 것을 즐깁니다. 우리는 DeFi 애플리케이션에 더 많은 기능을 도입할 때 더 많이 사용할 계획입니다."* - Parallel Finance*
 
-아래 예에서는 SubQuery를 사용하여 각 블록의 모든 자산에 대한 과거 환율을 표시합니다.
+아래 예에서는 SubQuery를 사용하여 각 블록의 모든 자산에 대한 과거 교환 비율을 보여줍니다.
 
 ![](https://cdn-images-1.medium.com/max/1600/1*yctQKMNqdOnICNblJk9njw.png)
 
@@ -30,7 +30,7 @@ Parallel Finance는 [SubQuery 프로젝트](https://project.subquery.network/)�
 
 ## Parallel Finance에 관하여
 
-Parallel Finance는 Polkadot 생태계에서 대출, 스테이킹 및 차입을 제공하는 분산형 머니 마켓 프로토콜입니다. Polkadot과 "카나리아 네트워크" Kusama 간의 관계와 유사하게 Heiko Finance는 Parallel의 자매 네트워크이며 Kusama 블록체인에서 시작하기를 희망하는 파라체인입니다. 우리는 레버리지 스테이킹 및 경매 대출 플랫폼을 통해 커뮤니티가 자본 효율성, 보안 및 접근성을 높일 수 있는 분산형 미래를 구축하고 있습니다.
+Parallel Finance는 Polkadot 생태계에서 대출, 스테이킹 및 차입을 제공하는 분산형 머니 마켓 프로토콜입니다. Polkadot과 "canary 네트워크" Kusama 간의 관계와 유사하게 Heiko Finance는 Parallel의 자매 네트워크이며 Kusama 블록체인에서 시작하기를 희망하는 파라체인입니다. 우리는 레버리지 스테이킹 및 경매 대출 플랫폼을 통해 커뮤니티가 자본 효율성, 보안 및 접근성을 높일 수 있는 분산형 미래를 구축하고 있습니다.
 
 [Website](https://parallel.fi/) | [Twitter](https://twitter.com/ParallelFi) | [Telegram](https://t.me/parallelfi) | [Medium](https://parallelfinance.medium.com/) | [Github](https://github.com/parallel-finance/parallel-dapp/blob/master/parallel.gif)
 
