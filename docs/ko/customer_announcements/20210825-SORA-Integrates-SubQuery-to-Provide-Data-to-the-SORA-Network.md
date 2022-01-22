@@ -1,4 +1,4 @@
-# SORA는 하위 쿼리를 통합하여 SORA 네트워크에 데이터를 제공합니다.
+# SORA는 SubQuery를 통합하여 SORA 네트워크에 데이터를 제공합니다.
 
 ![sora-header.jpg](https://miro.medium.com/max/1400/1*fPPW0DsynIt9QpvK4ZrsUA.jpeg)
 
@@ -16,7 +16,7 @@ SubQuery는 이미 팀이 맞춤형 백엔드 솔루션을 구축하는 데 소�
 
 ![sora-explorer.jpg](https://miro.medium.com/max/1400/1*vjdjmmffvJ7zfOQyxo0ZAA.jpeg)
 
-이 예에서는 SubQuery를 사용하여 각 유동성 풀(처음 2개의 풀만 표시하도록 필터링됨)에 보관된 XOR의 총량을 가져옵니다. 이 예는 또한 각 유동성 풀과 연관된 현재 APY를 보여줍니다(처음 2개의 풀만 표시하도록 필터링됨).
+이 예에서는, SubQuery를 사용하여 각 유동성 풀(처음 2개의 풀만 표시하도록 필터링됨)에 보관된 XOR의 총량을 가져옵니다. 여기서는 또한 각 유동성 풀과 연관된 현재 APY를 보여줍니다(처음 2개의 풀만 표시하도록 필터링됨).
 
 ![sora-playground.jpg](https://miro.medium.com/max/1400/1*oTh-ajGfG1oEhYdvqo12tQ.jpeg)
 
