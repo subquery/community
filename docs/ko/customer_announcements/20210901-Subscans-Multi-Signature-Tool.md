@@ -16,16 +16,16 @@ SubQuery의 서비스는 주어진 다중 서명 주소에 대한 트랜잭션�
 
 ---
 
-## 서브스캔 정보
+## Subscan 정보
 
-[Subscan.io](https://www.subscan.io/)는 기판 기반 블록체인을 위해 구축된 고정밀 다중 체인 탐색기입니다. Subscan은 Polkadot 생태계에서 30개 이상의 네트워크에 대한 데이터 탐색 및 시각화를 지원합니다.
+[Subscan.io](https://www.subscan.io/)는 substrate 기반 블록체인을 위해 구축된 고정밀 다중 체인 탐색기입니다. Subscan은 Polkadot 생태계에서 30개 이상의 네트워크에 대한 데이터 탐색 및 시각화를 지원합니다.
 
 Subscan은 EVM 모듈, 멀티 토큰 등 생태계 네트워크를 위한 맞춤형 서비스를 제공합니다. 또한 Subscan은 안정적인 API 서비스, 데이터 차트 및 편리한 도구 응용 프로그램을 제공합니다.
 
-[웹사이트](https://www.subscan.io/) | [이메일](mailto:hello@subscan.io) | [미디움](https://medium.com/subscan) | [엘리멘트](https://riot.im/app/#/room/!uaYUrKBueiKUurHliJ:matrix.org) | [트위터](https://twitter.com/subscan_io/) | [깃허브](https://github.com/itering/subscan-essentials)
+[Website](https://www.subscan.io/) | [Email](mailto:hello@subscan.io) | [Medium](https://medium.com/subscan) | [Element](https://riot.im/app/#/room/!uaYUrKBueiKUurHliJ:matrix.org) | [Twitter](https://twitter.com/subscan_io/) | [GitHub](https://github.com/itering/subscan-essentials)
 
-## 서브쿼리란
+## SubQuery 소개
 
 [SubQuery](https://subquery.network/)는 레이어 1 블록체인(Kusama) 과 DApp(예: Kodadot) 사이에서 작동하는 데이터 집계 레이어입니다. 이 서비스를 통해 DApp 개발자는 데이터 처리를 위한 맞춤형 백엔드 구축에 시간을 낭비할 필요 없이 핵심 사용 사례와 프런트엔드에 집중할 수 있습니다.
 
-[웹사이트](https://subquery.network/) | [이메일](mailto:hello@subquery.network) | [디스코드](https://discord.com/invite/78zg8aBSMG) | [텔레그램](https://t.me/subquerynetwork) | [트위터](https://twitter.com/subquerynetwork) | [매트릭스](https://matrix.to/#/#subquery:matrix.org) | [링크드인](https://www.linkedin.com/company/subquery) | [깃허브](https://github.com/subquery)
+[Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)
