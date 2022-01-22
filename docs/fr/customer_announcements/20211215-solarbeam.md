@@ -26,14 +26,14 @@ Solarbeam utilise [SubQuery Projects](https://project.subquery.network/) pour g�
 
 ## À propos de Solarbeam
 
-[Solarbeam](https://solarbeam.io/) est le premier AMM sur le réseau Moonriver, avec un pic TVL de plus de 180 millions de dollars. Lancé le 1er septembre 2021, Solarbeam s'est rapidement imposé comme l'un des piliers de l'écosystème Moonriver.
+[Solarbeam](https://solarbeam.io/) est le premier AMM sur le réseau Moonriver, avec un pic TVL de plus de 180 millions de dollars. Lancé le 1er Septembre 2021, Solarbeam s'est rapidement imposé comme l'un des piliers de l'écosystème Moonriver.
 
-Apprenez-en plus sur Solarbeam en visitant :
+Apprenez-en plus sur Solarbeam en visitant:
 
-[Main website](https://solarbeam.io/exchange/swap) | [Twitter](https://twitter.com/solarbeamio) | [Discord](http://discord.gg/rK4AjZXuwf) | [Telegram](http://t.me/solarbeamio) | [Medium](https://solarbeam.medium.com/)
+[Site Web](https://solarbeam.io/exchange/swap) | [Twitter](https://twitter.com/solarbeamio) | [Discord](http://discord.gg/rK4AjZXuwf) | [Telegram](http://t.me/solarbeamio) | [Medium](https://solarbeam.medium.com/)
 
-## About SubQuery
+## À propos de SubQuery
 
-[SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications (DApps). Currently focused on Polkadot and Substrate projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+[SubQuery](https://subquery.network/) est une décentralisée couche d'agrégation, d'indexation & et d'interrogation des données entre les blockchains de la couche 1 et les applications décentralisées (DApps). Actuellement axé sur les projets Polkadot et Substrate, ce service de données en tant que service permet aux développeurs de se concentrer sur leur cas d'utilisation principal et leur front-end, sans perdre du temps à créer un backend personnalisé pour le traitement des données.
 
-[Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)
+[Site Web](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)
