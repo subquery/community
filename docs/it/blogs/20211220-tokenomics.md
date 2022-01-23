@@ -1,32 +1,32 @@
-# SubQuery Releases Tokenomics
+# Rilasci Di Subquery Tokenomics
 
 ![](https://miro.medium.com/max/1400/1*e42FM0TsNgOM3VacoctOzQ.png)
 
-Tokenomics is an important aspect of any blockchain project and is critical to the success of any utility token. At SubQuery, we’re creating a decentralised and incentivised network that will provide the data for the web3 future ([read our whitepaper](https://static.subquery.network/whitepaper.pdf)). Today we are excited to unveil how the SQT will work and how it will be allocated to boost participation by our thriving community.
+La tokenizzazione è un aspetto importante di qualsiasi progetto blockchain ed è fondamentale per il successo di qualsiasi token di utilità. In SubQuery, stiamo creando una rete decentralizzata e incentivata che fornirà i dati per il futuro di Web3 ([leggi il nostro white paper](https://static.subquery.network/whitepaper.pdf)). Oggi siamo entusiasti di svelare come funzionerà l'SQT e come sarà allocato per aumentare la partecipazione della nostra fiorente comunità.
 
-[We recently announced that we would be launching the SubQuery Network via Acala](https://subquery.medium.com/the-subquery-network-to-launch-on-acala-decentralising-polkadots-leading-data-indexing-service-8203d686128e). For those who may be new to the Polkadot ecosystem, SubQuery needs to partner with an existing parachain team to deploy its smart contracts (and therefore the SubQuery token SQT) in order to go live. In other words, our token is nested within the Acala blockchain on Polkadot and will seamlessly allow participation by investors from the Ethereum ecosystem due to Acala’s EVM+ (Ethereum Virtual Machine) solution.
+[Di recente abbiamo annunciato che avremmo lanciato la rete SubQuery tramite Acala](https://subquery.medium.com/the-subquery-network-to-launch-on-acala-decentralising-polkadots-leading-data-indexing-service-8203d686128e). Per coloro che potrebbero essere nuovi nell'ecosistema Polkadot, SubQuery deve collaborare con un team di parachain esistente per distribuire i suoi contratti intelligenti (e quindi il token SQT SubQuery) per poter essere pubblicato. In altre parole, il nostro token è annidato all'interno della blockchain di Acala su Polkadot e consentirà senza problemi la partecipazione degli investitori dell'ecosistema Ethereum grazie alla soluzione EVM+ (Ethereum Virtual Machine) di Acala.
 
-In preparation for the upcoming launch with Acala of SubQuery’s SQT token, it is important to understand a few key aspects such as the token utility, allocation and vesting schedules.
+In preparazione per il prossimo lancio con Acala del token SQT di SubQuery, è importante comprendere alcuni aspetti chiave come l'utilità del token, l'allocazione e i programmi di vesting.
 
-## Token Utility
+## Utilità Token
 
-As outlined in the whitepaper, we aim to establish SQT as the token which powers the SubQuery network, providing an incentive for participation, as well as serving as a medium of exchange for transactions within the SubQuery network. SQT will be the fuel for the web3 data revolution.
+Come indicato nel whitepaper, miriamo a stabilire SQT come il token che alimenta la rete SubQuery, fornendo un incentivo per la partecipazione, oltre a fungere da mezzo di scambio per le transazioni all'interno della rete SubQuery. SQT sarà il carburante per la rivoluzione dei dati web3.
 
-In practice, this means that SubQuery is intended to function as a blockchain data marketplace where both Consumers (buyers) and Indexers (sellers) can meet to exchange data for SQT tokens. The third participant in our model are Delegators who participate in the network by supporting their favourite Indexers by delegating their tokens to them in order to earn rewards.
+In pratica, ciò significa che SubQuery è destinato a funzionare come un mercato di dati blockchain in cui sia i consumatori (acquirenti) che gli indicizzatori (venditori) possono incontrarsi per scambiare dati per token SQT. Il terzo partecipante al nostro modello sono i delegatori che partecipano alla rete supportando i loro indicizzatori preferiti delegando loro i loro token per guadagnare premi.
 
-In the future we envision that holders of the SQT token will be able to inform the SubQuery Foundation about their vision for the overall direction of SubQuery as our network adopts some qualities of a decentralised autonomous organisation (DAO).
+In futuro prevediamo che i detentori del token SQT saranno in grado di informare la SubQuery Foundation sulla loro visione della direzione generale di SubQuery poiché la nostra rete adotta alcune qualità di un'organizzazione autonoma decentralizzata (DAO).
 
-## Token Allocation
+## Allocazione dei token
 
-SubQuery will mint a fixed supply of 10 billion SQT which will be allocated in the following manner.
+SubQuery conierà una fornitura fissa di 10 miliardi di SQT che verrà allocata nel modo seguente.
 
 ![](https://miro.medium.com/max/1400/0*eG2TM3J0NZDaT14m)
 
-From the start, SubQuery has been focused on building value within our community and we aim to keep it that way by apportioning the largest allocation of tokens (41%) to the Community and SubQuery Foundation.
+Fin dall'inizio, SubQuery si è concentrato sulla creazione di valore all'interno della nostra community e miriamo a mantenerlo tale distribuendo la più grande allocazione di token (41%) alla Community e alla SubQuery Foundation.
 
-The Foundation, which will be established in early 2022, will administer the future governance and growth of the ecosystem and the ownership of the SubQuery Network will come under the SubQuery foundation initially. This large allocation also includes consideration for future investment into the development and operations of the Network, and key ecosystem growth drivers. This will include tools such as grants and ecosystem incentives/events as well as other marketing activities including bug bounties and mainnet incentives.
+La Fondazione, che sarà costituita all'inizio del 2022, gestirà la futura governance e crescita dell'ecosistema e la proprietà della rete SubQuery rientrerà inizialmente nella fondazione SubQuery. Questa cospicua dotazione include anche la considerazione di futuri investimenti nello sviluppo e nelle operazioni della rete e fattori chiave di crescita dell'ecosistema. Ciò includerà strumenti come sovvenzioni e incentivi/eventi dell'ecosistema, nonché altre attività di marketing tra cui ricompense di bug e incentivi mainnet.
 
-Our early investors in both our Seed and Series A rounds have a combined allocation of 27%. In the case of [our Seed investors](https://subquery.medium.com/subquery-raises-1-8m-seed-round-for-future-expansion-3348c1f2a931), we are grateful for their early vision and commitment after we [received a grant from the Web3 foundation](https://subquery.medium.com/subquery-delivers-its-open-source-sdk-following-a-web3-foundation-grant-20da26ae87f) to build the initial phase of SubQuery. Following on from this, [our growth was accelerated with the support of our Series A investors](https://subquery.medium.com/series-a-1abed6c1c2af) who allowed us to take the project to the next level.
+I nostri primi investitori nei nostri round Seed e Series A hanno un'allocazione combinata del 27%. Nel caso dei [nostri investitori Seed](https://subquery.medium.com/subquery-raises-1-8m-seed-round-for-future-expansion-3348c1f2a931), siamo grati per la loro visione e impegno precoci dopo aver [ricevuto una sovvenzione dalla fondazione Web3](https://subquery.medium.com/subquery-delivers-its-open-source-sdk-following-a-web3-foundation-grant-20da26ae87f) per costruire la fase iniziale di SubQuery. In seguito, [la nostra crescita è stata accelerata con il supporto dei nostri investitori di serie A](https://subquery.medium.com/series-a-1abed6c1c2af) che ci hanno permesso di portare il progetto al livello successivo.
 
 For the Public Sale which we anticipate to be in March 2022, we have allocated 12% of token supply across at least two sequential rounds. The exact structure and timing of these rounds will be provided at a later date, however we will be providing guaranteed allocation for [key community members](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) (e.g. Ambassadors, Spartans) and [network participants](https://subquery.medium.com/subquery-extends-invitation-to-indexing-community-348fb2f589e1) (e.g. test network participants and referenceable customers). Each category will have its own minimum and maximum allocation.
 
