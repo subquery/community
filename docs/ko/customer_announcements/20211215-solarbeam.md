@@ -1,8 +1,8 @@
-# Solarbeam은 새로운 Eclipse Launchpad를 위해 SubQuery와 함께 작동합니다.
+# Solarbeam은 새로운 Eclipse Launchpad를 위해 SubQuery와 함께 작동됩니다.
 
 ![](https://miro.medium.com/max/1400/1*ZG9NqT9GIXax5SBpNn5ipg.png)
 
-오늘 우리는 Solarbeam과 SubQuery Network 간의 파트너십을 발표하고자 합니다. Solarbeam은 Moonriver의 Kusama 기반 파라체인에서 최대 TVL이 1억 8천만 달러 이상인 [가장 큰 DEX](https://defillama.com/chain/Moonriver)입니다. 이를 위해서는 사용자 인터페이스를 위한 안정적인 고속 데이터 쿼리 기능이 필요합니다.
+오늘 우리는 Solarbeam과 SubQuery Network 간의 파트너십을 맺었음을 발표합니다. Solarbeam은 Moonriver의 Kusama 기반 파라체인에서 최대 TVL이 1억 8천만 달러 이상인 [가장 큰 DEX](https://defillama.com/chain/Moonriver)입니다. 이를 위해서는 사용자 인터페이스를 위한 안정적인 고속 데이터 쿼리 기능이 필요합니다.
 
 Solarbeam은 최근 크로스체인 토큰 풀 및 경매를 위해 구축된 런치패드인 [Eclipse](https://app.solarbeam.io/eclipse)를 출시하여 프로젝트가 Moonriver를 기반으로 하는 분산되고 상호 운용 가능한 환경에서 자본을 조달할 수 있도록 했습니다.
 
