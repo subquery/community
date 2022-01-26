@@ -8,13 +8,13 @@ Solarbeam은 최근 크로스체인 토큰 풀 및 경매를 위해 구축된 �
 
 ![](https://miro.medium.com/max/1400/1*IbRN8EnymWvqvh0sx_PNKw.png)
 
-> _“_SubQuery는 EVM 및 Substrate 기반 체인에서 이벤트 및 트랜잭션을 쿼리하기 위한 신뢰할 수 있는 도구임이 입증되었으며, 새로운 데이터 동기화를 위한 최소 대기 시간으로 대용량 데이터에 적합합니다. 결과적으로 우리는 SubQuery가 Moonriver에서와 마찬가지로 Moonbeam에서도 좋은 경험을 제공할 것이라고 믿습니다.”  _— 설립자, Solarbeam_
+> _“_SubQuery는 EVM 및 Substrate 기반 체인에서 이벤트 및 트랜잭션을 쿼리하기 위한 신뢰할 수 있는 도구임이 입증되었으며, 새로운 데이터 동기화를 위한 최소 대기 시간으로 대용량 데이터에 적합합니다. 결과적으로 우리는 SubQuery가 Moonriver에서와 마찬가지로 Moonbeam에서도 좋은 경험을 제공할 것이라고 믿습니다.”  _— Solarbeam 설립자_
 
-[SubQuery의](https://subquery.network/) 서비스는 Solarbeam의 Eclipse IDO 런치패드에 대한 분석을 추진하는 데 도움이 됩니다. Moonbeam에서 출시하기 전에 Solarbeam은 사용자가 농업 및 수익 기록을 추적할 수 있도록 하는 사용자 포트폴리오 분석 도구와 SubQuery를 통합할 예정입니다. 이것은 [Moonbeam과 Moonriver의 EVM과 SubQuery의 최근 통합](https://subquery.medium.com/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff)으로 가능했습니다.
+[SubQuery의](https://subquery.network/) 서비스는 Solarbeam의 Eclipse IDO 런치패드에 대한 분석을 추진하는 데 도움이 됩니다. Moonbeam에서 출시하기 전에 Solarbeam은 사용자가 파밍 및 수익 기록을 추적할 수 있도록 하는 사용자 포트폴리오 분석 도구와 SubQuery를 통합할 예정입니다. 이것은 [최근 Moonbeam과 Moonriver EVM의 SubQuery와의 통합](https://subquery.medium.com/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff)으로 가능했습니다.
 
 ![](https://miro.medium.com/max/1400/1*6_iO6tLt4RxxMvs8u-F_Bg.png)
 
-아래 예에서는 SubQuery를 사용하여 총액별로 정렬된 Solarbeam의 DEX에서 상위 2개 참여 및 풀을 쉽게 검색하고 있습니다. 간단한 GraphQL 쿼리가 어떻게 Solarbeam이 직관적인 사용자 경험을 구축하는 데 필요한 데이터를 빠르게 얻을 수 있는지 확인할 수 있습니다.
+아래 예시에서는, SubQuery를 사용하여 총액별로 정렬된 Solarbeam의 DEX에서 상위 2개 참여 및 풀을 쉽게 검색하고 있습니다. 간단한 GraphQL 쿼리가 어떻게 Solarbeam이 직관적인 사용자 경험을 구축하는 데 필요한 데이터를 빠르게 얻을 수 있는지 확인할 수 있습니다.
 
 ![](https://miro.medium.com/max/1400/1*5iCwSaU96UtDMFA1MruRlA.png)
 
@@ -28,7 +28,7 @@ Solarbeam은 [SubQuery 프로젝트](https://project.subquery.network/)를 사�
 
 [Solarbeam](https://solarbeam.io/)은 Moonriver Network의 선두 AMM으로 최대 TVL이 1억 8천만 달러 이상입니다. 2021년 9월 1일에 출시된 Solarbeam은 Moonriver 생태계의 핵심 중 하나로 빠르게 자리 잡았습니다.
 
-다음을 방문하여 Solarbeam에 대해 자세히 알아보십시오.
+Solarbeam에 대해 자세히 알고 싶다면 다음을 방문하세요.
 
 [Main website](https://solarbeam.io/exchange/swap) | [Twitter](https://twitter.com/solarbeamio) | [Discord](http://discord.gg/rK4AjZXuwf) | [Telegram](http://t.me/solarbeamio) | [Medium](https://solarbeam.medium.com/)
 
