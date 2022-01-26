@@ -37,13 +37,13 @@ PolkadotやKusamaプロジェクトのSubQueryインデクサーのほとんど�
 
 -   当社CEOのSam Zouが、Web3、Acala、Polkawarriors、Bitfwdとのオンラインイベントで_パラチェーンにおけるサイバーの未来_を発表しました。
 
--   Our Head of Business Development James Bayly joined an interesting virtual fireside chat with DFG and James Wo as part of their DFG Talks series.
+-   当社の事業開発責任者であるJames Baylyは、DFG Talksシリーズの一環として、DFGとJames Woとの興味深い仮想炉端会議に参加しました。
 
--   Our time in the Berkeley Xcelerator has started — we’ve attended some excellent sessions so far
--   We’ve made some big improvements to our [SubQuery website](https://subquery.network/)
--   A new release of [improved documentation](https://doc.subquery.network/) for SubQuery developers
--   Our offices are improving, we’re lucky to be able to work in the same space here in New Zealand
+-   Berkeley Xceleratorでの活動が始まりました - これまでにいくつかの素晴らしいセッションに参加しました
+-   [SubQuery ウェブサイト](https://subquery.network/)を大幅に改善しました。
+-   SubQuery開発者のための[改善されたドキュメント](https://doc.subquery.network/)を新しくリリースしました
+-   私たちのオフィスは改善されています。ここニュージーランドで同じスペースで仕事ができるのは幸運です。
 
 ![](https://miro.medium.com/max/1400/0*cOsJ2TLa4yqpY0Ig)
 
-Expect some big news coming in May for our community — we’ve been working on something massive and we can’t wait to share it. In the meantime, have a go creating your own SubQuery project by following our [new quick start guide here](https://doc.subquery.network/quickstart.html).
+5月には、コミュニティに大きなニュースがあります。私たちは大きなことに取り組んでおり、それをお伝えするのが待ち遠しいです。 それまでの間、[新しいクイックスタートガイド](https://doc.subquery.network/quickstart.html)に従って、独自のSubQueryプロジェクトを作成してみてください。
