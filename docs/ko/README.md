@@ -21,7 +21,7 @@ SubQuery는 많은 소셜 미디어 채널을 통해 팔로워를 유지하고 �
 ### 공식 SubQuery 커뮤니티
 
 - [Linktree](https://linktr.ee/subquerynetwork)
-- [Discord](https://discord.com/invite/subquery) (전담 기술 지원 채널이 있는 기본 커뮤니티)
+- [Discord](https://discord.com/invite/subquery) (전담 기술 지원이 가능한 기본 커뮤니티)
 - [Medium](https://subquery.medium.com) (주요 발표 채널)
 - [Twitter](https://twitter.com/subquerynetwork)
 - [Telegram](https://t.me/subquerynetwork) (공지 채널만 해당)
@@ -31,7 +31,7 @@ SubQuery는 많은 소셜 미디어 채널을 통해 팔로워를 유지하고 �
 
 ### 비공식 SubQuery 커뮤니티
 
-이러한 커뮤니티는 SubQuery 팀에서 중재하지 않지만 당사 대사가 지원을 제공할 수 있습니다. SubQuery는 그 안에서 일어나는 일에 대해 책임을 지지 **않으므로** 사기에 주의하십시오.
+이러한 커뮤니티는 SubQuery 팀에서 중재하지 않지만 당사 앰버서더가 지원을 제공할 수 있습니다. SubQuery는 그 안에서 일어나는 일에 대해 책임을 지지 **않으므로** 사기에 주의하십시오.
 
 - [Telegram (중국)](https://t.me/subquerychina)
 - [Telegram (러시아)](https://t.me/SubQuery_russia)
