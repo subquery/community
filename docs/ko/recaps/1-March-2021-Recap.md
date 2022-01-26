@@ -11,7 +11,7 @@
 
 ## SubQuery 익스플로러, 라이브 시작
 
-[SubQuery Explorer](https://explorer.subquery.network/)는 전 세계 커뮤니티의 기여자가 만들고 SubQuery 팀이 호스팅하는 게시된 SubQuery 프로젝트에 대한 액세스를 제공하는 온라인 호스팅 서비스입니다. 브라우저에서 직접 쿼리를 테스트하거나 다양한 사용 사례에 대한 API 엔드포인트를 얻을 수 있습니다. 다른 사람들이 구축한 것에서 영감을 받아 보답할 수 있습니다!
+[SubQuery Explorer](https://explorer.subquery.network/)는 전 세계 커뮤니티의 기여자가 만들고 SubQuery 팀이 호스팅하는 게시된 SubQuery 프로젝트에 대한 액세스를 제공하는 온라인 호스팅 서비스입니다. 브라우저에서 직접 쿼리를 테스트하거나 다양한 사용 사례에 대한 API 엔드포인트를 얻을 수 있습니다. 다른 사람들이 구축한 것에서 영감을 받았다면 보답할 수 있습니다!
 
 우리는 SubQuery 프로젝트를 프로덕션 애플리케이션처럼 실행하므로 지금 SubQuery를 사용하여 다음 dApp에서 분산 데이터를 잠금 해제할 수 있습니다.
 
@@ -28,11 +28,11 @@ _우리는 올해 후반에 후속 비공개 판매/인상을 계획하고 있�
 
 SubQuery는 파트너와 고객에게 데이터 서비스를 제공하는 것입니다. 모든 블록체인 팀과 dApp 빌더는 데이터를 빠르게 처리하고 쿼리해야 하며 web3의 꿈이 실현되기 위해서는 최종 사용자를 위한 중앙 집중식 네트워크보다 빨라야 합니다(빠르지는 않더라도). 이것이 우리가 최고의 Polkadot 프로젝트와 파트너 관계를 맺고 프로토콜에 대한 무료 SubQuery 서비스를 제공하려는 노력을 강화하는 이유입니다.
 
-앞서 우리는 사용자와 개발자가 몇 분 만에 무료로 Polkadot용 Acala의 DeFi 허브에서 데이터를 쿼리하고 추출할 수 있도록 [Acala의 친한 친구와 첫 파트너십](https://subquery.medium.com/subquery-integrates-acala-to-aggregate-and-serve-defi-data-to-polkadot-and-kusama-builders-fc9af6a7aae1)을 시작했습니다. SubQuery Explorer에 액세스하면 새로운 Acala SubQuery 프로젝트가 환영받을 것입니다. 이 SubQuery는 Acala에서 생성된 모든 외부 데이터를 동적으로 추적하고 다음에 대해 파생된 집계 통계를 빠르게 표시할 수 있습니다.
+앞서 우리는 사용자와 개발자가 몇 분 만에 무료로 Polkadot용 Acala의 DeFi 허브에서 데이터를 쿼리하고 추출할 수 있도록 [우리의 친밀한 관계인 Acala와 파트너쉽](https://subquery.medium.com/subquery-integrates-acala-to-aggregate-and-serve-defi-data-to-polkadot-and-kusama-builders-fc9af6a7aae1)을 시작했습니다. SubQuery Explorer에 액세스하면 새로운 Acala SubQuery 프로젝트가 환영받을 것입니다. 이 SubQuery는 Acala에서 생성된 모든 외부 데이터를 동적으로 추적하고 다음에 대해 파생된 집계 통계를 빠르게 표시할 수 있습니다.
 
 -   유동성 변화에 대한 과거 데이터(제공자별로 분류)
 -   모든 교차 체인 자산 스왑에 대한 과거 데이터
--   이적 내역
+-   전송 내역
 
 ![](https://miro.medium.com/max/1400/0*LOig1jNfPTuVk73D)
 
