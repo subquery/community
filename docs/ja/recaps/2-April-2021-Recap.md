@@ -1,41 +1,41 @@
-# April 2021 Recap
+# 2021年4月のまとめ
 
-April was an incredibly busy month for SubQuery, our growth is starting to accelerate at a serious pace and we’re breaking new records each day. As we mentioned last month, our focus in the short term is on two elements; scaling our platform to keep up with skyrocketing demand, and engaging with more and more partners to help them create their own SubQuery projects.
+4月はSubQueryにとって非常に忙しい月でした。私たちの成長は本格的なペースで加速し始めており、毎日新しい記録を更新しています。 先月お伝えしたように、短期的には2つの要素に焦点を当てています。それは、急増する需要に対応するためにプラットフォームを拡張することと、より多くのパートナーと協力してSubQueryプロジェクトを立ち上げることです。
 
-In this monthly update:
+今月のアップデート:
 
--   Focus on Partner tools — SubQuery Projects Launch
--   BiFrost SubQuery use case
--   Scalability Improvements by our service provider OnFinality
--   And more…
+-   パートナーツールへの注力 - SubQuery Projectsの開始
+-   BiFrostのSubQueryユースケース
+-   サービスプロバイダーOnFinalityによるスケーラビリティの向上
+-   等々...
 
-On the partner front we launched a key product that is needed to operationally accelerate the growth of SubQuery. Before you could create and run your own SubQuery projects locally or in your own infrastructure. [Projects](https://project.subquery.network/) allows users to publish their projects to the SubQuery community and we’ll run them in a high performance, scalable, and managed public service — for free!
+パートナー面では、SubQueryの成長を加速させるために必要な主要製品をローンチしました。 以前は、ローカルや独自のインフラで独自のSubQueryプロジェクトを作成して実行することができました。 [Projects](https://project.subquery.network/)では、ユーザーが自分のプロジェクトをSubQueryコミュニティに公開すると、ハイパフォーマンスでスケーラブル、かつ管理された公共サービスとして、無料で実行されます。
 
 ![](https://miro.medium.com/max/1400/0*zZkmiEq5g2BbAxfl)
 
-This final missing piece now means we have a complete suite of tools to enable and empower customers to [explore](https://explorer.subquery.network/), [create](https://doc.subquery.network/quickstart.html), [run](https://doc.subquery.network/run/indexing_query.html), and then [publish](https://doc.subquery.network/publish/publish.html#benefits) SubQuery projects all on their own.
+この最後のピースによって、ユーザーがSubQueryプロジェクトを[探索](https://explorer.subquery.network/)、[作成](https://doc.subquery.network/quickstart.html)、[実行](https://doc.subquery.network/run/indexing_query.html)、[公開](https://doc.subquery.network/publish/publish.html#benefits)することを可能にする完全なツール群を手に入れることができるのです。
 
 ![](https://miro.medium.com/max/1400/0*pDQgyo3phe2ZcMml)
 
-In April, [Bifrost Finance](https://bifrost.finance/) launched the beta of their new dApp, the official interactive interface for all Bifrost services. Through this dApp, users can mint vTokens, redeem and swap these derivatives, and view their earnings in real time.
+4月に、[Bifrost Finance](https://bifrost.finance/)は、Bifrostのすべてのサービスの公式な対話型インターフェースである新しいdAppのベータ版を開始しました。 このdAppを通じて、ユーザーはvTokensをミントし、これらのデリバティブを換金・交換し、その収益をリアルタイムに確認することができます。
 
-SubQuery’s service helps Bifrost power much of the data shown in their new dApp. All historical data on transfers, minting, and redemption events (such as price, date, currency and pool) are aggregated and queried from SubQuery’s advanced indexing and query service. For example, SubQuery allows Bifrost to calculate real time mint and redemption prices for vDot and vEth to show in their app, and to get the total number of vTokens in a certain wallet.
+SubQueryのサービスは、Bifrostの新しいdAppに表示されるデータの多くを支えています。 転送、ミント、償還イベントに関するすべての履歴データ(価格、日付、通貨、プールなど) が集約され、SubQueryの高度なインデックス・クエリ・サービスから照会されます。 例えば、BifrostはSubQueryを使って、vDotやvEthのリアルタイムのミント価格や償還価格を計算してアプリに表示したり、特定のウォレットに入っているvTokensの合計数を取得したりすることができます。
 
 ![](https://miro.medium.com/max/1400/0*heWoX8Kw1nm1iYd9)
 
-The new Bifrost SubQuery project in the SubQuery Explorer
+SubQuery エクスプローラーに表示された新しいBifrost SubQueryプロジェクト
 
-> “Without SubQuery, it is difficult to imagine how complicated it is to manually collect data from the chain. Bifrost developers may spend a lot of time searching for all transaction data on chain to be used for transaction history. SubQuery helps developers save a lot of repetitive work costs. Bifrost will cooperate with SubQuery for a long time to accelerate the iterative speed of product development”. — Bifrost Finance
+> 「もしもSubQueryがなければ、チェーンから手作業でデータを収集することがどれほど煩雑なことか想像もつきません。 Bifrostの開発者は、取引履歴に使用するチェーン上のすべての取引データを探すのに多くの時間を費やすかもしれません。 SubQueryは、開発者の反復作業のコストを大幅に削減します。 BifrostはSubQueryと末永く協力し、製品開発のイテレーション・スピードを加速させていきます」 — Bifrost Financing
 
-OnFinality is a key service provider for SubQuery — most of the SubQuery indexers in Polkadot and Kusama projects are using OnFinality’s public API endpoints to get their data. The significant traffic from SubQuery is one of the reasons why OnFinality is the largest infrastructure provider in the Polkadot/Kusama ecosystem.
+PolkadotやKusamaプロジェクトのSubQueryインデクサーのほとんどは、OnFinalityのパブリックAPIエンドポイントを使ってデータを取得しています。 SubQueryからの大きなトラフィックは、OnFinalityがPolkadot/Kusamaエコシステムにおける最大のインフラストラクチャ・プロバイダである理由の一つです。
 
-In April, OnFinality hit a long term goal of 100 million in a single day, in fact they smashed it with 127 million requests in 24 hours (almost 1,500 each second).
+4月、OnFinalityは1日で1億件の長期目標を達成しましたが、実際には24時間で1億2700万件（毎秒約1500件）のリクエストがあり、目標を達成しました。
 
 ![](https://miro.medium.com/max/1400/0*FLq4vXluI9CTiBQ8)
 
-OnFinality also [delivered their treasury proposal](https://kusama.polkassembly.io/treasury/72) for the second milestone to improve the scalability of their API service. Intelligent routing that allows them to maximise the use of different clusters of nodes across their user base in different geographic regions. SubQuery relies on this infrastructure so it’s important to note the continued investment and improvements here. The past month has demonstrated how critical it is to continue to invest in scale so that we can continue to provide the best service every day.
+また、OnFinalityは、APIサービスのスケーラビリティを向上させるための2つ目のマイルストーンとして、[トレジャリー提案を提供](https://kusama.polkassembly.io/treasury/72)しました。 インテリジェントなルーティングにより、異なる地域のユーザーベースで、異なるノードクラスタを最大限に利用することができます。 SubQueryはこのインフラに依存しているので、ここに継続的な投資と改善が行われていることは重要です。 この1ヵ月間で、毎日最高のサービスを提供し続けるためには、規模の拡大に向けた投資を継続することがいかに重要であるかが明らかになりました。
 
--   Our CEO Sam Zou presented _Cyber future on Parachains_ online event with Web3, Acala, Polkawarriors, and Bitfwd
+-   当社CEOのSam Zouが、Web3、Acala、Polkawarriors、Bitfwdとのオンラインイベントで_パラチェーンにおけるサイバーの未来_を発表しました。
 
 -   Our Head of Business Development James Bayly joined an interesting virtual fireside chat with DFG and James Wo as part of their DFG Talks series.
 
