@@ -7,7 +7,7 @@ SubQuery의 최신 월간 업데이트에 오신 것을 환영합니다. 지난 
 이번 월간 업데이트:
 
 -   앰버서더 온보딩 👩‍💼
--   서브쿼리 네트워크 작업 시작 🏗
+-   SubQuery 네트워크 작업 시작 🏗
 -   거대한 커뮤니티 성장 🚀
 -   SubQuery의 새 프로젝트 🤝
 -   DotMarketCap과 함께하는 AMA 🎙
@@ -20,11 +20,11 @@ SubQuery의 최신 월간 업데이트에 오신 것을 환영합니다. 지난 
 
 지난 달 [앰버서더 프로그램을 시작](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804)한 후 커뮤니티의 흥분과 참가자의 질에 놀랐습니다. 지금까지 거의 모든 대륙에서 2,000개 미만의 지원을 받았고(남극 대륙에서 지원을 요청하고 있습니다 ☃️) 지금까지 30명 이상의 사람들이 온보딩했습니다.
 
-Tre는 이 이니셔티브를 주도하고 [Discord에서 커뮤니티와 소통](https://discord.com/invite/78zg8aBSMG)하는 일을 훌륭하게 수행해 왔습니다. SubQuery의 지지자들과 더 긴밀한 관계를 맺는 것의 이점을 이미 보고 있기 때문에 앞으로 몇 주 안에 팀을 확장할 예정이므로 아직 소식을 듣지 못하셨다면 기다려 주십시오!
+Tre는 이 시작을 주도하고 [Discord에서 커뮤니티와 소통](https://discord.com/invite/78zg8aBSMG)하는 일을 훌륭하게 수행하고 있습니다. SubQuery의 지지자들과 더 긴밀한 관계를 맺는 것의 이점을 이미 보고 있기 때문에 앞으로 몇 주 안에 팀을 확장할 예정이므로 아직 소식을 듣지 못하셨다면 기다려 주십시오!
 
 ## 거대한 커뮤니티 성장 🚀
 
-우리 커뮤니티의 성장은 이번 달에 2,000명의 활기차고 지원적인 회원에 가까운 Discord 폭파로 가속화되었습니다. 우리는 또한 트위터 청중을 6,000명 이상의 팔로워로 늘렸습니다.
+우리 커뮤니티의 성장은 이번 달에 2,000명의 활기차고 지원적인 회원에 가까운 Discord 폭파될 정도로 가속화되었습니다. 우리는 또한 트위터 팔로워가 6,000명 이상으로 늘어났습니다.
 
 우리 프로젝트가 먼저 작지만 고품질 개발자 커뮤니티를 구축하는 데 중점을 두었기 때문에 이러한 성장에 대해 특히 기쁘게 생각합니다. TGE에 접근함에 따라 소매 및 투자자 청중으로 초점을 이동함에 따라 이러한 수치가 폭발적으로 증가할 것입니다.
 
@@ -32,7 +32,7 @@ Tre는 이 이니셔티브를 주도하고 [Discord에서 커뮤니티와 소통
 
 ## SubQuery Network 작업 시작 🏗
 
-그렇습니다! SubQuery를 [탈중앙화되고 토큰화된 네트워크로 옮기는 작업](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010); 서브쿼리 네트워크가 시작되었습니다! 이 마이그레이션은 SubQuery에 대한 단일 실패 지점이 없는지 확인하고 SQT 토큰을 통해 참가자를 권장합니다. 이 중요한 변화를 돕기 위해 이번 달에 우리와 함께할 새로운 개발자를 모집했습니다.
+그렇습니다! SubQuery를 [탈중앙화되고 토큰화된 네트워크로 옮기는 작업](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010); SubQuery 네트워크가 시작되었습니다! 이 마이그레이션은 SubQuery에 대한 단일 실패 지점이 없는지 확인하고 SQT 토큰을 통해 참가자를 권장합니다. 이 중요한 변화를 돕기 위해 이번 달에 우리와 함께할 새로운 개발자를 모집했습니다.
 
 ## SubQuery의 새로운 프로젝트 🤝
 
@@ -44,7 +44,7 @@ Karura의 경우, [SubQuery를 사용하여 Karura의 체인에서 데이터를 
 
 SubQuery의 서비스는 주어진 다중 서명 주소에 대한 [트랜잭션에 대한 빠른 데이터를 제공하여](https://subquery.medium.com/subscans-multi-signature-tool-powered-by-subquery-926da3e4fc25?source=your_stories_page-------------------------------------) UX를 개선하고 더 고급 기능을 허용함으로써 [Subscan](https://www.subscan.io/)에서 핵심적인 역할을 합니다.
 
-[SORA](https://sora.org/)는 SORA 및 [Polkaswap.io](http://polkaswap.io/)에 구축된 모바일 애플리케이션을 구동하기 위해 [SORA 네트워크에서 데이터를 검색하는 SubQuery 프로젝트를 구축](https://subquery.medium.com/sora-integrates-subquery-to-provide-data-to-the-sora-network-5a73f77a40aa?source=your_stories_page-------------------------------------)했습니다. 여기에서 더 읽을 수 있습니다.
+[SORA](https://sora.org/)는 SORA 및 [Polkaswap.io](http://polkaswap.io/)에 구축된 모바일 애플리케이션을 구동하기 위해 [SORA 네트워크에서 데이터를 검색하는 SubQuery 프로젝트를 구축](https://subquery.medium.com/sora-integrates-subquery-to-provide-data-to-the-sora-network-5a73f77a40aa?source=your_stories_page-------------------------------------)했습니다. 여기에서 더 읽어보세요.
 
 두 경우 모두 파트너로부터 다음과 같은 훌륭한 피드백을 주셔서 감사합니다.
 
@@ -70,13 +70,13 @@ SubQuery의 서비스는 주어진 다중 서명 주소에 대한 [트랜잭션�
 
 ## Polkadot Common API의 두 번째 이정표 전달 ✅
 
-[Fearless Wallet](https://fearlesswallet.io/)의 팀과 함께 Kusama용 [오픈 소스 dApp API 개발](https://docs.google.com/document/d/13L8HBwB6VB-n2g274FFFJKORYPJsq744C6H8iEDQ0-0/edit)을 진행하게 된 것을 기쁘게 생각합니다. 이 작업은 Kusama 국고 보조금으로 지원됩니다.
+[Fearless Wallet](https://fearlesswallet.io/)의 팀과 함께 Kusama용 [오픈 소스 dApp API 개발](https://docs.google.com/document/d/13L8HBwB6VB-n2g274FFFJKORYPJsq744C6H8iEDQ0-0/edit)을 진행하게 된 것을 기쁘게 생각합니다. 이 작업은 Kusama 보조금으로 지원됩니다.
 
 이 프로젝트의 두 번째 이정표가 거의 완료되면 Polkadot, Kusama 및 기타 파라체인을 위한 정의되고 공통된 핵심 데이터 API 인터페이스가 곧 생겨 더 많은 개발자를 생태계로 끌어들일 것입니다. 개발을 직관적이고 가능한 한 고통 없이 만드는 것이 우리의 주요 목표 중 하나입니다!
 
 *****
 
-상 그렇듯이 소셜 채널에 가입하여 최신 뉴스와 공지 사항을 받아보세요.
+소셜 채널에 가입하여 최신 뉴스와 공지 사항을 받아보세요.
 
 James, Sam 및 SubQuery 팀
 
