@@ -32,12 +32,12 @@ SubQueryでは、Substrate上で最も高速でアクセス可能なデータサ
 
 SubQueryプロジェクトでは、新機能である[SubQuery Dictionary](https://subquery.medium.com/subquerys-just-got-a-lot-faster-with-the-dictionary-8a7a1447574)を使用することで、これらの作業を省略することができます。 チェーン内のすべてのイベントの位置をあらかじめインデックスしておくことで、結果的にインデックス作成速度が最大で10倍になり、SubQueryもこれまで以上に高速化しました。
 
-China is a key part of our strategic expansion plans. In June Siqi joined us and will lead our business development in the region. She’s certainly hit the ground running, connecting with many of our existing customers and partners there.
+中国は当社の戦略的拡大計画の重要な部分を占めています。 6月にはSiqiが加わり、この地域でのビジネス開発をリードします。 彼女は、現地で多くの既存のお客様やパートナーとの交流を深めています。
 
-Siqi was on [stage at the extremely successful Polka Ecology National Tour event at Hefei Station](https://twitter.com/SubQueryNetwork/status/1409696588465721348), establishing contact with many other project parties who also attended the conference. She’ll be at many events going forward, so keep an eye out for her and say hi!
+Siqiは、[合肥駅で開催された大成功を収めたイベント「Polka Ecology National Tour」のステージに立ち](https://twitter.com/SubQueryNetwork/status/1409696588465721348)、会議に参加した他の多くのプロジェクト関係者とコンタクトを取りました。 今後も多くのイベントに参加する予定ですので、彼女に注目してくださいね。
 
-Heading into next month we look to continue our rapid growth and are working on many exciting projects. Stay in touch through our social media to be the first to know what is happening!
+来月に向けて、私たちは急速な成長を続け、多くのエキサイティングなプロジェクトに取り組んでいます。 私たちのソーシャルメディアを通じて、最新の情報にいち早くアクセスしてください！
 
-James, Sam, and the SubQuery Team
+James, Sam, SubQuery チーム
 
-[Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Medium](https://subquery.medium.com/)
+[Linktree](https://subquery.network/) | [Webサイト](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://subquery.medium.com/)
