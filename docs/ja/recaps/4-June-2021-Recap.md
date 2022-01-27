@@ -1,18 +1,18 @@
-# June 2021 Recap
+# 2021年6月のまとめ
 
-## Things are getting busy 🔥
+## 忙しくなってきました🔥
 
-In this monthly update:
+今月のアップデート:
 
--   Whitepaper Release 🎊
--   Team Expansion 👩💻
--   Staging Deployments 📥
--   SubQuery Dictionary Service 📖
--   Improving our Reach in China 🇨🇳
+-   ホワイトペーパーリリース 🎊
+-   チーム拡張 👩💻
+-   デプロイメントのステージング 📥
+-   SubQuery辞書サービス 📖
+-   中国におけるリーチの改善 🇨🇳
 
-The SubQuery Network is our effort to move towards a decentralised and tokenised network in order to ensure no single point of failure for SubQuery and to encourage as many participants in the process as possible.
+SubQueryネットワークは、SubQueryの単一障害点を確保し、できるだけ多くの参加者をプロセスに奨励するために、分散型でトークン化されたネットワークに移行するための取り組みです。
 
-[Last month, we publicly released our whitepaper for the world to read.](https://static.subquery.network/whitepaper.pdf) You can also read/watch a [short explanation here](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010).
+[先月、世界に向けてホワイトペーパーを公開しました。](https://static.subquery.network/whitepaper.pdf) また、[簡単な説明](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010)もご覧いただけます。
 
 We have ambitious goals at SubQuery to be the fastest and accessible data service provider on Substrate. We’ve written this whitepaper to highlight our [competitive advantages](https://subquery.medium.com/subquery-network-our-goals-and-competitive-advantages-a6efdd544be4) and our focus now is on executing this vision. The SubQuery Network revolves around two key aspects, flexibility and simplicity.
 
