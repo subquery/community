@@ -14,14 +14,14 @@
 
 SubQuery Network е нашето усилие да преминем към децентрализирана и токенизирана мрежа, за да гарантираме, че SubQuery няма единична точка на провал, и да насърчим възможно най-много участници в процеса.
 
-[Днес публикуваме нашата white paper, за да я прочете целият свят](https://static.subquery.network/whitepaper.pdf).
+[Днес публикуваме нашата бяла книга (white paper), за да я прочете целият свят](https://static.subquery.network/whitepaper.pdf).
 
-Ръководните принципи на SubQuery Network са простота и гъвкавост. Опитваме се да улесним участниците да се включат в мрежата, но и да дадем на разработчиците възможност да адаптират SubQuery към своите нужди за всяка верига, базирана на Substrate.
+Ръководните принципи на SubQuery Network са леснота и гъвкавост. Опитваме се да улесним участниците да се включат в мрежата, но и да дадем на разработчиците възможност да адаптират SubQuery към своите нужди за всяка верига, базирана на Substrate.
 
 ![](https://miro.medium.com/max/700/1*5E_eIJBTvHI7W24ib_Syvw.png)
 
-**SubQuery Network има за цел да захранва динамичната екосистема от децентрализирани приложения в екосистемата Polkadot и Substrate. Надяваме се да се присъедините към нас за пътуването.**
+**SubQuery Network има за цел да захранва динамичната екосистема от децентрализирани приложения в екосистемата Polkadot и Substrate. Надяваме се да се участвате с нас в пътуването.**
 
-[Прочетете white paper сега.](https://static.subquery.network/whitepaper.pdf)
+[Прочетете бялата книга сега.](https://static.subquery.network/whitepaper.pdf)
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Medium](https://subquery.medium.com/)
