@@ -1,78 +1,88 @@
-# August 2021 Recap
+# 2021年8月のまとめ
 
-**Expanding Our Reach**
+**拡大する**
 
-Welcome to the latest monthly update from SubQuery. Following on from last month, August has seen rapid expansion in the growth of our Community around the world! We have also been busy working on decentralising our platform as we prepare for a TGE in the coming months.
+SubQueryの最新の月次アップデートへようこそ。 先月から8月にかけて、世界中のコミュニティの成長が急速に拡大しています! また、今後数ヶ月でTGEに備えるため、プラットフォームの分散化にも取り組んでいます。
 
-In this monthly update:
+今月のアップデート:
 
--   Onboarding Ambassadors 👩‍💼
--   Kicked off work on the SubQuery Network 🏗
--   Huge Community Growth 🚀
--   New Projects on SubQuery 🤝
--   AMA with DotMarketCap 🎙
--   Activity in China 🇨🇳
--   Delivering the 2nd Milestone of Polkadot Common API ✅
+-   オンボーディング アンバサダー: 👩‍💼
+-   SubQuery Network 🏗 で作業をキックしました。
+-   巨大なコミュニティの成長 🚀
+-   SubQuery 上の新規プロジェクト 🤝
+-   DotMarketCap付きAMA🎙
+-   中国での活動
+-   Polkadot Common API の 2 番目のマイルストーンを配信する ✅
 
-## Onboarding Ambassadors 👩‍💼
+## オンボーディング アンバサダー: 👩‍💼
 
-![](https://miro.medium.com/max/1400/0*_nOcsPjhQxta_FPH)
+![](https://miro.com/medium.com/max/1400/0*_nOcsPjhQxta_FPH)
 
-After [launching our Ambassador program](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) last month, we have been amazed by the excitement in the community and quality of the participants. To date, we have received just under 2,000 applications almost every continent (we're calling out for applications from Antarctica ☃️) and onboarded over 30 people thus far.
+先月[アンバサダープログラム](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804)を立ち上げた後、私たちはコミュニティの興奮と参加者の質に驚きました。 今日まで、私たちはちょうど2の下に受け取っています ほとんどすべての大陸の00のアプリケーション (私たちは南極☃️) からのアプリケーションを呼び出し、これまでに30人以上がオンボーディングされています。
 
-Tre has been doing an excellent job leading this initiative and [engaging with the community on Discord](https://discord.com/invite/78zg8aBSMG). As we are already seeing the benefits of having a closer relationship with the supporters of SubQuery, we will be expanding the team in the next few weeks so please be patient if you haven't heard from us yet!
+トレはこのイニシアチブを率先して素晴らしい仕事をしており、[Discord](https://discord.com/invite/78zg8aBSMG)でコミュニティと関わっています。 SubQueryのサポーターとのより緊密な関係を築くことのメリットはすでにあります。 数週間後にはチームを拡大しますので まだ連絡がない方は 我慢してください!
 
-## Huge Community Growth 🚀
+## 巨大なコミュニティの成長 🚀
 
-The growth in our community has been accelerating this month with our Discord blasting nearing 2,000 vibrant and supportive members. We have also grown our Twitter audience to over 6,000 followers.
+今月、Discordが2,000人の活気に満ちた支援的なメンバーを輩出していることで、コミュニティの成長は加速しています。 Twitterの視聴者も6,000人を超えるフォロワーに成長しました。
 
-We are particularly pleased about this growth as our project has focused on building a smaller but high quality developer community firstly. As we approach our TGE, these numbers should explode as we shift focus to the retail and investor audience.
+私たちのプロジェクトは、小規模ながらも高品質の開発者コミュニティを最初に構築することに焦点を当てているため、この成長に特に満足しています。 私たちがTGEに近づくにつれて、これらの数字は、小売と投資家の観客にフォーカスを移すにつれて爆発するはずです。
 
-To help us accelerate this growth, and ensure that our community is engaged and active in the ecosystem, Rob has joined our team as our new Head of Marketing. Additionally, we also welcome Tre as our strategic business development manager in the US and Europe.
+私たちがこの成長を加速させ、私たちのコミュニティが生態系の中で積極的に関与していることを確実にするために。 Robは新しいマーケティング責任者として私たちのチームに加わりました。 さらに、米国および欧州における当社の戦略的事業開発マネージャーとして Tre を歓迎します。
 
-## Kicked off work on SubQuery Network 🏗
+## SubQuery Network 🏗 で作業をキックしました。
 
-Yes! The work on [moving SubQuery towards a decentralised and tokenised network](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010); the SubQuery Network, has begun! This migration will ensure that there is no single point of failure for SubQuery and to encourage participants via the SQT token. In order to help us with this significant change, we have recruited new developers to join us this month.
+はい! [は分散型トークン化されたネットワーク](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010)にSubQueryを移動する作業を開始しました。 この移行により、SubQueryに単一の失敗点がなく、SQTトークンを介して参加者を励ますことができるようになります。 この大幅な変更を支援するため、私たちは今月、新しい開発者を募集しました。
 
-## New Projects on SubQuery 🤝
+## SubQuery 上の新規プロジェクト 🤝
 
 ![](https://miro.medium.com/max/4800/1*yUruZPSKP_0BA6mA72P8xg.gif)
 
-In August we launched several new projects on SubQuery including those with Subscan, Karura, Subscan, Polkaswap, and Soramitsu.
+8月にはSubscan、Karura、Subscan、Polkaswap、Soramitsを含むSubQueryに関するいくつかの新しいプロジェクトを立ち上げました。
 
-For Karura, [SubQuery is being used to extract and query data from Karura's chain](https://subquery.medium.com/karura-integrates-with-subquery-to-aggregate-and-serve-defi-data-to-kusama-builders-d34f0e722311?source=your_stories_page-------------------------------------), making queries fast and efficient for [Karura's app](https://apps.karura.network/).
+Karuraの場合、
 
-SubQuery's service is playing a key role in [Subscan](https://www.subscan.io/) by [providing fast data on transactions](https://subquery.medium.com/subscans-multi-signature-tool-powered-by-subquery-926da3e4fc25?source=your_stories_page-------------------------------------) for any given multi signature address, thereby improving the UX and allowing for more advanced features.
+SubQueryを使用してKaruraのチェーンからデータを抽出およびクエリし、[Karuraのアプリ](https://apps.karura.network/)のクエリを迅速かつ効率的にします。</p> 
 
-[SORA](https://sora.org/) has built a [SubQuery Project that retrieves data from the SORA network](https://subquery.medium.com/sora-integrates-subquery-to-provide-data-to-the-sora-network-5a73f77a40aa?source=your_stories_page-------------------------------------) to power mobile applications built on SORA and [Polkaswap.io](http://polkaswap.io/). You can read more here
+SubQueryのサービスは、任意の特定のマルチ署名アドレスに対してトランザクション[](https://www.subscan.io/)に関する高速データを提供することによって、[サブスキャン](https://subquery.medium.com/subscans-multi-signature-tool-powered-by-subquery-926da3e4fc25?source=your_stories_page-------------------------------------)で重要な役割を果たしています。 UXを改善しより高度な機能を可能にします。
 
-In both cases, we are thankful to have such great feedback like this from our partners:
+[SORA](https://sora.org/)は、SORAネットワークからデータを取得する[SubQueryプロジェクトを構築しました](https://subquery.medium.com/sora-integrates-subquery-to-provide-data-to-the-sora-network-5a73f77a40aa?source=your_stories_page-------------------------------------)SORAと[Polkaswap.io](http://polkaswap.io/)上に構築されたモバイルアプリケーションに電力を供給します。 詳細はこちらをご覧ください。
 
-*"Using Subquery makes building dapps easy, no more making a complicated series of calls to get the data I need."* - Brett (Developer at Acala)
+どちらの場合も、このような素晴らしいフィードバックがパートナーから寄せられたことに感謝しています。
 
-*"SubQuery has been the ideal solution for our needs because the application is easy to deploy and manage, it is easy to learn and develop as well as being well documented, and it also has its own infrastructure with Github integration"* - SORA Development Team
+「Subqueryを使うことで、Dappsの構築が簡単になり、必要なデータを得るために複雑な一連のcallをする必要がなくなりました」* --- Brett (Developer at Acala)*
 
-[You can view all projects easily via our Explorer here](https://explorer.subquery.network/).
+SubQueryは、デプロイや管理が容易で、学習や開発がしやすく、ドキュメントも充実しており、Githubとの連携で独自のインフラも整備されているため、当社のニーズに最適なソリューションでした。
 
-## AMA with DotMarketCap 🎙
+[すべてのプロジェクトはこちら](https://explorer.subquery.network/) から簡単に閲覧できます。
 
-We were delighted to be hosted by DotMarketCap on August 5th for an AMA with Sam and James. The questions from the audience ranged from areas such as DeFi and NFTs through to a lot of questions about our plans for growth and our future. We shared insights on why we began our project in Polkadot and if our token will be launched as an ERC-20 or not.
 
-[You can read the interview here](https://dotmarketcap.com/blog-detail/288/ama30-recap-polkawarriors-x-subquery).
 
-## Activity in China 🇨🇳
+## DotMarketCap付きAMA🎙
+
+私たちは8月5日にDotMarketCapによってサムとジェームズとAMAのために主催されたことを喜んでいました。 聴衆からの質問は、DeFiやNFTなどの分野から、私たちの成長計画や将来についての多くの質問まで多岐にわたりました。 私たちは、なぜ私たちが私たちのプロジェクトを始めたのかについての洞察を共有しました。私たちのトークンはERC-20として開始されるかどうか。
+
+[インタビューはこちら](https://dotmarketcap.com/blog-detail/288/ama30-recap-polkawarriors-x-subquery) をご覧ください。
+
+
+
+## 中国での活動
 
 ![](https://miro.medium.com/max/1400/0*A5oqsryFRbGX0MDx)
 
-Siqi, who leads our business development in China, has had a busy month with a number of [online panel discussions alongside Moonbeam](https://twitter.com/SubQueryNetwork/status/1425293137103122432/photo/1), Acala, Astar and Phala. In addition she has participated in AMA's organised by Polkadot on August 11th and an AMA hosted by [ODaily](http://www.odaily.com/) and Acala on August 13th.
+中国で事業展開をリードするSiqi。 Moonbeam[、Acala、Astar、Phalaと並んで](https://twitter.com/SubQueryNetwork/status/1425293137103122432/photo/1)オンラインパネルディスカッションを数多く行っています。 さらに、彼女は8月11日にPolkadotが主催するAMAに参加し、8月13日には[Odaily](http://www.odaily.com/)とAcalaが主催するAMAに参加しました。
 
-We are looking forward to growing our Chinese community significantly in the coming months through activities such as hackathons. As such, [we will be running a workshop with Encode Club](https://www.eventbrite.co.uk/e/polkadot-hackathon-subquery-workshop-tickets-167321106935?aff=ebdsoporgprofile) and running a hackathon with OneBlock+ to help introduce SubQuery to new audiences.
+ハッカソンなどの活動を通じて、今後数ヶ月間、中国のコミュニティを大幅に発展させることを楽しみにしています。 など[Encode Club](https://www.eventbrite.co.uk/e/polkadot-hackathon-subquery-workshop-tickets-167321106935?aff=ebdsoporgprofile)でワークショップを開催し、OneBlock+でハッカソンを開催し、SubQueryを新しいオーディエンスに紹介します。
+
+
 
 ## Delivering the 2nd Milestone of Polkadot Common API ✅
 
 We are pleased to make progress in the [development of an open-source dApp API ](https://docs.google.com/document/d/13L8HBwB6VB-n2g274FFFJKORYPJsq744C6H8iEDQ0-0/edit)for Kusama in conjunction with the team at [Fearless Wallet](https://fearlesswallet.io/). This work is being supported by a Kusama Treasury grant.
 
 Nearing completion of the second milestone in this project means that there will soon be a defined and common core data API interface for Polkadot, Kusama, and other parachains which will attract more developers to the ecosystem. Making development intuitive and as painless as possible is one of our key objectives!
+
+
 
 *****
 
