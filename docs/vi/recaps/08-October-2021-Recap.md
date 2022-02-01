@@ -1,72 +1,72 @@
-# October 2021 Recap
+# Tóm tắt Tháng 10 năm 2021
 
 ![](https://miro.medium.com/max/1400/1*Yf3LOc6onAZ-XRQLPyxAmQ.png)
 
-**Putting Our Plans Into Motion**
+**Đưa các kế hoạch của chúng tôi thành hành động**
 
-Welcome to the latest monthly update from SubQuery, and what will be the first one for many of you based on the growth of our community.
+Chào mừng bạn đến với bản cập nhật hàng tháng mới nhất từ ​​SubQuery và bản cập nhật đầu tiên dành cho nhiều người trong số các bạn dựa trên sự phát triển của cộng đồng của chúng tôi.
 
-From here on out we will try to structure every update around three key areas; community, core product development, and the SubQuery Network.
+Kể từ đây trở đi, chúng tôi sẽ cố gắng cấu trúc mọi bản cập nhật xoay quanh ba lĩnh vực chính; cộng đồng, phát triển sản phẩm cốt lõi và Mạng SubQuery.
 
-# SubQuery Network
+# Mạng SubQuery
 
-## Technical Roadmap Announced
+## Công bố lộ trình kỹ thuật
 
-At our community call last week we shared more  about our plans for the future. We are excited about how the next evolution of SubQuery will drive even more value to the Polkadot ecosystem and provide more opportunities for our community to participate in our growth.
+Trong cuộc gọi cộng đồng của chúng tôi vào tuần trước, chúng tôi đã chia sẻ nhiều hơn về kế hoạch của chúng tôi cho tương lai. Chúng tôi rất vui mừng về cách phát triển tiếp theo của SubQuery sẽ thúc đẩy nhiều giá trị hơn nữa cho hệ sinh thái Polkadot và mang lại nhiều cơ hội hơn cho cộng đồng của chúng tôi tham gia vào sự phát triển của SubQuery.
 
-We’ve gone extremely deep here for transparency with the community and to rationalise the work we have ahead. It’s an ambitious timeline that we are internally using as a target, you can see how many moving pieces there are from the image below! That being said, estimating timelines for R&D software development is notoriously difficult, so nothing below is final — it’s just our best effort at estimations.
+Chúng tôi đã đi rất sâu ở điểm này để minh bạch hóa với cộng đồng và hợp lý hóa công việc mà chúng tôi đang thực hiện. Đó là một dòng thời gian đầy tham vọng mà chúng tôi đang sử dụng để làm mục tiêu, bạn có thể thấy có bao nhiêu phần thành hiện thực từ hình ảnh bên dưới! Nói như vậy, việc ước tính tiến trình phát triển phần mềm R&D nổi tiếng là khó, vì vậy không có gì dưới đây là cuối cùng - đó chỉ là ước tính cho nỗ lực cao nhất của chúng tôi.
 
-[Read more about our technical roadmap here](https://subquery.medium.com/subquery-releases-technical-roadmap-2a3a383c49b)
+[Đọc thêm về lộ trình kỹ thuật của chúng tôi tại đây](https://subquery.medium.com/subquery-releases-technical-roadmap-2a3a383c49b)
 
-## Significant Development on the SubQuery Network
+## Phát triển đáng kể trên mạng SubQuery
 
-Building a new decentralised and tokenised network is a huge amount of work and it is unfortunately work that isn’t clearly visible externally for some time. That being said, we’ve had a top team of dedicated developers working on this for some time, slowly but surely working through the list of smart contract implementations to bring us closer to launching the first internal testnet by the end of the year.
+Việc xây dựng một mạng lưới mã hóa và phi tập trung mới là một khối lượng công việc lớn và rất tiếc, đó là công việc không thể nhìn thấy rõ ràng ra bên ngoài trong một thời gian. Nói như vậy, chúng tôi đã có một nhóm các nhà phát triển chuyên dụng hàng đầu làm việc về vấn đề này trong một thời gian, làm việc chậm mà chắc thông qua danh sách triển khai hợp đồng thông minh để đưa chúng tôi đến gần hơn với việc ra mắt testnet nội bộ đầu tiên vào cuối năm nay.
 
-# Core Product Development
+# Phát triển sản phẩm cốt lõi
 
-## Moonriver EVM Support
+## Hỗ trợ Moonriver EVM
 
-This is a significant milestone for us and a huge partnership with Moonbeam. Currently, there is no open-source tool which allows developers to flexibly collect and query data across both Ethereum and Polkadot/Kusama. This limitation can cause dApps solutions within Moonriver to be siloed into the smart contract layer and thereby limit their potential to consumers across both thriving networks.
+Đây là một cột mốc quan trọng đối với chúng tôi và là mối quan hệ hợp tác to lớn với Moonbeam. Hiện tại, không có công cụ mã nguồn mở nào cho phép các nhà phát triển thu thập và truy vấn dữ liệu một cách linh hoạt trên cả Ethereum và Polkadot/Kusama. Hạn chế này có thể khiến các giải pháp dApps trong Moonriver bị đưa vào lớp hợp đồng thông minh và do đó hạn chế tiềm năng của chúng đối với người tiêu dùng trên cả hai mạng đang phát triển mạnh.
 
-This partnership with Moonbeam brings a complete and unified data indexing solution for all blockchain data within Moonriver and will greatly benefit Moonriver’s growing application ecosystem. With SubQuery’s innovation, one tool can now query and filter EVM logs and transactions in addition to Substrate data sources.
+Sự hợp tác này với Moonbeam mang đến một giải pháp lập chỉ mục dữ liệu thống nhất và hoàn chỉnh cho tất cả dữ liệu chuỗi khối trong Moonriver và sẽ mang lại lợi ích to lớn cho hệ sinh thái ứng dụng đang phát triển của Moonriver. Với sự đổi mới của SubQuery, một công cụ hiện có thể truy vấn và lọc log của EVM và giao dịch ngoài các nguồn dữ liệu Substrate.
 
-[Read more about our Moonriver EVM support here](https://subquery.medium.com/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff)
+[Đọc thêm về sự hỗ trợ Moonriver EVM của chúng tôi tại đây](https://subquery.medium.com/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff)
 
-# Community
+# Cộng đồng
 
-## The Spartan Programme
+## Chương trình Spartan
 
-In August, SubQuery launched its Ambassador programme to find community leaders passionate about Polkadot and SubQuery. Surprisingly we were completely overwhelmed by thousands and thousands of applications, and our initial plans to manually onboard applicants has become challenging. After consultation with our existing Ambassadors we have designed a new, and transparent method to level up in our Discord community and potentially become an Ambassador.
+Vào tháng 8, SubQuery đã khởi động chương trình Đại sứ để tìm kiếm các nhà lãnh đạo cộng đồng đam mê Polkadot và SubQuery. Đáng ngạc nhiên là chúng tôi hoàn toàn bị choáng ngợp bởi hàng nghìn hàng nghìn đơn đăng ký, và kế hoạch ban đầu của chúng tôi để tiếp cận các ứng viên theo cách thủ công đã trở nên đầy thách thức. Sau khi tham khảo ý kiến ​​của các Đại sứ hiện tại, chúng tôi đã thiết kế một phương pháp mới và minh bạch để thăng cấp trong cộng đồng Discord của chúng tôi và có khả năng trở thành Đại sứ.
 
-The Spartan programme exists within our Discord community, and it is designed to complement our established ambassador programme with another tier or contributors. Aspiring members can complete monthly tasks and competitions to become a Spartan. The Spartans who then rise to the top of their class will be nominated by our existing Ambassadors to join their ranks.
+Chương trình Spartan tồn tại trong cộng đồng Discord của chúng tôi và nó được thiết kế để bổ sung cho chương trình đại sứ đã thành lập của chúng tôi với một cấp độ khác. Các thành viên tham vọng có thể hoàn thành các nhiệm vụ và cuộc thi hàng tháng để trở thành Spartan. Những người Sparta sau đó vươn lên dẫn đầu nhóm của họ sẽ được các Đại sứ hiện có của chúng tôi đề cử vào hàng ngũ đại sứ.
 
-To find out more about our Spartan programme and participate in our November competition please  [join our Discord](https://discord.com/invite/subquery).
+Để tìm hiểu thêm về chương trình Spartan của chúng tôi và tham gia cuộc thi tháng 11, vui lòng [tham gia Discord của chúng tôi](https://discord.com/invite/subquery).
 
-[Read more about our Spartan programme here](https://subquery.medium.com/subquerys-new-spartan-programme-cf6c13653c6f)
+[Đọc thêm về chương trình Spartan của chúng tôi tại đây](https://subquery.medium.com/subquerys-new-spartan-programme-cf6c13653c6f)
 
-## SubQuery Academy
+## Học viện SubQuery
 
-Onboarding new developers and teaching them the skills they need to build the dApps of tomorrow is incredibly important to the success of our community.
+Việc giới thiệu các nhà phát triển mới và dạy họ những kỹ năng cần thiết để xây dựng các dApp của tương lai là vô cùng quan trọng đối với sự thành công của cộng đồng chúng ta.
 
-The Academy will be a weekly series of 6 modules with several 5 to 10 minute lessons which are delivered by a recorded video. The video content is accompanied by written tutorials, slides, lab workbooks, and links to the finished GitHub code repository.
+Học viện sẽ là một chuỗi hàng tuần gồm 6 mô-đun với một số bài học từ 5 đến 10 phút được chuyển tải bằng một đoạn video được ghi lại. Nội dung video đi kèm với các hướng dẫn bằng văn bản, các trang trình bày, các sách bài tập trong phòng thí nghiệm và các liên kết đến kho lưu trữ mã GitHub đã hoàn thành.
 
-Our Academy aims to take an aspiring blockchain developer from beginner to advanced and it is 100% free and accessible online. We have had over 1,200 enrolments for our first hero course since its launch two weeks ago and we are grateful for the passionate community that we have with us.
+Học viện của chúng tôi nhằm mục đích đưa một nhà phát triển blockchain đầy tham vọng từ người mới bắt đầu đến nâng cao và nó hoàn toàn miễn phí và có thể truy cập trực tuyến. Chúng tôi đã có hơn 1.200 đăng ký cho khóa học anh hùng đầu tiên của mình kể từ khi ra mắt cách đây hai tuần và chúng tôi biết ơn cộng đồng đầy nhiệt huyết đã đồng hành cùng chúng tôi.
 
-[Read more about SubQuery’s Academy here](https://subquery.medium.com/subquery-launches-the-subquery-academy-9505dc66a01)
+[Đọc thêm về Học viện SubQuery tại đây](https://subquery.medium.com/subquery-launches-the-subquery-academy-9505dc66a01)
 
-## Community Call
+## Cuộc nói chuyện với cộng đồng
 
-We held our first-ever community call on October 28th to share our roadmap and the latest community updates. It was great to share with our community the things they had been asking for a long time in a more personal way. We appreciate all those who came to the call and we plan on hosting these calls more regularly. It would have been the first time for a lot of you to hear from our new community manager Sally as well who joined us in early October.
+Chúng tôi đã tổ chức cuộc nói chuyện với cộng đồng lần đầu tiên vào ngày 28 tháng 10 để chia sẻ lộ trình của chúng tôi và các cập nhật mới nhất với cộng đồng. Thật tuyệt khi chia sẻ với cộng đồng của chúng tôi những điều họ đã yêu cầu từ lâu theo một cách riêng tư hơn. Chúng tôi đánh giá cao tất cả những người đã tham gia cuộc gọi và chúng tôi có kế hoạch tổ chức các cuộc gọi này thường xuyên hơn. Đây sẽ là lần đầu tiên rất nhiều bạn được nghe chia sẻ từ người quản lý cộng đồng mới của chúng tôi, Sally cũng như người đã tham gia cùng chúng tôi vào đầu tháng 10.
 
-[Watch the October session recording here](https://www.crowdcast.io/e/subquery-sessions-october)
+[Xem ghi hình phiên tháng 10 tại đây](https://www.crowdcast.io/e/subquery-sessions-october)
 
-# Other things you might have missed
+# Những thứ khác bạn có thể đã bỏ lỡ
 
--   We’ve partnered with Acala to provide the  [largest pool of prizes for the Encode Club Polkadot Hackathons](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e).
--   [SubQuery helps Khala Build their New ERC20 Chain Bridge](https://subquery.medium.com/subquery-helps-khala-build-their-new-erc20-chain-bridge-c3aa0e1e6a89)
+-   Chúng tôi đã hợp tác với Acala để cung cấp [nhóm giải thưởng lớn nhất cho Encode Club Polkadot Hackathons](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e).
+-   [SubQuery giúp Khala xây dựng Cầu chuỗi ERC20 mới của họ](https://subquery.medium.com/subquery-helps-khala-build-their-new-erc20-chain-bridge-c3aa0e1e6a89)
 
-If you would like to learn more you can view all projects easily via our Explorer here.
+Nếu bạn muốn tìm hiểu thêm, bạn có thể xem tất cả các dự án một cách dễ dàng thông qua Trình khám phá của chúng tôi tại đây.
 
-Như mọi khi, hãy tham gia các mạng xã hội của chúng tôi để được cập nhật tin tức và thông báo mới nhất. James, Sam và Nhóm SubQuery
+Như mọi khi, hãy tham gia các kênh xã hội của chúng tôi để được cập nhật tin tức và thông báo mới nhất của chúng tôi. James, Sam và Đội ngũ SubQuery
 
 [Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
