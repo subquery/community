@@ -6,9 +6,9 @@ Hari ini kami dengan senang hati mengumumkan proyek baru yang menarik di SubQuer
 
 ![sora-frontend.jpg](https://miro.medium.com/max/1400/1*pq0U6wsutlf8rjXqq7i2BQ.jpeg)
 
-> "SubQuery dipilih untuk meningkatkan UX penggunaan jaringan SORA. Kami menggunakan SubQuery untuk mendapatkan dan mencantumkan detail ekstrinsik, menghitung harga fiat, dan kumpulan likuiditas APY. Tujuan kami adalah mendapatkan riwayat transaksi dan data agregat untuk aplikasi yang bekerja dengan jaringan SORA.
+> "SubQuery dipilih untuk meningkatkan UX penggunaan jaringan SORA. Kami menggunakan SubQuery untuk mengambil dan mencantumkan detail ekstrinsik, menghitung harga fiat, dan APY liquidity pool. Tujuan kami adalah mendapatkan riwayat transaksi dan data agregat untuk aplikasi yang bekerja dengan jaringan SORA.
 > 
-> SubQuery telah menjadi solusi ideal untuk kebutuhan kita karena aplikasinya mudah untuk disebarkan dan dikelola, mudah dipelajari dan dikembangkan serta didokumentasikan dengan baik, dan juga memiliki infrastrukturnya sendiri dengan integrasi Github. Penataan data polos SubQuery menyediakan akses cepat, mendukung GraphQL API untuk aplikasi klien, memiliki konfigurasi yang fleksibel untuk mengurai peristiwa, ekstrinsik, dan blok dengan filtrasi tambahan. Terakhir, aplikasi benar-benar transparan bagi pengguna, sehingga mereka tidak akan menyadari jika aplikasi telah diperbarui atau dihentikan."—SORA Development Team
+> SubQuery telah menjadi solusi ideal untuk kebutuhan kita karena aplikasinya mudah untuk dideploy dan dikelola, mudah dipelajari dan dikembangkan serta didokumentasikan dengan baik, dan juga memiliki infrastrukturnya sendiri dengan integrasi Github. Penataan data SubQuery yang sederhana menyediakan akses cepat, mendukung GraphQL API untuk aplikasi klien, memiliki konfigurasi yang fleksibel untuk parsing event, ekstrinsik, dan blok dengan filtrasi tambahan. Terakhir, aplikasi benar-benar transparan bagi pengguna, sehingga mereka tidak akan menyadari jika aplikasi telah diperbarui atau dihentikan."—SORA Development Team
 
 Polkaswap adalah DEX terkemuka di ekosistem Polkadot yang berkembang dan menggunakan SubQuery untuk mengambil transfer, swap yang terjadi di Polkaswap, penambahan atau pencabutan likuiditas, harga token yang tetap, dan APY untuk liquidity pool.
 
@@ -16,11 +16,11 @@ SubQuery telah membuat pengembangan aplikasi seluler SORA dan Polkaswap lebih mu
 
 ![sora-explorer.jpg](https://miro.medium.com/max/1400/1*vjdjmmffvJ7zfOQyxo0ZAA.jpeg)
 
-Dalam contoh ini, kami menggunakan SubQuery untuk menarik jumlah total XOR yang disimpan di setiap kumpulan likuiditas (difilter untuk hanya menampilkan 2 kumpulan pertama). Contoh ini juga menunjukkan APY saat ini yang terkait dengan setiap kumpulan likuiditas (difilter untuk hanya menampilkan 2 kumpulan pertama).
+Dalam contoh ini, kami menggunakan SubQuery untuk menarik jumlah total XOR yang disimpan di setiap liquidity pool (difilter untuk hanya menampilkan 2 pool pertama). Contoh ini juga menunjukkan APY saat ini yang terkait dengan setiap liquidity pool (difilter untuk hanya menampilkan 2 pool pertama).
 
 ![sora-playground.jpg](https://miro.medium.com/max/1400/1*oTh-ajGfG1oEhYdvqo12tQ.jpeg)
 
-SORA menggunakan [Proyek SubQuery](https://project.subquery.network/) untuk mengelola proyek mereka dan membuat pembaruan sesuai kebutuhan. Layanan pengindeksan dan kueri yang kami sediakan sepenuhnya dikelola oleh SubQuery dan diberikan kepada komunitas Polkadot secara gratis di [Penjelajah SubQuery](https://explorer.subquery.network/).
+SORA menggunakan [SubQuery Projects](https://project.subquery.network/) untuk mengelola proyek mereka dan membuat pembaruan sesuai kebutuhan. Layanan pengindeksan dan kueri yang kami sediakan sepenuhnya dikelola oleh SubQuery dan diberikan kepada komunitas Polkadot secara gratis di [SubQuery's Explorer](https://explorer.subquery.network/).
 
 Jelajahi proyek SORA di SubQuery explorer [di sini](https://explorer.subquery.network/subquery/sora-xor/sora).
 
@@ -36,6 +36,6 @@ Jaringan SORA unggul dalam menyediakan alat untuk aplikasi terdesentralisasi yan
 
 ### Tentang SubQuery
 
-[SubQuery](https://subquery.network/) adalah agregasi data terdesentralisasi, pengindeksan & lapisan kueri antara blockchain Layer-1 dan aplikasi terdesentralisasi (DApps). Saat ini berfokus pada proyek Polkadot dan Substrat, data sebagai layanan ini memungkinkan pengembang untuk fokus pada kasus penggunaan inti dan front-end mereka, tanpa perlu membuang waktu untuk membangun backend khusus untuk pemrosesan data.
+[SubQuery](https://subquery.network/) adalah agregasi data terdesentralisasi, mengindeks & mengkueri lapisan antara blockchain Layer-1 dan aplikasi terdesentralisasi (DApps). Saat ini berfokus pada proyek Polkadot dan Substrate, data sebagai layanan ini memungkinkan pengembang untuk fokus pada use case inti dan front-end mereka, tanpa perlu membuang waktu untuk membangun backend khusus untuk pemrosesan data.
 
 [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Email](mailto:hello@subquery.network)
