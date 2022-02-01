@@ -19,7 +19,7 @@ Dịch vụ của [SubQuery](https://subquery.network/) giúp [Subvis.io](https:
 
 ![](https://miro.medium.com/max/1400/1*0W6n5vW1yHc3MjfzgsCFZw.png)
 
-[ Nhờ SubQuery, chúng tôi có thể dễ dàng truy vấn ](https://explorer.subquery.network/subquery/subvis-io/kusama-auction) tổng đóng góp cho mỗi parachain và xem dữ liệu này thay đổi như thế nào theo thời gian. Ví dụ: chúng tôi có thể tìm được 5 đóng góp đơn lẻ lớn nhất cho các khoản vay từ cộng đồng thông qua truy vấn bên dưới
+[Nhờ SubQuery, chúng tôi có thể dễ dàng truy vấn](https://explorer.subquery.network/subquery/subvis-io/kusama-auction) tổng đóng góp cho mỗi parachain và xem dữ liệu này thay đổi như thế nào theo thời gian. Ví dụ: chúng tôi có thể tìm được 5 đóng góp đơn lẻ lớn nhất cho các khoản vay từ cộng đồng thông qua truy vấn bên dưới
 
 ![](https://miro.medium.com/max/1400/1*4509Ki-4lxJyz1kdm6E5PA.png)
 
@@ -31,11 +31,11 @@ Bạn cũng có thể nhận được giá thầu cập nhật nhất cho mỗi 
 
 3 giá thầu gần đây nhất đều của Karura trên các vị trí 13–20
 
-Subvis.io đang sử dụng [ Dự án SubQuery ](https://project.subquery.network/) để quản lý dự án của riêng họ và thực hiện cập nhật theo yêu cầu. Dịch vụ lập chỉ mục và truy vấn cho dịch vụ này do SubQuery quản lý hoàn toàn và được cung cấp miễn phí cho cộng đồng Polkadot trong [Explorer của SubQuery](https://explorer.subquery.network/).
+Subvis.io đang sử dụng [Dự án SubQuery](https://project.subquery.network/) để quản lý dự án của riêng họ và thực hiện cập nhật theo yêu cầu. Dịch vụ lập chỉ mục và truy vấn cho dịch vụ này do SubQuery quản lý hoàn toàn và được cung cấp miễn phí cho cộng đồng Polkadot trong [SubQuery Explorer](https://explorer.subquery.network/).
 
 [Khám phá tập dữ liệu Subvis.io](https://explorer.subquery.network/subquery/subvis-io/kusama-auction)
 
-[ SubQuery ](https://subquery.network/) là một lớp tổng hợp dữ liệu sẽ hoạt động giữa các blockchain layer-1 (Kusama) và DApps (như Subvis.io). Dịch vụ này cho phép các nhà phát triển DApp tập trung vào tính năng cốt lõi và giao diện người dùng của họ mà không cần lãng phí thời gian vào việc xây dựng chương trình phụ trợ tùy chỉnh để xử lý dữ liệu.
+[SubQuery](https://subquery.network/) là một lớp tổng hợp dữ liệu sẽ hoạt động giữa các blockchain layer-1 (Kusama) và DApps (như Subvis.io). Dịch vụ này cho phép các nhà phát triển DApp tập trung vào vấn đề cốt lõi và giao diện người dùng của họ mà không cần lãng phí thời gian vào việc xây dựng chương trình phụ trợ tùy chỉnh để xử lý dữ liệu.
 
 Tìm hiểu thêm về SubQuery
 
