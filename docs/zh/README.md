@@ -1,42 +1,42 @@
-# SubQuery 博客 & 社区内容
+# SubQuery Blogs & Community Content
 
-SubQuery 在这里帮助您转换和查询全球数据来为一个web3.0 未来做准备。
+SubQuery is here to help you transform and query the world’s data for a web3.0 future.
 
-这里有SubQuery的所有社区博客、公告、文章和视频。
+This is the global repository of all community blogs, announcements, articles, and videos from SubQuery.
 
-**用最适合你自己的语言阅读！ 您可以使用所有页面右上方的选择按钮更改您的语言。**
+**Read in your own language! You can change your language using the selector on the top right of all pages.**
 
-## 我们需要你来帮助翻译!
+## We need help translating!
 
-我们认识到，我们的最大优势之一是我们的社区。 在你们的帮助下，我们想要发展和联系世界各地社区的地方大使来帮助我们翻译我们为世界各地社区提供的材料。
+We understand that one of our biggest strengths is our community, and with your help, we want to grow and establish local ambassadors to help translate our material for communities around the world.
 
-[加入我们的大使计划](https://doc.subquery.network/miscellaneous/ambassadors.html)
+[Join our Ambassador Program](https://doc.subquery.network/miscellaneous/ambassadors.html)
 
-## 社交媒体链接
+## Social Media Links
 
-SubQuery 是一个活跃的项目，通过许多社交媒体与我们的用户保持联系和沟通。
+SubQuery is an active project that maintains and communicates with our followers through many social media channels.
 
-我们希望倾听社区的声音，所以请加入社区并向我们发送您的想法或问题！
+It is our aim to always listen and engage with our loyal community so please join the conversation and send us your ideas or questions!
 
-### SubQuery官方社区
+### Official SubQuery Communities
 
 - [Linktree](https://linktr.ee/subquerynetwork)
-- [Discord](https://discord.com/invite/subquery) (拥有专业技术支持频道的主社区)
-- [ Medium ](https://subquery.medium.com) (主要通知公告)
+- [Discord](https://discord.com/invite/subquery) (Primary Community with dedicated technical support channels)
+- [Medium](https://subquery.medium.com) (Primary announcements channel)
 - [Twitter](https://twitter.com/subquerynetwork)
-- [Telegram](https://t.me/subquerynetwork) (公告频道)
+- [Telegram](https://t.me/subquerynetwork) (Announcements channel only)
 - [GitHub](https://github.com/SubQuery/subql)
 - [Matrix/Riot](https://matrix.to/#/#subquery:matrix.org)
 - [LinkedIn](https://www.linkedin.com/company/subquery)
 
-### SubQuery非官方社区
+### Unofficial SubQuery Communities
 
-这些社区并不是由SubQuery团队搭建的，但我们的大使可能在那里提供支持。 请注意防骗，因为SubQuery **不** 负责它们内部发生的事情。
+These communities are not moderated by the SubQuery team, but our ambassadors may be there to provide support. Please be careful of scams as SubQuery is **not** responsible for what happens within them.
 
 - [Telegram (Chinese)](https://t.me/subquerychina)
 - [Telegram (Russian)](https://t.me/SubQuery_russia)
 - [Telegram (Spanish)](https://t.me/SubQueryES)
 - [Telegram (Thai)](https://t.me/subquerynetworkthai)
 - [Telegram (Turkish)](https://t.me/subquery_TR)
-- [Telegram (Vietname)](https://t.me/subqueryvietnam)
+- [Telegram (Vietnamese)](https://t.me/subqueryvietnam)
 - [Telegram (Vietnamese Announcement)](https://t.me/subqueryannvn)
