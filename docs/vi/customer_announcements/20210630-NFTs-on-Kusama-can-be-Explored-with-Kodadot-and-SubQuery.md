@@ -20,6 +20,6 @@ Trong ví dụ bên dưới, chúng tôi đang sử dụng SubQuery để tìm 5
 
 ![](https://miro.medium.com/max/1400/0*QTzLpC0D-pYWDngZ)
 
-Kodadot đang sử dụng [Dự án SubQuery](https://project.subquery.network/) để quản lý dự án của riêng họ và cập nhật theo yêu cầu. Dịch vụ lập chỉ mục và truy vấn chúng tôi cung cấp hoàn toàn do SubQuery quản lý và được cung cấp miễn phí cho cộng đồng Polkadot trong [SubQuery Explorer](https://explorer.subquery.network/).
+Kodadot đang sử dụng [Dự án SubQuery](https://project.subquery.network/) để quản lý dự án của riêng họ và cập nhật theo yêu cầu. Dịch vụ lập chỉ mục và truy vấn chúng tôi cung cấp hoàn toàn do SubQuery quản lý và được cung cấp miễn phí cho cộng đồng Polkadot trong [SubQuery Explorer ](https://explorer.subquery.network/).
 
 [Khám phá tập dữ liệu Kodadot](https://explorer.subquery.network/subquery/vikiival/magick)
