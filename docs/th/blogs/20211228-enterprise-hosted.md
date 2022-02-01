@@ -26,7 +26,7 @@ Additionally, when you make a request to a SubQuery project in our hosted servic
 
 We’ve implemented multiple clusters in different regions that provide the same service. This work also includes a tool in  [SubQuery Projects](https://project.subquery.network/)  that allows you to deploy and manage your project across these clusters. We’ve also implemented processes that ensure that databases in different regions stay consistent, so that regardless of which cluster your request goes to, the data that you receive is consistent.
 
-# Intelligent Routing
+# การกำหนดเส้นทางอัจฉริยะ
 
 Once we have SubQuery clusters running in different regions, the next logical step is to make this feature invisible to your users. Your users should never have to decide what cluster their requests go to, SubQuery should automatically route their requests to the closest healthy cluster. This is what SubQuery’s intelligent routing provides.
 
