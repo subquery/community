@@ -1,12 +1,12 @@
-# SubQuery Provides Customers with Enterprise Support
+# SubQuery ฉลองผู้ชนะ Encode Club Hackathon
 
 ![](https://miro.medium.com/max/1400/1*z_StqAT5KeaxQLBCm-xpRQ.jpeg)
 
-As our community grows larger we are seeing hundreds of deployments and exponentially more traffic to our hosted service each and every day. The team at SubQuery are rising to this challenge however and are scaling our services to meet the unprecedented demand for our tools by our customers, while keeping our  [hosted service](https://projects.subquery.network/)  free.
+เมื่อชุมชนของเราเติบโตขึ้น เราก็เห็นการปรับใช้หลายร้อยรายการและปริมาณการใช้ข้อมูลที่เพิ่มขึ้นแบบทวีคูณไปยังบริการที่โฮสต์ของเราทุกวัน ทีมงานที่ SubQuery กำลังเผชิญกับความท้าทายนี้และกำลังขยายบริการของเราเพื่อตอบสนองความต้องการเครื่องมือของเราที่ไม่เคยเกิดขึ้นมาก่อนโดยลูกค้าของเรา ในขณะที่ยังคงให้บริการโฮสต์ของเราฟรี
 
-Many customers now rely on SubQuery to provide  mission critical data to their production apps. These customers represent some of the largest wallets ([Nova](https://novawallet.io/)  and  [Fearless](https://fearlesswallet.io/)), scanners ([Subscan](https://www.subscan.io/),  [SubVis](https://www.subvis.io/), and  [DotMarketCap](https://dotmarketcap.com/)), NFT platforms ([Kodadot](https://kodadot.xyz/)  and  [Yuser](https://yuser.co/)), and more. These are huge applications that the Polkadot community use on a daily basis and must be online at all times.
+ปัจจุบัน ลูกค้าจำนวนมากพึ่งพา SubQuery เพื่อให้ข้อมูลที่สำคัญต่อภารกิจแก่แอปที่ใช้งานจริง ลูกค้าเหล่านี้เป็นตัวแทนของกระเป๋าสตางค์ที่ใหญ่ที่สุด (Nova และ Fearless) สแกนเนอร์ (Subscan, SubVis และ DotMarketCap) แพลตฟอร์ม NFT (Kodadot และ Yuser) และอื่นๆ นี่เป็นแอปพลิเคชั่นขนาดใหญ่ที่ชุมชน Polkadot ใช้เป็นประจำทุกวันและต้องออนไลน์ตลอดเวลา
 
-The performance and reliability of our hosted service has been on the top of our priority list for some time here at SubQuery. Our sister team is OnFinality, Polkadot’s largest infrastructure provider, so we have plenty of experience in this area. As a result, today we are going to walk through three recent improvements that will make SubQuery the most reliable, scalable, and performant data platform in Polkadot.
+ประสิทธิภาพและความน่าเชื่อถือของบริการโฮสต์ของเราอยู่ในอันดับต้น ๆ ของรายการลำดับความสำคัญของเรามาระยะหนึ่งแล้วที่ SubQuery ทีมน้องสาวของเราคือ OnFinality ผู้ให้บริการโครงสร้างพื้นฐานรายใหญ่ที่สุดของ Polkadot ดังนั้นเราจึงมีประสบการณ์มากมายในด้านนี้ ด้วยเหตุนี้ วันนี้เราจะพูดถึงการปรับปรุงล่าสุดสามประการที่จะทำให้ SubQuery เป็นแพลตฟอร์มข้อมูลที่เชื่อถือได้ ปรับขนาดได้ และมีประสิทธิภาพมากที่สุดใน Polkadot
 
 ![](https://miro.medium.com/max/1200/1*QckhJzjQqw9czpBMRhXgXQ.gif)
 
@@ -26,7 +26,7 @@ Additionally, when you make a request to a SubQuery project in our hosted servic
 
 We’ve implemented multiple clusters in different regions that provide the same service. This work also includes a tool in  [SubQuery Projects](https://project.subquery.network/)  that allows you to deploy and manage your project across these clusters. We’ve also implemented processes that ensure that databases in different regions stay consistent, so that regardless of which cluster your request goes to, the data that you receive is consistent.
 
-# การกำหนดเส้นทางอัจฉริยะ
+# Intelligent Routing
 
 Once we have SubQuery clusters running in different regions, the next logical step is to make this feature invisible to your users. Your users should never have to decide what cluster their requests go to, SubQuery should automatically route their requests to the closest healthy cluster. This is what SubQuery’s intelligent routing provides.
 
