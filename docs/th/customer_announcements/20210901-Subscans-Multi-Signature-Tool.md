@@ -8,7 +8,7 @@
 
 ![ผู้ใช้งานสามารถสร้าง multi-signature address ได้ง่ายๆ](https://cdn-images-1.medium.com/max/1600/1*e4AALzw8xzERhzBJgPUktQ.png)
 
-> *"SubQuery ช่วยให้เราทำดัชนีข้อมูลสำหรับเครื่องมือ Subscan multi-signature และทีมของเราสามารถรันมันได้เองอย่างง่ายดาย บริการ Api ของ Subscan นั้นได้มาตรฐาน และเราจะแนะนำ SubQuery ให้กับผู้ใช้งานของเราหากพวกเขามีความต้องการเฉพาะอื่นๆ ง่ายดาย บริการ API ของ Subscan นั้นได้มาตรฐาน และเราจะแนะนำ SubQuery ให้กับผู้ใช้งานของเราหากพวกเขามีความต้องการเฉพาะอื่นๆ"* - Subscan
+> *"SubQuery ช่วยให้เราทำดัชนีข้อมูลสำหรับเครื่องมือ Subscan multi-signature และทีมของเราสามารถรันมันได้เองอย่างง่ายดาย บริการ API ของ Subscan นั้นได้มาตรฐาน และเราจะแนะนำ SubQuery ให้กับผู้ใช้งานของเราหากพวกเขามีความต้องการเฉพาะอื่นๆ"* - Subscan
 
 ![](https://cdn-images-1.medium.com/max/1600/1*Hy-1IxJ3ZNQX7qC38H19Bg.png)
 
