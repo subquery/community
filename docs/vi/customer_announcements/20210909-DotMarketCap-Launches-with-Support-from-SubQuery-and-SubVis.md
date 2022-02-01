@@ -10,11 +10,11 @@ Một lượng lớn dữ liệu thời gian thực trực tiếp này đến t�
 
 > *"SubQuery, với hơn 60 dự án và hàng triệu yêu cầu truy vấn mỗi ngày, cũng như dữ liệu từ Subvis, là nơi hoàn hảo để hỗ trợ và cung cấp cho DotMarketCap quyền truy cập nhanh nhất và chính xác nhất vào dữ liệu Crowdloan & Auction. Với nguồn dữ liệu đáng tin cậy đó và UI UX đặc trưng của DMC, chúng tôi tin rằng sự hợp tác này sẽ mang lại trải nghiệm tuyệt vời và tiếp cận dễ dàng tới cộng đồng Polkadot."* - Sang Tran (Người sáng lập DotMarketCap)
 
-Đấu giá Kusama parachain là sự kiện quan trọng nhất trong năm nay và với tính năng [Đấu giá & Theo dõi Crowdloan](https://dotmarketcap.com/auction), bạn có thể theo dõi sự cạnh tranh khốc liệt giữa các dự án, cũng như hỗ trợ các ứng viên yêu thích của bạn giành được vị trí parachain thông qua crowdloan của họ.
+Đấu giá Kusama parachain là sự kiện quan trọng nhất trong năm nay và với tính năng [Đấu giá & Theo dõi Crowdloan](https://dotmarketcap.com/auction), bạn có thể nắm được sự cạnh tranh khốc liệt giữa các dự án, cũng như hỗ trợ các ứng viên yêu thích của bạn giành được vị trí parachain thông qua crowdloan của họ.
 
 ![](https://cdn-images-1.medium.com/max/1600/1*n_y-1CUv1BcU2bzCs15djA.png)
 
-Đối với SubQuery, đây là việc hiện thực hóa mục tiêu của chúng tôi nhằm xây dựng một thị trường dữ liệu cộng đồng mở trong Explorer. Đây là ví dụ tốt nhất cho đến nay về việc một khách hàng khổng lồ sử dụng dữ liệu từ một dự án SubQuery do một đội ngũ khác xây dựng và duy trì. Nó cho thấy hệ sinh thái Polkadot cộng sinh như thế nào và cách các nhóm làm việc cùng nhau để đạt được mục tiêu chung về một tương lai phi tập trung
+Đối với SubQuery, đây là việc hiện thực hóa mục tiêu của chúng tôi nhằm xây dựng một thị trường dữ liệu cộng đồng mở trong Explorer. Đây là ví dụ tốt nhất cho đến nay về việc một khách hàng khổng lồ sử dụng dữ liệu từ một dự án SubQuery do một nhóm khác xây dựng và duy trì. Nó cho thấy hệ sinh thái Polkadot cộng sinh như thế nào và cách các nhóm làm việc cùng nhau để đạt được mục tiêu chung về một tương lai phi tập trung
 
 > *"Chắc chắn rằng DotMarketCap 2.0 không thể hoàn thành nếu không có sự hỗ trợ của các đối tác của chúng tôi: SubQuery và [Subvis.io](http://subvis.io/). Tất cả dữ liệu chúng tôi đã sử dụng trên trang thông tin đấu giá và & huy động vốn cộng đồng được lấy từ [Subvis.io](http://subvis.io/). Nhờ sự hợp tác này, mọi thứ dễ dàng hơn rất nhiều cho chúng tôi trong việc truy cập vào dữ liệu phi tập trung. Chúng tôi muốn bày tỏ lòng biết ơn đến Sam Zou, James Bayly và toàn bộ nhóm SubQuery."* - DotMarketCap
 
@@ -28,7 +28,7 @@ Một lượng lớn dữ liệu thời gian thực trực tiếp này đến t�
 
 DotMarketCap là một dự án phi lợi nhuận được tài trợ bởi Illusionist Group, đây là một trang web nơi bạn có thể tìm thấy dữ liệu về giá cả, biểu đồ, vốn hóa cũng như thông tin và phân tích mới nhất của toàn bộ dự án trên hệ sinh thái Polkadot. Sau nhiều cải tiến, DotMarketCap cuối cùng đã xuất hiện với các tính năng hoàn toàn mới và thú vị. Truy cập dotmarketcap.com để biết thêm thông tin.
 
-[Website](http://dotmarketcap.com/) | [Telegram](https://t.me/DotMarketCap_ANN) | [Twitter](https://twitter.com/DotMarketCap?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+[Website](http://dotmarketcap.com/)|[Telegram](https://t.me/DotMarketCap_ANN)|[Twitter](https://twitter.com/DotMarketCap?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 ## **Giới thiệu về SubQuery**
 
