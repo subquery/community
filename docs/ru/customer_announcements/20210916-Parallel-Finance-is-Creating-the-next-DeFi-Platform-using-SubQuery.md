@@ -38,4 +38,4 @@ Parallel Finance - это децентрализованный протокол 
 
 [ SubQuery ](https://subquery.network/) - это уровень агрегации данных, который будет работать между блокчейнами уровня 1 (Kusama) и DApps (например, Kodadot). Эта услуга позволяет разработчикам DApp сосредоточиться на основном сценарии использования и интерфейсе, не тратя время на создание настраиваемого внутреннего интерфейса для обработки данных.
 
-[Веб-сайт](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
+[Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
