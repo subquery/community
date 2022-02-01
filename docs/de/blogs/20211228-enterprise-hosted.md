@@ -6,7 +6,7 @@ Da unsere Community größer wird, sehen wir jeden Tag Hunderte von Bereitstellu
 
 Viele Kunden verlassen sich jetzt auf SubQuery, um geschäftskritische Daten für ihre Produktionsanwendungen bereitzustellen. Diese Kunden repräsentieren einige der größten Wallets ([Nova](https://novawallet.io/) und [Fearless](https://fearlesswallet.io/)), Scanner ([Subscan](https://www.subscan.io/), [SubVis](https://www.subvis.io/) und < 4>DotMarketCap</a>), NFT-Plattformen ([Kodadot](https://kodadot.xyz/) und [Yuser](https://yuser.co/)) und mehr. Dies sind riesige Anwendungen, die die Polkadot-Community täglich nutzt und die jederzeit online sein müssen.
 
-126 / 5 000 Результати перекладу Die Leistung und Zuverlässigkeit unseres gehosteten Dienstes steht hier bei SubQuery seit einiger Zeit ganz oben auf unserer Prioritätenliste.  Unser Schwesterteam ist OnFinality, Polkadots größter Infrastrukturanbieter, daher haben wir viel Erfahrung in diesem Bereich. Aus diesem Grund werden wir heute drei aktuelle Verbesserungen durchgehen, die SubQuery zur zuverlässigsten, skalierbarsten und leistungsfähigsten Datenplattform in Polkadot machen werden.
+Die Leistung und Zuverlässigkeit unseres gehosteten Dienstes steht hier bei SubQuery seit einiger Zeit ganz oben auf unserer Prioritätenliste.  Unser Schwesterteam ist OnFinality, Polkadots größter Infrastrukturanbieter, daher haben wir viel Erfahrung in diesem Bereich. Aus diesem Grund werden wir heute drei aktuelle Verbesserungen durchgehen, die SubQuery zur zuverlässigsten, skalierbarsten und leistungsfähigsten Datenplattform in Polkadot machen werden.
 
 ![](https://miro.medium.com/max/1200/1*QckhJzjQqw9czpBMRhXgXQ.gif)
 
@@ -40,6 +40,6 @@ Zusammenfassend ermöglichen uns diese Dienstleistungen, unseren Premium-Service
 
 SubQuery ist der führende Datenanbieter von Polkadot,der eine Indexierungs- & Abfrageebene zwischen Layer-1-Blockchains (Polkadot) und dezentralen Anwendungen unterstützt. Der Datendienst von SubQuery wird heute von den meisten Crowdloan- und Parachain-Auktions-Websites von Polkadot und Kusama live genutzt.
 
-SubQuery’s protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+Das Protokoll von SubQuery abstrahiert mit dem SubQuery SDK Blockchain-Daten-Eigenheiten, sodass sich Entwickler auf die Bereitstellung ihres Kernprodukts konzentrieren können, ohne unnötige Anstrengungen für benutzerdefinierte Backend-Technologien zu verschwenden.
 
-[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)|  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork)  |  [Webseite](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)|  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
