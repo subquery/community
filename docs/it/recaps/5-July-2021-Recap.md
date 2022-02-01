@@ -2,29 +2,29 @@
 
 ![](https://miro.medium.com/max/1400/1*2z3_9s-SY7dAvfe6xf9IDA.png)
 
-## Comunità, Comunità, Comunità!
+## Community, Community, Community!
 
 
-Benvenuto in un altro aggiornamento mensile da SubQuery. Come tutti sapete, la community è un elemento chiave per ogni progetto crittografico di successo: questo mese abbiamo iniziato ad espandere la nostra attenzione in quest'area.
+Welcome to another monthly update from SubQuery. As you all know, community is a key element for every successful crypto project — this month we’ve started to expand our focus in this area.
 
-In questo aggiornamento mensile:
+In this monthly update:
 
--   Programma Ambassador 👩💼
--   Concessione API DApp 🏗
--   Piattaforma aperta a contratto 🌃
+-   Ambassador Program 👩💼
+-   DApp API Grant Work 🏗
+-   Patract Open Platform 🌃
 -   Parity’s Relaychain podcast 🎙
 -   Documentation Improvements 📑
 
 
 ![](https://miro.medium.com/max/1400/0*pe3Z3x1lGb_RLa5x)
 
-Comprendiamo che uno dei nostri maggiori punti di forza è la nostra community, quindi [abbiamo recentemente lanciato il nostro programma Ambassador](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) per le comunità di tutto il mondo. We were overwhelmed by the interest in our program, with almost 500 applications received in under a fortnight!
+We understand that one of our biggest strengths is our community, and so [we recently launched our ambassador program](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) for communities around the world. We were overwhelmed by the interest in our program, with almost 500 applications received in under a fortnight!
 
 We’re in the process of onboarding our first batch of ambassadors very shortly. We’re particularly excited here because it means that everyone in our community can expect to see better local representation and support in different communities!
 
 By the end of July we’ve made good progress on the first two milestones of our [open-source dApp API treasury grant](https://kusama.polkassembly.io/treasury/95). Although on the surface it doesn’t look like much, it is actually a really important initiative for us. Firstly it represents deep strategic cooperation with one of the largest Polkadot native wallets, Fearless Wallet.
 
-Secondly, this open-source API should be able to provide different types of applications with a sufficient (but read-only) view of all key data within the Kusama chain. E.g. E.g. a developer could use it to create their own chain explorer without needing to directly query chain data.
+Secondly, this open-source API should be able to provide different types of applications with a sufficient (but read-only) view of all key data within the Kusama chain. E.g. a developer could use it to create their own chain explorer without needing to directly query chain data.
 
 We’re building this in a way that makes it easy to extend to the growing number of parachains. It’ll also provide a much better foundation for new applications building on SubQuery, allowing us onboard new partnerships faster!
 
