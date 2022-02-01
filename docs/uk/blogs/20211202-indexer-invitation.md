@@ -1,27 +1,27 @@
-# SubQuery розширює запрошення до спільноти індексування
+# SubQuery Extends Invitation To Indexing Community
 
 ![](https://miro.medium.com/max/1400/1*qa014uV1jHA2WTVhUadrdA.png)
 
-SubQuery, провідне рішення для індексації даних у Polkadot, хотіло б надіслати запрошення всім потенційним індексаторам зареєструвати свою зацікавленість в участі в нашому русі до децентралізації у 2022 році через нашу заохочувану тестову мережу.
+SubQuery, the leading data indexing solution in Polkadot, would like to extend an invitation to all potential indexers to register their interest in participating in our move towards decentralisation in 2022 via our incentivised testnet.
 
-[Ви можете зареєструвати свій інтерес тут ](https://forms.gle/RyXyhb8T9Gxkwi7R9)
+[You can register your interest here](https://forms.gle/RyXyhb8T9Gxkwi7R9)
 
-Як зазначено в [останній публікації нашої технічної дорожньої карти](https://subquery.medium.com/subquery-releases-technical-roadmap-2a3a383c49b), SubQuery зараз готується до нашої події генерації токенів (TGE) у березні 2022 року. Наразі ми зосереджуємось на переході до децентралізованої мережі SubQuery, і ключовим компонентом цього є потреба в постачальниках індексації, щоб сформувати фундаментальний рівень нашої майбутньої мережевої інфраструктури.
+As indicated in the  [recent publication of our Technical Roadmap](https://subquery.medium.com/subquery-releases-technical-roadmap-2a3a383c49b), SubQuery is currently preparing for our token generation event (TGE) in March 2022. Our current focus is the migration towards a decentralized SubQuery Network, and a key component of that is the need for indexing providers to form a foundational layer of our future network infrastructure.
 
-> _“Індексатори відіграють важливу роль у мережі SubQuery, і ми прагнемо знайти найкращих операторів вузлів і членів технічної спільноти для участі у нашій майбутній тестовій мережі. Якщо ви хочете співпрацювати з нами у створенні, покращенні та масштабуванні майбутнього децентралізованих даних, подайте заявку зараз. Наше запрошення до співпраці зі спільнотою Indexer є захопливим кроком для нас, оскільки це ще один важливий крок до нашої децентралізації»_ — Сем Зоу, засновник і генеральний директор SubQuery
+> _“Indexers play a critical part in the SubQuery Network and we are looking to find the best node operators and technical community members to take part in our upcoming testnet. If you wanting to partner with us in building, improving, and scaling the future of decentralised data, please apply now. Our invitation to collaborate with the Indexer community is an exciting step for us as it is represents another major step towards our decentralisation”_ —Sam Zou, the Founder and CEO of SubQuery
 
-Ми шукаємо операторів вузлів з глибоким розумінням мережі SubQuery, включно з потоками доходу та принципом роботи стейкінгу та делегування. Вам потрібно бути експертом із запуску високопродуктивних і масштабованих виробничих програм із моніторингом та безпекою гаманця/інфраструктури. Нарешті, вам знадобиться чудове ставлення та спільна віра в розвиток майбутнього web3.
+We’re looking for node operators with a deep understanding of the SubQuery Network, including the revenue streams and how staking and delegation works. You’ll need to be an expert in running high performance and scalable production applications with monitoring and wallet/infrastructure security. Finally, you’ll need a great attitude and a shared belief in growing the future of web3.
 
-Індексатори, які зацікавлені в участі [можуть зареєструвати свою зацікавленість у SubQuery тут](https://forms.gle/RyXyhb8T9Gxkwi7R9). Переглянувши всі заявки, ми очікуємо, що до кінця січня 2022 року ми затвердимо початковий пул індексів, а тестова мережа запуститься наприкінці першого кварталу 2022 року.  Індексатори будуть ретроспективно винагороджені та запрошені до участі в наступній основній мережі, яка очікується наприкінці другого кварталу 2022 року.
+Indexers who are interested in participating  [can register their interest with SubQuery here](https://forms.gle/RyXyhb8T9Gxkwi7R9). After reviewing all of the applications, we expect to approve an initial pool of Indexers by the end of January 2022 with the testnet launching at the end of Q1 2022. Indexers will be retrospectively rewarded and invited to participate in the subsequent mainnet anticipated at the end of Q2 2022.
 
 ---
 
-## Детальніше про мережу SubQuery
+## The SubQuery Network
 
-Ключові складові майбутньої мережі SubQuery [описані в нашій Whitepaper ](https://static.subquery.network/whitepaper.pdf) і складаються зі споживачів, делегаторів та індексаторів. З них індексатори є невід’ємною частиною проєкту, оскільки вони розміщуватимуть проєкти підзапитів у власній інфраструктурі, запускаючи як вузол, так і службу запитів, щоб індексувати дані та відповідати на запити GraphQL. Споживачі — це ті суб’єкти, які роблять запити до мережі SubQuery щодо конкретних даних (тим самим «споживають дані») і платять оголошену суму токена SQT. Останнім учасником екосистеми є делегати, які беруть участь, підтримуючи своїх улюблених індексаторів, щоб отримати винагороди.
+The key constituents of the future SubQuery Network are  [outlined in our Whitepaper](https://static.subquery.network/whitepaper.pdf)  and consist of Consumers, Delegators and Indexers. Of these, the Indexers are integral to the backbone of the project as they will host SubQuery Projects in their own infrastructure, running both the node and query service to index data and answer GraphQL requests. Consumers are those entities who make requests to the SubQuery Network for specific data (thereby ‘consuming data’) and pay an advertised amount of the SQT token. The final actor in the ecosystem are Delegators who participate by supporting their favourite Indexers to earn rewards.
 
-## Про SubQuery
+## About SubQuery
 
-[ SubQuery ](https://subquery.network/) - це децентралізована агрегація даних, індексація та підсилювач; рівень запитів між блокчейнами рівня 1 та децентралізованими додатками.  Ця послуга розблоковує дані блокчейну та перетворює їх у запитуваний стан, щоб їх можна було використовувати в інтуїтивно зрозумілих програмах. Це дозволяє розробникам DApp зосередитися на своєму основному варіанті використання та інтерфейсі, не витрачаючи час на створення спеціального сервера для обробки даних. Майбутня мережа SubQuery децентралізує та токенізує екосистему, щоб дозволити кожному брати участь у революції даних web3.
+[SubQuery](https://subquery.network/)  is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. This service unlocks blockchain data and transforms it to a queryable state so that it can be used in intuitive applications. It allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The upcoming SubQuery Network will decentralize and tokenize the ecosystem to allow everyone to participate in the web3 data revolution.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
