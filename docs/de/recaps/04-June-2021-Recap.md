@@ -6,7 +6,7 @@ In diesem monatlichen Update:
 
 -   Whitepaper-Veröffentlichung 🎊
 -   Team-Erweiterung 👩💻
--   Staging Deployments 📥
+-   Bereitstellungen vorbereiten 📥
 -   SubQuery-Wörterbuchdienst 📖
 -   Verbesserung unserer Reichweite in China 🇨🇳
 
