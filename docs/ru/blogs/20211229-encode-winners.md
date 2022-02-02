@@ -1,8 +1,8 @@
-# SubQuery Celebrates Winners of Encode Club Hackathon
+# SubQuery поздравляет победителей хакатона Encode Club
 
 ![](https://miro.medium.com/max/1400/1*KSv8qczywRPCEvWXeYiDNA.png)
 
-SubQuery, the leading data indexing solution in Polkadot, is delighted to showcase the winners of the recent  [Encode Club](https://www.encode.club/)  Polkadot Hackathon. Encode Club is a leading blockchain education community which promotes the ecosystem via events like hackathons, and accelerator programs.  [SubQuery partnered with Acala/Karura in September to sponsor three challenges](https://subquery.medium.com/september-2021-recap-783b9b574b42)  to a value of $14,000, inviting developers to build useful tools, dashboards and DApps.
+SubQuery, ведущее решение для индексации данных в Polkadot, с радостью представляет победителей недавнего [Encode Club](https://www.encode.club/) Polkadot хакатона. Encode Club — ведущее образовательное блокчейн-сообщество, которое продвигает экосистему с помощью таких мероприятий, как хакатоны и программы-акселераторы.  [В сентябре SubQuery заключила партнерское соглашение с Acala/Karura, чтобы спонсировать три конкурса](https://subquery.medium.com/september-2021-recap-783b9b574b42) на сумму 14000 долларов США, предлагая разработчикам создавать полезные инструменты, информационные панели и DApps.
 
 After 10 weeks and scrutiny from high  profile judges in the Polkadot ecosystem such as  [Bryan Chen](https://twitter.com/XiliangChen)  (Co-Founder and CTO of Acala),  [Hang Yin](https://twitter.com/bgmshana)  (Co-Founder of Phala Network),  [Jack Platts](https://twitter.com/jackbplatts)  (Co-Founder of Hypersphere Ventures) and  [Sota Watanabe](https://twitter.com/WatanabeSota)  (Founder of Astar, CEO of Stake Technologies) we are happy to share  [the winners](https://medium.com/encode-club/polkadot-hack-finale-prizewinners-and-summary-931627c64d9)  of our challenges.
 
