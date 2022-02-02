@@ -1,12 +1,12 @@
-# SubQuery Celebrates Winners of Encode Club Hackathon
+# SubQuery Merayakan Pemenang Encode Club Hackathon
 
 ![](https://miro.medium.com/max/1400/1*KSv8qczywRPCEvWXeYiDNA.png)
 
-SubQuery, the leading data indexing solution in Polkadot, is delighted to showcase the winners of the recent  [Encode Club](https://www.encode.club/)  Polkadot Hackathon. Encode Club is a leading blockchain education community which promotes the ecosystem via events like hackathons, and accelerator programs.  [SubQuery partnered with Acala/Karura in September to sponsor three challenges](https://subquery.medium.com/september-2021-recap-783b9b574b42)  to a value of $14,000, inviting developers to build useful tools, dashboards and DApps.
+SubQuery, solusi pengindeksan data terkemuka di Polkadot, dengan senang hati menampilkan pemenang [Klub Encode](https://www.encode.club/) Polkadot Hackathon terbaru. Encode Club adalah komunitas pendidikan blockchain terkemuka yang mempromosikan ekosistem melalui acara seperti hackathon, dan program akselerator.  [SubQuery bermitra dengan Acala/Karura pada bulan September untuk mensponsori tiga tantangan](https://subquery.medium.com/september-2021-recap-783b9b574b42) senilai $14.000, mengundang pengembang untuk membuat alat, dasbor, dan DApps yang berguna.
 
-After 10 weeks and scrutiny from high  profile judges in the Polkadot ecosystem such as  [Bryan Chen](https://twitter.com/XiliangChen)  (Co-Founder and CTO of Acala),  [Hang Yin](https://twitter.com/bgmshana)  (Co-Founder of Phala Network),  [Jack Platts](https://twitter.com/jackbplatts)  (Co-Founder of Hypersphere Ventures) and  [Sota Watanabe](https://twitter.com/WatanabeSota)  (Founder of Astar, CEO of Stake Technologies) we are happy to share  [the winners](https://medium.com/encode-club/polkadot-hack-finale-prizewinners-and-summary-931627c64d9)  of our challenges.
+Setelah 10 minggu dan pengawasan dari hakim profil tinggi di ekosistem Polkadot seperti [Bryan Chen](https://twitter.com/XiliangChen) (Co-Founder dan CTO Acala), [Hang Yin](https://twitter.com/bgmshana) (Co-Founder Phala Network), [Jack Platts](https://twitter.com/jackbplatts) (Co-Founder Hypersphere Ventures) dan [Sota Watanabe](https://twitter.com/WatanabeSota) (Pendiri Astar, CEO Stake Technologies) dengan senang hati kami membagikan [pemenang](https://medium.com/encode-club/polkadot-hack-finale-prizewinners-and-summary-931627c64d9) tantangan kami.
 
-[The challenges for the Acala/Karura and SubQuery portion of the hackathon](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e)  were focused on leveraging the power of Polkadot’s leading DeFi platform combined with SubQuery data. In addition to warm-up challenges where developers could get accustomed to the  [Karura SubQuery project](https://explorer.subquery.network/subquery/AcalaNetwork/karura), the main challenges were to build a DeFi bot, a dashboard or analytics tool, or a Defi DApp.
+[Tantangan untuk bagian Acala/Karura dan SubQuery dari hackathon](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e) difokuskan pada pemanfaatan kekuatan platform DeFi terkemuka Polkadot yang dikombinasikan dengan data SubQuery. Selain tantangan pemanasan di mana pengembang bisa terbiasa dengan [proyek Karura SubQuery](https://explorer.subquery.network/subquery/AcalaNetwork/karura), tantangan utamanya adalah membangun bot DeFi, dasbor atau alat analitik, atau Defi DApp.
 
 # Build a Bot
 
@@ -46,7 +46,7 @@ Sam Zou, the Founder of SubQuery said  _“SubQuery is thrilled to support the d
 
 After the Hackathon, projects are eligible to apply for a 10-week Polkadot Accelerator programme run by Encode. Many of these projects are right in the middle of this Accelerator and all are invited to apply to SubQuery’s recently announced  [Grants Programme](https://subquery.network/grants).
 
-# Tentang SubQuery
+# About SubQuery
 
 [SubQuery](https://subquery.network/)  is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. This service unlocks blockchain data and transforms it to a queryable state so that it can be used in intuitive applications. It allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The upcoming SubQuery Network will decentralize and tokenize the ecosystem to allow everyone to participate in the web3 data revolution.
 
