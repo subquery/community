@@ -1,20 +1,20 @@
-# October 2021 Recap
+# 2021年10月のまとめ
 
 ![](https://miro.medium.com/max/1400/1*Yf3LOc6onAZ-XRQLPyxAmQ.png)
 
-**Putting Our Plans Into Motion**
+**私たちの計画を動きに入れる**
 
-Welcome to the latest monthly update from SubQuery, and what will be the first one for many of you based on the growth of our community.
+SubQuery からの最新の月次アップデートへようこそ 私たちのコミュニティの成長に基づく最初のものは何でしょうか?
 
-From here on out we will try to structure every update around three key areas; community, core product development, and the SubQuery Network.
+今後は、コミュニティ、コア製品開発、SubQuery Networkの3つの主要分野を中心に、アップデートごとに構成していきます。
 
 # SubQuery Network
 
-## Technical Roadmap Announced
+## 技術ロードマップ発表
 
-At our community call last week we shared more  about our plans for the future. We are excited about how the next evolution of SubQuery will drive even more value to the Polkadot ecosystem and provide more opportunities for our community to participate in our growth.
+先週のコミュニティ通話で、私たちは将来の計画についてもっと共有しました。 SubQueryの次の進化が、Polkadotのエコシステムにさらなる価値をもたらし、コミュニティが我々の成長に参加する機会をどのように提供するのかということに、興奮しています。
 
-We’ve gone extremely deep here for transparency with the community and to rationalise the work we have ahead. It’s an ambitious timeline that we are internally using as a target, you can see how many moving pieces there are from the image below! That being said, estimating timelines for R&D software development is notoriously difficult, so nothing below is final — it’s just our best effort at estimations.
+コミュニティとの透明性と今後の作業の合理化のために、私たちは非常に深いところまで行きました。 これは、我々が内部的にターゲットとして使用している野心的なタイムラインです。下の画像からいくつの動くピースがあるかを見ることができます！ とはいえ、R&D ソフトウェア開発のタイムラインを推定することは、周知のように難しいことです。 以下は最終的なものではありません。それは私たちの最善の努力です。
 
 [Read more about our technical roadmap here](https://subquery.medium.com/subquery-releases-technical-roadmap-2a3a383c49b)
 
