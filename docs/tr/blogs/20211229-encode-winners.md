@@ -1,20 +1,20 @@
-# SubQuery Celebrates Winners of Encode Club Hackathon
+# SubQuery, Encode Club Hackathon'un Kazananlarını Kutluyor
 
 ![](https://miro.medium.com/max/1400/1*KSv8qczywRPCEvWXeYiDNA.png)
 
-SubQuery, the leading data indexing solution in Polkadot, is delighted to showcase the winners of the recent  [Encode Club](https://www.encode.club/)  Polkadot Hackathon. Encode Club is a leading blockchain education community which promotes the ecosystem via events like hackathons, and accelerator programs.  [SubQuery partnered with Acala/Karura in September to sponsor three challenges](https://subquery.medium.com/september-2021-recap-783b9b574b42)  to a value of $14,000, inviting developers to build useful tools, dashboards and DApps.
+Polkadot'taki lider veri indeksleme çözümü olan SubQuery, son [Encode Club](https://www.encode.club/) Polkadot Hackathon'un kazananlarını sergilemekten mutluluk duyar. Encode Club, hackathonlar ve hızlandırıcı programlar gibi etkinlikler aracılığıyla ekosistemi destekleyen lider bir blockchain eğitim topluluğudur.  [SubQuery, Eylül ayında Acala/Karura ile iş ortaklığı yaparak](https://subquery.medium.com/september-2021-recap-783b9b574b42) 14.000 $ değerinde üç mücadeleye sponsor oldu ve geliştiricileri faydalı araçlar, gösterge tabloları ve DApp'ler oluşturmaya davet etti.
 
-After 10 weeks and scrutiny from high  profile judges in the Polkadot ecosystem such as  [Bryan Chen](https://twitter.com/XiliangChen)  (Co-Founder and CTO of Acala),  [Hang Yin](https://twitter.com/bgmshana)  (Co-Founder of Phala Network),  [Jack Platts](https://twitter.com/jackbplatts)  (Co-Founder of Hypersphere Ventures) and  [Sota Watanabe](https://twitter.com/WatanabeSota)  (Founder of Astar, CEO of Stake Technologies) we are happy to share  [the winners](https://medium.com/encode-club/polkadot-hack-finale-prizewinners-and-summary-931627c64d9)  of our challenges.
+10 hafta ve [Bryan Chen](https://twitter.com/XiliangChen) (Acala'nın Kurucu Ortağı ve CTO'su), [Hang Yin](https://twitter.com/bgmshana) (Phala Network'ün Kurucu Ortağı) gibi Polkadot ekosistemindeki yüksek profilli yargıçların incelemesinden sonra), [Jack Platts](https://twitter.com/jackbplatts) (Hypersphere Ventures'ın Kurucu Ortağı) ve [Sota Watanabe](https://twitter.com/WatanabeSota) (Astar'ın Kurucusu, Stake Technologies CEO'su) [kazananları](https://medium.com/encode-club/polkadot-hack-finale-prizewinners-and-summary-931627c64d9)< paylaşmaktan mutluluk duyuyoruz zorluklardan.
 
-[The challenges for the Acala/Karura and SubQuery portion of the hackathon](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e)  were focused on leveraging the power of Polkadot’s leading DeFi platform combined with SubQuery data. In addition to warm-up challenges where developers could get accustomed to the  [Karura SubQuery project](https://explorer.subquery.network/subquery/AcalaNetwork/karura), the main challenges were to build a DeFi bot, a dashboard or analytics tool, or a Defi DApp.
+[Hackathon'un Acala/Karura ve SubQuery bölümünün zorlukları](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e), Polkadot'un lider DeFi platformunun gücünü SubQuery verileriyle bir araya getirmeye odaklandı. Geliştiricilerin [Karura SubQuery projesine](https://explorer.subquery.network/subquery/AcalaNetwork/karura) alışabilecekleri ısınma zorluklarına ek olarak, ana zorluklar bir DeFi botu, bir gösterge panosu veya analiz aracı veya bir Defi DApp oluşturmaktı.
 
-# Build a Bot
+# Bir Bot Bul
 
-The first challenge of building a DeFi bot had $3,500 in prizes available for participants who could build a bot that leveraged DeFi activity and on-chain or aggregated data though SubQuery to capitalize on opportunities within the Acala/Karura platform.
+Bir DeFi botu oluşturmanın ilk zorluğu, Acala/Karura platformundaki fırsatlardan yararlanmak için DeFi etkinliğinden ve SubQuery aracılığıyla zincir üstü veya toplu verilerden yararlanan bir bot oluşturabilen katılımcılar için 3,500 dolarlık ödüle sahipti.
 
-The team at  [Krakura](https://github.com/houtenbos/krakura-bot)  won this challenge with an interesting open source DEX exchange arbitrage bot built specifically for Karura.  [The arbitrage bot](https://github.com/houtenbos/krakura-bot)  constantly checks for pricing differences between the two platforms and executes trades when they are profitable.
+[Krakura'daki](https://github.com/houtenbos/krakura-bot) ekip, özellikle Karura için oluşturulmuş ilginç bir açık kaynaklı DEX değişim arbitraj botu ile bu mücadeleyi kazandı.  [Arbitraj botu](https://github.com/houtenbos/krakura-bot), iki platform arasındaki fiyat farklılıklarını sürekli olarak kontrol eder ve kârlı olduklarında işlemleri gerçekleştirir.
 
-[Watch a video demo of Krakura](https://youtu.be/G7TNTzMDijU)
+[Krakura'nın bir video demosunu izleyin](https://youtu.be/G7TNTzMDijU)
 
 # Dashboard or Analytics Tool
 
