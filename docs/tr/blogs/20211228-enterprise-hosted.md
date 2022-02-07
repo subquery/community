@@ -1,8 +1,8 @@
-# SubQuery Provides Customers with Enterprise Support
+# SubQuery, Müşterilere Kurumsal Destek Sağlar
 
 ![](https://miro.medium.com/max/1400/1*z_StqAT5KeaxQLBCm-xpRQ.jpeg)
 
-As our community grows larger we are seeing hundreds of deployments and exponentially more traffic to our hosted service each and every day. The team at SubQuery are rising to this challenge however and are scaling our services to meet the unprecedented demand for our tools by our customers, while keeping our  [hosted service](https://projects.subquery.network/)  free.
+Topluluğumuz büyüdükçe, her gün yüzlerce dağıtım ve barındırılan hizmetimize katlanarak daha fazla trafik görüyoruz. Ancak SubQuery'deki ekip bu zorluğun üstesinden geliyor ve hizmetlerimizi, [barındırılan hizmetimizi](https://projects.subquery.network/) ücretsiz tutarken, müşterilerimizin araçlarımıza yönelik benzeri görülmemiş talebini karşılayacak şekilde ölçeklendiriyor.
 
 Many customers now rely on SubQuery to provide  mission critical data to their production apps. These customers represent some of the largest wallets ([Nova](https://novawallet.io/)  and  [Fearless](https://fearlesswallet.io/)), scanners ([Subscan](https://www.subscan.io/),  [SubVis](https://www.subvis.io/), and  [DotMarketCap](https://dotmarketcap.com/)), NFT platforms ([Kodadot](https://kodadot.xyz/)  and  [Yuser](https://yuser.co/)), and more. These are huge applications that the Polkadot community use on a daily basis and must be online at all times.
 
