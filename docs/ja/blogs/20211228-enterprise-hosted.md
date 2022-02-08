@@ -1,10 +1,10 @@
-# SubQuery Provides Customers with Enterprise Support
+# SubQuery はエンタープライズサポートを顧客に提供
 
 ![](https://miro.medium.com/max/1400/1*z_StqAT5KeaxQLBCm-xpRQ.jpeg)
 
-As our community grows larger we are seeing hundreds of deployments and exponentially more traffic to our hosted service each and every day. The team at SubQuery are rising to this challenge however and are scaling our services to meet the unprecedented demand for our tools by our customers, while keeping our  [hosted service](https://projects.subquery.network/)  free.
+コミュニティが大きくなるにつれて、私たちは毎日何百もの展開と、ホストされたサービスへの指数関数的に多くのトラフィックを見ています。 SubQueryのチームは、しかしながら、この課題に立ち向かっており、お客様による当社のツールに対する前例のない需要に応えるために、サービスを拡大しています。 私たちの  [ホスト型サービス](https://projects.subquery.network/)  を無料に保ちながら。
 
-Many customers now rely on SubQuery to provide  mission critical data to their production apps. These customers represent some of the largest wallets ([Nova](https://novawallet.io/)  and  [Fearless](https://fearlesswallet.io/)), scanners ([Subscan](https://www.subscan.io/),  [SubVis](https://www.subvis.io/), and  [DotMarketCap](https://dotmarketcap.com/)), NFT platforms ([Kodadot](https://kodadot.xyz/)  and  [Yuser](https://yuser.co/)), and more. These are huge applications that the Polkadot community use on a daily basis and must be online at all times.
+現在、多くのお客様は、本番アプリケーションにミッションクリティカルなデータを提供するために SubQuery を利用しています。 These customers represent some of the largest wallets ([Nova](https://novawallet.io/)  and  [Fearless](https://fearlesswallet.io/)), scanners ([Subscan](https://www.subscan.io/),  [SubVis](https://www.subvis.io/), and  [DotMarketCap](https://dotmarketcap.com/)), NFT platforms ([Kodadot](https://kodadot.xyz/)  and  [Yuser](https://yuser.co/)), and more. These are huge applications that the Polkadot community use on a daily basis and must be online at all times.
 
 The performance and reliability of our hosted service has been on the top of our priority list for some time here at SubQuery. Our sister team is OnFinality, Polkadot’s largest infrastructure provider, so we have plenty of experience in this area. As a result, today we are going to walk through three recent improvements that will make SubQuery the most reliable, scalable, and performant data platform in Polkadot.
 
