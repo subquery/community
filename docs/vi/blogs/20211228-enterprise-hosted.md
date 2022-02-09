@@ -10,31 +10,31 @@ Hiệu suất và độ tin cậy của dịch vụ được lưu trữ của ch
 
 ![](https://miro.medium.com/max/1200/1*QckhJzjQqw9czpBMRhXgXQ.gif)
 
-# Dedicated Databases
+# Cơ sở dữ liệu chuyên dụng
 
-Initially, all SubQuery projects were deployed to shared databases in our infrastructure to save money and allow our service to remain free. However, this would cause high traffic projects with large data sets to strangle other projects hosted in the same database.
+Ban đầu, tất cả các dự án SubQuery đều được triển khai tới cơ sở dữ liệu dùng chung trong cơ sở hạ tầng của chúng tôi để tiết kiệm tiền và cho phép dịch vụ của chúng tôi duy trì miễn phí. Tuy nhiên, điều này sẽ làm cho các dự án có lưu lượng truy cập cao với các tập dữ liệu lớn sẽ bóp nghẹt các dự án khác được lưu trữ trong cùng một cơ sở dữ liệu.
 
-If you’re building a project that is designed for production use, we offer a dedicated database hosted in our SubQuery clusters that can give your project all the resources it needs to handle thousands of complicated queries without worrying about performance impact from others.
+Nếu bạn đang xây dựng một dự án được thiết kế để sử dụng trong sản xuất, chúng tôi cung cấp một cơ sở dữ liệu chuyên dụng được lưu trữ trong các cụm SubQuery của chúng tôi có thể cung cấp cho dự án của bạn tất cả các tài nguyên cần thiết để xử lý hàng nghìn truy vấn phức tạp mà không lo ảnh hưởng đến hiệu suất từ những người khác.
 
-You should get in touch with us at sales@subquery.network if you’d like to upgrade to this. We replicate your data from your existing tables so you don’t need to spend time reindexing data you already have resulting in a migration with zero downtime.
+Bạn nên liên hệ với chúng tôi tại sales@subquery.network nếu bạn muốn nâng cấp lên phiên bản này. Chúng tôi sao chép dữ liệu của bạn từ các bảng hiện có của bạn, vì vậy bạn không cần phải mất thời gian lập chỉ mục lại dữ liệu mà bạn đã có, dẫn đến việc di chuyển mà không có thời gian chết.
 
-# Multiple Cluster Support
+# Hỗ trợ nhiều cụm
 
-Resiliency and reliability mean everything to us at SubQuery. Having a redundant cluster in a separate part of the world means that we can quickly recover from cloud provider outages that occasionally take regions offline.
+Khả năng phục hồi và độ tin cậy là tất cả đối với chúng tôi tại SubQuery. Việc có một cụm dự phòng ở một phần riêng biệt trên thế giới có nghĩa là chúng tôi có thể nhanh chóng khôi phục sau sự cố nhà cung cấp dịch vụ đám mây đôi khi khiến các khu vực ngoại tuyến.
 
-Additionally, when you make a request to a SubQuery project in our hosted service, the majority of the waiting time comes from latency. Latency is the point to point time it takes your request to circle the world to the nearest SubQuery cluster and can take up to a second or two from some remote regions. Having multiple clusters around the world allows us to reduce the most significant part of the request time (the latency).
+Ngoài ra, khi bạn đưa ra yêu cầu đối với một dự án SubQuery trong dịch vụ được lưu trữ của chúng tôi, phần lớn thời gian chờ đợi là do độ trễ. Độ trễ là thời điểm cần thiết để yêu cầu của bạn vòng quanh thế giới đến cụm SubQuery gần nhất và có thể mất đến một hoặc hai giây từ một số vùng xa. Việc có nhiều cụm trên khắp thế giới cho phép chúng tôi giảm phần lớn thời gian yêu cầu (độ trễ).
 
-We’ve implemented multiple clusters in different regions that provide the same service. This work also includes a tool in  [SubQuery Projects](https://project.subquery.network/)  that allows you to deploy and manage your project across these clusters. We’ve also implemented processes that ensure that databases in different regions stay consistent, so that regardless of which cluster your request goes to, the data that you receive is consistent.
+Chúng tôi đã triển khai nhiều cụm ở các khu vực khác nhau cung cấp cùng một dịch vụ. Công việc này cũng bao gồm một công cụ trong [Dự án SubQuery](https://project.subquery.network/) cho phép bạn triển khai và quản lý dự án của mình trên các cụm này. Chúng tôi cũng đã triển khai các quy trình đảm bảo rằng cơ sở dữ liệu ở các khu vực khác nhau luôn nhất quán, để bất kể yêu cầu của bạn chuyển đến cụm nào, dữ liệu bạn nhận được đều nhất quán.
 
-# Intelligent Routing
+# Định tuyến thông minh
 
-Once we have SubQuery clusters running in different regions, the next logical step is to make this feature invisible to your users. Your users should never have to decide what cluster their requests go to, SubQuery should automatically route their requests to the closest healthy cluster. This is what SubQuery’s intelligent routing provides.
+Khi chúng tôi có các cụm SubQuery đang chạy ở các vùng khác nhau, bước hợp lý tiếp theo là làm cho tính năng này trở nên ẩn đối với người dùng. Người dùng sẽ không bao giờ phải quyết định cụm nào mà yêu cầu của họ chuyển đến, SubQuery sẽ tự động định tuyến các yêu cầu của họ đến cụm khỏe mạnh gần nhất. Đây là những gì định tuyến thông minh của SubQuery cung cấp.
 
-We offer a single global endpoint to each premium customer that has intelligent routing automatically applied to each and every request. This service includes considerable monitoring that constantly ping each cluster for health checks and ensure that a user is never routed to a cluster that is overwhelmed or offline. The global endpoint optimises the routing for each request to the nearest cluster to ensure your users receive the best performance from your clusters.
+Chúng tôi cung cấp một điểm cuối toàn cầu duy nhất cho mỗi khách hàng cao cấp có định tuyến thông minh tự động áp dụng cho từng và mọi yêu cầu. Dịch vụ này bao gồm giám sát đáng kể liên tục ping từng cụm để kiểm tra sức khỏe và đảm bảo rằng người dùng không bao giờ được chuyển đến một cụm bị quá tải hoặc ngoại tuyến. Điểm cuối toàn cầu tối ưu hóa định tuyến cho từng yêu cầu đến cụm gần nhất để đảm bảo người dùng của bạn nhận được hiệu suất tốt nhất từ các cụm của bạn.
 
 ![](https://miro.medium.com/max/1000/0*DNXDiABzli0et1MU)
 
-In summary, these services allow us to offer our premium service to more customers with confidence. We work with each customer to understand their business and goals, and then to set up a service to meet their needs. SubQuery is the largest data service provider in Polkadot, and these features show how we support thousands of community projects at the same time as the biggest projects in Polkadot.
+Tóm lại, những dịch vụ này cho phép chúng tôi tự tin cung cấp dịch vụ cao cấp của mình cho nhiều khách hàng hơn. Chúng tôi làm việc với từng khách hàng để hiểu doanh nghiệp và mục tiêu của họ, sau đó thiết lập dịch vụ để đáp ứng nhu cầu của họ. SubQuery là nhà cung cấp dịch vụ dữ liệu lớn nhất ở Polkadot và các tính năng này cho thấy cách chúng tôi hỗ trợ hàng nghìn dự án cộng đồng cùng lúc với các dự án lớn nhất ở Polkadot.
 
 # Giới thiệu về mạng SubQuery
 
