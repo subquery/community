@@ -1,12 +1,12 @@
-# SubQuery Provides Customers with Enterprise Support
+# SubQuery cung cấp cho khách hàng dịch vụ hỗ trợ doanh nghiệp
 
 ![](https://miro.medium.com/max/1400/1*z_StqAT5KeaxQLBCm-xpRQ.jpeg)
 
-As our community grows larger we are seeing hundreds of deployments and exponentially more traffic to our hosted service each and every day. The team at SubQuery are rising to this challenge however and are scaling our services to meet the unprecedented demand for our tools by our customers, while keeping our  [hosted service](https://projects.subquery.network/)  free.
+Khi cộng đồng của chúng tôi phát triển lớn hơn, chúng tôi đang thấy hàng trăm lượt triển khai và lưu lượng truy cập nhiều hơn theo cấp số nhân vào dịch vụ được lưu trữ của chúng tôi mỗi ngày. Tuy nhiên, nhóm nghiên cứu tại SubQuery đang vượt qua thách thức này và đang mở rộng quy mô dịch vụ để đáp ứng nhu cầu chưa từng có đối với các công cụ của khách hàng, đồng thời vẫn giữ cho [dịch vụ lưu trữ](https://projects.subquery.network/) miễn phí.
 
-Many customers now rely on SubQuery to provide  mission critical data to their production apps. These customers represent some of the largest wallets ([Nova](https://novawallet.io/)  and  [Fearless](https://fearlesswallet.io/)), scanners ([Subscan](https://www.subscan.io/),  [SubVis](https://www.subvis.io/), and  [DotMarketCap](https://dotmarketcap.com/)), NFT platforms ([Kodadot](https://kodadot.xyz/)  and  [Yuser](https://yuser.co/)), and more. These are huge applications that the Polkadot community use on a daily basis and must be online at all times.
+Nhiều khách hàng hiện đang dựa vào SubQuery để cung cấp dữ liệu quan trọng về sứ mệnh cho các ứng dụng sản xuất của họ. Những khách hàng này đại diện cho một số ví lớn nhất ([Nova](https://novawallet.io/) và [Fearless](https://fearlesswallet.io/)), máy quét ([Subscan](https://www.subscan.io/), [SubVis](https://www.subvis.io/) và [DotMarketCap](https://dotmarketcap.com/)), nền tảng NFT ([Kodadot](https://kodadot.xyz/) và [Yuser](https://yuser.co/)), và nhiều hơn nữa. Đây là những ứng dụng khổng lồ mà cộng đồng Polkadot sử dụng hàng ngày và luôn phải trực tuyến.
 
-The performance and reliability of our hosted service has been on the top of our priority list for some time here at SubQuery. Our sister team is OnFinality, Polkadot’s largest infrastructure provider, so we have plenty of experience in this area. As a result, today we are going to walk through three recent improvements that will make SubQuery the most reliable, scalable, and performant data platform in Polkadot.
+Hiệu suất và độ tin cậy của dịch vụ được lưu trữ của chúng tôi đã nằm trên đầu danh sách ưu tiên của chúng tôi trong một thời gian ở đây tại SubQuery. Nhóm chị em của chúng tôi là OnFinality, nhà cung cấp cơ sở hạ tầng lớn nhất của Polkadot, vì vậy chúng tôi có nhiều kinh nghiệm trong lĩnh vực này. Do đó, hôm nay chúng ta sẽ xem xét ba cải tiến gần đây sẽ làm cho SubQuery trở thành nền tảng dữ liệu đáng tin cậy, có thể mở rộng và hoạt động hiệu quả nhất trong Polkadot.
 
 ![](https://miro.medium.com/max/1200/1*QckhJzjQqw9czpBMRhXgXQ.gif)
 
