@@ -32,22 +32,22 @@ _黑客马拉松最好的部分是认识其他黑客，并有创业公司的思�
 
 Entity 54是Defi DApp类别中的获胜者，获得了3500美元的奖金。 Entity 54是一个DApp，通过Acala API/EVM连接到AMTC6，读取账户余额、贷款，并允许账户的交换、转移以及贷款的调整和转移，并能够读取硬币和贷款数据。 Entity 54的Angelos Diamantis对这一结果感到兴奋，他分享道： “_赢得黑客马拉松是一次奇妙的经历。 我们对我们正在建造的产品充满兴趣，并因此建立了许多新的行业关系。 展望未来，我们的首要重点是核心产品开发和紧密的用户体验。 时间是最稀有的商品，而链上的数据和Dapp数据流是开发的燃料。 SubQuery的数据集合和多层次的分析产品解决了这两个问题。 随着产品的发展，我们将寻求在我们的产品中整合更深层次的SubQuery产品。_”
 
-[Watch a video demo of Entity 54](https://youtu.be/fU1BRVOtx2o)
+[查看视频： https://youtu.be/fU1BRVOtx2o](https://youtu.be/fU1BRVOtx2o)
 
-# Other Notable Entries
+# 其他值得注意的参赛作品
 
-We were quite impressed by the work of Defitax, a decentralised platform that helps users stay compliant and get their crypto taxes complete without the need for third-party intervention. Focusing primarily on America to begin with, the team thrive on handling all the complex calculations and intricacies of tax calculations so that you don’t have to.
+Defitax的作品给我们留下了相当深刻的印象，这是一个去中心化平台，帮助用户保持合规，在不需要第三方干预的情况下完成他们的加密货币税收。 从美国先开始，该团队努力处理所有复杂的计算和错综复杂的税收，以方便其用户。
 
-Shankar Rao Mata from Defitax was already familiar with SubQuery, having started his journey with us as an ambassador and now entering into the Hackathon with a team of other passionate and ambitious individuals. Shankar mentioned of the hackathon, “_The Encode Hackathon was a great experience for us and was the perfect environment for our project. SubQuery was, and will continue to be, instrumental in supporting the large amounts of indexed data that we require in order for Defitax to succeed_”.
+来自Defitax的Shankar Rao Mata对SubQuery已经很熟悉了，他作为大使与我们一起开始了他的旅程，现在与其他充满激情和雄心的人组成的团队进入黑客马拉松。 Shankar提到黑客马拉松说，"_Encode黑客马拉松对我们来说是一次极好的经历，是我们项目运行的完美环境。 SubQuery持续在支持我们所需的大量索引数据方面发挥了巨大作用，这也是Defitax成功的关键。_"
 
-With both DeFi and Acala/Karura receiving an increasing level of awareness, we were excited to see the response from the developer community. To get things moving  [SubQuery hosted a workshop where hackers learned how to index blockchain data](https://www.youtube.com/watch?v=QUtWC_LZM8Q)  and get a node and query service running in only a few minutes.
+随着DeFi和Acala/Karura的知名度不断提高，我们很高兴看到开发者社区的回应。 为了进一步发展，[SubQuery举办了一个学习工坊](https://www.youtube.com/watch?v=QUtWC_LZM8Q)，黑客们学习如何为区块链数据建立索引，并在短短几分钟内获得一个节点并运行查询服务。
 
-Sam Zou, the Founder of SubQuery said  _“SubQuery is thrilled to support the developer community and the next generation of Polkadot projects through Encode Club’s Polkadot Hackathon. SubQuery provides a foundational layer for developers to create game-changing DApps in areas such as DeFi, so we want to encourage people to build tools and applications that take us closer to our vision of a Web3 future”_
+“_SubQuery很高兴可以通过Encode Club的Polkadot黑客马拉松支持开发者社区和下一代的Polkadot项目。 SubQuery为开发者提供了一个基础层，以便在DeFi等领域创建可以改变游戏规则的DApps。因此我们希望鼓励人们建立工具和应用程序，使我们更接近Web3的未来愿景。” _--------SubQuery创始人兼首席执行官Sam Zou
 
-After the Hackathon, projects are eligible to apply for a 10-week Polkadot Accelerator programme run by Encode. Many of these projects are right in the middle of this Accelerator and all are invited to apply to SubQuery’s recently announced  [Grants Programme](https://subquery.network/grants).
+黑客马拉松之后，项目有资格申请由Encode管理的为期10周的Polkadot助推器计划。 很多项目已经在这个助推器中，所有项目都被邀请来申请SubQuery最近宣布的[赠款计划](https://subquery.network/grants)。
 
-# About SubQuery
+# 关于SubQuery
 
-[SubQuery](https://subquery.network/)  is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. This service unlocks blockchain data and transforms it to a queryable state so that it can be used in intuitive applications. It allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The upcoming SubQuery Network will decentralize and tokenize the ecosystem to allow everyone to participate in the web3 data revolution.
+[SubQuery](https://subquery.network/)是Polkadot的领先数据提供商&，支持在Layer_1区块链（Polkadot）和去中心化应用程序之间建立索引和查询层。 SubQuery的数据服务目前在大多数Polkadot，Kusama crowdloan和平行链拍卖网站使用。 SubQuery的协定是通过SubQuery SDK提取出区块链数据的特性，允许开发人员专注于部署其核心产品，而无需在定制后端技术上浪费精力。 即将推出的SubQuery网络将对生态系统进行去中心化和通证化，使每个人都能参与到web3数据革命中。
 
 [Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
