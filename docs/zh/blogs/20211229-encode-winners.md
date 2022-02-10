@@ -1,36 +1,36 @@
-# SubQuery Celebrates Winners of Encode Club Hackathon
+# SubQuery为黑客马拉松的获胜者们发来贺电
 
 ![](https://miro.medium.com/max/1400/1*KSv8qczywRPCEvWXeYiDNA.png)
 
-SubQuery, the leading data indexing solution in Polkadot, is delighted to showcase the winners of the recent  [Encode Club](https://www.encode.club/)  Polkadot Hackathon. Encode Club is a leading blockchain education community which promotes the ecosystem via events like hackathons, and accelerator programs.  [SubQuery partnered with Acala/Karura in September to sponsor three challenges](https://subquery.medium.com/september-2021-recap-783b9b574b42)  to a value of $14,000, inviting developers to build useful tools, dashboards and DApps.
+SubQuery，Polkadot生态中领先的数据索引解决方案，热烈祝贺Polkadot生态中由[Encode Club](https://www.encode.club/)组织的黑客马拉松的获胜者们。 Encode Club是一个领先的区块链技术社区，通过黑客马拉松和加速器项目等活动促进生态系统的发展。  [今年9月，SubQuery与Acala/Karura合作，赞助了三项价值14,000美元的挑战](https://subquery.medium.com/september-2021-recap-783b9b574b42)，邀请开发人员一同开发有用的工具、仪表盘（dashboards）和DApps。
 
-After 10 weeks and scrutiny from high  profile judges in the Polkadot ecosystem such as  [Bryan Chen](https://twitter.com/XiliangChen)  (Co-Founder and CTO of Acala),  [Hang Yin](https://twitter.com/bgmshana)  (Co-Founder of Phala Network),  [Jack Platts](https://twitter.com/jackbplatts)  (Co-Founder of Hypersphere Ventures) and  [Sota Watanabe](https://twitter.com/WatanabeSota)  (Founder of Astar, CEO of Stake Technologies) we are happy to share  [the winners](https://medium.com/encode-club/polkadot-hack-finale-prizewinners-and-summary-931627c64d9)  of our challenges.
+十周后，经过Polkadot生态系统中重量级评委，如[Bryan Chen](https://twitter.com/XiliangChen)（Acala的联合创始人和CTO）、[Hang Yin](https://twitter.com/bgmshana)（Phala Network的联合创始人）、[Jack Platts](https://twitter.com/jackbplatts)（Hypersphere Ventures的联合创始人）和[Sota Watanabe](https://twitter.com/WatanabeSota)（Astar的创始人，[Stake Technologies](https://medium.com/encode-club/polkadot-hack-finale-prizewinners-and-summary-931627c64d9)的首席执行官）的严格筛选，我们很高兴来宣布此次挑战的获胜者。
 
-[The challenges for the Acala/Karura and SubQuery portion of the hackathon](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e)  were focused on leveraging the power of Polkadot’s leading DeFi platform combined with SubQuery data. In addition to warm-up challenges where developers could get accustomed to the  [Karura SubQuery project](https://explorer.subquery.network/subquery/AcalaNetwork/karura), the main challenges were to build a DeFi bot, a dashboard or analytics tool, or a Defi DApp.
+[黑客马拉松中关于Acala/Karura和SubQuery挑战的部分](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e)主要集中在利用Polkadot中领先的DeFi平台与SubQuery数据相结合的力量。 开发人员可以用热身挑战习惯于的[Karura SubQuery](https://explorer.subquery.network/subquery/AcalaNetwork/karura)的项目，主要挑战建立一个DeFi机器人、一个仪表板或分析工具，或一个DeFi DApp。
 
-# Build a Bot
+# 构建DeFi机器人
 
-The first challenge of building a DeFi bot had $3,500 in prizes available for participants who could build a bot that leveraged DeFi activity and on-chain or aggregated data though SubQuery to capitalize on opportunities within the Acala/Karura platform.
+第一个挑战是构建一个DeFi机器人，获胜者可以获得3500美元的奖金，参与者需构建一个可以利用DeFi，链上或集合数据的机器人，尽管SubQuery已经在Acala / Karura平台上充分利用了这些机会。
 
-The team at  [Krakura](https://github.com/houtenbos/krakura-bot)  won this challenge with an interesting open source DEX exchange arbitrage bot built specifically for Karura.  [The arbitrage bot](https://github.com/houtenbos/krakura-bot)  constantly checks for pricing differences between the two platforms and executes trades when they are profitable.
+[Krakura](https://github.com/houtenbos/krakura-bot)的团队凭借专门为Karura打造的开源DEX交易所套利机器人赢得了这次挑战。  该[套利机器人](https://github.com/houtenbos/krakura-bot)不断检查两个平台之间的价格差异，并在有利可图时执行交易。
 
-[Watch a video demo of Krakura](https://youtu.be/G7TNTzMDijU)
+[查看视频： https://youtu.be/G7TNTzMDijU](https://youtu.be/G7TNTzMDijU)
 
-# Dashboard or Analytics Tool
+# 仪表盘或分析工具
 
-The second challenge worth $4,000 in prizes asked developers to leverage SubQuery’s data indexing services to build a dashboard or analytics tool based on Karura data. The winner of this challenge was the team from  [Polkadata](https://www.polkadata.xyz/), a data analytics platform for DeFi investors to track how smart money is investing and structuring their portfolio on Karura.
+价值4000美元的第二个挑战要求开发者利用SubQuery的数据索引服务，在Karura数据的基础上建立一个仪表盘或分析工具。 这项挑战的获胜者是[Polkadata](https://www.polkadata.xyz/)团队，这是一个为DeFi投资者提供数据的分析平台，以跟踪某些资金如何在Karura上投资和构建投资组合。
 
-“_The Encode Hackathon provided a great opportunity to connect and collaborate with passionate builders in the Polkadot ecosystem. Everyone involved, including the Encode team, partner organizations, and fellow hackers were all welcoming and exceptionally helpful. Additionally, having clear guidelines and firm deadlines gave our team a sense of urgency that was key for building out MVP._
+“_Encode黑客马拉松提供了一个很好的机会，与Polkadot生态系统中充满激情的建设者进行联系并与之合作。 参与的每个人，包括Encode团队、合作伙伴和其他黑客都很热情，并提供了极大的帮助。 此外，有了明确的指导方针和确定的最后期限，给了我们的团队一种紧迫感，这对于扩建MVP非常关键。_
 
-_The best part of the Hackathon was meeting fellow hackers and having startup thought leaders as advisors and guides for the product we were building. We appreciated the support we received from SubQuery as we worked through the data architecture of our analytics product. SubQuery also provided the simplest way to query on-chain data, avoiding having to build from scratch with API calls_” says Michael Anderson from the Polkadata team.
+_黑客马拉松最好的部分是认识其他黑客，并有创业公司的思想领袖作为我们正在建设的产品的顾问和指导。 我们感谢SubQuery在我们分析产品的数据架构方面给予我们的支持。 SubQuery还提供了查询链上数据的最简单方法，避免了用API从头开始构建。_”----Polkadata团队的Michael Anderson
 
 ![](https://miro.medium.com/max/1400/0*o01LCEIOu-FyUOWx)
 
-# Build a DeFi DApp
+# 构建DeFi DApp
 
-This challenge featured the largest prize of the whole hackathon worth $3,500 and an overall challenge pool of $5,000.
+这项挑战是整个黑客马拉松中最大的奖项，价值3,500美元，总体挑战奖金池为5,000美元。
 
-Entity 54 were the winners in the Defi DApp category taking home $3,500. Entity 54 is a DApp that connects to AMTC6 via Acala API/EVM and reads account balances, loans and allows swaps, transfers, loan adjustments and transfers plus reads coin and loan data. Angelos Diamantis from Entity 54 was thrilled with the result sharing, “_Winning the hackathon has been a fantastic experience. We have been overwhelmed by the interest in the products we are building, resulting in many new industry relationships being established. Going forwards our prime focus is on core product development and a frictionless user experience. Time is the most rare commodity while interchain and Dapp data flow is the development fuel. SubQuery data aggregation and multi-layered analytical products address both. We will be looking to integrate deeper SubQuery offerings within our products as they progress_”.
+Entity 54是Defi DApp类别中的获胜者，获得了3500美元的奖金。 Entity 54是一个DApp，通过Acala API/EVM连接到AMTC6，读取账户余额、贷款，并允许账户的交换、转移以及贷款的调整和转移，并能够读取硬币和贷款数据。 Entity 54的Angelos Diamantis对这一结果感到兴奋，他分享道： “_赢得黑客马拉松是一次奇妙的经历。 我们对我们正在建造的产品充满兴趣，并因此建立了许多新的行业关系。 展望未来，我们的首要重点是核心产品开发和紧密的用户体验。 时间是最稀有的商品，而链上的数据和Dapp数据流是开发的燃料。 SubQuery的数据集合和多层次的分析产品解决了这两个问题。 随着产品的发展，我们将寻求在我们的产品中整合更深层次的SubQuery产品。_”
 
 [Watch a video demo of Entity 54](https://youtu.be/fU1BRVOtx2o)
 
