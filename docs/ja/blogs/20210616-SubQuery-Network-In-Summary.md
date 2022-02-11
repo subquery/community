@@ -1,74 +1,74 @@
-# SubQuery Network - Summary
+# サブクエリネットワーク - サマリー
 
-> How does the SubQuery Network work? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
+> SubQuery Networkはどのように機能しますか? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
 
-Today we’re going to talk about how the SubQuery Network works at a high level.
+今日はSubQuery Networkがどのように高レベルで動作するかについてお話します。
 
-## Participants
+## 参加者
 
 
 ![](https://miro.medium.com/max/1400/1*9993cakplwupZC5tbUv3vA.png)
 
-Participants in the SubQuery Network
+SubQuery Networkの参加者
 
-There are three types of participants in the SubQuery Network:
+SubQuery Networkには、3つのタイプの参加者がいます。
 
--   **Consumers**: Consumers will make requests to the SubQuery Network for specific data and pay an advertised amount of SQT
--   **Indexers**: Indexers will host SubQuery Projects in their own infrastructure, running both the node and query service to index data and answer GraphQL requests.
--   **Delegators**: Delegators will participate in the network by supporting their favourite Indexers to earn rewards
+-   **コンシューマー**: SubQuery Networkに特定のデータを要求し、SQTの広告された金額を支払います。
+-   **インデックス**: インデックスは、独自のインフラストラクチャでSubQuery Projectsをホストします。 ノードとクエリサービスの両方を実行して、データのインデックスとGraphQLリクエストに答えます。
+-   **デリゲーター**:デリゲーターは、お気に入りのインデクサーをサポートして報酬を獲得することでネットワークに参加します。
 
-## Indexers, Consumers, and Queries
+## インデックス、コンシューマー、クエリ
 
-Let’s start with Indexers, Indexers do a lot of the hard work behind the scenes. The manage hardware, run infrastructure, monitor resources, and choose the right SubQuery projects to index
+インデクサーから始めましょう。インデクサーは裏で多くの努力をしています。 ハードウェアの管理、インフラストラクチャの実行、リソースの監視、インデックスする適切なSubQueryプロジェクトの選択。
 
-This takes time and money, but once they have this, Consumers may come and make requests. Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
+これには時間とお金がかかりますが、これを手に入れると、消費者が来てリクエストを行うことがあります。 コンシューマー: SubQuery Networkに特定のデータを要求し、SQTの広告された金額を支払います。
 
 ![](https://miro.medium.com/max/1400/1*dKLkzSc2uXYaPW_IXUxstQ.png)
 
-Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
+コンシューマー: SubQuery Networkに特定のデータを要求し、SQTの広告された金額を支払います。
 
-## Cobb-Douglas Production Function
+## コブダグラス生産機能
 
-This payment goes into a project revenue pool and at the end of a staking era (28 days) we take this project revenue pool and split it. It’s spit across indexers by something called the Cobb-Douglas production function.
+このお支払いはプロジェクトの収益プールに入り、ステーキング時代(28日間)の終わりにこのプロジェクトの収益プールを分割します。 コブダグラス生産機能と呼ばれるものによってインデクサー全体に唾を吐く。
 
 ![](https://miro.medium.com/max/1400/1*E-W7o7cWoclxHb8rXAMdpA.png)
 
-It’s spit across indexers by something called the Cobb-Douglas production function.
+コブダグラス生産機能と呼ばれるものによってインデクサー全体に唾を吐く。
 
-This approach, in simple terms, means that revenue is allocated to competing Indexers as a proportion of both requests answered and amount staked.
+このアプローチは、簡単に教えると、収益が競合するインデクサに割り当てられ、リクエストの回答と投資額の両方の割合で割り当てられることを意味します。
 
 ![](https://miro.medium.com/max/1400/1*VhDu2BGDxd3ob7z9XkoOXA.png)
 
-Revenue is allocated to competing Indexers as a proportion of both requests answered and amount staked.
+収益は競合するインデクサに割り当てられ、リクエストの回答と投資額の両方の割合としています。
 
-In our view, the beauty of this equation is that a rational Indexer must maintain a high level of staked SQT relative to the work they do in order to receive optimal revenue. As a result, we do not need to enforce arbitrary staking requirements because Indexers are incentivised to self-manage and maintain a stake or skin in the game.
+私たちの見解ではこの方程式の素晴らしい点は合理的なインデクサーが 最適な収入を得るために彼らが行う仕事と比べて 高いレベルの SQT を維持しなければならないことです。 その結果として、 ゲーム内のステークやスキンを自己管理し維持するためにインデクサがインセンティブを与えられているため、任意のステーキング要件を実施する必要はありません。
 
-## Delegators
+## デリゲート
 
-So Indexers are incentivised to both do as much work as possible, and to stake as much as possible to maximise their rewards. This is where delegators come in.
+インデックス作成者は可能な限り多くの作業を行い、報酬を最大限に活用するようにインセンティブを与えられます。 ここでデリゲートがやってきます。
 
-Delegators can delegate their spare SQT to Indexers, each Indexer can publish a _query fee revenue share rate_, and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in.
+代理人はスペアSQTをインデックスに委任することができ、それぞれのインデクサは _クエリ手数料収益率_を公開することができます。 それらの代表者は、インデクサーが報酬を受け取った問い合わせ料金の一部で報酬を受け取ることになります。
 
 ![](https://miro.medium.com/max/1400/1*YoN7PV7h3a2nAFN-ODqILg.png)
 
-Delegators can delegate their spare SQT to Indexers and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in
+代理人はスペアSQTをインデックスに委任することができ、それぞれのインデクサは クエリ手数料収益率を公開することができます。 それらの代表者は、インデクサーが報酬を受け取った問い合わせ料金の一部で報酬を受け取ることになります。
 
-The _query fee revenue share rate_ that indexers advertise is locked for each 28 day staking era, and a decrease to it must be advertised for an entire 28 day staking era before coming into force.
+インデックス作成者が宣伝する _クエリ手数料収入率_ は、28日間の投資期間ごとにロックされています そしてその減少は28日間の投資の時代に宣伝されなければなりません。
 
-Similarly, delegators can remove their delegation amounts at any point, but they will only receive rewards when they have delegated for the entire staking era.
+同様に、代表者は任意の時点で委任金額を削除することができますが、投資時代全体に委任した場合にのみ報酬を受け取ることができます。
 
 ![](https://miro.medium.com/max/1400/0*we0k4A07pbj86COZ)
 
-Delegators will only receive rewards when they have delegated for the entire staking era
+委任すると報酬を受け取ることができます。
 
-## Purchase Orders
+## 購買発注
 
-Indexing a project takes time and money, there’s a lot of data on the chain. In order to encourage Indexers to index and support an entirely new SubQuery Project, we plan to implement a market mechanism for Consumers to signal guaranteed revenue to Indexers of new SubQuery Projects.
+プロジェクトのインデックス作成には時間とお金がかかります。チェーンには多くのデータがあります。 インデックス作成者がまったく新しいSubQuery Projectをサポートするようにするために。 新しいSubQuery ProjectsのIndexersへの確実な収入を示すための市場メカニズムを実装する予定です。
 
-We’re calling them purchase orders, and Consumers can advertise a contract on chain for a set price and number of requests. Indexers can view this and choose to fill the contracts.
+私たちはそれらを購入注文と呼んでおり、消費者は設定された価格とリクエスト数のためにチェーン上の契約を宣伝することができます。 インデクサはこれを表示し、コントラクトを埋めることを選択できます。
 
 ![](https://miro.medium.com/max/1400/1*IPtaZlt24E7h9bKNZWdSCw.png)
 
-Consumers can advertise a purchase order on chain for a set price and number of requests.
+消費者は、設定された価格とリクエスト数のためにチェーン上で注文を宣伝することができます。
 
-Purchase orders can also be placed on existing SubQuery Projects to attract additional Indexers to improve competition and decrease prices
+購入注文は、既存のSubQuery Projectsに配置して、競争を改善し、価格を下げるために追加のIndexersを引き付けることもできます。
