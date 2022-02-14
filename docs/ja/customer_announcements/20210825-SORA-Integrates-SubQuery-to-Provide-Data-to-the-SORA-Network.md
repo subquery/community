@@ -1,41 +1,41 @@
-# SORA Integrates SubQuery to Provide Data to the SORA Network
+# SORAがSubQueryを統合し、SORAネットワークにデータを提供
 
 ![sora-header.jpg](https://miro.medium.com/max/1400/1*fPPW0DsynIt9QpvK4ZrsUA.jpeg)
 
-Today we are pleased to announce an exciting new project on SubQuery — SORA and Polkaswap. [SORA](https://sora.org/) has built a SubQuery Project that retrieves data from the SORA network to power mobile applications built on SORA and [Polkaswap.io](http://polkaswap.io/). You can try it out [here](https://explorer.subquery.network/subquery/sora-xor/sora).
+今日は、SubQueryでのエキサイティングな新プロジェクト「SORAとPolkaswap」をご紹介します。 [SORA](https://sora.org/)は、SORAと[Polkaswap.io](http://polkaswap.io/)で構築されたモバイルアプリケーションを動かすために、SORAネットワークからデータを取得するSubQuery Projectを構築しました。 試しに[こちら](https://explorer.subquery.network/subquery/sora-xor/sora)をご覧ください。
 
 ![sora-frontend.jpg](https://miro.medium.com/max/1400/1*pq0U6wsutlf8rjXqq7i2BQ.jpeg)
 
-> "SubQuery was selected to improve the UX of SORA network usage. We used SubQuery to get and list extrinsic details, calculate fiat prices and liquidity pool APY. Our goal was to get transaction history and aggregated data for applications that work with the SORA network.
+> 「SORA のネットワーク利用のUXを向上させるためにSubQueryを採用しました。 SubQueryを使用して、extrinsicの詳細を取得・一覧表示し、フィアット価格と流動性プールのAPYを計算しました。 私たちの目的は、SORAネットワークで動作するアプリケーションのトランザクション履歴や集計データを得ることでした。
 > 
-> SubQuery has been the ideal solution for our needs because the application is easy to deploy and manage, it is easy to learn and develop as well as being well documented, and it also has its own infrastructure with Github integration. SubQuery's plain data structuring provides fast access, it supports GraphQL API for client applications, it has a flexible configuration for parsing events, extrinsics, and blocks with additional filtration. Finally, the application is completely transparent for users, so they won't notice if the application was updated or stopped."—SORA Development Team
+> SubQueryは、デプロイや管理が容易で、学習や開発がしやすく、ドキュメントも充実しており、Githubとの連携で独自のインフラも整備されているため、当社のニーズに最適なソリューションでした。 SubQueryは、プレーンなデータ構造により高速なアクセスを実現し、クライアントアプリケーションのためのGraphQL APIをサポートし、イベント、extrinsics、および追加のフィルタリングを伴うブロックを解析するための柔軟な構成を備えています。 最後に、このアプリケーションはユーザーにとって完全に透明なので、アプリケーションが更新されたか停止されたかに気づくことはありません」 -SORA開発チーム
 
-Polkaswap is a leading DEX in the thriving Polkadot ecosystem and uses SubQuery to retrieve transfers, swaps that happen in Polkaswap, the addition or removal of liquidity, the flat price of tokens, and the APY for liquidity pools.
+Polkaswapは盛んなPolkadotエコシステムの中でも代表的なDEXであり、SubQueryを使ってPolkaswapで発生した送金やスワップ、流動性の追加や削除、トークンのフラットプライス、流動性プールのAPYなどを取得しています。
 
-SubQuery already makes developing the SORA mobile app and Polkaswap easier by reducing the time the team spends on building custom backend solutions and the team at SORA plan to expand their Polkaswap SubQuery Project to better support Polkaswap in the future.
+SubQueryは、チームがカスタムバックエンドソリューションの構築に費やす時間を短縮することで、SORAのモバイルアプリやPolkaswapの開発を容易にしている。SORAのチームは、将来的にPolkaswapをよりよくサポートするために、Polkaswap SubQuery Projectを拡張することを計画しています。
 
 ![sora-explorer.jpg](https://miro.medium.com/max/1400/1*vjdjmmffvJ7zfOQyxo0ZAA.jpeg)
 
-In this example, we’re using SubQuery to pull the total amount of XOR that is held in each liquidity pool (filtered to show only the first 2 pools). This example also shows the current APY associated to each liquidity pool (filtered to show only the first 2 pools).
+この例では、SubQuery を使用して、各流動性プールで保有されている XOR の合計量を引き出しています(最初の 2 つのプールのみを表示するようにフィルタリングされています) 。 また、各流動性プールに関連する現在のAPYも表示されています(最初の2つのプールのみを表示するようにフィルタリングされています) 。
 
 ![sora-playground.jpg](https://miro.medium.com/max/1400/1*oTh-ajGfG1oEhYdvqo12tQ.jpeg)
 
-SORA is using [SubQuery Projects](https://project.subquery.network/) to manage their project and make updates as required. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/).
+SORA は [SubQuery Projects](https://project.subquery.network/) を使用してプロジェクトを管理し、必要に応じて更新を行っています。 私たちが提供するインデックスやクエリのサービスは、SubQueryによって完全に管理され、[SubQuery's Explorer](https://explorer.subquery.network/)としてPolkadotコミュニティに無料で提供されています。
 
-Explore SORA's project in the SubQuery explorer [here](https://explorer.subquery.network/subquery/sora-xor/sora).
+SORAのプロジェクトは、SubQueryエクスプローラー([こちら](https://explorer.subquery.network/subquery/sora-xor/sora)) でご覧いただけます。
 
 ---
 
-### About SORA
+### SORAについて
 
-SORA is creating a supranational world economic system with built-in tools for decentralized finance (DeFi) under the cryptographic sortition-based democratic supervision of the SORA Parliament.
+SORAは、SORA議会の暗号化された分類ベースの民主的な監督のもと、分散型金融(DeFi) のためのツールを組み込んだ超国家的な世界経済システムを構築しています。
 
-The SORA network excels at providing tools for decentralized applications that use digital assets, such as atomic token swaps, bridging tokens to other blockchains, and creating programmatic rules involving digital assets.
+SORAネットワークは、アトミック・トークン・スワップ、他のブロックチェーンへのトークンブリッジ、デジタル・アセットを含むプログラム・ルールの作成など、デジタル・アセットを使用する分散型アプリケーションのためのツールを提供することを得意としています。
 
 [Website](https://sora.org/) | [Reddit](https://www.reddit.com/r/SORA/) | [Blog](https://sora.org/blog) | [Telegram](https://t.me/sora_xor) | [Twitter](https://twitter.com/sora_xor) | [YouTube](https://youtube.com/sora_xor) | [Instagram](https://instagram.com/sora_xor)
 
-### About SubQuery
+### SubQuery について
 
-[SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications (DApps). Currently focused on Polkadot and Substrate projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+[SubQuery](https://subquery.network/)は、Layer-1ブロックチェーンと分散型アプリケーションの間にある、分散型のデータ集約、インデックス作成、およびクエリを行うためのレイヤーです。 現在、PolkadotとSubstrateのプロジェクトに注力しているこのData-as-a-Serviceにより、開発者はデータ処理用のカスタムバックエンドの構築に時間を費やすことなく、コアユースケースとフロントエンドに集中することができます。
 
 [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Email](mailto:hello@subquery.network)
