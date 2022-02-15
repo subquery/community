@@ -1,4 +1,4 @@
-# SubQuery ноември техническа актуализация: EVM и манифестни актуализации
+# SubQuery ноември техническа актуализация: EVM и обновяване на манифеста
 
 ![](https://miro.medium.com/max/1400/1*q9GErDrvAyacOPm97krV6Q.png)
 
