@@ -1,88 +1,88 @@
-# 2021年11月のまとめ
+# November 2021 Recap
 
-![](https://miro.medium.com/max/1400/1*qzKzZnWY2ao3tiffwugXQ.png) **_今月は実行に関するものです。_**
+![](https://miro.medium.com/max/1400/1*qzKzZnWY2ao3tiffwwugXQ.png) **_This month it’s all about execution_**
 
-SubQueryの最新の月次アップデートへようこそ。特にコミュニティで起きているエキサイティングなことがいっぱいです。
+Welcome to the latest monthly update from SubQuery, and one that is particularly full of all the exciting stuff happening around our community.
 
 # SubQuery Network
 
-## Acala で起動する SubQuery
+## SubQuery to launch on Acala
 
-![](https://miro.medium.com/max/600/0*SJ1TWt1sGwUWqvuI.gif) コミュニティ通話で SubQueryとSQTトークンは、Acalaで初めての外部アプリケーションとトークンを目指すことを最終的に発表しました。
+![](https://miro.medium.com/max/600/0*SJ1TWt1sGwUWqvuI.gif) At our community call, we finally announced that SubQuery and the SQT token will aim to be the first external application and token to launch with Acala.
 
-SubQueryは、様々な選択肢を検討した結果、Acalaとの既存のパートナーシップを深めるために、Polkadot上に構築された主要DeFiプロトコル上であるAcala上でサービスを開始することを選択しました。 Acalaとの提携を決定した主な理由は、コミュニティへのアクセス、ドメイン/技術的な卓越性、そして既存の強固な関係の3つです。
+We considered a variety of options before electing to deepen its existing partnership with Acala by launching on its leading DeFi protocol built on Polkadot. The three main reasons that went into this decision to launch with Acala were community access, domain/technical excellence, and our existing robust relationship.
 
-ジェームズは、アカラとサブクエリが天国で作られた試合である理由の詳細を含む、この決定とパートナーシップに関する幅広いインタビューのためにアカラのベットチェンに追いついた。
+James caught up with Acala’s Bette Chen for a wide-ranging interview on this decision and partnership, including the specifics on why Acala and SubQuery are a match made in heaven.
 
-[このお知らせの詳細はこちらをご覧ください](https://blog.subquery.network/blogs/20211125-subquery-network-acala.html)
+[Read more about this announcement here](https://blog.subquery.network/blogs/20211125-subquery-network-acala.html)
 
-## SubQuery Networkの重要な開発
+## Significant Development on the SubQuery Network
 
-SubQuery Networkで忙しいのにも関わらず。 2022年第1四半期のテストネットワークの立ち上げに向けて急いでいます。 私たちはスマートコントラクトとトークン経済モデルの洗練に大きな進歩を遂げました。 私たちがこれについてもっと多くを共有するのを見ることを期待してください。
+Even though we are busy working hard on the SubQuery Network, and still rushing ahead towards our test network launch in the first quarter of 2022. We’ve made great progress on our smart contracts and refining our token economic model. Expect to see us sharing a lot more about this soon.
 
-# コア製品開発
+# Core Product Development
 
-## ホスティングされたサービスの拡大を図っています。
+## Scaling our Hosted Service
 
-SubQueryプロジェクトは、[数千人のアカデミー参加者](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html)が数週間のスペースでホストサービス([project.subquery.network](https://project.subquery.network/))でさらに多くのプロジェクトを作成しているため、過去1ヶ月間で爆発的な成長を遂げました。
+SubQuery Projects has been a recipient of some explosive growth over the past month as  [thousands of academy participants](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html)  have created even more projects in our hosted service ([project.subquery.network](https://project.subquery.network/)) in the space of a few weeks.
 
-ホストサービスに展開された2,000以上のプロジェクトのマイルストーンを超えました。 その結果、ホスティングサービスの規模を拡大することが優先されました。 私たちは現在、パフォーマンスと信頼性を向上させるために、エンタープライズ顧客専用のリソースを提供しています。
+We’ve crossed a milestone of over 2,000 projects deployed to our hosted service, and as a result, it’s been a priority to scale our hosted service. We now offer our enterprise customers dedicated resources to improve performance and reliability.
 
-SubQuery プロジェクトをアップグレードして専用のリソースを受け取る場合は、  [sales@subquery.network](mailto:sales@subquery.network) までご連絡ください。
+If you would like to upgrade your SubQuery project to receive dedicated resourcing, contact us at  [sales@subquery.network](mailto:sales@subquery.network).
 
-## プロジェクトマニフェスト内の外部チェーンタイプファイルのサポート。
+## Supporting External Chain Type Files in our Project Manifest
 
-11月には、プロジェクトマニフェストファイル(`project.yaml`)の[**バージョン0.2.0**](https://doc.subquery.network/create/manifest/)を立ち上げました。 この新しいバージョンは、開発者が顧客から要求されたさまざまな改善を提供します。
+In November we launched  [**version 0.2.0**](https://doc.subquery.network/create/manifest/)  of our project manifest file (`project.yaml`). This new version provides developers with various improvements that have been requested by customers.
 
-最も重要なことに、カスタムSubstrateチェーンのインデックス作成時に含まれるすべてのカスタムタイプを持つチェーン型定義ファイルを参照できるようになりました。 これとも、新しい SubQuery プロジェクトを、すべての Substrate ベースのチェーンに接続することができます。
+Most importantly, you can now reference a chain type definition file that has all the custom types included when you’re indexing a custom substrate chain. This quickly allows you to connect a new SubQuery project to any substrate-based chain, including all of Kusama’s parachains.
 
-[こちら](https://blog.subquery.network/blogs/20211105-november-technical-update.html#support-for-external-chain-type-files-in-project-manifest) をご覧ください。
+[You can read more about this new feature here](https://blog.subquery.network/blogs/20211105-november-technical-update.html#support-for-external-chain-type-files-in-project-manifest).
 
-## MoonbeamのEVMサポート
+## Moonriver EVM Support
 
 ![](https://miro.medium.com/max/600/0*B27QVtvcR6nXA9ff.gif)
 
-以前に発表した通り、SubQueryにおいてMoonbeamとMoonriverネットワークのサポートを実施しました。 11月には、始めるために必要なすべての開発者リソースをフォローアップしました。  [インタビューはこちら](https://blog.subquery.network/blogs/20211105-november-technical-update.html#moonbeam-evm-support) をご覧ください。
+As previously announced we have implemented support for the Moonbeam and Moonriver networks in SubQuery. In November we followed up with all the developer resources that you need to get started.  [You can read the instructions here](https://blog.subquery.network/blogs/20211105-november-technical-update.html#moonbeam-evm-support).
 
-さらに、スコットは、このワークフロー全体を  [Moonbuilders ワークショップ](https://www.crowdcast.io/e/moonbuilders-ws/10)  に紹介することができ、誰もが見ることができました。 私たちがスポンサーしているGitcoin助成金について(詳しくは下記をご覧ください)。
+Additionally, Scott was able to present this entire workflow to the  [Moonbuilders workshop](https://www.crowdcast.io/e/moonbuilders-ws/10)  for everyone to watch. Perfect timing for the lead up to the Gitcoin Grants that we are sponsoring (more on that below).
 
-# コミュニティ
+# Community
 
 ## Gitcoin Hackathon
 
-SubQuery Academyの「ヒーローコース」の圧倒的な成功を受けて、12月1日からGitcoin Grants Round 12を通じて、すべての開発者に初のハッカソンの機会を提供することになりました。
+Hot on the heels of the overwhelming success of the SubQuery Academy’s  _Hero Course_, we were proud to announce that we would be providing our first hackathon opportunity for all developers via  [Gitcoin Grants Round 12](https://gitcoin.co/hackathon/gr12/?org=subquery)  starting on December 1st.
 
-SubQuery は、最大 $34,000 の総賞金プールで 5 つの報奨金を提案しました。
+SubQuery has proposed 5 bounties with a total prize pool of up to $34,000:
 
--   [MoonbeamとAstarが提供するSubstrateとEVMのインサイトを1つの使いやすいアプリケーションにまとめた統一ブロックエクスプローラーの作成](https://gitcoin.co/issue/subquery/grants/1) - 12,000ドル 【スポンサー：Moonbeam、Astar】。
--   [SubQueryやKarura/AcalaのDeFiハブと協力して、Zapper.fiやdefisaver.comにインスパイアされたダッシュボードを構築する](https://gitcoin.co/issue/subquery/grants/2) - 8,000ドル 【スポンサー：Acala】。
--   [Polkadotとその様々なパラチェーンにおける最適なステーキングの機会を示すステーキング・ダッシュボードの作成](https://gitcoin.co/issue/subquery/grants/3) - 3,000ドル
--   [すべてのRMRKプロトコルベースのNFTのための、マーケットプレイス・エクスプローラーを構築する](https://gitcoin.co/issue/subquery/grants/4) - 2,000ドル
--   [@subql/node サービスを拡張して、別のレイヤー 1 チェーンのデータにインデックスを付ける](https://gitcoin.co/issue/subquery/grants/5) - 12,000ドル
+-   [Create a unified block explorer that combines Substrate and EVM insights from Moonbeam and Astar into one easy to use application](https://gitcoin.co/issue/subquery/grants/1)  — US$12,000 [Sponsored by Moonbeam and Astar]
+-   [Work with SubQuery and the DeFi hub at Karura/Acala to build a dashboard that’s inspired by Zapper.fi or defisaver.com](https://gitcoin.co/issue/subquery/grants/2)  — US$8,000 [Sponsored by Acala]
+-   [Create a staking dashboard that shows the best staking opportunities across Polkadot and its various parachains](https://gitcoin.co/issue/subquery/grants/3)  — US$3,000
+-   [Build a marketplace explorer for all RMRK protocol based NFTs](https://gitcoin.co/issue/subquery/grants/4)  — US$2,000
+-   [Extend the @subql/node service to index data from another layer 1 chain](https://gitcoin.co/issue/subquery/grants/5)  — US$12,000
 
-[送金クーポンにつきましてはこちらをご確認ください。](https://blog.subquery.network/blogs/20211120-gitcoin12-hackathon.html)
+[You can read more about these bounties here.](https://blog.subquery.network/blogs/20211120-gitcoin12-hackathon.html)
 
-## Polkadot Crowdloants への分析
+## Analysis into the Polkadot Crowdloans
 
-SubQueryはPolkadotの代表的なデータ・インデックス・サービスであり、過去1週間にわたり、クラウドローンのダッシュボード、コントリビューションアプリ、分析サイトの大半に毎日数百万のリクエストを提供してきました。 [SubVis](https://www.subvis.io/)、[Parallel Finance](https://parallel.fi/)、[DotMarketCap](https://dotmarketcap.com/)などのチームは、SubQueryを利用して、クラウドローンやその他のオンチェーンのデータをリアルタイムでウェブサイトやアプリに直接提供しています。
+SubQuery is Polkadot’s leading data indexing service, and over the past week, we’ve been powering millions of daily requests to the majority of the crowdloan dashboards, contribution apps, and analytics websites. Teams like  [**SubVis**](https://www.subvis.io/),  [**Parallel Finance**](https://parallel.fi/), and  [**DotMarketCap**](https://dotmarketcap.com/)  rely on SubQuery to provide real-time data on the crowdloans and other on-chain data directly to their websites and apps.
 
 ![](https://miro.medium.com/max/60/0*HfsoOwpat76ip6Jg?q=20)
 
 ![](https://miro.medium.com/max/700/0*HfsoOwpat76ip6Jg)
 
-私たちは最近、Polkadotクラウドローン(特にAcalaとMoonbeamの間のタイトル争い)に深く潜り込みました。  [まだ](https://blog.subquery.network/blogs/20211124-polkadot-crowdloans.html) を読んでいない場合は、こちらをご覧ください。
+We recently took a deep dive into the Polkadot crowdloans (specifically the title fight between Acala and Moonbeam).  [You should read it here if you haven’t already](https://blog.subquery.network/blogs/20211124-polkadot-crowdloans.html).
 
-# 見逃した他のもの
+# Other things you might have missed
 
--   [Web3Go](https://www.web3go.xyz/)  の新しいチームと緊密に協力して、  [SubQueryエコシステムにデータ分析ツールを提供します。](https://blog.subquery.network/customer_announcements/20211110-web3go.html)
--   [Brave New Coinのポッドキャストでサムとジェームズに耳を傾ける](https://bravenewcoin.com/insights/podcasts/subquery-connecting-the-dots-on-polkadot).
--   JamesはAcalaのBrettKolodnyに話しかけて、  [Acalaがどのようにスタック](https://www.youtube.com/watch?v=Wbxwj8K67Lw)でSubQueryを使用するかについて話しました。
--   当社の中国代表であるSiqiは、  [ウェブ3](https://www.huoxing24.com/live/24313016)の最新情報についてAcala NetworkとPolkaworldと話をしました。
--   [SubQuery Hero Course](https://doc.subquery.network/academy/herocourse/module1/)  の  [1](https://doc.subquery.network/academy/herocourse/module4/)  モジュール  [](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html) をリリースしました
--   ジェームズはまた、将来のDIDプロトコルのためのLitentryの計画 [を探索するためにジャッキーと話しました](https://www.youtube.com/watch?v=Rqlpo9QIVyk)。
-  
-  いつものように、  [ソーシャルチャンネル](https://linktr.ee/subquerynetwork)  (特に  [Discord](https://discord.com/invite/subquery)) に参加して、最新のニュースやお知らせを更新してください。
-  
-  James, Sam, SubQuery チーム
-  
-  ​​[Linktree | [Webサイト](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://www.linkedin.com/company/subquery) | [LinkedIn](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw) | YouTube](https://linktr.ee/subquerynetwork)
+-   We’re working closely with the new team at  [Web3Go](https://www.web3go.xyz/)  to  [provide data anaysis tools to the SubQuery ecosystem.](https://blog.subquery.network/customer_announcements/20211110-web3go.html)
+-   [Listen to Sam and James on Brave New Coin’s podcast](https://bravenewcoin.com/insights/podcasts/subquery-connecting-the-dots-on-polkadot).
+-   James talked to Acala’s Brett Kolodny to talk about how  [Acala use SubQuery in their stack](https://www.youtube.com/watch?v=Wbxwj8K67Lw).
+-   Siqi, our China representative,  [talked to Acala Network and Polkaworld about the latest in web3](https://www.huoxing24.com/live/24313016).
+-   We released modules  [1](https://doc.subquery.network/academy/herocourse/module1/)  to  [4](https://doc.subquery.network/academy/herocourse/module4/)  of our  [SubQuery Hero Course](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html)
+-   James also talked to Jacky to explore Litentry’s plans  [for a future DID protocol](https://www.youtube.com/watch?v=Rqlpo9QIVyk).
+
+As always, please  [join our social channels](https://linktr.ee/subquerynetwork)  (especially our  [Discord](https://discord.com/invite/subquery)) to stay updated on our latest news and announcements.
+
+James, Sam, and the SubQuery Team
+
+[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
