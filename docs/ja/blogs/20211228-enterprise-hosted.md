@@ -1,45 +1,45 @@
-# SubQuery はエンタープライズサポートを顧客に提供
+# SubQuery Provides Customers with Enterprise Support
 
 ![](https://miro.medium.com/max/1400/1*z_StqAT5KeaxQLBCm-xpRQ.jpeg)
 
-コミュニティが大きくなるにつれて、私たちは毎日何百もの展開と、ホストされたサービスへの指数関数的に多くのトラフィックを見ています。 SubQueryのチームは、しかしながら、この課題に立ち向かっており、お客様による当社のツールに対する前例のない需要に応えるために、サービスを拡大しています。 私たちの  [ホスト型サービス](https://projects.subquery.network/)  を無料に保ちながら。
+As our community grows larger we are seeing hundreds of deployments and exponentially more traffic to our hosted service each and every day. The team at SubQuery are rising to this challenge however and are scaling our services to meet the unprecedented demand for our tools by our customers, while keeping our  [hosted service](https://projects.subquery.network/)  free.
 
-現在、多くのお客様は、本番アプリケーションにミッションクリティカルなデータを提供するために SubQuery を利用しています。 These customers represent some of the largest wallets ([Nova](https://novawallet.io/) and  [Fearless](https://fearlesswallet.io/)), scanners ([Subscan](https://www.subscan.io/), [SubVis](https://www.subvis.io/), and [DotMarketCap](https://dotmarketcap.com/)), NFT platforms ([Kodadot](https://kodadot.xyz/) and [Yuser](https://yuser.co/)), and more. これらは、ポルカドットコミュニティが日常的に使用する巨大なアプリケーションであり、常にオンラインでなければなりません。
+Many customers now rely on SubQuery to provide  mission critical data to their production apps. These customers represent some of the largest wallets ([Nova](https://novawallet.io/) and  [Fearless](https://fearlesswallet.io/)), scanners ([Subscan](https://www.subscan.io/), [SubVis](https://www.subvis.io/), and [DotMarketCap](https://dotmarketcap.com/)), NFT platforms ([Kodadot](https://kodadot.xyz/) and [Yuser](https://yuser.co/)), and more. These are huge applications that the Polkadot community use on a daily basis and must be online at all times.
 
-私たちのホストされたサービスのパフォーマンスと信頼性は、SubQueryでしばらくの間、私たちの優先順位リストの上位にありました。 私たちの姉妹チームはOnFinalityです。Polkadotの最大のインフラプロバイダーであるため、この分野でたくさんの経験があります。 その結果、今日はSubQueryを最も信頼性の高いものにするための最近の3つの改善について説明します。 スケーラブルでパフォーマンスの高いデータ プラットフォーム in Polkadot
+The performance and reliability of our hosted service has been on the top of our priority list for some time here at SubQuery. Our sister team is OnFinality, Polkadot’s largest infrastructure provider, so we have plenty of experience in this area. As a result, today we are going to walk through three recent improvements that will make SubQuery the most reliable, scalable, and performant data platform in Polkadot.
 
 ![](https://miro.medium.com/max/1200/1*QckhJzjQqw9czpBMRhXgXQ.gif)
 
-# 専用データベース
+# Dedicated Databases
 
-最初は、すべての SubQuery プロジェクトは、お金を節約し、サービスを無料で利用できるようにするために、インフラストラクチャ内の共有データベースにデプロイされました。 しかし、これにより、大きなデータセットを持つ多数のトラフィックプロジェクトが同じデータベースでホストされている他のプロジェクトを絞り込む原因になります。
+Initially, all SubQuery projects were deployed to shared databases in our infrastructure to save money and allow our service to remain free. However, this would cause high traffic projects with large data sets to strangle other projects hosted in the same database.
 
-本番用に設計されたプロジェクトを構築している場合 SubQuery クラスターでホストされている専用のデータベースを提供しており、他のユーザーからのパフォーマンスへの影響を気にすることなく、何千もの複雑なクエリを処理するために必要なリソースをすべてプロジェクトに提供できます。
+If you’re building a project that is designed for production use, we offer a dedicated database hosted in our SubQuery clusters that can give your project all the resources it needs to handle thousands of complicated queries without worrying about performance impact from others.
 
-これにアップグレードしたい場合は、sales@subquery.networkまでご連絡ください。 既存のテーブルからデータを複製しますので、既存のデータのインデックスを再作成する必要はありません。結果としてダウンタイムがゼロになります。
+You should get in touch with us at sales@subquery.network if you’d like to upgrade to this. We replicate your data from your existing tables so you don’t need to spend time reindexing data you already have resulting in a migration with zero downtime.
 
-# 複数のクラスターのサポート
+# Multiple Cluster Support
 
-耐性と信頼性は、SubQueryで私たちにすべてを意味します。 冗長なクラスターを別の世界に持っていることは、時にはオフラインの領域を取るクラウドプロバイダーの停止から迅速に回復できることを意味します。
+Resiliency and reliability mean everything to us at SubQuery. Having a redundant cluster in a separate part of the world means that we can quickly recover from cloud provider outages that occasionally take regions offline.
 
-さらに、ホストされたサービスでSubQueryプロジェクトへのリクエストを行うと、待ち時間の大部分はレイテンシーから来ます。 レイテンシーとは、リクエストが最も近いSubQueryクラスターに到達するまでに要求され、リモートリージョンから最大2秒または2秒かかる時間のことです。 世界中に複数のクラスタがあるため、リクエストの最も重要な部分(遅延)を減らすことができます。
+Additionally, when you make a request to a SubQuery project in our hosted service, the majority of the waiting time comes from latency. Latency is the point to point time it takes your request to circle the world to the nearest SubQuery cluster and can take up to a second or two from some remote regions. Having multiple clusters around the world allows us to reduce the most significant part of the request time (the latency).
 
-同じサービスを提供する複数のクラスタを異なる地域に実装しました。 この作業には、これらのクラスタ全体でプロジェクトをデプロイおよび管理できる  [SubQuery Projects](https://project.subquery.network/)  のツールも含まれています。 また、異なるリージョンのデータベースが一貫性を保つようなプロセスも導入しました。 どのクラスタに要求されても受け取るデータは一貫しています。
+We’ve implemented multiple clusters in different regions that provide the same service. This work also includes a tool in  [SubQuery Projects](https://project.subquery.network/)  that allows you to deploy and manage your project across these clusters. We’ve also implemented processes that ensure that databases in different regions stay consistent, so that regardless of which cluster your request goes to, the data that you receive is consistent.
 
-# インテリジェントルーティング
+# Intelligent Routing
 
-SubQueryクラスタが異なるリージョンで実行されたら、次の論理的なステップは、この機能をユーザーに見えないようにすることです。 ユーザーは、リクエストがどのクラスタに移動するかを決める必要はありません。SubQueryはリクエストを最も近い健全なクラスタに自動的にルーティングする必要があります。 SubQueryのインテリジェントなルーティングが提供するものです。
+Once we have SubQuery clusters running in different regions, the next logical step is to make this feature invisible to your users. Your users should never have to decide what cluster their requests go to, SubQuery should automatically route their requests to the closest healthy cluster. This is what SubQuery’s intelligent routing provides.
 
-各リクエストに自動的に適用されるインテリジェントなルーティングを持つ各プレミアム顧客に単一のグローバルエンドポイントを提供します。 このサービスには、ヘルスチェックのために各クラスターを絶えず接続し、ユーザーが圧倒されたりオフラインのクラスターにルーティングされないようにするかなりの監視が含まれています。 グローバルエンドポイントは、ユーザーがクラスターから最高のパフォーマンスを得られるように、リクエストごとに最も近いクラスターへのルーティングを最適化します。
+We offer a single global endpoint to each premium customer that has intelligent routing automatically applied to each and every request. This service includes considerable monitoring that constantly ping each cluster for health checks and ensure that a user is never routed to a cluster that is overwhelmed or offline. The global endpoint optimises the routing for each request to the nearest cluster to ensure your users receive the best performance from your clusters.
 
 ![](https://miro.medium.com/max/1000/0*DNXDiABzli0et1MU)
 
-要約すると、これらのサービスは、より多くのお客様に自信を持ってプレミアムサービスを提供することができます。 私たちは、各顧客と協力して、彼らのビジネスと目標を理解し、彼らのニーズに応えるサービスを構築します。 SubQuery は Polkadot の最大のデータ サービス プロバイダーです。 そして、これらの機能は、私たちがPolkadotの最大のプロジェクトと同時に何千ものコミュニティプロジェクトをサポートする方法を示しています。
+In summary, these services allow us to offer our premium service to more customers with confidence. We work with each customer to understand their business and goals, and then to set up a service to meet their needs. SubQuery is the largest data service provider in Polkadot, and these features show how we support thousands of community projects at the same time as the biggest projects in Polkadot.
 
-# SubQuery Networkについて
+# About SubQuery Network
 
-SubQueryは、Layer-1ブロックチェーン(Polkadot) と分散型アプリケーションとの間のインデックス & クエリーレイヤーをサポートする、Polkadotの代表的なデータプロバイダーです。 SubQueryのデータサービスは、現在稼働しているPolkadotやKusamaといったクラウドローンやパラチェーンオークションのサイトのほとんどで採用されています。
+SubQuery is Polkadot’s leading data provider, supporting an indexing & querying layer between Layer-1 blockchains (Polkadot) and decentralized applications. SubQuery’s data service is being used by most of the Polkadot and Kusama crowdloan and parachain auction websites live today.
 
-SubQueryのプロトコルは、ブロックチェーンのデータの特異性をSubQuery SDKによって抽象化しているため、開発者はカスタムバックエンド技術に無駄な労力を費やすことなく、コア製品の展開に集中することができます。
+SubQuery’s protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
 
-​​[Linktree](https://linktr.ee/subquerynetwork) | [Webサイト](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)|  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
