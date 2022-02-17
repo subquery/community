@@ -52,7 +52,7 @@ Darüber hinaus konnte Scott diesen gesamten Workflow im [Moonbuilders-Workshop]
 
 Direkt nach dem überwältigenden Erfolg des _Hero-Kurses_ der SubQuery Academy waren wir stolz darauf, Ihnen mit der
 
-Gitcoin Grants Round 12</1 unsere erste Hackathon-Gelegenheit für alle Entwickler anbieten zu können >, ab 1. Dezember.</p> 
+Gitcoin Grants Round 12 unsere erste Hackathon-Gelegenheit für alle Entwickler anbieten zu können >, ab 1. Dezember.
 
 SubQuery hat 5 Kopfgelder mit einem Gesamtpreispool von bis zu 34.000 USD vorgeschlagen:
 

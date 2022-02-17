@@ -79,9 +79,7 @@ SubQueryはPolkadotの代表的なデータ・インデックス・サービス�
 -   JamesはAcalaのBrettKolodnyに話しかけて、  [Acalaがどのようにスタック](https://www.youtube.com/watch?v=Wbxwj8K67Lw)でSubQueryを使用するかについて話しました。
 -   当社の中国代表であるSiqiは、  [ウェブ3](https://www.huoxing24.com/live/24313016)の最新情報についてAcala NetworkとPolkaworldと話をしました。
 -   [SubQuery Hero Course](https://doc.subquery.network/academy/herocourse/module1/)  の  [1](https://doc.subquery.network/academy/herocourse/module4/)  モジュール  [](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html) をリリースしました
--   ジェームズはまた、将来のDIDプロトコル</a>のためのLitentryの計画
-
-を探索するためにジャッキーと話しました。</li> </ul> 
+-   ジェームズはまた、将来のDIDプロトコルのためのLitentryの計画 [を探索するためにジャッキーと話しました](https://www.youtube.com/watch?v=Rqlpo9QIVyk)。
   
   いつものように、  [ソーシャルチャンネル](https://linktr.ee/subquerynetwork)  (特に  [Discord](https://discord.com/invite/subquery)) に参加して、最新のニュースやお知らせを更新してください。
   

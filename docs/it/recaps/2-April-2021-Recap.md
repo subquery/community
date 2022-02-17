@@ -13,7 +13,7 @@ Sul fronte dei partner abbiamo lanciato un prodotto chiave necessario per accele
 
 ![](https://miro.medium.com/max/1400/0*zZkmiEq5g2BbAxfl)
 
-Questo ultimo pezzo mancante ora significa che abbiamo una suite completa di strumenti per consentire e consentire ai clienti di [esplorare](https://explorer.subquery.network/), [creare](https://doc.subquery.network/quickstart.html), [correre](https://doc.subquery.network/run/indexing_query.html) e quindi <3 >pubblica</a> i progetti di SubQuery tutti per conto proprio.
+Questo ultimo pezzo mancante ora significa che abbiamo una suite completa di strumenti per consentire e consentire ai clienti di [esplorare](https://explorer.subquery.network/), [creare](https://doc.subquery.network/quickstart.html), [correre](https://doc.subquery.network/run/indexing_query.html) e quindi [pubblica](https://doc.subquery.network/publish/publish.html#benefits) i progetti di SubQuery tutti per conto proprio.
 
 ![](https://miro.medium.com/max/1400/0*pDQgyo3phe2ZcMml)
 

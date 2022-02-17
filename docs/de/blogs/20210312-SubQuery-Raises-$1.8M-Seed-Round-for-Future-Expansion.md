@@ -2,8 +2,8 @@
 
 ![](https://miro.medium.com/max/1400/0*CrM8-LKRt3slWAsN)
 
-**SubQuery, der Dienst, der die Abfrage dezentraler Daten erleichtert, gab heute bekannt, dass er erfolgreich eine Seed-Runde in Höhe von 1,8 Mio. ** [**D1 Ventures**](https://d1. ventures/)**,** [**Hypersphere Ventures**](https://hypersphere.ventures/)**,**
-**Digital Finance Group (DFG)</4 >** und** [**The Lao**](https://www.thelao.io/)**. Die überwältigende Nachfrage, die wir erhielten, um die Seed-Runde von SubQuery zu unterstützen, zeigt das starke Interesse an Infrastrukturdiensten und den Glauben an die Zukunft des Polkadot-Ökosystems.**</p> 
+**SubQuery, der Dienst, der die Abfrage dezentraler Daten erleichtert, gab heute bekannt, dass er erfolgreich eine Seed-Runde in Höhe von 1,8 Mio.  [D1 Ventures](https://d1. ventures/), [Hypersphere Ventures](https://hypersphere.ventures/),
+Digital Finance Group (DFG), und [The Lao](https://www.thelao.io/). Die überwältigende Nachfrage, die wir erhielten, um die Seed-Runde von SubQuery zu unterstützen, zeigt das starke Interesse an Infrastrukturdiensten und den Glauben an die Zukunft des Polkadot-Ökosystems.**
 
 SubQuery erlaubt jedem Substrate/Polkadot Team, seine Daten zu verarbeiten und abzufragen. Das Projekt ist inspiriert von der Zunahme von Datenprotokollen, die der Anwendungsschicht dienen, und hat zum Ziel, Polkadot/Substrate-Projekten beim Aufbau besserer dApps zu helfen, indem es jedem ermöglicht wird, Daten zuverlässig schneller zu finden und zu konsumieren. Heute kann jeder die Netzwerkdaten von Polkadot in nur wenigen Minuten kostenlos abfragen und extrahieren.
 

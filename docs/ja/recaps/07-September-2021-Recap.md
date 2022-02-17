@@ -75,7 +75,7 @@ _「SubQueryは、伝統的なインデックスやクエリの技術をParallel
 
 DotMarketCapの場合、
 
-SubQueryは、Kusuma Parachain Auctionsの2番目のバッチに関連する情報をDotMarketCapユーザーに提供する責任がありました。 このコラボレーションの興味深い点は、リアルタイムデータが SubVis[によってメンテナンスされている](https://explorer.subquery.network/subquery/subvis-io/kusama-auction)プロジェクトに実際に SubQuery から送信され、DotMarketCapによって再度ピックアップされたことです。 SubQueryにとって、これはエクスプローラでデータのオープンなコミュニティマーケットプレイスを構築するという私たちの目標の実現です。 それはまたどのように共生する Polkadot エコシステムであり、どのようにチームが協力して分散型の未来の共有目標を達成するかを示しています。</p> 
+SubQueryは、Kusuma Parachain Auctionsの2番目のバッチに関連する情報をDotMarketCapユーザーに提供する責任がありました。 このコラボレーションの興味深い点は、リアルタイムデータが SubVis[によってメンテナンスされている](https://explorer.subquery.network/subquery/subvis-io/kusama-auction)プロジェクトに実際に SubQuery から送信され、DotMarketCapによって再度ピックアップされたことです。 SubQueryにとって、これはエクスプローラでデータのオープンなコミュニティマーケットプレイスを構築するという私たちの目標の実現です。 それはまたどのように共生する Polkadot エコシステムであり、どのようにチームが協力して分散型の未来の共有目標を達成するかを示しています。 
 
 [すべてのプロジェクトはこちら](https://explorer.subquery.network/) から簡単に閲覧できます。
 

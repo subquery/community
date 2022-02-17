@@ -4,9 +4,7 @@
 
 コミュニティが大きくなるにつれて、私たちは毎日何百もの展開と、ホストされたサービスへの指数関数的に多くのトラフィックを見ています。 SubQueryのチームは、しかしながら、この課題に立ち向かっており、お客様による当社のツールに対する前例のない需要に応えるために、サービスを拡大しています。 私たちの  [ホスト型サービス](https://projects.subquery.network/)  を無料に保ちながら。
 
-現在、多くのお客様は、本番アプリケーションにミッションクリティカルなデータを提供するために SubQuery を利用しています。 これらの顧客は、最大のウォレット([Nova](https://novawallet.io/)と[Fearless](https://fearlesswallet.io/))、スキャナー([Subscan](https://www.subscan.io/)、[SubVis](https://www.subvis.io/)、[DotMarketCap](https://dotmarketcap.com/))、NFTプラットフォーム([Kodadot](https://kodadot.xyz/)と
-
-Y これらは、ポルカドットコミュニティが日常的に使用する巨大なアプリケーションであり、常にオンラインでなければなりません。</p> 
+現在、多くのお客様は、本番アプリケーションにミッションクリティカルなデータを提供するために SubQuery を利用しています。 これらの顧客は、最大のウォレット([Nova](https://novawallet.io/)と[Fearless](https://fearlesswallet.io/))、スキャナー([Subscan](https://www.subscan.io/)、[SubVis](https://www.subvis.io/)、[DotMarketCap](https://dotmarketcap.com/))、NFTプラットフォーム([Kodadot](https://kodadot.xyz/)と Y これらは、ポルカドットコミュニティが日常的に使用する巨大なアプリケーションであり、常にオンラインでなければなりません。 
 
 私たちのホストされたサービスのパフォーマンスと信頼性は、SubQueryでしばらくの間、私たちの優先順位リストの上位にありました。 私たちの姉妹チームはOnFinalityです。Polkadotの最大のインフラプロバイダーであるため、この分野でたくさんの経験があります。 その結果、今日はSubQueryを最も信頼性の高いものにするための最近の3つの改善について説明します。 スケーラブルでパフォーマンスの高いデータ プラットフォーム in Polkadot
 

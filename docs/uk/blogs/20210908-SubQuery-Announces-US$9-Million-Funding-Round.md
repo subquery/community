@@ -8,11 +8,7 @@ SubQuery оголошує раунд фінансування у розмірі 
 
 SubQuery має на меті покращити доступ до децентралізованих даних блокчейну, створивши жвавий ринок для індексації та надання ресурсів. Його технологія надає розробникам Polkadot та Kusama інструменти, необхідні для легкого дослідження, перетворення та аналізу даних у мережі. Абстрагуючи бекенд, SubQuery усуває необхідність у користувацьких серверах обробки даних. Це дозволяє розробникам зосередитися на розробці продукту та користувацькому досвіді, а не на створенні власних систем запитів.
 
-Цей стратегічний раунд очолювали [ Arrington Capital ](https://arringtonxrpcapital.com/), [ DCG ](https://dcg.co/) та [ Stratos Technologies ](https://www.stratoslp.com/), і він включав участь [ Hypersphere Ventures ](https://hypersphere.ventures/), [ Neo Global Capital (NGC) ](http://ngc.fund/), [ Wintermute ](https://www.wintermute.com/) та [ Skynet Trading ](http://skynettrading.com/). Це продовження з першого раунду на початку 2021 року, який включав [ Альянс DeFi ](https://defialliance.co/), [ LAO ](https://www.thelao.io/), [ Цифрове Відродження ](https://drf.ee/),
-
- P2P Capital </ 3> та [ Web3 Capital ](https://web3.capital/).</p> 
-
-
+Цей стратегічний раунд очолювали [ Arrington Capital ](https://arringtonxrpcapital.com/), [ DCG ](https://dcg.co/) та [ Stratos Technologies ](https://www.stratoslp.com/), і він включав участь [ Hypersphere Ventures ](https://hypersphere.ventures/), [ Neo Global Capital (NGC) ](http://ngc.fund/), [ Wintermute ](https://www.wintermute.com/) та [ Skynet Trading ](http://skynettrading.com/). Це продовження з першого раунду на початку 2021 року, який включав [ Альянс DeFi ](https://defialliance.co/), [ LAO ](https://www.thelao.io/), [ Цифрове Відродження ](https://drf.ee/), [P2P Capital](https://www.p2pcap.com/) та [ Web3 Capital ](https://web3.capital/).
 
 > * "Ми - ранні інвестори таких парачейн, як Moonbeam та Acala, і хочемо, щоб команди в цих екосистемах змогли зосередитися на своїх основних продуктах. SubQuery полегшує створення та розробку. Він масштабується до всіх парачейн і може спровокувати наступний бум активності на Polkadot та Кусама "*-Нінор Мансор, партнер компанії Arrington Capital
 
