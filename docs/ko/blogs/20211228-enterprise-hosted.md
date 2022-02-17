@@ -4,7 +4,7 @@
 
 커뮤니티가 커짐에 따라 매일 수백 개의 배포가 발생하고 호스팅 서비스에 대한 트래픽이 기하급수적으로 증가하고 있습니다. 그러나 SubQuery의 팀은 이 문제에 대처하고 있으며 [호스팅 서비스](https://projects.subquery.network/)를 무료로 유지하면서 고객의 전례 없는 도구 수요를 충족하기 위해 서비스를 확장하고 있습니다.
 
-많은 고객이 이제 SubQuery를 사용하여 프로덕션 앱에 미션 크리티컬 데이터를 제공합니다. 이러한 고객은 가장 큰 지갑([Nova](https://novawallet.io/) 및 [Fearless](https://fearlesswallet.io/)), 스캐너([Subscan](https://www.subscan.io/), [SubVis](https://www.subvis.io/) 및 [DotMarketCap](https://dotmarketcap.com/)), NFT 플랫폼([Kodadot](https://kodadot.xyz/) 및 [Yuuser](https://yuser.co/)) 등을 대표합니다. 이것들은 Polkadot 커뮤니티가 매일 사용하는 거대한 응용 프로그램이며 항상 온라인 상태여야 합니다.
+많은 고객이 이제 SubQuery를 사용하여 프로덕션 앱에 미션 크리티컬 데이터를 제공합니다. These customers represent some of the largest wallets ([Nova](https://novawallet.io/) and  [Fearless](https://fearlesswallet.io/)), scanners ([Subscan](https://www.subscan.io/), [SubVis](https://www.subvis.io/), and [DotMarketCap](https://dotmarketcap.com/)), NFT platforms ([Kodadot](https://kodadot.xyz/) and [Yuser](https://yuser.co/)), and more. 이것들은 Polkadot 커뮤니티가 매일 사용하는 거대한 응용 프로그램이며 항상 온라인 상태여야 합니다.
 
 우리가 호스팅하는 서비스의 성능과 안정성은 여기 SubQuery에서 한동안 최우선 순위 목록에 있었습니다. 자매 팀은 Polkadot의 가장 큰 인프라 제공업체인 OnFinality이므로 이 분야에서 풍부한 경험을 보유하고 있습니다. 그 결과, 오늘 우리는 SubQuery를 Polkadot에서 가장 안정적이고 확장 가능하며 성능이 뛰어난 데이터 플랫폼으로 만드는 세 가지 최신 개선 사항을 살펴보겠습니다.
 
