@@ -22,9 +22,9 @@ Fearless Wallet is using [SubQuery Projects](https://project.subquery.network/) 
 
 > “SubQuery is all about harnessing data from the blockchain and making it easier to build apps that encourage participation by the everyday user. We are proud to be working with Fearless Wallet to provide their users with a rich experience and grow with them as they explode into the Polkadot ecosystem” -James Bayly, Head of Business Development — SubQuery
 
-## About SubQuery
+## เกี่ยวกับ SubQuery
 
-[SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications (DApps). Currently focused on Polkadot and Substrate projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+[SubQuery](https://subquery.network/) คือเลเยอร์การรวบรวม, จัดทำดัชนีและสืบค้น (query) ข้อมูล แบบกระจายศูนย์ ระหว่างเลเยอร์ 1 ของบล็อกเชนและแอปพลิเคชันที่กระจายศูนย์ (DApp) ปัจจุบันมุ่งเน้นไปที่โปรเจกต์ Polkadot และ Substrate ซึ่งบริการข้อมูลนี้ช่วยให้นักพัฒนาสามารถโฟกัสไปที่การใช้งานหลัก (core use case) และระบบหน้าบ้าน (front-end) โดยไม่ต้องเสียเวลาไปกับการออกแบบระบบหลังบ้าน (back-end) เอง เพื่อใช้ประมวลผลข้อมูล
 
 [Website](https://subquery.network/) | [Email](hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Youtube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
 
