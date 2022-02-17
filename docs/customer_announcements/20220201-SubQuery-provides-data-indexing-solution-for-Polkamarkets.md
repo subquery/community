@@ -1,6 +1,6 @@
-![](https://miro.medium.com/max/1400/0*KRx5x-Oaz7mfHPuJ)
-
 # SubQuery provides data indexing solution for Polkamarkets
+
+![](https://miro.medium.com/max/1400/0*KRx5x-Oaz7mfHPuJ)
 
 Today we are pleased to announce our partnership between Polkamarkets and SubQuery Network. Polkamarkets is a blockchain protocol that has combined DeFi and prediction markets where traders can leverage their knowledge of the past, present and future to forecast specific, real world outcomes . Polkamarkets is leveraging SubQuery’s data indexing expertise to augment the protocol’s data handling capabilities.
 

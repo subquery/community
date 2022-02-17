@@ -1,6 +1,6 @@
-![](https://miro.medium.com/max/700/0*guA8YHyJPhu0wmzf)
-
 # SubQuery Releases Updated Whitepaper
+
+![](https://miro.medium.com/max/700/0*guA8YHyJPhu0wmzf)
 
 _An updated plan for how SubQuery will revolutionise the future of web3 infrastructure_
 
