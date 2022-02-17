@@ -6,6 +6,8 @@ _An updated plan for how SubQuery will revolutionise the future of web3 infrastr
 
 After a long period of design, discussion, testing, and development, today we are releasing a new and significantly [updated version of our Whitepaper](https://static.subquery.network/whitepaper.pdf). Originally published back in June 2021, the SubQuery Whitepaper is a document that outlines our strategic framework for the decentralised SubQuery Network and her SQT token. Since the original publication, we have experienced significant growth in our customer base and community and made huge progress on building the SubQuery Network. From these sources, we have been inspired to improve and innovate, and that culminates in the latest version of our whitepaper.
 
+<iframe width="1719" height="976" src="https://www.youtube.com/embed/Ghxyw5bIHs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 This whitepaper outlines SubQuery’s plans to move towards a globally decentralised network of participants organising blockchain data in order to ensure no single point of failure for SubQuery. It is expected that this will massively increase SubQuery’s uptime, provide better redundancy, and increase performance by driving down latency. It is envisioned that applications will be able to use GraphQL to query any store of data (as defined by the SubQuery Project) from Indexers around the network.
 
 ![](https://miro.medium.com/max/700/0*xtd6e7mn7JkfhpzG)
@@ -14,7 +16,7 @@ This whitepaper outlines SubQuery’s plans to move towards a globally decentral
 
 The [updated whitepaper](https://static.subquery.network/whitepaper.pdf) maintains SubQuery’s conviction that the data services of tomorrow must be multi-chain, simple, and flexible. The whitepaper goes into detail on how the SubQuery Network factors these considerations into the token economic design while also enabling power users to run enterprise-level services on it.
 
-#### Multi-chain by Design
+### Multi-chain by Design
 
 _SubQuery believes in the idea that a community of blockchains, working together to encourage web3 adoption, is the future_
 
@@ -22,7 +24,7 @@ SubQuery is native to the Polkadot ecosystem, it’s our home and will be the lo
 
 The SubQuery Network is designed to support any SubQuery Project from any Layer 1 network (within Polkadot or not). It will be designed and built to be multi-chain from the outset, where you will see projects from one network being indexed alongside projects from another.
 
-#### Simple and Accessible
+### Simple and Accessible
 
 _The SubQuery Network is designed to be the data provider of the people._
 
@@ -32,7 +34,7 @@ SubQuery won’t require high staking thresholds to participate or huge investme
 
 This means that a design goal is to make it as easy as possible for anyone to participate. You don’t need to be a developer or have a deep knowledge of the token economic model, you can easily participate as a Delegator. As a Consumer, you also have plenty of payment options to best suit your needs. Finally, a key focus of the SubQuery Foundation is to ensure that there is enough support that anyone, from an expert blockchain team to a new hobbyist developer, can build their own SubQuery project.
 
-#### Flexible
+### Flexible
 
 _SubQuery is just a tool in the hands of our community, endless opportunities exist limited only by the creativity of the people._
 
@@ -48,22 +50,22 @@ As a result, SubQuery plans to introduce three ways to pay within the SubQuery N
 
 ![](https://miro.medium.com/max/700/0*f0yVHlbWTE8DdjuB)
 
-#### Pay-As-You-Go (PAYG)
+### Pay-As-You-Go (PAYG)
 
 The first, and a standard amongst the web3 industry, is Pay-As-You-Go. This is the baseline payment method and a fallback for others. Each Indexer will advertise their PAYG prices when registering their ability to serve requests for specific SubQuery Projects.
 
-#### Closed Plans and Agreements
+### Closed Plans and Agreements
 
 Closed Agreements represent an agreement between only one Indexer and one Consumer. It’s a direct relationship where all payment flows between the two parties for the work that is done. Closed Agreements are designed to give Indexers confidence that there is a market for data from a particular SubQuery Project, and essentially signal to them which Projects should be indexed.
 Closed Plans can also be placed on existing SubQuery Projects to attract additional Indexers to that SubQuery Project. This may be useful in situations where the existing monopolistic Indexer may be charging an unreasonable amount for the data or there is a lack of competition to drive prices to equilibrium.
 
-#### Open Plans and Agreements
+### Open Plans and Agreements
 
 Open Agreements are similar to Closed Agreements, but allow multiple Indexers to join and compete to provide data to the Consumer. An Open Agreement may start as an Agreement between one Consumer and one Indexer, but more parties may join the existing Agreement resulting in ’n’ Indexers and ’n’ Consumers.
 
 Open Agreements provide favourable terms for both Indexers and Consumers, but enable better performance and reliability for Consumers by attracting more Indexers to compete and serve the same data. If Consumers are running large scale applications with users around the world, then Open Agreements are ideal.
 
-![](https://miro.medium.com/max/700/0*sc9-ee7VTl0XEhTS)
+![](https://miro.medium.com/max/1400/0*sc9-ee7VTl0XEhTS)
 
 he combination of the above three payment options for indexers provide several advanced subscription based options for Consumers and Indexers. Some parties may benefit from the certainty of rewards provided by Closed Agreements and the predictability of recurring costs. Equally, others may instead prefer to hunt out the most affordable data by going for high volume recurring agreements or low spot prices on the Pay-as-you-Go market.
 
