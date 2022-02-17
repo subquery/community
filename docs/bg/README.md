@@ -1,42 +1,42 @@
-# SubQuery Blogs & Community Content
+# SubQuery Блогове & Съдържание на общността
 
-SubQuery is here to help you transform and query the world’s data for a web3.0 future.
+SubQuery е тук, за да ви помогне да трансформирате и обработвате световните данни за бъдещето на Web3.0.
 
-This is the global repository of all community blogs, announcements, articles, and videos from SubQuery.
+Това е глобалното хранилище на всички блогове на общността, съобщения, статии и видеоклипове от SubQuery.
 
-**Read in your own language! You can change your language using the selector on the top right of all pages.**
+**Четете на собствения си език! Можете да промените езика си с помощта на селектора в горния десен ъгъл на всички страници.**
 
 ## We need help translating!
 
-We understand that one of our biggest strengths is our community, and with your help, we want to grow and establish local ambassadors to help translate our material for communities around the world.
+Разбираме, че една от най-големите ни сили е нашата общност, и с ваша помощ искаме да се развиваме и да създаваме местни посланици, които да помагат за превеждането на нашите материали за общностите по целия свят.
 
-[Join our Ambassador Program](https://doc.subquery.network/miscellaneous/ambassadors.html)
+[Присъединете се към нашата програма за посланици](https://doc.subquery.network/miscellaneous/ambassadors.html)
 
-## Social Media Links
+## Връзки към социалните медии
 
-SubQuery is an active project that maintains and communicates with our followers through many social media channels.
+SubQuery е активен проект, който поддържа и комуникира с нашите последователи чрез много канали в социалните медии.
 
-It is our aim to always listen and engage with our loyal community so please join the conversation and send us your ideas or questions!
+Нашата цел е винаги да слушаме и да се ангажираме с нашата лоялна общност, така че, моля, включете се в разговора и ни изпратете вашите идеи или въпроси!
 
-### Official SubQuery Communities
+### Официални общности на SubQuery
 
 - [Linktree](https://linktr.ee/subquerynetwork)
-- [Discord](https://discord.com/invite/subquery) (Primary Community with dedicated technical support channels)
-- [Medium](https://subquery.medium.com) (Primary announcements channel)
+- [Discord](https://discord.com/invite/subquery) (Първична общност със специални канали за техническа поддръжка)
+- [Medium](https://subquery.medium.com) (Канал за първични съобщения)
 - [Twitter](https://twitter.com/subquerynetwork)
-- [Telegram](https://t.me/subquerynetwork) (Announcements channel only)
+- [Telegram](https://t.me/subquerynetwork) (Само канал за анонси)
 - [GitHub](https://github.com/SubQuery/subql)
 - [Matrix/Riot](https://matrix.to/#/#subquery:matrix.org)
 - [LinkedIn](https://www.linkedin.com/company/subquery)
 
-### Unofficial SubQuery Communities
+### Неофициални общности на SubQuery
 
-These communities are not moderated by the SubQuery team, but our ambassadors may be there to provide support. Please be careful of scams as SubQuery is **not** responsible for what happens within them.
+Тези общности не се модерират от екипа на SubQuery, но нашите посланици могат да окажат подкрепа. Моля, внимавайте с измамите, тъй като SubQuery **не** носи отговорност за това, което се случва в тях.
 
-- [Telegram (Chinese)](https://t.me/subquerychina)
-- [Telegram (Russian)](https://t.me/SubQuery_russia)
-- [Telegram (Spanish)](https://t.me/SubQueryES)
-- [Telegram (Thai)](https://t.me/subquerynetworkthai)
-- [Telegram (Turkish)](https://t.me/subquery_TR)
-- [Telegram (Vietnamese)](https://t.me/subqueryvietnam)
-- [Telegram (Vietnamese Announcement)](https://t.me/subqueryannvn)
+- [Telegram (Китайски)](https://t.me/subquerychina)
+- [Telegram (Руски)](https://t.me/SubQuery_russia)
+- [Telegram (Испански)](https://t.me/SubQueryES)
+- [Telegram (Тайландски)](https://t.me/subquerynetworkthai)
+- [Telegram (Турски)](https://t.me/subquery_TR)
+- [Telegram (Виетнамски)](https://t.me/subqueryvietnam)
+- [Telegram (Виетнамска обява)](https://t.me/subqueryannvn)

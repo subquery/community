@@ -1,74 +1,74 @@
-# Red de SubQuery - Resumen
+# SubQuery Network - Summary
 
-> How does the SubQuery Network work? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.) [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
+> How does the SubQuery Network work? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
 
-Hoy vamos a hablar de cómo funciona SubQuery Network en un nivel alto.
+Today we’re going to talk about how the SubQuery Network works at a high level.
 
-## Participantes
+## Participants
 
 
 ![](https://miro.medium.com/max/1400/1*9993cakplwupZC5tbUv3vA.png)
 
-Participantes en la Red de SubQuery
+Participants in the SubQuery Network
 
-Hay tres tipos de participantes en la red de SubQuery:
+There are three types of participants in the SubQuery Network:
 
--   **Consumidores**: Los consumidores harán solicitudes a la red de SubQuery para datos específicos y pagarán una cantidad anunciada de SQT
--   **Indexadores**: Los indexadores alojarán los proyectos de SubQuery en su propia infraestructura, ejecutando tanto el nodo como el servicio de consultas para indexar datos y responder solicitudes GraphQL.
--   **Delegators**: Los delegadores participarán en la red apoyando a sus Indexadores favoritos para ganar recompensas
+-   **Consumers**: Consumers will make requests to the SubQuery Network for specific data and pay an advertised amount of SQT
+-   **Indexers**: Indexers will host SubQuery Projects in their own infrastructure, running both the node and query service to index data and answer GraphQL requests.
+-   **Delegators**: Delegators will participate in the network by supporting their favourite Indexers to earn rewards
 
-## Indexadores, Consumidores y Consultas
+## Indexers, Consumers, and Queries
 
-Empecemos por los Indexers, Indexadores hace mucho trabajo detrás de las escenas. El hardware de gestión, ejecutar infraestructura, supervisar recursos y elegir los proyectos de SubQuery correctos para indexar
+Let’s start with Indexers, Indexers do a lot of the hard work behind the scenes. The manage hardware, run infrastructure, monitor resources, and choose the right SubQuery projects to index
 
-Esto lleva tiempo y dinero, pero una vez que lo tienen, los consumidores pueden venir a hacer peticiones. Los consumidores harán peticiones a la red de SubQuery para datos específicos y pagarán una cantidad anunciada de nuestro token, SQT.
+This takes time and money, but once they have this, Consumers may come and make requests. Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
 
 ![](https://miro.medium.com/max/1400/1*dKLkzSc2uXYaPW_IXUxstQ.png)
 
-Los consumidores harán peticiones a la red de SubQuery para datos específicos y pagarán una cantidad anunciada de nuestro token, SQT.
+Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
 
-## Función de Producción Cobb-Douglas
+## Cobb-Douglas Production Function
 
-Este pago va en un grupo de ingresos del proyecto y al final de una era de apuestas, (28 días) tomamos este grupo de ingresos del proyecto y lo dividimos. Es escupido a través de los indexadores por algo llamado la función de producción Cobb-Douglas.
+This payment goes into a project revenue pool and at the end of a staking era (28 days) we take this project revenue pool and split it. It’s spit across indexers by something called the Cobb-Douglas production function.
 
 ![](https://miro.medium.com/max/1400/1*E-W7o7cWoclxHb8rXAMdpA.png)
 
-Es escupido a través de los indexadores por algo llamado la función de producción Cobb-Douglas.
+It’s spit across indexers by something called the Cobb-Douglas production function.
 
-Este enfoque, en términos sencillos, significa que los ingresos se asignan a los Indexadores Compientes como proporción de las solicitudes respondidas y de la cantidad que se apuestan.
+This approach, in simple terms, means that revenue is allocated to competing Indexers as a proportion of both requests answered and amount staked.
 
 ![](https://miro.medium.com/max/1400/1*VhDu2BGDxd3ob7z9XkoOXA.png)
 
-Los ingresos se asignan a los Indexadores Compientes como proporción de las solicitudes respondidas y de la cantidad apostada.
+Revenue is allocated to competing Indexers as a proportion of both requests answered and amount staked.
 
-En nuestra opinión, la belleza de esta ecuación es que un indexador racional debe mantener un alto nivel de SQT apostado en relación con el trabajo que hacen para recibir ingresos óptimos. Como resultado, no necesitamos hacer cumplir los requisitos arbitrarios de apuesta, porque los Indexadores son incentivados para autogestionar y mantener una apuesta o una piel en el juego.
+In our view, the beauty of this equation is that a rational Indexer must maintain a high level of staked SQT relative to the work they do in order to receive optimal revenue. As a result, we do not need to enforce arbitrary staking requirements because Indexers are incentivised to self-manage and maintain a stake or skin in the game.
 
-## Delegadores
+## Delegators
 
-De modo que los Indexadores son incentivados tanto a hacer el mayor trabajo posible como a apostar lo más posible para maximizar sus recompensas. Aquí es donde entran los delegados.
+So Indexers are incentivised to both do as much work as possible, and to stake as much as possible to maximise their rewards. This is where delegators come in.
 
-Delegators puede delegar su SQT de repuesto a los indexadores, cada indexador puede publicar una _tarifa de consulta tasa de participación _, y esos delegados serán recompensados con una porción de los ingresos de las tasas de consulta en los que el indexador será recompensado.
+Delegators can delegate their spare SQT to Indexers, each Indexer can publish a _query fee revenue share rate_, and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in.
 
 ![](https://miro.medium.com/max/1400/1*YoN7PV7h3a2nAFN-ODqILg.png)
 
-Los delegadores pueden delegar su SQT reservado a los Indexadores y esos delegados serán recompensados con una porción de los ingresos de las tasas de consulta en los que el indexador sea recompensado
+Delegators can delegate their spare SQT to Indexers and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in
 
-La _tasa de intercambio de ingresos de comisión de consulta_ que anuncian los indexadores está bloqueada por cada 28 días de la era de apuesta, y una disminución de la misma debe ser anunciada durante toda una era de 28 días de apuesta, antes de entrar en vigencia.
+The _query fee revenue share rate_ that indexers advertise is locked for each 28 day staking era, and a decrease to it must be advertised for an entire 28 day staking era before coming into force.
 
-Del mismo modo, los delegados pueden retirar las cantidades de su delegación en cualquier momento, pero sólo recibirán recompensas cuando hayan delegado durante toda la era de apuestas.
+Similarly, delegators can remove their delegation amounts at any point, but they will only receive rewards when they have delegated for the entire staking era.
 
 ![](https://miro.medium.com/max/1400/0*we0k4A07pbj86COZ)
 
-Los delegadores solo recibirán recompensas cuando hayan delegado durante toda la era de apuestas,
+Delegators will only receive rewards when they have delegated for the entire staking era
 
-## Ordenes de Compra
+## Purchase Orders
 
-Indexar un proyecto lleva tiempo y dinero, hay muchos datos en la cadena. Para alentar a los Indexadores a indexar y soportar un proyecto de SubQuery completamente nuevo, planea implementar un mecanismo de mercado para que los consumidores indiquen ingresos garantizados a los Indexadores de nuevos Proyectos de Subconsulta.
+Indexing a project takes time and money, there’s a lot of data on the chain. In order to encourage Indexers to index and support an entirely new SubQuery Project, we plan to implement a market mechanism for Consumers to signal guaranteed revenue to Indexers of new SubQuery Projects.
 
-Les llamamos órdenes de compra, y los consumidores pueden anunciar un contrato en cadena por un precio determinado y número de solicitudes. Los indexadores pueden ver esto y elegir llenar los contratos.
+We’re calling them purchase orders, and Consumers can advertise a contract on chain for a set price and number of requests. Indexers can view this and choose to fill the contracts.
 
 ![](https://miro.medium.com/max/1400/1*IPtaZlt24E7h9bKNZWdSCw.png)
 
-Los consumidores pueden anunciar una orden de compra en cadena por un precio determinado y número de solicitudes.
+Consumers can advertise a purchase order on chain for a set price and number of requests.
 
-Las órdenes de compra también se pueden realizar en los proyectos de SubQuery existentes para atraer Indexadores adicionales para mejorar la competencia y bajar los precios
+Purchase orders can also be placed on existing SubQuery Projects to attract additional Indexers to improve competition and decrease prices

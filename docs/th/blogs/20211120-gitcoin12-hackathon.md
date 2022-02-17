@@ -16,7 +16,7 @@
 -   [สร้าง Marketplace explorer สำหรับ NFT ที่ใช้โปรโตคอล RMRK ทั้งหมด](https://gitcoin.co/issue/subquery/grants/4) — 2,000 ดอลลาร์สหรัฐ
 -   [ขยายบริการ @subql/node เพื่อสร้างดัชนีข้อมูลจากเครือข่าย layer 1 อื่นๆ](https://gitcoin.co/issue/subquery/grants/5)  — 12,000 ดอลลาร์สหรัฐ
 
-[Sam Zou](https://twitter.com/zoujialiu), CEO และผู้ก่อตั้ง SubQuery ให้ความเห็นว่า  _“SubQuery มีความภาคภูมิใจที่ได้เป็นพันธมิตรกับ  Gitcoin GR12 Hackathon เพื่อสร้างอนาคตของ Web3.0 ในฐานะผู้ให้บริการจัดทำดัชนีข้อมูล (data indexer) ชั้นนำในระบบนิเวศ Polkadot เราเชื่อมั่นอย่างยิ่งว่า การสร้างเครื่องมือที่ช่วยให้นักพัฒนา dApp สามารถมุ่งเน้นไปที่ front-end ของตนได้ ดังนั้นพวกเขาจึงไม่ต้องเสียเวลาไปกับการสร้างเซิร์ฟเวอร์ที่กำหนดเองสำหรับการประมวลผลข้อมูล เงินรางวัลที่เราได้เตรียมมากขึ้นนั้นบ่งบอกถึงความต้องการของเราที่มอบโอกาสแก่ผู้สำเร็จการศึกษาจาก "‘Hero Course" และความท้าทายขั้นสูงสำหรับนักพัฒนาที่มีประสบการณ์”_
+[Sam Zou](https://twitter.com/zoujialiu), CEO และผู้ก่อตั้ง SubQuery ให้ความเห็นว่า  _“SubQuery มีความภาคภูมิใจที่ได้เป็นพันธมิตรกับ  Gitcoin GR12 Hackathon เพื่อสร้างอนาคตของ Web3.0 ในฐานะผู้ให้บริการจัดทำดัชนีข้อมูล (data indexer) ชั้นนำในระบบนิเวศของ Polkadot เราเชื่อมั่นอย่างยิ่งว่า การสร้างเครื่องมือที่ช่วยให้นักพัฒนา dApp สามารถมุ่งเน้นไปที่ front-end ของตนได้ ดังนั้นพวกเขาจึงไม่ต้องเสียเวลาไปกับการสร้างเซิร์ฟเวอร์ที่กำหนดเองสำหรับการประมวลผลข้อมูล เงินรางวัลที่เราได้เตรียมมากขึ้นนั้นบ่งบอกถึงความต้องการของเราที่มอบโอกาสแก่ผู้สำเร็จการศึกษาจาก "‘Hero Course" และความท้าทายขั้นสูงสำหรับนักพัฒนาที่มีประสบการณ์”_
 
 ในส่วนหนึ่งของ GR 12 Hackathon, SubQuery จะจัดเวิร์กช็อปในระดับเริ่มต้นและระดับสูงเพื่อช่วยให้นักพัฒนาซอฟต์แวร์คุ้นเคยกับแพลตฟอร์มของเรา ในระหว่างนี้ คุณสามารถ [เรียนรู้วิธีสร้างแอปพลิเคชันเกี่ยวกับ SubQuery ผ่าน SubQuery Academy](https://subquery.coassemble.com/unlock/dOKZW6O#/) หากคุณสนใจที่จะเข้าร่วม คุณสามารถ [เข้าร่วมหน้าการเริ่มต้นใช้งานที่นี่](https://gitcoin.co/hackathon/gr12/onboard), ในขณะที่งาน Hackathon จะเริ่มในวันที่ 1 ธันวาคม โดยมีรายละเอียดที่แน่นอนเร็วๆ นี้
 
@@ -26,10 +26,10 @@
 
 [Gitcoin](http://www.gitcoin.co/) มีเป้าหมายในการสร้างอินเทอร์เน็ตที่เป็นโอเพ่นซอร์ส ทำงานร่วมกัน และเสริมศักยภาพทางเศรษฐกิจ Gitcoin กำลังสร้างชุมชนและโครงสร้างพื้นฐาน (infrastructure) สำหรับ Web 3 — เครื่องมือ เทคโนโลยี และเครือข่ายที่หลากหลายที่ช่วยให้ผู้คนสามารถทำงานบนอินเทอร์เน็ตแบบเปิดได้ (open internet) ด้วยการให้ทุนสนับสนุนโปรเจ็กต์ การสร้างชุมชน และการทำให้ทรัพยากรการเรียนรู้สามารถเข้าถึงได้ง่าย Gitcoin ได้ร่วมมือกันสร้างโครงสร้างพื้นฐานสาธารณะดิจิทัล (digital public infrastructure) แห่งอนาคต
 
-[ดิสคอร์ด](https://discord.gg/6PZUM3cFpz)  | [เว็ปไซต์](http://www.gitcoin.co/)  |  [ทวิตเตอร์](https://twitter.com/gitcoin)  |  [GitHub](https://github.com/gitcoinco/)  |
+[Discord](https://discord.gg/6PZUM3cFpz)  | [Website](http://www.gitcoin.co/)  |  [Twitter](https://twitter.com/gitcoin)  |  [GitHub](https://github.com/gitcoinco/)  |
 
 ## เกี่ยวกับ SubQuery
 
 [SubQuery](https://subquery.network/) คือการรวมข้อมูลที่กระจายอำนาจ การจัดทำดัชนี & การค้นหาเลเยอร์ระหว่างบล็อคเชนของ Layer-1 และแอปพลิเคชันที่กระจายอำนาจ โปรโตคอล SubQuery จะจัดเรียงข้อมูลบล็อคเชนที่ไม่มีความเป็นระเบียบด้วย SDK ของ SubQuery ทำให้เหล่านักพัฒนาสามารถโฟกัสไปกับการปรับใช้ผลิตภัณฑ์หลักของตนเอง โดยไม่ต้องเสียแรงไปกับการใช้เทคโนโลยีหลังบ้าน (backend) โดยไม่จำเป็น
 
-[Linktree](https://linktr.ee/subquerynetwork)  |  [เว็ปไซต์](https://subquery.network/)  |  [ดิสคอร์ด](https://discord.com/invite/78zg8aBSMG)  |  [เทเลแกรม](https://t.me/subquerynetwork)  |  [ทวิตเตอร์](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [ยูทูป](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+​​[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)

@@ -25,7 +25,7 @@
 
 ![](https://miro.medium.com/max/1400/1*dKLkzSc2uXYaPW_IXUxstQ.png)
 
-Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
+Потребителите правят заявки към мрежата SubQuery за конкретни данни и заплащат обявена сума от нашия токен, SQT.
 
 ## Производствената Функция на Коб-Дъглас
 

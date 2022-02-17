@@ -45,6 +45,6 @@ SubQueryエクスプローラは簡単に開始できます。 SubQueryプロジ
 -   [Telegram](https://t.me/subquerynetwork)
 -   [Twitter](https://twitter.com/subquerynetwork)
 -   [マトリックス](https://matrix.to/#/#subquery:matrix.org)
--   [LinkedIn](https://www.linkedin.com/company/subquery)
+-   [LinkedIn](https://www.linkedin.com/company/subQuery)
 
 ![](https://miro.medium.com/max/1400/0*tzhwpKRunR7AqFhr)

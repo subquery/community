@@ -1,69 +1,69 @@
-# Ноябрьское техническое обновление SubQuery: обновления EVM и манифеста
+# SubQuery November Technical Update: EVM and Manifest Updates
 
 ![](https://miro.medium.com/max/1400/1*q9GErDrvAyacOPm97krV6Q.png)
 
-**Узнайте больше о нашем глубоком техническом погружении в последнюю версию SubQuery**
+**Read more for our technical deep dive into the latest release of SubQuery**
 
-# Поддержка файлов типа внешней цепочки в манифесте проекта
+# Support for External Chain Type Files in Project Manifest
 
-Сегодня запускается [ версия 0.2.0 ](https://doc.subquery.network/create/manifest/) файла манифеста нашего проекта (` project.yaml `). Эта новая версия предоставляет разработчикам различные улучшения, запрошенные клиентами.
+Today is the launch of [version 0.2.0](https://doc.subquery.network/create/manifest/) of our project manifest file (`project.yaml`). This new version provides developers with various improvements that have been requested by customers.
 
-Что наиболее важно, теперь вы можете ссылаться на файл определения типа цепочки, в который включены все пользовательские типы, когда вы индексируете цепочку пользовательских подложек. Это позволяет быстро подключить новый проект SubQuery к любой цепочке на основе субстрата, включая все парачейны Кусамы. Это должен быть файл стандартного типа цепочки, который объявляет определенные типы, поддерживаемые этой цепочкой блоков, в формате `.json ` или `.yaml `.
+Most importantly, you can now reference a chain type definition file that has all the custom types included when you’re indexing a custom substrate chain. This quickly allows you to connect a new SubQuery project to any substrate based chain, including all of Kusama’s parachains. This should be a standard chain type file that declares the specific types supported by this blockchain in either `.json` or `.yaml` format.
 
-Это решение позволяет избежать копирования и управления определениями типов цепочек в самом манифесте и позволяет просто клонировать [ опубликованные файлы типов цепочек, перечисленные в репозиториях, таких как PolkadotJS ](https://github.com/polkadot-js/apps/tree/master/packages/apps-config/src/api/spec).
+This solution allows you to avoid copying and managing chain type definitions in the manifest itself, and allows you to just clone the [published chain type files listed in repositories like PolkadotJS](https://github.com/polkadot-js/apps/tree/master/packages/apps-config/src/api/spec).
 
-[Вы можете прочитать о новом файле манифеста, в том числе о том, как перенести в него свои проекты, здесь, в наших обновленных документах.](https://doc.subquery.network/create/manifest/)
+[You can read about the new manifest file, including how you can migrate your projects to it, here in our updated docs.](https://doc.subquery.network/create/manifest/)
 
-# Поддержка Moonbeam EVM
+# Moonbeam EVM Support
 
-На прошлой неделе мы были рады [ объявить, что работаем с Moonbeam, чтобы обеспечить полную поддержку индексации EVM и субстратов для Moonriver ](https://subquery.medium.com/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff).
+Last week we were pleased to [announce that we were working with Moonbeam to bring complete EVM and Substrate indexing support to Moonriver](https://subquery.medium.com/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff).
 
-Сегодня мы дополняем это объявление всеми ресурсами для разработчиков, которые вам понадобятся для начала работы.
+Today we are following up on that announcement with all the developer resources that you need to get started.
 
-В настоящее время не существует инструмента с открытым исходным кодом, который позволяет разработчикам гибко собирать и запрашивать данные как в Ethereum, так и в Polkadot / Kusama. Это ограничение может привести к тому, что решения dApps в Moonriver будут изолированы на уровне смарт-контрактов и тем самым ограничить их потенциал для потребителей в обеих процветающих сетях. Это партнерство с Moonbeam предоставляет полное и унифицированное решение для индексации всех данных блокчейна в Moonriver.
+Currently, there is no open-source tool which allows developers to flexibly collect and query data across both Ethereum and Polkadot/Kusama. This limitation can cause dApps solutions within Moonriver to be siloed into the smart contract layer and thereby limit their potential to consumers across both thriving networks. This partnership with Moonbeam brings a complete and unified data indexing solution for all blockchain data within Moonriver and will greatly benefit Moonriver’s growing application ecosystem.
 
-** SubQuery будет гостем на следующем семинаре Moonbuilders Workshop в среду, 1 декабря, ** [** зарегистрируйтесь здесь **](https://www.crowdcast.io/e/moonbuilders-ws/10) **. **
+**SubQuery is going to be a guest on the next Moonbuilders Workshop on Wednesday December 1st,** [**register for it here**](https://www.crowdcast.io/e/moonbuilders-ws/10)**.**
 
 ![](https://miro.medium.com/max/600/1*AET6Ek_PqFDRoc29Jiitnw.gif)
 
-[ Во-первых, ознакомьтесь с обновленной документацией о том, как подключиться и индексировать данные из Moonbeam, Moonbase Alpha и Moonriver. ](https://doc.subquery.network/create/moonbeam/) Процесс индексирования данных Moonbeam состоит всего из двух этапов:
+[Firstly, familiarize yourself with the updated documentation on how to connect to and index data from Moonbeam, Moonbase Alpha, and Moonriver.](https://doc.subquery.network/create/moonbeam/) The process to index Moonbeam data is only two steps:
 
-## Шаг 1. Добавьте пользовательский источник данных Moonbeam
+## Step 1: Add the Moonbeam Custom Data Source
 
-Мы создали процессор данных, специально предназначенный для работы с реализацией [ Frontier ](https://github.com/paritytech/frontier) в Moonbeam. Это позволяет вам ссылаться на определенные ресурсы ABI, используемые процессором для анализа аргументов и адреса смарт-контракта, из которого происходят события или на который выполняется вызов. [ Подробнее читайте здесь ](https://doc.subquery.network/create/moonbeam/#data-source-spec).
+We have created a data processor specifically made to work with Moonbeam’s implementation of [Frontier](https://github.com/paritytech/frontier). It allows you to reference specific ABI resources used by the processor to parse arguments and the smart contract address that the events is from or the call is made to. [You can read more here](https://doc.subquery.network/create/moonbeam/#data-source-spec).
 
-SubQuery предоставляет более продвинутые фильтры, чем другие индексаторы, позволяя фильтровать неконтрактные транзакции, отправителей транзакций, контракты и аргументы индексированных журналов. Это позволяет разработчикам создавать самые разные проекты, удовлетворяющие их конкретные потребности в данных.
+SubQuery introduces more advanced filters than other indexers, allowing filtering of non-contract transactions, transaction senders, contracts and indexed log arguments. This allows developers to build a wide variety of projects that cater to their specific data needs.
 
-## Шаг 2: Индексируйте данные Moonbeam
+## Step 2: Index Moonbeam Data
 
-Как и в обычном проекте SubQuery, вы используете функцию сопоставления для преобразования данных вне цепочки в объекты GraphQL, которые вы определяете, разница в том, что вместо ` SubstrateEvent ` или ` SubstrateExtrinsic `, ваша функция сопоставления получит ` MoonbeamCall ` или ` MoonbeamEvent `, которые основаны на типе Ether [ TransactionResponse ](https://docs.ethers.io/v5/api/providers/types/#providers-TransactionResponse) или [ Log ](https://docs.ethers.io/v5/api/providers/types/#providers-Log). [ Подробнее об этом можно прочитать здесь ](https://doc.subquery.network/create/moonbeam/#moonbeamcall).
+Just like a normal SubQuery project, you use a mapping function to transform off chain data to the GraphQL entities that you define, the difference is that instead of a `SubstrateEvent` or `SubstrateExtrinsic`, your mapping function will receive a `MoonbeamCall` or `MoonbeamEvent` which are based on Ether's [TransactionResponse](https://docs.ethers.io/v5/api/providers/types/#providers-TransactionResponse) or [Log](https://docs.ethers.io/v5/api/providers/types/#providers-Log) type. [You can read more about these here](https://doc.subquery.network/create/moonbeam/#moonbeamcall).
 
-[Прочтите полную документацию по этому процессу здесь](https://doc.subquery.network/create/moonbeam/#moonbeamcall)
+[Read the full documentation on this process here](https://doc.subquery.network/create/moonbeam/#moonbeamcall)
 
-## Пример проекта
+## Example Project
 
-Существует полный пример проекта, который индексирует события eth ` transfer ` и ` утверждает ` вызовы смарт-контрактов. Код этого примера проекта находится [ здесь, на GitHub ](https://github.com/subquery/tutorials-moonriver-evm-starter), или доступен через [ live-проект SubQuery в SubQuery Explorer здесь ](https://explorer.subquery.network/subquery/subquery/moonriver-evm-starter-project).
+There is a complete example project that indexes eth `transfer` events and `approve` smart contract calls. The code for this example project is [here on GitHub](https://github.com/subquery/tutorials-moonriver-evm-starter) or accessible via the [live SubQuery project on SubQuery Explorer here](https://explorer.subquery.network/subquery/subquery/moonriver-evm-starter-project).
 
-Основная часть изменений происходит в файле манифеста (` project.yaml `). Вы можете видеть ниже, что у нас есть [ расширенные фильтры вызовов ](https://doc.subquery.network/create/moonbeam/#call-filters) для поддержки либо [ строк сигнатуры функции ](https://docs.ethers.io/v5/api/utils/abi/fragments/#FunctionFragment), либо функции sighash для фильтрации функции, вызываемой в контракте. Для [ фильтров событий ](https://doc.subquery.network/create/moonbeam/#event-filters) вы можете использовать фильтрацию тем, которая соответствует [ стандарту фильтров журналов Ethereum JSON-PRC, найденному здесь ](https://docs.ethers.io/v5/concepts/events/). Обратите внимание, что SubQuery представляет более продвинутые фильтры, чем другие индексаторы для Moonbeam EVM, и эти улучшения должны принести значительную пользу разработчикам.
+The bulk of the changes happen in the Manifest file (`project.yaml`). You can see below that we have [extended call filters](https://doc.subquery.network/create/moonbeam/#call-filters) to support either [function signature strings](https://docs.ethers.io/v5/api/utils/abi/fragments/#FunctionFragment) or the function sighash to filter the function called on the contract. For [event filters](https://doc.subquery.network/create/moonbeam/#event-filters), you can use topics filtering that follows the [Ethereum JSON-PRC log filters standard found here](https://docs.ethers.io/v5/concepts/events/). Note that SubQuery introduces more advanced filters than other indexers for Moonbeam EVM and these improvements should significantly benefit developers.
 
 ![](https://miro.medium.com/max/700/1*4JRHItnILfCie4FT6sYLEA.png)
 
-Если вы знакомы с тем, как создается проект SubQuery на основе субстрата, вы заметите, насколько похожи функции сопоставления для новой поддержки Moonriver. Каждая функция сопоставления получает ` MoonbeamCall ` или ` MoonbeamEvent ` и обрабатывает их так же, как любой другой проект SubQuery.
+If you are familiar with how Substrate based SubQuery project are made, you’ll notice how similar the mapping functions are for the new Moonriver support. Each mapping function receives a `MoonbeamCall` or `MoonbeamEvent` and processes them just like any other SubQuery project.
 
 ![](https://miro.medium.com/max/700/1*k4_uJYYCsTnPRRJ7avq2WA.png)
 
-Если у вас есть какие-либо вопросы по этому поводу, обязательно [ ознакомьтесь с нашей документацией ](https://doc.subquery.network/create/moonbeam) или свяжитесь с нами по нашему # каналу технической поддержки в нашем [ сообществе Discord ](https://discord.com/invite/subquery).
+If you have any questions about this make sure you [check our docs](https://doc.subquery.network/create/moonbeam) or reach out to us on our #technical-support channel in our [Discord community](https://discord.com/invite/subquery).
 
-[Клонировать пример проекта на GitHub](https://github.com/subquery/tutorials-moonriver-evm-starter)
+[Clone the example project on GitHub](https://github.com/subquery/tutorials-moonriver-evm-starter)
 
-As you can see, creating a Moonriver or Moonbase Alpha project that indexes both Substrate and EVM data in a single project is extremely simple and largely similar. Вы можете использовать расширенные инструменты SubQuery для создания шаблонов, чтобы ускорить разработку dApp и воспользоваться преимуществами или более богатой индексацией ваших данных для создания более интуитивно понятных dApps. Нам не терпится увидеть, что вы создадите!
+As you can see, creating a Moonriver or Moonbase Alpha project that indexes both Substrate and EVM data in a single project is extremely simple and largely similar. You can use SubQuery’s advanced scaffolding tools to speed up your dApp development and take advantage or richer indexing for you data to build more intuitive dApps. We can’t wait to see what you build!
 
-## О SubQuery
+## About SubQuery
 
-SubQuery - это уровень агрегации данных, который работает между блокчейнами уровня 1 (такими как Moonriver и Polkadot) и DApps. Эта служба разблокирует данные блокчейна и преобразует их в запрашиваемое состояние, чтобы их можно было использовать в интуитивно понятных приложениях. Это позволяет разработчикам DApp сосредоточиться на основном сценарии использования и интерфейсе, не тратя время на создание настраиваемого внутреннего интерфейса для обработки данных.
+SubQuery is a data aggregation layer that operates between the layer-1 blockchains (such as Moonriver and Polkadot) and DApps. This service unlocks blockchain data and transforms it to a queryable state so that it can be used in intuitive applications. It allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Github](https://github.com/subquery/subql) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
 
-## О Moonbeam
+## About Moonbeam
 
-Moonbeam - это платформа смарт-контрактов, совместимая с Ethereum, в сети Polkadot, которая упрощает создание совместимых приложений. Эта совместимость с Ethereum позволяет разработчикам развертывать существующие смарт-контракты Solidity и DApp-интерфейсы для Moonbeam с минимальными изменениями. Будучи парачейном в сети Polkadot, Moonbeam получит выгоду от общей безопасности релейной цепи Polkadot и интеграции с другими цепями, подключенными к Polkadot. Ожидается, что Moonbeam, в настоящее время активно разрабатываемый PureStake, выйдет в MainNet к 4 кварталу 2021 года. Узнайте больше: [ https://moonbeam.network/ ](https://moonbeam.network/).
+Moonbeam is an Ethereum-compatible smart contract platform on the Polkadot network that makes it easy to build natively interoperable applications. This Ethereum compatibility allows developers to deploy existing Solidity smart contracts and DApp frontends to Moonbeam with minimal changes. As a parachain on the Polkadot network, Moonbeam will benefit from the shared security of the Polkadot relay chain and integrations with other chains that are connected to Polkadot. Currently in active development by PureStake, Moonbeam is expected to reach MainNet by Q4 2021. Learn more: [https://moonbeam.network/](https://moonbeam.network/).

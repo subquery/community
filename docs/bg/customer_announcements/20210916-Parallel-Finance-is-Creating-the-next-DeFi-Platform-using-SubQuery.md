@@ -1,41 +1,41 @@
-# Parallel Finance is Creating the next DeFi Platform using SubQuery
+# Parallel Finance създава следващата платформа DeFi с помощта на SubQuery
 
 ![](https://cdn-images-1.medium.com/max/1600/1*WcFjuL_ncmHpgzVhaXDUdg.png)
 
-Parallel's mission is to innovate and bring DeFi to the next level and to a broader audience. Today we are excited to reveal how Parallel Finance are using SubQuery data in [their new application](https://testnet.parallel.fi/#/overview).
+Мисията на Parallel е да въвежда иновации и да пренася DeFi на следващо ниво и сред по-широка аудитория. Днес сме развълнувани да ви разкрием как Parallel Finance използват данните от SubQuery в [новото си приложение](https://testnet.parallel.fi/#/overview).
 
 ![](https://cdn-images-1.medium.com/max/1600/1*5Ru0mv1hq86BuBhGwsmoqQ.png)
 
-> *"SubQuery is an excellent tool which brought traditional indexing & query technology to Parallel Heiko. The plug-and-play service really saved us a lot time developing our own block indexing tool and maintaining our own solution."* - Parallel Finance*
+> *"SubQuery е отличен инструмент, който пренася традиционната технология за индексиране& на заявки в Parallel Heiko. Услугата "plug-and-play" наистина ни спести много време за разработване на собствен инструмент за индексиране на блокове и поддръжка на собственото ни решение."* - Parallel Finance*
 
-[SubQuery's](https://subquery.network/) service helps Parallel Finance store, analyse, and query data on their current Heiko testnet. Some of this data is used directly in Parallel's new application, helping users understand and analyse DeFi data.
+[Услугата SubQuery](https://subquery.network/) помага на Parallel Finance да съхранява, анализира и търси данни за текущата си тестова мрежа Heiko. Някои от тези данни се използват директно в новото приложение Parallel, което помага на потребителите да разбират и анализират данните DeFi.
 
 ![](https://miro.medium.com/max/1200/1*Lmk8BvWg2YYTDZggHN82VQ.gif)
 
-Using SubQuery, you can quickly query account, exchange rates, tokens, transfers, and block data right in [SubQuery's playground](https://explorer.subquery.network/subquery/parallel-finance/parallel-finance).
+С помощта на SubQuery можете бързо да правите заявки за сметки, обменни курсове, токени, трансфери и данни за блокове направо на площадката на [SubQuery](https://explorer.subquery.network/subquery/parallel-finance/parallel-finance).
 
 ![](https://cdn-images-1.medium.com/max/1600/1*FDRgez-G26x1DkWqCkORMQ.png)
 
-> *"We enjoy working with the SubQuery team and the one-to-one customer service they give us. We plan to use it more as we introduce more features into our DeFi application."* - Parallel Finance*
+> *"Наслаждаваме се на работата с екипа на SubQuery и на индивидуалното обслужване на клиентите, което ни предоставят. Планираме да го използваме повече, когато въведем повече функции в нашето приложение DeFi."* - Parallel Finance*
 
-In the example below, we're using SubQuery to show the historical exchange rate for all assets at each and every block.
+В примера по-долу използваме SubQuery, за да покажем историческия обменен курс за всички активи във всеки един блок.
 
 ![](https://cdn-images-1.medium.com/max/1600/1*yctQKMNqdOnICNblJk9njw.png)
 
-Parallel Finance is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery's Explorer](https://explorer.subquery.network/).
+Parallel Finance използва [SubQuery Projects](https://project.subquery.network/), за да управлява собствения си проект и да прави актуализации при необходимост. Услугите за индексиране и заявки, които предоставяме, се управляват изцяло от SubQuery и се предоставят безплатно на общността на Polkadot в[SubQuery's Explorer](https://explorer.subquery.network/).
 
-[You can explore Parallel Finance's data in SubQuery today](https://explorer.subquery.network/subquery/parallel-finance/parallel-finance)
+[Можете да проучите данните на Parallel Finance в SubQuery днес](https://explorer.subquery.network/subquery/parallel-finance/parallel-finance)
 
 * * * * *
 
-## About Parallel Finance
+## За Parallel Finance
 
-Parallel Finance is a decentralized money market protocol that offers lending, staking, and borrowing in the Polkadot ecosystem. Similar to the relationship between Polkadot and its "canary network" Kusama, Heiko Finance is the sister network to Parallel, and the parachain that we hope to launch on the Kusama blockchain. We are building for a decentralized future that empowers the community to increase capital efficiency, security, and accessibility through our leverage staking and auction lending platform.
+Parallel Finance е децентрализиран протокол за паричен пазар, който предлага кредитиране, залагане и вземане на заеми в екосистемата Polkadot. Подобно на отношенията между Polkadot и нейната "канарчеста мрежа" Kusama, Heiko Finance е сестринската мрежа на Parallel и парачинът, който се надяваме да стартираме в блокчейна на Kusama. Изграждаме децентрализирано бъдеще, което дава възможност на общността да повиши ефективността, сигурността и достъпността на капитала чрез нашата платформа за ливъридж залози и аукционно кредитиране.
 
 [Website](https://parallel.fi/) | [Twitter](https://twitter.com/ParallelFi) | [Telegram](https://t.me/parallelfi) | [Medium](https://parallelfinance.medium.com/) | [Github](https://github.com/parallel-finance/parallel-dapp/blob/master/parallel.gif)
 
-## About SubQuery
+## За SubQuery
 
-[SubQuery](https://subquery.network/) is a data aggregation layer that will operate between the layer-1 blockchains (Kusama) and DApps (like Kodadot). This service allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+[SubQuery](https://subquery.network/) е слой за агрегиране на данни, който ще функционира между блокчейн на слой 1 (Kusama) и DApps (като Kodadot). Тази услуга позволява на разработчиците на DApp да се съсредоточат върху основния си случай на използване и фронт енд, без да е необходимо да губят време за изграждане на персонализиран бекенд за обработка на данни.
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)

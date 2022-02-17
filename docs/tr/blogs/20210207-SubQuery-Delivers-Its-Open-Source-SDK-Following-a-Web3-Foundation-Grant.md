@@ -8,7 +8,7 @@ Bu hafta OnFinality (SubQuery'nin arkasındaki ekip), SubQuery projeleri oluştu
 
 SubQuery, blok zinciri ekiplerinin ve kullanıcıların düğümleri başlatması ve çok çeşitli blok zinciri protokollerine erişmesi için bir altyapı Iaas & SaaS platformu olan OnFinality'deki ekip tarafından oluşturulur. API paylaşımlı düğüm hizmetlerimiz de dahil olmak üzere bir dizi simbiyotik hizmete sahibiz ve en iyi Polkadot/Substrate ekipleriyle ilişkilerimiz var.
 
-Hemen hemen her blok zincirin verileri işleme ve sorgulama ihtiyacı vardır. Projemiz, uygulama katmanına hizmet eden veri protokollerinin büyümesinden ilham almıştır ve gelişen Polkadot topluluğuna yardımcı olmak için buradadır. SubQuery'nin amacı, Polkadot/Substrate projelerinin, herkesin verileri güvenilir bir şekilde bulmasına ve daha hızlı  kullanmasına izin vererek daha iyi dApp'ler oluşturmasına yardımcı olmaktır Hizmetimiz, kullanıcıların verileri ayıklamasına, dönüştürmesine, sürdürmesine ve sorgulamasına ve ayrıca gelecekte verileri bağlamasına ve sunmasına olanak tanır. Hizmetimiz, kullanıcıların verileri ayıklamasına, dönüştürmesine, sürdürmesine ve sorgulamasına ve ayrıca gelecekte verileri bağlamasına ve sunmasına olanak tanır.
+Hemen hemen her blok zincirin verileri işleme ve sorgulama ihtiyacı vardır. Projemiz, uygulama katmanına hizmet eden veri protokollerinin büyümesinden ilham almıştır ve gelişen Polkadot topluluğuna yardımcı olmak için buradadır. SubQuery'nin amacı, Polkadot/Substrate projelerinin, herkesin verileri güvenilir bir şekilde bulmasına ve daha hızlı  kullanmasına izin vererek daha iyi dApp'ler oluşturmasına yardımcı olmaktır Hizmetimiz, kullanıcıların verileri ayıklamasına, dönüştürmesine, sürdürmesine ve sorgulamasına ve ayrıca gelecekte verileri bağlamasına ve sunmasına olanak tanır.
 
 Web3 Vakfı açık Hibe Programı, kullanıcıların GraphQL ile sorgulanabilecek bir veri kümesi oluşturmak için zincirlerinde bir dizinleyici çalıştırmasına olanak tanıyan açık kaynaklı bir proje olan alt sorgu oluşturmamızı sağladı.
 
@@ -16,7 +16,7 @@ Bu araç paketi, projelerin kendi Alt Sorgu projelerini oluşturmasına izin ver
 
 İkinci olarak, CLI tarafından oluşturulan tanımlanmış SubQuery projesini yükleyen ve ardından ağı bir Postgres veritabanına endeksleyen bir SubQuery düğüm paketi vardır. Hasura'yı kullanarak, dizinlenmiş tablolar üzerinde GraphQL sorgularını hemen çalıştırabilirsiniz. Bu araçların ve her zaman geliştirdiğimiz topluluk destek materyallerinin yardımıyla, herkes kolayca sorgu oluşturabilir ve çalıştırabilir.
 
-**adresindeki örneğimizi takip ederek hemen başlayabilirsiniz.** [**SubQuery Github repository**](https://github.com/OnFinality-io/subql)**. Ek olarak, yazımızı okuyarak daha fazlasını öğrenebilirsiniz.** [**SubQuery dökümanları**](https://doc.subquery.network/) **or** [**yeni web sitemiz**](https://subquery.network/)**.**
+SubQuery Github deposundaki ** örneğimizi izleyerek hemen başlayabilirsiniz. Ek olarak,** SubQuery belgelerimizi okuyarak veya yeni web sitemizi ziyaret ederek daha fazla bilgi edinebilirsiniz
 
 Bu projeyi topluluk için gerçekleştirmemize yardımcı olmak üzere Web3 Vakfı tarafından sağlanan destek için inanılmaz derecede minnettarız. Web3 Vakfı, merkezi olmayan ağın teknoloji yığınını oluşturan araştırma ve geliştirme ekiplerine fon sağlar. İsviçre'nin Zug kentinde Ethereum kurucu ortağı ve eski teknoloji baş sorumlusu Dr. Gavin Wood tarafından kuruldu. Polkadot, Vakfın amiral gemisi projesidir.
 
@@ -30,7 +30,7 @@ Buradan başlayın [SubQuery Github repository.](https://github.com/OnFinality-i
 
 Okuyun [SubQuery docs](https://doc.subquery.network/)
 
-[Yeni web sitemizi ziyaret edin](https://subquery.network/)
+[Visit our new website](https://subquery.network/)
 
 Web sitelerini ziyaret ederek Web3 Foundation hakkında daha fazla bilgi edinin. Web3 Foundation'daki en son gelişmeleri takip etmek için Reddit veya Twitter'da onlara katılın.
 

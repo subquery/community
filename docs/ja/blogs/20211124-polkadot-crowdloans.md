@@ -34,7 +34,7 @@ Acalaが勝利したのは当然として、なぜこうなったのでしょう
 
 2つ目の重要なイベントは、11月13日午前10時40分から75分間の間に発生したもので、1つのアカウントがAcalaに複数の重要な貢献を行ったものです。 このアカウントは[AcalaのLCDOTアドレス](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157)を表しており、Acalaはそのクラウドローンに流動性提供されたDOTをすべて投入していました。 最初にいくつかの試験的な取引が行われ、その後、最大の550万DOT(2億2,250万米ドル) を含む大規模な取引が行われました。 最終的にアカラのLCDOTファンドは、オークション期間中に3758回の貢献を行いました。
 
-![](https://miro.medium.com/max/2400/0*GTJviXqhPmRIIf73)
+![](https://miro.medium.com/max/2400/0*GTJviXqhPmRIIF73)
 
 これらの一連の取引により、最終的にAcalaはMoonbeamを上回り、ブロックの勝率は63.11%となりました。 56時間後、ランダムに選ばれた7,718,090ブロックでは、AcalaがMoonbeamに3万8,000DOT(150万米ドル) の差をつけていました。
 
@@ -44,7 +44,7 @@ Acalaが勝利したのは当然として、なぜこうなったのでしょう
 
 みなさんの大きな関心ごとは、誰がネットワークを構築しているのか？ということです。 少額の貢献者の中で最も多いのはどのネットワークでしょうか？ 貢献額の内訳を把握するために、既知の取引所やクラウドローンのアカウントは除外しています(リストは付録にあります) 。 ネットワークの中には、ほとんどが少額の資金で構成されているものがあることがわかります(SubGame GammaとDarwinia) 。 一方、Moonbeamのクラウドローン(金額ベース) の68%、Parallel Financeの62%、Clover社の58%を大口投資家(> 5,000 DOT) が占めています。
 
-![](https://miro.medium.com/max/2400/0*ztRnFrVfJ2aTlMiU)
+![](https://miro.com/medium.com/max/1400/0*0inUQ8U1g9auTjfU)
 
 ここではMoonbeamとAcalaを見ていますが、AcalaはMoonbeamよりも小口資金が多く、Acalaの出資額の33％が1,000DOT(40,470米ドル) 未満であるのに対し、Moonbeamでは21％です。
 

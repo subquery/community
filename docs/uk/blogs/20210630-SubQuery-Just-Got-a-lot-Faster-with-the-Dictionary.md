@@ -2,26 +2,26 @@
 
 ![](https://miro.medium.com/max/1400/1*iEQbr-KZNIkztylVowAuaQ.png)
 
-Сьогодні ми з гордістю повідомляємо про наше нове вдосконалення для SubQuery, функції індексації словника SubQuery.
+Today we are proud to announce our new improvement to SubQuery, SubQuery’s Dictionary indexing feature.
 
-Словник SubQuery - це прискорення ваших проектів. Це значно покращує індексацію продуктивності вашого проекту SubQuery, **іноді до 10 разів швидше.**
+The SubQuery Dictionary is all about speeding up your Projects. It dramatically improves indexing the performance of your SubQuery Project, **sometimes up to 10x faster.**
 
-Під час індексування ланцюгових даних, SubQuery Projects використовуються для перевірки кожного блоку. Ланцюг Polkadot - великий, 130 Гб неструктурованих даних за майже 6 мільйонів блоків. Індексування займає багато часу, яке ви не хочете втрачати - особливо під час тестування.
+When indexing chain data, SubQuery Projects used to inspect each block. Polkadot’s chain is large, 130GB of unstructured data over almost 6 million blocks. This takes many hours to index, time that you don’t want to wait for — especially when testing.
 
-Проекти SubQuery тепер мають можливість пропустити все це, ми по суті попередньо індексуємо розташування всіх подій у ланцюжку.
+SubQuery projects now have the option to skip all this, we essentially pre-index the location of all events within a chain.
 
 ![](https://miro.medium.com/max/1400/1*uIjz8W4TG9Q0au9zoKbHVw.png)
 
-Продуктивність найбільше покращується, коли дані не є звичайним явищем, а замість цього входять у ланцюжок, як ніби дані рідкісні, Словник пропускає більше блоків, а отже, вплив на продуктивність більший.
+Performance is improved the most when the data is not a common occurrence, but instead interspersed along the chain, as if the data is rare, the Dictionary skips more blocks, and therefore the impact on performance is greater.
 
-Кінцеву точку словника можна додати у [файл ‘project.yaml’ ](https://doc.subquery.network/create/manifest.html) або як альтернативу [ вказану під час виконання](https://doc.subquery.network/run/run.html#using-a-dictionary). Крім того, ви також можете змінити цю кінцеву точку під час запуску вашого проекту в [SubQuery Projects](https://project.subquery.network/).
+The Dictionary endpoint can be added in [your ‘project.yaml’ file](https://doc.subquery.network/create/manifest.html), or alternatively [specified at run time](https://doc.subquery.network/run/run.html#using-a-dictionary). Additionally, you can also override this endpoint when running your Project in [SubQuery Projects](https://project.subquery.network/).
 
 ![](https://miro.medium.com/max/1400/1*xl4wENAv_oNingDQZyrtyw.png)
 
-Детальніше про словник можна прочитати у нашій [корисній документації тут](https://doc.subquery.network/run/run.html#using-a-dictionary).
+You can read more about the dictionary in our [helpful documentation here](https://doc.subquery.network/run/run.html#using-a-dictionary).
 
-Ми вважаємо, що SubQuery є найкращим варіантом індексування даних, доступним для будь -якого додатка Polkadot/Substrate, і ця нова реалізація Словника SubQuery дозволяє нам ще більше покращити наш сервіс, прискоривши процес індексації для ваших проектів SubQuery.
+We believe SubQuery is the best data indexing option available for any Polkadot/Substrate dApp, and this new implementation of SubQuery’s Dictionary allows us to further improve our service by speeding up the indexing process for your SubQuery Projects.
 
-Ви можете спробувати самі в [SubQuery Projects](https://project.subquery.network/) або переглянути самі словники в [нашому досліднику](https://explorer.subquery.network/). Для того, щоб використовувати словник у вашому існуючому проекті, версія [@subql/cli](https://www.npmjs.com/package/@subql/cli) має бути принаймні 0.10.0
+You can try it yourself in [SubQuery Projects](https://project.subquery.network/) or view the dictionaries themselves in [our explorer](https://explorer.subquery.network/). In order to use a Dictionary in your existing project, your [@subql/cli](https://www.npmjs.com/package/@subql/cli) version must be at least 0.10.0
 
 ![](https://miro.medium.com/max/1400/1*CrbWsx1rFiBNjkCepxbkPQ.png)

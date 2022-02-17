@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/1*C4rjs3vpR6TUCOqwF3L39g.png)
 
-**_Ми раді виділити новий проект SubQuery, який є чудовим прикладом сили SubQuery_**
+**_We are excited to highlight a new SubQuery project that is a great example of the power of SubQuery_**
 
 Last week [Subvis.io](https://www.subvis.io/) launched their new explorer for the Kusama parachain slot auctions. This new website provides contextual up-to-date information about the crowdloans and auctions that have just begun on Kusama.
 
