@@ -4,13 +4,11 @@
 
 コミュニティが大きくなるにつれて、私たちは毎日何百もの展開と、ホストされたサービスへの指数関数的に多くのトラフィックを見ています。 SubQueryのチームは、しかしながら、この課題に立ち向かっており、お客様による当社のツールに対する前例のない需要に応えるために、サービスを拡大しています。 私たちの  [ホスト型サービス](https://projects.subquery.network/)  を無料に保ちながら。
 
-現在、多くのお客様は、本番アプリケーションにミッションクリティカルなデータを提供するために SubQuery を利用しています。 これらの顧客は、最大のウォレット([Nova](https://novawallet.io/)と[Fearless](https://fearlesswallet.io/))、スキャナー([Subscan](https://www.subscan.io/)、[SubVis](https://www.subvis.io/)、[DotMarketCap](https://dotmarketcap.com/))、NFTプラットフォーム([Kodadot](https://kodadot.xyz/)と Y これらは、ポルカドットコミュニティが日常的に使用する巨大なアプリケーションであり、常にオンラインでなければなりません。 
+現在、多くのお客様は、本番アプリケーションにミッションクリティカルなデータを提供するために SubQuery を利用しています。 These customers represent some of the largest wallets ([Nova](https://novawallet.io/) and  [Fearless](https://fearlesswallet.io/)), scanners ([Subscan](https://www.subscan.io/), [SubVis](https://www.subvis.io/), and [DotMarketCap](https://dotmarketcap.com/)), NFT platforms ([Kodadot](https://kodadot.xyz/) and [Yuser](https://yuser.co/)), and more. これらは、ポルカドットコミュニティが日常的に使用する巨大なアプリケーションであり、常にオンラインでなければなりません。
 
 私たちのホストされたサービスのパフォーマンスと信頼性は、SubQueryでしばらくの間、私たちの優先順位リストの上位にありました。 私たちの姉妹チームはOnFinalityです。Polkadotの最大のインフラプロバイダーであるため、この分野でたくさんの経験があります。 その結果、今日はSubQueryを最も信頼性の高いものにするための最近の3つの改善について説明します。 スケーラブルでパフォーマンスの高いデータ プラットフォーム in Polkadot
 
 ![](https://miro.medium.com/max/1200/1*QckhJzjQqw9czpBMRhXgXQ.gif)
-
-
 
 # 専用データベース
 
@@ -20,8 +18,6 @@
 
 これにアップグレードしたい場合は、sales@subquery.networkまでご連絡ください。 既存のテーブルからデータを複製しますので、既存のデータのインデックスを再作成する必要はありません。結果としてダウンタイムがゼロになります。
 
-
-
 # 複数のクラスターのサポート
 
 耐性と信頼性は、SubQueryで私たちにすべてを意味します。 冗長なクラスターを別の世界に持っていることは、時にはオフラインの領域を取るクラウドプロバイダーの停止から迅速に回復できることを意味します。
@@ -29,8 +25,6 @@
 さらに、ホストされたサービスでSubQueryプロジェクトへのリクエストを行うと、待ち時間の大部分はレイテンシーから来ます。 レイテンシーとは、リクエストが最も近いSubQueryクラスターに到達するまでに要求され、リモートリージョンから最大2秒または2秒かかる時間のことです。 世界中に複数のクラスタがあるため、リクエストの最も重要な部分(遅延)を減らすことができます。
 
 同じサービスを提供する複数のクラスタを異なる地域に実装しました。 この作業には、これらのクラスタ全体でプロジェクトをデプロイおよび管理できる  [SubQuery Projects](https://project.subquery.network/)  のツールも含まれています。 また、異なるリージョンのデータベースが一貫性を保つようなプロセスも導入しました。 どのクラスタに要求されても受け取るデータは一貫しています。
-
-
 
 # インテリジェントルーティング
 
@@ -41,8 +35,6 @@ SubQueryクラスタが異なるリージョンで実行されたら、次の論
 ![](https://miro.medium.com/max/1000/0*DNXDiABzli0et1MU)
 
 要約すると、これらのサービスは、より多くのお客様に自信を持ってプレミアムサービスを提供することができます。 私たちは、各顧客と協力して、彼らのビジネスと目標を理解し、彼らのニーズに応えるサービスを構築します。 SubQuery は Polkadot の最大のデータ サービス プロバイダーです。 そして、これらの機能は、私たちがPolkadotの最大のプロジェクトと同時に何千ものコミュニティプロジェクトをサポートする方法を示しています。
-
-
 
 # SubQuery Networkについて
 
