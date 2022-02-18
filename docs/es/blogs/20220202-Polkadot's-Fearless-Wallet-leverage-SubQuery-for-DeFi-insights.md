@@ -1,10 +1,10 @@
-# Polkadot’s Fearless Wallet leverage SubQuery for DeFi insights
+# Fearless Wallet de Polkadot aprovecha SubQuery para obtener información sobre DeFi
 
 ![](https://miro.medium.com/max/1400/1*HcPJ-5hy6WZrLhkuL6P2BA.png)
 
-Today we are excited to showcase a deep dive into our strategic partnerships with one of the largest and most established wallets in Polkadot — [Fearless Wallet.](https://fearlesswallet.io/)
+Hoy estamos emocionados de mostrar una inmersión profunda en nuestras asociaciones estratégicas con una de las carteras más grandes y mejor establecidas en Polkadot - [Fearless Wallet.](https://fearlesswallet.io/)
 
-If you didn’t already know, Fearless Wallet provide one of the easiest to use non-custodial wallets out there for Polkadot, and is complete with staking tools. They’ve been on the market for a long time, and have steadily improved, continually adding new features and functionality.
+Si aún no lo sabes, Fearless Wallet proporciona uno de los monederos no custodiados más fáciles de usar que existen para Polkadot, y se completa con herramientas de staking. They’ve been on the market for a long time, and have steadily improved, continually adding new features and functionality.
 
 SubQuery’s service is a critical part of Fearless Wallet’s stack. SubQuery is primarily used to collect, organise, and present account history for each possible address, including transactions, extrinsics, and (in future) staking revenue.
 
