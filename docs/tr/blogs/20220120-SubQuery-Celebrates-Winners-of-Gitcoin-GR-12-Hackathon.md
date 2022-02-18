@@ -1,10 +1,10 @@
-# SubQuery Celebrates Winners of Gitcoin GR 12 Hackathon
+# SubQuery, Encode Club Hackathon'un Kazananlarını Kutluyor
 
 ![](https://miro.medium.com/max/1400/1*MnMY9j3nasex9_9MNHUPtA.png)
 
-SubQuery, the leading data indexing solution in Polkadot, is delighted to announce the winners [of the recent Gitcoin GR 12 Hackathon](https://gitcoin.co/hackathon/gr12?org=subquery). Gitcoin is recognised as one of the preeminent blockchain developer communities focussed on creating community and applications for Web3. [SubQuery partnered with Gitcoin in December](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a) to sponsor five challenges to a value of USD$37,000 (the largest prize pool in the challenge), inviting developers to build useful tools, dashboards and even extend SubQuery to another Layer-1 blockchain.
+Polkadot'taki lider veri indeksleme çözümü olan SubQuery, son [Encode Club](https://gitcoin.co/hackathon/gr12?org=subquery) Polkadot Hackathon'un kazananlarını duyurmaktan mutluluk duyar. Gitcoin, Web3 için topluluk ve uygulamalar oluşturmaya odaklanan önde gelen blok zinciri geliştirici topluluklarından biri olarak kabul edilmektedir. [SubQuery, Aralık ayında Gitcoin ile ortaklık kurdu](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a), geliştiricileri faydalı araçlar, gösterge tabloları oluşturmaya ve hatta SubQuery'yi başka bir Katman-1blok zinciri'e genişletmeye davet ederek 37.000 ABD Doları değerinde (meydan okumadaki en büyük ödül havuzu) beş mücadeleye sponsor oldu.
 
-The Hackathon took place from December 1st — 16th 2021 with leading blockchain projects such as Moonbeam, Astar and Acala contributing to various prize pools. The prizes are granted to those who have successfully completed the projects to the pre-set standards, and who deliver the most creative ideas, or those or solve areas to improve the core SubQuery SDK. A short summary of the challenges are below:
+Hackathon, Moonbeam, Astar ve Acala gibi önde gelen blockchain projelerinin çeşitli ödül havuzlarına katkıda bulunduğu 1-16 Aralık 2021 tarihleri ​​arasında gerçekleşti. Ödüller, projeleri önceden belirlenmiş standartlarda başarıyla tamamlayanlara ve en yaratıcı fikirleri sunanlara veya temel SubQuery SDK'sını geliştirmek için alanlara veya çözenlere verilecektir. Bu zorlukların kısa bir özeti aşağıdadır:
 
 - [Create a unified block explorer that combines Substrate and EVM insights from Moonbeam and Astar into one easy to use application](https://gitcoin.co/issue/subquery/grants/1) — US$12,000 [Sponsored by Moonbeam and Astar]
 - [Create DeFi hub dashboard that’s inspired by Zapper.fi or defisaver.com](https://gitcoin.co/issue/subquery/grants/2) — US$8,000 [Sponsored by Acala]
