@@ -2,39 +2,39 @@
 
 ![](https://miro.medium.com/max/1400/1*MnMY9j3nasex9_9MNHUPtA.png)
 
-SubQuery, ведущее решение для индексации данных в Polkadot, с радостью объявляет победителей [недавнего хакатона Gitcoin GR 12](https://gitcoin.co/hackathon/gr12?org=subquery). Gitcoin is recognised as one of the preeminent blockchain developer communities focussed on creating community and applications for Web3. [SubQuery partnered with Gitcoin in December](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a) to sponsor five challenges to a value of USD$37,000 (the largest prize pool in the challenge), inviting developers to build useful tools, dashboards and even extend SubQuery to another Layer-1 blockchain.
+SubQuery, ведущее решение для индексации данных в Polkadot, с радостью объявляет победителей [недавнего хакатона Gitcoin GR 12](https://gitcoin.co/hackathon/gr12?org=subquery). Gitcoin признан одним из выдающихся сообществ блокчейн разработчиков, ориентированных на создание комьюнити и приложений для Web3. [SubQuery заключила партнерское соглашение с Gitcoin в декабре](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a), чтобы спонсировать пять испытаний на сумму 37000 долларов США (самый большой призовой фонд в соревновании), предлагая разработчикам создавать полезные инструменты, информационные панели и даже расширить исполььзование SubQuery на другой блокчейн первого уровня.
 
-The Hackathon took place from December 1st — 16th 2021 with leading blockchain projects such as Moonbeam, Astar and Acala contributing to various prize pools. The prizes are granted to those who have successfully completed the projects to the pre-set standards, and who deliver the most creative ideas, or those or solve areas to improve the core SubQuery SDK. A short summary of the challenges are below:
+Хакатон проходил с 1 по 16 декабря 2021 года, с участием ведущих блокчейн проектов, таких как Moonbeam, Astar и Acala, которые также внесли свой вклад в различные призовые фонды. Призы присуждались тем, кто успешно завершил проекты в соответствии с заранее установленными стандартами и предложил наиболее креативные идеи или те или иные области для улучшения ядра SubQuery SDK. Ниже приведен краткий обзор по испытаниям:
 
-- [Create a unified block explorer that combines Substrate and EVM insights from Moonbeam and Astar into one easy to use application](https://gitcoin.co/issue/subquery/grants/1) — US$12,000 [Sponsored by Moonbeam and Astar]
-- [Create DeFi hub dashboard that’s inspired by Zapper.fi or defisaver.com](https://gitcoin.co/issue/subquery/grants/2) — US$8,000 [Sponsored by Acala]
-- [Create a staking dashboard that shows the best staking opportunities across Polkadot and its various parachains](https://gitcoin.co/issue/subquery/grants/3) — US$3,000
-- [Build a marketplace explorer for all RMRK protocol based NFTs](https://gitcoin.co/issue/subquery/grants/4) — US$2,000
-- [Extend the @subql/node service to index data from another layer 1 chain](https://gitcoin.co/issue/subquery/grants/5) — US$12,000
+- [Создать унифицированный обозреватель блоков, объединяющий данные Substrate и EVM от Moonbeam и Astar в одно простое в использовании приложение](https://gitcoin.co/issue/subquery/grants/1) — 12000 долларов США [при поддержке Moonbeam и Astar]
+- [Создать панель управления DeFi-хаба, вдохновленную Zapper.fi или defisaver.com](https://gitcoin.co/issue/subquery/grants/2) — 8000 долларов США [при поддержке Acala]
+- [Создать панель управления стейкингом, которая показывает лучшие возможности для стейкинга в Polkadot и его различных парачейнах](https://gitcoin.co/issue/subquery/grants/3) — 3000 долларов США
+- [Создать обозреватель рынка для всех NFT на основе протокола RMRK](https://gitcoin.co/issue/subquery/grants/4) — 2000 долларов США
+- [Расширить службу @subql/node для индексации данных из другого блокчейна первого уровня](https://gitcoin.co/issue/subquery/grants/5) — 12000 долларов США
 
-## Unified EVM and Substrate Block Explorer
+## Унифицированный обозреватель блоков EVM и Substrate
 
-The Polkadot/Kusama ecosystem consists of blockchains (called Parachains) built using Substrate, which uses the Substrate API. However, certain Parachains, such as Moonbeam and Astar, offer seamless Ethereum compatibility by having a fully compatible EVM component. Having simultaneous visibility into Substrate and EVM data is currently challenging, resulting in two isolated experiences within Moonbeam and Moonriver. You have to choose between the Substrate side (e.g., Subscan) and EVM side (e.g., Moonscan & Blockscout).
+Экосистема Polkadot/Kusama состоит из блокчейнов (называемых парачейнами), построенных с использованием Substrate, который, в свою очередь, использует API Substrate. Однако некоторые парачейны, такие как Moonbeam и Astar, обеспечивают полную совместимость с Ethereum благодаря наличию полностью совместимого компонента EVM. Одновременная видимость данных Substrate и EVM в настоящее время является сложной задачей, что приводит к двум изолированным ситуациям с Moonbeam и Moonriver. Вы должны выбрать между стороной Substrate (например, Subscan) и стороной EVM (например, Moonscan и Blockscout).
 
-This challenge was envisaged to address the huge opportunity to build a single place to understand the full history of activity in an account. For example, to see staking and governance actions and ERC20 transfers in a single user interface. This would be an application used daily by the massive communities within Moonbeam, Astar, and many other EVM compatible parachains that are taking off.
+Эта задача была предназначена для реализации огромной возможности создать единое место для понимания всей истории активности в учетной записи. Например, чтобы увидеть действия по стейкингу и участию в управлении протоколом, а также ERC20 переводы в едином пользовательском интерфейсе. Это могло бы стать приложением, ежедневно используемым огромными сообществами в Moonbeam, Astar и многих других парачейнах, совместимых с EVM, которые набирают популярность.
 
 ![](https://miro.medium.com/max/1400/0*b_o0NDpJOCv0QvXS)
 
-The winner of [this challenge](https://gitcoin.co/issue/subquery/grants/1/10002717200027175) was @bizzyvinci who [has built a frontend explorer which is live on Heroku](https://moonriver-explorer.herokuapp.com/). Given that this challenge is a huge task, it’s not a surprise that it is not 100% complete yet, but we are excited to support the progress for this game-changing innovation and help extend it to other EVM chains.
+Победителем [этого конкурса](https://gitcoin.co/issue/subquery/grants/1/10002717200027175) стал @bizzyvinci, который [создал фронтенд обозреватель, работающий на Heroku](https://moonriver-explorer.herokuapp.com/). Учитывая, что реализация этой задачи является довольно сложным испытанием, неудивительно, что она еще не завершена на 100%, но мы рады поддержать прогресс в этой революционной инновации и помочь распространить ее на другие EVM цепочки.
 
-@bizzyvinci said the following: “I built the [Moonriver Explorer](https://moonriver-explorer.herokuapp.com/) and it was an awesome experience., The first step was learning about SubQuery and damn, they’ve got an awesome documentation which are accompanied with template repositories. The documentation covers everything it takes to get started and explains each aspect well such as the manifest file, graphql schema among others.”
+@bizzyvinci сказал следующее: "Я создал [Moonriver Explorer](https://moonriver-explorer.herokuapp.com/), и это был потрясающий опыт. Первым шагом было изучение SubQuery, и, черт возьми, у них есть потрясающая документация, которая сопровождается репозиториями с шаблонами. Документация охватывает все, что нужно для начала работы, и хорошо объясняет каждый аспект, например, файл манифеста, схему graphql и другие."
 
-## Karura/Acala DeFi Dashboard
+## Karura/Acala DeFi панель инструментов
 
-Acala and Karura represent a huge vision for the future of DeFi, so there is a big opportunity to build valuable tools for the ecosystem. This challenge required developers to create DeFi tools for the Karura/Acala community that are inspired by the likes of [Zapper.fi](http://zapper.fi/) and [defisaver.com](http://defisaver.com/) leveraging SubQuery’s data indexing services.
+Acala и Karura представляют огромное видение будущего DeFi, поэтому здесь есть большие возможности для создания ценных инструментов для экосистемы. Это испытание потребовало от разработчиков создания DeFi инструментов для сообщества Karura/Acala, вдохновленных такими сервисами, как [Zapper.fi](http://zapper.fi/) и [defisaver.com](http://defisaver.com/), с использованием служб индексирования данных SubQuery.
 
-The winner of [this challenge](https://gitcoin.co/issue/subquery/grants/2/100027176) was Web3Go who built a really nice summary of [Acala’s Collateral Debt Positions (CDPs)](https://web3go.xyz/#/CDPDetail). For users to mint kUSD stablecoins on Karura, they must first deposit tokens of one of the accepted collateral assets (e.g. KSM). Once the user has done so, the min collateral ratio parameter determines the minimum amount of the collateral needed for a user to mint kUSD. If the market price of the CDP’s collateral asset drops low enough, the CDP may be considered “unsafe.”
+Победителем в [этой задаче](https://gitcoin.co/issue/subquery/grants/2/100027176) стал Web3Go, который составил очень хорошую сводку [позиций залогового долга Acala (CDPs)](https://web3go.xyz/#/CDPDetail). Чтобы пользователи могли минтить стабильные монеты kUSD на Karura, они должны сначала внести токены одного из принятых залоговых активов (например, KSM). Как только пользователь сделает это, параметр минимального коэффициента залога определяет минимальную сумму залога, необходимую пользователю для выпуска kUSD. Если рыночная цена залогового актива CDP падает достаточно низко, CDP можно считать "небезопасным."
 
 ![](https://miro.medium.com/max/1400/0*l7GA1axntiHCINRM)
 
-Web3Go’s interface cleanly lists all CDP positions, their ratio and their safe status. For each position it also provides information about the history of the position and easily allows others to monitor the financial instrument. <iframe width="560" height="315" src="https://www.youtube.com/embed/hc3YDjv6dkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+В интерфейсе Web3Go четко представлены все позиции CDP, их соотношение и статус их безопасности. Для каждой позиции он также предоставляет информацию об истории позиции и легко позволяет другим отслеживать этот финансовый инструмент. <iframe width="560" height="315" src="https://www.youtube.com/embed/hc3YDjv6dkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-## Polkadot Staking Dashboard
+## Панель управления стэкинга Polkadot
 
 Staking is a key way to put your DOT and KSM tokens to use, but currently the UX for staking is difficult to understand and results in most users making uneducated choices.
 
