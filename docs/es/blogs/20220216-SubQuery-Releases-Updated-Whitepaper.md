@@ -1,81 +1,81 @@
-# SubQuery Releases Updated Whitepaper
+# SubQuery publica un whitepaper actualizado
 
 ![](https://miro.medium.com/max/700/0*guA8YHyJPhu0wmzf)
 
-_An updated plan for how SubQuery will revolutionise the future of web3 infrastructure_
+_Un plan actualizado sobre cómo SubQuery revolucionará el futuro de la infraestructura web3_
 
-After a long period of design, discussion, testing, and development, today we are releasing a new and significantly [updated version of our Whitepaper](https://static.subquery.network/whitepaper.pdf). Originally published back in June 2021, the SubQuery Whitepaper is a document that outlines our strategic framework for the decentralised SubQuery Network and her SQT token. Since the original publication, we have experienced significant growth in our customer base and community and made huge progress on building the SubQuery Network. From these sources, we have been inspired to improve and innovate, and that culminates in the latest version of our whitepaper. <iframe width="1719" height="976" src="https://www.youtube.com/embed/Ghxyw5bIHs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Después de un largo período de diseño, discusión, pruebas y desarrollo, hoy publicamos una nueva versión significativamente [actualizada de nuestro Whitepaper](https://static.subquery.network/whitepaper.pdf). Publicado originalmente en junio de 2021, el Whitepaper de SubQuery es un documento que resume nuestro marco estratégico para la red descentralizada SubQuery y su token SQT. Desde la publicación original, hemos experimentado un crecimiento significativo de nuestra base de clientes y de la comunidad, además de hacer grandes progresos en la construcción de la Red de SubQuery. A partir de estas fuentes, nos hemos inspirado para mejorar e innovar, y eso culmina en la última versión de nuestro whitepaper. <iframe width="1719" height="976" src="https://www.youtube.com/embed/Ghxyw5bIHs8" title="Vista previa de YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-This whitepaper outlines SubQuery’s plans to move towards a globally decentralised network of participants organising blockchain data in order to ensure no single point of failure for SubQuery. It is expected that this will massively increase SubQuery’s uptime, provide better redundancy, and increase performance by driving down latency. It is envisioned that applications will be able to use GraphQL to query any store of data (as defined by the SubQuery Project) from Indexers around the network.
+Este whitepaper describe los planes de SubQuery para avanzar hacia una red globalmente descentralizada de participantes que organizan los datos de la cadena de bloques con el fin de garantizar que no haya ningún punto de fallo para SubQuery. Se espera que esto aumente enormemente el tiempo de actividad de SubQuery, proporcione una mejor redundancia y aumente el rendimiento al reducir la latencia. Está previsto que las aplicaciones puedan utilizar GraphQL para consultar cualquier almacén de datos (según la definición del proyecto SubQuery) desde los indexadores de la red.
 
 ![](https://miro.medium.com/max/700/0*xtd6e7mn7JkfhpzG)
 
-## Our Focus
+## Nuestro Enfoque
 
-The [updated whitepaper](https://static.subquery.network/whitepaper.pdf) maintains SubQuery’s conviction that the data services of tomorrow must be multi-chain, simple, and flexible. The whitepaper goes into detail on how the SubQuery Network factors these considerations into the token economic design while also enabling power users to run enterprise-level services on it.
+El [whitepaper actualizado](https://static.subquery.network/whitepaper.pdf) mantiene la convicción de SubQuery de que los servicios de datos del futuro deben ser multicadena, sencillos y flexibles. El informe técnico detalla cómo la Red SubQuery tiene en cuenta estas consideraciones en el diseño económico de los tokens, al tiempo que permite a los usuarios avanzados ejecutar servicios de nivel empresarial en ella.
 
-### Multi-chain by Design
+### Multi-cadena por Diseño
 
-_SubQuery believes in the idea that a community of blockchains, working together to encourage web3 adoption, is the future_
+_SubQuery cree en la idea de que una comunidad de blockchains, trabajando juntos para fomentar la adopción de la web3, es el futuro_
 
-SubQuery is native to the Polkadot ecosystem, it’s our home and will be the location of the SubQuery Network. But the future is multi-chain. SubQuery knows that there are going to be many different blockchains working together to solve different problems.
+SubQuery es nativo del ecosistema Polkadot, es nuestro hogar y será la ubicación de la Red SubQuery. Pero el futuro es la multicadena. SubQuery sabe que habrá muchas cadenas de bloques diferentes trabajando juntas para resolver diferentes problemas.
 
-The SubQuery Network is designed to support any SubQuery Project from any Layer 1 network (within Polkadot or not). It will be designed and built to be multi-chain from the outset, where you will see projects from one network being indexed alongside projects from another.
+La Red SubQuery está diseñada para soportar cualquier proyecto SubQuery de cualquier red de capa 1 (dentro de Polkadot o no). Se diseñará y construirá para ser multicadena desde el principio, donde se verán proyectos de una red indexados junto a proyectos de otra.
 
-### Simple and Accessible
+### Simple y Accesible
 
-_The SubQuery Network is designed to be the data provider of the people._
+_La Red SubQuery está diseñada para ser el proveedor de datos de las personas._
 
-The guiding principle with the SubQuery Network is simplicity. It is SubQuery’s opinion that other approaches to decentralised data query services are overly complex and make it difficult for participants to predict their return on investment. The aim is to make it easy for you to get involved in the network, and to clearly forecast your future potential return.
+El principio que rige la Red SubQuery es la simplicidad. En opinión de SubQuery, otros enfoques de los servicios descentralizados de consulta de datos son demasiado complejos y dificultan a los participantes la previsión de su rentabilidad. El objetivo es facilitarle la participación en la red y prever claramente su rendimiento potencial futuro.
 
-SubQuery won’t require high staking thresholds to participate or huge investment into hardware. The focus will be on making SubQuery easier to join and build with than our competitors — SubQuery’s success depends on the success of others creating the future on it.
+SubQuery no requerirá umbrales de apuesta elevados para participar ni grandes inversiones en hardware. Nos centraremos en hacer que sea más fácil unirse a SubQuery y construir con él que con nuestros competidores: el éxito de SubQuery depende del éxito de los demás que crean el futuro en él.
 
-This means that a design goal is to make it as easy as possible for anyone to participate. You don’t need to be a developer or have a deep knowledge of the token economic model, you can easily participate as a Delegator. As a Consumer, you also have plenty of payment options to best suit your needs. Finally, a key focus of the SubQuery Foundation is to ensure that there is enough support that anyone, from an expert blockchain team to a new hobbyist developer, can build their own SubQuery project.
+Esto significa que un objetivo del diseño es facilitar al máximo la participación de cualquier persona. No necesitas ser un desarrollador o tener un profundo conocimiento del modelo económico de los tokens, puedes participar fácilmente como Delegador. Como consumidor, también tiene muchas opciones de pago para adaptarse a sus necesidades. Por último, un objetivo clave de la Fundación SubQuery es garantizar que haya suficiente apoyo para que cualquiera, desde un equipo experto en blockchain hasta un nuevo desarrollador aficionado, pueda construir su propio proyecto SubQuery.
 
 ### Flexible
 
-_SubQuery is just a tool in the hands of our community, endless opportunities exist limited only by the creativity of the people._
+_SubQuery es sólo una herramienta en manos de nuestra comunidad, existen infinitas oportunidades limitadas sólo por la creatividad de la gente._
 
-The true advantages of SubQuery may lie in its flexibility — users will have the freedom to adapt and transform decentralised data to suit their needs. This drive for flexibility extends to making it easier for delegators to quickly and easily support different indexers without having to wait for extended unbonding periods. Finally, this approach is perfectly embodied by our introduction of three payment methods which we’ll cover next.
+Las verdaderas ventajas de SubQuery pueden residir en su flexibilidad: los usuarios tendrán la libertad de adaptar y transformar los datos descentralizados para satisfacer sus necesidades. Este afán de flexibilidad se extiende a facilitar a los delegados el apoyo rápido y sencillo a diferentes indexadores sin tener que esperar a largos periodos de desvinculación. Por último, este enfoque queda perfectamente plasmado en la introducción de tres métodos de pago que veremos a continuación.
 
-## SubQuery’s Innovation in Payment Methods
+## La innovación de SubQuery en los métodos de pago
 
-The biggest change by far with this version of the whitepaper is our innovation in payment methods. Today, we generally pay with subscription-based payments for the music we listen to, the TV shows we watch, and the applications that we use. In pioneering web3 service applications, we’ve instead adopted a pay-as-you-go model, where each atomic transaction has an exact cost in the network.
+El mayor cambio, con diferencia, de esta versión del whitepaper es nuestra innovación en los métodos de pago. Hoy en día, generalmente pagamos por suscripción la música que escuchamos, los programas de televisión que vemos y las aplicaciones que utilizamos. En las aplicaciones pioneras de servicios web3, hemos adoptado en cambio un modelo de pago por uso, en el que cada transacción atómica tiene un coste exacto en la red.
 
-We think subscription based or recurring payment methods are here to stay. Service providers like them because they represent predictable revenue, similarly on the other side consumers like them because they are a known and easily quantified cost. There’s also a psychological factor where once you subscribe, most consumers will feel obligated to consume as much if not all of it, increasing the demand for the service and allowing economies of scale to kick in.
+Creemos que los métodos de pago por suscripción o recurrentes han llegado para quedarse. A los proveedores de servicios les gustan porque representan ingresos predecibles, del mismo modo que a los consumidores les gustan porque son un coste conocido y fácilmente cuantificable. También existe un factor psicológico por el que, una vez suscritos, la mayoría de los consumidores se sentirán obligados a consumir tanto o más, lo que aumentará la demanda del servicio y permitirá que se produzcan economías de escala.
 
-As a result, SubQuery plans to introduce three ways to pay within the SubQuery Network, providing all participants with various flexible ways to transact with the SubQuery Token (SQT). Both Indexers and Consumers will come together on the Plan Marketplace to advertise their pricing and supported payment methods.
+Como resultado, SubQuery planea introducir tres formas de pago dentro de la Red SubQuery, proporcionando a todos los participantes varias formas flexibles de realizar transacciones con el Token SubQuery (SQT). Tanto los indexadores como los consumidores se reunirán en el Mercado de Planes para anunciar sus precios y los métodos de pago admitidos.
 
 ![](https://miro.medium.com/max/700/0*f0yVHlbWTE8DdjuB)
 
 ### Pay-As-You-Go (PAYG)
 
-The first, and a standard amongst the web3 industry, is Pay-As-You-Go. This is the baseline payment method and a fallback for others. Each Indexer will advertise their PAYG prices when registering their ability to serve requests for specific SubQuery Projects.
+El primero, y un estándar entre la industria de la web3, es el pago por uso. Este es el método de pago básico y un recurso para los demás. Cada indexador anunciará sus precios de pago cuando registre su capacidad de servir solicitudes para proyectos específicos de SubQuery.
 
-### Closed Plans and Agreements
+### Planes y Acuerdos cerrados
 
-Closed Agreements represent an agreement between only one Indexer and one Consumer. It’s a direct relationship where all payment flows between the two parties for the work that is done. Closed Agreements are designed to give Indexers confidence that there is a market for data from a particular SubQuery Project, and essentially signal to them which Projects should be indexed. Closed Plans can also be placed on existing SubQuery Projects to attract additional Indexers to that SubQuery Project. This may be useful in situations where the existing monopolistic Indexer may be charging an unreasonable amount for the data or there is a lack of competition to drive prices to equilibrium.
+Los Acuerdos Cerrados representan un acuerdo entre un solo Indexador y un Consumidor. Es una relación directa en la que todo el pago fluye entre las dos partes por el trabajo realizado. Los Acuerdos Cerrados están diseñados para dar a los indexadores la confianza de que existe un mercado para los datos de un determinado proyecto de subconsulta, y esencialmente les señalan qué proyectos deben ser indexados. Los planes cerrados también pueden colocarse en proyectos de subconsultas existentes para atraer a más indexadores a ese proyecto de subconsultas. Esto puede ser útil en situaciones en las que el indexador monopolista existente puede estar cobrando una cantidad excesiva por los datos o hay una falta de competencia para llevar los precios al equilibrio.
 
-### Open Plans and Agreements
+### Planes y acuerdos abiertos
 
-Open Agreements are similar to Closed Agreements, but allow multiple Indexers to join and compete to provide data to the Consumer. An Open Agreement may start as an Agreement between one Consumer and one Indexer, but more parties may join the existing Agreement resulting in ’n’ Indexers and ’n’ Consumers.
+Los Acuerdos Abiertos son similares a los Acuerdos Cerrados, pero permiten que varios Indexadores se unan y compitan para proporcionar datos al Consumidor. Un Acuerdo Abierto puede comenzar como un Acuerdo entre un Consumidor y un Indexador, pero más partes pueden unirse al Acuerdo existente resultando en 'n' Indexadores y 'n' Consumidores.
 
-Open Agreements provide favourable terms for both Indexers and Consumers, but enable better performance and reliability for Consumers by attracting more Indexers to compete and serve the same data. If Consumers are running large scale applications with users around the world, then Open Agreements are ideal.
+Los acuerdos abiertos ofrecen condiciones favorables tanto para los indexadores como para los consumidores, pero permiten un mayor rendimiento y fiabilidad para los consumidores al atraer a más indexadores para que compitan y sirvan los mismos datos. Si los consumidores están ejecutando aplicaciones a gran escala con usuarios de todo el mundo, entonces los acuerdos abiertos son ideales.
 
 ![](https://miro.medium.com/max/1400/0*sc9-ee7VTl0XEhTS)
 
-he combination of the above three payment options for indexers provide several advanced subscription based options for Consumers and Indexers. Some parties may benefit from the certainty of rewards provided by Closed Agreements and the predictability of recurring costs. Equally, others may instead prefer to hunt out the most affordable data by going for high volume recurring agreements or low spot prices on the Pay-as-you-Go market.
+la combinación de las tres opciones de pago anteriores para los indexadores proporciona varias opciones avanzadas basadas en la suscripción para los consumidores y los indexadores. Algunas partes pueden beneficiarse de la seguridad de las recompensas que ofrecen los acuerdos cerrados y de la previsibilidad de los costes recurrentes. Igualmente, otros pueden preferir buscar los datos más asequibles optando por acuerdos recurrentes de gran volumen o precios bajos al contado en el mercado de pago por uso.
 
-These changes, and many others outlined in the whitepaper illustrate our focus on building the largest web3 infrastructure service possible. We are confident that our token economic design is carefully considered and designed for inclusive growth for all participants. While starting with a huge centralised service and slowly moving towards a decentralised one isn’t easy, the team at SubQuery is up for the challenge and we hope you’ll join us!
+Estos cambios, y muchos otros descritos en el libro blanco, ilustran nuestro objetivo de crear el mayor servicio de infraestructura web3 posible. Estamos seguros de que nuestro diseño económico de fichas está cuidadosamente considerado y pensado para un crecimiento inclusivo de todos los participantes. Aunque empezar con un gran servicio centralizado y avanzar poco a poco hacia uno descentralizado no es fácil, el equipo de SubQuery está preparado para el reto y esperamos que se una a nosotros!
 
-For further information, please [contact our team in Discord](https://discord.com/invite/78zg8aBSMG) or chat with us in our next “Office Hours”. You can also [register your expression of interest](https://forms.gle/RyXyhb8T9Gxkwi7R9) to become an indexer in the imminent SubQuery test network.
+Para más información, por favor [contacta con nuestro equipo en Discord](https://discord.com/invite/78zg8aBSMG) o chatea con nosotros en nuestro próximo "Office Hours". También puede [registrar su expresión de interés](https://forms.gle/RyXyhb8T9Gxkwi7R9) para convertirse en un indexador en la inminente red de pruebas de SubQuery.
 
-[Read the updated whitepaper](https://static.subquery.network/whitepaper.pdf)
+[Lee el whitepaper actualizado](https://static.subquery.network/whitepaper.pdf)
 
-## About SubQuery Network
+## Acerca de la Red SubQuery
 
-SubQuery’s mission is to help others create products that allow us to move to a decentralised future faster. SubQuery is a blockchain developer toolkit and the backbone of web3 infrastructure. A SubQuery project is a complete API to organise and query data from chains. Operating between layer-1 blockchains and decentralised apps (dApp), SubQuery is an open-source indexer organising and serving well-structured data over GraphQL. SubQuery powers the next generation of dApps and tools with web3 data
+La misión de SubQuery es ayudar a otros a crear productos que nos permitan avanzar más rápidamente hacia un futuro descentralizado. SubQuery es un conjunto de herramientas para desarrolladores de blockchain y la columna vertebral de la infraestructura de web3. Un proyecto de SubQuery es una completa API para organizar y consultar los datos de las cadenas. Operando entre blockchains de capa 1 y aplicaciones descentralizadas (dApp), SubQuery es un indexador de código abierto que organiza y sirve datos bien estructurados sobre GraphQL. SubQuery impulsa la próxima generación de dApps y herramientas con datos web3
 
-Currently, anyone can already use SubQuery to extract and query blockchain data in only minutes and at no cost but in a centralised way. The SubQuery Network proposes to enable this same scalable and performant solution, but in a completely decentralised way.
+Actualmente, cualquier persona puede ya utilizar SubQuery para extraer y consultar los datos de la cadena de bloques en sólo unos minutos y sin coste alguno, pero de forma centralizada. La Red SubQuery propone habilitar esta misma solución escalable y de alto rendimiento, pero de forma totalmente descentralizada.
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
