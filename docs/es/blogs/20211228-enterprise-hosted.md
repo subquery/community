@@ -18,7 +18,7 @@ Si está construyendo un proyecto diseñado para su uso en producción, ofrecemo
 
 Si desea actualizarla, póngase en contacto con nosotros en sales@subquery.network. Replicamos sus datos a partir de las tablas existentes para que no tenga que dedicar tiempo a reindexar los datos que ya tiene, lo que se traduce en una migración sin tiempo de inactividad.
 
-# Multiple Cluster Support
+# Soporte de cluster múltiple
 
 La resistencia y la fiabilidad lo son todo para nosotros en SubQuery. Disponer de un clúster redundante en otra parte del mundo significa que podemos recuperarnos rápidamente de las interrupciones del proveedor de la nube que ocasionalmente desconectan regiones.
 
