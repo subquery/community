@@ -66,45 +66,45 @@ Bugün `subql init` yazdığınızda, size tüm doğru uç noktaları, sözlük 
 
 ### Veri Toplama Özellikleri
 
-SubQuery now supports advanced GraphQL aggregate functions to allow you to perform a calculation on a set of values during your query. These functions provide our customers a richer set of insights and calculations from their existing data set. For example with a single query you can calculate the median contribution amount for each crowdloan broken down by contribution date.
+SubQuery, sorgunuz sırasında bir dizi değer üzerinde hesaplama yapmanızı sağlamak için artık gelişmiş GraphQL toplama işlevlerini desteklemektedir. Bu işlevler, müşterilerimize mevcut veri kümelerinden daha zengin bir içgörü ve hesaplama seti sağlar. Örneğin, tek bir sorgu ile katkı tarihine göre ayrılmış her bir kitle kredisi için medyan katkı miktarını hesaplayabilirsiniz.
 
-[Read more about how to use these features in our upgraded docs.](https://doc.subquery.network/query/aggregate/)
+[Yükseltilmiş dokümanlarımızda bu özelliklerin nasıl kullanılacağı hakkında daha fazla bilgi edinin.](https://doc.subquery.network/query/aggregate/)
 
-### SubQuery partners with Darwinia Network to build SubQuery’s CLI Tool
+### SubQuery, SubQuery'nin CLI Aracını oluşturmak için Darwinia Network ile ortaklık yapıyor
 
-Darwinia has partnered with SubQuery to build the plethora of applications that will be needed to provide the ultimate user experience for cross chain interactions. This includes a new [Smart App that is a central hub](https://apps.darwinia.network/) to manage all Darwinia network interactions including governance, staking, chain exploration and more. This app uses a considerable amount of [SubQuery data to show historic data and actions](https://explorer.subquery.network/subquery/darwinia-network/smart-app-crab). SubQuery will be working closely with the team at Darwinia to make this the best experience in the entire Polkadot ecosystem.
+Darwinia, çapraz zincir etkileşimleri için nihai kullanıcı deneyimini sağlamak üzere ihtiyaç duyulacak çok sayıda uygulamayı oluşturmak için SubQuery ile ortaklık kurdu. Buna yönetişim, bahis, zincir keşfi ve daha fazlası dahil olmak üzere tüm Darwinia ağ etkileşimlerini yönetmek için [merkezi bir merkez olan yeni bir Akıllı Uygulama](https://apps.darwinia.network/) dahildir. Bu uygulama, önemli miktarda [Geçmiş verileri ve eylemleri göstermek için SubQuery verileri kullanır](https://explorer.subquery.network/subquery/darwinia-network/smart-app-crab). SubQuery, bunu tüm Polkadot ekosisteminde en iyi deneyim haline getirmek için Darwinia'daki ekiple yakın bir şekilde çalışacak.
 
 ![](https://miro.medium.com/max/1200/1*bL2Csj9qyamD7txAheCTIg.gif)
 
-Darwinia have also been working closely with the SubQuery team to [build a CLI tool](https://github.com/fewensa/subquery-cli) for the SubQuery managed service (https://project.subquery.network). You can use this [CLI](https://github.com/fewensa/subquery-cli) to create a SubQuery project and automatically deploy a new version to either the staging or production slot. Additionally you can retrieve information including the detailed syncing status and logs from your running project that is hosted for free in SubQuery Projects. [Read more here](https://subquery.medium.com/subquery-partners-with-darwinia-network-to-build-subquerys-cli-tool-903dc4c9ef66)
+Darwinia ayrıca SubQuery tarafından yönetilen hizmet (https://project.subquery.network) için [bir CLI aracı oluşturmak](https://github.com/fewensa/subquery-cli) amacıyla SubQuery ekibiyle yakın bir şekilde çalışmaktadır. Bu [CLI'ı](https://github.com/fewensa/subquery-cli) bir SubQuery projesi oluşturmak ve yeni bir sürümü hazırlama veya üretim yuvasına otomatik olarak dağıtmak için kullanabilirsiniz. Ek olarak, SubQuery Projelerinde ücretsiz olarak barındırılan çalışan projenizden ayrıntılı eşitleme durumu ve günlükler dahil olmak üzere bilgileri alabilirsiniz. [Daha fazlasını buradan okuyun](https://subquery.medium.com/subquery-partners-with-darwinia-network-to-build-subquerys-cli-tool-903dc4c9ef66)
 
 ## SubQuery Network
 
-Last community call we walked through a few important details of the upcoming SubQuery test network. It will be run over at least three seasons, each season will test different aspects of the network:
+Son topluluk görüşmesi, yaklaşmakta olan SubQuery test ağının birkaç önemli ayrıntısını inceledik. En az üç sezon boyunca devam edecek ve her sezon ağın farklı yönlerini test edecek:
 
-- Season 1: Early stage alpha testing of a limited number of features with a select few participants
-- Season 2: Large beta testing of more features with hundreds of participants
-- Season 3: Full public test network for load and scale testing with thousands of participants
+- 1. Sezon: Seçilmiş birkaç katılımcıyla sınırlı sayıda özelliğin erken aşama alfa testi
+- 2. Sezon: Yüzlerce katılımcıyla daha fazla özelliğin geniş beta testi
+- 3. Sezon: Binlerce katılımcıyla yük ve ölçek testi için tam halka açık test ağı
 
-Each season will have multiple challenges that you can complete which may result in real SQT rewards. Expect things to kickoff here in March!
+Her sezon, tamamlayabileceğiniz ve gerçek SQT ödülleriyle sonuçlanabilecek birden fazla mücadeleye sahip olacaktır. Mart ayında burada bir şeylerin başlamasını bekleyin!
 
-## Roadmap Update
+## Yol Haritası Güncellemesi
 
-Last October we released out [technical roadmap](https://blog.subquery.network/blogs/20211029-roadmap-october.html) with the next year mapped out for SubQuery, we’re overdue to address exactly how we’re doing here.
+Geçen Ekim ayında, SubQuery için gelecek yılın haritasını çıkararak [teknik yol haritasını ](https://blog.subquery.network/blogs/20211029-roadmap-october.html)yayınladık, burada tam olarak nasıl yaptığımıza değinmek için geciktik.
 
 ![](https://miro.medium.com/max/1400/1*2a3SGrW-OG5pbw67jsavvw.jpeg)
 
-As you can see in the original roadmap above, we’ve completed all of Milestone 0 and 1, and are making good progress on Milestone 2. We’ve even delivered some features relevant to our hosted service much earlier than expected due to the huge scale of requests currently going to [our enterprise customers](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html).
+Yukarıdaki orijinal yol haritasında görebileceğiniz gibi, Milestone 0 ve 1'in tamamını tamamladık ve Milestone 2'de iyi ilerleme kaydediyoruz. Hatta şu anda [kurumsal müşterilerimize giden çok sayıda istek nedeniyle](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html), barındırılan hizmetimizle ilgili bazı özellikleri beklenenden çok daha erken teslim ettik.
 
-## Other things you might have missed
+## Kaçırmış olabileceğiniz diğer şeyler
 
-- We will be having weekly office hours on our Discord Server! Join SubQuery’s ‘Office Hours’ on our stages channel where you can catch-up with the team in a casual environment.
-- We had a Russian QnA with James & Dmytro in Discord where all questions were asked and answered in Russian. Let us know which language you would like to hear next
+- Discord Sunucumuzda haftalık çalışma saatlerimiz olacak! Sıradan bir ortamda ekibe yetişebileceğiniz aşamalar kanalımızda SubQuery'nin "Ofis Saatleri"ne katılın.
+- Discord'da James & Dmytro ile tüm soruların Rusça sorulup yanıtlandığı bir Rusça QnA yaptık. Daha sonra hangi dili duymak istediğinizi bize bildirin
 
-P.S.
+Dipnot.
 
-Remember to join our [Discord](https://discord.com/invite/subquery) and our [social channels](https://linktr.ee/subquerynetwork) to stay updated on our latest news and announcements.
+En son haber ve duyurularımızdan haberdar olmak için [Discord](https://discord.com/invite/subquery) ve [sosyal kanallarımıza](https://linktr.ee/subquerynetwork) katılmayı unutmayın.
 
-The SubQuery Team
+Sunucu ekibi
 
-[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Email](hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Youtube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
