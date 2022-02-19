@@ -12,7 +12,7 @@ Como indexador de datos líder en Polkadot, SubQuery se utilizará para indexar 
 
 - Historial de carteras/transacciones de los usuarios
 - Historial de precios de los resultados del mercado
-- Market resolution POLK bonds history
+- Historia de los bonos POLK de resolución de mercado
 
 > "Una de las aplicaciones más emocionantes de blockchain son los mercados de predicción y el comercio, estamos emocionados de asociarnos con el jugador líder en este espacio en Polkadot. La creación de un mercado de predicciones no consiste únicamente en recopilar acontecimientos del mundo real, sino que requiere una excelente interfaz de usuario que muestre esta información y permita a los usuarios tomar las posiciones adecuadas: estamos dispuestos a desempeñar un papel importante en este desarrollo" — James Bayly, Director de Desarrollo de Negocios en SubQuery.
 
