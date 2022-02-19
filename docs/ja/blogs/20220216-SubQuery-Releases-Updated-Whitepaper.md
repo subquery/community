@@ -4,7 +4,7 @@
 
 _SubQueryがWeb3インフラの未来を変えるための最新プラン_
 
-長い間、設計、議論、テスト、開発を行ってきましたが、本日、大幅に更新した[ホワイトペーパーの新しいバージョン](https://static.subquery.network/whitepaper.pdf)をリリースします。 SubQueryのホワイトペーパーは、2021年6月に発表された、分散型のSubQuery NetworkとSQTトークンの戦略的枠組みをまとめた文書です。 最初の出版以来、私たちは顧客基盤とコミュニティの著しい成長を経験し、SubQuery Networkの構築に向けて大きく前進しました。 これらのソースから、私たちは改良と革新のためのインスピレーションを受け、それが最新版のホワイトペーパーに結実したのです。 <iframe width="1719" height="976" src="https://www.youtube.com/embed/Ghxyw5bIHs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+長い間、設計、議論、テスト、開発を行ってきましたが、本日、大幅に更新した[ホワイトペーパーの新しいバージョン](https://static.subquery.network/whitepaper.pdf)をリリースします。 SubQueryのホワイトペーパーは、2021年6月に発表された、分散型のSubQuery NetworkとSQTトークンの戦略的枠組みをまとめた文書です。 最初の出版以来、私たちは顧客基盤とコミュニティの著しい成長を経験し、SubQuery Networkの構築に向けて大きく前進しました。 これらのソースから、私たちは改良と革新のためのインスピレーションを受け、それが最新版のホワイトペーパーに結実したのです。 <iframe width="1719" height="976" src="https://www.youtube.com/embed/Ghxyw5bIHs8" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 このホワイトペーパーでは、SubQueryの単一障害点がないことを保証するために、ブロックチェーンデータを整理する参加者の世界的な分散型ネットワークへの移行を計画していることが紹介されています。 これにより、SubQueryの稼働率が大幅に向上し、冗長性が高まり、レイテンシー(待ち時間)が減少してパフォーマンスが向上することが期待されています。 アプリケーションがGraphQLを使って、ネットワーク上のインデクサーから（SubQuery Projectで定義された）あらゆるデータストアに問い合わせできるようになることを想定しています。
 
@@ -76,6 +76,6 @@ Web3業界の最初の標準は「Pay-As-You-Go」です。 これは、基本�
 
 SubQueryの使命は、非中央集権的な未来への移行を可能にする製品を他の人がより早く作るのを助けることです。 SubQueryは、ブロックチェーン開発者向けのツールキットであり、web3インフラのバックボーンとなるものです。 SubQuery プロジェクトは、チェーンからデータを整理して照会するための完全な API です。 レイヤー1のブロックチェーンと分散型アプリ（dApp）の間で動作するSubQueryは、構造化されたデータをGraphQLで整理して提供するオープンソースのインデクサーです。 SubQueryはWeb3データで次世代のdAppsとツールを強化する
 
-Currently, anyone can already use SubQuery to extract and query blockchain data in only minutes and at no cost but in a centralised way. The SubQuery Network proposes to enable this same scalable and performant solution, but in a completely decentralised way.
+現在、すでに誰もがSubQueryを使って、わずか数分で、コストをかけずに、しかし集中的にブロックチェーンのデータを抽出し、照会することができます。 SubQuery Networkは、このようなスケーラブルでパフォーマンスの高いソリューションを、完全に分散した形で実現することを提案しています。
 
-[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork) | [Webサイト](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
