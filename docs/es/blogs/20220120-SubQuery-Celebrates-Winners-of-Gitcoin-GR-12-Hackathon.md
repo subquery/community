@@ -24,7 +24,7 @@ El ganador de [este reto](https://gitcoin.co/issue/subquery/grants/1/10002717200
 
 @bizzyvinci dijo lo siguiente: "Construí el [Explorador de Moonriver](https://moonriver-explorer.herokuapp.com/) y fue una experiencia increíble. El primer paso fue aprender sobre SubQuery y maldita sea, tienen una documentación impresionante que se acompañan con repositorios de plantillas. La documentación cubre todo lo necesario para empezar y explica bien cada aspecto como el archivo de manifiesto, el esquema de graphql entre otros."
 
-## Karura/Acala DeFi Dashboard
+## Panel de control Karura/Acala DeFi
 
 Acala y Karura representan una gran visión del futuro de DeFi, por lo que existe una gran oportunidad de crear herramientas valiosas para el ecosistema. Este reto requirió que los desarrolladores crearan herramientas DeFi para la comunidad de Karura/Acala que se inspiran en los servicios de indexación de datos de SubQuery como [Zapper.fi](http://zapper.fi/) y [defisaver.com](http://defisaver.com/).
 
@@ -34,7 +34,7 @@ El ganador de [este reto](https://gitcoin.co/issue/subquery/grants/2/100027176) 
 
 La interfaz de Web3Go enumera limpiamente todas las posiciones del CDP, su ratio y su estado de seguridad. Para cada posición, también proporciona información sobre el historial de la posición y permite fácilmente que otros supervisen el instrumento financiero. <iframe width="560" height="315" src="https://www.youtube.com/embed/hc3YDjv6dkk" title="Vista previa de YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-## Polkadot Staking Dashboard
+## Dashboard de Staking Polkadot
 
 Staking es una forma clave de usar tus tokens DOT y KSM, pero actualmente la UX para esta es difícil de entender y hace que la mayoría de los usuarios tomen decisiones sin conocimiento.
 
@@ -54,7 +54,7 @@ Por último, Web3Go ha publicado otra excelente entrada con estadísticas de sta
 
 ![](https://miro.medium.com/max/1400/0*jQgOnvcaXt6cprJR)
 
-## RMRK NFT Marketplace Explorer
+## Explorador de mercado de RMRK NFT
 
 RMRK es un protocolo avanzado de legos en NFT que hace que estos sean mucho más que un simple jpeg. El equipo de RMRK está aportando nuevos estándares de NFT al ecosistema DOT, y liderando la construcción de la próxima generación.
 
@@ -66,7 +66,7 @@ El ganador de [este reto](https://gitcoin.co/issue/subquery/grants/4/100027174) 
 
 "_Desde el inicio de Web3Go, hemos estado utilizando SubQuery como la arquitectura subyacente para la indexación de datos. El kit de desarrollo proporcionado por SubQuery ha demostrado ser muy adecuado para que nuestro equipo desarrolle, despliegue y actualice rápidamente los proyectos, lo que también es la clave de nuestros buenos resultados en el Hackathon de Gitcoin. En el siguiente paso, utilizaremos Subquery para desarrollar cuadros de mando para todos los proyectos en las parachains de Polkadot & Kusama, en los que participarán Defi, NFT y Tokens!_" dice Hao Ding de Web3Go.
 
-## Extend SubQuery to another Layer-1 Blockchain
+## Extender SubQuery a otra Capa-1 Blockchain
 
 SubQuery es nativo de Polkadot, es nuestra casa y hemos trabajado duro para construir relaciones en este ecosistema. A pesar de esto, también creemos en un futuro multicadena, ya que sabemos que va a haber muchas blockchains diferentes trabajando juntas para resolver diferentes problemas. Nuestro plan a largo plazo es tomar SubQuery y adaptarlo para que funcione en otras blockchains que no tienen una solución de indexación actual, para así ayudar a los desarrolladores a construir nuevas dApps.
 
