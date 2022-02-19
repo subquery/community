@@ -6,7 +6,7 @@ Polkadot'taki lider veri indeksleme çözümü olan SubQuery, son [Encode Club](
 
 Hackathon, Moonbeam, Astar ve Acala gibi önde gelen blockchain projelerinin çeşitli ödül havuzlarına katkıda bulunduğu 1-16 Aralık 2021 tarihleri ​​arasında gerçekleşti. Ödüller, projeleri önceden belirlenmiş standartlarda başarıyla tamamlayanlara ve en yaratıcı fikirleri sunanlara veya temel SubQuery SDK'sını geliştirmek için alanlara veya çözenlere verilecektir. Bu zorlukların kısa bir özeti aşağıdadır:
 
-- [Create a unified block explorer that combines Substrate and EVM insights from Moonbeam and Astar into one easy to use application](https://gitcoin.co/issue/subquery/grants/1) — US$12,000 [Sponsored by Moonbeam and Astar]
+- [Moonbeam ve Astar'ın Substrate ve EVM bilgilerini tek bir kullanımı kolay uygulamada birleştiren](https://gitcoin.co/issue/subquery/grants/1) birleşik bir blok gezgini oluşturun — 12.000 ABD Doları [Moonbeam ve Astar sponsorluğunda]
 - [Zapper.fi veya defisaver.com'dan ilham alan bir gösterge panosu oluşturmak için Karura/Acala'daki SubQuery ve DeFi merkezi ile birlikte çalışın](https://gitcoin.co/issue/subquery/grants/2) — 8.000 ABD doları [Acala Sponsorluğunda]
 - [Polkadot ve çeşitli parachainleri genelinde en iyi stake fırsatlarını gösteren bir stake etme panosu oluşturun](https://gitcoin.co/issue/subquery/grants/3) — 3.000 ABD Doları
 - [Tüm RMRK protokolü tabanlı NFT'ler için bir pazar yeri gezgini oluşturun](https://gitcoin.co/issue/subquery/grants/4) — 2.000 ABD Doları
