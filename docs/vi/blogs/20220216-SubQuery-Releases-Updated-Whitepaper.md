@@ -10,7 +10,7 @@ This whitepaper outlines SubQuery’s plans to move towards a globally decentral
 
 ![](https://miro.medium.com/max/700/0*xtd6e7mn7JkfhpzG)
 
-## Our Focus
+## Trọng tâm của chúng tôi
 
 The [updated whitepaper](https://static.subquery.network/whitepaper.pdf) maintains SubQuery’s conviction that the data services of tomorrow must be multi-chain, simple, and flexible. The whitepaper goes into detail on how the SubQuery Network factors these considerations into the token economic design while also enabling power users to run enterprise-level services on it.
 
@@ -22,7 +22,7 @@ SubQuery is native to the Polkadot ecosystem, it’s our home and will be the lo
 
 The SubQuery Network is designed to support any SubQuery Project from any Layer 1 network (within Polkadot or not). It will be designed and built to be multi-chain from the outset, where you will see projects from one network being indexed alongside projects from another.
 
-### Simple and Accessible
+### Đơn giản và dễ tiếp cận
 
 _The SubQuery Network is designed to be the data provider of the people._
 
@@ -32,13 +32,13 @@ SubQuery won’t require high staking thresholds to participate or huge investme
 
 This means that a design goal is to make it as easy as possible for anyone to participate. You don’t need to be a developer or have a deep knowledge of the token economic model, you can easily participate as a Delegator. As a Consumer, you also have plenty of payment options to best suit your needs. Finally, a key focus of the SubQuery Foundation is to ensure that there is enough support that anyone, from an expert blockchain team to a new hobbyist developer, can build their own SubQuery project.
 
-### Flexible
+### Linh hoạt
 
 _SubQuery is just a tool in the hands of our community, endless opportunities exist limited only by the creativity of the people._
 
 The true advantages of SubQuery may lie in its flexibility — users will have the freedom to adapt and transform decentralised data to suit their needs. This drive for flexibility extends to making it easier for delegators to quickly and easily support different indexers without having to wait for extended unbonding periods. Finally, this approach is perfectly embodied by our introduction of three payment methods which we’ll cover next.
 
-## SubQuery’s Innovation in Payment Methods
+## Sự đổi mới của SubQuery trong phương thức thanh toán
 
 The biggest change by far with this version of the whitepaper is our innovation in payment methods. Today, we generally pay with subscription-based payments for the music we listen to, the TV shows we watch, and the applications that we use. In pioneering web3 service applications, we’ve instead adopted a pay-as-you-go model, where each atomic transaction has an exact cost in the network.
 
