@@ -1,4 +1,4 @@
-# SubQuery Partners With Leading Polkadot Teams On Technical Bounties via the SubQuery Grants Programme
+# SubQuery hợp tác với các nhóm Polkadot hàng đầu về tiền thưởng kỹ thuật thông qua Chương trình SubQuery Grants
 
 ![](https://miro.medium.com/max/1400/0*KlrhjUy3MRRT98OO)
 
@@ -18,10 +18,10 @@ Applicants who are interested in any of these bounties are encouraged to submit 
 
 For those who would like to up-skill more on SubQuery before making an application, [The SubQuery Academy](https://subquery.medium.com/subquery-launches-the-subquery-academy-9505dc66a01)’s “Hero Course” is a free and modular educational program designed to build awareness amongst developers. and is [completely free and accessible via an online portal](https://subquery.coassemble.com/unlock/dOKZW6O#/).
 
-## About SubQuery Network
+## Giới thiệu về mạng SubQuery
 
-SubQuery is Polkadot’s leading data provider, supporting an indexing & querying layer between Layer-1 blockchains (Polkadot) and decentralized applications. SubQuery’s data service is being used by most of the Polkadot and Kusama crowdloan and parachain auction websites live today.
+SubQuery là nhà cung cấp dữ liệu hàng đầu của Polkadot, hỗ trợ lập chỉ mục & lớp truy vấn giữa các blockchains Lớp-1 (Polkadot) và các ứng dụng phi tập trung. Dịch vụ dữ liệu của SubQuery đang được hầu hết các trang web đấu giá parachain và huy động vốn cộng đồng trên Polkadot và Kusama hiện có sử dụng.
 
-SubQuery’s protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+Giao thức của SubQuery loại bỏ các đặc điểm riêng của dữ liệu blockchain với SubQuery SDK, cho phép các nhà phát triển tập trung vào việc triển khai sản phẩm cốt lõi của họ mà không cần lãng phí nỗ lực vào các công nghệ phụ trợ tùy chỉnh.
 
 [Website](https://subquery.network/) | [Email](hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)
