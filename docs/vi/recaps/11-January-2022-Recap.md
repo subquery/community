@@ -14,43 +14,43 @@ Cộng đồng của SubQuery đang mở rộng nhanh chóng về số lượng 
 
 Tháng trước, chúng tôi đã khởi chạy Chương trình SubQuery Grants, một chương trình tăng tốc không pha loãng để giúp các nhà phát triển trong cộng đồng của chúng tôi xây dựng thế hệ dApp tiếp theo. Trong tháng này, chúng tôi đã nói chuyện với các đối tác của mình để phát hành vòng tiền thưởng đầu tiên khi hợp tác với Moonbeam, Acala, Astar và Bifrost làm các dự án để truyền cảm hứng. Tất cả đều được mở để đăng ký ngay bây giờ và như một phần thưởng, nếu đơn đăng ký của bạn thành công, bạn sẽ phải làm việc chặt chẽ với nhóm parachain đã đề xuất thử thách!
 
-Applicants who are interested in any of these bounties are encouraged to submit their proposal with the budget required to complete the task and other requirements [here](https://docs.google.com/forms/d/e/1FAIpQLSfmMazkebKwNTWThBkVGaxf2Bg8s4aWZ0ZhwiMCtc9kv4sJHQ/viewform). Additionally, we look forward to announce the first round of SubQuery grantees in February.
+Các ứng viên quan tâm đến bất kỳ khoản tiền thưởng nào trong số này được khuyến khích gửi đề xuất của họ với ngân sách cần thiết để hoàn thành nhiệm vụ và các yêu cầu khác [tại đây](https://docs.google.com/forms/d/e/1FAIpQLSfmMazkebKwNTWThBkVGaxf2Bg8s4aWZ0ZhwiMCtc9kv4sJHQ/viewform). Ngoài ra, chúng tôi mong muốn thông báo về vòng đầu tiên của những người nhận tài trợ SubQuery vào tháng Hai.
 
 [Đọc thêm tại đây](https://subquery.medium.com/subquery-partners-with-leading-polkadot-teams-on-technical-bounties-via-the-subquery-grants-d40453788435)
 
 ### SubQuery tôn vinh những người chiến thắng cuộc thi Hackathon Gitcoin GR 12
 
-[SubQuery partnered with Gitcoin in December](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a) to sponsor five challenges to a value of USD$37,000 (the largest prize pool in the challenge), inviting developers to build useful tools, dashboards and even extend SubQuery to another Layer-1 blockchain.
+[SubQuery hợp tác với Gitcoin vào tháng 12](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a) để tài trợ cho năm thử thách với trị giá 37.000 USD (tổng giải thưởng lớn nhất trong thử thách), mời các nhà phát triển xây dựng các công cụ hữu ích, trang tổng quan và thậm chí mở rộng SubQuery sang Lớp-1 khác chuỗi khối.
 
 ![](https://miro.medium.com/max/1400/1*BUq3ah1ULNnvLjqxv_vzlQ.png)
 
-[Sam Zou](https://twitter.com/zoujialiu), the CEO and Founder of SubQuery commented, “_SubQuery is delighted with the results of the Gitcoin GR12 Hackathon. Our mission relies on having a network of developers who are empowered to create and innovate within the Substrate/Polkadot ecosystem. This partnership provided opportunities for motivated developers around the world to build the applications of tomorrow. We are excited to nurture the winners of the challenges to develop their ideas even further_”
+[Sam Zou](https://twitter.com/zoujialiu), Giám đốc điều hành kiêm Người sáng lập SubQuery nhận xét: “_SubQuery rất vui với kết quả của Gitcoin GR12 Hackathon. Sứ mệnh của chúng tôi là dựa vào việc có một mạng lưới các nhà phát triển được trao quyền để tạo và đổi mới trong hệ sinh thái Substrate/Polkadot. Sự hợp tác này đã tạo cơ hội cho các nhà phát triển có động lực trên khắp thế giới xây dựng các ứng dụng của tương lai. Chúng tôi rất vui mừng được nuôi dưỡng những người chiến thắng trong các thử thách để phát triển hơn nữa ý tưởng của họ_”
 
-Recently we’ve covered the many winners that participated in this hackathon and the amazing projects that they have built in [this detailed writeup](https://subquery.medium.com/subquery-celebrates-winners-of-gitcoin-gr-12-hackathon-7486afaeab29). We were blown away by the quality and progress made by the submissions in such a short time and we’re pleased to invite many of the submissions to participate in our grants programme.
+Gần đây, chúng tôi đã đề cập đến nhiều người chiến thắng đã tham gia cuộc thi hackathon này và những dự án tuyệt vời mà họ đã xây dựng trong [bản viết chi tiết này](https://subquery.medium.com/subquery-celebrates-winners-of-gitcoin-gr-12-hackathon-7486afaeab29). Chúng tôi đã rất ngạc nhiên bởi chất lượng và tiến độ của các bài nộp trong thời gian ngắn như vậy và chúng tôi vui mừng mời nhiều người trong số các bài nộp tham gia vào chương trình tài trợ của chúng tôi.
 
-[Read more here](https://subquery.medium.com/subquery-celebrates-winners-of-gitcoin-gr-12-hackathon-7486afaeab29)
+[Đọc thêm tại đây](https://subquery.medium.com/subquery-celebrates-winners-of-gitcoin-gr-12-hackathon-7486afaeab29)
 
-### Hero Course China
+### Khóa học anh hùng Trung Quốc
 
-Our Hero Course made in partnership with OneBlock+ started in early January and now we already have released three lessons to over 200 students! Join the OneBlock+ Community to join this course or office hours. China is a strategically important region for SubQuery, but we expect to launch many other regional developer courses soon — reach out if you can help us with this!
+Khóa học Anh hùng của chúng tôi được hợp tác với OneBlock+ bắt đầu vào đầu tháng 1 và hiện tại chúng tôi đã phát hành ba bài học cho hơn 200 học viên! Tham gia Cộng đồng OneBlock + để tham gia khóa học này hoặc giờ làm việc. Trung Quốc là một khu vực chiến lược quan trọng đối với SubQuery, nhưng chúng tôi dự kiến sẽ sớm triển khai nhiều khóa học dành cho nhà phát triển khu vực khác - hãy liên hệ nếu bạn có thể giúp chúng tôi về vấn đề này!
 
 ![](https://miro.medium.com/max/1400/1*_8N000hX1WBM79ZbFyhvYQ.png)
 
-## Core Product Development
+## Phát triển sản phẩm cốt lõi
 
-### Multi Chain Support
+### Hỗ trợ đa chuỗi
 
-SubQuery is native to Polkadot, it’s our home and we’ve worked hard to build relationships in this ecosystem. The core premise of Polkadot is to create a thriving community of developers, users, and businesses that will tap into its multichain interoperability. We stand by that vision and we also believe Polkadot will be a leading player in that initiative.
+SubQuery có nguồn gốc từ Polkadot, đó là ngôi nhà của chúng tôi và chúng tôi đã làm việc chăm chỉ để xây dựng các mối quan hệ trong hệ sinh thái này. Tiền đề cốt lõi của Polkadot là tạo ra một cộng đồng lớn mạnh gồm các nhà phát triển, người dùng và doanh nghiệp sẽ khai thác khả năng tương tác đa hướng của nó. Chúng tôi theo đuổi tầm nhìn đó và chúng tôi cũng tin rằng Polkadot sẽ là người đi đầu trong sáng kiến đó.
 
-But we believe in a multi chain future, we know that there are going to be many different interoperable blockchains working together to solve different problems. Our long term plan has always been to take SubQuery and to adapt it to work for other blockchain that don’t have a current indexing solution. Our multi-chain approach that we’ve needed to make for Polkadot means we are uniquely suited for this challenge.
+Nhưng chúng tôi tin tưởng vào một tương lai đa chuỗi, chúng tôi biết rằng sẽ có nhiều blockchain có thể tương tác khác nhau làm việc cùng nhau để giải quyết các vấn đề khác nhau. Kế hoạch dài hạn của chúng tôi luôn là sử dụng SubQuery và điều chỉnh nó để hoạt động cho các blockchain khác không có giải pháp lập chỉ mục hiện tại. Phương pháp tiếp cận đa chuỗi mà chúng tôi cần thực hiện cho Polkadot có nghĩa là chúng tôi hoàn toàn phù hợp với thách thức này.
 
-We’re finalising the work on the first of 5 new layer 1 chains that SubQuery will be indexing, we can’t wait to announce it soon!
+Chúng tôi đang hoàn thiện công việc đầu tiên trong số 5 chuỗi lớp 1 mới mà SubQuery sẽ lập chỉ mục, chúng tôi rất mong được thông báo sớm!
 
 ![](https://miro.medium.com/max/1400/1*jD1n5MSjeatjiaF5hY-Wjg.png)
 
-### SubQuery Performance Improvements
+### Cải thiện Hiệu suất SubQuery
 
-SubQuery’s indexing speed is always being improved, it’s a constant focus on our development team. Our advanced Dictionary support means enables this, Dictionaries speed up your project by many multiples and allow you to index entire Polkadot chain in minutes, not hours (depending on your project complexity).
+Tốc độ lập chỉ mục của SubQuery luôn được cải thiện, đó là trọng tâm thường xuyên của nhóm phát triển của chúng tôi. Our advanced Dictionary support means enables this, Dictionaries speed up your project by many multiples and allow you to index entire Polkadot chain in minutes, not hours (depending on your project complexity).
 
 As an indicator of the breadth of support that SubQuery offers to the Polkadot ecosystem, we are now hosting and managing dictionaries across the 31 different networks, representing the majority of all major Polkadot/Kusama parachains.
 
@@ -103,8 +103,8 @@ As you can see in the original roadmap above, we’ve completed all of Milestone
 
 P.S.
 
-Remember to join our [Discord](https://discord.com/invite/subquery) and our [social channels](https://linktr.ee/subquerynetwork) to stay updated on our latest news and announcements.
+Hãy nhớ tham gia [Discord](https://discord.com/invite/subquery) và [các kênh xã hội](https://linktr.ee/subquerynetwork) của chúng tôi để được cập nhật tin tức và thông báo mới nhất của chúng tôi.
 
-The SubQuery Team
+Nhóm SubQuery
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Email](hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Youtube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
