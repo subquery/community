@@ -1,4 +1,4 @@
-# SubQuery пуска токеномикату
+# SubQuery освобождава Tokenomics
 
 ![](https://miro.medium.com/max/1400/1*e42FM0TsNgOM3VacoctOzQ.png)
 
