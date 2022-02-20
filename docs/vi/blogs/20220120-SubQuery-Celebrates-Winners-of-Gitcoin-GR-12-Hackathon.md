@@ -1,4 +1,4 @@
-# SubQuery Celebrates Winners of Gitcoin GR 12 Hackathon
+# SubQuery tôn vinh những người chiến thắng cuộc thi Hackathon Gitcoin GR 12
 
 ![](https://miro.medium.com/max/1400/1*MnMY9j3nasex9_9MNHUPtA.png)
 
@@ -74,14 +74,14 @@ The winner of [this US$12,000 challenge](https://gitcoin.co/issue/subquery/grant
 
 “_I have been studying a bunch of indexers in the past few months and went as far as building an indexer from scratch. That might be the reason why SubQuery caught my attention in the Gitcoin GR12 Hackathon. I took up the task of extending SubQuery to index Terra. I did not believe that I could pull this off in 15 days. But, SubQuery was architected in such a magnificent manner that it allowed me to create a mental picture of what is happening under the hood very quickly. I hacked together a working solution just in time and I am currently working with SubQuery to merge the Terra indexer into the subql package. In the foreseeable future, I will be continuing to work with SubQuery to maintain and scale the project and possibly build indexers for several other layer 1 chains_” said Naveen.
 
-[Sam Zou](https://twitter.com/zoujialiu), the CEO and Founder of SubQuery commented, “_SubQuery is delighted with the results of the Gitcoin GR12 Hackathon. Our mission relies on having a network of developers who are empowered to create and innovate within the Substrate/Polkadot ecosystem. This partnership provided opportunities for motivated developers around the world to build the applications of tomorrow. We are excited to nurture the winners of the challenges to develop their ideas even further_”
+[Sam Zou](https://twitter.com/zoujialiu), Giám đốc điều hành kiêm Người sáng lập SubQuery nhận xét: “_SubQuery rất vui với kết quả của Gitcoin GR12 Hackathon. Sứ mệnh của chúng tôi là dựa vào việc có một mạng lưới các nhà phát triển được trao quyền để tạo và đổi mới trong hệ sinh thái Substrate/Polkadot. Sự hợp tác này đã tạo cơ hội cho các nhà phát triển có động lực trên khắp thế giới xây dựng các ứng dụng của tương lai. Chúng tôi rất vui mừng được nuôi dưỡng những người chiến thắng trong các thử thách để phát triển hơn nữa ý tưởng của họ_”
 
-Following on from this successful Hackathon, SubQuery would like to encourage developers who would like to learn more about how to build applications with SubQuery to [register for our free online “Hero Course”, or apply for our recently announced Grants Programme](https://subquery.coassemble.com/unlock/dOKZW6O#/).
+Tiếp theo từ cuộc thi Hackathon thành công này, SubQuery muốn khuyến khích các nhà phát triển muốn tìm hiểu thêm về cách xây dựng ứng dụng với SubQuery hãy [đăng ký “Khóa học anh hùng” trực tuyến miễn phí của chúng tôi hoặc đăng ký Chương trình tài trợ được công bố gần đây của chúng tôi](https://subquery.coassemble.com/unlock/dOKZW6O#/).
 
 ---
 
 ## Giới thiệu về SubQuery
 
-[SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. This service unlocks blockchain data and transforms it to a queryable state so that it can be used in intuitive applications. It allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The upcoming SubQuery Network will decentralize and tokenize the ecosystem to allow everyone to participate in the web3 data revolution.
+[SubQuery](https://subquery.network/) là một tập hợp dữ liệu phi tập trung, lập chỉ mục & lớp truy vấn giữa các blockchains Lớp-1 và các ứng dụng phi tập trung. Dịch vụ này mở khóa dữ liệu blockchain và chuyển nó sang trạng thái có thể truy vấn để có thể sử dụng trong các ứng dụng trực quan. Nó cho phép các nhà phát triển DApp tập trung vào tính năng cốt lõi và giao diện người dùng của họ, mà không cần lãng phí thời gian vào việc xây dựng chương trình phụ trợ tùy chỉnh để xử lý dữ liệu. Mạng SubQuery sắp tới sẽ phi tập trung và mã hóa hệ sinh thái để cho phép mọi người tham gia vào cuộc cách mạng dữ liệu web3.
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Youtube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
