@@ -48,63 +48,63 @@ Kami sedang menyelesaikan pekerjaan pertama dari 5 rantai layer 1 baru yang akan
 
 ![](https://miro.medium.com/max/1400/1*jD1n5MSjeatjiaF5hY-Wjg.png)
 
-### SubQuery Performance Improvements
+### Peningkatan Kinerja SubQuery
 
-SubQuery’s indexing speed is always being improved, it’s a constant focus on our development team. Our advanced Dictionary support means enables this, Dictionaries speed up your project by many multiples and allow you to index entire Polkadot chain in minutes, not hours (depending on your project complexity).
+Kecepatan pengindeksan SubQuery selalu ditingkatkan, ini merupakan fokus konstan pada tim pengembangan kami. Dukungan Kamus canggih kami memungkinkan ini, Kamus mempercepat proyek Anda dengan banyak kelipatan dan memungkinkan Anda untuk mengindeks seluruh chain Polkadot dalam hitungan menit, bukan jam (tergantung pada kompleksitas proyek Anda).
 
-As an indicator of the breadth of support that SubQuery offers to the Polkadot ecosystem, we are now hosting and managing dictionaries across the 31 different networks, representing the majority of all major Polkadot/Kusama parachains.
+Sebagai indikator luasnya dukungan yang ditawarkan SubQuery ke ekosistem Polkadot, kami sekarang menghosting dan mengelola kamus di 31 jaringan yang berbeda, yang mewakili sebagian besar dari semua parachain Polkadot/Kusama utama.
 
 ![](https://miro.medium.com/max/1400/1*WeMY5WnWZ_jvllxidhycUA.png)
 
-### SubQuery Templates Registry
+### Registri Template SubQuery
 
-> 29 networks are covered by templates
+> 29 jaringan dicakup oleh template
 
-The `subql init` command is a familiar one for anyone that has built a SubQuery project; it represents a blank canvas — limitless opportunities. We are aware that we can do better to help others get started, rather than a blank canvas developers want a blank scaffold, where all the boiler-plate code is already written.
+Perintah `subql init` adalah perintah yang familiar bagi siapa saja yang telah membangun proyek SubQuery; itu mewakili kanvas kosong — peluang tanpa batas. Kami sadar bahwa kami dapat berbuat lebih baik untuk membantu orang lain memulai, daripada pengembang kanvas kosong menginginkan perancah kosong, di mana semua kode boiler-plate sudah ditulis.
 
-Today when you write `subql init`, you are presented with a list of 29 networks from which you are provided a pre-created scaffold with all the correct endpoints, dictionary links, and even type definitions. This eliminates one of the most difficult steps when starting a new SubQuery project and makes building your next big dApp that much easier and faster.
+Hari ini ketika Anda menulis `subql init`, Anda disajikan dengan daftar 29 jaringan dari mana Anda diberikan perancah yang telah dibuat sebelumnya dengan semua titik akhir yang benar, tautan kamus, dan bahkan definisi jenis. Ini menghilangkan salah satu langkah tersulit saat memulai proyek SubQuery baru dan membuat pembuatan dApp besar berikutnya menjadi lebih mudah dan lebih cepat.
 
-### Data Aggregation Features
+### Fitur Agregasi Data
 
-SubQuery now supports advanced GraphQL aggregate functions to allow you to perform a calculation on a set of values during your query. These functions provide our customers a richer set of insights and calculations from their existing data set. For example with a single query you can calculate the median contribution amount for each crowdloan broken down by contribution date.
+SubQuery sekarang mendukung fungsi agregat GraphQL tingkat lanjut untuk memungkinkan Anda melakukan penghitungan pada sekumpulan nilai selama kueri Anda. Fungsi-fungsi ini memberi pelanggan kami kumpulan wawasan dan perhitungan yang lebih kaya dari kumpulan data mereka yang ada. Misalnya dengan satu kueri, Anda dapat menghitung jumlah kontribusi rata-rata untuk setiap crowdloan yang dikelompokkan berdasarkan tanggal kontribusi.
 
-[Read more about how to use these features in our upgraded docs.](https://doc.subquery.network/query/aggregate/)
+[Baca selengkapnya tentang cara menggunakan fitur ini di dokumen kami yang ditingkatkan.](https://doc.subquery.network/query/aggregate/)
 
-### SubQuery partners with Darwinia Network to build SubQuery’s CLI Tool
+### SubQuery bermitra dengan Darwinia Network untuk membangun Alat CLI SubQuery
 
-Darwinia has partnered with SubQuery to build the plethora of applications that will be needed to provide the ultimate user experience for cross chain interactions. This includes a new [Smart App that is a central hub](https://apps.darwinia.network/) to manage all Darwinia network interactions including governance, staking, chain exploration and more. This app uses a considerable amount of [SubQuery data to show historic data and actions](https://explorer.subquery.network/subquery/darwinia-network/smart-app-crab). SubQuery will be working closely with the team at Darwinia to make this the best experience in the entire Polkadot ecosystem.
+Darwinia telah bermitra dengan SubQuery untuk membangun sejumlah besar aplikasi yang akan dibutuhkan untuk memberikan pengalaman pengguna terbaik untuk interaksi lintas chain. Ini termasuk [Aplikasi Cerdas baru yang merupakan hub pusat](https://apps.darwinia.network/) untuk mengelola semua interaksi jaringan Darwinia termasuk tata kelola, pertaruhan, eksplorasi chain, dan banyak lagi. Aplikasi ini menggunakan cukup banyak [data SubQuery untuk menampilkan data dan tindakan historis](https://explorer.subquery.network/subquery/darwinia-network/smart-app-crab). SubQuery akan bekerja sama dengan tim di Darwinia untuk menjadikan ini pengalaman terbaik di seluruh ekosistem Polkadot.
 
 ![](https://miro.medium.com/max/1200/1*bL2Csj9qyamD7txAheCTIg.gif)
 
-Darwinia have also been working closely with the SubQuery team to [build a CLI tool](https://github.com/fewensa/subquery-cli) for the SubQuery managed service (https://project.subquery.network). You can use this [CLI](https://github.com/fewensa/subquery-cli) to create a SubQuery project and automatically deploy a new version to either the staging or production slot. Additionally you can retrieve information including the detailed syncing status and logs from your running project that is hosted for free in SubQuery Projects. [Read more here](https://subquery.medium.com/subquery-partners-with-darwinia-network-to-build-subquerys-cli-tool-903dc4c9ef66)
+Darwinia juga telah bekerja sama dengan tim SubQuery untuk [membangun alat CLI](https://github.com/fewensa/subquery-cli) untuk layanan terkelola SubQuery (https://project.subquery.network). Anda dapat menggunakan [CLI](https://github.com/fewensa/subquery-cli) ini untuk membuat proyek SubQuery dan secara otomatis menerapkan versi baru ke staging atau slot produksi. Selain itu, Anda dapat mengambil informasi termasuk status sinkronisasi terperinci dan log dari proyek Anda yang sedang berjalan yang dihosting secara gratis di Proyek SubQuery. [Baca selengkapnya di sini](https://subquery.medium.com/subquery-partners-with-darwinia-network-to-build-subquerys-cli-tool-903dc4c9ef66)
 
 ## SubQuery Network
 
-Last community call we walked through a few important details of the upcoming SubQuery test network. It will be run over at least three seasons, each season will test different aspects of the network:
+Panggilan komunitas terakhir, kami membahas beberapa detail penting dari jaringan pengujian SubQuery yang akan datang. Ini akan dijalankan setidaknya selama tiga musim, setiap musim akan menguji berbagai aspek jaringan:
 
-- Season 1: Early stage alpha testing of a limited number of features with a select few participants
-- Season 2: Large beta testing of more features with hundreds of participants
-- Season 3: Full public test network for load and scale testing with thousands of participants
+- Musim 1: Pengujian alfa tahap awal dari sejumlah fitur terbatas dengan beberapa peserta terpilih
+- Musim 2: Pengujian beta besar untuk lebih banyak fitur dengan ratusan peserta
+- Musim 3: Jaringan uji publik penuh untuk pengujian beban dan skala dengan ribuan peserta
 
-Each season will have multiple challenges that you can complete which may result in real SQT rewards. Expect things to kickoff here in March!
+Setiap musim akan memiliki banyak tantangan yang dapat Anda selesaikan yang dapat menghasilkan hadiah SQT nyata. Harapkan hal-hal akan dimulai di sini pada bulan Maret!
 
-## Roadmap Update
+## Roadmap Terbaru
 
-Last October we released out [technical roadmap](https://blog.subquery.network/blogs/20211029-roadmap-october.html) with the next year mapped out for SubQuery, we’re overdue to address exactly how we’re doing here.
+Oktober lalu kami merilis [peta jalan teknis](https://blog.subquery.network/blogs/20211029-roadmap-october.html) dengan tahun berikutnya dipetakan untuk SubQuery, kami sudah terlambat untuk membahas dengan tepat apa yang kami lakukan di sini.
 
 ![](https://miro.medium.com/max/1400/1*2a3SGrW-OG5pbw67jsavvw.jpeg)
 
-As you can see in the original roadmap above, we’ve completed all of Milestone 0 and 1, and are making good progress on Milestone 2. We’ve even delivered some features relevant to our hosted service much earlier than expected due to the huge scale of requests currently going to [our enterprise customers](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html).
+Seperti yang Anda lihat di peta jalan asli di atas, kami telah menyelesaikan semua Milestone 0 dan 1, dan membuat kemajuan yang baik di Milestone 2. Kami bahkan telah mengirimkan beberapa fitur yang relevan dengan layanan yang dihosting kami jauh lebih awal dari yang diharapkan karena besarnya skala permintaan yang saat ini ditujukan ke [pelanggan perusahaan kami](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html).
 
-## Other things you might have missed
+## Hal-hal lain yang mungkin Anda lewatkan
 
-- We will be having weekly office hours on our Discord Server! Join SubQuery’s ‘Office Hours’ on our stages channel where you can catch-up with the team in a casual environment.
-- We had a Russian QnA with James & Dmytro in Discord where all questions were asked and answered in Russian. Let us know which language you would like to hear next
+- Kami akan memiliki jam kantor mingguan di Server Discord kami! Bergabunglah dengan 'Jam Kerja' SubQuery di saluran panggung kami di mana Anda dapat mengejar ketinggalan dengan tim dalam lingkungan yang santai.
+- Kami mengadakan QnA Rusia dengan James & Dmytro in Discord di mana semua pertanyaan diajukan dan dijawab dalam bahasa Rusia. Beri tahu kami bahasa apa yang ingin Anda dengar selanjutnya
 
 P.S.
 
-Remember to join our [Discord](https://discord.com/invite/subquery) and our [social channels](https://linktr.ee/subquerynetwork) to stay updated on our latest news and announcements.
+Ingatlah untuk bergabung dengan [Discord](https://discord.com/invite/subquery) kami dan [saluran sosial](https://linktr.ee/subquerynetwork) kami untuk tetap mendapatkan berita dan pengumuman terbaru kami.
 
-The SubQuery Team
+Tim SubQuery
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Email](hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Youtube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
