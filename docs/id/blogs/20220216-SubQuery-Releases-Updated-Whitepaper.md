@@ -1,8 +1,8 @@
-# SubQuery Releases Updated Whitepaper
+# SubQuery Merilis Whitepaper yang Diperbarui
 
 ![](https://miro.medium.com/max/700/0*guA8YHyJPhu0wmzf)
 
-_An updated plan for how SubQuery will revolutionise the future of web3 infrastructure_
+_Rencana terbaru tentang bagaimana SubQuery akan merevolusi masa depan infrastruktur web3_
 
 After a long period of design, discussion, testing, and development, today we are releasing a new and significantly [updated version of our Whitepaper](https://static.subquery.network/whitepaper.pdf). Originally published back in June 2021, the SubQuery Whitepaper is a document that outlines our strategic framework for the decentralised SubQuery Network and her SQT token. Since the original publication, we have experienced significant growth in our customer base and community and made huge progress on building the SubQuery Network. From these sources, we have been inspired to improve and innovate, and that culminates in the latest version of our whitepaper. <iframe width="1719" height="976" src="https://www.youtube.com/embed/Ghxyw5bIHs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
