@@ -2,21 +2,21 @@
 
 ![](https://miro.medium.com/max/1400/0*KlrhjUy3MRRT98OO)
 
-_The technical bounties give opportunities for developers to work on projects for the best teams in Polkadot_
+_Các khoản tiền thưởng kỹ thuật tạo cơ hội cho các nhà phát triển làm việc trên các dự án cho các nhóm tốt nhất ở Polkadot_
 
-[SubQuery](https://subquery.network/), the leading data indexing solution built on Polkadot (DOT), is pleased to announce the launch of technical bounties in partnership with leading blockchain teams in Polkadot as part of SubQuery’s Grants Programme.
+[SubQuery](https://subquery.network/), giải pháp lập chỉ mục dữ liệu hàng đầu được xây dựng trên Polkadot (DOT), vui mừng thông báo ra mắt tiền thưởng kỹ thuật hợp tác với các nhóm blockchain hàng đầu trong Polkadot như một phần của Chương trình tài trợ của SubQuery.
 
-[The USD$500,000 SubQuery Grants Program kicked off in December 2021](https://subquery.medium.com/subquery-launches-500-000-grants-program-to-promote-polkadot-ecosystem-growth-9f04e6f67a3b) with the vision of offering opportunities to blockchain developers, community members, and wider ecosystem participants to create innovative or high-potential ideas that leverage SubQuery’s open-source data indexing tools to support cutting-edge decentralised applications.
+[Chương trình SubQuery Grants trị giá 500.000 USD bắt đầu vào tháng 12 năm 2021](https://subquery.medium.com/subquery-launches-500-000-grants-program-to-promote-polkadot-ecosystem-growth-9f04e6f67a3b) với tầm nhìn mang lại cơ hội cho các nhà phát triển blockchain, thành viên cộng đồng và những người tham gia hệ sinh thái rộng lớn hơn để tạo ra các ý tưởng sáng tạo hoặc tiềm năng cao tận dụng dữ liệu nguồn mở của SubQuery các công cụ lập chỉ mục để hỗ trợ các ứng dụng phi tập trung tiên tiến.
 
-While developers can still apply for the SubQuery Grants Programme with their own ideas, SubQuery has released initial bounties in partnership with Moonbeam, Acala, Astar and Bifrost as projects for inspiration. All are open to apply now, and as a bonus, if your application is successful you’ll get to work closely with the parachain team that suggested the challenge!
+Trong khi các nhà phát triển vẫn có thể đăng ký Chương trình Tài trợ SubQuery với ý tưởng của riêng họ, SubQuery đã phát hành tiền thưởng ban đầu hợp tác với Moonbeam, Acala, Astar và Bifrost làm dự án lấy cảm hứng. Tất cả đều được mở để đăng ký ngay bây giờ và như một phần thưởng, nếu đơn đăng ký của bạn thành công, bạn sẽ phải làm việc chặt chẽ với nhóm parachain đã đề xuất thử thách!
 
-You can see a live list of all the bounties on SubQuery’s website, including a short summary of what the teams are looking for. It is expected that you will be able to provide a robust plan for how you will design, develop, and deliver (including detailed costs) on your chosen bounty as part of your application. As always, you can talk to our team and we can put you in direct contact with the relevant team to give you the best advice on your proposal.
+Bạn có thể xem danh sách trực tiếp tất cả các khoản tiền thưởng trên trang web của SubQuery, bao gồm một bản tóm tắt ngắn về những gì các đội đang tìm kiếm. Dự kiến bạn sẽ có thể cung cấp một kế hoạch mạnh mẽ về cách bạn sẽ thiết kế, phát triển và cung cấp (bao gồm cả chi phí chi tiết) trên tiền thưởng bạn đã chọn như một phần của ứng dụng của bạn. Như mọi khi, bạn có thể nói chuyện với nhóm của chúng tôi và chúng tôi có thể giúp bạn liên hệ trực tiếp với nhóm có liên quan để cung cấp cho bạn lời khuyên tốt nhất về đề xuất của bạn.
 
 ![](https://miro.medium.com/max/1400/0*o2m57G86Tyi2UWiQ)
 
-Applicants who are interested in any of these bounties are encouraged to submit their proposal with the budget required to complete the task and other requirements here. If you have any questions please join our Discord server and reach out to our team in the Grants channel.
+Các ứng viên quan tâm đến bất kỳ khoản tiền thưởng nào trong số này được khuyến khích gửi đề xuất của họ với ngân sách cần thiết để hoàn thành nhiệm vụ và các yêu cầu khác ở đây. Nếu bạn có bất kỳ câu hỏi nào, vui lòng tham gia máy chủ Discord của chúng tôi và liên hệ với nhóm của chúng tôi trong kênh Grants.
 
-For those who would like to up-skill more on SubQuery before making an application, [The SubQuery Academy](https://subquery.medium.com/subquery-launches-the-subquery-academy-9505dc66a01)’s “Hero Course” is a free and modular educational program designed to build awareness amongst developers. and is [completely free and accessible via an online portal](https://subquery.coassemble.com/unlock/dOKZW6O#/).
+Đối với những người muốn nâng cao kỹ năng hơn về SubQuery trước khi đăng ký, “Khóa học anh hùng” của [SubQuery Academy](https://subquery.medium.com/subquery-launches-the-subquery-academy-9505dc66a01) là một chương trình giáo dục miễn phí và mô-đun được thiết kế để nâng cao nhận thức giữa các nhà phát triển. và [hoàn toàn miễn phí và có thể truy cập thông qua cổng trực tuyến](https://subquery.coassemble.com/unlock/dOKZW6O#/).
 
 ## Giới thiệu về mạng SubQuery
 
