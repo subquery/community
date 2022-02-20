@@ -1,24 +1,24 @@
-# January Recap
+# Tóm tắt tháng 1
 
 ![](https://miro.medium.com/max/1400/1*2IMAaY-YYyAdl7YfZqHTAg.png)
 
-Hi everyone, and welcome to 2022! Last year was huge for us at SubQuery but after a much needed summer holiday here in New Zealand the team are well rested and energised by the potential ahead of us. This year is going to be the year of the decentralised data revolution!
+Xin chào tất cả mọi người và chào mừng đến với năm 2022! Năm ngoái là một năm rất to lớn với chúng tôi tại SubQuery, nhưng sau một kỳ nghỉ hè rất cần thiết tại New Zealand, cả đội đã được nghỉ ngơi và tiếp thêm năng lượng bởi tiềm năng phía trước của chúng tôi. Năm nay sẽ là năm của cuộc cách mạng dữ liệu phi tập trung!
 
-As always, we are breaking down our monthly update into three sections; community, core product development, and the SubQuery Network.
+Như mọi khi, chúng tôi chia nhỏ bản cập nhật hàng tháng của mình thành ba phần; cộng đồng, phát triển sản phẩm cốt lõi và Mạng SubQuery.
 
-## Community
+## Cộng đồng
 
-SubQuery’s community is expanding rapidly in terms of numbers and regions we cover! As a result, we have a lot to talk about in this area.
+Cộng đồng của SubQuery đang mở rộng nhanh chóng về số lượng và khu vực mà chúng tôi bao phủ! Kết quả là, chúng ta có rất nhiều điều để nói về lĩnh vực này.
 
-### SubQuery Partners With Leading Polkadot Teams On Technical Bounties via the SubQuery Grants Programme
+### SubQuery hợp tác với các nhóm Polkadot hàng đầu về tiền thưởng kỹ thuật thông qua Chương trình SubQuery Grants
 
-Last month we launched the SubQuery Grants Programme, a non dilutive accelerator to help developers in our community build the next generation of dApps. This month we’ve talked to our partners to release a first round of bounties in partnership with Moonbeam, Acala, Astar and Bifrost as projects for inspiration. All are open to apply now, and as a bonus, if your application is successful you’ll get to work closely with the parachain team that suggested the challenge!
+Tháng trước, chúng tôi đã khởi chạy Chương trình SubQuery Grants, một chương trình tăng tốc không pha loãng để giúp các nhà phát triển trong cộng đồng của chúng tôi xây dựng thế hệ dApp tiếp theo. Trong tháng này, chúng tôi đã nói chuyện với các đối tác của mình để phát hành vòng tiền thưởng đầu tiên khi hợp tác với Moonbeam, Acala, Astar và Bifrost làm các dự án để truyền cảm hứng. Tất cả đều được mở để đăng ký ngay bây giờ và như một phần thưởng, nếu đơn đăng ký của bạn thành công, bạn sẽ phải làm việc chặt chẽ với nhóm parachain đã đề xuất thử thách!
 
 Applicants who are interested in any of these bounties are encouraged to submit their proposal with the budget required to complete the task and other requirements [here](https://docs.google.com/forms/d/e/1FAIpQLSfmMazkebKwNTWThBkVGaxf2Bg8s4aWZ0ZhwiMCtc9kv4sJHQ/viewform). Additionally, we look forward to announce the first round of SubQuery grantees in February.
 
-[Read more here](https://subquery.medium.com/subquery-partners-with-leading-polkadot-teams-on-technical-bounties-via-the-subquery-grants-d40453788435)
+[Đọc thêm tại đây](https://subquery.medium.com/subquery-partners-with-leading-polkadot-teams-on-technical-bounties-via-the-subquery-grants-d40453788435)
 
-### SubQuery Celebrates Winners of Gitcoin GR 12 Hackathon
+### SubQuery tôn vinh những người chiến thắng cuộc thi Hackathon Gitcoin GR 12
 
 [SubQuery partnered with Gitcoin in December](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a) to sponsor five challenges to a value of USD$37,000 (the largest prize pool in the challenge), inviting developers to build useful tools, dashboards and even extend SubQuery to another Layer-1 blockchain.
 
@@ -78,7 +78,7 @@ Darwinia has partnered with SubQuery to build the plethora of applications that 
 
 Darwinia have also been working closely with the SubQuery team to [build a CLI tool](https://github.com/fewensa/subquery-cli) for the SubQuery managed service (https://project.subquery.network). You can use this [CLI](https://github.com/fewensa/subquery-cli) to create a SubQuery project and automatically deploy a new version to either the staging or production slot. Additionally you can retrieve information including the detailed syncing status and logs from your running project that is hosted for free in SubQuery Projects. [Read more here](https://subquery.medium.com/subquery-partners-with-darwinia-network-to-build-subquerys-cli-tool-903dc4c9ef66)
 
-## SubQuery Network
+## Mạng lưới SubQuery
 
 Last community call we walked through a few important details of the upcoming SubQuery test network. It will be run over at least three seasons, each season will test different aspects of the network:
 
@@ -88,7 +88,7 @@ Last community call we walked through a few important details of the upcoming Su
 
 Each season will have multiple challenges that you can complete which may result in real SQT rewards. Expect things to kickoff here in March!
 
-## Roadmap Update
+## Cập nhật Roadmap
 
 Last October we released out [technical roadmap](https://blog.subquery.network/blogs/20211029-roadmap-october.html) with the next year mapped out for SubQuery, we’re overdue to address exactly how we’re doing here.
 
@@ -96,7 +96,7 @@ Last October we released out [technical roadmap](https://blog.subquery.network/b
 
 As you can see in the original roadmap above, we’ve completed all of Milestone 0 and 1, and are making good progress on Milestone 2. We’ve even delivered some features relevant to our hosted service much earlier than expected due to the huge scale of requests currently going to [our enterprise customers](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html).
 
-## Other things you might have missed
+## Một vài thứ khác mà bạn có thể đã bỏ lỡ
 
 - We will be having weekly office hours on our Discord Server! Join SubQuery’s ‘Office Hours’ on our stages channel where you can catch-up with the team in a casual environment.
 - We had a Russian QnA with James & Dmytro in Discord where all questions were asked and answered in Russian. Let us know which language you would like to hear next
