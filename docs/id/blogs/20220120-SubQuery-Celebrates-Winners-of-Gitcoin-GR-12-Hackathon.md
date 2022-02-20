@@ -1,26 +1,26 @@
-# SubQuery Celebrates Winners of Gitcoin GR 12 Hackathon
+# SubQuery Merayakan Pemenang Gitcoin GR 12 Hackathon
 
 ![](https://miro.medium.com/max/1400/1*MnMY9j3nasex9_9MNHUPtA.png)
 
-SubQuery, the leading data indexing solution in Polkadot, is delighted to announce the winners [of the recent Gitcoin GR 12 Hackathon](https://gitcoin.co/hackathon/gr12?org=subquery). Gitcoin is recognised as one of the preeminent blockchain developer communities focussed on creating community and applications for Web3. [SubQuery partnered with Gitcoin in December](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a) to sponsor five challenges to a value of USD$37,000 (the largest prize pool in the challenge), inviting developers to build useful tools, dashboards and even extend SubQuery to another Layer-1 blockchain.
+SubQuery, solusi pengindeksan data terkemuka di Polkadot, dengan senang hati mengumumkan pemenang [Gitcoin GR 12 Hackathon](https://gitcoin.co/hackathon/gr12?org=subquery) baru-baru ini. Gitcoin diakui sebagai salah satu komunitas pengembang blockchain terkemuka yang berfokus pada pembuatan komunitas dan aplikasi untuk Web3. [SubQuery bermitra dengan Gitcoin pada bulan Desember](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a) untuk mensponsori lima tantangan dengan nilai USD$37.000 (kumpulan hadiah terbesar dalam tantangan tersebut), mengundang pengembang untuk membangun alat yang berguna, dasbor, dan bahkan memperluas SubQuery ke Layer-1 lainnya rantai blok.
 
-The Hackathon took place from December 1st — 16th 2021 with leading blockchain projects such as Moonbeam, Astar and Acala contributing to various prize pools. The prizes are granted to those who have successfully completed the projects to the pre-set standards, and who deliver the most creative ideas, or those or solve areas to improve the core SubQuery SDK. A short summary of the challenges are below:
+Hackathon berlangsung dari 1 - 16 Desember 2021 dengan proyek-proyek blockchain terkemuka seperti Moonbeam, Astar dan Acala berkontribusi pada berbagai kumpulan hadiah. Hadiah diberikan kepada mereka yang telah berhasil menyelesaikan proyek dengan standar yang telah ditentukan sebelumnya, dan yang menyampaikan ide-ide paling kreatif, atau mereka yang atau memecahkan area untuk meningkatkan SDK SubQuery inti. Rangkuman singkat dari tantangan-tantangan tersebut di bawah ini:
 
-- [Create a unified block explorer that combines Substrate and EVM insights from Moonbeam and Astar into one easy to use application](https://gitcoin.co/issue/subquery/grants/1) — US$12,000 [Sponsored by Moonbeam and Astar]
-- [Create DeFi hub dashboard that’s inspired by Zapper.fi or defisaver.com](https://gitcoin.co/issue/subquery/grants/2) — US$8,000 [Sponsored by Acala]
-- [Create a staking dashboard that shows the best staking opportunities across Polkadot and its various parachains](https://gitcoin.co/issue/subquery/grants/3) — US$3,000
-- [Build a marketplace explorer for all RMRK protocol based NFTs](https://gitcoin.co/issue/subquery/grants/4) — US$2,000
-- [Extend the @subql/node service to index data from another layer 1 chain](https://gitcoin.co/issue/subquery/grants/5) — US$12,000
+- [Buat penjelajah blok terpadu yang menggabungkan wawasan Substrat dan EVM dari Moonbeam dan Astar menjadi satu aplikasi yang mudah digunakan](https://gitcoin.co/issue/subquery/grants/1) — US$12.000 [Disponsori oleh Moonbeam dan Astar]
+- [Buat dasbor hub DeFi yang terinspirasi oleh Zapper.fi atau defisaver.com](https://gitcoin.co/issue/subquery/grants/2) — US$8,000 [Disponsori oleh Acala]
+- [Buat dasbor staking yang menunjukkan peluang staking terbaik di Polkadot dan berbagai parachainnya](https://gitcoin.co/issue/subquery/grants/3) — US$3,000
+- [Buat penjelajah pasar untuk semua NFT berbasis protokol RMRK](https://gitcoin.co/issue/subquery/grants/4) — US$2.000
+- [Perluas layanan @subql/node untuk mengindeks data dari chain layer 1 lainnya](https://gitcoin.co/issue/subquery/grants/5) — US$12.000
 
-## Unified EVM and Substrate Block Explorer
+## EVM Terpadu dan Penjelajah Blok Substrat
 
-The Polkadot/Kusama ecosystem consists of blockchains (called Parachains) built using Substrate, which uses the Substrate API. However, certain Parachains, such as Moonbeam and Astar, offer seamless Ethereum compatibility by having a fully compatible EVM component. Having simultaneous visibility into Substrate and EVM data is currently challenging, resulting in two isolated experiences within Moonbeam and Moonriver. You have to choose between the Substrate side (e.g., Subscan) and EVM side (e.g., Moonscan & Blockscout).
+Ekosistem Polkadot/Kusama terdiri dari blockchain (disebut Parachains) yang dibangun menggunakan Substrat, yang menggunakan API Substrat. Namun, Parachains tertentu, seperti Moonbeam dan Astar, menawarkan kompatibilitas Ethereum yang mulus dengan memiliki komponen EVM yang sepenuhnya kompatibel. Memiliki visibilitas simultan ke data Substrat dan EVM saat ini menantang, menghasilkan dua pengalaman terisolasi dalam Moonbeam dan Moonriver. Anda harus memilih antara sisi Substrat (mis., Subscan) dan sisi EVM (mis., Moonscan & Blockscout).
 
-This challenge was envisaged to address the huge opportunity to build a single place to understand the full history of activity in an account. For example, to see staking and governance actions and ERC20 transfers in a single user interface. This would be an application used daily by the massive communities within Moonbeam, Astar, and many other EVM compatible parachains that are taking off.
+Tantangan ini dimaksudkan untuk mengatasi peluang besar untuk membangun satu tempat untuk memahami riwayat lengkap aktivitas dalam sebuah akun. Misalnya, untuk melihat tindakan staking dan governance serta transfer ERC20 dalam satu antarmuka pengguna. Ini akan menjadi aplikasi yang digunakan setiap hari oleh komunitas besar di dalam Moonbeam, Astar, dan banyak parachains kompatibel EVM lainnya yang lepas landas.
 
 ![](https://miro.medium.com/max/1400/0*b_o0NDpJOCv0QvXS)
 
-The winner of [this challenge](https://gitcoin.co/issue/subquery/grants/1/10002717200027175) was @bizzyvinci who [has built a frontend explorer which is live on Heroku](https://moonriver-explorer.herokuapp.com/). Given that this challenge is a huge task, it’s not a surprise that it is not 100% complete yet, but we are excited to support the progress for this game-changing innovation and help extend it to other EVM chains.
+Pemenang [tantangan ini](https://gitcoin.co/issue/subquery/grants/1/10002717200027175) adalah @bizzyvinci yang [telah membangun penjelajah frontend yang aktif di Heroku](https://moonriver-explorer.herokuapp.com/). Mengingat bahwa tantangan ini adalah tugas besar, tidak mengherankan bahwa ini belum 100% selesai, tetapi kami sangat senang untuk mendukung kemajuan inovasi yang mengubah permainan ini dan membantu memperluasnya ke chain EVM lainnya.
 
 @bizzyvinci said the following: “I built the [Moonriver Explorer](https://moonriver-explorer.herokuapp.com/) and it was an awesome experience., The first step was learning about SubQuery and damn, they’ve got an awesome documentation which are accompanied with template repositories. The documentation covers everything it takes to get started and explains each aspect well such as the manifest file, graphql schema among others.”
 
@@ -80,7 +80,7 @@ Following on from this successful Hackathon, SubQuery would like to encourage de
 
 ---
 
-## Tentang SubQuery
+## About SubQuery
 
 [SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. This service unlocks blockchain data and transforms it to a queryable state so that it can be used in intuitive applications. It allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The upcoming SubQuery Network will decentralize and tokenize the ecosystem to allow everyone to participate in the web3 data revolution.
 
