@@ -30,6 +30,6 @@ Fearless Wallet is using [SubQuery Projects](https://project.subquery.network/) 
 
 ## Giới thiệu về Ví Fearless
 
-[Fearless Wallet](https://fearlesswallet.io/) is a mobile wallet designed for the decentralized future on the Kusama and Polkadot networks, with support for iOS and Android platforms. An awesome user experience, fast performance, and secure storage for your accounts. Fearless wallet will integrate Polkaswap for easy, decentralized swaps of assets.
+[Ví Fearless](https://fearlesswallet.io/) là ví điện thoại di động được thiết kế cho tương lai phi tập trung trên mạng Kusama và Polkadot, hỗ trợ các nền tảng iOS và Android. Trải nghiệm người dùng tuyệt vời, hiệu suất nhanh và bộ nhớ an toàn cho tài khoản của bạn. Ví Fearless sẽ tích hợp Polkaswap để hoán đổi tài sản dễ dàng, phi tập trung.
 
 [Website](https://fearlesswallet.io/) | [Android App](https://play.google.com/store/apps/details?id=jp.co.soramitsu.fearless) | [IOS App](https://apps.apple.com/us/app/fearless-wallet/id1537251089) | [Medium](https://medium.com/fearlesswallet/) | [Telegram](https://t.me/fearlesswallet) | [Twitter](https://twitter.com/FearlessWallet)
