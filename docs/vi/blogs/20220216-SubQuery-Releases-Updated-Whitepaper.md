@@ -1,36 +1,36 @@
-# SubQuery Releases Updated Whitepaper
+# SubQuery phát hành bản cập nhật Whitepaper
 
 ![](https://miro.medium.com/max/700/0*guA8YHyJPhu0wmzf)
 
-_An updated plan for how SubQuery will revolutionise the future of web3 infrastructure_
+_Một kế hoạch cập nhật về cách SubQuery sẽ cách mạng hóa cơ sở hạ tầng web3 trong tương lai_
 
-After a long period of design, discussion, testing, and development, today we are releasing a new and significantly [updated version of our Whitepaper](https://static.subquery.network/whitepaper.pdf). Originally published back in June 2021, the SubQuery Whitepaper is a document that outlines our strategic framework for the decentralised SubQuery Network and her SQT token. Since the original publication, we have experienced significant growth in our customer base and community and made huge progress on building the SubQuery Network. From these sources, we have been inspired to improve and innovate, and that culminates in the latest version of our whitepaper. <iframe width="1719" height="976" src="https://www.youtube.com/embed/Ghxyw5bIHs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Sau một thời gian dài thiết kế, thảo luận, thử nghiệm và phát triển, hôm nay chúng tôi sẽ phát hành một phiên bản mới và cập nhật đáng kể [của Whitepaper](https://static.subquery.network/whitepaper.pdf). Được xuất bản lần đầu vào tháng 6 năm 2021, SubQuery Whitepaper là tài liệu phác thảo khuôn khổ chiến lược của chúng tôi cho Mạng SubQuery phi tập trung và mã thông báo SQT. Kể từ lần xuất bản đầu tiên, chúng tôi đã có sự phát triển đáng kể trong cơ sở khách hàng và cộng đồng của mình và đạt được tiến bộ to lớn trong việc xây dựng Mạng SubQuery. Từ những nguồn này, chúng tôi đã được truyền cảm hứng để cải tiến và đổi mới, và điều đó đạt đến đỉnh cao trong phiên bản sách trắng mới nhất của chúng tôi. <iframe width="1719" height="976" src="https://www.youtube.com/embed/Ghxyw5bIHs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-This whitepaper outlines SubQuery’s plans to move towards a globally decentralised network of participants organising blockchain data in order to ensure no single point of failure for SubQuery. It is expected that this will massively increase SubQuery’s uptime, provide better redundancy, and increase performance by driving down latency. It is envisioned that applications will be able to use GraphQL to query any store of data (as defined by the SubQuery Project) from Indexers around the network.
+Whitepaper này phác thảo các kế hoạch của SubQuery nhằm hướng tới một mạng lưới phi tập trung toàn cầu gồm những người tham gia tổ chức dữ liệu blockchain để đảm bảo SubQuery không có một điểm thất bại nào. Dự kiến, điều này sẽ tăng đáng kể thời gian hoạt động của SubQuery, cung cấp khả năng dự phòng tốt hơn và tăng hiệu suất bằng cách giảm độ trễ. Có thể hình dung rằng các ứng dụng sẽ có thể sử dụng GraphQL để truy vấn bất kỳ kho dữ liệu nào (như được xác định bởi Dự án SubQuery) từ các Trình chỉ mục trên mạng.
 
 ![](https://miro.medium.com/max/700/0*xtd6e7mn7JkfhpzG)
 
 ## Trọng tâm của chúng tôi
 
-The [updated whitepaper](https://static.subquery.network/whitepaper.pdf) maintains SubQuery’s conviction that the data services of tomorrow must be multi-chain, simple, and flexible. The whitepaper goes into detail on how the SubQuery Network factors these considerations into the token economic design while also enabling power users to run enterprise-level services on it.
+[Cập nhật whitepaper](https://static.subquery.network/whitepaper.pdf) duy trì niềm tin của SubQuery rằng các dịch vụ dữ liệu của ngày mai phải đa chuỗi, đơn giản và linh hoạt. Whitepaper trình bày chi tiết về cách Mạng SubQuery đưa những cân nhắc này vào thiết kế kinh tế mã thông báo đồng thời cho phép người dùng thành thạo chạy các dịch vụ cấp doanh nghiệp trên đó.
 
-### Multi-chain by Design
+### Nhiều chuỗi theo thiết kế
 
-_SubQuery believes in the idea that a community of blockchains, working together to encourage web3 adoption, is the future_
+_SubQuery tin tưởng vào ý tưởng rằng một cộng đồng các blockchain, làm việc cùng nhau để khuyến khích việc áp dụng web3, là tương lai_
 
-SubQuery is native to the Polkadot ecosystem, it’s our home and will be the location of the SubQuery Network. But the future is multi-chain. SubQuery knows that there are going to be many different blockchains working together to solve different problems.
+SubQuery có nguồn gốc từ hệ sinh thái Polkadot, đó là ngôi nhà của chúng tôi và sẽ là vị trí của Mạng SubQuery. Nhưng tương lai là đa chuỗi. SubQuery biết rằng sẽ có nhiều blockchains khác nhau làm việc cùng nhau để giải quyết các vấn đề khác nhau.
 
-The SubQuery Network is designed to support any SubQuery Project from any Layer 1 network (within Polkadot or not). It will be designed and built to be multi-chain from the outset, where you will see projects from one network being indexed alongside projects from another.
+Mạng SubQuery được thiết kế để hỗ trợ bất kỳ Dự án SubQuery nào từ bất kỳ mạng Lớp 1 nào (trong Polkadot hoặc không). Nó sẽ được thiết kế và xây dựng để trở thành đa chuỗi ngay từ đầu, nơi bạn sẽ thấy các dự án từ một mạng được lập chỉ mục cùng với các dự án từ mạng khác.
 
 ### Đơn giản và dễ tiếp cận
 
-_The SubQuery Network is designed to be the data provider of the people._
+_Mạng SubQuery được thiết kế để trở thành nhà cung cấp dữ liệu của mọi người._
 
-The guiding principle with the SubQuery Network is simplicity. It is SubQuery’s opinion that other approaches to decentralised data query services are overly complex and make it difficult for participants to predict their return on investment. The aim is to make it easy for you to get involved in the network, and to clearly forecast your future potential return.
+Nguyên tắc hướng dẫn với Mạng SubQuery là sự đơn giản. Theo ý kiến của SubQuery rằng các phương pháp tiếp cận khác đối với các dịch vụ truy vấn dữ liệu phi tập trung là quá phức tạp và khiến người tham gia khó dự đoán lợi tức đầu tư của họ. Mục đích là giúp bạn dễ dàng tham gia vào mạng lưới và dự báo rõ ràng lợi nhuận tiềm năng trong tương lai của bạn.
 
-SubQuery won’t require high staking thresholds to participate or huge investment into hardware. The focus will be on making SubQuery easier to join and build with than our competitors — SubQuery’s success depends on the success of others creating the future on it.
+SubQuery sẽ không yêu cầu ngưỡng đặt cược cao để tham gia hoặc đầu tư lớn vào phần cứng. Trọng tâm sẽ là làm cho SubQuery dễ dàng tham gia và xây dựng hơn các đối thủ cạnh tranh của chúng tôi - Thành công của SubQuery phụ thuộc vào thành công của những người khác tạo ra tương lai trên đó.
 
-This means that a design goal is to make it as easy as possible for anyone to participate. You don’t need to be a developer or have a deep knowledge of the token economic model, you can easily participate as a Delegator. As a Consumer, you also have plenty of payment options to best suit your needs. Finally, a key focus of the SubQuery Foundation is to ensure that there is enough support that anyone, from an expert blockchain team to a new hobbyist developer, can build their own SubQuery project.
+Điều này có nghĩa là mục tiêu thiết kế là làm cho mọi người tham gia dễ dàng nhất có thể. Bạn không cần phải là nhà phát triển hoặc có kiến thức sâu về mô hình kinh tế mã thông báo, bạn có thể dễ dàng tham gia với tư cách là Người đại diện. Là Người tiêu dùng, bạn cũng có nhiều lựa chọn thanh toán phù hợp nhất với nhu cầu của mình. Cuối cùng, trọng tâm chính của SubQuery Foundation là đảm bảo có đủ sự hỗ trợ để bất kỳ ai, từ một nhóm chuyên gia về blockchain đến một nhà phát triển có sở thích mới, đều có thể xây dựng dự án SubQuery của riêng họ.
 
 ### Linh hoạt
 
