@@ -50,56 +50,56 @@ Chúng tôi đang hoàn thiện công việc đầu tiên trong số 5 chuỗi l
 
 ### Cải thiện Hiệu suất SubQuery
 
-Tốc độ lập chỉ mục của SubQuery luôn được cải thiện, đó là trọng tâm thường xuyên của nhóm phát triển của chúng tôi. Our advanced Dictionary support means enables this, Dictionaries speed up your project by many multiples and allow you to index entire Polkadot chain in minutes, not hours (depending on your project complexity).
+Tốc độ lập chỉ mục của SubQuery luôn được cải thiện, đó là trọng tâm thường xuyên của nhóm phát triển của chúng tôi. Hỗ trợ Từ điển nâng cao của chúng tôi có nghĩa là cho phép điều này, Từ điển tăng tốc dự án của bạn bằng nhiều bội số và cho phép bạn lập chỉ mục toàn bộ chuỗi Polkadot trong vài phút, không phải vài giờ (tùy thuộc vào độ phức tạp của dự án của bạn).
 
-As an indicator of the breadth of support that SubQuery offers to the Polkadot ecosystem, we are now hosting and managing dictionaries across the 31 different networks, representing the majority of all major Polkadot/Kusama parachains.
+Là một chỉ báo về phạm vi hỗ trợ mà SubQuery cung cấp cho hệ sinh thái Polkadot, chúng tôi hiện đang lưu trữ và quản lý các từ điển trên 31 mạng khác nhau, đại diện cho phần lớn tất cả các parachains chính của Polkadot/Kusama.
 
 ![](https://miro.medium.com/max/1400/1*WeMY5WnWZ_jvllxidhycUA.png)
 
-### SubQuery Templates Registry
+### Sổ đăng ký Mẫu SubQuery
 
-> 29 networks are covered by templates
+> 29 mạng được bao phủ bởi các mẫu
 
-The `subql init` command is a familiar one for anyone that has built a SubQuery project; it represents a blank canvas — limitless opportunities. We are aware that we can do better to help others get started, rather than a blank canvas developers want a blank scaffold, where all the boiler-plate code is already written.
+Lệnh `subql init` là một lệnh quen thuộc đối với bất kỳ ai đã xây dựng dự án SubQuery; nó đại diện cho một khung trống — cơ hội vô hạn. Chúng tôi nhận thức được rằng chúng tôi có thể làm tốt hơn để giúp những người khác bắt đầu, thay vì một nhà phát triển canvas trống rỗng muốn có một khung trống, nơi tất cả mã boiler-plate đã được viết sẵn.
 
-Today when you write `subql init`, you are presented with a list of 29 networks from which you are provided a pre-created scaffold with all the correct endpoints, dictionary links, and even type definitions. This eliminates one of the most difficult steps when starting a new SubQuery project and makes building your next big dApp that much easier and faster.
+Bây giờ, khi bạn viết `subql init`, bạn sẽ thấy danh sách 29 mạng mà từ đó bạn được cung cấp một khung được tạo trước với tất cả các điểm cuối chính xác, liên kết từ điển và thậm chí cả định nghĩa loại. Điều này giúp loại bỏ một trong những bước khó khăn nhất khi bắt đầu một dự án SubQuery mới và giúp việc xây dựng dApp lớn tiếp theo của bạn trở nên dễ dàng và nhanh chóng hơn nhiều.
 
-### Data Aggregation Features
+### Tính năng tổng hợp dữ liệu
 
-SubQuery now supports advanced GraphQL aggregate functions to allow you to perform a calculation on a set of values during your query. These functions provide our customers a richer set of insights and calculations from their existing data set. For example with a single query you can calculate the median contribution amount for each crowdloan broken down by contribution date.
+SubQuery hiện hỗ trợ các hàm tổng hợp GraphQL nâng cao để cho phép bạn thực hiện phép tính trên một tập giá trị trong khi truy vấn của mình. Các chức năng này cung cấp cho khách hàng của chúng tôi tập hợp thông tin chi tiết và tính toán phong phú hơn từ tập dữ liệu hiện có của họ. Ví dụ: với một truy vấn duy nhất, bạn có thể tính toán số tiền đóng góp trung bình cho mỗi kênh cộng đồng được chia nhỏ theo ngày đóng góp.
 
-[Read more about how to use these features in our upgraded docs.](https://doc.subquery.network/query/aggregate/)
+[Đọc thêm về cách sử dụng các tính năng này trong tài liệu được nâng cấp của chúng tôi.](https://doc.subquery.network/query/aggregate/)
 
-### SubQuery partners with Darwinia Network to build SubQuery’s CLI Tool
+### SubQuery hợp tác với Darwinia Network để xây dựng Công cụ CLI của SubQuery
 
-Darwinia has partnered with SubQuery to build the plethora of applications that will be needed to provide the ultimate user experience for cross chain interactions. This includes a new [Smart App that is a central hub](https://apps.darwinia.network/) to manage all Darwinia network interactions including governance, staking, chain exploration and more. This app uses a considerable amount of [SubQuery data to show historic data and actions](https://explorer.subquery.network/subquery/darwinia-network/smart-app-crab). SubQuery will be working closely with the team at Darwinia to make this the best experience in the entire Polkadot ecosystem.
+Darwinia đã hợp tác với SubQuery để xây dựng rất nhiều ứng dụng cần thiết để cung cấp trải nghiệm người dùng tối ưu cho các tương tác chuỗi chéo. Điều này bao gồm một [Ứng dụng thông minh là một hub trung tâm](https://apps.darwinia.network/) để quản lý tất cả các tương tác mạng Darwinia bao gồm quản trị, đặt cược, trình khám phá chuỗi và hơn thế nữa. Ứng dụng này sử dụng một lượng đáng kể [dữ liệu SubQuery để hiển thị dữ liệu lịch sử và hành động](https://explorer.subquery.network/subquery/darwinia-network/smart-app-crab). SubQuery sẽ hợp tác chặt chẽ với nhóm tại Darwinia để biến đây trở thành trải nghiệm tốt nhất trong toàn bộ hệ sinh thái Polkadot.
 
 ![](https://miro.medium.com/max/1200/1*bL2Csj9qyamD7txAheCTIg.gif)
 
-Darwinia have also been working closely with the SubQuery team to [build a CLI tool](https://github.com/fewensa/subquery-cli) for the SubQuery managed service (https://project.subquery.network). You can use this [CLI](https://github.com/fewensa/subquery-cli) to create a SubQuery project and automatically deploy a new version to either the staging or production slot. Additionally you can retrieve information including the detailed syncing status and logs from your running project that is hosted for free in SubQuery Projects. [Read more here](https://subquery.medium.com/subquery-partners-with-darwinia-network-to-build-subquerys-cli-tool-903dc4c9ef66)
+Darwinia cũng đã hợp tác chặt chẽ với nhóm SubQuery để [xây dựng công cụ CLI](https://github.com/fewensa/subquery-cli) cho dịch vụ được quản lý bởi SubQuery (https://project.subquery.network). Bạn có thể sử dụng [CLI](https://github.com/fewensa/subquery-cli) này để tạo một dự án SubQuery và tự động triển khai phiên bản mới cho vùng dàn dựng hoặc vùng sản xuất. Ngoài ra, bạn có thể truy xuất thông tin bao gồm trạng thái đồng bộ hóa chi tiết và nhật ký từ dự án đang chạy của bạn được lưu trữ miễn phí trong Dự án SubQuery. [Đọc thêm tại đây](https://subquery.medium.com/subquery-partners-with-darwinia-network-to-build-subquerys-cli-tool-903dc4c9ef66)
 
 ## Mạng lưới SubQuery
 
-Last community call we walked through a few important details of the upcoming SubQuery test network. It will be run over at least three seasons, each season will test different aspects of the network:
+Cuộc gọi cộng đồng gần đây nhất, chúng tôi đã xem qua một số chi tiết quan trọng về mạng thử nghiệm SubQuery sắp tới. Nó sẽ được chạy trong ít nhất ba mùa, mỗi mùa sẽ kiểm tra các khía cạnh khác nhau của mạng:
 
-- Season 1: Early stage alpha testing of a limited number of features with a select few participants
-- Season 2: Large beta testing of more features with hundreds of participants
-- Season 3: Full public test network for load and scale testing with thousands of participants
+- Mùa 1: Thử nghiệm alpha ở giai đoạn đầu của một số tính năng giới hạn với một số người tham gia được chọn
+- Mùa 2: Thử nghiệm beta rộng rãi với nhiều tính năng hơn với hàng trăm người tham gia
+- Mùa 3: Mạng kiểm tra công khai đầy đủ để kiểm tra tải và kiểm tra quy mô với hàng nghìn người tham gia
 
-Each season will have multiple challenges that you can complete which may result in real SQT rewards. Expect things to kickoff here in March!
+Mỗi mùa giải sẽ có nhiều thử thách mà bạn có thể hoàn thành, điều này có thể dẫn đến phần thưởng SQT thực sự. Mong đợi mọi thứ sẽ khởi động ở đây vào tháng 3!
 
 ## Cập nhật Roadmap
 
-Last October we released out [technical roadmap](https://blog.subquery.network/blogs/20211029-roadmap-october.html) with the next year mapped out for SubQuery, we’re overdue to address exactly how we’re doing here.
+Tháng 10 năm ngoái, chúng tôi đã phát hành [lộ trình kỹ thuật](https://blog.subquery.network/blogs/20211029-roadmap-october.html) với năm tiếp theo được vạch ra cho SubQuery, chúng tôi đã quá hạn để giải quyết chính xác cách chúng tôi đang làm ở đây.
 
 ![](https://miro.medium.com/max/1400/1*2a3SGrW-OG5pbw67jsavvw.jpeg)
 
-As you can see in the original roadmap above, we’ve completed all of Milestone 0 and 1, and are making good progress on Milestone 2. We’ve even delivered some features relevant to our hosted service much earlier than expected due to the huge scale of requests currently going to [our enterprise customers](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html).
+Như bạn có thể thấy trong lộ trình ban đầu ở trên, chúng tôi đã hoàn thành tất cả Mốc 0 và 1 và đang đạt được tiến triển tốt trên Mốc 2. Chúng tôi thậm chí đã cung cấp một số tính năng có liên quan đến dịch vụ được lưu trữ của chúng tôi sớm hơn nhiều so với dự kiến do số lượng lớn yêu cầu hiện đang dành cho [khách hàng doanh nghiệp của chúng tôi](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html).
 
 ## Một vài thứ khác mà bạn có thể đã bỏ lỡ
 
-- We will be having weekly office hours on our Discord Server! Join SubQuery’s ‘Office Hours’ on our stages channel where you can catch-up with the team in a casual environment.
-- We had a Russian QnA with James & Dmytro in Discord where all questions were asked and answered in Russian. Let us know which language you would like to hear next
+- Chúng tôi sẽ có giờ làm việc hàng tuần trên Máy chủ Discord của chúng tôi! Tham gia ‘Giờ làm việc’ của SubQuery trên kênh Stage của chúng tôi, nơi bạn có thể bắt kịp nhóm trong môi trường bình thường.
+- Chúng tôi đã có một QnA bằng tiếng Nga với James & Dmytro trong Discord nơi tất cả các câu hỏi được hỏi và trả lời bằng tiếng Nga. Hãy cho chúng tôi biết bạn muốn nghe ngôn ngữ nào tiếp theo
 
 P.S.
 
