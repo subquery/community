@@ -1,4 +1,4 @@
-# Polkadot’s Fearless Wallet leverage SubQuery for DeFi insights
+# Ví Fearless của Polkadot tận dụng SubQuery để có thông tin chi tiết về DeFi
 
 ![](https://miro.medium.com/max/1400/1*HcPJ-5hy6WZrLhkuL6P2BA.png)
 
@@ -24,11 +24,11 @@ Fearless Wallet is using [SubQuery Projects](https://project.subquery.network/) 
 
 ## Giới thiệu về SubQuery
 
-[SubQuery](https://subquery.network/) là một tập hợp dữ liệu phi tập trung, lập chỉ mục & lớp truy vấn giữa các blockchains Layer-1 và các ứng dụng phi tập trung (DApps). Hiện đang tập trung vào các dự án Polkadot và Substrate, dữ liệu dưới dạng dịch vụ này cho phép các nhà phát triển tập trung vào trường cốt lõi và giao diện người dùng của họ mà không cần lãng phí thời gian xây dựng chương trình phụ trợ tùy chỉnh để xử lý dữ liệu.
+[SubQuery](https://subquery.network/) là một tập hợp dữ liệu phi tập trung, lập chỉ mục & lớp truy vấn giữa các blockchain Lớp-1 và các ứng dụng phi tập trung (DApps). Hiện đang tập trung vào các dự án Polkadot và Substrate, dữ liệu dưới dạng dịch vụ này cho phép các nhà phát triển tập trung vào cốt lõi và giao diện người dùng của họ mà không cần lãng phí thời gian xây dựng chương trình phụ trợ tùy chỉnh để xử lý dữ liệu.
 
 [Website](https://subquery.network/) | [Email](hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Youtube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
 
-## About Fearless Wallet
+## Giới thiệu về Ví Fearless
 
 [Fearless Wallet](https://fearlesswallet.io/) is a mobile wallet designed for the decentralized future on the Kusama and Polkadot networks, with support for iOS and Android platforms. An awesome user experience, fast performance, and secure storage for your accounts. Fearless wallet will integrate Polkaswap for easy, decentralized swaps of assets.
 
