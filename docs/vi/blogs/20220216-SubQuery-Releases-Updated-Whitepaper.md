@@ -72,7 +72,7 @@ For further information, please [contact our team in Discord](https://discord.co
 
 [Read the updated whitepaper](https://static.subquery.network/whitepaper.pdf)
 
-## About SubQuery Network
+## Giới thiệu về mạng SubQuery
 
 SubQuery’s mission is to help others create products that allow us to move to a decentralised future faster. SubQuery is a blockchain developer toolkit and the backbone of web3 infrastructure. A SubQuery project is a complete API to organise and query data from chains. Operating between layer-1 blockchains and decentralised apps (dApp), SubQuery is an open-source indexer organising and serving well-structured data over GraphQL. SubQuery powers the next generation of dApps and tools with web3 data
 
