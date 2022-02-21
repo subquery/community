@@ -46,21 +46,21 @@ Ashik создал PolkStakes, веб-сайт рейтинга валидато
 
 Subquery снижает затраты на ручное индексирование ончейн данных. Поскольку он предлагает конечную точку graphql, мы можем легко запрашивать данные. Это сокращает затраты на обслуживание серверной части и базы данных. Теперь агрегирование данных для расчета рейтинга Polkstakes выполняется в пользовательском интерфейсе. Это должно быть перенесено в Subquery. Кроме того, необходимо улучшить визуализацию индексированных данных и добавить более точное прогнозирование предполагаемой доходности — говорит Ашик из Polkdata.
 
-Отличная команда Subvis также создала красивую панель управления ставками Polkadot, которая показывает итоговые данные, статистику с течением времени и производительность валидатора в одном месте. The new staking features join the existing auction and crowdloan pages that SubVis are well known for.
+Отличная команда Subvis также создала красивую панель управления ставками Polkadot, которая показывает итоговые данные, статистику с течением времени и производительность валидатора в одном месте. Новые функции стейкинга присоединяются к существующим страницам аукциона и краудлоана, которыми хорошо известны SUBVIS.
 
 ![](https://miro.medium.com/max/1400/0*uPDQdMug2JaZwMbA)
 
-Finally, Web3Go put in another excellent entry with detailed staking statistics on Moonriver. They provide information even about the delegators for each collator, the historic rewards provided by each collator, and even the actions that collators take. They provide the additional benefits of being able to show staking history for your own wallet address.
+Наконец, Web3Go опубликовал еще одну отличную запись с подробной статистикой стейкинга на Moonriver. Они предоставляют информацию даже о делгациях для каждого коллатора, исторических вознаграждениях, предоставляемых каждым коллатором, и даже о действиях, которые предпринимают коллаторы. Они предоставляют дополнительные преимущества, заключающиеся в возможности показывать историю стейкинга для вашего собственного адреса кошелька.
 
 ![](https://miro.medium.com/max/1400/0*jQgOnvcaXt6cprJR)
 
-## RMRK NFT Marketplace Explorer
+## Обозреватель маркетплейса RMRK NFT
 
-RMRK is an advanced protocol of NFT legos making NFTs that are so much more than just a jpeg. The team at RMRK are bringing new standards of NFTs to the DOT ecosystem, and leading the way in building the next generation.
+RMRK - это продвинутый протокол legos NFT,  создающий NFT, которые представляют собой гораздо больше, чем просто jpeg. Команда RMRK внедряет новые стандарты NFTs в экосистему POLKADOT и прокладывает путь в создании следующего поколения.
 
-This challenge called for the creation of a detailed dashboard that tracks the evolution of all RMRKs (potentially focusing on [Kanarias](https://kanaria.rmrk.app/)), including transfers, emote history, and more across RMRK2. This dashboard had to use a RMRK2 focused SubQuery project.
+Эта задача потребовала создания подробной информационной панели, которая отслеживает эволюцию всех RMRKs (потенциально фокусируясь на Канарейках), включая переводы, историю эмоций и многое другое в RMRK2. Эта панель мониторинга должна была быть использована RMRK2 ориентированная на проект Subquery.
 
-The winner of [this challenge](https://gitcoin.co/issue/subquery/grants/4/100027174) was another excellent dashboard from Web3Go called the [NFT Garden](https://web3go.xyz/#/NFTProfiler). It includes in depth details about each NFT collection, such as average prices, volumes, price ranges, and all transactions for each single item. Additionally, there are some interesting visualisations on all the traits within NFTs.
+Победителем этого конкурса стала еще одна отличная панель управления от Web3Go под названием NFT Garden. Это включает подробные сведения о каждой коллекции NFT, такие как средние цены, объемы, ценовые диапазоны и все транзакции для каждого отдельного позиции. Кроме того, есть несколько интересных визуализаций всех характеристик NFT.
 
 ![](https://miro.medium.com/max/1400/0*1_mUnNIBYI84G_qs)
 
