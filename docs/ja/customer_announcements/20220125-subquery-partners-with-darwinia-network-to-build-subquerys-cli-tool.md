@@ -24,12 +24,12 @@ Darwiniaは[SubQuery Projects](https://project.subquery.network/)を使って自
 
 ## Darwinia Networkについて
 
-Darwinia Networkは、クロスチェーン生態学の「ゴールデンゲートブリッジ」であるSubstrate上に構築された分散型クロスチェーンブリッジネットワークです。 It provides the safest general bridge solution, connecting Polkadot, Ethereum, BSC and other heterogeneous chains by cross-chain assets transfer and general remote chain call. Also, its main application areas include Defi, cross-chain NFT trading market, games, etc.
+Darwinia Networkは、クロスチェーン生態学の「ゴールデンゲートブリッジ」であるSubstrate上に構築された分散型クロスチェーンブリッジネットワークです。 これは、クロスチェーンアセット転送と一般的なリモートチェーンコールによってPolkadot、Ethereum、BSCおよびその他の異種チェーンを接続し、最も安全な一般的なブリッジソリューションを提供します。 また、主なアプリケーション分野には、デフィ、クロスチェーンNFT取引市場、ゲームなどがあります。
 
 [Website](https://darwinia.network/) | [Twitter](https://twitter.com/DarwiniaNetwork) | [Telegram](https://t.me/DarwiniaNetwork) | [GitHub](https://github.com/darwinia-network) | [Discord](https://discord.gg/KMZVeyM)
 
-## About SubQuery Network
+## SubQuery Networkについて
 
-[SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications (DApps). Currently focused on Polkadot and Substrate projects, this data-as-a-service allows developers to focus on their core use case and front
+[SubQuery](https://subquery.network/)は、Layer-1ブロックチェーンと分散型アプリケーションの間にある、分散型のデータ集約、インデックス作成、およびクエリを行うためのレイヤーです。 現在、ポルカドットと基板プロジェクトに焦点を当てているこのサービスとしてのデータは、開発者がコアユースケースとフロントに集中することを可能にします。
 
-[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork) | [Webサイト](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
