@@ -1,4 +1,4 @@
-# Polkadot’s Fearless Wallet leverage SubQuery for DeFi insights
+# Polkadot Fearless Wallet использует SubQuery для анализа DeFi
 
 ![](https://miro.medium.com/max/1400/1*HcPJ-5hy6WZrLhkuL6P2BA.png)
 
