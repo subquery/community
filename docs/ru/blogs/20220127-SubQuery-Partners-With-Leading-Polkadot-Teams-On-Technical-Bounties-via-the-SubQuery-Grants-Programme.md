@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/0*KlrhjUy3MRRT98OO)
 
-_The technical bounties give opportunities for developers to work on projects for the best teams in Polkadot_
+_Технические контракты дают возможность разработчикам работать над проектами для лучших команд Polkadot_
 
 [SubQuery](https://subquery.network/), the leading data indexing solution built on Polkadot (DOT), is pleased to announce the launch of technical bounties in partnership with leading blockchain teams in Polkadot as part of SubQuery’s Grants Programme.
 
