@@ -30,6 +30,6 @@ Darwinia Network คือระบบเชื่อมต่อเครือ
 
 ## เกี่ยวกับ SubQuery Network
 
-[SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications (DApps). Currently focused on Polkadot and Substrate projects, this data-as-a-service allows developers to focus on their core use case and front
+[SubQuery](https://subquery.network/) คือการรวมข้อมูลแบบกระจายอำนาจ การจัดเรียง ระบุ & และสืบค้น ระหว่างบล็อคเชน Layer-1 และแอปฟลิเคชั่นแบบกระจายศูนย์ (DApps) ปัจจุบัน SubQuery มุ่งเน้นไปที่โปรเจค Polkadot และ Substrate ซึ่งการให้บริการ data นี้ช่วยให้นักพัฒนาสามารถมุ่งเน้นไปในการใช้งานหลักและ front
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
