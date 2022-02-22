@@ -1,4 +1,4 @@
-# January Recap
+# Итоги января
 
 ![](https://miro.medium.com/max/1400/1*2IMAaY-YYyAdl7YfZqHTAg.png)
 
