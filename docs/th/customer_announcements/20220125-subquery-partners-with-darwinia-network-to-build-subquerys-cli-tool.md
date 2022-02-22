@@ -10,7 +10,7 @@
 
 ดูเนื้อหาเพิ่มเติม [CLI ใหม่ที่นี่](https://github.com/fewensa/subquery-cli) และดู [ตัวอย่างเพิ่มเติมได้ทีนี่](https://github.com/darwinia-network/bridger/blob/master/.github/workflows/subquery-prod.yml)
 
-The first of many applications in Darwinia’s growing application ecosystem is the [Wormhole app](https://wormhole.darwinia.network/). Wormhole is an easy to use application that makes transferring assets between networks easy and is a key part of Darwinia’s cross chain strategy. Currently the bridge between Darwinia and Ethereum is operational. [SubQuery is used to show historic transfers and events](https://explorer.subquery.network/subquery/darwinia-network/wormhole-darwinia) that have occurred on your Darwinia/Crab/Pangolin address related to the wormhole (e.g. the arrival of assets from another network).
+แอปพลิเคชั่นแรกจากหลากหลายแอปพลิเคชั่นในระบบนิเวศที่กำลังเติบโตของ Darwinia คือ แอปพลิเคชั่นที่ชื่อว่า [Wormhole](https://wormhole.darwinia.network/) Wormhole คือแอปพลิเคชั่นที่ทำให้การโอนย้ายทรัพย์สินระหว่างเครือข่ายเป็นเรื่องง่ายที่ และเป็นส่วนสำคัญของแผนการสร้างระบบ cross chain ของ Darwinia โดยในปัจจุบันระบบการเชื่อมต่อระหว่าง Darwinia และ Ethereum กำลังอยู่ในขั้นตอนการดำเนินงาน [SubQuery is used to show historic transfers and events](https://explorer.subquery.network/subquery/darwinia-network/wormhole-darwinia) that have occurred on your Darwinia/Crab/Pangolin address related to the wormhole (e.g. the arrival of assets from another network).
 
 ![](https://miro.medium.com/max/1400/1*p3V-lvW6BmEVZXaDYDY7mw.png)
 
