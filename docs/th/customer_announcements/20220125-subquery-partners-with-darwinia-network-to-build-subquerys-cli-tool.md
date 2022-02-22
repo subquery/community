@@ -18,17 +18,17 @@
 > "เราตื่นเต้นที่จะได้ใช้ SubQuery เพื่อแทนที่ระบบหลังบ้านที่มีอยู่ของเราสำหรับ Wormhole ในระยะยาวกับ SubQuery Network สิ่งนี้จะทำให้บริการของเรามีการกระจายศูนย์และเป็น open source ทั้งหมด - ซึ่งนั่นเป็นสิ่งที่เราภูมิใจเป็นอย่างมาก" — Yalin, หนึ่งในทีมพัฒนาหลัก — Darwinia Network
 
 
-Additionally, Darwinia are using SubQuery to [provide the data behind](https://explorer.subquery.network/subquery/darwinia-network/home-plo-polkadot) their [Parachain Loan Offering website](https://darwinia.network/plo_contribute). Although Crab has already won their slot on Kusama, it’s not too late to contribute to Darwinia’s campaign for a Polkadot slot. They are also taking advantage of SubQuery to index [Merkle Mountain ranges](https://explorer.subquery.network/subquery/darwinia-network/darwinia-mmr) for all blocks created in their network.
+นอกจากนี้ Darwinia ยังใช้ SubQuery เพื่อที่จะ [จัดการข้อมูลเบื่องหลัง](https://explorer.subquery.network/subquery/darwinia-network/home-plo-polkadot) ให้แก่ [เว็บไซต์เสนอการกู้ยืมภายใน Parachain](https://darwinia.network/plo_contribute) ของพวกเขา แม้ว่า Crab จะชนะในการประมูล slot บน Kusama เป็นที่เรียบร้อยแล้ว แต่นั่นก็ยังไม่สายเกินไปที่จะสนับสนุนแคมเปญของ Darwinia เพื่อ slot บน Polkadot พวกเขายังใช้ประโยชน์จาก SubQuery เพื่อจัดเรียงและระบุ [Merkle จำนวนมหาศาล](https://explorer.subquery.network/subquery/darwinia-network/darwinia-mmr) สำหรับบล็อกทั้งหมดที่สร้างขึ้นภายในเครือข่าย
 
-Darwinia Network is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/).
+Darwinia Network ใช้ [โปรเจค SubQuery](https://project.subquery.network/) เพื่อจัดการและทำการอัพเดตโปรเจคของพวกเขาตามที่ต้องการ การบริการด้านการจัดเรียง ระบุ และสืบค้นที่เรามีให้นั้นได้รับการจัดการโดย SubQuery และให้บริการแก่คอมมูนิตี้ของ Polkadot ฟรีใน [SubQuery’s Explorer](https://explorer.subquery.network/)
 
-## About Darwinia Network
+## เกี่ยวกับ Darwinia Network
 
-Darwinia Network is a decentralized cross-chain bridge network building on Substrate, which is the “Golden Gate Bridge” of the cross-chain ecology. It provides the safest general bridge solution, connecting Polkadot, Ethereum, BSC and other heterogeneous chains by cross-chain assets transfer and general remote chain call. Also, its main application areas include Defi, cross-chain NFT trading market, games, etc.
+Darwinia Network คือระบบเชื่อมต่อเครือข่ายประเภท cross-chain แบบกระจายศูนย์บน Substrate ซึ่งเป็น "สะพาน Golden Gate" แห่งระบบนิเวศประเภท cross-chain โดยสิ่งนี้จะให้บริการวิธีการการเชื่อมต่อเครือข่ายแบบทั่วไปที่ปลอดภัยที่สุด โดยเชื่อมต่อ Polkadot, Ethereum, BSC และ chain อื่นๆที่แตกต่างกันออกไปโดยใช้ cross-chain โอนสินทรัพย์และการควบคุม chain ระยะไกลแบบทั่วไป นอกจากนี้ การใช้ประโยชน์หลักจากพื้นที่นี้ยังประกอบด้วย Defi, ตลาดการซื้อขาย NFT แบบ cross-chain, เกม
 
-[Website](https://darwinia.network/) | [Twitter](https://twitter.com/DarwiniaNetwork) | [Telegram](https://t.me/DarwiniaNetwork) | [GitHub](https://github.com/darwinia-network) | [Discord](https://discord.gg/KMZVeyM)
+[เว็บไซต์](https://darwinia.network/) | [Twitter](https://twitter.com/DarwiniaNetwork) | [Telegram](https://t.me/DarwiniaNetwork) | [GitHub](https://github.com/darwinia-network) | [Discord](https://discord.gg/KMZVeyM)
 
-## About SubQuery Network
+## เกี่ยวกับ SubQuery Network
 
 [SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications (DApps). Currently focused on Polkadot and Substrate projects, this data-as-a-service allows developers to focus on their core use case and front
 
