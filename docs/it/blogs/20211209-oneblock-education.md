@@ -20,7 +20,7 @@ The first session in the course will be scheduled from 10th January 2022, and in
 
 ## About OneBlock+
 
-OneBlock+ is the first and the largest blockchain developer community in China. At OneBlock+, we provide full support for developers with their substrate studies and further setoff their career paths; we host Polkadot Hackathons every season to attract top notch developers to build and innovate for the prosperity of the ecosystem. As a greater China technology resource integrator, OneBlock+ also partner with developers, communities, business elites, and key media who have business insights and experiences in the blockchain industry to provide business like technology courses, news distributions, AMA, and offline events for the industry. Want to shape the crypto world together? Come and join us today!
+OneBlock+ is the first and the largest blockchain developer community in China. At OneBlock+, we provide full support for developers with their substrate studies and further setoff their career paths; we host Polkadot Hackathons every season to attract top notch developers to build and innovate for the prosperity of the ecosystem. Come integratore di risorse tecnologiche dalla Cina, OneBlock + collabora anche con sviluppatori, comunità, élite aziendali e media chiave che hanno esperienza nel settore blockchain per fornire corsi di business tecnologico, distribuzione di notizie, AMA ed eventi Offrine per il settore. Want to shape the crypto world together? Come and join us today!
 
 |  [Twitter](https://mobile.twitter.com/oneblock_)  |  [Medium](https://medium.com/@OneBlockplus?p=5a6193755f9b) |  [Discord](https://discord.gg/5aWx6Rch)  |  [Telegram](https://t.me/oneblock_dev)  |
 
