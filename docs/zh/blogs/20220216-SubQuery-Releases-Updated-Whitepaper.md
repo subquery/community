@@ -5,7 +5,8 @@
 
 _SubQuery如何彻底改变Web3基础设施的未来的最新计划_
 
-经过长时间的设计、讨论、测试和开发，我们发布了一个[更新的白皮书版本](https://static.subquery.network/whitepaper.pdf)。 SubQuery的白皮书最初发布于2021年6月，它概述了我们在去中心化SubQuery网络以及SQT通证的战略框架。 自最初出版以来，我们经历了客户基础和社区的显著增长，并在建立SubQuery网络方面取得了巨大进展。 从中我们受到了启发去改进和创新，并在我们最新版本的白皮书中展现出来。 <iframe width="1719" height="976" src="https://www.youtube.com/embed/Ghxyw5bIHs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+经过长时间的设计、讨论、测试和开发，我们发布了一个[更新的白皮书版本](https://static.subquery.network/whitepaper.pdf)。 SubQuery的白皮书最初发布于2021年6月，它概述了我们在去中心化SubQuery网络以及SQT通证的战略框架。 自最初出版以来，我们经历了客户基础和社区的显著增长，并在建立SubQuery网络方面取得了巨大进展。 从中我们受到了启发去改进和创新，并在我们最新版本的白皮书中展现出来。 <iframe width="1719" height="976" src="https://www.youtube.com/embed/Ghxyw5bIHs8
+" title="YouTube 视频" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 这份新白皮书概述了SubQuery的进一步计划：全球的去中心化参与者在组织运行区块链数据时没有单点故障。 我们预计这将会极大地增加SubQuery的服务运行时间，提供更好的配置，并通过降低延迟时间来提高性能。 可以预见，应用程序将能够使用GraphQL从网络中的索引器查询任何存储的数据（由SubQuery所定义的）。
 
@@ -78,8 +79,8 @@ SubQuery的真正优势可能在于它的灵活性——用户可以自由地调
 
 ## 关于SubQuery
 
-SubQuery’s mission is to help others create products that allow us to move to a decentralised future faster. SubQuery is a blockchain developer toolkit and the backbone of web3 infrastructure. A SubQuery project is a complete API to organise and query data from chains. Operating between layer-1 blockchains and decentralised apps (dApp), SubQuery is an open-source indexer organising and serving well-structured data over GraphQL. SubQuery powers the next generation of dApps and tools with web3 data
+SubQuery的使命是帮助其他人创造让我们更快地迈向去中心化的未来产品。 SubQuery是区块链开发者工具包，也是Web3基础设施的骨干。 SubQuery项目是一个完整的API，用于组织和查询区块链上的数据。 SubQuery在多个Layer 1区块链和dApp之间运行，是一个通过GraphQL组织和服务数据的开源索引器。 SubQuery支持使用Web3数据的下一代dApps和工具。
 
-Currently, anyone can already use SubQuery to extract and query blockchain data in only minutes and at no cost but in a centralised way. The SubQuery Network proposes to enable this same scalable and performant solution, but in a completely decentralised way.
+目前，任何人都已经可以通过SubQuery在几分钟内提取和查询区块链数据，而且是免费的，方式是中心化的。 SubQuery网络将会运用同样的可伸缩和高性能的解决方案，但采用完全去中心化的方式。
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
