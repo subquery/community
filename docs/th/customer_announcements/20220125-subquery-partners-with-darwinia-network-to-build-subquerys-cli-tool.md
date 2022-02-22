@@ -8,7 +8,7 @@
 > เครื่องมือ SubQuery CLI ที่เราสร้างขึ้นมานั้นช่วยทำให้ขั้นตอนการพัฒนาเป็นเรื่องง่าย โดยในตอนนี้เราสามารถจัดการการเผยแพร่ในแต่ละ branche ได้ทั้งหมดและรู้สึกมั่นในว่าการเปลี่ยนแปลงของเราจะถูกปรับใช้ให้เข้ากับระบบบริการโฮสต์ของ SubQuery แบบอัตโนมัติ เราภาคภูมิใจในระบบอัตโนมัติของเราในการตรวจสอบว่าไฟล์ schema.graphql ว่ามีการเปลี่ยนแปลงหรือไม่ และถ้ามีการเปลี่ยนแปลง เราจะปรับเปลี่ยนให้เกิดฐานข้อมูลใหม่ทั้งหมด — Yalin, หนึ่งในทีมนักพัฒนาหลัก — Darwinia Network
 
 
-Check out the [new CLI tool here](https://github.com/fewensa/subquery-cli) and see a [living example of it here](https://github.com/darwinia-network/bridger/blob/master/.github/workflows/subquery-prod.yml).
+ดูเนื้อหาเพิ่มเติม [CLI ใหม่ที่นี่](https://github.com/fewensa/subquery-cli) และดู [ตัวอย่างเพิ่มเติมได้ทีนี่](https://github.com/darwinia-network/bridger/blob/master/.github/workflows/subquery-prod.yml)
 
 The first of many applications in Darwinia’s growing application ecosystem is the [Wormhole app](https://wormhole.darwinia.network/). Wormhole is an easy to use application that makes transferring assets between networks easy and is a key part of Darwinia’s cross chain strategy. Currently the bridge between Darwinia and Ethereum is operational. [SubQuery is used to show historic transfers and events](https://explorer.subquery.network/subquery/darwinia-network/wormhole-darwinia) that have occurred on your Darwinia/Crab/Pangolin address related to the wormhole (e.g. the arrival of assets from another network).
 
