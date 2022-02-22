@@ -32,7 +32,7 @@ Acala和Karura代表了DeFi未来的巨大愿景，因此这是一个为生态�
 
 ![](https://miro.medium.com/max/1400/0*l7GA1axntiHCINRM)
 
-Web3Go的界面清晰地列出了所有CDP地址、比例和安全状态。 对于每个地址，它还提供有关地址历史的信息，并方便其他人监控金融工具。 <iframe width="560" height="315" src="https://www.youtube.com/embed/hc3YDjv6dkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Web3Go的界面清晰地列出了所有CDP地址、比例和安全状态。 对于每个地址，它还提供有关地址历史的信息，并方便其他人监控金融工具。 <iframe width="560" height="315" src="https://www.youtube.com/embed/hc3YDjv6dkk" title="YouTube 视频" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 ## Polkadot Staking 仪表盘
 
@@ -70,7 +70,7 @@ RMRK是NFT legos 制作NFT的高级协议，NFT不仅仅是jpeg。 RMRK的团队
 
 SubQuery源于Polkadot，它是我们的家，我们一直努力在这个生态系统中建立关系。 尽管如此，我们也相信多链的未来，因为我们知道将有许多不同的区块链协同工作以解决不同的问题。 我们的长期计划是采用SubQuery并使其适用于其他区块链，这些区块链目前还没有能够帮助开发人员构建新DAPP的索引解决方案。
 
-这项价值12000美元的挑战的获胜者是Naveen，他扩展了SubQuery以索引Terra链。 这是通过创建一个支流来实现的，该支流将官方subql实现的节点包扩展到索引Terra。 Naveen正在继续这方面的工作，您可以期待SubQuery计划支持Polkadot之外的layer-1链的消息。 <iframe width="560" height="315" src="https://www.youtube.com/embed/K_pjh5OC95A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+这项价值12000美元的挑战的获胜者是Naveen，他扩展了SubQuery以索引Terra链。 这是通过创建一个支流来实现的，该支流将官方subql实现的节点包扩展到索引Terra。 Naveen正在继续这方面的工作，您可以期待SubQuery计划支持Polkadot之外的layer-1链的消息。 <iframe width="560" height="315" src="https://www.youtube.com/embed/K_pjh5OC95A" title="YouTube视频链接：" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 “_在过去的几个月里，我一直在研究一系列的索引器，甚至从零开始构建索引器。 这可能就是为什么SubQuery在Gitcoin GR12 Hackathon中引起我注意的原因。 我承担了将SubQuery扩展到索引Terra的任务。 我不相信我能在15天内完成这项工作。 但是SubQuery的构架是如此出色，它让我能够在脑海中迅速描绘出引擎盖下正在发生的事情。 我及时拼凑了一个可行的解决方案，目前正在使用SubQuery将Terra索引器合并到subql包中。 在可预见的未来，我将继续使用SubQuery来维护和扩展项目，并可能为其他layer-1链构建索引器。”</p>
 
@@ -82,6 +82,6 @@ SubQuery源于Polkadot，它是我们的家，我们一直努力在这个生态�
 
 ## 关于 SubQuery
 
-[SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. This service unlocks blockchain data and transforms it to a queryable state so that it can be used in intuitive applications. It allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The upcoming SubQuery Network will decentralize and tokenize the ecosystem to allow everyone to participate in the web3 data revolution.
+SubQuery是Polkadot的领先数据提供商，支持在Layer_1区块链和去中心化应用程序之间建立索引和查询层。 SubQuery的服务解锁了区块链的数据，使它们成为可被查询的状态，进而易于被应用程序使用。 SubQuery允许开发人员专注于部署其核心产品，而无需在定制后端技术上浪费精力。 即将推出的SubQuery网络将对生态系统进行去中心化和通证化，使每个人都能参与到Web3数据革命中。
 
-[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Youtube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
