@@ -1,31 +1,31 @@
-# SubQuery provides data indexing solution for Polkamarkets
+# SubQuery предоставляет решение по индексированию данных для Polkamarkets
 
 ![](https://miro.medium.com/max/1400/0*KRx5x-Oaz7mfHPuJ)
 
-Today we are pleased to announce our partnership between Polkamarkets and SubQuery Network. Polkamarkets is a blockchain protocol that has combined DeFi and prediction markets where traders can leverage their knowledge of the past, present and future to forecast specific, real world outcomes . Polkamarkets is leveraging SubQuery’s data indexing expertise to augment the protocol’s data handling capabilities.
+Сегодня мы рады объявить о партнерстве между Polkamarkets и SubQuery Network. Polkamarkets - это протокол блокчейн, который объединил DeFi и рынки предсказаний, где трейдеры могут использовать свои знания о прошлом, настоящем и будущем для прогнозирования конкретных, реальных результатов. Polkamarkets использует опыт SubQuery в индексировании данных, чтобы расширить возможности протокола по работе с данными.
 
-Querying and aggregating on-chain data is a complex and costly process. In order to build increasingly complex and intuitive applications, developers need powerful tools to process and query their data faster. While Polkamarkets Labs had previously built their own [indexing solution](https://github.com/Polkamarkets/polkamarkets-api) they elected to migrate to SubQuery to improve their scalability as their protocol gains more traction.
+Запрос и агрегирование данных о цепочке - сложный и дорогостоящий процесс. Чтобы создавать все более сложные и интуитивно понятные приложения, разработчикам нужны мощные инструменты для более быстрой обработки и запроса данных. Хотя Polkamarkets Labs ранее создала собственное решение [индексации](https://github.com/Polkamarkets/polkamarkets-api), они решили перейти на SubQuery, чтобы улучшить масштабируемость, поскольку их протокол набирает обороты.
 
-> “Prediction markets are only as reliable as the data they use. This partnership with SubQuery enables the Polkamarkets protocol to enhance its data handling capabilities to ensure a robust and smooth user experience, while adding powerful data tools for developers using the protocol to build their own prediction market apps. We look forward to seeing where our technologies can work together to bring greater prediction market usage and adoption.” — Ricardo Marques, Co-Founder of Polkamarkets.
+> "Рынки прогнозирования надежны лишь настолько, насколько надежны данные, которые они используют. Партнерство с SubQuery позволяет протоколу Polkamarkets расширить возможности обработки данных для обеспечения надежной и бесперебойной работы пользователей, а также добавить мощные инструменты работы с данными для разработчиков, использующих протокол для создания собственных приложений рынка предсказаний. Мы с нетерпением ждем возможности увидеть, где наши технологии могут работать вместе, чтобы обеспечить более широкое использование и внедрение на рынке предсказаний". - Рикардо Маркес, соучредитель компании Polkamarkets.
 
-As the leading data indexer in Polkadot, SubQuery will be used to index and aggregate Polkamarkets’ protocol, such as:
+Как ведущий индексатор данных в Polkadot, SubQuery будет использоваться для индексации и агрегации протокола Polkamarkets, такого как:
 
-- Users’ portfolio/transaction history
-- Market outcomes price history
-- Market resolution POLK bonds history
+- История портфеля/транзакций пользователей
+- Ценовая история рыночных результатов
+- Разрешение рынка История облигаций POLK
 
-> “One of the most exciting applications of blockchain is prediction markets and trading, we’re excited to partner with the leading player in this space in Polkadot. Creating a prediction market isn’t just about collecting real world events, it requires an excellent user interface to display this information and allow users to take the right positions — we’re keen to play a big part in this development.” — James Bayly, Head of Business Development at SubQuery.
+> "Одним из самых захватывающих применений блокчейна являются рынки предсказаний и торговля, и мы рады сотрудничать с ведущим игроком в этой области Polkadot. Создание рынка прогнозов - это не просто сбор информации о реальных событиях, для этого необходим отличный пользовательский интерфейс, который отобразит эту информацию и позволит пользователям занять правильные позиции - мы стремимся сыграть большую роль в этом развитии". - Джеймс Бейли, руководитель отдела развития бизнеса компании SubQuery.
 
-The Polkamarkets protocol is being deployed in Kusama through Moonriver, and soon to Polkadot through Moonbeam. The indexing and query services managed by SubQuery and provided to the Polkadot community are available in [SubQuery’s Explorer](https://explorer.subquery.network/).
+Протокол Polkamarkets внедряется в Kusama через Moonriver, а вскоре и в Polkadot через Moonbeam. Службы индексирования и запросов, управляемые SubQuery и предоставляемые сообществу Polkadot, доступны в [SubQuery's Explorer](https://explorer.subquery.network/).
 
-## About Polkamarkets
+## О Polkamarkets
 
-[Polkamarkets](https://www.polkamarkets.com/) is an Autonomous Prediction Market Protocol built for cross-chain information exchange and trading where users take positions on outcomes of real-world events–in decentralized and interoperable EVMs.
+[Polkamarkets](https://www.polkamarkets.com/) - это протокол автономного рынка предсказаний, созданный для межцепочечного обмена информацией и торговли, где пользователи занимают позиции по исходам реальных событий в децентрализованных и взаимодействующих EVM.
 
 [Discord](https://discord.gg/polkamarkets) | [Website](https://polkamarkets.com/) | [LinkedIn](https://www.linkedin.com/company/polkamarkets/) | [GitHub](https://github.com/Polkamarkets) | [Telegram](http://t.me/polkamarkets) | [Twitter](https://twitter.com/polkamarkets)
 
-## About SubQuery
+## О SubQuery
 
-[SubQuery](https://subquery.network/) is Polkadot’s leading data provider, supporting an indexing & querying layer between Layer-1 blockchains (Polkadot) and decentralized applications. SubQuery’s data service is being used by most of the Polkadot and Kusama crowdloan and parachain auction websites live today. SubQuery’s protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+[SubQuery](https://subquery.network/) - это ведущий поставщик данных Polkadot, поддерживающий слой индексирования и запросов между блокчейнами первого уровня (Polkadot) и децентрализованными приложениями. Служба данных SubQuery используется большинством существующих сегодня веб-сайтов по краудлоанам и парачейновым аукционам Polkadot и Kusama. Протокол SubQuery абстрагируется от идиосинкразии данных блокчейна с помощью SubQuery SDK, позволяя разработчикам сосредоточиться на внедрении своего основного продукта без ненужной траты усилий на пользовательские технологии бэкенда.
 
 [Website](https://subquery.network/) | [Email](hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)
