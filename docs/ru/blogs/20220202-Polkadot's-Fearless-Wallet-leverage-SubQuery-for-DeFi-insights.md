@@ -24,12 +24,12 @@ Fearless Wallet использует [SubQuery Projects](https://project.subquer
 
 ## О SubQuery
 
-[SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications (DApps). Currently focused on Polkadot and Substrate projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+[SubQuery](https://subquery.network/) - это децентрализованный уровень агрегации данных, индексирования и запросов между блокчейнами первого уровня и децентрализованными приложениями (DApps). В настоящее время эта услуга "данные как сервис" сосредоточена на проектах Polkadot и Substrate, что позволяет разработчикам сосредоточиться на своем основном сценарии использования и фронтенде, без необходимости тратить время на создание собственного бэкенда для обработки данных.
 
 [Website](https://subquery.network/) | [Email](hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Youtube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
 
-## About Fearless Wallet
+## О Fearless Wallet
 
-[Fearless Wallet](https://fearlesswallet.io/) is a mobile wallet designed for the decentralized future on the Kusama and Polkadot networks, with support for iOS and Android platforms. An awesome user experience, fast performance, and secure storage for your accounts. Fearless wallet will integrate Polkaswap for easy, decentralized swaps of assets.
+[Fearless Wallet](https://fearlesswallet.io/) - это мобильный кошелек, разработанный для децентрализованного будущего на сетях Kusama и Polkadot, с поддержкой платформ iOS и Android. Великолепный пользовательский опыт, высокая производительность и надежное хранение ваших учетных записей. В кошелек Fearless будет интегрирован Polkaswap для легкого децентрализованного обмена активами.
 
 [Website](https://fearlesswallet.io/) | [Android App](https://play.google.com/store/apps/details?id=jp.co.soramitsu.fearless) | [IOS App](https://apps.apple.com/us/app/fearless-wallet/id1537251089) | [Medium](https://medium.com/fearlesswallet/) | [Telegram](https://t.me/fearlesswallet) | [Twitter](https://twitter.com/FearlessWallet)
