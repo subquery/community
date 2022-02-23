@@ -6,12 +6,12 @@
 
 การสืบค้นและการรวบรวมข้อมูลบนเครือข่าย เป็นกระบวนการที่ซับซ้อนและมีค่าใช้จ่ายที่สูง ในการสร้างแอปพลิเคชั่นที่ซับซ้อนและใช้งานง่าย นักพัฒนาจำเป็นต้องมีเครื่องมือที่มีประสิทธิภาพในการประมวลผลและสืบค้นข้อมูลได้เร็วขึ้น แม้ว่า Polkamarkets Labs ได้สร้าง [วิธีการแก้ไขปัญหาในการจัดทำดัชนี](https://github.com/Polkamarkets/polkamarkets-api) เป็นของตัวเองไว้ในก่อนหน้านี้ พวกเขายังเลือกที่จะย้ายไปยัง SubQuery เพื่อพัฒนาความสามารถในการรองรับการขยายตัวเนื่องจากโปรโตคอลได้รับการใช้งานที่มากขึ้น
 
-> "ตลาดพยากรณ์มีความน่าเชื่อถือพอๆกับข้อมูลที่พวกเขาใช้ This partnership with SubQuery enables the Polkamarkets protocol to enhance its data handling capabilities to ensure a robust and smooth user experience, while adding powerful data tools for developers using the protocol to build their own prediction market apps. We look forward to seeing where our technologies can work together to bring greater prediction market usage and adoption.” — Ricardo Marques, Co-Founder of Polkamarkets.
+> "ตลาดพยากรณ์มีความน่าเชื่อถือพอๆกับข้อมูลที่พวกเขาใช้ ความร่วมกับ SubQuery นี้ ทำให้โปรโตคอลของ Polkamarkets มีความสามารถในการจัดการข้อมูล เพื่อให้มั่นใจว่าผู้ใช้จะได้รับประสบการณ์ที่ราบรื่นและมั่นคง ในขณะเดียวกันก็เพิ่มเครื่องมือข้อมูลที่มีประสิทธิภาพให้สำหรับนักพัฒนาที่ใช้โปรโตคอลเพื่อสร้างแอปพลิเคชั่นตลาดพยากรณ์ พวกเราตั้งตารอที่จะเห็นว่าที่ไหนบ้างที่เทคโนโลยีของเราสามารถทำงานร่วมกันได้เพื่อนำการใช้งานตลาดพยากรณ์ที่ดีและได้รับการยอมรับมากขึ้น" Ricardo Marques ผู้ร่วมก่อตั้ง Polkamarkets
 
-As the leading data indexer in Polkadot, SubQuery will be used to index and aggregate Polkamarkets’ protocol, such as:
+ในฐานะตัวสร้างดัชนีข้อมูลชั้นนำใน Polkabot SubQuery จะถูกใช้เพื่อการจัดทำดัชนีและรวมโปรโตคอลของ Polkamarkets เช่น:
 
-- Users’ portfolio/transaction history
-- Market outcomes price history
+- ผลงาน/ประวัติการทำธุรกรรมของผู้ใช้งาน
+- ประวัติราคาผลลัพธ์ของตลาด
 - Market resolution POLK bonds history
 
 > “One of the most exciting applications of blockchain is prediction markets and trading, we’re excited to partner with the leading player in this space in Polkadot. Creating a prediction market isn’t just about collecting real world events, it requires an excellent user interface to display this information and allow users to take the right positions — we’re keen to play a big part in this development.” — James Bayly, Head of Business Development at SubQuery.
