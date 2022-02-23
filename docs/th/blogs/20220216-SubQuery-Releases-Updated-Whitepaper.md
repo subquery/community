@@ -24,21 +24,21 @@ SubQuery Network ได้รับการออกแบบมาเพื่
 
 ### เรียบง่ายและเข้าถึงได้
 
-_The SubQuery Network is designed to be the data provider of the people._
+_SubQuery Network ได้รับการออกแบบให้เป็นผู้ให้บริการข้อมูลของประชาชน_
 
-The guiding principle with the SubQuery Network is simplicity. It is SubQuery’s opinion that other approaches to decentralised data query services are overly complex and make it difficult for participants to predict their return on investment. The aim is to make it easy for you to get involved in the network, and to clearly forecast your future potential return.
+หลักการของ SubQuery Network คือความเรียบง่าย ตามความเห็นของ SubQuery นั้น วิธีการอื่นๆ ในการให้บริการสืบค้นข้อมูลแบบกระจายอำนาจนั้นมีความซับซ้อนจนเกินไป และทำให้ผู้เข้าร่วมคาดการณ์ผลตอบแทนที่จะได้รับจากการลงทุนได้ยาก เป้าหมายของเราจึงเป็นการทำให้คุณสามารถมีส่วนร่วมในเครือข่ายได้ง่าย และคาดการณ์ผลตอบแทนที่จะเกิดขึ้นในอนาคตได้อย่างชัดเจน
 
-SubQuery won’t require high staking thresholds to participate or huge investment into hardware. The focus will be on making SubQuery easier to join and build with than our competitors — SubQuery’s success depends on the success of others creating the future on it.
+SubQuery ไม่ต้องการการ stake เป็นจำนวนที่สูงเพื่อเข้าร่วม หรือลงทุนมหาศาลในฮาร์ดแวร์ เราจะโฟกัสไปที่การทำให้ SubQuery สามารถเข้าร่วมและสร้างได้ง่ายกว่าคู่แข่งของเรา ความสำเร็จของ SubQuery ขึ้นอยู่กับความสำเร็จของผู้ที่สร้างอนาคตเหล่านั้นขึ้นมาด้วย
 
-This means that a design goal is to make it as easy as possible for anyone to participate. You don’t need to be a developer or have a deep knowledge of the token economic model, you can easily participate as a Delegator. As a Consumer, you also have plenty of payment options to best suit your needs. Finally, a key focus of the SubQuery Foundation is to ensure that there is enough support that anyone, from an expert blockchain team to a new hobbyist developer, can build their own SubQuery project.
+ซึ่งหมายความว่าเป้าหมายในการออกแบบคือการทำให้ทุกคนเข้ามามีส่วนร่วมได้ง่ายที่สุด คุณไม่จำเป็นต้องเป็นนักพัฒนาซอฟต์แวร์ หรือมีความรู้เชิงลึกเกี่ยวกับโมเดล tokenomic คุณสามารถเข้าร่วมในฐานะ Delegator ได้อย่างง่ายดาย ในฐานะผู้บริโภค คุณยังมีตัวเลือกในการชำระเงินมากมายที่ตรงกับความต้องการของคุณมากที่สุด สุดท้ายนี้ สิ่งหลักที่ SubQuery Foundation โฟกัสคือ เพื่อให้แน่ใจว่ามีการสนับสนุนเพียงพอที่จะช่วยให้ทุกคน ตั้งแต่ทีมผู้เชี่ยวชาญด้านบล็อคเชน ไปจนถึงนักพัฒนาซอฟต์แวร์มือใหม่ที่เข้ามาทำเป็นงานอดิเรก ก็สามารถสร้างโปรเจกต์ SubQuery ของตนเองได้
 
-### Flexible
+### ยืดหยุ่นได้
 
-_SubQuery is just a tool in the hands of our community, endless opportunities exist limited only by the creativity of the people._
+_SubQuery เป็นเพียงเครื่องมือหนึ่งที่อยู่ในมือของชุมชนของเรา โอกาสอันไม่มีที่สิ้นสุดนั้นมีอยู่ หากแต่ถูกจำกัดไว้สำหรับผู้คนที่มีความคิดสร้างสรรค์เท่านั้น_
 
-The true advantages of SubQuery may lie in its flexibility — users will have the freedom to adapt and transform decentralised data to suit their needs. This drive for flexibility extends to making it easier for delegators to quickly and easily support different indexers without having to wait for extended unbonding periods. Finally, this approach is perfectly embodied by our introduction of three payment methods which we’ll cover next.
+ข้อได้เปรียบที่แท้จริงของ SubQuery อาจอยู่ที่ความยืดหยุ่น — ผู้ใช้จะมีอิสระในการปรับใช้และแปลงข้อมูลแบบกระจายศูนย์เพื่อให้เหมาะสมกับความต้องการของพวกเขา การขับเคลื่อนเรื่องความยืดหยุ่นนี้ยังครอบคลุมถึงการให้ delegator สามารถสนับสนุน indexer ที่แตกต่างกันได้อย่างรวดเร็วและง่ายดาย โดยไม่ต้องรอการขยายระยะเวลายกเลิกการผูกมัด สุดท้ายนี้ แนวทางดังกล่าวจะชัดเจนสมบูรณ์แบบได้โดยการแนะนำวิธีการชำระเงินสามวิธีที่เราจะกล่าวถึงถัดจากนี้
 
-## SubQuery’s Innovation in Payment Methods
+## นวัตกรรมวิธีการชำระเงินของ SubQuery
 
 The biggest change by far with this version of the whitepaper is our innovation in payment methods. Today, we generally pay with subscription-based payments for the music we listen to, the TV shows we watch, and the applications that we use. In pioneering web3 service applications, we’ve instead adopted a pay-as-you-go model, where each atomic transaction has an exact cost in the network.
 
