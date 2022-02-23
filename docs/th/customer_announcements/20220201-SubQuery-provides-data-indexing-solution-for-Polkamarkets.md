@@ -2,11 +2,11 @@
 
 ![](https://miro.medium.com/max/1400/0*KRx5x-Oaz7mfHPuJ)
 
-วันนี้ พวกเรายินดีที่จะประกาศถึงความร่วมมือระหว่าง Polkamarkets และ SubQuery Network Polkamarkets is a blockchain protocol that has combined DeFi and prediction markets where traders can leverage their knowledge of the past, present and future to forecast specific, real world outcomes . Polkamarkets is leveraging SubQuery’s data indexing expertise to augment the protocol’s data handling capabilities.
+วันนี้ พวกเรายินดีที่จะประกาศถึงความร่วมมือระหว่าง Polkamarkets และ SubQuery Network Polkamarkets เป็น blockchain protocol ที่รวม DiFi และตลาดพื่อการพยากรณ์ (Prediction markets) ที่ผู้ค้าสามารถใช้ความรู้ในอดีต ปัจจุบัน และอนาคต เพื่อทำนายผลลัพธ์ที่เฉพาะเจาะจงในโลกแห่งความเป็นจริง Polkamarkets ใช้ประโยชน์จากความเชี่ยวชาญในการจัดทำดัชนีข้อมูลของ SubQuery เพื่อเพิ่มความสามารถในการจัดการจัดการข้อมูลของ Protocol
 
-Querying and aggregating on-chain data is a complex and costly process. In order to build increasingly complex and intuitive applications, developers need powerful tools to process and query their data faster. While Polkamarkets Labs had previously built their own [indexing solution](https://github.com/Polkamarkets/polkamarkets-api) they elected to migrate to SubQuery to improve their scalability as their protocol gains more traction.
+การสืบค้นและการรวบรวมข้อมูลบนเครือข่าย เป็นกระบวนการที่ซับซ้อนและมีค่าใช้จ่ายที่สูง ในการสร้างแอปพลิเคชั่นที่ซับซ้อนและใช้งานง่าย นักพัฒนาจำเป็นต้องมีเครื่องมือที่มีประสิทธิภาพในการประมวลผลและสืบค้นข้อมูลได้เร็วขึ้น แม้ว่า Polkamarkets Labs ได้สร้าง [วิธีการแก้ไขปัญหาในการจัดทำดัชนี](https://github.com/Polkamarkets/polkamarkets-api) เป็นของตัวเองไว้ในก่อนหน้านี้ พวกเขายังเลือกที่จะย้ายไปยัง SubQuery เพื่อพัฒนาความสามารถในการรองรับการขยายตัวเนื่องจากโปรโตคอลได้รับการใช้งานที่มากขึ้น
 
-> “Prediction markets are only as reliable as the data they use. This partnership with SubQuery enables the Polkamarkets protocol to enhance its data handling capabilities to ensure a robust and smooth user experience, while adding powerful data tools for developers using the protocol to build their own prediction market apps. We look forward to seeing where our technologies can work together to bring greater prediction market usage and adoption.” — Ricardo Marques, Co-Founder of Polkamarkets.
+> "ตลาดพยากรณ์มีความน่าเชื่อถือพอๆกับข้อมูลที่พวกเขาใช้ This partnership with SubQuery enables the Polkamarkets protocol to enhance its data handling capabilities to ensure a robust and smooth user experience, while adding powerful data tools for developers using the protocol to build their own prediction market apps. We look forward to seeing where our technologies can work together to bring greater prediction market usage and adoption.” — Ricardo Marques, Co-Founder of Polkamarkets.
 
 As the leading data indexer in Polkadot, SubQuery will be used to index and aggregate Polkamarkets’ protocol, such as:
 
