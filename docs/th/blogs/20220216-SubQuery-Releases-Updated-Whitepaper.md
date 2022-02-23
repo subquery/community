@@ -1,4 +1,4 @@
-# SubQuery Releases Updated Whitepaper
+# SubQuery เผยแพร่การอัปเดต Whitepaper
 
 ![](https://miro.medium.com/max/700/0*guA8YHyJPhu0wmzf)
 
