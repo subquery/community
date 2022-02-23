@@ -20,9 +20,9 @@
 
 ## เกี่ยวกับ Polkamarkets
 
-[Polkamarkets](https://www.polkamarkets.com/) is an Autonomous Prediction Market Protocol built for cross-chain information exchange and trading where users take positions on outcomes of real-world events–in decentralized and interoperable EVMs.
+[Polkamarkets](https://www.polkamarkets.com/) เป็นโปรโตคอลตลาดพยากรณ์อัตโนมัติที่สร้างขึ้นสำหรับการแลกเปลี่ยนและซื้อขายข้อมูลข้ามเครือข่าย โดยที่ผู้ใช้รับตำแหน่งตามผลลัพธ์ของเหตุการณ์ในโลกแห่งความเป็นจริง–ในการกระจายศูนย์และการทำงานร่วมกันได้ของ EVMs
 
-[Discord](https://discord.gg/polkamarkets) | [Website](https://polkamarkets.com/) | [LinkedIn](https://www.linkedin.com/company/polkamarkets/) | [GitHub](https://github.com/Polkamarkets) | [Telegram](http://t.me/polkamarkets) | [Twitter](https://twitter.com/polkamarkets)
+[ดิสคอร์ด](https://discord.gg/polkamarkets) | [เว็บไซต์](https://polkamarkets.com/) | [ลิ้งทิน](https://www.linkedin.com/company/polkamarkets/) | [กิทฮับ](https://github.com/Polkamarkets) | [เทเลแกรม](http://t.me/polkamarkets) | [ทวิตเตอร์](https://twitter.com/polkamarkets)
 
 ## About SubQuery
 
