@@ -24,8 +24,8 @@
 
 [ดิสคอร์ด](https://discord.gg/polkamarkets) | [เว็บไซต์](https://polkamarkets.com/) | [ลิ้งทิน](https://www.linkedin.com/company/polkamarkets/) | [กิทฮับ](https://github.com/Polkamarkets) | [เทเลแกรม](http://t.me/polkamarkets) | [ทวิตเตอร์](https://twitter.com/polkamarkets)
 
-## About SubQuery
+## เกี่ยวกับ SubQuery
 
-[SubQuery](https://subquery.network/) is Polkadot’s leading data provider, supporting an indexing & querying layer between Layer-1 blockchains (Polkadot) and decentralized applications. SubQuery’s data service is being used by most of the Polkadot and Kusama crowdloan and parachain auction websites live today. SubQuery’s protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+[SubQuery](https://subquery.network/) เป็นผู้ให้บริการข้อมูลแนวหน้าของ Polkadot ซึ่งสนับสนุนการจัดทำดัชนี & การสืบค้นข้อมูลระหว่างบล็อคเชนเลเยอร์หนึ่ง (Polkadot) และแอปพลิเคชั่นกระจายศูนย์ การบริการข้อมูลของ SubQuery ถูกใช้โดย Polkadot และ Kusama crowdloan เป็นส่วนใหญ่ และเว็ปไซต์ประมูลของ Parachain อยู่ทุกวันนี้ โปรโตคอลของ SubQuery จะจัดเรียงข้อมูลบล็อคเชนที่ไม่เป็นระเบียบด้วย SDK ของ SubQuery ซึ่งทำให้นักพัฒนาสามารถจดจ่ออยู่กับการปรับใช้ผลิตภัณฑ์หลักของเขาโดยไม่ต้องเปลืองความพยายามไปกับเทคโนโลยีหลังบ้าน (backend) โดยไม่จำเป็น
 
-[Website](https://subquery.network/) | [Email](hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)
+<[เว็ปไซต์](https://subquery.network/) | [อีเมลล์](hello@subquery.network) | [ดิสคอร์ด](https://discord.com/invite/78zg8aBSMG) | [เทเลแกรม](https://t.me/subquerynetwork) | [ทวิตเตอร์](https://twitter.com/subquerynetwork) | [มาทริกซ์](https://matrix.to/#/#subquery:matrix.org) | [ลิ้งทิน](https://www.linkedin.com/company/subquery) | [กิทฮับ](https://github.com/subquery)
