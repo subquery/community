@@ -12,9 +12,9 @@
 
 - ผลงาน/ประวัติการทำธุรกรรมของผู้ใช้งาน
 - ประวัติราคาผลลัพธ์ของตลาด
-- Market resolution POLK bonds history
+- ความเที่ยงตรงของประวัติตลาดตราสารหนี้ POLK
 
-> “One of the most exciting applications of blockchain is prediction markets and trading, we’re excited to partner with the leading player in this space in Polkadot. Creating a prediction market isn’t just about collecting real world events, it requires an excellent user interface to display this information and allow users to take the right positions — we’re keen to play a big part in this development.” — James Bayly, Head of Business Development at SubQuery.
+> "หนึ่งในแอปพลิเคชั่นที่น่าตื่นเต้นที่สุดของ blockchain คือตลาดพยากรณ์และการซื้อขาย เรารู้สึกตื่นเต้นที่ได้เป็นพันธมิตรกับผู้เล่นชั้นนำในพื้นที่นี้ใน Polkadot Creating a prediction market isn’t just about collecting real world events, it requires an excellent user interface to display this information and allow users to take the right positions — we’re keen to play a big part in this development.” — James Bayly, Head of Business Development at SubQuery.
 
 The Polkamarkets protocol is being deployed in Kusama through Moonriver, and soon to Polkadot through Moonbeam. The indexing and query services managed by SubQuery and provided to the Polkadot community are available in [SubQuery’s Explorer](https://explorer.subquery.network/).
 
