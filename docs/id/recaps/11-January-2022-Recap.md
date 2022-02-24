@@ -10,29 +10,29 @@ Seperti biasa, kami membagi pembaruan bulanan kami menjadi tiga bagian; komunita
 
 Komunitas SubQuery berkembang pesat dalam hal jumlah dan wilayah yang kami cakup! Akibatnya, kami memiliki banyak hal untuk dibicarakan di bidang ini.
 
-### SubQuery Bermitra Dengan Tim Polkadot Terkemuka Tentang Bounty Teknis melalui Program Hibah SubQuery
+### SubQuery Bermitra Dengan Tim Polkadot Terkemuka Tentang Bounty Teknis melalui Program Grants SubQuery
 
 Bulan lalu kami meluncurkan SubQuery Grants Programme, akselerator non-dilutif untuk membantu developer di komunitas kami membangun dApps generasi berikutnya. Bulan ini kami telah berbicara dengan mitra kami untuk merilis putaran pertama hadiah dalam kemitraan dengan Moonbeam, Acala, Astar dan Bifrost sebagai proyek untuk inspirasi. Semua terbuka untuk melamar sekarang, dan sebagai bonus, jika aplikasi Anda berhasil, Anda akan bekerja sama dengan tim parachain yang menyarankan tantangan!
 
-Pelamar yang tertarik dengan salah satu karunia ini didorong untuk mengirimkan proposal mereka dengan anggaran yang dibutuhkan untuk menyelesaikan tugas dan persyaratan lainnya [di sini](https://docs.google.com/forms/d/e/1FAIpQLSfmMazkebKwNTWThBkVGaxf2Bg8s4aWZ0ZhwiMCtc9kv4sJHQ/viewform). Selain itu, kami berharap dapat mengumumkan putaran pertama penerima SubQuery di bulan Februari.
+Pelamar yang tertarik dengan salah satu Bounty ini didorong untuk mengirimkan proposal mereka dengan anggaran yang dibutuhkan untuk menyelesaikan tugas dan persyaratan lainnya [di sini](https://docs.google.com/forms/d/e/1FAIpQLSfmMazkebKwNTWThBkVGaxf2Bg8s4aWZ0ZhwiMCtc9kv4sJHQ/viewform). Selain itu, kami berharap dapat mengumumkan putaran pertama penerima SubQuery di bulan Februari.
 
 [Baca selengkapnya disini](https://subquery.medium.com/subquery-partners-with-leading-polkadot-teams-on-technical-bounties-via-the-subquery-grants-d40453788435)
 
 ### SubQuery Merayakan Pemenang Gitcoin GR 12 Hackathon
 
-[SubQuery bermitra dengan Gitcoin pada bulan Desember](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a) untuk mensponsori lima tantangan dengan nilai USD$37.000 (kumpulan hadiah terbesar dalam tantangan tersebut), mengundang pengembang untuk membangun alat yang berguna, dasbor, dan bahkan memperluas SubQuery ke Layer-1 lainnya rantai blok.
+[SubQuery bermitra dengan Gitcoin pada bulan Desember](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a) untuk mensponsori lima tantangan dengan nilai USD$37.000 (kumpulan hadiah terbesar dalam tantangan tersebut), mengundang pengembang untuk membangun alat yang berguna, dasbor, dan bahkan memperluas SubQuery ke Layer-1 blockchain lainnya.
 
 ![](https://miro.medium.com/max/1400/1*BUq3ah1ULNnvLjqxv_vzlQ.png)
 
 [Sam Zou](https://twitter.com/zoujialiu), CEO dan Pendiri SubQuery berkomentar, “_SubQuery senang dengan hasil Hackathon Gitcoin GR12. Misi kami bergantung pada memiliki jaringan pengembang yang diberdayakan untuk membuat dan berinovasi dalam ekosistem Substrat/Polkadot. Kemitraan ini memberikan peluang bagi pengembang yang termotivasi di seluruh dunia untuk membangun aplikasi masa depan. Kami sangat antusias untuk membina para pemenang tantangan untuk mengembangkan ide mereka lebih jauh_”
 
-Baru-baru ini kami telah membahas banyak pemenang yang berpartisipasi dalam hackathon ini dan proyek luar biasa yang telah mereka bangun dalam [tulisan mendetail ini](https://subquery.medium.com/subquery-celebrates-winners-of-gitcoin-gr-12-hackathon-7486afaeab29). Kami terpesona oleh kualitas dan kemajuan yang dibuat oleh kiriman dalam waktu yang begitu singkat dan kami senang mengundang banyak kiriman untuk berpartisipasi dalam program hibah kami.
+Baru-baru ini kami telah membahas banyak pemenang yang berpartisipasi dalam hackathon ini dan proyek luar biasa yang telah mereka bangun dalam [tulisan mendetail ini](https://subquery.medium.com/subquery-celebrates-winners-of-gitcoin-gr-12-hackathon-7486afaeab29). Kami terpesona oleh kualitas dan kemajuan yang dibuat oleh kiriman dalam waktu yang begitu singkat dan kami senang mengundang banyak kiriman untuk berpartisipasi dalam program grants kami.
 
 [Baca selengkapnya disini](https://subquery.medium.com/subquery-celebrates-winners-of-gitcoin-gr-12-hackathon-7486afaeab29)
 
 ### Hero Course China
 
-Kursus Pahlawan kami yang dibuat dalam kemitraan dengan OneBlock+ dimulai pada awal Januari dan sekarang kami telah merilis tiga pelajaran untuk lebih dari 200 siswa! Bergabunglah dengan Komunitas OneBlock+ untuk bergabung dengan kursus atau jam kerja ini. China adalah wilayah yang penting secara strategis untuk SubQuery, tetapi kami berharap untuk segera meluncurkan banyak kursus pengembang regional lainnya — hubungi kami jika Anda dapat membantu kami dalam hal ini!
+Hero course kami yang dibuat dalam kemitraan dengan OneBlock+ dimulai pada awal Januari dan sekarang kami telah merilis tiga pelajaran untuk lebih dari 200 siswa! Bergabunglah dengan Komunitas OneBlock+ untuk bergabung dengan kursus atau jam kerja ini. China adalah wilayah yang penting secara strategis untuk SubQuery, tetapi kami berharap untuk segera meluncurkan banyak kursus pengembang regional lainnya — hubungi kami jika Anda dapat membantu kami dalam hal ini!
 
 ![](https://miro.medium.com/max/1400/1*_8N000hX1WBM79ZbFyhvYQ.png)
 
@@ -42,9 +42,9 @@ Kursus Pahlawan kami yang dibuat dalam kemitraan dengan OneBlock+ dimulai pada a
 
 SubQuery berasal dari Polkadot, ini adalah rumah kami dan kami telah bekerja keras untuk membangun hubungan di ekosistem ini. Premis inti Polkadot adalah untuk menciptakan komunitas pengembang, pengguna, dan bisnis yang berkembang yang akan memanfaatkan interoperabilitas multichain. Kami mendukung visi itu dan kami juga percaya Polkadot akan menjadi pemain terkemuka dalam inisiatif itu.
 
-Tapi kami percaya pada masa depan multi-rantai, kami tahu bahwa akan ada banyak blockchain yang saling bekerja sama untuk memecahkan masalah yang berbeda. Rencana jangka panjang kami selalu menggunakan SubQuery dan mengadaptasinya agar berfungsi untuk blockchain lain yang tidak memiliki solusi pengindeksan saat ini. Pendekatan multi-chain kami yang kami perlukan untuk Polkadot berarti kami secara unik cocok untuk tantangan ini.
+Tapi kami percaya pada masa depan multi-chain, kami tahu bahwa akan ada banyak blockchain yang saling bekerja sama untuk memecahkan masalah yang berbeda. Rencana jangka panjang kami selalu menggunakan SubQuery dan mengadaptasinya agar berfungsi untuk blockchain lain yang tidak memiliki solusi pengindeksan saat ini. Pendekatan multi-chain kami yang kami perlukan untuk Polkadot berarti kami secara unik cocok untuk tantangan ini.
 
-Kami sedang menyelesaikan pekerjaan pertama dari 5 rantai layer 1 baru yang akan diindeks oleh SubQuery, kami tidak sabar untuk segera mengumumkannya!
+Kami sedang menyelesaikan pekerjaan pertama dari 5 chain layer 1 baru yang akan diindeks oleh SubQuery, kami tidak sabar untuk segera mengumumkannya!
 
 ![](https://miro.medium.com/max/1400/1*jD1n5MSjeatjiaF5hY-Wjg.png)
 
