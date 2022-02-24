@@ -1,6 +1,5 @@
 # SubQuery Data Powers Nova Wallet — a next-gen mobile wallet for the Polkadot & Kusama ecosystem
 
-
 ![](https://miro.medium.com/max/1400/1*0HRq9OTOIIvv3Hfz9hE23A.jpeg)
 
 Today we are proud to reveal our long-term partnership with the team at Nova Wallet. 
@@ -48,13 +47,10 @@ in higher reliability and superior performance than any other option on the mark
 From our experience, SubQuery contributes ideally to the Nova Wallet goals to be high-quality mobile application for Polkadot & Kusama ecosystem”
 Ruslan Rezin,  - CTO — Nova Wallet & Nova Foundation -
 
-
 Nova Wallet currently run multiple projects in the SubQuery Explorer available for the public to use and adapt. 
 These projects have been implemented in the Nova Wallet and are being used by thousands of users around the world today. 
 You can search for Nova to see a list of ready-made and indexed projects across most networks that will allow you to get started 
 faster when building your own app.
-
-
 
 ![](https://miro.medium.com/max/1400/1*8eX2c8rcICZtsJPqcoYJUw.png)
 
@@ -79,5 +75,3 @@ without needing to waste time on building a custom backend for data processing.
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | 
 [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | 
 [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
-
-
