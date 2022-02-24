@@ -14,7 +14,7 @@ _อัปเดตแผนการสำหรับแนวทางที�
 
 [whitepaper ฉบับปรับปรุงนี้](https://static.subquery.network/whitepaper.pdf) รักษาความเชื่อมั่นของ SubQuery ที่ว่า บริการด้านข้อมูลแห่งอนาคตจะต้องเป็นมัลติเชน, เรียบง่าย และยืดหยุ่น ในเอกสาร whitepaper จะลงรายละเอียดว่า SubQuery Network มีปัจจัยในการพิจารณาออกแบบ tokenomic อย่างไร ในขณะที่ยังคงเปิดให้ผู้ใช้ระดับองค์กรสามารถเรียกใช้บริการได้ด้วย
 
-### การออกแบบให้เป็นมัลติเชน(Multi-chain)
+### การออกแบบให้เป็นมัลติเชน (Multi-chain)
 
 _SubQuery เชื่อในแนวคิดที่ว่า ชุมชนบล็อคเชนควรทำงานร่วมกันเพื่อผลักดันให้เกิดการยอมรับ web3 ซึ่งเป็นอนาคต_
 
@@ -48,9 +48,9 @@ As a result, SubQuery plans to introduce three ways to pay within the SubQuery N
 
 ![](https://miro.medium.com/max/700/0*f0yVHlbWTE8DdjuB)
 
-### Pay-As-You-Go (PAYG)
+### จ่ายตามการใช้งาน (PAYG)
 
-The first, and a standard amongst the web3 industry, is Pay-As-You-Go. This is the baseline payment method and a fallback for others. Each Indexer will advertise their PAYG prices when registering their ability to serve requests for specific SubQuery Projects.
+วิธีแรก คือแนวทางปกติในหมู่อุตสาหกรรม web3 จ่ายเท่าที่คุณใช้ This is the baseline payment method and a fallback for others. Each Indexer will advertise their PAYG prices when registering their ability to serve requests for specific SubQuery Projects.
 
 ### Closed Plans and Agreements
 
