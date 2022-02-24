@@ -50,7 +50,7 @@ As a result, SubQuery plans to introduce three ways to pay within the SubQuery N
 
 ### จ่ายตามการใช้งาน (PAYG)
 
-วิธีแรก คือแนวทางปกติในหมู่อุตสาหกรรม web3 จ่ายเท่าที่คุณใช้ This is the baseline payment method and a fallback for others. Each Indexer will advertise their PAYG prices when registering their ability to serve requests for specific SubQuery Projects.
+วิธีแรก คือแนวทางปกติในหมู่อุตสาหกรรม web3 จ่ายเท่าที่คุณใช้ This is the baseline payment method and a fallback for others. Indexer แต่ละคนจะแจ้งราคา PAYG เมื่อพวกเขายื่นข้อเสนอรับงานที่มีโปรเจกต์ที่ต้องการว่าจ้างสร้างคำขอเอาไว้
 
 ### Closed Plans and Agreements
 
