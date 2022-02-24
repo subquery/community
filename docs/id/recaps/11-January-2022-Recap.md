@@ -72,7 +72,7 @@ SubQuery sekarang mendukung fungsi agregat GraphQL tingkat lanjut untuk memungki
 
 ### SubQuery bermitra dengan Darwinia Network untuk membangun Alat CLI SubQuery
 
-Darwinia telah bermitra dengan SubQuery untuk membangun sejumlah besar aplikasi yang akan dibutuhkan untuk memberikan pengalaman pengguna terbaik untuk interaksi lintas chain. Ini termasuk [Aplikasi Cerdas baru yang merupakan hub pusat](https://apps.darwinia.network/) untuk mengelola semua interaksi jaringan Darwinia termasuk tata kelola, pertaruhan, eksplorasi chain, dan banyak lagi. Aplikasi ini menggunakan cukup banyak [data SubQuery untuk menampilkan data dan tindakan historis](https://explorer.subquery.network/subquery/darwinia-network/smart-app-crab). SubQuery akan bekerja sama dengan tim di Darwinia untuk menjadikan ini pengalaman terbaik di seluruh ekosistem Polkadot.
+Darwinia telah bermitra dengan SubQuery untuk membangun sejumlah besar aplikasi yang akan dibutuhkan untuk memberikan pengalaman pengguna terbaik untuk interaksi lintas chain. Ini termasuk [Aplikasi Cerdas baru yang merupakan hub pusat](https://apps.darwinia.network/) untuk mengelola semua interaksi jaringan Darwinia termasuk tata kelola, staking, eksplorasi chain, dan banyak lagi. Aplikasi ini menggunakan cukup banyak [data SubQuery untuk menampilkan data dan tindakan historis](https://explorer.subquery.network/subquery/darwinia-network/smart-app-crab). SubQuery akan bekerja sama dengan tim di Darwinia untuk menjadikan ini pengalaman terbaik di seluruh ekosistem Polkadot.
 
 ![](https://miro.medium.com/max/1200/1*bL2Csj9qyamD7txAheCTIg.gif)
 
