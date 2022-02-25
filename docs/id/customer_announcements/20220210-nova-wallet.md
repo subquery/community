@@ -1,4 +1,4 @@
-# SubQuery Data Powers Nova Wallet — a next-gen mobile wallet for the Polkadot & Kusama ecosystem
+# SubQuery Data Mentenagai Nova Wallet — dompet seluler generasi berikutnya untuk Polkadot & Ekosistem Kusama
 
 ![](https://miro.medium.com/max/1400/1*0HRq9OTOIIvv3Hfz9hE23A.jpeg)
 
