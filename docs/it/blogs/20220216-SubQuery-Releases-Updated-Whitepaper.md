@@ -1,20 +1,20 @@
-# SubQuery Releases Updated Whitepaper
+# SubQuery rilascia un Whitepaper aggiornato
 
 ![](https://miro.medium.com/max/700/0*guA8YHyJPhu0wmzf)
 
-_An updated plan for how SubQuery will revolutionise the future of web3 infrastructure_
+_Un piano aggiornato su come SubQuery rivoluzionerà il futuro dell'infrastruttura web3_
 
-After a long period of design, discussion, testing, and development, today we are releasing a new and significantly [updated version of our Whitepaper](https://static.subquery.network/whitepaper.pdf). Originally published back in June 2021, the SubQuery Whitepaper is a document that outlines our strategic framework for the decentralised SubQuery Network and her SQT token. Since the original publication, we have experienced significant growth in our customer base and community and made huge progress on building the SubQuery Network. From these sources, we have been inspired to improve and innovate, and that culminates in the latest version of our whitepaper. <iframe width="1719" height="976" src="https://www.youtube.com/embed/Ghxyw5bIHs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Dopo un lungo periodo di progettazione, discussione, test e sviluppo, oggi stiamo rilasciando una nuova e significativamente [aggiornata versione del nostro Whitepaper](https://static.subquery.network/whitepaper.pdf). Originariamente pubblicato nel giugno 2021, il SubQuery Whitepaper è un documento che delinea il nostro quadro strategico per la rete decentralizzata SubQuery e il suo token SQT. Dalla pubblicazione originale, abbiamo sperimentato una crescita significativa nella nostra base di clienti e nella nostra comunità e abbiamo fatto enormi progressi nella costruzione della rete SubQuery. Da queste fonti, siamo stati ispirati a migliorare e innovare, e questo culmina nell'ultima versione del nostro whitepaper. <iframe width="1719" height="976" src="https://www.youtube.com/embed/Ghxyw5bIHs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-This whitepaper outlines SubQuery’s plans to move towards a globally decentralised network of participants organising blockchain data in order to ensure no single point of failure for SubQuery. It is expected that this will massively increase SubQuery’s uptime, provide better redundancy, and increase performance by driving down latency. It is envisioned that applications will be able to use GraphQL to query any store of data (as defined by the SubQuery Project) from Indexers around the network.
+Questo whitepaper delinea i piani di SubQuery per andare verso una rete decentralizzata a livello globale di partecipanti che organizzano i dati della blockchain, al fine di garantire nessun punto di fallimento per SubQuery. Si prevede che questo aumenterà massicciamente il tempo di attività di SubQuery, fornendo una migliore ridondanza e aumentando le prestazioni riducendo la latenza. Si prevede che le applicazioni saranno in grado di utilizzare GraphQL per interrogare qualsiasi archivio di dati (come definito dal progetto SubQuery) dagli indicizzatori di tutta la rete.
 
 ![](https://miro.medium.com/max/700/0*xtd6e7mn7JkfhpzG)
 
-## Our Focus
+## Il nostro obiettivo
 
-The [updated whitepaper](https://static.subquery.network/whitepaper.pdf) maintains SubQuery’s conviction that the data services of tomorrow must be multi-chain, simple, and flexible. The whitepaper goes into detail on how the SubQuery Network factors these considerations into the token economic design while also enabling power users to run enterprise-level services on it.
+Il [whitepaper aggiornato](https://static.subquery.network/whitepaper.pdf) mantiene la convinzione di SubQuery che i servizi dati di domani devono essere multi-catena, semplici e flessibili. Il whitepaper entra in dettaglio su come la rete SubQuery fattorizza queste considerazioni nel design economico del token, mentre permette anche agli utenti di eseguire servizi di livello aziendale su di essa.
 
-### Multi-chain by Design
+### Multi-catena dal principio
 
 _SubQuery believes in the idea that a community of blockchains, working together to encourage web3 adoption, is the future_
 
