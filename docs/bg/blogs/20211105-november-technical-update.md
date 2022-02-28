@@ -26,25 +26,25 @@
 
 ![](https://miro.medium.com/max/600/1*AET6Ek_PqFDRoc29Jiitnw.gif)
 
-[Първо, запознайте се с актуализираната документация за това как да се свържете и индексирате данни от Moonbeam, Moonbase Alpha и Moonriver.](https://doc.subquery.network/create/moonbeam/) Процесът за индексиране на данни Moonbeam е само в две стъпки:
+[Първо, запознайте се с актуализираната документация за това как да се свържете и индексирате данни от Moonbeam, Moonbase Alpha и Moonriver.](https://doc.subquery.network/create/substrate-evm/) Процесът за индексиране на данни Moonbeam е само в две стъпки:
 
 ## Стъпка 1: Добавете персонализирания източник на данни на Moonbeam
 
-Създадохме процесор на данни, специално създаден да работи с внедряването на Moonbeam на [Frontier](https://github.com/paritytech/frontier). Позволява ви да препращате към специфични ABI ресурси, използвани от процесора, за да анализирате аргументите и адреса на смарт контракта, от който идват събитията или до който е направено повикването. [Можете да прочетете повече тук](https://doc.subquery.network/create/moonbeam/#data-source-spec).
+Създадохме процесор на данни, специално създаден да работи с внедряването на Moonbeam на [Frontier](https://github.com/paritytech/frontier). Позволява ви да препращате към специфични ABI ресурси, използвани от процесора, за да анализирате аргументите и адреса на смарт контракта, от който идват събитията или до който е направено повикването. [Можете да прочетете повече тук](https://doc.subquery.network/create/substrate-evm/#data-source-spec).
 
 SubQuery въвежда по-усъвършенствани филтри от другите индексатори, позволявайки филтриране на транзакции извън контракта, податели на транзакции, контракти и индексирани аргументи от лога. Това позволява на разработчиците да създават голямо разнообразие от проекти, които отговарят на техните специфични нужди от данни.
 
 ## Стъпка 2: Индексиране на Moonbeam данни
 
-Точно като нормален проект на SubQuery, вие използвате мапинг функция за трансформиране на данни извън веригата към обектите на GraphQL, които дефинирате, разликата е, че вместо `SubstrateEvent` или `SubstrateExtrinsic`, вашата мапинг функция ще получи `MoonbeamCall` или `MoonbeamEvent`, които са базирани на типа [TransactionResponse](https://docs.ethers.io/v5/api/providers/types/#providers-TransactionResponse) или [Log](https://docs.ethers.io/v5/api/providers/types/#providers-Log) на Ether. [Можете да прочетете повече за тях тук](https://doc.subquery.network/create/moonbeam/#moonbeamcall).
+Точно като нормален проект на SubQuery, вие използвате мапинг функция за трансформиране на данни извън веригата към обектите на GraphQL, които дефинирате, разликата е, че вместо `SubstrateEvent` или `SubstrateExtrinsic`, вашата мапинг функция ще получи `MoonbeamCall` или `MoonbeamEvent`, които са базирани на типа [TransactionResponse](https://docs.ethers.io/v5/api/providers/types/#providers-TransactionResponse) или [Log](https://docs.ethers.io/v5/api/providers/types/#providers-Log) на Ether. [Можете да прочетете повече за тях тук](https://doc.subquery.network/create/substrate-evm/#frontierevmcall).
 
-[Прочетете пълната документация за този процес тук](https://doc.subquery.network/create/moonbeam/#moonbeamcall)
+[Прочетете пълната документация за този процес тук](https://doc.subquery.network/create/substrate-evm/#frontierevmcall)
 
 ## Примерен проект
 
 There is a complete example project that indexes eth `трансферни` събития и `одобрява` повиквания на смарт контракти. Кодът за този примерен проект е [тук в GitHub](https://github.com/subquery/tutorials-moonriver-evm-starter) или е достъпен чрез [работещия проект SubQuery в SubQuery Explorer тук](https://explorer.subquery.network/subquery/subquery/moonriver-evm-starter-project).
 
-По-голямата част от промените се извършват във файла на манифеста (`project.yaml`). По-долу можете да видите, че имаме [разширени филтри за повиквания](https://doc.subquery.network/create/moonbeam/#call-filters), които поддържат или [низове за подпис на функция](https://docs.ethers.io/v5/api/utils/abi/fragments/#FunctionFragment), или функцията sighash за филтриране на функцията, извикана в контракта. За [филтри за събития](https://doc.subquery.network/create/moonbeam/#event-filters) можете да използвате филтриране на теми, което следва [стандарта за филтри за регистрационни файлове на Ethereum JSON-PRC, който се намира тук](https://docs.ethers.io/v5/concepts/events/). Имайте предвид, че SubQuery въвежда по-усъвършенствани филтри от други индексатори за Moonbeam EVM и тези подобрения би трябвало значително да са от полза за разработчиците.
+По-голямата част от промените се извършват във файла на манифеста (`project.yaml`). По-долу можете да видите, че имаме [разширени филтри за повиквания](https://doc.subquery.network/create/substrate-evm/#call-filters), които поддържат или [низове за подпис на функция](https://docs.ethers.io/v5/api/utils/abi/fragments/#FunctionFragment), или функцията sighash за филтриране на функцията, извикана в контракта. За [филтри за събития](https://doc.subquery.network/create/substrate-evm/#event-filters) можете да използвате филтриране на теми, което следва [стандарта за филтри за регистрационни файлове на Ethereum JSON-PRC, който се намира тук](https://docs.ethers.io/v5/concepts/events/). Имайте предвид, че SubQuery въвежда по-усъвършенствани филтри от други индексатори за Moonbeam EVM и тези подобрения би трябвало значително да са от полза за разработчиците.
 
 ![](https://miro.medium.com/max/700/1*4JRHItnILfCie4FT6sYLEA.png)
 
@@ -52,7 +52,7 @@ There is a complete example project that indexes eth `трансферни` съ
 
 ![](https://miro.medium.com/max/700/1*k4_uJYYCsTnPRRJ7avq2WA.png)
 
-Ако имате някакви въпроси относно това, [проверите нашите документи](https://doc.subquery.network/create/moonbeam) или се свържете с нас на нашия канал #technical-support в нашата [общност на Discord](https://discord.com/invite/subquery).
+Ако имате някакви въпроси относно това, [проверите нашите документи](https://doc.subquery.network/create/substrate-evm) или се свържете с нас на нашия канал #technical-support в нашата [общност на Discord](https://discord.com/invite/subquery).
 
 [Клонирайте примерния проект в GitHub](https://github.com/subquery/tutorials-moonriver-evm-starter)
 
