@@ -6,13 +6,13 @@ Selamat datang di pembaruan bulanan terbaru dari SubQuery. Melanjutkan dari bula
 
 Dalam pembaruan bulanan ini:
 
--   Onboarding Ambassador 👩‍💼
--   Memulai pekerjaan di SubQuery Network 🏗
--   Pertumbuhan Komunitas yang Besar 🚀
--   Proyek Baru di SubQuery 🤝
--   AMA dengan DotMarketCap 🎙
--   Aktivitas di Cina 🇨🇳
--   Menyampaikan Milestone ke-2 dari Polkadot Common API ✅
+- Onboarding Ambassador 👩‍💼
+- Memulai pekerjaan di SubQuery Network 🏗
+- Pertumbuhan Komunitas yang Besar 🚀
+- Proyek Baru di SubQuery 🤝
+- AMA dengan DotMarketCap 🎙
+- Aktivitas di Cina 🇨🇳
+- Menyampaikan Milestone ke-2 dari Polkadot Common API ✅
 
 ## Onboarding Ambassador 👩‍💼
 
@@ -50,7 +50,7 @@ Dalam kedua kasus tersebut, kami berterima kasih atas feedback yang luar biasa s
 
 *"Menggunakan Subquery menjadikan pembuatan dapps menjadi mudah, tidak perlu lagi melakukan serangkaian panggilan yang rumit untuk mendapatkan data yang saya butuhkan."* - Brett (Pengembang di Acala)
 
-*"SubQuery telah menjadi solusi ideal untuk kebutuhan kita karena aplikasinya mudah dideploy dan dikelola, mudah dipelajari dan dikembangkan serta didokumentasikan dengan baik, dan juga memiliki infrastruktur sendiri dengan integrasi Github"* - Tim Pengembang SORA
+_"SubQuery telah menjadi solusi ideal untuk kebutuhan kita karena aplikasinya mudah dideploy dan dikelola, mudah dipelajari dan dikembangkan serta didokumentasikan dengan baik, dan juga memiliki infrastruktur sendiri dengan integrasi Github"_ - Tim Pengembang SORA
 
 [Anda dapat melihat semua proyek dengan mudah melalui Explorer kami di sini](https://explorer.subquery.network/).
 
@@ -74,7 +74,7 @@ Kami senang membuat kemajuan dalam [pengembangan open source dApp API ](https:
 
 Mendekati penyelesaian milestone kedua dalam proyek ini berarti bahwa akan segera ada interface API data inti yang ditetapkan dan umum untuk Polkadot, Kusama, dan parachains lainnya yang akan menarik lebih banyak pengembang ke ekosistem. Membuat pengembangan menjadi intuitif dan semudah mungkin adalah salah satu tujuan utama kami!
 
-*****
+---
 
 Seperti biasa, silakan bergabung dengan channel sosial kami untuk tetap mendapatkan berita dan pengumuman terbaru kami.
 

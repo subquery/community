@@ -4,16 +4,16 @@ Der April war ein unglaublich arbeitsreicher Monat für SubQuery, unser Wachstum
 
 In diesem monatlichen Update:
 
--   Fokus auf Partnertools – Einführung von SubQuery-Projekten
--   Anwendungsfall von BiFrost SubQuery
--   Skalierbarkeitsverbesserungen durch unseren Dienstleister OnFinality
--   Und mehr…
+- Fokus auf Partnertools – Einführung von SubQuery-Projekten
+- Anwendungsfall von BiFrost SubQuery
+- Skalierbarkeitsverbesserungen durch unseren Dienstleister OnFinality
+- Und mehr…
 
 Auf der Partnerseite haben wir ein Schlüsselprodukt eingeführt, das benötigt wird, um das Wachstum von SubQuery operativ zu beschleunigen. Bevor Sie Ihre eigenen SubQuery Projekte lokal oder in Ihrer eigenen Infrastruktur erstellen und ausführen können. [Projekte](https://project.subquery.network/) ermöglicht es Benutzern, ihre Projekte in der SubQuery-Community zu veröffentlichen, und wir führen sie in einem leistungsstarken, skalierbaren und verwalteten öffentlichen Dienst aus – kostenlos!
 
 ![](https://miro.medium.com/max/1400/0*zZkmiEq5g2BbAxfl)
 
-Das letzte fehlende Stück bedeutet jetzt, dass wir über eine vollständige Suite von Tools verfügen, mit denen Kunden [untersuchen](https://explorer.subquery.network/), [erstellen](https://doc.subquery.network/quickstart.html), [ ausführen](https://doc.subquery.network/run/indexing_query.html) und dann [veröffentlichen](https://doc.subquery.network/publish/publish.html#benefits) SubQuery-Projekte ganz allein.
+Das letzte fehlende Stück bedeutet jetzt, dass wir über eine vollständige Suite von Tools verfügen, mit denen Kunden [untersuchen](https://explorer.subquery.network/), [erstellen](https://doc.subquery.network/quickstart.html), [ ausführen](https://doc.subquery.network/run/indexing_query.html) und dann veröffentlichen SubQuery-Projekte ganz allein.
 
 ![](https://miro.medium.com/max/1400/0*pDQgyo3phe2ZcMml)
 
@@ -35,14 +35,14 @@ Im April erreichte OnFinality ein langfristiges Ziel von 100 Millionen an einem 
 
 OnFinality hat auch [seinen Treasury-Vorschlag](https://kusama.polkassembly.io/treasury/72) für den zweiten Meilenstein vorgelegt, um die Skalierbarkeit ihres API-Dienstes zu verbessern. Intelligentes Routing, das es ihnen ermöglicht, die Nutzung verschiedener Knotencluster über ihre Benutzerbasis in verschiedenen geografischen Regionen zu maximieren. SubQuery basiert auf dieser Infrastruktur, daher ist es wichtig, die fortlaufenden Investitionen und Verbesserungen hier zu beachten. Der vergangene Monat hat gezeigt, wie wichtig es ist, weiterhin in die Skalierung zu investieren, damit wir weiterhin jeden Tag den besten Service bieten können.
 
--   Unser CEO Sam Zou präsentierte das Online-Event _Cyber Future on Parachains_ mit Web3, Acala, Polkawarriors und Bitfwd
+- Unser CEO Sam Zou präsentierte das Online-Event _Cyber Future on Parachains_ mit Web3, Acala, Polkawarriors und Bitfwd
 
--   Unser Head of Business Development James Bayly nahm im Rahmen ihrer DFG Talks-Reihe an einem interessanten virtuellen Kamingespräch mit der DFG und James Wo teil.
+- Unser Head of Business Development James Bayly nahm im Rahmen ihrer DFG Talks-Reihe an einem interessanten virtuellen Kamingespräch mit der DFG und James Wo teil.
 
--   Unsere Zeit im Berkeley Xcelerator hat begonnen – wir haben bisher einige ausgezeichnete Sessions besucht
--   Wir haben einige große Verbesserungen an unserer [SubQuery-Website](https://subquery.network/) vorgenommen
--   Eine neue Version von [verbesserter Dokumentation](https://doc.subquery.network/) für SubQuery Entwickler
--   Unsere Büros verbessern sich, wir haben das Glück, hier in Neuseeland im selben Raum arbeiten zu können
+- Unsere Zeit im Berkeley Xcelerator hat begonnen – wir haben bisher einige ausgezeichnete Sessions besucht
+- Wir haben einige große Verbesserungen an unserer [SubQuery-Website](https://subquery.network/) vorgenommen
+- Eine neue Version von [verbesserter Dokumentation](https://doc.subquery.network/) für SubQuery Entwickler
+- Unsere Büros verbessern sich, wir haben das Glück, hier in Neuseeland im selben Raum arbeiten zu können
 
 ![](https://miro.medium.com/max/1400/0*cOsJ2TLa4yqpY0Ig)
 

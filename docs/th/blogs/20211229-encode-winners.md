@@ -1,53 +1,53 @@
-# SubQuery ฉลองชัยแก่ผู้ชนะ Encode Club Hackathon
+# SubQuery Celebrates Winners of Encode Club Hackathon
 
 ![](https://miro.medium.com/max/1400/1*KSv8qczywRPCEvWXeYiDNA.png)
 
-SubQuery ซึ่งเป็นโซลูชันการทำดัชนีข้อมูลชั้นนำใน Polkadot มีความยินดีที่จะประกาศผู้ชนะของ  [Encode Club](https://www.encode.club/) Polkadot Hackathon เมื่อเร็ว ๆ นี้ โดย Encode Club เป็นชุมชนการศึกษาบล็อกเชนชั้นนำที่ส่งเสริมระบบนิเวศผ่านกิจกรรมต่างๆ เช่น hackathons และโปรแกรมเร่งความเร็วต่าง ๆ  ซึ่ง [SubQuery ได้ร่วมมือกับ Acala/Karura ในเดือนกันยายนเพื่อสนับสนุนโจทย์ที่ท้าทายสามรายการ](https://subquery.medium.com/september-2021-recap-783b9b574b42) มูลค่า 14,000 ดอลลาร์ โดยเชิญชวนนักพัฒนาให้สร้างเครื่องมือ แดชบอร์ด และ DApps ที่มีประโยชน์
+SubQuery, the leading data indexing solution in Polkadot, is delighted to showcase the winners of the recent  [Encode Club](https://www.encode.club/)  Polkadot Hackathon. Encode Club is a leading blockchain education community which promotes the ecosystem via events like hackathons, and accelerator programs.  [SubQuery partnered with Acala/Karura in September to sponsor three challenges](https://subquery.medium.com/september-2021-recap-783b9b574b42)  to a value of $14,000, inviting developers to build useful tools, dashboards and DApps.
 
-หลังจากผ่านไป 10 สัปดาห์และการพิจารณาอย่างรอบคอบจากผู้ตัดสินที่มีชื่อเสียงในระบบนิเวศ Polkadot เช่น [Bryan Chen](https://twitter.com/XiliangChen) (ผู้ร่วมก่อตั้งและ CTO ของ Acala), [Hang Yin](https://twitter.com/bgmshana) (ผู้ร่วมก่อตั้ง Phala Network), [Jack Platts](https://twitter.com/jackbplatts) (ผู้ร่วมก่อตั้ง Hypersphere Ventures) และ  [Sota Watanabe](https://twitter.com/WatanabeSota) (ผู้ก่อตั้ง Astar, CEO ของ Stake Technologies) เรายินดีที่จะประกาศ [ผู้ชนะ](https://medium.com/encode-club/polkadot-hack-finale-prizewinners-and-summary-931627c64d9) จากความท้าทายของเรา
+After 10 weeks and scrutiny from high  profile judges in the Polkadot ecosystem such as  [Bryan Chen](https://twitter.com/XiliangChen)  (Co-Founder and CTO of Acala),  [Hang Yin](https://twitter.com/bgmshana)  (Co-Founder of Phala Network),  [Jack Platts](https://twitter.com/jackbplatts)  (Co-Founder of Hypersphere Ventures) and  [Sota Watanabe](https://twitter.com/WatanabeSota)  (Founder of Astar, CEO of Stake Technologies) we are happy to share  [the winners](https://medium.com/encode-club/polkadot-hack-finale-prizewinners-and-summary-931627c64d9)  of our challenges.
 
-โดย [ความท้าทายในส่วนของ Acala/Karura และ SubQuery ใน Hackathon](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e) นั้น มุ่งเน้นไปที่การใช้ประโยชน์จากพลังของแพลตฟอร์ม DeFi ชั้นนำของ Polkadot รวมกับข้อมูลของ SubQuery นอกเหนือจากความท้าทายที่ใช้อุ่นเครื่องนี้ ที่ทำให้นักพัฒนาได้ทำความคุ้นเคยกับ   [Karura SubQuery project](https://explorer.subquery.network/subquery/AcalaNetwork/karura) แล้ว ยังมีความท้าทายหลักคือการสร้างบอทสำหรับ DeFi, แดชบอร์ดหรือเครื่องมือวิเคราะห์ หรือ Defi DApp อีกด้วย
+[The challenges for the Acala/Karura and SubQuery portion of the hackathon](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e)  were focused on leveraging the power of Polkadot’s leading DeFi platform combined with SubQuery data. In addition to warm-up challenges where developers could get accustomed to the  [Karura SubQuery project](https://explorer.subquery.network/subquery/AcalaNetwork/karura), the main challenges were to build a DeFi bot, a dashboard or analytics tool, or a Defi DApp.
 
-# การสร้างบอท
+# Build a Bot
 
-ความท้าทายแรกในการสร้างบอทสำหรับ DeFi นั้น มีมูลค่า 3,500 ดอลลาร์สำหรับผู้เข้าร่วมที่สามารถสร้างบอทที่ใช้ประโยชน์จากกิจกรรม DeFi และข้อมูล on-chain หรือแบบรวมด้วย SubQuery เพื่อสร้างประโยชน์จากโอกาสภายในแพลตฟอร์ม Acala/Karura
+The first challenge of building a DeFi bot had $3,500 in prizes available for participants who could build a bot that leveraged DeFi activity and on-chain or aggregated data though SubQuery to capitalize on opportunities within the Acala/Karura platform.
 
-ทีมงานที่ [Krakura](https://github.com/houtenbos/krakura-bot) เอาชนะความท้าทายนี้ด้วยบอทซื้อขายเก็งกำไรแบบโอเพ่นซอร์สบน DEX ที่น่าสนใจซึ่งสร้างขึ้นสำหรับ Karura โดยเฉพาะ  [บอทเก็งกำไร](https://github.com/houtenbos/krakura-bot) จะตรวจสอบความแตกต่างของราคาระหว่างสองแพลตฟอร์มอย่างต่อเนื่องและดำเนินการซื้อขายเมื่อทำกำไรได้
+The team at  [Krakura](https://github.com/houtenbos/krakura-bot)  won this challenge with an interesting open source DEX exchange arbitrage bot built specifically for Karura.  [The arbitrage bot](https://github.com/houtenbos/krakura-bot)  constantly checks for pricing differences between the two platforms and executes trades when they are profitable.
 
-[ชมวิดีโอสาธิตของ Krakura ที่นี่](https://youtu.be/G7TNTzMDijU)
+[Watch a video demo of Krakura](https://youtu.be/G7TNTzMDijU)
 
-# แดชบอร์ดหรือเครื่องมือวิเคราะห์
+# Dashboard or Analytics Tool
 
-ความท้าทายที่สองนั้นมีมูลค่า 4,000 ดอลลาร์ โดยโจทย์คือ ให้นักพัฒนาใช้ประโยชน์จากบริการจัดทำดัชนีข้อมูลของ SubQuery เพื่อสร้างแดชบอร์ดหรือเครื่องมือวิเคราะห์ตามข้อมูลของ Karura ผู้ชนะของความท้าทายนี้คือ ทีมงานจาก [Polkadata](https://www.polkadata.xyz/), ซึ่งเป็นแพลตฟอร์มการวิเคราะห์ข้อมูลสำหรับนักลงทุน DeFi เพื่อติดตามว่า การใช้เงินอย่างชาญฉลาดนั้น ลงทุนและจัดโครงสร้างพอร์ตโฟลิโอบน Karura อย่างไร
+The second challenge worth $4,000 in prizes asked developers to leverage SubQuery’s data indexing services to build a dashboard or analytics tool based on Karura data. The winner of this challenge was the team from  [Polkadata](https://www.polkadata.xyz/), a data analytics platform for DeFi investors to track how smart money is investing and structuring their portfolio on Karura.
 
-“_Encode Hackathon ได้ให้โอกาสที่ดีในการเชื่อมต่อและร่วมมือกับผู้สร้างที่กระตือรือร้นในระบบนิเวศ Polkadot ทุกคนที่เกี่ยวข้อง รวมถึงทีม Encode, องค์กรพันธมิตร และเพื่อนแฮ็กเกอร์ต่างก็ให้การต้อนรับและให้ความช่วยเหลือกันอย่างยอดเยี่ยม นอกจากนี้ การมีแนวทางที่ชัดเจนและกำหนดเวลาที่แน่นอนนั้น ทำให้ทีมของเราต้องเร่งการทำงาน ซึ่งถือเป็นกุญแจสำคัญในการสร้าง MVP_
+“_The Encode Hackathon provided a great opportunity to connect and collaborate with passionate builders in the Polkadot ecosystem. Everyone involved, including the Encode team, partner organizations, and fellow hackers were all welcoming and exceptionally helpful. Additionally, having clear guidelines and firm deadlines gave our team a sense of urgency that was key for building out MVP._
 
-_ส่วนที่ดีที่สุดของ Hackathon คือการพบปะเพื่อนแฮ็กเกอร์และมีผู้นำทางความคิดในการเริ่มต้นเป็นที่ปรึกษาและให้คำแนะนำสำหรับผลิตภัณฑ์ที่เรากำลังสร้าง เราซาบซึ้งกับการสนับสนุนที่ได้รับจาก SubQuery ในขณะที่เราทำงานผ่านสถาปัตยกรรมข้อมูลของผลิตภัณฑ์การวิเคราะห์ของเรา SubQuery ยังให้วิธีที่ง่ายที่สุดในการค้นหาข้อมูล on-chain โดยที่เราไม่ต้องเริ่มสร้างทุกอย่างใหม่จาก API calls อีกด้วย_” Michael Anderson จากทีม Polkadata กล่าว
+_The best part of the Hackathon was meeting fellow hackers and having startup thought leaders as advisors and guides for the product we were building. We appreciated the support we received from SubQuery as we worked through the data architecture of our analytics product. SubQuery also provided the simplest way to query on-chain data, avoiding having to build from scratch with API calls_” says Michael Anderson from the Polkadata team.
 
 ![](https://miro.medium.com/max/1400/0*o01LCEIOu-FyUOWx)
 
-# การสร้าง DeFi DApp
+# Build a DeFi DApp
 
-ความท้าทายนี้เป็นรางวัลที่ใหญ่ที่สุดของ Hackathon ทั้งหมด โดยมีมูลค่า 3,500 เหรียญสหรัฐและยังมีเงินรางวัลรวมมูลค่า 5,000 เหรียญสหรัฐ
+This challenge featured the largest prize of the whole hackathon worth $3,500 and an overall challenge pool of $5,000.
 
-Entity 54 เป็นผู้ชนะในหมวด Defi DApp นี้ โดยได้รับเงินรางวัล 3,500 ดอลลาร์ Entity 54 เป็น DApp ที่เชื่อมต่อกับ AMTC6 ผ่าน Acala API/EVM และสามารถอ่านยอดคงเหลือในบัญชี สินเชื่อ และให้อนุญาตในการแลกเปลี่ยน โอน ปรับปรุงเงินกู้ และโอน รวมทั้งอ่านข้อมูลเหรียญและเงินกู้ได้ด้วย Angelos Diamantis จาก Entity 54 รู้สึกตื่นเต้นกับการประกาศชัยชนะนี้ “_การชนะ Hackathon เป็นประสบการณ์ที่ยอดเยี่ยมจริง ๆ พวกเราทุ่มเทพลังความสนใจไปกับผลิตภัณฑ์ที่เรากำลังสร้างจริง ๆ ทำให้มีการสร้างความสัมพันธ์ในอุตสาหกรรมใหม่ ๆ ขึ้นมากมาย เป้าหมายหลักของเราคือการพัฒนาผลิตภัณฑ์หลักและมอบประสบการณ์ที่ราบรื่นแก่ผู้ใช้งาน เวลาเป็นสิ่งที่หายากได้ที่สุด ในขณะที่การไหลของข้อมูลระหว่างเครือข่ายและ Dapp เสมือนเป็นเชื้อเพลิงในการพัฒนา การรวมข้อมูลของ SubQuery และผลิตภัณฑ์วิเคราะห์แบบหลายเลเยอร์นั้น ช่วยจัดการทั้งสองอย่าง เราจะเผ้ารอการได้รวมเข้ากับข้อเสนอ SubQuery อย่างลึกซึ้งยิ่งขึ้นในผลิตภัณฑ์ของเราในขณะที่งานของพวกเขาคืบหน้าไป_”
+Entity 54 were the winners in the Defi DApp category taking home $3,500. Entity 54 is a DApp that connects to AMTC6 via Acala API/EVM and reads account balances, loans and allows swaps, transfers, loan adjustments and transfers plus reads coin and loan data. Angelos Diamantis from Entity 54 was thrilled with the result sharing, “_Winning the hackathon has been a fantastic experience. We have been overwhelmed by the interest in the products we are building, resulting in many new industry relationships being established. Going forwards our prime focus is on core product development and a frictionless user experience. Time is the most rare commodity while interchain and Dapp data flow is the development fuel. SubQuery data aggregation and multi-layered analytical products address both. We will be looking to integrate deeper SubQuery offerings within our products as they progress_”.
 
-[ชมวิดีโอสาธิตของ Entity 54 ได้ที่นี่](https://youtu.be/fU1BRVOtx2o)
+[Watch a video demo of Entity 54](https://youtu.be/fU1BRVOtx2o)
 
-# เรื่องน่าสนใจอื่น ๆ
+# Other Notable Entries
 
-เราค่อนข้างประทับใจกับงานของ Defitax ซึ่งเป็นแพลตฟอร์มกระจายอำนาจที่ช่วยให้ผู้ใช้ปฏิบัติตามข้อกำหนดและจัดการภาษี crypto ของพวกเขาได้อย่างเสร็จสมบูรณ์โดยไม่ต้องมีการแทรกแซงจากบุคคลที่สาม ซึ่งขณะนี้ได้เน้นที่อเมริกาเป็นอันดับแรก โดยทีมงานสามารถจัดการกับการคำนวณที่ซับซ้อนและความยุ่งยากของการคำนวณภาษีได้ทั้งหมด เพื่อที่คุณจะได้ไม่ต้องทำเอง
+We were quite impressed by the work of Defitax, a decentralised platform that helps users stay compliant and get their crypto taxes complete without the need for third-party intervention. Focusing primarily on America to begin with, the team thrive on handling all the complex calculations and intricacies of tax calculations so that you don’t have to.
 
-Shankar Rao Mata จาก Defitax นั้นคุ้นเคยกับ SubQuery อยู่แล้ว โดยได้เริ่มต้นการเดินทางกับเราในฐานะแอมบาสเดอร์ และตอนนี้กำลังเข้าสู่ Hackathon ร่วมกับทีมที่มีสมาชิกที่กระตือรือร้นและทะเยอทะยานคนอื่น ๆ Shankar กล่าวถึง Hackathon ว่า "_The Encode Hackathon เป็นประสบการณ์ที่ยอดเยี่ยมสำหรับเราและเป็นสภาพแวดล้อมที่สมบูรณ์แบบสำหรับโครงการของเรา SubQuery เคยและจะยังคงเป็นเครื่องมือในการสนับสนุนข้อมูลดัชนีจำนวนมากที่เราต้องการเพื่อให้ Defitax นั้นประสบความสำเร็จ_”
+Shankar Rao Mata from Defitax was already familiar with SubQuery, having started his journey with us as an ambassador and now entering into the Hackathon with a team of other passionate and ambitious individuals. Shankar mentioned of the hackathon, “_The Encode Hackathon was a great experience for us and was the perfect environment for our project. SubQuery was, and will continue to be, instrumental in supporting the large amounts of indexed data that we require in order for Defitax to succeed_”.
 
-เนื่องจากทั้ง DeFi และ Acala/Karura ได้รับความสนใจเพิ่มขึ้น เรารู้สึกตื่นเต้นที่จะได้เห็นการตอบรับจากชุมชนนักพัฒนา เพื่อให้งานนี้ดำเนินไป [SubQuery ได้จัดเวิร์กช็อปที่แฮ็กเกอร์ได้เรียนรู้วิธีสร้างดัชนีข้อมูลบล็อคเชน](https://www.youtube.com/watch?v=QUtWC_LZM8Q) และรับบริการเรื่องโหนด รวมทั้งค้นหาข้อมูลในเวลาเพียงไม่กี่นาที
+With both DeFi and Acala/Karura receiving an increasing level of awareness, we were excited to see the response from the developer community. To get things moving  [SubQuery hosted a workshop where hackers learned how to index blockchain data](https://www.youtube.com/watch?v=QUtWC_LZM8Q)  and get a node and query service running in only a few minutes.
 
-Sam Zou ผู้ก่อตั้ง SubQuery กล่าวว่า _"SubQuery รู้สึกตื่นเต้นที่ได้สนับสนุนชุมชนนักพัฒนาและโครงการ Polkadot รุ่นต่อไปผ่าน Polkadot Hackathon ของ Encode Club SubQuery นำเสนอเลเยอร์พื้นฐานสำหรับนักพัฒนาในการสร้าง DApps ที่เปลี่ยนแปลงเกมในด้านต่างๆ เช่น DeFi ดังนั้นเราจึงต้องการสนับสนุนให้ผู้คนสร้างเครื่องมือและแอปพลิเคชันที่พาเราเข้าใกล้วิสัยทัศน์ในอนาคตของ Web3 มากขึ้น”_
+Sam Zou, the Founder of SubQuery said  _“SubQuery is thrilled to support the developer community and the next generation of Polkadot projects through Encode Club’s Polkadot Hackathon. SubQuery provides a foundational layer for developers to create game-changing DApps in areas such as DeFi, so we want to encourage people to build tools and applications that take us closer to our vision of a Web3 future”_
 
-หลังจาก Hackathon นี้ โครงการต่างๆ จะมีสิทธิ์สมัครเข้าร่รวมโปรแกรม Polkadot Accelerator นาน 10 สัปดาห์ที่ดำเนินการโดย Encode หลายโครงการเหล่านี้เป็นส่วนสำคัญของ Accelerator นี้อยู่แล้ว และทุกคนได้รับเชิญให้สมัครเข้าร่วมโครงการ [Grants Programme](https://subquery.network/grants) ของ SubQuery ที่เพิ่งประกาศเมื่อเร็วๆ นี้
+After the Hackathon, projects are eligible to apply for a 10-week Polkadot Accelerator programme run by Encode. Many of these projects are right in the middle of this Accelerator and all are invited to apply to SubQuery’s recently announced  [Grants Programme](https://subquery.network/grants).
 
 # เกี่ยวกับ SubQuery
 
-[SubQuery](https://subquery.network/) คือการรวมข้อมูลที่กระจายศูนย์ การจัดทำดัชนี & การค้นหาเลเยอร์ระหว่างบล็อคเชนของ Layer-1 และแอปพลิเคชันที่กระจายศูนย์ บริการนี้ปลดล็อกข้อมูลบล็อคเชนและแปลงข้อมูลให้อยู่ในสถานะที่สามารถสืบค้นได้ เพื่อให้สามารถใช้งานได้ในแอปพลิเคชันที่ใช้งานง่าย ช่วยให้นักพัฒนา DApp สามารถมุ่งเน้นไปที่กรณีการใช้งานหลักและ front-end โดยไม่ต้องเสียเวลาไปกับการสร้าง back-end สำหรับการประมวลผลข้อมูลเอง เครือข่าย SubQuery ที่กำลังจะมีขึ้นนั้น จะอยู่ในรูปแบบของระบบการกระจายศูนย์ และสร้างโทเค็นให้กับระบบนิเวศ เพื่อให้ทุกคนมีส่วนร่วมในการเปลี่ยนแปลงข้อมูลในยุคของ web3 ได้อย่างรวดเร็ว
+[SubQuery](https://subquery.network/)  is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. This service unlocks blockchain data and transforms it to a queryable state so that it can be used in intuitive applications. It allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The upcoming SubQuery Network will decentralize and tokenize the ecosystem to allow everyone to participate in the web3 data revolution.
 
 [Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)

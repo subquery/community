@@ -9,7 +9,7 @@ Trong bản cập nhật tháng này:
 -   Cải tiến khả năng mở rộng của nhà cung cấp dịch vụ OnFinality của chúng tôi
 -   Và nhiều hơn nữa…
 
-Về mặt đối tác, chúng tôi đã tung ra một sản phẩm chính cần thiết để thúc đẩy sự phát triển của SubQuery về mặt hoạt động. Trước khi bạn có thể tạo và chạy các dự án SubQuery của riêng mình tại địa phương hoặc trong cơ sở hạ tầng của riêng bạn. [Projects](https://project.subquery.network/) cho phép người dùng đẩy dự án của họ lên cộng đồng SubQuery và chúng tôi sẽ chạy chúng trong một dịch vụ công có hiệu suất cao, có thể mở rộng và được quản lý - miễn phí!
+Về mặt đối tác, chúng tôi đã tung ra một sản phẩm chính cần thiết để thúc đẩy sự phát triển của SubQuery về mặt hoạt động. Trước khi bạn có thể tạo và chạy các dự án SubQuery của riêng mình tại địa phương hoặc trong cơ sở hạ tầng của riêng bạn. [Dự án](https://project.subquery.network/) cho phép người dùng đẩy dự án của họ lên cộng đồng SubQuery và chúng tôi sẽ chạy chúng trong một dịch vụ công có hiệu suất cao, có thể mở rộng và được quản lý - miễn phí!
 
 ![](https://miro.medium.com/max/1400/0*zZkmiEq5g2BbAxfl)
 
