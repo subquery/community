@@ -1,8 +1,8 @@
-# SubQuery Data Powers Nova Wallet — a next-gen mobile wallet for the Polkadot & Kusama ecosystem
+# 以SubQuery 数据驱动Nova Wallet- Polkadot & Kusama生态系统的下一代移动钱包
 
 ![](https://miro.medium.com/max/1400/1*0HRq9OTOIIvv3Hfz9hE23A.jpeg)
 
-Today we are proud to reveal our long-term partnership with the team at Nova Wallet. Nova Wallet have developed a new mobile app wallet for Polkadot and Kusama where users can manage all of their ecosystem tokens, enjoy a convenient staking experience, explore ecosystem DApps, and contribute to crowdloans with no limits. Nova Wallet depend on SubQuery to provide data for transactions, account history, and all different types of staking events and rewards for over 27 different Polkadot parachains and counting. SubQuery is a core service that Nova have embraced to provide their users with an exceptional user experience.
+今天，我们很荣幸地宣布我们与Nova Wallet团队建立了长期合作的伙伴关系。 Nova Wallet have developed a new mobile app wallet for Polkadot and Kusama where users can manage all of their ecosystem tokens, enjoy a convenient staking experience, explore ecosystem DApps, and contribute to crowdloans with no limits. Nova Wallet depend on SubQuery to provide data for transactions, account history, and all different types of staking events and rewards for over 27 different Polkadot parachains and counting. SubQuery is a core service that Nova have embraced to provide their users with an exceptional user experience.
 
 ![](https://miro.medium.com/max/1200/1*5JlnAgpO79q3ayc4oAHD6g.gif)
 
