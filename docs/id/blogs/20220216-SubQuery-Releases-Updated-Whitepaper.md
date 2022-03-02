@@ -12,7 +12,7 @@ Whitepaper ini menguraikan rencana SubQuery untuk bergerak menuju jaringan peser
 
 ## Fokus kami
 
-[Whitepaper yang diperbarui](https://static.subquery.network/whitepaper.pdf) mempertahankan keyakinan SubQuery bahwa layanan data masa depan harus multi-rantai, sederhana, dan fleksibel. Whitepaper menjelaskan secara rinci bagaimana SubQuery Network memasukkan pertimbangan ini ke dalam desain ekonomi token sementara juga memungkinkan pengguna yang kuat untuk menjalankan layanan tingkat perusahaan di atasnya.
+[Whitepaper yang diperbarui](https://static.subquery.network/whitepaper.pdf) mempertahankan keyakinan SubQuery bahwa layanan data masa depan harus multi-chain, sederhana, dan fleksibel. Whitepaper menjelaskan secara rinci bagaimana SubQuery Network memasukkan pertimbangan ini ke dalam desain ekonomi token sementara juga memungkinkan pengguna yang kuat untuk menjalankan layanan tingkat perusahaan di atasnya.
 
 ### Multi-chain oleh Desain
 
