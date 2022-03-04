@@ -4,22 +4,22 @@
 
 ![](https://miro.medium.com/max/700/1*nU7PnYFMR6MMBfccYE_Ujg.png)
 
-Chào mừng bạn đến với bản cập nhật hàng tháng mới nhất từ ​​SubQuery. Tháng 9 là một tháng tuyệt vời đối với SubQuery khi chúng tôi thông báo về việc gây quỹ của mình và đạt được những bước tiến lớn trong tất cả các lĩnh vực kinh doanh. Chúng tôi không ngừng tìm kiếm những cá nhân tài năng, vì vậy vui lòng liên hệ nếu bạn có thể giúp chúng tôi trong sứ mệnh làm cho dữ liệu phi tập trung của thế giới dễ tiếp cận hơn!
+Chào mừng bạn đến với bản cập nhật mới nhất hàng tháng từ ​​SubQuery. Tháng 9 là một tháng tuyệt vời đối với SubQuery khi chúng tôi thông báo về việc gây quỹ của mình và đạt được những bước tiến lớn trong tất cả các lĩnh vực kinh doanh. Chúng tôi không ngừng tìm kiếm những cá nhân tài năng, vì vậy vui lòng liên hệ nếu bạn có thể giúp chúng tôi trong sứ mệnh làm cho dữ liệu phi tập trung của thế giới dễ tiếp cận hơn!
 
 Trong bản cập nhật hàng tháng này:
 
-- Đã công bố đợt gây quỹ của chúng tôi 💰
+- Thông báo đợt gây quỹ của chúng tôi 💰
 - Tài liệu và blog đa ngôn ngữ 🌍
 - Hội thảo độc quyền với Cộng đồng Discord 🔊
 - Encode Club Hackathon 👩‍🎓
 - Tăng trưởng cộng đồng 🚀
 - Phỏng vấn Layah Heilpern 🎙
-- Tiến trình trên Mạng SubQuery 🏗
+- Sự phát triển trên Mạng SubQuery 🏗
 - Dự án mới trên SubQuery 🤝
 
-## Đã công bố đợt gây quỹ của chúng tôi 💰
+## Thông báo đợt gây quỹ của chúng tôi 💰
 
-Chúng tôi rất vui mừng thông báo về việc [kết thúc đợt gây quỹ Series A trị giá 9 triệu đô la Mỹ](https://subquery.medium.com/series-a-1abed6c1c2af) vào tháng 9 và rất vui mừng với phản hồi mà chúng tôi nhận được từ tất cả các phương tiện truyền thông tiền điện tử quan trọng. Ngoài các tin tức về [Coindesk](https://www.coindesk.com/business/2021/09/08/subquery-gets-9m-in-series-a-to-improve-access-to-blockchain-data-on-polkadot/),[CoinTelegraph](https://cointelegraph.com/news/subquery-raises-9m-for-polkadot-data-protocol),[The Block](https://www.theblockcrypto.com/post/116915/subquery-indexing-protocol-polkadot-funding-saft) và nhiều người khác, một số nhà đầu tư hàng đầu của chúng tôi cũng đã xuất bản luận điểm đầu tư của họ.
+Chúng tôi rất vui mừng thông báo về việc [kết thúc vòng gây quỹ Series A trị giá 9 triệu đô la Mỹ](https://subquery.medium.com/series-a-1abed6c1c2af) vào tháng 9 và rất vui mừng với những phản hồi từ tất cả các phương tiện truyền thông tiền điện tử quan trọng mà chúng tôi nhận được. Ngoài các tin tức về [Coindesk](https://www.coindesk.com/business/2021/09/08/subquery-gets-9m-in-series-a-to-improve-access-to-blockchain-data-on-polkadot/),[CoinTelegraph](https://cointelegraph.com/news/subquery-raises-9m-for-polkadot-data-protocol),[The Block](https://www.theblockcrypto.com/post/116915/subquery-indexing-protocol-polkadot-funding-saft) và nhiều người khác, một số nhà đầu tư hàng đầu của chúng tôi cũng đã xuất bản luận điểm đầu tư của họ.
 
 Rennick Palley của [Stratos Capital đã tuyên bố rằng SubQuery](https://medium.com/stratos-technologies/the-google-of-the-decentralized-world-our-investment-in-subquery-e6e7d949b00a) là "Google của thế giới phi tập trung" và "SubQuery là một ví dụ điển hình về cách các hiệu trưởng của Web 3 lấy những gì hoạt động từ Web 2 & làm cho nó trở nên minh bạch, công bằng và do cộng đồng thúc đẩy."
 
