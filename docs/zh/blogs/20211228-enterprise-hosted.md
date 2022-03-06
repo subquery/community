@@ -4,7 +4,7 @@
 
 随着社区规模的扩大，我们每天都会看到数百次部署，托管服务的流量呈指数级增长。 SubQuery的团队正在迎接这一挑战，并且正在扩展我们的服务，以满足客户对我们工具前所未有的需求， 保持我们的  [托管服务](https://projects.subquery.network/)  免费。
 
-许多客户现在依靠SubQuery为其生产应用程序提供关键任务数据。 这些客户代表包括最大的钱包（Nova和Fearless）、扫描仪（Subscan、SubVis和DotMarketCap）、NFT平台（Kodadot和Yuser）等等。 这些是Polkadot社区每天使用的大型应用程序，必须随时在线。
+许多客户现在依靠SubQuery为其生产应用程序提供关键任务数据。 这些客户代表包括最大钱包之一的（Nova和Fearless）、扫描仪（Subscan、SubVis和DotMarketCap）、NFT平台（Kodadot和Yuser）等等。 这些是Polkadot社区每天使用的大型应用程序，必须随时在线。
 
 一段时间以来，托管服务的性能和可靠性一直是SubQuery的首要任务。 我们的姐妹团队是OnFinity，Polkadot最大的基础设施提供商，所以我们在这方面有丰富的经验。 因此，我们最近进行了三项改进，使SubQuery成为Polkadot中最可靠、可扩展和性能最好的数据平台。
 
