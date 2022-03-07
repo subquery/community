@@ -10,26 +10,26 @@
 
 여기에서 [새로운 CLI 도구](https://github.com/fewensa/subquery-cli)를 확인하고 [여기에서 실제 예제](https://github.com/darwinia-network/bridger/blob/master/.github/workflows/subquery-prod.yml)를 확인하십시오.
 
-The first of many applications in Darwinia’s growing application ecosystem is the [Wormhole app](https://wormhole.darwinia.network/). Wormhole is an easy to use application that makes transferring assets between networks easy and is a key part of Darwinia’s cross chain strategy. Currently the bridge between Darwinia and Ethereum is operational. [SubQuery is used to show historic transfers and events](https://explorer.subquery.network/subquery/darwinia-network/wormhole-darwinia) that have occurred on your Darwinia/Crab/Pangolin address related to the wormhole (e.g. the arrival of assets from another network).
+Darwinia의 성장하는 애플리케이션 생태계의 많은 애플리케이션 중 첫 번째는 [웜홀 앱](https://wormhole.darwinia.network/)입니다. 웜홀은 네트워크 간에 자산을 쉽게 전송할 수 있도록 하는 사용하기 쉬운 응용 프로그램이며 Darwinia의 교차 체인 전략의 핵심 부분입니다. 현재 Darwinia와 Ethereum 사이의 다리가 작동 중입니다. [SubQuery는 웜홀과 관련된 Darwinia/Crab/Pangolin 주소에서 발생한 이력 전송 및 이벤트](https://explorer.subquery.network/subquery/darwinia-network/wormhole-darwinia)(예: 다른 네트워크에서 자산 도착)를 표시하는 데 사용됩니다.
 
 ![](https://miro.medium.com/max/1400/1*p3V-lvW6BmEVZXaDYDY7mw.png)
 
-The team at Darwinia is in the process of building a new [Smart App that is a central hub](https://apps.darwinia.network/) to manage all Darwinia network interactions including governance, staking, chain exploration and more. This app uses a considerable amount of [SubQuery data to show historic data and actions](https://explorer.subquery.network/subquery/darwinia-network/smart-app-crab). SubQuery will be working closely with the team at Darwinia to make this the fastest and easier user experience in the entire Polkadot ecosystem.
-> “We’re excited to use SubQuery to replace our existing backend servies for Wormhole, over the long term with the SubQuery Network this will make our services total decentralised and open source — its something that we are proud of!”” — Yalin, Core Developer — Darwinia Network
+Darwinia의 팀은 거버넌스, 스테이킹, 체인 탐색 등을 포함한 모든 Darwinia 네트워크 상호 작용을 관리하기 위한 [중앙 허브인 새로운 Smart App](https://apps.darwinia.network/)을 구축하는 과정에 있습니다. 이 앱은 상당한 양의 [SubQuery 데이터를 사용하여 기록 데이터 및 작업을 표시합니다](https://explorer.subquery.network/subquery/darwinia-network/smart-app-crab). SubQuery는 전체 Polkadot 생태계에서 가장 빠르고 쉬운 사용자 경험을 제공하기 위해 Darwinia 팀과 긴밀히 협력할 것입니다.
+> "우리는 SubQuery를 사용하여 Wormhole에 대한 기존 백엔드 서비스를 대체하게 되어 매우 기쁩니다. 장기적으로 SubQuery Network를 통해 서비스를 완전히 탈중앙화하고 오픈 소스로 만들 것입니다. 이것이 우리가 자랑스러워하는 것입니다!" - Yalin, Core 개발자 — Darwinia 네트워크
 
 
-Additionally, Darwinia are using SubQuery to [provide the data behind](https://explorer.subquery.network/subquery/darwinia-network/home-plo-polkadot) their [Parachain Loan Offering website](https://darwinia.network/plo_contribute). Although Crab has already won their slot on Kusama, it’s not too late to contribute to Darwinia’s campaign for a Polkadot slot. They are also taking advantage of SubQuery to index [Merkle Mountain ranges](https://explorer.subquery.network/subquery/darwinia-network/darwinia-mmr) for all blocks created in their network.
+또한 Darwinia는 SubQuery를 사용하여 [Parachain Loan Offering 웹 사이트](https://darwinia.network/plo_contribute) [뒤에 데이터를 제공](https://explorer.subquery.network/subquery/darwinia-network/home-plo-polkadot)하고 있습니다. Crab은 이미 Kusama에서 슬롯을 획득했지만 Polkadot 슬롯에 대한 Darwinia의 캠페인에 기여하기에 너무 늦지 않았습니다. 그들은 또한 SubQuery를 활용하여 네트워크에서 생성된 모든 블록에 대해 [Merkle Mountain 범위](https://explorer.subquery.network/subquery/darwinia-network/darwinia-mmr)를 색인화하고 있습니다.
 
-Darwinia Network is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/).
+Darwinia Network는 [SubQuery 프로젝트](https://project.subquery.network/)를 사용하여 자체 프로젝트를 관리하고 필요에 따라 업데이트합니다. 우리가 제공하는 인덱싱 및 쿼리 서비스는 SubQuery에서 완전히 관리되며 [SubQuery의 Explorer](https://explorer.subquery.network/)에서 Polkadot 커뮤니티에 무료로 제공됩니다.
 
-## About Darwinia Network
+## Darwinia 네트워크 소개
 
-Darwinia Network is a decentralized cross-chain bridge network building on Substrate, which is the “Golden Gate Bridge” of the cross-chain ecology. It provides the safest general bridge solution, connecting Polkadot, Ethereum, BSC and other heterogeneous chains by cross-chain assets transfer and general remote chain call. Also, its main application areas include Defi, cross-chain NFT trading market, games, etc.
+Darwinia 네트워크는 크로스체인 생태계의 "Golden Gate Bridge"인 Substrate에 구축된 분산형 크로스체인 브리지 네트워크입니다. Polkadot, Ethereum, BSC 및 기타 이기종 체인을 교차 체인 자산 전송 및 일반 원격 체인 호출로 연결하여 가장 안전한 일반 브리지 솔루션을 제공합니다. 또한 주요 응용 분야로는 Defi, 크로스체인 NFT 거래 시장, 게임 등이 있습니다.
 
 [Website](https://darwinia.network/) | [Twitter](https://twitter.com/DarwiniaNetwork) | [Telegram](https://t.me/DarwiniaNetwork) | [GitHub](https://github.com/darwinia-network) | [Discord](https://discord.gg/KMZVeyM)
 
-## About SubQuery Network
+## SubQuery 네트워크 소개
 
-[SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications (DApps). Currently focused on Polkadot and Substrate projects, this data-as-a-service allows developers to focus on their core use case and front
+[SubQuery](https://subquery.network/)는 Layer-1 블록체인과 분산 애플리케이션(DApp) 간의 분산 데이터 집계, 인덱싱 및 쿼리 레이어입니다. 현재 Polkadot 및 Substrate 프로젝트에 중점을 두고 있는 이 서비스로서의 데이터를 통해 개발자는 핵심 사용 사례와 전면에 집중할 수 있습니다.
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
