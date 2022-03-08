@@ -10,7 +10,7 @@ Después de 10 semanas y el escrutinio de jueces de alto perfil en el ecosistema
 
 # Construir un Bot
 
-The first challenge of building a DeFi bot had $3,500 in prizes available for participants who could build a bot that leveraged DeFi activity and on-chain or aggregated data though SubQuery to capitalize on opportunities within the Acala/Karura platform.
+El primer desafío de construir un bot DeFi tenía $ 3500 en premios disponibles para los participantes que pudieran construir un bot que aprovechara la actividad de DeFi y los datos en cadena o agregados a través de SubQuery para capitalizar las oportunidades dentro de la plataforma Acala/Karura.
 
 The team at  [Krakura](https://github.com/houtenbos/krakura-bot)  won this challenge with an interesting open source DEX exchange arbitrage bot built specifically for Karura.  [The arbitrage bot](https://github.com/houtenbos/krakura-bot)  constantly checks for pricing differences between the two platforms and executes trades when they are profitable.
 
