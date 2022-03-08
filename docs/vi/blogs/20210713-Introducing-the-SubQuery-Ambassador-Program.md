@@ -30,9 +30,9 @@ Tại SubQuery, chúng tôi làm việc chăm chỉ để đạt được nhữn
 
 **Quyền truy cập của Nhóm SubQuery:** Bạn sẽ có quyền truy cập trực tiếp vào nhóm SubQuery cốt lõi với cơ hội được đào tạo thực hành, AMA độc quyền với các nhà lãnh đạo và nhà phát triển của chúng tôi cũng như thông tin chi tiết về lộ trình của chúng tôi.
 
-** Phát triển mạng lưới: ** Mong đợi phát triển mạng lưới chuyên nghiệp của bạn bằng cách trở thành Đại sứ cho một trong những dự án Polkadot hàng đầu. Gặp gỡ các đại sứ khác trên khắp thế giới và nhận giới thiệu về các dự án Polkadot địa phương mà chúng tôi cần hỗ trợ tại địa phương. Bạn thậm chí có thể được vào cửa miễn phí để đại diện cho SubQuery trong các sự kiện ở khu vực địa phương của bạn.
+**Phát triển mạng lưới:** Mong đợi phát triển mạng lưới chuyên nghiệp của bạn bằng cách trở thành Đại sứ cho một trong những dự án Polkadot hàng đầu. Gặp gỡ các đại sứ khác trên khắp thế giới và nhận giới thiệu về các dự án Polkadot địa phương mà chúng tôi cần hỗ trợ tại địa phương. Bạn thậm chí có thể được vào cửa miễn phí để đại diện cho SubQuery trong các sự kiện ở khu vực địa phương của bạn.
 
-** Swag và những thứ miễn phí khác: ** Mọi người đều thích những thứ miễn phí! Nhận được phân bổ hàng năm của SubQuery swag sẽ khiến bạn nổi bật trong đám đông. Cộng với phân bổ bổ sung mà bạn có thể chia sẻ tại các sự kiện cộng đồng. Bạn cũng sẽ nhận được một NFT độc quyền cho tư cách Đại sứ của bạn.
+**Swag và những thứ miễn phí khác:** Mọi người đều thích những thứ miễn phí! Nhận được phân bổ hàng năm của SubQuery swag sẽ khiến bạn nổi bật trong đám đông. Cộng với phân bổ bổ sung mà bạn có thể chia sẻ tại các sự kiện cộng đồng. Bạn cũng sẽ nhận được một NFT độc quyền cho tư cách Đại sứ của bạn.
 
 ## Nó hoạt động như thế nào
 
