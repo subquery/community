@@ -16,9 +16,9 @@ Nhóm của chúng tôi đã cùng nhau hợp tác với tầm nhìn chung để
 
 **Được xây dựng bởi các nhà phát triển, dành cho các nhà phát triển:** SubQuery là một cộng đồng đang phát triển tập trung vào việc cung cấp các sản phẩm và dịch vụ tốt nhất cho các nhà phát triển và những người xây dựng trong hệ sinh thái của chúng tôi. SubQuery chỉ thành công nếu hệ sinh thái Polkadot thành công và vì vậy mọi thứ chúng tôi làm đều hướng đến khách hàng của mình.
 
-** Chính trực và Trách nhiệm: ** Chúng tôi có các thành viên trong nhóm ở Auckland, Thượng Hải và Sydney và vì vậy công việc từ xa rất quan trọng đối với chúng tôi. Chúng tôi hy vọng rằng nhóm của chúng tôi được trao quyền và làm việc tự chủ cùng nhau để đạt được mục tiêu của chúng tôi. Yêu cầu chính cho việc này là nhóm của chúng tôi phải chịu trách nhiệm về các hành động của họ và duy trì tính chính trực của họ.
+**Chính trực và Trách nhiệm:** Chúng tôi có các thành viên trong nhóm ở Auckland, Thượng Hải và Sydney và vì vậy làm việc từ xa rất quan trọng đối với chúng tôi. Chúng tôi hy vọng rằng nhóm của chúng tôi được trao quyền và làm việc tự chủ cùng nhau để đạt được mục tiêu của chúng tôi. Yêu cầu chính cho việc này là nhóm của chúng tôi phải chịu trách nhiệm về các hành động của họ và duy trì tính chính trực của họ.
 
-** Hướng dẫn và hỗ trợ toàn diện: ** Blockchain rất khó và đôi khi mọi người đều cần trợ giúp. Không có điều gì gọi là một câu hỏi ngu ngốc trong cộng đồng của chúng tôi và tất cả mọi người trong nhóm của chúng tôi được mong đợi sẽ giúp hỗ trợ người dùng của chúng tôi. Chúng tôi tìm hiểu một số thông tin chi tiết có giá trị nhất về dịch vụ của chúng tôi (và cách chúng tôi có thể cải thiện nó) trực tiếp từ cộng đồng của chúng tôi.
+**Hướng dẫn và hỗ trợ toàn diện:** Blockchain rất khó và đôi khi mọi người đều cần trợ giúp. Không có điều gì gọi là một câu hỏi ngu ngốc trong cộng đồng của chúng tôi và tất cả mọi người trong nhóm của chúng tôi đều mong đợi sẽ giúp hỗ trợ người tất cả người dùng. Chúng tôi tìm hiểu một số thông tin chi tiết có giá trị nhất về dịch vụ của chúng tôi (và cách chúng tôi có thể cải thiện nó) trực tiếp từ cộng đồng của chúng tôi.
 
 Chương trình Đại sứ SubQuery của chúng tôi nhằm mục đích tìm kiếm các nhà lãnh đạo cộng đồng đam mê Polkadot và SubQuery. Chúng tôi đang tìm kiếm những người tự khởi nghiệp có thể quảng bá rộng rãi về SubQuery ở các khu vực địa phương của họ và cung cấp hỗ trợ cho các nhà phát triển mới muốn sử dụng SubQuery để xây dựng các ứng dụng và dịch vụ tuyệt vời trên Polkadot.
 
@@ -26,7 +26,7 @@ Chương trình Đại sứ SubQuery của chúng tôi nhằm mục đích tìm 
 
 Tại SubQuery, chúng tôi làm việc chăm chỉ để đạt được những gì chúng tôi mong muốn. Tương tự, các Đại sứ phải cam kết một thời gian khi tham gia nhóm của chúng tôi nhưng sẽ được thưởng bằng các quyền lợi.
 
-**Tài trợ và hỗ trợ:** Bạn có thể được thưởng cho công việc tốt với cơ hội sớm tham gia private sale và tiền thưởng. Ngoài ra, chúng tôi sẽ cung cấp các khoản tài trợ để bạn tổ chức các buổi gặp mặt cộng đồng.
+**Tài trợ và hỗ trợ:** Bạn có thể được thưởng cho công việc tốt với cơ hội sớm tham gia các vòng bán kín và tiền thưởng. Ngoài ra, chúng tôi sẽ cung cấp các khoản tài trợ để bạn tổ chức các buổi gặp mặt cộng đồng.
 
 **Quyền truy cập của Nhóm SubQuery:** Bạn sẽ có quyền truy cập trực tiếp vào nhóm SubQuery cốt lõi với cơ hội được đào tạo thực hành, AMA độc quyền với các nhà lãnh đạo và nhà phát triển của chúng tôi cũng như thông tin chi tiết về lộ trình của chúng tôi.
 
