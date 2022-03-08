@@ -12,15 +12,15 @@ Después de 10 semanas y el escrutinio de jueces de alto perfil en el ecosistema
 
 El primer desafío de construir un bot DeFi tenía $ 3500 en premios disponibles para los participantes que pudieran construir un bot que aprovechara la actividad de DeFi y los datos en cadena o agregados a través de SubQuery para capitalizar las oportunidades dentro de la plataforma Acala/Karura.
 
-The team at  [Krakura](https://github.com/houtenbos/krakura-bot)  won this challenge with an interesting open source DEX exchange arbitrage bot built specifically for Karura.  [The arbitrage bot](https://github.com/houtenbos/krakura-bot)  constantly checks for pricing differences between the two platforms and executes trades when they are profitable.
+El equipo de [Krakura](https://github.com/houtenbos/krakura-bot) ganó este desafío con un interesante bot de arbitraje en un  DEX de código abierto creado específicamente para Karura.  [El bot de arbitraje](https://github.com/houtenbos/krakura-bot) verifica constantemente las diferencias de precios entre las dos plataformas y ejecuta transacciones cuando son rentables.
 
-[Watch a video demo of Krakura](https://youtu.be/G7TNTzMDijU)
+[Vea un video de demo de Krakura](https://youtu.be/G7TNTzMDijU)
 
-# Dashboard or Analytics Tool
+# Tablero o Herramienta de análisis
 
-The second challenge worth $4,000 in prizes asked developers to leverage SubQuery’s data indexing services to build a dashboard or analytics tool based on Karura data. The winner of this challenge was the team from  [Polkadata](https://www.polkadata.xyz/), a data analytics platform for DeFi investors to track how smart money is investing and structuring their portfolio on Karura.
+El segundo desafío, valorado en $4000 en premios, pedía a los desarrolladores que aprovecharan los servicios de indexación de datos de SubQuery para crear un tablero o una herramienta de análisis basada en los datos de Karura. El ganador de este desafío fue el equipo de [Polkadata](https://www.polkadata.xyz/), una plataforma de análisis de datos para que los inversores de DeFi rastreen cómo el dinero inteligente está invirtiendo y estructurando su cartera en Karura.
 
-“_The Encode Hackathon provided a great opportunity to connect and collaborate with passionate builders in the Polkadot ecosystem. Everyone involved, including the Encode team, partner organizations, and fellow hackers were all welcoming and exceptionally helpful. Additionally, having clear guidelines and firm deadlines gave our team a sense of urgency that was key for building out MVP._
+“_El Encode Hackathon brindó una gran oportunidad para conectar y colaborar con constructores apasionados en el ecosistema de Polkadot. Everyone involved, including the Encode team, partner organizations, and fellow hackers were all welcoming and exceptionally helpful. Additionally, having clear guidelines and firm deadlines gave our team a sense of urgency that was key for building out MVP._
 
 _The best part of the Hackathon was meeting fellow hackers and having startup thought leaders as advisors and guides for the product we were building. We appreciated the support we received from SubQuery as we worked through the data architecture of our analytics product. SubQuery also provided the simplest way to query on-chain data, avoiding having to build from scratch with API calls_” says Michael Anderson from the Polkadata team.
 
