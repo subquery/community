@@ -1,14 +1,14 @@
-# SubQuery Celebrates Winners of Encode Club Hackathon
+# SubQuery celebra los ganadores del Hackathon del Encode Club
 
 ![](https://miro.medium.com/max/1400/1*KSv8qczywRPCEvWXeYiDNA.png)
 
-SubQuery, the leading data indexing solution in Polkadot, is delighted to showcase the winners of the recent  [Encode Club](https://www.encode.club/)  Polkadot Hackathon. Encode Club is a leading blockchain education community which promotes the ecosystem via events like hackathons, and accelerator programs.  [SubQuery partnered with Acala/Karura in September to sponsor three challenges](https://subquery.medium.com/september-2021-recap-783b9b574b42)  to a value of $14,000, inviting developers to build useful tools, dashboards and DApps.
+SubQuery, la solución de indexación de datos líder en Polkadot, se complace en presentar a los ganadores del reciente [Encode Club](https://www.encode.club/) Polkadot Hackathon. . Encode Club es una comunidad educativa líder en blockchain que promueve el ecosistema a través de eventos como hackatones y programas aceleradores.  [SubQuery se asoció con Acala/Karura en septiembre para patrocinar tres desafíos](https://subquery.medium.com/september-2021-recap-783b9b574b42)  por un valor de $14,000, invitando a los desarrolladores a crear herramientas, tableros y DApps útiles.
 
-After 10 weeks and scrutiny from high  profile judges in the Polkadot ecosystem such as  [Bryan Chen](https://twitter.com/XiliangChen)  (Co-Founder and CTO of Acala),  [Hang Yin](https://twitter.com/bgmshana)  (Co-Founder of Phala Network),  [Jack Platts](https://twitter.com/jackbplatts)  (Co-Founder of Hypersphere Ventures) and  [Sota Watanabe](https://twitter.com/WatanabeSota)  (Founder of Astar, CEO of Stake Technologies) we are happy to share  [the winners](https://medium.com/encode-club/polkadot-hack-finale-prizewinners-and-summary-931627c64d9)  of our challenges.
+Después de 10 semanas y el escrutinio de jueces de alto perfil en el ecosistema de Polkadot, como[ Bryan Chen](https://twitter.com/XiliangChen) (cofundador y director de tecnología de Acala), [Hang Yin ](https://twitter.com/bgmshana)(cofundador de Phala Network), [Jack Platts](https://twitter.com/jackbplatts) (cofundador de Hypersphere Ventures) y [Sota Watanabe](https://twitter.com/WatanabeSota) (Fundador de Astar, CEO de Stake Technologies) estamos felices de compartir [los ganadores](https://medium.com/encode-club/polkadot-hack-finale-prizewinners-and-summary-931627c64d9) de nuestros desafíos.
 
-[The challenges for the Acala/Karura and SubQuery portion of the hackathon](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e)  were focused on leveraging the power of Polkadot’s leading DeFi platform combined with SubQuery data. In addition to warm-up challenges where developers could get accustomed to the  [Karura SubQuery project](https://explorer.subquery.network/subquery/AcalaNetwork/karura), the main challenges were to build a DeFi bot, a dashboard or analytics tool, or a Defi DApp.
+[Los desafíos para la parte de Acala/Karura y SubQuery del hackathon](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e) se centraron en aprovechar el poder de la plataforma DeFi líder de Polkadot combinada con los datos de SubQuery. Además de los desafíos de calentamiento en los que los desarrolladores pudieron acostumbrarse al proyecto [Karura SubQuery](https://explorer.subquery.network/subquery/AcalaNetwork/karura), los principales desafíos fueron construir un bot DeFi, un tablero o una herramienta de análisis, o una Defi DApp.
 
-# Build a Bot
+# Construir un Bot
 
 The first challenge of building a DeFi bot had $3,500 in prizes available for participants who could build a bot that leveraged DeFi activity and on-chain or aggregated data though SubQuery to capitalize on opportunities within the Acala/Karura platform.
 
