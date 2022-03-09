@@ -26,6 +26,6 @@
 
 ## Про SubQuery
 
-[SubQuery](https://subquery.network/) – це провідний постачальник даних Polkadot, який підтримує індексацію & рівень запитів між блокчейнами рівня 1 (Polkadot) і децентралізованими додатками. Службою даних SubQuery користується більшість веб-сайтів аукціонів Polkadot і Kusama, які працюють у режимі краудлоу та парачейна. SubQuery’s protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+[SubQuery](https://subquery.network/) – це провідний постачальник даних Polkadot, який підтримує індексацію & рівень запитів між блокчейнами рівня 1 (Polkadot) і децентралізованими додатками. Службою даних SubQuery користується більшість веб-сайтів аукціонів Polkadot і Kusama, які працюють у режимі краудлоу та парачейна. Протокол SubQuery абстрагує особливості даних блокчейну за допомогою SubQuery SDK, дозволяючи розробникам зосередитися на розгортанні свого основного продукту без зайвих зусиль на користувацькі технології бекенда.
 
 [Website](https://subquery.network/) | [Email](hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)
