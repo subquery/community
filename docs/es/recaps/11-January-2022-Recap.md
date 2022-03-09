@@ -40,25 +40,25 @@ Nuestro Curso de Héroe hecho en colaboración con OneBlock+ comenzó a principi
 
 ### Soporte multichain
 
-SubQuery is native to Polkadot, it’s our home and we’ve worked hard to build relationships in this ecosystem. The core premise of Polkadot is to create a thriving community of developers, users, and businesses that will tap into its multichain interoperability. We stand by that vision and we also believe Polkadot will be a leading player in that initiative.
+SubQuery es nativo de Polkadot, es nuestra casa y hemos trabajado duro para construir relaciones en este ecosistema. El núcleo de la misión de Polkadot es crear una emocionante comunidad de desarrolladores, usuarios y empresas que aprovecharán su interoperabilidad multicadena. Mantenemos esa visión y también creemos que Polkadot será un actor destacado en esa iniciativa.
 
-But we believe in a multi chain future, we know that there are going to be many different interoperable blockchains working together to solve different problems. Our long term plan has always been to take SubQuery and to adapt it to work for other blockchain that don’t have a current indexing solution. Our multi-chain approach that we’ve needed to make for Polkadot means we are uniquely suited for this challenge.
+A pesar de esto, también creemos en un futuro multicadena, ya que sabemos que va a haber muchas blockchains diferentes trabajando juntas para resolver diferentes problemas. Nuestro plan a largo plazo siempre ha sido tomar SubQuery y adaptarlo al trabajo para otros blockchain que no tienen una solución de indexación actual. Nuestro enfoque de cadena múltiple que hemos necesitado para el Polkadot significa que nos adaptamos de manera única a este desafío.
 
-We’re finalising the work on the first of 5 new layer 1 chains that SubQuery will be indexing, we can’t wait to announce it soon!
+Estamos finalizando el trabajo en la primera de 5 nuevas cadenas de capa 1 que SubQuery indexará, ¡no podemos esperar para anunciarlo pronto!
 
 ![](https://miro.medium.com/max/1400/1*jD1n5MSjeatjiaF5hY-Wjg.png)
 
-### SubQuery Performance Improvements
+### Mejoras de rendimiento
 
-SubQuery’s indexing speed is always being improved, it’s a constant focus on our development team. Our advanced Dictionary support means enables this, Dictionaries speed up your project by many multiples and allow you to index entire Polkadot chain in minutes, not hours (depending on your project complexity).
+La velocidad de indexación de SubQuery está siendo siempre mejorada, es un foco constante en nuestro equipo de desarrollo. Nuestro soporte avanzado de diccionario permite esto, Los diccionarios aceleran tu proyecto en varios múltiplos y te permiten indexar toda la cadena Polkadot en minutos, no en horas (dependiendo de la complicidad de tu proyecto).
 
-As an indicator of the breadth of support that SubQuery offers to the Polkadot ecosystem, we are now hosting and managing dictionaries across the 31 different networks, representing the majority of all major Polkadot/Kusama parachains.
+Como indicador de la amplitud de apoyo que SubQuery ofrece al ecosistema Polkadot ahora estamos hospedando y gestionando diccionarios a través de las 31 diferentes redes, representando la mayoría de los parachains más importantes de Polkadot/Kusama.
 
 ![](https://miro.medium.com/max/1400/1*WeMY5WnWZ_jvllxidhycUA.png)
 
-### SubQuery Templates Registry
+### Registro de plantillas de subQuery
 
-> 29 networks are covered by templates
+> 29 redes están cubiertas por plantillas
 
 The `subql init` command is a familiar one for anyone that has built a SubQuery project; it represents a blank canvas — limitless opportunities. We are aware that we can do better to help others get started, rather than a blank canvas developers want a blank scaffold, where all the boiler-plate code is already written.
 
