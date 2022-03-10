@@ -1,8 +1,8 @@
-# January Recap
+# Recapitulación de enero
 
 ![](https://miro.medium.com/max/1400/1*2IMAaY-YYyAdl7YfZqHTAg.png)
 
-Hi everyone, and welcome to 2022! Last year was huge for us at SubQuery but after a much needed summer holiday here in New Zealand the team are well rested and energised by the potential ahead of us. This year is going to be the year of the decentralised data revolution!
+¡Hola a todos, y bienvenido a 2022! El año pasado fue enorme para nosotros en SubQuery, pero después de unas muy necesarias vacaciones de verano aquí en Nueva Zelanda, el equipo está bien descansado y energizado por el potencial que tenemos ante nosotros. ¡Este año va a ser el año de la revolución de los datos descentralizados!
 
 As always, we are breaking down our monthly update into three sections; community, core product development, and the SubQuery Network.
 
