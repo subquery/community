@@ -1,30 +1,30 @@
-# January Recap
+# Резюме січня
 
 ![](https://miro.medium.com/max/1400/1*2IMAaY-YYyAdl7YfZqHTAg.png)
 
-Hi everyone, and welcome to 2022! Last year was huge for us at SubQuery but after a much needed summer holiday here in New Zealand the team are well rested and energised by the potential ahead of us. This year is going to be the year of the decentralised data revolution!
+Привіт усім, і ласкаво просимо до 2022! Минулий рік був для нас величезним у SubQuery, але після вкрай необхідної літньої відпустки тут, у Новій Зеландії, команда добре відпочила та зарядилася потенціалом, який перед нами. Цей рік буде роком революції децентралізованих даних!
 
-As always, we are breaking down our monthly update into three sections; community, core product development, and the SubQuery Network.
+Як завжди, ми розбиваємо наше щомісячне оновлення на три розділи; спільнота, розробка основного продукту та мережа SubQuery. Текст абзацу XPath: /p[3]
 
-## Community
+## Спільнота
 
-SubQuery’s community is expanding rapidly in terms of numbers and regions we cover! As a result, we have a lot to talk about in this area.
+Спільнота SubQuery швидко розширюється з точки зору кількості та регіонів, які ми охоплюємо! Як наслідок, у цій сфері нам є про що поговорити.
 
-### SubQuery Partners With Leading Polkadot Teams On Technical Bounties via the SubQuery Grants Programme
+### SubQuery співпрацює з провідними командами Polkadot на технічні винагороди за допомогою програми SubQuery Grants
 
-Last month we launched the SubQuery Grants Programme, a non dilutive accelerator to help developers in our community build the next generation of dApps. This month we’ve talked to our partners to release a first round of bounties in partnership with Moonbeam, Acala, Astar and Bifrost as projects for inspiration. All are open to apply now, and as a bonus, if your application is successful you’ll get to work closely with the parachain team that suggested the challenge!
+Минулого місяця ми запустили SubQuery Grants Programme, нерозбавляючий прискорювач, який допоможе розробникам нашої спільноти створити нове покоління dApps. Цього місяця ми поговорили з нашими партнерами, щоб випустити перший раунд винагород у партнерстві з Moonbeam, Acala, Astar і Bifrost як проекти для натхнення. Усі відкриті для подання заявки зараз, і як бонус, якщо ваша заявка буде успішною, ви зможете тісно співпрацювати з командою парачейна, яка запропонувала завдання!
 
-Applicants who are interested in any of these bounties are encouraged to submit their proposal with the budget required to complete the task and other requirements [here](https://docs.google.com/forms/d/e/1FAIpQLSfmMazkebKwNTWThBkVGaxf2Bg8s4aWZ0ZhwiMCtc9kv4sJHQ/viewform). Additionally, we look forward to announce the first round of SubQuery grantees in February.
+Заявникам, які зацікавлені в будь-якій із цих премій, пропонується подати свої пропозиції з бюджетом, необхідним для виконання завдання, та іншими вимогами [тут](https://docs.google.com/forms/d/e/1FAIpQLSfmMazkebKwNTWThBkVGaxf2Bg8s4aWZ0ZhwiMCtc9kv4sJHQ/viewform). Крім того, ми з нетерпінням очікуємо оголосити про перший раунд грантів SubQuery у лютому.
 
-[Read more here](https://subquery.medium.com/subquery-partners-with-leading-polkadot-teams-on-technical-bounties-via-the-subquery-grants-d40453788435)
+[Почитайте більше тут!](https://subquery.medium.com/subquery-partners-with-leading-polkadot-teams-on-technical-bounties-via-the-subquery-grants-d40453788435)
 
-### SubQuery Celebrates Winners of Gitcoin GR 12 Hackathon
+### SubQuery відзначає переможців хакатону Gitcoin GR 12
 
-[SubQuery partnered with Gitcoin in December](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a) to sponsor five challenges to a value of USD$37,000 (the largest prize pool in the challenge), inviting developers to build useful tools, dashboards and even extend SubQuery to another Layer-1 blockchain.
+[SubQuery співпрацює з Gitcoin у грудні](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a), щоб спонсорувати п’ять завдань на суму 37 000 доларів США (найбільший призовий фонд у конкурсі), запрошуючи розробників створювати корисні інструменти, інформаційні панелі та навіть розширювати SubQuery на інший рівень 1 блокчейн.
 
 ![](https://miro.medium.com/max/1400/1*BUq3ah1ULNnvLjqxv_vzlQ.png)
 
-[Sam Zou](https://twitter.com/zoujialiu), the CEO and Founder of SubQuery commented, “_SubQuery is delighted with the results of the Gitcoin GR12 Hackathon. Our mission relies on having a network of developers who are empowered to create and innovate within the Substrate/Polkadot ecosystem. This partnership provided opportunities for motivated developers around the world to build the applications of tomorrow. We are excited to nurture the winners of the challenges to develop their ideas even further_”
+[Сем Зу](https://twitter.com/zoujialiu), генеральний директор і засновник SubQuery, прокоментував: «_SubQuery в захваті від результатів хакатону Gitcoin GR12. Наша місія покладається на наявність мережі розробників, які мають повноваження створювати та впроваджувати інновації в екосистемі Substrate/Polkadot. Це партнерство дало можливість мотивованим розробникам у всьому світі створювати програми завтрашнього дня. We are excited to nurture the winners of the challenges to develop their ideas even further_”
 
 Recently we’ve covered the many winners that participated in this hackathon and the amazing projects that they have built in [this detailed writeup](https://subquery.medium.com/subquery-celebrates-winners-of-gitcoin-gr-12-hackathon-7486afaeab29). We were blown away by the quality and progress made by the submissions in such a short time and we’re pleased to invite many of the submissions to participate in our grants programme.
 
