@@ -1,4 +1,4 @@
-# Обобщение на октомври 2021 г.
+# Ревю за Октомври 2021
 
 ![](https://miro.medium.com/max/1400/1*Yf3LOc6onAZ-XRQLPyxAmQ.png)
 
