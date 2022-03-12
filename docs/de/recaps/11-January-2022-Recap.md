@@ -82,29 +82,29 @@ Darwinia hat auch eng mit dem SubQuery-Team zusammengearbeitet, um [ein CLI-Tool
 
 Beim letzten Community-Call gingen wir einige wichtige Details des bevorstehenden SubQuery-Testnetzwerks durch. Es wird über mindestens drei Saisons laufen, jede Saison wird verschiedene Aspekte des Netzwerks testen:
 
-- Season 1: Early stage alpha testing of a limited number of features with a select few participants
-- Season 2: Large beta testing of more features with hundreds of participants
-- Season 3: Full public test network for load and scale testing with thousands of participants
+- Saison 1: Alpha-Test in der Frühphase einer begrenzten Anzahl von Funktionen mit wenigen ausgewählten Teilnehmern
+- Saison 2: Großer Beta-Test weiterer Funktionen mit Hunderten von Teilnehmern
+- Saison 3: Vollständiges öffentliches Testnetzwerk für Last- und Skalierungstests mit Tausenden von Teilnehmern
 
-Each season will have multiple challenges that you can complete which may result in real SQT rewards. Expect things to kickoff here in March!
+In jeder Saison gibt es mehrere Herausforderungen, die Sie abschließen können, was zu echten SQT-Belohnungen führen kann. Erwarten Sie, dass die Dinge hier im März losgehen!
 
-## Roadmap Update
+## Roadmap-Aktualisierung
 
-Last October we released out [technical roadmap](https://blog.subquery.network/blogs/20211029-roadmap-october.html) with the next year mapped out for SubQuery, we’re overdue to address exactly how we’re doing here.
+Letzten Oktober haben wir unsere [technische Roadmap](https://blog.subquery.network/blogs/20211029-roadmap-october.html) veröffentlicht, wobei das nächste Jahr für SubQuery vorgezeichnet ist. Wir sind überfällig, genau darauf einzugehen, wie wir hier abschneiden.
 
 ![](https://miro.medium.com/max/1400/1*2a3SGrW-OG5pbw67jsavvw.jpeg)
 
-As you can see in the original roadmap above, we’ve completed all of Milestone 0 and 1, and are making good progress on Milestone 2. We’ve even delivered some features relevant to our hosted service much earlier than expected due to the huge scale of requests currently going to [our enterprise customers](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html).
+Wie Sie in der ursprünglichen Roadmap oben sehen können, haben wir alle Meilensteine 0 und 1 abgeschlossen und machen gute Fortschritte bei Meilenstein 2. Wir haben sogar einige Funktionen, die für unseren gehosteten Dienst relevant sind, viel früher als erwartet bereitgestellt, da derzeit sehr viele Anfragen an [unsere Unternehmenskunden](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) gehen.
 
-## Other things you might have missed
+## Andere Dinge, die Sie vielleicht übersehen haben
 
-- We will be having weekly office hours on our Discord Server! Join SubQuery’s ‘Office Hours’ on our stages channel where you can catch-up with the team in a casual environment.
-- We had a Russian QnA with James & Dmytro in Discord where all questions were asked and answered in Russian. Let us know which language you would like to hear next
+- Wir werden wöchentliche Bürozeiten auf unserem Discord Server haben! Nehmen Sie an den „Bürozeiten“ von SubQuery auf unserem Bühnenkanal teil, wo Sie sich in ungezwungener Atmosphäre mit dem Team austauschen können.
+- Wir hatten ein russisches QnA mit James & Dmytro in Discord, wo alle Fragen auf Russisch gestellt und beantwortet wurden. Lassen Sie uns wissen, welche Sprache Sie als nächstes hören möchten
 
 P.S.
 
-Remember to join our [Discord](https://discord.com/invite/subquery) and our [social channels](https://linktr.ee/subquerynetwork) to stay updated on our latest news and announcements.
+Denken Sie daran, unserem [Discord](https://discord.com/invite/subquery) und unseren [sozialen Kanälen](https://linktr.ee/subquerynetwork) beizutreten, um über unsere neuesten Nachrichten und Ankündigungen auf dem Laufenden zu bleiben.
 
-The SubQuery Team
+SubQuery-Team
 
-[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Email](hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Youtube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork) | [Webseite](https://subquery.network/) | [E-Mail](hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Youtube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
