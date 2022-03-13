@@ -1,8 +1,8 @@
-# SubQuery Celebrates Winners of Gitcoin GR 12 Hackathon
+# SubQuery feiert die Gewinner des Gitcoin GR 12 Hackathon
 
 ![](https://miro.medium.com/max/1400/1*MnMY9j3nasex9_9MNHUPtA.png)
 
-SubQuery, the leading data indexing solution in Polkadot, is delighted to announce the winners [of the recent Gitcoin GR 12 Hackathon](https://gitcoin.co/hackathon/gr12?org=subquery). Gitcoin is recognised as one of the preeminent blockchain developer communities focussed on creating community and applications for Web3. [SubQuery partnered with Gitcoin in December](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a) to sponsor five challenges to a value of USD$37,000 (the largest prize pool in the challenge), inviting developers to build useful tools, dashboards and even extend SubQuery to another Layer-1 blockchain.
+SubQuery, die führende Datenindizierungslösung in Polkadot, freut sich, die Gewinner [des jüngsten Gitcoin GR 12 Hackathon](https://gitcoin.co/hackathon/gr12?org=subquery) bekannt zu geben. Gitcoin ist als eine der herausragenden Blockchain-Entwicklergemeinschaften anerkannt, die sich auf die Erstellung von Gemeinschaften und Anwendungen für Web3 konzentriert. [SubQuery ging im Dezember eine Partnerschaft mit Gitcoin ein](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a), um fünf Challenges im Wert von 37.000 USD (der größte Preispool bei der Challenge) zu sponsern und Entwickler einzuladen, nützliche Tools und Dashboards zu erstellen und SubQuery sogar auf eine andere Schicht-1 auszudehnen Blockchain.
 
 The Hackathon took place from December 1st — 16th 2021 with leading blockchain projects such as Moonbeam, Astar and Acala contributing to various prize pools. The prizes are granted to those who have successfully completed the projects to the pre-set standards, and who deliver the most creative ideas, or those or solve areas to improve the core SubQuery SDK. A short summary of the challenges are below:
 
