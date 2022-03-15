@@ -28,31 +28,31 @@ _Das SubQuery-Netzwerk ist als Datenlieferant für die Menschen konzipiert._
 
 Das Leitprinzip des SubQuery Network ist Einfachheit. SubQuery ist der Meinung, dass andere Ansätze für dezentrale Datenabfragedienste zu komplex sind und es den Teilnehmern erschweren, ihre Kapitalrendite vorherzusagen. Man hat folgendes Ziel : den Einstieg in das Netzwerk zu erleichtern und Ihre zukünftigen Renditechancen klar zu prognostizieren.
 
-SubQuery won’t require high staking thresholds to participate or huge investment into hardware. The focus will be on making SubQuery easier to join and build with than our competitors — SubQuery’s success depends on the success of others creating the future on it.
+SubQuery erfordert keine hohen Stake-Schwellenwerte für die Teilnahme oder große Investitionen in Hardware. Der Fokus wird darauf liegen, SubQuery leichter beizutreten und aufzubauen als unsere Konkurrenten – der Erfolg von SubQuery hängt vom Erfolg anderer ab, die die Zukunft darauf aufbauen.
 
-This means that a design goal is to make it as easy as possible for anyone to participate. You don’t need to be a developer or have a deep knowledge of the token economic model, you can easily participate as a Delegator. As a Consumer, you also have plenty of payment options to best suit your needs. Finally, a key focus of the SubQuery Foundation is to ensure that there is enough support that anyone, from an expert blockchain team to a new hobbyist developer, can build their own SubQuery project.
+Das bedeutet, dass ein Designziel darin besteht, die Teilnahme für alle so einfach wie möglich zu gestalten. Sie müssen kein Entwickler sein oder über fundierte Kenntnisse des Token-Wirtschaftsmodells verfügen, Sie können ganz einfach als Delegator teilnehmen. Als Verbraucher haben Sie auch viele Zahlungsoptionen, die Ihren Bedürfnissen am besten entsprechen. Schließlich liegt ein Hauptaugenmerk der SubQuery Foundation darauf, sicherzustellen, dass genügend Unterstützung vorhanden ist, damit jeder, vom erfahrenen Blockchain-Team bis zum neuen Hobby-Entwickler, sein eigenes SubQuery-Projekt erstellen kann.
 
-### Flexible
+### Flexibel
 
-_SubQuery is just a tool in the hands of our community, endless opportunities exist limited only by the creativity of the people._
+_SubQuery ist nur ein Werkzeug in den Händen unserer Community, es gibt endlose Möglichkeiten, die nur durch die Kreativität der Menschen begrenzt sind._
 
-The true advantages of SubQuery may lie in its flexibility — users will have the freedom to adapt and transform decentralised data to suit their needs. This drive for flexibility extends to making it easier for delegators to quickly and easily support different indexers without having to wait for extended unbonding periods. Finally, this approach is perfectly embodied by our introduction of three payment methods which we’ll cover next.
+Die wahren Vorteile von SubQuery liegen möglicherweise in seiner Flexibilität – Benutzer haben die Freiheit, dezentrale Daten an ihre Bedürfnisse anzupassen und zu transformieren. Dieses Streben nach Flexibilität erstreckt sich auch darauf, es den Delegierenden zu erleichtern, schnell und einfach verschiedene Indexer zu unterstützen, ohne auf längere Unbonding-Zeiträume warten zu müssen. Schließlich wird dieser Ansatz perfekt durch unsere Einführung von drei Zahlungsmethoden verkörpert, die wir als Nächstes behandeln werden.
 
-## SubQuery’s Innovation in Payment Methods
+## Die Innovation von SubQuery bei Zahlungsmethoden
 
-The biggest change by far with this version of the whitepaper is our innovation in payment methods. Today, we generally pay with subscription-based payments for the music we listen to, the TV shows we watch, and the applications that we use. In pioneering web3 service applications, we’ve instead adopted a pay-as-you-go model, where each atomic transaction has an exact cost in the network.
+Die mit Abstand größte Änderung in dieser Version des Whitepapers ist unsere Innovation bei den Zahlungsmethoden. Heutzutage zahlen wir im Allgemeinen mit abonnementbasierten Zahlungen für die Musik, die wir hören, die Fernsehsendungen, die wir uns ansehen, und die Anwendungen, die wir verwenden. Bei wegweisenden Web3-Serviceanwendungen haben wir stattdessen ein Pay-as-you-go-Modell eingeführt, bei dem jede atomare Transaktion genaue Kosten im Netzwerk hat.
 
-We think subscription based or recurring payment methods are here to stay. Service providers like them because they represent predictable revenue, similarly on the other side consumers like them because they are a known and easily quantified cost. There’s also a psychological factor where once you subscribe, most consumers will feel obligated to consume as much if not all of it, increasing the demand for the service and allowing economies of scale to kick in.
+Wir glauben, dass abonnementbasierte oder wiederkehrende Zahlungsmethoden hier bleiben werden. Dienstleister mögen sie, weil sie vorhersehbare Einnahmen darstellen, und auf der anderen Seite mögen sie Verbraucher, weil sie bekannte und leicht quantifizierbare Kosten darstellen. Es gibt auch einen psychologischen Faktor, bei dem sich die meisten Verbraucher nach dem Abonnieren verpflichtet fühlen, so viel, wenn nicht alles davon zu konsumieren, was die Nachfrage nach dem Dienst erhöht und Skaleneffekte ermöglicht.
 
-As a result, SubQuery plans to introduce three ways to pay within the SubQuery Network, providing all participants with various flexible ways to transact with the SubQuery Token (SQT). Both Indexers and Consumers will come together on the Plan Marketplace to advertise their pricing and supported payment methods.
+Infolgedessen plant SubQuery die Einführung von drei Zahlungsmöglichkeiten innerhalb des SubQuery-Netzwerks, die allen Teilnehmern verschiedene flexible Möglichkeiten bieten, mit dem SubQuery-Token (SQT) zu handeln. Sowohl Indexierer als auch Verbraucher kommen auf dem Plan-Marktplatz zusammen, um ihre Preise und unterstützten Zahlungsmethoden zu bewerben.
 
 ![](https://miro.medium.com/max/700/0*f0yVHlbWTE8DdjuB)
 
 ### Pay-As-You-Go (PAYG)
 
-The first, and a standard amongst the web3 industry, is Pay-As-You-Go. This is the baseline payment method and a fallback for others. Each Indexer will advertise their PAYG prices when registering their ability to serve requests for specific SubQuery Projects.
+Das erste und ein Standard in der Web3-Branche ist Pay-As-You-Go. Dies ist die grundlegende Zahlungsmethode und ein Fallback für andere. Jeder Indexer gibt seine PAYG-Preise bekannt, wenn er seine Fähigkeit registriert, Anforderungen für bestimmte SubQuery-Projekte zu bedienen.
 
-### Closed Plans and Agreements
+### Geschlossene Pläne und Vereinbarungen
 
 Closed Agreements represent an agreement between only one Indexer and one Consumer. It’s a direct relationship where all payment flows between the two parties for the work that is done. Closed Agreements are designed to give Indexers confidence that there is a market for data from a particular SubQuery Project, and essentially signal to them which Projects should be indexed. Closed Plans can also be placed on existing SubQuery Projects to attract additional Indexers to that SubQuery Project. This may be useful in situations where the existing monopolistic Indexer may be charging an unreasonable amount for the data or there is a lack of competition to drive prices to equilibrium.
 
