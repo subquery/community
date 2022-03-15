@@ -90,21 +90,21 @@ DarwiniaはSubQueryと提携し、クロスチェーン相互作用の究極の�
 
 ## ロードマップのアップデート
 
-Last October we released out [technical roadmap](https://blog.subquery.network/blogs/20211029-roadmap-october.html) with the next year mapped out for SubQuery, we’re overdue to address exactly how we’re doing here.
+昨年 10 月に、SubQuery の今後 1 年間の[技術的なロードマップ](https://blog.subquery.network/blogs/20211029-roadmap-october.html)を公開しましたが、ここで私たちが行っていることを正確に説明する時期が来ています。
 
 ![](https://miro.medium.com/max/1400/1*2a3SGrW-OG5pbw67jsavvw.jpeg)
 
-As you can see in the original roadmap above, we’ve completed all of Milestone 0 and 1, and are making good progress on Milestone 2. We’ve even delivered some features relevant to our hosted service much earlier than expected due to the huge scale of requests currently going to [our enterprise customers](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html).
+上のオリジナルロードマップをご覧いただくとわかるように、マイルストーン0と1はすべて完了し、マイルストーン2も順調に進んでいます。 現在、[エンタープライズカスタマー](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html)に寄せられている膨大な数のリクエストにより、私たちのホスティング サービスに関連するいくつかの機能を予想よりもずっと早く提供することもできました。
 
-## Other things you might have missed
+## その他、見逃しているかもしれないこと
 
-- We will be having weekly office hours on our Discord Server! Join SubQuery’s ‘Office Hours’ on our stages channel where you can catch-up with the team in a casual environment.
-- We had a Russian QnA with James & Dmytro in Discord where all questions were asked and answered in Russian. Let us know which language you would like to hear next
+- Discord Serverで毎週オフィスアワーを開催することになりました！ SubQueryのステージチャンネルにある「オフィスアワー」に参加すると、カジュアルな環境でチームとキャッチアップすることができます。
+- DiscordでJames & Dmytroとロシア語のQnAを行い、すべての質問にロシア語で答えました。 次に聴きたい言語を教えてください。
 
 P.S.
 
-Remember to join our [Discord](https://discord.com/invite/subquery) and our [social channels](https://linktr.ee/subquerynetwork) to stay updated on our latest news and announcements.
+[Discord](https://discord.com/invite/subquery) や [social channels](https://linktr.ee/subquerynetwork) に参加して、最新のニュースやアナウンスを入手するのを忘れないでください。
 
-The SubQuery Team
+SubQuery チーム
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Email](hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Youtube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
