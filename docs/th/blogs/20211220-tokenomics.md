@@ -2,9 +2,9 @@
 
 ![](https://miro.medium.com/max/1400/1*e42FM0TsNgOM3VacoctOzQ.png)
 
-Tokenomics เป็นส่วนสำคัญของโปรเจกต์บล็อคเชน และยังมีความสำคัญต่อความสำเร็จของทุกๆ ยูทิลิตี้โทเค็น ที่ SubQuery เรากำลังสร้างเครือข่ายที่กระจายอำนาจและสร้างแรงจูงใจที่จะให้บริการข้อมูลสำหรับอนาคตของ web3 ([อ่าน whitepaper ของเรา](https://static.subquery.network/whitepaper.pdf)) วันนี้เรารู้สึกตื่นเต้นที่จะเปิดเผยว่าเหรียญ SQT จะทำงานอย่างไรและจะได้รับการจัดสรรอย่างไรเพื่อเพิ่มการมีส่วนร่วมโดยชุมชนที่กำลังเติบโตของเรา
+Tokenomics ถือเป็นส่วนสำคัญในทุก ๆ โปรเจกต์บล็อกเชน และเป็นกุญแจสู่ความสำเร็จของทุก ๆ ยูทิลิตี้โทเค็น ซึ่งที่ SubQuery นั้น เรากำลังสร้างเครือข่ายที่กระจายอำนาจและมีแรงจูงใจที่จะให้บริการข้อมูลแก่ web3 ในอนาคต ([อ่าน whitepaper ของเราที่นี่](https://static.subquery.network/whitepaper.pdf)) และในวันนี้เรารู้สึกตื่นเต้นอย่างยิ่งที่จะได้เปิดเผยว่า เหรียญ SQT จะทำงานและจัดสรรอย่างไร เพื่อเพิ่มการมีส่วนร่วมจากคอมมูนิตี้ที่กำลังเติบโตของเรา
 
-[เราเพิ่งประกาศว่าจะเปิดตัว SubQuery Network ผ่าน Acala เมื่อไม่นานมานี้](https://subquery.medium.com/the-subquery-network-to-launch-on-acala-decentralising-polkadots-leading-data-indexing-service-8203d686128e) สำหรับผู้ที่ยังใหม่ต่อระบบนิเวศ Polkadot SubQuery จำเป็นต้องร่วมมือกับทีม Parachain ที่มีอยู่เพื่อปรับใช้ smart contracts (และรวมถึงโทเค็น SubQuery SQT) ในการที่จะเปิดตัว หรือกล่าวอีกนัยหนึ่ง โทเค็นของเราซ้อนอยู่ภายในบล็อคเชน Acala บน Polkadot และจะอนุญาตให้นักลงทุนจากระบบนิเวศ Ethereum ได้มีส่วนร่วมอย่างราบรื่นโดยโซลูชัน EVM+ (Ethereum Virtual Machine) ของ Acala
+[เมื่อไม่นานมานี้ เราได้ประกาศว่า จะเปิดตัว SubQuery Network ผ่าน Acala](https://subquery.medium.com/the-subquery-network-to-launch-on-acala-decentralising-polkadots-leading-data-indexing-service-8203d686128e) สำหรับผู้ที่ยังใหม่ต่อระบบนิเวศ Polkadot SubQuery จำเป็นต้องร่วมมือกับทีม Parachain ที่มีอยู่เพื่อปรับใช้ smart contracts (และรวมถึงโทเค็น SubQuery SQT) ในการที่จะเปิดตัว หรือกล่าวอีกนัยหนึ่ง โทเค็นของเราซ้อนอยู่ภายในบล็อคเชน Acala บน Polkadot และจะอนุญาตให้นักลงทุนจากระบบนิเวศ Ethereum ได้มีส่วนร่วมอย่างราบรื่นโดยโซลูชัน EVM+ (Ethereum Virtual Machine) ของ Acala
 
 ในการเตรียมพร้อมสำหรับการเปิดตัวที่จะเกิดขึ้นของโทเค็น SQT ของ SubQuery บน Acala นั้น สิ่งสำคัญอย่างนึงคือต้องเข้าใจในบางประเด็นสำคัญ เช่น ประโยชน์ (การใช้งาน) ของโทเค็น, การจัดสรร, และกำหนดการปลดเหรียญ
 
