@@ -1,32 +1,32 @@
-# SubQuery Releases Updated Whitepaper
+# SubQuery veröffentlicht aktualisiertes Whitepaper
 
 ![](https://miro.medium.com/max/700/0*guA8YHyJPhu0wmzf)
 
-_An updated plan for how SubQuery will revolutionise the future of web3 infrastructure_
+_Ein aktualisierter Plan, wie SubQuery die Zukunft der web3-Infrastruktur revolutionieren wird_
 
-After a long period of design, discussion, testing, and development, today we are releasing a new and significantly [updated version of our Whitepaper](https://static.subquery.network/whitepaper.pdf). Originally published back in June 2021, the SubQuery Whitepaper is a document that outlines our strategic framework for the decentralised SubQuery Network and her SQT token. Since the original publication, we have experienced significant growth in our customer base and community and made huge progress on building the SubQuery Network. From these sources, we have been inspired to improve and innovate, and that culminates in the latest version of our whitepaper. <iframe width="1719" height="976" src="https://www.youtube.com/embed/Ghxyw5bIHs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Nach einer langen Zeit des Designs, der Diskussion, des Testens und der Entwicklung veröffentlichen wir heute eine neue und erheblich [aktualisierte Version unseres Whitepapers](https://static.subquery.network/whitepaper.pdf). Das ursprünglich im Juni 2021 veröffentlichte SubQuery Whitepaper ist ein Dokument, das unseren strategischen Rahmen für das dezentrale SubQuery-Netzwerk und ihr SQT-Token umreißt. Seit der ursprünglichen Veröffentlichung haben wir ein erhebliches Wachstum unseres Kundenstamms und unserer Community erlebt und große Fortschritte beim Aufbau des SubQuery-Netzwerks gemacht. Aus diesen Quellen wurden wir zu Verbesserungen und Innovationen inspiriert, und das gipfelt in der neuesten Version unseres Whitepapers. <iframe width="1719" height="976" src="https://www.youtube.com/embed/Ghxyw5bIHs8" title="YouTube-Videoplayer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-This whitepaper outlines SubQuery’s plans to move towards a globally decentralised network of participants organising blockchain data in order to ensure no single point of failure for SubQuery. It is expected that this will massively increase SubQuery’s uptime, provide better redundancy, and increase performance by driving down latency. It is envisioned that applications will be able to use GraphQL to query any store of data (as defined by the SubQuery Project) from Indexers around the network.
+Dieses Whitepaper skizziert die Pläne von SubQuery, sich zu einem global dezentralisierten Netzwerk von Teilnehmern zu bewegen, die Blockchain-Daten organisieren, um sicherzustellen, dass SubQuery keinen Single Point of Failure hat. Es wird erwartet, dass dies die Betriebszeit von SubQuery massiv erhöht, eine bessere Redundanz bietet und die Leistung erhöht, indem die Latenz verringert wird. Es ist vorgesehen, dass Anwendungen GraphQL verwenden können, um jeden Datenspeicher (wie vom SubQuery-Projekt definiert) von Indexern im Netzwerk abzufragen.
 
 ![](https://miro.medium.com/max/700/0*xtd6e7mn7JkfhpzG)
 
-## Our Focus
+## Unser Fokus
 
-The [updated whitepaper](https://static.subquery.network/whitepaper.pdf) maintains SubQuery’s conviction that the data services of tomorrow must be multi-chain, simple, and flexible. The whitepaper goes into detail on how the SubQuery Network factors these considerations into the token economic design while also enabling power users to run enterprise-level services on it.
+Das [aktualisierte Whitepaper](https://static.subquery.network/whitepaper.pdf) hält an der Überzeugung von SubQuery fest, dass die Datendienste von morgen multi-chain, einfach und flexibel sein müssen. Das Whitepaper geht detailliert darauf ein, wie das SubQuery-Netzwerk diese Überlegungen in das Token-Wirtschaftsdesign einbezieht und gleichzeitig Power-Usern ermöglicht, Dienste auf Unternehmensebene darauf auszuführen.
 
-### Multi-chain by Design
+### Multi-chain nach Design
 
-_SubQuery believes in the idea that a community of blockchains, working together to encourage web3 adoption, is the future_
+_SubQuery glaubt an die Idee, dass eine Gemeinschaft von Blockchains, die zusammenarbeiten, um die Einführung von Web3 zu fördern, die Zukunft ist_
 
-SubQuery is native to the Polkadot ecosystem, it’s our home and will be the location of the SubQuery Network. But the future is multi-chain. SubQuery knows that there are going to be many different blockchains working together to solve different problems.
+SubQuery stammt aus dem Polkadot-Ökosystem, es ist unser Zuhause und wird der Standort des SubQuery-Netzwerks sein. Aber die Zukunft ist multi-chain. SubQuery weiß, dass es viele verschiedene Blockchains geben wird, die zusammenarbeiten, um verschiedene Probleme zu lösen.
 
-The SubQuery Network is designed to support any SubQuery Project from any Layer 1 network (within Polkadot or not). It will be designed and built to be multi-chain from the outset, where you will see projects from one network being indexed alongside projects from another.
+Das SubQuery-Netzwerk wurde entwickelt, um jedes SubQuery-Projekt von jedem Layer-1-Netzwerk (innerhalb von Polkadot oder nicht) zu unterstützen. Es wird von Anfang an so konzipiert und gebaut, dass es multi-chain ist, wo Projekte aus einem Netzwerk neben Projekten aus einem anderen indiziert werden.
 
-### Simple and Accessible
+### Einfach und zugänglich
 
-_The SubQuery Network is designed to be the data provider of the people._
+_Das SubQuery-Netzwerk ist als Datenlieferant für die Menschen konzipiert._
 
-The guiding principle with the SubQuery Network is simplicity. It is SubQuery’s opinion that other approaches to decentralised data query services are overly complex and make it difficult for participants to predict their return on investment. The aim is to make it easy for you to get involved in the network, and to clearly forecast your future potential return.
+Das Leitprinzip des SubQuery Network ist Einfachheit. SubQuery ist der Meinung, dass andere Ansätze für dezentrale Datenabfragedienste zu komplex sind und es den Teilnehmern erschweren, ihre Kapitalrendite vorherzusagen. Man hat folgendes Ziel : den Einstieg in das Netzwerk zu erleichtern und Ihre zukünftigen Renditechancen klar zu prognostizieren.
 
 SubQuery won’t require high staking thresholds to participate or huge investment into hardware. The focus will be on making SubQuery easier to join and build with than our competitors — SubQuery’s success depends on the success of others creating the future on it.
 
