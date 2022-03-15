@@ -1,18 +1,18 @@
-# January Recap
+# 2022年1月のまとめ
 
 ![](https://miro.medium.com/max/1400/1*2IMAaY-YYyAdl7YfZqHTAg.png)
 
-Hi everyone, and welcome to 2022! Last year was huge for us at SubQuery but after a much needed summer holiday here in New Zealand the team are well rested and energised by the potential ahead of us. This year is going to be the year of the decentralised data revolution!
+皆さんこんにちは、2022年になりました！ 昨年は私たちSubQueryにとって大きな年でしたが、ニュージーランドでの夏休みを経て、チームは十分に休息をとり、これからの可能性に活力を得ています。 今年は、分散型データ革命の年になるでしょう！
 
-As always, we are breaking down our monthly update into three sections; community, core product development, and the SubQuery Network.
+いつものように、毎月の更新をコミュニティ、コア製品開発、SubQuery Networkの3つのセクションに分けてご紹介します。
 
-## Community
+## コミュニティ
 
-SubQuery’s community is expanding rapidly in terms of numbers and regions we cover! As a result, we have a lot to talk about in this area.
+SubQueryのコミュニティは、人数もカバーする地域も急拡大中です！ その結果、この分野ではいろいろな話ができるようになりました。
 
-### SubQuery Partners With Leading Polkadot Teams On Technical Bounties via the SubQuery Grants Programme
+### SubQuery グランツ プログラムを通じて、主要なPolkadotチームとテクニカルバウンティ（技術報奨金）で提携
 
-Last month we launched the SubQuery Grants Programme, a non dilutive accelerator to help developers in our community build the next generation of dApps. This month we’ve talked to our partners to release a first round of bounties in partnership with Moonbeam, Acala, Astar and Bifrost as projects for inspiration. All are open to apply now, and as a bonus, if your application is successful you’ll get to work closely with the parachain team that suggested the challenge!
+先月、私たちはSubQuery グランツ プログラムを立ち上げました。これは、私たちのコミュニティの開発者が次世代のdAppsを構築するのを支援する、非希薄化アクセラレータです。 今月は、インスピレーションを得るためのプロジェクトとして、Moonbeam、Acala、Astar、Bifrostと提携してバウンティの第一弾をリリースするために話をしました。 All are open to apply now, and as a bonus, if your application is successful you’ll get to work closely with the parachain team that suggested the challenge!
 
 Applicants who are interested in any of these bounties are encouraged to submit their proposal with the budget required to complete the task and other requirements [here](https://docs.google.com/forms/d/e/1FAIpQLSfmMazkebKwNTWThBkVGaxf2Bg8s4aWZ0ZhwiMCtc9kv4sJHQ/viewform). Additionally, we look forward to announce the first round of SubQuery grantees in February.
 
