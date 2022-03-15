@@ -12,83 +12,83 @@ SubQueryのコミュニティは、人数もカバーする地域も急拡大中
 
 ### SubQuery グランツ プログラムを通じて、主要なPolkadotチームとテクニカルバウンティ（技術報奨金）で提携
 
-先月、私たちはSubQuery グランツ プログラムを立ち上げました。これは、私たちのコミュニティの開発者が次世代のdAppsを構築するのを支援する、非希薄化アクセラレータです。 今月は、インスピレーションを得るためのプロジェクトとして、Moonbeam、Acala、Astar、Bifrostと提携してバウンティの第一弾をリリースするために話をしました。 All are open to apply now, and as a bonus, if your application is successful you’ll get to work closely with the parachain team that suggested the challenge!
+先月、私たちはSubQuery グランツ プログラムを立ち上げました。これは、私たちのコミュニティの開発者が次世代のdAppsを構築するのを支援する、非希薄化アクセラレータです。 今月は、インスピレーションを得るためのプロジェクトとして、Moonbeam、Acala、Astar、Bifrostと提携してバウンティの第一弾をリリースするために話をしました。 いずれも現在応募受付中で、応募が成功すればチャレンジを提案したパラチェーンチームと密接に連携できる特典もありますよ。
 
-Applicants who are interested in any of these bounties are encouraged to submit their proposal with the budget required to complete the task and other requirements [here](https://docs.google.com/forms/d/e/1FAIpQLSfmMazkebKwNTWThBkVGaxf2Bg8s4aWZ0ZhwiMCtc9kv4sJHQ/viewform). Additionally, we look forward to announce the first round of SubQuery grantees in February.
+これらのバウンティに興味のある応募者は、タスクを完了するために必要な予算やその他の要件を添えて、[こちら](https://docs.google.com/forms/d/e/1FAIpQLSfmMazkebKwNTWThBkVGaxf2Bg8s4aWZ0ZhwiMCtc9kv4sJHQ/viewform)から提案書を提出することを推奨してます。 さらに、2月にはSubQueryの最初のラウンドの助成先が発表されることを予定しています。
 
-[Read more here](https://subquery.medium.com/subquery-partners-with-leading-polkadot-teams-on-technical-bounties-via-the-subquery-grants-d40453788435)
+[詳細はこちら](https://subquery.medium.com/subquery-partners-with-leading-polkadot-teams-on-technical-bounties-via-the-subquery-grants-d40453788435)
 
-### SubQuery Celebrates Winners of Gitcoin GR 12 Hackathon
+### SubQueryがGitcoin GR 12ハッカソンの勝者を祝う
 
-[SubQuery partnered with Gitcoin in December](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a) to sponsor five challenges to a value of USD$37,000 (the largest prize pool in the challenge), inviting developers to build useful tools, dashboards and even extend SubQuery to another Layer-1 blockchain.
+[SubQueryは12月にGitcoinと提携し](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a)、37,000USD（チャレンジで最大の賞金プール）の価値を持つ5つのチャレンジを主催し、開発者に有用なツールやダッシュボードの構築、さらには別のLayer1ブロックチェーンにSubQueryを拡張することを呼びかけました。
 
 ![](https://miro.medium.com/max/1400/1*BUq3ah1ULNnvLjqxv_vzlQ.png)
 
-[Sam Zou](https://twitter.com/zoujialiu), the CEO and Founder of SubQuery commented, “_SubQuery is delighted with the results of the Gitcoin GR12 Hackathon. Our mission relies on having a network of developers who are empowered to create and innovate within the Substrate/Polkadot ecosystem. This partnership provided opportunities for motivated developers around the world to build the applications of tomorrow. We are excited to nurture the winners of the challenges to develop their ideas even further_”
+[Sam Zou](https://twitter.com/zoujialiu)（SubQueryのCEO兼創設者）は次のようにコメントしています。「_SubQuery は Gitcoin GR12 Hackathon の結果を喜んでいます。 私たちの使命は、Substrate/Polkadotのエコシステムの中で創造と革新を行う権限を与えられた開発者とのネットワークを持つことにかかっています。 このパートナーシップは、世界中の意欲的な開発者に明日のアプリケーションを構築する機会を提供しました。 私たちは、チャレンジの勝者を育て、彼らのアイデアをさらに発展させることに興奮しています_。」
 
-Recently we’ve covered the many winners that participated in this hackathon and the amazing projects that they have built in [this detailed writeup](https://subquery.medium.com/subquery-celebrates-winners-of-gitcoin-gr-12-hackathon-7486afaeab29). We were blown away by the quality and progress made by the submissions in such a short time and we’re pleased to invite many of the submissions to participate in our grants programme.
+最近、私たちはこのハッカソンに参加した多くの受賞者と彼らが作った素晴らしいプロジェクトについて、[この記事](https://subquery.medium.com/subquery-celebrates-winners-of-gitcoin-gr-12-hackathon-7486afaeab29)で取り上げました。 私たちは、このような短時間で提出された作品の質と進歩に圧倒されました。そして、私たちの助成金プログラムに参加するために多くの作品を招待できたことを嬉しく思います。
 
-[Read more here](https://subquery.medium.com/subquery-celebrates-winners-of-gitcoin-gr-12-hackathon-7486afaeab29)
+[詳細はこちら](https://subquery.medium.com/subquery-celebrates-winners-of-gitcoin-gr-12-hackathon-7486afaeab29)
 
-### Hero Course China
+### ヒーローコース（中国）
 
-Our Hero Course made in partnership with OneBlock+ started in early January and now we already have released three lessons to over 200 students! Join the OneBlock+ Community to join this course or office hours. China is a strategically important region for SubQuery, but we expect to launch many other regional developer courses soon — reach out if you can help us with this!
+1月上旬にスタートしたOneBlock+との提携によるヒーローコースですが、現在すでに3レッスンを公開し、200名以上の生徒が受講しています。 OneBlock+コミュニティに参加すると、このコースやオフィスアワーに参加することができます。 中国はSubQueryにとって戦略的に重要な地域ですが、近々他の多くの地域の開発者向けコースを開始する予定です。
 
 ![](https://miro.medium.com/max/1400/1*_8N000hX1WBM79ZbFyhvYQ.png)
 
-## Core Product Development
+## コア製品開発
 
-### Multi Chain Support
+### マルチチェーンサポート
 
-SubQuery is native to Polkadot, it’s our home and we’ve worked hard to build relationships in this ecosystem. The core premise of Polkadot is to create a thriving community of developers, users, and businesses that will tap into its multichain interoperability. We stand by that vision and we also believe Polkadot will be a leading player in that initiative.
+SubQueryはPolkadotにネイティブであり、私たちのホームであり、このエコシステムの中で関係を築くために努力してきました。 Polkadotは、マルチチェーンの相互運用性を利用する開発者、ユーザー、企業の活発なコミュニティを作ることを大前提としています。 私たちはそのビジョンに賛同し、またPokadotがそのイニシアティブの主要なプレーヤーになると信じています。
 
-But we believe in a multi chain future, we know that there are going to be many different interoperable blockchains working together to solve different problems. Our long term plan has always been to take SubQuery and to adapt it to work for other blockchain that don’t have a current indexing solution. Our multi-chain approach that we’ve needed to make for Polkadot means we are uniquely suited for this challenge.
+しかし、私たちはマルチチェーンの未来を信じています。相互運用可能な多くのブロックチェーンが、さまざまな問題を解決するために協力し合うことになると考えています。 私たちの長期的な計画では、SubQueryを利用して、現在のインデックス作成ソリューションを持っていない他のブロックチェーンで適応させることを常に考えています。 Polkadotのために必要だった私たちのマルチチェーンアプローチは、このチャレンジに非常に適しているということです。
 
-We’re finalising the work on the first of 5 new layer 1 chains that SubQuery will be indexing, we can’t wait to announce it soon!
+SubQueryがインデックスを作成する5つの新しいレイヤー1チェーンのうち、最初のチェーンに関する作業の最終確認をしています。近々発表するのが楽しみです！
 
 ![](https://miro.medium.com/max/1400/1*jD1n5MSjeatjiaF5hY-Wjg.png)
 
-### SubQuery Performance Improvements
+### SubQueryのパフォーマンス改善
 
-SubQuery’s indexing speed is always being improved, it’s a constant focus on our development team. Our advanced Dictionary support means enables this, Dictionaries speed up your project by many multiples and allow you to index entire Polkadot chain in minutes, not hours (depending on your project complexity).
+SubQueryのインデックス作成速度は常に改善されており、開発チームも常に注力しています。 高度なディクショナリサポートにより、プロジェクトのスピードが何倍にもなり、数時間ではなく数分でPolkadotチェーン全体のインデックスを作成することができます。（プロジェクトの複雑さにもよりますが）
 
-As an indicator of the breadth of support that SubQuery offers to the Polkadot ecosystem, we are now hosting and managing dictionaries across the 31 different networks, representing the majority of all major Polkadot/Kusama parachains.
+SubQueryがPolkadotのエコシステムに提供するサポートの幅広さを示す指標として、現在すべての主要なPolkadot/Kusamaパラチェーンの大部分を占める31種類のネットワークでディクショナリをホストおよび管理していることがあげられるでしょう。
 
 ![](https://miro.medium.com/max/1400/1*WeMY5WnWZ_jvllxidhycUA.png)
 
-### SubQuery Templates Registry
+### SubQuery テンプレート登録
 
-> 29 networks are covered by templates
+> 29のネットワークはテンプレートでカバーされています
 
-The `subql init` command is a familiar one for anyone that has built a SubQuery project; it represents a blank canvas — limitless opportunities. We are aware that we can do better to help others get started, rather than a blank canvas developers want a blank scaffold, where all the boiler-plate code is already written.
+`subql init` コマンドは、SubQuery プロジェクトを構築したことがある人なら誰でも知っているコマンドで、白紙の状態、つまり無限の可能性を表しています。 開発者が求めるのは、真っ白なキャンバスではなく、すでにお決まりのコードが書かれている土台なのです。
 
-Today when you write `subql init`, you are presented with a list of 29 networks from which you are provided a pre-created scaffold with all the correct endpoints, dictionary links, and even type definitions. This eliminates one of the most difficult steps when starting a new SubQuery project and makes building your next big dApp that much easier and faster.
+今、`subql init`を書くと、29のネットワークのリストが表示され、そこからすべての正しいエンドポイント、ディクショナリリンク、さらに型の定義を含む、あらかじめ作成された雛形が提供されるのです。 これにより、新しいSubQueryプロジェクトを開始する際に最も困難なステップの1つがなくなり、次の大きなdAppをより簡単かつ迅速に構築することができます。
 
-### Data Aggregation Features
+### データ集計の機能
 
-SubQuery now supports advanced GraphQL aggregate functions to allow you to perform a calculation on a set of values during your query. These functions provide our customers a richer set of insights and calculations from their existing data set. For example with a single query you can calculate the median contribution amount for each crowdloan broken down by contribution date.
+SubQuery が高度な GraphQL 集約関数に対応し、クエリ実行中に一連の値に対して計算を実行できるようになりました。 これらの機能により、ユーザーは既存のデータセットから、より豊かな洞察と計算結果を得ることができます。 例えば1つのクエリで、各クラウドローンの寄付金額の平均値を日別に計算することができます。
 
-[Read more about how to use these features in our upgraded docs.](https://doc.subquery.network/query/aggregate/)
+[これらの機能の使用方法については、アップデートされたドキュメントをご覧ください。](https://doc.subquery.network/query/aggregate/)
 
-### SubQuery partners with Darwinia Network to build SubQuery’s CLI Tool
+### SubQueryのCLIツール構築でDarwinia Networkと提携
 
-Darwinia has partnered with SubQuery to build the plethora of applications that will be needed to provide the ultimate user experience for cross chain interactions. This includes a new [Smart App that is a central hub](https://apps.darwinia.network/) to manage all Darwinia network interactions including governance, staking, chain exploration and more. This app uses a considerable amount of [SubQuery data to show historic data and actions](https://explorer.subquery.network/subquery/darwinia-network/smart-app-crab). SubQuery will be working closely with the team at Darwinia to make this the best experience in the entire Polkadot ecosystem.
+DarwiniaはSubQueryと提携し、クロスチェーン相互作用の究極のユーザー体験を提供するために必要となる膨大な数のアプリケーションを構築しています。 これには、ガバナンス、ステーキング、チェーン探索など、Darwiniaネットワークのすべてのインタラクションを管理する[中心的ハブとなる新しいSmart App](https://apps.darwinia.network/)が含まれています。 このアプリは、過去のデータやアクションを表示するために、かなりの量の[SubQueryデータ](https://explorer.subquery.network/subquery/darwinia-network/smart-app-crab)を使用しています。 SubQueryはDarwiniaのチームと密接に協力し、Polkadotのエコシステム全体で最高の体験ができるようにする予定です。
 
 ![](https://miro.medium.com/max/1200/1*bL2Csj9qyamD7txAheCTIg.gif)
 
-Darwinia have also been working closely with the SubQuery team to [build a CLI tool](https://github.com/fewensa/subquery-cli) for the SubQuery managed service (https://project.subquery.network). You can use this [CLI](https://github.com/fewensa/subquery-cli) to create a SubQuery project and automatically deploy a new version to either the staging or production slot. Additionally you can retrieve information including the detailed syncing status and logs from your running project that is hosted for free in SubQuery Projects. [Read more here](https://subquery.medium.com/subquery-partners-with-darwinia-network-to-build-subquerys-cli-tool-903dc4c9ef66)
+また、DarwiniaはSubQueryチームと密接に連携し、SubQueryマネージドサービス（https://project.subquery.network）用の[CLIツール](https://github.com/fewensa/subquery-cli)を構築しています。 この[CLI](https://github.com/fewensa/subquery-cli)を使用すると、SubQueryプロジェクトを作成し、新しいバージョンをステージングまたは本番スロットに自動的にデプロイすることができます。 さらに、SubQuery Projectsに無料でホストされている実行中のプロジェクトから、詳細な同期状況やログなどの情報を取得することができます。 [詳細はこちら](https://subquery.medium.com/subquery-partners-with-darwinia-network-to-build-subquerys-cli-tool-903dc4c9ef66)
 
 ## SubQuery Network
 
-Last community call we walked through a few important details of the upcoming SubQuery test network. It will be run over at least three seasons, each season will test different aspects of the network:
+前回のコミュニティコールでは、今後予定されているSubQueryのテストネットワークについて、いくつかの重要な詳細を説明しました。 少なくとも3シーズンにわたって実施され、各シーズンごとにネットワークのさまざまな側面がテストされます。
 
-- Season 1: Early stage alpha testing of a limited number of features with a select few participants
-- Season 2: Large beta testing of more features with hundreds of participants
-- Season 3: Full public test network for load and scale testing with thousands of participants
+- シーズン1：選択された少数の参加者を持つ限られた機能の初期段階アルファテスト
+- シーズン 2: 何百人もの参加者とのより多くの機能の大きなベータテスト
+- シーズン3:数千人の参加者との負荷とスケールテストのための完全なパブリックテストネットワーク
 
-Each season will have multiple challenges that you can complete which may result in real SQT rewards. Expect things to kickoff here in March!
+各シーズンには、SQTの報酬を得ることができる複数のチャレンジが用意されています。 3月のキックオフにご期待ください！
 
-## Roadmap Update
+## ロードマップのアップデート
 
 Last October we released out [technical roadmap](https://blog.subquery.network/blogs/20211029-roadmap-october.html) with the next year mapped out for SubQuery, we’re overdue to address exactly how we’re doing here.
 
