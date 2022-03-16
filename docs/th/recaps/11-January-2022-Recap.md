@@ -12,7 +12,7 @@
 
 ### SubQuery เป็นพาร์ทเนอร์กับทีมงานหลักของ Polkadot เรื่องเงินรางวัลด้านเทคนิคผ่านโปรแกรมเงินทุนของ SubQuery (SubQuery Grant Programme)
 
-เดือนที่แล้วเราได้เปิดตัว SubQuery Grant Programme ซึ่งเป็นโปรแกรมเพื่อเร่งสนุบสนุนผู้พัฒนาในชุมชนของเราเพื่อสร้าง dApps สำหรับยุคหน้า ในเดือนนี้เราได้พูดคุยกับพาร์ทเนอร์ของเราเพื่อจะเริ่มกิจกรรมเงินรางวัลรอบแรกกับ Moonbeam, Acala, Astar และ Bifrost เพื่อเป็นโปรเจคริเริ่ม ซึ่งในตอนนี้ทุกโปรเจคอยู่ระหว่างเปิดรับสมัคร ถ้าใครสมัครแล้วได้รับการคัดเลือกจะได้โบนัสพิเศษโดยได้ทำงานอย่างใกล้ชิดกับทีม parachain ที่แนะนำกิจกรรมการแข่งขัน
+เดือนที่แล้วเราได้เปิดตัว SubQuery Grant Programme ซึ่งเป็นโปรแกรมเพื่อเร่งสนุบสนุนผู้พัฒนาในชุมชนของเราเพื่อสร้าง dApps สำหรับอนาคต ในเดือนนี้เราได้พูดคุยกับพาร์ทเนอร์ของเราเพื่อจะเริ่มกิจกรรมเงินรางวัลรอบแรกกับ Moonbeam, Acala, Astar และ Bifrost เพื่อเป็นโปรเจคริเริ่ม ซึ่งในตอนนี้ทุกโปรเจคอยู่ระหว่างเปิดรับสมัคร ถ้าใครสมัครแล้วได้รับการคัดเลือกจะได้โบนัสพิเศษโดยได้ทำงานอย่างใกล้ชิดกับทีม parachain ที่แนะนำกิจกรรมการแข่งขัน
 
 ผู้สมัครที่สนใจเข้าร่วมกิจกรรมแจกรางวัลดังกล่าวสามารถส่งรายละเอียดแผนงานโครงการ ความประสงค์ พร้อมทั้งระบุงบประมาณที่่ต้องการมา[ที่นี่](https://docs.google.com/forms/d/e/1FAIpQLSfmMazkebKwNTWThBkVGaxf2Bg8s4aWZ0ZhwiMCtc9kv4sJHQ/viewform) นอกจากนี้ เรามีความตื่นเต้นที่จะประกาศผู้เข้ารอบในรอบแรกในเดือนกุมภาพันธ์
 
@@ -24,7 +24,7 @@
 
 ![](https://miro.medium.com/max/1400/1*BUq3ah1ULNnvLjqxv_vzlQ.png)
 
-[Sam Zou](https://twitter.com/zoujialiu) ผู้ซึ่งเป็น CEO และผู้ก่อตั้ง SubQuery กล่าวว่า "_SubQuery มีความยินดีกับผลลัพธ์ของการแข่งขัน Gitcoin GR12 Hackathon" Our mission relies on having a network of developers who are empowered to create and innovate within the Substrate/Polkadot ecosystem. This partnership provided opportunities for motivated developers around the world to build the applications of tomorrow. We are excited to nurture the winners of the challenges to develop their ideas even further_”
+[Sam Zou](https://twitter.com/zoujialiu) ผู้ซึ่งเป็น CEO และผู้ก่อตั้ง SubQuery กล่าวว่า "_SubQuery มีความยินดีกับผลลัพธ์ของการแข่งขัน Gitcoin GR12 Hackathon" ภารกิจของเรานั้นพึ่งพาเครือข่ายของผู้พัฒนาที่จะเป็นแรงผลักดันสำคัญที่จะช่วยสร้างและคิดค้นนวัตกรรมภายในระบบนิเวศน์ของ Substrate/Polkadot ความร่วมมือครั้งนี้ได้มอบโอกาสให้กับผู้พัฒนารอบโลกที่มีความมุ่งมั่นที่จะสร้างแอปพลิเคชั่นสำหรับอนาคต เรารู้สึกตื่นเต้นที่ได้สนับสนุนผู้ชนะการแข่งขันในการพัฒนาไอเดียของพวกเขายิ่งขึ้นไปอีก_"
 
 Recently we’ve covered the many winners that participated in this hackathon and the amazing projects that they have built in [this detailed writeup](https://subquery.medium.com/subquery-celebrates-winners-of-gitcoin-gr-12-hackathon-7486afaeab29). We were blown away by the quality and progress made by the submissions in such a short time and we’re pleased to invite many of the submissions to participate in our grants programme.
 
