@@ -23,9 +23,9 @@ Nova Wallet currently run multiple projects in the SubQuery Explorer available f
 
 ![](https://miro.medium.com/max/1400/1*8eX2c8rcICZtsJPqcoYJUw.png)
 
-## About Nova Wallet
+## เกี่ยวกับ Nova Wallet
 
-Nova Wallet is a next gen application for Polkadot & Kusama ecosystem, transparent & community-oriented, focused on convenient UX/UI, fast performance & security. Nova Wallet supports management for more than 50 assets in the Polkadot & Kusama ecosystem, provides a convenient way to participate in Crowdloans, supports decentralized Staking, and allows users to discover ecosystem DApps from the mobile interface. Nova Wallet is funded by Kusama Treasury and is available for iOS and Android devices from the Nova website.
+Nova Wallet เป็นแอปพลิเคชันรุ่นใหม่สำหรับ Polkadot & อยู่บนระบบนิเวศของ Kusama ซึ่งมีความโปร่งใส & ออกแบบโดยเน้นชุมชนเป็นหลัก มี UX/UI ที่ใช้งานได้อย่างง่ายดาย แสดงผลได้อย่างรวดเร็ว & และปลอดภัย Nova Wallet supports management for more than 50 assets in the Polkadot & Kusama ecosystem, provides a convenient way to participate in Crowdloans, supports decentralized Staking, and allows users to discover ecosystem DApps from the mobile interface. Nova Wallet is funded by Kusama Treasury and is available for iOS and Android devices from the Nova website.
 
 [Website](https://novawallet.io/) | [iOS App Store](https://novawallet.io/) |[Android.apk](https://github.com/nova-wallet/nova-wallet-android-releases/releases) |  [GitHub](https://github.com/nova-wallet/)  |  [Telegram](https://t.me/novawallet)  |  [Twitter](https://twitter.com/NovaWalletApp) |  [YouTube](https://www.youtube.com/channel/UChoQr3YPETJKKVvhQ0AfV6A) | [Matrix](https://matrix.to/#/#nova-wallet:matrix.org)
 
