@@ -25,12 +25,12 @@ Nova Wallet currently run multiple projects in the SubQuery Explorer available f
 
 ## เกี่ยวกับ Nova Wallet
 
-Nova Wallet เป็นแอปพลิเคชันรุ่นใหม่สำหรับ Polkadot & อยู่บนระบบนิเวศของ Kusama ซึ่งมีความโปร่งใส & ออกแบบโดยเน้นชุมชนเป็นหลัก มี UX/UI ที่ใช้งานได้อย่างง่ายดาย แสดงผลได้อย่างรวดเร็ว & และปลอดภัย Nova Wallet รองรับการจัดการสินทรัพย์มากกว่า 50 รายการใน Polkadot & และระบบนิเวศของ Kusama เป็นตัวช่วยให้เข้าร่วม Crowdloans ได้สะดวกยิ่งขึ้น รองรับการ staking แบบกระจายอำนาจ และผู้ใช้สามารถท่องไปยังระบบนิเวศ DApps บนมือถือได้ Nova Wallet ได้รับทุนจาก Kusama Treasury และพร้อมใช้งานสำหรับอุปกรณ์ iOS และ Android จากเว็บไซต์ Nova
+Nova Wallet เป็นแอปพลิเคชันรุ่นใหม่สำหรับ Polkadot & ระบบนิเวศของ Kusama ซึ่งมีความโปร่งใส & ออกแบบโดยเน้นชุมชนเป็นหลัก มี UX/UI ที่ใช้งานได้อย่างง่ายดาย แสดงผลได้อย่างรวดเร็ว & และปลอดภัย Nova Wallet รองรับการจัดการสินทรัพย์มากกว่า 50 รายการใน Polkadot & และระบบนิเวศของ Kusama เป็นตัวช่วยให้เข้าร่วม Crowdloans ได้สะดวกยิ่งขึ้น รองรับการ staking แบบกระจายอำนาจ และผู้ใช้สามารถท่องไปยังระบบนิเวศ DApps บนมือถือได้ Nova Wallet ได้รับทุนจาก Kusama Treasury และพร้อมใช้งานสำหรับอุปกรณ์ iOS และ Android จากเว็บไซต์ Nova
 
 [Website](https://novawallet.io/) | [iOS App Store](https://novawallet.io/) |[Android.apk](https://github.com/nova-wallet/nova-wallet-android-releases/releases) |  [GitHub](https://github.com/nova-wallet/)  |  [Telegram](https://t.me/novawallet)  |  [Twitter](https://twitter.com/NovaWalletApp) |  [YouTube](https://www.youtube.com/channel/UChoQr3YPETJKKVvhQ0AfV6A) | [Matrix](https://matrix.to/#/#nova-wallet:matrix.org)
 
 ## เกี่ยวกับ SubQuery
 
-SubQuery คือการรวมข้อมูลที่กระจายอำนาจ การจัดเรียง & ระดับการสืบค้นข้อมูลระหว่าง Layer-1 blockchains และ แอปพลิเคชันแบบกระจายอำนาจ (DApps) ปัจจุบันมุ่งเน้นไปที่ Polkadot และโครงการที่สร้างอยู่บนนั้น ข้อมูลเหล่านี้ทำให้ผู้พัฒนาสามารถพุ่งความสนใจไปที่การใช้งานหลักและระบบหน้าบ้าน โดยไม่ต้องเสียเวลาสร้างระบบเบื้องหลังเพื่อประมวลผลข้อมูล
+SubQuery คือการรวมข้อมูลแบบกระจายอำนาจ การจัดเรียง & ระดับการสืบค้นข้อมูลระหว่าง Layer-1 blockchains และแอปพลิเคชันแบบกระจายอำนาจ (DApps) ปัจจุบันมุ่งเน้นไปที่ Polkadot และโครงการที่สร้างอยู่บนนั้น ข้อมูลเหล่านี้ทำให้ผู้พัฒนาสามารถพุ่งความสนใจไปที่การใช้งานหลักและระบบหน้าบ้าน โดยไม่ต้องเสียเวลาสร้างระบบเบื้องหลังเพื่อประมวลผลข้อมูล
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
