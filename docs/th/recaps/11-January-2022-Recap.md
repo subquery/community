@@ -1,14 +1,14 @@
-# January Recap
+# สรุปภาพรวมสำหรับเดือนมกราคม
 
 ![](https://miro.medium.com/max/1400/1*2IMAaY-YYyAdl7YfZqHTAg.png)
 
-Hi everyone, and welcome to 2022! Last year was huge for us at SubQuery but after a much needed summer holiday here in New Zealand the team are well rested and energised by the potential ahead of us. This year is going to be the year of the decentralised data revolution!
+สวัสดีทุกๆคน แล้วก็ยินดีต้อนรับสู่ปีใหม่ 2022! ปีที่แล้วก็เป็นปีที่ยิ่งใหญ่สำหรับ SubQuery หลังจากทำงานมาหนักตลอดทั้งปี ตอนนี้เหล่าทีมงานก็ได้พักผ่อนหลังจากวันหยุดพักร้อนที่นี่ในประเทศนิวซีแลนด์ และทางทีมงานยังรู้สึกมีพลังเมื่อนึกถึงศักยภาพของโปรเจคในวันข้างหน้า ปีนี้จะเป็นปีแห่งการปฏิวัติของข้อมูลแบบกระจายศูนย์ (decentralized data)!
 
-As always, we are breaking down our monthly update into three sections; community, core product development, and the SubQuery Network.
+เหมือนอย่างเคย ครั้งนี้เราก็ได้แบ่งรายงานประจำเดือนเป็น 3 ส่วน ซึ่งประกอบด้วย ชุมชน พัฒนาการของผลิตภัณฑ์หลัก และ SubQuery Network
 
-## Community
+## ชุมชน
 
-SubQuery’s community is expanding rapidly in terms of numbers and regions we cover! As a result, we have a lot to talk about in this area.
+ชุมชนของ SubQuery กำลังขยายตัวอย่างรวดเร็วทั้งจำนวนและพื้นที่ที่เราครอบคลุม! As a result, we have a lot to talk about in this area.
 
 ### SubQuery Partners With Leading Polkadot Teams On Technical Bounties via the SubQuery Grants Programme
 

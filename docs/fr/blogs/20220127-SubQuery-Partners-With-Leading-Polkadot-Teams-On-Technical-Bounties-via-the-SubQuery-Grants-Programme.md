@@ -1,27 +1,27 @@
-# SubQuery Partners With Leading Polkadot Teams On Technical Bounties via the SubQuery Grants Programme
+# SubQuery s'associe aux meilleures équipes de Polkadot pour des primes techniques via le programme SubQuery Grants
 
 ![](https://miro.medium.com/max/1400/0*KlrhjUy3MRRT98OO)
 
-_The technical bounties give opportunities for developers to work on projects for the best teams in Polkadot_
+_Les primes techniques offrent aux développeurs la possibilité de travailler sur des projets pour les meilleures équipes de Polkadot_
 
-[SubQuery](https://subquery.network/), the leading data indexing solution built on Polkadot (DOT), is pleased to announce the launch of technical bounties in partnership with leading blockchain teams in Polkadot as part of SubQuery’s Grants Programme.
+[SubQuery](https://subquery.network/), la principale solution d'indexation de données construite sur Polkadot (DOT), a le plaisir d'annoncer le lancement de primes techniques en partenariat avec les meilleures équipes blockchain de Polkadot dans le cadre du programme de subventions de SubQuery.
 
-[The USD$500,000 SubQuery Grants Program kicked off in December 2021](https://subquery.medium.com/subquery-launches-500-000-grants-program-to-promote-polkadot-ecosystem-growth-9f04e6f67a3b) with the vision of offering opportunities to blockchain developers, community members, and wider ecosystem participants to create innovative or high-potential ideas that leverage SubQuery’s open-source data indexing tools to support cutting-edge decentralised applications.
+[Le programme de subventions SubQuery de 500 000 USD a été lancé en décembre 2021](https://subquery.medium.com/subquery-launches-500-000-grants-program-to-promote-polkadot-ecosystem-growth-9f04e6f67a3b) avec la vision d'offrir des opportunités aux développeurs de blockchain, aux membres de la communauté et aux participants de l'écosystème plus large pour créer des idées innovantes ou à fort potentiel qui exploitent les outils d'indexation de données open-source de SubQuery pour soutenir des applications décentralisées de pointe.
 
-While developers can still apply for the SubQuery Grants Programme with their own ideas, SubQuery has released initial bounties in partnership with Moonbeam, Acala, Astar and Bifrost as projects for inspiration. All are open to apply now, and as a bonus, if your application is successful you’ll get to work closely with the parachain team that suggested the challenge!
+Alors que les développeurs peuvent toujours postuler au programme de subventions SubQuery avec leurs propres idées, SubQuery a publié des primes initiales en partenariat avec Moonbeam, Acala, Astar et Bifrost comme projets d'inspiration. Toutes les candidatures sont ouvertes dès maintenant et, en prime, si votre candidature est retenue, vous aurez l'occasion de travailler en étroite collaboration avec l'équipe parachain qui a proposé le défi !
 
-You can see a live list of all the bounties on SubQuery’s website, including a short summary of what the teams are looking for. It is expected that you will be able to provide a robust plan for how you will design, develop, and deliver (including detailed costs) on your chosen bounty as part of your application. As always, you can talk to our team and we can put you in direct contact with the relevant team to give you the best advice on your proposal.
+Vous pouvez consulter la liste de toutes les primes sur le site Web de SubQuery, y compris un bref résumé de ce que les équipes recherchent. Dans le cadre de votre candidature, vous devez être en mesure de fournir un plan solide sur la façon dont vous allez concevoir, développer et livrer (y compris les coûts détaillés) la prime que vous avez choisie. Comme toujours, vous pouvez vous adresser à notre équipe et nous pouvons vous mettre en contact direct avec l'équipe concernée pour vous donner les meilleurs conseils sur votre proposition.
 
 ![](https://miro.medium.com/max/1400/0*o2m57G86Tyi2UWiQ)
 
-Applicants who are interested in any of these bounties are encouraged to submit their proposal with the budget required to complete the task and other requirements here. If you have any questions please join our Discord server and reach out to our team in the Grants channel.
+Les candidats intéressés par l'une de ces primes sont encouragés à soumettre leur proposition avec le budget nécessaire pour accomplir la tâche et les autres exigences ici. Si vous avez des questions, veuillez rejoindre notre serveur Discord et contacter notre équipe dans le canal des subventions.
 
-For those who would like to up-skill more on SubQuery before making an application, [The SubQuery Academy](https://subquery.medium.com/subquery-launches-the-subquery-academy-9505dc66a01)’s “Hero Course” is a free and modular educational program designed to build awareness amongst developers. and is [completely free and accessible via an online portal](https://subquery.coassemble.com/unlock/dOKZW6O#/).
+Pour ceux qui souhaitent approfondir leurs connaissances sur SubQuery avant de déposer une demande, le "Hero Course" de la [SubQuery Academy](https://subquery.medium.com/subquery-launches-the-subquery-academy-9505dc66a01)est un programme éducatif gratuit et modulaire conçu pour sensibiliser les développeurs. Il est [entièrement gratuit et accessible via un portail en ligne](https://subquery.coassemble.com/unlock/dOKZW6O#/).
 
-## About SubQuery Network
+## À propos du réseau SubQuery
 
-SubQuery is Polkadot’s leading data provider, supporting an indexing & querying layer between Layer-1 blockchains (Polkadot) and decentralized applications. SubQuery’s data service is being used by most of the Polkadot and Kusama crowdloan and parachain auction websites live today.
+SubQuery est le principal fournisseur de données de Polkadot, prenant en charge une couche d'indexation et d'interrogation entre les blockchains de couche 1 (Polkadot) et les applications décentralisées. Le service de données de SubQuery est utilisé par la plupart des sites Web de crowdloan et de vente aux enchères parachain de Polkadot et de Kusama.
 
-SubQuery’s protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+Le protocole de SubQuery fait abstraction des idiosyncrasies des données de la blockchain grâce au SDK de SubQuery, ce qui permet aux développeurs de se concentrer sur le déploiement de leur produit principal sans gaspiller inutilement leurs efforts sur des technologies dorsales personnalisées.
 
-[Website](https://subquery.network/) | [Email](hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)
+[Site web](https://subquery.network/) | [Email](hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)

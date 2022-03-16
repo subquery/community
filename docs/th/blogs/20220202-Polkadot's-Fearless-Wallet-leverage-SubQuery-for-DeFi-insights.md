@@ -2,11 +2,11 @@
 
 ![](https://miro.medium.com/max/1400/1*HcPJ-5hy6WZrLhkuL6P2BA.png)
 
-Today we are excited to showcase a deep dive into our strategic partnerships with one of the largest and most established wallets in Polkadot — [Fearless Wallet.](https://fearlesswallet.io/)
+พวกเราตื่นเต้นมากที่จะแสดงให้เห็นในเชิงลึกเกี่ยวกับพันธมิตรที่มีความสำคัญทางยุทธศาสตร์ ซึ่งเป็นผู้ก่อตั้งกระเป๋า Fearless Wallet ซึ่งเป็นหนึ่งในรายใหญ่บน Polkadot
 
-If you didn’t already know, Fearless Wallet provide one of the easiest to use non-custodial wallets out there for Polkadot, and is complete with staking tools. They’ve been on the market for a long time, and have steadily improved, continually adding new features and functionality.
+ถ้าคุณยังไม่รู้จัก Fearless Wallet เป็นหนึ่งในผู้ให้บริการ non-custodial wallets ผู้ใช้สามารถควบคุมเงินและ private keyได้ทั้งหมด สำหรับ Polkadot และรวมถึงเครื่องมือการ staking ด้วย" พวกเขาดำเนินการแล้วในตลาดมาเป็นเวลานาน มีทั้งความมั่นคง ความต่อเนื่องในการเพิ่มรูปแบบและการใช้งานใหม่ๆ
 
-SubQuery’s service is a critical part of Fearless Wallet’s stack. SubQuery is primarily used to collect, organise, and present account history for each possible address, including transactions, extrinsics, and (in future) staking revenue.
+การบริการของ SubQuery เป็นส่วนสำคัญของ Fearless Wallet’s stack. SubQuery เป็นส่วนพื้นฐานที่สำคัญในการเก็บ จัดการ และแสดงผลของแต่ละ address รวมถึงธุรกรรม ปัจจัยภายนอก และ (ในอนาคต) รายได้การ staking
 
 But the scale of Fearless wallet’s implementation is what sets it apart. Fearless Wallet maintains SubQuery projects for over 21 different parachains across Polkadot and Kusama. As one of Polkadot’s leading wallets, Fearless Wallet focuses on network coverage across the rapidly expanding ecosystem. The ease of implementing SubQuery for each different network makes this possible: changing a few lines per project is all that is needed.
 
@@ -18,13 +18,13 @@ Fearless Wallet are also working hard to implement advanced analytics tools focu
 
 ![](https://miro.medium.com/max/1400/1*3X7m4-m0NJ3xQ44UKZB7tw.png)
 
-Fearless Wallet is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. They take advantage of SubQuery’s enterprise-level hosting to receive dedicated databases, automated deployments, and geographic routing to multiple clusters around the world for performance and uptime. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community in [SubQuery’s Explorer](https://explorer.subquery.network/).
+ดดดด They take advantage of SubQuery’s enterprise-level hosting to receive dedicated databases, automated deployments, and geographic routing to multiple clusters around the world for performance and uptime. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community in [SubQuery’s Explorer](https://explorer.subquery.network/).
 
 > “SubQuery is all about harnessing data from the blockchain and making it easier to build apps that encourage participation by the everyday user. We are proud to be working with Fearless Wallet to provide their users with a rich experience and grow with them as they explode into the Polkadot ecosystem” -James Bayly, Head of Business Development — SubQuery
 
-## เกี่ยวกับ SubQuery
+## About SubQuery
 
-[SubQuery](https://subquery.network/) คือเลเยอร์การรวบรวม, จัดทำดัชนีและสืบค้น (query) ข้อมูล แบบกระจายศูนย์ ระหว่างเลเยอร์ 1 ของบล็อกเชนและแอปพลิเคชันที่กระจายศูนย์ (DApp) ปัจจุบันมุ่งเน้นไปที่โปรเจกต์ Polkadot และ Substrate ซึ่งบริการข้อมูลนี้ช่วยให้นักพัฒนาสามารถโฟกัสไปที่การใช้งานหลัก (core use case) และระบบหน้าบ้าน (front-end) โดยไม่ต้องเสียเวลาไปกับการออกแบบระบบหลังบ้าน (back-end) เอง เพื่อใช้ประมวลผลข้อมูล
+[SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications (DApps). Currently focused on Polkadot and Substrate projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
 
 [Website](https://subquery.network/) | [Email](hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Youtube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
 

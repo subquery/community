@@ -1,4 +1,4 @@
-# Разгледайте търговете на Kusama със SubVis.io и SubQuery
+# Разгледайте търговете на Kusama с помощтта на SubVis.io и SubQuery
 
 ![](https://miro.medium.com/max/1400/1*C4rjs3vpR6TUCOqwF3L39g.png)
 

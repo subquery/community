@@ -1,4 +1,4 @@
-# SubQuery празнува победителите в хакатона на Encode Club
+# SubQuery поздравява победителите в хакатона на Encode Club
 
 ![](https://miro.medium.com/max/1400/1*KSv8qczywRPCEvWXeYiDNA.png)
 
