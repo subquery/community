@@ -4,7 +4,7 @@
 
 สวัสดีทุกๆคน แล้วก็ยินดีต้อนรับสู่ปีใหม่ 2022! ปีที่แล้วก็เป็นปีที่ยิ่งใหญ่สำหรับ SubQuery หลังจากทำงานมาหนักตลอดทั้งปี ตอนนี้เหล่าทีมงานก็ได้พักผ่อนเต็มที่หลังจากวันหยุดพักร้อนที่นี่ในประเทศนิวซีแลนด์ และทางทีมงานยังรู้สึกมีพลังเมื่อนึกถึงศักยภาพของโปรเจคในวันข้างหน้า ปีนี้จะเป็นปีแห่งการปฏิวัติของข้อมูลแบบกระจายศูนย์ (decentralized data)!
 
-เหมือนอย่างเคย ครั้งนี้เราก็ได้แบ่งรายงานประจำเดือนเป็น 3 ส่วน ซึ่งประกอบด้วย คอมมูนิตี้ พัฒนาการของผลิตภัณฑ์หลัก และ SubQuery Network
+เหมือนอย่างเคย ครั้งนี้เราก็ได้แบ่งรายงานประจำเดือนเป็น 3 ส่วน ซึ่งประกอบด้วย คอมมูนิตี้ การพัฒนาผลิตภัณฑ์หลัก และ SubQuery Network
 
 ## คอมมูนิตี้
 
@@ -20,7 +20,7 @@
 
 ### SubQuery ขอร่วมแสดงความยินดีกับผู้ชนะการแข่งขันในกิจกรรม Gitcoin GR 12 Hackathon
 
-[SubQuery พาร์ทเนอรกับ Gitcoin ในเดือนธันวาคม](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a)เพื่อสนับสนุนการแข่งขัน 5 กิจกรรมมูลค่าเงินรางวัล USD$37,000 (รางวัลที่มูลค่าสูงสุดในกิจกรรม) เพื่อเชิญชวนผู้พัฒนามาสร้างเครื่องมือ แดชบอร์ดและแม้แต่ขยายการใช้งาน SubQuery ไปที่บล็อคเชน Layer-1 อื่นๆ
+[SubQuery ได้พาร์ทเนอร์กับ Gitcoin ในเดือนธันวาคม](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a)เพื่อสนับสนุนการแข่งขันจำนวน 5 กิจกรรมมูลค่าเงินรางวัล USD$37,000 (รางวัลที่มูลค่าสูงสุดในกิจกรรม) เพื่อเชิญชวนผู้พัฒนามาสร้างเครื่องมือ แดชบอร์ดและแม้แต่ขยายการใช้งาน SubQuery ไปที่บล็อกเชน Layer-1 อื่นๆ
 
 ![](https://miro.medium.com/max/1400/1*BUq3ah1ULNnvLjqxv_vzlQ.png)
 
@@ -30,17 +30,17 @@
 
 [อ่านเพิ่มเติมได้ที่นี่](https://subquery.medium.com/subquery-celebrates-winners-of-gitcoin-gr-12-hackathon-7486afaeab29)
 
-### Hero Course China
+### Hero Course ภาษาจีน
 
-Our Hero Course made in partnership with OneBlock+ started in early January and now we already have released three lessons to over 200 students! Join the OneBlock+ Community to join this course or office hours. China is a strategically important region for SubQuery, but we expect to launch many other regional developer courses soon — reach out if you can help us with this!
+เราสร้าง Hero Course ร่วมกับ OneBlock+ ซึ่งเป็นพาร์ทเนอร์ของเรามาตั้งแต่เดือนมกราคมและตอนนี้เราได้เผยแพร่บทเรียนจำนวน 3 คอร์สให้กับผู้เรียนมากกว่า 200 คน เข้าร่วมกับคอมมูนิตี้ของ OneBlock+ เพื่อลงเรียนคอร์สนี้ในเวลาทำการ ประเทศจีนเป็นประเทศที่สำคัญเชิงกลยุทธ์สำหรับ SubQuery แต่ว่าเราก็คาดหวังว่าจะเพิ่มคอร์สเพื่อนักพัฒนาสำหรับประเทศอื่นๆในเร็วๆนี้ ถ้าใครสามารถช่วยเราในส่วนนี้ได้ก็ติดต่อมาเลย
 
 ![](https://miro.medium.com/max/1400/1*_8N000hX1WBM79ZbFyhvYQ.png)
 
-## Core Product Development
+## การพัฒนาผลิตภัณฑ์หลัก
 
-### Multi Chain Support
+### การรองรับ Multi Chain
 
-SubQuery is native to Polkadot, it’s our home and we’ve worked hard to build relationships in this ecosystem. The core premise of Polkadot is to create a thriving community of developers, users, and businesses that will tap into its multichain interoperability. We stand by that vision and we also believe Polkadot will be a leading player in that initiative.
+SubQuery เป็นโปรเจกต์บน Polkadot ซึ่ง Polkadot เป็นบ้านของเราและตลอดระยะเวลาที่ผ่านมาเราได้ทำงานหนักเพื่อสร้างสัมพันธ์ในเครือข่ายนี้ หลักการของ Polkadot คือเพื่อสร้างคอมมูนิตี้ที่แข็งแกร่งที่ประกอบไปด้วยของนักพัฒนา ผู้ใช้งานและธุรกิจที่จะใช้ประโยชน์จาก Multichain Interoperability ของ Polkadot เรายึดมั่นในวิสัยทัศน์ดังกล่าวและเรายังเชื่อว่า Polkadot จะเป็นผู้เล่นหลักในบทบาทนี้
 
 But we believe in a multi chain future, we know that there are going to be many different interoperable blockchains working together to solve different problems. Our long term plan has always been to take SubQuery and to adapt it to work for other blockchain that don’t have a current indexing solution. Our multi-chain approach that we’ve needed to make for Polkadot means we are uniquely suited for this challenge.
 
