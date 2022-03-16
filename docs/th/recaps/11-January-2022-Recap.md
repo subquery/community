@@ -12,15 +12,15 @@
 
 ### SubQuery เป็นพาร์ทเนอร์กับทีมงานหลักของ Polkadot เรื่องเงินรางวัลด้านเทคนิคผ่านโปรแกรมเงินทุนของ SubQuery (SubQuery Grant Programme)
 
-เดือนที่แล้วเราได้เปิดตัว SubQuery Grant Programme ซึ่งเป็นโปรแกรมเพื่อเร่งสนุบสนุนผู้พัฒนาในชุมชนของเราเพื่อสร้าง dApps สำหรับยุคหน้า ในเดือนนี้เราได้พูดคุยกับพาร์ทเนอร์ของเราเพื่อจะเริ่มกิจกรรมเงินรางวัลรอบแรกกับ Moonbeam, Acala, Astar และ Bifrost เพื่อเป็นโปรเจคสำหรับสร้างแรงบันดาลใจ All are open to apply now, and as a bonus, if your application is successful you’ll get to work closely with the parachain team that suggested the challenge!
+เดือนที่แล้วเราได้เปิดตัว SubQuery Grant Programme ซึ่งเป็นโปรแกรมเพื่อเร่งสนุบสนุนผู้พัฒนาในชุมชนของเราเพื่อสร้าง dApps สำหรับยุคหน้า ในเดือนนี้เราได้พูดคุยกับพาร์ทเนอร์ของเราเพื่อจะเริ่มกิจกรรมเงินรางวัลรอบแรกกับ Moonbeam, Acala, Astar และ Bifrost เพื่อเป็นโปรเจคริเริ่ม ซึ่งในตอนนี้ทุกโปรเจคอยู่ระหว่างเปิดรับสมัคร ถ้าใครสมัครแล้วได้รับการคัดเลือกจะได้โบนัสพิเศษโดยได้ทำงานอย่างใกล้ชิดกับทีม parachain ที่แนะนำกิจกรรมการแข่งขัน
 
-Applicants who are interested in any of these bounties are encouraged to submit their proposal with the budget required to complete the task and other requirements [here](https://docs.google.com/forms/d/e/1FAIpQLSfmMazkebKwNTWThBkVGaxf2Bg8s4aWZ0ZhwiMCtc9kv4sJHQ/viewform). Additionally, we look forward to announce the first round of SubQuery grantees in February.
+ผู้สมัครที่สนใจเข้าร่วมกิจกรรมแจกรางวัลดังกล่าวสามารถส่งรายละเอียดแผนงานโครงการ ความประสงค์ พร้อมทั้งระบุงบประมาณที่่ต้องการมา[ที่นี่](https://docs.google.com/forms/d/e/1FAIpQLSfmMazkebKwNTWThBkVGaxf2Bg8s4aWZ0ZhwiMCtc9kv4sJHQ/viewform) นอกจากนี้ เรามีความตื่นเต้นที่จะประกาศผู้เข้ารอบในรอบแรกในเดือนกุมภาพันธ์
 
-[Read more here](https://subquery.medium.com/subquery-partners-with-leading-polkadot-teams-on-technical-bounties-via-the-subquery-grants-d40453788435)
+[อ่านเพิ่มเติมได้ที่นี่](https://subquery.medium.com/subquery-partners-with-leading-polkadot-teams-on-technical-bounties-via-the-subquery-grants-d40453788435)
 
-### SubQuery Celebrates Winners of Gitcoin GR 12 Hackathon
+### SubQuery ขอร่วมแสดงความยินดีกับผู้ชนะกิจกรรมแข่งขันของ Gitcoin GR 12 Hackathon
 
-[SubQuery partnered with Gitcoin in December](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a) to sponsor five challenges to a value of USD$37,000 (the largest prize pool in the challenge), inviting developers to build useful tools, dashboards and even extend SubQuery to another Layer-1 blockchain.
+[SubQuery พาร์ทเนอรกับ Gitcoin ในเดือนธันวาคม](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a)เพื่อสนับสนุนการแข่งขัน 5 กิจกรรมมูลค่าเงินรางวัล USD$37,000 (รางวัลที่มูลค่าสูงสุดในกิจกรรม) เพื่อเชิญชวนผู้พัฒนามาสร้างเครื่องมือ แดชบอร์ดและแม้แต่ขยายการใช้งาน SubQuery ไปที่บล็อคเชน Layer-1 อื่นๆ
 
 ![](https://miro.medium.com/max/1400/1*BUq3ah1ULNnvLjqxv_vzlQ.png)
 
