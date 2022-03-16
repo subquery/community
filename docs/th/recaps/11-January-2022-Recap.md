@@ -42,7 +42,7 @@
 
 SubQuery เป็นโปรเจกต์บน Polkadot ซึ่ง Polkadot เป็นบ้านของเราและตลอดระยะเวลาที่ผ่านมาเราได้ทำงานหนักเพื่อสร้างสัมพันธ์ในเครือข่ายนี้ หลักการของ Polkadot คือเพื่อสร้างคอมมูนิตี้ที่แข็งแกร่งที่ประกอบไปด้วยของนักพัฒนา ผู้ใช้งานและธุรกิจที่จะใช้ประโยชน์จาก Multichain Interoperability ของ Polkadot เรายึดมั่นในวิสัยทัศน์ดังกล่าวและเรายังเชื่อว่า Polkadot จะเป็นผู้เล่นหลักในบทบาทนี้
 
-But we believe in a multi chain future, we know that there are going to be many different interoperable blockchains working together to solve different problems. Our long term plan has always been to take SubQuery and to adapt it to work for other blockchain that don’t have a current indexing solution. Our multi-chain approach that we’ve needed to make for Polkadot means we are uniquely suited for this challenge.
+แต่พวกเราเชื่อในอนาคตของ Multi Chain ซึ่งพวกเรารู้ว่ามันกำลังจะมี Blockchain ต่างๆ ที่สามาถทำงานร่วมกันได้ มาทำงานร่วมกันเพื่อแก้ปัญหาต่างๆ ที่แตกต่างกันไป Our long term plan has always been to take SubQuery and to adapt it to work for other blockchain that don’t have a current indexing solution. Our multi-chain approach that we’ve needed to make for Polkadot means we are uniquely suited for this challenge.
 
 We’re finalising the work on the first of 5 new layer 1 chains that SubQuery will be indexing, we can’t wait to announce it soon!
 
