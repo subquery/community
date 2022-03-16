@@ -44,7 +44,7 @@ Ashik hat PolkStakes erstellt, eine [Polkadot-Validierer-Ranking-Website](https:
 
 ![](https://miro.medium.com/max/1400/0*Kaho31-nn-ly8tFS)
 
-„_Subquery reduziert den Aufwand für die manuelle Indizierung von On-Chain-Daten. Da es einen graphql-Endpunkt bietet, können wir Daten einfach abfragen. Es reduziert den Aufwand für die Pflege eines Backends und einer Datenbank. Jetzt erfolgt die Datenaggregation zur Berechnung des Polkstakes-Rankings in der Benutzeroberfläche. Dies muss nach SubQuery verschoben werden. Außerdem muss eine bessere Visualisierung für indizierte Daten erfolgen und eine genauere geschätzte Ertragsvorhersage muss hinzugefügt werden.“ – Ashik von Polkdata</p>
+"_Subquery reduziert den Aufwand für die manuelle Indizierung von On-Chain-Daten. Da es einen graphql-Endpunkt bietet, können wir Daten einfach abfragen. Es reduziert den Aufwand für die Pflege eines Backends und einer Datenbank. Jetzt erfolgt die Datenaggregation zur Berechnung des Polkstakes-Rankings in der Benutzeroberfläche. Dies muss nach SubQuery verschoben werden. Außerdem muss eine bessere Visualisierung für indizierte Daten erfolgen und eine genauere geschätzte Ertragsvorhersage muss hinzugefügt werden._" – Ashik von Polkdata
 
 Das hervorragende SubVis-Team hat auch ein [wunderschönes Polkadot-Staking-Dashboard](https://polkadot-staking-dashboard.vercel.app/) erstellt, das die gesamten Staking-Statistiken im Laufe der Zeit und die Leistung des Validators an einem Ort anzeigt. Die neuen Staking-Funktionen ergänzen die bestehenden Auktions- und Crowdloan-Seiten, für die SubVis bekannt ist.
 
@@ -76,15 +76,9 @@ Der Gewinner [dieser 12.000-US-Dollar-Herausforderung](https://gitcoin.co/issue/
 
 [Sam Zou](https://twitter.com/zoujialiu), der CEO und Gründer von SubQuery, kommentierte: „_SubQuery freut sich über die Ergebnisse des Gitcoin GR12 Hackathon. Unsere Mission beruht auf einem Netzwerk von Entwicklern, die befähigt sind, innerhalb des Substrate/Polkadot-Ökosystems zu schaffen und innovativ zu sein. Diese Partnerschaft bot motivierten Entwicklern auf der ganzen Welt Möglichkeiten, die Anwendungen von morgen zu entwickeln. Wir freuen uns darauf, die Gewinner der Challenges dabei zu unterstützen, ihre Ideen noch weiter zu entwickeln_“
 
-Im Anschluss an diesen erfolgreichen Hackathon möchte SubQuery Entwickler, die mehr darüber erfahren möchten, wie man Anwendungen mit SubQuery erstellt, ermutigen, sich
-
-für unseren kostenlosen Online-„Hero-Kurs“ anzumelden oder sich für unser kürzlich angekündigtes Förderprogramm zu bewerben</ 0>.</p> 
-
-
+Im Anschluss an diesen erfolgreichen Hackathon möchte SubQuery Entwickler, die mehr darüber erfahren möchten, wie man Anwendungen mit SubQuery erstellt, ermutigen, sich für unseren kostenlosen Online-„Hero-Kurs“ anzumelden oder sich für unser kürzlich angekündigtes Förderprogramm zu bewerben.
 
 ---
-
-
 
 ## Über SubQuery
 

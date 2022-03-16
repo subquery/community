@@ -76,15 +76,9 @@ Pemenang [tantangan US$12.000 ini](https://gitcoin.co/issue/subquery/grants/5/10
 
 [Sam Zou](https://twitter.com/zoujialiu), CEO dan Pendiri SubQuery berkomentar, “_SubQuery senang dengan hasil Hackathon Gitcoin GR12. Misi kami bergantung pada memiliki jaringan pengembang yang diberdayakan untuk membuat dan berinovasi dalam ekosistem Substrate/Polkadot. Kemitraan ini memberikan peluang bagi pengembang yang termotivasi di seluruh dunia untuk membangun aplikasi masa depan. Kami sangat antusias untuk membina para pemenang tantangan untuk mengembangkan ide mereka lebih jauh_”
 
-Sebagai tindak lanjut dari Hackathon yang sukses ini, SubQuery ingin mendorong pengembang yang ingin mempelajari lebih lanjut tentang cara membuat aplikasi dengan SubQuery untuk
-
-mendaftar ke “Kursus Pahlawan” online gratis kami, atau mendaftar untuk Program Hibah yang baru diumumkan</ 0>.</p> 
-
-
+Sebagai tindak lanjut dari Hackathon yang sukses ini, SubQuery ingin mendorong pengembang yang ingin mempelajari lebih lanjut tentang cara membuat aplikasi dengan SubQuery untuk mendaftar ke “Kursus Pahlawan” online gratis kami, atau mendaftar untuk Program Hibah yang baru diumumkan.
 
 ---
-
-
 
 ## Tentang SubQuery
 

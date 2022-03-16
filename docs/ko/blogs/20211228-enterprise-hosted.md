@@ -4,7 +4,7 @@
 
 커뮤니티가 커짐에 따라 매일 수백 개의 배포가 발생하고 호스팅 서비스에 대한 트래픽이 기하급수적으로 증가하고 있습니다. 그러나 SubQuery의 팀은 이 문제에 대처하고 있으며 [호스팅 서비스](https://projects.subquery.network/)를 무료로 유지하면서 고객의 전례 없는 도구 수요를 충족하기 위해 서비스를 확장하고 있습니다.
 
-많은 고객이 이제 SubQuery를 사용하여 프로덕션 앱에 미션 크리티컬 데이터를 제공합니다. 이러한 고객들은 가장 큰 지갑([Nova](https://novawallet.io/) 및 [Fearless](https://fearlesswallet.io/)), 스캐너([Subscan](https://www.subscan.io/), [SubVis](https://www.subvis.io/) 및 < 4>DotMarketCap</a>), NFT 플랫폼([Kodadot](https://kodadot.xyz/) 및 [Yuser](https://yuser.co/)) 들의 일부입니다. 이것들은 Polkadot 커뮤니티가 매일 사용하는 거대한 응용 프로그램이며 항상 온라인 상태여야 합니다.
+많은 고객이 이제 SubQuery를 사용하여 프로덕션 앱에 미션 크리티컬 데이터를 제공합니다. 이러한 고객들은 가장 큰 지갑([Nova](https://novawallet.io/) 및 [Fearless](https://fearlesswallet.io/)), 스캐너([Subscan](https://www.subscan.io/), [SubVis](https://www.subvis.io/) 및 [DotMarketCap](https://www.dotmarketcap.com/)), NFT 플랫폼([Kodadot](https://kodadot.xyz/) 및 [Yuser](https://yuser.co/)) 들의 일부입니다. 이것들은 Polkadot 커뮤니티가 매일 사용하는 거대한 응용 프로그램이며 항상 온라인 상태여야 합니다.
 
 우리가 호스팅하는 서비스의 성능과 안정성은 여기 SubQuery에서 한동안 최우선 순위 목록에 있었습니다. 자매 팀은 Polkadot의 가장 큰 인프라 제공업체인 OnFinality이므로 이 분야에서 풍부한 경험을 보유하고 있습니다. 그 결과, 오늘 우리는 SubQuery를 Polkadot에서 가장 안정적이고 확장 가능하며 성능이 뛰어난 데이터 플랫폼으로 만드는 세 가지 최신 개선 사항을 살펴보겠습니다.
 
@@ -28,7 +28,7 @@
 
 # 지능형 라우팅
 
-다른 지역에서 실행 중인 SubQuery 클러스터가 있으면 다음 논리적 단계는 이 기능을 사용자에게 보이지 않게 만드는 것입니다. 사용자는 요청이 어떤 클러스터로 이동할지 결정할 필요가 없습니다. SubQuery는 요청을 가장 가까운 정상 클러스터로 자동 라우팅해야 합니다.  이것이 SubQuery의 지능형 라우팅이 제공하는 것입니다.
+다른 지역에서 실행 중인 SubQuery 클러스터가 있으면 다음 논리적 단계는 이 기능을 사용자에게 보이지 않게 만드는 것입니다. 사용자는 요청이 어떤 클러스터로 이동할지 결정할 필요가 없습니다. SubQuery는 요청을 가장 가까운 정상 클러스터로 자동 라우팅해야 합니다. 이것이 SubQuery의 지능형 라우팅이 제공하는 것입니다.
 
 우리는 모든 요청에 ​​자동으로 적용되는 지능형 라우팅이 있는 각 프리미엄 고객에게 단일 글로벌 엔드포인트를 제공합니다. 이 서비스에는 상태 확인을 위해 각 클러스터를 지속적으로 ping하고 사용자가 과부하 또는 오프라인 상태인 클러스터로 라우팅되지 않도록 하는 상당한 모니터링이 포함됩니다. 글로벌 엔드포인트는 가장 가까운 클러스터에 대한 각 요청의 라우팅을 최적화하여 사용자가 클러스터에서 최상의 성능을 받을 수 있도록 합니다.
 
@@ -42,4 +42,4 @@ SubQuery는 Layer-1 블록체인(Polkadot)과 분산 애플리케이션 간의 �
 
 SubQuery의 프로토콜은 SubQuery SDK를 사용하여 블록체인 데이터 고유성을 추상화하여 개발자가 사용자 지정 백엔드 기술에 대한 노력을 불필요하게 낭비하지 않고 핵심 제품 배포에 집중할 수 있도록 합니다.
 
-[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)|  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG)| [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
