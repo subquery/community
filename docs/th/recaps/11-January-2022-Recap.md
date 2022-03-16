@@ -8,11 +8,11 @@
 
 ## ชุมชน
 
-ชุมชนของ SubQuery กำลังขยายตัวอย่างรวดเร็วทั้งจำนวนและพื้นที่ที่เราครอบคลุม! As a result, we have a lot to talk about in this area.
+ชุมชนของ SubQuery กำลังขยายตัวอย่างรวดเร็วทั้งจำนวนและพื้นที่ที่เราครอบคลุม! ดังนั้นเรามีอะไรให้คุยกันเยอะเลยในเรื่องนี้
 
-### SubQuery Partners With Leading Polkadot Teams On Technical Bounties via the SubQuery Grants Programme
+### SubQuery เป็นพาร์ทเนอร์กับทีมงานหลักของ Polkadot เรื่องเงินรางวัลด้านเทคนิคผ่านโปรแกรมเงินทุนของ SubQuery (SubQuery Grant Programme)
 
-Last month we launched the SubQuery Grants Programme, a non dilutive accelerator to help developers in our community build the next generation of dApps. This month we’ve talked to our partners to release a first round of bounties in partnership with Moonbeam, Acala, Astar and Bifrost as projects for inspiration. All are open to apply now, and as a bonus, if your application is successful you’ll get to work closely with the parachain team that suggested the challenge!
+เดือนที่แล้วเราได้เปิดตัว SubQuery Grant Programme ซึ่งเป็นโปรแกรมเพื่อเร่งสนุบสนุนผู้พัฒนาในชุมชนของเราเพื่อสร้าง dApps สำหรับยุคหน้า ในเดือนนี้เราได้พูดคุยกับพาร์ทเนอร์ของเราเพื่อจะเริ่มกิจกรรมเงินรางวัลรอบแรกกับ Moonbeam, Acala, Astar และ Bifrost เพื่อเป็นโปรเจคสำหรับสร้างแรงบันดาลใจ All are open to apply now, and as a bonus, if your application is successful you’ll get to work closely with the parachain team that suggested the challenge!
 
 Applicants who are interested in any of these bounties are encouraged to submit their proposal with the budget required to complete the task and other requirements [here](https://docs.google.com/forms/d/e/1FAIpQLSfmMazkebKwNTWThBkVGaxf2Bg8s4aWZ0ZhwiMCtc9kv4sJHQ/viewform). Additionally, we look forward to announce the first round of SubQuery grantees in February.
 
