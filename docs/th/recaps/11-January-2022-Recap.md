@@ -99,12 +99,12 @@ As you can see in the original roadmap above, we’ve completed all of Milestone
 ## สิ่งอื่นๆ ที่คุณอาจพลาดไป
 
 - We will be having weekly office hours on our Discord Server! Join SubQuery’s ‘Office Hours’ on our stages channel where you can catch-up with the team in a casual environment.
-- We had a Russian QnA with James & Dmytro in Discord where all questions were asked and answered in Russian. Let us know which language you would like to hear next
+- We had a Russian QnA with James & Dmytro in Discord where all questions were asked and answered in Russian. โปรดบอกให้พวกเรารู้ว่าพวกคุณต้องการฟังภาษาอะไรต่อไป
 
-P.S.
+ป.ล.
 
 Remember to join our [Discord](https://discord.com/invite/subquery) and our [social channels](https://linktr.ee/subquerynetwork) to stay updated on our latest news and announcements.
 
-The SubQuery Team
+ทีมงานของ SubQuery
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Email](hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Youtube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
