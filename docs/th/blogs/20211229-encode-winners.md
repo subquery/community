@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/1*KSv8qczywRPCEvWXeYiDNA.png)
 
-SubQuery ซึ่งเป็นโซลูชันการทำดัชนีข้อมูลชั้นนำใน Polkadot มีความยินดีที่จะประกาศผู้ชนะของ  [Encode Club](https://www.encode.club/) Polkadot Hackathon เมื่อเร็ว ๆ นี้ โดย Encode Club เป็นชุมชนการศึกษาบล็อกเชนชั้นนำที่ส่งเสริมระบบนิเวศผ่านกิจกรรมต่างๆ เช่น hackathons และโปรแกรมเร่งความเร็วต่าง ๆ  ซึ่ง [SubQuery ได้ร่วมมือกับ Acala/Karura ในเดือนกันยายนเพื่อสนับสนุนโจทย์ที่ท้าทายสามรายการ](https://subquery.medium.com/september-2021-recap-783b9b574b42) มูลค่า 14,000 ดอลลาร์ โดยเชิญชวนนักพัฒนาให้สร้างเครื่องมือ แดชบอร์ด และ DApps ที่มีประโยชน์
+SubQuery ซึ่งเป็นโซลูชันการทำดัชนีข้อมูลชั้นนำใน Polkadot มีความยินดีที่จะประกาศผู้ชนะของ  [Encode Club](https://www.encode.club/) Polkadot Hackathon เมื่อเร็ว ๆ นี้ โดย Encode Club เป็นชุมชนการศึกษาบล็อกเชนชั้นนำที่ส่งเสริมระบบนิเวศผ่านกิจกรรมต่างๆ เช่น hackathons และโครงการบ่มเพาะความรู้ความเข้าใจต่างๆ  ซึ่ง [SubQuery ได้ร่วมมือกับ Acala/Karura ในเดือนกันยายน เพื่อให้การสนับสนุนโจทย์ที่ท้าทายสามรายการ](https://subquery.medium.com/september-2021-recap-783b9b574b42) มูลค่า 14,000 ดอลลาร์ โดยเชิญชวนนักพัฒนาให้สร้างเครื่องมือ แดชบอร์ด และ DApps ที่มีประโยชน์
 
 หลังจากผ่านไป 10 สัปดาห์และการพิจารณาอย่างรอบคอบจากผู้ตัดสินที่มีชื่อเสียงในระบบนิเวศ Polkadot เช่น [Bryan Chen](https://twitter.com/XiliangChen) (ผู้ร่วมก่อตั้งและ CTO ของ Acala), [Hang Yin](https://twitter.com/bgmshana) (ผู้ร่วมก่อตั้ง Phala Network), [Jack Platts](https://twitter.com/jackbplatts) (ผู้ร่วมก่อตั้ง Hypersphere Ventures) และ  [Sota Watanabe](https://twitter.com/WatanabeSota) (ผู้ก่อตั้ง Astar, CEO ของ Stake Technologies) เรายินดีที่จะประกาศ [ผู้ชนะ](https://medium.com/encode-club/polkadot-hack-finale-prizewinners-and-summary-931627c64d9) จากความท้าทายของเรา
 
