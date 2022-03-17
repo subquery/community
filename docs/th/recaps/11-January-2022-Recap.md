@@ -72,38 +72,46 @@ SubQuery เป็นโปรเจกต์บน Polkadot ซึ่ง Polkad
 
 ### SubQuery ร่วมมือกับ Darwinia Network เพื่อสร้าง SubQuery's CLI Tool
 
-Darwinia has partnered with SubQuery to build the plethora of applications that will be needed to provide the ultimate user experience for cross chain interactions. This includes a new [Smart App that is a central hub](https://apps.darwinia.network/) to manage all Darwinia network interactions including governance, staking, chain exploration and more. This app uses a considerable amount of [SubQuery data to show historic data and actions](https://explorer.subquery.network/subquery/darwinia-network/smart-app-crab). SubQuery will be working closely with the team at Darwinia to make this the best experience in the entire Polkadot ecosystem.
+Darwinia ร่วมมือกับ SubQuery เพื่อสร้างแอปพลิเคชั่นต่างๆที่จะช่วยให้ผู้ใช้งานมีประสบการณ์การใช้แอปพลิเคชั่นข้ามเชนที่สมบูรณ์แบบ ซึ่งแอปพลิเคชั่นดังกล่าวประกอบด้วย [Smart App ที่จะเป็นศูนย์กลาง](https://apps.darwinia.network/)ในการจัดการการใช้งานบน Darwinia Network  เช่น Governance, Staking, ข้อมูลการทำธุรกรรมและอื่นๆ แอปพลิเคชั่นนี้ใช้ข้อมูลจำนวนมากจาก[SubQuery เพื่อแสดงประวัติข้อมูลและการดำเนินการต่างๆ](https://explorer.subquery.network/subquery/darwinia-network/smart-app-crab) ทีมงาน SubQuery จะทำงานกับทีมงาน Darwinia อย่างใกล้ชิดเพื่อทำให้ประสบการณ์การใช้งานดีที่สุดสำหรับทั้งระบบนิเวศน์ของ Polkadot
 
 ![](https://miro.medium.com/max/1200/1*bL2Csj9qyamD7txAheCTIg.gif)
 
-Darwinia have also been working closely with the SubQuery team to [build a CLI tool](https://github.com/fewensa/subquery-cli) for the SubQuery managed service (https://project.subquery.network). You can use this [CLI](https://github.com/fewensa/subquery-cli) to create a SubQuery project and automatically deploy a new version to either the staging or production slot. Additionally you can retrieve information including the detailed syncing status and logs from your running project that is hosted for free in SubQuery Projects. [อ่านเพิ่มเติมได้ที่นี่](https://subquery.medium.com/subquery-partners-with-darwinia-network-to-build-subquerys-cli-tool-903dc4c9ef66)
+ทีมงาน Darwinia ยังทำงานอย่างใกล้ชิดทีมงาน SubQuery เพื่อ
+
+สร้าง CLI Tool สำหรับบริการที่จัดการโดย SubQuery (https://project.subquery.network) คุณสามารถใช้ [CLI](https://github.com/fewensa/subquery-cli)เพื่อสร้างโปรเจกต์ SubQuery และเปิดใช้เวอร์ชั่นใหม่สำหรับ Staging หรือ Production Slot นอกจากนี้คุณสามารถกู้ข้อมูล เช่น รายละเอียดของสถานะการ Sync และรายงานบันทึกของโปรเจกต์ของคุณที่กำลังทำงานอยู่บนโฮสต์แบบไม่มีค่าใช้จ่ายของ SubQuery Projects [อ่านเพิ่มเติมได้ที่นี่](https://subquery.medium.com/subquery-partners-with-darwinia-network-to-build-subquerys-cli-tool-903dc4c9ef66)</p> 
+
+
 
 ## เครือข่าย SubQuery
 
-Last community call we walked through a few important details of the upcoming SubQuery test network. It will be run over at least three seasons, each season will test different aspects of the network:
+ใน Community Call ครั้งล่าสุดเราได้คุยกันถึงรายละเอียดที่สำคัญสองสามเรื่องเกี่ยวกับระบบ Testnet ของ SubQuery ที่กำลังจะมาถึง ซึ่ง Testnet จะแบ่งออกเป็น 3 ซีซั่น แต่ละซีซั่นจะทำการ Test เครือข่ายในด้านต่างๆกันไป
 
-- Season 1: Early stage alpha testing of a limited number of features with a select few participants
-- Season 2: Large beta testing of more features with hundreds of participants
-- Season 3: Full public test network for load and scale testing with thousands of participants
+- ซีซั่น 1: Alpha Test ระยะเริ่มต้นที่จะมีจำนวนฟีเจอร์จำกัดและมีผู้เข้าร่วมทดลองใช้งานที่ถูกคัดเลือกไม่กี่คน
+- ซีซั่น 2: Best Test ขนาดใหญ่ที่จะมีจำนวนฟีเจอร์มากขึ้นและมีผู้เข้าร่วมทดลองใช้งานหลักหลายร้อยคน
+- ซีซั่น 3: เปิดระบบ Testnet สำหรับคนทั่วไปเพื่อทดสอบระบบเต็มรูปแบบโดยมีผู้เข้าร่วมทดลองใช้งานหลักหลายพันคน
 
-Each season will have multiple challenges that you can complete which may result in real SQT rewards. Expect things to kickoff here in March!
+แต่ละซีซั่นจะมีความท้าทายที่หลากหลายซึ่งคุณสามารถเข้าร่วมและคุณอาจจะได้รางวัลเป็นโทเคน SQT ทั้งหมดนี้คาดว่าจะเริ่มในเดือนมีนาคมนี้
 
-## Roadmap Update
 
-Last October we released out [technical roadmap](https://blog.subquery.network/blogs/20211029-roadmap-october.html) with the next year mapped out for SubQuery, we’re overdue to address exactly how we’re doing here.
+
+## อัพเดทเกี่ยวกับ Roadmap
+
+เมื่อเดือนตุลาคมที่ผ่านมาเราประกาศ [Technical Roadmap](https://blog.subquery.network/blogs/20211029-roadmap-october.html) ซึ่งประกอบด้วยแผนของ SubQuery สำหรับปีหน้า เรามีความล่าช้าในการอัพเดทงานที่เรากำลังทำอยู่
 
 ![](https://miro.medium.com/max/1400/1*2a3SGrW-OG5pbw67jsavvw.jpeg)
 
-As you can see in the original roadmap above, we’ve completed all of Milestone 0 and 1, and are making good progress on Milestone 2. We’ve even delivered some features relevant to our hosted service much earlier than expected due to the huge scale of requests currently going to [our enterprise customers](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html).
+จาก Roadmap ตัวเก่าที่แสดงด้านบน เราได้ทำ Milestone 0 และ 1 เสร็จสิ้นเรียบร้อยและตอนนี้ก็อยู่ระหว่างดำเนินการ Milestone 2 และก็มีความคืบหน้าที่น่าพอใจ เรายังได้ทำฟีเจอร์บางตัวที่เกี่ยวข้องกับบริการโฮสต์ของเราสำเร็จก่อนกำหนด ทั้งนี้เนื่องมาจากมีการเรียกร้องจำนวนมากจาก[ลูกค้าระดับองค์กรของเรา](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html)
+
+
 
 ## สิ่งอื่นๆ ที่คุณอาจพลาดไป
 
-- We will be having weekly office hours on our Discord Server! Join SubQuery’s ‘Office Hours’ on our stages channel where you can catch-up with the team in a casual environment.
-- We had a Russian QnA with James & Dmytro in Discord where all questions were asked and answered in Russian. โปรดบอกให้พวกเรารู้ว่าพวกคุณต้องการฟังภาษาอะไรต่อไป
+- เราจะมีช่วง Office Hours ทุกสัปดาห์ใน Discord Server ของเรา คุณสามารถมาเข้าร่วมกับเราในช่วง Office Hours ใน Stages Channel เพื่อมาพูดคุยกับทีมงานในบรรยากาศสบายๆ
+- เรามีช่วง ถาม-ตอบ เป็นภาษารัสเซียกับ James & Dmytro ใน Discord ซึ่งจะมีการถามตอบทุกคำถามเป็นภาษารัสเซีย โปรดบอกให้พวกเรารู้ว่าพวกคุณต้องการฟังภาษาอะไรต่อไป
 
 ป.ล.
 
-Remember to join our [Discord](https://discord.com/invite/subquery) and our [social channels](https://linktr.ee/subquerynetwork) to stay updated on our latest news and announcements.
+อย่าลืมมาเข้าร่วมกลุ่ม[Discord](https://discord.com/invite/subquery)และ[ช่องทาง Social Media อื่นๆ](https://linktr.ee/subquerynetwork)เพื่อติดตามความคืบหน้าเกี่ยวกับข่าวสารและประกาศสำคัญต่างๆ
 
 ทีมงานของ SubQuery
 
