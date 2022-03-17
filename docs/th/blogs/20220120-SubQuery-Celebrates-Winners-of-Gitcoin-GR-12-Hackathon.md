@@ -12,9 +12,9 @@ SubQuery เป็นโซลูชันในการจัดเก็บ�
 - [Build a marketplace explorer for all RMRK protocol based NFTs](https://gitcoin.co/issue/subquery/grants/4) — US$2,000
 - [ขยายบริการ @subql/node เพื่อทำดัชนีข้อมูลจาก layer 1 chain อื่น](https://gitcoin.co/issue/subquery/grants/5) — 12,000 ดอลลาร์สหรัฐ
 
-## Unified EVM and Substrate Block Explorer
+## รวม EVM และ Substrate Block Explorer เป็นหนึ่ง
 
-The Polkadot/Kusama ecosystem consists of blockchains (called Parachains) built using Substrate, which uses the Substrate API. However, certain Parachains, such as Moonbeam and Astar, offer seamless Ethereum compatibility by having a fully compatible EVM component. Having simultaneous visibility into Substrate and EVM data is currently challenging, resulting in two isolated experiences within Moonbeam and Moonriver. You have to choose between the Substrate side (e.g., Subscan) and EVM side (e.g., Moonscan & Blockscout).
+ระบบนิเวศของ Polkadot/Kusama ประกอบไปด้วย Blockchain ต่างๆ (เรียกว่า Parachains) ซึ่งถูกสร้างโดยใช้ Substrate ที่ใช้ Substrate API However, certain Parachains, such as Moonbeam and Astar, offer seamless Ethereum compatibility by having a fully compatible EVM component. Having simultaneous visibility into Substrate and EVM data is currently challenging, resulting in two isolated experiences within Moonbeam and Moonriver. You have to choose between the Substrate side (e.g., Subscan) and EVM side (e.g., Moonscan & Blockscout).
 
 This challenge was envisaged to address the huge opportunity to build a single place to understand the full history of activity in an account. For example, to see staking and governance actions and ERC20 transfers in a single user interface. This would be an application used daily by the massive communities within Moonbeam, Astar, and many other EVM compatible parachains that are taking off.
 
