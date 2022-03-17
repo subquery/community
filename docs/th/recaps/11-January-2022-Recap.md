@@ -58,17 +58,17 @@ SubQuery เป็นโปรเจกต์บน Polkadot ซึ่ง Polkad
 
 ### การขึ้นทะเบียนเทมเพลตบน SubQuery
 
-> 29 networks are covered by templates
+> เทมเพลตรองรับเครือข่ายจำนวน 29 เครือข่าย
 
-The `subql init` command is a familiar one for anyone that has built a SubQuery project; it represents a blank canvas — limitless opportunities. We are aware that we can do better to help others get started, rather than a blank canvas developers want a blank scaffold, where all the boiler-plate code is already written.
+สำหรับใครที่เคยสร้างโปรเจกต์ SubQuery ก็จะคุ้นเคยกับชุดคำสั่ง `subql init` ซึ่งหมายถึงหน้ากระดาษเปล่าๆ อีกนัยหนึ่งก็คือความเป็นไปได้ที่ไร้ขีดจำกัด เรารู้ดีว่ามันคงจะดีกว่าถ้าเราจะช่วยคนอื่นๆในการเริ่มต้นสร้างโปรเจกต์ แทนที่ผู้พัฒนาจะต้องมาเริ่มจากศูนย์ซึ่งมีแต่ Scaffold เปล่าๆ ก็จะมี framework สำเร็จรูปเขียนมาให้แล้ว
 
-Today when you write `subql init`, you are presented with a list of 29 networks from which you are provided a pre-created scaffold with all the correct endpoints, dictionary links, and even type definitions. This eliminates one of the most difficult steps when starting a new SubQuery project and makes building your next big dApp that much easier and faster.
+ในวันนี้เมื่อใดที่คุณขียนชุดคำสั่ง `subql init` คุณก็จะมีลิสต์จากเครือข่ายจำนวน 29 เครือข่ายซึ่งจะมี Scaffold สำเร็จรูปพร้อม Endpoints ที่ถูกต้อง นอกจากนี้ยังมีข้อมูลอื่นๆ เช่น ลิ้งค์ดิกชันนารีและ Type Definitions สิ่งนี้เองจะช่วยตัดขั้นตอนที่ยากที่สุดในการเริ่มโปรเจคใหม่บน SubQuery และยังช่วยให้การสร้าง dApp ง่ายและเร็วขึ้นมาก
 
-### Data Aggregation Features
+### ฟีเจอร์ Data Aggregation
 
-SubQuery now supports advanced GraphQL aggregate functions to allow you to perform a calculation on a set of values during your query. These functions provide our customers a richer set of insights and calculations from their existing data set. For example with a single query you can calculate the median contribution amount for each crowdloan broken down by contribution date.
+ขณะนี้ SubQuery รองรับ Aggregate Functions ขั้นสูงของ GraphQL ที่จะทำให้สามารถคำนวณชุดค่าต่างๆในระหว่างการดึงข้อมูลจากฐานข้อมูลได้ ฟังก์ชั่นเหล่านี้ทำให้ลูกค้าของเรามีข้อมูลเชิงลึกมากขึ้นและการคำนวณจากชุดข้อมูลที่มีอยู่เดิมได้ ตัวอย่างเช่น ในการดึงข้อมูลจากฐานข้อมูลหนึ่งครั้ง คุณสามารถคำนวณค่าเฉลี่ยของการประมูล Crowdloan ในแต่ละรอบโดยแยกเป็นรายวัน
 
-[Read more about how to use these features in our upgraded docs.](https://doc.subquery.network/query/aggregate/)
+[อ่านเพิ่มเติมเกี่ยวกับวิธีการใช้งานฟีเจอร์เหล่านี้ในเอกสารอัพเดทใหม่ของเรา](https://doc.subquery.network/query/aggregate/)
 
 ### SubQuery ร่วมมือกับ Darwinia Network เพื่อสร้าง SubQuery's CLI Tool
 
