@@ -42,21 +42,21 @@
 
 SubQuery เป็นโปรเจกต์บน Polkadot ซึ่ง Polkadot เป็นบ้านของเราและตลอดระยะเวลาที่ผ่านมาเราได้ทำงานหนักเพื่อสร้างสัมพันธ์ในเครือข่ายนี้ หลักการของ Polkadot คือเพื่อสร้างคอมมูนิตี้ที่แข็งแกร่งที่ประกอบไปด้วยของนักพัฒนา ผู้ใช้งานและธุรกิจที่จะใช้ประโยชน์จาก Multichain Interoperability ของ Polkadot เรายึดมั่นในวิสัยทัศน์ดังกล่าวและเรายังเชื่อว่า Polkadot จะเป็นผู้เล่นหลักในบทบาทนี้
 
-แต่พวกเราเชื่อในอนาคตของ Multi Chain ซึ่งพวกเรารู้ว่ามันกำลังจะมี Blockchain ต่างๆ ที่สามาถทำงานร่วมกันได้ มาทำงานร่วมกันเพื่อแก้ปัญหาต่างๆ ที่แตกต่างกันไป Our long term plan has always been to take SubQuery and to adapt it to work for other blockchain that don’t have a current indexing solution. Our multi-chain approach that we’ve needed to make for Polkadot means we are uniquely suited for this challenge.
+แต่พวกเราเชื่อในอนาคตของ Multi Chain ซึ่งพวกเรารู้ว่ามันกำลังจะมีบล็อกเชนต่างๆ ที่สามาถทำงานร่วมกันได้ มาทำงานร่วมกันเพื่อแก้ปัญหาต่างๆ ที่แตกต่างกันไป ตลอดเวลาที่ผ่านมาแผนการระยะยาวของเราคือการทำให้ SubQuery สามารถทำงานร่วมกับบล็อกเชนอื่นๆที่ยังไม่มี Indexer ด้วยความที่วิธีการของเราสำหรับ Multi-chain ที่จำเป็นต่อ Polkadot นั่นแสดงให้เห็นว่าวิธีการของเราเหมาะสมต่อความท้าทายนี้
 
-We’re finalising the work on the first of 5 new layer 1 chains that SubQuery will be indexing, we can’t wait to announce it soon!
+เราอยู่ระหว่างขั้นตอนสรุปงานในการทำ Indexer สำหรับบล็อกเชน Layer-1 ตัวใหม่จำนวน 5 บล็อกเชนด้วยกัน ซึ่งเราจะเราจะประกาศในเร็วๆนี้
 
 ![](https://miro.medium.com/max/1400/1*jD1n5MSjeatjiaF5hY-Wjg.png)
 
 ### การปรับปรุงประสิทธิภาพการทำงานของ SubQuery
 
-SubQuery’s indexing speed is always being improved, it’s a constant focus on our development team. Our advanced Dictionary support means enables this, Dictionaries speed up your project by many multiples and allow you to index entire Polkadot chain in minutes, not hours (depending on your project complexity).
+ความเร็วในของ SubQuery ในการทำ Indexing นั้นมีการพัฒนาตลอดอยู่เวลา ซึ่งมันเป็นโฟกัสหลักของทีมพัฒนาโดยเสมอมา โดยดิกชันนารีขั้นสูงของเราทำให้สามารถเกิดการพัฒนาดังกล่าว ซึ่งดิกชันนารีทำให้โปรเจกต์ของคุณเร็วขึ้นอย่างมากและทำให้โปรเจกต์ของคุณทำการ Index ข้อมูลบนทั้งเชน Polkadot ภายในเวลาไม่กี่นาที (ขึ้นอยู่กับความซับซ้อนของโปรเจกต์ของคุณ)
 
-As an indicator of the breadth of support that SubQuery offers to the Polkadot ecosystem, we are now hosting and managing dictionaries across the 31 different networks, representing the majority of all major Polkadot/Kusama parachains.
+ในขณะนี้เรากำลังจัดการดิกชันนารีสำหรับเครือข่ายจำนวน 31 เครือข่ายซึ่งครอบคลุมเครือข่ายส่วนใหญ่บนพาราเชนของ Polkadot และ Kusama สิ่งนี้แสดงให้เห็นว่า SubQuery กำลังสนับสนุนระบบนิเวศน์ของ Polkadot อย่างกว้างขวาง
 
 ![](https://miro.medium.com/max/1400/1*WeMY5WnWZ_jvllxidhycUA.png)
 
-### SubQuery Templates Registry
+### การขึ้นทะเบียนเทมเพลตบน SubQuery
 
 > 29 networks are covered by templates
 
