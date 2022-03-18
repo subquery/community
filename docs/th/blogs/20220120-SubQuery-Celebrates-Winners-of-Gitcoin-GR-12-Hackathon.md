@@ -8,13 +8,13 @@ SubQuery เป็นโซลูชันในการจัดเก็บ�
 
 - [สร้าง Block Explorer แบบรวมที่รวมข้อมูลเชิงลึกต่างๆ ของ Substrate และ EVM จาก Moonbeam และ Astar ให้เป็นหนึ่งเดียว เพื่อง่ายต่อการใช้งาน Application](https://gitcoin.co/issue/subquery/grants/1) — 12,000 ดอลลาร์สหรัฐ [สนับสนุนโดย Moonbeam และ Astar]
 - [สร้าง DeFi hub dashboard ที่ได้รับแรงบันดาลใจจาก Zapper.fi หรือ defisaver.com](https://gitcoin.co/issue/subquery/grants/2) — 8,000 ดอลลาร์สหรัฐ [สนับสนุนโดย Acala]
-- [Create a staking dashboard that shows the best staking opportunities across Polkadot and its various parachains](https://gitcoin.co/issue/subquery/grants/3) — US$3,000
+- [สร้าง Staking Dashboard ที่แสดงโอกาสต่างๆสำหรับ Staking ทั่ว Polkadot และ Parachain ต่างๆ มากมาย](https://gitcoin.co/issue/subquery/grants/3) — 3,000 ดอลลาร์สหรัฐ
 - [Build a marketplace explorer for all RMRK protocol based NFTs](https://gitcoin.co/issue/subquery/grants/4) — US$2,000
 - [ขยายบริการ @subql/node เพื่อทำดัชนีข้อมูลจาก layer 1 chain อื่น](https://gitcoin.co/issue/subquery/grants/5) — 12,000 ดอลลาร์สหรัฐ
 
 ## รวม EVM และ Substrate Block Explorer เป็นหนึ่ง
 
-ระบบนิเวศของ Polkadot/Kusama ประกอบไปด้วย Blockchain ต่างๆ (เรียกว่า Parachains) ซึ่งถูกสร้างโดยใช้ Substrate ที่ใช้ Substrate API However, certain Parachains, such as Moonbeam and Astar, offer seamless Ethereum compatibility by having a fully compatible EVM component. Having simultaneous visibility into Substrate and EVM data is currently challenging, resulting in two isolated experiences within Moonbeam and Moonriver. You have to choose between the Substrate side (e.g., Subscan) and EVM side (e.g., Moonscan & Blockscout).
+ระบบนิเวศของ Polkadot/Kusama ประกอบไปด้วย Blockchain ต่างๆ (เรียกว่า Parachains) ซึ่งถูกสร้างโดยใช้ Substrate ที่ใช้ Substrate API However, certain Parachains, such as Moonbeam and Astar, offer seamless Ethereum compatibility by having a fully compatible EVM component. Having simultaneous visibility into Substrate and EVM data is currently challenging, resulting in two isolated experiences within Moonbeam and Moonriver. คุณต้องเลือกระหว่างฝั่ง Substrate (เช่น Subscan) และ ฝั่ง Evm (เช่น Moonscan & Blockscout)
 
 This challenge was envisaged to address the huge opportunity to build a single place to understand the full history of activity in an account. For example, to see staking and governance actions and ERC20 transfers in a single user interface. This would be an application used daily by the massive communities within Moonbeam, Astar, and many other EVM compatible parachains that are taking off.
 
@@ -44,7 +44,7 @@ Ashik built PolkStakes, a [Polkadot validator ranking website](https://polkstake
 
 ![](https://miro.medium.com/max/1400/0*Kaho31-nn-ly8tFS)
 
-“_Subquery reduces the effort in manually indexing on-chain data. Since it offers a graphql endpoint, we can query data easily. It reduces the effort in maintaining a backend and database. Now, data aggregation for calculating Polkstakes ranking is done in UI. This has to be moved to SubQuery. Also, better visualization has to be done for indexed data and more accurate estimated yield prediction has to be added._” — Ashik from Polkdata
+“_Subquery ลดความพยายามในการทำดัชนีข้อมูล on-chain ด้วยมือ Since it offers a graphql endpoint, we can query data easily. มันลดความพยายามในการบำรุงรักษาหลังบ้านและฐานข้อมูล ตอนนี้การรวบรวมข้อมูลสำหรับการคำนวณอันดับ Polkstakes เสร็จแล้วใน UI สิ่งนี้ต้องถูกย้ายไปสู่ SubQuery Also, better visualization has to be done for indexed data and more accurate estimated yield prediction has to be added._” — Ashik from Polkdata
 
 The excellent SubVis team also built a [beautiful Polkadot staking dashboard](https://polkadot-staking-dashboard.vercel.app/) that shows total staking statistics over time and the validator performance in one place. The new staking features join the existing auction and crowdloan pages that SubVis are well known for.
 
@@ -54,7 +54,7 @@ Finally, Web3Go put in another excellent entry with detailed staking statistics 
 
 ![](https://miro.medium.com/max/1400/0*jQgOnvcaXt6cprJR)
 
-## RMRK NFT Marketplace Explorer
+## เครื่องสำรวจตลาด RMRK NFT
 
 RMRK is an advanced protocol of NFT legos making NFTs that are so much more than just a jpeg. The team at RMRK are bringing new standards of NFTs to the DOT ecosystem, and leading the way in building the next generation.
 
