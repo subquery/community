@@ -1,27 +1,27 @@
-# SubQuery Extends Invitation To Indexing Community
+# SubQuery ได้ขยายการเชิญชวนสู่ชุมชนกลุ่ม Indexing
 
 ![](https://miro.medium.com/max/1400/1*qa014uV1jHA2WTVhUadrdA.png)
 
-SubQuery, the leading data indexing solution in Polkadot, would like to extend an invitation to all potential indexers to register their interest in participating in our move towards decentralisation in 2022 via our incentivised testnet.
+SubQuery เป็นคำตอบของการ index ข้อมูลบน Polkadot ต้องการจะยืดระยะเวลาเชิญชวนเหล่า indexers เพื่อที่จะสมัครในการเข้าร่วมไปสู่ความกระจายศูนย์ในปี 2022 ด้วยโปรแกรม incentivized testnet
 
-[You can register your interest here](https://forms.gle/RyXyhb8T9Gxkwi7R9)
+[คุณสามารถสมัครได้ที่นี้หากคุณสนใจ](https://forms.gle/RyXyhb8T9Gxkwi7R9)
 
-As indicated in the  [recent publication of our Technical Roadmap](https://subquery.medium.com/subquery-releases-technical-roadmap-2a3a383c49b), SubQuery is currently preparing for our token generation event (TGE) in March 2022. Our current focus is the migration towards a decentralized SubQuery Network, and a key component of that is the need for indexing providers to form a foundational layer of our future network infrastructure.
+จากที่กล่าวไว้ใน [Technical Roadmap ของเราที่เพิ่งได้ประกาศไป](https://subquery.medium.com/subquery-releases-technical-roadmap-2a3a383c49b) SubQuery นั้นกำลังเตรียมกันสำหรับอีเวนท์สร้างโทเคน (Token Generation Event, TGE) ภายในมีนาคมปี 2022 โดยจุดสนใจในปัจจุบันคือการโยกย้ายไปสู่เครือข่าย SubQuery ที่กระจายศูนย์ และเป็นองค์ประกอบสำคัญที่ต้องการสำหรับผู้ช่วยทำการ index (indexing providers) เพื่อที่จะสร้างเลเยอร์พื้นฐานสู่อนาคตของโครงสร้างเครือข่าย
 
-> _“Indexers play a critical part in the SubQuery Network and we are looking to find the best node operators and technical community members to take part in our upcoming testnet. If you wanting to partner with us in building, improving, and scaling the future of decentralised data, please apply now. Our invitation to collaborate with the Indexer community is an exciting step for us as it is represents another major step towards our decentralisation”_ —Sam Zou, the Founder and CEO of SubQuery
+> _"เหล่า Indexers เป็นส่วนที่สำคัญในเครือข่ายของ SubQuery และพวกเรากำลังค้นเหล่าผู้ใช้งานโหนดที่ดีที่สุด รวมทั้งชุมชนด้านเทคนิคเพื่อที่จะเข้าร่วมระบบ testnet ที่จะมาถึงในอนาคต หากคุณต้องการเป็นส่วนหนึ่งในการสร้าง พัฒนา และ ขยายอนาคตไปสู่ข้อมูลกระจายศูนย์ สามารถสมัครได้แล้ว คำเชิญเพื่อที่จะเข้าร่วมชุมชน Indexer นั้นเป็นก้าวที่หน้าตื่นเต้นสำหรับเรา เพราะมันบ่งบอกถึงก้าวถัดไปเพื่อที่จะเข้าใกล้สู่ระบบบกระจายศูนย์"_ - Sam Zou, ผู้ก่อตั้ง และ CEO ของ SubQuery
 
-We’re looking for node operators with a deep understanding of the SubQuery Network, including the revenue streams and how staking and delegation works. You’ll need to be an expert in running high performance and scalable production applications with monitoring and wallet/infrastructure security. Finally, you’ll need a great attitude and a shared belief in growing the future of web3.
+พวกเรากำลังมองหาผู้ใช้งานโหนดที่มีความเข้าใจเครือข่าย SubQuery โดยละเอียด รวมทั้งกลไกรายได้ต่างๆ และวิธีการทำงานของการ staking และ delagation คุณจะต้องเป็นผู้เชี่ยวชาญในการใช้งานระบบที่ศักยภาพสูงและสามาถสเกลได้ในการใช้งานจริงบนแอพลิเคชั่น พร้อมกับการเฝ้าสังเกตุ รวมทั้ง กระเป๋า/ความปลอดภัยของโครงสร้าง สุดท้ายนี้คุณต้องมีมุมมองที่ดี และคาวมเชื่อมันในการเจริญเติบโตของอนาคตแห่ง web3
 
-Indexers who are interested in participating  [can register their interest with SubQuery here](https://forms.gle/RyXyhb8T9Gxkwi7R9). After reviewing all of the applications, we expect to approve an initial pool of Indexers by the end of January 2022 with the testnet launching at the end of Q1 2022. Indexers will be retrospectively rewarded and invited to participate in the subsequent mainnet anticipated at the end of Q2 2022.
+เหล่า Indexers ที่ต้องการจะเข้าร่วม [และมีความสนใจใน SubQuery สามารถสมัครได้ที่นี่](https://forms.gle/RyXyhb8T9Gxkwi7R9) หลังจากการพิจารณาใบรับสมัครแล้ว เราประเมินเวลาที่จะยืนยันกลุ่มของ Indexers ภายในช่วงปลายปี 2022 พร้อมกับการเริ่มต้น testnet ภายใน Q1 ปี 2022 โดยเหล่า Indexers จะได้รับรางวัลและได้รับการเชิญชวนที่จะเข้าร่วมใน mainnet ที่จะจัดตั้งขึ้นในปลาย Q2 ปี 2022
 
 ---
 
-## The SubQuery Network
+## เครือข่าย SubQuery
 
-The key constituents of the future SubQuery Network are  [outlined in our Whitepaper](https://static.subquery.network/whitepaper.pdf)  and consist of Consumers, Delegators and Indexers. Of these, the Indexers are integral to the backbone of the project as they will host SubQuery Projects in their own infrastructure, running both the node and query service to index data and answer GraphQL requests. Consumers are those entities who make requests to the SubQuery Network for specific data (thereby ‘consuming data’) and pay an advertised amount of the SQT token. The final actor in the ecosystem are Delegators who participate by supporting their favourite Indexers to earn rewards.
+ส่วนประกอบสำคัญของอนาคตของเครือข่าย SubQuery จะถูก[เขียนไว้ใน Whitepaper](https://static.subquery.network/whitepaper.pdf) และประกอบไปด้วย ผู้ใช้งาน, ผู้ให้อำนาจแทน (Delegators), และ Indexers จากทั้งหมดที่กล่าวมา เหล่า Indexers จะเป็นส่วนหนึ่งของโปรเจค เพราะพวกเขาเหล่านี้จะโฮสต์โปรเจค SubQuery ภายในโครงสร้างของเขาเอง รวมทั้งใช้งานทั้งโหนดและบริการดึงข้อมูลเพื่อที่จะระบุข้อมูล และคอยตอบรับคำร้องขอในรูปแบบของ GraphQL เหล่าผู้ใช้งานจะเป็นกลุ่มคนที่จะเรียกใช้เครือข่าย SubQuery สำหรับข้อมูลจำเพาะต่างๆ (เพราะฉะนั้นจะ 'ใช้งานข้อมูล') และจ่ายค่าธรรมเนียมในรูปแบบของ SQT โทเคน ส่วนประกอบสุดท้ายในระบบนิเวศน์นี้คือเหล่า Delegators ที่ต้องการจะเข้าร่วมด้วยการมอบอำนาจแก่ Indexers ที่ถูกใจที่สุด เพื่อรับรางวัลเป็นข้อตอบแทน
 
 ## เกี่ยวกับ SubQuery
 
-[SubQuery](https://subquery.network/)  is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. This service unlocks blockchain data and transforms it to a queryable state so that it can be used in intuitive applications. It allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The upcoming SubQuery Network will decentralize and tokenize the ecosystem to allow everyone to participate in the web3 data revolution.
+[SubQuery](https://subquery.network/) คือการรวมข้อมูลที่กระจายศูนย์ การจัดทำดัชนี & การค้นหาเลเยอร์ระหว่างบล็อคเชนของ Layer-1 และแอปพลิเคชันที่กระจายศูนย์ บริการนี้ปลดล็อกข้อมูลบล็อคเชนและแปลงเป็นสถานะที่สามารถสืบค้นได้ เพื่อให้สามารถใช้งานได้ในแอปพลิเคชันที่ใช้งานง่าย และบริการนี้จะยังจะช่วยให้นักพัฒนา DApp สามารถมุ่งเน้นไปที่การใช้งานหลักและ front-end โดยไม่ต้องเสียเวลาไปกับการสร้าง back-end สำหรับการประมวลผลข้อมูลเอง เครือข่าย SubQuery ที่กำลังจะมีขึ้น ในรูปแบบของระบบการกระจายศูนย์ และสร้างโทเค็นให้กับระบบนิเวศเพื่อให้ทุกคนมีส่วนร่วมในการเปลี่ยนแปลงข้อมูลในยุคของ web3 ได้อย่างรวดเร็ว
 
-​​[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork)  |  [เว็ปไซต์](https://subquery.network/)  |  [ดิสคอร์ด](https://discord.com/invite/78zg8aBSMG)  |  [เทเลแกรม](https://t.me/subquerynetwork)  |  [ทวิตเตอร์](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [ยูทูป](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
