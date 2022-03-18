@@ -26,7 +26,7 @@ The winner of [this challenge](https://gitcoin.co/issue/subquery/grants/1/100027
 
 ## Karura/Acala DeFi Dashboard
 
-Acala and Karura represent a huge vision for the future of DeFi, so there is a big opportunity to build valuable tools for the ecosystem. This challenge required developers to create DeFi tools for the Karura/Acala community that are inspired by the likes of [Zapper.fi](http://zapper.fi/) and [defisaver.com](http://defisaver.com/) leveraging SubQuery’s data indexing services.
+Acala and Karura เป็นตัวแทนของวิสัยทัศน์ที่ยิ่งใหญ่สำหรับอนาคตของ DeFi ฉะนั้นมันมีโอกาสมากที่จะสร้างเครื่องมือที่มีค่าสำหรับระบบนิเวศ This challenge required developers to create DeFi tools for the Karura/Acala community that are inspired by the likes of [Zapper.fi](http://zapper.fi/) and [defisaver.com](http://defisaver.com/) leveraging SubQuery’s data indexing services.
 
 The winner of [this challenge](https://gitcoin.co/issue/subquery/grants/2/100027176) was Web3Go who built a really nice summary of [Acala’s Collateral Debt Positions (CDPs)](https://web3go.xyz/#/CDPDetail). For users to mint kUSD stablecoins on Karura, they must first deposit tokens of one of the accepted collateral assets (e.g. KSM). Once the user has done so, the min collateral ratio parameter determines the minimum amount of the collateral needed for a user to mint kUSD. If the market price of the CDP’s collateral asset drops low enough, the CDP may be considered “unsafe.”
 
