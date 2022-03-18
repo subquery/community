@@ -4,7 +4,7 @@
 
 ![](https://miro.medium.com/max/1400/1*Y4kdG9uEoxrySzb19QKxPg.gif)
 
-Kodadot เป็นแพลตฟอร์ม NFT รักษ์โลกของ Kusama ซึ่งใช้โปรโตคอล RMRK ผู้ใช้สามารถ mint, โยกย้าย, และเบิร์น NFT บนเครือข่ายได้ สิ่งสำคัญที่สุดคือ Kodadot มี NFT explorer บนเว็บที่ตอบสนองได้ที่จัดหาอินเตอร์เฟซให้ผู้ใช้งานด้วยสัญชาตญาณ
+Kodadot เป็นแพลตฟอร์ม NFT รักษ์โลกของ Kusama ซึ่งใช้โปรโตคอล RMRK ผู้ใช้สามารถ mint, โยกย้าย, และเบิร์น NFT บนเครือข่ายได้  สิ่งสำคัญที่สุดคือ Kodadot มี NFT explorer บนเว็บที่ตอบสนองได้ที่จัดหาอินเตอร์เฟซให้ผู้ใช้งานด้วยสัญชาตญาณ
 
 Front-end นี้ใช้[โปรเจ็กต์ SubQuery](https://explorer.subquery.network/subquery/vikiival/magick)เพื่อให้การสำรวจรวดเร็วขึ้น
 
