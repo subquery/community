@@ -22,7 +22,7 @@ SubQueryのコミュニティは、人数もカバーする地域も急拡大中
 
 [SubQueryは12月にGitcoinと提携し](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a)、37,000USD（チャレンジで最大の賞金プール）の価値を持つ5つのチャレンジを主催し、開発者に有用なツールやダッシュボードの構築、さらには別のLayer1ブロックチェーンにSubQueryを拡張することを呼びかけました。
 
-![](https://miro.medium.com/max/1400/1*BUq3ah1ULNnvLjqxv_vzlQ.png)
+![](https://miro.medium.com/max/1400/1*BUq3ah1ULNvLjqxv_vzlQ.png)
 
 [Sam Zou](https://twitter.com/zoujialiu)（SubQueryのCEO兼創設者）は次のようにコメントしています。「_SubQuery は Gitcoin GR12 Hackathon の結果を喜んでいます。 私たちの使命は、Substrate/Polkadotのエコシステムの中で創造と革新を行う権限を与えられた開発者とのネットワークを持つことにかかっています。 このパートナーシップは、世界中の意欲的な開発者に明日のアプリケーションを構築する機会を提供しました。 私たちは、チャレンジの勝者を育て、彼らのアイデアをさらに発展させることに興奮しています_。」
 
