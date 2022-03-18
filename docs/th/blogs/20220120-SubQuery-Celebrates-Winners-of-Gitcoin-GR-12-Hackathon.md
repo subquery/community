@@ -40,31 +40,31 @@ Acala และ Karura แสดงให้เห็นถึงวิสัย
 
 ซึ่งวัตถุประสงค์ของกิจกรรมนี้คือการรวมข้อมูลที่จัดเก็บในเครือข่ายบล็อกเชน (on-chain data) เข้ากับประสบการณ์ของผู้ใช้ที่ใช้งานง่าย เพื่อช่วยให้ผู้ใช้เข้าใจผลตอบแทนโดยประมาณที่ดีที่สุดจากการ Stake ด้วยการเปรียบเทียบกับประสิทธิภาพในอดีตของ Validator และแสดงให้ผู้ใช้เห็นว่าผลตอบแทนที่พวกเขาจะได้รับจากการลงทุนนั้นเป็นเช่นไร
 
-Ashik built PolkStakes, a [Polkadot validator ranking website](https://polkstakes.vercel.app/) that fetches all validators and shows a cleanly organised list of validators in Polkadot with PolkStake’s own rating (based on previous era performance, commissions, payout, and staking rewards etc). It’s a clean and simple UI that really impressed us.
+คุณ Ashik ได้สร้าง [PolkStakes ซึ่งเป็นเว็บไซต์จัดอันดับ Validator ของ Polkadot](https://polkstakes.vercel.app/) ที่นำข้อมูลของ Validator ทั้งหมดมาแสดงเป็นรายชื่อ Validator ใน Polkadot โดยได้รับการจัดระเบียบเป็นอย่างดี จากการให้คะแนนของ PolkStake เอง (วัดจากประสิทธิภาพในอดีต, ค่าคอมมิชชัน, การจ่ายเงิน, รางวัลจากการ Stake และอื่นๆ) ซึ่งนับว่าเป็น UI ที่ดูง่ายและสบายตาที่ทำให้พวกเราประทับใจเป็นอย่างมาก
 
 ![](https://miro.medium.com/max/1400/0*Kaho31-nn-ly8tFS)
 
-“_Subquery ลดความพยายามในการทำดัชนีข้อมูล on-chain ด้วยมือ เนื่องจากมันให้ Graphql endpoint เราจึงสามารถเข้าถึงข้อมูลได้โดยง่าย มันลดความพยายามในการบำรุงรักษาหลังบ้านและฐานข้อมูล ตอนนี้การรวบรวมข้อมูลสำหรับการคำนวณอันดับ Polkstakes เสร็จแล้วใน UI สิ่งนี้ต้องถูกย้ายไปสู่ SubQuery Also, better visualization has to be done for indexed data and more accurate estimated yield prediction has to be added._” — Ashik from Polkdata
+“_Subquery ช่วยทุ่นแรงในการจัดทำดัชนีข้อมูลที่จัดเก็บอยู่ในบนเครือข่ายบล็อกเชนด้วยตัวของมันเอง เนื่องจาก Subquery มี graphql endpoint จึงทำให้เราสามารถ query ข้อมูลที่ต้องการออกมาได้อย่างง่ายดาย ซึ่งมันช่วยแบ่งเบาภาระในการดูแลระบบหลังบ้าน (backend) และฐานข้อมูล และในตอนนี้การรวมข้อมูลเพื่อคำนวณการจัดอันดับของ Polkstakes บน UI นั้นได้เสร็จเรียบร้อยแล้ว ซึ่งข้อมูลเหล่านี้จะต้องถูกย้ายไปที่ SubQuery นอกจากนี้ ข้อมูลที่มีการจัดเรียงยังต้องมีการจัดทำและแสดงผลออกมาให้เข้าใจง่ายมากยิ่งขึ้น รวมไปถึงยังต้องมีการเพิ่มการคาดกาณ์ผลตอบแทนโดยประมาณให้มีความแม่นยำเพิ่มมากขึ้นอีกด้วย_” — Ashik จาก Polkdata กล่าว
 
-The excellent SubVis team also built a [beautiful Polkadot staking dashboard](https://polkadot-staking-dashboard.vercel.app/) that shows total staking statistics over time and the validator performance in one place. The new staking features join the existing auction and crowdloan pages that SubVis are well known for.
+ทีมงาน SubVis ที่มากไปด้วยความสามารถยังได้สร้าง[แดชบอร์ดการ Stake Polkadot ที่งดงามขึ้น](https://polkadot-staking-dashboard.vercel.app/) ซึ่งแสดงทั้งข้อมูลสถิติการ Stake ทั้งหมดและแสดงประสิทธิภาพของ Validator ในพื้นที่เดียว โดยฟีเจอร์การ Stake ใหม่ๆ นั้นได้ร่วมอยู่บนหน้าเพจที่มีการประมูลและ Crowdloan ที่ทาง SubVis รู้จักกันดี
 
 ![](https://miro.medium.com/max/1400/0*uPDQdMug2JaZwMbA)
 
-Finally, Web3Go put in another excellent entry with detailed staking statistics on Moonriver. They provide information even about the delegators for each collator, the historic rewards provided by each collator, and even the actions that collators take. They provide the additional benefits of being able to show staking history for your own wallet address.
+ในที่สุด Web3Go ก็ได้ก้าวไปอีกขั้นด้วยสถิติข้อมูลการ Stake บน Moonriver ซึ่งให้แม้กระทั่งข้อมูลที่เกี่ยวกับผู้เข้าร่วม Stake (Delegator) ในแต่ละ Collator, ข้อมูลประวัติรางวัลย้อนหลังที่ได้รับจากแต่ละ Collator รวมไปถึงการดำเนินการต่างๆ ของ Collator ที่เกิดขึ้น นอกจากนี้ยังให้ประโยชน์เพิ่มเติมคือสามารถแสดงประวัติการ Stake ของกระเป๋าแต่ละบุคคลได้
 
 ![](https://miro.medium.com/max/1400/0*jQgOnvcaXt6cprJR)
 
 ## RMRK NFT Marketplace Explorer
 
-RMRK is an advanced protocol of NFT legos making NFTs that are so much more than just a jpeg. The team at RMRK are bringing new standards of NFTs to the DOT ecosystem, and leading the way in building the next generation.
+RMRK เป็นโปรโตคอลขั้นสูงของชุดเลโก้ NFT ซึ่งสร้าง NFT ที่เป็นมากกว่า jpeg โดยทางทีมของ RMRK กำลังนำมาตรฐานใหม่ของ NFT มาสู่ระบบนิเวศ DOT และเป็นผู้นำในการสร้าง NFT ที่ล้ำหน้ามากยิ่งขึ้น
 
-This challenge called for the creation of a detailed dashboard that tracks the evolution of all RMRKs (potentially focusing on [Kanarias](https://kanaria.rmrk.app/)), including transfers, emote history, and more across RMRK2. This dashboard had to use a RMRK2 focused SubQuery project.
+โดยกิจกรรมการแข่งขันนี้ต้องการให้มีการสร้างแดชบอร์ดซึ่งมีรายละเอียดในการติดตามความก้าวหน้าของ RMRK ที่เกิดขึ้นทั้งหมด (อาจจะโฟกัสไปที่ [Kanarias](https://kanaria.rmrk.app/)) รวมถึงการถ่ายโอนต่างๆ, ข้อมูลประวัติที่เกี่ยวข้องกับอารมณ์หรือการแสดงอารมณ์และอื่นๆ ใน RMRK2 โดยแดชบอร์ดนี้จะต้องใช้โปรเจกต์ SubQuery ในการโฟกัสไปที่ RMRK2
 
-The winner of [this challenge](https://gitcoin.co/issue/subquery/grants/4/100027174) was another excellent dashboard from Web3Go called the [NFT Garden](https://web3go.xyz/#/NFTProfiler). It includes in depth details about each NFT collection, such as average prices, volumes, price ranges, and all transactions for each single item. Additionally, there are some interesting visualisations on all the traits within NFTs.
+และผู้ชนะการแข่งขันใน[กิจกรรมนี้](https://gitcoin.co/issue/subquery/grants/4/100027174)คือ Web3Go ซึ่งถือเป็นอีกหนึ่งแดชบอร์ดที่มีความยอดเยี่ยมที่เรียกว่า [NFT Garden](https://web3go.xyz/#/NFTProfiler) โดย NFT Garden จะประกอบไปด้วยรายละเอียดเชิงลึกเกี่ยวกับ NFT แต่ละคอลเลกชัน เช่น ราคาเฉลี่ย ปริมาณ ช่วงราคาต่างๆ รวมไปถึงธุรกรรมทั้งหมดในแต่ละชิ้นงาน อีกทั้งยังมีการแสดงภาพข้อมูลที่น่าสนใจเกี่ยวกับลักษณะพิเศษทั้งหมดภายใน NFT
 
 ![](https://miro.medium.com/max/1400/0*1_mUnNIBYI84G_qs)
 
-“_Since the inception of Web3Go, we have been using SubQuery as the underlying architecture for data indexing. The development kit provided by SubQuery has proven to be very suitable for our team to quickly develop, deploy and upgrade projects, which is also the key to our good results on the Gitcoin Hackathon. In the next step, we will use Subquery to develop dashboards for all projects on the Polkadot & Kusama parachains, which will involve Defi, NFT, and Tokens!_” says Hao Ding from Web3Go.
+“_ตั้งแต่เริ่มก่อตั้ง Web3Go เราได้ใช้ SubQuery เป็นโครงสร้างพื้นฐานในการจัดทำดัชนีข้อมูลมาโดยตลอด ซึ่งชุดพัฒนาที่จัดหาให้โดย SubQuery นั้น ได้พิสูจน์แล้วว่ามีความเหมาะสมมากกับทีมของเราทั้งในด้านการพัฒนา การนำไปปรับใช้ (Deploy) และในการอัปเกรดโปรเจกต์ต่างๆ ได้อย่างรวดเร็ว ซึ่งถือเป็นกุญแจสำคัญที่นำไปสู่ผลลัพธ์ที่ดีของพวกเราในกิจกรรม Gitcoin Hackathon ครั้งนี้ In the next step, we will use Subquery to develop dashboards for all projects on the Polkadot & Kusama parachains, which will involve Defi, NFT, and Tokens!_” says Hao Ding from Web3Go.
 
 ## Extend SubQuery to another Layer-1 Blockchain
 
