@@ -31,7 +31,7 @@
 
 การเสนอราคา 3 รายการล่าสุดมาจาก Karura ทั้งหมดในสล็อต 13–20
 
-Subvis.io ใช้ [โปรเจกต์ SubQuery](https://project.subquery.network/) เพื่อจัดการโปรเจกต์ของตนเองและทำการอัปเดตเมื่อจำเป็น การจัดทำดัชนีและสืบค้นข้อมูล (query) สำหรับบริการนี้ได้รับการจัดการโดย SubQuery และให้บริการแก่ชุมชน Polkadot โดยไม่เสียค่าใช้จ่ายใน [SubQuery's Explorer](https://explorer.subquery.network/)
+Subvis.io ใช้ [โปรเจกต์ SubQuery](https://project.subquery.network/) เพื่อจัดการโปรเจกต์ของตนเองและทำการอัปเดตเมื่อจำเป็น การจัดทำดัชนีและสืบค้นข้อมูล (query) สำหรับบริการนี้ได้รับการจัดการโดย SubQuery และให้บริการแก่ชุมชน Polkadot โดยไม่เสียค่าใช้จ่ายใน [SubQuery’s Explorer](https://explorer.subquery.network/).
 
 [สำรวจชุดข้อมูล Subvis.io](https://explorer.subquery.network/subquery/subvis-io/kusama-auction)
 
