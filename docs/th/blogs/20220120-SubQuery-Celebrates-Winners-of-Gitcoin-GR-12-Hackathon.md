@@ -44,7 +44,7 @@ Ashik built PolkStakes, a [Polkadot validator ranking website](https://polkstake
 
 ![](https://miro.medium.com/max/1400/0*Kaho31-nn-ly8tFS)
 
-“_Subquery ลดความพยายามในการทำดัชนีข้อมูล on-chain ด้วยมือ Since it offers a graphql endpoint, we can query data easily. มันลดความพยายามในการบำรุงรักษาหลังบ้านและฐานข้อมูล ตอนนี้การรวบรวมข้อมูลสำหรับการคำนวณอันดับ Polkstakes เสร็จแล้วใน UI สิ่งนี้ต้องถูกย้ายไปสู่ SubQuery Also, better visualization has to be done for indexed data and more accurate estimated yield prediction has to be added._” — Ashik from Polkdata
+“_Subquery ลดความพยายามในการทำดัชนีข้อมูล on-chain ด้วยมือ เนื่องจากมันให้ Graphql endpoint เราจึงสามารถเข้าถึงข้อมูลได้โดยง่าย มันลดความพยายามในการบำรุงรักษาหลังบ้านและฐานข้อมูล ตอนนี้การรวบรวมข้อมูลสำหรับการคำนวณอันดับ Polkstakes เสร็จแล้วใน UI สิ่งนี้ต้องถูกย้ายไปสู่ SubQuery Also, better visualization has to be done for indexed data and more accurate estimated yield prediction has to be added._” — Ashik from Polkdata
 
 The excellent SubVis team also built a [beautiful Polkadot staking dashboard](https://polkadot-staking-dashboard.vercel.app/) that shows total staking statistics over time and the validator performance in one place. The new staking features join the existing auction and crowdloan pages that SubVis are well known for.
 
@@ -54,7 +54,7 @@ Finally, Web3Go put in another excellent entry with detailed staking statistics 
 
 ![](https://miro.medium.com/max/1400/0*jQgOnvcaXt6cprJR)
 
-## เครื่องสำรวจตลาด RMRK NFT
+## RMRK NFT Marketplace Explorer
 
 RMRK is an advanced protocol of NFT legos making NFTs that are so much more than just a jpeg. The team at RMRK are bringing new standards of NFTs to the DOT ecosystem, and leading the way in building the next generation.
 
