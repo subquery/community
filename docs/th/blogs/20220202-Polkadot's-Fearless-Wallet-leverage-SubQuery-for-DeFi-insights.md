@@ -18,9 +18,9 @@ Fearless Wallet ได้นำเอาบริการของ SubQuery ม
 
 ![](https://miro.medium.com/max/1400/1*3X7m4-m0NJ3xQ44UKZB7tw.png)
 
-Fearless Wallet ได้ใช้ [SubQuery Projects](https://project.subquery.network/) เพื่อจัดการโปรเจกต์ของตนและทำการอัปเดตตามต้องการ พวกเขาใช้ประโยชน์จากบริการ enterprise-level hosting ของ SubQuery เพื่อถ่ายโอนฐานข้อมูล, automated deployment และ geographic routing ไปยังหลายคลัสเตอร์ทั่วโลกเพื่อประสิทธิภาพที่สูงและระยะเวลาการประมวลผลสั้น บริการจัดทำ index และ query ข้อมูลที่เรามีให้นั้นได้รับการจัดการโดย SubQuery และมอบให้กับชุมชน Polkadot ใน [SubQuery's Explorer](https://explorer.subquery.network/)
+Fearless Wallet ได้ใช้ [SubQuery Projects](https://project.subquery.network/) เพื่อจัดการโปรเจกต์ของตนและทำการอัปเดตตามต้องการ พวกเขาใช้ประโยชน์จากบริการ enterprise-level hosting ของ SubQuery เพื่อถ่ายโอนฐานข้อมูล, automated deployment และ geographic routing ไปยังหลายคลัสเตอร์ทั่วโลกเพื่อประสิทธิภาพที่สูงและระยะเวลาการประมวลผลสั้น โดยบริการ indexing และ query ข้อมูลที่เรามีให้นั้นได้รับการจัดการเบ็ดเสร็จโดย SubQuery และได้มอบมันให้กับคอมมูนิตี้ของ Polkadot ผ่านทาง [SubQuery's Explorer](https://explorer.subquery.network/)
 
-> “SubQuery เป็นข้อมูลเกี่ยวกับการควบคุมข้อมูลจาก blockchain และทำให้ง่ายต่อการสร้างแอปที่ส่งเสริมการมีส่วนร่วมของผู้ใช้ทุกวัน เราภูมิใจที่ได้ร่วมงานกับกระเป๋า Fearless Wallet เพื่อมอบประสบการณ์อันยาวนานแก่ผู้ใช้และเติบโตไปพร้อมกับพวกเขาในขณะที่พวกเขาเข้าไปใช้งานระบบของ Polkadot” -James Bayly หัวหน้าฝ่ายพัฒนาธุรกิจ — SubQuery
+> “SubQuery สามารถที่จะจัดการข้อมูลที่อยู่บน blockchain ได้อย่างอยู่หมัด และทำให้มันง่ายต่อการพัฒนาแอพพลิเคชั่นต่างๆที่จะมาเข้าร่วม พวกเราภูมิใจที่ได้ร่วมงานกับ Fearless Wallet เพื่อมอบประสบการณ์ที่ดีให้แก่ผู้ใช้ และได้เติบโตไปพร้อมกับพวกเขาที่กำลังดังระเบิดในระบบนิเวศของ Polkadot” - James Bayly หัวหน้าฝ่ายพัฒนาธุรกิจ — SubQuery
 
 ## เกี่ยวกับ SubQuery
 
