@@ -1,4 +1,4 @@
-# Blogs de subconsulta & Contenido de la comunidad
+# SubQuery Blogs & Community Content
 
 SubQuery está aquí para ayudarte a transformar y consultar los datos del mundo para un futuro web3.0.
 
