@@ -1,16 +1,16 @@
-# Solarbeam work with SubQuery for their new Eclipse Launchpad
+# Solarbeam lavora con SubQuery per il loro nuovo Eclipse Launchpad
 
 ![](https://miro.medium.com/max/1400/1*ZG9NqT9GIXax5SBpNn5ipg.png)
 
-Today we want to announce our partnership between Solarbeam and SubQuery Network. Solarbeam is the [largest DEX](https://defillama.com/chain/Moonriver) on Moonriver’s Kusama-based parachain with a peak TVL of more than $180m. This requires reliable, high-speed data querying capabilities for their user interface.
+Oggi vogliamo annunciare la partnership tra Solarbeam e SubQuery Network. Solarbeam è il [più grande DEX](https://defillama.com/chain/Moonriver) sulla parachain di Moonriver basata su Kusama con un picco TVL di oltre 180 milioni di dollari. Ciò richiede capacità di interrogazione affidabile dei dati e ad alta velocità per la loro interfaccia utente.
 
-Solarbeam recently launched [Eclipse](https://app.solarbeam.io/eclipse), a launchpad built for cross-chain token pools and auctions, enabling projects to raise capital on a decentralized and interoperable environment based on Moonriver.
+Solarbeam ha recentemente lanciato [Eclipse](https://app.solarbeam.io/eclipse), un launchpad costruito per cross-chain token pool e aste, permettendo ai progetti di raccogliere capitali su un ambiente decentralizzato e interoperabile basato su Moonriver.
 
 ![](https://miro.medium.com/max/1400/1*IbRN8EnymWvqvh0sx_PNKw.png)
 
-> _“_SubQuery has proved to be a reliable tool for querying events and transactions on EVM and Substrate based chains, with a minimal latency for syncing new data and suitable for large amounts of data. As a result, we believe SubQuery will provide as good of an experience on Moonbeam as it has for us on Moonriver”. _— Founder, Solarbeam_
+> _"_SubQuery ha dimostrato di essere uno strumento affidabile per l'interrogazione di eventi e transazioni sulle catene basate su EVM e Substrate, con una latenza minima per la sincronizzazione di nuovi dati e adatto a grandi quantità di dati. Di conseguenza, crediamo che SubQuery fornirà un'esperienza altrettanto buona su Moonbeam quanto lo è stata per noi su Moonriver.". _- Fondatore, Solarbeam_
 
-[SubQuery’s](https://subquery.network/) service helps drive analytics for the Eclipse IDO launchpad by Solarbeam. Ahead of their launch on Moonbeam, Solarbeam will be integrating SubQuery with their user portfolio analytics tool which will enable users to track their farming and profit history. This is made possible by the [recent integration of Moonbeam and Moonriver’s EVM with SubQuery](https://subquery.medium.com/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff).
+Il servizio di [SubQuery](https://subquery.network/) aiuta a guidare le analisi per il launchpad Eclipse IDO di Solarbeam. In vista del loro lancio su Moonbeam, Solarbeam integrerà SubQuery con il loro strumento di analisi del portafoglio utenti che permetterà agli utenti di tracciare la loro storia di farmin e di profitto. Questo è reso possibile dalla [recente integrazione di Moonbeam e di EVM di Moonriver con SubQuery](https://subquery.medium.com/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff).
 
 ![](https://miro.medium.com/max/1400/1*6_iO6tLt4RxxMvs8u-F_Bg.png)
 
