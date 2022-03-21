@@ -6,7 +6,7 @@
 
 [SubQuery](https://subquery.network/) hướng tới việc trở thành nhà cung cấp dữ liệu hàng đầu trong Polkadot. Nhiệm vụ của chúng tôi là cung cấp năng lượng cho các dApp lớn nhất trong hệ sinh thái đang phát triển của chúng tôi và chúng tôi đã làm việc với các ứng dụng DeFi như [Acala](https://acala.network/) và [Bifrost](https://bifrost.finance/), các ví như [Fearless Wallet](https://fearlesswallet.io/), các nền tảng NFT như [KodaDot](https://kodadot.xyz/), các cầu nối chuỗi chéo như [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia) và các nền tảng phân tích như [SubVis](https://subvis.io/).
 
-Hệ sinh thái của chúng tôi đang phát triển và với thông báo của chúng tôi về Mạng SubQuery, chúng tôi đang tìm kiếm mọi người từ khắp nơi trên thế giới tham gia cùng chúng tôi trong sứ mệnh của chúng tôi. Nhóm SubQuery vui mừng thông báo rằng chúng tôi đang mở đơn đăng ký cho chương trình Đại sứ mới của mình!
+Hệ sinh thái của chúng tôi đang phát triển và qua thông báo của chúng tôi về Mạng SubQuery, chúng tôi đang tìm kiếm mọi người từ khắp nơi trên thế giới tham gia cùng chúng tôi trong sứ mệnh này. Nhóm SubQuery vui mừng thông báo rằng chúng tôi đang mở đơn đăng ký cho chương trình Đại sứ mới của mình!
 
 Chúng tôi hiểu rằng một trong những sức mạnh lớn nhất của chúng tôi là cộng đồng và với sự giúp đỡ của bạn, chúng tôi muốn phát triển và thiết lập các đại sứ địa phương cho các cộng đồng trên toàn thế giới.
 
@@ -40,7 +40,7 @@ Chương trình Đại sứ của chúng tôi có nhiều cấp, mỗi cấp có
 
 Khi bạn đã gửi đơn đăng ký, chúng tôi sẽ chọn những ứng viên phù hợp với giá trị của chúng tôi. Nếu được chọn, bạn sẽ được đưa vào chương trình thực tập sinh của chúng tôi và sẽ nhận được một gói thông tin, mở rộng hiểu biết của bạn về SubQuery. Sau đó, bạn có thể bắt đầu làm việc thông qua chương trình học viên bằng cách hoàn thành một số nhiệm vụ giới thiệu (ví dụ: tạo Dự án SubQuery). Chúng tôi sẽ tổ chức các hội thảo trong suốt quá trình này để hỗ trợ bạn.
 
-Sau khi vượt qua chương trình thực tập sinh, bạn có thể tự gọi mình là đại sứ SubQuery và sẽ được nhận vào chương trình đầy đủ của chúng tôi. Từ đây trở đi, bạn có thể tiếp tục làm việc thông qua chương trình và tiến lên các cấp, kiếm được nhiều phần thưởng và lợi ích hơn khi bạn leo lên thứ hạng.
+Sau khi vượt qua chương trình thực tập sinh, bạn có thể tự gọi mình là đại sứ SubQuery và sẽ được nhận vào chương trình đầy đủ của chúng tôi. Từ đây trở đi, bạn có thể tiếp tục làm việc trong chương trình này và có thể lên cấp, kiếm được nhiều phần thưởng và lợi ích hơn theo mỗi thứ hạng.
 
 [Đăng ký ở đây](https://forms.gle/GXBbJ6LDpNfM2v1X6)
 
@@ -48,14 +48,14 @@ Sau khi vượt qua chương trình thực tập sinh, bạn có thể tự gọ
 
 Các Đại sứ SubQuery có thể đóng góp thông qua bốn lĩnh vực chính, bao gồm quản lý sự kiện, sáng tạo nội dung, dịch thuật và kiểm duyệt cộng đồng. Bạn có thể tham gia vào bao nhiêu lĩnh vực tùy thích, không bị ràng buộc vào bất kỳ lĩnh vực nào.
 
-** Quản lý sự kiện: ** Xây dựng cộng đồng địa phương bằng cách tổ chức, tổ chức và quản lý các sự kiện khác nhau. Xây dựng cộng đồng địa phương sẽ là một phần quan trọng trong việc phát triển cộng đồng SubQuery. SubQuery sẽ hỗ trợ bạn bằng cách cung cấp tài chính cho các sự kiện, gửi swag / hàng hóa được tặng, cũng như tham dự Q&As hoặc các sự kiện trực tuyến với tư cách là diễn giả hoặc trong các phiên AMA.
+**Quản lý sự kiện:** Xây dựng cộng đồng địa phương bằng cách tổ chức, tổ chức và quản lý các sự kiện khác nhau. Xây dựng cộng đồng địa phương sẽ là một phần quan trọng trong việc phát triển cộng đồng SubQuery. SubQuery sẽ hỗ trợ bạn bằng cách cung cấp tài chính cho các sự kiện, tặng quần áo hay các vật phẩm, cũng như tham dự Q&As hoặc các sự kiện trực tuyến với tư cách là diễn giả hoặc cả các phiên AMA.
 
-** Tạo nội dung: ** Chúng tôi có một danh sách dài các nội dung và tài liệu hỗ trợ mà chúng tôi cần trợ giúp để tạo. Hãy nhớ rằng, thành công của chúng tôi dựa vào khả năng khách hàng có thể tạo ra những điều tuyệt vời trên dịch vụ của chúng tôi, vì vậy chúng tôi cần sự giúp đỡ của bạn để thực hiện điều đó dễ dàng hơn.
+**Sáng tạo nội dung:** Chúng tôi có một danh sách dài các nội dung và tài liệu hỗ trợ mà chúng tôi cần sự trợ giúp từ các bạn. Hãy nhớ rằng, thành công của chúng tôi dựa vào khả năng khách hàng có thể tạo ra những điều tuyệt vời trên dịch vụ của chúng tôi, vì vậy chúng tôi cần sự giúp đỡ của bạn để thực hiện điều đó dễ dàng hơn.
 
 Nội dung bao gồm video, đồ họa thông tin, hướng dẫn, hoạt ảnh hoặc bất kỳ tài liệu liên quan nào khác, để thông báo, giáo dục hoặc truyền cảm hứng cho các thành viên cộng đồng trong Hệ sinh thái SubQuery. SubQuery sẽ hỗ trợ Người sáng tạo nội dung bằng cách cung cấp tài sản và kiến ​​thức chuyên môn về thương hiệu. Chúng tôi cũng sẽ sử dụng các kênh tiếp thị của SubQuery để nâng cao nhận thức về nội dung của bạn (và chính bạn).
 
-** Dịch: ** Khách hàng của chúng tôi không chỉ nói tiếng Anh! Chúng tôi cần sự trợ giúp của bạn để làm cho SubQuery dễ tiếp cận hơn bằng cách dịch nội dung của chúng tôi sang ngôn ngữ của bạn, cũng như giúp chia sẻ từ này đến cộng đồng quốc tế của chúng tôi.
+**Dịch thuật ** Khách hàng của chúng tôi không chỉ nói tiếng Anh! Chúng tôi cần sự trợ giúp của bạn để làm cho SubQuery dễ tiếp cận hơn bằng cách dịch nội dung của chúng tôi sang ngôn ngữ của bạn, cũng như giúp chia sẻ chúng đến cộng đồng quốc tế của chúng tôi.
 
-**Kiểm duyệt cộng đồng:** Người kiểm duyệt sẽ giúp phát triển cộng đồng SubQuery bằng cách đảm bảo rằng các kênh cộng đồng chính thức đang hoạt động và hấp dẫn. SubQuery sẽ hỗ trợ Người kiểm duyệt bằng cách quảng bá các kênh mà họ giám sát, cũng như cung cấp các nguyên tắc cho kỳ vọng của chúng tôi.
+**Kiểm duyệt cộng đồng:** Người kiểm duyệt sẽ giúp phát triển cộng đồng SubQuery bằng cách đảm bảo rằng các kênh cộng đồng chính thức hoạt động tích cực và gắn kết. SubQuery sẽ hỗ trợ Người kiểm duyệt bằng cách quảng bá các kênh mà họ quản lý cũng như cung cấp các hướng dẫn theo đúng với kỳ vọng.
 
 ![](https://miro.medium.com/max/1400/1*xj6_UL1ZWYzlLmlVk25JzQ.png)
