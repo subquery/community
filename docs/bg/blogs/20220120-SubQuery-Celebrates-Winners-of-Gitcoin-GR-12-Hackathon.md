@@ -1,16 +1,16 @@
-# SubQuery Celebrates Winners of Gitcoin GR 12 Hackathon
+# SubQuery празнува победителите в Gitcoin GR 12 Hackathon
 
 ![](https://miro.medium.com/max/1400/1*MnMY9j3nasex9_9MNHUPtA.png)
 
-SubQuery, the leading data indexing solution in Polkadot, is delighted to announce the winners [of the recent Gitcoin GR 12 Hackathon](https://gitcoin.co/hackathon/gr12?org=subquery). Gitcoin is recognised as one of the preeminent blockchain developer communities focussed on creating community and applications for Web3. [SubQuery partnered with Gitcoin in December](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a) to sponsor five challenges to a value of USD$37,000 (the largest prize pool in the challenge), inviting developers to build useful tools, dashboards and even extend SubQuery to another Layer-1 blockchain.
+SubQuery, водещото решение за индексиране на данни в Polkadot, има удоволствието да обяви победителите [от скорошния Gitcoin GR 12 Хакатон](https://gitcoin.co/hackathon/gr12?org=subquery). Gitcoin е признат за една от изтъкнатите общности за разработчици на блокчейн, фокусирани върху създаването на общност и приложения за Web3. [SubQuery си партнира с Gitcoin през декември](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a), за да спонсорира пет предизвикателства на стойност $37 000 (най-големият награден фонд в предизвикателството), като кани разработчиците да изградят полезни инструменти, табла за управление и дори да разширят SubQuery до друг слой-1 блокчейн.
 
-The Hackathon took place from December 1st — 16th 2021 with leading blockchain projects such as Moonbeam, Astar and Acala contributing to various prize pools. The prizes are granted to those who have successfully completed the projects to the pre-set standards, and who deliver the most creative ideas, or those or solve areas to improve the core SubQuery SDK. A short summary of the challenges are below:
+Хакатонът се проведе от 1 до 16 декември 2021 г., като водещи блокчейн проекти като Moonbeam, Astar и Acala допринесоха за различни наградни фондове. Наградите се дават на онези, които са завършили успешно проектите според предварително зададените стандарти и които предоставят най-креативните идеи или тези или решават области за подобряване на основния SubQuery SDK. Кратко обобщение на предизвикателствата е по-долу:
 
-- [Create a unified block explorer that combines Substrate and EVM insights from Moonbeam and Astar into one easy to use application](https://gitcoin.co/issue/subquery/grants/1) — US$12,000 [Sponsored by Moonbeam and Astar]
-- [Create DeFi hub dashboard that’s inspired by Zapper.fi or defisaver.com](https://gitcoin.co/issue/subquery/grants/2) — US$8,000 [Sponsored by Acala]
-- [Create a staking dashboard that shows the best staking opportunities across Polkadot and its various parachains](https://gitcoin.co/issue/subquery/grants/3) — US$3,000
-- [Build a marketplace explorer for all RMRK protocol based NFTs](https://gitcoin.co/issue/subquery/grants/4) — US$2,000
-- [Extend the @subql/node service to index data from another layer 1 chain](https://gitcoin.co/issue/subquery/grants/5) — US$12,000
+- [Създайте унифициран блок Explorer, който комбинира Substrate и EVM прозрения от Moonbeam и Astar в едно лесно за използване приложение](https://gitcoin.co/issue/subquery/grants/1) — US$12 000 [Спонсорирано от Moonbeam и Astar]
+- [Създайте табло за управление на DeFi хъб, вдъхновено от Zapper.fi или defisaver.com](https://gitcoin.co/issue/subquery/grants/2) — US$8000 [Спонсорирано от Acala]
+- [Създайте табло за управление, което показва най-добрите възможности за залагане в Polkadot и различните му парачейни](https://gitcoin.co/issue/subquery/grants/3) — 3000 щ. д
+- [Създайте изследовател на пазара за всички NFT, базирани на RMRK протокол](https://gitcoin.co/issue/subquery/grants/4) — 2000 щ. д
+- [Разширете услугата @subql/node за индексиране на данни от друга верига от слой 1](https://gitcoin.co/issue/subquery/grants/5) — 12 000 долара
 
 ## Unified EVM and Substrate Block Explorer
 
@@ -30,7 +30,7 @@ Acala and Karura represent a huge vision for the future of DeFi, so there is a b
 
 The winner of [this challenge](https://gitcoin.co/issue/subquery/grants/2/100027176) was Web3Go who built a really nice summary of [Acala’s Collateral Debt Positions (CDPs)](https://web3go.xyz/#/CDPDetail). For users to mint kUSD stablecoins on Karura, they must first deposit tokens of one of the accepted collateral assets (e.g. KSM). Once the user has done so, the min collateral ratio parameter determines the minimum amount of the collateral needed for a user to mint kUSD. If the market price of the CDP’s collateral asset drops low enough, the CDP may be considered “unsafe.”
 
-![](https://miro.medium.com/max/1400/0*l7GA1axntiHCINRM)
+![](https://miro.medium.com/max/1400/0*b_o0NDpJOCv0QvXS)
 
 Web3Go’s interface cleanly lists all CDP positions, their ratio and their safe status. For each position it also provides information about the history of the position and easily allows others to monitor the financial instrument. <iframe width="560" height="315" src="https://www.youtube.com/embed/hc3YDjv6dkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
@@ -52,7 +52,7 @@ The excellent SubVis team also built a [beautiful Polkadot staking dashboard](ht
 
 Finally, Web3Go put in another excellent entry with detailed staking statistics on Moonriver. They provide information even about the delegators for each collator, the historic rewards provided by each collator, and even the actions that collators take. They provide the additional benefits of being able to show staking history for your own wallet address.
 
-![](https://miro.medium.com/max/1400/0*jQgOnvcaXt6cprJR)
+![](https://miro.medium.com/max/1400/0*uPDQdMug2JaZwMbA)
 
 ## RMRK NFT Marketplace Explorer
 
@@ -62,9 +62,9 @@ This challenge called for the creation of a detailed dashboard that tracks the e
 
 The winner of [this challenge](https://gitcoin.co/issue/subquery/grants/4/100027174) was another excellent dashboard from Web3Go called the [NFT Garden](https://web3go.xyz/#/NFTProfiler). It includes in depth details about each NFT collection, such as average prices, volumes, price ranges, and all transactions for each single item. Additionally, there are some interesting visualisations on all the traits within NFTs.
 
-![](https://miro.medium.com/max/1400/0*1_mUnNIBYI84G_qs)
+![](https://miro.medium.com/max/1400/0*uPDQdMug2JaZwMbA)
 
-“_Since the inception of Web3Go, we have been using SubQuery as the underlying architecture for data indexing. The development kit provided by SubQuery has proven to be very suitable for our team to quickly develop, deploy and upgrade projects, which is also the key to our good results on the Gitcoin Hackathon. In the next step, we will use Subquery to develop dashboards for all projects on the Polkadot & Kusama parachains, which will involve Defi, NFT, and Tokens!_” says Hao Ding from Web3Go.
+SubQuery празнува победителите в Gitcoin Gr 12 Хакатона. The development kit provided by SubQuery has proven to be very suitable for our team to quickly develop, deploy and upgrade projects, which is also the key to our good results on the Gitcoin Hackathon. In the next step, we will use Subquery to develop dashboards for all projects on the Polkadot & Kusama parachains, which will involve Defi, NFT, and Tokens!</em>” says Hao Ding from Web3Go.
 
 ## Extend SubQuery to another Layer-1 Blockchain
 
