@@ -1,4 +1,4 @@
-# SubQuery Blogs & Community Content
+# Blogs de SubQuery; Contenido de la comunidad
 
 SubQuery está aquí para ayudarte a transformar y consultar los datos del mundo para un futuro web3.0.
 
