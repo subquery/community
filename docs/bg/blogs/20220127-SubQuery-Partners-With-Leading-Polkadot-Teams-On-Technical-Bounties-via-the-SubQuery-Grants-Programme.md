@@ -1,12 +1,12 @@
-# SubQuery Partners With Leading Polkadot Teams On Technical Bounties via the SubQuery Grants Programme
+# SubQuery си партнира с водещи екипи на Polkadot в областта на техническите награди чрез програмата SubQuery Grants
 
 ![](https://miro.medium.com/max/1400/0*KlrhjUy3MRRT98OO)
 
-_The technical bounties give opportunities for developers to work on projects for the best teams in Polkadot_
+_Техническите награди дават възможност на разработчиците да работят по проекти за най-добрите екипи в Polkadot_
 
-[SubQuery](https://subquery.network/), the leading data indexing solution built on Polkadot (DOT), is pleased to announce the launch of technical bounties in partnership with leading blockchain teams in Polkadot as part of SubQuery’s Grants Programme.
+[SubQuery](https://subquery.network/), водещото решение за индексиране на данни, изградено върху Polkadot (DOT), има удоволствието да обяви стартирането на технически награди в партньорство с водещи блокчейн екипи в Polkadot като част от програмата за грантове на SubQuery.
 
-[The USD$500,000 SubQuery Grants Program kicked off in December 2021](https://subquery.medium.com/subquery-launches-500-000-grants-program-to-promote-polkadot-ecosystem-growth-9f04e6f67a3b) with the vision of offering opportunities to blockchain developers, community members, and wider ecosystem participants to create innovative or high-potential ideas that leverage SubQuery’s open-source data indexing tools to support cutting-edge decentralised applications.
+[Програмата за безвъзмездни средства SubQuery на стойност 500 000 щатски долара стартира през декември 2021 г.](https://subquery.medium.com/subquery-launches-500-000-grants-program-to-promote-polkadot-ecosystem-growth-9f04e6f67a3b) с идеята да предложи възможности на разработчиците на блокчейн, членовете на общността и по-широките участници в екосистемата да създават иновативни или високопотенциални идеи, които използват инструментите за индексиране на данни с отворен код на SubQuery в подкрепа на авангардни децентрализирани приложения.
 
 While developers can still apply for the SubQuery Grants Programme with their own ideas, SubQuery has released initial bounties in partnership with Moonbeam, Acala, Astar and Bifrost as projects for inspiration. All are open to apply now, and as a bonus, if your application is successful you’ll get to work closely with the parachain team that suggested the challenge!
 
