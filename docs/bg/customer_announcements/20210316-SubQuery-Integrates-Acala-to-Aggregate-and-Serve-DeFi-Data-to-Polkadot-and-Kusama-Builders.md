@@ -1,4 +1,4 @@
-# SubQuery интегрира Acala за агрегиране и предоставяне на DeFi данни на Polkadot и Kusama Builders
+# SubQuery интегрира Acala за агрегиране и предоставяне на DeFi данни на Polkadot и Kusama разработчици
 
 ![](https://miro.medium.com/max/1400/1*cg4kJs0WEcyPP73EAtHomA.png)
 
