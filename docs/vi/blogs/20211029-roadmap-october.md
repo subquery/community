@@ -90,17 +90,17 @@ Vào đầu năm 2022, chúng tôi sẽ chia sẻ thêm thông tin về quá tr�
 
 Hãy tưởng tượng có thể tìm ra trạng thái của blockchain tại một thời điểm nhất định - chính xác thì một dự án SubQuery trông như thế nào ở khối thứ 5 triệu? Đây chính xác là những gì tính năng mới này sẽ cung cấp.
 
-### Hợp đồng mạng SQT v1 và kiểm tra mã bởi một đối tác uy tín
+### Hợp đồng SQT Network v1 và đánh giá mã ngoại bộ
 
-Tất cả các mạng quan trọng đều yêu cầu đối tác bên ngoài kiểm tra mã thông qua để đảm bảo rằng mã của mạng đó an toàn và có thể mở rộng. SubQuery cũng không khác, vì vậy chúng tôi sẽ làm việc với các đối tác chính để kiểm tra toàn bộ mã tại đây và cũng tiếp tục nhận kiểm tra mã cho các hợp đồng thông minh của chúng tôi trong tương lai.
+Tất cả các mạng lưới quan trọng đều cần vượt qua cuộc kiểm tra mã bởi đối tác bên ngoài nhằm đảm bảo rằng mã của mạng đó an toàn và có thể mở rộng. SubQuery cũng vậy, vì thế chúng tôi sẽ làm việc với các đối tác để kiểm tra toàn bộ mã và cũng tiếp tục tiến hành việc kiểm tra mã cho các hợp đồng thông minh của chúng tôi trong tương lai.
 
 ### Thử nghiệm thanh toán vi mô nội bộ
 
-Đây là một tính năng chính đối với chúng tôi. Chúng tôi sẽ thực hiện nhiều công việc trong hệ sinh thái Polkadot để quản lý và xử lý các khoản thanh toán vi mô trong SubQuery. Lợi thế của Polkadot là phí giao dịch nhỏ so với các mạng khác như Ethereum, có nghĩa là các khoản thanh toán vi mô có liên quan hơn nhiều. Điều này sẽ được triển khai cho mạng thử nghiệm được khuyến khích của chúng tôi sau khi chúng tôi thực hiện thử nghiệm nội bộ kỹ lưỡng.
+Đây là một tính năng chính đối với chúng tôi. Chúng tôi sẽ thực hiện nhiều công việc trong hệ sinh thái Polkadot để quản lý và xử lý các khoản thanh toán vi mô trong SubQuery. Lợi thế của Polkadot là phí giao dịch nhỏ so với các mạng khác như Ethereum, có nghĩa là các khoản thanh toán vi mô có vẻ thích hợp hơn nhiều. Điều này sẽ được triển khai cho mạng thử nghiệm của chúng tôi sau khi chúng tôi thực hiện thử nghiệm nội bộ một cách kỹ lưỡng.
 
-### Ứng dụng và Trình khám phá mạng SubQuery
+### Trình khám phá mạng SubQuery và Ứng dụng
 
-Chúng tôi đang xây dựng trình khám phá và các ứng dụng khác để cho phép những người tham gia trong Mạng SubQuery khám phá và tìm dữ liệu trong Mạng SubQuery. Người tiêu dùng cũng sẽ sử dụng điều này để điều hướng thư viện các nguồn dữ liệu được hỗ trợ, cũng như người ủy quyền để phân tích cách người lập chỉ mục đang hoạt động để quyết định cách ủy quyền mã thông báo SQT của họ.
+Chúng tôi đang xây dựng trình khám phá và các ứng dụng khác để cho phép những người tham gia trong Mạng SubQuery khám phá và tìm dữ liệu trong Mạng SubQuery. Người tiêu dùng cũng sẽ sử dụng tính năng này để điều hướng thư viện các nguồn dữ liệu được hỗ trợ, cũng như việc những người ủy quyền sẽ phân tích cách người lập chỉ mục đang hoạt động ra sao để quyết định việc ủy quyền token SQT của họ.
 
 ### Giám sát sức khỏe doanh nghiệp
 
