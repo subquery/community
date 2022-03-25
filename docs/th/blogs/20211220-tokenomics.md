@@ -57,8 +57,8 @@ Foundation ซึ่งจะจัดตั้งขึ้นในต้นป
 
 ## เกี่ยวกับ SubQuery Network
 
-SubQuery เป็นผู้ให้บริการข้อมูลชั้นนำของ Polkadot ซึ่งรองรับการจัดทำดัชนี & การ Query เลเยอร์ระหว่างบล็อคเชน Layer-1 (Polkadot) และ Dapps บริการข้อมูลของ SubQuery ถูกใช้โดยเว็บไซต์ Crowdloan และ Parachain ส่วนใหญ่ของ Polkadot และ Kusama ในปัจจุบัน
+SubQuery เป็นผู้ให้บริการข้อมูลชั้นนำของ Polkadot ซึ่งรองรับการจัดทำดัชนี & การ Query เลเยอร์ระหว่างบล็อคเชน Layer-1 (Polkadot) และ Dapps โดยปัจจุบันได้ถูกใช้โดยเว็บไซต์ Crowdloan และ Parachain ส่วนใหญ่ของ Polkadot และ Kusama
 
-โปรโตคอลของ SubQuery แยกแยะความแตกต่างของข้อมูลบล็อกเชนด้วย SubQuery SDK ทำให้นักพัฒนาสามารถมุ่งเน้นไปที่การ deploy ผลิตภัณฑ์หลักของตนโดยไม่ต้องเสียแรงไปกับเทคโนโลยี back-end ที่ต้องจัดทำเองโดยไม่จำเป็น
+โปรโตคอลของ SubQuery สามารถแยกแยะความแตกต่างของข้อมูลบล็อกเชนด้วย SubQuery SDK ทำให้นักพัฒนาสามารถมุ่งเน้นไปที่การ deploy ผลิตภัณฑ์หลักของตนโดยไม่ต้องเสียแรงจัดทำ back-end เองโดยไม่จำเป็น
 
 ​​​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
