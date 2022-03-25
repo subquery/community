@@ -1,8 +1,8 @@
-# Parallel Finance създава следващата платформа DeFi с помощта на SubQuery
+# Parallel Finance създава следващата DeFi платформа с помощта на SubQuery
 
 ![](https://cdn-images-1.medium.com/max/1600/1*WcFjuL_ncmHpgzVhaXDUdg.png)
 
-Мисията на Parallel е да въвежда иновации и да пренася DeFi на следващо ниво и сред по-широка аудитория. Днес сме развълнувани да ви разкрием как Parallel Finance използват данните от SubQuery в [новото си приложение](https://testnet.parallel.fi/#/overview).
+Мисията на Parallel е да въвежда иновации, развие DeFi до следващото ниво и сред по-широка аудитория. Днес сме развълнувани да ви разкрием как Parallel Finance използват данните от SubQuery в [новото си приложение](https://testnet.parallel.fi/#/overview).
 
 ![](https://cdn-images-1.medium.com/max/1600/1*5Ru0mv1hq86BuBhGwsmoqQ.png)
 
