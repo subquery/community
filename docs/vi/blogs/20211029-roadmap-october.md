@@ -50,43 +50,43 @@ Vui lòng liên hệ với chúng tôi nếu bạn muốn trao đổi về việ
 
 ## Mốc 1 - Cuối quý 4 năm 2021
 
-### Chương trình Nhà xây dựng / Tài trợ SubQuery
+### Chương trình Nhà xây dựng/Tài trợ SubQuery
 
 Chương trình tài trợ này được thiết kế để tạo điều kiện và thúc đẩy sự đổi mới với Polkadot và SubQuery, đồng thời xây dựng thế hệ dApp tiếp theo để thúc đẩy cuộc cách mạng web3. Nó sẽ hỗ trợ các dự án mới với các khoản tài trợ, hỗ trợ kỹ thuật, tiếp thị và tư vấn phát triển kinh doanh từ SubQuery và những người khác.
 
-Chúng tôi rất vui mừng về tiềm năng của điều này và sẽ sớm công bố thêm thông tin.
+Chúng tôi rất vui mừng về tiềm năng của chương trình này và sẽ sớm công bố thêm thông tin.
 
-### Điều phối viên và triển khai SDK khách hàng
+### Triển khai Bộ điều phối và SDK khách hàng
 
-Chúng tôi sẽ cải thiện SubQuery SDK cốt lõi của mình và thêm các thành phần bổ sung cho khách hàng và điều phối viên SubQuery.
+Chúng tôi sẽ cải tiến SubQuery SDK cốt lõi của mình và thêm các thành phần bổ sung cho một Bộ điều phối và khách hàng của SubQuery.
 
-Bộ điều phối trình lập chỉ mục sẽ được triển khai bởi người lập chỉ mục để hiển thị mạng với trình lập chỉ mục và cho phép trình lập chỉ mục tự đăng ký với mạng SubQuery và quảng cáo dữ liệu mà nó đang cung cấp
+Bộ điều phối trình lập chỉ mục sẽ được triển khai bởi người lập chỉ mục để hiển thị mạng với trình lập chỉ mục và cho phép trình lập chỉ mục tự đăng ký với mạng SubQuery và quảng cáo dữ liệu mà họ đang cung cấp
 
 SDK khách hàng sẽ dành cho vai trò người tiêu dùng và sẽ cho phép họ tìm người lập chỉ mục và quản lý toàn bộ giao dịch mà người tiêu dùng sẽ cần để truy xuất và trả tiền cho dữ liệu.
 
-### Hợp đồng nội bộ của Mạng SQT MVP
+### Hợp đồng nội bộ MVP của SQT Network
 
 Phiên bản mạng SubQuery đầu tiên của chúng tôi sẽ nằm trong một hợp đồng thông minh, được triển khai trên một parachain Polkadot hàng đầu. MVP nội bộ sẽ cho phép chúng tôi bắt đầu thử nghiệm nội bộ mọi thứ ở đây và là một cột mốc quan trọng để chúng tôi hoàn thành.
 
-### Cụm EU
+### Triển khai trên cụm EU
 
-Khách hàng của chúng tôi đang yêu cầu hỗ trợ thêm các cụm cho dữ liệu SubQuery trên khắp thế giới. Nhiều cụm hơn có nghĩa là nhiều khả năng phục hồi hơn và dữ liệu SubQuery được lưu trữ gần hơn với vị trí khách hàng của họ. Một cụm châu Âu mới có nghĩa là yêu cầu nhanh hơn cho người tiêu dùng, hiệu suất vô song cho các nhà phát triển dApp và khả năng phục hồi cao hơn cho mạng SubQuery.
+Khách hàng của chúng tôi đang yêu cầu hỗ trợ thêm các cụm cho dữ liệu SubQuery trên khắp thế giới. Nhiều cụm hơn có nghĩa là nhiều khả năng phục hồi hơn và dữ liệu SubQuery được lưu trữ gần hơn với vị trí của khách hàng. Một cụm châu Âu mới có nghĩa là yêu cầu nhanh hơn cho người tiêu dùng, hiệu suất vô song cho các nhà phát triển dApp và khả năng phục hồi cao hơn cho mạng SubQuery.
 
 ### Các cải tiến đối với subql init
 
-Lệnh _subql init_ là một lệnh quen thuộc đối với bất kỳ ai đã xây dựng dự án SubQuery; nó đại diện cho một khung trống - cơ hội vô hạn. Chúng tôi nhận thức được rằng chúng tôi có thể làm tốt hơn để giúp những người khác bắt đầu, thay vì một nhà phát triển canvas trống rỗng muốn có một khung trống, nơi tất cả mã boiler-plate đã được viết sẵn.
+Lệnh _subql init_ là một lệnh quen thuộc đối với bất kỳ ai đã xây dựng dự án SubQuery; nó đại diện cho một khung trống - cơ hội vô hạn. Chúng tôi nhận thức được rằng chúng tôi có thể làm tốt hơn để giúp những người khác bắt đầu, thay vì chỉ là một bức tranh rỗng các nhà phát triển muốn có một khung trống, nơi tất cả mã boiler-plate đã được viết sẵn.
 
-Mục lộ trình này đại diện cho công việc mà chúng tôi muốn làm để cho phép các nhà phát triển bắt đầu xây dựng trên bất kỳ parachain nào mà không cần lo lắng về điểm cuối, từ điển và loại - tất cả đều tiết kiệm thời gian cho nhà phát triển và giúp những người khác bắt đầu.
+Mục lộ trình này đại diện cho công việc mà chúng tôi muốn làm để cho phép các nhà phát triển bắt đầu xây dựng trên bất kỳ parachain nào mà không cần lo lắng về điểm cuối, từ điển và các dạng thức - tất cả đều giúp tiết kiệm thời gian cho các nhà phát triển và giúp những người khác dễ dàng khởi đầu.
 
 ## Mốc 2 - Giữa Q1 2022
 
 ### Khởi chạy testnet công khai
 
-Tuân theo MVP nội bộ của hợp đồng Mạng SQT, chúng tôi sẽ mời một nhóm nhỏ người tham gia cùng chúng tôi khi chúng tôi bắt đầu thử nghiệm Mạng SubQuery. Để khởi chạy, chúng tôi cần hoàn thành một số lượng lớn nhiệm vụ và một lượng tài liệu lớn hơn nữa!
+Tuân theo hợp đồng nội bộ MVP của Mạng SQT, chúng tôi sẽ mời một nhóm nhỏ người tham gia cùng chúng tôi khi chúng tôi bắt đầu thử nghiệm Mạng SubQuery. Để khởi chạy, chúng tôi cần hoàn thành một số lượng lớn nhiệm vụ và một lượng tài liệu lớn hơn nữa!
 
 Vào đầu năm 2022, chúng tôi sẽ chia sẻ thêm thông tin về quá trình này và cách bạn có thể đăng ký tham gia.
 
-### Lập chỉ mục điểm trong thời gian
+### Lập chỉ mục theo thời điểm
 
 Hãy tưởng tượng có thể tìm ra trạng thái của blockchain tại một thời điểm nhất định - chính xác thì một dự án SubQuery trông như thế nào ở khối thứ 5 triệu? Đây chính xác là những gì tính năng mới này sẽ cung cấp.
 
