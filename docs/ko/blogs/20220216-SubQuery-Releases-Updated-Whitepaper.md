@@ -1,10 +1,10 @@
-# SubQuery Releases Updated Whitepaper
+# SubQuery, 업데이트된 백서 출시
 
 ![](https://miro.medium.com/max/700/0*guA8YHyJPhu0wmzf)
 
-_An updated plan for how SubQuery will revolutionise the future of web3 infrastructure_
+_SubQuery가 web3 인프라의 미래를 어떻게 혁신할 것인지에 대한 업데이트된 계획_
 
-After a long period of design, discussion, testing, and development, today we are releasing a new and significantly [updated version of our Whitepaper](https://static.subquery.network/whitepaper.pdf). Originally published back in June 2021, the SubQuery Whitepaper is a document that outlines our strategic framework for the decentralised SubQuery Network and her SQT token. Since the original publication, we have experienced significant growth in our customer base and community and made huge progress on building the SubQuery Network. From these sources, we have been inspired to improve and innovate, and that culminates in the latest version of our whitepaper. <iframe width="1719" height="976" src="https://www.youtube.com/embed/Ghxyw5bIHs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+오랜 기간의 설계, 토론, 테스트 및 개발 끝에 오늘 우리는 새롭고 크게 [업데이트된 버전의 백서](https://static.subquery.network/whitepaper.pdf)를 발표합니다. 원래 2021년 6월에 게시된 SubQuery 백서는 분산형 SubQuery 네트워크와 SQT 토큰에 대한 전략적 프레임워크를 설명하는 문서입니다. 최초 발행 이후로 우리는 고객 기반과 커뮤니티에서 상당한 성장을 경험했으며 SubQuery 네트워크 구축에 큰 진전을 이루었습니다. 이러한 출처에서 우리는 개선 및 혁신에 대한 영감을 얻었으며, 이는 최신 버전의 백서에서 절정에 달합니다. <iframe width="1719" height="976" src="https://www.youtube.com/embed/Ghxyw5bIHs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 This whitepaper outlines SubQuery’s plans to move towards a globally decentralised network of participants organising blockchain data in order to ensure no single point of failure for SubQuery. It is expected that this will massively increase SubQuery’s uptime, provide better redundancy, and increase performance by driving down latency. It is envisioned that applications will be able to use GraphQL to query any store of data (as defined by the SubQuery Project) from Indexers around the network.
 
