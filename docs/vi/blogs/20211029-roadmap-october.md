@@ -48,7 +48,7 @@ Chúng tôi đang vượt qua thách thức với Thỏa thuận mức độ d�
 
 Vui lòng liên hệ với chúng tôi nếu bạn muốn trao đổi về việc nhận hỗ trợ cho các dịch vụ cấp doanh nghiệp từ SubQuery.
 
-## Mốc 1 - Cuối quý 4 năm 2021
+## Mốc 1 - Cuối Q4 2021
 
 ### Chương trình Nhà xây dựng/Tài trợ SubQuery
 
@@ -104,17 +104,17 @@ Chúng tôi đang xây dựng trình khám phá và các ứng dụng khác đ�
 
 ### Giám sát sức khỏe doanh nghiệp
 
-Tiếp theo từ cấp dịch vụ SubQuery Enterprise của chúng tôi, bạn cũng có thể mong đợi một lượng lớn các công cụ theo dõi sức khỏe và phân tích hiệu suất khác được cung cấp cho khách hàng.
+Đối với lớp dịch vụ SubQuery dành cho doanh nghiệp, bạn cũng có thể mong đợi một lượng lớn các công cụ theo dõi sức khỏe và phân tích hiệu suất khác được cung cấp cho khách hàng.
 
 ## Mốc 3 - Cuối Q1 2022
 
-### Sự kiện tạo token SQT
+### Giới thiệu token SQT
 
-Sau giai đoạn mạng thử nghiệm thành công, chúng tôi dự kiến ​​sẽ khởi chạy token SubQuery trên đối tác parachain của Polkadot. Chúng tôi sẽ chia sẻ thêm thông tin về tokenomics của chúng tôi với cộng đồng trong những tuần tới.
+Sau khi chạy mạng thử nghiệm thành công, chúng tôi dự kiến ​​sẽ khởi chạy token SubQuery trên một đối tác parachain của Polkadot. Chúng tôi sẽ chia sẻ thêm thông tin về tokenomics với cộng đồng trong những tuần tới.
 
-### Khởi chạy testnet được khuyến khích công khai với các khoản thanh toán vi mô
+### Testnet có thưởng khuyến khích với thanh toán vi mô
 
-Đây là giai đoạn cuối cùng của mạng thử nghiệm của chúng tôi. Chúng tôi sẽ phát hành mọi thứ lên mạng thử nghiệm của mình và mong những người tham gia đẩy nó đến giới hạn. Điều này bao gồm kiểm tra quy mô và tải, tinh chỉnh các mô hình và hệ số kinh tế của chúng tôi, kiểm tra tài liệu và quy trình giới thiệu của chúng tôi, đồng thời đảm bảo rằng bạn có thể giao dịch với tiền thân của SQT trong đó.
+Đây là giai đoạn cuối cùng của mạng thử nghiệm của chúng tôi. Chúng tôi sẽ phát hành mọi thứ lên mạng thử nghiệm của mình và hi vọng những người tham gia sẽ có thể trải nghiệm nó một cách đầy đủ nhất. Điều này bao gồm kiểm tra quy mô và sức tải, tinh chỉnh các mô hình và hệ số kinh tế, kiểm tra tài liệu và quy trình giới thiệu đồng thời đảm bảo rằng bạn có thể giao dịch với sự hiện diện của SQT trên đó.
 
 Chúng tôi cũng mong muốn sẽ thưởng cho những người tham gia thử nghiệm mạng lưới của chúng tôi, những người hoàn thành nhiệm vụ hoặc một số nhiệm vụ nhất định và cả những thành viên khác của mạng thử nghiệm này.
 
@@ -130,7 +130,7 @@ Mục tiêu của chúng tôi là mỗi ngày có một tỷ yêu cầu đối v
 
 Trong tương lai, điều này có nghĩa là chúng tôi sẽ tạo ra ngày càng nhiều dịch vụ nhỏ hơn được lưu trữ trên SubQuery và tiếp cận người dùng một cách có chiến thuật.
 
-## Cột mốc 4 - Giữa quý 2 năm 2022
+## Mốc 4 - Giữa Q2 2022
 
 ### Khởi chạy SubQuery Foundation
 
@@ -138,13 +138,13 @@ Với động thái nhằm tạo ra một Mạng SubQuery phi tập trung, chún
 
 ### Hoàn thiện nghiên cứu cho các chuỗi lớp 1 khác
 
-Trong khi ngôi nhà của chúng tôi sẽ luôn là Polkadot, chúng tôi sẽ khai thác và hỗ trợ nhiều blockchain Lớp-1 khác với khả năng lập chỉ mục của chúng tôi.
+Trong khi ngôi nhà của chúng tôi sẽ luôn là Polkadot, chúng tôi sẽ khai thác và hỗ trợ nhiều blockchain Lớp-1 khác với khả năng lập chỉ mục của mình.
 
 ### Chương trình khai thác thanh khoản
 
 Để tăng cường tính thanh khoản của token SQT, chúng tôi sẽ tạo một chương trình khai thác thanh khoản với sàn giao dịch phi tập trung (DEX). Điều này sẽ cho phép chủ sở hữu token tạo ra lợi nhuận từ khoản đầu tư của họ.
 
-## Cột mốc 5- Cuối Quý 2 năm 2022
+## Mốc 5- Cuối Q2 2022
 
 ### Khởi chạy mainnet 🚀
 
@@ -154,7 +154,7 @@ Sau khi hoàn tất quá trình chạy thử, chúng tôi sẽ khởi chạy m�
 
 Để thúc đẩy ứng dụng của SQT, chúng tôi dự kiến sẽ giới thiệu token trên một hoặc là nhiều sàn tập trung hàng đầu trong giai đoạn này cũng như nhiều sàn phi tập trung khác.
 
-## Cột mốc 6 - Kế hoạch dài hạn
+## Mốc 6 - Kế hoạch dài hạn
 
 ### Khởi chạy Parachain riêng
 
