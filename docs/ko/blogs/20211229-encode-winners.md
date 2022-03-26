@@ -1,4 +1,4 @@
-# 서브쿼리는 Encode Club 해커톤의 우승자를 축하합니다.
+# SubQuery는 Encode Club 해커톤의 우승자를 축하합니다.
 
 ![](https://miro.medium.com/max/1400/1*KSv8qczywRPCEvWXeYiDNA.png)
 
