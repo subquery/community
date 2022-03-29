@@ -1,81 +1,81 @@
-# Subqueryはアップデート版ホワイトペーパーを公開しました
+# SubQuery Releases Updated Whitepaper
 
 ![](https://miro.medium.com/max/700/0*guA8YHyJPhu0wmzf)
 
-_SubQueryがWeb3インフラの未来を変えるための最新プラン_
+_An updated plan for how SubQuery will revolutionise the future of web3 infrastructure_
 
-長い間、設計、議論、テスト、開発を行ってきましたが、本日、大幅に更新した[ホワイトペーパーの新しいバージョン](https://static.subquery.network/whitepaper.pdf)をリリースします。 SubQueryのホワイトペーパーは、2021年6月に発表された、分散型のSubQuery NetworkとSQTトークンの戦略的枠組みをまとめた文書です。 最初の出版以来、私たちは顧客基盤とコミュニティの著しい成長を経験し、SubQuery Networkの構築に向けて大きく前進しました。 これらのソースから、私たちは改良と革新のためのインスピレーションを受け、それが最新版のホワイトペーパーに結実したのです。 <iframe width="1719" height="976" src="https://www.youtube.com/embed/Ghxyw5bIHs8" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+After a long period of design, discussion, testing, and development, today we are releasing a new and significantly [updated version of our Whitepaper](https://static.subquery.network/whitepaper.pdf). Originally published back in June 2021, the SubQuery Whitepaper is a document that outlines our strategic framework for the decentralised SubQuery Network and her SQT token. Since the original publication, we have experienced significant growth in our customer base and community and made huge progress on building the SubQuery Network. From these sources, we have been inspired to improve and innovate, and that culminates in the latest version of our whitepaper. <iframe width="560" height="315" src="https://www.youtube.com/embed/Ghxyw5bIHs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-このホワイトペーパーでは、SubQueryの単一障害点がないことを保証するために、ブロックチェーンデータを整理する参加者の世界的な分散型ネットワークへの移行を計画していることが紹介されています。 これにより、SubQueryの稼働率が大幅に向上し、冗長性が高まり、レイテンシー(待ち時間)が減少してパフォーマンスが向上することが期待されています。 アプリケーションがGraphQLを使って、ネットワーク上のインデクサーから（SubQuery Projectで定義された）あらゆるデータストアに問い合わせできるようになることを想定しています。
+This whitepaper outlines SubQuery’s plans to move towards a globally decentralised network of participants organising blockchain data in order to ensure no single point of failure for SubQuery. It is expected that this will massively increase SubQuery’s uptime, provide better redundancy, and increase performance by driving down latency. It is envisioned that applications will be able to use GraphQL to query any store of data (as defined by the SubQuery Project) from Indexers around the network.
 
 ![](https://miro.medium.com/max/700/0*xtd6e7mn7JkfhpzG)
 
-## 私たちのフォーカス
+## Our Focus
 
-[最新のホワイトペーパー](https://static.subquery.network/whitepaper.pdf)では、「明日のデータサービスは、マルチチェーンで、シンプルで、柔軟でなければならない」というSubQueryの信念が貫かれています。 このホワイトペーパーでは、SubQuery Networkが、これらの考慮事項をトークンの経済設計に反映させながら、パワーユーザーがエンタープライズレベルのサービスを実行できるようにしていることが詳しく説明されています。
+The [updated whitepaper](https://static.subquery.network/whitepaper.pdf) maintains SubQuery’s conviction that the data services of tomorrow must be multi-chain, simple, and flexible. The whitepaper goes into detail on how the SubQuery Network factors these considerations into the token economic design while also enabling power users to run enterprise-level services on it.
 
-### 設計によるマルチチェーン
+### Multi-chain by Design
 
-_SubQueryは、ブロックチェーンのコミュニティが協力してweb3の導入を促すことが未来につながるという考えを持っています。_
+_SubQuery believes in the idea that a community of blockchains, working together to encourage web3 adoption, is the future_
 
-SubQueryはPolkadotのエコシステムに生まれたもので、私たちのホームであり、SubQuery Networkの拠点となるものです。 しかし、これからはマルチチェーンです。 SubQueryは、さまざまな問題を解決するために、さまざまなブロックチェーンが協力し合うことになると考えています。
+SubQuery is native to the Polkadot ecosystem, it’s our home and will be the location of the SubQuery Network. But the future is multi-chain. SubQuery knows that there are going to be many different blockchains working together to solve different problems.
 
-SubQuery Networkは、Layer 1ネットワーク（Polkadot内または外）からのSubQueryプロジェクトをサポートするように設計されています。 最初からマルチチェーンに対応するように設計・構築されており、あるネットワークのプロジェクトが別のネットワークのプロジェクトと一緒にインデックスされることになります。
+The SubQuery Network is designed to support any SubQuery Project from any Layer 1 network (within Polkadot or not). It will be designed and built to be multi-chain from the outset, where you will see projects from one network being indexed alongside projects from another.
 
-### シンプルでアクセスしやすい
+### Simple and Accessible
 
-_SubQuery Networkは、人々へのデータプロバイダーとして設計されています。_
+_The SubQuery Network is designed to be the data provider of the people._
 
-SubQuery Networkの基本方針は「シンプル」です。 分散型データクエリーサービスの他のアプローチは複雑すぎて、参加者が投資収益率を予測するのが難しいというのがSubQueryの意見です。 その目的は、お客様がネットワークに参加しやすく、将来の潜在的なリターンを明確に予測することにあります。
+The guiding principle with the SubQuery Network is simplicity. It is SubQuery’s opinion that other approaches to decentralised data query services are overly complex and make it difficult for participants to predict their return on investment. The aim is to make it easy for you to get involved in the network, and to clearly forecast your future potential return.
 
-SubQueryは、参加するために高いステーキング額を必要とせず、ハードウェアへの莫大な投資も必要ありません。 競合他社よりもSubQueryに参加しやすく、構築しやすい環境を整えることに注力していきます。SubQueryの成功は、Subquery上で未来を創造する人々の成功にかかっているのです。
+SubQuery won’t require high staking thresholds to participate or huge investment into hardware. The focus will be on making SubQuery easier to join and build with than our competitors — SubQuery’s success depends on the success of others creating the future on it.
 
-つまり、誰でも簡単に参加できるようにすることが設計の目標なのです。 開発者でなくても、トークンの経済モデルについての深い知識がなくても、Delegatorとして簡単に参加することができます。 また、お客様のニーズに合わせて、様々なお支払い方法をお選びいただけます。 最後に、SubQuery Foundationの主な目的は、ブロックチェーンの専門家チームから新しい趣味の開発者まで、誰もが自分のSubQueryプロジェクトを構築できるように十分なサポートを提供することです。
+This means that a design goal is to make it as easy as possible for anyone to participate. You don’t need to be a developer or have a deep knowledge of the token economic model, you can easily participate as a Delegator. As a Consumer, you also have plenty of payment options to best suit your needs. Finally, a key focus of the SubQuery Foundation is to ensure that there is enough support that anyone, from an expert blockchain team to a new hobbyist developer, can build their own SubQuery project.
 
-### 柔軟性
+### Flexible
 
-_SubQueryはコミュニティのツールであり、人々の創造性によって無限の可能性を秘めています。_
+_SubQuery is just a tool in the hands of our community, endless opportunities exist limited only by the creativity of the people._
 
-SubQueryの真の利点は、その柔軟性にあります。ユーザーは、分散されたデータを自分のニーズに合わせて自由に変換することができます。 このような柔軟性の追求は、デリゲーターがアンボンディング期間の延長を待つことなく、異なるインデクサーを迅速かつ容易にサポートできるようにすることにもつながっています。 最後に、このアプローチを完璧に体現しているのが、次に紹介する3つの支払い方法の導入です。
+The true advantages of SubQuery may lie in its flexibility — users will have the freedom to adapt and transform decentralised data to suit their needs. This drive for flexibility extends to making it easier for delegators to quickly and easily support different indexers without having to wait for extended unbonding periods. Finally, this approach is perfectly embodied by our introduction of three payment methods which we’ll cover next.
 
-## SubQueryの支払い方法の革新
+## SubQuery’s Innovation in Payment Methods
 
-今回のホワイトペーパーで最も大きく変わったのは、支払い方法の革新です。 現在、私たちは、音楽を聴いたり、テレビ番組を見たり、アプリケーションを使用したりする際に、一般的にサブスクリプションベースの支払いを行っています。 先駆的なweb3サービスアプリケーションでは、その代わりにpay-as-you-goモデルを採用し、各アトミック・トランザクションがネットワーク上で正確なコストを持つようにしました。
+The biggest change by far with this version of the whitepaper is our innovation in payment methods. Today, we generally pay with subscription-based payments for the music we listen to, the TV shows we watch, and the applications that we use. In pioneering web3 service applications, we’ve instead adopted a pay-as-you-go model, where each atomic transaction has an exact cost in the network.
 
-私たちは、定額制や定期的な支払い方法はこれからも続くと考えています。 サービスプロバイダーにとっては、予測可能な収益であることから好まれ、一方、消費者にとっては、既知で容易に定量化できるコストであることから好まれます。 また、一度購読すると、ほとんどの消費者は、すべてではないにしても、同じだけの量を消費しなければならないという義務感に駆られ、サービスへの需要が高まり、スケールメリットが発揮されるという心理的な要因もあります。
+We think subscription based or recurring payment methods are here to stay. Service providers like them because they represent predictable revenue, similarly on the other side consumers like them because they are a known and easily quantified cost. There’s also a psychological factor where once you subscribe, most consumers will feel obligated to consume as much if not all of it, increasing the demand for the service and allowing economies of scale to kick in.
 
-その結果、SubQueryはSubQuery Networkに3つの支払い方法を導入し、すべての参加者にSubQueryトークン（SQT）を使った柔軟な取引方法を提供する予定です。 インデクサーとコンシューマーの双方がプランマーケットプレイスに集まり、価格やサポートされている支払い方法を宣伝します。
+As a result, SubQuery plans to introduce three ways to pay within the SubQuery Network, providing all participants with various flexible ways to transact with the SubQuery Token (SQT). Both Indexers and Consumers will come together on the Plan Marketplace to advertise their pricing and supported payment methods.
 
 ![](https://miro.medium.com/max/700/0*f0yVHlbWTE8DdjuB)
 
-### Pay-As-Yo-Go (PAYG)
+### Pay-As-You-Go (PAYG)
 
-Web3業界の最初の標準は「Pay-As-You-Go」です。 これは、基本的な支払い方法であり、他の支払い方法の予備となるものです。 各インデクサは、特定のSubQuery Projectsのリクエストに対応する能力を登録する際に、そのPAYG価格を公表します。
+The first, and a standard amongst the web3 industry, is Pay-As-You-Go. This is the baseline payment method and a fallback for others. Each Indexer will advertise their PAYG prices when registering their ability to serve requests for specific SubQuery Projects.
 
-### クローズドプランと契約
+### Closed Plans and Agreements
 
-クローズド・アグリーメントとは、1人のインデクサーと1人のコンシューマーの間で交わされる契約のことです。 行われた仕事に対して、すべての支払いが両者の間で流れる直接の関係です。 クローズド・アグリーメントは、特定のSubQueryプロジェクトのデータに市場があることをインデクサーに確信させ、どのプロジェクトにインデックスを付けるべきかを基本的に知らせるためのものです。 また、既存のSubQueryプロジェクトにクローズドプランを設置することで、そのSubQueryプロジェクトにインデックサーを増やすことができます。 これは、既存の独占的なインデクサーがデータに対して不当な金額を請求している可能性がある場合や、価格を均衡に導くための競争が不足している場合に有効です。
+Closed Agreements represent an agreement between only one Indexer and one Consumer. It’s a direct relationship where all payment flows between the two parties for the work that is done. Closed Agreements are designed to give Indexers confidence that there is a market for data from a particular SubQuery Project, and essentially signal to them which Projects should be indexed. Closed Plans can also be placed on existing SubQuery Projects to attract additional Indexers to that SubQuery Project. This may be useful in situations where the existing monopolistic Indexer may be charging an unreasonable amount for the data or there is a lack of competition to drive prices to equilibrium.
 
-### オープンプランと契約
+### Open Plans and Agreements
 
-オープン・アグリーメントはクローズド・アグリーメントと似ていますが、複数のインデクサーが参加し、コンシューマーへのデータ提供を競うことができます。 オープンアグリーメントは、1人のコンシューマーと1人のインデクサーの間のアグリーメントとして開始することができますが、より多くの当事者が既存のアグリーメントに参加することができ、結果として「n」人のインデクサーと「n」人のコンシューマーが存在することになります。
+Open Agreements are similar to Closed Agreements, but allow multiple Indexers to join and compete to provide data to the Consumer. An Open Agreement may start as an Agreement between one Consumer and one Indexer, but more parties may join the existing Agreement resulting in ’n’ Indexers and ’n’ Consumers.
 
-オープンアグリーメントは、インデクサーとコンシューマーの双方に有利な条件を提供しますが、より多くのインデクサーが競争して同じデータを提供するようになることで、コンシューマーにとってはより優れたパフォーマンスと信頼性が得られます。 コンシューマーが世界中のユーザーと大規模なアプリケーションを実行している場合は、オープンアグリーメントが理想的です。
+Open Agreements provide favourable terms for both Indexers and Consumers, but enable better performance and reliability for Consumers by attracting more Indexers to compete and serve the same data. If Consumers are running large scale applications with users around the world, then Open Agreements are ideal.
 
 ![](https://miro.medium.com/max/1400/0*sc9-ee7VTl0XEhTS)
 
-インデクサーのための上記3つの支払い方法を組み合わせることで、コンシューマーとインデクサーにいくつかの高度なサブスクリプションベースのオプションを提供することができます。 一部の当事者は、クローズド・アグリーメントによって提供される報酬の確実性や、経常的なコストの予測可能性から利益を得ることができます。 また、大きな定期契約や低価格のスポット契約を利用して、最も安価なデータを探したいと考える人もいるでしょう。
+he combination of the above three payment options for indexers provide several advanced subscription based options for Consumers and Indexers. Some parties may benefit from the certainty of rewards provided by Closed Agreements and the predictability of recurring costs. Equally, others may instead prefer to hunt out the most affordable data by going for high volume recurring agreements or low spot prices on the Pay-as-you-Go market.
 
-これらの変更点をはじめ、ホワイトペーパーに記載されている多くの変更点は、可能な限り最大のweb3インフラストラクチャサービスを構築することに注力していることを示しています。 私たちのトークンの経済設計は、慎重に検討され、すべての参加者のための包括的な成長のために設計されていると確信しています。 巨大な中央集権的なサービスから始めて、ゆっくりと分散型のサービスに移行することは簡単ではありませんが、SubQueryのチームは挑戦しています。
+These changes, and many others outlined in the whitepaper illustrate our focus on building the largest web3 infrastructure service possible. We are confident that our token economic design is carefully considered and designed for inclusive growth for all participants. While starting with a huge centralised service and slowly moving towards a decentralised one isn’t easy, the team at SubQuery is up for the challenge and we hope you’ll join us!
 
-詳細については、[Discord私たちのチームに連絡](https://discord.com/invite/78zg8aBSMG)でするか、次回の「オフィスアワー」でチャットしてください。 また、差し迫ったSubQueryテストネットワークのインデクサーになるための[expression of interestを登録する](https://forms.gle/RyXyhb8T9Gxkwi7R9)こともできます。
+For further information, please [contact our team in Discord](https://discord.com/invite/78zg8aBSMG) or chat with us in our next “Office Hours”. You can also [register your expression of interest](https://forms.gle/RyXyhb8T9Gxkwi7R9) to become an indexer in the imminent SubQuery test network.
 
-[最新版ホワイトペーパーを読む](https://static.subquery.network/whitepaper.pdf)
+[Read the updated whitepaper](https://static.subquery.network/whitepaper.pdf)
 
-## SubQuery Networkについて
+## About SubQuery Network
 
-SubQueryの使命は、非中央集権的な未来への移行を可能にする製品を他の人がより早く作るのを助けることです。 SubQueryは、ブロックチェーン開発者向けのツールキットであり、web3インフラのバックボーンとなるものです。 SubQuery プロジェクトは、チェーンからデータを整理して照会するための完全な API です。 レイヤー1のブロックチェーンと分散型アプリ（dApp）の間で動作するSubQueryは、構造化されたデータをGraphQLで整理して提供するオープンソースのインデクサーです。 SubQueryはWeb3データで次世代のdAppsとツールを強化する
+SubQuery’s mission is to help others create products that allow us to move to a decentralised future faster. SubQuery is a blockchain developer toolkit and the backbone of web3 infrastructure. A SubQuery project is a complete API to organise and query data from chains. Operating between layer-1 blockchains and decentralised apps (dApp), SubQuery is an open-source indexer organising and serving well-structured data over GraphQL. SubQuery powers the next generation of dApps and tools with web3 data
 
-現在、すでに誰もがSubQueryを使って、わずか数分で、コストをかけずに、しかし集中的にブロックチェーンのデータを抽出し、照会することができます。 SubQuery Networkは、このようなスケーラブルでパフォーマンスの高いソリューションを、完全に分散した形で実現することを提案しています。
+Currently, anyone can already use SubQuery to extract and query blockchain data in only minutes and at no cost but in a centralised way. The SubQuery Network proposes to enable this same scalable and performant solution, but in a completely decentralised way.
 
-[Linktree](https://linktr.ee/subquerynetwork) | [Webサイト](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
