@@ -4,7 +4,7 @@
 
 _SubQueryがWeb3インフラの未来を変えるための最新プラン_
 
-長い間、設計、議論、テスト、開発を行ってきましたが、本日、大幅に更新した[ホワイトペーパーの新しいバージョン](https://static.subquery.network/whitepaper.pdf)をリリースします。 SubQueryのホワイトペーパーは、2021年6月に発表された、分散型のSubQuery NetworkとSQTトークンの戦略的枠組みをまとめた文書です。 最初の出版以来、私たちは顧客基盤とコミュニティの著しい成長を経験し、SubQuery Networkの構築に向けて大きく前進しました。 これらのソースから、私たちは改良と革新のためのインスピレーションを受け、それが最新版のホワイトペーパーに結実したのです。 <iframe width="1719" height="976" src="https://www.youtube.com/embed/Ghxyw5bIHs8" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+長い間、設計、議論、テスト、開発を行ってきましたが、本日、大幅に更新した[ホワイトペーパーの新しいバージョン](https://static.subquery.network/whitepaper.pdf)をリリースします。 SubQueryのホワイトペーパーは、2021年6月に発表された、分散型のSubQuery NetworkとSQTトークンの戦略的枠組みをまとめた文書です。 最初の出版以来、私たちは顧客基盤とコミュニティの著しい成長を経験し、SubQuery Networkの構築に向けて大きく前進しました。 これらのソースから、私たちは改良と革新のためのインスピレーションを受け、それが最新版のホワイトペーパーに結実したのです。 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ghxyw5bIHs8" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 このホワイトペーパーでは、SubQueryの単一障害点がないことを保証するために、ブロックチェーンデータを整理する参加者の世界的な分散型ネットワークへの移行を計画していることが紹介されています。 これにより、SubQueryの稼働率が大幅に向上し、冗長性が高まり、レイテンシー(待ち時間)が減少してパフォーマンスが向上することが期待されています。 アプリケーションがGraphQLを使って、ネットワーク上のインデクサーから（SubQuery Projectで定義された）あらゆるデータストアに問い合わせできるようになることを想定しています。
 
