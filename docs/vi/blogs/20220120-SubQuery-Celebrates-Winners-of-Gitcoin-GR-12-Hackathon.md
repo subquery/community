@@ -14,17 +14,17 @@ Hackathon diễn ra từ ngày 1 - 16 tháng 12 năm 2021 với các dự án bl
 
 ## Explorer hợp nhất giữa EVM và Substrate
 
-Hệ sinh thái Polkadot/Kusama bao gồm các blockchains (được gọi là Parachains) được xây dựng bằng Substrate, sử dụng API Substrate. Tuy nhiên, một số Parachains nhất định, chẳng hạn như Moonbeam và Astar, cung cấp khả năng tương thích Ethereum liền mạch bằng cách có thành phần EVM hoàn toàn tương thích. Việc có khả năng hiển thị đồng thời vào dữ liệu Substrate và EVM hiện đang là thách thức, dẫn đến hai trải nghiệm bị cô lập trong Moonbeam và Moonriver. Bạn phải chọn giữa phía Substrate (ví dụ: Subscan) và phía EVM (ví dụ: Moonscan & Blockscout).
+Hệ sinh thái Polkadot/Kusama bao gồm các blockchains (được gọi là Parachains) được xây dựng bằng Substrate, sử dụng API Substrate. Tuy nhiên, một số Parachains nhất định, chẳng hạn như Moonbeam và Astar, cung cấp khả năng tương thích Ethereum liền mạch bằng cách có thành phần EVM hoàn toàn tương thích. Việc có khả năng hiển thị đồng thời vào dữ liệu Substrate và EVM hiện đang là thách thức, dẫn đến hai trải nghiệm khác nhau trong Moonbeam và Moonriver. Bạn phải chọn giữa phía Substrate (ví dụ: Subscan) và phía EVM (ví dụ: Moonscan & Blockscout).
 
 Thử thách này được dự kiến nhằm giải quyết cơ hội lớn để xây dựng một nơi duy nhất để hiểu toàn bộ lịch sử hoạt động trong tài khoản. Ví dụ: để xem các hành động đặt cược và quản trị và chuyển ERC20 trong một giao diện người dùng duy nhất. Đây sẽ là một ứng dụng được sử dụng hàng ngày bởi các cộng đồng lớn trong Moonbeam, Astar và nhiều parachains tương thích EVM khác đang phát triển.
 
 ![](https://miro.medium.com/max/1400/0*b_o0NDpJOCv0QvXS)
 
-Người chiến thắng [thử thách này](https://gitcoin.co/issue/subquery/grants/1/10002717200027175) là @bizzyvinci, người [đã xây dựng trình khám phá giao diện người dùng trực tuyến trên Heroku](https://moonriver-explorer.herokuapp.com/). Do thử thách này là một nhiệm vụ to lớn nên không có gì ngạc nhiên khi nó chưa hoàn thành 100%, nhưng chúng tôi rất vui mừng được hỗ trợ tiến độ cho sự đổi mới thay đổi trò chơi này và giúp mở rộng nó sang các chuỗi EVM khác.
+Người chiến thắng [thử thách này](https://gitcoin.co/issue/subquery/grants/1/10002717200027175) là @bizzyvinci, người [đã xây dựng explorer trực tuyến trên Heroku](https://moonriver-explorer.herokuapp.com/). Do thử thách này là một nhiệm vụ to lớn nên không có gì ngạc nhiên khi nó chưa hoàn thành 100%, nhưng chúng tôi rất vui mừng được hỗ trợ tiến độ cho sự đổi mới thay đổi này và giúp mở rộng nó sang các chuỗi EVM khác.
 
 @bizzyvinci đã nói như sau: “Tôi đã xây dựng [Moonriver Explorer](https://moonriver-explorer.herokuapp.com/) và đó là một trải nghiệm tuyệt vời. Bước đầu tiên là tìm hiểu về SubQuery và chết tiệt, họ có một tài liệu tuyệt vời đi kèm với kho mẫu. Tài liệu bao gồm mọi thứ cần thiết để bắt đầu và giải thích rõ từng khía cạnh, chẳng hạn như tệp kê khai, lược đồ graphql trong số những thứ khác."
 
-## Bảng điều khiển DeFi Karura/Acala
+## Dashboard cho DeFi trên Karura/Acala
 
 Acala và Karura đại diện cho một tầm nhìn lớn về tương lai của DeFi, vì vậy có một cơ hội lớn để xây dựng các công cụ có giá trị cho hệ sinh thái. Thách thức này yêu cầu các nhà phát triển tạo ra các công cụ DeFi cho cộng đồng Karura/Acala được truyền cảm hứng từ những công cụ như [Zapper.fi](http://zapper.fi/) và [defisaver.com](http://defisaver.com/) tận dụng các dịch vụ lập chỉ mục dữ liệu của SubQuery.
 
