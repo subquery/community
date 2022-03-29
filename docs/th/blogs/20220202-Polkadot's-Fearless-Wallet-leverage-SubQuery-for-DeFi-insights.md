@@ -1,35 +1,35 @@
-# Fearless Wallet ของ Polkadot ใช้ประโยชน์จากข้อมูลเชิงลึกบน DeFi ของ SubQuery
+# Polkadot’s Fearless Wallet leverage SubQuery for DeFi insights
 
 ![](https://miro.medium.com/max/1400/1*HcPJ-5hy6WZrLhkuL6P2BA.png)
 
-ในวันนี้พวกเรารู้สึกตื่นเต้นที่จะได้เจาะลึกตัวอย่างการใช้งานของพันธมิตรเรา ซึ่งเป็นหนึ่งในผู้ให้บริการ Wallet ที่ใหญ่ที่สุดบน Polkadot นั่นก็คือ [Fearless Wallet](https://fearlesswallet.io/)
+Today we are excited to showcase a deep dive into our strategic partnerships with one of the largest and most established wallets in Polkadot — [Fearless Wallet.](https://fearlesswallet.io/)
 
-ซึ่งหากคุณยังไม่รู้ Fearless Wallet เป็นผู้ให้บริการ non-custodial wallets รายหนึ่งบน polkadot ที่ใช้งานได้ง่ายที่สุด และมีเครื่องมือสำหรับใช้ในการ staking อย่างครบครัน พวกเขาได้อยู่ในตลาดมาอย่างยาวนาน มีการพัฒนาระบบอย่างต่อเนื่อง รวมทั้งมีการเพิ่มฟีเจอร์และฟังก์ชั่นการใช้งานใหม่ๆมาโดยตลอด
+If you didn’t already know, Fearless Wallet provide one of the easiest to use non-custodial wallets out there for Polkadot, and is complete with staking tools. They’ve been on the market for a long time, and have steadily improved, continually adding new features and functionality.
 
-Fearless Wallet ได้นำเอาบริการของ SubQuery มาใช้เป็นส่วนสำคัญใน stack ต่างๆ โดย Subquery ถูกนำมาใช้เป็นหลักในการเก็บ จัดการ และแสดงผลประวัติการใช้งานของแต่ละบัญชี ไม่ว่าจะเป็นข้อมูล transaction ของแต่ละ address ข้อมูลจากภายนอก รวมถึงการแสดงรายได้จากการ Staking ซึ่งจะมีในอนาคต
+SubQuery’s service is a critical part of Fearless Wallet’s stack. SubQuery is primarily used to collect, organise, and present account history for each possible address, including transactions, extrinsics, and (in future) staking revenue.
 
-แต่ด้วยขนาดการใช้งานของ Fearless wallet เป็นสิ่งที่ทำให้พวกเขาแตกต่าง โดยกระเป๋า Fearless Wallet ได้ถูกใช้บริการบน SubQuery project มากกว่า 21 parachains กระจายไปในทั้ง Polkadot และ Kusama การที่กระเป๋า Fearless Wallet เป็นหนึ่งในกระเป๋าเงินที่ได้รับความนิยมสูงของ Polkadot พวกเขาจึงมุ่งเน้นไปที่ความครอบคลุมของเครือข่ายซึ่งกำล้งขยายตัวอย่างรวดเร็ว ซึ่งการที่ SubQuery ถูกนำไปใช้บนเครือข่ายต่างๆ ทำให้สิ่งนี้เป็นไปได้ง่าย ด้วยการเปลี่ยนโค้ดเพียงไม่กี่บรรทัดเท่านั้น
+But the scale of Fearless wallet’s implementation is what sets it apart. Fearless Wallet maintains SubQuery projects for over 21 different parachains across Polkadot and Kusama. As one of Polkadot’s leading wallets, Fearless Wallet focuses on network coverage across the rapidly expanding ecosystem. The ease of implementing SubQuery for each different network makes this possible: changing a few lines per project is all that is needed.
 
 ![](https://miro.medium.com/max/1400/1*5D3J7-_HC2tAP05oOlV5yw.png)
 
-> "Fearless Wallet เป็นกระเป๋าที่รองรับสินทรัพย์หลายตัวที่เติบโตบน Polkadot และ Kusama โดย SubQuery ทำให้เราสามารถนำพาให้ผู้ใช้งานของเราใช้งาน parachain ใหม่ๆได้อย่างง่ายดายและเต็มประสิทธิภาพ และด้วยจำนวน parachain ที่เพิ่มขึ้นอยู่ตลอดเวลา การเชื่อมโยงระหว่างเครื่องมือของ SubQuery และประสบการณ์ใช้งานอันยอดเยี่ยมของ Fearless Wallet จะเพิ่มมูลค่าให้กับทั้งระบบนิเวศไปอย่างต่อเนื่อง” - ทีมงาน Fearless Wallet
+> “Fearless Wallet is a true multi-asset wallet that grows in tune with Polkadot and Kusama. SubQuery makes it possible for us to offer our users access to each new parachain, with minimal effort and maximal functionality. As the number of parachains is increasing all the time, the synergy between SubQuery’s modular tools and Fearless Wallet’s unparalleled user experience will continue to add value for the entire ecosystem.” -Fearless Wallet team
 
-นอกจากนี้ Fearless Wallet ยังเร่งพัฒนาเครื่องมือที่ใช้ในการวิเคราะห์ข้อมูล เพื่อที่จะรองรับฟังก์ชั่น collator และ validator staking ในทุกๆ parachain โดย SubQuery จะขาดไปไม่ได้เลยในการสร้างฟังก์ชันนี้ เนื่องจากจะต้องมีการรวบรวม คำนวณ และให้บริการข้อมูลส่งตรงไปยังแอพพลิเคชั่น นอกจากนี้คุณอาจจะได้เห็นฟังก์ชั่นการใช้งานของ RMRK NFT และ Polkaswap DEX รวมเข้ากับแอพพลิเคชั่นในเร็ววันนี้
+Fearless Wallet are also working hard to implement advanced analytics tools focusing on collator and validator staking functionality across various parachains. SubQuery is going to play an indispensable part in this functionality, as it will be used to collect, calculate, and serve reward data directly to the app. Additionally, you should expect to see RMRK NFT and Polkaswap DEX functionality integrated directly into the app soon.
 
 ![](https://miro.medium.com/max/1400/1*3X7m4-m0NJ3xQ44UKZB7tw.png)
 
-Fearless Wallet ได้ใช้ [SubQuery Projects](https://project.subquery.network/) เพื่อจัดการโปรเจกต์ของตนและทำการอัปเดตตามต้องการ พวกเขาใช้ประโยชน์จากบริการ enterprise-level hosting ของ SubQuery เพื่อถ่ายโอนฐานข้อมูล, automated deployment และ geographic routing ไปยังหลายคลัสเตอร์ทั่วโลกเพื่อประสิทธิภาพที่สูงและระยะเวลาการประมวลผลสั้น โดยบริการ indexing และ query ข้อมูลที่เรามีให้นั้นได้รับการจัดการเบ็ดเสร็จโดย SubQuery และได้มอบมันให้กับคอมมูนิตี้ของ Polkadot ผ่านทาง [SubQuery's Explorer](https://explorer.subquery.network/)
+Fearless Wallet is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. They take advantage of SubQuery’s enterprise-level hosting to receive dedicated databases, automated deployments, and geographic routing to multiple clusters around the world for performance and uptime. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community in [SubQuery’s Explorer](https://explorer.subquery.network/).
 
-> “SubQuery สามารถที่จะจัดการข้อมูลที่อยู่บน blockchain ได้อย่างอยู่หมัด และทำให้มันง่ายต่อการพัฒนาแอพพลิเคชั่นต่างๆที่จะมาเข้าร่วม พวกเราภูมิใจที่ได้ร่วมงานกับ Fearless Wallet เพื่อมอบประสบการณ์ที่ดีให้แก่ผู้ใช้ และได้เติบโตไปพร้อมกับพวกเขาที่กำลังดังระเบิดในระบบนิเวศของ Polkadot” - James Bayly หัวหน้าฝ่ายพัฒนาธุรกิจ — SubQuery
+> “SubQuery is all about harnessing data from the blockchain and making it easier to build apps that encourage participation by the everyday user. We are proud to be working with Fearless Wallet to provide their users with a rich experience and grow with them as they explode into the Polkadot ecosystem” -James Bayly, Head of Business Development — SubQuery
 
 ## เกี่ยวกับ SubQuery
 
-[SubQuery](https://subquery.network/) คือการรวมข้อมูลที่กระจายอำนาจ การจัดทำ index & เลเยอร์การ query ระหว่างบล็อคเชนของ Layer-1 และแอปพลิเคชันที่กระจายอำนาจ (DApps) ปัจจุบันมุ่งเน้นไปที่โปรเจ็กต์ Polkadot และ Substrate บริการ data-as-a-a-service ช่วยให้นักพัฒนาสามารถมุ่งเน้นไปที่กรณีการใช้งานหลักและ front-end โดยไม่ต้องเสียเวลาไปกับการสร้าง back-end แบบกำหนดเองสำหรับการประมวลผลข้อมูล
+[SubQuery](https://subquery.network/) คือเลเยอร์การรวบรวม, จัดทำดัชนีและสืบค้น (query) ข้อมูล แบบกระจายศูนย์ ระหว่างเลเยอร์ 1 ของบล็อกเชนและแอปพลิเคชันที่กระจายศูนย์ (DApp) ปัจจุบันมุ่งเน้นไปที่โปรเจกต์ Polkadot และ Substrate ซึ่งบริการข้อมูลนี้ช่วยให้นักพัฒนาสามารถโฟกัสไปที่การใช้งานหลัก (core use case) และระบบหน้าบ้าน (front-end) โดยไม่ต้องเสียเวลาไปกับการออกแบบระบบหลังบ้าน (back-end) เอง เพื่อใช้ประมวลผลข้อมูล
 
-<[เว็บไซต์](https://subquery.network/) | [อีเมล](hello@subquery.network) | [ดิสคอร์ด](https://discord.com/invite/78zg8aBSMG) | [เทเลแกรม](https://t.me/subquerynetwork) | [ทวิตเตอร์](https://twitter.com/subquerynetwork) | [มาทริกซ์](https://matrix.to/#/#subquery:matrix.org) | [ลิงด์อิน](https://www.linkedin.com/company/subquery) | [กิตฮับ](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Website](https://subquery.network/) | [Email](hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Youtube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
 
-## เกี่ยวกับกระเป๋า Fearless Wallet
+## About Fearless Wallet
 
-[Fearless Wallet](https://fearlesswallet.io/) เป็นกระเป๋าเงินมือถือที่ออกแบบมาสำหรับอนาคตที่กระจายอำนาจบนเครือข่าย Kusama และ Polkadot พร้อมรองรับแพลตฟอร์ม iOS และ Android ประสบการณ์ผู้ใช้ที่ยอดเยี่ยม ประสิทธิภาพที่รวดเร็ว และพื้นที่เก็บข้อมูลที่ปลอดภัยสำหรับบัญชีของคุณ กระเป๋า Fearless Wallet จะรวม Polkaswap เพื่อการแลกเปลี่ยนสินทรัพย์ที่กระจายอำนาจได้ง่าย
+[Fearless Wallet](https://fearlesswallet.io/) is a mobile wallet designed for the decentralized future on the Kusama and Polkadot networks, with support for iOS and Android platforms. An awesome user experience, fast performance, and secure storage for your accounts. Fearless wallet will integrate Polkaswap for easy, decentralized swaps of assets.
 
-[เว็บไซต์](https://fearlesswallet.io/) | [Android Apps](https://play.google.com/store/apps/details?id=jp.co.soramitsu.fearless) | [IOS](https://apps.apple.com/us/app/fearless-wallet/id1537251089) | [มีเดียม](https://medium.com/fearlesswallet/) | [เทเลเเกรม](https://t.me/fearlesswallet) | [ทวิตเตอร์](https://twitter.com/FearlessWallet)
+[Website](https://fearlesswallet.io/) | [Android App](https://play.google.com/store/apps/details?id=jp.co.soramitsu.fearless) | [IOS App](https://apps.apple.com/us/app/fearless-wallet/id1537251089) | [Medium](https://medium.com/fearlesswallet/) | [Telegram](https://t.me/fearlesswallet) | [Twitter](https://twitter.com/FearlessWallet)
