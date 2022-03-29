@@ -22,7 +22,7 @@ Bạn nên liên hệ với chúng tôi tại sales@subquery.network nếu bạn
 
 Khả năng phục hồi và độ tin cậy là tất cả đối với chúng tôi tại SubQuery. Việc có một cụm dự phòng ở một phần riêng biệt trên thế giới có nghĩa là chúng tôi có thể nhanh chóng khôi phục sau sự cố nhà cung cấp dịch vụ đám mây đôi khi khiến các khu vực ngoại tuyến.
 
-Ngoài ra, khi bạn đưa ra yêu cầu đối với một dự án SubQuery trong dịch vụ được lưu trữ của chúng tôi, phần lớn thời gian chờ đợi là do độ trễ. Độ trễ là thời điểm cần thiết để yêu cầu của bạn vòng quanh thế giới đến cụm SubQuery gần nhất và có thể mất đến một hoặc hai giây từ một số vùng xa. Việc có nhiều cụm trên khắp thế giới cho phép chúng tôi giảm phần lớn thời gian yêu cầu (độ trễ).
+Ngoài ra, khi bạn đưa ra yêu cầu đối với một dự án SubQuery trong dịch vụ được lưu trữ của chúng tôi, phần lớn thời gian chờ đợi là do độ trễ. Độ trễ điểm chỉ thời gian mà yêu cầu của bạn vòng quanh thế giới đến cụm SubQuery gần nhất và có thể mất đến một hoặc hai giây từ một số vùng xa. Việc có nhiều cụm trên khắp thế giới cho phép chúng tôi giảm phần lớn thời gian yêu cầu (độ trễ).
 
 Chúng tôi đã triển khai nhiều cụm ở các khu vực khác nhau cung cấp cùng một dịch vụ. Công việc này cũng bao gồm một công cụ trong [Dự án SubQuery](https://project.subquery.network/) cho phép bạn triển khai và quản lý dự án của mình trên các cụm này. Chúng tôi cũng đã triển khai các quy trình đảm bảo rằng cơ sở dữ liệu ở các khu vực khác nhau luôn nhất quán, để bất kể yêu cầu của bạn chuyển đến cụm nào, dữ liệu bạn nhận được đều nhất quán.
 
@@ -30,7 +30,7 @@ Chúng tôi đã triển khai nhiều cụm ở các khu vực khác nhau cung c
 
 Khi chúng tôi có các cụm SubQuery đang chạy ở các vùng khác nhau, bước hợp lý tiếp theo là làm cho tính năng này trở nên ẩn đối với người dùng. Người dùng sẽ không bao giờ phải quyết định cụm nào mà yêu cầu của họ chuyển đến, SubQuery sẽ tự động định tuyến các yêu cầu của họ đến cụm khỏe mạnh gần nhất. Đây là những gì định tuyến thông minh của SubQuery cung cấp.
 
-Chúng tôi cung cấp một điểm cuối toàn cầu duy nhất cho mỗi khách hàng cao cấp có định tuyến thông minh tự động áp dụng cho từng và mọi yêu cầu. Dịch vụ này bao gồm giám sát đáng kể liên tục ping từng cụm để kiểm tra sức khỏe và đảm bảo rằng người dùng không bao giờ được chuyển đến một cụm bị quá tải hoặc ngoại tuyến. Điểm cuối toàn cầu tối ưu hóa định tuyến cho từng yêu cầu đến cụm gần nhất để đảm bảo người dùng của bạn nhận được hiệu suất tốt nhất từ các cụm của bạn.
+Chúng tôi cung cấp một điểm cuối toàn cầu duy nhất cho mỗi khách hàng cao cấp có định tuyến thông minh tự động áp dụng cho từng và mọi yêu cầu. Dịch vụ này bao gồm chức năng giám sát liên tục ping từng cụm để kiểm tra sức khỏe và đảm bảo rằng người dùng không bao giờ phải chuyển đến một cụm bị quá tải hoặc ngoại tuyến. Điểm cuối toàn cầu tối ưu hóa định tuyến cho từng yêu cầu đến cụm gần nhất để đảm bảo người dùng của bạn nhận được hiệu suất tốt nhất từ các cụm của bạn.
 
 ![](https://miro.medium.com/max/1000/0*DNXDiABzli0et1MU)
 
