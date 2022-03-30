@@ -28,17 +28,17 @@ Người chiến thắng [thử thách này](https://gitcoin.co/issue/subquery/g
 
 Acala và Karura đại diện cho một tầm nhìn lớn về tương lai của DeFi, vì vậy có một cơ hội lớn để xây dựng các công cụ có giá trị cho hệ sinh thái. Thách thức này yêu cầu các nhà phát triển tạo ra các công cụ DeFi cho cộng đồng Karura/Acala được truyền cảm hứng từ những công cụ như [Zapper.fi](http://zapper.fi/) và [defisaver.com](http://defisaver.com/) tận dụng các dịch vụ lập chỉ mục dữ liệu của SubQuery.
 
-Người chiến thắng trong [thử thách này](https://gitcoin.co/issue/subquery/grants/2/100027176) là Web3Go, người đã xây dựng một bản tóm tắt thực sự tốt đẹp về [Vị trí Nợ thế chấp (CDP) của Acala](https://web3go.xyz/#/CDPDetail). Để người dùng kiếm kUSD stablecoin trên Karura, trước tiên họ phải gửi mã thông báo của một trong những tài sản thế chấp được chấp nhận (ví dụ: KSM). Khi người dùng đã làm như vậy, tham số tỷ lệ tài sản thế chấp tối thiểu xác định số lượng tài sản thế chấp tối thiểu cần thiết để người dùng kiếm kUSD. Nếu giá thị trường của tài sản thế chấp của CDP giảm xuống đủ thấp, thì CDP có thể bị coi là “không an toàn”
+Người chiến thắng trong [thử thách này](https://gitcoin.co/issue/subquery/grants/2/100027176) là Web3Go, người đã xây dựng một bản tóm tắt thực sự tốt đẹp về [Vị trí Nợ thế chấp (CDP) của Acala](https://web3go.xyz/#/CDPDetail). Để người dùng mint stablecoin kUSD trên Karura, trước tiên họ phải gửi token của một trong những tài sản thế chấp được chấp nhận (ví dụ: KSM). Khi người dùng đã làm như vậy, tham số tỷ lệ tài sản thế chấp tối thiểu sẽ xác định số lượng tài sản thế chấp tối thiểu cần thiết để người dùng mint kUSD. Nếu giá thị trường của tài sản thế chấp của CDP giảm xuống đủ thấp, thì CDP có thể bị coi là “không an toàn”
 
 ![](https://miro.medium.com/max/1400/0*l7GA1axntiHCINRM)
 
-Giao diện của Web3Go liệt kê rõ ràng tất cả các vị trí CDP, tỷ lệ và trạng thái an toàn của chúng. Đối với mỗi vị trí, nó cũng cung cấp thông tin về lịch sử của vị trí đó và dễ dàng cho phép người khác giám sát công cụ tài chính. <iframe width="560" height="315" src="https://www.youtube.com/embed/hc3YDjv6dkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Giao diện của Web3Go liệt kê rõ ràng tất cả các vị thế nợ thế chấp (CDP), tỷ lệ và trạng thái an toàn của chúng. Đối với mỗi vị thế, nó cũng cung cấp thông tin về lịch sử của vị thế đó và dễ dàng cho phép người khác giám sát công cụ tài chính. <iframe width="560" height="315" src="https://www.youtube.com/embed/hc3YDjv6dkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-## Bảng điều khiển Polkadot Staking
+## Polkadot Staking Dashboard
 
-Đặt cược là một cách chính để sử dụng mã thông báo DOT và KSM của bạn, nhưng hiện tại UX để đặt cược rất khó hiểu và dẫn đến việc hầu hết người dùng đưa ra các lựa chọn thiếu khoa học.
+Staking là một cách chính để sử dụng token DOT và KSM của bạn, nhưng hiện tại trải nhiệm người dùng để stake rất khó hiểu và dẫn đến việc hầu hết người dùng đưa ra các lựa chọn thiếu khoa học.
 
-Mục tiêu của thử thách này là kết hợp dữ liệu trên chuỗi và trải nghiệm người dùng trực quan, để giúp người dùng hiểu lợi nhuận đặt cược ước tính tốt nhất, so sánh hiệu suất lịch sử của các trình xác thực và cho người dùng thấy lợi tức đầu tư của họ có thể là bao nhiêu.
+Mục tiêu của thử thách này là kết hợp dữ liệu on-chain và trải nghiệm người dùng trực quan, để giúp người dùng hiểu lợi nhuận staking ước tính tốt nhất, so sánh hiệu suất lịch sử của các trình xác thực và cho người dùng thấy lợi tức đầu tư của họ có thể là bao nhiêu.
 
 Ashik đã xây dựng PolkStakes, một [trang web xếp hạng trình xác thực Polkadot](https://polkstakes.vercel.app/) tìm nạp tất cả các trình xác thực và hiển thị danh sách các trình xác thực được tổ chức gọn gàng trong Polkadot với xếp hạng riêng của PolkStake (dựa trên hiệu suất thời đại trước, hoa hồng, khoản thanh toán và phần thưởng đặt cược, v. v.). Đó là một giao diện người dùng đơn giản và gọn gàng thực sự gây ấn tượng với chúng tôi.
 
