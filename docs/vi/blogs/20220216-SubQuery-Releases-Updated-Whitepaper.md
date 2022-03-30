@@ -1,10 +1,10 @@
-# SubQuery phát hành bản cập nhật Whitepaper
+# SubQuery Phát Hành Bản Cập Nhật Whitepaper
 
 ![](https://miro.medium.com/max/700/0*guA8YHyJPhu0wmzf)
 
 _Một kế hoạch cập nhật về cách SubQuery sẽ cách mạng hóa cơ sở hạ tầng web3 trong tương lai_
 
-Sau một thời gian dài thiết kế, thảo luận, thử nghiệm và phát triển, hôm nay chúng tôi sẽ phát hành một phiên bản mới và cập nhật đáng kể [của Whitepaper](https://static.subquery.network/whitepaper.pdf). Được xuất bản lần đầu vào tháng 6 năm 2021, SubQuery Whitepaper là tài liệu phác thảo khuôn khổ chiến lược của chúng tôi cho Mạng SubQuery phi tập trung và mã thông báo SQT. Kể từ lần xuất bản đầu tiên, chúng tôi đã có sự phát triển đáng kể trong cơ sở khách hàng và cộng đồng của mình và đạt được tiến bộ to lớn trong việc xây dựng Mạng SubQuery. Từ những nguồn này, chúng tôi đã được truyền cảm hứng để cải tiến và đổi mới, và điều đó đạt đến đỉnh cao trong phiên bản sách trắng mới nhất của chúng tôi. <iframe width="560" height="315" src="https://www.youtube.com/embed/Ghxyw5bIHs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Sau một thời gian dài thiết kế, thảo luận, thử nghiệm và phát triển, hôm nay chúng tôi sẽ phát hành một phiên bản mới và cập nhật đáng kể [của Whitepaper](https://static.subquery.network/whitepaper.pdf). Được xuất bản lần đầu vào tháng 6 năm 2021, SubQuery Whitepaper là tài liệu phác thảo khuôn khổ chiến lược của chúng tôi cho Mạng lưới SubQuery phi tập trung và token SQT. Kể từ lần xuất bản đầu tiên, chúng tôi đã có sự phát triển đáng kể trong cơ sở khách hàng và cộng đồng của mình và đạt được tiến bộ to lớn trong việc xây dựng Mạng SubQuery. Từ những nguồn này, chúng tôi đã được truyền cảm hứng để cải tiến và đổi mới, và điều đó đạt đến đỉnh cao trong phiên bản whitepaper mới nhất của chúng tôi. <iframe width="560" height="315" src="https://www.youtube.com/embed/Ghxyw5bIHs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 Whitepaper này phác thảo các kế hoạch của SubQuery nhằm hướng tới một mạng lưới phi tập trung toàn cầu gồm những người tham gia tổ chức dữ liệu blockchain để đảm bảo SubQuery không có một điểm thất bại nào. Dự kiến, điều này sẽ tăng đáng kể thời gian hoạt động của SubQuery, cung cấp khả năng dự phòng tốt hơn và tăng hiệu suất bằng cách giảm độ trễ. Có thể hình dung rằng các ứng dụng sẽ có thể sử dụng GraphQL để truy vấn bất kỳ kho dữ liệu nào (như được xác định bởi Dự án SubQuery) từ các Trình chỉ mục trên mạng.
 
@@ -12,11 +12,11 @@ Whitepaper này phác thảo các kế hoạch của SubQuery nhằm hướng t�
 
 ## Trọng tâm của chúng tôi
 
-[Cập nhật whitepaper](https://static.subquery.network/whitepaper.pdf) duy trì niềm tin của SubQuery rằng các dịch vụ dữ liệu của ngày mai phải đa chuỗi, đơn giản và linh hoạt. Whitepaper trình bày chi tiết về cách Mạng SubQuery đưa những cân nhắc này vào thiết kế kinh tế mã thông báo đồng thời cho phép người dùng thành thạo chạy các dịch vụ cấp doanh nghiệp trên đó.
+[Cập nhật whitepaper](https://static.subquery.network/whitepaper.pdf) duy trì sự chắc chắc của SubQuery rằng các dịch vụ dữ liệu của tương lai phải đa chuỗi, đơn giản và linh hoạt. Whitepaper trình bày chi tiết về cách Mạng SubQuery đưa những cân nhắc này vào thiết kế tokenomics đồng thời cho phép người dùng thành thạo chạy các dịch vụ cấp doanh nghiệp trên đó.
 
-### Nhiều chuỗi theo thiết kế
+### Thiết kế Multi-chain
 
-_SubQuery tin tưởng vào ý tưởng rằng một cộng đồng các blockchain, làm việc cùng nhau để khuyến khích việc áp dụng web3, là tương lai_
+_SubQuery tin tưởng vào ý tưởng rằng một cộng đồng các blockchain, làm việc cùng nhau để khuyến khích việc áp dụng web3 vào đời sống, là tương lai của thế giới._
 
 SubQuery có nguồn gốc từ hệ sinh thái Polkadot, đó là ngôi nhà của chúng tôi và sẽ là vị trí của Mạng SubQuery. Nhưng tương lai là đa chuỗi. SubQuery biết rằng sẽ có nhiều blockchains khác nhau làm việc cùng nhau để giải quyết các vấn đề khác nhau.
 
