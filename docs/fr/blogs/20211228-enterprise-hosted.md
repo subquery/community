@@ -1,4 +1,4 @@
-# SubQuery Provides Customers with Enterprise Support
+# SubQuery offre à ses clients un support d'entreprise
 
 ![](https://miro.medium.com/max/1400/1*z_StqAT5KeaxQLBCm-xpRQ.jpeg)
 
