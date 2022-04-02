@@ -4,9 +4,9 @@
 
 Aujourd'hui, nous sommes ravis de vous présenter une plongée en profondeur dans nos partenariats stratégiques avec l'un des portefeuilles les plus importants et les plus établis de Polkadot - [Fearless Wallet.](https://fearlesswallet.io/)
 
-Si vous ne le saviez pas déjà, Fearless Wallet fournit l'un des portefeuilles non dépositaires les plus faciles à utiliser pour Polkadot, et est complet avec des outils de jalonnement. Ils sont sur le marché depuis longtemps, et se sont constamment améliorés, ajoutant continuellement de nouvelles caractéristiques et fonctionnalités.
+Si vous ne le saviez pas déjà, Fearless Wallet fournit l'un des portefeuilles non dépositaires les plus faciles à utiliser pour Polkadot, et est complet avec des outils de staking. Ils sont sur le marché depuis longtemps, et se sont constamment améliorés, ajoutant continuellement de nouvelles caractéristiques et fonctionnalités.
 
-Le service de SubQuery est une partie essentielle de la pile de Fearless Wallet. SubQuery est principalement utilisé pour collecter, organiser et présenter l'historique du compte pour chaque adresse possible, y compris les transactions, les extrinsèques et (à l'avenir) les revenus de jalonnement.
+Le service de SubQuery est une partie essentielle de la pile de Fearless Wallet. SubQuery est principalement utilisé pour collecter, organiser et présenter l'historique du compte pour chaque adresse possible, y compris les transactions, les extrinsèques et (à l'avenir) les revenus de staking.
 
 Mais c'est l'échelle de la mise en œuvre de Fearless Wallet qui la distingue. Fearless Wallet maintient des projets SubQuery pour plus de 21 parachains différents à travers Polkadot et Kusama. En tant que l'un des principaux portefeuilles de Polkadot, Fearless Wallet se concentre sur la couverture du réseau à travers l'écosystème en pleine expansion. La facilité de mise en œuvre de SubQuery pour chaque réseau différent rend cela possible : il suffit de modifier quelques lignes par projet.
 
