@@ -2,11 +2,11 @@
 
 ![](https://miro.medium.com/max/1400/1*5E_eIJBTvHI7W24ib_Syvw.png)
 
-Ở hậu trường, chúng tôi đã bận rộn hơn bao giờ hết trong tháng 5, mở rộng đội ngũ, phân phối sản phẩm và quan trọng nhất là thu hút được nhiều đối tác nhất có thể.
+Ở hậu trường, chúng tôi đã bận rộn hơn bao giờ hết trong tháng 5 với việc mở rộng đội ngũ, phân phối sản phẩm và quan trọng nhất là thu hút được nhiều đối tác nhất có thể.
 
-Trong bản cập nhật tháng này:
+Bản cập nhật tháng này gồm có:
 
--   Có nhiều đối tác của SubQuery hơn
+-   SubQuery có nhiều đối tác của hơn
 -   Chúng tôi đang tuyển dụng!
 -   SubQuery là một phần của Web3.0 Bootcamp
 
@@ -16,19 +16,19 @@ Trong bản cập nhật tháng này:
 
 Gần đây, chúng tôi đã tiếp cận với nhiều giao thức, ứng dụng DeFi, dApp, ví, nền tảng NFT, cầu nối chuỗi chéo và nhiều thứ nữa trên hệ sinh thái Polkadot. Chúng tôi đang lên kế hoạch cải thiện quy trình giới thiệu cho các đối tác mới để tăng tốc quá trình này với mã nguồn mẫu, các dự án đã sẵn sàng và thông tin tốt hơn cho nhà phát triển.
 
-> Kỳ vọng các dự án mới của đối tác sẽ biến thành một cơn lũ.
+> Kỳ vọng dòng chảy dự án mới của đối tác sẽ trở thành một cơn lũ.
 
 Vào cuối tháng 5, chúng tôi hiện có tổng cộng 48 dự án SubQuery được lưu trữ trên SubQuery bao gồm:
 
 -   [Fearless Wallet](https://fearlesswallet.io/) (một ví Polkadot hàng đầu mà chúng tôi sẽ hợp tác chặt chẽ),
 -   [KodaDot](https://kodadot.xyz/) và [NFTMart](https://www.nftmart.io/) (nền tảng NFT)
--   [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia) (một cây cầu chuỗi chéo) và mạng lưới thử nghiệm của nó [Crab](https://explorer.subquery.network/subquery/wuminzhe/crab)
+-   [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia) (một cầu nối chuỗi chéo) và mạng lưới thử nghiệm của nó [Crab](https://explorer.subquery.network/subquery/wuminzhe/crab)
 
 Hãy xem Darwinia nói gì về chúng tôi
 
 ![](https://miro.medium.com/max/1400/0*Bc8P3mcH6rz-KtT0)
 
-> _ “Việc sử dụng SubQuery để truy vấn dữ liệu trên chuỗi của Darwinia đã trở nên rất đơn giản và linh hoạt. SubQuery coi dữ liệu blockchain như một biểu đồ và tận dụng khả năng mở rộng của GraphQL để giới thiệu chức năng bổ sung. Chúng tôi tin rằng trong tương lai, giao diện dữ liệu trên chuỗi substrate sẽ chủ yếu sử dụng GraphQL, SubQuery đang biến điều này thành hiện thực”._ - [Darwinia](https://subquery.medium.com/darwinias-network-data-is-now-available-for-free-in-subquery-b4f51c73fb15)
+> _“Việc sử dụng SubQuery để truy vấn dữ liệu trên chuỗi của Darwinia đã trở nên rất đơn giản và linh hoạt. SubQuery coi dữ liệu blockchain như một biểu đồ và tận dụng khả năng mở rộng của GraphQL để giới thiệu chức năng bổ sung. Chúng tôi tin rằng trong tương lai, giao diện dữ liệu trên chuỗi substrate sẽ chủ yếu sử dụng GraphQL, SubQuery đang biến điều này thành hiện thực”._ — [Darwinia](https://subquery.medium.com/darwinias-network-data-is-now-available-for-free-in-subquery-b4f51c73fb15)
 
 Bạn có thể bắt đầu xây dựng dApp tiếp theo của mình với chúng tôi ngay hôm nay, làm theo [hướng dẫn bắt đầu nhanh](https://doc.subquery.network/quickstart.html) hoặc trò chuyện với chúng tôi trong #technical-support của chúng tôi trong [Discord](https://discord.com/invite/78zg8aBSMG).
 
