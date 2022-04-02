@@ -30,9 +30,9 @@ Tìm hiểu thêm về SubQuery
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
 
-Mạng Darwinia là một giao thức cầu xuyên chuỗi không đồng nhất phi tập trung được xây dựng trên Substrate, tập trung vào trao đổi, trao đổi và thị trường mã thông báo xuyên chuỗi phi tập trung.
+Mạng Darwinia là một giao thức chuỗi chéo không đồng nhất phi tập trung được xây dựng trên Substrate, tập trung vào việc hoán đổi token chuỗi chéo phi tập trung, sàn giao dịch và thị trường.
 
-Darwinia cũng đóng vai trò là cơ sở hạ tầng quan trọng để nâng cấp ứng dụng chuỗi đơn lên phiên bản chuỗi chéo, bao gồm thị trường Defi, Game, DEX, NFT,. Tầm nhìn của họ là xây dựng Internet của Token trong tương lai.
+Darwinia cũng đóng vai trò là cơ sở hạ tầng quan trọng để nâng cấp ứng dụng chuỗi đơn lên phiên bản chuỗi chéo, bao gồm thị trường Defi, Game, DEX, NFT, v.v. Tầm nhìn của họ là xây dựng Internet của Token trong tương lai.
 
 Tất cả những gì bạn cần biết về Darwinia
 
