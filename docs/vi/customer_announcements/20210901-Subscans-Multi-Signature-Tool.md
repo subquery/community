@@ -8,7 +8,7 @@ Dịch vụ của SubQuery đóng một vai trò quan trọng trong công cụ n
 
 ![Người dùng có thể dễ dàng tạo địa chỉ đa chữ ký mới](https://cdn-images-1.medium.com/max/1600/1*e4AALzw8xzERhzBJgPUktQ.png)
 
-> *"SubQuery đã giúp chúng tôi dễ dàng lập chỉ mục dữ liệu cho công cụ Đa chữ ký Subscan và nhóm của chúng tôi có thể dễ dàng điều hành. Dịch vụ API của Subscan được chuẩn hóa, chúng tôi đề xuất SubQuery cho người dùng của chúng tôi khi họ có nhiều yêu cầu tùy chỉnh hơn."* - Subscan
+> *"SubQuery đã giúp chúng tôi dễ dàng lập chỉ mục dữ liệu cho công cụ Đa chữ ký Subscan và đội ngũ của chúng tôi có thể dễ dàng điều hành nó. Dịch vụ API của Subscan được chuẩn hóa, chúng tôi đề xuất SubQuery cho người dùng của chúng tôi khi họ có nhiều yêu cầu tùy chỉnh hơn."* - Subscan
 
 ![](https://cdn-images-1.medium.com/max/1600/1*Hy-1IxJ3ZNQX7qC38H19Bg.png)
 
@@ -20,7 +20,7 @@ Dịch vụ của SubQuery đóng một vai trò quan trọng trong công cụ n
 
 [Subscan.io](https://www.subscan.io/) là một trình khám phá đa chuỗi có độ chính xác cao được xây dựng cho các chuỗi khối dựa trên substrate. Subscan hỗ trợ khám phá dữ liệu và trực quan hóa hơn 30 mạng trong hệ sinh thái Polkadot.
 
-Subscan cung cấp các dịch vụ tùy chỉnh cho mạng sinh thái, chẳng hạn như mô-đun EVM, đa token. Ngoài ra, Subscan còn cung cấp các dịch vụ API ổn định, biểu đồ dữ liệu và các ứng dụng công cụ tiện lợi.
+Subscan cung cấp các dịch vụ tùy chỉnh cho mạng sinh thái, chẳng hạn như mô-đun EVM, đa token, v.v. Ngoài ra, Subscan còn cung cấp các dịch vụ API ổn định, biểu đồ dữ liệu và các ứng dụng công cụ tiện lợi.
 
 [Website](https://www.subscan.io/) | [Email](mailto:hello@subscan.io) | [Medium](https://medium.com/subscan) | [Element](https://riot.im/app/#/room/!uaYUrKBueiKUurHliJ:matrix.org) | [Twitter](https://twitter.com/subscan_io/) | [GitHub](https://github.com/itering/subscan-essentials)
 
