@@ -22,10 +22,10 @@
 
 [Polkamarkets](https://www.polkamarkets.com/) โปรโตคอลการตลาดซึ่งทำนายแบบอิสระที่สร้างขึ้นสำหรับการแลกเปลี่ยนข้อมูลและเทรดแบบ Cross-chain โดยที่ผู้ใช้จะเลือก Position ตามผลลัพธ์ของเหตุการณ์ในโลกแห่งความเป็นจริง–บน EVMs ที่มีการกระจายศูนย์และสามารถทำงานร่วมกันได้
 
-[ดิสคอร์ด](https://discord.gg/polkamarkets) | [เว็บไซต์](https://polkamarkets.com/) | [ลิงค์อิน](https://www.linkedin.com/company/polkamarkets/) | [กิตฮับ](https://github.com/Polkamarkets) | [เทเลแกรม](http://t.me/polkamarkets) | [ทวิตเตอร์](https://twitter.com/polkamarkets)
+[Discord](https://discord.gg/polkamarkets) | [Website](https://polkamarkets.com/) | [LinkedIn](https://www.linkedin.com/company/polkamarkets/) | [GitHub](https://github.com/Polkamarkets) | [Telegram](http://t.me/polkamarkets) | [Twitter](https://twitter.com/polkamarkets)
 
 ## เกี่ยวกับ SubQuery
 
 [SubQuery](https://subquery.network/) เป็นผู้ให้บริการข้อมูลแนวหน้าของ Polkadot ซึ่งสนับสนุนการ Index & Query ข้อมูลระหว่างเลเยอร์หนึ่ง (Polkadot) และแอปพลิเคชันแบบกระจายศูนย์ บริการข้อมูลของ SubQuery นั้นถูกใช้โดยงานเว็บไซต์ประมูล Crowdloan ของทั้ง Polkadot และ Kusama ที่ใช้งานอยู่ทุกวันนี้ โปรโตคอลของ SubQuery จะจัดเรียงข้อมูลที่ไม่มีความเป็นระเบียบด้วย SubQuery SDK ซึ่งทำให้นักพัฒนาสามารถจดจ่ออยู่กับการ Deploy ผลิตภัณฑ์หลักของเขาโดยไม่ต้องเปลืองความพยายามไปกับเทคโนโลยีหลังบ้าน (Backend technologies) โดยไม่จำเป็น
 
-[เว็บไซต์](https://subquery.network/) | [อีเมล](hello@subquery.network) | [ดิสคอร์ด](https://discord.com/invite/78zg8aBSMG) | [เทเลแกรม](https://t.me/subquerynetwork) | [ทวิตเตอร์](https://twitter.com/subquerynetwork) | [เมทริกซ์](https://matrix.to/#/#subquery:matrix.org) | [ลิงค์อิน](https://www.linkedin.com/company/subquery) | [กิตฮับ](https://github.com/subquery)
+[Website](https://subquery.network/) | [Email](hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)
