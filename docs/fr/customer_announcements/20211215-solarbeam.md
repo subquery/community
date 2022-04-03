@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/1*ZG9NqT9GIXax5SBpNn5ipg.png)
 
-Aujourd'hui, nous voulons annoncer notre partenariat entre Solarbeam et SubQuery Network. Solarbeam est le plus [grand DEX](https://defillama.com/chain/Moonriver) sur la parachain basée sur Kusama de Moonriver avec un pic TVL de plus de $180m. Cela nécessite des capacités d'interrogation de données fiables et à grande vitesse pour leur interface utilisateur.
+Aujourd'hui, nous voulons annoncer notre partenariat entre Solarbeam et SubQuery Network. Solarbeam est le plus [grand DEX](https://defillama.com/chain/Moonriver) sur la parachain Moonriver basée sur Kusama avec un pic de TVL à plus de $180m. Cela nécessite des capacités d'interrogation de données fiables et à grande vitesse pour leur interface utilisateur.
 
 Solarbeam a récemment lancé [Eclipse](https://app.solarbeam.io/eclipse), une rampe de lancement conçue pour les pools de jetons inter-chaînes et les enchères, permettant aux projets de lever des capitaux sur un environnement décentralisé et interopérable basé sur Moonriver.
 
