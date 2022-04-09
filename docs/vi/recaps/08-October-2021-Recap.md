@@ -2,13 +2,13 @@
 
 ![](https://miro.medium.com/max/1400/1*Yf3LOc6onAZ-XRQLPyxAmQ.png)
 
-**Đưa các kế hoạch của chúng tôi thành hành động**
+**Biến các kế hoạch của chúng tôi thành hành động**
 
-Chào mừng bạn đến với bản cập nhật hàng tháng mới nhất từ ​​SubQuery và bản cập nhật đầu tiên dành cho nhiều người trong số các bạn dựa trên sự phát triển của cộng đồng của chúng tôi.
+Chào mừng bạn đến với bản cập nhật hàng tháng mới nhất từ ​​SubQuery và đây sẽ là bản cập nhật đầu tiên dành cho nhiều người trong số các bạn dựa trên sự phát triển của cộng đồng của chúng tôi.
 
-Kể từ đây trở đi, chúng tôi sẽ cố gắng cấu trúc mọi bản cập nhật xoay quanh ba lĩnh vực chính; cộng đồng, phát triển sản phẩm cốt lõi và Mạng SubQuery.
+Kể từ giờ trở đi, chúng tôi sẽ cố gắng cấu trúc mọi bản cập nhật xoay quanh ba lĩnh vực chính: cộng đồng, phát triển sản phẩm và Mạng lưới SubQuery.
 
-# Mạng SubQuery
+# Mạng lưới SubQuery
 
 ## Công bố lộ trình kỹ thuật
 
