@@ -80,17 +80,17 @@ Darwinia cũng đã hợp tác chặt chẽ với đội ngũ SubQuery để [x�
 
 ## Mạng lưới SubQuery
 
-Trong cuộc gọi cộng đồng gần đây nhất, chúng tôi đã sơ lược một số chi tiết quan trọng về mạng thử nghiệm SubQuery sắp tới. Nó sẽ được chạy trong ít nhất ba mùa, mỗi mùa sẽ kiểm tra các khía cạnh khác nhau của mạng:
+Trong cuộc gọi cộng đồng gần đây nhất, chúng tôi đã sơ lược một số chi tiết quan trọng về mạng thử nghiệm SubQuery sắp tới. Nó sẽ được chạy trong ít nhất ba giai đoạn, mỗi giai đoạn sẽ kiểm tra các khía cạnh khác nhau của mạng:
 
-- Mùa 1: Thử nghiệm alpha ở giai đoạn đầu của một số tính năng giới hạn với một số người tham gia được chọn
-- Mùa 2: Thử nghiệm beta rộng rãi với nhiều tính năng hơn với hàng trăm người tham gia
-- Mùa 3: Mạng kiểm tra công khai đầy đủ để kiểm tra tải và kiểm tra quy mô với hàng nghìn người tham gia
+- Giai đoạn 1: Thử nghiệm alpha cho một số tính năng giới hạn với một số người tham gia được chọn
+- Giai đoạn 2: Thử nghiệm beta rộng rãi với nhiều tính năng hơn với hàng trăm người tham gia
+- Giai đoạn 3: Thử nghiệm đầy đủ để kiểm tra tải và kiểm tra quy mô với hàng nghìn người tham gia
 
-Mỗi mùa giải sẽ có nhiều thử thách mà bạn có thể hoàn thành, điều này có thể dẫn đến phần thưởng SQT thực sự. Mong đợi mọi thứ sẽ khởi động ở đây vào tháng 3!
+Mỗi giai đoạn sẽ có nhiều thử thách mà bạn có thể hoàn thành để nhận thưởng là SQT. Chúng tôi hi vọng mọi thứ sẽ chính thức khởi động vào tháng 3!
 
-## Cập nhật Roadmap
+## Cập nhật lộ trình
 
-Tháng 10 năm ngoái, chúng tôi đã phát hành [lộ trình kỹ thuật](https://blog.subquery.network/blogs/20211029-roadmap-october.html) với năm tiếp theo được vạch ra cho SubQuery, chúng tôi đã quá hạn để giải quyết chính xác cách chúng tôi đang làm ở đây.
+Tháng 10 năm ngoái, chúng tôi đã phát hành [lộ trình kỹ thuật](https://blog.subquery.network/blogs/20211029-roadmap-october.html) với năm tiếp theo được vạch ra cho SubQuery, chúng tôi sẽ cập nhật cho bạn những gì đang diễn ra.
 
 ![](https://miro.medium.com/max/1400/1*2a3SGrW-OG5pbw67jsavvw.jpeg)
 
@@ -98,8 +98,8 @@ Như bạn có thể thấy trong lộ trình ban đầu ở trên, chúng tôi 
 
 ## Một vài thứ khác mà bạn có thể đã bỏ lỡ
 
-- Chúng tôi sẽ có giờ làm việc hàng tuần trên Máy chủ Discord của chúng tôi! Tham gia ‘Giờ làm việc’ của SubQuery trên kênh Stage của chúng tôi, nơi bạn có thể bắt kịp nhóm trong môi trường bình thường.
-- Chúng tôi đã có một QnA bằng tiếng Nga với James & Dmytro trong Discord nơi tất cả các câu hỏi được hỏi và trả lời bằng tiếng Nga. Hãy cho chúng tôi biết bạn muốn nghe ngôn ngữ nào tiếp theo
+- Chúng tôi sẽ có giờ làm việc hàng tuần trên Discord của mình! Hãy tham gia ‘Giờ làm việc’ của SubQuery trên kênh Stage, nơi bạn có thể trao đổi với đội ngũ SubQuery.
+- Chúng tôi đã có một buổi hỏi đáp với James & Dmytro trên Discord nơi tất cả các câu hỏi được hỏi và trả lời bằng tiếng Nga. Hãy cho chúng tôi biết bạn muốn nghe ngôn ngữ nào tiếp theo
 
 P.S.
 
