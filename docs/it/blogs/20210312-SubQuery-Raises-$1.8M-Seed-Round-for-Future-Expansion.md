@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/0*CrM8-LKRt3slWAsN)
 
-**SubQuery, il servizio che semplifica l'interrogazione dei dati decentralizzati, ha annunciato oggi di aver raccolto con successo un seed round di $ 1,8 milioni e una vendita privata sostenuta principalmente da** [**DeFi Alliance**](https://defialliance.co/)**, ** [**D1 Ventures**](https://d1.ventures/)**,** [**Hypersphere Ventures**](https://hypersphere.ventures/)**,** [**Digital Finance Group (DFG)**](https://www.dfg.group/)** e** [**Il Laos**](https://www.thelao.io/)**. La schiacciante richiesta che abbiamo ricevuto per sostenere il seed round di SubQuery mostra il forte interesse per i servizi infrastrutturali e la fiducia nel futuro dell'ecosistema Polkadot.**
+**SubQuery, il servizio che semplifica l'interrogazione dei dati decentralizzati, ha annunciato oggi di aver raccolto con successo un seed round di $ 1,8 milioni e una vendita privata sostenuta principalmente da** [**DeFi Alliance**](https://defialliance.co/)**, ** [**D1 Ventures**](https://d1.ventures/)**,** [**Hypersphere Ventures**](https://hypersphere.ventures/)**,** [**Digital Finance Group (DFG)**](https://www.dfg.group/)** e** [**Il Laos**](https://www.thelao.io/)**. L'enorme richiesta che abbiamo ricevuto per sostenere il seed round di SubQuery mostra il forte interesse per i servizi infrastrutturali e la fiducia nel futuro dell'ecosistema Polkadot.**
 
 SubQuery consente a ogni team Substrate/Polkadot di elaborare e interrogare i propri dati. Il progetto si ispira alla crescita dei protocolli di dati che servono il livello dell'applicazione e il suo scopo è aiutare i progetti Polkadot/Substrate a creare dApp migliori consentendo a chiunque di trovare e consumare dati in modo affidabile più velocemente. Oggi chiunque può interrogare ed estrarre i dati dalla rete Polkadot in pochi minuti e senza alcun costo.
 
@@ -16,12 +16,12 @@ Guidato da Sam Zou, CEO di SubQuery, il team [ha ricevuto una sovvenzione dalla 
 
 ![](https://miro.medium.com/max/1000/0*kjspGYRr_BtMk015)
 
-Da allora SubQuery ha lanciato SubQuery Explorer. Un servizio ospitato online che fornisce l'accesso ai progetti SubQuery pubblicati realizzati da contributori in tutto il mondo e gestiti dal team SubQuery. Abbiamo anche stabilito partnership strategiche con i migliori progetti Polkadot, tra cui Acala, Plasm e Moonbeam.
+Da allora SubQuery ha lanciato l'SubQuery Explorer. Un servizio ospitato online che fornisce l'accesso ai progetti SubQuery pubblicati realizzati da contributori in tutto il mondo e gestiti dal team SubQuery. Abbiamo anche stabilito partnership strategiche con i migliori progetti Polkadot, tra cui Acala, Plasm e Moonbeam.
 
-Questa raccolta di semi rafforzerà lo sviluppo di SubQuery e accelererà la fornitura di servizi di dati critici alla comunità Polkadot/Substrate. Ciò include la creazione di un servizio pubblico gratuito per ospitare e gestire i progetti SubQuery della comunità, la creazione di una comunità basata sulla condivisione di dati e conoscenze e l'eventuale tokenizzazione del nostro progetto.
+Questa raccolta rafforzerà lo sviluppo di SubQuery e accelererà la fornitura di servizi di dati critici alla comunità Polkadot/Substrate. Ciò include la creazione di un servizio pubblico gratuito per ospitare e gestire i progetti SubQuery della comunità, la creazione di una comunità basata sulla condivisione di dati e conoscenze e l'eventuale tokenizzazione del nostro progetto.
 
--   Provalo su[SubQuery Explorer](https://explorer.subquery.network/)
--   Maggiori informazioni su [Documenti SubQuery](https://doc.subquery.network/)
+-   Provalo sull'[Explorer SubQuery](https://explorer.subquery.network/)
+-   Maggiori informazioni sui [Documenti di SubQuery](https://doc.subquery.network/)
 -   Visita il nostro [sito web](https://subquery.network/)
 
 **Parla con noi su:**
