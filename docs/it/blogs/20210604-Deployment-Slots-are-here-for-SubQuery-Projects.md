@@ -22,7 +22,7 @@ Quando crei un nuovo deployment per il tuo [progetto SubQuery nel nostro servizi
 
 Lo slot per la messa in scena è perfetto per:
 
--   Alidare le modifiche al tuo Progetto SubQuery in un ambiente separato. Lo slot di staging ha un URL diverso da quello di produzione che puoi usare nelle tue dApps.
+-   Convalida le modifiche al tuo progetto SubQuery in un ambiente separato. Lo slot di staging ha un URL diverso da quello di produzione che puoi usare nelle tue dApps.
 -   Riscaldamento e indicizzazione dei dati per un progetto SubQuery aggiornato per eliminare i tempi morti nella tua dApp
 -   Preparare una nuova release per il tuo progetto SubQuery senza esporlo pubblicamente. Lo slot di staging non è mostrato al pubblico nell'Explorer e ha un URL unico che è visibile solo a te.
 
