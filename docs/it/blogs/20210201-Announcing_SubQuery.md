@@ -26,9 +26,9 @@ Affinché il sogno di un Web 3.0 si avveri, deve essere altrettanto veloce (o pi
 
 Questo è il motivo per cui siamo molto orgogliosi di annunciare SubQuery, un progetto open source che consente agli utenti di eseguire un indicizzatore sull'intera catena per creare un set di dati che può essere consultato con GraphQL. Il set di strumenti include un'interfaccia a riga di comando per consentire ai progetti di generare la propria sottoquery, definendo come l'indicizzatore deve attraversare e aggiungere la propria rete. Esiste un pacchetto di nodi SubQuery che indicizza la rete e supporta le consultazioni GraphQL. Con l'aiuto di questi strumenti, chiunque può facilmente creare ed eseguire consultazioni.
 
-> _Puoi iniziare ora, seguendo il nostro esempio nel repository SubQuery Github:_ [_https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql)
+> _Puoi iniziare ora, seguendo il nostro esempio nel repository SubQuery Github:_[_https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql)
 
-Inoltre, puoi ottenere maggiori informazioni leggendo i nostri [SubQuery Docs](https://doc.subquery.network/) o visitando il nostro nuovo sito Web all'indirizzo [https://subquery.network/](https://subquery.network/)
+Inoltre, puoi ottenere maggiori informazioni leggendo i nostri [SubQuery docs](https://doc.subquery.network/) o visitando il nostro nuovo sito Web all'indirizzo [https://subquery.network/](https://subquery.network/)
 
 ![](https://miro.medium.com/max/1000/1*3oA1Hvns1vrImTsmowO_Jw.png)
 
@@ -48,7 +48,7 @@ SubQuery sarà realizzato dal team OnFinality, che è una piattaforma SaaS infra
 
 Imprenditori e investitori con oltre 20 anni di esperienza IT specializzati nella progettazione di infrastrutture e servizi cloud
 
-** Ian He - ** Responsabile del protocollo ([ LinkedIn ](https://www.linkedin.com/in/yin-he-7a266345/))
+** Ian He - ** Responsabile del protocollo ([LinkedIn](https://www.linkedin.com/in/yin-he-7a266345/))
 
 Architetto blockchain, collaboratore di Polkadot-js, pioniere nell'adozione della tecnologia Substrate e secondo al primo hackathon di Polkadot.
 
@@ -60,7 +60,7 @@ Infrastruttura & Architetto delle applicazioni, ingegnere del software pluriprem
 
 Inizia con [SubQuery Github repository.](https://github.com/OnFinality-io/subql)
 
-Leggi i nostri [SubQuery Docs](https://doc.subquery.network/)
+Leggi i nostri [SubQuery docs](https://doc.subquery.network/)
 
 [Visita il nostro nuovo sito web](https://subquery.network/)
 
