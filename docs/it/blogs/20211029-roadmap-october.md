@@ -156,7 +156,7 @@ Al fine di promuovere una maggiore adozione di SQT, prevediamo di lanciare il to
 
 ## Traguardo 6 — Piani a lungo termine
 
-### Lancia il nostro Parachain
+### Lancia della nostra Parachain
 
 Sebbene inizialmente prevediamo di collaborare con una delle migliori parachain Polkadot per ottenere il rilascio e la scalabilità di SubQuery Network più rapidamente, a lungo termine SubQuery intende anche lanciarsi sulla propria parachain e integrarsi ancora di più nell'ecosistema.
 
