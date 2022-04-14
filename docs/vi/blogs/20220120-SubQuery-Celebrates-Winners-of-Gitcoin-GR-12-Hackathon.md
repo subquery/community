@@ -6,7 +6,7 @@ SubQuery, giải pháp lập chỉ mục dữ liệu hàng đầu trong Polkadot
 
 Hackathon diễn ra từ ngày 1 - 16 tháng 12 năm 2021 với các dự án blockchain hàng đầu như Moonbeam, Astar và Acala đóng góp vào các nhóm giải thưởng khác nhau. Giải thưởng được trao cho những người đã hoàn thành xuất sắc các dự án theo tiêu chuẩn đề ra và cả những người có các ý tưởng sáng tạo nhất hoặc những người có các giải pháp nhằm cải thiện SDK cốt lõi của SubQuery. Dưới đây là một bản tóm tắt ngắn về những thử thách được đặt ra:
 
-- [Tạo trình explorer thống nhất kết hợp dữ liệm của Substrate và EVM từ Moonbeam và Astar thành một ứng dụng dễ sử dụng](https://gitcoin.co/issue/subquery/grants/1) — US$12.000 [Được bảo trợ bởi Moonbeam và Astar]
+- [Tạo trình explorer thống nhất kết hợp dữ liệu của Substrate và EVM từ Moonbeam và Astar thành một ứng dụng dễ sử dụng](https://gitcoin.co/issue/subquery/grants/1) — US$12.000 [Được bảo trợ bởi Moonbeam và Astar]
 - [Tạo dashboard trung tâm DeFi lấy cảm hứng từ Zapper.fi hoặc defisaver.com](https://gitcoin.co/issue/subquery/grants/2) — US $ 8.000 [Tài trợ bởi Acala]
 - [Tạo dashboard staking hiển thị các tuỳ chọn staking tốt nhất trên Polkadot và các parachain khác nhau của Polkadot](https://gitcoin.co/issue/subquery/grants/3)— US$3.000
 - [Xây dựng marketplace explorer cho tất cả NFT dựa trên giao thức RMRK](https://gitcoin.co/issue/subquery/grants/4) — US$2.000
@@ -32,7 +32,9 @@ Người chiến thắng trong [thử thách này](https://gitcoin.co/issue/subq
 
 ![](https://miro.medium.com/max/1400/0*l7GA1axntiHCINRM)
 
-Giao diện của Web3Go liệt kê rõ ràng tất cả các vị thế nợ thế chấp (CDP), tỷ lệ và trạng thái an toàn của chúng. Đối với mỗi vị thế, nó cũng cung cấp thông tin về lịch sử của vị thế đó và dễ dàng cho phép người khác giám sát công cụ tài chính. <iframe width="560" height="315" src="https://www.youtube.com/embed/hc3YDjv6dkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Giao diện của Web3Go liệt kê rõ ràng tất cả các vị thế nợ thế chấp (CDP), tỷ lệ và trạng thái an toàn của chúng. Đối với mỗi vị thế, nó cũng cung cấp thông tin về lịch sử của vị thế đó và dễ dàng cho phép người khác giám sát công cụ tài chính.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hc3YDjv6dkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Polkadot Staking Dashboard
 
@@ -70,7 +72,9 @@ Người chiến thắng trong [thử thách này](https://gitcoin.co/issue/subq
 
 SubQuery có nguồn gốc từ Polkadot, đó là ngôi nhà của chúng tôi và chúng tôi đã làm việc chăm chỉ để xây dựng các mối quan hệ trong hệ sinh thái này. Mặc dù vậy, chúng tôi cũng tin tưởng vào một tương lai multichain, vì chúng tôi biết rằng sẽ có nhiều blockchain khác nhau làm việc cùng nhau để giải quyết các vấn đề khác nhau. Kế hoạch dài hạn của chúng tôi là sử dụng SubQuery và điều chỉnh nó để hoạt động cho các blockchain khác không có giải pháp lập chỉ mục hiện tại để giúp các nhà phát triển xây dựng các dApp mới.
 
-Người chiến thắng trong [thử thách 12.000 đô la Mỹ này](https://gitcoin.co/issue/subquery/grants/5/100027175) là Naveen, người đã mở rộng SubQuery để lập chỉ mục blockchain Terra. Điều này được thực hiện bằng cách tạo một bản fork mở rộng gói node của việc triển khai subql chính thức đến chỉ mục Terra. Naveen đang tiếp tục nghiên cứu vấn đề này và bạn có thể sớm có tin tức về các kế hoạch của SubQuery trong việc hỗ trợ các chuỗi lớp 1 khác bên ngoài Polkadot. <iframe width="560" height="315" src="https://www.youtube.com/embed/K_pjh5OC95A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Người chiến thắng trong [thử thách 12.000 đô la Mỹ này](https://gitcoin.co/issue/subquery/grants/5/100027175) là Naveen, người đã mở rộng SubQuery để lập chỉ mục blockchain Terra. Điều này được thực hiện bằng cách tạo một bản fork mở rộng gói node của việc triển khai subql chính thức đến chỉ mục Terra. Naveen đang tiếp tục nghiên cứu vấn đề này và bạn có thể sớm có tin tức về các kế hoạch của SubQuery trong việc hỗ trợ các chuỗi lớp 1 khác bên ngoài Polkadot.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K_pjh5OC95A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 “_Tôi đã nghiên cứu một loạt các công cụ lập chỉ mục trong vài tháng qua và đã tiến xa hơn đến việc xây dựng một công cụ lập chỉ mục từ đầu. Đó có thể là lý do tại sao SubQuery thu hút sự chú ý của tôi trong Gitcoin GR12 Hackathon. Tôi đã nhận nhiệm vụ mở rộng SubQuery để lập chỉ mục tại Terra. Tôi không tin rằng tôi có thể làm được điều này trong 15 ngày. Nhưng, SubQuery được kiến trúc theo một cách tuyệt vời đến mức nó cho phép tôi tạo ra một bức tranh tinh thần về những gì đang diễn ra một cách nhanh chóng. Tôi đã làm việc cùng một giải pháp hoạt động đúng lúc và tôi hiện đang làm việc với SubQuery để hợp nhất trình chỉ mục Terra vào gói subql. Trong tương lai gần, tôi sẽ tiếp tục làm việc với SubQuery để duy trì và mở rộng dự án và có thể xây dựng các chỉ mục cho một số chain layer-1 khác_” Naveen cho biết.
 
