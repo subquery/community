@@ -22,7 +22,7 @@ Thử thách này được dự kiến nhằm giải quyết cơ hội lớn đ�
 
 Người chiến thắng [thử thách này](https://gitcoin.co/issue/subquery/grants/1/10002717200027175) là @bizzyvinci, người [đã xây dựng explorer trực tuyến trên Heroku](https://moonriver-explorer.herokuapp.com/). Do thử thách này là một nhiệm vụ to lớn nên không có gì ngạc nhiên khi nó chưa hoàn thành 100%, nhưng chúng tôi rất vui mừng được hỗ trợ tiến độ cho sự đổi mới thay đổi này và giúp mở rộng nó sang các chuỗi EVM khác.
 
-@bizzyvinci đã nói như sau: “Tôi đã xây dựng [Moonriver Explorer](https://moonriver-explorer.herokuapp.com/) và đó là một trải nghiệm tuyệt vời. Bước đầu tiên là tìm hiểu về SubQuery và chết tiệt, họ có một tài liệu tuyệt vời đi kèm với kho mẫu. Tài liệu bao gồm mọi thứ cần thiết để bắt đầu và giải thích rõ từng khía cạnh, chẳng hạn như tệp kê khai, lược đồ graphql trong số những thứ khác."
+@bizzyvinci đã nói như sau: “Tôi đã xây dựng [Moonriver Explorer](https://moonriver-explorer.herokuapp.com/) và đó là một trải nghiệm tuyệt vời. Bước đầu tiên là tìm hiểu về SubQuery và thật ngạc nhiên khi họ có một tài liệu tuyệt vời đi kèm với kho mẫu. Tài liệu bao gồm mọi thứ cần thiết để bắt đầu và giải thích rõ từng khía cạnh, chẳng hạn như tệp kê khai, lược đồ graphql trong số những thứ khác."
 
 ## Dashboard cho DeFi trên Karura/Acala
 
