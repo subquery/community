@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/1*k5cScGKMiC45i_N-em3x0Q.png)
 
-En août, [SubQuery a lancé son programme Ambassadeur](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) pour trouver des leaders de la communauté passionnés par Polkadot et SubQuery. Notre objectif était de trouver des personnes autonomes capables de faire connaître SubQuery dans leur région et de soutenir les nouveaux développeurs qui créent des applications et des services étonnants sur Polkadot.
+In August, [SubQuery launched its Ambassador programme](./20210713-Introducing-the-SubQuery-Ambassador-Program.md) to find community leaders passionate about Polkadot and SubQuery. Notre objectif était de trouver des personnes autonomes capables de faire connaître SubQuery dans leur région et de soutenir les nouveaux développeurs qui créent des applications et des services étonnants sur Polkadot.
 
 On ne s'attendait pas à ce qui s'est passé ensuite!
 
@@ -16,7 +16,7 @@ En plus de la possibilité de devenir ambassadeur, les membres Discord ayant le 
 
 Pour en savoir plus sur notre programme Spartan et participer à notre concours de novembre, veuillez [joindre notre Discord](https://discord.com/invite/subquery).
 
-# À propos de SubQuery
+## About SubQuery
 
 SubQuery est une couche d'agrégation de données qui fonctionne entre les blockchains de couche 1 (comme Moonriver et Polkadot) et les DApps. Ce service débloque les données de la blockchain et les transforme en un état interrogeable afin qu'elles puissent être utilisées dans des applications intuitives. Il permet aux développeurs de DApps de se concentrer sur leur cas d'utilisation principal et leur front-end, sans avoir besoin de perdre du temps à construire un back-end personnalisé pour le traitement des données.
 
