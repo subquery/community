@@ -6,19 +6,19 @@ Bienvenue dans la dernière mise à jour mensuelle de SubQuery. Dans la continui
 
 Dans cette mise à jour mensuelle :
 
--   Embauche d'ambassadeurs 👩
--   Début des travaux sur le réseau SubQuery 🏗
--   Croissance énorme de la communauté 🚀
--   Nouveaux projets sur SubQuery 🤝
--   AMA avec DotMarketCap 🎙
--   Activité en Chine 🇨🇳
--   Livraison de la deuxième étape de l'API commune Polkadot ✅
+- Embauche d'ambassadeurs 👩
+- Début des travaux sur le réseau SubQuery 🏗
+- Croissance énorme de la communauté 🚀
+- Nouveaux projets sur SubQuery 🤝
+- AMA avec DotMarketCap 🎙
+- Activité en Chine 🇨🇳
+- Livraison de la deuxième étape de l'API commune Polkadot ✅
 
 ## Recrutement d'ambassadeurs 👩
 
 ![](https://miro.medium.com/max/1400/0*_nOcsPjhQxta_FPH)
 
-Après avoir[ lancé notre programme d'ambassadeurs ](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804)le mois dernier, nous avons été stupéfaits par l'engouement de la communauté et la qualité des participants. À ce jour, nous avons reçu un peu moins de 2 000 candidatures sur presque tous les continents (nous lançons un appel à candidatures pour l'Antarctique ☃️) et avons embarqué plus de 30 personnes jusqu'à présent.
+After [launching our Ambassador program](../blogs/20210713-Introducing-the-SubQuery-Ambassador-Program.md) last month, we have been amazed by the excitement in the community and quality of the participants. À ce jour, nous avons reçu un peu moins de 2 000 candidatures sur presque tous les continents (nous lançons un appel à candidatures pour l'Antarctique ☃️) et avons embarqué plus de 30 personnes jusqu'à présent.
 
 Tre a fait un excellent travail en menant cette initiative et[en s'engageant avec la communauté sur Discord](https://discord.com/invite/78zg8aBSMG). Comme nous voyons déjà les avantages d'avoir une relation plus étroite avec les partisans de SubQuery, nous allons élargir l'équipe dans les prochaines semaines, alors soyez patient si vous n'avez pas encore entendu parler de nous !
 
@@ -32,7 +32,7 @@ Pour nous aider à accélérer cette croissance, et s'assurer que notre communau
 
 ## Début des travaux sur le réseau SubQuery 🏗
 
-Oui ! Le travail de [migration de SubQuery vers un réseau décentralisé et à jetons](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010); le SubQuery Network, a commencé ! Cette migration permettra de s'assurer qu'il n'y a pas de point de défaillance unique pour SubQuery et d'encourager les participants via le jeton SQT. Afin de nous aider dans ce changement important, nous avons recruté de nouveaux développeurs pour nous rejoindre ce mois-ci.
+Oui ! The work on [moving SubQuery towards a decentralised and tokenised network](../blogs/20210614-Introducing-SubQuery-Network-The-Next-Big-Step-Towards-our-Decentralised-Future.md); the SubQuery Network, has begun! Cette migration permettra de s'assurer qu'il n'y a pas de point de défaillance unique pour SubQuery et d'encourager les participants via le jeton SQT. Afin de nous aider dans ce changement important, nous avons recruté de nouveaux développeurs pour nous rejoindre ce mois-ci.
 
 ## Nouveaux projets sur SubQuery 🤝
 
@@ -40,17 +40,17 @@ Oui ! Le travail de [migration de SubQuery vers un réseau décentralisé et à 
 
 En août, nous avons lancé plusieurs nouveaux projets sur SubQuery, notamment ceux avec Subscan, Karura, Polkaswap et Soramitsu.
 
-Pour Karura, [SubQuery est utilisé pour extraire et interroger les données de la chaîne de Karura](https://subquery.medium.com/karura-integrates-with-subquery-to-aggregate-and-serve-defi-data-to-kusama-builders-d34f0e722311?source=your_stories_page-------------------------------------), rendant les requêtes rapides et efficaces pour l'[appli de Karura](https://apps.karura.network/).
+For Karura, [SubQuery is being used to extract and query data from Karura's chain](../customer_announcements/20210819-Karura-Integrates-with-SubQuery-to-Aggregate-and-Serve-DeFi-Data-to-Kusama-Builders.md), making queries fast and efficient for [Karura's app](https://apps.karura.network/).
 
-Le service de SubQuery joue un rôle clé dans [Subscan](https://www.subscan.io/) en [fournissant des données rapides sur les transactions](https://subquery.medium.com/subscans-multi-signature-tool-powered-by-subquery-926da3e4fc25?source=your_stories_page-------------------------------------) pour toute adresse multi-signature donnée, améliorant ainsi l'interface utilisateur et permettant des fonctionnalités plus avancées.
+SubQuery's service is playing a key role in [Subscan](https://www.subscan.io/) by [providing fast data on transactions](../customer_announcements/20210901-Subscans-Multi-Signature-Tool.md) for any given multi signature address, thereby improving the UX and allowing for more advanced features.
 
-[SORA](https://sora.org/) a construit un [projet SubQuery qui récupère les données du réseau SORA](https://subquery.medium.com/sora-integrates-subquery-to-provide-data-to-the-sora-network-5a73f77a40aa?source=your_stories_page-------------------------------------) pour alimenter les applications mobiles construites sur SORA et [Polkaswap.io](http://polkaswap.io/). Vous pouvez en savoir plus ici
+[SORA](https://sora.org/) has built a [SubQuery Project that retrieves data from the SORA network](../customer_announcements/20210825-SORA-Integrates-SubQuery-to-Provide-Data-to-the-SORA-Network.md) to power mobile applications built on SORA and [Polkaswap.io](http://polkaswap.io/). Vous pouvez en savoir plus ici
 
 Dans les deux cas, nous sommes reconnaissants d'avoir de tels retours de la part de nos partenaires :
 
 *"L'utilisation de Subquery rend la construction de dapps facile, plus besoin de faire une série compliquée d'appels pour obtenir les données dont j'ai besoin."* - Brett (Développeur chez Acala)
 
-*"SubQuery a été la solution idéale pour nos besoins car l'application est facile à déployer et à gérer, elle est facile à apprendre et à développer tout en étant bien documentée, et elle a également sa propre infrastructure avec l'intégration de Github"* - Équipe de développement de SORA.
+_"SubQuery has been the ideal solution for our needs because the application is easy to deploy and manage, it is easy to learn and develop as well as being well documented, and it also has its own infrastructure with Github integration"_ - SORA Development Team
 
 [Vous pouvez voir tous les projets facilement via notre Explorer ici](https://explorer.subquery.network/).
 
@@ -74,7 +74,7 @@ Nous sommes heureux de faire des progrès dans le [développement d'une API dApp
 
 L'achèvement imminent de la deuxième étape de ce projet signifie qu'il y aura bientôt une interface API de données de base définie et commune pour Polkadot, Kusama et d'autres parachains, ce qui attirera davantage de développeurs dans l'écosystème. Rendre le développement intuitif et aussi indolore que possible est l'un de nos objectifs clés !
 
-*****
+---
 
 Comme toujours, n'hésitez pas à rejoindre nos canaux sociaux pour rester au courant de nos dernières nouvelles et annonces.
 
