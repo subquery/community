@@ -4,10 +4,10 @@ April adalah bulan yang sangat sibuk untuk SubQuery, pertumbuhan kami mulai meni
 
 Dalam pembaruan bulanan ini:
 
--   Fokus pada alat Mitra — Peluncuran Proyek SubQuery
--   Kasus penggunaan SubQuery BiFrost
--   Peningkatan Skalabilitas oleh penyedia layanan kami OnFinality
--   Dan lainnya…
+- Fokus pada alat Mitra — Peluncuran Proyek SubQuery
+- Kasus penggunaan SubQuery BiFrost
+- Peningkatan Skalabilitas oleh penyedia layanan kami OnFinality
+- Dan lainnya…
 
 Di sisi mitra, kami meluncurkan produk utama yang diperlukan untuk mempercepat pertumbuhan SubQuery secara operasional. Sebelum Anda dapat membuat dan menjalankan proyek SubQuery Anda sendiri secara lokal atau di infrastruktur Anda sendiri. [Projects](https://project.subquery.network/) memungkinkan pengguna untuk mempublikasikan proyek mereka ke komunitas SubQuery dan kami akan menjalankannya dalam layanan publik berkinerja tinggi, skalabel, dan terkelola — secara gratis!
 
@@ -25,7 +25,7 @@ Layanan SubQuery membantu Bifrost menggerakkan sebagian besar data yang ditampil
 
 Proyek SubQuery Bifrost baru di SubQuery Explorer
 
-> “Tanpa SubQuery, sulit membayangkan betapa rumitnya mengumpulkan data secara manual dari chain. Pengembang bifrost mungkin menghabiskan banyak waktu mencari semua data transaksi di chain yang akan digunakan untuk riwayat transaksi. SubQuery membantu pengembang menghemat banyak biaya pekerjaan yang repetitif. Bifrost akan bekerja sama dengan SubQuery untuk waktu yang lama untuk mempercepat kecepatan pengembangan produk yang berulang”. — Bifrost Finance
+> _"Without SubQuery, it is difficult to imagine how complicated it is to manually collect data from the chain. Pengembang bifrost mungkin menghabiskan banyak waktu mencari semua data transaksi di chain yang akan digunakan untuk riwayat transaksi. SubQuery membantu pengembang menghemat banyak biaya pekerjaan yang repetitif. Bifrost will cooperate with SubQuery for a long time to accelerate the iterative speed of product development"_ — Bifrost Finance
 
 OnFinality adalah penyedia layanan utama untuk SubQuery — sebagian besar pengindeks SubQuery di proyek Polkadot dan Kusama menggunakan endpoint API publik OnFinality untuk mendapatkan data mereka. Trafik yang signifikan dari SubQuery menjadi salah satu alasan mengapa OnFinality menjadi penyedia infrastruktur terbesar di ekosistem Polkadot/Kusama.
 
@@ -35,14 +35,14 @@ Pada bulan April, OnFinality mencapai target jangka panjang 100 juta dalam satu 
 
 OnFinality juga [menyampaikan proposal perbendaharaan mereka](https://kusama.polkassembly.io/treasury/72) untuk pencapaian kedua guna meningkatkan skalabilitas layanan API mereka. Routing cerdas yang memungkinkan mereka memaksimalkan penggunaan kluster node yang berbeda di seluruh basis pengguna mereka di wilayah geografis yang berbeda. SubQuery bergantung pada infrastruktur ini, jadi penting untuk mencatat investasi dan peningkatan berkelanjutan di sini. Sebulan terakhir telah menunjukkan betapa pentingnya untuk terus berinvestasi dalam skala sehingga kami dapat terus memberikan layanan terbaik setiap hari.
 
--   CEO kami Sam Zou mempresentasikan acara online _Cyber ​​future on Parachains_ dengan Web3, Acala, Polkawariors, dan Bitfwd
+- CEO kami Sam Zou mempresentasikan acara online _Cyber ​​future on Parachains_ dengan Web3, Acala, Polkawariors, dan Bitfwd
 
--   Kepala Pengembangan Bisnis kami James Bayly bergabung dengan obrolan fireside virtual yang menarik dengan DFG dan James Wo sebagai bagian dari seri DFG Talks mereka.
+- Kepala Pengembangan Bisnis kami James Bayly bergabung dengan obrolan fireside virtual yang menarik dengan DFG dan James Wo sebagai bagian dari seri DFG Talks mereka.
 
--   Waktu kami di Berkeley Xcelerator telah dimulai — sejauh ini kami telah menghadiri beberapa sesi yang luar biasa
--   Kami telah membuat beberapa peningkatan besar pada [website SubQuery](https://subquery.network/)
--   Rilis baru [dokumentasi yang telah ditingkatkan](https://doc.subquery.network/) untuk pengembang SubQuery
--   Kantor kami sedang berkembang, kami beruntung dapat bekerja di tempat yang sama di sini di Selandia Baru
+- Waktu kami di Berkeley Xcelerator telah dimulai — sejauh ini kami telah menghadiri beberapa sesi yang luar biasa
+- Kami telah membuat beberapa peningkatan besar pada [website SubQuery](https://subquery.network/)
+- Rilis baru [dokumentasi yang telah ditingkatkan](https://doc.subquery.network/) untuk pengembang SubQuery
+- Kantor kami sedang berkembang, kami beruntung dapat bekerja di tempat yang sama di sini di Selandia Baru
 
 ![](https://miro.medium.com/max/1400/0*cOsJ2TLa4yqpY0Ig)
 
