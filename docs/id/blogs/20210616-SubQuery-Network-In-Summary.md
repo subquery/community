@@ -1,11 +1,10 @@
 # SubQuery Network - Rangkuman
 
-> Bagaimana cara kerja SubQuery Network? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
+**Bagaimana cara kerja SubQuery Network? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)**
 
 Hari ini kita akan berbicara tentang bagaimana SubQuery Network bekerja pada tingkat tinggi.
 
 ## Peserta
-
 
 ![](https://miro.medium.com/max/1400/1*9993cakplwupZC5tbUv3vA.png)
 
@@ -13,9 +12,9 @@ Peserta dalam SubQuery Network
 
 Ada tiga jenis peserta di SubQuery Network:
 
--   **Konsumen**: Konsumen akan membuat permintaan ke SubQuery Network untuk data tertentu dan membayar sejumlah SQT yang diiklankan
--   **Pengindeks**: Pengindeks akan meng-host Proyek SubQuery di infrastruktur mereka sendiri, menjalankan node dan layanan kueri untuk mengindeks data dan menjawab permintaan GraphQL.
--   **Delegator**: Delegator akan berpartisipasi dalam jaringan dengan mendukung Pengindeks favorit mereka untuk mendapatkan reward
+- **Konsumen**: Konsumen akan membuat permintaan ke SubQuery Network untuk data tertentu dan membayar sejumlah SQT yang diiklankan
+- **Pengindeks**: Pengindeks akan meng-host Proyek SubQuery di infrastruktur mereka sendiri, menjalankan node dan layanan kueri untuk mengindeks data dan menjawab permintaan GraphQL.
+- **Delegator**: Delegator akan berpartisipasi dalam jaringan dengan mendukung Pengindeks favorit mereka untuk mendapatkan reward
 
 ## Pengindeks, Konsumen, dan Kueri
 
