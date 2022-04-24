@@ -6,7 +6,7 @@ Dalam pembaruan bulanan ini:
 
 - Rilis Whitepaper 🎊
 - Ekspansi Tim 👩💻
-- Staging Deployments 📥
+- Penempatan Pementasan 📥
 - Layanan SubQuery Dictionary 📖
 - Meningkatkan Jangkauan kami di China 🇨🇳
 
@@ -14,11 +14,11 @@ SubQuery Network adalah upaya kami untuk bergerak menuju jaringan terdesentralis
 
 [Last month, we publicly released our whitepaper for the world to read.](https://static.subquery.network/whitepaper.pdf) You can also read/watch a [short explanation here](../blogs/20210616-SubQuery-Network-In-Summary.md).
 
-Kami memiliki tujuan ambisius di SubQuery untuk menjadi penyedia layanan data tercepat dan dapat diakses di Substrate. We’ve written this whitepaper to highlight our [competitive advantages](../blogs/20210616-SubQuery-Network-Our-Goals-and-Competitive-Advantages.md) and our focus now is on executing this vision. SubQuery Network berfokus pada dua aspek utama, fleksibilitas dan kesederhanaan.
+Kami memiliki tujuan ambisius di SubQuery untuk menjadi penyedia layanan data tercepat dan dapat diakses di Substrat. We’ve written this whitepaper to highlight our [competitive advantages](../blogs/20210616-SubQuery-Network-Our-Goals-and-Competitive-Advantages.md) and our focus now is on executing this vision. Jaringan SubQuery berkisar pada dua aspek utama, fleksibilitas dan kesederhanaan.
 
-Tujuan ambisius membutuhkan tim kelas satu, dan kami terus menambahkan anggota baru ke tim selama bulan Juni. Ini termasuk; magang pengembangan baru, desainer UX, penulis dokumentasi pengembangan, dan staf pengembangan bisnis yang berbasis di China.
+Tujuan ambisius membutuhkan tim kelas satu, dan kami terus menambahkan anggota baru ke tim selama bulan Juni. Ini termasuk; magang pengembangan baru, desainer UX, penulis dokumentasi pengembangan, dan staf pengembangan bisnis yang berbasis di Cina.
 
-Kami masih mencari lebih banyak lagi, terutama di area berikut. Harap beritahu kami jika Anda memiliki seseorang dalam pikiran:
+Kami masih mencari lebih banyak lagi, terutama di area berikut. Harap kami tahu jika Anda tahu jika Anda memiliki seseorang dalam pikiran:
 
 - [Kepala Marketing](https://angel.co/company/subquery/jobs/1494376-head-of-marketing) atau pengembangan bisnis berbasis AS/UE (ini adalah kesempatan langka yang tidak boleh dilewatkan)
 - [SRE Engineers](https://angel.co/company/subquery/jobs/1497942-site-reliability-engineer)
@@ -32,9 +32,9 @@ Permintaan umum yang kami hadapi dari pelanggan kami adalah bagaimana meningkatk
 
 SubQuery projects now have the option to skip all this using our new feature — [the SubQuery Dictionary](../blogs/20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md). Kami pada dasarnya melakukan pra-indeks lokasi semua peristiwa dalam chain dan sebagai hasilnya kami telah melihat kecepatan pengindeksan hingga 10x lebih cepat, SubQuery lebih cepat dari sebelumnya.
 
-China adalah bagian penting dari rencana ekspansi strategis kami. Pada bulan Juni, Siqi bergabung dengan kami dan akan memimpin pengembangan bisnis kami di wilayah tersebut. Dia benar-benar berhasil, terhubung dengan banyak pelanggan dan mitra kami yang ada di sana.
+China adalah bagian penting dari rencana ekspansi strategis kami. Pada bulan Juni Siqi bergabung dengan kami dan akan memimpin pengembangan bisnis kami di wilayah tersebut. Dia benar-benar berhasil, terhubung dengan banyak pelanggan dan mitra kami yang ada di sana.
 
-Siqi berada di [panggung di acara Tur Nasional Ekologi Polka yang sangat sukses di Stasiun Hefei](https://twitter.com/SubQueryNetwork/status/1409696588465721348), menjalin kontak dengan banyak pihak proyek lain yang juga menghadiri konferensi. Dia akan hadir di banyak acara ke depan, jadi awasi dia dan sapa!
+Siqi berada di [panggung di acara Tur Nasional Ekologi Polka yang sangat sukses di Stasiun Hefei](https://twitter.com/SubQueryNetwork/status/1409696588465721348), menjalin kontak dengan banyak pihak proyek lain yang juga menghadiri konferensi. Dia akan berada di banyak acara ke depan, jadi awasi dia dan sapa!
 
 Menuju bulan depan, kami ingin melanjutkan pertumbuhan pesat kami dan sedang mengerjakan banyak proyek menarik. Tetap terhubung melalui media sosial kami untuk menjadi yang pertama mengetahui apa yang terjadi!
 
