@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/0*0inUQ8U1g9auTjfU)
 
-## **Бесплатная индексация данных для Wasm Tech Alliance**
+## Providing Free Data Indexing for Wasm Tech Alliance
 
 SubQuery присоединяется к открытой платформе Patract, чтобы совместно продвигать развитие общественной инфраструктуры, продвигать эволюцию контрактных технологий и развивать экосистему разработки контрактов Wasm.
 
@@ -22,14 +22,14 @@ SubQuery будет работать с контрактными проекта�
 
 Patract Labs считает, что развитие контрактной технологии Polkadot Wasm требует постоянного дополнения и улучшения инфраструктуры. SubQuery присоединяется к открытой платформе Patract в качестве поставщика инфраструктуры данных, который дополняет потребности экосистемы Polkadot, предоставляя децентрализованные данные, либерализируя доступ и сокращая эксплуатационные расходы на подключение и применение данных в проекте. Таким образом, разработчикам больше не нужно тратить много времени на создание и поддержку собственных решений для индексирования. Во-вторых, данные блокчейна трудно хранить непосредственно в DApps, поскольку DApps необходимо получать и преобразовывать данные из базового источника данных. Таким образом, схема ончейн-индексации SubQuery является отличной основой для взрывного роста DApps в экосистеме Polkadot. В настоящее время SubQuery также изучает решение, объединяющее инструменты SQL со смарт-контрактами Wasm, и мы с нетерпением ждем его.
 
-О Patract Labs
+## About Patract Labs
 
-Patract Labs предоставляет решения для разработки парачейнов и DApps в экосистеме смарт-контрактов Wasm компании Polkadot. Мы помогаем сообществу разрабатывать и проектировать он-чейн контрактные модули и поддержку среды выполнения, а также предоставляем разработчикам DApp поддержку полного стека инструментов и услуг, охватывающую этапы разработки, тестирования, отладки, развертывания, мониторинга, поставщика данных и интерфейсной разработки.
+Patract Labs provides solutions for the development of Parachains and DApps in the Wasm smart contract ecosystem of Polkadot. We help the community to design and develop on-chain contract modules and Runtime support, and provide DApp developers with full-stack tools and services support, covering development, testing, debugging, deployment, monitoring, data provider, and front-end development stages.
 
-[Веб-сайт](https://patract.io/)|[Элемент](https://app.element.io/#/room/#PatractLabsDev:matrix.org)|[Twitter](https://twitter.com/PatractLabs)|[GitHub](https://github.com/patractlabs) |[Discord](https://discord.gg/yMRMqcAb24) |[Telegram](https://t.me/patract)
+[Website](https://patract.io/)｜[Element](https://app.element.io/#/room/#PatractLabsDev:matrix.org)｜[Twitter](https://twitter.com/PatractLabs)｜[GitHub](https://github.com/patractlabs) ｜[Discord](https://discord.gg/yMRMqcAb24) ｜[Telegram](https://t.me/patract)
 
-О SubQuery
+## About SubQuery
 
-Задача SubQuery - сделать децентрализованные данные в мире более доступными. SubQuery - это поставщик данных как услуг, который собирает и организует данные из Polkadot и Substrate; он дает возможность Polkadot/Substrate проектам создавать лучшие DApp, предоставляя хорошо структурированные данные для разработчиков.
+The mission of SubQuery is to make the world’s decentralized data more accessible. SubQuery is a data-as-a-service provider that aggregates and organises data from Polkadot and Substrate projects; it empowers Polkadot/Substrate projects to build better DApps by providing well-structured data for developers.
 
-[Веб-сайт](https://www.subquery.network/)<unk>[Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Linkedin](https://www.linkedin.com/company/subquery) | [Средний](https://subquery.medium.com/)<unk>[GitHub](https://github.com/subquery/subql) | [Matrix](https://matrix.to/#/#subquery:matrix.org)
+[Website](https://www.subquery.network/)丨[Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Linkedin](https://www.linkedin.com/company/subquery) | [Medium](https://subquery.medium.com/)丨[GitHub](https://github.com/subquery/subql) | [Matrix](https://matrix.to/#/#subquery:matrix.org)
