@@ -1,10 +1,10 @@
-# SubQuery Network - Summary
+# SubQuery 网络 - 摘要
 
 **How does the SubQuery Network work? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)**
 
 Today we’re going to talk about how the SubQuery Network works at a high level.
 
-## Participants
+## 参与者
 
 ![](https://miro.medium.com/max/1400/1*9993cakplwupZC5tbUv3vA.png)
 
@@ -12,11 +12,11 @@ Participants in the SubQuery Network
 
 There are three types of participants in the SubQuery Network:
 
-- **Consumers**: Consumers will make requests to the SubQuery Network for specific data and pay an advertised amount of SQT
-- **Indexers**: Indexers will host SubQuery Projects in their own infrastructure, running both the node and query service to index data and answer GraphQL requests.
-- **Delegators**: Delegators will participate in the network by supporting their favourite Indexers to earn rewards
+- 数据消费者：数据消费者会对 SubQuery 网络请求得到特定数据并且支付一定广播价格数量的 SQT。
+- **索引者**: 索引者将在自己的基础架构中托管 SubQuery 项目，通过运行节点和查询服务来索引数据并应答 GraphQL 的请求。
+- **代理者**: 代表者将通过支持他们最喜欢的索引器来参与网络，并以此获得奖励。
 
-## Indexers, Consumers, and Queries
+## 索引者、消费者和数据查询
 
 Let’s start with Indexers, Indexers do a lot of the hard work behind the scenes. The manage hardware, run infrastructure, monitor resources, and choose the right SubQuery projects to index
 
@@ -26,7 +26,7 @@ This takes time and money, but once they have this, Consumers may come and make 
 
 Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
 
-## Cobb-Douglas Production Function
+## 柯布-道格拉斯生产函数
 
 This payment goes into a project revenue pool and at the end of a staking era (28 days) we take this project revenue pool and split it. It’s spit across indexers by something called the Cobb-Douglas production function.
 
@@ -42,7 +42,7 @@ Revenue is allocated to competing Indexers as a proportion of both requests answ
 
 In our view, the beauty of this equation is that a rational Indexer must maintain a high level of staked SQT relative to the work they do in order to receive optimal revenue. As a result, we do not need to enforce arbitrary staking requirements because Indexers are incentivised to self-manage and maintain a stake or skin in the game.
 
-## Delegators
+## 代理者
 
 So Indexers are incentivised to both do as much work as possible, and to stake as much as possible to maximise their rewards. This is where delegators come in.
 
@@ -60,7 +60,7 @@ Similarly, delegators can remove their delegation amounts at any point, but they
 
 Delegators will only receive rewards when they have delegated for the entire staking era
 
-## Purchase Orders
+## 数据定购订单
 
 Indexing a project takes time and money, there’s a lot of data on the chain. In order to encourage Indexers to index and support an entirely new SubQuery Project, we plan to implement a market mechanism for Consumers to signal guaranteed revenue to Indexers of new SubQuery Projects.
 
