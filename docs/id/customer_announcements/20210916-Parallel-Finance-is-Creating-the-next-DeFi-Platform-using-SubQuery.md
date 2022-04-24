@@ -6,7 +6,7 @@ Misi Parallel adalah berinovasi dan membawa DeFi ke level berikutnya dan ke audi
 
 ![](https://cdn-images-1.medium.com/max/1600/1*5Ru0mv1hq86BuBhGwsmoqQ.png)
 
-> *"SubQuery adalah alat luar biasa yang membawa teknologi pengindeksan & kueri tradisional ke Parallel Heiko. Layanan plug-and-play benar-benar menghemat banyak waktu kami dalam mengembangkan alat pengindeksan blok kami sendiri dan memelihara solusi kami sendiri."* - Parallel Finance*
+> *"SubQuery adalah alat luar biasa yang membawa teknologi pengindeksan & kueri tradisional ke Parallel Heiko. The plug-and-play service really saved us a lot time developing our own block indexing tool and maintaining our own solution."* - Parallel Finance
 
 Layanan [SubQuery](https://subquery.network/) membantu Parallel Finance menyimpan, menganalisis, dan membuat kueri data pada testnet Heiko mereka saat ini. Beberapa data ini digunakan langsung di aplikasi baru Parallel, membantu pengguna memahami dan menganalisis data DeFi.
 
@@ -16,7 +16,7 @@ Menggunakan SubQuery, Anda dapat dengan cepat menanyakan akun, nilai tukar, toke
 
 ![](https://cdn-images-1.medium.com/max/1600/1*FDRgez-G26x1DkWqCkORMQ.png)
 
-> *"Kami senang bekerja dengan tim SubQuery dan layanan pelanggan pribadi yang mereka berikan kepada kami. Kami berencana untuk menggunakannya lebih banyak serta memperkenalkan fitur lainnya ke dalam aplikasi DeFi kami."* - Parallel Finance*
+> *"Kami senang bekerja dengan tim SubQuery dan layanan pelanggan pribadi yang mereka berikan kepada kami. We plan to use it more as we introduce more features into our DeFi application."* - Parallel Finance
 
 Pada contoh di bawah, kami menggunakan SubQuery untuk menampilkan nilai tukar historis untuk semua aset di setiap blok.
 
@@ -26,7 +26,7 @@ Parallel Finance menggunakan [Proyek SubQuery](https://project.subquery.network/
 
 [Anda dapat menjelajahi data Parallel Finance di SubQuery hari ini](https://explorer.subquery.network/subquery/parallel-finance/parallel-finance)
 
-* * * * *
+---
 
 ##    Tentang Parallel Finance
 
