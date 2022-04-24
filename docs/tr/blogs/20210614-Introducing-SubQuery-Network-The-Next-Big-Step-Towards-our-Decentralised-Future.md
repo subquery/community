@@ -10,7 +10,7 @@ Herkes, blok zinciri verilerinin temel zayıflığının, işleme ve sorgulama p
 
 Bir SubQuery projesi oluşturmak ücretsizdir ve her zaman ücretsiz olacaktır. Geliştiriciler, altyapıyı çalıştırmak için değil inşa etmek için zaman harcamalıdır. Bununla birlikte, sağlıklı bir merkezi olmayan geleceğin, esnekliği, hızı ve ağ performansını iyileştirmek için birlikte çalışan birden fazla dağıtılmış veri hizmeti sağlayıcısı gerektirdiğine inanıyoruz.
 
-## SubQuery Ağı Tanıtımı:
+## Introducing The SubQuery Network:
 
 SubQuery Ağı, SubQuery için tek bir hata noktası olmamasını sağlamak ve sürece mümkün olduğunca çok katılımcıyı teşvik etmek için merkezi olmayan ve belirteçli bir ağa geçme çabamızdır.
 
