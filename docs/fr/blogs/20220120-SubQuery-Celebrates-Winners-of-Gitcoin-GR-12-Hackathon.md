@@ -8,7 +8,7 @@ Le hackathon s'est déroulé du 1er au 16 décembre 2021, avec des projets de bl
 
 - [Créer un explorateur de blocs unifié qui combine les informations sur les substrats et les EVM de Moonbeam et Astar en une seule application facile à utiliser](https://gitcoin.co/issue/subquery/grants/1) - 12 000$ US [sponsorisé par Moonbeam et Astar].
 - [Créer un tableau de bord du hub DeFi inspiré de Zapper.fi ou defisaver.com](https://gitcoin.co/issue/subquery/grants/2) - 8 000$ US [sponsorisé par Acala].
-- [Créer un tableau de bord de jalonnement qui montre les meilleures opportunités de jalonnement sur Polkadot et ses différents parachains](https://gitcoin.co/issue/subquery/grants/3) - 3 000$ US
+- [Créer un tableau de bord de jalonnement qui montre les meilleures opportunités de staking sur Polkadot et ses différents parachains](https://gitcoin.co/issue/subquery/grants/3) - 3 000$ US
 - [Créer un explorateur de marché pour tous les NFTs basés sur le protocole RMRK](https://gitcoin.co/issue/subquery/grants/4) - 2 000$ US
 - [Étendre le service @subql/node pour indexer les données d'une autre chaîne de niveau 1](https://gitcoin.co/issue/subquery/grants/5) - 12 000 \$ US
 
@@ -16,7 +16,7 @@ Le hackathon s'est déroulé du 1er au 16 décembre 2021, avec des projets de bl
 
 L'écosystème Polkadot/Kusama est constitué de blockchains (appelées Parachains) construites à l'aide de Substrate, qui utilise l'API Substrate. Cependant, certains Parachains, tels que Moonbeam et Astar, offrent une compatibilité Ethereum sans faille en ayant un composant EVM entièrement compatible. Il est actuellement difficile d'avoir une visibilité simultanée des données Substrate et EVM, ce qui se traduit par deux expériences isolées au sein de Moonbeam et Moonriver. Vous devez choisir entre le côté Substrat (par exemple, Subscan) et le côté EVM (par exemple, Moonscan et Blockscout).
 
-Ce défi a été envisagé pour répondre à l'énorme opportunité de construire un endroit unique pour comprendre l'historique complet de l'activité d'un compte. Par exemple, pour voir les actions de jalonnement et de gouvernance et les transferts ERC20 dans une seule interface utilisateur. Il s'agirait d'une application utilisée quotidiennement par les communautés massives au sein de Moonbeam, Astar et de nombreux autres parachains compatibles EVM qui sont en train de décoller.
+Ce défi a été envisagé pour répondre à l'énorme opportunité de construire un endroit unique pour comprendre l'historique complet de l'activité d'un compte. Par exemple, pour voir les actions de staking et de gouvernance et les transferts ERC20 dans une seule interface utilisateur. Il s'agirait d'une application utilisée quotidiennement par les communautés massives au sein de Moonbeam, Astar et de nombreux autres parachains compatibles EVM qui sont en train de décoller.
 
 ![](https://miro.medium.com/max/1400/0*b_o0NDpJOCv0QvXS)
 
@@ -32,25 +32,27 @@ Le gagnant de [ce défi](https://gitcoin.co/issue/subquery/grants/2/100027176) e
 
 ![](https://miro.medium.com/max/1400/0*l7GA1axntiHCINRM)
 
-L'interface de Web3Go liste proprement toutes les positions du CDP, leur ratio et leur statut de sécurité. Pour chaque position, elle fournit également des informations sur l'historique de la position et permet facilement à d'autres personnes de surveiller l'instrument financier. <iframe width="560" height="315" src="https://www.youtube.com/embed/hc3YDjv6dkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+L'interface de Web3Go liste proprement toutes les positions du CDP, leur ratio et leur statut de sécurité. Pour chaque position, elle fournit également des informations sur l'historique de la position et permet facilement à d'autres personnes de surveiller l'instrument financier.
 
-## Tableau de bord du jalonnement de Polkadot
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hc3YDjv6dkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Le jalonnement est un moyen essentiel d'utiliser vos jetons DOT et KSM, mais actuellement l'interface utilisateur pour le jalonnement est difficile à comprendre et conduit la plupart des utilisateurs à faire des choix non éclairés.
+## Tableau de bord du staking de Polkadot
 
-L'objectif de ce défi était de combiner des données sur la chaîne et une expérience utilisateur intuitive, afin d'aider les utilisateurs à comprendre le meilleur rendement estimé du jalonnement, de comparer les performances historiques des validateurs et de montrer aux utilisateurs quel pourrait être leur retour sur investissement.
+Le staking est un moyen essentiel d'utiliser vos jetons DOT et KSM, mais actuellement l'interface utilisateur pour le jalonnement est difficile à comprendre et conduit la plupart des utilisateurs à faire des choix non éclairés.
 
-Ashik a construit PolkStakes, un [site Web de classement des validateurs de Polkadot](https://polkstakes.vercel.app/) qui récupère tous les validateurs et affiche une liste proprement organisée de validateurs dans Polkadot avec la propre évaluation de PolkStake (basée sur les performances de l'époque précédente, les commissions, le paiement et les récompenses de jalonnement, etc.) C'est une interface utilisateur propre et simple qui nous a vraiment impressionnés. C’est une interface utilisateur simple et propre qui nous a vraiment impressionnés.
+L'objectif de ce défi était de combiner des données sur la chaîne et une expérience utilisateur intuitive, afin d'aider les utilisateurs à comprendre le meilleur rendement estimé du staking, de comparer les performances historiques des validateurs et de montrer aux utilisateurs quel pourrait être leur retour sur investissement.
+
+Ashik a construit PolkStakes, un [site Web de classement des validateurs de Polkadot](https://polkstakes.vercel.app/) qui récupère tous les validateurs et affiche une liste proprement organisée de validateurs dans Polkadot avec la propre évaluation de PolkStake (basée sur les performances de l'époque précédente, les commissions, le paiement et les récompenses de staking, etc.) C'est une interface utilisateur propre et simple qui nous a vraiment impressionnés. C’est une interface utilisateur simple et propre qui nous a vraiment impressionnés.
 
 ![](https://miro.medium.com/max/1400/0*Kaho31-nn-ly8tFS)
 
 "_Subquery réduit l'effort d'indexation manuelle des données sur la chaîne. Comme il offre un point de terminaison graphql, nous pouvons interroger les données facilement. Il réduit l'effort de maintenance d'un backend et d'une base de données. Maintenant, l'agrégation des données pour calculer le classement Polkstakes est faite dans l'interface utilisateur. Cela doit être déplacé vers SubQuery. En outre, une meilleure visualisation doit être faite pour les données indexées et une prédiction plus précise du rendement estimé doit être ajoutée._"Ashik de Polkdata
 
-L'excellente équipe de SubVis a également construit un [magnifique tableau de bord de jalonnement Polkadot](https://polkadot-staking-dashboard.vercel.app/) qui montre les statistiques totales de jalonnement au fil du temps et les performances du validateur en un seul endroit. Les nouvelles fonctionnalités de jalonnement rejoignent les pages existantes d'enchères et de crowdloan pour lesquelles SubVis est bien connu.
+L'excellente équipe de SubVis a également construit un [magnifique tableau de bord de staking Polkadot](https://polkadot-staking-dashboard.vercel.app/) qui montre les statistiques totales de staking au fil du temps et les performances du validateur en un seul endroit. Les nouvelles fonctionnalités de staking rejoignent les pages existantes d'enchères et de crowdloan pour lesquelles SubVis est bien connu.
 
 ![](https://miro.medium.com/max/1400/0*uPDQdMug2JaZwMbA)
 
-Enfin, Web3Go a présenté une autre excellente entrée avec des statistiques de jalonnement détaillées sur Moonriver. Ils fournissent des informations même sur les délégués pour chaque collateur, les récompenses historiques fournies par chaque collateur, et même les actions que les collateurs prennent. Ils offrent l'avantage supplémentaire de pouvoir montrer l'historique de jalonnement pour votre propre adresse de portefeuille.
+Enfin, Web3Go a présenté une autre excellente entrée avec des statistiques de staking détaillées sur Moonriver. Ils fournissent des informations même sur les délégués pour chaque collateur, les récompenses historiques fournies par chaque collateur, et même les actions que les collateurs prennent. Ils offrent l'avantage supplémentaire de pouvoir montrer l'historique de staking pour votre propre adresse de portefeuille.
 
 ![](https://miro.medium.com/max/1400/0*jQgOnvcaXt6cprJR)
 
@@ -70,7 +72,9 @@ Le gagnant de [ce défi](https://gitcoin.co/issue/subquery/grants/4/100027174) �
 
 SubQuery est originaire de Polkadot, c'est notre maison et nous avons travaillé dur pour établir des relations dans cet écosystème. Malgré cela, nous croyons également en un avenir multi-chaînes, car nous savons qu'il y aura de nombreuses blockchains différentes travaillant ensemble pour résoudre différents problèmes. Notre plan à long terme est de prendre SubQuery et de l'adapter pour qu'il fonctionne pour d'autres blockchains qui n'ont pas de solution d'indexation actuelle afin d'aider les développeurs à construire de nouvelles dApps.
 
-Le gagnant de [ce défi de 12 000 dollars](https://gitcoin.co/issue/subquery/grants/5/100027175) est Naveen, qui a étendu SubQuery pour indexer la blockchain Terra. Cela a été mis en œuvre en créant un fork qui étend le paquet de nœuds de l'implémentation officielle de SubQuery pour indexer Terra. Naveen continue à travailler sur ce sujet et vous pouvez vous attendre à des nouvelles bientôt sur les plans de SubQuery pour le support d'autres chaînes de niveau 1 en dehors de Polkadot. <iframe width="560" height="315" src="https://www.youtube.com/embed/K_pjh5OC95A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Le gagnant de [ce défi de 12 000 dollars](https://gitcoin.co/issue/subquery/grants/5/100027175) est Naveen, qui a étendu SubQuery pour indexer la blockchain Terra. Cela a été mis en œuvre en créant un fork qui étend le paquet de nœuds de l'implémentation officielle de SubQuery pour indexer Terra. Naveen continue à travailler sur ce sujet et vous pouvez vous attendre à des nouvelles bientôt sur les plans de SubQuery pour le support d'autres chaînes de niveau 1 en dehors de Polkadot.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K_pjh5OC95A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 "_J'ai étudié un tas d'indexeurs au cours des derniers mois et je suis allé jusqu'à construire un indexeur à partir de zéro. C'est peut-être la raison pour laquelle SubQuery a attiré mon attention lors du hackathon Gitcoin GR12. J'ai entrepris d'étendre SubQuery à l'indexation de Terra. Je ne pensais pas que je pourrais le faire en 15 jours. Mais SubQuery était conçu d'une manière si magnifique qu'il m'a permis de me faire une image mentale de ce qui se passait sous le capot très rapidement. J'ai bricolé une solution fonctionnelle juste à temps et je travaille actuellement avec SubQuery pour fusionner l'indexeur Terra avec le paquet subql. Dans un avenir proche, je vais continuer à travailler avec SubQuery pour maintenir et faire évoluer le projet et éventuellement construire des indexeurs pour plusieurs autres chaînes de niveau 1_", a déclaré Naveen.
 

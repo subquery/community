@@ -1,4 +1,4 @@
-# Обобщение за май 2021 г.
+# Обобщение на май 2021 г.
 
 ![](https://miro.medium.com/max/1400/1*5E_eIJBTvHI7W24ib_Syvw.png)
 

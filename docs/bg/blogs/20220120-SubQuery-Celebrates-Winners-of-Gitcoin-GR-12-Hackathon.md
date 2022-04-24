@@ -1,87 +1,87 @@
-# SubQuery Celebrates Winners of Gitcoin GR 12 Hackathon
+# SubQuery празнува победителите в Gitcoin GR 12 Hackathon
 
 ![](https://miro.medium.com/max/1400/1*MnMY9j3nasex9_9MNHUPtA.png)
 
-SubQuery, the leading data indexing solution in Polkadot, is delighted to announce the winners [of the recent Gitcoin GR 12 Hackathon](https://gitcoin.co/hackathon/gr12?org=subquery). Gitcoin is recognised as one of the preeminent blockchain developer communities focussed on creating community and applications for Web3. [SubQuery partnered with Gitcoin in December](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a) to sponsor five challenges to a value of USD$37,000 (the largest prize pool in the challenge), inviting developers to build useful tools, dashboards and even extend SubQuery to another Layer-1 blockchain.
+SubQuery, водещото решение за индексиране на данни в Polkadot, има удоволствието да обяви победителите [от скорошния Gitcoin GR 12 Хакатон](https://gitcoin.co/hackathon/gr12?org=subquery). Gitcoin е признат за една от изтъкнатите общности за разработчици на блокчейн, фокусирани върху създаването на общност и приложения за Web3. [SubQuery си партнира с Gitcoin през декември](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a), за да спонсорира пет предизвикателства на стойност $37 000 (най-големият награден фонд в предизвикателството), като кани разработчиците да изградят полезни инструменти, табла за управление и дори да разширят SubQuery до друг слой-1 блокчейн.
 
-The Hackathon took place from December 1st — 16th 2021 with leading blockchain projects such as Moonbeam, Astar and Acala contributing to various prize pools. The prizes are granted to those who have successfully completed the projects to the pre-set standards, and who deliver the most creative ideas, or those or solve areas to improve the core SubQuery SDK. A short summary of the challenges are below:
+Хакатонът се проведе от 1 до 16 декември 2021 г., като водещи блокчейн проекти като Moonbeam, Astar и Acala допринесоха за различни наградни фондове. Наградите се дават на онези, които са завършили успешно проектите според предварително зададените стандарти и които предоставят най-креативните идеи или тези или решават области за подобряване на основния SubQuery SDK. Кратко обобщение на предизвикателствата е по-долу:
 
-- [Create a unified block explorer that combines Substrate and EVM insights from Moonbeam and Astar into one easy to use application](https://gitcoin.co/issue/subquery/grants/1) — US$12,000 [Sponsored by Moonbeam and Astar]
-- [Create DeFi hub dashboard that’s inspired by Zapper.fi or defisaver.com](https://gitcoin.co/issue/subquery/grants/2) — US$8,000 [Sponsored by Acala]
-- [Create a staking dashboard that shows the best staking opportunities across Polkadot and its various parachains](https://gitcoin.co/issue/subquery/grants/3) — US$3,000
-- [Build a marketplace explorer for all RMRK protocol based NFTs](https://gitcoin.co/issue/subquery/grants/4) — US$2,000
-- [Extend the @subql/node service to index data from another layer 1 chain](https://gitcoin.co/issue/subquery/grants/5) — US$12,000
+- [Създайте унифициран блок Explorer, който комбинира Substrate и EVM прозрения от Moonbeam и Astar в едно лесно за използване приложение](https://gitcoin.co/issue/subquery/grants/1) — US$12 000 [Спонсорирано от Moonbeam и Astar]
+- [Създайте табло за управление на DeFi хъб, вдъхновено от Zapper.fi или defisaver.com](https://gitcoin.co/issue/subquery/grants/2) — US$8000 [Спонсорирано от Acala]
+- [Създайте табло за управление, което показва най-добрите възможности за залагане в Polkadot и различните му парачейни](https://gitcoin.co/issue/subquery/grants/3) — 3000 щ. д
+- [Създайте изследовател на пазара за всички NFT, базирани на RMRK протокол](https://gitcoin.co/issue/subquery/grants/4) — 2000 щ. д
+- [Разширете услугата @subql/node за индексиране на данни от друга верига от слой 1](https://gitcoin.co/issue/subquery/grants/5) — 12 000 долара
 
-## Unified EVM and Substrate Block Explorer
+## Обединен EVM и Substrate Блок Експлорър
 
-The Polkadot/Kusama ecosystem consists of blockchains (called Parachains) built using Substrate, which uses the Substrate API. However, certain Parachains, such as Moonbeam and Astar, offer seamless Ethereum compatibility by having a fully compatible EVM component. Having simultaneous visibility into Substrate and EVM data is currently challenging, resulting in two isolated experiences within Moonbeam and Moonriver. You have to choose between the Substrate side (e.g., Subscan) and EVM side (e.g., Moonscan & Blockscout).
+Екосистемата Polkadot/Kusama се състои от блокчейн (наречени Parachains), изградени с помощта на Substrate, който използва Substrate API. Въпреки това, някои Parachains, като Moonbeam и Astar, предлагат безпроблемна съвместимост с Ethereum, като имат напълно съвместим EVM компонент. Наличието на едновременна видимост в данните за субстрата и EVM в момента е предизвикателство, което води до две изолирани преживявания в Moonbeam и Moonriver. Трябва да избирате между страната на субстрата (напр. Subscan) и страната на EVM (например Moonscan & Blockscout).
 
-This challenge was envisaged to address the huge opportunity to build a single place to understand the full history of activity in an account. For example, to see staking and governance actions and ERC20 transfers in a single user interface. This would be an application used daily by the massive communities within Moonbeam, Astar, and many other EVM compatible parachains that are taking off.
+Това предизвикателство беше предвидено за справяне с огромната възможност за изграждане на единно място за разбиране на пълната история на дейността в акаунта. Например, за да видите действията за залагане и управление и ERC20 трансфери в един потребителски интерфейс. Това би било приложение, използвано ежедневно от масивните общности в рамките на Moonbeam, Astar и много други съвместими с EVM парачейни, които излитат.
 
 ![](https://miro.medium.com/max/1400/0*b_o0NDpJOCv0QvXS)
 
-The winner of [this challenge](https://gitcoin.co/issue/subquery/grants/1/10002717200027175) was @bizzyvinci who [has built a frontend explorer which is live on Heroku](https://moonriver-explorer.herokuapp.com/). Given that this challenge is a huge task, it’s not a surprise that it is not 100% complete yet, but we are excited to support the progress for this game-changing innovation and help extend it to other EVM chains.
+Победителят в [това предизвикателство](https://gitcoin.co/issue/subquery/grants/1/10002717200027175) беше @bizzyvinci, който [създал изследовател на интерфейса, който е на живо в Heroku](https://moonriver-explorer.herokuapp.com/). Като се има предвид, че това предизвикателство е огромна задача, не е изненада, че все още не е завършено на 100%, но ние сме развълнувани да подкрепим напредъка за тази променяща играта иновация и да помогнем за разширяването й до други вериги EVM.
 
-@bizzyvinci said the following: “I built the [Moonriver Explorer](https://moonriver-explorer.herokuapp.com/) and it was an awesome experience., The first step was learning about SubQuery and damn, they’ve got an awesome documentation which are accompanied with template repositories. The documentation covers everything it takes to get started and explains each aspect well such as the manifest file, graphql schema among others.”
+Като се има предвид, че това допълнително упражнение е огромна задача, не е изведнъж, че все не е завършено на 100%, но ние сме развълнувани, за да подкрепим напредъка за тази промяна на играта иновация и да помогнем за разширяването и до други вериги Evm. Документацията обхваща всичко необходимо, за да започнете, и обяснява добре всеки аспект, като например файла на манифеста, graphql схема наред с други.”
 
-## Karura/Acala DeFi Dashboard
+## Табло за управление Karura/Acala DeFi
 
-Acala and Karura represent a huge vision for the future of DeFi, so there is a big opportunity to build valuable tools for the ecosystem. This challenge required developers to create DeFi tools for the Karura/Acala community that are inspired by the likes of [Zapper.fi](http://zapper.fi/) and [defisaver.com](http://defisaver.com/) leveraging SubQuery’s data indexing services.
+Acala и Karura представляват огромна визия за бъдещето на DeFi, така че има голяма възможност за изграждане на ценни инструменти за екосистемата. Acala и Karura представляват огромна визия за бъдещето на DeFi, така че има голяма възможност за изграждане на ценни инструменти за екосистемата.
 
-The winner of [this challenge](https://gitcoin.co/issue/subquery/grants/2/100027176) was Web3Go who built a really nice summary of [Acala’s Collateral Debt Positions (CDPs)](https://web3go.xyz/#/CDPDetail). For users to mint kUSD stablecoins on Karura, they must first deposit tokens of one of the accepted collateral assets (e.g. KSM). Once the user has done so, the min collateral ratio parameter determines the minimum amount of the collateral needed for a user to mint kUSD. If the market price of the CDP’s collateral asset drops low enough, the CDP may be considered “unsafe.”
+Победителят в [това предизвикателство](https://gitcoin.co/issue/subquery/grants/2/100027176) беше Web3Go, който изгради наистина хубаво обобщение на [Обезпечените дългови позиции (CDP) на Acala](https://web3go.xyz/#/CDPDetail). За да могат потребителите да копират kUSD стейблкойни на Karura, те първо трябва да депозират токени на един от приетите активи за обезпечение (например KSM). След като потребителят направи това, параметърът за минимално съотношение на обезпечение определя минималния размер на обезпечението, необходимо за потребителя да изсече kUSD. Ако пазарната цена на обезпечителния актив на CDP падне достатъчно ниско, CDP може да се счита за „несигурен“
 
-![](https://miro.medium.com/max/1400/0*l7GA1axntiHCINRM)
+![](https://miro.medium.com/max/1400/0*b_o0NDpJOCv0QvXS)
 
-Web3Go’s interface cleanly lists all CDP positions, their ratio and their safe status. For each position it also provides information about the history of the position and easily allows others to monitor the financial instrument. <iframe width="560" height="315" src="https://www.youtube.com/embed/hc3YDjv6dkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Интерфейсът на Web3Go изброява ясно всички CDP позиции, тяхното съотношение и тяхното безопасно състояние. За всяка позиция също така предоставя информация за историята на позицията и лесно позволява на други да наблюдават финансовия инструмент. <iframe width="560" height="315" src="https://www.youtube.com/embed/hc3YDjv6dkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-## Polkadot Staking Dashboard
+## Стейкинг дашборд за Полкадот
 
-Staking is a key way to put your DOT and KSM tokens to use, but currently the UX for staking is difficult to understand and results in most users making uneducated choices.
+Залагането е ключов начин да използвате вашите DOT и KSM токени, но в момента UX за залагане е труден за разбиране и води до това, че повечето потребители правят необразован избор.
 
-This challenge’s objective was to combine on-chain data and an intuitive user experience, to help users understand the best estimated staking yield, compare the historical performance of validators, and show users what their return on investment might be.
+Целта на това предизвикателство беше да комбинира данни във веригата и интуитивно потребителско изживяване, за да помогне на потребителите да разберат най-добрия прогнозен доход от залагане, да сравнят историческата ефективност на валидаторите и да покажат на потребителите каква може да бъде възвръщаемостта на инвестицията им.
 
-Ashik built PolkStakes, a [Polkadot validator ranking website](https://polkstakes.vercel.app/) that fetches all validators and shows a cleanly organised list of validators in Polkadot with PolkStake’s own rating (based on previous era performance, commissions, payout, and staking rewards etc). It’s a clean and simple UI that really impressed us.
+Ashik създаде PolkStakes, [уебсайт за класиране на валидатори на Polkadot](https://polkstakes.vercel.app/), който извлича всички валидатори и показва чисто организиран списък с валидатори в Polkadot със собствен рейтинг на PolkStake (въз основа на ефективността от предишната ера, комисионни, изплащане и награди за залагане и т. н.). Това е изчистен и прост потребителски интерфейс, който наистина ни впечатли.
 
 ![](https://miro.medium.com/max/1400/0*Kaho31-nn-ly8tFS)
 
-“_Subquery reduces the effort in manually indexing on-chain data. Since it offers a graphql endpoint, we can query data easily. It reduces the effort in maintaining a backend and database. Now, data aggregation for calculating Polkstakes ranking is done in UI. This has to be moved to SubQuery. Also, better visualization has to be done for indexed data and more accurate estimated yield prediction has to be added._” — Ashik from Polkdata
+„_Подзаявката намалява усилията при ръчно индексиране на данни във веригата. Тъй като предлага крайна точка на graphql, можем лесно да запитваме данни. Това намалява усилията за поддържане на бекенд и база данни. Сега агрегирането на данни за изчисляване на класирането на Polkstakes се извършва в потребителския интерфейс. Това трябва да бъде преместено в SubQuery. Освен това трябва да се направи по-добра визуализация за индексираните данни и да се добави по-точна прогноза за прогнозната доходност._” — Ashik от Polkdata
 
-The excellent SubVis team also built a [beautiful Polkadot staking dashboard](https://polkadot-staking-dashboard.vercel.app/) that shows total staking statistics over time and the validator performance in one place. The new staking features join the existing auction and crowdloan pages that SubVis are well known for.
+Отличният екип на SubVis изгради и [красиво табло за залагане на Polkadot](https://polkadot-staking-dashboard.vercel.app/), което показва общата статистика за залагането във времето и ефективността на валидатора на едно място. Новите функции за залагане се присъединяват към съществуващите страници за търгове и заеми, с които SubVis е добре известен.
 
 ![](https://miro.medium.com/max/1400/0*uPDQdMug2JaZwMbA)
 
-Finally, Web3Go put in another excellent entry with detailed staking statistics on Moonriver. They provide information even about the delegators for each collator, the historic rewards provided by each collator, and even the actions that collators take. They provide the additional benefits of being able to show staking history for your own wallet address.
+И накрая, Web3Go постави още един отличен запис с подробна статистика за залагането на Moonriver. Те предоставят информация дори за делегаторите за всеки събеседник, историческите награди, предоставени от всеки събеседник, и дори действията, които събеседниците предприемат. Те предоставят допълнителните предимства от възможността да показвате история на залагане за вашия собствен адрес на портфейла.
 
-![](https://miro.medium.com/max/1400/0*jQgOnvcaXt6cprJR)
+![](https://miro.medium.com/max/1400/0*uPDQdMug2JaZwMbA)
 
-## RMRK NFT Marketplace Explorer
+## RMRK NFT експлорър
 
-RMRK is an advanced protocol of NFT legos making NFTs that are so much more than just a jpeg. The team at RMRK are bringing new standards of NFTs to the DOT ecosystem, and leading the way in building the next generation.
+Предоставя се допълнителни възможности за възможността да се възползвате от историята на поставянето на вашия собствен адрес на портфейла. Екипът на RMRK въвежда нови стандарти за NFT в екосистемата на DOT и е водещ в изграждането на следващото поколение.
 
-This challenge called for the creation of a detailed dashboard that tracks the evolution of all RMRKs (potentially focusing on [Kanarias](https://kanaria.rmrk.app/)), including transfers, emote history, and more across RMRK2. This dashboard had to use a RMRK2 focused SubQuery project.
+Екипът на RMRK въвежда нови стандарти за NFT в екосистемата на DOT и е изграждането на следващото поколение. Това табло трябваше да използва проект SubQuery, фокусиран върху RMRK2.
 
-The winner of [this challenge](https://gitcoin.co/issue/subquery/grants/4/100027174) was another excellent dashboard from Web3Go called the [NFT Garden](https://web3go.xyz/#/NFTProfiler). It includes in depth details about each NFT collection, such as average prices, volumes, price ranges, and all transactions for each single item. Additionally, there are some interesting visualisations on all the traits within NFTs.
+Победителят в [това предизвикателство](https://gitcoin.co/issue/subquery/grants/4/100027174) беше друго отлично табло за управление от Web3Go, наречено [NFT Garden](https://web3go.xyz/#/NFTProfiler). Той включва задълбочени подробности за всяка колекция от NFT, като средни цени, обеми, ценови диапазони и всички транзакции за всеки отделен артикул. Освен това има някои интересни визуализации на всички черти в NFT.
 
-![](https://miro.medium.com/max/1400/0*1_mUnNIBYI84G_qs)
+![](https://miro.medium.com/max/1400/0*uPDQdMug2JaZwMbA)
 
-“_Since the inception of Web3Go, we have been using SubQuery as the underlying architecture for data indexing. The development kit provided by SubQuery has proven to be very suitable for our team to quickly develop, deploy and upgrade projects, which is also the key to our good results on the Gitcoin Hackathon. In the next step, we will use Subquery to develop dashboards for all projects on the Polkadot & Kusama parachains, which will involve Defi, NFT, and Tokens!_” says Hao Ding from Web3Go.
+„_От началото на Web3Go използваме SubQuery като основна архитектура за индексиране на данни. Комплектът за разработка, предоставен от SubQuery, се оказа много подходящ за нашия екип за бързо разработване, внедряване и надграждане на проекти, което също е ключът към добрите ни резултати в Gitcoin Hackathon. В следващата стъпка ще използваме Subquery за разработване на табла за всички проекти в Polkadot & Parachains Kusama, които ще включват Defi, NFT и Tokens!_” казва Хао Динг от Web3Go.
 
-## Extend SubQuery to another Layer-1 Blockchain
+## Разширете SubQuery до друг блокчейн на ниво 1
 
-SubQuery is native to Polkadot, it’s our home and we’ve worked hard to build relationships in this ecosystem. In spite of this we also believe in a multi chain future, as we know that there are going to be many different blockchains working together to solve different problems. Our long term plan is to take SubQuery and to adapt it to work for other blockchains that don’t have a current indexing solution to help developers build new dApps.
+SubQuery е роден за Polkadot, това е нашият дом и ние работихме усилено, за да изградим взаимоотношения в тази екосистема. Въпреки това ние също вярваме в бъдеще с много вериги, тъй като знаем, че ще има много различни блокчейн, които работят заедно за решаване на различни проблеми. Нашият дългосрочен план е да вземем SubQuery и да го адаптираме да работи за други блокчейн, които нямат текущо решение за индексиране, за да помогнем на разработчиците да изградят нови dApps.
 
-The winner of [this US$12,000 challenge](https://gitcoin.co/issue/subquery/grants/5/100027175) was Naveen who extended SubQuery to index the Terra blockchain. This was implemented by creating a fork that extends the node package of the official subql implementation to index Terra. Naveen is continuing to work on this and you can expect news soon about SubQuery’s plans for support of other layer 1 chains outside of Polkadot. <iframe width="560" height="315" src="https://www.youtube.com/embed/K_pjh5OC95A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Победителят в [това предизвикателство за 12 000 долара](https://gitcoin.co/issue/subquery/grants/5/100027175) беше Навин, който разшири SubQuery, за да индексира блокчейна Terra. Това беше реализирано чрез създаване на форк, който разширява пакета възел на официалната реализация на subql до индекс на Terra. Naveen продължава да работи по това и можете да очаквате скоро новини за плановете на SubQuery за поддръжка на други вериги от слой 1 извън Polkadot. <iframe width="560" height="315" src="https://www.youtube.com/embed/K_pjh5OC95A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-“_I have been studying a bunch of indexers in the past few months and went as far as building an indexer from scratch. That might be the reason why SubQuery caught my attention in the Gitcoin GR12 Hackathon. I took up the task of extending SubQuery to index Terra. I did not believe that I could pull this off in 15 days. But, SubQuery was architected in such a magnificent manner that it allowed me to create a mental picture of what is happening under the hood very quickly. I hacked together a working solution just in time and I am currently working with SubQuery to merge the Terra indexer into the subql package. In the foreseeable future, I will be continuing to work with SubQuery to maintain and scale the project and possibly build indexers for several other layer 1 chains_” said Naveen.
+„_Изучавах куп индексатори през последните няколко месеца и стигнах до създаването на индексатор от нулата. Това може да е причината SubQuery да привлече вниманието ми в Gitcoin GR12 Hackathon. Поех задачата да разширя SubQuery до индекс на Terra. Не вярвах, че мога да направя това за 15 дни. Но SubQuery беше проектиран по толкова великолепен начин, че ми позволи много бързо да създам мислена картина на това, което се случва под капака. Хакнах заедно работещо решение точно навреме и в момента работя с SubQuery за сливане на индексатора на Terra в пакета subql. В обозримо бъдеще ще продължа да работя с SubQuery, за да поддържам и мащабирам проекта и евентуално да изграждам индексатори за няколко други вериги от слой 1_” каза Навийн.
 
-[Sam Zou](https://twitter.com/zoujialiu), the CEO and Founder of SubQuery commented, “_SubQuery is delighted with the results of the Gitcoin GR12 Hackathon. Our mission relies on having a network of developers who are empowered to create and innovate within the Substrate/Polkadot ecosystem. This partnership provided opportunities for motivated developers around the world to build the applications of tomorrow. We are excited to nurture the winners of the challenges to develop their ideas even further_”
+[Sam Zou](https://twitter.com/zoujialiu), главен изпълнителен директор и основател на SubQuery коментира: „_SubQuery е възхитен от резултатите от Gitcoin GR12 Hackathon. Нашата мисия разчита на наличието на мрежа от разработчици, които са овластени да създават и иновират в рамките на екосистемата Substrate/Polkadot. Това партньорство предостави възможности за мотивирани разработчици по целия свят да създават приложения на утрешния ден. Ние сме развълнувани да подхранваме победителите в предизвикателствата, за да развият идеите си още повече_” 
 
-Following on from this successful Hackathon, SubQuery would like to encourage developers who would like to learn more about how to build applications with SubQuery to [register for our free online “Hero Course”, or apply for our recently announced Grants Programme](https://subquery.coassemble.com/unlock/dOKZW6O#/).
+Ние сме развълнувани да подхранваме победителите в резултата, за да развием идеите си още повече.
 
 ---
 
-## About SubQuery
+## За SubQuery
 
-[SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. This service unlocks blockchain data and transforms it to a queryable state so that it can be used in intuitive applications. It allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The upcoming SubQuery Network will decentralize and tokenize the ecosystem to allow everyone to participate in the web3 data revolution.
+[Подзаявка](https://subquery.network/) е децентрализирано агрегиране на данни, индексиране & слой за запитване между блокчейн от слой 1 и децентрализирани приложения. Тази услуга отключва блокчейн данни и ги трансформира в състояние за запитване, така че да може да се използва в интуитивни приложения. Той позволява на разработчиците на DApp да се съсредоточат върху основния си случай на използване и предния край, без да е необходимо да губят време за изграждане на персонализиран бекенд за обработка на данни. Предстоящата SubQuery Network ще децентрализира и токенизира екосистемата, за да позволи на всеки да участва в революцията на данните в web3.
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Youtube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)

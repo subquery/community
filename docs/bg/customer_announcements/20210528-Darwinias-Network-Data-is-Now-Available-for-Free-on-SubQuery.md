@@ -1,12 +1,12 @@
-# Мрежовите данни на Darwinia's Network са достъпни безплатно в SubQuery
+# Мрежовите данни на Дарвиния вече са достъпни безплатно в SubQuery
 
 ![](https://miro.medium.com/max/1400/0*7_sagAfI_wTKePuH)
 
-**中文阅读版本请见下方**
+**Важно**
 
-**Имаме удоволствието да обявим, че SubQuery и Darwinia Network създадоха стратегическо партньорство.**
+**Имаме удоволствието да обявим, че SubQuery и Дарвиния създадоха стратегическо партньорство.**
 
-[Darwinia](https://darwinia.network/)наскоро пусна два нови проекта SubQuery, единият за [основната им мрежа](https://explorer.subquery.network/subquery/darwinia-network/darwinia), а другият - за [Crab](https://explorer.subquery.network/subquery/darwinia-network/crab), тяхната канарска мрежа. Излагайки своите данни в SubQuery, Darwinia отваря вратата за своята екосистема от приложения, за да изгради по-интересни приложения върху този безплатен източник на данни.
+[Дарвиния](https://darwinia.network/) наскоро пусна два нови проекта върху SubQuery, единият за [основната им мрежа](https://explorer.subquery.network/subquery/darwinia-network/darwinia), а другият - за [Crab](https://explorer.subquery.network/subquery/darwinia-network/crab), тяхната canary мрежа. Излагайки своите данни в SubQuery, Darwinia отваря вратата за своята екосистема от приложения, за да изгради по-интересни приложения върху този безплатен източник на данни.
 
 > "Използването на SubQuery за заявка на данни от on-chain на Darwinia стана много лесно и гъвкаво. SubQuery разглежда блокчейн данните като граф и използва разширяемостта на GraphQL, за да въведе допълнителна функционалност. Вярваме, че в бъдеще интерфейсът за данни във веригата на субстрата ще използва главно GraphQL, а SubQuery превръща това в реалност.". — Darwinia
 
@@ -24,7 +24,7 @@ Darwinia използва [SubQuery Projects](https://project.subquery.network/)
 
 ![](https://miro.medium.com/max/1400/0*z-9giNk4RnhxliYy)
 
-[SubQuery](https://subquery.network/) е слой за агрегиране на данни, който ще функционира между блоковите вериги от слой 1 (Darwinia) и DApps. Решението обединява и организира данни от [Darwinia](https://darwinia.network/) и други блокчейн вериги, като предоставя добре структурирани данни за техния dApp и за други разработчици, които да ги използват в широк спектър от проекти. Тази услуга позволява на разработчиците на DApp да се съсредоточат върху основния си случай на използване и фронт енд, без да е необходимо да губят време за изграждане на персонализиран бекенд за обработка на данни.
+[SubQuery](https://subquery.network/) е слой за агрегиране на данни, който ще функционира между блокчейн мрежите от слой 1 (Darwinia) и DApps. Решението обединява и организира данни от [Darwinia](https://darwinia.network/) и други блокчейн вериги, като предоставя добре структурирани данни за техния dApp и за други разработчици, които да ги използват в широк спектър от проекти. Тази услуга позволява на разработчиците на DApp да се съсредоточат върху основния си случай на използване и фронт енд, без да е необходимо да губят време за изграждане на персонализиран бекенд за обработка на данни.
 
 Научете повече за SubQuery
 
@@ -32,8 +32,8 @@ Darwinia използва [SubQuery Projects](https://project.subquery.network/)
 
 Мрежата Darwinia е децентрализиран хетерогенен cross-chain мостов протокол, изграден на базата на Substrate, който се фокусира върху децентрализирана cross-chain размяна на токени, обмен и пазар.
 
-Darwinia също така служи като критична инфраструктура за надграждане на single-chain приложения до междуверижна версия, включително Defi, Game, DEX, NFT market и др. Тяхната визия е да изградят бъдещия интернет на токените.
+Darwinia също така служи като критична инфраструктура за надграждане на single-chain приложения до междуверижна версия, включително Defi, Game, DEX, NFT пазари и др. Тяхната визия е да изградят бъдещия интернет на токъните.
 
-Всичко, което трябва да знаете за Darwinia
+Всичко, което трябва да знаете за Дарвиния
 
-[Website](https://darwinia.network/) | [Twitter](https://twitter.com/DarwiniaNetwork) | [Telegram](https://t.me/DarwiniaNetwork) | [GitHub](https://github.com/darwinia-network) | [Discord](https://discord.gg/KMZVeyM)
+[Website](https://darwinia.network/) | [Twitter](https://twitter.com/DarwiniaNetwork) | [ Telegram](https://t.me/DarwiniaNetwork) | [GitHub](https://github.com/darwinia-network) | [Discord](https://discord.gg/KMZVeyM)

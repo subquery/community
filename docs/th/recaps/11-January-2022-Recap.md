@@ -2,109 +2,109 @@
 
 ![](https://miro.medium.com/max/1400/1*2IMAaY-YYyAdl7YfZqHTAg.png)
 
-สวัสดีทุกๆคน แล้วก็ยินดีต้อนรับสู่ปีใหม่ 2022! ปีที่แล้วก็เป็นปีที่ยิ่งใหญ่สำหรับ SubQuery หลังจากทำงานมาหนักตลอดทั้งปี ตอนนี้เหล่าทีมงานก็ได้พักผ่อนหลังจากวันหยุดพักร้อนที่นี่ในประเทศนิวซีแลนด์ และทางทีมงานยังรู้สึกมีพลังเมื่อนึกถึงศักยภาพของโปรเจคในวันข้างหน้า ปีนี้จะเป็นปีแห่งการปฏิวัติของข้อมูลแบบกระจายศูนย์ (decentralized data)!
+สวัสดีทุกๆคน แล้วก็ยินดีต้อนรับสู่ปีใหม่ 2022! ปีที่แล้วก็เป็นปีที่ยิ่งใหญ่สำหรับ SubQuery หลังจากทำงานมาหนักตลอดทั้งปี ตอนนี้เหล่าทีมงานก็ได้พักผ่อนเต็มที่หลังจากวันหยุดพักร้อนที่นี่ในประเทศนิวซีแลนด์ และทางทีมงานยังรู้สึกมีพลังเมื่อนึกถึงศักยภาพของโปรเจกต์ในวันข้างหน้า ปีนี้จะเป็นปีแห่งการปฏิวัติของข้อมูลแบบไร้ศูนย์กลาง!
 
-เหมือนอย่างเคย ครั้งนี้เราก็ได้แบ่งรายงานประจำเดือนเป็น 3 ส่วน ซึ่งประกอบด้วย ชุมชน พัฒนาการของผลิตภัณฑ์หลัก และ SubQuery Network
+เหมือนอย่างเคย ครั้งนี้เราก็ได้แบ่งรายงานประจำเดือนเป็น 3 ส่วนซึ่งประกอบด้วย คอมมูนิตี้, การพัฒนาผลิตภัณฑ์หลักและ SubQuery Network
 
-## ชุมชน
+## คอมมูนิตี้
 
-ชุมชนของ SubQuery กำลังขยายตัวอย่างรวดเร็วทั้งจำนวนและพื้นที่ที่เราครอบคลุม! As a result, we have a lot to talk about in this area.
+คอมมูนิตี้ของ SubQuery กำลังขยายตัวอย่างรวดเร็วทั้งจำนวนและพื้นที่ที่เราครอบคลุม! ดังนั้นเรามีอะไรให้คุยกันเยอะเลยในเรื่องนี้
 
-### SubQuery Partners With Leading Polkadot Teams On Technical Bounties via the SubQuery Grants Programme
+### SubQuery เป็นพาร์ทเนอร์กับทีมงานหลักของ Polkadot เรื่องเงินรางวัลด้านเทคนิคผ่านโครงการ SubQuery Grant Programme
 
-Last month we launched the SubQuery Grants Programme, a non dilutive accelerator to help developers in our community build the next generation of dApps. This month we’ve talked to our partners to release a first round of bounties in partnership with Moonbeam, Acala, Astar and Bifrost as projects for inspiration. All are open to apply now, and as a bonus, if your application is successful you’ll get to work closely with the parachain team that suggested the challenge!
+เดือนที่แล้วเราได้เปิดตัว SubQuery Grant Programme ซึ่งเป็นโปรแกรมเพื่อเร่งสนับสนุนผู้พัฒนาในคอมมูนิตี้ของเราเพื่อสร้าง dApps สำหรับอนาคต ในเดือนนี้เราได้พูดคุยกับพาร์ทเนอร์ของเราเพื่อจะเริ่มกิจกรรมเงินรางวัลรอบแรกกับ Moonbeam, Acala, Astar และ Bifrost เพื่อเป็นโปรเจคสำหรับสร้างแรงบันดาลใจ โดยทุกโปรเจกต์เปิดรับสมัครแล้ววันนี้ และหากการสมัครของคุณได้รับคัดเลือก จะยิ่งเป็นเสมือนการได้รับโบนัส เพราะคุณจะได้มีโอกาสทำงานอย่างใกล้ชิดกับทีม พาราเชนที่แนะนำกิจกรรมนี้ขึ้นมา!
 
-Applicants who are interested in any of these bounties are encouraged to submit their proposal with the budget required to complete the task and other requirements [here](https://docs.google.com/forms/d/e/1FAIpQLSfmMazkebKwNTWThBkVGaxf2Bg8s4aWZ0ZhwiMCtc9kv4sJHQ/viewform). Additionally, we look forward to announce the first round of SubQuery grantees in February.
+ผู้สมัครท่านใดที่มีความสนใจเกี่ยวกับการสนับสนุนและรางวัลตอบแทนเหล่านี้ สามารถส่งข้อเสนอพร้อมงบประมาณที่ต้องการสำหรับการดำเนินงานให้สำเร็จ รวมไปถึงความต้องการอื่นๆ[ได้ที่นี่](https://docs.google.com/forms/d/e/1FAIpQLSfmMazkebKwNTWThBkVGaxf2Bg8s4aWZ0ZhwiMCtc9kv4sJHQ/viewform) นอกจากนี้ เราตั้งตารอที่จะประกาศรายชื่อผู้เข้ารอบในรอบแรกในเดือนกุมภาพันธ์
 
-[Read more here](https://subquery.medium.com/subquery-partners-with-leading-polkadot-teams-on-technical-bounties-via-the-subquery-grants-d40453788435)
+[อ่านเพิ่มเติมได้ที่นี่](https://subquery.medium.com/subquery-partners-with-leading-polkadot-teams-on-technical-bounties-via-the-subquery-grants-d40453788435)
 
-### SubQuery Celebrates Winners of Gitcoin GR 12 Hackathon
+### SubQuery ขอร่วมแสดงความยินดีกับผู้ชนะการแข่งขันในกิจกรรม Gitcoin GR 12 Hackathon
 
-[SubQuery partnered with Gitcoin in December](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a) to sponsor five challenges to a value of USD$37,000 (the largest prize pool in the challenge), inviting developers to build useful tools, dashboards and even extend SubQuery to another Layer-1 blockchain.
+[SubQuery ได้พาร์ทเนอร์กับ Gitcoin ในเดือนธันวาคม](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a)เพื่อสนับสนุนการแข่งขันจำนวน 5 กิจกรรมมูลค่าเงินรางวัล USD$37,000 (รางวัลที่มูลค่าสูงสุดในกิจกรรม) เพื่อเชิญชวนผู้พัฒนามาสร้างเครื่องมือที่มีประโยชน์, รวมถึงแดชบอร์ดและการขยายการใช้งาน SubQuery ไปที่บล็อกเชน Layer-1 อื่นๆ
 
 ![](https://miro.medium.com/max/1400/1*BUq3ah1ULNnvLjqxv_vzlQ.png)
 
-[Sam Zou](https://twitter.com/zoujialiu), the CEO and Founder of SubQuery commented, “_SubQuery is delighted with the results of the Gitcoin GR12 Hackathon. Our mission relies on having a network of developers who are empowered to create and innovate within the Substrate/Polkadot ecosystem. This partnership provided opportunities for motivated developers around the world to build the applications of tomorrow. We are excited to nurture the winners of the challenges to develop their ideas even further_”
+[Sam Zou](https://twitter.com/zoujialiu) ผู้ซึ่งเป็น CEO และผู้ก่อตั้ง SubQuery กล่าวว่า "_SubQuery มีความยินดีกับผลลัพธ์ของการแข่งขัน Gitcoin GR12 Hackathon" ภารกิจของเรานั้นพึ่งพาเครือข่ายของผู้พัฒนาที่จะเป็นแรงผลักดันสำคัญที่จะช่วยสร้างและคิดค้นนวัตกรรมภายในระบบนิเวศน์ของ Substrate/Polkadot ความร่วมมือครั้งนี้ได้มอบโอกาสให้กับผู้พัฒนาทั่วโลกที่มีความมุ่งมั่นที่จะสร้างแอปพลิเคชั่นสำหรับอนาคต เรารู้สึกตื่นเต้นที่ได้สนับสนุนผู้ชนะการแข่งขันในการพัฒนาไอเดียของพวกเขายิ่งขึ้นไปอีก_"
 
-Recently we’ve covered the many winners that participated in this hackathon and the amazing projects that they have built in [this detailed writeup](https://subquery.medium.com/subquery-celebrates-winners-of-gitcoin-gr-12-hackathon-7486afaeab29). We were blown away by the quality and progress made by the submissions in such a short time and we’re pleased to invite many of the submissions to participate in our grants programme.
+เมื่อไม่นานมานี้เราได้ทำการรวบรวมข้อมูลผู้ชนะหลายๆคนที่เข้าร่วมการแข่งขันและโปรเจกต์ที่ยอดเยี่ยมที่พวกเขาสร้างขึ้น[ในเอกสารนี้](https://subquery.medium.com/subquery-celebrates-winners-of-gitcoin-gr-12-hackathon-7486afaeab29) เรารู้สึกประทับใจกับคุณภาพและความคืบหน้าของโปรเจกต์ที่ผู้เข้าร่วมได้ส่งเข้ามาแม้ว่าพวกเขามีเวลาไม่มาก และเรายังยินดีที่จะนำอีกหลายๆโปรเจกต์ที่สมัครเข้ามาเพื่อมาเข้าร่วมโครงการเงินทุนของเรา
 
-[Read more here](https://subquery.medium.com/subquery-celebrates-winners-of-gitcoin-gr-12-hackathon-7486afaeab29)
+[อ่านเพิ่มเติมได้ที่นี่](https://subquery.medium.com/subquery-celebrates-winners-of-gitcoin-gr-12-hackathon-7486afaeab29)
 
-### Hero Course China
+### Hero Course ภาษาจีน
 
-Our Hero Course made in partnership with OneBlock+ started in early January and now we already have released three lessons to over 200 students! Join the OneBlock+ Community to join this course or office hours. China is a strategically important region for SubQuery, but we expect to launch many other regional developer courses soon — reach out if you can help us with this!
+เราสร้าง Hero Course ร่วมกับ OneBlock+ ซึ่งเป็นพาร์ทเนอร์ของเรามาตั้งแต่เดือนมกราคมและตอนนี้เราได้เผยแพร่บทเรียนจำนวน 3 คอร์สให้กับผู้เรียนมากกว่า 200 คน เข้าร่วมกับคอมมูนิตี้ของ OneBlock+ เพื่อลงเรียนคอร์สนี้ในเวลาทำการ ประเทศจีนเป็นประเทศที่สำคัญเชิงกลยุทธ์สำหรับ SubQuery แต่ว่าเราก็คาดหวังว่าจะเพิ่มคอร์สเพื่อนักพัฒนาสำหรับประเทศอื่นๆในเร็วๆนี้ — ถ้าใครสามารถช่วยเราในส่วนนี้ได้ก็ติดต่อมาเลย!
 
 ![](https://miro.medium.com/max/1400/1*_8N000hX1WBM79ZbFyhvYQ.png)
 
-## Core Product Development
+## การพัฒนาผลิตภัณฑ์หลัก
 
-### Multi Chain Support
+### การรองรับ Multi Chain
 
-SubQuery is native to Polkadot, it’s our home and we’ve worked hard to build relationships in this ecosystem. The core premise of Polkadot is to create a thriving community of developers, users, and businesses that will tap into its multichain interoperability. We stand by that vision and we also believe Polkadot will be a leading player in that initiative.
+SubQuery เป็นโปรเจกต์บน Polkadot ซึ่ง Polkadot นั้นเป็นบ้านของเรา และตลอดระยะเวลาที่ผ่านมาเราได้ทำงานอย่างหนักเพื่อที่จะสร้างความสัมพันธ์ในระบบนิเวศนี้ หลักการของ Polkadot คือการสร้างคอมมูนิตี้ที่แข็งแกร่งที่ประกอบไปด้วยนักพัฒนา, ผู้ใช้งาน, และธุรกิจที่จะใช้ประโยชน์จาก Multichain Interoperability ของ Polkadot เรายึดมั่นในวิสัยทัศน์ดังกล่าวและเรายังเชื่อว่า Polkadot จะเป็นผู้เล่นหลักในบทบาทนี้
 
-But we believe in a multi chain future, we know that there are going to be many different interoperable blockchains working together to solve different problems. Our long term plan has always been to take SubQuery and to adapt it to work for other blockchain that don’t have a current indexing solution. Our multi-chain approach that we’ve needed to make for Polkadot means we are uniquely suited for this challenge.
+แต่พวกเราเชื่อในอนาคตของ Multi chain ซึ่งพวกเรารู้ว่ามันกำลังจะมีบล็อกเชนต่างๆ ที่สามารถทำงานร่วมกันได้ มาทำงานร่วมกันเพื่อแก้ปัญหาต่างๆ ที่แตกต่างกันไป ตลอดเวลาที่ผ่านมาแผนการระยะยาวของเราคือการทำให้ SubQuery สามารถทำงานร่วมกับบล็อกเชนอื่นๆ ที่ยังไม่มี Indexing solution ในปัจจุบัน และวิธีการแบบ Multi-chain ของเราที่เราจำเป็นต้องทำให้ Polkadot นั้นแสดงให้เห็นว่าเราเหมาะสมเป็นอย่างยิ่งต่อความท้าทายนี้
 
-We’re finalising the work on the first of 5 new layer 1 chains that SubQuery will be indexing, we can’t wait to announce it soon!
+เราอยู่ระหว่างขั้นตอนสรุปงานในการทำ Indexer สำหรับเชน Layer-1 ตัวใหม่จำนวน 5 ตัวด้วยกัน ซึ่งเราจะเราจะประกาศในเร็วๆ นี้
 
 ![](https://miro.medium.com/max/1400/1*jD1n5MSjeatjiaF5hY-Wjg.png)
 
-### SubQuery Performance Improvements
+### การปรับปรุงประสิทธิภาพการทำงานของ SubQuery
 
-SubQuery’s indexing speed is always being improved, it’s a constant focus on our development team. Our advanced Dictionary support means enables this, Dictionaries speed up your project by many multiples and allow you to index entire Polkadot chain in minutes, not hours (depending on your project complexity).
+ความเร็วในการ Indexing ของ SubQuery นั้นมีการพัฒนาตลอดอยู่เวลา ซึ่งมันเป็นโฟกัสหลักของทีมพัฒนาโดยเสมอมา โดยดิกชันนารีขั้นสูงของเราทำให้สามารถเกิดการพัฒนาดังกล่าวได้ ซึ่งดิกชันนารีทำให้โปรเจกต์ของคุณเร็วขึ้นอย่างมากและทำให้โปรเจกต์ของคุณสามารถ Index ทั้งเชน Polkadot ภายในเวลาไม่กี่นาที (ขึ้นอยู่กับความซับซ้อนของโปรเจกต์ของคุณ)
 
-As an indicator of the breadth of support that SubQuery offers to the Polkadot ecosystem, we are now hosting and managing dictionaries across the 31 different networks, representing the majority of all major Polkadot/Kusama parachains.
+ในขณะนี้เรากำลังจัดการดิกชันนารีสำหรับเครือข่ายจำนวน 31 เครือข่ายซึ่งครอบคลุมเครือข่ายส่วนใหญ่บนพาราเชนของ Polkadot และ Kusama โดยสิ่งนี้แสดงให้เห็นว่า SubQuery กำลังสนับสนุนระบบนิเวศน์ของ Polkadot อย่างกว้างขวาง
 
 ![](https://miro.medium.com/max/1400/1*WeMY5WnWZ_jvllxidhycUA.png)
 
-### SubQuery Templates Registry
+### การจดทะเบียน Templates บน SubQuery
 
-> 29 networks are covered by templates
+> 29 เครือข่ายได้ถูกครอบคลุมโดย Templates
 
-The `subql init` command is a familiar one for anyone that has built a SubQuery project; it represents a blank canvas — limitless opportunities. We are aware that we can do better to help others get started, rather than a blank canvas developers want a blank scaffold, where all the boiler-plate code is already written.
+สำหรับใครที่เคยสร้างโปรเจกต์ SubQuery ก็จะคุ้นเคยกับชุดคำสั่ง `subql init` ซึ่งหมายถึงหน้ากระดาษเปล่าๆ อีกนัยหนึ่งก็คือความเป็นไปได้ที่ไร้ขีดจำกัด เรารู้ดีว่ามันคงจะดีกว่าถ้าเราจะช่วยคนอื่นๆในการเริ่มต้นสร้างโปรเจกต์ แทนที่ผู้พัฒนาจะต้องมาเริ่มจากศูนย์ซึ่งมีแต่ Scaffold เปล่าๆ ก็จะมี framework สำเร็จรูปเขียนมาให้แล้ว
 
-Today when you write `subql init`, you are presented with a list of 29 networks from which you are provided a pre-created scaffold with all the correct endpoints, dictionary links, and even type definitions. This eliminates one of the most difficult steps when starting a new SubQuery project and makes building your next big dApp that much easier and faster.
+ในวันนี้เมื่อใดที่คุณเขียนชุดคำสั่ง `subql init` คุณก็จะมีลิสต์จากเครือข่ายจำนวน 29 เครือข่ายซึ่งจะมี Scaffold สำเร็จรูปพร้อม Endpoints ที่ถูกต้อง นอกจากนี้ยังมีข้อมูลอื่นๆ เช่น ลิงก์ดิกชันนารีและ Type Definitions โดยสิ่งนี้เองจะช่วยตัดขั้นตอนที่ยากที่สุดในการเริ่มโปรเจกต์ใหม่บน SubQuery และยังช่วยให้การสร้าง dApp ง่ายและเร็วขึ้นมาก
 
-### Data Aggregation Features
+### ฟีเจอร์ Data Aggregation
 
-SubQuery now supports advanced GraphQL aggregate functions to allow you to perform a calculation on a set of values during your query. These functions provide our customers a richer set of insights and calculations from their existing data set. For example with a single query you can calculate the median contribution amount for each crowdloan broken down by contribution date.
+ขณะนี้ SubQuery รองรับ Aggregate Functions ขั้นสูงของ GraphQL ที่จะทำให้สามารถคำนวณชุดค่าต่างๆ ในระหว่างการ Query ได้ ฟังก์ชั่นเหล่านี้ทำให้ลูกค้าของเรามีข้อมูลเชิงลึกและการคำนวณที่มากขึ้นจากชุดข้อมูลที่มีอยู่เดิมได้ ยกตัวอย่าง เช่น ในการ Query หนึ่งครั้ง คุณสามารถคำนวณค่าเฉลี่ยของการประมูล Crowdloan ในแต่ละรอบโดยแยกเป็นรายวัน
 
-[Read more about how to use these features in our upgraded docs.](https://doc.subquery.network/query/aggregate/)
+[อ่านเพิ่มเติมเกี่ยวกับวิธีการใช้งานคุณสมบัติเหล่านี้ในเอกสารอัปเดตใหม่ของเรา](https://doc.subquery.network/query/aggregate/)
 
-### SubQuery partners with Darwinia Network to build SubQuery’s CLI Tool
+### SubQuery ร่วมมือกับ Darwinia Network เพื่อสร้าง SubQuery's CLI Tool
 
-Darwinia has partnered with SubQuery to build the plethora of applications that will be needed to provide the ultimate user experience for cross chain interactions. This includes a new [Smart App that is a central hub](https://apps.darwinia.network/) to manage all Darwinia network interactions including governance, staking, chain exploration and more. This app uses a considerable amount of [SubQuery data to show historic data and actions](https://explorer.subquery.network/subquery/darwinia-network/smart-app-crab). SubQuery will be working closely with the team at Darwinia to make this the best experience in the entire Polkadot ecosystem.
+Darwinia ได้ร่วมมือกับ SubQuery เพื่อสร้างแอปพลิเคชั่นต่างๆ ที่จะช่วยให้ผู้ใช้งานมีประสบการณ์การใช้แอปพลิเคชั่น Cross-chain ที่สมบูรณ์แบบ ซึ่งแอปพลิเคชั่นดังกล่าวประกอบด้วย [Smart App ที่จะเป็นศูนย์กลาง](https://apps.darwinia.network/)ในการจัดการการใช้งานบน Darwinia Network เช่น Governance, Staking, การสำรวจเชนและอื่นๆ แอปพลิเคชั่นนี้ใช้ข้อมูลจำนวนมากจาก [SubQuery เพื่อแสดงประวัติข้อมูลและการดำเนินการต่างๆ](https://explorer.subquery.network/subquery/darwinia-network/smart-app-crab) ทีมงาน SubQuery จะทำงานกับทีมงาน Darwinia อย่างใกล้ชิดเพื่อมอบประสบการณ์การใช้งานดีที่สุดในระบบนิเวศของ Polkadot
 
 ![](https://miro.medium.com/max/1200/1*bL2Csj9qyamD7txAheCTIg.gif)
 
-Darwinia have also been working closely with the SubQuery team to [build a CLI tool](https://github.com/fewensa/subquery-cli) for the SubQuery managed service (https://project.subquery.network). You can use this [CLI](https://github.com/fewensa/subquery-cli) to create a SubQuery project and automatically deploy a new version to either the staging or production slot. Additionally you can retrieve information including the detailed syncing status and logs from your running project that is hosted for free in SubQuery Projects. [Read more here](https://subquery.medium.com/subquery-partners-with-darwinia-network-to-build-subquerys-cli-tool-903dc4c9ef66)
+ทีมงาน Darwinia ได้ร่วมทำงานอย่างใกล้ชิดกับทีมงาน SubQuery เพื่อ[สร้าง CLI Tool](https://github.com/fewensa/subquery-cli) สำหรับบริการที่จัดการโดย SubQuery (https://project.subquery.network) คุณสามารถที่จะใช้ [CLI](https://github.com/fewensa/subquery-cli) ในการสร้างโปรเจกต์ SubQuery รวมทั้งมีการ Deploy เวอร์ชั่นใหม่โดยอัตโนมัติทั้งใน Staging หรือ Production slot นอกจากนี้คุณสามารถกู้ข้อมูล เช่น รายละเอียดของสถานะการซิงค์, และรายงานบันทึกของโปรเจกต์ที่กำลังทำงานอยู่ของคุณซึ่งโฮสต์โดยไม่มีค่าใช้จ่ายใน SubQuery Projects [อ่านเพิ่มเติมได้ที่นี่](https://subquery.medium.com/subquery-partners-with-darwinia-network-to-build-subquerys-cli-tool-903dc4c9ef66)
 
-## SubQuery Network
+## เครือข่าย SubQuery
 
-Last community call we walked through a few important details of the upcoming SubQuery test network. It will be run over at least three seasons, each season will test different aspects of the network:
+ใน Community Call ครั้งล่าสุดเราได้คุยกันถึงรายละเอียดที่สำคัญสองสามเรื่องเกี่ยวกับระบบ Testnet ของ SubQuery ที่กำลังจะมาถึง ซึ่ง Testnet จะแบ่งออกเป็น 3 ซีซั่น และแต่ละซีซั่นจะทำการทดสอบเครือข่ายในด้านต่างๆ กันไป
 
-- Season 1: Early stage alpha testing of a limited number of features with a select few participants
-- Season 2: Large beta testing of more features with hundreds of participants
-- Season 3: Full public test network for load and scale testing with thousands of participants
+- ซีซั่น 1: Alpha Test ระยะเริ่มต้นที่จะมีจำนวนฟีเจอร์จำกัดและมีผู้เข้าร่วมทดลองใช้งานที่ถูกคัดเลือกไม่กี่คน
+- ซีซั่น 2: Beta Test ขนาดใหญ่ที่จะมีจำนวนฟีเจอร์มากขึ้นและมีผู้เข้าร่วมทดลองใช้งานหลักหลายร้อยคน
+- ซีซั่น 3: เปิดระบบ Testnet สำหรับคนทั่วไปเพื่อทดสอบระบบเต็มรูปแบบโดยมีผู้เข้าร่วมทดลองใช้งานหลักหลายพันคน
 
-Each season will have multiple challenges that you can complete which may result in real SQT rewards. Expect things to kickoff here in March!
+แต่ละซีซั่นจะมีความท้าทายที่หลากหลายซึ่งคุณสามารถเข้าร่วมและคุณอาจจะได้รางวัลเป็นโทเค็น SQT ซึ่งทั้งหมดนี้คาดว่าจะเริ่มในเดือนมีนาคมนี้
 
-## Roadmap Update
+## อัปเดตเกี่ยวกับ Roadmap
 
-Last October we released out [technical roadmap](https://blog.subquery.network/blogs/20211029-roadmap-october.html) with the next year mapped out for SubQuery, we’re overdue to address exactly how we’re doing here.
+เมื่อเดือนตุลาคมที่ผ่านมาเราประกาศ [Technical Roadmap](https://blog.subquery.network/blogs/20211029-roadmap-october.html) ซึ่งประกอบด้วยแผนการของ SubQuery สำหรับปีหน้า เรามีความล่าช้าในการอัปเดตงานที่เรากำลังทำอยู่
 
 ![](https://miro.medium.com/max/1400/1*2a3SGrW-OG5pbw67jsavvw.jpeg)
 
-As you can see in the original roadmap above, we’ve completed all of Milestone 0 and 1, and are making good progress on Milestone 2. We’ve even delivered some features relevant to our hosted service much earlier than expected due to the huge scale of requests currently going to [our enterprise customers](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html).
+จาก Roadmap ตัวเก่าที่แสดงด้านบน เราได้ทำ Milestone 0 และ 1 เสร็จสิ้นเรียบร้อยและตอนนี้ก็อยู่ระหว่างดำเนินการ Milestone 2 และก็มีความคืบหน้าที่น่าพอใจ เรายังได้ทำฟีเจอร์บางตัวที่เกี่ยวข้องกับบริการโฮสต์ของเราสำเร็จก่อนกำหนด ทั้งนี้เนื่องมาจากมีเสียงเรียกร้องจำนวนมากจาก[ลูกค้าระดับองค์กรของเรา](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html)
 
-## Other things you might have missed
+## สิ่งอื่นๆ ที่คุณอาจพลาดไป
 
-- We will be having weekly office hours on our Discord Server! Join SubQuery’s ‘Office Hours’ on our stages channel where you can catch-up with the team in a casual environment.
-- We had a Russian QnA with James & Dmytro in Discord where all questions were asked and answered in Russian. Let us know which language you would like to hear next
+- เราจะมีช่วง Office Hours ทุกสัปดาห์ใน Discord Server ของเรา คุณสามารถมาเข้าร่วมกับเราในช่วง Office Hours ในชาแนล Stages เพื่อมาพูดคุยกับทีมงานในบรรยากาศสบายๆ
+- เราได้จัด Q&A เป็นภาษารัสเซียกับ James & Dmytro ใน Discord ซึ่งมีการถามตอบทุกคำถามเป็นภาษารัสเซีย โปรดบอกให้เรารู้ว่าพวกคุณต้องการให้จัดเป็นภาษาอะไรในครั้งหน้า
 
-P.S.
+ป.ล.
 
-Remember to join our [Discord](https://discord.com/invite/subquery) and our [social channels](https://linktr.ee/subquerynetwork) to stay updated on our latest news and announcements.
+อย่าลืมมาเข้าร่วมกลุ่ม[ดิสคอร์ด](https://discord.com/invite/subquery)และ[ช่องทาง Social Media อื่นๆ](https://linktr.ee/subquerynetwork)เพื่อติดตามความคืบหน้าเกี่ยวกับข่าวสารและประกาศสำคัญต่างๆ
 
-The SubQuery Team
+ทีมงานของ SubQuery
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Email](hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Youtube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
