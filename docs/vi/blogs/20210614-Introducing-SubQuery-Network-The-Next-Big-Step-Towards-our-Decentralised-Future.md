@@ -10,7 +10,7 @@ Mọi người đều biết rằng một điểm yếu cốt lõi của dữ li
 
 Tạo một dự án SubQuery luôn và sẽ miễn phí. Các nhà phát triển nên dành thời gian xây dựng chứ không phải chạy cơ sở hạ tầng. Tuy nhiên, chúng tôi tin rằng một tương lai phi tập trung lành mạnh đòi hỏi nhiều nhà cung cấp dịch vụ dữ liệu phân tán làm việc cùng nhau để cải thiện khả năng phục hồi, tốc độ và hiệu suất mạng.
 
-# Giới thiệu Mạng SubQuery:
+## Giới thiệu Mạng SubQuery:
 
 Mạng SubQuery là nỗ lực của chúng tôi nhằm hướng tới một mạng phân quyền và được mã hóa để đảm bảo không có điểm nào bị lỗi cho SubQuery và khuyến khích càng nhiều người tham gia vào quá trình này càng tốt.
 
