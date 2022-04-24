@@ -20,7 +20,7 @@ OAK (On-chain Autonomous Kernel) Network is a blockchain automation hub for DeFi
 
 [Website](https://oak.tech/) | [SubSocial](https://app.subsocial.network/6109) | [Medium](https://medium.com/oak-blockchain) | [Twitter](https://twitter.com/oak_network) | [Discord](https://discord.gg/7W9UDvsbwh) | [Github](https://github.com/OAK-Foundation/) | [Telegram](https://t.me/OAK_Announcements) | [YouTube](https://www.youtube.com/channel/UCSEu57BfQQpAfgDixfBnaNg) | [LinkedIn](https://www.linkedin.com/company/oak-blockchain/)
 
-## About SubQuery
+## เกี่ยวกับ SubQuery
 
 SubQuery's mission is to help others create products that allow us to move to a decentralized future faster. SubQuery is a blockchain developer toolkit and the backbone of web3 infrastructure. A SubQuery project is a complete API to organize and query data from chains. Operating between layer-1 blockchains and decentralized apps (dApp), SubQuery is an open-source indexer organizing and serving well-structured data over GraphQL. SubQuery powers the next generation of dApps and tools with web3 data
 
