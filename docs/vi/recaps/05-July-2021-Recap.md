@@ -4,21 +4,19 @@
 
 ## Cộng đồng, Cộng đồng, Cộng đồng!
 
-
 Chào mừng bạn đến với một bản cập nhật hàng tháng khác từ SubQuery. Như các bạn đã biết, cộng đồng là yếu tố then chốt cho mọi dự án tiền điện tử thành công - trong tháng này, chúng tôi đã bắt đầu mở rộng trọng tâm của mình trong lĩnh vực này.
 
 Trong bản cập nhật tháng này:
 
--   Chương trình Đại sứ 👩💼
--   DApp API Grant Work 🏗
--   Nền tảng mở Patract 🌃
--   Relaychain podcast của Parity🎙
--   Cải tiến tài liệu 📑
-
+- Chương trình Đại sứ 👩💼
+- DApp API Grant Work 🏗
+- Nền tảng mở Patract 🌃
+- Relaychain podcast của Parity🎙
+- Cải tiến tài liệu 📑
 
 ![](https://miro.medium.com/max/1400/0*pe3Z3x1lGb_RLa5x)
 
-Chúng tôi hiểu rằng một trong những sức mạnh lớn nhất của chúng tôi là cộng đồng của chúng tôi và vì vậy [gần đây chúng tôi đã khởi động chương trình đại sứ của mình](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) cho các cộng đồng trên toàn thế giới. Chúng tôi đã bị choáng ngợp bởi sự quan tâm đến chương trình của chúng tôi, với gần 500 đơn đăng ký nhận được trong vòng hai tuần!
+We understand that one of our biggest strengths is our community, and so [we recently launched our ambassador program](../blogs/20210713-Introducing-the-SubQuery-Ambassador-Program.md) for communities around the world. Chúng tôi đã bị choáng ngợp bởi sự quan tâm đến chương trình của chúng tôi, với gần 500 đơn đăng ký nhận được trong vòng hai tuần!
 
 Chúng tôi đang trong quá trình giới thiệu nhóm đại sứ đầu tiên trong thời gian ngắn. Chúng tôi đặc biệt vui mừng ở đây vì điều đó có nghĩa là mọi người trong cộng đồng của chúng tôi có thể mong đợi được thấy sự hỗ trợ và đại diện địa phương tốt hơn trong các cộng đồng khác nhau!
 
@@ -30,7 +28,7 @@ Chúng tôi đang xây dựng điều này theo cách giúp dễ dàng mở rộ
 
 ![](https://miro.medium.com/max/1400/0*AhM68fyjjSp_2edZ)
 
-Chúng tôi đã [tham gia liên minh Nền tảng mở Patract](https://subquery.medium.com/subquery-is-joining-the-patract-open-platform-91682c748a57) để cùng thúc đẩy sự phát triển của cơ sở hạ tầng công cộng, thúc đẩy sự phát triển của công nghệ hợp đồng và phát triển hệ sinh thái phát triển hợp đồng Wasm.
+We have [joined the Patract Open Platform alliance](../blogs/20210714-SubQuery-is-Joining-the-Patract-Open-Platform.md) to jointly promote the development of public infrastructure, promote the evolution of contract technology, and to develop the Wasm contract development ecosystem.
 
 Chúng tôi tin rằng hợp đồng là một phần quan trọng của hệ sinh thái Polkadot đang phát triển mạnh, việc cung cấp dịch vụ lập chỉ mục dữ liệu cho các hợp đồng Wasm luôn là mục tiêu chính của SubQuery. Thật thú vị khi thấy rằng Nền tảng mở đã tập hợp một số lượng lớn các dự án tuyệt vời và mọi người đang làm việc cùng nhau để đóng góp vào sự phát triển lành mạnh và ổn định của các hợp đồng Wasm.
 
