@@ -10,7 +10,7 @@ Tout le monde sait que l'une des principales faiblesses des données blockchain 
 
 La création d'un projet SubQuery est, et sera toujours, gratuite. Les développeurs devraient passer du temps à construire, et non à faire fonctionner une infrastructure. Cependant, nous pensons qu'un avenir décentralisé sain nécessite de multiples fournisseurs de services de données distribuées travaillant ensemble pour améliorer la résilience, la vitesse et les performances du réseau.
 
-# Voici le réseau SubQuery :
+## Introducing The SubQuery Network:
 
 Le réseau SubQuery est notre effort pour évoluer vers un réseau décentralisé et à jetons afin de garantir l'absence de point de défaillance unique pour SubQuery et d'encourager le plus grand nombre possible de participants au processus.
 
