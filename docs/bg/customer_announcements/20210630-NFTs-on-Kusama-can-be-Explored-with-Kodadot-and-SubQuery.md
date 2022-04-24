@@ -10,7 +10,7 @@ Kodadot е въглеродно неутрална NFT платформа на K
 
 ![](https://miro.medium.com/max/1400/0*3TdpXjj1iwGNdA3n)
 
-> "В началото трябваше да осъзнаем колко много неща прави SubQuery вместо вас, така че успяхме да се съсредоточим единствено върху архитектурата на GraphQL и логиката за консолидация на NFT. Благодарение на SubQuery сега мислим за още един набор от функции, които можем лесно да добавим през уикенда" - Kodadot
+> _"At the first we had to realise how much the SubQuery is doing instead of you, so we were able to purely focus on the GraphQL architecture and NFT consolidation logic. Thanks to SubQuery, we are thinking now another feature set we can easily add over weekend"_ — Kodadot
 
 [Услугата SubQuery](https://subquery.network/) помага на Kodadot да извлича и да прави справки за данни от вериги за NFT на Kusama и да прави това по по-енергийно ефективен и щадящ околната среда начин.
 
