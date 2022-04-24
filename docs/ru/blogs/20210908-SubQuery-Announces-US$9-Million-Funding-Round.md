@@ -24,13 +24,13 @@ SubQuery направлен на улучшение доступа к децен
 
 Архитектура парачейна Polkadot является ключевым отличием от других блокчейнов уровня 1. В отличие от конкурирующих одноцепочечных конструкций, каждый парачейн служит своим собственным независимым протоколом, взаимодействуя с другими парачейнами через общее реле (цепочки). Чтобы выиграть слот в релейной цепочке, парачейны привлекают капитал сообщества с помощью кампании краудсайна, которая требует, чтобы участники делали ставки - на долгосрочную перспективу - на собственные токены Kusama или Polkadot в пользу своих любимых проектов. С самого начала SubQuery построен для интеграции с любым парачейном с минимальной необходимой конфигурацией.
 
-SubQuery уже обслуживает миллионы запросов к данным каждый день для [ более 60 проектов на Polkadot \ Kusama ](https://explorer.subquery.network/). Из существующей клиентской базы SubQuery интегрирован с такими известными приложениями, как [ Subscan ](https://subquery.medium.com/subscans-multi-signature-tool-powered-by-subquery-926da3e4fc25), [ Fearless Wallet ](https://explorer.subquery.network/subquery/ef1rspb/fearless-wallet) и [ SubVis ](https://subquery.medium.com/explore-kusama-auctions-with-subvis-io-and-subquery-522351538d17), а также с тремя из первых пяти Победителей краудзайнов парачейнов на Kusama: [ Карура из Acala ](https://subquery.medium.com/karura-integrates-with-subquery-to-aggregate-and-serve-defi-data-to-kusama-builders-d34f0e722311), Khala из Phala и [ Bifrost ](https://subquery.medium.com/bifrost-chooses-subquery-to-provide-the-data-for-their-new-dapp-c8005ee54f38). Следующие пять парачейн краудзаймов планируется запустить в течение сентября.
+SubQuery уже обслуживает миллионы запросов к данным каждый день для [ более 60 проектов на Polkadot \ Kusama ](https://explorer.subquery.network/). Of its existing customer base, SubQuery is integrated with established applications like [Subscan](../customer_announcements/20210901-Subscans-Multi-Signature-Tool.md), [Fearless Wallet](https://explorer.subquery.network/subquery/ef1rspb/fearless-wallet) and [SubVis](../customer_announcements/20210622-Explore-Kusama-Auctions-with-Subvis.io-and-SubQuery.md), as well as three out of the initial five Kusama parachain crowdloan winners: [Acala's Karura](../customer_announcements/20210819-Karura-Integrates-with-SubQuery-to-Aggregate-and-Serve-DeFi-Data-to-Kusama-Builders.md), Phala's Khala, and [Bifrost](../customer_announcements/20210416-Bifrost-chooses-SubQuery-to-provide-the-data-for-their-new-dApp.md). Следующие пять парачейн краудзаймов планируется запустить в течение сентября.
 
 Этот раунд сбора средств ускорит техническую и общественную дорожную карту SubQuery в 2021 году и в последующий период. Команда планирует децентрализовать и токенизировать протокол, а также построить сеть SubQuery, чтобы они могли привлекать мотивированных участников со всего мира. SubQuery также планирует улучшать и масштабировать свои сервисы, поскольку более 60 проектов уже используют его размещенные сервисы. Забегая вперед, команда планирует интегрироваться с другими цепочками уровня 1, включая Solana, Terra и другие.
 
 
 
-* * * * *
+---
 
 
 
