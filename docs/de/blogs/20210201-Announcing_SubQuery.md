@@ -10,63 +10,63 @@ Fast jede Blockchain muss Daten verarbeiten und abfragen. Die blühende Polkadot
 
 Da dezentrale Systemdaten über Netzwerke hinweg speichern, ist die Abfrage langsam und schwierig. Damit der Web 3.0-Traum verwirklicht werden kann, muss er für den Endbenutzer so schnell (wenn nicht schneller) wie zentralisierte Netzwerke sein. Protokoll-Teams bauen derzeit zentralisierte Indizierungsserver für ihre eigenen Projekte, aber dies wirft drei Probleme auf:
 
--   Polkadot/Substrat-Teams sollten sich keine Gedanken machen müssen, dies zu bauen oder zu verwalten, während sie die nächste dApp bauen
--   Teams erfinden das Rad ständig neu; Der grundlegende Vorteil der Parachain-Interoperabilität von Polkadot besteht darin, dies zu vermeiden
--   Unserer Ansicht nach ist das Ökosystem Substrate/Polkadot auf dem gleichen Wachstumsniveau wie Ethereum angelangt. Wir glauben, dass es dasselbe Niveau an Gemeinschaftsdiensten erbringen muss wie Ethereum bereits hat
+- Polkadot/Substrat-Teams sollten sich keine Gedanken machen müssen, dies zu bauen oder zu verwalten, während sie die nächste dApp bauen
+- Teams erfinden das Rad ständig neu; Der grundlegende Vorteil der Parachain-Interoperabilität von Polkadot besteht darin, dies zu vermeiden
+- Unserer Ansicht nach ist das Ökosystem Substrate/Polkadot auf dem gleichen Wachstumsniveau wie Ethereum angelangt. Wir glauben, dass es dasselbe Niveau an Gemeinschaftsdiensten erbringen muss wie Ethereum bereits hat
 
 ![](https://miro.medium.com/max/1400/1*l4b4BXWkczVDaHyv30lLQQ.png)
 
 SubQuery hat folgendes Ziel: Polkadot/Substrat Projekten dabei zu helfen, bessere dApps zu entwickeln, indem es jedem ermöglicht, Daten schneller zu finden und zu konsumieren. Unser Service ermöglicht den Benutzern, anfangs Daten zu extrahieren, zu transformieren, zu verbleiben und Abfragedaten zu erstellen sowie in Zukunft Daten zu verbinden und zu präsentieren. Unser Ziel ist es, dies zu einem Kernstück der Infrastruktur für das Ökosystem Substrate/Polkadot zu machen, so wie es die Grafik für Ethereum geworden ist.
 
-> SubQuery ist hier, um Ihnen zu helfen, die weltweiten Daten für eine Zukunft web3.0 zu transformieren und abzufragen.
+**SubQuery is here to help you transform and query the world’s data for a web3.0 future.**
 
 ![](https://miro.medium.com/max/1000/1*IHstJG-hBwQzicLdWkGR5w.png)
 
-Damit der Web 3.0-Traum verwirklicht werden kann, muss er für den Endbenutzer so schnell (wenn nicht schneller) sein wie zentralisierte Netzwerke.
+For the Web 3.0 dream to be realised, it’s got to be as fast (if not faster) than centralised networks for the end user.
 
-Deshalb sind wir unglaublich stolz, SubQuery anzukündigen, ein Open-Source-Projekt, das es Benutzern erlaubt, einen Indexer über ihre Kette zu führen, um einen Datensatz zu erstellen, der mit GraphQL abgefragt werden kann. Diese Sammlung von Werkzeugen enthält eine Kommandozeilenschnittstelle, die es Projekten erlaubt, ihr eigenes SubQuery Projekt zu erstellen definieren, wie der Indexer sein eigenes Netzwerk durchlaufen und aggregieren soll. Es gibt ein SubQuery Node Paket, das das Netzwerk indiziert und GraphQL Anfragen unterstützt. Mit Hilfe dieser Tools kann jeder Abfragen einfach erstellen und ausführen.
+That’s why we’re incredibly proud to announce SubQuery, an open source project that allows users to run an indexer across their chain to build a dataset that can be queried with GraphQL. This suite of tools includes a command line interface to allow projects to generate their own SubQuery project, defining how the indexer should traverse and aggregate their own network. There’s a SubQuery node package that indexes the network and supports GraphQL queries. With the help of these tools, anyone can create and run queries easily.
 
-> _Du kannst sofort loslegen, indem du unserem Beispiel auf dem SubQuery Github Repository folgst:_ [_https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql)
+**You can get started right away by following our example on the SubQuery Github repository: [_https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql)**
 
-Weitere Informationen findest du in unseren [Unterabfrage-Dokumenten](https://doc.subquery.network/) oder auf unserer neuen Website unter [https://subquery.network/](https://subquery.network/)
+Additionally, you can find out more by reading our [SubQuery docs](https://doc.subquery.network/) or visiting our new website at [https://subquery.network/](https://subquery.network/)
 
 ![](https://miro.medium.com/max/1000/1*3oA1Hvns1vrImTsmowO_Jw.png)
 
-Wir werden uns auf den Aufbau eines verwalteten Hosting-Services konzentrieren, der auf diesem Angebot basiert, der leistungsfähiger und skalierbarer sein wird. Wir werden eine vertrauensvolle öffentliche Infrastruktur bereitstellen, die einen leistungsstarken Produktionsknoten aus einem hochgeladenen SubQuery Projekt aufbauen wird. Der Dienst wird dann den Kettenstatus indizieren und fortsetzen und eine Produktion GraphQL Endpunkt bereitstellen, die selbst gehostete Implementierungen ersetzen kann. Wir werden uns darauf konzentrieren, damit sich alle anderen auf den Aufbau und den Ausbau ihrer dApp konzentrieren können.
+We’ll focus on building a managed hosted service based off this offering that will be more performant and scalable. We are going to provide trusty public infrastructure that will build a powerful productionised SubQuery node from an uploaded SubQuery project. The service will then index and persist the chain state, and provide a production GraphQL endpoint that can replace self-hosted implementations. We’re going to focus on this so that everyone else can focus on building and growing their dApp.
 
-Sobald dies eingerichtet ist, besteht unsere letzte Phase darin, das SubQuery-Geschäft zu tokenisieren, indem wir unsere eigene Kette (wahrscheinlich Parachain) für Polkadot aufbauen. Obwohl wir ein ähnliches Abrechnungsmodell für Unternehmen und Benutzer mit hohem Verbrauch anbieten (Abonnementplan mit Verbrauchsstufen), speichern wir diese Daten in unserer Kette, um sie für alle transparent zu machen, und die teilnehmenden Parteien können sich als Anreiz für Prämien einsetzen. Wir geben ein Governance-Token aus, um der Kette Stabilität zu verleihen und der Gemeinschaft zu ermöglichen, unsere Richtung und Roadmap zu beeinflussen.
+Once this is in place, our final phase is to tokenize the SubQuery business by building our own chain (likely parachain) for Polkadot. Although we’ll provide a similar billing model for enterprise and high consumption users (subscription plan with consumption levels), we’ll save this data to our chain to make it transparent to everyone and participating parties can stake for rewards as incentives. We’ll issue a governance token to provide stability to the chain and to allow the community to influence our direction and roadmap.
 
-Trotz über 10 Jahren Entwicklung seit dem Start von Bitcoin sind zentralisierte Netzwerke immer noch der Mainstream. Dies liegt vor allem an der Geschwindigkeit und den Kosten des Zugriffs und Schreibens auf das Netzwerk. Ethereum machte mit dezentralisierten intelligenten Verträgen einen großen Schritt nach vorn (und das Diagramm ist als Ergebnis ein unglaublich erfolgreiches Stück Infrastruktur) aber das Kernnetz hat Schwierigkeiten, die Transaktionskosten zu senken.
+Despite over 10 years of development since bitcoin first started, centralised networks are still the mainstream. It’s largely due to the speed and cost of accessing and writing to the network. Ethereum made a huge step forward with decentralised smart contracts (and the Graph is an incredibly successful piece of infrastructure as a result), but the core network is struggling to mitigate transaction costs.
 
-Wir sahen das Potenzial von Polkadot von Anfang an als selbstverständlich, unsere Bemühungen dort zu konzentrieren. Es löst die Governance-, Forking-, Interoperabilitätsprobleme von Ethereum und mehr. Die Kernprämisse von Polkadot ist es, eine blühende Gemeinschaft von Entwicklern, Benutzern, zu schaffen und Unternehmen, die ihre Multichain-Interoperabilität nutzen werden — diese Gemeinschaft braucht einen Dienst, der es ihnen ermöglicht, schnell Daten zu finden und zu konsumieren.
+We saw Polkadot’s potential early and right from the start it felt natural to focus our efforts there. It solves Ethereum’s governance, forking, interoperability problems, and more. The core premise of Polkadot is to create a thriving community of developers, users, and businesses that will tap into its multichain interoperability — that community is going to need a service that allows them to reliably find and consume data quickly.
 
-Mit der einzigartigen Architektur von Polkadot können wir uns auf ein Netzwerk konzentrieren und dann mehrere aktuelle und zukünftige Ketten problemlos unterstützen. Indem wir diese Anstrengungen jetzt unternehmen, obwohl Polkadot noch in der Entwicklung ist, werden wir bereit sein, der nächsten Generation von Blockchain-Entwicklern bei der Entwicklung der nächsten großen dApp zu helfen.
+Polkadot’s unique architecture means that we can focus on one network and then be able to support multiple current and future chains with ease. By putting in this effort now, even as Polkadot is still under development, we will be there ready to help the next generation of blockchain developers create the next big dApp.
 
-SubQuery wird vom Team von OnFinality entwickelt, einer Infrastruktur-SaaS-Plattform für Blockchain-Teams und -Benutzer, um Knoten zu starten und Zugriff auf eine Vielzahl von Blockchain-Protokollen zu erhalten. Wir haben eine Reihe symbiotischer Dienste einschließlich unseres API Shared Node Service und dedizierte Knoten, die im Infrastruktur-Management oder als Teil der CI/CD-Pipeline eines Protokoll-Teams verwendet werden können. Wir haben Beziehungen zu den besten Polkadot/Substrat Teams, Expertise im Bereich verwalteter Infrastruktur für das Substrate/Polkadot Netzwerk, und die Fähigkeit, komplexe Infrastrukturprojekte zu realisieren und für die Produktion zu organisieren.
+SubQuery will be built by the team at OnFinality, which is an infrastructure SaaS platform for blockchain teams and users to launch nodes and get access to a large range of blockchain protocols. We have a suite of symbiotic services including our API shared node service, and dedicated nodes that can be used in infrastructure management or as part of a protocol team’s CI/CD testing pipeline. We have relationships with the top Polkadot/Substrate teams, expertise in managed infrastructure hosting for the Substrate/Polkadot network, and the ability to deliver complex infrastructure projects and host them for production use.
 
 **Sam Zou —** CEO ([LinkedIn](https://www.linkedin.com/in/sam-zou-5b8169a/))
 
-Unternehmer, Investoren mit mehr als 20 Jahren IT-Erfahrung, spezialisiert auf Infrastruktur- und Cloud-Service-Design
+Entrepreneur, Investors with more than 20 years of IT experience specialising in infrastructure and cloud service design
 
 **Ian He —** Head of Protocol ([LinkedIn](https://www.linkedin.com/in/yin-he-7a266345/))
 
-Blockchain Architect, Mitwirkender bei polkadot-js, Early Adopter der Substrate-Technologie und gewann den zweiten Platz beim ersten Polkadot-Hackathon.
+Blockchain Architect, Contributor to polkadot-js, Early adopter of Substrate technology and won second place in the first Polkadot hackathon.
 
-**James Xu —** Lösungsarchitekt ([LinkedIn](https://www.linkedin.com/in/zhexu/))
+**James Xu —** Solutions Architect ([LinkedIn](https://www.linkedin.com/in/zhexu/))
 
-Infrastruktur & Application Architect, preisgekrönter Software-Engineer.
+Infrastructure & Application Architect, Award-winning software engineer.
 
 **James Bayly** — Head of Business Development ([LinkedIn](https://www.linkedin.com/in/james-bayly/))
 
-Beginnen Sie mit dem [SubQuery Github-Repository.](https://github.com/OnFinality-io/subql)
+Get started on the [SubQuery Github repository.](https://github.com/OnFinality-io/subql)
 
-Lesen Sie unsere [SubQuery-Dokumente](https://doc.subquery.network/)
+Read our [SubQuery docs](https://doc.subquery.network/)
 
-[Besuchen Sie unsere neue Website](https://subquery.network/)
+[Visit our new website](https://subquery.network/)
 
-Folgen Sie uns auf:
+Follow us on:
 
--   [Telegramm](https://t.me/subquerynetwork)
--   [Twitter](https://twitter.com/subquerynetwork)
--   [Matrix](https://matrix.to/#/%23subquery:matrix.org)
--   [LinkedIn](https://www.linkedin.com/company/subquery)
+- [Telegramm](https://t.me/subquerynetwork)
+- [Twitter](https://twitter.com/subquerynetwork)
+- [Matrix](https://matrix.to/#/%23subquery:matrix.org)
+- [LinkedIn](https://www.linkedin.com/company/subquery)
