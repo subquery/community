@@ -12,7 +12,7 @@ OnFinality ist das Team hinter SubQuery, die eine Infrastruktur SaaS-Plattform f
 
 > _„Hypersphäre ist aufgeregt, Sam und das SubQuery Team zu unterstützen, da sie schnell das erste Indizierungsprotokoll aufbauen, das sich ausschließlich auf das Polkadot Ökosystem konzentriert._ — Jack Platts, Mitbegründer bei Hypersphere Ventures
 
-Angeführt von Sam Zou, CEO von SubQuery, das Team [hat eine Zuwendung von der Web3-Stiftung](https://subquery.medium.com/subquery-delivers-its-open-source-sdk-following-a-web3-foundation-grant-20da26ae87f) im Dezember 2020 erhalten, um die Anfangsphase von SubQuery zu bauen, ein Open-Source-Projekt, das es Benutzern erlaubt, einen Indexer über ihre Kette zu führen, um einen Datensatz zu erstellen, der mit GraphQL abgefragt werden kann.
+Led by Sam Zou, CEO of SubQuery, the team [received a grant from the Web3 foundation](./20210207-SubQuery-Delivers-Its-Open-Source-SDK-Following-a-Web3-Foundation-Grant.md) in December 2020 to build the initial phase of SubQuery, an open source project that allows users to run an indexer across their chain to build a dataset that can be queried with GraphQL.
 
 ![](https://miro.medium.com/max/1000/0*kjspGYRr_BtMk015)
 
@@ -20,15 +20,15 @@ Seitdem hat SubQuery den SubQuery Explorer gestartet. Ein online gehosteter Serv
 
 Diese Seed Raise wird die Entwicklung von SubQuery beschleunigen und die Bereitstellung kritischer Datendienste für die Polkadot/Substrate-Community beschleunigen. Dies umfasst den Aufbau eines kostenlosen öffentlichen Dienstes zum Hosten und Verwalten von Community-SubQuery-Projekten, den Aufbau einer Community rund um den Daten- und Wissensaustausch und die eventuelle Tokenisierung unseres Projekts.
 
--   Probieren Sie es im[SubQuery Explorer](https://explorer.subquery.network/) aus
--   Weitere Informationen zu [SubQuery-Dokumenten](https://doc.subquery.network/)
--   Besuchen Sie unsere [-Website](https://subquery.network/)
+- Probieren Sie es im[SubQuery Explorer](https://explorer.subquery.network/) aus
+- Weitere Informationen zu [SubQuery-Dokumenten](https://doc.subquery.network/)
+- Besuchen Sie unsere [-Website](https://subquery.network/)
 
 **Sprechen Sie mit uns auf:**
 
--   [hello@subquery.network](mailto:hello@subquery.network)
--   [Discord](https://discord.com/invite/78zg8aBSMG)
--   [Telegramm](https://t.me/subquerynetwork)
--   [Twitter](https://twitter.com/subquerynetwork)
--   [Matrix](https://matrix.to/#/#subquery:matrix.org)
--   [LinkedIn](https://www.linkedin.com/company/subquery)
+- [hello@subquery.network](mailto:hello@subquery.network)
+- [Discord](https://discord.com/invite/78zg8aBSMG)
+- [Telegramm](https://t.me/subquerynetwork)
+- [Twitter](https://twitter.com/subquerynetwork)
+- [Matrix](https://matrix.to/#/#subquery:matrix.org)
+- [LinkedIn](https://www.linkedin.com/company/subquery)
