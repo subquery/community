@@ -19,7 +19,7 @@ Kami akan menjalankannya seperti aplikasi produksi, sehingga Anda dapat membuka 
 
 ## **SubQuery Mendapatkan Pendanaan Seed Round $1,8 juta untuk Ekspansi di Masa Depan**
 
-SubQuery siap berkembang dan ditayangkan! [We successfully raised a US$1.8 million seed round](../blogs/20210312-SubQuery-Raises-%241.8M-Seed-Round-for-Future-Expansion.md) and private sale backed primarily by DeFi Alliance, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG), and The Lao. Permintaan luar biasa yang kami terima untuk mendukung seed round SubQuery menunjukkan minat yang kuat pada layanan infrastruktur dan keyakinan akan masa depan ekosistem Polkadot.
+SubQuery siap berkembang dan ditayangkan! [We successfully raised a US$1.8 million seed round](../blogs/20210312-SubQuery-Raises-%241.8M-Seed-Round-for-Future-Expansion.md) and private sale backed primarily by DeFi Alliance, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG), and The Lao. Permintaan luar biasa yang kami terima untuk mendukung putaran benih SubQuery menunjukkan minat yang kuat pada layanan infrastruktur dan keyakinan akan masa depan ekosistem Polkadot.
 
 _Kami merencanakan penjualan/peningkatan pribadi berikutnya akhir tahun ini. Jika Anda tertarik untuk ikut serta, silakan mendaftar di sini:_ [_https://forms.gle/6LMapDNSidQAqy347_](https://forms.gle/6LMapDNSidQAqy347)
 
@@ -35,26 +35,26 @@ SubQuery adalah tentang menyediakan layanan data kepada mitra dan pelanggan kami
 
 ![](https://miro.medium.com/max/1400/0*LOig1jNfPTuVk73D)
 
-Anda dapat membuat dApp untuk pemberi pinjaman yang menunjukkan rasio jaminan, jumlah pinjaman, bunga yang masih harus dibayar, dll. Atau layanan untuk pertukaran terdesentralisasi dengan likuiditas pasangan, nilai tukar pasangan, volume perdagangan.
+You could create a dApp for lenders showing collateralization ratio, loan amount, interests accrued, etc. Or a service for decentralised exchanges with pair liquidity, pair exchange rate, trading volumes.
 
-Kami berencana untuk meningkatkan alat kemitraan kami segera dan berencana untuk menerapkan protokol teratas lainnya dalam satu atau dua minggu ke depan dengan cepat.
+We’re planning to improve our partnership tools very soon and are planning on onboarding other top protocols in the next week or two at a rapid pace.
 
-_Apakah Anda ingin memulai dan membuat proyek SubQuery baru untuk dApp Anda sendiri —_ [_mulai sekarang_](https://doc.subquery.network/quickstart.html)_. We’ll even host it in our_ [_SubQuery Explorer_](../blogs/20210305-Announcing-the-SubQuery-Explorer.md) _for free!_
+_Do you want to get started and create a new SubQuery project for your own dApp —_ [_get started now_](https://doc.subquery.network/quickstart.html)_. We’ll even host it in our_ [_SubQuery Explorer_](../blogs/20210305-Announcing-the-SubQuery-Explorer.md) _for free!_
 
 ## **Berkeley Blockchain Xcelerator**
 
-[We were excited to announce in March](../blogs/20210523-SubQuery-Joins-Berkeleys-Blockchain-Xcelerator.md) that Berkeley has selected SubQuery to be part of their exclusive [Blockchain Xcelerator](https://www.xcelerator.berkeley.edu/). SubQuery (dan perusahaan induknya OnFinality) dipilih dari lebih dari 200 aplikasi untuk menjadi bagian dari hanya 21 tempat eksklusif.
+[We were excited to announce in March](../blogs/20210523-SubQuery-Joins-Berkeleys-Blockchain-Xcelerator.md) that Berkeley has selected SubQuery to be part of their exclusive [Blockchain Xcelerator](https://www.xcelerator.berkeley.edu/). SubQuery (and it’s parent company OnFinality) were selected from over 200 applications to be part of just 21 exclusive spots.
 
-Xcelerator blockchain Berkeley dikenal di seluruh dunia sebagai salah satu akselerator blockchain paling sukses karena suatu alasan. Mereka telah menginkubasi lebih dari 40 perusahaan yang telah mengumpulkan lebih dari $25 juta dalam seed dan pendanaan tahap awal, dan lebih dari 75% dari batch perdana mengumpulkan pendanaan lanjutan.
+Berkeley’s blockchain Xcelerator is known around the world as one of the most successful blockchain accelerators for a reason. It has incubated over 40 companies that have raised over $25M in seed and early stage funding, and over 75% of the inaugural batch raised follow-on funding.
 
 ![](https://miro.medium.com/max/1400/0*t-_mRJaTnGDQO-VI)
 
 ## **Perutean cerdas**
 
-Kami baru-baru ini [diberikan grant perbendaharaan](https://kusama.polkassembly.io/treasury/72) untuk menyelesaikan lapisan perutean cerdas yang memungkinkan kami mengekspos beberapa kluster di belakang satu titik akhir. Ini akan memungkinkan kami untuk meningkatkan skala layanan kami dengan lebih baik, dan dengan cepat beralih ke cluster yang berlebihan jika beberapa infrastruktur kami tidak berfungsi. Baik OnFinality dan SubQuery mengandalkan infrastruktur ini, jadi penting bagi kami untuk terus berinvestasi dan meningkatkan di sini.
+We’ve recently been [awarded a treasury grant](https://kusama.polkassembly.io/treasury/72) to complete an intelligent routing layer that allows us to expose multiple clusters behind a single endpoint. This will allow us to scale our service better, and quickly fall over to redundant clusters in the unlikely event that some of our infrastructure goes down. Both OnFinality and SubQuery rely on this infrastructure so it’s important that we continue to invest and improve here.
 
 ## **Staf dan Kantor Baru**
 
-Salah satu perubahan terbesar selama sebulan terakhir adalah seberapa banyak tim telah berkembang. Kami telah menambahkan dua staf baru selama sebulan terakhir dan berharap untuk mempekerjakan lebih banyak, sebagai hasilnya, kami menemukan kantor baru di Auckland yang sangat cocok untuk kami. Kami akan tumbuh, tetapi masih berencana untuk tetap kecil dan gesit sehingga kami dapat mewujudkan visi produk kami.
+One of the biggest changes over the past month is how much the team has grown. We’ve added two new staff over the past month and expect to hire more, as a result, we’ve found a new office in Auckland that fits us perfectly. We will grow, but still plan to remain small and nimble so we can deliver our product vision.
 
 ![](https://miro.medium.com/max/1400/1*cJZxerXHfgVGu4-7h2xw4Q.jpeg)
