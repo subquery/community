@@ -6,9 +6,9 @@
 
 Днес проучваме как SubQuery помогна да се осъществи това стартиране. Karura използва SubQuery за извличане и търсене на данни от веригата на Karura, което прави заявките бързи и ефективни за [приложението на Karura](https://apps.karura.network/).
 
-> "Използването на Subquery прави създаването на приложения лесно, вече не е необходимо да правя сложни поредици от повиквания, за да получа необходимите ми данни."* --- Brett (Developer at Acala)*
+> *"Using SubQuery makes building dapps easy, no more making a complicated series of calls to get the data I need."* - Brett (Developer at Acala)
 
-Разработването на dApps в Karura вече е много по-бързо с новите публични проекти SubQuery, публикувани от Karura. Съществува публично достъпен проект [SubQuery](https://explorer.subquery.network/subquery/AcalaNetwork/karura), който общността на Karura може да разклони и да изгради всяко dApp, което желае. Освен това [речникът на Карура](https://explorer.subquery.network/subquery/AcalaNetwork/karura-dictionary) прави [индексирането много по-бързо](https://subquery.medium.com/subquerys-just-got-a-lot-faster-with-the-dictionary-8a7a1447574).
+Разработването на dApps в Karura вече е много по-бързо с новите публични проекти SubQuery, публикувани от Karura. Съществува публично достъпен проект [SubQuery](https://explorer.subquery.network/subquery/AcalaNetwork/karura), който общността на Karura може да разклони и да изгради всяко dApp, което желае. Additionally, a [Karura Dictionary](https://explorer.subquery.network/subquery/AcalaNetwork/karura-dictionary) makes [indexing much faster](../blogs/20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md).
 
 ![](https://cdn-images-1.medium.com/max/1600/1*vvI_pI93mhe4kzSNQ2yMoQ.png)
 
@@ -18,9 +18,9 @@
 
 ![](https://cdn-images-1.medium.com/max/1600/0*g174RcFJwJcw2ITS)
 
-Karura също така предлага етичен и устойчив модел за дистрибуция на токени, както и Karura Treasury on-chain, като и двете подкрепят нейната общност и дълготрайност. Karura беше първият парачейн, който спечели търг за слот за парачейн в Kusama, като събра краудлоуд в размер на 500 000 KSM (100 млн. долара) от своята общност. Тъй като Karura използва новия Acala EVM, който позволява съвместимост с Ethereum с неограничена функционалност на Substrate*, мрежата е готова да подкрепи разгръщането на водещи DeFi проекти, които имат за цел да разширят услугите си отвъд Ethereum.
+Karura също така предлага етичен и устойчив модел за дистрибуция на токени, както и Karura Treasury on-chain, като и двете подкрепят нейната общност и дълготрайност. Karura беше първият парачейн, който спечели търг за слот за парачейн в Kusama, като събра краудлоуд в размер на 500 000 KSM (100 млн. долара) от своята общност. Because Karura leverages the novel Acala EVM, which enables Ethereum compatibility with unlimited Substrate\* functionality, the network is primed to support the deployment of leading DeFi projects who aim to expand their services beyond Ethereum.
 
-*[Substrate](http://substrate.dev/) *е рамката за изграждане на блокчейн за надграждане на Polkadot и Kusama*
+*[Substrate](http://substrate.dev/) *is the blockchain-building framework for building on Polkadot and Kusama\*
 
 [Прочетете повече за задълбоченото проучване на Karura тук](https://medium.com/acalanetwork/countdown-to-karura-a-deep-dive-on-the-defi-hub-of-kusama-410066fc1e1f)
 
