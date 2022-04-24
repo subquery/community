@@ -6,19 +6,19 @@ Welcome to the latest monthly update from SubQuery. Following on from last month
 
 In this monthly update:
 
--   Onboarding Ambassadors 👩‍💼
--   Kicked off work on the SubQuery Network 🏗
--   Huge Community Growth 🚀
--   New Projects on SubQuery 🤝
--   AMA with DotMarketCap 🎙
--   Activity in China 🇨🇳
--   Delivering the 2nd Milestone of Polkadot Common API ✅
+- Onboarding Ambassadors 👩‍💼
+- Kicked off work on the SubQuery Network 🏗
+- Huge Community Growth 🚀
+- New Projects on SubQuery 🤝
+- AMA with DotMarketCap 🎙
+- Activity in China 🇨🇳
+- Delivering the 2nd Milestone of Polkadot Common API ✅
 
 ## Onboarding Ambassadors 👩‍💼
 
 ![](https://miro.medium.com/max/1400/0*_nOcsPjhQxta_FPH)
 
-After [launching our Ambassador program](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) last month, we have been amazed by the excitement in the community and quality of the participants. To date, we have received just under 2,000 applications almost every continent (we're calling out for applications from Antarctica ☃️) and onboarded over 30 people thus far.
+After [launching our Ambassador program](../blogs/20210713-Introducing-the-SubQuery-Ambassador-Program.md) last month, we have been amazed by the excitement in the community and quality of the participants. To date, we have received just under 2,000 applications almost every continent (we're calling out for applications from Antarctica ☃️) and onboarded over 30 people thus far.
 
 Tre has been doing an excellent job leading this initiative and [engaging with the community on Discord](https://discord.com/invite/78zg8aBSMG). As we are already seeing the benefits of having a closer relationship with the supporters of SubQuery, we will be expanding the team in the next few weeks so please be patient if you haven't heard from us yet!
 
@@ -32,7 +32,7 @@ To help us accelerate this growth, and ensure that our community is engaged and 
 
 ## Kicked off work on SubQuery Network 🏗
 
-Yes! The work on [moving SubQuery towards a decentralised and tokenised network](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010); the SubQuery Network, has begun! This migration will ensure that there is no single point of failure for SubQuery and to encourage participants via the SQT token. In order to help us with this significant change, we have recruited new developers to join us this month.
+Yes! The work on [moving SubQuery towards a decentralised and tokenised network](../blogs/20210614-Introducing-SubQuery-Network-The-Next-Big-Step-Towards-our-Decentralised-Future.md); the SubQuery Network, has begun! This migration will ensure that there is no single point of failure for SubQuery and to encourage participants via the SQT token. In order to help us with this significant change, we have recruited new developers to join us this month.
 
 ## New Projects on SubQuery 🤝
 
@@ -40,17 +40,17 @@ Yes! The work on [moving SubQuery towards a decentralised and tokenised network
 
 In August we launched several new projects on SubQuery including those with Subscan, Karura, Subscan, Polkaswap, and Soramitsu.
 
-For Karura, [SubQuery is being used to extract and query data from Karura's chain](https://subquery.medium.com/karura-integrates-with-subquery-to-aggregate-and-serve-defi-data-to-kusama-builders-d34f0e722311?source=your_stories_page-------------------------------------), making queries fast and efficient for [Karura's app](https://apps.karura.network/).
+For Karura, [SubQuery is being used to extract and query data from Karura's chain](../customer_announcements/20210819-Karura-Integrates-with-SubQuery-to-Aggregate-and-Serve-DeFi-Data-to-Kusama-Builders.md), making queries fast and efficient for [Karura's app](https://apps.karura.network/).
 
-SubQuery's service is playing a key role in [Subscan](https://www.subscan.io/) by [providing fast data on transactions](https://subquery.medium.com/subscans-multi-signature-tool-powered-by-subquery-926da3e4fc25?source=your_stories_page-------------------------------------) for any given multi signature address, thereby improving the UX and allowing for more advanced features.
+SubQuery's service is playing a key role in [Subscan](https://www.subscan.io/) by [providing fast data on transactions](../customer_announcements/20210901-Subscans-Multi-Signature-Tool.md) for any given multi signature address, thereby improving the UX and allowing for more advanced features.
 
-[SORA](https://sora.org/) has built a [SubQuery Project that retrieves data from the SORA network](https://subquery.medium.com/sora-integrates-subquery-to-provide-data-to-the-sora-network-5a73f77a40aa?source=your_stories_page-------------------------------------) to power mobile applications built on SORA and [Polkaswap.io](http://polkaswap.io/). You can read more here
+[SORA](https://sora.org/) has built a [SubQuery Project that retrieves data from the SORA network](../customer_announcements/20210825-SORA-Integrates-SubQuery-to-Provide-Data-to-the-SORA-Network.md) to power mobile applications built on SORA and [Polkaswap.io](http://polkaswap.io/). You can read more here
 
 In both cases, we are thankful to have such great feedback like this from our partners:
 
 *"Using Subquery makes building dapps easy, no more making a complicated series of calls to get the data I need."* - Brett (Developer at Acala)
 
-*"SubQuery has been the ideal solution for our needs because the application is easy to deploy and manage, it is easy to learn and develop as well as being well documented, and it also has its own infrastructure with Github integration"* - SORA Development Team
+_"SubQuery has been the ideal solution for our needs because the application is easy to deploy and manage, it is easy to learn and develop as well as being well documented, and it also has its own infrastructure with Github integration"_ - SORA Development Team
 
 [You can view all projects easily via our Explorer here](https://explorer.subquery.network/).
 
@@ -74,7 +74,7 @@ We are pleased to make progress in the [development of an open-source dApp API�
 
 Nearing completion of the second milestone in this project means that there will soon be a defined and common core data API interface for Polkadot, Kusama, and other parachains which will attract more developers to the ecosystem. Making development intuitive and as painless as possible is one of our key objectives!
 
-*****
+---
 
 As always, please join our social channels to stay updated on our latest news and announcements.
 
