@@ -1,10 +1,10 @@
-# Rilasci Di Subquery Tokenomics
+# Subquery rilascia Tokenomics
 
 ![](https://miro.medium.com/max/1400/1*e42FM0TsNgOM3VacoctOzQ.png)
 
-La tokenizzazione è un aspetto importante di qualsiasi progetto blockchain ed è fondamentale per il successo di qualsiasi token di utilità. In SubQuery, stiamo creando una rete decentralizzata e incentivata che fornirà i dati per il futuro di Web3 ([leggi il nostro white paper](https://static.subquery.network/whitepaper.pdf)). Oggi siamo entusiasti di svelare come funzionerà l'SQT e come sarà allocato per aumentare la partecipazione della nostra fiorente comunità.
+La tokenizzazione è un aspetto importante di qualsiasi progetto blockchain ed è fondamentale per il successo di qualsiasi utility token. In SubQuery, stiamo creando una rete decentralizzata e incentivata che fornirà i dati per il futuro di Web3 ([leggi il nostro white paper](https://static.subquery.network/whitepaper.pdf)). Oggi siamo entusiasti di svelare come funzionerà l'SQT e come sarà allocato per aumentare la partecipazione della nostra fiorente comunità.
 
-[We recently announced that we would be launching the SubQuery Network via Acala](./20211220-tokenomics.md). Per coloro che potrebbero essere nuovi nell'ecosistema Polkadot, SubQuery deve collaborare con un team di parachain esistente per distribuire i suoi contratti intelligenti (e quindi il token SQT SubQuery) per poter essere pubblicato. In altre parole, il nostro token è annidato all'interno della blockchain di Acala su Polkadot e consentirà senza problemi la partecipazione degli investitori dell'ecosistema Ethereum grazie alla soluzione EVM+ (Ethereum Virtual Machine) di Acala.
+[Di recente abbiamo annunciato che avremmo lanciato la rete SubQuery tramite Acala](./20211220-tokenomics.md). Per coloro che potrebbero essere nuovi nell'ecosistema Polkadot, SubQuery deve collaborare con un team di parachain esistente per distribuire i suoi smart contract (e quindi il token SQT SubQuery) per poter essere pubblicato. In altre parole, il nostro token è annidato all'interno della blockchain di Acala su Polkadot e consentirà senza problemi la partecipazione degli investitori dell'ecosistema Ethereum grazie alla soluzione EVM+ (Ethereum Virtual Machine) di Acala.
 
 In preparazione per il prossimo lancio con Acala del token SQT di SubQuery, è importante comprendere alcuni aspetti chiave come l'utilità del token, l'allocazione e i programmi di vesting.
 
@@ -12,7 +12,7 @@ In preparazione per il prossimo lancio con Acala del token SQT di SubQuery, è i
 
 Come indicato nel whitepaper, miriamo a stabilire SQT come il token che alimenta la rete SubQuery, fornendo un incentivo per la partecipazione, oltre a fungere da mezzo di scambio per le transazioni all'interno della rete SubQuery. SQT sarà il carburante per la rivoluzione dei dati web3.
 
-In pratica, ciò significa che SubQuery è destinato a funzionare come un mercato di dati blockchain in cui sia i consumatori (acquirenti) che gli indicizzatori (venditori) possono incontrarsi per scambiare dati per token SQT. Il terzo partecipante al nostro modello sono i delegatori che partecipano alla rete supportando i loro indicizzatori preferiti delegando loro i loro token per guadagnare premi.
+In pratica, ciò significa che SubQuery è destinato a funzionare come un marketplace di dati blockchain in cui sia i consumatori (acquirenti) che gli indicizzatori (venditori) possono incontrarsi per scambiare dati per token SQT. Il terzo partecipante al nostro modello sono i delegatori che partecipano alla rete supportando i loro indicizzatori preferiti delegando loro i loro token per guadagnare premi.
 
 In futuro prevediamo che i detentori del token SQT saranno in grado di informare la SubQuery Foundation sulla loro visione della direzione generale di SubQuery poiché la nostra rete adotta alcune qualità di un'organizzazione autonoma decentralizzata (DAO).
 
@@ -24,11 +24,11 @@ SubQuery conierà una fornitura fissa di 10 miliardi di SQT che verrà allocata 
 
 Fin dall'inizio, SubQuery si è concentrato sulla creazione di valore all'interno della nostra community e miriamo a mantenerlo tale distribuendo la più grande allocazione di token (41%) alla Community e alla SubQuery Foundation.
 
-La Fondazione, che sarà costituita all'inizio del 2022, gestirà la futura governance e crescita dell'ecosistema e la proprietà della rete SubQuery rientrerà inizialmente nella fondazione SubQuery. Questa cospicua dotazione include anche la considerazione di futuri investimenti nello sviluppo e nelle operazioni della rete e fattori chiave di crescita dell'ecosistema. Ciò includerà strumenti come sovvenzioni e incentivi/eventi dell'ecosistema, nonché altre attività di marketing tra cui ricompense di bug e incentivi mainnet.
+La Fondazione, che sarà costituita all'inizio del 2022, gestirà la futura governance e crescita dell'ecosistema e la proprietà della rete SubQuery rientrerà inizialmente nella SubQuery Foundation. Questa cospicua dotazione include anche la considerazione di futuri investimenti nello sviluppo e nelle operazioni della rete e fattori chiave di crescita dell'ecosistema. Ciò includerà strumenti come sovvenzioni e incentivi/eventi dell'ecosistema, nonché altre attività di marketing tra cui ricompense di bug e incentivi mainnet.
 
-I nostri primi investitori nei nostri round Seed e Series A hanno un'allocazione combinata del 27%. In the case of [our Seed investors](./20210312-SubQuery-Raises-%241.8M-Seed-Round-for-Future-Expansion.md), we are grateful for their early vision and commitment after we [received a grant from the Web3 foundation](./20210207-SubQuery-Delivers-Its-Open-Source-SDK-Following-a-Web3-Foundation-Grant.md) to build the initial phase of SubQuery. Following on from this, [our growth was accelerated with the support of our Series A investors](./20210908-SubQuery-Announces-US%249-Million-Funding-Round.md) who allowed us to take the project to the next level.
+I nostri primi investitori nei nostri round Seed e Series A hanno un'allocazione combinata del 27%. Nel caso dei [nostri investitori Seed](./20210312-SubQuery-Raises-%241.8M-Seed-Round-for-Future-Expansion.md), siamo grati per la loro visione e impegno precoci dopo aver [ricevuto una sovvenzione dalla fondazione Web3](./20210207-SubQuery-Delivers-Its-Open-Source-SDK-Following-a-Web3-Foundation-Grant.md) per costruire la fase iniziale di SubQuery. In seguito, [la nostra crescita è stata accelerata con il supporto dei nostri investitori di serie A](./20210908-SubQuery-Announces-US%249-Million-Funding-Round.md) che ci hanno permesso di portare il progetto al livello successivo.
 
-Per la vendita pubblica che prevediamo nel marzo 2022, abbiamo allocato il 12% della fornitura di token in almeno due round sequenziali. The exact structure and timing of these rounds will be provided at a later date, however we will be providing guaranteed allocation for [key community members](./20210713-Introducing-the-SubQuery-Ambassador-Program.md) (e.g. Ambassadors, Spartans) and [network participants](./20211202-indexer-invitation.md) (e.g. test network participants and referenceable customers). Ogni categoria avrà la propria assegnazione minima e massima.
+Per la vendita pubblica che prevediamo nel marzo 2022, abbiamo allocato il 12% della fornitura di token in almeno due round sequenziali. La struttura e la tempistica esatte di questi round verranno fornite in un secondo momento, tuttavia forniremo un'assegnazione garantita per i [membri chiave della comunità](./20210713-Introducing-the-SubQuery-Ambassador-Program.md) (ad es. Ambassador, Spartan) e [partecipanti alla rete](./20211202-indexer-invitation.md) (es. partecipanti alla rete di test e clienti referenziabili). Ogni categoria avrà la propria assegnazione minima e massima.
 
 Infine, al SubQuery Team e ai Launch Partners è stato assegnato il 20% della fornitura di token in cambio dei loro contributi nella costruzione e promozione del progetto.
 
@@ -38,13 +38,13 @@ L'allocazione dei token di per sé non è nulla senza comprendere il modo in cui
 
 ![](https://miro.medium.com/max/1400/0*mfIBkH4SjFZgGuIq)
 
-Abbiamo pensato attentamente ai programmi di vesting per ciascun partecipante al fine di creare valore a lungo termine per il progetto e generare fiducia nei token holder. Forse la cosa più significativa è che il core team avrà un periodo di blocco di 24 mesi mentre alcuni partecipanti alla vendita pubblica possono utilizzare liberamente l'utilità del proprio token al momento del lancio.
+Abbiamo pensato attentamente ai programmi di vesting per ciascun partecipante al fine di creare valore a lungo termine per il progetto e generare fiducia nei token holder. Forse la cosa più significativa è che il core team avrà un periodo di blocco di 24 mesi mentre alcuni partecipanti alla vendita pubblica possono utilizzare liberamente i propri token al momento del lancio.
 
 La ripartizione di ciascun titolare è la seguente ed è soggetta a modifiche:
 
 - **Team e partner di lancio** sono bloccati per 24 mesi e maturano nei successivi 24.
-- **Gli investitori di semi** sono bloccati per 12 mesi e maturano nei successivi 24.
-- Gli **gli investitori di serie A** sono bloccati per 6 mesi e maturano nei prossimi 18.
+- **Seed Investor** sono bloccati per 12 mesi e maturano nei successivi 24.
+- Gli **Series A investors** sono bloccati per 6 mesi e maturano nei successivi 18.
 - **Fondazione e community** disporranno di circa il 30% dell'allocazione sbloccato dall'inizio per soddisfare le esigenze operative di lancio e promozione di mainnet, mentre il resto dell'allocazione acquisirà gradualmente nell'arco di 5 anni.
 - I partecipanti al **Public Sale Round 1** hanno un periodo di blocco di 12 mesi. Gli indicizzatori e altri partecipanti alla rete chiave avranno una parte della loro allocazione disponibile per essere sbloccata immediatamente per garantire che possano avviare la rete. I partecipanti a questo round verranno inseriti nella whitelist e avranno un'allocazione garantita.
 - I partecipanti al **Public Sale Round 2** non hanno alcun periodo di blocco. Questo round è aperto a tutti gli utenti che soddisfano i requisiti KYC sulla piattaforma launchpad. Questo round è "primo arrivato, primo servito" con un'allocazione minima e massima. A questo proposito, miriamo ad attirare un numero maggiore di partecipanti per rendere più equa la distribuzione. Maggiori informazioni su questo potrebbero arrivare in futuro
@@ -53,7 +53,7 @@ Abbiamo anche previsto un airdrop retrospettivo per le comunità che hanno un'im
 
 I dettagli esatti di quando e come verrà allocato e distribuito il token SQT sono ancora soggetti a finalizzazione e saranno annunciati in prossimità della vendita pubblica. In questa fase, prevediamo che la distribuzione dei token ai partecipanti alla vendita avverrà con il lancio della mainnet. In altre parole, ci sarà un periodo di attesa tra la vendita e la distribuzione del token che si allineerà con la data di quotazione del token.
 
-Per l'elenco di SQT, stiamo pianificando di essere disponibili su scambi chiave decentralizzati (DEX) e centralizzati (CEX) per rendere il più semplice possibile la partecipazione di tutti alla rete di sottointerrogazione. Non vediamo l'ora che vi uniate a noi nella nostra missione di aiutare gli sviluppatori a creare le applicazioni decentralizzate del futuro.
+Per l'elenco di SQT, stiamo pianificando di essere disponibili su exchange chiave decentralizzati (DEX) e centralizzati (CEX) per rendere il più semplice possibile la partecipazione di tutti alla rete di Subquery. Non vediamo l'ora che vi uniate a noi nella nostra missione di aiutare gli sviluppatori a creare le applicazioni decentralizzate del futuro.
 
 ## Informazioni sulla SubQuery Network
 
