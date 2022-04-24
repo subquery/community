@@ -6,7 +6,7 @@ Hôm nay, chúng tôi vui mừng thông báo về một dự án mới thú vị
 
 ![sora-frontend.jpg](https://miro.medium.com/max/1400/1*pq0U6wsutlf8rjXqq7i2BQ.jpeg)
 
-> "SubQuery đã được chọn để cải thiện trải nghiệm người dùng khi sử dụng mạng SORA. Chúng tôi đã sử dụng SubQuery để lấy và liệt kê các thông tin chi tiết bên ngoài, tính toán giá tiền pháp định và APY của các bể thanh khoản. Mục tiêu của chúng tôi là lấy lịch sử giao dịch và dữ liệu tổng hợp cho các ứng dụng hoạt động với mạng SORA.
+> "SubQuery đã được chọn để cải thiện trải nghiệm sử dụng mạng SORA. Chúng tôi đã sử dụng SubQuery để lấy và liệt kê các thông tin chi tiết bên ngoài, tính toán giá fiat và mức thanh khoản APY. Mục tiêu của chúng tôi là lấy lịch sử giao dịch và dữ liệu tổng hợp cho các ứng dụng hoạt động với mạng SORA.
 > 
 > SubQuery là giải pháp lý tưởng cho nhu cầu của chúng tôi vì ứng dụng dễ triển khai và quản lý, dễ học và phát triển cũng như được ghi chép đầy đủ và nó cũng có cơ sở hạ tầng riêng với tích hợp Github. Cấu trúc dữ liệu thuần túy của SubQuery cung cấp khả năng truy cập nhanh, nó hỗ trợ API GraphQL cho các ứng dụng khách, nó có cấu hình linh hoạt để phân tích cú pháp các sự kiện, ngoại vi và các khối với bộ lọc bổ sung. Cuối cùng, ứng dụng hoàn toàn minh bạch đối với người dùng, vì vậy họ sẽ không nhận thấy liệu ứng dụng đã được cập nhật hay dừng lại."- Nhóm phát triển SORA
 
@@ -26,7 +26,7 @@ Khám phá dự án của SORA trong trình khám phá SubQuery [tại đây](ht
 
 ---
 
-### Giới thiệu về SORA
+### Về SORA
 
 SORA đang tạo ra một hệ thống kinh tế thế giới siêu quốc gia với các công cụ tích hợp cho tài chính phi tập trung (DeFi) dưới sự giám sát dân chủ dựa trên phân vùng mật mã của Nghị viện SORA.
 
@@ -36,6 +36,6 @@ Mạng SORA vượt trội trong việc cung cấp các công cụ cho các ứn
 
 ### Giới thiệu về SubQuery
 
-[SubQuery](https://subquery.network/) là một tập hợp dữ liệu phi tập trung, lập chỉ mục & lớp truy vấn giữa các blockchains Layer-1 và các ứng dụng phi tập trung (DApps). Hiện đang tập trung vào các dự án Polkadot và Substrate, dữ liệu dưới dạng dịch vụ này cho phép các nhà phát triển tập trung vào tính năng cốt lõi và giao diện người dùng của họ mà không cần lãng phí thời gian xây dựng chương trình phụ trợ tùy chỉnh để xử lý dữ liệu.
+[SubQuery](https://subquery.network/) là một tập hợp dữ liệu phi tập trung, lập chỉ mục & lớp truy vấn giữa các blockchains Layer-1 và các ứng dụng phi tập trung (DApps). Hiện đang tập trung vào các dự án Polkadot và Substrate, dữ liệu dưới dạng dịch vụ này cho phép các nhà phát triển tập trung vào trường cốt lõi và giao diện người dùng của họ mà không cần lãng phí thời gian xây dựng chương trình phụ trợ tùy chỉnh để xử lý dữ liệu.
 
 [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Email](mailto:hello@subquery.network)
