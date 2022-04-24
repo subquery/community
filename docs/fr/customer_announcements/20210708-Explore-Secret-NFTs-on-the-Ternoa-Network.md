@@ -14,7 +14,7 @@ Le support secret sera facilement accessible par l'utilisateur du portefeuille q
 
 ![](https://miro.medium.com/max/1400/0*gquKRKBgiyAAxRFZ)
 
-> "Nous avons fait le choix d'utiliser SubQuery car la documentation nous semblait claire au premier coup d'œil et nous ne nous sommes pas trompés. SubQuery fournit un environnement complet avec une machine docker qui rend les tests et le déploiement très faciles. Il est relativement facile de développer dans cet environnement et de programmer l'écoute des différents événements émis par notre blockchain. Félicitations également au support qui est très réactif." - Ternoa CTO
+> _"We made the choice to use SubQuery because the documentation seemed clear to us at first glance and we were not mistaken. SubQuery fournit un environnement complet avec une machine docker qui rend les tests et le déploiement très faciles. Il est relativement facile de développer dans cet environnement et de programmer l'écoute des différents événements émis par notre blockchain. Congratulations also to the support which is very responsive."_ — Ternoa CTO
 
 Les services[de SubQuery](https://subquery.network/) permettent également d'extraire et d'interroger sur les données de la chaîne pour les NFTs secrets frappés sur la blockchain Ternoa, d'une manière qui prend en charge les caractéristiques uniques des NFTs de Ternoa.
 
