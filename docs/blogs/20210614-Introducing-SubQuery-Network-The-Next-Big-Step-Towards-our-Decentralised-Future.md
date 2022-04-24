@@ -10,7 +10,7 @@ Everyone knows that a core weakness of blockchain data is that the processing an
 
 Creating a SubQuery project is, and always will be, free. Developers should spend time building, not running infrastructure. However we believe that a healthy decentralised future requires multiple distributed data service providers working together to improve resiliency, speed, and network performance.
 
-# Introducing The SubQuery Network:
+## Introducing The SubQuery Network:
 
 The SubQuery Network is our effort to move towards a decentralised and tokenised network in order to ensure no single point of failure for SubQuery and to encourage as many participants in the process as possible.
 

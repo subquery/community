@@ -4,7 +4,7 @@
 
 **Read more for our technical deep dive into the latest release of SubQuery**
 
-# Support for External Chain Type Files in Project Manifest
+## Support for External Chain Type Files in Project Manifest
 
 Today is the launch of [version 0.2.0](https://doc.subquery.network/create/manifest/) of our project manifest file (`project.yaml`). This new version provides developers with various improvements that have been requested by customers.
 
@@ -14,9 +14,9 @@ This solution allows you to avoid copying and managing chain type definitions in
 
 [You can read about the new manifest file, including how you can migrate your projects to it, here in our updated docs.](https://doc.subquery.network/create/manifest/)
 
-# Moonbeam EVM Support
+## Moonbeam EVM Support
 
-Last week we were pleased to [announce that we were working with Moonbeam to bring complete EVM and Substrate indexing support to Moonriver](https://subquery.medium.com/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff).
+Last week we were pleased to [announce that we were working with Moonbeam to bring complete EVM and Substrate indexing support to Moonriver](../customer_announcements/20211028-moonbeam-evm.md).
 
 Today we are following up on that announcement with all the developer resources that you need to get started.
 
@@ -28,19 +28,19 @@ Currently, there is no open-source tool which allows developers to flexibly coll
 
 [Firstly, familiarize yourself with the updated documentation on how to connect to and index data from Moonbeam, Moonbase Alpha, and Moonriver.](https://doc.subquery.network/create/substrate-evm/) The process to index Moonbeam data is only two steps:
 
-## Step 1: Add the Moonbeam Custom Data Source
+### Step 1: Add the Moonbeam Custom Data Source
 
 We have created a data processor specifically made to work with Moonbeam’s implementation of [Frontier](https://github.com/paritytech/frontier). It allows you to reference specific ABI resources used by the processor to parse arguments and the smart contract address that the events is from or the call is made to. [You can read more here](https://doc.subquery.network/create/substrate-evm/#data-source-spec).
 
 SubQuery introduces more advanced filters than other indexers, allowing filtering of non-contract transactions, transaction senders, contracts and indexed log arguments. This allows developers to build a wide variety of projects that cater to their specific data needs.
 
-## Step 2: Index Moonbeam Data
+### Step 2: Index Moonbeam Data
 
 Just like a normal SubQuery project, you use a mapping function to transform off chain data to the GraphQL entities that you define, the difference is that instead of a `SubstrateEvent` or `SubstrateExtrinsic`, your mapping function will receive a `MoonbeamCall` or `MoonbeamEvent` which are based on Ether's [TransactionResponse](https://docs.ethers.io/v5/api/providers/types/#providers-TransactionResponse) or [Log](https://docs.ethers.io/v5/api/providers/types/#providers-Log) type. [You can read more about these here](https://doc.subquery.network/create/substrate-evm/#frontierevmcall).
 
 [Read the full documentation on this process here](https://doc.subquery.network/create/substrate-evm/#frontierevmcall)
 
-## Example Project
+### Example Project
 
 There is a complete example project that indexes eth `transfer` events and `approve` smart contract calls. The code for this example project is [here on GitHub](https://github.com/subquery/tutorials-moonriver-evm-starter) or accessible via the [live SubQuery project on SubQuery Explorer here](https://explorer.subquery.network/subquery/subquery/moonriver-evm-starter-project).
 
