@@ -50,7 +50,7 @@ The performance and reliability of our hosted service has been on the top of our
 
 1.  Dedicated Databases
 2.  Multiple Cluster Support
-3.  Intelligent Routing
+3.  Định tuyến thông minh
 
 These services allow us to offer our premium service to more customers with confidence. We work with each customer to understand their business and goals, and then to set up a service to meet their needs. SubQuery is the largest data service provider in Polkadot, and these features show how we support thousands of community projects at the same time as the biggest projects in Polkadot. [Read more here](../blogs/20211228-enterprise-hosted.md)
 
@@ -117,6 +117,6 @@ Our partnership with Gitcoin reflects our commitment to provide opportunities fo
 
 As always, please [join our social channels](https://linktr.ee/subquerynetwork) (especially our [Discord](https://discord.com/invite/subquery)) to stay updated on our latest news and announcements.
 
-James, Sam, and the SubQuery Team
+James, Sam và Nhóm SubQuery
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
