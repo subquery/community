@@ -1,72 +1,72 @@
-# October 2021 Recap
+# Жовтень 2021 - Підсумки
 
 ![](https://miro.medium.com/max/1400/1*Yf3LOc6onAZ-XRQLPyxAmQ.png)
 
-**Putting Our Plans Into Motion**
+**Втілюємо наші плани у життя**
 
-Welcome to the latest monthly update from SubQuery, and what will be the first one for many of you based on the growth of our community.
+Ласкаво просимо до нашого щомісячного огляду останніх подій від проекту Subquery. Для багатьох із вас це буде перший огляд, тому що наше ком'юніті постійно зростає та розвивається.
 
-From here on out we will try to structure every update around three key areas; community, core product development, and the SubQuery Network.
+Від сьогодні й надалі, ми спробуємо структурувати кожне оновлення навколо трьох ключових областей: ком'юніті, розробка основного продукту та SubQuery Network.
 
 ## SubQuery Network
 
 ### Technical Roadmap Announced
 
-At our community call last week we shared more about our plans for the future. We are excited about how the next evolution of SubQuery will drive even more value to the Polkadot ecosystem and provide more opportunities for our community to participate in our growth.
+At our community call last week we shared more about our plans for the future. Ми в захваті від того, як наступна еволюція SubQuery принесе ще більшу цінність екосистемі Polkadot і надасть більше можливостей нашій спільноті приймати участь у нашому зростанні.
 
-We’ve gone extremely deep here for transparency with the community and to rationalise the work we have ahead. It’s an ambitious timeline that we are internally using as a target, you can see how many moving pieces there are from the image below! That being said, estimating timelines for R&D software development is notoriously difficult, so nothing below is final — it’s just our best effort at estimations.
+Ми дуже ретельно розписали технічну дорожню карту для того, щоб бути максимально прозорими з нашим ком'юніті та показати що чекає нас попереду. Це амбітний графік, якого ми всередині команди маємо за ціль дотримуватись - ви можете побачити скільки рухомих частин є на зображенні нижче! З огляду на це, оцінити терміни на дослідження та розробку програмного забезпечення досить складно, тому вся інформація, що наведена нижче не є остаточною — це лише наш найкращий прогноз.
 
-[Read more about our technical roadmap here](../blogs/20211029-roadmap-october.md)
+[Дізнайтеся більше про нашу технічну дорожню карту тут](../blogs/20211029-roadmap-october.md)
 
 ### Significant Development on the SubQuery Network
 
-Building a new decentralised and tokenised network is a huge amount of work and it is unfortunately work that isn’t clearly visible externally for some time. That being said, we’ve had a top team of dedicated developers working on this for some time, slowly but surely working through the list of smart contract implementations to bring us closer to launching the first internal testnet by the end of the year.
+Побудова нової децентралізованої та токенізованої мережі – це величезна робота, і, на жаль, це робота, яка деякий час не помітна зовні. Незважаючи на це, наша провідна команда розробників вже деякий час над цим працювала. Повільно, але впевнено ведеться робота над реалізацією смарт контрактів, щоб наблизити нас до запуску першого внутрішнього тестовання мережі до кінця року.
 
 ## Core Product Development
 
 ### Moonriver EVM Support
 
-This is a significant milestone for us and a huge partnership with Moonbeam. Currently, there is no open-source tool which allows developers to flexibly collect and query data across both Ethereum and Polkadot/Kusama. This limitation can cause dApps solutions within Moonriver to be siloed into the smart contract layer and thereby limit their potential to consumers across both thriving networks.
+Це важлива віха для нас і величезне партнерство з Moonbeam. Наразі не існує інструменту з відкритим кодом, який дозволяє розробникам гнучко збирати та запитувати дані як в Ethereum, так і в Polkadot / Kusama. Це обмеження може призвести до того, що рішення dApps в Moonriver будуть ізольовані на рівні смарт-контрактів і таким чином обмежать їх потенціал для споживачів в обох процвітаючих мережах.
 
-This partnership with Moonbeam brings a complete and unified data indexing solution for all blockchain data within Moonriver and will greatly benefit Moonriver’s growing application ecosystem. With SubQuery’s innovation, one tool can now query and filter EVM logs and transactions in addition to Substrate data sources.
+Це партнерство з Moonbeam надає повне та уніфіковане рішення для індексації даних для всіх даних блокчейну в Moonriver і принесе велику користь зростаючій екосистемі додатків Moonriver. Завдяки інноваційності SubQuery, один інструмент тепер може запитувати та фільтрувати журнали та транзакції EVM та додатково джерела даних Substrate.
 
-[Read more about our Moonriver EVM support here](../customer_announcements/20211028-moonbeam-evm.md)
+[Дізнайтеся більше про нашу підтримку Moonriver EVM тут](../customer_announcements/20211028-moonbeam-evm.md)
 
 ## Community
 
 ### The Spartan Programme
 
-In August, SubQuery launched its Ambassador programme to find community leaders passionate about Polkadot and SubQuery. Surprisingly we were completely overwhelmed by thousands and thousands of applications, and our initial plans to manually onboard applicants has become challenging. After consultation with our existing Ambassadors we have designed a new, and transparent method to level up in our Discord community and potentially become an Ambassador.
+У серпні проєкт SubQuery запустив свою амбасадорьску програму, щоб знайти лідерів спільноти, по-справжньому захоплених Polkadot і SubQuery. Ми отримали тисячі заявок від кандидатів до амбасадорів, і ми просто не змогли вручну впоратися з таким великим напливом учасників. Після консультації з нашими існуючими амбасадорами ми розробили новий і прозорий метод отримання більш високого рангу в Discord ком'юніті та потенційної можливості здобути звання амбасадора.
 
-The Spartan programme exists within our Discord community, and it is designed to complement our established ambassador programme with another tier or contributors. Aspiring members can complete monthly tasks and competitions to become a Spartan. The Spartans who then rise to the top of their class will be nominated by our existing Ambassadors to join their ranks.
+Програма Спартанцiв існує в рамках нашої спільноти у Discord каналі. Вона була розроблена для того, щоб доповнити амбасадорьску програму новими учасниками та корисними внесками. Усі бажаючі можуть брати участь змаганнях та виконувати щомісячні завдання, щоб стати Спартанцем. Спартанці, які зможуть найкраще проявити себе, отримають рекомендації від дiючих амбасадорів, та зможуть до них приєднатися.
 
 To find out more about our Spartan programme and participate in our November competition please [join our Discord](https://discord.com/invite/subquery).
 
-[Read more about our Spartan programme here](../blogs/20211101-spartan-programme.md)
+[Переходьте за цим посиланням, щоб дізнатися більше про програму Спартанцiв тут](../blogs/20211101-spartan-programme.md)
 
 ### SubQuery Academy
 
-Onboarding new developers and teaching them the skills they need to build the dApps of tomorrow is incredibly important to the success of our community.
+Залучення нових розробників та їх навчання навичкам для створення децентралізованих додаткiв (dApps) майбутнього є неймовірно важливим для успіху нашої спільноти.
 
-The Academy will be a weekly series of 6 modules with several 5 to 10 minute lessons which are delivered by a recorded video. The video content is accompanied by written tutorials, slides, lab workbooks, and links to the finished GitHub code repository.
+Академія буде включати в себе щотижневі випуски з 6 модулів. Кожен модуль буде містити декілька уроків у форматі відео, тривалістю 5-10 хвилин. До кожного відео додаються письмові посібники, слайди, лабораторні роботи та посилання на готовий репозиторій коду на GitHub.
 
-Our Academy aims to take an aspiring blockchain developer from beginner to advanced and it is 100% free and accessible online. We have had over 1,200 enrolments for our first hero course since its launch two weeks ago and we are grateful for the passionate community that we have with us.
+Програма розроблена таким чином, що кожен програміст-початківець буде поступово рухатися від початкового рівня до самого просунутого. При цьому сама програма є абсолютно безкоштовною, та її можна зручно проходити в онлайн форматi. Ми зареєстрували понад 1200 заявок на наш перший "курс для героїв" з моменту його запуску два тижні тому, і ми дуже вдячні за таке палке бажання спільноти, що в нас є.
 
-[Read more about SubQuery’s Academy here](../blogs/20211018-subquery-launches-the-subquery-academy.md)
+[Переходьте за цим посиланням, щоб дізнатися бiльше про Академію SubQuery](../blogs/20211018-subquery-launches-the-subquery-academy.md)
 
 ### Community Call
 
-We held our first-ever community call on October 28th to share our roadmap and the latest community updates. It was great to share with our community the things they had been asking for a long time in a more personal way. We appreciate all those who came to the call and we plan on hosting these calls more regularly. It would have been the first time for a lot of you to hear from our new community manager Sally as well who joined us in early October.
+28 жовтня ми провели нашу першу зустріч із спільнотою у форматі дзвінка, щоб поділитися деталями нашої дорожньої карти та розповісти про останні новини нашої спільноти. Нам дуже сподобався цей формат зустрічі, де ми змогли відповісти на багато питань нашої спільноти, які її цікавили вже довгий час. Ми дякуємо всім, хто зміг приєднатися до цієї зустрічі. Ми плануємо проводити зустрічі такого формату на регулярній основі. Присутні також мали можливість познайомитися з нашим новим ком'юніті менеджером Sally, яка приєдналася до нашої команди на початку жовтня.
 
-[Watch the October session recording here](https://www.crowdcast.io/e/subquery-sessions-october)
+[У вас є можливість переглянути запис жовтневої сесії за цим посиланням](https://www.crowdcast.io/e/subquery-sessions-october)
 
 ## Other things you might have missed
 
 - We’ve partnered with Acala to provide the [largest pool of prizes for the Encode Club Polkadot Hackathons](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e).
-- [SubQuery helps Khala Build their New ERC20 Chain Bridge](../customer_announcements/20211021-khala.md)
+- [SubQuery допомагає Khala створити новий міст ERC20](../customer_announcements/20211021-khala.md)
 
-If you would like to learn more you can view all projects easily via our Explorer here.
+Щоб дізнатися більше новин, ознайомтесь з усіма проектами через наш Explorer за цим посиланням.
 
-As always, please join our social channels to stay updated on our latest news and announcements. James, Sam, and the SubQuery Team
+Підписуйтесь на наші соціальні мережі, щоб залишатися в курсі останніх новин та анонсів. James, Sam, та команда SubQuery
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
