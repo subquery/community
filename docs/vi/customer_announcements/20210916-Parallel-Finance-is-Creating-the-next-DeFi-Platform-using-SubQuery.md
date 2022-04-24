@@ -6,7 +6,7 @@ Sứ mệnh của Parallel là đổi mới và đưa DeFi lên một tầm cao 
 
 ![](https://cdn-images-1.medium.com/max/1600/1*5Ru0mv1hq86BuBhGwsmoqQ.png)
 
-> *"SubQuery là một công cụ tuyệt vời mang công nghệ lập chỉ mục & và truy vấn truyền thống đến Parallel Heiko. Dịch vụ plug-and-play đã thực sự giúp chúng tôi tiết kiệm rất nhiều thời gian để phát triển công cụ lập chỉ mục khối dữ liệu và duy trì giải pháp của riêng mình."* -Parallel Finance*
+> *"SubQuery là một công cụ tuyệt vời mang công nghệ lập chỉ mục & và truy vấn truyền thống đến Parallel Heiko. The plug-and-play service really saved us a lot time developing our own block indexing tool and maintaining our own solution."* - Parallel Finance
 
 Dịch vụ của [SubQuery](https://subquery.network/) giúp Parallel Finance lưu trữ, phân tích và truy vấn dữ liệu trên mạng thử nghiệm Heiko hiện tại của họ. Một số dữ liệu này được sử dụng trực tiếp trong ứng dụng mới của Parallel, giúp người dùng hiểu và phân tích dữ liệu DeFi.
 
@@ -16,7 +16,7 @@ Sử dụng SubQuery, bạn có thể nhanh chóng truy vấn thông tin tài kh
 
 ![](https://cdn-images-1.medium.com/max/1600/1*FDRgez-G26x1DkWqCkORMQ.png)
 
-> *"Chúng tôi rất hứng thú khi làm việc với đội ngũ SubQuery và dịch vụ khách hàng 1-1 mà họ cung cấp cho chúng tôi. Chúng tôi có kế hoạch sử dụng dịch vụ này nhiều hơn khi triển khai thêm nhiều tính năng khác trong ứng dụng DeFi của mình."* -Parallel Finance*
+> *"Chúng tôi rất hứng thú khi làm việc với đội ngũ SubQuery và dịch vụ khách hàng 1-1 mà họ cung cấp cho chúng tôi. We plan to use it more as we introduce more features into our DeFi application."* - Parallel Finance
 
 Trong ví dụ bên dưới, chúng tôi đang sử dụng SubQuery để hiển thị tỷ giá hối đoái lịch sử cho tất cả các tài sản ở tất cả các khối dữ liệu.
 
@@ -26,7 +26,7 @@ Parallel Finance đang sử dụng [những dự án của SubQuery](https://pro
 
 [Bạn có thể khám phá dữ liệu của Parallel Finance trong SubQuery ngay hôm nay](https://explorer.subquery.network/subquery/parallel-finance/parallel-finance)
 
-* * * * *
+---
 
 ## Giới thiệu về Parallel Finance
 
