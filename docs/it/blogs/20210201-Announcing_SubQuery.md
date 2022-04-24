@@ -18,17 +18,17 @@ Poiché i sistemi decentralizzati archiviano i dati attraverso le reti, la consu
 
 L'obiettivo di SubQuery è rendere più semplice per i progetti Polkadot - Substrate creare dApp migliori consentendo a chiunque di trovare e consumare dati in modo rapido e affidabile. Il nostro servizio aiuterà gli utenti a estrarre, trasformare, conservare e consultare dati inizialmente, oltre a connettere e presentare i dati in futuro. Il nostro obiettivo è trasformarlo in un elemento centrale dell'infrastruttura per l'ecosistema Substrate - Polkadot, proprio come The Graph è diventato per Ethereum.
 
-**SubQuery is here to help you transform and query the world’s data for a web3.0 future.**
+**SubQuery è qui per aiutarti a trasformare e consultare i dati del mondo per il futuro con web3.0.**
 
 ![](https://miro.medium.com/max/1000/1*IHstJG-hBwQzicLdWkGR5w.png)
 
-For the Web 3.0 dream to be realised, it’s got to be as fast (if not faster) than centralised networks for the end user.
+Affinché il sogno di un Web 3.0 si avveri, deve essere altrettanto veloce (o più veloce) delle reti centralizzate di utenti finali.
 
-That’s why we’re incredibly proud to announce SubQuery, an open source project that allows users to run an indexer across their chain to build a dataset that can be queried with GraphQL. This suite of tools includes a command line interface to allow projects to generate their own SubQuery project, defining how the indexer should traverse and aggregate their own network. There’s a SubQuery node package that indexes the network and supports GraphQL queries. With the help of these tools, anyone can create and run queries easily.
+Questo è il motivo per cui siamo molto orgogliosi di annunciare SubQuery, un progetto open source che consente agli utenti di eseguire un indicizzatore sull'intera catena per creare un set di dati che può essere consultato con GraphQL. Il set di strumenti include un'interfaccia a riga di comando per consentire ai progetti di generare la propria sottoquery, definendo come l'indicizzatore deve attraversare e aggiungere la propria rete. Esiste un pacchetto di nodi SubQuery che indicizza la rete e supporta le consultazioni GraphQL. Con l'aiuto di questi strumenti, chiunque può facilmente creare ed eseguire consultazioni.
 
-**You can get started right away by following our example on the SubQuery Github repository: [_https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql)**
+**Puoi iniziare ora, seguendo il nostro esempio nel repository SubQuery Github:[_https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql)**
 
-Additionally, you can find out more by reading our [SubQuery docs](https://doc.subquery.network/) or visiting our new website at [https://subquery.network/](https://subquery.network/)
+Inoltre, puoi ottenere maggiori informazioni leggendo i nostri [ SubQuery Docs ](https://doc.subquery.network/) o visitando il nostro nuovo sito Web all'indirizzo [https://subquery.network/](https://subquery.network/)
 
 ![](https://miro.medium.com/max/1000/1*3oA1Hvns1vrImTsmowO_Jw.png)
 
