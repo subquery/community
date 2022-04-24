@@ -8,10 +8,9 @@
 
 ![](https://miro.medium.com/max/1200/1*snyFSjyQ9q116bmIcaVfsQ.gif)
 
-> _“_เอกสารอาจไม่ใช่งานที่หรูหรา แต่มีบทบาทสำคัญในการสื่อสารว่าบางสิ่งทำงานอย่างไร และช่วยให้เราเพิ่มพลังให้สมาชิกในชุมชนของเราเรียนรู้และปลดปล่อยความคิดสร้างสรรค์ของพวกเขา นั่นคือเหตุผลที่เราเชื่อว่าเอกสารมีความสำคัญมาก_” — Sean Au (SubQuery Academy)_
+> _"Documentation may not be glamorous work but it plays a vital role in communicating how something works and allows us to empower our community members to learn and unleash their creativity. That is why we believe documentation is so important"_ — Sean Au (SubQuery Academy)
 
 [เว็บไซต์เอกสารใหม่ของเรา](https://doc.subquery.network/) มีหน้า Landing Page ที่เชิญชวนซึ่งออกแบบมาเพื่อต้อนรับผู้ใช้ทุกคน โดยไม่จำเป็นต้องเข้าใจด้านเทคนิคของ blockchain หรือ Polkadot จากหน้า Landing Page ผู้ใช้สามารถเข้าสู่บทแนะนำการเริ่มต้นใช้งานโดยตรง หรือไปที่ความช่วยเหลือที่ต้องการ
-
 
 ![](https://miro.medium.com/max/1400/1*obZau98aya3Ohtc43DAuEw.png)
 
