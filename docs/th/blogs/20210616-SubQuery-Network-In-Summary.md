@@ -1,16 +1,16 @@
 # SubQuery Network - สรุป
 
-**SubQuery Network ทำงานอย่างไร? [อธิบายให้เข้าใจง่ายๆ](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)**
+**How does the SubQuery Network work? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)**
 
-วันนี้เราจะมาพูดถึงว่า SubQuery Network ทำงานอย่างไรในระดับสูง
+Today we’re going to talk about how the SubQuery Network works at a high level.
 
 ## ผู้มีส่วนร่วม
 
 ![](https://miro.medium.com/max/1400/1*9993cakplwupZC5tbUv3vA.png)
 
-ผู้มีส่วนร่วมใน SubQuery Network
+Participants in the SubQuery Network
 
-ผู้มีส่วนร่วมในเครือข่าย SubQuery Network มี 3 ส่วนคือ:
+There are three types of participants in the SubQuery Network:
 
 - **Consumer(ผู้ใช้ข้อมูล)**: Consumer จะสร้างคำขอสำหรับข้อมูลที่เฉพาะเจาะจงไปยัง SubQuery Network และจะจ่ายค่าข้อมูลนั้นๆด้วย SQT
 - **Indexer(ผู้สร้างดัชนี)**: Indexer จะโฮสต์ SubQuery บนโครงสร้างพื้นฐานของตนเอง, ดำเนินการทั้งโหนดและบริการ query เพื่อสร้างดัชนีข้อมูลและตอบคำขอของ GraphQL
@@ -18,56 +18,56 @@
 
 ## Indexers, Consumers, และ Queries
 
-เริ่มด้วย Indexer โดย Indexer เป็นผู้ที่ทำงานอย่างหนักอยู่ในเบื้องหลัง โดยต้องจัดการฮาร์ดแวร์, ดำเนินการโครงสร้างพื้นฐาน, คอยตรวจสอบแหล่งข้อมูล และเลือกโปรเจ็ค SubQuery ที่เหมาะสมเพื่อสร้าง index
+Let’s start with Indexers, Indexers do a lot of the hard work behind the scenes. The manage hardware, run infrastructure, monitor resources, and choose the right SubQuery projects to index
 
-สิ่งนี้ต้องใช้เวลาและเงิน แต่เมื่อมีสิ่งนี้แล้ว Consumer ก็จะเข้ามาและสร้างคำขอ Consumer จะสร้างคำขอสำหรับข้อมูลที่มีความเจาะจงไปยัง SubQuery Network และจะจ่ายค่าข้อมูลตามจำนวนเงินที่ประกาศไว้ด้วยโทเค็น SQT
+This takes time and money, but once they have this, Consumers may come and make requests. Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
 
 ![](https://miro.medium.com/max/1400/1*dKLkzSc2uXYaPW_IXUxstQ.png)
 
-Consumer จะสร้างคำขอสำหรับข้อมูลที่มีความเจาะจงไปยัง SubQuery Network และจะจ่ายค่าข้อมูลตามจำนวนเงินที่ประกาศไว้ด้วยโทเค็น SQT
+Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
 
 ## ฟังก์ชั่นการผลิตแบบ Cobb-Douglas
 
-การจ่ายเงินนี้จะเข้าไปที่ project revenue pool และเมื่อจบช่วงการ stake (28 วัน) เงินใน project revenue pool จะถูกแบ่ง โดยจะถูกแบ่งผ่านไปยัง Indexer ด้วยสิ่งที่เรียกว่า ฟังก์ชั่นการผลิตแบบ Cobb-Douglas
+This payment goes into a project revenue pool and at the end of a staking era (28 days) we take this project revenue pool and split it. It’s spit across indexers by something called the Cobb-Douglas production function.
 
 ![](https://miro.medium.com/max/1400/1*E-W7o7cWoclxHb8rXAMdpA.png)
 
-โดยจะถูกแบ่งผ่านไปยัง Indexer ด้วยสิ่งที่เรียกว่า ฟังก์ชั่นการผลิตแบบ Cobb-Douglas
+It’s spit across indexers by something called the Cobb-Douglas production function.
 
-อธิบายง่ายๆคือ รายได้จะถูกจัดสรรตามความสามารถในการแข่งขันของ Indexer ตามสัดส่วนคำขอที่เข้ามาและจำนวนโทเค็นที่ stake
+This approach, in simple terms, means that revenue is allocated to competing Indexers as a proportion of both requests answered and amount staked.
 
 ![](https://miro.medium.com/max/1400/1*VhDu2BGDxd3ob7z9XkoOXA.png)
 
-รายได้ถูกจัดสรรตามความสามารถในการแข่งขันของ Indexer ตามสัดส่วนคำขอที่เข้ามาและจำนวนโทเค็นที่ stake
+Revenue is allocated to competing Indexers as a proportion of both requests answered and amount staked.
 
-ในมุมมองของเรา ความสวยงามของสมการนี้คือ Indexter มีเหตุผลจะต้องประคองระดับการ stake โทเค็น SQT เมื่อเทียบกับงานที่พวกเขาทำ เพื่อการรับรายได้ที่เหมาะสมที่สุด ด้วยเหตุนี้ เราจึงไม่จำเป็นต้องมีการบังคับใช้ข้อกำหนดในการ stake เพราะว่า Indexer มีแรงจูงใจในการจัดการตัวเองและรักษาระดับการ stake หรือการมีส่วนร่วมในระบบ
+In our view, the beauty of this equation is that a rational Indexer must maintain a high level of staked SQT relative to the work they do in order to receive optimal revenue. As a result, we do not need to enforce arbitrary staking requirements because Indexers are incentivised to self-manage and maintain a stake or skin in the game.
 
 ## Delegator(ตัวแทน)
 
-เนื่องจาก Indexer มีแรงจูงใจทั้งในการทำงานให้ได้มากที่สุดและ stake ให้ได้เยอะที่สุด เพื่อเพิ่มผลตอบแทนสูงสุด นี่คือที่ๆ Delegator เข้ามามีส่วนร่วม
+So Indexers are incentivised to both do as much work as possible, and to stake as much as possible to maximise their rewards. This is where delegators come in.
 
-Delegator สามารถมอบสิทธิ์ SQT ให้กับ Indexer ซึ่ง Indexer แต่ละคนจะสามารถเผยแพร่ _อัตราส่วนแบ่งจากรายได้จากค่าธรรมเนียมการ query_ และตัวแทนเหล่านี้จะได้รางวัลที่เป็นส่วนหนึ่งของรายได้จากค่าธรรมเนียมการ query ที่ Indexer ได้รับ
+Delegators can delegate their spare SQT to Indexers, each Indexer can publish a _query fee revenue share rate_, and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in.
 
 ![](https://miro.medium.com/max/1400/1*YoN7PV7h3a2nAFN-ODqILg.png)
 
-Delegator สามารถมอบสิทธิ์ SQT ของพวกเขาที่เก็บไว้ ให้กับ Indexer และ Delegator เหล่านั้นจะได้รับรางวัลที่เป็นส่วนหนึ่งของรายได้จากค่าธรรมเนียมการ query ที่ Indexer ได้รับเข้ามา
+Delegators can delegate their spare SQT to Indexers and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in
 
-_อัตราส่วนแบ่งรายได้จากค่าธรรมเนียมการ query_ ที่ Indexer ประกาศจะถูกล็อคไว้ในแต่ละรอบเป็นเวลา 28 วัน และการลดลงต้องมีการประกาศตลอดช่วงการ stake 28 วัน ก่อนจะมีผลบังคับใช้
+The _query fee revenue share rate_ that indexers advertise is locked for each 28 day staking era, and a decrease to it must be advertised for an entire 28 day staking era before coming into force.
 
-ในทำนองเดียวกัน Delegator สามารถนำจำนวนสิทธิ์ที่พวกเขามอบให้ ออกมาเมื่อใดก็ได้ แต่พวกเขาจะได้รับรางวัลเมื่ออยู่จนจบช่วง stake เท่านั้น
+Similarly, delegators can remove their delegation amounts at any point, but they will only receive rewards when they have delegated for the entire staking era.
 
 ![](https://miro.medium.com/max/1400/0*we0k4A07pbj86COZ)
 
-Delegator จะได้รับรางวัลเมื่ออยู่จนจบช่วง stake เท่านั้น
+Delegators will only receive rewards when they have delegated for the entire staking era
 
 ## Purchase Orders(คำสั่งซื้อ)
 
-ในการทำโครงการ Index โครงการหนึ่ง ต้องใช้เวลาและเงิน และมันก็มีจำนวนข้อมูลมากมายบนเชน เพื่อเป็นการสนับสนุน Indexer ในการ index และสนับสนุนโครงการใหม่ๆของ SubQuery ทั้งหมด เราวางแผนที่จะใช้กลไกตลาดสำหรับ Consumer ในการส่งสัญญาณการการันตีรายได้ให้กับ Indexer สำหรับโครงการใหม่ของ SubQuery
+Indexing a project takes time and money, there’s a lot of data on the chain. In order to encourage Indexers to index and support an entirely new SubQuery Project, we plan to implement a market mechanism for Consumers to signal guaranteed revenue to Indexers of new SubQuery Projects.
 
-เรากำลังเรียกพวกเขาว่า purchase order และ Consumer สามารถประกาศสัญญาบนเชน เพื่อตั้งราคาและจำนวนของคำร้องขอ Indexer สามารถดูสิ่งนี้และเลือกทำสัญญาได้
+We’re calling them purchase orders, and Consumers can advertise a contract on chain for a set price and number of requests. Indexers can view this and choose to fill the contracts.
 
 ![](https://miro.medium.com/max/1400/1*IPtaZlt24E7h9bKNZWdSCw.png)
 
-Consumer สามารถประกาศ purchase order บนเชน เพื่อตั้งราคาและจำนวนของคำร้องขอ
+Consumers can advertise a purchase order on chain for a set price and number of requests.
 
-Purchase order ยังสามารถไปวางบนโครงการ Subquery ทีมีอยู่ เพื่อดึงดูด Indexer เพิ่มเติมเข้าไปแข่งขันเพื่อปรับปรุงการแข่งขึ้นและลดราคาลง
+Purchase orders can also be placed on existing SubQuery Projects to attract additional Indexers to improve competition and decrease prices
