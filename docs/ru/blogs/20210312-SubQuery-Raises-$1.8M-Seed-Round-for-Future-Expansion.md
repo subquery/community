@@ -12,7 +12,7 @@ OnFinality это команда за SubQuery, которые являются 
 
 > _“Hypersphere рада поддержать Сэма и команду SubQuery, так как они строят первый протокол индексации, который сосредоточен исключительно на экосистеме Polkadot._ — Джек Платс, соучредитель Hypersphere Ventures
 
-Под руководством Сэма Чжоу, генерального директора SubQuery, команда [получила грант от Фонда Web3](https://subquery.medium.com/subquery-delivers-its-open-source-sdk-following-a-web3-foundation-grant-20da26ae87f) в декабре 2020 года на строительство первой фазы SubQuery, проект с открытым исходным кодом, который позволяет пользователям запускать индексатор по цепочке для построения набора данных, который может быть запрошен с помощью GraphQL.
+Led by Sam Zou, CEO of SubQuery, the team [received a grant from the Web3 foundation](./20210207-SubQuery-Delivers-Its-Open-Source-SDK-Following-a-Web3-Foundation-Grant.md) in December 2020 to build the initial phase of SubQuery, an open source project that allows users to run an indexer across their chain to build a dataset that can be queried with GraphQL.
 
 ![](https://miro.medium.com/max/1000/0*kjspGYRr_BtMk015)
 
@@ -20,15 +20,15 @@ OnFinality это команда за SubQuery, которые являются 
 
 Это начальное повышение будет способствовать развитию SubQuery и ускорению предоставления критических данных сообществу Polkadot/Substrate. Сюда входит создание бесплатного публичного сервиса для размещения и управления проектами сообщества SubQuery, создание комьюнити вокруг обмена данными и знаниями, а также последующая токенизация нашего проекта.
 
--   Попробуйте его в[SubQuery Explorer](https://explorer.subquery.network/)
--   Подробнее о [SubQuery docs](https://doc.subquery.network/)
--   Посетите наш [сайт](https://subquery.network/)
+- Попробуйте его в[SubQuery Explorer](https://explorer.subquery.network/)
+- Подробнее о [SubQuery docs](https://doc.subquery.network/)
+- Посетите наш [сайт](https://subquery.network/)
 
 **Свяжитесь с нами:**
 
--   [hello@subquery.network](mailto:hello@subquery.network)
--   [Discord](https://discord.com/invite/78zg8aBSMG)
--   [Telegram](https://t.me/subquerynetwork)
--   [Twitter](https://twitter.com/subquerynetwork)
--   [Matrix](https://matrix.to/#/#subquery:matrix.org)
--   [LinkedIn](https://www.linkedin.com/company/subquery)
+- [hello@subquery.network](mailto:hello@subquery.network)
+- [Discord](https://discord.com/invite/78zg8aBSMG)
+- [Telegram](https://t.me/subquerynetwork)
+- [Twitter](https://twitter.com/subquerynetwork)
+- [Matrix](https://matrix.to/#/#subquery:matrix.org)
+- [LinkedIn](https://www.linkedin.com/company/subquery)
