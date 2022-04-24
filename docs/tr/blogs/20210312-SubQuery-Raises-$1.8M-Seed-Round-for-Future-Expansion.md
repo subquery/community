@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/0*CrM8-LKRt3slWAsN)
 
-Merkezi olmayan verilerin sorgulanmasını kolaylaştıran hizmet olan SubQuery, bugün, başta DeFi Alliance, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG)** ve* * Lao** tarafından desteklenen 1,8 milyon ABD Doları tutarında bir başlangıç turunu ve özel satışı başarıyla artırdığını duyurdu. SubQuery'nin başlangıç ​​turunu desteklemek için aldığımız yoğun talep, altyapı hizmetlerine olan güçlü ilgiyi ve Polkadot ekosisteminin geleceğine olan inancı gösteriyor.**
+**SubQuery, the service making decentralised data easier to query, announced today that it has successfully raised a US$1.8 million seed round and private sale backed primarily by [DeFi Alliance](https://defialliance.co/), [D1 Ventures](https://d1.ventures/), [Hypersphere Ventures](https://hypersphere.ventures/), [Digital Finance Group (DFG)](https://www.dfg.group/), and [The Lao](https://www.thelao.io/). The overwhelming demand we received to back SubQuery’s seed round shows the strong interest in infrastructure services and belief in the future of the Polkadot ecosystem.**
 
 SubQuery, her Substrate/Polkadot ekibinin verilerini işlemesine ve sorgulamasına olanak tanır. Proje, uygulama katmanına hizmet eden veri protokollerinin büyümesinden ilham alıyor ve amacı, Polkadot/Substrate projelerinin, herkesin verileri güvenilir bir şekilde daha hızlı bulmasını ve tüketmesini sağlayarak daha iyi dApp'ler oluşturmasına yardımcı olmaktır. Bugün herkes Polkadot ağ verilerini sadece birkaç dakika içinde ve hiçbir ücret ödemeden sorgulayabilir ve ayıklayabilir.
 
