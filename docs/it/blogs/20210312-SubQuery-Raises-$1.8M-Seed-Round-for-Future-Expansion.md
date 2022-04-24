@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/0*CrM8-LKRt3slWAsN)
 
-**SubQuery, il servizio che semplifica l'interrogazione dei dati decentralizzati, ha annunciato oggi di aver raccolto con successo un seed round di $ 1,8 milioni e una vendita privata sostenuta principalmente da** [**DeFi Alliance**](https://defialliance.co/)**, ** [**D1 Ventures**](https://d1.ventures/)**,** [**Hypersphere Ventures**](https://hypersphere.ventures/)**,** [**Digital Finance Group (DFG)**](https://www.dfg.group/)** e** [**Il Laos**](https://www.thelao.io/)**. L'enorme richiesta che abbiamo ricevuto per sostenere il seed round di SubQuery mostra il forte interesse per i servizi infrastrutturali e la fiducia nel futuro dell'ecosistema Polkadot.**
+**SubQuery, the service making decentralised data easier to query, announced today that it has successfully raised a US$1.8 million seed round and private sale backed primarily by [DeFi Alliance](https://defialliance.co/), [D1 Ventures](https://d1.ventures/), [Hypersphere Ventures](https://hypersphere.ventures/), [Digital Finance Group (DFG)](https://www.dfg.group/), and [The Lao](https://www.thelao.io/). The overwhelming demand we received to back SubQuery’s seed round shows the strong interest in infrastructure services and belief in the future of the Polkadot ecosystem.**
 
 SubQuery consente a ogni team Substrate/Polkadot di elaborare e interrogare i propri dati. Il progetto si ispira alla crescita dei protocolli di dati che servono il livello dell'applicazione e il suo scopo è aiutare i progetti Polkadot/Substrate a creare dApp migliori consentendo a chiunque di trovare e consumare dati in modo affidabile più velocemente. Oggi chiunque può interrogare ed estrarre i dati dalla rete Polkadot in pochi minuti e senza alcun costo.
 
