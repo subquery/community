@@ -6,19 +6,19 @@ Chào mừng bạn đến với bản cập nhật hàng tháng mới nhất t�
 
 Trong bản cập nhật tháng này:
 
--   Giới thiệu đại sứ 👩‍💼
--   Bắt đầu công việc trên mạng lưới của SubQuery 🏗
--   Cộng đồng tăng trưởng mạnh 🚀
--   Những dự án mới trên SubQuery 🤝
--   AMA với DotMarketCap 🎙
--   Hoạt động ở Trung Quốc 🇨🇳
--   Đánh dấu cột mốc thứ 2 của API chung Polkadot ✅
+- Giới thiệu đại sứ 👩‍💼
+- Bắt đầu công việc trên mạng lưới của SubQuery 🏗
+- Cộng đồng tăng trưởng mạnh 🚀
+- Những dự án mới trên SubQuery 🤝
+- AMA với DotMarketCap 🎙
+- Hoạt động ở Trung Quốc 🇨🇳
+- Đánh dấu cột mốc thứ 2 của API chung Polkadot ✅
 
 ## Giới thiệu đại sứ 👩‍💼
 
 ![](https://miro.medium.com/max/1400/0*_nOcsPjhQxta_FPH)
 
-Sau khi [khởi động chương trình Đại sứ của chúng tôi](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) vào tháng trước, chúng tôi đã rất ngạc nhiên bởi sự hào hứng trong cộng đồng và chất lượng của những người tham gia. Cho đến nay, chúng tôi nhận được gần 2.000 đơn đăng ký ở hầu hết các châu lục (chúng tôi đang kêu gọi các đơn đăng ký từ Nam Cực ☃️) và cho đến nay đã có hơn 30 người tham gia.
+After [launching our Ambassador program](../blogs/20210713-Introducing-the-SubQuery-Ambassador-Program.md) last month, we have been amazed by the excitement in the community and quality of the participants. Cho đến nay, chúng tôi nhận được gần 2.000 đơn đăng ký ở hầu hết các châu lục (chúng tôi đang kêu gọi các đơn đăng ký từ Nam Cực ☃️) và cho đến nay đã có hơn 30 người tham gia.
 
 Tre đã rất xuất sắc trong việc dẫn dắt sự khởi đầu này và [tương tác với cộng đồng trên Discord](https://discord.com/invite/78zg8aBSMG). Vì chúng tôi đã thấy được lợi ích của việc có mối quan hệ chặt chẽ hơn với những người ủng hộ SubQuery, chúng tôi sẽ mở rộng nhóm trong vài tuần tới, vì vậy hãy kiên nhẫn nếu bạn chưa nhận được phản hồi từ chúng tôi!
 
@@ -32,7 +32,7 @@ Rob đã gia nhập đội ngũ của chúng tôi với tư cách là Trưởng 
 
 ## Bắt đầu công việc trên Mạng lưới của SubQuery 🏗
 
-Đúng vậy! Việc [chuyển Subquery sang một mạng lưới phi tập trung được mã hóa](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010) đã thực sự bắt đầu! Việc di chuyển này sẽ đảm bảo rằng không có điểm thất bại nào đối với SubQuery và khuyến khích người tham gia thông qua mã thông báo SQT. Để giúp chúng tôi thực hiện thay đổi quan trọng này, chúng tôi đã tuyển dụng các nhà phát triển mới tham gia cùng chúng tôi trong tháng này.
+Đúng vậy! The work on [moving SubQuery towards a decentralised and tokenised network](../blogs/20210614-Introducing-SubQuery-Network-The-Next-Big-Step-Towards-our-Decentralised-Future.md); the SubQuery Network, has begun! Việc di chuyển này sẽ đảm bảo rằng không có điểm thất bại nào đối với SubQuery và khuyến khích người tham gia thông qua mã thông báo SQT. Để giúp chúng tôi thực hiện thay đổi quan trọng này, chúng tôi đã tuyển dụng các nhà phát triển mới tham gia cùng chúng tôi trong tháng này.
 
 ## Dự án mới trên SubQuery 🤝
 
@@ -40,17 +40,17 @@ Rob đã gia nhập đội ngũ của chúng tôi với tư cách là Trưởng 
 
 Vào tháng 8, chúng tôi đã khởi chạy một số dự án mới trên SubQuery bao gồm những dự án có Subscan, Karura, Subscan, Polkaswap và Soramitsu.
 
-Với Karura, [SubQuery được sử dụng để trích xuất và truy vấn dữ liệu từ chuỗi](https://subquery.medium.com/karura-integrates-with-subquery-to-aggregate-and-serve-defi-data-to-kusama-builders-d34f0e722311?source=your_stories_page-------------------------------------), giúp cho việc truy vấn trở nên nhanh chóng và hiệu quả với [ứng dụng của Karura's](https://apps.karura.network/).
+For Karura, [SubQuery is being used to extract and query data from Karura's chain](../customer_announcements/20210819-Karura-Integrates-with-SubQuery-to-Aggregate-and-Serve-DeFi-Data-to-Kusama-Builders.md), making queries fast and efficient for [Karura's app](https://apps.karura.network/).
 
-Dịch vụ của Subquery đóng một vai trò quan trọng trong [Subscan](https://www.subscan.io/) qua việc [cung cấp dữ liệu nhanh chóng về các giao dịch](https://subquery.medium.com/subscans-multi-signature-tool-powered-by-subquery-926da3e4fc25?source=your_stories_page-------------------------------------) cho bất kỳ địa chỉ đa chữ ký nào, nhờ đó giúp cải thiện UX và cho phép các tính năng cao cấp hơn.
+SubQuery's service is playing a key role in [Subscan](https://www.subscan.io/) by [providing fast data on transactions](../customer_announcements/20210901-Subscans-Multi-Signature-Tool.md) for any given multi signature address, thereby improving the UX and allowing for more advanced features.
 
-[SORA](https://sora.org/) đã xây dựng một [Dự án SubQuery lấy dữ liệu từ mạng lưới SORA](https://subquery.medium.com/sora-integrates-subquery-to-provide-data-to-the-sora-network-5a73f77a40aa?source=your_stories_page-------------------------------------) để cung cấp cho các ứng dụng di dộng được xây dựng trên SORA và [Polkaswap.io](http://polkaswap.io/). Bạn có thể đọc thêm ở đây
+[SORA](https://sora.org/) has built a [SubQuery Project that retrieves data from the SORA network](../customer_announcements/20210825-SORA-Integrates-SubQuery-to-Provide-Data-to-the-SORA-Network.md) to power mobile applications built on SORA and [Polkaswap.io](http://polkaswap.io/). Bạn có thể đọc thêm ở đây
 
 Trong cả hai trường hợp, chúng tôi rất biết ơn khi nhận được những phản hồi tuyệt vời như thế này từ các đối tác của mình:
 
 *"Sử dụng SubQuery giúp việc tạo dapp trở nên dễ dàng, không còn phải thực hiện một loạt lệnh gọi phức tạp để lấy dữ liệu tôi cần."* - Brett (Nhà phát triển tại Acala)
 
-*"SubQuery là giải pháp lý tưởng cho nhu cầu của chúng tôi vì ứng dụng dễ triển khai và quản lý, dễ học và phát triển cũng như được ghi chép đầy đủ và nó cũng có cơ sở hạ tầng riêng với tích hợp Github"* - Nhóm phát triển SORA
+_"SubQuery has been the ideal solution for our needs because the application is easy to deploy and manage, it is easy to learn and develop as well as being well documented, and it also has its own infrastructure with Github integration"_ - SORA Development Team
 
 [ Bạn có thể xem tất cả các dự án một cách dễ dàng thông qua Trình khám phá của chúng tôi tại đây ](https://explorer.subquery.network/).
 
@@ -74,7 +74,7 @@ Chúng tôi vui mừng đạt được tiến bộ trong việc [phát triển A
 
 Sắp hoàn thành cột mốc thứ hai trong dự án này có nghĩa là sẽ sớm có một giao diện API dữ liệu cốt lõi chung được xác định cho Polkadot, Kusama và các parachains khác. Điều này sẽ thu hút nhiều nhà phát triển hơn đến với hệ sinh thái. Làm cho sự phát triển trở nên trực quan và dễ dàng nhất có thể là một trong những mục tiêu chính của chúng tôi!
 
-*****
+---
 
 Như mọi khi, hãy tham gia các mạng xã hội của chúng tôi để được cập nhật tin tức và thông báo mới nhất.
 
