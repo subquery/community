@@ -16,24 +16,24 @@ SubQuery already makes developing the SORA mobile app and Polkaswap easier by re
 
 ![sora-explorer.jpg](https://miro.medium.com/max/1400/1*vjdjmmffvJ7zfOQyxo0ZAA.jpeg)
 
-In this example, we’re using SubQuery to pull the total amount of XOR that is held in each liquidity pool (filtered to show only the first 2 pools). This example also shows the current APY associated to each liquidity pool (filtered to show only the first 2 pools).
+In questo esempio, utilizziamo SubQuery per estrarre l'importo totale di XOR detenuto in ciascun pool di liquidità (filtrato per mostrare solo i primi 2 pool). Questo esempio mostra anche l'APY corrente associato a ciascun pool di liquidità (filtrato per mostrare solo i primi 2 pool).
 
 ![sora-playground.jpg](https://miro.medium.com/max/1400/1*oTh-ajGfG1oEhYdvqo12tQ.jpeg)
 
-SORA is using [SubQuery Projects](https://project.subquery.network/) to manage their project and make updates as required. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/).
+SORA utilizza [SubQuery Projects](https://project.subquery.network/) per gestire il proprio progetto e apportare gli aggiornamenti necessari. I servizi di indicizzazione e query che forniamo sono completamente gestiti da SubQuery e forniti gratuitamente alla community di Polkadot in [SubQuery's Explorer](https://explorer.subquery.network/).
 
-Explore SORA's project in the SubQuery explorer [here](https://explorer.subquery.network/subquery/sora-xor/sora).
+Esplora il progetto di SORA in SubQuery explorer [here](https://explorer.subquery.network/subquery/sora-xor/sora).
 
 ## About SORA
 
-SORA is creating a supranational world economic system with built-in tools for decentralized finance (DeFi) under the cryptographic sortition-based democratic supervision of the SORA Parliament.
+SORA sta creando un sistema economico mondiale sovranazionale con strumenti integrati per la finanza decentralizzata (DeFi) sotto la supervisione democratica basata sull'ordinamento crittografico del Parlamento SORA.
 
-The SORA network excels at providing tools for decentralized applications that use digital assets, such as atomic token swaps, bridging tokens to other blockchains, and creating programmatic rules involving digital assets.
+La rete SORA eccelle nel fornire strumenti per applicazioni decentralizzate che utilizzano risorse digitali, come scambi di token atomici, bridging di token ad altre blockchain e creazione di regole programmatiche che coinvolgono risorse digitali.
 
 [Website](https://sora.org/) | [Reddit](https://www.reddit.com/r/SORA/) | [Blog](https://sora.org/blog) | [Telegram](https://t.me/sora_xor) | [Twitter](https://twitter.com/sora_xor) | [YouTube](https://youtube.com/sora_xor) | [Instagram](https://instagram.com/sora_xor)
 
 ## About SubQuery
 
-[SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications (DApps). Currently focused on Polkadot and Substrate projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+[SubQuery](https://subquery.network/) è un'aggregazione di dati decentralizzata, indicizzazione e & livello di query tra blockchain di livello 1 e applicazioni decentralizzate (DApp). Attualmente focalizzato su progetti Polkadot e Substrate, questo data-as-a-service consente agli sviluppatori di concentrarsi sul loro caso d'uso principale e sul front-end, senza dover perdere tempo a creare un back-end personalizzato per l'elaborazione dei dati.
 
 [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Email](mailto:hello@subquery.network)
