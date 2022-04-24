@@ -16,19 +16,19 @@
 
 Кандидатите, които се интересуват от някоя от тези награди, се насърчават да изпратят своето предложение с бюджета, необходим за изпълнение на задачата и други изисквания [тук](https://docs.google.com/forms/d/e/1FAIpQLSfmMazkebKwNTWThBkVGaxf2Bg8s4aWZ0ZhwiMCtc9kv4sJHQ/viewform). Освен това очакваме с нетърпение да обявим първия кръг на получателите на SubQuery през февруари.
 
-[Прочетете повече тук](https://subquery.medium.com/subquery-partners-with-leading-polkadot-teams-on-technical-bounties-via-the-subquery-grants-d40453788435)
+[Прочетете повече тук](../blogs/20220127-grants-bounties.md)
 
 ### SubQuery празнува победителите в Gitcoin GR 12 Hackathon
 
-[SubQuery си партнира с Gitcoin през декември](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a), за да спонсорира пет предизвикателства на стойност $37 000 (най-големият награден фонд в предизвикателството), като кани разработчиците да изградят полезни инструменти, табла за управление и дори да разширят SubQuery до друг слой-1 блокчейн.
+[SubQuery partnered with Gitcoin in December](../blogs/20211120-gitcoin12-hackathon.md) to sponsor five challenges to a value of USD$37,000 (the largest prize pool in the challenge), inviting developers to build useful tools, dashboards and even extend SubQuery to another Layer-1 blockchain.
 
 ![](https://miro.medium.com/max/1400/1*BUq3ah1ULNnvLjqxv_vzlQ.png)
 
 [Sam Zou](https://twitter.com/zoujialiu), главен изпълнителен директор и основател на SubQuery коментира: „_SubQuery е възхитен от резултатите от Gitcoin GR12 Hackathon. Нашата мисия разчита на наличието на мрежа от разработчици, които са овластени да създават и иновират в рамките на екосистемата Substrate/Polkadot. Това партньорство предостави възможности за мотивирани разработчици по целия свят да създават приложения на утрешния ден. Ние сме развълнувани да подхранваме победителите в предизвикателствата, за да развият идеите си още повече_”
 
-Наскоро разгледахме многото победители, които участваха в този хакатон, и невероятните проекти, които са изградили в [този подробен текст](https://subquery.medium.com/subquery-celebrates-winners-of-gitcoin-gr-12-hackathon-7486afaeab29). Бяхме възхитени от качеството и напредъка, постигнат от подадените документи за толкова кратко време и имаме удоволствието да поканим много от подадените документи да участват в нашата програма за безвъзмездни средства.
+Recently we’ve covered the many winners that participated in this hackathon and the amazing projects that they have built in [this detailed writeup](../blogs/20220120-gr12-winners.md). Бяхме възхитени от качеството и напредъка, постигнат от подадените документи за толкова кратко време и имаме удоволствието да поканим много от подадените документи да участват в нашата програма за безвъзмездни средства.
 
-[Прочетете повече тук](https://subquery.medium.com/subquery-celebrates-winners-of-gitcoin-gr-12-hackathon-7486afaeab29)
+[Прочетете повече тук](../blogs/20220120-gr12-winners.md)
 
 ### Курс за герои в Китай
 
@@ -58,53 +58,53 @@ SubQuery е роден за Polkadot, това е нашият дом и ние 
 
 ### Регистър с темплейти на SubQuery
 
-> 29 блокчейн мрежи се поддържат от нашите темплейти
+**29 networks are covered by templates**
 
-Командата `subql init` е позната за всеки, който е изграждал SubQuery проект; тя представлява празно платно — неограничени възможности. Ние сме наясно, че можем да се справим по добре, за да помогнем на другите да започнат, вместо празно платно, разработчиците искат празно скеле, където целият стандартен код вече е написан.
+The `subql init` command is a familiar one for anyone that has built a SubQuery project; it represents a blank canvas — limitless opportunities. We are aware that we can do better to help others get started, rather than a blank canvas developers want a blank scaffold, where all the boiler-plate code is already written.
 
-Днес, когато пишете `subql init`, ви се представя списък от 29 мрежи, от които получавате предварително създадено скеле с всички правилни ендпойнт, връзки към речник и дори дефиниции на типове. Това елиминира една от най-трудните стъпки при стартиране на нов проект на SubQuery и прави изграждането на следващото ви голямо dApp много по-лесно и по-бързо.
+Today when you write `subql init`, you are presented with a list of 29 networks from which you are provided a pre-created scaffold with all the correct endpoints, dictionary links, and even type definitions. This eliminates one of the most difficult steps when starting a new SubQuery project and makes building your next big dApp that much easier and faster.
 
 ### Функции за агрегиране на данни
 
-SubQuery вече поддържа разширени GraphQL агрегатни функции, за да ви позволи да извършвате изчисление на набор от стойности по време на вашата заявка. Тези функции предоставят на нашите клиенти по-богат набор от прозрения и изчисления от съществуващия им набор от данни. Например с една заявка можете да изчислите средната сума на приноса за всеки краудлоун, разбита по дата на приноса.
+SubQuery now supports advanced GraphQL aggregate functions to allow you to perform a calculation on a set of values during your query. These functions provide our customers a richer set of insights and calculations from their existing data set. For example with a single query you can calculate the median contribution amount for each crowdloan broken down by contribution date.
 
-[Прочетете повече за това как да използвате тези функции в нашите надстроени документи.](https://doc.subquery.network/query/aggregate/)
+[Read more about how to use these features in our upgraded docs.](https://doc.subquery.network/query/aggregate/)
 
 ### SubQuery си партнира с Darwinia Network, за да изгради CLI инструмента на SubQuery
 
-Darwinia си партнира с SubQuery, за да изгради множество приложения, които ще са необходими, за да осигурят най-доброто потребителско кросчейн изживяване. Това включва ново [Умно приложение, което е централен хъб](https://apps.darwinia.network/) за управление на всички взаимодействия в мрежата на Darwinia, включително управление, залагане, проучване на веригата и други. Това приложение използва значително количество [данни от SubQuery, за да покаже исторически данни и действия](https://explorer.subquery.network/subquery/darwinia-network/smart-app-crab). SubQuery ще работи в тясно сътрудничество с екипа на Darwinia, за да направи това най-доброто изживяване в цялата екосистема на Polkadot.
+Darwinia has partnered with SubQuery to build the plethora of applications that will be needed to provide the ultimate user experience for cross chain interactions. This includes a new [Smart App that is a central hub](https://apps.darwinia.network/) to manage all Darwinia network interactions including governance, staking, chain exploration and more. This app uses a considerable amount of [SubQuery data to show historic data and actions](https://explorer.subquery.network/subquery/darwinia-network/smart-app-crab). SubQuery will be working closely with the team at Darwinia to make this the best experience in the entire Polkadot ecosystem.
 
 ![](https://miro.medium.com/max/1200/1*bL2Csj9qyamD7txAheCTIg.gif)
 
-Darwinia също работи в тясно сътрудничество с екипа на SubQuery за [изграждането на CLI инструмент](https://github.com/fewensa/subquery-cli) за управляваната услуга SubQuery (https://project.subquery.network). Можете да използвате този [CLI](https://github.com/fewensa/subquery-cli), за да създадете проект на SubQuery и автоматично да внедрите нова версия или в началния, или в производствения слот. Освен това можете да извлечете информация, включително подробното състояние на синхронизиране и регистрационните файлове от вашия работещ проект, който се хоства безплатно в SubQuery Projects. [Прочетете още тук](https://subquery.medium.com/subquery-partners-with-darwinia-network-to-build-subquerys-cli-tool-903dc4c9ef66)
+Darwinia have also been working closely with the SubQuery team to [build a CLI tool](https://github.com/fewensa/subquery-cli) for the SubQuery managed service (https://project.subquery.network). You can use this [CLI](https://github.com/fewensa/subquery-cli) to create a SubQuery project and automatically deploy a new version to either the staging or production slot. Additionally you can retrieve information including the detailed syncing status and logs from your running project that is hosted for free in SubQuery Projects. [Read more here](../customer_announcements/20220125-subquery-partners-with-darwinia-network-to-build-subquerys-cli-tool.md)
 
 ## Мрежата на SubQuery
 
-Последното обаждане в общността разгледахме няколко важни подробности за предстоящата тестова мрежа на SubQuery. Той ще се провежда през поне три сезона, всеки сезон ще тества различни аспекти на мрежата:
+Last community call we walked through a few important details of the upcoming SubQuery test network. It will be run over at least three seasons, each season will test different aspects of the network:
 
 - Сезон 1: Ранен етап на алфа тестване на ограничен брой функции с избрани няколко участници
 - Сезон 2: Голямо бета тестване на повече функции със стотици участници
 - Сезон 3: Пълна публична тестова мрежа за тестване на натоварване и мащаб с хиляди участници
 
-Всеки сезон ще има множество предизвикателства, които можете да завършите, което може да доведе до истински SQT награди. Очаквайте нещата да започнат тук през март!
+Each season will have multiple challenges that you can complete which may result in real SQT rewards. Expect things to kickoff here in March!
 
 ## Роудмап ъпдейт
 
-Миналия октомври пуснахме [техническа пътна карта](https://blog.subquery.network/blogs/20211029-roadmap-october.html) със следващата година, начертана за SubQuery, ние сме закъснели да разгледаме как точно се справяме тук.
+Last October we released out [technical roadmap](https://blog.subquery.network/blogs/20211029-roadmap-october.html) with the next year mapped out for SubQuery, we’re overdue to address exactly how we’re doing here.
 
 ![](https://miro.medium.com/max/1400/1*2a3SGrW-OG5pbw67jsavvw.jpeg)
 
-Както можете да видите в оригиналната пътна карта по-горе, ние завършихме всички етапи 0 и 1 и постигаме добър напредък по етап 2. Дори предоставихме някои функции, свързани с нашата хоствана услуга, много по-рано от очакваното поради огромния мащаб от заявки, които в момента отиват до [нашите корпоративни клиенти](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html).
+As you can see in the original roadmap above, we’ve completed all of Milestone 0 and 1, and are making good progress on Milestone 2. We’ve even delivered some features relevant to our hosted service much earlier than expected due to the huge scale of requests currently going to [our enterprise customers](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html).
 
 ## Други неща, които може да сте пропуснали
 
 - Ще имаме седмично работно време на нашия Discord Server! Присъединете се към „Службовото време“ на SubQuery в нашия канал за сцени, където можете да наваксате с информация от екипа в непринудена среда.
 - Имахме руски QnA с James & Dmytro в Discord, където всички въпроси бяха зададени и отговорени на руски. Кажете ни кой език бихте искали да чуете следващия
 
-П.П.
+P.S.
 
-Не забравяйте да се присъедините към нашите [Discord](https://discord.com/invite/subquery) и нашите [социални канали](https://linktr.ee/subquerynetwork), за да сте в течение с последните новини и съобщения.
+Remember to join our [Discord](https://discord.com/invite/subquery) and our [social channels](https://linktr.ee/subquerynetwork) to stay updated on our latest news and announcements.
 
-Екипът на SubQuery
+The SubQuery Team
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Email](hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Youtube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
