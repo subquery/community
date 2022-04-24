@@ -1,16 +1,16 @@
 # SubQuery Network - Rangkuman
 
-**Bagaimana cara kerja SubQuery Network? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)**
+**How does the SubQuery Network work? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)**
 
-Hari ini kita akan berbicara tentang bagaimana SubQuery Network bekerja pada tingkat tinggi.
+Today we’re going to talk about how the SubQuery Network works at a high level.
 
 ## Peserta
 
 ![](https://miro.medium.com/max/1400/1*9993cakplwupZC5tbUv3vA.png)
 
-Peserta dalam SubQuery Network
+Participants in the SubQuery Network
 
-Ada tiga jenis peserta di SubQuery Network:
+There are three types of participants in the SubQuery Network:
 
 - **Konsumen**: Konsumen akan membuat permintaan ke SubQuery Network untuk data tertentu dan membayar sejumlah SQT yang diiklankan
 - **Pengindeks**: Pengindeks akan meng-host Proyek SubQuery di infrastruktur mereka sendiri, menjalankan node dan layanan kueri untuk mengindeks data dan menjawab permintaan GraphQL.
@@ -18,56 +18,56 @@ Ada tiga jenis peserta di SubQuery Network:
 
 ## Pengindeks, Konsumen, dan Kueri
 
-Mari kita mulai dengan Pengindeks, Pengindeks melakukan banyak kerja keras di belakang layar. Mereka mengelola perangkat keras, menjalankan infrastruktur, memantau sumber daya, dan memilih proyek SubQuery yang tepat untuk diindeks
+Let’s start with Indexers, Indexers do a lot of the hard work behind the scenes. The manage hardware, run infrastructure, monitor resources, and choose the right SubQuery projects to index
 
-Ini tentu membutuhkan waktu dan uang, tetapi begitu mereka memilikinya, Konsumen akan datang dan mengajukan permintaan. Konsumen akan membuat permintaan ke SubQuery network untuk data tertentu dan membayar sejumlah token kami yang diiklankan, SQT.
+This takes time and money, but once they have this, Consumers may come and make requests. Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
 
 ![](https://miro.medium.com/max/1400/1*dKLkzSc2uXYaPW_IXUxstQ.png)
 
-Konsumen akan membuat permintaan ke SubQuery network untuk data tertentu dan membayar sejumlah token kami yang diiklankan, SQT.
+Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
 
 ## Fungsi Produksi Cobb-Douglas
 
-Pembayaran ini masuk ke revenue pool proyek dan pada akhir era staking (28 hari) kami mengambil revenue pool proyek ini dan membaginya. Ini dibagi di seluruh pengindeks oleh sesuatu yang disebut fungsi produksi Cobb-Douglas.
+This payment goes into a project revenue pool and at the end of a staking era (28 days) we take this project revenue pool and split it. It’s spit across indexers by something called the Cobb-Douglas production function.
 
 ![](https://miro.medium.com/max/1400/1*E-W7o7cWoclxHb8rXAMdpA.png)
 
-Ini dibagi di seluruh pengindeks oleh sesuatu yang disebut fungsi produksi Cobb-Douglas.
+It’s spit across indexers by something called the Cobb-Douglas production function.
 
-Pendekatan ini, secara sederhana, berarti bahwa pendapatan dialokasikan untuk para Pengindeks yang bersaing sebagai proporsi dari permintaan yang dijawab dan jumlah yang distake.
+This approach, in simple terms, means that revenue is allocated to competing Indexers as a proportion of both requests answered and amount staked.
 
 ![](https://miro.medium.com/max/1400/1*VhDu2BGDxd3ob7z9XkoOXA.png)
 
-Pendapatan dialokasikan untuk para Pengindeks yang bersaing sebagai proporsi dari permintaan yang dijawab dan jumlah yang distake.
+Revenue is allocated to competing Indexers as a proportion of both requests answered and amount staked.
 
-Dalam pandangan kami, hal yang menarik dari persamaan ini adalah bahwa Pengindeks yang rasional harus mempertahankan tingkat SQT yang distake relatif terhadap pekerjaan yang mereka lakukan untuk menerima pendapatan yang optimal. Hasilnya, kita tidak perlu memaksakan persyaratan staking yang sewenang-wenang karena Pengindeks diberi insentif untuk mengelola sendiri dan mempertahankan stake or skin dalam permainan.
+In our view, the beauty of this equation is that a rational Indexer must maintain a high level of staked SQT relative to the work they do in order to receive optimal revenue. As a result, we do not need to enforce arbitrary staking requirements because Indexers are incentivised to self-manage and maintain a stake or skin in the game.
 
-## Delegators
+## Delegator
 
-Jadi Pengindeks diberi insentif untuk melakukan pekerjaan sebanyak mungkin, dan juga melakukan staking sebanyak mungkin untuk memaksimalkan reward mereka. Di sinilah para delegator berperan.
+So Indexers are incentivised to both do as much work as possible, and to stake as much as possible to maximise their rewards. This is where delegators come in.
 
-Delegator dapat mendelegasikan SQT mereka ke Pengindeks, setiap Pengindeks dapat menerbitkan _tingkat bagi hasil biaya kueri_, dan para delegator tersebut akan diberi reward dengan sebagian dari pendapatan biaya kueri yang diberikan kepada pengindeks.
+Delegators can delegate their spare SQT to Indexers, each Indexer can publish a _query fee revenue share rate_, and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in.
 
 ![](https://miro.medium.com/max/1400/1*YoN7PV7h3a2nAFN-ODqILg.png)
 
-Delegator dapat mendelegasikan SQT mereka ke Pengindeks dan para delegator tersebut akan diberi reward dengan sebagian dari pendapatan biaya kueri yang diberikan kepada pengindeks
+Delegators can delegate their spare SQT to Indexers and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in
 
-_Tingkat bagi hasil biaya kueri_ yang diiklankan oleh pengindeks dilock untuk setiap era staking selama 28 hari, dan pengurangan yang dilakukan harus diiklankan untuk seluruh era staking 28 hari sebelum berlaku.
+The _query fee revenue share rate_ that indexers advertise is locked for each 28 day staking era, and a decrease to it must be advertised for an entire 28 day staking era before coming into force.
 
-Demikian pula, delegator dapat mencabut jumlah delegasi mereka kapan saja, tetapi mereka hanya akan menerima reward ketika mereka telah mendelegasikan untuk seluruh era staking.
+Similarly, delegators can remove their delegation amounts at any point, but they will only receive rewards when they have delegated for the entire staking era.
 
 ![](https://miro.medium.com/max/1400/0*we0k4A07pbj86COZ)
 
-Delegator hanya akan menerima reward ketika mereka telah mendelegasikan untuk seluruh era staking
+Delegators will only receive rewards when they have delegated for the entire staking era
 
-## Purchase Orders
+## Order Pembelian
 
-Mengindeks proyek membutuhkan waktu dan uang, ada banyak data di dalam chain. Guna mendorong Pengindeks untuk mengindeks dan mendukung Proyek SubQuery yang benar-benar masih baru, kami berencana untuk menerapkan mekanisme pasar bagi Konsumen untuk memberi sinyal pendapatan yang dijamin kepada Pengindeks Proyek SubQuery baru.
+Indexing a project takes time and money, there’s a lot of data on the chain. In order to encourage Indexers to index and support an entirely new SubQuery Project, we plan to implement a market mechanism for Consumers to signal guaranteed revenue to Indexers of new SubQuery Projects.
 
-Kami menyebutnya purchase order, dan Konsumen dapat mengiklankan kontrak di dalam chain dengan harga dan jumlah permintaan yang ditetapkan. Pengindeks dapat melihat ini dan memilih untuk mengisi kontrak.
+We’re calling them purchase orders, and Consumers can advertise a contract on chain for a set price and number of requests. Indexers can view this and choose to fill the contracts.
 
 ![](https://miro.medium.com/max/1400/1*IPtaZlt24E7h9bKNZWdSCw.png)
 
-Konsumen dapat mengiklankan pesanan pembelian di dalam chain untuk harga yang telah ditetapkan dan jumlah permintaan.
+Consumers can advertise a purchase order on chain for a set price and number of requests.
 
-Purchase order juga dapat ditempatkan pada Proyek SubQuery yang ada untuk menarik Pengindeks tambahan untuk meningkatkan persaingan dan menurunkan harga
+Purchase orders can also be placed on existing SubQuery Projects to attract additional Indexers to improve competition and decrease prices
