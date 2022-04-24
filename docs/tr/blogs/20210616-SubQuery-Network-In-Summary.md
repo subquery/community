@@ -1,16 +1,16 @@
 # SubQuery Network - Özet
 
-**SubQuery Network nasıl çalışır? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)**
+**How does the SubQuery Network work? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)**
 
-Bugün, SubQuery Network'ün yüksek düzeyde nasıl çalıştığı hakkında konuşacağız.
+Today we’re going to talk about how the SubQuery Network works at a high level.
 
 ## Katılımcılar
 
 ![](https://miro.medium.com/max/1400/1*9993cakplwupZC5tbUv3vA.png)
 
-SubQuery Network'deki Katılımcılar
+Participants in the SubQuery Network
 
-SubQuery Network'de üç tür katılımcı vardır:
+There are three types of participants in the SubQuery Network:
 
 - **Tüketiciler**: Tüketiciler, belirli veriler için SubQuery Network'e talepte bulunacak ve reklamı yapılan SQT miktarını ödeyecektir
 - **İndeksleyiciler**: Indeksleyiciler, verileri endekslemek ve GraphQL isteklerini yanıtlamak için hem node hem de sorgu hizmetini çalıştırarak SubQuery Projelerini kendi altyapılarında barındırır.
@@ -18,13 +18,13 @@ SubQuery Network'de üç tür katılımcı vardır:
 
 ## Indeksleyiciler, Tüketiciler ve Sorgucular
 
-Indeksleyiciler ile başlayalım, Indeksleyiciler, perde arkasında çok fazla zor iş yapar. Donanımı yönetin, altyapıyı çalıştırın, kaynakları izleyin ve endekslenecek doğru SubQuery projelerini seçin
+Let’s start with Indexers, Indexers do a lot of the hard work behind the scenes. The manage hardware, run infrastructure, monitor resources, and choose the right SubQuery projects to index
 
-Bu zaman ve para gerektirir, ancak buna sahip olduklarında Tüketiciler gelip talepte bulunabilirler. Tüketiciler: Tüketiciler, belirli veriler için SubQuery network'e talepte bulunacak ve reklamı yapılan SQT miktarını ödeyecektir.
+This takes time and money, but once they have this, Consumers may come and make requests. Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
 
 ![](https://miro.medium.com/max/1400/1*dKLkzSc2uXYaPW_IXUxstQ.png)
 
-Tüketiciler: Tüketiciler, belirli veriler için SubQuery network'e talepte bulunacak ve reklamı yapılan SQT miktarını ödeyecektir.
+Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
 
 ## Cobb-Douglas Üretim Fonksiyonu
 
@@ -42,7 +42,7 @@ Revenue is allocated to competing Indexers as a proportion of both requests answ
 
 In our view, the beauty of this equation is that a rational Indexer must maintain a high level of staked SQT relative to the work they do in order to receive optimal revenue. As a result, we do not need to enforce arbitrary staking requirements because Indexers are incentivised to self-manage and maintain a stake or skin in the game.
 
-## Delegators
+## Delegeler
 
 So Indexers are incentivised to both do as much work as possible, and to stake as much as possible to maximise their rewards. This is where delegators come in.
 
@@ -60,7 +60,7 @@ Similarly, delegators can remove their delegation amounts at any point, but they
 
 Delegators will only receive rewards when they have delegated for the entire staking era
 
-## Purchase Orders
+## Satın alma emirleri
 
 Indexing a project takes time and money, there’s a lot of data on the chain. In order to encourage Indexers to index and support an entirely new SubQuery Project, we plan to implement a market mechanism for Consumers to signal guaranteed revenue to Indexers of new SubQuery Projects.
 
