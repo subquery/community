@@ -6,9 +6,9 @@ In recent weeks, Karura and Acala team celebrated the launch of [Karura Swap](ht
 
 Today, we explore how SubQuery helped make this launch possible. Karura is using SubQuery to extract and query data from Karura's chain, making queries fast and efficient for [Karura's app](https://apps.karura.network/).
 
-> "Using Subquery makes building dapps easy, no more making a complicated series of calls to get the data I need."* --- Brett (Developer at Acala)*
+> *"Using SubQuery makes building dapps easy, no more making a complicated series of calls to get the data I need."* - Brett (Developer at Acala)
 
-Developing dApps on Karura is now much faster with the new public SubQuery projects published by Karura. There is a publicly available [SubQuery project](https://explorer.subquery.network/subquery/AcalaNetwork/karura) that the Karura community can fork and build any dApp that they desire. Additionally, a [Karura Dictionary](https://explorer.subquery.network/subquery/AcalaNetwork/karura-dictionary) makes [indexing much faster](https://subquery.medium.com/subquerys-just-got-a-lot-faster-with-the-dictionary-8a7a1447574).
+Developing dApps on Karura is now much faster with the new public SubQuery projects published by Karura. There is a publicly available [SubQuery project](https://explorer.subquery.network/subquery/AcalaNetwork/karura) that the Karura community can fork and build any dApp that they desire. Additionally, a [Karura Dictionary](https://explorer.subquery.network/subquery/AcalaNetwork/karura-dictionary) makes [indexing much faster](../blogs/20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md).
 
 ![](https://cdn-images-1.medium.com/max/1600/1*vvI_pI93mhe4kzSNQ2yMoQ.png)
 
@@ -18,9 +18,9 @@ Founded by the Acala Foundation, Karura is a scalable, EVM-compatible network op
 
 ![](https://cdn-images-1.medium.com/max/1600/0*g174RcFJwJcw2ITS)
 
-Karura also provides an ethical and sustainable token distribution model as well as an on-chain Karura Treasury, both of which support its community and longevity. Karura was the first parachain to win a parachain slot auction on Kusama, gathering a crowdloan upwards of 500,000 KSM ($100M USD) from its community. Because Karura leverages the novel Acala EVM, which enables Ethereum compatibility with unlimited Substrate* functionality, the network is primed to support the deployment of leading DeFi projects who aim to expand their services beyond Ethereum.
+Karura also provides an ethical and sustainable token distribution model as well as an on-chain Karura Treasury, both of which support its community and longevity. Karura was the first parachain to win a parachain slot auction on Kusama, gathering a crowdloan upwards of 500,000 KSM ($100M USD) from its community. Because Karura leverages the novel Acala EVM, which enables Ethereum compatibility with unlimited Substrate\* functionality, the network is primed to support the deployment of leading DeFi projects who aim to expand their services beyond Ethereum.
 
-*[Substrate](http://substrate.dev/) *is the blockchain-building framework for building on Polkadot and Kusama*
+*[Substrate](http://substrate.dev/) *is the blockchain-building framework for building on Polkadot and Kusama\*
 
 [Read more in a Karura deep dive here](https://medium.com/acalanetwork/countdown-to-karura-a-deep-dive-on-the-defi-hub-of-kusama-410066fc1e1f)
 
