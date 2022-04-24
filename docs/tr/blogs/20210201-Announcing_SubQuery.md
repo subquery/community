@@ -18,53 +18,53 @@ Merkezi olmayan sistemler, verileri ağlar arasında depoladığından, sorgulam
 
 SubQuery'nin amacı, Polkadot/Substrate projelerinin, herkesin verileri güvenilir bir şekilde bulmasına ve daha hızlı kullanmasına izin vererek daha iyi dApp'ler oluşturmasına yardımcı olmaktır. Hizmetimiz, kullanıcıların ilk olarak verileri ayıklamasına, dönüştürmesine, sürdürmesine ve sorgulamasına ve ayrıca gelecekte verileri bağlamasına ve sunmasına olanak tanır. Amacımız, tıpkı The Graph'in Ethereum için olduğu gibi, bunu Substrate/Polkadot ekosistemi için temel bir altyapı parçası haline getirmektir.
 
-**SubQuery, dünyanın verilerini web3.0 geleceği için dönüştürmenize ve sorgulamanıza yardımcı olmak için burada.**
+**SubQuery is here to help you transform and query the world’s data for a web3.0 future.**
 
 ![](https://miro.medium.com/max/1000/1*IHstJG-hBwQzicLdWkGR5w.png)
 
-Web 3.0 hayalinin gerçekleşmesi için, onun son kullanıcı için merkezi ağlar kadar hızlı (hatta daha hızlı) olması gerekir.
+For the Web 3.0 dream to be realised, it’s got to be as fast (if not faster) than centralised networks for the end user.
 
-Bu nedenle, kullanıcıların GraphQL ile sorgulanabilecek bir veri kümesi oluşturması için zincirleri boyunca bir dizin oluşturucu çalıştırmasına olanak tanıyan açık kaynaklı bir proje olan SubQuery'yi duyurmaktan inanılmaz gurur duyuyoruz. Bu araç paketi, projelerin kendi SubQuery projelerini oluşturmasına olanak tanıyan ve dizin oluşturucunun kendi ağlarında nasıl geçiş yapabileceklerini ve bu ağları birleştireceklerini tanımlayan bir komut satırı arabirimi içerir. İşte ağı dizine ekleyen ve GraphQL sorgularını destekleyen bir SubQuery düğüm paketi. Bu araçların yardımıyla herkes kolayca sorgu oluşturabilir ve çalıştırabilir.
+That’s why we’re incredibly proud to announce SubQuery, an open source project that allows users to run an indexer across their chain to build a dataset that can be queried with GraphQL. This suite of tools includes a command line interface to allow projects to generate their own SubQuery project, defining how the indexer should traverse and aggregate their own network. There’s a SubQuery node package that indexes the network and supports GraphQL queries. With the help of these tools, anyone can create and run queries easily.
 
 **You can get started right away by following our example on the SubQuery Github repository: [_https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql)**
 
-Ek olarak, SubQuery belgelerimizi okuyarak veya [https://subquery.network/](https://doc.subquery.network/) adresindeki yeni web sitemizi ziyaret ederek daha fazla bilgi edinebilirsiniz
+Additionally, you can find out more by reading our [SubQuery docs](https://doc.subquery.network/) or visiting our new website at [https://subquery.network/](https://subquery.network/)
 
 ![](https://miro.medium.com/max/1000/1*3oA1Hvns1vrImTsmowO_Jw.png)
 
-Bu teklife dayalı olarak daha performanslı ve ölçeklenebilir bir yönetilen barındırılan hizmet oluşturmaya odaklanacağız. Yüklenen bir SubQuery projesinden güçlü bir üretime tabi SubQuery nod oluşturacak güvenilir bir altyapı sağlayacağız. Hizmet daha sonra zincirleme durumunu indeksleyecek ve sürdürecek ve kendi kendine barındırılan uygulamaların yerini alabilecek bir üretim GraphQL uç noktası sağlayacaktır. Diğer herkesin dApp'lerini oluşturmaya ve büyütmeye odaklanabilmesi için buna odaklanacağız.
+We’ll focus on building a managed hosted service based off this offering that will be more performant and scalable. We are going to provide trusty public infrastructure that will build a powerful productionised SubQuery node from an uploaded SubQuery project. The service will then index and persist the chain state, and provide a production GraphQL endpoint that can replace self-hosted implementations. We’re going to focus on this so that everyone else can focus on building and growing their dApp.
 
-Bu gerçekleştiğinde, son aşamamız Polkadot için kendi zincirimizi (muhtemelen parachain) oluşturarak SubQuery işini tokenize etmektir. Kurumsal ve yüksek tüketimli kullanıcılar için benzer bir faturalandırma modeli sunacak olsak da (tüketim seviyelerine sahip abonelik planı), bu verileri herkese şeffaf hale getirmek için zincirimize kaydedeceğiz ve katılımcı taraflar teşvik olarak ödüller için bahis oynayabilecekler. Zincire istikrar sağlamak ve topluluğun yönümüzü ve yol haritamızı etkilemesine izin vermek için bir yönetişim belirteci çıkaracağız.
+Once this is in place, our final phase is to tokenize the SubQuery business by building our own chain (likely parachain) for Polkadot. Although we’ll provide a similar billing model for enterprise and high consumption users (subscription plan with consumption levels), we’ll save this data to our chain to make it transparent to everyone and participating parties can stake for rewards as incentives. We’ll issue a governance token to provide stability to the chain and to allow the community to influence our direction and roadmap.
 
-Bitcoin ilk başladığından bu yana 10 yılı aşkın bir süredir gelişmeye rağmen, merkezi ağlar hala ana akımdır. Bu büyük ölçüde ağa erişmenin ve ağa yazmanın hızı ve maliyetinden kaynaklanmaktadır. Ethereum, merkezi olmayan akıllı sözleşmelerle ileriye doğru büyük bir adım attı (ve sonuç olarak Grafik inanılmaz derecede başarılı bir altyapı parçası), ancak çekirdek ağ işlem maliyetlerini azaltmak için hala mücadele ediyor.
+Despite over 10 years of development since bitcoin first started, centralised networks are still the mainstream. It’s largely due to the speed and cost of accessing and writing to the network. Ethereum made a huge step forward with decentralised smart contracts (and the Graph is an incredibly successful piece of infrastructure as a result), but the core network is struggling to mitigate transaction costs.
 
-Polkadot'un potansiyelini erken ve en baştan gördük, çabalarımızı oraya odaklamak doğal geldi. Ethereum'un yönetişim, çatallanma, birlikte çalışabilirlik sorunlarını ve daha fazlasını çözer. Polkadot'un temel dayanağı, çok zincirli birlikte çalışabilirliğinden yararlanacak gelişen bir geliştiriciler, kullanıcılar ve işletmeler topluluğu oluşturmaktır - bu topluluğun, verileri güvenilir bir şekilde bulmalarını ve hızlı bir şekilde tüketmelerini sağlayan bir hizmete ihtiyacı olacak.
+We saw Polkadot’s potential early and right from the start it felt natural to focus our efforts there. It solves Ethereum’s governance, forking, interoperability problems, and more. The core premise of Polkadot is to create a thriving community of developers, users, and businesses that will tap into its multichain interoperability — that community is going to need a service that allows them to reliably find and consume data quickly.
 
-Polkadot'un benzersiz mimarisi, tek bir ağa odaklanabileceğimiz ve daha sonra mevcut ve gelecekteki birden fazla zinciri kolaylıkla destekleyebileceğimiz anlamına gelir. Şimdi bu çabayı göstererek, Polkadot hala geliştirilme aşamasındayken bile, yeni nesil blockchain geliştiricilerinin bir sonraki büyük dApp'ı yaratmasına yardımcı olmaya hazır olacağız.
+Polkadot’s unique architecture means that we can focus on one network and then be able to support multiple current and future chains with ease. By putting in this effort now, even as Polkadot is still under development, we will be there ready to help the next generation of blockchain developers create the next big dApp.
 
-SubQuery, blok zinciri ekiplerinin ve kullanıcıların düğümleri başlatması ve çok çeşitli blok zinciri protokollerine erişmesi için bir altyapı SaaS platformu olan OnFinality'deki ekip tarafından oluşturulacak. API paylaşımlı düğüm hizmetimiz ve altyapı yönetiminde veya bir protokol ekibinin CI/CD test hattının parçası olarak kullanılabilecek özel düğümler de dahil olmak üzere bir simbiyotik hizmetler paketimiz var. En iyi Polkadot/Substrate ekipleriyle ilişkilerimiz, Substrate/Polkadot ağı için yönetilen altyapı barındırma konusunda uzmanlığımız ve karmaşık altyapı projeleri sunma ve bunları üretim kullanımı için barındırma yeteneğimiz var.
+SubQuery will be built by the team at OnFinality, which is an infrastructure SaaS platform for blockchain teams and users to launch nodes and get access to a large range of blockchain protocols. We have a suite of symbiotic services including our API shared node service, and dedicated nodes that can be used in infrastructure management or as part of a protocol team’s CI/CD testing pipeline. We have relationships with the top Polkadot/Substrate teams, expertise in managed infrastructure hosting for the Substrate/Polkadot network, and the ability to deliver complex infrastructure projects and host them for production use.
 
 **Sam Zou —** CEO ([LinkedIn](https://www.linkedin.com/in/sam-zou-5b8169a/))
 
-Girişimci, Altyapı ve bulut hizmeti tasarımında uzmanlaşmış 20 yılı aşkın BT deneyimine sahip yatırımcılar
+Entrepreneur, Investors with more than 20 years of IT experience specialising in infrastructure and cloud service design
 
 **Ian He —** Head of Protocol ([LinkedIn](https://www.linkedin.com/in/yin-he-7a266345/))
 
-Blockchain Mimarı, Polkadot-js'ye Katkıda Bulunan, Substrate teknolojisini erken benimseyen ve ilk Polkadot hackathon'unda ikincilik kazandı.
+Blockchain Architect, Contributor to polkadot-js, Early adopter of Substrate technology and won second place in the first Polkadot hackathon.
 
 **James Xu —** Solutions Architect ([LinkedIn](https://www.linkedin.com/in/zhexu/))
 
-Altyapı ve Uygulama Mimarı, Ödüllü yazılım mühendisi
+Infrastructure & Application Architect, Award-winning software engineer.
 
 **James Bayly** — Head of Business Development ([LinkedIn](https://www.linkedin.com/in/james-bayly/))
 
-Buradan başlayın [SubQuery Github repository.](https://github.com/OnFinality-io/subql)
+Get started on the [SubQuery Github repository.](https://github.com/OnFinality-io/subql)
 
-Okuyun [SubQuery docs](https://doc.subquery.network/)
+Read our [SubQuery docs](https://doc.subquery.network/)
 
 [Visit our new website](https://subquery.network/)
 
-Bizi takip edin
+Follow us on:
 
 - [Telegram](https://t.me/subquerynetwork)
 - [Twitter](https://twitter.com/subquerynetwork)
