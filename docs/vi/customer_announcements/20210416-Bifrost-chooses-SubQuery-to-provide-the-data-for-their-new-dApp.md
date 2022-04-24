@@ -4,8 +4,7 @@
 
 Bifrost gần đây đã tung ra bản beta dApp mới của họ, giao diện tương tác chính thức cho tất cả các dịch vụ của Bifrost. Thông qua dApp này, người dùng có thể đúc vTokens, mua lại và hoán đổi các dẫn xuất này và xem thu nhập của họ trong thời gian thực. dApp beta này là một bước tiến lớn trong việc cho phép người dùng giảm chi phí staking trên các chuỗi bằng cách duy trì tính thanh khoản. [ Bạn có thể dùng thử dApp mới của Bifrost tại đây ](https://apps.bifrost.finance/).
 
-> “Nếu không có SubQuery, thật khó để tưởng tượng việc thu thập dữ liệu từ chuỗi theo cách thủ công sẽ phức tạp như thế nào. Các nhà phát triển Bifrost có thể dành nhiều thời gian để tìm kiếm tất cả dữ liệu giao dịch trên chuỗi để sử dụng cho lịch sử giao dịch. SubQuery giúp các nhà phát triển tiết kiệm rất nhiều chi phí làm việc lặp đi lặp lại. Bifrost sẽ hợp tác lâu dài với SubQuery để đẩy nhanh tốc độ phát triển sản phẩm”. — Bifrost.Finance
-
+> _"Without SubQuery, it is difficult to imagine how complicated it is to manually collect data from the chain. Các nhà phát triển Bifrost có thể dành nhiều thời gian để tìm kiếm tất cả dữ liệu giao dịch trên chuỗi để sử dụng cho lịch sử giao dịch. SubQuery giúp các nhà phát triển tiết kiệm rất nhiều chi phí làm việc lặp đi lặp lại. Bifrost will cooperate with SubQuery for a long time to accelerate the iterative speed of product development"_ — Bifrost.Finance
 
 ![](https://miro.medium.com/max/1400/0*_JK-h0rjef6rk1ot)
 
