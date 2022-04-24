@@ -13,7 +13,7 @@ Auf der Partnerseite haben wir ein Schlüsselprodukt eingeführt, das benötigt 
 
 ![](https://miro.medium.com/max/1400/0*zZkmiEq5g2BbAxfl)
 
-Das letzte fehlende Stück bedeutet jetzt, dass wir über eine vollständige Suite von Tools verfügen, mit denen Kunden [untersuchen](https://explorer.subquery.network/), [erstellen](https://doc.subquery.network/quickstart.html), [ ausführen](https://doc.subquery.network/run/indexing_query.html) und dann <3 >veröffentlichen</a> SubQuery-Projekte ganz allein.
+Das letzte fehlende Stück bedeutet jetzt, dass wir über eine vollständige Suite von Tools verfügen, mit denen Kunden [untersuchen](https://explorer.subquery.network/), [erstellen](https://doc.subquery.network/quickstart.html), [ ausführen](https://doc.subquery.network/run/indexing_query.html) und dann [veröffentlichen](https://doc.subquery.network/publish/publish.html#benefits) SubQuery-Projekte ganz allein.
 
 ![](https://miro.medium.com/max/1400/0*pDQgyo3phe2ZcMml)
 
