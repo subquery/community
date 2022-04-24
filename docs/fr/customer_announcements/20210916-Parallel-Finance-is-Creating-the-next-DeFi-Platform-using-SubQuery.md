@@ -6,7 +6,7 @@ La mission de Parallel est d'innover et de faire passer la DeFi au niveau supér
 
 ![](https://cdn-images-1.medium.com/max/1600/1*5Ru0mv1hq86BuBhGwsmoqQ.png)
 
-> *"SubQuery est un excellent outil qui a apporté la technologie traditionnelle d'indexation & de requête à Parallel Heiko. Le service plug-and-play nous a vraiment fait gagner beaucoup de temps dans le développement de notre propre outil d'indexation par blocs et dans la maintenance de notre propre solution."*- Parallel Finance*
+> *"SubQuery est un excellent outil qui a apporté la technologie traditionnelle d'indexation & de requête à Parallel Heiko. The plug-and-play service really saved us a lot time developing our own block indexing tool and maintaining our own solution."* - Parallel Finance
 
 Le service [de SubQuery](https://subquery.network/) aide Parallel Finance à stocker, analyser et interroger les données de son réseau de test Heiko actuel. Certaines de ces données sont utilisées directement dans la nouvelle application de Parallel, qui aide les utilisateurs à comprendre et à analyser les données de DeFi.
 
@@ -16,7 +16,7 @@ Grâce à SubQuery, vous pouvez rapidement interroger les données relatives aux
 
 ![](https://cdn-images-1.medium.com/max/1600/1*FDRgez-G26x1DkWqCkORMQ.png)
 
-> *"Nous apprécions de travailler avec l'équipe de SubQuery et le service client personnalisé qu'elle nous offre. Nous prévoyons de l'utiliser davantage à mesure que nous introduisons de nouvelles fonctionnalités dans notre application DeFi."*- Parallel Finance*
+> *"Nous apprécions de travailler avec l'équipe de SubQuery et le service client personnalisé qu'elle nous offre. We plan to use it more as we introduce more features into our DeFi application."* - Parallel Finance
 
 Dans l'exemple ci-dessous, nous utilisons SubQuery pour afficher le taux de change historique de tous les actifs à chaque bloc.
 
@@ -26,7 +26,7 @@ Parallel Finance utilise [SubQuery Projects](https://project.subquery.network/) 
 
 [Vous pouvez explorer les données de Parallel Finance dans SubQuery dès aujourd'hui](https://explorer.subquery.network/subquery/parallel-finance/parallel-finance)
 
-* * * * *
+---
 
 ## À propos de Parallel Finance
 
