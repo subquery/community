@@ -30,7 +30,7 @@ Applicants who are interested in any of these bounties are encouraged to submit 
 
 For those who would like to up-skill more on SubQuery before making an application, [The SubQuery Academy](./20211018-subquery-launches-the-subquery-academy.md)'s _"Hero Course"_ is a free and modular educational program designed to build awareness amongst developers. and is [completely free and accessible via an online portal](https://subquery.coassemble.com/unlock/dOKZW6O#/).
 
-## About SubQuery
+## Giới thiệu về SubQuery
 
 [SubQuery](https://subquery.network) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. This service unlocks blockchain data and transforms it to a queryable state so that it can be used in intuitive applications. It allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The upcoming SubQuery Network will decentralize and tokenize the ecosystem to allow everyone to participate in the web3 data revolution.
 
