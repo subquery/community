@@ -14,7 +14,7 @@ Die geheimen Medien sind für den Wallet-Benutzer, der sein SecretNFT hält, lei
 
 ![](https://miro.medium.com/max/1400/0*gquKRKBgiyAAxRFZ)
 
-> „Wir haben uns für SubQuery entschieden, weil uns die Dokumentation auf den ersten Blick klar erschien und wir uns nicht geirrt haben. SubQuery stellt eine komplette Umgebung mit einer Docker-Maschine zur Verfügung, was das Testen und Deployment sehr einfach macht. Es ist relativ einfach, sich in dieser Umgebung zu entwickeln und die verschiedenen Ereignisse zu programmieren, die von unserer Blockchain ausgehen. Herzlichen Glückwunsch auch an den Support, der sehr reaktionsschnell ist.“ — Ternoa CTO
+> _"We made the choice to use SubQuery because the documentation seemed clear to us at first glance and we were not mistaken. SubQuery stellt eine komplette Umgebung mit einer Docker-Maschine zur Verfügung, was das Testen und Deployment sehr einfach macht. Es ist relativ einfach, sich in dieser Umgebung zu entwickeln und die verschiedenen Ereignisse zu programmieren, die von unserer Blockchain ausgehen. Congratulations also to the support which is very responsive."_ — Ternoa CTO
 
 Die Dienste von [SubQuery](https://subquery.network/) helfen auch beim Extrahieren und Abfragen von Kettendaten für Secret-NFTs, die auf der Ternoa Blockchain geprägt wurden, auf eine Weise, die die einzigartigen Funktionen der NFTs von Ternoa unterstützt.
 
