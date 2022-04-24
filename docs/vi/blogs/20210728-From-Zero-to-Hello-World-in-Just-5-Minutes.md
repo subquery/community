@@ -8,10 +8,9 @@ Hôm nay, chúng tôi ra mắt [trang tài liệu mới của mình tại doc.su
 
 ![](https://miro.medium.com/max/1200/1*snyFSjyQ9q116bmIcaVfsQ.gif)
 
-> _ “_Tài liệu có thể không phải là công việc hấp dẫn nhưng nó đóng một vai trò quan trọng trong việc truyền đạt cách hoạt động của một thứ gì đó và cho phép chúng tôi trao quyền cho các thành viên trong cộng đồng của mình học hỏi và giải phóng sức sáng tạo của họ. Đó là lý do tại sao chúng tôi tin rằng tài liệu rất quan trọng _”- Sean Au (SubQuery Academy) _
+> _"Documentation may not be glamorous work but it plays a vital role in communicating how something works and allows us to empower our community members to learn and unleash their creativity. That is why we believe documentation is so important"_ — Sean Au (SubQuery Academy)
 
 [Trang tài liệu mới của chúng tôi](https://doc.subquery.network/) có một trang đích hấp dẫn được thiết kế để chào đón tất cả người dùng, bất kể hiểu biết kỹ thuật của họ về blockchain hay Polkadot. Từ trang chính, người dùng có thể chuyển đến hướng dẫn bắt đầu hoặc chuyển hướng đến trợ giúp họ cần.
-
 
 ![](https://miro.medium.com/max/1400/1*obZau98aya3Ohtc43DAuEw.png)
 
