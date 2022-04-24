@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/0*0inUQ8U1g9auTjfU)
 
-## **Cung cấp lập chỉ mục dữ liệu miễn phí cho Wasm Tech Alliance**
+## Cung cấp lập chỉ mục dữ liệu miễn phí cho Wasm Tech Alliance
 
 SubQuery đang tham gia Nền tảng mở Patract để cùng thúc đẩy sự phát triển của cơ sở hạ tầng công cộng, thúc đẩy sự phát triển của công nghệ hợp đồng và phát triển hệ sinh thái phát triển hợp đồng Wasm.
 
@@ -22,13 +22,13 @@ SubQuery sẽ làm việc với các dự án hợp đồng trong liên minh đ�
 
 Patract Labs tin rằng sự phát triển của công nghệ hợp đồng Polkadot Wasm đòi hỏi phải liên tục bổ sung và cải thiện cơ sở hạ tầng. SubQuery tham gia Nền tảng mở Patract với tư cách là nhà cung cấp cơ sở hạ tầng dữ liệu bổ sung cho nhu cầu của hệ sinh thái Polkadot, cung cấp dữ liệu phi tập trung, bằng cách tự do hóa quyền truy cập và giảm chi phí vận hành kết nối và áp dụng dữ liệu trong một dự án. Do đó, các nhà phát triển không còn cần phải đầu tư nhiều thời gian để xây dựng và duy trì các giải pháp lập chỉ mục của riêng họ. Thứ hai, rất khó để dữ liệu blockchain được lưu trữ trực tiếp trong DApps, vì DApps cần lấy và chuyển đổi dữ liệu từ nguồn dữ liệu cơ bản. Do đó, sơ đồ lập chỉ mục trên chuỗi của SubQuery là nền tảng tuyệt vời cho sự phát triển bùng nổ của DApp trong hệ sinh thái Polkadot. Hiện tại, SubQuery cũng đang khám phá một giải pháp kết hợp các công cụ SQL với các hợp đồng thông minh Wasm và chúng tôi đang mong đợi điều đó.
 
-Giới thiệu về Patract Labs
+## Giới thiệu về Patract Labs
 
 Patract Labs cung cấp các giải pháp cho sự phát triển của Parachains và DApps trong hệ sinh thái hợp đồng thông minh Wasm của Polkadot. Chúng tôi giúp cộng đồng thiết kế và phát triển các mô-đun hợp đồng on-chain và hỗ trợ Runtime, đồng thời cung cấp cho các nhà phát triển DApp các công cụ và dịch vụ toàn diện, bao gồm các giai đoạn phát triển, thử nghiệm, gỡ lỗi, triển khai, giám sát, cung cấp dữ liệu và phát triển front-end.
 
 [Website](https://patract.io/)｜[Element](https://app.element.io/#/room/#PatractLabsDev:matrix.org)｜[Twitter](https://twitter.com/PatractLabs)｜[GitHub](https://github.com/patractlabs) ｜[Discord](https://discord.gg/yMRMqcAb24) ｜[Telegram](https://t.me/patract)
 
-Giới thiệu về SubQuery
+## Giới thiệu về SubQuery
 
 Nhiệm vụ của SubQuery là làm cho dữ liệu phi tập trung của thế giới dễ tiếp cận hơn. SubQuery là nhà cung cấp dữ liệu dưới dạng dịch vụ tổng hợp và tổ chức dữ liệu từ các dự án Polkadot và Substrate; nó trao quyền cho các dự án Polkadot / Substrate để xây dựng DApp tốt hơn bằng cách cung cấp dữ liệu có cấu trúc tốt cho các nhà phát triển.
 
