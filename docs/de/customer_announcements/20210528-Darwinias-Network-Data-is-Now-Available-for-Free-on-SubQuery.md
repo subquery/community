@@ -32,7 +32,7 @@ Erfahren Sie mehr über SubQuery
 
 Das Darwinia Network ist ein dezentralisiertes heterogenes Cross-Chain-Bridge-Protokoll, das auf Substrate aufbaut, das sich auf dezentrale Cross-Chain-Token-Swap, Austausch und Markt konzentriert.
 
-Darwinia fungiert auch als kritische Infrastruktur für das Upgrade von Einzelanwendungen auf Cross-Chain-Version, einschließlich Defi, Game, DEX, NFT-Markt usw. Ihre Vision ist es, das zukünftige Internet von Tokens aufzubauen.
+Darwinia fungiert auch als kritische Infrastruktur für das Upgrade von Einzelanwendungen auf Cross-Chain-Version, einschließlich Defi, Game, DEX, NFT-Markt usw. Ihre Vision ist es, das zukünftige Internet von Tokens aufzubauen. Ihre Vision ist folgende: das zukünftige Internet der Token aufzubauen.
 
 Alles, was Sie über Darwinia wissen müssen
 
