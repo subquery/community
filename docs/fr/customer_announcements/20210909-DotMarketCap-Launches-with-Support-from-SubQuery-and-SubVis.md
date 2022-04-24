@@ -8,7 +8,7 @@ Une grande partie de ces données en direct et en temps réel provient de SubQue
 
 ![](https://cdn-images-1.medium.com/max/1600/1*-UL84MrIB3TtZBkDPwLMmw.png)
 
-> *"SubQuery, avec plus de 60 projets et des millions de requêtes par jour, ainsi que les données de Subvis, est l'endroit idéal pour soutenir et fournir à DotMarketCap l'accès le plus rapide et le plus précis aux données des crowdloans & des enchères. Avec cette source de données fiable et l'interface utilisateur de DMC, nous pensons que ce partenariat apportera une grande expérience et un accès facile à la communauté Polkadot."* - Sang Tran (fondateur de DotMarketCap)
+> _"SubQuery, with over 60 projects and millions of query requests per day, as well as data from Subvis, is the perfect place to support and provide DotMarketCap with the fastest and most accurate access to Crowdloan & Auction data. Avec cette source de données fiable et l'interface utilisateur de DMC, nous pensons que ce partenariat apportera une grande expérience et un accès facile à la communauté Polkadot."_ - Sang Tran (fondateur de DotMarketCap)
 
 La vente aux enchères de parachain de Kusama est l'événement le plus important de cette année. Grâce au [suivi des enchères & des crowdloans](https://dotmarketcap.com/auction), vous pouvez suivre la concurrence féroce entre les projets et soutenir vos candidats préférés pour qu'ils gagnent un emplacement de parachain grâce à leur crowdloan.
 
@@ -16,7 +16,7 @@ La vente aux enchères de parachain de Kusama est l'événement le plus importan
 
 Pour SubQuery, c'est la réalisation de notre objectif de construire un marché communautaire ouvert de données dans notre Explorer. C'est le meilleur exemple à ce jour d'un client important consommant des données provenant d'un projet SubQuery construit et maintenu par une autre équipe. Il montre à quel point l'écosystème de Polkadot est symbiotique et comment les équipes travaillent ensemble pour atteindre un objectif commun d'un avenir décentralisé
 
-> *"Il est certain que DotMarketCap 2.0 ne pourrait pas être achevé sans le soutien de nos partenaires: SubQuery et [Subvis.io](http://subvis.io/). Toutes les données que nous avons utilisées pour notre page de vente aux enchères & des crowdloans proviennent de [Subvis.io](http://subvis.io/). Grâce à cette coopération, l'accès aux données décentralisées est beaucoup plus facile pour nous. Nous tenons à exprimer notre gratitude à Sam Zou, James Bayly et à toute l'équipe de SubQuery."* - DotMarketCap
+> _"For sure DotMarketCap 2.0 couldn’t be completed without the support of our partners: SubQuery and [Subvis.io](http://subvis.io/). Toutes les données que nous avons utilisées pour notre page de vente aux enchères & des crowdloans proviennent de [Subvis.io](http://subvis.io/). Grâce à cette coopération, l'accès aux données décentralisées est beaucoup plus facile pour nous. Nous tenons à exprimer notre gratitude à Sam Zou, James Bayly et à toute l'équipe de SubQuery."_ - DotMarketCap
 
 [Consultez la source de données SubVis ici](https://explorer.subquery.network/subquery/subvis-io/kusama-auction)
 
