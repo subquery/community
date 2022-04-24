@@ -16,7 +16,7 @@ Initialement, tous les projets SubQuery étaient déployés sur des bases de don
 
 Si vous élaborez un projet destiné à être utilisé en production, nous proposons une base de données dédiée hébergée dans nos clusters SubQuery qui peut donner à votre projet toutes les ressources dont il a besoin pour traiter des milliers de requêtes compliquées sans se soucier de l'impact des autres sur les performances.
 
-Vous devez nous contacter à l'adresse <sales@subquery.network> si vous souhaitez passer à ce niveau. Nous répliquons vos données à partir de vos tables existantes afin que vous n'ayez pas à passer du temps à réindexer les données dont vous disposez déjà, ce qui permet une migration sans temps d'arrêt.
+Vous devez nous contacter à l'adresse sales@subquery.network si vous souhaitez passer à ce niveau. Nous répliquons vos données à partir de vos tables existantes afin que vous n'ayez pas à passer du temps à réindexer les données dont vous disposez déjà, ce qui permet une migration sans temps d'arrêt.
 
 # Prise en charge de plusieurs clusters
 

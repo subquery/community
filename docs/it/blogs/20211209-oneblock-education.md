@@ -26,6 +26,6 @@ OneBlock+ è la prima e la più grande comunità di sviluppatori blockchain in C
 
 ## Su SubQuery
 
-< [ SubQuery ](https://subquery.network/) è un livello decentralizzato di aggregazione dei dati, indicizzazione e interrogazione tra blockchain Layer-1 e applicazioni decentralizzate. Il protocollo astrae le idiosincrasie dei dati blockchain con l'SDK SubQuery, consentendo agli sviluppatori di concentrarsi sulla distribuzione del loro prodotto principale senza sprecare inutilmente sforzi su tecnologie di back-end personalizzate.
+[SubQuery](https://subquery.network/) è un livello decentralizzato di aggregazione dei dati, indicizzazione e interrogazione tra blockchain Layer-1 e applicazioni decentralizzate. Il protocollo astrae le idiosincrasie dei dati blockchain con l'SDK SubQuery, consentendo agli sviluppatori di concentrarsi sulla distribuzione del loro prodotto principale senza sprecare inutilmente sforzi su tecnologie di back-end personalizzate.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [Matrix](https://matrix.to/#/#subquery:matrix.org)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)

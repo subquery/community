@@ -50,7 +50,7 @@ Dalam kedua kasus tersebut, kami berterima kasih atas feedback yang luar biasa s
 
 *"Menggunakan Subquery menjadikan pembuatan dapps menjadi mudah, tidak perlu lagi melakukan serangkaian panggilan yang rumit untuk mendapatkan data yang saya butuhkan."* - Brett (Pengembang di Acala)
 
-*"SubQuery telah menjadi solusi ideal untuk kebutuhan kita karena aplikasinya mudah dideploy dan dikelola, mudah dipelajari dan dikembangkan serta didokumentasikan dengan baik, dan juga memiliki infrastruktur sendiri dengan integrasi Github"</ 0> - Tim Pengembang SORA</p>
+*"SubQuery telah menjadi solusi ideal untuk kebutuhan kita karena aplikasinya mudah dideploy dan dikelola, mudah dipelajari dan dikembangkan serta didokumentasikan dengan baik, dan juga memiliki infrastruktur sendiri dengan integrasi Github"* - Tim Pengembang SORA.
 
 [Anda dapat melihat semua proyek dengan mudah melalui Explorer kami di sini](https://explorer.subquery.network/).
 

@@ -30,7 +30,7 @@ Solarbeam ใช้ [SubQuery Projects](https://project.subquery.network/) เ�
 
 เรียนรู้เพิ่มเติมเกี่ยวกับ Solarbeam โดยการไปที่:
 
-[Main website](https://solarbeam.io/exchange/swap) | [Twitter](https://twitter.com/solarbeamio) | [Discord](http://discord.gg/rK4AjZXuwf) | [Telegram](http://t.me/solarbeamio) | [Medium](https://solarbeam.medium.com/)</0>
+[Main website](https://solarbeam.io/exchange/swap) | [Twitter](https://twitter.com/solarbeamio) | [Discord](http://discord.gg/rK4AjZXuwf) | [Telegram](http://t.me/solarbeamio) | [Medium](https://solarbeam.medium.com/)
 
 ## เกี่ยวกับ SubQuery
 

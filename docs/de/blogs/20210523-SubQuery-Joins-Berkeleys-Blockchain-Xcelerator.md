@@ -11,7 +11,7 @@ Der Blockchain-Xcelerator von Berkeley ist aus gutem Grund weltweit als einer de
 
 Wir treten in die Fußstapfen von [Acala Network](https://acala.network/) (mit dem wir letzte Woche zusammengetan haben, um [das erste SubQuery-Partnerprojekt zu starten](https://subquery.medium.com/subquery-integrates-acala-to-aggregate-and-serve-defi-data-to-polkadot-and-kusama-builders-fc9af6a7aae1)) und anderen Branchenführern wie
 
-StormX< /2> und [Eluv.io](https://eluv.io/). Es ist ein großer Wert für SubQuery und OnFinality im Netzwerk von hoch angesehenen Mentoren, Referenten und Kolleginnen, die der Xcelerator zur Verfügung stellt. Als Datendienstleister (SubQuery) und Infrastrukturdienstleister (OnFinality) sind langfristige Partnerschaften und Beziehungen zu unseren Kunden der Schlüssel zum Erfolg.</p> 
+StormX und [Eluv.io](https://eluv.io/). Es ist ein großer Wert für SubQuery und OnFinality im Netzwerk von hoch angesehenen Mentoren, Referenten und Kolleginnen, die der Xcelerator zur Verfügung stellt. Als Datendienstleister (SubQuery) und Infrastrukturdienstleister (OnFinality) sind langfristige Partnerschaften und Beziehungen zu unseren Kunden der Schlüssel zum Erfolg. 
 
 [SubQuery](https://www.subquery.network/) ermöglicht es jedem Substrate/Polkadot-Team, seine Daten zu verarbeiten und abzufragen. Das Projekt ist inspiriert von der Zunahme von Datenprotokollen, die der Anwendungsschicht dienen, und hat zum Ziel, Polkadot/Substrate-Projekten dabei zu helfen, bessere dApps zu erstellen, indem es jedem ermöglicht wird, Daten zuverlässig schneller zu finden und zu konsumieren. Heute kann jeder die Netzwerkdaten von Polkadot in nur wenigen Minuten kostenlos abfragen und extrahieren.
 
