@@ -4,10 +4,10 @@ Avril a été un mois incroyablement chargé pour SubQuery, notre croissance com
 
 Dans cette mise à jour mensuelle :
 
--   Focus sur les outils des partenaires - Lancement des projets SubQuery
--   Cas d'utilisation de BiFrost SubQuery
--   Amélioration de l'évolutivité par notre prestataire de services OnFinality
--   Et plus encore...
+- Focus sur les outils des partenaires - Lancement des projets SubQuery
+- Cas d'utilisation de BiFrost SubQuery
+- Amélioration de l'évolutivité par notre prestataire de services OnFinality
+- Et plus encore...
 
 Sur le front des partenaires, nous avons lancé un produit clé nécessaire à l'accélération opérationnelle de la croissance de SubQuery. Auparavant, vous pouviez créer et exécuter vos propres projets SubQuery localement ou dans votre propre infrastructure. [Projects](https://project.subquery.network/) permet aux utilisateurs de publier leurs projets à la communauté SubQuery et nous les exécuterons dans un service public performant, évolutif et géré - gratuitement !
 
@@ -25,7 +25,7 @@ Le service de SubQuery permet à Bifrost d'alimenter une grande partie des donn�
 
 Le nouveau projet Bifrost SubQuery dans l'explorateur SubQuery.
 
-> "Sans SubQuery, il est difficile d'imaginer à quel point il est compliqué de collecter manuellement les données de la chaîne. Les développeurs de Bifrost peuvent passer beaucoup de temps à rechercher toutes les données de transaction sur la chaîne à utiliser pour l'historique des transactions. SubQuery permet aux développeurs d'économiser beaucoup de coûts de travail répétitif. Bifrost coopérera longtemps avec SubQuery pour accélérer la vitesse itérative du développement des produits". - Bifrost Finance
+> _"Without SubQuery, it is difficult to imagine how complicated it is to manually collect data from the chain. Les développeurs de Bifrost peuvent passer beaucoup de temps à rechercher toutes les données de transaction sur la chaîne à utiliser pour l'historique des transactions. SubQuery permet aux développeurs d'économiser beaucoup de coûts de travail répétitif. Bifrost will cooperate with SubQuery for a long time to accelerate the iterative speed of product development"_ — Bifrost Finance
 
 OnFinality est un fournisseur de services clé pour SubQuery - la plupart des indexeurs SubQuery des projets Polkadot et Kusama utilisent les points de terminaison API publics d'OnFinality pour obtenir leurs données. L'important trafic de SubQuery est l'une des raisons pour lesquelles OnFinality est le plus grand fournisseur d'infrastructure dans l'écosystème Polkadot/Kusama.
 
@@ -35,14 +35,14 @@ En avril, OnFinality a atteint son objectif à long terme de 100 millions de req
 
 OnFinality a également [livré sa proposition de trésorerie](https://kusama.polkassembly.io/treasury/72) pour la deuxième étape afin d'améliorer l'évolutivité de son service API. Un routage intelligent qui leur permet de maximiser l'utilisation de différents clusters de nœuds à travers leur base d'utilisateurs dans différentes régions géographiques. SubQuery s'appuie sur cette infrastructure, il est donc important de noter l'investissement et les améliorations continues dans ce domaine. Le mois dernier a démontré à quel point il est essentiel de continuer à investir dans l'échelle afin de pouvoir continuer à fournir le meilleur service chaque jour.
 
--   Notre PDG, Sam Zou, a présenté _Cyber Future on Parachains_ lors de l'événement en ligne avec Web3, Acala, Polkawarriors et Bitfwd.
+- Notre PDG, Sam Zou, a présenté _Cyber Future on Parachains_ lors de l'événement en ligne avec Web3, Acala, Polkawarriors et Bitfwd.
 
--   Notre responsable du développement commercial, James Bayly, a participé à une intéressante discussion virtuelle au coin du feu avec la DFG et James Wo dans le cadre de la série DFG Talks.
+- Notre responsable du développement commercial, James Bayly, a participé à une intéressante discussion virtuelle au coin du feu avec la DFG et James Wo dans le cadre de la série DFG Talks.
 
--   Notre temps dans le Xcelerator Berkeley a commencé — nous avons assisté à d'excellentes sessions jusqu'à présent
--   Nous avons apporté des améliorations importantes à notre [site web SubQuery](https://subquery.network/).
--   Une nouvelle version de la [documentation améliorée](https://doc.subquery.network/) pour les développeurs SubQuery
--   Nos bureaux s'améliorent. Nous avons la chance de pouvoir travailler dans le même espace ici en Nouvelle-Zélande.
+- Notre temps dans le Xcelerator Berkeley a commencé — nous avons assisté à d'excellentes sessions jusqu'à présent
+- Nous avons apporté des améliorations importantes à notre [site web SubQuery](https://subquery.network/).
+- Une nouvelle version de la [documentation améliorée](https://doc.subquery.network/) pour les développeurs SubQuery
+- Nos bureaux s'améliorent. Nous avons la chance de pouvoir travailler dans le même espace ici en Nouvelle-Zélande.
 
 ![](https://miro.medium.com/max/1400/0*cOsJ2TLa4yqpY0Ig)
 
