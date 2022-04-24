@@ -1,11 +1,10 @@
 # Mạng SubQuery - Tóm tắt
 
-> Mạng SubQuery hoạt động như thế nào? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
+**Mạng SubQuery hoạt động như thế nào? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)**
 
 Hôm nay chúng ta sẽ nói về cách Mạng SubQuery hoạt động ở cấp độ cao.
 
 ## Những người tham gia
-
 
 ![](https://miro.medium.com/max/1400/1*9993cakplwupZC5tbUv3vA.png)
 
@@ -13,9 +12,9 @@ Những người tham gia vào Mạng SubQuery
 
 Có ba loại tham gia trong Mạng SubQuery:
 
--   **Người tiêu dùng**: Người tiêu dùng sẽ đưa ra yêu cầu đối với Mạng SubQuery về dữ liệu cụ thể và trả một số tiền được quảng cáo cho SQT
--   **Bộ lập chỉ mục**: Người lập chỉ mục sẽ lưu trữ các Dự án SubQuery trong cơ sở hạ tầng của riêng họ, chạy dịch vụ node và truy vấn để lập chỉ mục dữ liệu và trả lời các yêu cầu GraphQL.
--   **Người ủy quyền**: Người ủy quyền sẽ tham gia vào mạng bằng cách hỗ trợ Người lập chỉ mục yêu thích của họ để kiếm phần thưởng
+- **Người tiêu dùng**: Người tiêu dùng sẽ đưa ra yêu cầu đối với Mạng SubQuery về dữ liệu cụ thể và trả một số tiền được quảng cáo cho SQT
+- **Bộ lập chỉ mục**: Người lập chỉ mục sẽ lưu trữ các Dự án SubQuery trong cơ sở hạ tầng của riêng họ, chạy dịch vụ node và truy vấn để lập chỉ mục dữ liệu và trả lời các yêu cầu GraphQL.
+- **Người ủy quyền**: Người ủy quyền sẽ tham gia vào mạng bằng cách hỗ trợ Người lập chỉ mục yêu thích của họ để kiếm phần thưởng
 
 ## Indexer (Người lập chỉ mục), Người tiêu dùng và Truy vấn
 
