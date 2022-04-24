@@ -2,12 +2,12 @@
 
 ในช่วงสองสามเดือนที่ผ่านมาที่ OnFinality และ SubQuery นั้นเข้มข้น เราได้ขยายทีมและหาพันธมิตรรายใหม่เข้ามาในขณะที่เราเปิดตัวโครงการใหม่ที่สำคัญ ความคืบหน้าในเดือนนี้
 
--   SubQuery Explorer
--   อัพเดท Seed round
--   Use case partner รายแรกของเราสำหรับ SubQuery
--   Berkeley Blockchain Xcelerator
--   การกำหนดเส้นทางอัจฉริยะ
--   สำนักงานใหม่และสมาชิกในทีม
+- SubQuery Explorer
+- อัพเดท Seed round
+- Use case partner รายแรกของเราสำหรับ SubQuery
+- Berkeley Blockchain Xcelerator
+- การกำหนดเส้นทางอัจฉริยะ
+- สำนักงานใหม่และสมาชิกในทีม
 
 ## SubQuery Explorer เริ่มใช้งานจริง
 
@@ -15,12 +15,11 @@
 
 เราเรียกใช้โปรเจ็กต์ SubQuery เหมือนกับเป็นแอปพลิเคชันที่ใช้งานจริง ดังนั้นคุณจึงสามารถปลดล็อกข้อมูลแบบกระจายศูนย์ใน dApp ถัดไปของคุณได้แล้ววันนี้โดยใช้ SubQuery
 
-
 ![](https://miro.medium.com/max/1400/1*GE-Y6XKNOkj_MKY4ZuM5oQ.png)
 
 ## **SubQuery ได้รับ seed round 1.8 ล้านเหรียญสำหรับการขยายในอนาคต**
 
-SubQuery พร้อมที่จะเติบโตและส่งมอบ! [เราประสบความสำเร็จในการระดมทุนรอบ Seed มูลค่า 1.8 ล้านเหรียญสหรัฐ](https://subquery.medium.com/subquery-raises-1-8m-seed-round-for-future-expansion-3348c1f2a931) และการขายแบบส่วนตัวสนับสนุนโดย DeFi Alliance, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG) และ The Laoเป็นหลัก ความต้องการอย่างล้นหลามที่เราได้รับในการสนับสนุนรอบ Seed Round ของ SubQuery แสดงให้เห็นถึงความสนใจอย่างมากในบริการโครงสร้างพื้นฐานและความเชื่อในอนาคตของระบบนิเวศ Polkadot
+SubQuery พร้อมที่จะเติบโตและส่งมอบ! [We successfully raised a US$1.8 million seed round](../blogs/20210312-SubQuery-Raises-%241.8M-Seed-Round-for-Future-Expansion.md) and private sale backed primarily by DeFi Alliance, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG), and The Lao. ความต้องการอย่างล้นหลามที่เราได้รับในการสนับสนุนรอบ Seed Round ของ SubQuery แสดงให้เห็นถึงความสนใจอย่างมากในบริการโครงสร้างพื้นฐานและความเชื่อในอนาคตของระบบนิเวศ Polkadot
 
 _เรากำลังวางแผนการขาย/เพิ่มแบบ private ในปลายปีนี้ หากคุณสนใจเข้าร่วม โปรดลงทะเบียนที่นี่:_ [_https://forms.gle/6LMapDNSidQAqy347_](https://forms.gle/6LMapDNSidQAqy347)
 
@@ -28,25 +27,25 @@ _เรากำลังวางแผนการขาย/เพิ่มแ
 
 SubQuery คือทั้งหมดที่เกี่ยวกับการให้บริการข้อมูลแก่คู่ค้าและลูกค้าของเรา ทีมบล็อคเชนและผู้สร้าง dApp ทุกคนจำเป็นต้องประมวลผลและ query ข้อมูลอย่างรวดเร็ว และเพื่อให้ความฝันของ web3 เป็นจริง จะต้องเร็ว (ไม่ก็เร็วกว่า) กว่าเครือข่ายแบบรวมศูนย์สำหรับผู้ใช้ปลายทาง นั่นเป็นเหตุผลที่เรากำลังเพิ่มความพยายามในการเป็นพันธมิตรกับโครงการ Polkadot ชั้นนำเพื่อให้บริการ SubQuery ฟรีสำหรับโปรโตคอลของพวกเขา
 
-[ก่อนหน้านี้ เราได้เปิดตัวความร่วมมือครั้งแรกกับเพื่อนสนิทของเราที่ Acala](https://subquery.medium.com/subquery-integrates-acala-to-aggregate-and-serve-defi-data-to-polkadot-and-kusama-builders-fc9af6a7aae1) เพื่อให้ผู้ใช้และนักพัฒนาสามารถสืบค้นและดึงข้อมูลจากศูนย์กลาง DeFi ของ Acala สำหรับ Polkadot ได้ในเวลาเพียงไม่กี่นาทีและไม่มีค่าใช้จ่าย เมื่อคุณเข้าถึง SubQuery Explorer คุณจะได้รับการต้อนรับด้วยโปรเจ็ค Acala SubQuery ใหม่ SubQuery นี้จะติดตามข้อมูลภายนอกทั้งหมดที่สร้างบน Acala แบบไดนามิกและสามารถแสดงสถิติรวมที่ได้รับได้อย่างรวดเร็วสำหรับสิ่งต่อไปนี้:
+[Earlier we launched our first partnership with our close friends at Acala](../customer_announcements/20210316-SubQuery-Integrates-Acala-to-Aggregate-and-Serve-DeFi-Data-to-Polkadot-and-Kusama-Builders.md) to allow users and developers to query and extract data from Acala’s DeFi hub for Polkadot in only minutes and at no cost. เมื่อคุณเข้าถึง SubQuery Explorer คุณจะได้รับการต้อนรับด้วยโปรเจ็ค Acala SubQuery ใหม่ SubQuery นี้จะติดตามข้อมูลภายนอกทั้งหมดที่สร้างบน Acala แบบไดนามิกและสามารถแสดงสถิติรวมที่ได้รับได้อย่างรวดเร็วสำหรับสิ่งต่อไปนี้:
 
--   ข้อมูลย้อนหลังเกี่ยวกับการเปลี่ยนแปลงสภาพคล่อง (แยกตามผู้ให้บริการ)
--   ข้อมูลย้อนหลังของการแลกเปลี่ยนสินทรัพย์ cross-chain ทั้งหมด
--   ประวัติการโอน
+- ข้อมูลย้อนหลังเกี่ยวกับการเปลี่ยนแปลงสภาพคล่อง (แยกตามผู้ให้บริการ)
+- ข้อมูลย้อนหลังของการแลกเปลี่ยนสินทรัพย์ cross-chain ทั้งหมด
+- ประวัติการโอน
 
 ![](https://miro.medium.com/max/1400/0*LOig1jNfPTuVk73D)
 
-> คุณสามารถสร้าง dApp สำหรับผู้ให้กู้ที่แสดงอัตราส่วนการค้ำประกัน จำนวนเงินกู้ ดอกเบี้ยค้างรับ ฯลฯ หรือบริการแลกเปลี่ยนแบบกระจายอำนาจด้วยคู่ pair สภาพคล่อง, คู่ pair อัตราแลกเปลี่ยน, trading volumes
+คุณสามารถสร้าง dApp สำหรับผู้ให้กู้ที่แสดงอัตราส่วนการค้ำประกัน จำนวนเงินกู้ ดอกเบี้ยค้างรับ ฯลฯ หรือบริการแลกเปลี่ยนแบบกระจายอำนาจด้วยคู่ pair สภาพคล่อง, คู่ pair อัตราแลกเปลี่ยน, trading volumes
 
 เรากำลังวางแผนที่จะปรับปรุงเครื่องมือสำหรับ partner ของเราในไม่ช้านี้ และกำลังวางแผนที่จะเริ่มต้นใช้งานโปรโตคอลชั้นนำอื่นๆ ในสัปดาห์หน้าหรือสองสัปดาห์ข้างหน้าอย่างรวดเร็ว
 
-_คุณต้องการเริ่มต้นและสร้างโครงการ SubQuery ใหม่สำหรับ dApp ของคุณเองหรือไม่ —_ [_เริ่มต้นทันที_](https://doc.subquery.network/quickstart.html)_ ซึ่งเราจะโฮสต์ไว้ใน_ [_SubQuery Explorer_](https://subquery.medium.com/announcing-the-subquery-explorer-48c051483730) _ฟรี!_ อีกด้วย
+_คุณต้องการเริ่มต้นและสร้างโครงการ SubQuery ใหม่สำหรับ dApp ของคุณเองหรือไม่ —_ [_เริ่มต้นทันที_](https://doc.subquery.network/quickstart.html)_ We’ll even host it in our_ [_SubQuery Explorer_](../blogs/20210305-Announcing-the-SubQuery-Explorer.md) _for free!_
 
 ## **Berkeley Blockchain Xcelerator**
 
-[ในเดือนมีนาคม เรารู้สึกตื่นเต้นที่จะประกาศ](https://subquery.medium.com/subquery-joins-berkeleys-blockchain-xcelerator-7ea81f96af73)ว่า Berkeley ได้เลือก SubQuery ให้เป็นส่วนหนึ่งของ [Blockchain Xcelerator](https://www.xcelerator.berkeley.edu/) สุดพิเศษของพวกเขา SubQuery (และเป็นบริษัทแม่ OnFinality) ได้รับเลือกจากแอปพลิเคชันกว่า 200 รายการให้เป็นส่วนหนึ่งของจุดพิเศษเพียง 21 รายการ
+[We were excited to announce in March](../blogs/20210523-SubQuery-Joins-Berkeleys-Blockchain-Xcelerator.md) that Berkeley has selected SubQuery to be part of their exclusive [Blockchain Xcelerator](https://www.xcelerator.berkeley.edu/). SubQuery (และบริษัทแม่ OnFinality) ได้รับเลือกจากแอปพลิเคชันกว่า 200 รายการให้เป็นส่วนหนึ่งของโควต้าพิเศษเพียง 21 รายการ
 
-Xcelerator บล็อคเชนของ Berkeley เป็นที่รู้จักไปทั่วโลกว่าเป็นหนึ่งในตัวเร่งความเร็วบล็อคเชนที่ประสบความสำเร็จมากที่สุดด้วยเหตุผลหนึ่ง บริษัทได้บ่มเพาะบริษัทกว่า 40 แห่งที่ระดมทุนกว่า 25 ล้านดอลลาร์ในการระดมทุนขั้นต้นและระยะเริ่มต้น และมากกว่า 75% ของส่วนแรกได้ระดมทุนที่ตามมา
+มันมีเหตุผลว่าทำไม Blockchain Xcelerator ของ Berkeley ถึงเป็นที่รู้จักไปทั่วโลกว่าเป็นหนึ่งในตัวเร่งความเร็วบล็อคเชนที่ประสบความสำเร็จมากที่สุด พวกเขาได้บ่มเพาะบริษัทกว่า 40 แห่งที่สามารถระดมทุนได้มากกว่า 25 ล้านดอลลาร์ในการระดมทุนช่วงแรกและขั้นเริ่มต้น และมากกว่า 75% ของบริษัทรุ่นแรกระดมทุนเพิ่มได้หลังจากนั้น
 
 ![](https://miro.medium.com/max/1400/0*t-_mRJaTnGDQO-VI)
 
