@@ -19,7 +19,7 @@ Trong bản cập nhật tháng này:
 
 ## Announced our fundraising round 💰
 
-We were thrilled to announce the [close of our US$9m Series A fundraising](https://subquery.medium.com/series-a-1abed6c1c2af) in September and were delighted with the response that we received from all the key crypto media. Apart from coverage in [Coindesk](https://www.coindesk.com/business/2021/09/08/subquery-gets-9m-in-series-a-to-improve-access-to-blockchain-data-on-polkadot/), [CoinTelegraph](https://cointelegraph.com/news/subquery-raises-9m-for-polkadot-data-protocol), [The Block](https://www.theblockcrypto.com/post/116915/subquery-indexing-protocol-polkadot-funding-saft) and many others, some of our leading investors also published their investment thesis.
+We were thrilled to announce the [close of our US$9m Series A fundraising](../blogs/20210908-SubQuery-Announces-US%249-Million-Funding-Round.md) in September and were delighted with the response that we received from all the key crypto media. Apart from coverage in [Coindesk](https://www.coindesk.com/business/2021/09/08/subquery-gets-9m-in-series-a-to-improve-access-to-blockchain-data-on-polkadot/), [CoinTelegraph](https://cointelegraph.com/news/subquery-raises-9m-for-polkadot-data-protocol), [The Block](https://www.theblockcrypto.com/post/116915/subquery-indexing-protocol-polkadot-funding-saft) and many others, some of our leading investors also published their investment thesis.
 
 Rennick Palley of [Stratos Capital stated that SubQuery](https://medium.com/stratos-technologies/the-google-of-the-decentralized-world-our-investment-in-subquery-e6e7d949b00a) is "The Google of the Decentralized World" and that "SubQuery is a prototypical example of how Web 3 principals take what works from Web 2 & makes it transparent, fair, and community driven."
 
@@ -57,7 +57,7 @@ Crypto influencer Layah Heilpern interviewed Sam and James about our progress to
 
 ## SubQuery Network Progress 🏗
 
-In the past month we have really accelerated the work that we're doing on the SubQuery Network, [our decentralised and incentivised future](https://subquery.medium.com/the-subquery-network-a-summary-46cde0acb010). We've brought on new members to our team to start work on code and also fine tune our tokenomics.
+In the past month we have really accelerated the work that we're doing on the SubQuery Network, [our decentralised and incentivised future](../blogs/20210614-Introducing-SubQuery-Network-The-Next-Big-Step-Towards-our-Decentralised-Future.md). We've brought on new members to our team to start work on code and also fine tune our tokenomics.
 
 We're putting the finishing touches on proof of indexing, a necessary and significant bit of work that provides guarantees that two SubQuery indexers are equivalent. We're using Merkle Mountain ranges to do this, take a look at the code if you're interested.
 
@@ -67,13 +67,13 @@ Keep an eye out in the coming weeks for our first draft of a high level product 
 
 In September, we announced that we were helping the teams at [Parallel Finance](https://parallel.fi/) and [DotMarketCap](http://www.dotmarketcap.com/) with their data needs.
 
-Parallel Finance là một giao thức thị trường tiền tệ phi tập trung cung cấp dịch vụ cho vay, đặt cọc và vay trong hệ sinh thái Polkadot. [SubQuery's service helps Parallel Finance](https://subquery.medium.com/parallel-finance-is-creating-the-next-defi-platform-using-subquery-6fc1e366985a) store, analyse, and query data on their current Heiko testnet. Một số dữ liệu này được sử dụng trực tiếp trong ứng dụng mới của Parallel, giúp người dùng hiểu và phân tích dữ liệu DeFi.
+Parallel Finance là một giao thức thị trường tiền tệ phi tập trung cung cấp dịch vụ cho vay, đặt cọc và vay trong hệ sinh thái Polkadot. [SubQuery's service helps Parallel Finance](../customer_announcements/20210916-Parallel-Finance-is-Creating-the-next-DeFi-Platform-using-SubQuery.md) store, analyse, and query data on their current Heiko testnet. Một số dữ liệu này được sử dụng trực tiếp trong ứng dụng mới của Parallel, giúp người dùng hiểu và phân tích dữ liệu DeFi.
 
 We are always delighted to get feedback like this from our partners:
 
 _"SubQuery is an excellent tool which brought traditional indexing & query technology to Parallel Heiko. The plug-and-play service really saved us a lot of time developing our own block indexing tool and maintaining our own solution."_ --- Parallel Finance
 
-In the case of DotMarketCap, [SubQuery was responsible for feeding information](https://subquery.medium.com/dotmarketcap-2-0-launches-with-support-from-subquery-and-subvis-ef85b5e0ee31) relating to the second batch of Kusama Parachain Auctions to DotMarketCap users. The interesting thing about this collaboration is that the real-time data was actually coming from SubQuery to an existing [project maintained by SubVis](https://explorer.subquery.network/subquery/subvis-io/kusama-auction) and then picked up again by DotMarketCap. For SubQuery, this is a realisation of our goal to build an open community marketplace of data in our Explorer, it also shows how symbiotic the Polkadot ecosystem is and how teams work together to achieve a shared goal of a decentralised future.
+In the case of DotMarketCap, [SubQuery was responsible for feeding information](../customer_announcements/20210909-DotMarketCap-Launches-with-Support-from-SubQuery-and-SubVis.md) relating to the second batch of Kusama Parachain Auctions to DotMarketCap users. The interesting thing about this collaboration is that the real-time data was actually coming from SubQuery to an existing [project maintained by SubVis](https://explorer.subquery.network/subquery/subvis-io/kusama-auction) and then picked up again by DotMarketCap. For SubQuery, this is a realisation of our goal to build an open community marketplace of data in our Explorer, it also shows how symbiotic the Polkadot ecosystem is and how teams work together to achieve a shared goal of a decentralised future.
 
 If you would like to learn more [you can view all projects easily via our Explorer here](https://explorer.subquery.network/).
 
