@@ -1,11 +1,10 @@
 # SubQuery Network - สรุป
 
-> SubQuery Network ทำงานอย่างไร? [อธิบายให้เข้าใจง่ายๆ](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
+**SubQuery Network ทำงานอย่างไร? [อธิบายให้เข้าใจง่ายๆ](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)**
 
 วันนี้เราจะมาพูดถึงว่า SubQuery Network ทำงานอย่างไรในระดับสูง
 
 ## ผู้มีส่วนร่วม
-
 
 ![](https://miro.medium.com/max/1400/1*9993cakplwupZC5tbUv3vA.png)
 
@@ -13,9 +12,9 @@
 
 ผู้มีส่วนร่วมในเครือข่าย SubQuery Network มี 3 ส่วนคือ:
 
--   **Consumer(ผู้ใช้ข้อมูล)**: Consumer จะสร้างคำขอสำหรับข้อมูลที่เฉพาะเจาะจงไปยัง SubQuery Network และจะจ่ายค่าข้อมูลนั้นๆด้วย SQT
--   **Indexer(ผู้สร้างดัชนี)**: Indexer จะโฮสต์ SubQuery บนโครงสร้างพื้นฐานของตนเอง, ดำเนินการทั้งโหนดและบริการ query เพื่อสร้างดัชนีข้อมูลและตอบคำขอของ GraphQL
--   **Delegator(ตัวแทน)**: Delegator จะมีส่วนร่วมในเครือข่ายด้วยการสนับสนุน indexer ที่ตัวเองชื่นชอบ เพื่อรับรางวัลส่วนแบ่งจาก Indexer
+- **Consumer(ผู้ใช้ข้อมูล)**: Consumer จะสร้างคำขอสำหรับข้อมูลที่เฉพาะเจาะจงไปยัง SubQuery Network และจะจ่ายค่าข้อมูลนั้นๆด้วย SQT
+- **Indexer(ผู้สร้างดัชนี)**: Indexer จะโฮสต์ SubQuery บนโครงสร้างพื้นฐานของตนเอง, ดำเนินการทั้งโหนดและบริการ query เพื่อสร้างดัชนีข้อมูลและตอบคำขอของ GraphQL
+- **Delegator(ตัวแทน)**: Delegator จะมีส่วนร่วมในเครือข่ายด้วยการสนับสนุน indexer ที่ตัวเองชื่นชอบ เพื่อรับรางวัลส่วนแบ่งจาก Indexer
 
 ## Indexers, Consumers, และ Queries
 
@@ -25,7 +24,7 @@
 
 ![](https://miro.medium.com/max/1400/1*dKLkzSc2uXYaPW_IXUxstQ.png)
 
-Consumer
+Consumer จะสร้างคำขอสำหรับข้อมูลที่มีความเจาะจงไปยัง SubQuery Network และจะจ่ายค่าข้อมูลตามจำนวนเงินที่ประกาศไว้ด้วยโทเค็น SQT
 
 ## ฟังก์ชั่นการผลิตแบบ Cobb-Douglas
 
@@ -33,7 +32,7 @@ Consumer
 
 ![](https://miro.medium.com/max/1400/1*E-W7o7cWoclxHb8rXAMdpA.png)
 
-มันจะถูกแจกจ่ายผ่าน Indexer ด้วยสิ่งที่เรียกว่าฟังก์ชั่นการผลิตแบบ Cobb-Douglas
+โดยจะถูกแบ่งผ่านไปยัง Indexer ด้วยสิ่งที่เรียกว่า ฟังก์ชั่นการผลิตแบบ Cobb-Douglas
 
 อธิบายง่ายๆคือ รายได้จะถูกจัดสรรตามความสามารถในการแข่งขันของ Indexer ตามสัดส่วนคำขอที่เข้ามาและจำนวนโทเค็นที่ stake
 
