@@ -8,7 +8,7 @@
 
 ไม่นานมานี้ [Darwinia](https://darwinia.network/) ได้เปิดตัวโครงการ SubQuery ใหม่ 2 โครงการ โครงการหนึ่งสำหรับ [เครือข่ายหลัก](https://explorer.subquery.network/subquery/darwinia-network/darwinia) และอีกโครงการสำหรับ [Crab](https://explorer.subquery.network/subquery/darwinia-network/crab) ซึ่งเป็นเครือข่าย Canary ของพวกเขา การเปิดเผยข้อมูลใน SubQuery ทำให้ Darwinia เปิดโอกาสให้แอพลิเคชั่นของพวกเขาในการสร้างแอปพลิเคชันที่มีส่วนร่วมมากขึ้นบนแหล่งข้อมูลฟรีนี้
 
-> “การใช้ SubQuery เพื่อ query ข้อมูลบนเครือข่ายของ Darwinia กลายเป็นเรื่องง่ายและยืดหยุ่น SubQuery ถือว่าข้อมูลบล็อคเชนเป็นกราฟ และใช้ประโยชน์จากความสามารถในการขยายของ GraphQL เพื่อแนะนำฟังก์ชันเพิ่มเติม เราเชื่อว่าในอนาคต อินเทอร์เฟซข้อมูลบนซับสเตรตเชนจะใช้ GraphQL เป็นหลัก ซึ่ง SubQuery กำลังทำให้สิ่งนี้เป็นจริง” — Darwinia
+> _"Using SubQuery to query Darwinia’s on-chain data has become very simple and flexible. SubQuery ถือว่าข้อมูลบล็อคเชนเป็นกราฟ และใช้ประโยชน์จากความสามารถในการขยายของ GraphQL เพื่อแนะนำฟังก์ชันเพิ่มเติม We believe that in the future, the data interface on the substrate chain will mainly use GraphQL, SubQuery is making this a reality"_ — Darwinia
 
 บริการของ[SubQuery](https://subquery.network/)ช่วยให้ Darwinia ปลดล็อกข้อมูลของเชน และทำให้ระบบนิเวศของแอปพลิเคชันของพวกเขาเข้าถึงได้มากขึ้น แอปพลิเคชัน เช่น ตลาด NFT สามารถใช้ข้อมูลจาก SubQuery ของ Darwnia เพื่อแสดงสถิติการประมูล และยังสามารถขยายโครงการ Darwinia SubQuery เพื่อรวบรวมและแปลงข้อมูลเพื่อให้ข้อมูลเชิงลึกที่ไม่ซ้ำใครมากยิ่งขึ้น
 
