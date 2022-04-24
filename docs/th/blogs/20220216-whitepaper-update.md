@@ -1,83 +1,83 @@
-# SubQuery Releases Updated Whitepaper
+# SubQuery เผยแพร่ Whitepaper ฉบับปรับปรุง
 
 ![](https://miro.medium.com/max/700/0*guA8YHyJPhu0wmzf)
 
-_An updated plan for how SubQuery will revolutionise the future of web3 infrastructure_
+_อัปเดตแผนการสำหรับแนวทางที่ SubQuery จะปฏิวัติอนาคตของโครงสร้างพื้นฐาน Web3_
 
-After a long period of design, discussion, testing, and development, today we are releasing a new and significantly [updated version of our Whitepaper](https://static.subquery.network/whitepaper.pdf). Originally published back in June 2021, the SubQuery Whitepaper is a document that outlines our strategic framework for the decentralised SubQuery Network and her SQT token. Since the original publication, we have experienced significant growth in our customer base and community and made huge progress on building the SubQuery Network. From these sources, we have been inspired to improve and innovate, and that culminates in the latest version of our whitepaper.
+หลังจากการออกแบบ, อภิปราย, ทดสอบ และพัฒนา มาอย่างยาวนาน วันนี้เราจึงได้ทำการเผยแพร่ [เอกสาร Whitepaper ฉบับปรับปรุงใหม่ ](https://static.subquery.network/whitepaper.pdf) จากการเผยแพร่ครั้งแรกในเดือนมิถุนายน 2021 SubQuery Whitepaper คือเอกสารสรุปกรอบการทำงานเชิงกลยุทธ์ของเรา สำหรับโปรเจกต์การกระจายอำนาจ SubQuery Network และโทเค็น SQT นับตั้งแต่การเผยแพร่ครั้งแรก ฐานลูกค้าและชุมชนของเราได้เติบโตขึ้นอย่างมีนัยสำคัญ และมีความก้าวหน้าอย่างมากในการสร้าง SubQuery Network สิ่งเหล่านี้ทำให้เราได้รับแรงบันดาลใจในการปรับปรุงและสร้างสรรค์สิ่งใหม่ๆ และได้กลายมาเป็น Whitepaper เวอร์ชั่นล่าสุดของเรา
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ghxyw5bIHs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ghxyw5bIHs8" title="YouTube Video Player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This whitepaper outlines SubQuery’s plans to move towards a globally decentralised network of participants organising blockchain data in order to ensure no single point of failure for SubQuery. It is expected that this will massively increase SubQuery’s uptime, provide better redundancy, and increase performance by driving down latency. It is envisioned that applications will be able to use GraphQL to query any store of data (as defined by the SubQuery Project) from Indexers around the network.
+เนื้อหาของ Whitepaper ฉบับนี้เป็นเค้าโครงแผนการของ SubQuery ในการที่จะก้าวไปสู่การเป็นเครือข่ายแบบกระจายศูนย์ระดับโลกแก่ผู้เข้าร่วมการจัดระเบียบข้อมูลบน เพื่อให้แน่ใจว่าไม่มีจุดใดที่ผิดพลาดแม้แต่จุดเดียวสำหรับ SubQuery เป็นที่คาดหวังว่าสิ่งนี้จะเพิ่มเวลา Uptime ของ SubQuery ได้อีกมาก จัดเตรียมระบบ Redundancy ที่ดียิ่งขึ้น และเพิ่มประสิทธิภาพด้วยการลด Latency จะเห็นได้ว่าแอปพลิเคชันต่างๆ จะสามารถใช้ GraphQL เพื่อสืบค้นคลังเก็บข้อมูลใดๆ (ตามที่กำหนดโดยโปรเจกต์ SubQuery) จาก Indexer ทั่วทั้งเครือข่าย
 
 ![](https://miro.medium.com/max/700/0*xtd6e7mn7JkfhpzG)
 
-## Our Focus
+## สิ่งที่เรามุ่งเน้น
 
-The [updated whitepaper](https://static.subquery.network/whitepaper.pdf) maintains SubQuery’s conviction that the data services of tomorrow must be multi-chain, simple, and flexible. The whitepaper goes into detail on how the SubQuery Network factors these considerations into the token economic design while also enabling power users to run enterprise-level services on it.
+[Whitepaper ฉบับปรับปรุงนี้](https://static.subquery.network/whitepaper.pdf) รักษาความเชื่อมั่นของ SubQuery ที่ว่า บริการด้านข้อมูลแห่งอนาคตจะต้องเป็นมัลติเชน, เรียบง่าย และยืดหยุ่น ในเอกสาร Whitepaper จะลงรายละเอียดว่า SubQuery Network มีปัจจัยในการพิจารณาออกแบบ Tokenomic อย่างไร ในขณะที่ยังคงเปิดให้ผู้ใช้ระดับองค์กรสามารถเรียกใช้บริการได้ด้วย
 
-### Multi-chain by Design
+### การออกแบบให้เป็นมัลติเชน (Multi-chain)
 
-_SubQuery believes in the idea that a community of blockchains, working together to encourage web3 adoption, is the future_
+_SubQuery เชื่อในแนวคิดที่ว่า ชุมชนควรทำงานร่วมกันเพื่อผลักดันให้เกิดการยอมรับ Web3 ซึ่งเป็นอนาคต_
 
-SubQuery is native to the Polkadot ecosystem, it’s our home and will be the location of the SubQuery Network. But the future is multi-chain. SubQuery knows that there are going to be many different blockchains working together to solve different problems.
+SubQuery มีพื้นฐานอยู่บนระบบนิเวศ Polkadot ที่นี่เป็นบ้านของเราและจะเป็นตำแหน่งที่ตั้งของ SubQuery Network แต่ในอนาคตจะเป็นมัลติเชน SubQuery รู้ดีว่าจะมีต่างๆ มากมายเข้ามาทำงานร่วมกันเพื่อแก้ปัญหาที่แตกต่างกันออกไป
 
-The SubQuery Network is designed to support any SubQuery Project from any Layer 1 network (within Polkadot or not). It will be designed and built to be multi-chain from the outset, where you will see projects from one network being indexed alongside projects from another.
+SubQuery Network ได้รับการออกแบบมาเพื่อให้รองรับกับโปรเจกต์ SubQuery จากเครือข่าย Layer 1 ใดๆ ก็ตาม (ไม่ว่าจะอยู่ภายใน Polkadot หรือไม่ก็ตาม) มันจะถูกออกแบบและสร้างให้เป็นมัลติเชนตั้งแต่ต้น โดยที่คุณจะเห็นโปรเจกต์จากเครือข่ายหนึ่งถูกสร้างควบคู่ไปกับโปรเจกต์จากอีกเครือข่ายหนึ่ง
 
-### Simple and Accessible
+### เรียบง่ายและเข้าถึงได้
 
-_The SubQuery Network is designed to be the data provider of the people._
+_SubQuery Network ได้รับการออกแบบให้เป็นผู้ให้บริการข้อมูลของประชาชน_
 
-The guiding principle with the SubQuery Network is simplicity. It is SubQuery’s opinion that other approaches to decentralised data query services are overly complex and make it difficult for participants to predict their return on investment. The aim is to make it easy for you to get involved in the network, and to clearly forecast your future potential return.
+หลักการของ SubQuery Network คือความเรียบง่าย ตามความเห็นของ SubQuery นั้น วิธีการอื่นๆ ในการให้บริการสืบค้นข้อมูลแบบกระจายอำนาจนั้นมีความซับซ้อนจนเกินไป และทำให้ผู้เข้าร่วมคาดการณ์ผลตอบแทนที่จะได้รับจากการลงทุนได้ยาก เป้าหมายของเราจึงเป็นการทำให้คุณสามารถมีส่วนร่วมในเครือข่ายได้ง่าย และคาดการณ์ผลตอบแทนที่จะเกิดขึ้นในอนาคตได้อย่างชัดเจน
 
-SubQuery won’t require high staking thresholds to participate or huge investment into hardware. The focus will be on making SubQuery easier to join and build with than our competitors — SubQuery’s success depends on the success of others creating the future on it.
+SubQuery ไม่ต้องการการ stake เป็นจำนวนที่สูงเพื่อเข้าร่วม หรือลงทุนมหาศาลในฮาร์ดแวร์ เราจะมุ่งเน้นไปที่การทำให้ SubQuery สามารถเข้าร่วมและสร้างได้ง่ายกว่าคู่แข่งของเรา ความสำเร็จของ SubQuery ขึ้นอยู่กับความสำเร็จของผู้ที่สร้างอนาคตเหล่านั้นขึ้นมาด้วย
 
-This means that a design goal is to make it as easy as possible for anyone to participate. You don’t need to be a developer or have a deep knowledge of the token economic model, you can easily participate as a Delegator. As a Consumer, you also have plenty of payment options to best suit your needs. Finally, a key focus of the SubQuery Foundation is to ensure that there is enough support that anyone, from an expert blockchain team to a new hobbyist developer, can build their own SubQuery project.
+ซึ่งหมายความว่าเป้าหมายในการออกแบบคือการทำให้ทุกคนเข้ามามีส่วนร่วมได้ง่ายที่สุด คุณไม่จำเป็นต้องเป็นนักพัฒนาซอฟต์แวร์ หรือมีความรู้เชิงลึกเกี่ยวกับโมเดล Tokenomic คุณสามารถเข้าร่วมในฐานะ Delegator ได้อย่างง่ายดาย ในฐานะผู้บริโภค คุณยังมีตัวเลือกในการชำระเงินมากมายที่ตรงกับความต้องการของคุณมากที่สุด สุดท้ายนี้ สิ่งสำคัญที่ผู้ก่อตั้ง SubQuery มุ่งเน้นคือ เพื่อให้แน่ใจว่ามีการสนับสนุนเพียงพอที่จะช่วยให้ทุกคน ตั้งแต่ทีมผู้เชี่ยวชาญด้าน ไปจนถึงนักพัฒนาซอฟต์แวร์มือใหม่ที่เข้ามาทำเป็นงานอดิเรก ก็สามารถสร้างโปรเจกต์ SubQuery ของตนเองได้
 
-### Flexible
+### ยืดหยุ่นได้
 
-_SubQuery is just a tool in the hands of our community, endless opportunities exist limited only by the creativity of the people._
+_SubQuery เป็นเพียงเครื่องมือหนึ่งที่อยู่ในมือของคอมมูนิตี้ของเรา โอกาสอันไม่มีที่สิ้นสุดนั้นมีอยู่ หากแต่ถูกจำกัดไว้สำหรับผู้คนที่มีความคิดสร้างสรรค์เท่านั้น_
 
-The true advantages of SubQuery may lie in its flexibility — users will have the freedom to adapt and transform decentralised data to suit their needs. This drive for flexibility extends to making it easier for delegators to quickly and easily support different indexers without having to wait for extended unbonding periods. Finally, this approach is perfectly embodied by our introduction of three payment methods which we’ll cover next.
+ข้อได้เปรียบที่แท้จริงของ SubQuery อาจอยู่ที่ความยืดหยุ่น — ผู้ใช้จะมีอิสระในการปรับใช้และแปลงข้อมูลแบบกระจายศูนย์เพื่อให้เหมาะสมกับความต้องการของพวกเขา การขับเคลื่อนเรื่องความยืดหยุ่นนี้ยังครอบคลุมถึงการให้ Delegator สามารถสนับสนุน Indexer ที่แตกต่างกันได้อย่างรวดเร็วและง่ายดาย โดยไม่ต้องรอการขยายระยะเวลายกเลิกการผูกมัด สุดท้ายนี้ แนวทางดังกล่าวจะชัดเจนสมบูรณ์แบบได้โดยการแนะนำวิธีการชำระเงินสามวิธีที่เราจะกล่าวถึงถัดจากนี้
 
-## SubQuery’s Innovation in Payment Methods
+## นวัตกรรมวิธีการชำระเงินของ SubQuery
 
-The biggest change by far with this version of the whitepaper is our innovation in payment methods. Today, we generally pay with subscription-based payments for the music we listen to, the TV shows we watch, and the applications that we use. In pioneering web3 service applications, we’ve instead adopted a pay-as-you-go model, where each atomic transaction has an exact cost in the network.
+การเปลี่ยนแปลงที่ใหญ่ที่สุดของ Whitepaper ฉบับนี้คือ นวัตกรรมด้านวิธีการชำระเงินของเรา ทุกวันนี้ วิธีหลักในการชำระเงินของเรามักจะเป็นการสมัครสมาชิก(Subscription) สำหรับเพลงที่เราฟัง รายการทีวีที่เราดู และแอปพลิเคชันที่เราใช้ ในการให้บริการแอปพลิเคชัน Web3 รุ่นบุกเบิกนั้น เราได้นำรูปแบบการจ่ายตามการใช้งาน มาใช้แทน โดยที่ธุรกรรมแต่ละรายการในเครือข่ายจะมีราคาที่ชัดเจน
 
-We think subscription based or recurring payment methods are here to stay. Service providers like them because they represent predictable revenue, similarly on the other side consumers like them because they are a known and easily quantified cost. There’s also a psychological factor where once you subscribe, most consumers will feel obligated to consume as much if not all of it, increasing the demand for the service and allowing economies of scale to kick in.
+เราคิดว่ารูปแบบของการชำระเงินแบบสมัครสมาชิก(Subscription) หรือการเรียกเก็บเงินจากผู้ใช้งานเป็นประจำจะยังคงอยู่ต่อไป ผู้ให้บริการชอบวิธีการชำระเงินแบบนี้ เพราะทำให้สามารถคาดการณ์รายรับได้ เช่นเดียวกัน ทางฝั่งผู้ใช้บริการก็ชอบวิธีนี้เพราะพวกเขาสามารถรับรู้และคำนวณต้นทุนได้ง่าย นอกจากนี้ยังมีปัจจัยทางจิตวิทยาที่บ่งชี้ว่าเมื่อคุณสมัครรับบริการใดๆแล้ว ผู้บริโภคส่วนใหญ่จะต้องการใช้บริการให้มากที่สุดเท่าที่จะทำได้ ซึ่งเป็นการเพิ่มอุปสงค์ต่อการบริการนั้นๆ และยังช่วยในเรื่องการประหยัดต่อขนาด(economies of scale ) อีกด้วย
 
-As a result, SubQuery plans to introduce three ways to pay within the SubQuery Network, providing all participants with various flexible ways to transact with the SubQuery Token (SQT). Both Indexers and Consumers will come together on the Plan Marketplace to advertise their pricing and supported payment methods.
+เป็นผลให้ SubQuery วางแผนที่จะแนะนำรูปแบบการชำระเงินภายในเครือข่าย SubQuery สามรูปแบบ เพื่อให้ผู้เข้าร่วมทั้งหมดมีวิธีที่หลากหลายในการทำธุรกรรมด้วย SubQuery Token (SQT) ทั้ง Indexer และผู้ใช้บริการจะรวมตัวกันใน Plan Marketplace เพื่อนำเสนอวิธีการคำนวณราคาและวิธีการชำระเงินที่มีการรองรับ
 
 ![](https://miro.medium.com/max/700/0*f0yVHlbWTE8DdjuB)
 
-### Pay-As-You-Go (PAYG)
+### จ่ายตามการใช้งาน (PAYG)
 
-The first, and a standard amongst the web3 industry, is Pay-As-You-Go. This is the baseline payment method and a fallback for others. Each Indexer will advertise their PAYG prices when registering their ability to serve requests for specific SubQuery Projects.
+วิธีแรก คือแนวทางปกติในอุตสาหกรรม Web3 จ่ายเท่าที่คุณใช้ นี่คือวิธีการชำระเงินพื้นฐานและทางเลือกสำรองสำหรับผู้อื่น Indexer แต่ละคนจะแจ้งราคา PAYG เมื่อพวกเขาได้ทำการยื่นข้อเสนอรับงาน ตามความสามารถที่ SubQuery Project ต้องการ
 
-### Closed Plans and Agreements
+### Closed Plans และ ข้อตกลง
 
-Closed Agreements represent an agreement between only one Indexer and one Consumer. It’s a direct relationship where all payment flows between the two parties for the work that is done. Closed Agreements are designed to give Indexers confidence that there is a market for data from a particular SubQuery Project, and essentially signal to them which Projects should be indexed. Closed Plans can also be placed on existing SubQuery Projects to attract additional Indexers to that SubQuery Project. This may be useful in situations where the existing monopolistic Indexer may be charging an unreasonable amount for the data or there is a lack of competition to drive prices to equilibrium.
+Closed Agreements แสดงถึงข้อตกลงระหว่างผู้จัดทำ Index และผู้บริโภคเพียงรายเดียวเท่านั้น นี้เป็นความสัมพันธ์โดยตรงที่การชำระเงินทั้งหมดจะเกิดขึ้นเมื่อสองฝ่ายทำงานที่ได้รับจนเสร็จสิ้นแล้ว Closed Agreement ออกแบบมาเพื่อให้ Indexer มั่นใจว่าจะมีตลาดสำหรับข้อมูลจาก SubQuery Project โดยเฉพาะ และมีการส่งสัญญาณไปยังโครงการเหล่านั้นว่า Project ใดบ้างที่ควรมีการทำ Index Closed Plan ยังสามารถวางใน SubQuery Project ที่มีอยู่ เพื่อดึงดูด Indexer เข้ามาเพิ่มเติมให้กับ SubQuery Project นั้นๆ ซึ่งนี้อาจเป็นประโยชน์ในสถานการณ์ที่มี Indexer ผูกขาดแต่เพียงผู้เดียว และเขาอาจเรียกเก็บเงินในจำนวนที่ไม่สมเหตุผลสำหรับข้อมูล หรือสถานการณ์ที่มีการแข่งขันกันไม่เพียงพอ ที่จะผลักดันราคาไปสู่ราคาที่ควรจะเป็น
 
-### Open Plans and Agreements
+### Open Plans เเละ ข้อตกลง
 
-Open Agreements are similar to Closed Agreements, but allow multiple Indexers to join and compete to provide data to the Consumer. An Open Agreement may start as an Agreement between one Consumer and one Indexer, but more parties may join the existing Agreement resulting in ’n’ Indexers and ’n’ Consumers.
+Open Agreements มีความคล้ายกับ Closed Agreements แต่จะอนุญาตให้ Indexer หลายรายเข้าร่วมและแข่งขันกันเพื่อให้ข้อมูลที่ดีที่สุดแก่ผู้บริโภค Open Agreements อาจเริ่มต้นเพียงแค่ข้อตกลงระหว่างผู้บริโภคหนึ่งรายกับ indexer หนึ่งราย แต่อาจมีผู้เข้าร่วมที่มากขึ้นในภายหลังได้ ซึ่งจะส่งผลให้จำนวนเพิ่มเป็น Indexer 'n' ราย และผู้บริโภค 'n' ราย
 
-Open Agreements provide favourable terms for both Indexers and Consumers, but enable better performance and reliability for Consumers by attracting more Indexers to compete and serve the same data. If Consumers are running large scale applications with users around the world, then Open Agreements are ideal.
+Open Agreements มอบเงื่อนไขที่ดีขึ้นสำหรับทั้ง Indexer และผู้บริโภค อีกทั้งยังเพิ่มประสิทธิภาพและความน่าเชื่อถือที่ดีขึ้นสำหรับผู้บริโภคโดยการดึงดูดเหล่า Indexer ให้เข้ามาแข่งขันและบริการเพื่อข้อมูลที่ดียิ่งขึ้น หากผู้บริโภคมีการเปิดใช้งานแอปพลิเคชันในสเกลขนาดใหญ่ และมีผู้ใช้งานมาจากทั่วทุกมุมโลก Open Agreements ก็เป็นตัวเลือกที่เหมาะสมเป็นอย่างมาก
 
 ![](https://miro.medium.com/max/1400/0*sc9-ee7VTl0XEhTS)
 
-he combination of the above three payment options for indexers provide several advanced subscription based options for Consumers and Indexers. Some parties may benefit from the certainty of rewards provided by Closed Agreements and the predictability of recurring costs. Equally, others may instead prefer to hunt out the most affordable data by going for high volume recurring agreements or low spot prices on the Pay-as-you-Go market.
+การผสมผสานกันของวิธีการชำระเงินทั้ง 3 แบบข้างต้นสำหรับ Indexer ทำให้เกิดตัวเลือกการชำระเงินแบบการสมัครสมาชิก(Subscription) ที่ดีขึ้นมาอีกทางสำหรับผู้บริโภคและ Indexer บางฝ่ายอาจได้รับประโยชน์จากผลตอบแทนที่แน่นอนจากการชำระเงินแบบ Closed Agreements และสามารถการคาดการณ์รายจ่ายที่เกิดเป็นประจำตามรายงวด โดยเท่ากันๆ ผู้บริโภคท่านอื่นๆอาจจะหันไปเลือกการชำระเงินแบบรายงวด ที่ให้ปริมาณข้อมูลที่มากขึ้นแทน หรือทำข้อตกลงเพื่อลดราคาของการชำระเงินแบบจ่ายตามการใช้งานให้ถูกลง
 
-These changes, and many others outlined in the whitepaper illustrate our focus on building the largest web3 infrastructure service possible. We are confident that our token economic design is carefully considered and designed for inclusive growth for all participants. While starting with a huge centralised service and slowly moving towards a decentralised one isn’t easy, the team at SubQuery is up for the challenge and we hope you’ll join us!
+การเปลี่ยนแปลงนี้ และโครงร่างอื่นๆมากมายใน Whitepaper แสดงให้เห็นถึงการมุ่งเน้นของเรา บนการสร้างบริการโครงสร้างพื้นฐาน Web3 ที่ใหญ่ที่สุดเท่าที่จะเป็นไปได้ เรามั่นใจว่าการออกแบบ Tokenomic ของเราได้รับการพิจารณาและออกแบบมาอย่างรอบคอบเพื่อการเติบโตที่ครอบคลุมสำหรับผู้เข้าร่วมทุกคน แม้จะเป็นการเริ่มต้นมาจากบริการแบบรวมศูนย์ขนาดใหญ่และค่อยๆ ปรับไปสู่บริการแบบกระจายอำนาจอย่างช้าๆ ซึ่งไม่ใช่เรื่องที่ง่าย ทีมงาน SubQuery พร้อมสำหรับทุกความท้าทายและเราหวังว่าคุณจะเข้าร่วมกับเรา!
 
-For further information, please [contact our team in Discord](https://discord.com/invite/78zg8aBSMG) or chat with us in our next “Office Hours”. You can also [register your expression of interest](https://forms.gle/RyXyhb8T9Gxkwi7R9) to become an indexer in the imminent SubQuery test network.
+สำหรับข้อมูลเพิ่มเติม โปรด [ติดต่อทีมงานของเราในดิสคอร์ด](https://discord.com/invite/78zg8aBSMG) หรือพูดคุยกับเราใน "เวลาทำการ" คุณยังสามารถ[ลงทะเบียนเพื่อแสดงความสนใจ](https://forms.gle/RyXyhb8T9Gxkwi7R9)ในการร่วมเป็น Indexer ให้กับเครือข่ายการทดสอบของ SubQuery ที่กำลังจะมาถึง
 
-[Read the updated whitepaper](https://static.subquery.network/whitepaper.pdf)
+[อ่านเอกสาร Whitepaprt ฉบับปรับปรุง](https://static.subquery.network/whitepaper.pdf)
 
-## About SubQuery Network
+## เกี่ยวกับ SubQuery Network
 
-SubQuery’s mission is to help others create products that allow us to move to a decentralised future faster. SubQuery is a blockchain developer toolkit and the backbone of web3 infrastructure. A SubQuery project is a complete API to organise and query data from chains. Operating between layer-1 blockchains and decentralised apps (dApp), SubQuery is an open-source indexer organising and serving well-structured data over GraphQL. SubQuery powers the next generation of dApps and tools with web3 data
+เป้าหมายของ SubQuery คือการช่วยให้ผู้อื่นสามารถสร้างผลิตภัณฑ์ที่จะช่วยให้พวกเราก้าวไปสู่ระบบการกระจายอำนาจที่เป็นอนาคตได้เร็วยิ่งขึ้น SubQuery เป็นชุดเครื่องมือสำหรับนักพัฒนาและเป็นแกนหลักของโครงสร้างพื้นฐานของ Web3 โปรเจกต์ SubQuery เป็น API ที่ครบถ้วนสมบูรณ์ในการจัดระเบียบและสืบค้นข้อมูลจากเชน การทำงานระหว่าง Layer-1 และแอปพลิเคชั่นแบบกระจายอำนาจ(dApp) SubQuery เป็นผู้จัดระเบียบ Indexer แบบโอเพนซอร์ซ(Open-source) และให้บริการข้อมูลที่มีโครงสร้างที่ดีด้วยเทคโนโลยี GraphQL SubQuery คือพลังขับเคลื่อน dApp และเครื่องมือต่างๆ แห่งยุคถัดไปด้วยข้อมูล Web3
 
-Currently, anyone can already use SubQuery to extract and query blockchain data in only minutes and at no cost but in a centralised way. The SubQuery Network proposes to enable this same scalable and performant solution, but in a completely decentralised way.
+ปัจจุบัน ใครๆ ก็สามารถใช้งาน SubQuery ในการดึงและสืบค้นข้อมูลบนได้ภายในเวลาเพียงไม่กี่นาทีและไม่มีค่าใช้จ่าย หากแต่ยังเป็นวิธีการแบบรวมศูนย์อยู่ SubQuery Network นำเสนอให้มีการเปิดใช้งานโซลูชันที่ปรับขนาดได้และมีประสิทธิภาพแบบเดียวกันนี้ ด้วยแนวทางที่มีการกระจายอำนาจอย่างสมบูรณ์
 
-[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[ลิงค์ทรี](https://linktr.ee/subquerynetwork) | [เว็บไซต์](https://subquery.network/) | [ดิสคอร์ด](https://discord.com/invite/78zg8aBSMG) | [เทเลแกรม](https://t.me/subquerynetwork) | [ทวิตเตอร์](https://twitter.com/subquerynetwork) | [เมทริกซ์](https://matrix.to/#/#subquery:matrix.org) | [ลิงค์อิน](https://www.linkedin.com/company/subquery) | [ยูทูป](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
