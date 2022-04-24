@@ -4,8 +4,7 @@
 
 ไม่นานมานี้ Bifrost เปิดตัวเบต้าของ dApp ใหม่ ซึ่งเป็นอินเทอร์เฟซแบบโต้ตอบอย่างเป็นทางการสำหรับบริการ Bifrost ทั้งหมด ด้วย dApp นี้ ผู้ใช้สามารถ mint vTokens, สามารถ redeem, แลกเปลี่ยนอนุพันธ์เหล่านี้ และสามารถดูรายได้ของพวกเขาได้แบบเรียลไทม์ Dapp รุ่นเบต้านี้เป็นก้าวที่ยิ่งใหญ่ในการช่วยให้ผู้ใช้ลดต้นทุนการ stake ข้ามเครือข่ายโดยการรักษาสภาพคล่อง [คุณสามารถลองใช้ dApp ใหม่ของ Bifrost ได้ที่นี่](https://apps.bifrost.finance/)
 
-> “ถ้าไม่มี SubQuery มันเป็นเรื่องยากที่จะจินตนาการว่าการรวบรวมข้อมูลด้วยตนเองจากเชนนั้นซับซ้อนขนาดไหน นักพัฒนา Bifrost อาจใช้เวลาอย่างมากในการค้นหาข้อมูลธุรกรรมทั้งหมดในเชนเพื่อใช้สำหรับทำประวัติการทำธุรกรรม SubQuery ช่วยให้นักพัฒนาประหยัดค่าใช้จ่ายในการทำงานที่ซ้ำซากจำเจ Bifrost จะร่วมมือกับ SubQuery เป็นระยะเวลานานเพื่อเร่งความเร็วของการพัฒนาผลิตภัณฑ์” — Bifrost.Finance
-
+> _"Without SubQuery, it is difficult to imagine how complicated it is to manually collect data from the chain. นักพัฒนา Bifrost อาจใช้เวลาอย่างมากในการค้นหาข้อมูลธุรกรรมทั้งหมดในเชนเพื่อใช้สำหรับทำประวัติการทำธุรกรรม SubQuery ช่วยให้นักพัฒนาประหยัดค่าใช้จ่ายในการทำงานที่ซ้ำซากจำเจ Bifrost will cooperate with SubQuery for a long time to accelerate the iterative speed of product development"_ — Bifrost.Finance
 
 ![](https://miro.medium.com/max/1400/0*_JK-h0rjef6rk1ot)
 
