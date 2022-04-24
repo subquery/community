@@ -6,7 +6,7 @@
 
 ![](https://cdn-images-1.medium.com/max/1600/1*5Ru0mv1hq86BuBhGwsmoqQ.png)
 
-> *"SubQuery - це чудовий інструмент, який приніс традиційну технологію індексування запитів у Parallel Heiko. Служба "plug-and-play" дійсно заощадила нам багато часу на розробку власного інструменту індексації блоків та підтримку власного рішення. "*- Parallel Finance*
+> *"SubQuery - це чудовий інструмент, який приніс традиційну технологію індексування запитів у Parallel Heiko. The plug-and-play service really saved us a lot time developing our own block indexing tool and maintaining our own solution."* - Parallel Finance
 
 [Сервiси SubQuery](https://subquery.network/) допомагають Parallel Finance зберігати, аналізувати та запитувати дані у їх поточній тестовій мережі Heiko. Деякі з цих даних використовуються безпосередньо в новій програмі Parallel, допомагаючи користувачам зрозуміти та проаналізувати дані DeFi.
 
@@ -16,7 +16,7 @@
 
 ![](https://cdn-images-1.medium.com/max/1600/1*FDRgez-G26x1DkWqCkORMQ.png)
 
-> *"Нам приємно працювати з командою SubQuery та індивідуальним обслуговуванням клієнтів, яке вони нам надають. Ми плануємо використовувати його більше, оскільки ми впроваджуємо більше можливостей у наш додаток DeFi. "*- Parallel Finance*
+> *"Нам приємно працювати з командою SubQuery та індивідуальним обслуговуванням клієнтів, яке вони нам надають. We plan to use it more as we introduce more features into our DeFi application."* - Parallel Finance
 
 У наведеному нижче прикладі ми використовуємо SubQuery для показу історичного курсу обміну для всіх активів у кожному блоці.
 
@@ -26,7 +26,7 @@ Parallel Finance використовує [ проекти SubQuery ](https://pr
 
 [Ви можете дослідити дані Parallel Finance в SubQuery сьогодні](https://explorer.subquery.network/subquery/parallel-finance/parallel-finance)
 
-* * * * *
+---
 
 ## Про Parallel Finance
 
