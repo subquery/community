@@ -10,7 +10,7 @@ Semua orang tahu bahwa kelemahan inti dari data blockchain adalah pemrosesan dan
 
 Membuat proyek SubQuery adalah, dan akan selalu, gratis. Pengembang harusnya menghabiskan waktu untuk membangun, bukan menjalankan infrastruktur. Namun kami percaya bahwa masa depan terdesentralisasi yang sehat membutuhkan beberapa penyedia layanan data terdistribusi yang bekerja sama untuk meningkatkan ketahanan, kecepatan, dan kinerja jaringan.
 
-## Introducing The SubQuery Network:
+## Memperkenalkan SubQuery Network:
 
 SubQuery Network adalah upaya kami untuk bergerak menuju jaringan terdesentralisasi dan tokenized untuk memastikan tidak ada satu titik kegagalan untuk SubQuery dan untuk mendorong sebanyak mungkin peserta dalam proses tersebut.
 
