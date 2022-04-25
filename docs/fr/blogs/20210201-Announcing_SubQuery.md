@@ -18,7 +18,7 @@ Comme les systèmes décentralisés stockent les données à travers les réseau
 
 L'objectif de SubQuery est d'aider les projets Polkadot/Substrate à créer de meilleures applications numériques en permettant à chacun de trouver et de consommer des données de manière fiable et plus rapide. Notre service permettra aux utilisateurs d'extraire, de transformer, de conserver et d'interroger des données dans un premier temps, ainsi que de connecter et de présenter des données à l'avenir. Notre objectif est d'en faire une pièce maîtresse de l'infrastructure de l'écosystème Substrate/Polkadot, tout comme The Graph l'est devenu pour Ethereum.
 
-**SubQuery is here to help you transform and query the world’s data for a web3.0 future.**
+**SubQuery est là pour vous aider à transformer et à interroger les données du monde pour un futur web3.0.**
 
 ![](https://miro.medium.com/max/1000/1*IHstJG-hBwQzicLdWkGR5w.png)
 
