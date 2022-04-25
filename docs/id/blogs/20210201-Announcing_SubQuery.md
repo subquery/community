@@ -62,9 +62,9 @@ Mulailah di [repository Github SubQuery.](https://github.com/OnFinality-io/subql
 
 Baca [dokumen SubQuery](https://doc.subquery.network/) kami
 
-[Visit our new website](https://subquery.network/)
+[Kunjungi website baru kami](https://subquery.network/)
 
-Follow us on:
+Ikuti kami di:
 
 - [Telegram](https://t.me/subquerynetwork)
 - [Twitter](https://twitter.com/subquerynetwork)
