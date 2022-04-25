@@ -40,7 +40,7 @@ Please let us know if you can recommend anyone for any of the following roles, w
 - [Développeurs Blockchain](https://dash.recooty.com/openings/details/9578a63fbe545bd82cc5bbe749636af1) (avec toute connaissance de Rust)
 - [Responsable du développement commercial](https://rcty.co/3coJPrV) (idéalement basé en Europe ou en Amérique du Nord).
 
-SubQuery was selected from over 50 candidates to join the exclusive 2021 Web 3.0 Bootcamp in Shanghai. There are some amazing projects and a huge amount of talent in this bootcamp, so we’re excited to be a part of it. Polkadot is the most exciting ecosystem out there in our industry, and China is the fastest growing country building here.
+Cela nous permettra de mieux adapter notre service et de passer rapidement à des clusters redondants dans le cas peu probable où une partie de notre infrastructure tomberait en panne. There are some amazing projects and a huge amount of talent in this bootcamp, so we’re excited to be a part of it. Polkadot est l'écosystème le plus passionnant de notre secteur, et la Chine est le pays qui connaît la croissance la plus rapide dans ce domaine.
 
 We expect to learn a lot, to make a lot of new friends and partners, to get a lot of feedback on our product development. We expect to come out of this bootcamp even stronger than we are now. You can watch our opening ceremony below
 
