@@ -4,7 +4,7 @@
 
 **SubQuery, TGE zaman çizelgesi dahil olmak üzere önemli kilometre taşlarını duyurdu**
 
-Bugün ayrıntılı teknik yol haritamızı ilk kez yayınlamaktan mutluluk duyuyoruz. SubQuery'nin hedefi, Polkadot ekosisteminde lider veri sağlayıcısı olmak ve bu vizyonu gerçekleştirmemize yardımcı olmak için topluluktan aldığımız destek inanılmazdı. From our formal establishment at the end of 2020 via a [Web3 Grant](https://web3.foundation/), to releasing our first open source version in January 2021, and [closing our Series A in September](./20210908-SubQuery-Announces-US%249-Million-Funding-Round.md) we would like to thank you for all of your support in getting us to this stage!
+Bugün ayrıntılı teknik yol haritamızı ilk kez yayınlamaktan mutluluk duyuyoruz. SubQuery'nin hedefi, Polkadot ekosisteminde lider veri sağlayıcısı olmak ve bu vizyonu gerçekleştirmemize yardımcı olmak için topluluktan aldığımız destek inanılmazdı. Bir [Web3 Hibe ](https://web3.foundation/) aracılığıyla 2020'nin sonundaki resmi kuruluşumuzdan, ilk açık kaynak sürümümüzü Ocak 2021'de yayınlamaya ve [A Serisini Eylül'de kapatmaya kadar](./20210908-SubQuery-Announces-US%249-Million-Funding-Round.md), Bizi bu aşamaya getiren tüm desteğiniz için teşekkür ederiz!
 
 Hız kazanmaya devam ederken, teknik yol haritamız da dahil olmak üzere geleceğe yönelik planlarımız hakkında daha fazlasını paylaşmanın zamanı geldi. SubQuery'nin bir sonraki evriminin Polkadot ekosistemine nasıl daha fazla değer katacağı ve topluluğumuzun büyümemize katılması için nasıl daha fazla fırsat sağlayacağı konusunda heyecanlıyız.
 
