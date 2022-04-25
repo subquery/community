@@ -4,7 +4,7 @@
 
 **SubQuery mengumumkan pencapaian utama termasuk timeline TGE**
 
-Hari ini kami dengan senang hati merilis roadmap teknis terperinci kami untuk pertama kalinya. Tujuan SubQuery adalah menjadi penyedia data terkemuka di ekosistem Polkadot dan dukungan yang kami dapatkan dari komunitas dalam membantu kami mewujudkan visi ini luar biasa. From our formal establishment at the end of 2020 via a [Web3 Grant](https://web3.foundation/), to releasing our first open source version in January 2021, and [closing our Series A in September](./20210908-SubQuery-Announces-US%249-Million-Funding-Round.md) we would like to thank you for all of your support in getting us to this stage!
+Hari ini kami dengan senang hati merilis roadmap teknis terperinci kami untuk pertama kalinya. Tujuan SubQuery adalah menjadi penyedia data terkemuka di ekosistem Polkadot dan dukungan yang kami dapatkan dari komunitas dalam membantu kami mewujudkan visi ini luar biasa. Dari pendirian resmi kami pada akhir tahun 2020 melalui [Web3 Grant](https://web3.foundation/), hingga merilis versi open source pertama kami pada Januari 2021, dan [menutup Seri A kami pada bulan September](./20210908-SubQuery-Announces-US%249-Million-Funding-Round.md), kami ingin berterima kasih atas semua dukungan Anda dalam membawa kami ke tahap ini!
 
 Saat kami terus mendapatkan momentum, saatnya telah tiba untuk berbagi lebih banyak tentang rencana kami untuk masa depan termasuk roadmap teknis kami. Kami sangat senang tentang bagaimana evolusi SubQuery berikutnya akan mendorong nilai lebih bagi ekosistem Polkadot dan memberikan lebih banyak peluang bagi komunitas kami untuk berpartisipasi dalam pertumbuhan kami.
 
