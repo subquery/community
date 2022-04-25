@@ -24,15 +24,15 @@ Mục đích của SubQuery là giúp các dự án Polkadot/Substrate xây dự
 
 Để giấc mơ Web 3.0 trở thành hiện thực, nó phải nhanh (nếu không muốn nói là nhanh hơn) so với các mạng tập trung cho người dùng cuối.
 
-Đó là lý do tại sao chúng tôi vô cùng tự hào khi công bố SubQuery, một dự án mã nguồn mở cho phép người dùng chạy trình lập chỉ mục trên chuỗi của họ để tạo tập dữ liệu có thể được truy vấn bằng GraphQL. Bộ công cụ này bao gồm một giao diện dòng lệnh để cho phép các dự án tạo dự án SubQuery của riêng họ, xác định cách các chỉ mục sẽ đi qua và tích hợp với mạng lưới. There’s a SubQuery node package that indexes the network and supports GraphQL queries. With the help of these tools, anyone can create and run queries easily.
+Đó là lý do tại sao chúng tôi vô cùng tự hào khi công bố SubQuery, một dự án mã nguồn mở cho phép người dùng chạy trình lập chỉ mục trên chuỗi của họ để tạo tập dữ liệu có thể được truy vấn bằng GraphQL. Bộ công cụ này bao gồm một giao diện dòng lệnh để cho phép các dự án tạo dự án SubQuery của riêng họ, xác định cách các chỉ mục sẽ đi qua và tích hợp với mạng lưới. Bộ công cụ cũng bao gồm một node package SubQuery lập chỉ mục mạng và hỗ trợ các truy vấn GraphQL. Với sự trợ giúp của các công cụ này, bất kỳ ai cũng có thể tạo và chạy các truy vấn một cách dễ dàng.
 
-**You can get started right away by following our example on the SubQuery Github repository: [_https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql)**
+**Bạn có thể bắt đầu ngay lập tức bằng cách làm theo ví dụ của chúng tôi trên Github của SubQuery: [_https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql)**
 
-Additionally, you can find out more by reading our [SubQuery docs](https://doc.subquery.network/) or visiting our new website at [https://subquery.network/](https://subquery.network/)
+Ngoài ra, bạn có thể tìm hiểu thêm bằng cách đọc [tài liệu SubQuery](https://doc.subquery.network/) của chúng tôi hoặc truy cập trang web mới của chúng tôi tại  địa chỉ [https://subquery.network/](https://subquery.network/)
 
 ![](https://miro.medium.com/max/1000/1*3oA1Hvns1vrImTsmowO_Jw.png)
 
-We’ll focus on building a managed hosted service based off this offering that will be more performant and scalable. We are going to provide trusty public infrastructure that will build a powerful productionised SubQuery node from an uploaded SubQuery project. The service will then index and persist the chain state, and provide a production GraphQL endpoint that can replace self-hosted implementations. We’re going to focus on this so that everyone else can focus on building and growing their dApp.
+Chúng tôi sẽ tập trung vào việc xây dựng một dịch vụ được lưu trữ và quản lý, nó sẽ hoạt động hiệu quả hơn và có thể mở rộng. Chúng tôi sẽ cung cấp cơ sở hạ tầng công cộng đáng tin cậy, từ đó xây dựng một nút SubQuery mạnh mẽ từ một dự án SubQuery đã tải lên. The service will then index and persist the chain state, and provide a production GraphQL endpoint that can replace self-hosted implementations. We’re going to focus on this so that everyone else can focus on building and growing their dApp.
 
 Once this is in place, our final phase is to tokenize the SubQuery business by building our own chain (likely parachain) for Polkadot. Although we’ll provide a similar billing model for enterprise and high consumption users (subscription plan with consumption levels), we’ll save this data to our chain to make it transparent to everyone and participating parties can stake for rewards as incentives. We’ll issue a governance token to provide stability to the chain and to allow the community to influence our direction and roadmap.
 
