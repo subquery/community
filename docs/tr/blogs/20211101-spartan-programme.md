@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/1*k5cScGKMiC45i_N-em3x0Q.png)
 
-In August, [SubQuery launched its Ambassador programme](./20210713-Introducing-the-SubQuery-Ambassador-Program.md) to find community leaders passionate about Polkadot and SubQuery. Amacımız, SubQuery hakkındaki sözleri yerel bölgelerinde yayacak ve Polkadot'ta harika uygulamalar ve hizmetler oluşturan yeni geliştiricilere destek sağlayabilecek kendi kendine başlayanlar bulmaktı.
+Ağustos ayında, [SubQuery, Polkadot ve SubQuery konusunda tutkulu topluluk liderlerini bulmak için Elçi programını](./20210713-Introducing-the-SubQuery-Ambassador-Program.md) başlattı. Amacımız, SubQuery hakkındaki sözleri yerel bölgelerinde yayacak ve Polkadot'ta harika uygulamalar ve hizmetler oluşturan yeni geliştiricilere destek sağlayabilecek kendi kendine başlayanlar bulmaktı.
 
 Sonrasını beklemiyorduk!
 
@@ -16,7 +16,7 @@ Elçi olma potansiyeline ek olarak, Spartan rolüne sahip Discord üyelerine Sub
 
 Spartan programımız hakkında daha fazla bilgi edinmek ve Kasım yarışmamıza katılmak için lütfen [Discordumuza katılın](https://discord.com/invite/subquery).
 
-## About SubQuery
+## SubQuery Hakkında
 
 SubQuery, katman-1 blok zincirleri (Moonriver ve Polkadot gibi) ve DApp'ler arasında çalışan bir veri toplama katmanıdır. Bu hizmet, blok zinciri verilerinin kilidini açar ve sezgisel uygulamalarda kullanılabilmesi için sorgulanabilir bir duruma dönüştürür. DApp geliştiricilerinin, veri işleme için özel bir arka uç oluşturmaya zaman kaybetmeden temel kullanım durumlarına ve ön uçlarına odaklanmalarına olanak tanır.
 
