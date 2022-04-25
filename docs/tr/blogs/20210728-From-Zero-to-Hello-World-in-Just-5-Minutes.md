@@ -8,7 +8,7 @@ Bugün yeni [dokümantasyon web sitemizi doc.subquery.network](https://doc.subqu
 
 ![](https://miro.medium.com/max/1200/1*snyFSjyQ9q116bmIcaVfsQ.gif)
 
-> _"Documentation may not be glamorous work but it plays a vital role in communicating how something works and allows us to empower our community members to learn and unleash their creativity. That is why we believe documentation is so important"_ — Sean Au (SubQuery Academy)
+> “Dokümantasyon göz alıcı bir iş olmayabilir, ancak bir şeyin nasıl çalıştığını iletmede hayati bir rol oynar ve topluluk üyelerimizi öğrenmeleri ve yaratıcılıklarını ortaya çıkarmaları için güçlendirmemize izin verir. Bu nedenle belgelemenin çok önemli olduğuna inanıyoruz” — Sean Au (SubQuery Academy)
 
 [Yeni dokümantasyon web sitemiz](https://doc.subquery.network/), blockchain veya Polkadot teknik anlayışlarına bakılmaksızın tüm kullanıcıları karşılamak için tasarlanmış davetkar bir açılış sayfasına sahiptir. Kullanıcılar, açılış sayfasından doğrudan bir başlangıç ​​eğitimine geçebilir veya ihtiyaç duydukları yardıma ulaşabilirler.
 
