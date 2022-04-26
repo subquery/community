@@ -12,13 +12,13 @@ SubQuery旨在通过创建一个充满活力的数据索引和配置市场来改
 
 > *我们是 Moonbeam 和 Acala 等侧链的早期投资者，希望这些团队能够专注于他们的核心产品的研发。 SubQuery 让创建项目变得更容易。 它可以扩展到所有的侧链，可以促进Polkadot & Kusama的下一次爆发。*- Arrington Capital Partner Ninor Mansor。
 
-![](https://cdn-images-1.medium.com/max/1600/1*j4VHuY_BgjkYv_bQ6_DmcQ.gif)
+![](https://cdn-images-1.medi.com/max/1600/1*j4VHuY_BgjkYv_bQ6_DmcQ.gif)
 
 > *"SubQuery 是 Polkadot 堆栈的一个关键部分，它与主要的 Polkadot 项目的深厚关系证明了它。 作为 Polkadot 生态系统的积极投资者，我们对团队的热情、知识和对工作的奉献精神印象深刻，并且非常高兴支持他们。”*-DCG 投资总监 Matt Beck
 
 Polkadot 的 平行链架构是区别于其他Layer 1区块链的关键。 波卡系统中各个平行链并不是真正意义上的竞争关系，每个平行链作为自己的独立协议，通过共同的中继链来与其他平行链交互。 为了赢得中继链上的一个槽位，各个平行链通过众筹活动从社区筹集资金。 它要求参与者为他们最喜欢的项目长期质押原生的 Kusama 或 Polkadot 代币。 从一开始，构建SubQuery就是为了与任何旁链集成，而这仅需要很少的配置。
 
-[SubQuery 每天已经为60多个项目的 Polkadot & Kusama ](https://explorer.subquery.network/) 提供数百万条数据查询。 Of its existing customer base, SubQuery is integrated with established applications like [Subscan](../customer_announcements/20210901-Subscans-Multi-Signature-Tool.md), [Fearless Wallet](https://explorer.subquery.network/subquery/ef1rspb/fearless-wallet) and [SubVis](../customer_announcements/20210622-Explore-Kusama-Auctions-with-Subvis.io-and-SubQuery.md), as well as three out of the initial five Kusama parachain crowdloan winners: [Acala's Karura](../customer_announcements/20210819-Karura-Integrates-with-SubQuery-to-Aggregate-and-Serve-DeFi-Data-to-Kusama-Builders.md), Phala's Khala, and [Bifrost](../customer_announcements/20210416-Bifrost-chooses-SubQuery-to-provide-the-data-for-their-new-dApp.md). 接下来的五个平行链拍卖已计划在九月投入上线。
+[SubQuery 每天已经为60多个项目的 Polkadot & Kusama ](https://explorer.subquery.network/) 提供数百万条数据查询。 在其现有客户库中，SubQuery 已经与既定应用程序集成如 [订阅](../customer_announcements/20210901-Subscans-Multi-Signature-Tool.md)， [没有恐惧的钱包](https://explorer.subquery.network/subquery/ef1rspb/fearless-wallet) 和 [SubVis](../customer_announcements/20210622-Explore-Kusama-Auctions-with-Subvis.io-and-SubQuery.md), 以及最初的五名Kusama伞式集体贷款获奖者中的三名： [Acala's Karura](../customer_announcements/20210819-Karura-Integrates-with-SubQuery-to-Aggregate-and-Serve-DeFi-Data-to-Kusama-Builders.md)Phala's Khala和 [Bifrost](../customer_announcements/20210416-Bifrost-chooses-SubQuery-to-provide-the-data-for-their-new-dApp.md) 接下来的五个平行链拍卖已计划在九月投入上线。
 
 这轮筹资活动将加速SubQuery在2021年及以后的技术和社区路线图。 该团队计划将该协议进行去中心化和令牌化，这样他们可以更好的激励来自世界各地的参与者建设SubQuery网络。 由于60多个项目已经在使用托管服务，SubQuery还在计划改进和扩大服务。 展望未来，团队计划整合其他Layer 1区块链，包括Solana, Terra和其他。
 
