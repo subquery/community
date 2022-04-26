@@ -10,7 +10,7 @@ Tutti sono a conoscenza del fatto che un punto debole dei dati sulle blockchain 
 
 La creazione dei progetti basati su SubQuery è e sarà per sempre gratuita. Gli sviluppatori devono dedicare la maggior parte del loro tempo alla creazione, non all'esecuzione dell'infrastruttura. Ad ogni modo, crediamo che un futuro sano e decentralizzato richieda che sempre più fornitori di servizi di dati distribuiti debbano lavorare insieme con l'obiettivo di migliorare la resilienza, la velocità e le prestazioni della rete.
 
-## Introducing The SubQuery Network:
+## Presentazione della rete SubQuery:
 
 La rete SubQuery rappresenta il nostro sforzo di passare ad una rete decentralizzata e tokenizzata affinché si possa garantire l'assenza punti critici per SubQuery e incoraggiare il maggior numero possibile di partecipanti in questo processo.
 
