@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/1*KSv8qczywRPCEvWXeYiDNA.png)
 
-SubQuery, the leading data indexing solution in Polkadot, is delighted to showcase the winners of the recent [Encode Club](https://www.encode.club/) Polkadot Hackathon. Encode Club adalah komunitas pendidikan blockchain terkemuka yang mempromosikan ekosistem melalui acara seperti hackathon, dan program akselerator. SubQuery partnered with Acala/Karura in September to sponsor three challenges to a value of $14,000, inviting developers to build useful tools, dashboards and DApps.
+SubQuery, solusi pengindeksan data terkemuka di Polkadot, dengan senang hati menampilkan pemenang [Klub Encode](https://www.encode.club/) Polkadot Hackathon terbaru. Encode Club adalah komunitas pendidikan blockchain terkemuka yang mempromosikan ekosistem melalui acara seperti hackathon, dan program akselerator. SubQuery bermitra dengan Acala/Karura pada bulan September untuk mensponsori tiga tantangan senilai $14.000, mengundang pengembang untuk membuat alat, dasbor, dan DApps yang berguna.
 
 After 10 weeks and scrutiny from high profile judges in the Polkadot ecosystem such as [Bryan Chen](https://twitter.com/XiliangChen) (Co-Founder and CTO of Acala), [Hang Yin](https://twitter.com/bgmshana) (Co-Founder of Phala Network), [Jack Platts](https://twitter.com/jackbplatts) (Co-Founder of Hypersphere Ventures) and [Sota Watanabe](https://twitter.com/WatanabeSota) (Founder of Astar, CEO of Stake Technologies) we are happy to share [the winners](https://medium.com/encode-club/polkadot-hack-finale-prizewinners-and-summary-931627c64d9) of our challenges.
 
