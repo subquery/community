@@ -1,30 +1,30 @@
-# March 2022 Recap
+# Итоги марта 2022
 
 ![](https://miro.medium.com/max/1400/1*ePGA5YU2NgY-qhQ66xAzcg.png)
 
-Welcome to the latest SubQuery Monthly Update!
+Добро пожаловать в последнее ежемесячное обновление SubQuery!
 
-As usual the past month was action-packed with the news of our integration with Avalanche taking centre-stage. We also made massive progress towards our TGE after announcing the launch of our Testnet, "The Frontier" and have invited the first participants to our closed beta.
+Как обычно, прошедший месяц был насыщен событиями, и в центре внимания оказались новости о нашей интеграции с Avalanche. Мы также добились значительного прогресса в нашем TGE после объявления о запуске нашей тестовой сети «The Frontier» и пригласили первых участников на наше закрытое бета-тестирование.
 
-Meanwhile, we also announced partnerships with several teams in Polkadot and we rewarded our rapidly community by continuing our partnership with Gitcoin.
+Между тем, мы также объявили о партнерстве с несколькими командами в Polkadot и вознаградили наше быстро растущее сообщество, продолжив сотрудничество с Gitcoin.
 
-## Community
+## Сообщество
 
-### SubQuery Provides Web3 Developers More Opportunities via Gitcoin Hackathon
+### SubQuery предоставляет разработчикам Web3 больше возможностей благодаря Gitcoin Hackathon
 
-After running our first Gitcoin Hackathon in December 2021 and achieving fantastic results with many talented developers it was an easy decision to extend our partnership.
+После проведения нашего первого хакатона Gitcoin в декабре 2021 года и достижения фантастических результатов со многими талантливыми разработчиками, было легко принять решение о расширении нашего партнерства.
 
-> _"SubQuery is proud to partner with the Gitcoin GR13 Hackathon to build the future of Web3. It is in our interest to support motivated developers around the world to build on top of our data indexing service which is why we also recently launched a $500,000 SubQuery Grants Programme. We have developed bounties that should excite graduates of our 'Hero Course' and developers who are new to SubQuery and look forward to seeing the results"_ - Sam Zou, Founder and CEO of SubQuery
+> _«SubQuery гордится тем, что сотрудничает с хакатоном Gitcoin GR13, чтобы построить будущее Web3. В наших интересах поддерживать мотивированных разработчиков по всему миру, чтобы они могли использовать нашу службу индексации данных, поэтому мы также недавно запустили Программу Грантов SubQuery на сумму 500 000 долларов США. Мы разработали вознаграждения, которые должны порадовать выпускников нашего «Hero Course» и разработчиков, которые только познакомились с SubQuery и с нетерпением ждут результатов»_ — Sam Zou, основатель и генеральный директор SubQuery
 
-[Read more here](../blogs/20220308-gitcoin13-hackathon.md)
+[Подробнее здесь](../blogs/20220308-gitcoin13-hackathon.md)
 
-### SubQuery Extends Partnership with OneBlock+ To Promote Blockchain Education in China
+### SubQuery расширяет партнерство с OneBlock+ для продвижения обучения блокчейну в Китае
 
-We are partnering with OneBlock+ to run a second round of the ["Hero Course"](https://doc.subquery.network/academy/herocourse/) in China starting in early April.
+Мы сотрудничаем с OneBlock+, чтобы провести второй раунд ["Hero Course"](https://doc.subquery.network/academy/herocourse/) в Китае, который запустится в начале апреля.
 
-> _"SubQuery is excited to continue our partnership with OneBlock+ and their passionate group of Chinese Substrate developers. We have already received feedback that the first group of students are already using SubQuery on their own projects to make their development easier. We look forward to collaborating with the future students as they leverage on OneBlock+ and SubQuery to build the next generation of dApps"_ - Sam Zou, Founder and CEO of SubQuery
+> _«SubQuery рада продолжить наше сотрудничество с OneBlock+ и их увлеченной группой Китайских Разработчиков Substrate. Мы уже получили отзывы о том, что первая группа студентов уже использует SubQuery в своих проектах, чтобы облегчить разработку. Мы с нетерпением ждем возможности сотрудничать с будущими студентами, поскольку они используют OneBlock+ и SubQuery для создания децентрализованных приложений следующего поколения»._ — Sam Zou, основатель и генеральный директор SubQuery
 
-[Read more here](../blogs/20220308-oneblock-education.md)
+[Подробнее здесь](../blogs/20220308-oneblock-education.md)
 
 ## SubQuery Network
 
