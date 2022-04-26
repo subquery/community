@@ -16,7 +16,7 @@ Dalam pembaruan bulanan ini:
 
 ![](https://miro.medium.com/max/1400/0*pe3Z3x1lGb_RLa5x)
 
-We understand that one of our biggest strengths is our community, and so [we recently launched our ambassador program](../blogs/20210713-Introducing-the-SubQuery-Ambassador-Program.md) for communities around the world. Kami sangat tertarik dengan program kami, dengan hampir 500 aplikasi diterima dalam waktu kurang dari dua minggu!
+Kami memahami bahwa salah satu kekuatan terbesar kami adalah komunitas kami, jadi [kami baru saja meluncurkan program ambassador kami](../blogs/20210713-Introducing-the-SubQuery-Ambassador-Program.md) untuk komunitas di seluruh dunia. Kami sangat tertarik dengan program kami, dengan hampir 500 aplikasi diterima dalam waktu kurang dari dua minggu!
 
 Kami sedang dalam proses penerimaan ambassador pertama kami dalam waktu dekat. Kami sangat senang di sini karena ini berarti bahwa setiap orang di komunitas kami dapat mengharapkan untuk melihat perwakilan dan dukungan lokal yang lebih baik di komunitas yang berbeda!
 
@@ -28,7 +28,7 @@ Kami membangun ini dengan cara yang memudahkan untuk memperluas jumlah parachain
 
 ![](https://miro.medium.com/max/1400/0*AhM68fyjjSp_2edZ)
 
-We have [joined the Patract Open Platform alliance](../blogs/20210714-SubQuery-is-Joining-the-Patract-Open-Platform.md) to jointly promote the development of public infrastructure, promote the evolution of contract technology, and to develop the Wasm contract development ecosystem.
+Kami telah [bergabung dengan aliansi Patract Open Platform](../blogs/20210714-SubQuery-is-Joining-the-Patract-Open-Platform.md) untuk bersama-sama mempromosikan pengembangan infrastruktur publik, mempromosikan evolusi teknologi kontrak, dan untuk mengembangkan ekosistem pengembangan kontrak Wasm.
 
 Kami percaya bahwa kontrak adalah bagian penting dari ekosistem Polkadot yang berkembang, menyediakan layanan pengindeksan data untuk kontrak Wasm selalu menjadi tujuan utama SubQuery. Sangat menarik untuk melihat bahwa Platform Terbuka telah menyatukan sejumlah besar proyek hebat, dan bahwa setiap orang bekerja sama untuk berkontribusi pada kemajuan kontrak Wasm yang sehat dan stabil.
 
