@@ -10,19 +10,19 @@ Mulai sekarang, kami akan mencoba menyusun setiap pembaruan di sekitar tiga area
 
 ## SubQuery Network
 
-### Technical Roadmap Announced
+### Roadmap Teknis Diumumkan
 
-At our community call last week we shared more about our plans for the future. Kami sangat senang tentang bagaimana evolusi SubQuery berikutnya akan mendorong lebih banyak nilai ke ekosistem Polkadot dan memberikan lebih banyak peluang bagi komunitas kami untuk berpartisipasi dalam pertumbuhan kami.
+Pada panggilan komunitas kami minggu lalu, kami berbagi lebih banyak tentang rencana kami untuk masa depan. Kami sangat senang tentang bagaimana evolusi SubQuery berikutnya akan mendorong lebih banyak nilai ke ekosistem Polkadot dan memberikan lebih banyak peluang bagi komunitas kami untuk berpartisipasi dalam pertumbuhan kami.
 
 Kami telah melangkah sangat jauh di sini untuk transparansi dengan komunitas dan untuk merasionalisasi pekerjaan yang kami miliki di depan. Ini adalah timeline ambisius yang kami gunakan secara internal sebagai target, Anda dapat melihat berapa banyak bagian yang bergerak dari gambar di bawah ini! Meskipun demikian, memperkirakan garis waktu untuk pengembangan perangkat lunak R&D sangat sulit, jadi tidak ada yang final — ini hanya upaya terbaik kami dalam memperkirakan.
 
 [Baca lebih lanjut tentang roadmap teknis kami di sini](../blogs/20211029-roadmap-october.md)
 
-### Significant Development on the SubQuery Network
+### Perkembangan Signifikan pada SubQuery Network
 
 Membangun jaringan terdesentralisasi dan tokenized baru adalah pekerjaan besar dan sayangnya pekerjaan itu tidak terlihat jelas secara eksternal untuk beberapa waktu. Karena itu, kami memiliki tim teratas pengembang berdedikasi yang mengerjakan ini selama beberapa waktu, perlahan tapi pasti bekerja melalui daftar implementasi kontrak pintar untuk membawa kami lebih dekat untuk meluncurkan testnet internal pertama pada akhir tahun.
 
-## Core Product Development
+## Pengembangan Produk Inti
 
 ### Moonriver EVM Support
 
@@ -32,19 +32,19 @@ Kemitraan dengan Moonbeam ini menghadirkan solusi pengindeksan data yang lengkap
 
 [Baca lebih lanjut tentang Moonriver EVM support kami di sini](../customer_announcements/20211028-moonbeam-evm.md)
 
-## Community
+## Komunitas
 
-### The Spartan Programme
+### Spartan Program
 
 Pada bulan Agustus, SubQuery meluncurkan program Ambassador untuk menemukan pemimpin komunitas yang menyukai Polkadot dan SubQuery. Anehnya kami benar-benar kewalahan oleh ribuan dan ribuan aplikasi, dan rencana awal kami untuk memasukkan pelamar secara manual menjadi menantang. Setelah berkonsultasi dengan Ambassador kami yang ada, kami telah merancang metode baru dan transparan untuk naik level di komunitas Discord kami dan berpotensi menjadi Ambassador.
 
 Program Spartan ada di dalam komunitas Discord kami, dan dirancang untuk melengkapi program Ambassador kami yang sudah mapan dengan tingkatan atau kontributor lain. Calon anggota dapat menyelesaikan tugas dan kompetisi bulanan untuk menjadi Spartan. Spartan yang kemudian naik ke puncak kelas mereka akan dinominasikan oleh Ambassador kami yang ada untuk bergabung dengan barisan mereka.
 
-To find out more about our Spartan programme and participate in our November competition please [join our Discord](https://discord.com/invite/subquery).
+Untuk mengetahui lebih lanjut tentang program Spartan kami dan berpartisipasi dalam kompetisi November kami, silakan [bergabunglah dengan Discord kami](https://discord.com/invite/subquery).
 
 [Baca lebih lanjut tentang program Spartan kami di sini](../blogs/20211101-spartan-programme.md)
 
-### SubQuery Academy
+### Akademi SubQuery
 
 Orientasi pengembang baru dan mengajari mereka keterampilan yang mereka butuhkan untuk membangun dApps masa depan sangat penting bagi keberhasilan komunitas kami.
 
@@ -54,15 +54,15 @@ Akademi kami bertujuan untuk membawa calon pengembang blockchain dari pemula hin
 
 [Baca lebih lanjut tentang Akademi SubQuery di sini](../blogs/20211018-subquery-launches-the-subquery-academy.md)
 
-### Community Call
+### Panggilan Komunitas
 
 Kami mengadakan panggilan komunitas pertama kami pada tanggal 28 Oktober untuk membagikan peta jalan kami dan pembaruan komunitas terbaru. Sangat menyenangkan untuk berbagi dengan komunitas kami hal-hal yang telah mereka minta sejak lama dengan cara yang lebih pribadi. Kami menghargai semua orang yang datang untuk menelepon dan kami berencana untuk menyelenggarakan panggilan ini lebih teratur. Ini akan menjadi pertama kalinya bagi banyak dari Anda untuk mendengar dari manajer komunitas baru kami, Sally, yang bergabung dengan kami pada awal Oktober.
 
 [Tonton rekaman sesi Oktober di sini](https://www.crowdcast.io/e/subquery-sessions-october)
 
-## Other things you might have missed
+## Hal-hal lain yang mungkin Anda lewatkan
 
-- We’ve partnered with Acala to provide the [largest pool of prizes for the Encode Club Polkadot Hackathons](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e).
+- Kami telah bermitra dengan Acala untuk menyediakan [kumpulan hadiah terbesar untuk Encode Club Polkadot Hackathons](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e).
 - [SubQuery membantu Khala Membangun Jembatan chain ERC20 Baru mereka](../customer_announcements/20211021-khala.md)
 
 Jika Anda ingin mempelajari lebih lanjut, Anda dapat melihat semua proyek dengan mudah melalui Explorer kami di sini.
