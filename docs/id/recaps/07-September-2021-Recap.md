@@ -19,7 +19,7 @@ Dalam pembaruan bulanan ini:
 
 ## Mengumumkan putaran penggalangan dana kami 💰
 
-We were thrilled to announce the [close of our US$9m Series A fundraising](../blogs/20210908-SubQuery-Announces-US%249-Million-Funding-Round.md) in September and were delighted with the response that we received from all the key crypto media. Selain liputan di [Coindesk](https://www.coindesk.com/business/2021/09/08/subquery-gets-9m-in-series-a-to-improve-access-to-blockchain-data-on-polkadot/), [CoinTelegraph](https://cointelegraph.com/news/subquery-raises-9m-for-polkadot-data-protocol), [The Block](https://www.theblockcrypto.com/post/116915/subquery-indexing-protocol-polkadot-funding-saft) dan banyak lainnya, beberapa investor terkemuka kami juga menerbitkan tesis investasi mereka.
+Kami sangat senang mengumumkan [penutupan penggalangan dana Seri A senilai US$9 juta](../blogs/20210908-SubQuery-Announces-US%249-Million-Funding-Round.md) pada bulan September dan senang dengan tanggapan yang kami terima dari semua media kripto utama. Selain liputan di [Coindesk](https://www.coindesk.com/business/2021/09/08/subquery-gets-9m-in-series-a-to-improve-access-to-blockchain-data-on-polkadot/), [CoinTelegraph](https://cointelegraph.com/news/subquery-raises-9m-for-polkadot-data-protocol), [The Block](https://www.theblockcrypto.com/post/116915/subquery-indexing-protocol-polkadot-funding-saft) dan banyak lainnya, beberapa investor terkemuka kami juga menerbitkan tesis investasi mereka.
 
 Rennick Palley dari [Stratos Capital menyatakan bahwa SubQuery](https://medium.com/stratos-technologies/the-google-of-the-decentralized-world-our-investment-in-subquery-e6e7d949b00a) adalah "Google dari Dunia yang Terdesentralisasi" dan bahwa "SubQuery adalah contoh prototipikal tentang bagaimana para pelaku Web 3 mengambil apa yang berhasil dari Web 2 & membuatnya transparan, adil
 
@@ -57,7 +57,7 @@ Influencer Crypto Layah Heilpern mewawancarai Sam dan James tentang kemajuan kam
 
 ## Kemajuan Jaringan SubQuery 🏗
 
-In the past month we have really accelerated the work that we're doing on the SubQuery Network, [our decentralised and incentivised future](../blogs/20210614-Introducing-SubQuery-Network-The-Next-Big-Step-Towards-our-Decentralised-Future.md). Kami telah membawa anggota baru ke tim kami untuk mulai mengerjakan kode dan juga menyempurnakan token kami.
+Dalam sebulan terakhir, kami benar-benar mempercepat pekerjaan yang kami lakukan di Jaringan SubQuery, [masa depan kami yang terdesentralisasi dan berinsentif](../blogs/20210614-Introducing-SubQuery-Network-The-Next-Big-Step-Towards-our-Decentralised-Future.md). Kami telah membawa anggota baru ke tim kami untuk mulai mengerjakan kode dan juga menyempurnakan token kami.
 
 Kami memberikan sentuhan akhir pada bukti pengindeksan, pekerjaan penting dan signifikan yang memberikan jaminan bahwa dua pengindeks SubQuery setara. Kami menggunakan pegunungan Merkle untuk melakukan ini, lihat kodenya jika Anda tertarik.
 
@@ -67,13 +67,13 @@ Nantikan dalam beberapa minggu mendatang untuk draf pertama kami dari peta jalan
 
 Pada bulan September, kami mengumumkan bahwa kami membantu tim di [Parallel Finance](https://parallel.fi/) dan [DotMarketCap](http://www.dotmarketcap.com/) dengan kebutuhan data mereka.
 
-Parallel Finance adalah protokol pasar uang terdesentralisasi yang menawarkan pinjaman, taruhan, dan pinjaman di ekosistem Polkadot. [SubQuery's service helps Parallel Finance](../customer_announcements/20210916-Parallel-Finance-is-Creating-the-next-DeFi-Platform-using-SubQuery.md) store, analyse, and query data on their current Heiko testnet. Beberapa data ini digunakan secara langsung di aplikasi baru Parallel, membantu pengguna memahami dan menganalisis data DeFi.
+Parallel Finance adalah protokol pasar uang terdesentralisasi yang menawarkan pinjaman, taruhan, dan pinjaman di ekosistem Polkadot. [Layanan SubQuery membantu Parallel Finance](../customer_announcements/20210916-Parallel-Finance-is-Creating-the-next-DeFi-Platform-using-SubQuery.md) menyimpan, menganalisis, dan membuat kueri data pada testnet Heiko mereka saat ini. Beberapa data ini digunakan secara langsung di aplikasi baru Parallel, membantu pengguna memahami dan menganalisis data DeFi.
 
 Kami selalu senang mendapatkan umpan balik seperti ini dari mitra kami:
 
 _"SubQuery adalah alat luar biasa yang membawa teknologi pengindeksan & kueri tradisional ke Parallel Heiko. Layanan plug-and-play benar-benar menghemat banyak waktu kami dalam mengembangkan alat pengindeksan blok kami sendiri dan memelihara solusi kami sendiri."_ --- Parallel Finance
 
-In the case of DotMarketCap, [SubQuery was responsible for feeding information](../customer_announcements/20210909-DotMarketCap-Launches-with-Support-from-SubQuery-and-SubVis.md) relating to the second batch of Kusama Parachain Auctions to DotMarketCap users. Hal yang menarik dari kolaborasi ini adalah bahwa data real-time sebenarnya berasal dari SubQuery ke [proyek yang sudah ada yang dikelola oleh SubVis](https://explorer.subquery.network/subquery/subvis-io/kusama-auction) dan kemudian diambil kembali oleh DotMarketCap. Untuk SubQuery, ini adalah realisasi dari tujuan kami untuk membangun pasar data komunitas terbuka di Explorer kami, ini juga menunjukkan bagaimana simbiosis ekosistem Polkadot dan bagaimana tim bekerja sama untuk mencapai tujuan bersama dari masa depan yang terdesentralisasi.
+Dalam kasus DotMarketCap, [SubQuery bertanggung jawab untuk memasukkan informasi](../customer_announcements/20210909-DotMarketCap-Launches-with-Support-from-SubQuery-and-SubVis.md) yang berkaitan dengan batch kedua Lelang Parachain Kusama kepada pengguna DotMarketCap. Hal yang menarik dari kolaborasi ini adalah bahwa data real-time sebenarnya berasal dari SubQuery ke [proyek yang sudah ada yang dikelola oleh SubVis](https://explorer.subquery.network/subquery/subvis-io/kusama-auction) dan kemudian diambil kembali oleh DotMarketCap. Untuk SubQuery, ini adalah realisasi dari tujuan kami untuk membangun pasar data komunitas terbuka di Explorer kami, ini juga menunjukkan bagaimana simbiosis ekosistem Polkadot dan bagaimana tim bekerja sama untuk mencapai tujuan bersama dari masa depan yang terdesentralisasi.
 
 Jika Anda ingin mempelajari lebih lanjut [Anda dapat melihat semua proyek dengan mudah melalui Explorer kami di sini](https://explorer.subquery.network/).
 
