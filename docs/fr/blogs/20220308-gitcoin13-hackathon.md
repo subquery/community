@@ -1,32 +1,32 @@
-# SubQuery Provides Web3 Developers More Opportunities via Gitcoin Hackathon
+# SubQuery offre aux développeurs Web3 davantage de possibilités via le hackathon Gitcoin
 
 ![](https://miro.medium.com/max/1400/0*LdQoekBCsctSL0Po)
 
-Today we are excited to announce the continuation of our partnership with Gitcoin to run a second hackathon via Gitcoin Grants Round 13 starting on March 9th.
+Aujourd'hui, nous sommes heureux d'annoncer la poursuite de notre partenariat avec Gitcoin pour organiser un deuxième hackathon via le Gitcoin Grants Round 13 à partir du 9 mars.
 
-SubQuery's mission of making the world's decentralised data more accessible relies on having a network of developers who are empowered to create and innovate. After running our first Gitcoin Hackathon in December 2021 and achieving fantastic results with many talented developers it was an easy decision to extend our partnership.
+La mission de SubQuery, qui consiste à rendre les données décentralisées du monde plus accessibles, repose sur un réseau de développeurs habilités à créer et à innover. Après avoir organisé notre premier hackathon Gitcoin en décembre 2021 et obtenu des résultats fantastiques avec de nombreux développeurs talentueux, il a été facile de décider de prolonger notre partenariat.
 
-The [Gitcoin GR13 Hackathon](https://gitcoin.co/hackathon/gr13/onboard) takes place from March 9th --- 24th 2022 with leading blockchain projects contributing to various prize pools. [SubQuery has proposed four bounties with a total prize pool of up to $22,000](https://gitcoin.co/hackathon/gr13/?org=subquery). The prizes will be granted to those who have successfully completed the projects to the pre-set standards, and who deliver the most creative ideas, or those or solve areas to improve the core SubQuery SDK. A short summary of the challenges are below:
+Le [Gitcoin GR13 Hackathon](https://gitcoin.co/hackathon/gr13/onboard) se déroule du 9 au 24 mars 2022 avec des projets blockchain de premier plan contribuant à diverses cagnottes. [SubQuery a proposé quatre primes avec une cagnotte totale pouvant atteindre 22 000 $](https://gitcoin.co/hackathon/gr13/?org=subquery). Les prix seront décernés à ceux qui auront mené à bien les projets selon les normes préétablies et qui auront proposé les idées les plus créatives, ou qui auront résolu des problèmes pour améliorer le SDK SubQuery. Vous trouverez ci-dessous un bref résumé de ces défis :
 
-- Build a solution that stores a historical state of the blockchain rather than just the final state
-- Create an alternative Substrate-like chain dictionary generation via a Substrate archive
-- Enable SubQuery to support GraphQL subscriptions
-- Build a staking dashboard in conjunction with Moonbeam Network
+- Construire une solution qui stocke un état historique de la blockchain plutôt que l'état final
+- Créer une génération alternative de dictionnaire de chaîne de type Substrate via une archive Substrate
+- Activer SubQuery pour supporter les abonnements GraphQL
+- Construire un tableau de bord de staking en collaboration avec Moonbeam Network
 
-[Sam Zou](https://twitter.com/zoujialiu), the CEO and Founder of SubQuery commented, _"SubQuery is proud to partner with the Gitcoin GR13 Hackathon to build the future of Web3. It is in our interest to support motivated developers around the world to build on top of our data indexing service which is why we also recently launched a $500,000 SubQuery Grants Programme. We have developed bounties that should excite graduates of our 'Hero Course' and developers who are new to SubQuery and look forward to seeing the results"_
+[Sam Zou](https://twitter.com/zoujialiu), le PDG et fondateur de SubQuery a commenté, _"SubQuery est fier de s'associer au Hackathon Gitcoin GR13 pour construire le futur du Web3. Il est dans notre intérêt d'aider les développeurs motivés du monde entier à tirer parti de notre service d'indexation des données. C'est pourquoi nous avons récemment lancé un programme de subventions SubQuery de 500 000 dollars. Nous avons mis au point des primes qui devraient enthousiasmer les diplômés de notre "Hero Course" et les développeurs qui découvrent SubQuery et nous sommes impatients de voir les résultats"_
 
-As part of the GR 13 Hackathon, SubQuery will be running workshops to help familiarise developers with our platform. In the meantime, you can [learn how to build applications in about SubQuery via the SubQuery Academy](https://subquery.coassemble.com/unlock/dOKZW6O#/). If you are interested in participating, you can sign-up to the kickoff event and [join the onboarding page here](https://gitcoin.co/hackathon/gr13/onboard).
+Dans le cadre du hackathon GR 13, SubQuery organisera des ateliers pour aider les développeurs à se familiariser avec notre plateforme. En attendant, vous pouvez [apprendre à construire des applications sur SubQuery via l'Académie SubQuery](https://subquery.coassemble.com/unlock/dOKZW6O#/). Si vous souhaitez participer, vous pouvez vous inscrire à l'événement de lancement et [rejoindre la page d'accueil ici](https://gitcoin.co/hackathon/gr13/onboard).
 
-For more information about the [SubQuery Grants Programme which consists of open bounties and partnerships with the leading teams in Polkadot you can go here](https://subquery.network/grants).
+Pour plus d'informations sur le [Programme de subventions SubQuery qui consiste en des primes ouvertes et des partenariats avec les principales équipes de Polkadot, vous pouvez aller ici](https://subquery.network/grants).
 
-## About Gitcoin
+## A propos de Gitcoin
 
-[Gitcoin](http://www.gitcoin.co) is on a mission to build an internet that is open source, collaborative, and economically empowering. Gitcoin is creating community and infrastructure for Web 3 --- a diverse range of tools, technologies, and networks that enable people to work for the open internet. By funding projects, building community, and making learning resources accessible, Gitcoin is teaming up to create the digital public infrastructure of tomorrow.
+[Gitcoin](http://www.gitcoin.co) a pour mission de construire un internet qui soit open source, collaboratif et économiquement responsabilisant. Gitcoin crée une communauté et une infrastructure pour le Web 3 --- une gamme variée d'outils, de technologies et de réseaux qui permettent aux gens de travailler pour l'internet ouvert. En finançant des projets, en créant une communauté et en rendant les ressources pédagogiques accessibles, Gitcoin s'associe pour créer l'infrastructure publique numérique de demain.
 
 [Discord](https://discord.gg/6PZUM3cFpz) | [Website](http://www.gitcoin.co) | [Twitter](https://twitter.com/gitcoin) | [GitHub](https://github.com/gitcoinco/) |
 
-## About SubQuery
+## À propos de SubQuery
 
-[SubQuery](https://subquery.network) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. The protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+[SubQuery](https://subquery.network) est une couche décentralisée d'agrégation, d'indexation & d'interrogation de données entre les blockchains de couche 1 et les applications décentralisées. Le protocole fait abstraction des particularités des données de la blockchain grâce au SDK SubQuery, ce qui permet aux développeurs de se concentrer sur le déploiement de leur produit principal sans avoir à gaspiller leurs efforts sur des technologies dorsales personnalisées.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
