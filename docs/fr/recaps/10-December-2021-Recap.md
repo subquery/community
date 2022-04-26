@@ -1,22 +1,22 @@
-# December 2021 Recap
+# Récapitulatif de décembre 2021
 
 ![](https://miro.medium.com/max/1400/1*-gXOf6qYQiYypDCVBeE1kg.png)
 
-This year has absolutely flown by and SubQuery has come a long way! Since February 2021, we’ve grown a huge inclusive community, helped hundreds of projects to build faster, and scaled our hosted service to handle hundreds of millions of API requests for the top projects in Polkadot.
+Cette année est passée à toute vitesse et SubQuery a parcouru un long chemin ! Depuis février 2021, nous avons développé une énorme communauté inclusive, aidé des centaines de projets à construire plus rapidement et fait évoluer notre service hébergé pour gérer des centaines de millions de demandes d'API pour les principaux projets de Polkadot.
 
-Read on for a message from Sam, and learn what we go up to in the final days of 2021!
+Lisez le message de Sam et apprenez ce que nous allons faire dans les prochains jours de 2021 !
 
 ## SubQuery Network
 
-### SubQuery Launches $500,000 Grants Programme
+### SubQuery lance un programme de subventions de 500 000 $
 
-In late December, we were proud to announce the launch of our USD$500,000 Grants Programme.
+Fin décembre, nous avons été fiers d'annoncer le lancement de notre programme de subventions de 500 000 dollars.
 
-The vision of the [SubQuery Grants](https://subquery.network/grants) initiative is to offer key opportunities to blockchain developers, community members, and the wider ecosystem participants so they can create the next-generation of decentralized applications (dApps). These apps are expected to power the Polkadot-based solutions that will support Web 3.0, which is an evolving set of standards for the Internet of the future.
+La vision de l'initiative [SubQuery Grants](https://subquery.network/grants) est d'offrir des opportunités clés aux développeurs de blockchain, aux membres de la communauté et aux participants de l'écosystème au sens large afin qu'ils puissent créer la prochaine génération d'applications décentralisées (dApps). Ces applications devraient alimenter les solutions basées sur Polkadot qui soutiendront le Web 3.0, qui est un ensemble évolutif de normes pour l'Internet du futur.
 
-<iframe width="680" height="382" src="https://www.youtube.com/embed/Gcu2syKYlB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="680" height="382" src="https://www.youtube.com/embed/Gcu2syKYlB4" title="Lecteur vidéo YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-SubQuery is looking for innovative or high-potential ideas that leverage SubQuery’s open-source data indexing tools to support cutting-edge applications that address problems in blockchain or distributed ledger technology (DLT) sector. We’re particularly interested in user friendly applications that unlock the data from Polkadot or parachains, providing an intuitive entry point into our ecosystem. Our aim is to bring millions of users into the Polkadot ecosystem by helping builders build the next generation of dApps. [You can read more here](../blogs/20211222-grants.md)
+SubQuery est à la recherche d'idées innovantes ou à fort potentiel qui tirent parti des outils d'indexation de données open-source de SubQuery pour soutenir des applications de pointe qui répondent à des problèmes dans le secteur de la blockchain ou de la technologie des registres distribués (DLT). We’re particularly interested in user friendly applications that unlock the data from Polkadot or parachains, providing an intuitive entry point into our ecosystem. Our aim is to bring millions of users into the Polkadot ecosystem by helping builders build the next generation of dApps. [You can read more here](../blogs/20211222-grants.md)
 
 ![](https://miro.medium.com/max/1400/1*tFm9pBCPmAet3WGiGjUtLg.png)
 
@@ -70,7 +70,7 @@ After 10 weeks and scrutiny from high profile judges in the Polkadot ecosystem s
 
 🤖 The “build a bot” challenge was won by the team at Krakura with an interesting open-source DEX arbitrage bot that constantly checks for pricing differences.
 
-<iframe width="680" height="382" src="https://www.youtube.com/embed/G7TNTzMDijU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="680" height="382" src="https://www.youtube.com/embed/G7TNTzMDijU" title="Lecteur vidéo YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 📈 The winner of the Dashboard challenge with AcalaNetwork was the team at Polkadata, a data analytics platform for DeFi investors to track how smart money is investing and structuring their portfolio on Karura
 
@@ -78,7 +78,7 @@ After 10 weeks and scrutiny from high profile judges in the Polkadot ecosystem s
 
 🪙 Entity 54 were the winners in the AcalaNetwork Defi DApp category. Entity 54 is a DApp that connects to AMTC6 via Acala API/EVM and reads account balances, loans and allows swaps, transfers, loan adjustments and transfers plus reads coin and loan data
 
-<iframe width="680" height="382" src="https://www.youtube.com/embed/fU1BRVOtx2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="680" height="382" src="https://www.youtube.com/embed/fU1BRVOtx2o" title="Lecteur vidéo YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Read more here](../blogs/20220120-gr12-winners.md)
 
