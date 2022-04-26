@@ -16,7 +16,7 @@ Dans cette mise à jour mensuelle :
 
 ![](https://miro.medium.com/max/1400/0*pe3Z3x1lGb_RLa5x)
 
-We understand that one of our biggest strengths is our community, and so [we recently launched our ambassador program](../blogs/20210713-Introducing-the-SubQuery-Ambassador-Program.md) for communities around the world. Nous avons été submergés par l'intérêt pour notre programme, avec près de 500 candidatures reçues en moins de quinze jours !
+Nous savons que l'une de nos plus grandes forces est notre communauté, et c'est pourquoi [nous avons récemment lancé notre programme d'ambassadeurs](../blogs/20210713-Introducing-the-SubQuery-Ambassador-Program.md) pour les communautés du monde entier. Nous avons été submergés par l'intérêt pour notre programme, avec près de 500 candidatures reçues en moins de quinze jours !
 
 Nous sommes sur le point d'accueillir notre premier groupe d'ambassadeurs. Nous sommes particulièrement enthousiastes car cela signifie que tous les membres de notre communauté peuvent s'attendre à voir une meilleure représentation locale et un meilleur soutien dans les différentes communautés !
 
@@ -28,7 +28,7 @@ Nous construisons ce système de manière à ce qu'il soit facile à étendre au
 
 ![](https://miro.medium.com/max/1400/0*AhM68fyjjSp_2edZ)
 
-We have [joined the Patract Open Platform alliance](../blogs/20210714-SubQuery-is-Joining-the-Patract-Open-Platform.md) to jointly promote the development of public infrastructure, promote the evolution of contract technology, and to develop the Wasm contract development ecosystem.
+Nous avons [joint l'alliance Patract Open Platform](../blogs/20210714-SubQuery-is-Joining-the-Patract-Open-Platform.md) pour promouvoir conjointement le développement de l'infrastructure publique, promouvoir l'évolution de la technologie des contrats et développer l'écosystème de développement des contrats Wasm.
 
 Nous pensons que les contrats sont une partie importante d'un écosystème Polkadot prospère, fournir des services d'indexation de données pour les contrats Wasm a toujours été un objectif majeur de SubQuery. Il est passionnant de voir que la plate-forme ouverte a rassemblé un grand nombre de grands projets, et que tout le monde travaille ensemble pour contribuer à l'avancement sain et stable des contrats Wasm.
 
