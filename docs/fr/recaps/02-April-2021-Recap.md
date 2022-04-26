@@ -25,7 +25,7 @@ Le service de SubQuery permet à Bifrost d'alimenter une grande partie des donn�
 
 Le nouveau projet Bifrost SubQuery dans l'explorateur SubQuery.
 
-> _"Without SubQuery, it is difficult to imagine how complicated it is to manually collect data from the chain. Les développeurs de Bifrost peuvent passer beaucoup de temps à rechercher toutes les données de transaction sur la chaîne à utiliser pour l'historique des transactions. SubQuery permet aux développeurs d'économiser beaucoup de coûts de travail répétitif. Bifrost will cooperate with SubQuery for a long time to accelerate the iterative speed of product development"_ — Bifrost Finance
+> _"Sans SubQuery, il est difficile d'imaginer à quel point il est compliqué de collecter manuellement les données de la chaîne. Les développeurs de Bifrost peuvent passer beaucoup de temps à rechercher toutes les données de transaction sur la chaîne à utiliser pour l'historique des transactions. SubQuery permet aux développeurs d'économiser beaucoup de coûts de travail répétitif. Bifrost coopérera longtemps avec SubQuery pour accélérer la vitesse itérative du développement des produits"_ - Bifrost Finance
 
 OnFinality est un fournisseur de services clé pour SubQuery - la plupart des indexeurs SubQuery des projets Polkadot et Kusama utilisent les points de terminaison API publics d'OnFinality pour obtenir leurs données. L'important trafic de SubQuery est l'une des raisons pour lesquelles OnFinality est le plus grand fournisseur d'infrastructure dans l'écosystème Polkadot/Kusama.
 
