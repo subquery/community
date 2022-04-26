@@ -28,55 +28,55 @@
 
 ## SubQuery Network
 
-### SubQuery supports Automata Network to deliver Web3 privacy services
+### SubQuery поддерживает Automata Network для предоставления услуг конфиденциальности Web3
 
-SubQuery is excited to announce our partnership with Automata, a decentralised service protocol that provides middleware-like traceless privacy services for dApps on Ethereum and Polkadot. SubQuery is working with Automata to allow developers access to a high performance indexing solution that will power Automata's rapidly growing application ecosystem.
+SubQuery рада объявить о нашем партнерстве с Automata, протоколом децентрализованной службы, который предоставляет сервисы конфиденциальности без отслеживания, подобные промежуточному программному обеспечению, для dApps на Ethereum и Polkadot. SubQuery работает с Automata, чтобы предоставить разработчикам доступ к высокопроизводительному решению для индексации, которое будет поддерживать быстрорастущую экосистему приложений Automata.
 
-> _"Subquery has become the standard indexing protocol within the Polkadot and Kusama ecosystems, and it is not without reason. The team has been prompt, exceptional, and we're pleased to continue working closely with them as Automata focuses on its middleware solutions to bring forth a fair-minded and privacy-focused Web3."_ - Deli Gong, Automata Network
+> _"Subquery стал стандартным протоколом индексирования в экосистемах Polkadot и Kusama, и на это есть причины. Команда работала исключительно быстро, и мы рады продолжить тесное сотрудничество с ними, поскольку Automata сосредоточила свое внимание на своих middleware решениях, чтобы создать беспристрастный и ориентированный на конфиденциальность Web3»._ — Deli Gong, Automata Network
 
-[Read more here](../customer_announcements/20220317-automata.md)
+[Подробнее здесь](../customer_announcements/20220317-automata.md)
 
-### SubQuery Provides Data To OAK Network To Power DeFi Automation Hub
+### SubQuery предоставляет данные в OAK Network для обеспечения работы DeFi Automation Hub
 
-SubQuery is proud to announce our partnership with OAK Network, the Web3 automation hub for DeFi and payments. SubQuery's expertise will be used to provide greater insights for OAK when monitoring and observing blockchain activity for both OAK Network on Polkadot, the Turing Network on Kusama, as well as their Neumann testnet.
+SubQuery с гордостью объявляет о нашем партнерстве с OAK Network, центром автоматизации Web3 для DeFi и платежей. Опыт SubQuery будет использоваться для предоставления более глубокой информации OAK при мониторинге и наблюдении за активностью блокчейна как для сети OAK на Polkadot, так и для сети Turing на Kusama, а также для их тестовой сети Neumann.
 
-> _"SubQuery's mission to help teams create products that allow movement to a decentralized future aligns closely with OAK Network's own mission of bringing secure and trustless automation to the masses. SubQuery will serve as a valuable resource to accelerate development timelines and ensure the services which OAK supplies to the market are stable and observable."_ - David Finklestein , Head of Growth at OAK Network
+> _«Миссия SubQuery, заключающаяся в том, чтобы помочь командам создавать продукты, которые позволят двигаться к децентрализованному будущему, тесно связана с собственной миссией OAK Network по внедрению безопасной и надежной автоматизации в массы. SubQuery послужит ценным ресурсом для ускорения сроков разработки и обеспечения стабильности и наблюдаемости услуг, которые OAK поставляет на рынок»._ — David Finklestein, руководитель отдела роста в OAK Network
 
-[Read more here](../customer_announcements/20220315-oak-network.md)
+[Подробнее здесь](../customer_announcements/20220315-oak-network.md)
 
-### SubQuery provides an open data foundation for Astar, Polkadot's dApp Hub
+### SubQuery предоставляет открытую базу данных для Astar, центра dApp от Polkadot
 
-We're excited to share the close partnership between Astar and SubQuery to provide key data infrastructure to applications within Astar's application ecosystem. Our two teams share the same vision, to encourage development of the next generation of dApps in Polkadot and catalyse our transition to web3. Today, the announced integration and developer material will enable dApp projects on Astar to use SubQuery's data indexing solution to speed up their development and build even better applications.
+Мы рады поделиться тесным партнерством между Astar и SubQuery для предоставления ключевой инфраструктуры данных приложениям в рамках экосистемы приложений Astar. Наши две команды разделяют одно и то же видение, чтобы стимулировать разработку следующего поколения dApps в Polkadot и ускорить наш переход на web3. Сегодня анонсированная интеграция и материалы для разработчиков позволят проектам dApp на Astar использовать решение SubQuery для индексации данных, чтобы ускорить их разработку и создавать еще более качественные приложения.
 
-[Read more here](../customer_announcements/20220302-astar.md)
+[Подробнее здесь](../customer_announcements/20220302-astar.md)
 
-### SubQuery partners with SubWallet to Enhance User Access to Multi-Chain Data
+### SubQuery сотрудничает с SubWallet для расширения доступа пользователей к Multi-Chain данным
 
 ![](https://miro.medium.com/max/1400/1*2F2Itdhy6CPL0K1OF4flbA.png)
 
-SubQuery is delighted to announce an integration partnership with [SubWallet](https://subwallet.app/), a new multi-chain wallet for the Dotsama ecosystem. SubWallet makes it easy to track, send, receive and sign transactions on DeFi and GameFi applications and supports over 40 different parachains in the Dotsama network.
+SubQuery рада объявить о партнерстве по интеграции с [SubWallet](https://subwallet.app/), новым мульти-чейн кошельком для экосистемы Dotsama. SubWallet позволяет легко отслеживать, отправлять, получать и подписывать транзакции в приложениях DeFi и GameFi и поддерживает более 40 различных парачейнов в сети Dotsama.
 
-> _"With the mission of pulling crypto users closer to the Dotsama ecosystem and opening the Web3 universe, we are working with SubQuery to integrate their remarkable data indexing solution, so that SubWallet users can review transaction history and crowdloan information for over 40 different Polkadot parachains right in our extension wallet."_ - Hieu Dao, SubWallet Co-Founder
+> _«С целью приблизить пользователей криптографии к экосистеме Dotsama и открыть вселенную Web3, мы работаем с SubQuery над интеграцией их замечательного решения для индексации данных, чтобы пользователи SubWallet могли просматривать историю транзакций и информацию о краудзаймах для более чем 40 различных парачейнов Polkadot прямо в нашем кошельке - расширении»._ — Hieu Dao, соучредитель SubWallet
 
-[Read more here](../customer_announcements/20220331-subwallet.md)
+[Подробнее здесь](../customer_announcements/20220331-subwallet.md)
 
-## Core Product Development
+## Разработка основного продукта
 
-### SubQuery Expands its Data Indexing Solution to Support Avalanche
+### SubQuery расширяет свое решение индексации данных для поддержки Avalanche
 
 ![](https://miro.medium.com/max/1400/1*d4CnfS7YSvAhxcgBEdwCiA.png)
 
-SubQuery is bringing this fast, flexible, and open data indexing solution to Avalanche as well as all the other tools, documentation, developer support, free managed hosting, and other benefits that developers receive from the SubQuery ecosystem.
+SubQuery предоставляет Avalanche быстрое, гибкое и открытое решение для индексирования данных, а также все другие инструменты, документацию, поддержку разработчиков, бесплатный управляемый хостинг и другие преимущества, которые разработчики получают от экосистемы SubQuery.
 
-> _"SubQuery will always have our home in Polkadot, but we are excited to help developers in Avalanche become more empowered to create and innovate the future of Web3 together. In order to achieve this, we are pleased to provide the same level of developer tools and support to Avalanche that we do to Polkadot"_ - Sam Zou, Founder and CEO of SubQuery
+> _«Polkadot всегда будет домом для SubQuery, но мы рады помочь разработчикам в Avalanche получить больше возможностей для совместного создания и инноваций будущего Web3. Чтобы добиться этого, мы рады предоставить Avalanche тот же уровень инструментов разработки и поддержки, что мы сделали для Polkadot"_ – Sam Zou, основатель и генеральный директор SubQuery
 
-[Read more here](../blogs/20220321-avalache.md)
+[Подробнее здесь](../blogs/20220321-avalache.md)
 
-### SubQuery Launches "The Frontier" Testnet
+### SubQuery запускает "The Frontier" Тестнет
 
-We are pleased to announce the launch of our testnet, "The Frontier". In SubQuery's case, the launch of the testnet marks a critical milestone in our development as we progress towards the full deployment of mainnet which coincides with our token listing on centralised exchanges.
+Мы рады объявить о запуске нашей тестовой сети «The Frontier». В случае с SubQuery запуск тестовой сети знаменует собой важную веху в нашем развитии, поскольку мы продвигаемся к полному развертыванию основной сети, что совпадает с листингом нашего токена на централизованных биржах.
 
-In order to run the testnet effectively, we require it to be battle-tested by experienced node operators who are experts in running high performance and scalable productions with monitoring and wallet/infrastructure security. Since our [call for indexers to participate](../blogs/20211202-indexer-invitation.md) we have been overwhelmed by the interest from our community and have recently approved an initial group of indexers who will soon receive their invitations to participate in SubQuery Frontier's seasons 1 & 2.
+Чтобы запустить тестовую сеть эффективно, мы требуем, чтобы она была проверена опытными операторами узлов, которые являются экспертами в области высокопроизводительных и масштабируемых производств с мониторингом и безопасностью кошелька/инфраструктуры. Since our [call for indexers to participate](../blogs/20211202-indexer-invitation.md) we have been overwhelmed by the interest from our community and have recently approved an initial group of indexers who will soon receive their invitations to participate in SubQuery Frontier's seasons 1 & 2.
 
 ![](https://miro.medium.com/max/1400/1*_iqge0IqXriY7Zl0hUKQ3g.png)
 
