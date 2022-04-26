@@ -6,7 +6,7 @@ _Hadiah teknis memberikan kesempatan bagi pengembang untuk mengerjakan proyek un
 
 [SubQuery](https://subquery.network/), solusi pengindeksan data terkemuka yang dibangun di Polkadot (DOT), dengan bangga mengumumkan peluncuran bounty teknis dalam kemitraan dengan tim blockchain terkemuka di Polkadot sebagai bagian dari Program Grant SubQuery.
 
-[The USD$500,000 SubQuery Grants Program kicked off in December 2021](./20211222-grants.md) with the vision of offering opportunities to blockchain developers, community members, and wider ecosystem participants to create innovative or high-potential ideas that leverage SubQuery’s open-source data indexing tools to support cutting-edge decentralised applications.
+[Program Hibah SubQuery senilai USD$500.000 dimulai pada Desember 2021](./20211222-grants.md) dengan visi menawarkan peluang kepada pengembang blockchain, anggota komunitas, dan peserta ekosistem yang lebih luas untuk menciptakan ide inovatif atau berpotensi tinggi yang memanfaatkan data sumber terbuka SubQuery alat pengindeksan untuk mendukung aplikasi desentralisasi mutakhir.
 
 Sementara pengembang masih dapat mengajukan Program Grant SubQuery dengan ide mereka sendiri, SubQuery telah merilis bounty awal dalam kemitraan dengan Moonbeam, Acala, Astar dan Bifrost sebagai proyek untuk inspirasi. Semua terbuka untuk melamar sekarang, dan sebagai bonus, jika aplikasi Anda berhasil, Anda akan bekerja sama dengan tim parachain yang menyarankan tantangan!
 
@@ -16,7 +16,7 @@ Anda dapat melihat daftar langsung semua hadiah di situs web SubQuery, termasuk 
 
 Pelamar yang tertarik dengan salah satu karunia ini didorong untuk mengajukan proposal mereka dengan anggaran yang dibutuhkan untuk menyelesaikan tugas dan persyaratan lainnya di sini. Jika Anda memiliki pertanyaan, silakan bergabung dengan server Discord kami dan hubungi tim kami di saluran Grants.
 
-For those who would like to up-skill more on SubQuery before making an application, [The SubQuery Academy](./20211018-subquery-launches-the-subquery-academy.md)’s “Hero Course” is a free and modular educational program designed to build awareness amongst developers. dan [benar-benar gratis dan dapat diakses melalui portal online](https://subquery.coassemble.com/unlock/dOKZW6O#/).
+Bagi mereka yang ingin meningkatkan keterampilan SubQuery sebelum membuat aplikasi, "Hero Course" [Akademi SubQuery](./20211018-subquery-launches-the-subquery-academy.md) adalah program pendidikan gratis dan modular yang dirancang untuk membangun kesadaran di antara pengembang. dan [benar-benar gratis dan dapat diakses melalui portal online](https://subquery.coassemble.com/unlock/dOKZW6O#/).
 
 ## Tentang SubQuery Network
 
