@@ -6,7 +6,7 @@ Bienvenue dans la dernière mise à jour mensuelle de SubQuery, une mise à jour
 
 ## SubQuery Network
 
-### SubQuery to launch on Acala
+### Lancement de SubQuery sur Acala
 
 ![](https://miro.medium.com/max/600/0*SJ1TWt1sGwUWqvuI.gif) Lors de notre appel communautaire, nous avons finalement annoncé que SubQuery et le jeton SQT viseront à être la première application externe et le premier jeton à être lancés sur Acala.
 
@@ -16,41 +16,41 @@ James s'est entretenu avec Bette Chen d'Acala pour un entretien approfondi sur c
 
 [Pour en savoir plus sur cette annonce, cliquez ici](https://blog.subquery.network/blogs/20211125-subquery-network-acala.html)
 
-### Significant Development on the SubQuery Network
+### Développement important sur le réseau SubQuery
 
 Même si nous travaillons d'arrache-pied sur le réseau SubQuery et que nous nous hâtons toujours vers le lancement de notre réseau test au premier trimestre 2022. Nous avons fait de grands progrès sur nos contrats intelligents et nous avons affiné notre modèle économique de jetons. Attendez-vous à nous voir partager beaucoup plus à ce sujet prochainement.
 
-## Core Product Development
+## Développement du produit de base
 
-### Scaling our Hosted Service
+### Mise à l'échelle de notre service hébergé
 
-SubQuery Projects has been a recipient of some explosive growth over the past month as [thousands of academy participants](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html) have created even more projects in our hosted service ([project.subquery.network](https://project.subquery.network/)) in the space of a few weeks.
+SubQuery Projects a bénéficié d'une croissance explosive au cours du mois dernier. En effet, des [milliers de participants à l'académie](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html) ont créé encore plus de projets dans notre service hébergé[(project.subquery.network](https://project.subquery.network/)) en l'espace de quelques semaines.
 
 Nous avons franchi la barre des 2 000 projets déployés dans notre service hébergé et, par conséquent, la mise à l'échelle de notre service hébergé est devenue une priorité. Nous proposons désormais à nos clients professionnels des ressources dédiées afin d'améliorer les performances et la fiabilité.
 
-If you would like to upgrade your SubQuery project to receive dedicated resourcing, contact us at [sales@subquery.network](mailto:sales@subquery.network).
+Si vous souhaitez faire évoluer votre projet SubQuery pour bénéficier de ressources dédiées, contactez-nous à l'adresse [sales@subquery.network](mailto:sales@subquery.network).
 
-### Supporting External Chain Type Files in our Project Manifest
+### Prise en charge des fichiers externes de type chaîne dans notre manifeste de projet
 
-In November we launched [**version 0.2.0**](https://doc.subquery.network/create/manifest/) of our project manifest file (`project.yaml`). Cette nouvelle version apporte aux développeurs diverses améliorations qui ont été demandées par les clients.
+En novembre, nous avons lancé la [**version 0.2.0**](https://doc.subquery.network/create/manifest/) de notre fichier manifeste de projet (`project.yaml`). Cette nouvelle version apporte aux développeurs diverses améliorations qui ont été demandées par les clients.
 
 La plus importante est que vous pouvez désormais faire référence à un fichier de définition de type de chaîne contenant tous les types personnalisés lorsque vous indexez une chaîne de substrat personnalisée. Cela vous permet de connecter rapidement un nouveau projet SubQuery à n'importe quelle chaîne basée sur un substrat, y compris tous les parachaînes de Kusama.
 
 [Vous pouvez en savoir plus sur cette nouvelle fonctionnalité ici](https://blog.subquery.network/blogs/20211105-november-technical-update.html#support-for-external-chain-type-files-in-project-manifest).
 
-### Moonriver EVM Support
+### Support de Moonriver EVM
 
 ![](https://miro.medium.com/max/600/0*B27QVtvcR6nXA9ff.gif)
 
 Comme annoncé précédemment, nous avons implémenté le support des réseaux Moonbeam et Moonriver dans SubQuery. En novembre, nous avons fourni toutes les ressources pour développeurs dont vous avez besoin pour commencer. [Vous pouvez lire les instructions ici](https://blog.subquery.network/blogs/20211105-november-technical-update.html#moonbeam-evm-support).
 
-Additionally, Scott was able to present this entire workflow to the [Moonbuilders workshop](https://www.crowdcast.io/e/moonbuilders-ws/10) for everyone to watch. Un timing parfait pour la préparation des Gitcoin Grants que nous sponsorisons (plus d'informations ci-dessous).
+En outre, Scott a pu présenter l'ensemble de ce flux de travail à l'[atelier Moonbuilders](https://www.crowdcast.io/e/moonbuilders-ws/10) pour que tout le monde puisse le regarder. Un timing parfait pour la préparation des Gitcoin Grants que nous sponsorisons (plus d'informations ci-dessous).
 
-## Community
+## Communauté
 
-### Gitcoin Hackathon
+### Hackathon Gitcoin
 
-Hot on the heels of the overwhelming success of the SubQuery Academy’s _Hero Course_, we were proud to announce that we would be providing our first hackathon opportunity for all developers via [Gitcoin Grants Round 12](https://gitcoin.co/hackathon/gr12/?org=subquery) starting on December 1st.
+Dans la foulée de l'immense succès du _Hero Course_ de la SubQuery Academy, nous étions fiers d'annoncer que nous allions offrir notre première opportunité de hackathon à tous les développeurs via [Gitcoin Grants Round 12](https://gitcoin.co/hackathon/gr12/?org=subquery) à partir du 1er décembre.
 
 SubQuery a proposé 5 primes avec une cagnotte totale pouvant atteindre 34 000 dollars :
 
@@ -62,9 +62,9 @@ SubQuery a proposé 5 primes avec une cagnotte totale pouvant atteindre 34 000 d
 
 [Vous pouvez en savoir plus sur ces primes ici.](https://blog.subquery.network/blogs/20211120-gitcoin12-hackathon.html)
 
-### Analysis into the Polkadot Crowdloans
+### Dans les coulisses des Crowdloans Polkadot
 
-SubQuery est le principal service d'indexation de données de Polkadot, et au cours de la semaine dernière, nous avons alimenté des millions de requêtes quotidiennes vers la majorité des tableaux de bord de crowdloans, des applications de contribution et des sites Web d'analyse. Teams like [**SubVis**](https://www.subvis.io/), [**Parallel Finance**](https://parallel.fi/), and [**DotMarketCap**](https://dotmarketcap.com/) rely on SubQuery to provide real-time data on the crowdloans and other on-chain data directly to their websites and apps.
+SubQuery est le principal service d'indexation de données de Polkadot, et au cours de la semaine dernière, nous avons alimenté des millions de requêtes quotidiennes vers la majorité des tableaux de bord de crowdloans, des applications de contribution et des sites Web d'analyse. Des équipes comme [**SubVis**](https://www.subvis.io/), [**Parallel Finance**](https://parallel.fi/) et [**DotMarketCap**](https://dotmarketcap.com/) s'appuient sur SubQuery pour fournir des données en temps réel sur les crowdloans et d'autres données de la chaîne directement sur leurs sites Web et leurs applications.
 
 ![](https://miro.medium.com/max/60/0*HfsoOwpat76ip6Jg?q=20)
 
@@ -72,7 +72,7 @@ SubQuery est le principal service d'indexation de données de Polkadot, et au co
 
 Nous avons récemment fait une plongée en profondeur dans les crowdloans de Polkadot (en particulier le combat pour le titre entre Acala et Moonbeam). [Vous devriez le lire ici si vous ne l'avez pas déjà fait](https://blog.subquery.network/blogs/20211124-polkadot-crowdloans.html).
 
-## Other things you might have missed
+## Autres choses que vous avez pu manquer
 
 - We’re working closely with the new team at [Web3Go](https://www.web3go.xyz/) to [provide data anaysis tools to the SubQuery ecosystem.](https://blog.subquery.network/customer_announcements/20211110-web3go.html)
 - [Écoutez Sam et James sur le podcast de Brave New Coin](https://bravenewcoin.com/insights/podcasts/subquery-connecting-the-dots-on-polkadot).
