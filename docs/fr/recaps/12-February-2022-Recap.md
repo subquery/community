@@ -1,46 +1,46 @@
-# February Recap
+# Récapitulatif de février
 
 ![](https://miro.medium.com/max/1400/1*T3DLiAKSIy-AjRia_JJjow.png)
 
-February flew by for the team at SubQuery as we have been busy on all fronts preparing for our TGE and servicing all of our existing customers including the leading teams in Polkadot.
+Le mois de février a filé à toute allure pour l'équipe de SubQuery. Nous avons été occupés sur tous les fronts à préparer notre TGE et à servir tous nos clients existants, y compris les équipes de pointe de Polkadot.
 
-We have a lot of exciting work going on that we can't wait to share in the weeks and months ahead!
+Nous avons beaucoup de travail passionnant en cours que nous sommes impatients de partager dans les semaines et les mois à venir!
 
-## Community
+## Communauté
 
-This month we finally passed 30,000 organic Twitter followers and our Discord has swelled to over 15,000 active community members working to help one another. It's not enough to build a tool or an application in web3, you need to build a self sustaining community and we're hard at work on this at SubQuery!
+Ce mois-ci, nous avons enfin dépassé les 30 000 followers organiques sur Twitter et notre Discord compte désormais plus de 15 000 membres actifs qui s'entraident. Il ne suffit pas de construire un outil ou une application en web3, il faut aussi créer une communauté autonome et nous y travaillons dur chez SubQuery !
 
-### SubQuery Announces First Cohort of SubQuery Grants Recipients
+### SubQuery annonce la première promotion de bénéficiaires de subventions SubQuery
 
-Four teams have been selected as the first ever cohort of SubQuery Grants recipients. These teams are [Alphabit](https://www.polkadata.xyz/), [Zoombies](https://zoombies.world/), [Dapplooker](https://dapplooker.com/) and [Dotsama](http://dotsama.ai/). The [USD $500,000 SubQuery Grants](https://subquery.network/grants) Program kicked off in December 2021 with the vision of offering opportunities to blockchain developers, community members, and wider ecosystem participants to create innovative or high-potential web3 applications.
+Quatre équipes ont été sélectionnées pour former la toute première promotion de bénéficiaires de subventions SubQuery. Ces équipes sont [Alphabit](https://www.polkadata.xyz/), [Zoombies](https://zoombies.world/), [Dapplooker](https://dapplooker.com/) et [Dotsama](http://dotsama.ai/). [Le programme de subventions SubQuery de 500 000 USD a été lancé en décembre 2021](https://subquery.network/grants) avec la vision d'offrir des opportunités aux développeurs de blockchain, aux membres de la communauté et aux participants de l'écosystème plus large pour créer des idées innovantes ou à fort potentiel qui tirent parti des outils d'indexation de données open-source de SubQuery pour soutenir des applications décentralisées de pointe.
 
 ![](https://miro.medium.com/max/1400/1*tBnWK4svpGbGuP3mCXyGDg.png)
 
-Alphabit, are endeavouring to empower the independent investor by providing visibility to track and analyse the portfolios and investments of funds, and large traders or 'whales'. _"The business advice and technical support from SubQuery has completely surpassed our expectations about the support we could receive as a small analytics startup" --- Michael Anderson, Business Development & Strategic Partnerships (Alphabit)_
+Alphabit, s'efforce de donner du pouvoir à l'investisseur indépendant en lui offrant la possibilité de suivre et d'analyser les portefeuilles et les investissements des fonds et des grands négociants ou "baleines". _« Les conseils d'affaires et le support technique de SubQuery ont complètement dépassé nos attentes concernant le support que nous pourrions recevoir en tant que petite startup d'analyse » --- Michael Anderson, Développement des affaires & Partenariats Stratégiques (Alphabit)_
 
 ![](https://miro.medium.com/max/1400/1*TpHBDhA7WqNGTOxz9LpifQ.png)
 
-Zoombies submitted a proposal in the hopes of using SubQuery to expedite their goal of deepening the value of the growing world of collectible play-to-earn (P2E) tokens. Their project will access the complete history of past event data within a game to produce meaningful views and enrich the player experience. _"The SubQuery Grants Programme has been a very clear step-by-step reward driven process" --- Ryan Price, CEO (Zoombies)_
+Pendant ce temps, Zoombies a soumis une proposition dans l'espoir d'utiliser SubQuery pour accélérer son objectif d'approfondir la valeur du monde croissant des jetons de collection "play-to-earn" (P2E). Leur projet permettra d'accéder à l'historique complet des données relatives aux événements passés dans un jeu pour produire des vues significatives et enrichir l'expérience du joueur. _"Le programme de subventions de sous-requête a été un processus de récompense guidé étape par étape" --- Ryan Price, PDG (Zoombies)_
 
 ![](https://miro.medium.com/max/1400/1*4rPD0g-pC3MOU5M5vAtS4w.png)
 
-Dapplooker aim to empower Polkadot projects with beautiful and easy-to-build analytics tools such as explorers, charts and dashboards. These valuable metrics will be built on top of SubQuery projects to fetch the required data and present it to its audience in an intuitive and aesthetic format.
+Dapplooker vise à doter les projets de Polkadot d'outils d'analyse magnifiques et faciles à construire tels que les explorateurs, les graphiques et les tableaux de bord. Ces précieux indicateurs seront construits sur des projets SubQuery pour récupérer les données requises et les présenter au public dans un format intuitif et esthétique.
 
 ![](https://miro.medium.com/max/1400/1*kC8QYVvlUZwUfgXTBFQbgg.png)
 
-The Dotsama team are also determined to bring rich insights to the average investor in the Polkadot / Kusama ecosystem, by aiming to be a one-stop analytics shop with tools to identify early investment trends and opportunities. "_By being part of the SubQuery Grants Programme, we are not just looking to get technical and strategic guidance, we are also looking to become part of this community and help accelerate the movement." --- Sudarshan Acharya, Founder (Dotsama)_
+L'équipe de Dotsama est également déterminée à apporter de riches informations à l'investisseur moyen dans l'écosystème Polkadot / Kusama, en visant à être un guichet unique d'analyse avec des outils permettant d'identifier les tendances et les opportunités d'investissement précoce. "_En participant au programme de subventions SubQuery, nous ne cherchons pas seulement à obtenir des conseils techniques et stratégiques, mais aussi à faire partie de cette communauté et à contribuer à accélérer le mouvement." --- Sudarshan Acharya, Fondateur (Dotsama)_
 
-In addition to general Grants like the ones awarded to our first cohort, there are also ongoing [technical bounties in partnership with leading parachain teams in Polkadot](../blogs/20220127-grants-bounties.md) such as Moonbeam, Acala, Astar and Bifrost on [SubQuery's website](https://subquery.network/grants)
+En plus des subventions générales comme celles accordées à notre première promotion, il existe également des [bourses techniques en cours en partenariat avec les principales équipes parachain de Polkadot](../blogs/20220127-grants-bounties.md) telles que Moonbeam, Acala, Astar et Bifrost sur [le site web de SubQuery](https://subquery.network/grants)
 
 ## SubQuery Network
 
-### SubQuery Released our Updated Whitepaper
+### SubQuery publie une mise à jour de son livre blanc
 
-[The SubQuery whitepaper](https://static.subquery.network/whitepaper.pdf) is a document that outlines our strategic framework for the decentralised SubQuery Network and her SQT token. Since the original publication in June 2021, we have experienced significant growth in our customer base and community and made huge progress on building the SubQuery Network. From these sources, we have been inspired to improve and innovate, and that culminates in the latest version of our [whitepaper](https://static.subquery.network/whitepaper.pdf).
+[Le livre blanc SubQuery](https://static.subquery.network/whitepaper.pdf) est un document qui décrit notre cadre stratégique pour le réseau décentralisé SubQuery et son jeton SQT. Depuis la publication originale en juin 2021, nous avons connu une croissance significative de notre base de clients et de notre communauté et nous avons fait d'énormes progrès dans la construction du réseau SubQuery. À partir de ces sources, nous avons été inspirés pour améliorer et innover, et cela culmine dans la dernière version de notre [livre blanc](https://static.subquery.network/whitepaper.pdf).
 
-The [updated whitepaper](https://static.subquery.network/whitepaper.pdf) maintains SubQuery's conviction that the data services of tomorrow must be multi-chain, simple, and flexible. The new version goes into detail on how the SubQuery Network factors these considerations into the token economic design while also enabling power users to run enterprise-level services.
+Le [livre blanc mis à jour](https://static.subquery.network/whitepaper.pdf) maintient la conviction de SubQuery que les services de données de demain doivent être multi-chaînes, simples et flexibles. La nouvelle version explique en détail comment le réseau SubQuery tient compte de ces considérations dans la conception économique des jetons, tout en permettant aux utilisateurs expérimentés d'exécuter des services de niveau entreprise.
 
-There is significant new information in the whitepaper relating to SubQuery's innovation in payment models, providing all participants with various flexible ways to transact with the SubQuery Token (SQT).
+Le livre blanc contient de nouvelles informations importantes sur l'innovation de SubQuery en matière de modèles de paiement, qui offrent à tous les participants divers moyens flexibles d'effectuer des transactions avec le jeton SubQuery (SQT).
 
 ![](https://miro.medium.com/max/1400/1*EhLefs3-lb47y2LC4Z6jWA.png)
 
