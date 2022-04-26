@@ -1,58 +1,58 @@
-# Inside The Polkadot Crowdloans (Part 2)
+# Di dalam Polkadot Crowdloans (Bagian 2)
 
 ![](https://miro.medium.com/max/1400/0*MqQhXJbmnfMSqf-8)
 
-Polkadot has provided its community with another exciting race for their third parachain slot auction. We have recently witnessed Parallel Finance and Astar battle it out for the third slot, and in the end Astar managed to emerge victorious. Today we are going to explore a little more about what happened within the third auction by diving into the data behind every single contribution.
+Polkadot telah memberikan komunitasnya perlombaan menarik lainnya untuk lelang slot parachain ketiga mereka. Kami baru-baru ini menyaksikan Parallel Finance dan Astar bertarung memperebutkan slot ketiga, dan pada akhirnya Astar berhasil keluar sebagai pemenang. Hari ini kita akan mengeksplorasi lebih banyak tentang apa yang terjadi dalam lelang ketiga dengan menyelami data di balik setiap kontribusi.
 
-SubQuery is Polkadot’s leading data indexing service, and over the past week we’ve been powering millions of daily requests to the majority of the crowdloan dashboards, contribution apps, and analytics websites. Teams like [SubVis](https://www.subvis.io/), [Parallel Finance](https://parallel.fi/), and [DotMarketCap](https://dotmarketcap.com/) rely on SubQuery to provide real time data on the crowdloans and other on-chain data directly to their websites and apps.
+SubQuery adalah layanan pengindeksan data terkemuka dari Polkadot, dan selama seminggu terakhir kami telah mendukung jutaan permintaan harian ke sebagian besar dasbor crowdloan, aplikasi kontribusi, dan situs web analitik. Tim seperti [SubVis](https://www.subvis.io/), [Parallel Finance](https://parallel.fi/), dan [DotMarketCap](https://dotmarketcap.com/) mengandalkan SubQuery untuk menyediakan data real time tentang crowdloan dan data on-chain lainnya langsung ke situs web dan aplikasi.
 
-Firstly, let’s start with some high level quick facts. As you can see below Astar had both more contributions and contributors. It’s important to note that Parallel raised a significant amount through its proxy fund, so the contributor amount is misleading because the proxy account hides this information.
+Pertama, mari kita mulai dengan beberapa fakta cepat tingkat tinggi. Seperti yang Anda lihat di bawah, Astar memiliki lebih banyak kontribusi dan kontributor. Penting untuk dicatat bahwa Parallel mengumpulkan jumlah yang signifikan melalui dana proksinya, sehingga jumlah kontributor menyesatkan karena akun proksi menyembunyikan informasi ini.
 
-Both received a median contribution of 10 DOT (US$367.70) but Astar was able to attract the largest single contribution with 2,005,295 DOT (US$73.7 million). In the end a total of almost 20 million DOT (US$735.4 million) was contributed across both two during the third auction. Unsurprisingly, this number was less than the amount committed in the first auctions, however it is promising to see the auction amounts still being of significant value.
+Keduanya menerima kontribusi rata-rata 10 DOT (US$367,70) tetapi Astar mampu menarik kontribusi tunggal terbesar dengan 2.005.295 DOT (US$73,7 juta). Pada akhirnya total hampir 20 juta DOT (US$735.4 juta) disumbangkan di kedua duanya selama lelang ketiga. Tidak mengherankan, jumlah ini kurang dari jumlah yang dilakukan pada lelang pertama, namun menjanjikan untuk melihat jumlah lelang masih memiliki nilai yang signifikan.
 
-![](https://miro.medium.com/max/1920/1*cHMt10lANsqtkLYHCv6iWg.png) As you can see in the graph below, the number of contributions were relatively constant, with simultaneous jumps in the contribution rate on the 17th of November to over 2,000 contributions in a 4 hour period. Similarly to the [Moonbeam and Acala battle](./20211124-polkadot-crowdloans.md), this auction had significantly different styles of participation while maintaining a relatively equal amount of contributions. Parallel Finance had 20,000 less contributions to their crowdloan when compared to Astar.
+![](https://miro.medium.com/max/1920/1*cHMt10lANsqtkLYHCv6iWg.png) Seperti yang dapat Anda lihat pada grafik di bawah, jumlah kontribusi relatif konstan, dengan lonjakan simultan dalam tingkat kontribusi pada tanggal 17 November menjadi lebih dari 2.000 kontribusi dalam periode 4 jam. Sama halnya dengan [Moonbeam dan pertempuran Acala](./20211124-polkadot-crowdloans.md), lelang ini memiliki gaya partisipasi yang sangat berbeda sambil mempertahankan jumlah kontribusi yang relatif sama. Parallel Finance memiliki 20.000 lebih sedikit kontribusi untuk crowdloan mereka jika dibandingkan dengan Astar.
 
 ![](https://miro.medium.com/max/1920/0*QLdNkyaQBBj3L9Eu)
 
-But it’s not the number of contributions that matters here, rather the value of those contributions. As you can see in the chart below the auction was incredibly tight, with the lead passing between teams through the auction.
+Tapi bukan jumlah kontribusi yang penting di sini, melainkan nilai kontribusi tersebut. Seperti yang dapat Anda lihat pada bagan di bawah, pelelangan berlangsung sangat ketat, dengan keunggulan melewati antar tim melalui pelelangan.
 
 ![](https://miro.medium.com/max/1920/0*AGGfB2oBSwoplGhv)
 
-As you can see in the following graphs there were two events to watch, the first was a huge spike in contributions to Astar on the 12th of November. This gave them a steady lead until the 24th of November, where Parallel Finance gained almost 2.5 million DOT (US$91 million).
+Seperti yang Anda lihat pada grafik berikut, ada dua peristiwa yang harus diperhatikan, yang pertama adalah lonjakan besar dalam kontribusi ke Astar pada 12 November. Ini memberi mereka keunggulan yang stabil hingga 24 November, di mana Parallel Finance memperoleh hampir 2,5 juta DOT (US$91 juta).
 
 ![](https://miro.medium.com/max/1920/0*UK4Drn6LXcjebF_V)
 
-For the first event occurred on the 12th of November at 2:26am UTC when an account linked to Binance deposited in quick succession, 2,005,295 DOT (US$73.5 million) to Astar and 1,026,763 DOT (US$37.9 million) to Parallel Finance. This is likely Binance providing the contributions that it collects from it’s own community to each crowdloan.
+Untuk peristiwa pertama terjadi pada 12 November pukul 2:26 pagi UTC ketika akun yang terhubung ke Binance disetorkan secara berurutan, 2.005.295 DOT (US$73,5 juta) ke Astar dan 1.026.763 DOT (US$37,9 juta) ke Parallel Finance. Ini kemungkinan Binance memberikan kontribusi yang dikumpulkannya dari komunitasnya sendiri ke setiap crowdloan.
 
-The second even was a bit weirder, and was rather 25 separate events.In a 11 minutes, Parallel’s Crowdloan proxy vehicle made 25 identical contributions of 98,982 DOT (US$3,639,568.14) each to Parallel totalling 2,474,550 DOT (US$90,989,203.50). It’s not clear why these deposits were made via smaller DOT amounts, potentially Parallel’s Crowdloan proxy vehicle was set up to contribute a maximum amount of this value each time.
+Genap kedua sedikit lebih aneh, dan merupakan 25 peristiwa yang terpisah. Dalam 11 menit, kendaraan proxy Crowdloan Parallel memberikan 25 kontribusi identik dari 98.982 DOT (US$3.639.568,14) masing-masing ke Parallel dengan total 2.474.550 DOT (US$90.989.203,50). Tidak jelas mengapa setoran ini dilakukan melalui jumlah DOT yang lebih kecil, kemungkinan kendaraan proxy Crowdloan Paralel disiapkan untuk menyumbangkan jumlah maksimum dari nilai ini setiap kali.
 
 ![](https://miro.medium.com/max/1920/0*ZErTVoVAvSJvaIsL)
 
-Astar and Parallel Finance led a very competitive auction, where Astar was selected as the winner at block [7927110](https://polkadot.subscan.io/block/7927110), with a lead of only 120,000 DOT. If there was another random block selected any earlier or later, the result may have been quite different.
+Astar dan Parallel Finance memimpin lelang yang sangat kompetitif, dimana Astar terpilih sebagai pemenang di blok [7927110](https://polkadot.subscan.io/block/7927110), dengan keunggulan hanya 120.000 DOT. Jika ada blok acak lain yang dipilih lebih awal atau lebih lambat, hasilnya mungkin sangat berbeda.
 
-So who is contributing? Firstly there are two massive whales that are responsible for a combined 41% of all contributions and 69.34% of all value (13,756,262 DOT). These two accounts represent Parallel Finance’s Crowdloan proxy vehicle and Binance. Kraken and Bifrost’s SALP program were also represented in the top 6 contributors. Parallel’s Crowdloan proxy vehicle was particularly prevalent in our results with over 9.3 million DOT contributed (US$344.6 million) representing over 47% of all contributions.
+Jadi siapa yang berkontribusi? Pertama ada dua paus besar yang bertanggung jawab atas gabungan 41% dari semua kontribusi dan 69,34% dari semua nilai (13.756.262 DOT). Kedua akun ini mewakili kendaraan proxy Crowdloan Parallel Finance dan Binance. Program SALP Kraken dan Bifrost juga terwakili dalam 6 kontributor teratas. Kendaraan proxy Crowdloan Paralel sangat lazim dalam hasil kami dengan lebih dari 9,3 juta kontribusi DOT (US$344,6 juta) mewakili lebih dari 47% dari semua kontribusi.
 
-Unfortunately this high percentage means that comparing the average contribution size is difficult, since this proxy obscures the contribution data way too much. In the future, we might even dive deep into Parallel’s data and use this to determine exactly how many of these contributions come from whales versus individual small cap investors.
+Sayangnya persentase yang tinggi ini berarti bahwa membandingkan ukuran kontribusi rata-rata sulit dilakukan, karena proxy ini terlalu mengaburkan data kontribusi. Di masa depan, kami bahkan mungkin menyelam jauh ke dalam data Parallel dan menggunakan ini untuk menentukan dengan tepat berapa banyak dari kontribusi ini yang berasal dari paus versus investor berkapitalisasi kecil individu.
 
-Having two auctions that have been extremely competitive suggests a healthy ecosystem, and it is encouraging to see the amount of commitment that the community has shown. Here at SubQuery we are very excited to continue working alongside the best Polkadot projects, and can’t wait to see what the future has in store for us.
+Memiliki dua lelang yang sangat kompetitif menunjukkan ekosistem yang sehat, dan sangat menggembirakan melihat jumlah komitmen yang telah ditunjukkan oleh komunitas. Di sini, di SubQuery, kami sangat bersemangat untuk terus bekerja bersama proyek Polkadot terbaik, dan tidak sabar untuk melihat apa yang akan terjadi di masa depan bagi kami.
 
 ---
 
-## About SubQuery Network
+## Tentang SubQuery Network
 
-SubQuery is Polkadot’s leading data provider, supporting an indexing & querying layer between Layer-1 blockchains (Polkadot) and decentralized applications. SubQuery’s data service is being used by most of the Polkadot and Kusama crowdloan and parachain auction websites live today.
+SubQuery adalah penyedia data terkemuka Polkadot, yang mendukung pengindeksan & lapisan kueri antara blockchain Layer-1 (Polkadot) dan aplikasi terdesentralisasi. Layanan data SubQuery sedang digunakan oleh sebagian besar situs web lelang crowdloan dan parachain Polkadot dan Kusama saat ini.
 
-SubQuery’s protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+Protokol SubQuery mengabstraksi keanehan data blockchain dengan SubQuery SDK, memungkinkan pengembang untuk fokus pada penerapan produk inti mereka tanpa membuang-buang upaya pada teknologi backend kustom.
 
 ​​​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
 
 ## Appendix
 
-All USD prices are quoted at the price at the 3rd Auctions’s close = USD$36.77
+Semua harga USD dikutip pada harga pada penutupan Lelang ke-3 = USD$36,77
 
-All data is from the start of the Polkadot Crowdloans to the completion of the third auction on 3rd December 1.43AM UTC (block 7,957,704).
+Semua data adalah dari awal Crowdloans Polkadot hingga penyelesaian lelang ketiga pada 3 Desember 1.43AM UTC (blok 7.957.704).
 
-Excluded Crowdloan Sites
+Situs Crowdloan yang Dikecualikan
 
 - [Acala LCDOT](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157)
 - [Binance Crowdloan](https://www.binance.com/en/dotslot)
