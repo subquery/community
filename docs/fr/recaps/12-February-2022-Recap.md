@@ -20,7 +20,7 @@ Alphabit, s'efforce de donner du pouvoir à l'investisseur indépendant en lui o
 
 ![](https://miro.medium.com/max/1400/1*TpHBDhA7WqNGTOxz9LpifQ.png)
 
-Pendant ce temps, Zoombies a soumis une proposition dans l'espoir d'utiliser SubQuery pour accélérer son objectif d'approfondir la valeur du monde croissant des jetons de collection "play-to-earn" (P2E). Leur projet permettra d'accéder à l'historique complet des données relatives aux événements passés dans un jeu pour produire des vues significatives et enrichir l'expérience du joueur. _"Le programme de subventions de sous-requête a été un processus de récompense guidé étape par étape" --- Ryan Price, PDG (Zoombies)_
+Pendant ce temps, Zoombies a soumis une proposition dans l'espoir d'utiliser SubQuery pour accélérer son objectif d'approfondir la valeur du monde croissant des jetons de collection "play-to-earn" (P2E). Leur projet permettra d'accéder à l'historique complet des données relatives aux événements passés dans un jeu pour produire des vues significatives et enrichir l'expérience du joueur. _"Le programme de SubQuery de sous-requête a été un processus de récompense guidé étape par étape" --- Ryan Price, PDG (Zoombies)_
 
 ![](https://miro.medium.com/max/1400/1*4rPD0g-pC3MOU5M5vAtS4w.png)
 
@@ -70,7 +70,7 @@ De nombreux clients, dont Nova, comptent sur SubQuery pour fournir des données 
 
 [Parami Protocol](https://parami.io/) développe une nouvelle technologie innovante pour un nouveau modèle de publicité centré sur l'utilisateur et fondé sur des jetons : Ad 3.0.
 
-> _"La vision de Parami est de construire une économie publicitaire centrée sur l'utilisateur pour le web3 et pour que cela devienne une réalité, nous nous sommes tournés vers SubQuery comme partenaire de données de confiance. SubQuery constitue l'épine dorsale de notre service en fournissant la partie requête de notre modèle CQRS (Command and Query Responsibility Segregation) pour mettre à jour notre base de données centrale. Parami tire parti de la vitesse d'indexation supérieure de SubQuery pour suivre le prix des fragments NFT et pour construire un index secondaire des données sur la chaîne, le tout en une seule phrase. Nous sommes impatients de construire AD 3.0 pour le Web 3.0 en tirant parti de la technologie innovante de SubQuery."_
+> _La vision de "Parami" est de construire une économie publicitaire centrée sur l'utilisateur pour le web3 et pour que cela devienne une réalité, nous nous sommes tournés vers SubQuery comme partenaire de données de confiance. SubQuery constitue l'épine dorsale de notre service en fournissant la partie requête de notre modèle CQRS (Command and Query Responsibility Segregation) pour mettre à jour notre base de données centrale. Parami tire parti de la vitesse d'indexation supérieure de SubQuery pour suivre le prix des fragments NFT et pour construire un index secondaire des données sur la chaîne, le tout en une seule phrase. Nous sommes impatients de construire AD 3.0 pour le Web 3.0 en tirant parti de la technologie innovante de SubQuery."_
 
 ~ Dorien le Cofondateur du Protocole Parami
 
