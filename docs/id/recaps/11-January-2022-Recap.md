@@ -20,13 +20,13 @@ Pelamar yang tertarik dengan salah satu Bounty ini didorong untuk mengirimkan pr
 
 ### SubQuery Merayakan Pemenang Gitcoin GR 12 Hackathon
 
-[SubQuery partnered with Gitcoin in December](../blogs/20211120-gitcoin12-hackathon.md) to sponsor five challenges to a value of USD$37,000 (the largest prize pool in the challenge), inviting developers to build useful tools, dashboards and even extend SubQuery to another Layer-1 blockchain.
+[SubQuery bermitra dengan Gitcoin pada bulan Desember](../blogs/20211120-gitcoin12-hackathon.md) untuk mensponsori lima tantangan dengan nilai USD$37.000 (kumpulan hadiah terbesar dalam tantangan tersebut), mengundang pengembang untuk membangun alat yang berguna, dasbor, dan bahkan memperluas SubQuery ke Layer-1 lainnya rantai blok.
 
 ![](https://miro.medium.com/max/1400/1*BUq3ah1ULNnvLjqxv_vzlQ.png)
 
 [Sam Zou](https://twitter.com/zoujialiu), CEO dan Pendiri SubQuery berkomentar, “_SubQuery senang dengan hasil Hackathon Gitcoin GR12. Misi kami bergantung pada memiliki jaringan pengembang yang diberdayakan untuk membuat dan berinovasi dalam ekosistem Substrat/Polkadot. Kemitraan ini memberikan peluang bagi pengembang yang termotivasi di seluruh dunia untuk membangun aplikasi masa depan. Kami sangat antusias untuk membina para pemenang tantangan untuk mengembangkan ide mereka lebih jauh_”
 
-Recently we’ve covered the many winners that participated in this hackathon and the amazing projects that they have built in [this detailed writeup](../blogs/20220120-gr12-winners.md). Kami terpesona oleh kualitas dan kemajuan yang dibuat oleh kiriman dalam waktu yang begitu singkat dan kami senang mengundang banyak kiriman untuk berpartisipasi dalam program grants kami.
+Baru-baru ini kami telah membahas banyak pemenang yang berpartisipasi dalam hackathon ini dan proyek luar biasa yang telah mereka bangun dalam [tulisan mendetail ini](../blogs/20220120-gr12-winners.md). Kami terpesona oleh kualitas dan kemajuan yang dibuat oleh kiriman dalam waktu yang begitu singkat dan kami senang mengundang banyak kiriman untuk berpartisipasi dalam program grants kami.
 
 [Baca selengkapnya disini](../blogs/20220120-gr12-winners.md)
 
@@ -58,43 +58,43 @@ Sebagai indikator luasnya dukungan yang ditawarkan SubQuery ke ekosistem Polkado
 
 ### Registri Template SubQuery
 
-**29 networks are covered by templates**
+**29 jaringan dicakup oleh template**
 
-The `subql init` command is a familiar one for anyone that has built a SubQuery project; it represents a blank canvas — limitless opportunities. We are aware that we can do better to help others get started, rather than a blank canvas developers want a blank scaffold, where all the boiler-plate code is already written.
+Perintah `subql init` adalah perintah yang familiar bagi siapa saja yang telah membangun proyek SubQuery; itu mewakili kanvas kosong — peluang tanpa batas. Kami sadar bahwa kami dapat berbuat lebih baik untuk membantu orang lain memulai, daripada pengembang kanvas kosong menginginkan perancah kosong, di mana semua kode boiler-plate sudah ditulis.
 
-Today when you write `subql init`, you are presented with a list of 29 networks from which you are provided a pre-created scaffold with all the correct endpoints, dictionary links, and even type definitions. This eliminates one of the most difficult steps when starting a new SubQuery project and makes building your next big dApp that much easier and faster.
+Hari ini ketika Anda menulis `subql init`, Anda disajikan dengan daftar 29 jaringan dari mana Anda diberikan perancah yang telah dibuat sebelumnya dengan semua titik akhir yang benar, tautan kamus, dan bahkan definisi jenis. Ini menghilangkan salah satu langkah tersulit saat memulai proyek SubQuery baru dan membuat pembuatan dApp besar berikutnya menjadi lebih mudah dan lebih cepat.
 
 ### Fitur Agregasi Data
 
-SubQuery now supports advanced GraphQL aggregate functions to allow you to perform a calculation on a set of values during your query. These functions provide our customers a richer set of insights and calculations from their existing data set. For example with a single query you can calculate the median contribution amount for each crowdloan broken down by contribution date.
+SubQuery sekarang mendukung fungsi agregat GraphQL tingkat lanjut untuk memungkinkan Anda melakukan penghitungan pada sekumpulan nilai selama kueri Anda. Fungsi-fungsi ini memberi pelanggan kami kumpulan wawasan dan perhitungan yang lebih kaya dari kumpulan data mereka yang ada. Misalnya dengan satu kueri, Anda dapat menghitung jumlah kontribusi rata-rata untuk setiap crowdloan yang dikelompokkan berdasarkan tanggal kontribusi.
 
-[Read more about how to use these features in our upgraded docs.](https://doc.subquery.network/query/aggregate/)
+[Baca selengkapnya tentang cara menggunakan fitur ini di dokumen kami yang ditingkatkan.](https://doc.subquery.network/query/aggregate/)
 
 ### SubQuery bermitra dengan Darwinia Network untuk membangun Alat CLI SubQuery
 
-Darwinia has partnered with SubQuery to build the plethora of applications that will be needed to provide the ultimate user experience for cross chain interactions. This includes a new [Smart App that is a central hub](https://apps.darwinia.network/) to manage all Darwinia network interactions including governance, staking, chain exploration and more. This app uses a considerable amount of [SubQuery data to show historic data and actions](https://explorer.subquery.network/subquery/darwinia-network/smart-app-crab). SubQuery will be working closely with the team at Darwinia to make this the best experience in the entire Polkadot ecosystem.
+Darwinia telah bermitra dengan SubQuery untuk membangun sejumlah besar aplikasi yang akan dibutuhkan untuk memberikan pengalaman pengguna terbaik untuk interaksi lintas chain. Ini termasuk [Aplikasi Cerdas baru yang merupakan hub pusat](https://apps.darwinia.network/) untuk mengelola semua interaksi jaringan Darwinia termasuk tata kelola, staking, eksplorasi chain, dan banyak lagi. Aplikasi ini menggunakan cukup banyak [data SubQuery untuk menampilkan data dan tindakan historis](https://explorer.subquery.network/subquery/darwinia-network/smart-app-crab). SubQuery akan bekerja sama dengan tim di Darwinia untuk menjadikan ini pengalaman terbaik di seluruh ekosistem Polkadot.
 
 ![](https://miro.medium.com/max/1200/1*bL2Csj9qyamD7txAheCTIg.gif)
 
-Darwinia have also been working closely with the SubQuery team to [build a CLI tool](https://github.com/fewensa/subquery-cli) for the SubQuery managed service (https://project.subquery.network). You can use this [CLI](https://github.com/fewensa/subquery-cli) to create a SubQuery project and automatically deploy a new version to either the staging or production slot. Additionally you can retrieve information including the detailed syncing status and logs from your running project that is hosted for free in SubQuery Projects. [Read more here](../customer_announcements/20220125-subquery-partners-with-darwinia-network-to-build-subquerys-cli-tool.md)
+Darwinia juga telah bekerja sama dengan tim SubQuery untuk [membangun alat CLI](https://github.com/fewensa/subquery-cli) untuk layanan terkelola SubQuery (https://project.subquery.network). Anda dapat menggunakan [CLI](https://github.com/fewensa/subquery-cli) ini untuk membuat proyek SubQuery dan secara otomatis menerapkan versi baru ke staging atau slot produksi. Selain itu, Anda dapat mengambil informasi termasuk status sinkronisasi terperinci dan log dari proyek Anda yang sedang berjalan yang dihosting secara gratis di Proyek SubQuery. [Baca selengkapnya di sini](../customer_announcements/20220125-subquery-partners-with-darwinia-network-to-build-subquerys-cli-tool.md)
 
 ## SubQuery Network
 
-Last community call we walked through a few important details of the upcoming SubQuery test network. It will be run over at least three seasons, each season will test different aspects of the network:
+Panggilan komunitas terakhir, kami membahas beberapa detail penting dari jaringan pengujian SubQuery yang akan datang. Ini akan dijalankan setidaknya selama tiga musim, setiap musim akan menguji berbagai aspek jaringan:
 
 - Musim 1: Pengujian alfa tahap awal dari sejumlah fitur terbatas dengan beberapa peserta terpilih
 - Musim 2: Pengujian beta besar untuk lebih banyak fitur dengan ratusan peserta
 - Musim 3: Jaringan uji publik penuh untuk pengujian beban dan skala dengan ribuan peserta
 
-Each season will have multiple challenges that you can complete which may result in real SQT rewards. Expect things to kickoff here in March!
+Setiap musim akan memiliki banyak tantangan yang dapat Anda selesaikan yang dapat menghasilkan hadiah SQT nyata. Harapkan hal-hal akan dimulai di sini pada bulan Maret!
 
 ## Roadmap Terbaru
 
-Last October we released out [technical roadmap](https://blog.subquery.network/blogs/20211029-roadmap-october.html) with the next year mapped out for SubQuery, we’re overdue to address exactly how we’re doing here.
+Oktober lalu kami merilis [peta jalan teknis](https://blog.subquery.network/blogs/20211029-roadmap-october.html) dengan tahun berikutnya dipetakan untuk SubQuery, kami sudah terlambat untuk membahas dengan tepat apa yang kami lakukan di sini.
 
 ![](https://miro.medium.com/max/1400/1*2a3SGrW-OG5pbw67jsavvw.jpeg)
 
-As you can see in the original roadmap above, we’ve completed all of Milestone 0 and 1, and are making good progress on Milestone 2. We’ve even delivered some features relevant to our hosted service much earlier than expected due to the huge scale of requests currently going to [our enterprise customers](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html).
+Seperti yang Anda lihat di peta jalan asli di atas, kami telah menyelesaikan semua Milestone 0 dan 1, dan membuat kemajuan yang baik di Milestone 2. Kami bahkan telah mengirimkan beberapa fitur yang relevan dengan layanan yang dihosting kami jauh lebih awal dari yang diharapkan karena besarnya skala permintaan yang saat ini ditujukan ke [pelanggan perusahaan kami](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html).
 
 ## Hal-hal lain yang mungkin Anda lewatkan
 
@@ -103,8 +103,8 @@ As you can see in the original roadmap above, we’ve completed all of Milestone
 
 P.S.
 
-Remember to join our [Discord](https://discord.com/invite/subquery) and our [social channels](https://linktr.ee/subquerynetwork) to stay updated on our latest news and announcements.
+Ingatlah untuk bergabung dengan [Discord](https://discord.com/invite/subquery) kami dan [saluran sosial](https://linktr.ee/subquerynetwork) kami untuk tetap mendapatkan berita dan pengumuman terbaru kami.
 
-The SubQuery Team
+Tim SubQuery
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Email](hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Youtube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
