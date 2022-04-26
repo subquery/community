@@ -12,9 +12,9 @@
 
 SubQuery Network是我们努力建立的一个去中心化和token化的网络，以确保SubQuery不会出现单点故障，并鼓励尽可能多的参与者参与该过程。
 
-[Last month, we publicly released our whitepaper for the world to read.](https://static.subquery.network/whitepaper.pdf) You can also read/watch a [short explanation here](../blogs/20210616-SubQuery-Network-In-Summary.md).
+[上个月，我们公开发布了供世界阅读的白皮书。](https://static.subquery.network/whitepaper.pdf) 您也可以在这里阅读/观看 [简短说明](../blogs/20210616-SubQuery-Network-In-Summary.md)。
 
-我们在 SubQuery 有一个雄心勃勃的目标，那就是成为Substrate上最快和最便捷的数据服务提供商。 We’ve written this whitepaper to highlight our [competitive advantages](../blogs/20210616-SubQuery-Network-Our-Goals-and-Competitive-Advantages.md) and our focus now is on executing this vision. SubQuery网络围绕着两个关键方面，即灵活性和简洁性。
+我们在 SubQuery 有一个雄心勃勃的目标，那就是成为Substrate上最快和最便捷的数据服务提供商。 我们写这份白皮书是为了强调我们的竞争优势，现在我们的重点是执行这个愿景。 SubQuery网络围绕着两个关键方面，即灵活性和简洁性。
 
 雄心勃勃的目标需要一个一流的团队，我们在六月份已经稳步增加了新成员。 这包括: 新的开发实习生，一个 UX 设计师，一个开发文档编写者，以及驻中国业务拓展员。
 
@@ -24,13 +24,13 @@ SubQuery Network是我们努力建立的一个去中心化和token化的网络�
 - [SRE 工程师](https://angel.co/company/subquery/jobs/1497942-site-reliability-engineer)
 - [Rust](https://angel.co/company/subquery/jobs/1494414-rust-developer) and [Solidity](https://angel.co/company/subquery/jobs/1494435-solidity-developer) 开发人员
 
-我们认为，我们行业的开发人员应该专注于构建未来，而不是运行基础设施ーー我们的 SubQuery 托管服务就是这种想法的体现。 [In June we released deployment slots](../blogs/20210604-Deployment-Slots-are-here-for-SubQuery-Projects.md), a whole new feature that improves the developer experience in SubQuery’s hosted service.
+我们认为，我们行业的开发人员应该专注于构建未来，而不是运行基础设施ーー我们的 SubQuery 托管服务就是这种想法的体现。 [六月份，我们发布了deployment slots ](../blogs/20210604-Deployment-Slots-are-here-for-SubQuery-Projects.md) ，这是一个全新的特性，改善了 SubQuery 托管服务中开发人员的体验。
 
 Deployment slots 是一个新特性，这意味着开发人员可以更新他们的项目，重新索引他们的数据，并在零停机时间内升级他们托管的生产SubQuery项目。 我们继续将我们的免费托管服务作为客户选择运行其基础设施的默认选择。
 
 我们面临的一个常见的客户要求是如何提高他们的SubQuery项目的索引速度。 在像 Polkadot 这样大的链上索引历史数据可能需要几个小时甚至几天，这使得测试变得困难。
 
-SubQuery projects now have the option to skip all this using our new feature — [the SubQuery Dictionary](../blogs/20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md). 实际上，我们预先索引链中所有事件的位置，因此我们看到索引速度提高了10倍，SubQuery 比以往任何时候都要快。
+SubQuery 项目现在可以选择使用我们的新特性跳过所有这些操作ー[the SubQuery Dictionary](../blogs/20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md). 实际上，我们预先索引链中所有事件的位置，因此我们看到索引速度提高了10倍，SubQuery 比以往任何时候都要快。
 
 中国是我们战略扩张计划的重要组成部分。今年六月，Siqi加入了我们，并将领导我们在该地区的业务发展。她当然已经开始行动了，与我们现有的许多客户和合作伙伴建立了联系。 6月，Siqi加入我们的行列，并将领导我们在该地区的商业发展。 她当然已经开始行动了，与我们现有的许多客户和合作伙伴建立了联系。
 
