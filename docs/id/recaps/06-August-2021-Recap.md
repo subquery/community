@@ -18,7 +18,7 @@ Dalam pembaruan bulanan ini:
 
 ![](https://miro.medium.com/max/1400/0*_nOcsPjhQxta_FPH)
 
-After [launching our Ambassador program](../blogs/20210713-Introducing-the-SubQuery-Ambassador-Program.md) last month, we have been amazed by the excitement in the community and quality of the participants. Hingga saat ini, kami telah menerima kurang dari 2.000 aplikasi hampir di setiap benua (kami meminta aplikasi dari Antartika ☃️ ️) dan sejauh ini telah menerima lebih dari 30 orang.
+Setelah [meluncurkan program Ambassador kami](../blogs/20210713-Introducing-the-SubQuery-Ambassador-Program.md) bulan lalu, kami kagum dengan antusiasme komunitas dan kualitas para peserta. Hingga saat ini, kami telah menerima kurang dari 2.000 aplikasi hampir di setiap benua (kami meminta aplikasi dari Antartika ☃️ ️) dan sejauh ini telah menerima lebih dari 30 orang.
 
 Tre telah melakukan pekerjaan yang sangat baik dalam memimpin inisiatif ini dan [terlibat dengan komunitas di Discord](https://discord.com/invite/78zg8aBSMG). Karena kami telah melihat manfaat dari memiliki hubungan yang lebih dekat dengan pendukung SubQuery, kami akan memperluas tim dalam beberapa minggu ke depan, jadi harap bersabar jika Anda belum mendengar kabar dari kami!
 
@@ -32,7 +32,7 @@ Untuk membantu kami mempercepat pertumbuhan ini, dan memastikan bahwa komunitas 
 
 ## Memulai pekerjaan di SubQuery Network 🏗
 
-Ya! The work on [moving SubQuery towards a decentralised and tokenised network](../blogs/20210614-Introducing-SubQuery-Network-The-Next-Big-Step-Towards-our-Decentralised-Future.md); the SubQuery Network, has begun! Migrasi ini akan memastikan bahwa tidak ada titik kegagalan tunggal untuk SubQuery dan untuk mendorong peserta melalui token SQT. Untuk membantu kami dengan perubahan signifikan ini, kami telah merekrut pengembang baru untuk bergabung dengan kami bulan ini.
+Ya! Pekerjaan [memindahkan SubQuery ke jaringan yang terdesentralisasi dan tokenisasi](../blogs/20210614-Introducing-SubQuery-Network-The-Next-Big-Step-Towards-our-Decentralised-Future.md); Jaringan SubQuery, telah dimulai! Migrasi ini akan memastikan bahwa tidak ada titik kegagalan tunggal untuk SubQuery dan untuk mendorong peserta melalui token SQT. Untuk membantu kami dengan perubahan signifikan ini, kami telah merekrut pengembang baru untuk bergabung dengan kami bulan ini.
 
 ## Proyek Baru di SubQuery 🤝
 
@@ -40,17 +40,17 @@ Ya! The work on [moving SubQuery towards a decentralised and tokenised network]
 
 Pada bulan Agustus kami meluncurkan beberapa proyek baru di SubQuery termasuk yang dengan Subscan, Karura, Subscan, Polkaswap, dan Soramitsu.
 
-For Karura, [SubQuery is being used to extract and query data from Karura's chain](../customer_announcements/20210819-Karura-Integrates-with-SubQuery-to-Aggregate-and-Serve-DeFi-Data-to-Kusama-Builders.md), making queries fast and efficient for [Karura's app](https://apps.karura.network/).
+Untuk Karura, [SubQuery digunakan untuk mengekstrak dan membuat kueri data dari chain Karura](../customer_announcements/20210819-Karura-Integrates-with-SubQuery-to-Aggregate-and-Serve-DeFi-Data-to-Kusama-Builders.md), membuat kueri menjadi cepat dan efisien untuk [aplikasi Karura](https://apps.karura.network/).
 
-SubQuery's service is playing a key role in [Subscan](https://www.subscan.io/) by [providing fast data on transactions](../customer_announcements/20210901-Subscans-Multi-Signature-Tool.md) for any given multi signature address, thereby improving the UX and allowing for more advanced features.
+Layanan SubQuery memainkan peran penting dalam [Subscan](https://www.subscan.io/) dengan [menyediakan data transaksi yang cepat](../customer_announcements/20210901-Subscans-Multi-Signature-Tool.md) untuk setiap multi signature address tertentu, sehingga meningkatkan UX dan memungkinkan fitur yang lebih canggih.
 
-[SORA](https://sora.org/) has built a [SubQuery Project that retrieves data from the SORA network](../customer_announcements/20210825-SORA-Integrates-SubQuery-to-Provide-Data-to-the-SORA-Network.md) to power mobile applications built on SORA and [Polkaswap.io](http://polkaswap.io/). Kamu bisa membaca selengkapnya disini
+[SORA](https://sora.org/) telah membangun [Proyek SubQuery yang mengambil data dari jaringan SORA](../customer_announcements/20210825-SORA-Integrates-SubQuery-to-Provide-Data-to-the-SORA-Network.md) untuk mendukung aplikasi seluler yang dibangun di SORA dan [Polkaswap.io](http://polkaswap.io/). Kamu bisa membaca selengkapnya disini
 
 Dalam kedua kasus tersebut, kami berterima kasih atas feedback yang luar biasa seperti ini dari mitra kami:
 
 *"Menggunakan Subquery menjadikan pembuatan dapps menjadi mudah, tidak perlu lagi melakukan serangkaian panggilan yang rumit untuk mendapatkan data yang saya butuhkan."* - Brett (Pengembang di Acala)
 
-_"SubQuery has been the ideal solution for our needs because the application is easy to deploy and manage, it is easy to learn and develop as well as being well documented, and it also has its own infrastructure with Github integration"_ - SORA Development Team
+_"SubQuery telah menjadi solusi ideal untuk kebutuhan kita karena aplikasinya mudah dideploy dan dikelola, mudah dipelajari dan dikembangkan serta didokumentasikan dengan baik, dan juga memiliki infrastruktur sendiri dengan integrasi Github"_ - Tim Pengembang SORA
 
 [Anda dapat melihat semua proyek dengan mudah melalui Explorer kami di sini](https://explorer.subquery.network/).
 
