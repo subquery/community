@@ -1,12 +1,12 @@
-# SubQuery Extends Partnership with OneBlock+ To Promote Blockchain Education in China
+# SubQuery étend son partenariat avec OneBlock+ pour promouvoir l'enseignement de la blockchain en Chine
 
 ![](https://miro.medium.com/max/1400/0*vr-DzLokDkkiY4ss)
 
-Today we are excited to announce the continuation of our partnership with OneBlock+ to run a second round of the ["Hero Course"](https://doc.subquery.network/academy/herocourse/) in China starting in early April.
+Aujourd'hui, nous sommes heureux d'annoncer la poursuite de notre partenariat avec OneBlock+ pour organiser une deuxième série du ["Hero Course"](https://doc.subquery.network/academy/herocourse/) en Chine à partir de début avril.
 
-SubQuery's mission of making the world's decentralised data more accessible relies on having a network of developers who are familiar with the solution. OneBlock+ are a recognised leader in blockchain education in China and helped us run a tailored version of our existing course renamed "SubQuery for Beginners --- To Learn Blockchain Data Indexing in an Easy Way."
+La mission de SubQuery, qui consiste à rendre les données décentralisées du monde plus accessibles, repose sur un réseau de développeurs qui connaissent bien la solution. OneBlock+ est un leader reconnu de l'enseignement de la blockchain en Chine et nous a aidés à organiser une version adaptée de notre cours existant, rebaptisé "SubQuery for Beginners --- To Learn Blockchain Data Indexing in an Easy Way"
 
-The course took in 90 students who participated in six lessons running from 10th January until the graduation ceremony on 28 February. The first batch of students learnt via WeChat and live Technical Workshops as part of their regular Substrate Saturday programme. OneBlock+ also provided additional learning support to students via weekly "Office Hours" on Tencent's Conference platform.
+Le cours a accueilli 90 étudiants qui ont participé à six leçons du 10 janvier au 28 février, date de la cérémonie de remise des diplômes. Le premier groupe d'étudiants a appris via WeChat et des ateliers techniques en direct dans le cadre du programme régulier Substrate Saturday. OneBlock+ also provided additional learning support to students via weekly "Office Hours" on Tencent's Conference platform.
 
 > _"Thanks to OneBlock+ and SubQuery for creating such a great course. The curriculum is good and I was able to master the use of SubQuery by completing the course. I found it was difficult and complex for data indexing during the development of a project. When I was looking for solutions, I coincidentally got into the course. I felt that the SubQuery's framework was clear and easy to use, and my team and I had started developing with SubQuery since then which had greatly reduced our workload. SubQuery will be an important tool in our subsequent projects."_ - Peng, Student Representative
 
