@@ -54,11 +54,11 @@ Dans la foulée de l'immense succès du _Hero Course_ de la SubQuery Academy, no
 
 SubQuery a proposé 5 primes avec une cagnotte totale pouvant atteindre 34 000 dollars :
 
-- [Create a unified block explorer that combines Substrate and EVM insights from Moonbeam and Astar into one easy to use application](https://gitcoin.co/issue/subquery/grants/1) — US$12,000 [Sponsored by Moonbeam and Astar]
-- [Work with SubQuery and the DeFi hub at Karura/Acala to build a dashboard that’s inspired by Zapper.fi or defisaver.com](https://gitcoin.co/issue/subquery/grants/2) — US$8,000 [Sponsored by Acala]
-- [Create a staking dashboard that shows the best staking opportunities across Polkadot and its various parachains](https://gitcoin.co/issue/subquery/grants/3) — US$3,000
-- [Build a marketplace explorer for all RMRK protocol based NFTs](https://gitcoin.co/issue/subquery/grants/4) — US$2,000
-- [Extend the @subql/node service to index data from another layer 1 chain](https://gitcoin.co/issue/subquery/grants/5) — US$12,000
+- [Créer un explorateur de blocs unifié qui combine les connaissances sur les substrats et les EVM de Moonbeam et Astar en une seule application facile à utiliser](https://gitcoin.co/issue/subquery/grants/1) - 12 000 $ US [sponsorisé par Moonbeam et Astar].
+- [Travailler avec SubQuery et le hub DeFi de Karura/Acala pour créer un tableau de bord inspiré de Zapper.fi ou defisaver.com](https://gitcoin.co/issue/subquery/grants/2) - 8 000 $US [sponsorisé par Acala].
+- [Créer un tableau de bord de Staking qui montre les meilleures opportunités de staking sur Polkadot et ses différents parachains](https://gitcoin.co/issue/subquery/grants/3) - 3 000$ US
+- [Créer un explorateur de marché pour tous les NFTs basés sur le protocole RMRK](https://gitcoin.co/issue/subquery/grants/4) - 2 000$ US
+- [Étendre le service @subql/node pour indexer les données d'une autre chaîne de niveau 1](https://gitcoin.co/issue/subquery/grants/5) - 12 000 \$ US
 
 [Vous pouvez en savoir plus sur ces primes ici.](https://blog.subquery.network/blogs/20211120-gitcoin12-hackathon.html)
 
@@ -74,15 +74,15 @@ Nous avons récemment fait une plongée en profondeur dans les crowdloans de Pol
 
 ## Autres choses que vous avez pu manquer
 
-- We’re working closely with the new team at [Web3Go](https://www.web3go.xyz/) to [provide data anaysis tools to the SubQuery ecosystem.](https://blog.subquery.network/customer_announcements/20211110-web3go.html)
+- Nous travaillons en étroite collaboration avec la nouvelle équipe de [Web3Go](https://www.web3go.xyz/) pour [fournir des outils d'analyse de données à l'écosystème SubQuery.](https://blog.subquery.network/customer_announcements/20211110-web3go.html)
 - [Écoutez Sam et James sur le podcast de Brave New Coin](https://bravenewcoin.com/insights/podcasts/subquery-connecting-the-dots-on-polkadot).
-- James talked to Acala’s Brett Kolodny to talk about how [Acala use SubQuery in their stack](https://www.youtube.com/watch?v=Wbxwj8K67Lw).
-- Siqi, our China representative, [talked to Acala Network and Polkaworld about the latest in web3](https://www.huoxing24.com/live/24313016).
-- We released modules [1](https://doc.subquery.network/academy/herocourse/module1/) to [4](https://doc.subquery.network/academy/herocourse/module4/) of our [SubQuery Hero Course](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html)
-- James also talked to Jacky to explore Litentry’s plans [for a future DID protocol](https://www.youtube.com/watch?v=Rqlpo9QIVyk).
+- James a discuté avec Brett Kolodny d'Acala pour parler de la façon dont [Acala utilise SubQuery dans sa pile](https://www.youtube.com/watch?v=Wbxwj8K67Lw).
+- Siqi, notre représentant en Chine, [a discuté avec Acala Network et Polkaworld des dernières nouveautés en matière de web3](https://www.huoxing24.com/live/24313016).
+- Nous avons publié les modules [1](https://doc.subquery.network/academy/herocourse/module1/) à [4](https://doc.subquery.network/academy/herocourse/module4/) de notre [Cours SubQuery Hero](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html)
+- James a également parlé à Jacky pour explorer les plans de Litentry [pour un futur protocole DID](https://www.youtube.com/watch?v=Rqlpo9QIVyk).
 
-As always, please [join our social channels](https://linktr.ee/subquerynetwork) (especially our [Discord](https://discord.com/invite/subquery)) to stay updated on our latest news and announcements.
+Comme toujours, veuillez [rejoindre nos canaux sociaux](https://linktr.ee/subquerynetwork) (en particulier notre [Discord](https://discord.com/invite/subquery)) pour rester au courant de nos dernières nouvelles et annonces.
 
 James, Sam, et l'équipe SubQuery
 
-[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork) | [Site Web](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
