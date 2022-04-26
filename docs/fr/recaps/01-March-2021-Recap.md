@@ -35,23 +35,23 @@ SubQuery a pour vocation de fournir des services de données à nos partenaires 
 
 ![](https://miro.medium.com/max/1400/0*LOig1jNfPTuVk73D)
 
-You could create a dApp for lenders showing collateralization ratio, loan amount, interests accrued, etc. Or a service for decentralised exchanges with pair liquidity, pair exchange rate, trading volumes.
+Vous pourriez créer une dApp pour les prêteurs montrant le ratio de collatéralisation, le montant du prêt, les intérêts courus, etc. Ou un service pour les échanges décentralisés avec la liquidité de la paire, le taux de change de la paire, les volumes d'échange.
 
 Nous prévoyons d'améliorer très prochainement nos outils de partenariat et nous prévoyons d'intégrer rapidement d'autres protocoles de qualité au cours des deux prochaines semaines.
 
-_Do you want to get started and create a new SubQuery project for your own dApp —_ [_get started now_](https://doc.subquery.network/quickstart.html)_. Nous l'hébergerons même dans notre_ [_SubQuery Explorer_](../blogs/20210305-Announcing-the-SubQuery-Explorer.md) _sans frais!_
+_Voulez-vous commencer et créer un nouveau projet SubQuery pour votre propre dApp -_ [_get started now_](https://doc.subquery.network/quickstart.html)_. Nous l'hébergerons même dans notre_ [_SubQuery Explorer_](../blogs/20210305-Announcing-the-SubQuery-Explorer.md) _sans frais!_
 
 ## **Berkeley Blockchain Xcelerator**
 
 [Nous sommes ravis de vous annoncer qu'en mars](../blogs/20210523-SubQuery-Joins-Berkeleys-Blockchain-Xcelerator.md), Berkeley a sélectionné SubQuery pour faire partie de leur [Blockchain Xcelerator](https://www.xcelerator.berkeley.edu/) exclusif. SubQuery (et sa société mère OnFinality) a été sélectionnée parmi plus de 200 candidatures pour faire partie des 21 places exclusives.
 
-Ce n'est pas pour rien que le blockchain Xcelerator de Berkeley est connu dans le monde entier comme l'un des accélérateurs de blockchain les plus performants. It has incubated over 40 companies that have raised over $25M in seed and early stage funding, and over 75% of the inaugural batch raised follow-on funding.
+Ce n'est pas pour rien que le blockchain Xcelerator de Berkeley est connu dans le monde entier comme l'un des accélérateurs de blockchain les plus performants. Il a incubé plus de 40 entreprises qui ont levé plus de 25 millions de dollars en fonds d'amorçage et de démarrage, et plus de 75 % du lot inaugural a levé des fonds de suivi.
 
 ![](https://miro.medium.com/max/1400/0*t-_mRJaTnGDQO-VI)
 
 ## **Routage intelligent**
 
-Nous avons récemment été [récompensé par un financement de la trésorerie. ](https://kusama.polkassembly.io/treasury/72) pour compléter une couche de routage intelligent qui nous permet d'exposer plusieurs clusters derrière un seul et même point final. This will allow us to scale our service better, and quickly fall over to redundant clusters in the unlikely event that some of our infrastructure goes down. OnFinality et SubQuery reposent tous deux sur cette infrastructure. Il est donc important que nous continuions à investir et à nous améliorer dans ce domaine.
+Nous avons récemment été [récompensé par un financement de la trésorerie. ](https://kusama.polkassembly.io/treasury/72) pour compléter une couche de routage intelligent qui nous permet d'exposer plusieurs clusters derrière un seul et même point final. Cela nous permettra de mieux adapter notre service et de passer rapidement à des clusters redondants dans le cas peu probable où une partie de notre infrastructure tomberait en panne. OnFinality et SubQuery reposent tous deux sur cette infrastructure. Il est donc important que nous continuions à investir et à nous améliorer dans ce domaine.
 
 ## **Nouvelle équipe et nouveau bureau**
 
