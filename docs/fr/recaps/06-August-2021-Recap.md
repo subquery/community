@@ -18,7 +18,7 @@ Dans cette mise à jour mensuelle :
 
 ![](https://miro.medium.com/max/1400/0*_nOcsPjhQxta_FPH)
 
-After [launching our Ambassador program](../blogs/20210713-Introducing-the-SubQuery-Ambassador-Program.md) last month, we have been amazed by the excitement in the community and quality of the participants. À ce jour, nous avons reçu un peu moins de 2 000 candidatures sur presque tous les continents (nous lançons un appel à candidatures pour l'Antarctique ☃️) et avons embarqué plus de 30 personnes jusqu'à présent.
+Après avoir[ lancé notre programme d'ambassadeurs ](../blogs/20210713-Introducing-the-SubQuery-Ambassador-Program.md)le mois dernier, nous avons été stupéfaits par l'engouement de la communauté et la qualité des participants. À ce jour, nous avons reçu un peu moins de 2 000 candidatures sur presque tous les continents (nous lançons un appel à candidatures pour l'Antarctique ☃️) et avons embarqué plus de 30 personnes jusqu'à présent.
 
 Tre a fait un excellent travail en menant cette initiative et[en s'engageant avec la communauté sur Discord](https://discord.com/invite/78zg8aBSMG). Comme nous voyons déjà les avantages d'avoir une relation plus étroite avec les partisans de SubQuery, nous allons élargir l'équipe dans les prochaines semaines, alors soyez patient si vous n'avez pas encore entendu parler de nous !
 
@@ -32,7 +32,7 @@ Pour nous aider à accélérer cette croissance, et s'assurer que notre communau
 
 ## Début des travaux sur le réseau SubQuery 🏗
 
-Oui ! The work on [moving SubQuery towards a decentralised and tokenised network](../blogs/20210614-Introducing-SubQuery-Network-The-Next-Big-Step-Towards-our-Decentralised-Future.md); the SubQuery Network, has begun! Cette migration permettra de s'assurer qu'il n'y a pas de point de défaillance unique pour SubQuery et d'encourager les participants via le jeton SQT. Afin de nous aider dans ce changement important, nous avons recruté de nouveaux développeurs pour nous rejoindre ce mois-ci.
+Oui ! Le travail de [migration de SubQuery vers un réseau décentralisé et à jetons](../blogs/20210614-Introducing-SubQuery-Network-The-Next-Big-Step-Towards-our-Decentralised-Future.md); le SubQuery Network, a commencé ! Cette migration permettra de s'assurer qu'il n'y a pas de point de défaillance unique pour SubQuery et d'encourager les participants via le jeton SQT. Afin de nous aider dans ce changement important, nous avons recruté de nouveaux développeurs pour nous rejoindre ce mois-ci.
 
 ## Nouveaux projets sur SubQuery 🤝
 
@@ -40,17 +40,17 @@ Oui ! The work on [moving SubQuery towards a decentralised and tokenised networ
 
 En août, nous avons lancé plusieurs nouveaux projets sur SubQuery, notamment ceux avec Subscan, Karura, Polkaswap et Soramitsu.
 
-For Karura, [SubQuery is being used to extract and query data from Karura's chain](../customer_announcements/20210819-Karura-Integrates-with-SubQuery-to-Aggregate-and-Serve-DeFi-Data-to-Kusama-Builders.md), making queries fast and efficient for [Karura's app](https://apps.karura.network/).
+Pour Karura,[SubQuery est utilisé pour extraire et interroger des données de la chaîne de Karura](../customer_announcements/20210819-Karura-Integrates-with-SubQuery-to-Aggregate-and-Serve-DeFi-Data-to-Kusama-Builders.md), rendre les requêtes rapides et efficaces pour l'appli[Karura](https://apps.karura.network/).
 
-SubQuery's service is playing a key role in [Subscan](https://www.subscan.io/) by [providing fast data on transactions](../customer_announcements/20210901-Subscans-Multi-Signature-Tool.md) for any given multi signature address, thereby improving the UX and allowing for more advanced features.
+Le service de SubQuery joue un rôle clé dans [Subscan](https://www.subscan.io/) en [fournissant des données rapides sur les transactions](../customer_announcements/20210901-Subscans-Multi-Signature-Tool.md) pour toute adresse multi-signature donnée, améliorant ainsi l'interface utilisateur et permettant des fonctionnalités plus avancées.
 
-[SORA](https://sora.org/) has built a [SubQuery Project that retrieves data from the SORA network](../customer_announcements/20210825-SORA-Integrates-SubQuery-to-Provide-Data-to-the-SORA-Network.md) to power mobile applications built on SORA and [Polkaswap.io](http://polkaswap.io/). Vous pouvez en savoir plus ici
+[SORA](https://sora.org/) a construit un [projet SubQuery qui récupère les données du réseau SORA](../customer_announcements/20210825-SORA-Integrates-SubQuery-to-Provide-Data-to-the-SORA-Network.md) pour alimenter les applications mobiles construites sur SORA et [Polkaswap.io](http://polkaswap.io/). Vous pouvez en savoir plus ici
 
 Dans les deux cas, nous sommes reconnaissants d'avoir de tels retours de la part de nos partenaires :
 
 *"L'utilisation de Subquery rend la construction de dapps facile, plus besoin de faire une série compliquée d'appels pour obtenir les données dont j'ai besoin."* - Brett (Développeur chez Acala)
 
-_"SubQuery has been the ideal solution for our needs because the application is easy to deploy and manage, it is easy to learn and develop as well as being well documented, and it also has its own infrastructure with Github integration"_ - SORA Development Team
+_"SubQuery a été la solution idéale pour nos besoins car l'application est facile à déployer et à gérer, elle est facile à apprendre et à développer tout en étant bien documentée, et elle a également sa propre infrastructure avec l'intégration de Github"_ - Équipe de développement de SORA.
 
 [Vous pouvez voir tous les projets facilement via notre Explorer ici](https://explorer.subquery.network/).
 
