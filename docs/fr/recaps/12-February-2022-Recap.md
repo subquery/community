@@ -44,48 +44,48 @@ Le livre blanc contient de nouvelles informations importantes sur l'innovation d
 
 ![](https://miro.medium.com/max/1400/1*EhLefs3-lb47y2LC4Z6jWA.png)
 
-[Read more here](../blogs/20220216-whitepaper-update.md)
+[Plus d'informations ici](../blogs/20220216-whitepaper-update.md)
 
-## Core Product Development
+## Développement du produit de base
 
-### Dynamic Data Sources
+### Sources de données dynamiques
 
-This is a signifiant improvement for the rapidly growing number of SubQuery's EVM customers. SubQuery is the only data indexing tool that allows indexing of both Substrate and EVM data from Polkadot parachains in a single location.
+Il s'agit d'une amélioration significative pour le nombre croissant de clients de SubQuery EVM. SubQuery est le seul outil d'indexation de données qui permet d'indexer à la fois les données Substrate et EVM des parachains Polkadot dans un seul endroit.
 
-In certain situations, you don't know the parameters for a data source when the SubQuery project starts, for example in a DEX you don't know what new trading pairs will be enabled when you write your SubQuery project. SubQuery's [support for dynamic data sources](https://university.subquery.network/build/dynamicdatasources.html) allows developers to create new data sources from new smart contracts dynamically using templates to automate the indexing of new contracts.
+Dans certaines situations, vous ne connaissez pas les paramètres d'une source de données lorsque le projet SubQuery démarre. Par exemple, dans un DEX, vous ne savez pas quelles nouvelles paires de trading seront activées lorsque vous écrivez votre projet SubQuery. La prise en charge [de SubQuery pour les sources de données dynamiques](https://university.subquery.network/build/dynamicdatasources.html) permet aux développeurs de créer de nouvelles sources de données à partir de nouveaux contrats intelligents en utilisant dynamiquement des modèles pour automatiser l'indexation des nouveaux contrats.
 
-[Read more here](https://university.subquery.network/build/dynamicdatasources.html)
+[Plus d'informations ici](https://university.subquery.network/build/dynamicdatasources.html)
 
-## General Customer Announcements
+## Annonces générales aux clients
 
-### SubQuery Data Powers Nova Wallet --- a next-gen mobile wallet for the Polkadot & Kusama ecosystem
+### SubQuery Data alimente Nova Wallet --- un portefeuille mobile de nouvelle génération pour l'écosystème Polkadot & Kusama
 
 ![](https://miro.medium.com/max/1400/1*NkYmEpYLpZYFRkANrvpwPw.png)
 
-Many customers, including Nova, rely on SubQuery to provide mission critical data to their production apps. These are huge applications that the Polkadot community use on a daily basis and must be online at all times. Nova know that they can trust SubQuery to provide reliable and scalable services to their applications though our [enterprise level features](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) in our [managed service](https://project.subquery.network/). Nova are a key user of SubQuery's intelligent routing which dynamically routes a user's request to the nearest SubQuery cluster resulting in higher reliability and superior performance than any other option on the market.
+De nombreux clients, dont Nova, comptent sur SubQuery pour fournir des données essentielles à leurs applications de production. Ce sont d'énormes applications que la communauté de Polkadot utilise quotidiennement et qui doivent être en ligne à tout moment. Nova sait qu'elle peut faire confiance à SubQuery pour fournir des services fiables et évolutifs à ses applications grâce à nos [fonctionnalités de niveau entreprise](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) dans notre [service géré](https://project.subquery.network/). Nova est un utilisateur clé du routage intelligent de SubQuery, qui achemine dynamiquement la demande d'un utilisateur vers le cluster SubQuery le plus proche, ce qui permet d'obtenir une fiabilité et des performances supérieures à celles de toute autre option sur le marché.
 
-[Read more here](../customer_announcements/20220210-nova-wallet.md)
+[Plus d'informations ici](../customer_announcements/20220210-nova-wallet.md)
 
-### SubQuery to help power Parami Protocol's Web 3 advertising technology
+### SubQuery va aider à alimenter la technologie de publicité Web 3 de Parami Protocol
 
-[Parami Protocol](https://parami.io/) is developing an innovative new technology for a user-centric, tokenised advertising economy: Ad 3.0.
+[Parami Protocol](https://parami.io/) développe une nouvelle technologie innovante pour un nouveau modèle de publicité centré sur l'utilisateur et fondé sur des jetons : Ad 3.0.
 
-> _"Parami's vision is to build a user-centric advertising economy for web3 and in order to make this a reality, we turned to SubQuery as our trusted data partner. SubQuery provides the backbone of our service by delivering the query part of our Command and Query Responsibility Segregation (CQRS) pattern to update our core database. Parami takes advantage of SubQuery's superior indexing speed to track the price of NFT fragments and to build a secondary index of on-chain data all in one sentence. We are looking forward to building AD 3.0 for Web 3.0 leveraging SubQuery's innovative technology."_
+> _"La vision de Parami est de construire une économie publicitaire centrée sur l'utilisateur pour le web3 et pour que cela devienne une réalité, nous nous sommes tournés vers SubQuery comme partenaire de données de confiance. SubQuery constitue l'épine dorsale de notre service en fournissant la partie requête de notre modèle CQRS (Command and Query Responsibility Segregation) pour mettre à jour notre base de données centrale. Parami tire parti de la vitesse d'indexation supérieure de SubQuery pour suivre le prix des fragments NFT et pour construire un index secondaire des données sur la chaîne, le tout en une seule phrase. Nous sommes impatients de construire AD 3.0 pour le Web 3.0 en tirant parti de la technologie innovante de SubQuery."_
 
-~ Dorian the Co-Founder of Parami Protocol
+~ Dorien le Cofondateur du Protocole Parami
 
-[Read more here](../customer_announcements/20220222-parami.md)
+[Plus d'informations ici](../customer_announcements/20220222-parami.md)
 
-## Other things you might have missed
+## Autres choses que vous avez pu manquer
 
-- We had an AMA with [Talisman](https://talisman.xyz/) and a Polish Q&A on our [Discord server](https://discord.com/channels/796198414798028831/796198414798028834)
-- Watch the recording of our [February community call](https://www.crowdcast.io/e/subquery-sessions-february) on Crowdcast
-- New grants with Phala in our [SubQuery Grants Programme](https://subquery.network/grants)
+- Nous avons eu un AMA avec [Talisman](https://talisman.xyz/) et Polish Q&A sur notre [Discord server](https://discord.com/channels/796198414798028831/796198414798028834)
+- Regardez l'enregistrement de notre [Appel de la communauté Février](https://www.crowdcast.io/e/subquery-sessions-february) sur Crowdcast
+- Nouvelles subventions avec Phala dans notre [Programme de SubQuery Grants](https://subquery.network/grants)
 
 P.S.
 
-Remember to join our [Discord](https://discord.com/invite/subquery) and [our social channels](https://linktr.ee/subquerynetwork) to stay updated on our latest news and announcements.
+N'oubliez pas de rejoindre notre [Discord](https://discord.com/invite/subquery) et [nos canaux sociaux](https://linktr.ee/subquerynetwork) pour rester au courant de nos dernières nouvelles et annonces.
 
-The SubQuery Team
+L'équipe SubQuery
 
-[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork) | [Site Web](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
