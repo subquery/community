@@ -2,15 +2,15 @@
 
 ![](https://miro.medium.com/max/1400/1*z_StqAT5KeaxQLBCm-xpRQ.jpeg)
 
-Saat komunitas kami tumbuh lebih besar, kami melihat ratusan penerapan dan secara eksponensial lebih banyak lalu lintas ke layanan kami yang dihosting setiap hari. The team at SubQuery are rising to this challenge however and are scaling our services to meet the unprecedented demand for our tools by our customers, while keeping our [hosted service](https://projects.subquery.network/) free.
+Saat komunitas kami tumbuh lebih besar, kami melihat ratusan penerapan dan secara eksponensial lebih banyak lalu lintas ke layanan kami yang dihosting setiap hari. Namun, tim di SubQuery menghadapi tantangan ini dan meningkatkan skala layanan kami untuk memenuhi permintaan alat kami yang belum pernah terjadi sebelumnya oleh pelanggan kami, sambil menjaga [layanan yang dihosting](https://projects.subquery.network/) kami tetap gratis.
 
-Many customers now rely on SubQuery to provide mission critical data to their production apps. These customers represent some of the largest wallets ([Nova](https://novawallet.io/) and [Fearless](https://fearlesswallet.io/)), scanners ([Subscan](https://www.subscan.io/), [SubVis](https://www.subvis.io/), and [DotMarketCap](https://dotmarketcap.com/)), NFT platforms ([Kodadot](https://kodadot.xyz/) and [Yuser](https://yuser.co/)), and more. Ini adalah aplikasi besar yang digunakan komunitas Polkadot setiap hari dan harus online setiap saat.
+Banyak pelanggan kini mengandalkan SubQuery untuk menyediakan data penting misi ke aplikasi produksi mereka. Pelanggan ini mewakili beberapa dompet terbesar ([Nova](https://novawallet.io/) dan [Fearless](https://fearlesswallet.io/)), pemindai ([Subscan](https://www.subscan.io/), [SubVis](https://www.subvis.io/), dan [DotMarketCap](https://dotmarketcap.com/)), platform NFT ([Kodadot](https://kodadot.xyz/) dan [Yuser](https://yuser.co/)), dan banyak lagi. Ini adalah aplikasi besar yang digunakan komunitas Polkadot setiap hari dan harus online setiap saat.
 
 Performa dan keandalan layanan hosted kami telah berada di urutan teratas daftar prioritas kami selama beberapa waktu di sini di SubQuery. Tim saudara kami adalah OnFinality, penyedia infrastruktur terbesar di Polkadot, jadi kami memiliki banyak pengalaman di bidang ini. Oleh karena itu, hari ini kita akan membahas tiga peningkatan terbaru yang akan menjadikan SubQuery sebagai platform data yang paling andal, skalabel, dan berkinerja terbaik di Polkadot.
 
 ![](https://miro.medium.com/max/1200/1*QckhJzjQqw9czpBMRhXgXQ.gif)
 
-## Dedicated Databases
+## Database Khusus
 
 Awalnya, semua proyek SubQuery dideploy ke database bersama di infrastruktur kami untuk menghemat uang dan memungkinkan layanan kami tetap gratis. Namun, ini akan menyebabkan proyek lalu lintas tinggi dengan kumpulan data besar mencekik proyek lain yang dihosting di database yang sama.
 
@@ -18,15 +18,15 @@ Jika Anda sedang membangun proyek yang dirancang untuk penggunaan produksi, kami
 
 Anda harus menghubungi kami di sales@subquery.network jika Anda ingin meningkatkan ke ini. Kami mereplikasi data Anda dari tabel yang ada sehingga Anda tidak perlu menghabiskan waktu untuk mengindeks ulang data yang sudah Anda miliki sehingga menghasilkan migrasi tanpa waktu henti.
 
-## Multiple Cluster Support
+## Dukungan Beberapa Cluster
 
 Ketahanan dan keandalan berarti segalanya bagi kami di SubQuery. Memiliki kluster redundan di bagian dunia yang terpisah berarti kami dapat dengan cepat pulih dari gangguan penyedia cloud yang terkadang membuat wilayah offline.
 
 Selain itu, saat Anda mengajukan permintaan ke proyek SubQuery di layanan yang dihosting kami, sebagian besar waktu tunggu berasal dari latensi. Latensi adalah waktu titik ke titik yang diperlukan permintaan Anda untuk mengelilingi dunia ke kluster SubQuery terdekat dan dapat memakan waktu hingga satu atau dua detik dari beberapa wilayah terpencil. Memiliki banyak kluster di seluruh dunia memungkinkan kami mengurangi bagian paling signifikan dari waktu permintaan (latensi).
 
-Kami telah menerapkan beberapa cluster di berbagai wilayah yang menyediakan layanan yang sama. This work also includes a tool in [SubQuery Projects](https://project.subquery.network/) that allows you to deploy and manage your project across these clusters. Kami juga telah menerapkan proses yang memastikan bahwa database di region yang berbeda tetap konsisten, sehingga terlepas dari cluster mana yang menjadi tujuan permintaan Anda, data yang Anda terima tetap konsisten.
+Kami telah menerapkan beberapa cluster di berbagai wilayah yang menyediakan layanan yang sama. Pekerjaan ini juga menyertakan alat di [Proyek SubQuery](https://project.subquery.network/) yang memungkinkan Anda menerapkan dan mengelola proyek di seluruh kluster ini. Kami juga telah menerapkan proses yang memastikan bahwa database di region yang berbeda tetap konsisten, sehingga terlepas dari cluster mana yang menjadi tujuan permintaan Anda, data yang Anda terima tetap konsisten.
 
-## Intelligent Routing
+## Perutean cerdas
 
 Setelah kluster SubQuery kami berjalan di wilayah yang berbeda, langkah logis berikutnya adalah membuat fitur ini tidak terlihat oleh pengguna Anda. Pengguna Anda tidak perlu memutuskan kluster mana yang menjadi tujuan permintaan mereka, SubQuery harus secara otomatis mengarahkan permintaan mereka ke kluster sehat terdekat. Inilah yang disediakan perutean cerdas SubQuery.
 
@@ -36,7 +36,7 @@ Kami menawarkan satu titik akhir global untuk setiap pelanggan premium yang memi
 
 Singkatnya, layanan ini memungkinkan kami untuk menawarkan layanan premium kami kepada lebih banyak pelanggan dengan percaya diri. Kami bekerja dengan setiap pelanggan untuk memahami bisnis dan tujuan mereka, dan kemudian menyiapkan layanan untuk memenuhi kebutuhan mereka. SubQuery adalah penyedia layanan data terbesar di Polkadot, dan fitur ini menunjukkan bagaimana kami mendukung ribuan proyek komunitas sekaligus sebagai proyek terbesar di Polkadot.
 
-## About SubQuery Network
+## Tentang SubQuery Network
 
 SubQuery adalah penyedia data terkemuka Polkadot, yang mendukung pengindeksan & lapisan kueri antara blockchain Layer-1 (Polkadot) dan aplikasi terdesentralisasi. Layanan data SubQuery sedang digunakan oleh sebagian besar situs web lelang crowdloan dan parachain Polkadot dan Kusama saat ini.
 
