@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/1*k5cScGKMiC45i_N-em3x0Q.png)
 
-In August, [SubQuery launched its Ambassador programme](./20210713-Introducing-the-SubQuery-Ambassador-Program.md) to find community leaders passionate about Polkadot and SubQuery. Tujuan kami adalah menemukan pemula yang dapat menyebarkan berita tentang SubQuery di area lokal mereka dan memberikan dukungan kepada pengembang baru yang membangun aplikasi dan layanan luar biasa di Polkadot.
+Pada bulan Agustus, [SubQuery meluncurkan program Ambassador](./20210713-Introducing-the-SubQuery-Ambassador-Program.md) untuk menemukan pemimpin komunitas yang mempunyai passion terhadap Polkadot dan SubQuery. Tujuan kami adalah menemukan pemula yang dapat menyebarkan berita tentang SubQuery di area lokal mereka dan memberikan dukungan kepada pengembang baru yang membangun aplikasi dan layanan luar biasa di Polkadot.
 
 Kami tidak tahu apa yang akan terjadi selanjutnya!
 
@@ -16,7 +16,7 @@ Selain potensi menjadi Ambassador, anggota Discord dengan peran Spartan akan dib
 
 Untuk mengetahui lebih lanjut tentang program Spartan kami dan berpartisipasi dalam kompetisi November kami, silakan [bergabunglah dengan Discord kami](https://discord.com/invite/subquery).
 
-## About SubQuery
+## Tentang SubQuery
 
 SubQuery adalah lapisan agregasi data yang beroperasi antara blockchain lapisan-1 (seperti Moonriver dan Polkadot) dan DApps. Layanan ini membuka kunci data blockchain dan mengubahnya menjadi status yang dapat ditanyakan sehingga dapat digunakan dalam aplikasi intuitif. Ini memungkinkan pengembang DApp untuk fokus pada kasus penggunaan inti dan front-end mereka, tanpa perlu membuang waktu untuk membangun backend khusus untuk pemrosesan data.
 
