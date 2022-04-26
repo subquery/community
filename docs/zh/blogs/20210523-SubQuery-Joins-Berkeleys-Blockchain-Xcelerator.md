@@ -8,7 +8,7 @@ Berkele's blockchain Xcelerator 在全世界被称为最成功的区块链加速
 
 > _“团队已经在月球上发现我们是这个非常棒的方案的一部分！ 我们期待加速开发分散的 SubQuery 网络数据产品。 我们随时准备与Blockchain的一些最有影响力的项目和投资者联系，并了解我们如何改进SubQuery”_ - Sam Zou (CEO and 创始人SubQuery and OnFinality)。
 
-We’re following in the footsteps of [Acala Network](https://acala.network) (who we joined forces with last week to [launch the first SubQuery partner project](../customer_announcements/20210316-SubQuery-Integrates-Acala-to-Aggregate-and-Serve-DeFi-Data-to-Polkadot-and-Kusama-Builders.md)) and other industry leaders like [StormX](https://stormx.io) and [Eluv.io](https://eluv.io). SubQuery和OnFinal在Xcelerater提供的知名导师、演讲人和研究员网络中具有巨大价值。 作为数据服务提供商（SubQuery）和基础设施服务提供商（OnFinality），我们与客户的长期伙伴关系和关系是我们取得成功的关键。
+我们正在跟随 [Acala Network](https://acala.network) (我们上周与他一起参与 [启动第一个SubQuery 合作伙伴项目](../customer_announcements/20210316-SubQuery-Integrates-Acala-to-Aggregate-and-Serve-DeFi-Data-to-Polkadot-and-Kusama-Builders.md))以及其他行业领导人，如 [StormX](https://stormx.io) 和 [Eluv o](https://eluv.io) SubQuery和OnFinal在Xcelerater提供的知名导师、演讲人和研究员网络中具有巨大价值。 作为数据服务提供商（SubQuery）和基础设施服务提供商（OnFinality），我们与客户的长期伙伴关系和关系是我们取得成功的关键。
 
 [SubQuery](https://www.subquery.network/) 允许每个Substrate/Polkadot 团队处理和查询他们的数据。 这个项目的灵感来自于为应用层服务的数据协议的增长，其目的是通过允许任何人更快地可靠地查找和使用数据，帮助Polkadot/Substrate项目构建更好的dApps。 现如今，任何人都可以在几分钟内免费查询和提取Polkadot网络数据。
 
