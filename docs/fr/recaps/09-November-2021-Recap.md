@@ -24,7 +24,7 @@ Même si nous travaillons d'arrache-pied sur le réseau SubQuery et que nous nou
 
 ### Mise à l'échelle de notre service hébergé
 
-SubQuery Projects a bénéficié d'une croissance explosive au cours du mois dernier. En effet, des [milliers de participants à l'académie](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html) ont créé encore plus de projets dans notre service hébergé[(project.subquery.network](https://project.subquery.network/)) en l'espace de quelques semaines.
+SubQuery Projects a bénéficié d'une croissance explosive au cours du mois dernier. En effet, des [milliers de participants à l'académie](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html) ont créé encore plus de projets dans notre service hébergé ([project.subquery.network](https://project.subquery.network/)) en l'espace de quelques semaines.
 
 Nous avons franchi la barre des 2 000 projets déployés dans notre service hébergé et, par conséquent, la mise à l'échelle de notre service hébergé est devenue une priorité. Nous proposons désormais à nos clients professionnels des ressources dédiées afin d'améliorer les performances et la fiabilité.
 
