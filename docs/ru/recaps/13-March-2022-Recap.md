@@ -76,30 +76,30 @@ SubQuery предоставляет Avalanche быстрое, гибкое и о
 
 Мы рады объявить о запуске нашей тестовой сети «The Frontier». В случае с SubQuery запуск тестовой сети знаменует собой важную веху в нашем развитии, поскольку мы продвигаемся к полному развертыванию основной сети, что совпадает с листингом нашего токена на централизованных биржах.
 
-Чтобы запустить тестовую сеть эффективно, мы требуем, чтобы она была проверена опытными операторами узлов, которые являются экспертами в области высокопроизводительных и масштабируемых производств с мониторингом и безопасностью кошелька/инфраструктуры. Since our [call for indexers to participate](../blogs/20211202-indexer-invitation.md) we have been overwhelmed by the interest from our community and have recently approved an initial group of indexers who will soon receive their invitations to participate in SubQuery Frontier's seasons 1 & 2.
+Чтобы запустить тестовую сеть эффективно, мы требуем, чтобы она была проверена опытными операторами узлов, которые являются экспертами в области высокопроизводительных и масштабируемых производств с мониторингом и безопасностью кошелька/инфраструктуры. С момента нашего [призыва индексаторов к участию](../blogs/20211202-indexer-invitation.md) мы были поражены интересом со стороны нашего сообщества и недавно утвердили первую группу индексаторов, которые вскоре получат приглашения для участия в сезонах 1 и 2 SubQuery Frontier.
 
 ![](https://miro.medium.com/max/1400/1*_iqge0IqXriY7Zl0hUKQ3g.png)
 
-> _"SubQuery is excited about the launch of the SubQuery Frontier Testnet and what it represents to both ourselves and our loyal community. The choice of "Frontier" as our testnet name also denotes where we believe we are in the growth of Web3 and that we want Indexers to push beyond the limits."_ - Ian He, CTO of SubQuery
+> _«SubQuery в восторге от запуска тестовой сети SubQuery Frontier и того, что она представляет как для нас самих, так и для нашего лояльного сообщества. Выбор «Frontier» в качестве названия нашей тестовой сети также указывает на то, где, по нашему мнению, мы находимся в растущей части Web3 и что мы хотим, чтобы индексаторы вышли за пределы»._ — Ian He, технический директор SubQuery
 
-[Read more here](../blogs/20220330-frontier-testnet.md)
+[Подробнее здесь](../blogs/20220330-frontier-testnet.md)
 
-## Other things you might have missed
+## Другие вещи, которые вы могли пропустить
 
-- SubQuery celebrated it's 1st birthday with an [Airdrop campaign](https://gleam.io/leBTF/subquery-1st-birthday-airdrop-)
-- [James](https://matchstiq.io/stories/james-bayly-head-of-business-development-at-subquery/) was at [Avalanche summit](https://www.avalanchesummit.com/agenda/speakers/1565739) in time with our Avalanche launch, which we also did an [Airdrop giveaway](https://gleam.io/pPoMH/-subquery-x-avalanche-airdrop-competition) for.
-- We had a [Customer Interview with Sota Watanabe](https://www.youtube.com/watch?v=KczSlTcb6aw) from Astar and talked about the new partnership that allows dApp projects on Astar to use SubQuery for native Astar EVM data indexing.
-- An interview with our solution architect [James Xu](https://www.youtube.com/watch?v=K-d-3JA5IsA) who leads our hosted service
-- An interview with [Brittany](https://www.youtube.com/watch?v=IyKg2Gu2A8g) who leads our Customer Success & Grants Programme
-- An interview with [Daniel](https://www.youtube.com/watch?v=meaictYiskI&feature=youtu.be) who supports our Marketing & Business Development teams
-- Siqi hosted Chinese AMAs with Darwinia, Manta Network, Moonbeam, Acala, Unique NFT, and also [interviewed a top student](https://www.youtube.com/watch?v=z13w7GmpZWw) from the Chinese Hero Course.
-- Sean interviewed one of the first few students who completed our Hero Course which can we watched [here](https://www.youtube.com/watch?v=pItgREDAprc)
-- Other events on our [Discord channel](https://discord.com/invite/subquery) include a crowdin workshop with our Thai Ambassadors, a Russian AMA on DropsEarn, Office Hours, and a German & Ukranian AMA.
+- SubQuery отпраздновал свой первый день рождения с помощью [Airdrop кампании](https://gleam.io/leBTF/subquery-1st-birthday-airdrop-)
+- [Джеймс](https://matchstiq.io/stories/james-bayly-head-of-business-development-at-subquery/) был на [саммите Avalanche](https://www.avalanchesummit.com/agenda/speakers/1565739) как раз ко времени нашего запуска на Avalanche, для которого мы также организовали [Airdrop розыгрыш](https://gleam.io/pPoMH/-subquery-x-avalanche-airdrop-competition).
+- Мы провели [интервью с нашим клиентом Sota Watanabe](https://www.youtube.com/watch?v=KczSlTcb6aw) из Astar и рассказали о новом партнерстве, которое позволяет проектам dApp на Astar использовать SubQuery для встроенной индексации данных Astar EVM.
+- Интервью с нашим архитектором решений [James Xu](https://www.youtube.com/watch?v=K-d-3JA5IsA), руководителем службы хостинга
+- Интервью с [Brittany](https://www.youtube.com/watch?v=IyKg2Gu2A8g), руководителем отдела по работе с клиентами и Программа Грантов
+- Интервью с [Daniel](https://www.youtube.com/watch?v=meaictYiskI&feature=youtu.be), который поддерживает наш Маркетинг и Команду по Развитию Бизнеса
+- Siqi провел китайские AMA с Darwinia, Manta Network, Moonbeam, Acala, Unique NFT, а также [взял интервью у одного из лучших студентов](https://www.youtube.com/watch?v=z13w7GmpZWw) китайского Hero Course.
+- Sean взял интервью у одного из первых студентов, прошедших наш Hero Course, которое мы можем посмотреть [здесь](https://www.youtube.com/watch?v=pItgREDAprc)
+- Другие мероприятия на нашем [канале Discord](https://discord.com/invite/subquery) включают краудин-семинар с нашими тайскими амбассадорами, российскую AMA на DropsEarn, Office Hours и немецкую и украинская АМА.
 
 P.S.
 
-Remember to join our [Discord](https://discord.com/invite/subquery) and [our social channels](https://linktr.ee/subquerynetwork) to stay updated on our latest news and announcements.
+Не забудьте присоединиться к нашим [Discord](https://discord.com/invite/subquery) и [нашим социальным каналам](https://linktr.ee/subquerynetwork), чтобы быть в курсе наших последних новостей и объявлений.
 
-The SubQuery Team
+Команда SubQuery
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
