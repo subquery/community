@@ -6,7 +6,7 @@ _Les primes techniques offrent aux développeurs la possibilité de travailler s
 
 [SubQuery](https://subquery.network/), la principale solution d'indexation de données construite sur Polkadot (DOT), a le plaisir d'annoncer le lancement de primes techniques en partenariat avec les meilleures équipes blockchain de Polkadot dans le cadre du programme de subventions de SubQuery.
 
-[The USD$500,000 SubQuery Grants Program kicked off in December 2021](./20211222-grants.md) with the vision of offering opportunities to blockchain developers, community members, and wider ecosystem participants to create innovative or high-potential ideas that leverage SubQuery’s open-source data indexing tools to support cutting-edge decentralised applications.
+[Le programme de subventions SubQuery de 500 000 USD a été lancé en décembre 2021](./20211222-grants.md) avec la vision d'offrir des opportunités aux développeurs de blockchain, aux membres de la communauté et aux participants de l'écosystème plus large pour créer des idées innovantes ou à fort potentiel qui tirent parti des outils d'indexation de données open-source de SubQuery pour soutenir des applications décentralisées de pointe.
 
 Alors que les développeurs peuvent toujours postuler au programme de subventions SubQuery avec leurs propres idées, SubQuery a publié des primes initiales en partenariat avec Moonbeam, Acala, Astar et Bifrost comme projets d'inspiration. Toutes les candidatures sont ouvertes dès maintenant et, en prime, si votre candidature est retenue, vous aurez l'occasion de travailler en étroite collaboration avec l'équipe parachain qui a proposé le défi !
 
@@ -16,7 +16,7 @@ Vous pouvez consulter la liste de toutes les primes sur le site Web de SubQuery,
 
 Les candidats intéressés par l'une de ces primes sont encouragés à soumettre leur proposition avec le budget nécessaire pour accomplir la tâche et les autres exigences ici. Si vous avez des questions, veuillez rejoindre notre serveur Discord et contacter notre équipe dans le canal des subventions.
 
-For those who would like to up-skill more on SubQuery before making an application, [The SubQuery Academy](./20211018-subquery-launches-the-subquery-academy.md)’s “Hero Course” is a free and modular educational program designed to build awareness amongst developers. Il est [entièrement gratuit et accessible via un portail en ligne](https://subquery.coassemble.com/unlock/dOKZW6O#/).
+Pour ceux qui souhaitent se perfectionner davantage sur SubQuery avant de faire une demande, le "Hero Course" de [The SubQuery Academy](./20211018-subquery-launches-the-subquery-academy.md) est un programme éducatif gratuit et modulaire conçu pour sensibiliser les développeurs. Il est [entièrement gratuit et accessible via un portail en ligne](https://subquery.coassemble.com/unlock/dOKZW6O#/).
 
 ## À propos du réseau SubQuery
 
