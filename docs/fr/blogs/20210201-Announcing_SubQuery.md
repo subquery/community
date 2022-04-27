@@ -22,7 +22,7 @@ L'objectif de SubQuery est d'aider les projets Polkadot/Substrate à créer de m
 
 ![](https://miro.medium.com/max/1000/1*IHstJG-hBwQzicLdWkGR5w.png)
 
-Pour que le rêve du Web 3.0 se réalise, il faut qu'il soit aussi rapide (sinon plus) que les réseaux centralisés pour l'utilisateur final.
+Pour que le rêve du Web 3.0 se réalise, il doit être aussi rapide (sinon plus) que les réseaux centralisés pour l'utilisateur final.
 
 C'est pourquoi nous sommes incroyablement fiers d'annoncer SubQuery, un projet open source qui permet aux utilisateurs d'exécuter un indexeur sur leur chaîne pour construire un ensemble de données qui peut être interrogé avec GraphQL. Cette suite d'outils comprend une interface en ligne de commande permettant aux projets de générer leur propre projet de sous-quête, définissant comment l'indexeur doit traverser et agréger leur propre réseau. Il existe un paquet de nœuds SubQuery qui indexe le réseau et prend en charge les requêtes GraphQL. Grâce à ces outils, tout le monde peut créer et exécuter des requêtes facilement.
 
