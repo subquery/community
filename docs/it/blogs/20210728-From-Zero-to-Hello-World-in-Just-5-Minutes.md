@@ -8,7 +8,7 @@ Oggi lanciamo il nostro nuovo [sito web di documentazione su doc.subquery.networ
 
 ![](https://miro.medium.com/max/1200/1*snyFSjyQ9q116bmIcaVfsQ.gif)
 
-> _"Documentation may not be glamorous work but it plays a vital role in communicating how something works and allows us to empower our community members to learn and unleash their creativity. That is why we believe documentation is so important"_ — Sean Au (SubQuery Academy)
+> _“La documentazione potrebbe non essere poi così affascinante, ma svolge un ruolo fondamentale nel comunicare come funziona qualcosa e ci consente di consentire ai membri della nostra comunità di apprendere e liberare la loro creatività. Ecco perché crediamo che la documentazione sia così importante_” — Sean Au (SubQuery Academy)
 
 [Il nostro nuovo sito Web di documentazione](https://doc.subquery.network/) ha una pagina di destinazione invitante progettata per accogliere tutti gli utenti, indipendentemente dalla loro conoscenza tecnica di blockchain o Polkadot. Dalla pagina di destinazione gli utenti possono passare direttamente a un tutorial introduttivo o navigare verso l'aiuto di cui hanno bisogno.
 
