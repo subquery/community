@@ -4,7 +4,7 @@
 
 **SubQuery annuncia le pietre miliari chiave tra cui la timeline TGE**
 
-Oggi siamo lieti di presentare per la prima volta la nostra roadmap tecnica dettagliata. L'obiettivo di SubQuery è quello di essere il principale fornitore di dati nell'ecosistema Polkadot e il supporto che abbiamo ricevuto dalla community per aiutarci a realizzare questa visione è stato sorprendente. From our formal establishment at the end of 2020 via a [Web3 Grant](https://web3.foundation/), to releasing our first open source version in January 2021, and [closing our Series A in September](./20210908-SubQuery-Announces-US%249-Million-Funding-Round.md) we would like to thank you for all of your support in getting us to this stage!
+Oggi siamo lieti di presentare per la prima volta la nostra roadmap tecnica dettagliata. L'obiettivo di SubQuery è quello di essere il principale fornitore di dati nell'ecosistema Polkadot e il supporto che abbiamo ricevuto dalla community per aiutarci a realizzare questa visione è stato sorprendente. Dalla nostra istituzione formale alla fine del 2020 tramite un [Grant Web3](https://web3.foundation/), al rilascio della nostra prima versione open source a gennaio 2021 e alla [chiusura della nostra serie A a settembre](./20210908-SubQuery-Announces-US%249-Million-Funding-Round.md), vorremmo grazie per tutto il vostro supporto nel portarci a questa fase!
 
 Mentre continuiamo a guadagnare slancio, è giunto il momento di condividere di più sui nostri piani per il futuro, inclusa la nostra tabella di marcia tecnica. Siamo entusiasti di come la prossima evoluzione di SubQuery porterà ancora più valore all'ecosistema Polkadot e fornirà maggiori opportunità alla nostra comunità di partecipare alla nostra crescita.
 
