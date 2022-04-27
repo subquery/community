@@ -1,12 +1,12 @@
-# SubQuery Announces First Cohort of SubQuery Grants Recipients
+# SubQuery Mengumumkan Penerima Grant SubQuery batch Pertama
 
 ![](https://miro.medium.com/max/1400/1*qp0hhPcvodDIMmVScohSnw.png)
 
-SubQuery, the leading data indexing solution in Polkadot, is happy to announce that four teams have been selected as the first ever cohort of SubQuery Grants recipients. These teams are [Alphabit](https://www.polkadata.xyz/), [Zoombies](https://zoombies.world), [Dapplooker](https://dapplooker.com/) and [Dotsama](http://dotsama.ai/).
+SubQuery, solusi pengindeksan data terkemuka di Polkadot, dengan senang hati mengumumkan bahwa empat tim telah dipilih sebagai kelompok pertama penerima SubQuery Grants. Tim ini adalah [Alphabit](https://www.polkadata.xyz/), [Zoombie](https://zoombies.world), [Dapplooker](https://dapplooker.com/) dan [Dotsama](http://dotsama.ai/).
 
-[The USD $500,000 SubQuery Grants Program kicked off in December 2021](./20211222-grants.md) with the vision of offering opportunities to blockchain developers, community members, and wider ecosystem participants to create innovative or high-potential ideas that leverage SubQuery's open-source data indexing tools to support cutting-edge decentralised applications.
+[Program Grant SubQuery senilai USD $500,000 dimulai pada Desember 2021](./20211222-grants.md) dengan visi menawarkan peluang kepada pengembang blockchain, anggota komunitas, dan peserta ekosistem yang lebih luas untuk menciptakan ide inovatif atau berpotensi tinggi yang memanfaatkan data oepn-source SubQuery alat pengindeksan untuk mendukung aplikasi desentralisasi mutakhir.
 
-The first in the cohort, [Alphabit](https://www.polkadata.xyz/), are endeavouring to empower the independent investor by providing visibility to track and analyse the portfolios and investments of funds, and large traders or 'whales'. They will use SubQuery to power the on-chain data metrics required to propel them to become a leading market analytics player in Polkadot. SubQuery believes this will make a significant impact in the Polkadot ecosystem which is currently lacking in strong investment analysis tools.
+Yang pertama dalam kelompok, [Alphabit](https://www.polkadata.xyz/), berusaha untuk memberdayakan investor independen dengan menyediakan visibilitas untuk melacak dan menganalisis portofolio dan investasi dana, dan trader besar atau 'whales'. They will use SubQuery to power the on-chain data metrics required to propel them to become a leading market analytics player in Polkadot. SubQuery believes this will make a significant impact in the Polkadot ecosystem which is currently lacking in strong investment analysis tools.
 
 > _"We are honoured and delighted to be a part of the SubQuery Grants Programme and to hold a collaborative partnership with SubQuery. The business advice and technical support from SubQuery has completely surpassed our expectations about the support we could receive as a small analytics startup. The generous funding we've received from SubQuery will allow us to build the next wave of key analytics for the Polkadot / Kusama DeFi community. One of the most valuable benefits of this programme will be connecting with SubQuery's network of strategic partners and fellow builders. We are early in our journey and SubQuery's grant partnership will be the rocket fuel needed for us to get to the next level"_ - Michael Anderson, Business Development & Strategic Partnerships (Alphabit)
 
@@ -30,7 +30,7 @@ Applicants who are interested in any of these bounties are encouraged to submit 
 
 For those who would like to up-skill more on SubQuery before making an application, [The SubQuery Academy](./20211018-subquery-launches-the-subquery-academy.md)'s _"Hero Course"_ is a free and modular educational program designed to build awareness amongst developers. and is [completely free and accessible via an online portal](https://subquery.coassemble.com/unlock/dOKZW6O#/).
 
-## Tentang SubQuery
+## About SubQuery
 
 [SubQuery](https://subquery.network) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. This service unlocks blockchain data and transforms it to a queryable state so that it can be used in intuitive applications. It allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The upcoming SubQuery Network will decentralize and tokenize the ecosystem to allow everyone to participate in the web3 data revolution.
 
