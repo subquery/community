@@ -2,47 +2,47 @@
 
 ![](https://miro.medium.com/max/1400/1*ePGA5YU2NgY-qhQ66xAzcg.png)
 
-Welcome to the latest SubQuery Monthly Update!
+ยินดีต้อนรับเข้าสู่การอัพเดทรายเดือนล่าสุด!
 
-As usual the past month was action-packed with the news of our integration with Avalanche taking centre-stage. We also made massive progress towards our TGE after announcing the launch of our Testnet, "The Frontier" and have invited the first participants to our closed beta.
+เช่นเคย เดือนที่ผ่านมาเต็มไปด้วยข่าวการผนวกรวมของเราเข้ากับ Avalanche  นอกจากนี้เรายังมีความก้าวหน้าเรื่อง TGE อย่างมาก หลังจากประกาศเปิดตัว Testnet "The Frontier" และเชิญผู้เข้าร่วมกลุ่มแรกเข้าทดสอบรอบ Close Beta
 
-Meanwhile, we also announced partnerships with several teams in Polkadot and we rewarded our rapidly community by continuing our partnership with Gitcoin.
+ในขณะเดียวกัน เรายังได้ประกาศความร่วมมือกับทีมหลายทีมใน Polkadot และเราได้ให้รางวัลแก่คอมมูนิตี้ที่รวดเร็วของเราด้วยการสานต่อความร่วมมือกับ Gitcoin
 
-## Community
+## คอมมูนิตี้
 
-### SubQuery Provides Web3 Developers More Opportunities via Gitcoin Hackathon
+### SubQuery ช่วยให้นักพัฒนา Web3 มีโอกาสมากขึ้นผ่านทาง Gitcoin Hackathon
 
-After running our first Gitcoin Hackathon in December 2021 and achieving fantastic results with many talented developers it was an easy decision to extend our partnership.
+หลังจากเปิดตัว Gitcoin Hackathon ครั้งแรกในเดือนธันวาคม 2021 และได้บรรลุผลลัพธ์ที่ยอดเยี่ยมกับนักพัฒนาที่มีความสามารถมากมาย การตัดสินใจที่จะสานต่อความร่วมมือของเราจึงเป็นเรื่องง่าย
 
-> _"SubQuery is proud to partner with the Gitcoin GR13 Hackathon to build the future of Web3. It is in our interest to support motivated developers around the world to build on top of our data indexing service which is why we also recently launched a $500,000 SubQuery Grants Programme. We have developed bounties that should excite graduates of our 'Hero Course' and developers who are new to SubQuery and look forward to seeing the results"_ - Sam Zou, Founder and CEO of SubQuery
+> _"SubQuery ภูมิใจที่ได้เป็นพันธมิตรกับ Gitcoin GR13 Hackathon ในการสร้างอนาคตของ Web3 ไปด้วยกัน เราสนใจที่จะสนับสนุนนักพัฒนาที่มีแรงจูงใจทั่วโลกในการสร้างโดยใช้บริการจัดทำดัชนีข้อมูลของเรา ซึ่งเป็นสาเหตุที่เมื่อไม่นานมานี้เราได้เปิดตัวโครงการ SubQuery Grant มูลค่า 500,000 ดอลลาร์ เราได้พัฒนารางวัลที่จะกระตุ้นผู้สำเร็จการศึกษาจาก 'Hero Course' และนักพัฒนาที่ยังใหม่ต่อ SubQuery และเราคาดหวังว่าจะได้เห็นผลลัพธ์นี้"_ - กล่าวโดย Sam Zou ผู้ก่อตั้งและ CEO ของ SubQuery
 
-[Read more here](../blogs/20220308-gitcoin13-hackathon.md)
+[อ่านเพิ่มเติมได้ที่นี่](../blogs/20220308-gitcoin13-hackathon.md)
 
-### SubQuery Extends Partnership with OneBlock+ To Promote Blockchain Education in China
+### SubQuery ขยายความร่วมมือกับ OneBlock+ เพื่อส่งเสริมการศึกษา Blockchain ในประเทศจีน
 
-We are partnering with OneBlock+ to run a second round of the ["Hero Course"](https://doc.subquery.network/academy/herocourse/) in China starting in early April.
+เรากำลังร่วมมือกับ OneBlock+ เพื่อจัด ["Hero Course"](https://doc.subquery.network/academy/herocourse/) รอบที่สองในประเทศจีนในช่วงต้นเดือนเมษายน
 
-> _"SubQuery is excited to continue our partnership with OneBlock+ and their passionate group of Chinese Substrate developers. We have already received feedback that the first group of students are already using SubQuery on their own projects to make their development easier. We look forward to collaborating with the future students as they leverage on OneBlock+ and SubQuery to build the next generation of dApps"_ - Sam Zou, Founder and CEO of SubQuery
+> _"SubQuery รู้สึกตื่นเต้นที่จะสานต่อความร่วมมือกับ OneBlock+ และกลุ่มนักพัฒนา Substrate ชาวจีนที่กระตือรือร้น เราได้รับฟีดแบ็คว่านักเรียนกลุ่มแรกกำลังใช้ SubQuery ในโครงการของตนเองอยู่แล้วเพื่อให้การพัฒนาของพวกเขาทำได้ง่ายขึ้น เราหวังเป็นอย่างยิ่งว่าจะได้ร่วมงานกับผู้ที่จะมาเรียนในอนาคต เพื่อให้พวกเขาได้ใช้ประโยชน์จาก OneBlock+ และ SubQuery เพื่อสร้าง dApp รุ่นถัดไป"_ - กล่าวโดย Sam Zou ผู้ก่อตั้งและ CEO ของ SubQuery
 
-[Read more here](../blogs/20220308-oneblock-education.md)
+[อ่านเพิ่มเติมได้ที่นี่](../blogs/20220308-oneblock-education.md)
 
 ## SubQuery Network
 
-### SubQuery supports Automata Network to deliver Web3 privacy services
+### SubQuery รองรับ Automata Network เพื่อให้บริการด้านความเป็นส่วนตัวของ Web3
 
-SubQuery is excited to announce our partnership with Automata, a decentralised service protocol that provides middleware-like traceless privacy services for dApps on Ethereum and Polkadot. SubQuery is working with Automata to allow developers access to a high performance indexing solution that will power Automata's rapidly growing application ecosystem.
+SubQuery รู้สึกตื่นเต้นที่จะประกาศความร่วมมือกับ Automata ซึ่งเป็นโปรโตคอลด้านการบริการแบบกระจายศูนย์ที่ให้บริการเสมือนซอฟแวร์ตัวกลาง(middleware)ที่มีความเป็นส่วนตัวแบบไร้ร่องรอยให้กับ dApp บน Ethereum และ Polkadot SubQuery ทำงานร่วมกับ Automata เพื่อให้นักพัฒนาสามารถเข้าถึงโซลูชันการจัดทำดัชนีประสิทธิภาพสูงที่จะขับเคลื่อนระบบนิเวศแอปพลิเคชันที่เติบโตอย่างรวดเร็วของ Automata
 
-> _"Subquery has become the standard indexing protocol within the Polkadot and Kusama ecosystems, and it is not without reason. The team has been prompt, exceptional, and we're pleased to continue working closely with them as Automata focuses on its middleware solutions to bring forth a fair-minded and privacy-focused Web3."_ - Deli Gong, Automata Network
+> _"Subquery ได้กลายเป็นโปรโตคอลการจัดทำดัชนีมาตรฐานภายในระบบนิเวศของ Polkadot และ Kusama และไม่ได้เป็นโดยไม่มีเหตุผล ทีมงานมีความรวดเร็ว ยอดเยี่ยม และเรายินดีที่จะทำงานอย่างใกล้ชิดกับพวกเขาต่อไป เนื่องจาก Automata มุ่งเน้นไปที่โซลูชันซอฟแวร์กลางเพื่อทำให้อ Web3 ที่มีความยุติธรรมและเน้นความเป็นส่วนตัวเกิดขึ้น"_ - กล่าวโดย Deli Gong จาก Automata Network
 
-[Read more here](../customer_announcements/20220317-automata.md)
+[อ่านเพิ่มเติมได้ที่นี่](../customer_announcements/20220317-automata.md)
 
-### SubQuery Provides Data To OAK Network To Power DeFi Automation Hub
+### SubQuery ให้ข้อมูลแก่เครือข่าย OAK เพื่อขับเคลื่อน DeFi Automation Hub
 
-SubQuery is proud to announce our partnership with OAK Network, the Web3 automation hub for DeFi and payments. SubQuery's expertise will be used to provide greater insights for OAK when monitoring and observing blockchain activity for both OAK Network on Polkadot, the Turing Network on Kusama, as well as their Neumann testnet.
+SubQuery ภูมิใจที่จะประกาศความร่วมมือกับ OAK Network ศูนย์กลางของระบบอัตโนมัติของ Web3 สำหรับ DeFi และการชำระเงิน ความเชี่ยวชาญของ SubQuery จะถูกใช้เพื่อให้ข้อมูลที่เป็นเชิงลึกมากขึ้นสำหรับ OAK เมื่อทำการตรวจสอบและสังเกตกิจกรรมบล็อคเชนสำหรับทั้งใน OAK Network  บน Polkadot และTuring Network บน Kusama รวมถึงเครือข่ายทดสอบ Neumann
 
-> _"SubQuery's mission to help teams create products that allow movement to a decentralized future aligns closely with OAK Network's own mission of bringing secure and trustless automation to the masses. SubQuery will serve as a valuable resource to accelerate development timelines and ensure the services which OAK supplies to the market are stable and observable."_ - David Finklestein , Head of Growth at OAK Network
+> _"ภารกิจของ SubQuery คือการช่วยทีมสร้างผลิตภัณฑ์ที่จะช่วยให้การเคลื่อนไปสู่อนาคตที่กระจายอำนาจนั้นสอดคล้องกับภารกิจของ OAK Network ในการนำระบบอัตโนมัติที่ปลอดภัยและเชื่อถือได้มาสู่คนจำนวนมาก SubQuery จะทำหน้าที่เป็นทรัพยากรที่มีคุณค่าที่จะช่วยเร่งระยะเวลาของการพัฒนา และทำให้มั่นใจว่าบริการที่ OAK จัดหาให้กับตลาดมีความเสถียรและตรวจสอบได้"_ - กล่าวโดย David Finklestein หัวหน้าฝ่ายการเติบโตของ OAK Network
 
-[Read more here](../customer_announcements/20220315-oak-network.md)
+[อ่านเพิ่มเติมได้ที่นี่](../customer_announcements/20220315-oak-network.md)
 
 ### SubQuery provides an open data foundation for Astar, Polkadot's dApp Hub
 
