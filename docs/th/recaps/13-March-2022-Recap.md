@@ -54,15 +54,15 @@ SubQuery ภูมิใจที่จะประกาศความร่�
 
 ![](https://miro.medium.com/max/1400/1*2F2Itdhy6CPL0K1OF4flbA.png)
 
-SubQuery is delighted to announce an integration partnership with [SubWallet](https://subwallet.app/), a new multi-chain wallet for the Dotsama ecosystem. SubWallet makes it easy to track, send, receive and sign transactions on DeFi and GameFi applications and supports over 40 different parachains in the Dotsama network.
+SubQuery มีความยินดีที่จะประกาศความร่วมมือในการผสานรวมกับ [SubWallet](https://subwallet.app/) ซึ่งเป็นกระเป๋าเงินมัลติเชนใหม่ของระบบนิเวศ Dotsama SubWallet ทำให้การติดตาม ส่ง รับและลงนาม(sign)ธุรกรรมบนแอปพลิเคชัน DeFi และ GameFi เป็นเรื่องง่ายและรองรับพาราเชนกว่า 40 พาราเชนในเครือข่าย Dotsama
 
-> _"With the mission of pulling crypto users closer to the Dotsama ecosystem and opening the Web3 universe, we are working with SubQuery to integrate their remarkable data indexing solution, so that SubWallet users can review transaction history and crowdloan information for over 40 different Polkadot parachains right in our extension wallet."_ - Hieu Dao, SubWallet Co-Founder
+> _"ด้วยภารกิจในการดึงผู้ใช้งาน crypto ให้เข้ามาใกล้ชิดกับระบบนิเวศ Dotsama และการเปิดจักรวาลของ Web3 เรากำลังทำงานร่วมกับ SubQuery เพื่อผสานรวมกับโซลูชันการจัดทำดัชนีข้อมูลที่โดดเด่นของพวกเขา ด้วยเหตุนี้ผู้ใช้งาน SubWallet จึงสามารถตรวจสอบประวัติการทำธุรกรรมและข้อมูล Crowdloan ได้มากกว่า 40 โปเจ็กต์พาราเชนของ Polkadot ได้ในกระเป๋าเงินรูปแบบส่วนขยายของพวกเรา"_ -  กล่าวโดย Hieu Dao ผู้ร่วมก่อตั้ง SubWallet
 
-[Read more here](../customer_announcements/20220331-subwallet.md)
+[อ่านเพิ่มเติมได้ที่นี่](../customer_announcements/20220331-subwallet.md)
 
-## Core Product Development
+## การพัฒนาผลิตภัณฑ์หลัก
 
-### SubQuery Expands its Data Indexing Solution to Support Avalanche
+### SubQuery ขยายโซลูชันการจัดทำดัชนีข้อมูลเพื่อรองรับ Avalanche
 
 ![](https://miro.medium.com/max/1400/1*d4CnfS7YSvAhxcgBEdwCiA.png)
 
