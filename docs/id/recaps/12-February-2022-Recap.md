@@ -1,22 +1,22 @@
-# February Recap
+# Rekap Februari
 
 ![](https://miro.medium.com/max/1400/1*T3DLiAKSIy-AjRia_JJjow.png)
 
-February flew by for the team at SubQuery as we have been busy on all fronts preparing for our TGE and servicing all of our existing customers including the leading teams in Polkadot.
+Februari berlalu untuk tim di SubQuery karena kami telah sibuk di semua lini mempersiapkan TGE kami dan melayani semua pelanggan kami yang termasuk tim terkemuka di Polkadot.
 
-We have a lot of exciting work going on that we can't wait to share in the weeks and months ahead!
+Kami memiliki banyak pekerjaan menarik yang tidak sabar untuk kami bagikan di minggu-minggu dan bulan-bulan mendatang!
 
-## Community
+## Komunitas
 
-This month we finally passed 30,000 organic Twitter followers and our Discord has swelled to over 15,000 active community members working to help one another. It's not enough to build a tool or an application in web3, you need to build a self sustaining community and we're hard at work on this at SubQuery!
+Bulan ini kami akhirnya melewati 30.000 pengikut Twitter organik dan Perselisihan kami telah membengkak menjadi lebih dari 15.000 anggota komunitas aktif yang bekerja untuk saling membantu. Membangun alat atau aplikasi di web3 tidak cukup, Anda perlu membangun komunitas mandiri dan kami bekerja keras untuk ini di SubQuery!
 
-### SubQuery Announces First Cohort of SubQuery Grants Recipients
+### SubQuery Mengumumkan Penerima Grant SubQuery batch Pertama
 
-Four teams have been selected as the first ever cohort of SubQuery Grants recipients. These teams are [Alphabit](https://www.polkadata.xyz/), [Zoombies](https://zoombies.world/), [Dapplooker](https://dapplooker.com/) and [Dotsama](http://dotsama.ai/). The [USD $500,000 SubQuery Grants](https://subquery.network/grants) Program kicked off in December 2021 with the vision of offering opportunities to blockchain developers, community members, and wider ecosystem participants to create innovative or high-potential web3 applications.
+Empat tim telah dipilih sebagai kelompok pertama penerima SubQuery Grants. Tim ini adalah [Alphabit](https://www.polkadata.xyz/), [Zoombie](https://zoombies.world/), [Dapplooker](https://dapplooker.com/) dan [Dotsama](http://dotsama.ai/). Program [USD $500,000 SubQuery Grants](https://subquery.network/grants) dimulai pada Desember 2021 dengan visi menawarkan peluang kepada pengembang blockchain, anggota komunitas, dan peserta ekosistem yang lebih luas untuk membuat aplikasi web3 yang inovatif atau berpotensi tinggi.
 
 ![](https://miro.medium.com/max/1400/1*tBnWK4svpGbGuP3mCXyGDg.png)
 
-Alphabit, are endeavouring to empower the independent investor by providing visibility to track and analyse the portfolios and investments of funds, and large traders or 'whales'. _"The business advice and technical support from SubQuery has completely surpassed our expectations about the support we could receive as a small analytics startup" --- Michael Anderson, Business Development & Strategic Partnerships (Alphabit)_
+Alphabit, berusaha untuk memberdayakan investor independen dengan memberikan visibilitas untuk melacak dan menganalisis portofolio dan investasi dana, dan pedagang besar atau 'paus'. _"The business advice and technical support from SubQuery has completely surpassed our expectations about the support we could receive as a small analytics startup" --- Michael Anderson, Business Development & Strategic Partnerships (Alphabit)_
 
 ![](https://miro.medium.com/max/1400/1*TpHBDhA7WqNGTOxz9LpifQ.png)
 
