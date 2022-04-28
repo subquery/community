@@ -14,7 +14,7 @@ Media rahasia akan mudah diakses oleh pengguna Wallet yang memegang SecretNFT
 
 ![](https://miro.medium.com/max/1400/0*gquKRKBgiyAAxRFZ)
 
-> _"We made the choice to use SubQuery because the documentation seemed clear to us at first glance and we were not mistaken. SubQuery menyediakan lingkungan yang lengkap dengan mesin buruh pelabuhan yang membuat pengujian dan penerapan menjadi sangat mudah. Relatif mudah untuk dikembangkan di lingkungan ini dan untuk memprogram mendengarkan berbagai peristiwa yang dipancarkan oleh blockchain kami. Congratulations also to the support which is very responsive."_ — Ternoa CTO
+> “Kami membuat pilihan untuk menggunakan SubQuery karena dokumentasinya tampak jelas bagi kami pada pandangan pertama dan kami tidak salah. SubQuery menyediakan lingkungan yang lengkap dengan mesin buruh pelabuhan yang membuat pengujian dan penerapan menjadi sangat mudah. Relatif mudah untuk dikembangkan di lingkungan ini dan untuk memprogram mendengarkan berbagai peristiwa yang dipancarkan oleh blockchain kami. Selamat juga atas dukungannya yang sangat responsif.”
 
 Layanan [SubQuery](https://subquery.network/) juga membantu mengekstrak dan mengkueri data on chain untuk Secret-NFT yang dimint di Ternoa Blockchain, dengan cara yang mendukung fitur unik NFT Ternoa.
 
