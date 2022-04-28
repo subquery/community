@@ -1,4 +1,4 @@
-# SubQuery Provides Data To OAK Network To Power DeFi Automation Hub
+# SubQuery предоставляет данные в сеть OAK для обеспечения работы хаба автоматизации DeFi
 
 ![](https://miro.medium.com/max/1400/0*R-MluHyL9bHAEboa)
 
