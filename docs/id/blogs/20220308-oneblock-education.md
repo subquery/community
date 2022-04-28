@@ -16,16 +16,16 @@ One Block+ mengembangkan kursus pengembang substrat pertama di dunia dengan para
 
 Informasi lebih lanjut tentang tanggal yang akan datang akan dipublikasikan di [saluran Perselisihan SubQuery](https://discord.com/invite/78zg8aBSMG).
 
-In the meantime, SubQuery will be participating in the [upcoming Gitcoin GR13 Hackathon and invites developers to participate](https://gitcoin.co/hackathon/gr13/onboard) in the bounties here [or via bounties directly running in the SubQuery Grants Programme](https://subquery.network/grants).
+Sementara itu, SubQuery akan berpartisipasi dalam [Gitcoin GR13 Hackathon yang akan datang dan mengundang pengembang untuk berpartisipasi](https://gitcoin.co/hackathon/gr13/onboard) dalam bounty di sini [atau melalui bounty yang langsung berjalan di Program SubQuery Grants](https://subquery.network/grants).
 
-## About OneBlock+
+## Tentang OneBlock+
 
-OneBlock+ is the first and the largest blockchain developer community in China. At OneBlock+, we provide full support for developers with their substrate studies and further setoff their career paths; we host Polkadot Hackathons every season to attract top notch developers to build and innovate for the prosperity of the ecosystem. As a greater China technology resource integrator, OneBlock+ also partner with developers, communities, business elites, and key media who have business insights and experiences in the blockchain industry to provide business like technology courses, news distributions, AMA, and offline events for the industry. Want to shape the crypto world together? Come and join us today!
+OneBlock+ adalah komunitas pengembang blockchain pertama dan terbesar di Tiongkok. Di OneBlock+, kami memberikan dukungan penuh untuk pengembang dengan studi substrat mereka dan lebih lanjut memulai jalur karier mereka; kami menyelenggarakan Polkadot Hackathons setiap musim untuk menarik pengembang terkemuka untuk membangun dan berinovasi demi kemakmuran ekosistem. Sebagai integrator sumber daya teknologi China yang lebih besar, OneBlock+ juga bermitra dengan pengembang, komunitas, elit bisnis, dan media utama yang memiliki wawasan dan pengalaman bisnis di industri blockchain untuk menyediakan bisnis seperti kursus teknologi, distribusi berita, AMA, dan acara offline untuk industri. Ingin membentuk dunia kripto bersama? Datang dan bergabunglah dengan kami hari ini!
 
 | [Twitter](https://mobile.twitter.com/oneblock_) | [Medium](https://medium.com/@OneBlockplus?p=5a6193755f9b) | [Discord](https://discord.gg/5aWx6Rch) | [Telegram](https://t.me/oneblock_dev) |
 
-## About SubQuery
+## Tentang SubQuery
 
-[SubQuery](https://subquery.network) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. The protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+[SubQuery](https://subquery.network) adalah agregasi data terdesentralisasi, pengindeksan & lapisan kueri antara blockchain Layer-1 dan aplikasi terdesentralisasi. Protokol mengabstraksi keanehan data blockchain dengan SubQuery SDK, memungkinkan pengembang untuk fokus pada penerapan produk inti mereka tanpa membuang-buang upaya pada teknologi backend khusus.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
