@@ -8,9 +8,9 @@ Solarbeam baru-baru ini meluncurkan [Eclipse](https://app.solarbeam.io/eclipse),
 
 ![](https://miro.medium.com/max/1400/1*IbRN8EnymWvqvh0sx_PNKw.png)
 
-> _"SubQuery has proved to be a reliable tool for querying events and transactions on EVM and Substrate based chains, with a minimal latency for syncing new data and suitable for large amounts of data. As a result, we believe SubQuery will provide as good of an experience on Moonbeam as it has for us on Moonriver"_ — Founder, Solarbeam
+> _"SubQuery telah terbukti menjadi alat yang andal untuk membuat kueri peristiwa dan transaksi pada rantai berbasis EVM dan Substrat, dengan latensi minimal untuk menyinkronkan data baru dan cocok untuk data dalam jumlah besar. Oleh karena itu, kami yakin SubQuery akan memberikan pengalaman yang baik di Moonbeam seperti halnya bagi kami di Moonriver"_ — Pendiri, Solarbeam
 
-Layanan [SubQuery](https://subquery.network/) membantu mendorong analitik untuk launchpad IDO Eclipse oleh Solarbeam. Menjelang peluncuran mereka di Moonbeam, Solarbeam akan mengintegrasikan SubQuery dengan alat analisis portofolio pengguna mereka yang akan memungkinkan pengguna untuk melacak farming dan riwayat keuntungan mereka. This is made possible by the [recent integration of Moonbeam and Moonriver’s EVM with SubQuery](./20211028-moonbeam-evm.md).
+Layanan [SubQuery](https://subquery.network/) membantu mendorong analitik untuk launchpad IDO Eclipse oleh Solarbeam. Menjelang peluncuran mereka di Moonbeam, Solarbeam akan mengintegrasikan SubQuery dengan alat analisis portofolio pengguna mereka yang akan memungkinkan pengguna untuk melacak farming dan riwayat keuntungan mereka. Hal ini dimungkinkan oleh [integrasi terbaru dari Moonbeam dan EVM Moonriver dengan SubQuery](./20211028-moonbeam-evm.md).
 
 ![](https://miro.medium.com/max/1400/1*6_iO6tLt4RxxMvs8u-F_Bg.png)
 
