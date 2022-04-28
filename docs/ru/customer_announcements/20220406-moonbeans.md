@@ -1,16 +1,20 @@
-# Moonbeans Create a One-Stop Shop of NFT Data with SubQuery
+# Moonbeans создают универсальный магазин данных NFT с помощью SubQuery
 
 ![](https://miro.medium.com/max/1400/0*WyB06V5POhvv7q4m)
 
-SubQuery is proud to announce a partnership with Moonbeans, a community focused NFT marketplace that has taken the Moonbeam and Moonriver ecosystems by storm. Moonbeans brings together artists, creators, and crypto enthusiasts on a single platform to create and trade the top NFTs on the Moonriver (and soon-to-be Moonbeam) network.
+SubQuery с гордостью объявляет о партнерстве с Moonbeans, торговой площадкой NFT, ориентированной на сообщество, которая штурмом взяла экосистемы Moonbeam и Moonriver. Moonbeans объединяет художников, создателей и криптоэнтузиастов на единой платформе для создания и торговли лучшими NFT в сети Moonriver (и вскоре Moonbeam).
 
-The team at MoonBeams have built a SubQuery project which serves as a complete one-stop shop for all the data that they require to run their web application. [Their project, which can be found in the SubQuery explorer](https://explorer.subquery.network/subquery/m00nbeans/marketplace-v3), aggregates events on their NFT marketplace and provides easy access to current listing data, trade history, and more.
+Команда MoonBeams создала SubQuery-проект, который служит полным универсальным магазином для всех данных, необходимых для запуска их веб-приложения. [Их проект, который можно найти в обозревателе SubQuery](https://explorer.subquery.network/subquery/m00nbeans/marketplace-v3), объединяет события на их торговой площадке NFT и обеспечивает легкий доступ к текущим данным листинга, истории торговли и многому другому.
 
 ![](https://miro.medium.com/max/1400/0*j4M8qDAU12se05uX)
 
-> _"The SubQuery team has been extraordinarily quick and helpful with getting us off the ground and collaborating with us in order to provide the best experience for our users - we look forward to continuing our work with them!"_ - Smol Bean (CTO & Co-Founder of Moonbeans)
+> _"Команда SubQuery была необычайно быстрой и полезной, помогая нам начать работу и сотрудничая с нами, чтобы обеспечить наилучший опыт для наших пользователей. Мы с нетерпением ждем продолжения нашей работы с ними!"_ - Смол Бин (технический директор и соучредитель Moonbeans)
 
-Moonbeans are well on their way to achieving their goal of becoming the native NFT platform of Moonbeam and Moonriver. Their future mission involves onboarding users from other EVMs onto 'Dotsama' (Polkadot and Kusama) by launching and cultivating communities on those chains too, a ride which SubQuery can travel alongside on, having recently announced [our expansion into Avalanche](../blogs/20220321-avalache.md) in pursuit of further multi-chain expansion.
+Moonbeans уже на пути к достижению своей цели — стать родной платформой NFT для Moonbeam и Moonriver. Их будущая миссия включает в себя подключение пользователей из других EVM к «Dotsama» (Polkadot и Kusama) путем запуска и развития сообществ в этих сетях, путь, в который SubQuery может отправиться вместе с недавно объявленным
+
+нашим расширением в Avalanche</0 > в погоне за дальнейшим multi-chain расширением.</p> 
+
+
 
 > _"Moonbeans have been able to harness SubQuery's aggregation and indexing capabilities to elevate their NFT marketplace data performance all within one excellent project. We look forward to being a part of their imminent arrival into the Moonbeam network."_ - James Bayly, Head of Business Development at SubQuery
 
@@ -18,11 +22,15 @@ Moonbeans are well on their way to achieving their goal of becoming the native N
 
 Moonbeans use [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. Check out this [SubQuery Snapshot](https://twitter.com/subquerynetwork/status/1497134283827339416?s=21) for an overview of Moonbeans and their project which can be found in the [SubQuery Explorer](https://explorer.subquery.network/) --- a project library managed by SubQuery and provided to the Polkadot community for free.
 
+
+
 ## About Moonbeans
 
 Moonbeans (BEANS) is the first dividend token on the Moonriver Network, and coming soon to Moonbeam. The Moonbeans NFT platform, The Galactic Trading Co., provides the highest profit-sharing available on the market! And don't worry, it's organic, extraterrestrially sourced, and alien cruelty-free. The platform features frictionless USDC dividends automatically rewarded to $BEANS holders, customizable rewards, a fully functional community DAO, and profit-sharing.
 
 [Website](http://moonbeans.io/) | [Twitter ](https://twitter.com/MoonBeansIO)| [Discord](http://discord.gg/qqE9aBPzQ9) | [Telegram](http://t.me/moonbeansio) |[Medium](https://medium.com/@MoonBeans)
+
+
 
 ## About SubQuery
 
