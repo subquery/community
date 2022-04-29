@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/1*zRR8l3aVZKth9Fw0rqL-lg.png)
 
-Hari ini kami dengan senang hati mengumumkan peluncuran testnet kami, "The Frontier". Testnet, kependekan dari jaringan uji, adalah jaringan yang digunakan oleh pengembang untuk menguji kode sebelum disebarkan ke jaringan utama (atau "Mainnet). Dalam kasus SubQuery, peluncuran testnet menandai tonggak penting dalam pengembangan kami saat kami maju menuju penyebaran penuh mainnet yang bertepatan dengan daftar token kami di bursa terpusat.
+Hari ini kami dengan senang hati mengumumkan peluncuran testnet kami, "The Frontier". Testnet, kependekan dari jaringan uji, adalah jaringan yang digunakan oleh pengembang untuk menguji kode sebelum disebarkan ke jaringan utama (atau "Mainnet). Dalam kasus SubQuery, peluncuran testnet menandai perjalanan penting dalam pengembangan kami saat kami maju menuju penyebaran penuh mainnet yang bertepatan dengan daftar token kami di bursa terpusat.
 
 Untuk menjalankan testnet secara efektif, kami memerlukannya untuk diuji oleh operator node berpengalaman yang ahli dalam menjalankan produksi dengan kinerja tinggi dan skalabel dengan pemantauan dan keamanan dompet/infrastruktur. [<0>Sejak <0>panggilan kami untuk pengindeks untuk berpartisipasi](./20211202-indexer-invitation.md) kami telah kewalahan oleh minat dari komunitas kami dan baru-baru ini menyetujui grup pengindeks awal yang akan segera menerima undangan mereka untuk berpartisipasi dalam SubQuery Frontier musim 1 & 2.
 
