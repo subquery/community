@@ -4,7 +4,7 @@
 
 เว็บไซต์สาธารณะมักเป็นสิ่งแรกที่ผู้คนได้เห็นและได้พบเมื่อค้นดูบริษัทหรือผลิตภัณฑ์ มันสามารถสร้างความประทับใจแรกพบ ภาพลักษณ์ของแบรนด์ในความทรงจำของคุณ และบอกเล่าเรื่องราวเบื้องหลังของสิ่งที่เรากำลังทำ วันนี้เรารู้สึกตื่นเต้นที่จะประกาศการเรื่องออกแบบและปรับปรุงเว็บไซต์ใหม่ของ SubQuery
 
-เราออกแบบเว็บไซต์ใหม่ด้วยเหตุผลสองประการ ประการแรก เราจำเป็นต้องปรับปรุงเว็บไซต์ให้ทันสมัยเพื่อให้สะท้อนถึงความคืบหน้าในปัจจุบันของ SubQuery และสะท้อนฐานะผู้นำในการจัดทำดัชนีข้อมูลมากขึ้น นับตั้งแต่การอัปเดตเว็บไซต์ครั้งล่าสุด เราได้พัฒนาขึ้นอย่างมากพร้อมๆกับการที่กำลังจะเปิดตัว SubQuery Network Secondly, we always want to improve our overall visual identity to create a better brand impression with our rapidly expanding community.
+เราออกแบบเว็บไซต์ใหม่ด้วยเหตุผลสองประการ ประการแรก เราจำเป็นต้องปรับปรุงเว็บไซต์ให้ทันสมัยเพื่อให้สะท้อนถึงความคืบหน้าในปัจจุบันของ SubQuery และสะท้อนฐานะผู้นำในการจัดทำดัชนีข้อมูลมากขึ้น นับตั้งแต่การอัปเดตเว็บไซต์ครั้งล่าสุด เราได้พัฒนาขึ้นอย่างมากพร้อมๆกับการที่กำลังจะเปิดตัว SubQuery Network ประการที่สอง เราต้องการปรับปรุงภาพรวมเพื่อสร้างความประทับใจที่มากขึ้นกับแบรนด์ด้วยคอมมูนิตี้ที่ขยายตัวอย่างรวดเร็วของเรา
 
 SubQuery, being a data indexing project, is all about the details. It's with this mentality that we chose this specific design and layout which emphasises moderate spacing between paragraphs for a more modern look and makes the content easier to read. Additionally, this provides page templates that are flexible and responsive, and that can be reused across the growing number of applications that SubQuery has. Combined, these updates give the user a much better experience navigating through what can be quite detailed and technical information.
 
