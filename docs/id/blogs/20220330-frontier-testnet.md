@@ -1,29 +1,29 @@
-# SubQuery Launches "The Frontier" Testnet
+# SubQuery Meluncurkan Testnet "The Frontier"
 
 ![](https://miro.medium.com/max/1400/1*zRR8l3aVZKth9Fw0rqL-lg.png)
 
-Today we are pleased to announce the launch of our testnet, "The Frontier". A testnet, short for test network, is a network used by developers to test code before it is deployed to the main network (or "Mainnet). In SubQuery's case, the launch of the testnet marks a critical milestone in our development as we progress towards the full deployment of mainnet which coincides with our token listing on centralised exchanges.
+Hari ini kami dengan senang hati mengumumkan peluncuran testnet kami, "The Frontier". Testnet, kependekan dari jaringan uji, adalah jaringan yang digunakan oleh pengembang untuk menguji kode sebelum disebarkan ke jaringan utama (atau "Mainnet). Dalam kasus SubQuery, peluncuran testnet menandai tonggak penting dalam pengembangan kami saat kami maju menuju penyebaran penuh mainnet yang bertepatan dengan daftar token kami di bursa terpusat.
 
-In order to run the testnet effectively, we require it to be battle-tested by experienced node operators who are experts in running high performance and scalable productions with monitoring and wallet/infrastructure security. Since our [call for indexers to participate](./20211202-indexer-invitation.md) we have been overwhelmed by the interest from our community and have recently approved an initial group of indexers who will soon receive their invitations to participate in SubQuery Frontier's seasons 1 & 2.
+Untuk menjalankan testnet secara efektif, kami memerlukannya untuk diuji oleh operator node berpengalaman yang ahli dalam menjalankan produksi dengan kinerja tinggi dan skalabel dengan pemantauan dan keamanan dompet/infrastruktur. [<0>Sejak <0>panggilan kami untuk pengindeks untuk berpartisipasi](./20211202-indexer-invitation.md) kami telah kewalahan oleh minat dari komunitas kami dan baru-baru ini menyetujui grup pengindeks awal yang akan segera menerima undangan mereka untuk berpartisipasi dalam SubQuery Frontier musim 1 & 2.
 
-Indexers in the SubQuery Network mark the transition of SubQuery to becoming a decentralised service as they will host and organise the blockchain data on their infrastructure. We expect that this will massively increase SubQuery's uptime, provide better redundancy, and increase performance by driving down latency.
+Pengindeks di Jaringan SubQuery menandai transisi SubQuery menjadi layanan terdesentralisasi karena mereka akan meng-host dan mengatur data blockchain pada infrastruktur mereka. Kami berharap ini akan meningkatkan waktu aktif SubQuery secara besar-besaran, memberikan redundansi yang lebih baik, dan meningkatkan kinerja dengan menurunkan latensi.
 
-Ian He, CTO of SubQuery, commented, _"SubQuery is excited about the launch of the SubQuery Frontier Testnet and what it represents to both ourselves and our loyal community. The choice of "Frontier" as our testnet name also denotes where we believe we are in the growth of Web3 and that we want Indexers to push beyond the limits."_
+Ian He, CTO SubQuery, berkomentar, _"SubQuery sangat antusias dengan peluncuran SubQuery Frontier Testnet dan apa yang diwakilinya bagi kami dan komunitas setia kami. Pilihan "Frontier" sebagai nama testnet kami juga menunjukkan di mana kami yakin kami berada dalam pertumbuhan Web3 dan bahwa kami ingin Pengindeks melampaui batas."_
 
-The Frontier Testnet will be rolled out in stages that we call "seasons, starting from April 11th. Each season will go for 2--3 weeks.
+Frontier Testnet akan diluncurkan secara bertahap yang kami sebut "musim, mulai dari 11 April. Setiap musim akan berlangsung selama 2-3 minggu.
 
-- Season 1. Early stage alpha testing of a limited number of features with less than 30 participants.
-- Season 2. Large beta testing of more features with more participants.
-- Season 3. Full public test network for load and scale testing --- open to all interested parties.
+- Musim 1. Pengujian alfa tahap awal dari sejumlah fitur terbatas dengan kurang dari 30 peserta.
+- Musim 2. Pengujian beta besar untuk lebih banyak fitur dengan lebih banyak peserta.
+- Musim 3. Jaringan uji publik penuh untuk pengujian beban dan skala --- terbuka untuk semua pihak yang berkepentingan.
 
 ![](https://miro.medium.com/max/1400/1*oWnMXGqndf5539Gml7gf-Q.png)
 
-The testnet is for development purposes and will undergo significant development enhancements during the seasons. More details are available on the SubQuery documentation website: https://university.subquery.network/
+Testnet adalah untuk tujuan pengembangan dan akan mengalami peningkatan pengembangan yang signifikan selama musim. Detail lebih lanjut tersedia di situs web dokumentasi SubQuery: https://university.subquery.network/
 
-For further information, please [contact our team in Discord](https://discord.com/invite/78zg8aBSMG).
+Untuk informasi lebih lanjut, silakan [hubungi tim kami di Discord](https://discord.com/invite/78zg8aBSMG).
 
-## About SubQuery Network
+## Tentang SubQuery Network
 
-[SubQuery](https://subquery.network) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot, Substrate and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+[SubQuery](https://subquery.network) adalah perangkat pengembang blockchain yang memungkinkan orang lain membangun aplikasi Web3 di masa depan. Proyek SubQuery adalah API lengkap untuk mengatur dan mengkueri data dari chain layer-1. Saat ini melayani proyek Polkadot, Substrate, dan Avalanche, data sebagai layanan ini memungkinkan pengembang untuk fokus pada kasus penggunaan inti dan front-end mereka, tanpa perlu membuang waktu untuk membangun backend khusus untuk pemrosesan data. Jaringan SubQuery mengusulkan untuk mengaktifkan solusi skalabel dan andal yang sama ini, tetapi dengan cara yang sepenuhnya terdesentralisasi.
 
 ​​​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
