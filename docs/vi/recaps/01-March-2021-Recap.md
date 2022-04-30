@@ -19,7 +19,7 @@ Chúng tôi chạy các dự án SubQuery trong đó giống như chúng là cá
 
 ## **SubQuery đã gọi vốn 1,8 triệu đô la vòng hạt giống để phục vụ việc mở rộng trong tương lai**
 
-SubQuery đã sẵn sàng để phát triển và bùng nổ! [We successfully raised a US$1.8 million seed round](../blogs/20210312-SubQuery-Raises-%241.8M-Seed-Round-for-Future-Expansion.md) and private sale backed primarily by DeFi Alliance, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG), and The Lao. Nhu cầu lớn mà chúng tôi nhận được để hỗ trợ vòng hạt giống của SubQuery cho thấy sự quan tâm mạnh mẽ đến các dịch vụ cơ sở hạ tầng và niềm tin vào tương lai của hệ sinh thái Polkadot.
+SubQuery đã sẵn sàng để phát triển và bùng nổ! [Chúng tôi đã huy động thành công vòng hạt giống 1,8 triệu đô la Mỹ](../blogs/20210312-SubQuery-Raises-%241.8M-Seed-Round-for-Future-Expansion.md) và vòng bán riêng tư được hỗ trợ chủ yếu bởi DeFi Alliance, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG) và The Lao. Nhu cầu lớn mà chúng tôi nhận được để hỗ trợ vòng hạt giống của SubQuery cho thấy sự quan tâm mạnh mẽ đến các dịch vụ cơ sở hạ tầng và niềm tin vào tương lai của hệ sinh thái Polkadot.
 
 _Chúng tôi đang lên kế hoạch mở bán/gọi vốn vòng riêng tư tiếp theo trong thời gian tới. Nếu bạn quan tâm vui lòng đăng ký tại đây:_ [_https://forms.gle/6LMapDNSidQAqy347_](https://forms.gle/6LMapDNSidQAqy347)
 
@@ -27,7 +27,7 @@ _Chúng tôi đang lên kế hoạch mở bán/gọi vốn vòng riêng tư ti�
 
 SubQuery tập trung tất cả vào việc cung cấp dịch vụ dữ liệu cho các đối tác và khách hàng. Mọi nhóm blockchain và những người xây dựng dApp đều có nhu cầu xử lý và truy vấn dữ liệu nhanh chóng và để giấc mơ web3 thành hiện thực, nó phải nhanh (nếu không muốn nói là nhanh hơn) so với các mạng tập trung cho người dùng cuối. Đó là lý do tại sao chúng tôi đang tăng cường hợp tác với các dự án Polkadot hàng đầu để cung cấp dịch vụ SubQuery miễn phí cho các giao thức của họ.
 
-[Earlier we launched our first partnership with our close friends at Acala](../customer_announcements/20210316-SubQuery-Integrates-Acala-to-Aggregate-and-Serve-DeFi-Data-to-Polkadot-and-Kusama-Builders.md) to allow users and developers to query and extract data from Acala’s DeFi hub for Polkadot in only minutes and at no cost. Khi bạn truy cập SubQuery Explorer, bạn sẽ được chào đón với Dự án Acala SubQuery mới. SubQuery này tự động theo dõi tất cả dữ liệu bên ngoài được tạo trên Acala và có thể nhanh chóng hiển thị số liệu thống kê tổng hợp có nguồn gốc cho những điều sau:
+[Trước đó, chúng tôi đã khởi động mối quan hệ hợp tác đầu tiên với những người bạn thân thiết của mình tại Acala](../customer_announcements/20210316-SubQuery-Integrates-Acala-to-Aggregate-and-Serve-DeFi-Data-to-Polkadot-and-Kusama-Builders.md) để cho phép người dùng và nhà phát triển truy vấn và trích xuất dữ liệu từ trung tâm DeFi của Acala cho Polkadot chỉ trong vài phút và hoàn toàn miễn phí. Khi bạn truy cập SubQuery Explorer, bạn sẽ được chào đón với Dự án Acala SubQuery mới. SubQuery này tự động theo dõi tất cả dữ liệu bên ngoài được tạo trên Acala và có thể nhanh chóng hiển thị số liệu thống kê tổng hợp có nguồn gốc cho những điều sau:
 
 - Dữ liệu lịch sử về những thay đổi thanh khoản (được chia nhỏ bởi các nhà cung cấp)
 - Dữ liệu lịch sử về tất cả các hoán đổi tài sản chuỗi chéo
@@ -35,11 +35,11 @@ SubQuery tập trung tất cả vào việc cung cấp dịch vụ dữ liệu c
 
 ![](https://miro.medium.com/max/1400/0*LOig1jNfPTuVk73D)
 
-You could create a dApp for lenders showing collateralization ratio, loan amount, interests accrued, etc. Or a service for decentralised exchanges with pair liquidity, pair exchange rate, trading volumes.
+Bạn có thể tạo một dApp cho người cho vay hiển thị tỷ lệ thế chấp, số tiền cho vay, lãi tích lũy,. Hoặc một dịch vụ cho các sàn giao dịch phi tập trung với tính thanh khoản của cặp, tỷ giá hối đoái, khối lượng giao dịch.
 
-We’re planning to improve our partnership tools very soon and are planning on onboarding other top protocols in the next week or two at a rapid pace.
+Chúng tôi đang có kế hoạch sớm cải thiện các công cụ đối tác của mình và đang lên kế hoạch giới thiệu các giao thức hàng đầu khác trong một hoặc hai tuần tới với tốc độ nhanh chóng.
 
-_Do you want to get started and create a new SubQuery project for your own dApp —_ [_get started now_](https://doc.subquery.network/quickstart.html)_. We’ll even host it in our_ [_SubQuery Explorer_](../blogs/20210305-Announcing-the-SubQuery-Explorer.md) _for free!_
+_Bạn có muốn bắt đầu và tạo một dự án SubQuery mới cho dApp của riêng bạn không - _ [_hãy bắt đầu ngay bây giờ_](https://doc.subquery.network/quickstart.html) _. Chúng tôi thậm chí sẽ lưu trữ nó trong_ [_SubQuery Explorer_](../blogs/20210305-Announcing-the-SubQuery-Explorer.md) _hoàn toàn miễn phí!_
 
 ## **Berkeley Blockchain Xcelerator**
 
