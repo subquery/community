@@ -1,39 +1,31 @@
-# Moonbeans Membuat Toko Data NFT Terlengkap dengan SubQuery
+# Moonbeans Create a One-Stop Shop of NFT Data with SubQuery
 
 ![](https://miro.medium.com/max/1400/0*WyB06V5POhvv7q4m)
 
-SubQuery dengan bangga mengumumkan kemitraan dengan Moonbeans, pasar NFT yang berfokus pada komunitas yang telah mengambil alih ekosistem Moonbeam dan Moonriver. Moonbeans menyatukan seniman, pencipta, dan penggemar kripto dalam satu platform untuk membuat dan memperdagangkan NFT teratas di jaringan Moonriver (dan yang akan segera menjadi Moonbeam).
+SubQuery is proud to announce a partnership with Moonbeans, a community focused NFT marketplace that has taken the Moonbeam and Moonriver ecosystems by storm. Moonbeans brings together artists, creators, and crypto enthusiasts on a single platform to create and trade the top NFTs on the Moonriver (and soon-to-be Moonbeam) network.
 
-Tim di MoonBeams telah membangun proyek SubQuery yang berfungsi sebagai toko serba ada lengkap untuk semua data yang mereka perlukan untuk menjalankan aplikasi web mereka. [Proyek mereka, yang dapat ditemukan di penjelajah SubQuery](https://explorer.subquery.network/subquery/m00nbeans/marketplace-v3), mengumpulkan peristiwa di pasar NFT mereka dan menyediakan akses mudah ke data daftar terkini, riwayat perdagangan, dan banyak lagi.
+The team at MoonBeams have built a SubQuery project which serves as a complete one-stop shop for all the data that they require to run their web application. [Their project, which can be found in the SubQuery explorer](https://explorer.subquery.network/subquery/m00nbeans/marketplace-v3), aggregates events on their NFT marketplace and provides easy access to current listing data, trade history, and more.
 
 ![](https://miro.medium.com/max/1400/0*j4M8qDAU12se05uX)
 
-> _"Tim SubQuery sangat cepat dan sangat membantu dalam membantu kami memulai dan berkolaborasi dengan kami untuk memberikan pengalaman terbaik bagi pengguna kami - kami berharap dapat melanjutkan pekerjaan kami dengan mereka!"_ - Smol Bean (CTO & Co-Founder of Moonbeans)
+> _"The SubQuery team has been extraordinarily quick and helpful with getting us off the ground and collaborating with us in order to provide the best experience for our users - we look forward to continuing our work with them!"_ - Smol Bean (CTO & Co-Founder of Moonbeans)
 
-Moonbeans sedang dalam perjalanan untuk mencapai tujuan mereka menjadi platform NFT asli Moonbeam dan Moonriver. Misi masa depan mereka melibatkan orientasi pengguna dari EVM lain ke 'Dotsama' (Polkadot dan Kusama) dengan meluncurkan dan mengembangkan komunitas di rantai tersebut juga, perjalanan yang dapat dilalui SubQuery, setelah baru-baru ini mengumumkan
+Moonbeans are well on their way to achieving their goal of becoming the native NFT platform of Moonbeam and Moonriver. Their future mission involves onboarding users from other EVMs onto 'Dotsama' (Polkadot and Kusama) by launching and cultivating communities on those chains too, a ride which SubQuery can travel alongside on, having recently announced [our expansion into Avalanche](../blogs/20220321-avalache.md) in pursuit of further multi-chain expansion.
 
-ekspansi kami ke Avalanche</0 > dalam mengejar ekspansi multi-rantai lebih lanjut.</p> 
-
-
-
-> _"Moonbeans telah mampu memanfaatkan agregasi SubQuery dan kemampuan pengindeksan untuk meningkatkan kinerja data pasar NFT mereka semua dalam satu proyek yang sangat baik. Kami berharap dapat menjadi bagian dari kedatangan mereka ke jaringan Moonbeam."_ - James Bayly, Kepala Pengembangan Bisnis di SubQuery
+> _"Moonbeans have been able to harness SubQuery's aggregation and indexing capabilities to elevate their NFT marketplace data performance all within one excellent project. We look forward to being a part of their imminent arrival into the Moonbeam network."_ - James Bayly, Head of Business Development at SubQuery
 
 ![](https://miro.medium.com/max/1400/0*-FlPYXDl_QKfz9s5)
 
-Moonbeans menggunakan [Proyek SubQuery](https://project.subquery.network/) untuk mengelola proyek mereka sendiri dan membuat pembaruan sesuai kebutuhan. Lihat [Snapshot SubQuery](https://twitter.com/subquerynetwork/status/1497134283827339416?s=21) ini untuk ikhtisar Moonbeans dan proyeknya yang dapat ditemukan di [SubQuery Explorer](https://explorer.subquery.network/) --- perpustakaan proyek yang dikelola oleh SubQuery dan disediakan untuk komunitas Polkadot gratis.
+Moonbeans use [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. Check out this [SubQuery Snapshot](https://twitter.com/subquerynetwork/status/1497134283827339416?s=21) for an overview of Moonbeans and their project which can be found in the [SubQuery Explorer](https://explorer.subquery.network/) --- a project library managed by SubQuery and provided to the Polkadot community for free.
 
+## About Moonbeans
 
-
-## Tentang Moonbeans
-
-Moonbeans (BEANS) adalah token dividen pertama di Jaringan Moonriver, dan segera hadir di Moonbeam. Platform NFT Moonbeans, The Galactic Trading Co., menyediakan bagi hasil tertinggi yang tersedia di pasar! Dan jangan khawatir, ini organik, bersumber dari luar angkasa, dan bebas dari kekejaman alien. Platform ini menampilkan dividen USDC tanpa gesekan yang secara otomatis diberikan kepada pemegang $BEANS, hadiah yang dapat disesuaikan, DAO komunitas yang berfungsi penuh, dan pembagian keuntungan.
+Moonbeans (BEANS) is the first dividend token on the Moonriver Network, and coming soon to Moonbeam. The Moonbeans NFT platform, The Galactic Trading Co., provides the highest profit-sharing available on the market! And don't worry, it's organic, extraterrestrially sourced, and alien cruelty-free. The platform features frictionless USDC dividends automatically rewarded to $BEANS holders, customizable rewards, a fully functional community DAO, and profit-sharing.
 
 [Website](http://moonbeans.io/) | [Twitter ](https://twitter.com/MoonBeansIO)| [Discord](http://discord.gg/qqE9aBPzQ9) | [Telegram](http://t.me/moonbeansio) |[Medium](https://medium.com/@MoonBeans)
 
-
-
 ## Tentang SubQuery
 
-SubQuery is a blockchain developer toolkit enabling others to build Web3 applications of the future. Proyek SubQuery adalah API lengkap untuk mengatur dan meminta data dari chain. Saat ini berfokus pada proyek Polkadot dan Substrat, data sebagai layanan ini memungkinkan pengembang untuk fokus pada kasus penggunaan inti dan front-end mereka, tanpa perlu membuang waktu untuk membangun backend khusus untuk pemrosesan data. Jaringan SubQuery mengusulkan untuk mengaktifkan solusi yang skalabel dan berkinerja sama ini, tetapi dengan cara yang sepenuhnya terdesentralisasi.
+SubQuery is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot, Substrate and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
