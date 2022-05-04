@@ -1,12 +1,12 @@
-# Subquery เปิดตัวเว็บไซต์ใหม่
+# Announcing SubQuery's New Website
 
 ![](https://miro.medium.com/max/1400/0*AnB_ILxq6i0kKz2Y)
 
-เว็บไซต์สาธารณะมักเป็นสิ่งแรกที่ผู้คนได้เห็นและได้พบเมื่อค้นดูบริษัทหรือผลิตภัณฑ์ มันสามารถสร้างความประทับใจแรกพบ ภาพลักษณ์ของแบรนด์ในความทรงจำของคุณ และบอกเล่าเรื่องราวเบื้องหลังของสิ่งที่เรากำลังทำ วันนี้เรารู้สึกตื่นเต้นที่จะประกาศการเรื่องออกแบบและปรับปรุงเว็บไซต์ใหม่ของ SubQuery
+The public website is often the first thing people see and visit when looking at a company or product. It can create a lasting first impression, imprint a brand in your memory, and communicate the story behind what we do. Today we are excited to announce a new and improved website design for SubQuery.
 
-เราออกแบบเว็บไซต์ใหม่ด้วยเหตุผลสองประการ ประการแรก เราจำเป็นต้องปรับปรุงเว็บไซต์ให้ทันสมัยเพื่อให้สะท้อนถึงความคืบหน้าในปัจจุบันของ SubQuery และสะท้อนฐานะผู้นำในการจัดทำดัชนีข้อมูลมากขึ้น นับตั้งแต่การอัปเดตเว็บไซต์ครั้งล่าสุด เราได้พัฒนาขึ้นอย่างมากพร้อมๆกับการที่กำลังจะเปิดตัว SubQuery Network ประการที่สอง เราต้องการปรับปรุงภาพรวมเพื่อสร้างความประทับใจที่มากขึ้นกับแบรนด์ด้วยคอมมูนิตี้ที่ขยายตัวอย่างรวดเร็วของเรา
+We redesigned our website for two main reasons. Firstly we needed to refresh and modernise the site to reflect more accurately the current progress of SubQuery and its status as a leader in data indexing. Since our last website update, we have evolved significantly with the impending launch of the SubQuery Network. Secondly, we always want to improve our overall visual identity to create a better brand impression with our rapidly expanding community.
 
-SubQuery เป็นโปรเจ็กต์ดัชนีข้อมูล นั่นคือทั้งหมด It's with this mentality that we chose this specific design and layout which emphasises moderate spacing between paragraphs for a more modern look and makes the content easier to read. Additionally, this provides page templates that are flexible and responsive, and that can be reused across the growing number of applications that SubQuery has. Combined, these updates give the user a much better experience navigating through what can be quite detailed and technical information.
+SubQuery, being a data indexing project, is all about the details. It's with this mentality that we chose this specific design and layout which emphasises moderate spacing between paragraphs for a more modern look and makes the content easier to read. Additionally, this provides page templates that are flexible and responsive, and that can be reused across the growing number of applications that SubQuery has. Combined, these updates give the user a much better experience navigating through what can be quite detailed and technical information.
 
 ![](https://miro.medium.com/max/1400/1*rqmuhuC5rdV7sZN2AwokZQ.png)
 
@@ -40,7 +40,7 @@ The final stage of our process was to test the prototypes we had designed. This 
 
 We hope you enjoy the website as much as we do! Take a look today at https://subquery.network
 
-## About SubQuery
+## เกี่ยวกับ SubQuery
 
 [SubQuery](https://subquery.network) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from Layer-1 chains. Currently servicing Polkadot, Substrate, and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
