@@ -1,22 +1,22 @@
-# SubQuery 公告
+# Announcing SubQuery
 
-## 转换并查询全球未来的 web3.0 数据
+## 变换并查询全球未来的 web3.0 数据
 
 ![](https://miro.medium.com/max/1400/1*J5u22qNxndcuCrFJ1mfGqg.png)
 
-OnFinality 的任务是通过向所有类型和体量的客户提供基础设施服务来支持区块链开发人员。 我们正在启动一个新的事业，旨在通过解决一个核心问题来推动这项任务：SubQuery。
+OnFinality’s mission is to support blockchain developers by providing infrastructure services to customers of all shapes and sizes. We’re launching a new venture that aims to solve a core problem to advance this mission: SubQuery.
 
-几乎每个区块链都需要处理和查询数据。 蓬勃发展的 Polkadot 社区将需要这种服务，使他们能够很快可靠地找到和消费数据。 我们的项目受到 [The Graph](https://thegraph.com/) 的启发，这项服务目前侧重于在以太坊上，它允许客户使用 GraphQL 来做到这一点。
+Almost every blockchain has a need to process and query data. The thriving Polkadot community is going to need a service that allows them to reliably find and consume data quickly. Our project is inspired by [The Graph](https://thegraph.com/), an service currently focused on Ethereum that allows customers to do this using GraphQL.
 
-由于去中心化的系统中跨网络查询数据是缓慢和艰难的。 为了实现 Web 3.0 的梦想，对于终端用户来说它将比中心化网络更快。 目前已有的协议，都在为自己的项目建立中心化的数据索引服务器，但这带来了三个问题：
+Since decentralised systems store data across networks querying is slow and hard. For the Web 3.0 dream to be realised, it’s got to be as fast (if not faster) than centralised networks for the end user. Protocol teams are currently building centralised indexing servers for their own projects, but this poses three issues:
 
-- Polkadot/ Substrate 团队在构建下一款 dApp 的时候不应该去考虑创建和管理数据索引服务器。
-- 各个团队将不断地复活造轮子；Polkadot 的可互用性的根本优势是避免这种情况发生。
-- 我们认为，Substrate/Polkadot 生态系统即将达到与以太链为基础的同样的增长水平， 并且它将提供与以太坊一样的社区服务。
+- Polkadot/Substrate teams shouldn’t need to worry about building or managing this while they’re building the next dApp
+- Teams are constantly reinventing the wheel; the fundamental advantage of Polkadot’s parachain interoperability is to avoid this
+- In our view, the Substrate/Polkadot ecosystem is poised to reach the same level of growth as Ethereum. We believe that it needs to provide the same level of community services that Ethereum already has
 
 ![](https://miro.medium.com/max/1400/1*l4b4BXWkczVDaHyv30lLQQ.png)
 
-Subquery 的目的是帮助 Polkadot/Substrate 项目建立更好的 dApp ，让任何人都能更快地找到和索引数据。 我们的服务将允许用户提取、转换、保持和查询数据，以及在未来可以连接和提供数据。 而我们的目标是使之成为 Substrate/Polkadot 生态系统的核心基础设施，就像 The Graph 已经成为以太坊上的基础设施一样。
+SubQuery’s aim is to help Polkadot/Substrate projects build better dApps by allowing anyone to reliably find and consume data faster. Our service will allow users to extract, transform, persist, and query data initially, as well as connect and present data in the future. Our aim is to make this a core piece of infrastructure for the Substrate/Polkadot ecosystem, just as The Graph has become for Ethereum.
 
 **SubQuery is here to help you transform and query the world’s data for a web3.0 future.**
 
