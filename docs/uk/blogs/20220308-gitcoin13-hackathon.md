@@ -1,8 +1,8 @@
-# SubQuery Provides Web3 Developers More Opportunities via Gitcoin Hackathon
+# SubQuery надає розробникам Web3 більше можливостей завдяки Gitcoin Hackathon
 
 ![](https://miro.medium.com/max/1400/0*LdQoekBCsctSL0Po)
 
-Today we are excited to announce the continuation of our partnership with Gitcoin to run a second hackathon via Gitcoin Grants Round 13 starting on March 9th.
+Сьогодні ми раді оголосити про продовження нашого партнерства з Gitcoin, щоб провести другий хакатон через 13 раунд Gitcoin Grants, який почнеться 9 березня.
 
 SubQuery's mission of making the world's decentralised data more accessible relies on having a network of developers who are empowered to create and innovate. After running our first Gitcoin Hackathon in December 2021 and achieving fantastic results with many talented developers it was an easy decision to extend our partnership.
 
