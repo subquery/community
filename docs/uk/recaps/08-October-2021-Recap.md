@@ -54,13 +54,13 @@ To find out more about our Spartan programme and participate in our November com
 
 [Переходьте за цим посиланням, щоб дізнатися бiльше про Академію SubQuery](../blogs/20211018-subquery-launches-the-subquery-academy.md)
 
-### Community Call
+### Дзвінки з ком'юніті
 
 28 жовтня ми провели нашу першу зустріч із спільнотою у форматі дзвінка, щоб поділитися деталями нашої дорожньої карти та розповісти про останні новини нашої спільноти. Нам дуже сподобався цей формат зустрічі, де ми змогли відповісти на багато питань нашої спільноти, які її цікавили вже довгий час. Ми дякуємо всім, хто зміг приєднатися до цієї зустрічі. Ми плануємо проводити зустрічі такого формату на регулярній основі. Присутні також мали можливість познайомитися з нашим новим ком'юніті менеджером Sally, яка приєдналася до нашої команди на початку жовтня.
 
 [У вас є можливість переглянути запис жовтневої сесії за цим посиланням](https://www.crowdcast.io/e/subquery-sessions-october)
 
-## Other things you might have missed
+## Інші речі, які ви могли пропустити
 
 - We’ve partnered with Acala to provide the [largest pool of prizes for the Encode Club Polkadot Hackathons](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e).
 - [SubQuery допомагає Khala створити новий міст ERC20](../customer_announcements/20211021-khala.md)
