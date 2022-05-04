@@ -1,47 +1,47 @@
-# Mengumumkan Situs Web Baru SubQuery
+# Announcing SubQuery's New Website
 
 ![](https://miro.medium.com/max/1400/0*AnB_ILxq6i0kKz2Y)
 
-Situs web publik sering kali menjadi hal pertama yang dilihat dan dikunjungi orang saat melihat perusahaan atau produk. Itu dapat menciptakan kesan pertama yang bertahan lama, membekaskan merek dalam ingatan Anda, dan mengomunikasikan kisah di balik apa yang kami lakukan. Hari ini kami dengan senang hati mengumumkan desain situs web baru dan lebih baik untuk SubQuery.
+The public website is often the first thing people see and visit when looking at a company or product. It can create a lasting first impression, imprint a brand in your memory, and communicate the story behind what we do. Today we are excited to announce a new and improved website design for SubQuery.
 
-Kami mendesain ulang situs web kami karena dua alasan utama. Pertama, kami perlu menyegarkan dan memodernisasi situs untuk mencerminkan kemajuan SubQuery saat ini secara lebih akurat dan statusnya sebagai pemimpin dalam pengindeksan data. Sejak pembaruan situs web terakhir kami, kami telah berkembang secara signifikan dengan peluncuran Jaringan SubQuery yang akan datang. Kedua, kami selalu ingin meningkatkan identitas visual kami secara keseluruhan untuk menciptakan kesan merek yang lebih baik dengan komunitas kami yang berkembang pesat.
+We redesigned our website for two main reasons. Firstly we needed to refresh and modernise the site to reflect more accurately the current progress of SubQuery and its status as a leader in data indexing. Since our last website update, we have evolved significantly with the impending launch of the SubQuery Network. Secondly, we always want to improve our overall visual identity to create a better brand impression with our rapidly expanding community.
 
-SubQuery, sebagai proyek pengindeksan data, adalah tentang detailnya. Dengan mentalitas inilah kami memilih desain dan tata letak khusus yang menekankan jarak moderat antar paragraf untuk tampilan yang lebih modern dan membuat konten lebih mudah dibaca. Selain itu, ini menyediakan templat halaman yang fleksibel dan responsif, dan dapat digunakan kembali di berbagai aplikasi yang dimiliki SubQuery yang jumlahnya terus bertambah. Gabungan, pembaruan ini memberi pengguna pengalaman yang jauh lebih baik dalam menavigasi melalui apa yang bisa sangat detail dan informasi teknis.
+SubQuery, being a data indexing project, is all about the details. It's with this mentality that we chose this specific design and layout which emphasises moderate spacing between paragraphs for a more modern look and makes the content easier to read. Additionally, this provides page templates that are flexible and responsive, and that can be reused across the growing number of applications that SubQuery has. Combined, these updates give the user a much better experience navigating through what can be quite detailed and technical information.
 
 ![](https://miro.medium.com/max/1400/1*rqmuhuC5rdV7sZN2AwokZQ.png)
 
-Kembali ke prinsip pertama desain situs web, kami selalu mengingat pengguna akhir. Untuk mencapai tujuan kami, kami berpegang pada prinsip-prinsip utama seperti membangun hierarki visual yang kuat di seluruh elemen seperti tipografi dan pengelompokan konten. Selain itu, mengingat materi pelajaran, penting bagi kami untuk memastikan bahwa konten dapat diakses dan responsif serta tidak membanjiri audiens dengan terlalu banyak informasi.
+Going back to first principles of website design, we kept the end-user firmly in our mind. In order to achieve our goal, we stuck to key principles such as establishing a strong visual hierarchy across elements such as typography and content grouping. Furthermore, given the subject matter it was important that we ensured that the content was accessible and responsive and didn't overwhelm the audience with too much information.
 
-Proses desain UI kami melalui lima langkah yang memberi kami kesempatan untuk membuat desain yang berpusat pada pengguna dan berhasil mempertimbangkan prinsip-prinsip pemasaran berbasis nilai.
+Our UI design process went through five steps which gives us the opportunity to create user-centred design and successfully consider value based marketing principles.
 
-## Langkah 1: Berempati
+## Step 1: Empathise
 
-Tujuan selama tahap ini adalah untuk memahami untuk siapa kita mendesain. Menciptakan persona pelanggan adalah cara yang baik untuk membantu mewakili sekelompok orang tertentu dengan perilaku, kebutuhan, tujuan, dan sikap yang serupa. Pemahaman ini memungkinkan kami untuk membuat keputusan yang tepat tentang fitur produk, navigasi, desain visual, dan banyak lagi.
+The goal during this stage is to understand who we design for. Creating customer personas are a good way to help represent a particular group of people with similar behaviour, needs, goals, and attitudes. This understanding allowed us to make the right decisions about product features, navigation, visual design, and much more.
 
-## Langkah 2: Tentukan
+## Step 2: Define
 
-Langkah selanjutnya adalah mendefinisikan wawasan yang diidentifikasi dalam tahap Empathize, kami melihat untuk menentukan kebutuhan, masalah, dan wawasan pengguna kami. Sekali lagi, proses ini adalah untuk memiliki pemahaman yang lebih baik tentang apa yang sebenarnya dibutuhkan pengguna kami sebelum kami mulai mencari untuk memberikan apa yang kami pikir mereka butuhkan.
+The next step was to define these insights identified in the Empathise stage, we looked to define our users needs, problems, and insights. Once again, this process is to have a better understanding of exactly what our users need before we start looking to provide what we think they need.
 
-## Langkah 3: Ide
+## Step 3: Ideate
 
-Berdasarkan dua langkah sebelumnya, kami kemudian mencari ide berbagai opsi desain yang berbeda untuk memastikan mempertimbangkan pengguna dengan setiap keputusan yang dibuat.
+Based on the previous two steps we then looked to ideate various different design options making sure to consider the user with every decision made.
 
-## Langkah 4: Prototipe
+## Step 4: Prototype
 
-Setelah melalui proses ide, kami melihat ke prototipe desain khusus yang menurut kami paling mencerminkan kebutuhan pengguna kami dan memecahkan masalah yang mereka miliki.
+After going through the ideation process we looked to prototype specific designs we think best reflect the needs of our users and best solve the problems they have.
 
-## Langkah 5: Pengujian
+## Step 5: Test
 
-Tahap akhir dari proses kami adalah menguji prototipe yang telah kami rancang. Ini memungkinkan kami untuk memastikan bahwa perubahan yang kami buat efektif.
+The final stage of our process was to test the prototypes we had designed. This allowed us to ensure that the changes we have made are effective.
 
 ![](https://miro.medium.com/max/1400/1*AMO1WP2Yg1MtNht22gIeaw.png)
 
-> _"SubQuery memiliki ambisi yang berani dan kami membutuhkan identitas visual terbaru yang mencerminkan visi tersebut. Dengan memodernisasi tata letak kami dan meningkatkan hierarki visual dengan tipografi dan warna baru, kami memberikan pengalaman dan wawasan baru kepada pengunjung situs web kami tentang SubQuery. Secara pribadi, saya penggemar berat ilustrasi baru yang dibuat untuk testnet Frontier kami karena mereka menciptakan dimensi ekstra dalam evolusi kisah merek kami"_ - Cassie Wang, Desainer UX di SubQuery
+> _"SubQuery has bold ambitions and we needed an updated visual identity that reflects that vision. By modernising our layout and improving the visual hierarchy with new typography and colours, we provide our website visitors a fresh experience and insight into SubQuery. Personally, I'm a big fan of the new illustrations which were created for our Frontier testnet as they create an extra dimension in the evolution of our brand story"_ - Cassie Wang, UX Designer at SubQuery
 
-Kami harap Anda menikmati situs web ini sama seperti kami! Lihat hari ini di https://subquery.network
+We hope you enjoy the website as much as we do! Take a look today at https://subquery.network
 
 ## Tentang SubQuery
 
-[SubQuery](https://subquery.network) adalah perangkat pengembang blockchain yang memungkinkan orang lain membangun aplikasi Web3 di masa depan. Proyek SubQuery adalah API lengkap untuk mengatur dan meminta data dari chain. Saat ini berfokus pada proyek Polkadot dan Substrat, data sebagai layanan ini memungkinkan pengembang untuk fokus pada kasus penggunaan inti dan front-end mereka, tanpa perlu membuang waktu untuk membangun backend khusus untuk pemrosesan data. Jaringan SubQuery mengusulkan untuk mengaktifkan solusi yang skalabel dan berkinerja sama ini, tetapi dengan cara yang sepenuhnya terdesentralisasi.
+[SubQuery](https://subquery.network) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from Layer-1 chains. Currently servicing Polkadot, Substrate, and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
