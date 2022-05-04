@@ -1,24 +1,24 @@
-# Announcing SubQuery's New Website
+# Анонс нового сайту SubQuery
 
 ![](https://miro.medium.com/max/1400/0*AnB_ILxq6i0kKz2Y)
 
-The public website is often the first thing people see and visit when looking at a company or product. It can create a lasting first impression, imprint a brand in your memory, and communicate the story behind what we do. Today we are excited to announce a new and improved website design for SubQuery.
+Вебсайт часто є першим, що люди бачать і відвідують під час перегляду компанії чи продукту. Це може створити стійке перше враження, відбити бренд у вашій пам’яті та передати історію того, що ми робимо. Сьогодні нам приємно повідомити про новий і покращений дизайн веб-сайту для SubQuery.
 
-We redesigned our website for two main reasons. Firstly we needed to refresh and modernise the site to reflect more accurately the current progress of SubQuery and its status as a leader in data indexing. Since our last website update, we have evolved significantly with the impending launch of the SubQuery Network. Secondly, we always want to improve our overall visual identity to create a better brand impression with our rapidly expanding community.
+Ми переробили свій сайт з двох основних причин. По-перше, нам потрібно було оновити та модернізувати сайт, щоб точніше відображати поточний прогрес SubQuery та його статус лідера в індексації даних. Після нашого останнього оновлення веб-сайту ми значно розвинулися завдяки запуску мережі SubQuery. По-друге, ми завжди хочемо покращувати нашу загальну візуальну ідентичність, щоб створити краще враження про бренд у нашій спільноті, яка швидко розширюється.
 
-SubQuery, being a data indexing project, is all about the details. It's with this mentality that we chose this specific design and layout which emphasises moderate spacing between paragraphs for a more modern look and makes the content easier to read. Additionally, this provides page templates that are flexible and responsive, and that can be reused across the growing number of applications that SubQuery has. Combined, these updates give the user a much better experience navigating through what can be quite detailed and technical information.
+SubQuery, будучи проектом індексації даних, стосується деталей. Саме з такою ментальністю ми вибрали цей специфічний дизайн та макет, який підкреслює помірний інтервал між абзацами для більш сучасного вигляду та полегшує читання вмісту. Крім того, він надає шаблони сторінок, які є гнучкими та респонсивними, і які можна повторно використовувати для зростаючого числа додатків SubQuery. У поєднанні ці оновлення дають користувачеві набагато кращий досвід у навігації через досить детальну та технічну інформацію.
 
 ![](https://miro.medium.com/max/1400/1*rqmuhuC5rdV7sZN2AwokZQ.png)
 
-Going back to first principles of website design, we kept the end-user firmly in our mind. In order to achieve our goal, we stuck to key principles such as establishing a strong visual hierarchy across elements such as typography and content grouping. Furthermore, given the subject matter it was important that we ensured that the content was accessible and responsive and didn't overwhelm the audience with too much information.
+Повертаючись до перших принципів дизайну веб-сайтів, ми твердо пам’ятали про кінцевого користувача. Щоб досягти нашої мети, ми дотримувались таких ключових принципів, як встановлення міцної візуальної ієрархії між елементами, такими як типографіка та групування вмісту. Крім того, враховуючи тему, було важливо, щоб вміст був доступним і респонсивним і не перевантажував аудиторію великою кількістю інформації.
 
-Our UI design process went through five steps which gives us the opportunity to create user-centred design and successfully consider value based marketing principles.
+Наш процес розробки інтерфейсу користувача проходив п’ять кроків, що дає нам можливість створити орієнтований на користувача дизайн та успішно врахувати значущі маркетингові принципи.
 
-## Step 1: Empathise
+## Крок 1: Емпатизація
 
-The goal during this stage is to understand who we design for. Creating customer personas are a good way to help represent a particular group of people with similar behaviour, needs, goals, and attitudes. This understanding allowed us to make the right decisions about product features, navigation, visual design, and much more.
+Мета на цьому етапі - зрозуміти, для кого ми створюємо дизайн. Створення особистого характеру клієнтів є хорошим способом представити конкретну групу людей з подібною поведінкою, потребами, цілями та ставленням. Таке розуміння дозволило нам приймати правильні рішення про функції продукту, навігацію, візуальний дизайн та багато іншого.
 
-## Step 2: Define
+## Крок 2: Визначення
 
 The next step was to define these insights identified in the Empathise stage, we looked to define our users needs, problems, and insights. Once again, this process is to have a better understanding of exactly what our users need before we start looking to provide what we think they need.
 
