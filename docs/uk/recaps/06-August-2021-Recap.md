@@ -18,7 +18,7 @@
 
 ![](https://miro.medium.com/max/1400/0*_nOcsPjhQxta_FPH)
 
-After [launching our Ambassador program](../blogs/20210713-Introducing-the-SubQuery-Ambassador-Program.md) last month, we have been amazed by the excitement in the community and quality of the participants. На сьогоднішній день ми отримали трохи менше 2000 заявок майже з кожного континента (ми закликаємо подати заявки з Антарктиди ☃️) і наразі залучили понад 30 осіб.
+Після [запуску амбасадорської програми](../blogs/20210713-Introducing-the-SubQuery-Ambassador-Program.md) минулого місяця, ми були вражені зацікавленістю спільноти та якістю учасників. На сьогоднішній день ми отримали трохи менше 2000 заявок майже з кожного континента (ми закликаємо подати заявки з Антарктиди ☃️) і наразі залучили понад 30 осіб.
 
 Tre чудово справляється з цією ініціативою та [співпрацює зі спільнотою у Discord](https://discord.com/invite/78zg8aBSMG). Оскільки ми вже бачимо переваги тісніших стосунків із прихильниками SubQuery, ми розширимо команду протягом наступних кількох тижнів, тому будьте терплячі, якщо ви ще не отримали відповіді від нас!
 
@@ -32,7 +32,7 @@ Tre чудово справляється з цією ініціативою т�
 
 ## Почалась робота над мережею SubQuery 🏗
 
-Так! The work on [moving SubQuery towards a decentralised and tokenised network](../blogs/20210614-Introducing-SubQuery-Network-The-Next-Big-Step-Towards-our-Decentralised-Future.md); the SubQuery Network, has begun! Ця міграція забезпечить відсутність єдиної точки відмови для SubQuery та заохотить учасників за допомогою токена SQT. Щоб допомогти нам із цією суттєвою зміною, цього місяця ми залучили до нас нових розробників.
+Так! Робота над [переміщенням SubQuery до децентралізованої та токенізованої мережі](../blogs/20210614-Introducing-SubQuery-Network-The-Next-Big-Step-Towards-our-Decentralised-Future.md); мережа SubQuery розпочалась! Ця міграція забезпечить відсутність єдиної точки відмови для SubQuery та заохотить учасників за допомогою токена SQT. Щоб допомогти нам із цією суттєвою зміною, цього місяця ми залучили до нас нових розробників.
 
 ## Нові проекти на SubQuery 🤝
 
@@ -40,17 +40,17 @@ Tre чудово справляється з цією ініціативою т�
 
 У серпні ми запустили кілька нових проектів на SubQuery включно з тими, хто має Subscan, Karura, Subkaswap, Polkaswap і Soramitsu.
 
-For Karura, [SubQuery is being used to extract and query data from Karura's chain](../customer_announcements/20210819-Karura-Integrates-with-SubQuery-to-Aggregate-and-Serve-DeFi-Data-to-Kusama-Builders.md), making queries fast and efficient for [Karura's app](https://apps.karura.network/).
+У випадку з Karura [SubQuery використовується для вилучення та запиту даних мережі Karura](../customer_announcements/20210819-Karura-Integrates-with-SubQuery-to-Aggregate-and-Serve-DeFi-Data-to-Kusama-Builders.md), створення запитів швидко та ефективно для [додатку Karura](https://apps.karura.network/).
 
-SubQuery's service is playing a key role in [Subscan](https://www.subscan.io/) by [providing fast data on transactions](../customer_announcements/20210901-Subscans-Multi-Signature-Tool.md) for any given multi signature address, thereby improving the UX and allowing for more advanced features.
+Служба SubQuery відіграє ключову роль у [Subscan](https://www.subscan.io/), [ надаючи швидкі дані про транзакції](../customer_announcements/20210901-Subscans-Multi-Signature-Tool.md) для будь-якої адреси з багатьма підписами, тим самим покращуючи UX та надаючи можливість для розширення функцій.
 
-[SORA](https://sora.org/) has built a [SubQuery Project that retrieves data from the SORA network](../customer_announcements/20210825-SORA-Integrates-SubQuery-to-Provide-Data-to-the-SORA-Network.md) to power mobile applications built on SORA and [Polkaswap.io](http://polkaswap.io/). Детальніше тут
+[SORA](https://sora.org/) створила [проект SubQuery, який отримує дані з мережі SORA](../customer_announcements/20210825-SORA-Integrates-SubQuery-to-Provide-Data-to-the-SORA-Network.md) для живлення мобільних додатків, побудованих на SORA та [Polkaswap.io](http://polkaswap.io/). Детальніше тут
 
 Ми дуже вдячні нашим партнерам за такі відгуки:
 
 *"Використання SubQuery полегшує розробку dapps, більше не потрібно робити складні серії запитів, щоб отримати потрібні дані.*--- Брет ( розробник Acala)
 
-_"SubQuery has been the ideal solution for our needs because the application is easy to deploy and manage, it is easy to learn and develop as well as being well documented, and it also has its own infrastructure with Github integration"_ - SORA Development Team
+_"SubQuery є ідеальним рішенням для наших потреб, оскільки програму легко розгорнути та управляти нею, легко вивчати та розробляти, вона має гарну документацію, а також має власну інфраструктуру з інтеграцією в Github"_ - команда розробників SORA
 
 [ Ви можете легко переглянути всі проекти за допомогою нашого провідника тут ](https://explorer.subquery.network/).
 
