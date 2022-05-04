@@ -1,8 +1,8 @@
-# SubQuery partners with SubWallet to Enhance User Access to Multi-Chain Data
+# SubQuery співпрацює з SubWallet для покращення доступу до Multi-Chain даних
 
 ![](https://miro.medium.com/max/1400/0*WrTfOuh_9W9uOs_s)
 
-SubQuery is delighted to announce an integration partnership with [SubWallet](https://subwallet.app/), a new multi-chain wallet for the Dotsama ecosystem. SubWallet makes it easy to track, send, receive and sign transactions on DeFi and GameFi applications and supports over 40 different parachains in the Dotsama network.
+SubQuery з радістю оголошує про інтеграційне партнерство з [SubWallet](https://subwallet.app/), новим multi-chain гаманцем для екосистеми Dotsama. SubWallet makes it easy to track, send, receive and sign transactions on DeFi and GameFi applications and supports over 40 different parachains in the Dotsama network.
 
 > _"With the mission of pulling crypto users closer to the Dotsama ecosystem and opening the Web3 universe, we are working with SubQuery to integrate their remarkable data indexing solution, so that SubWallet users can review transaction history and crowdloan information for over 40 different Polkadot parachains right in our extension wallet."_ - Hieu Dao, SubWallet Co-Founder
 
