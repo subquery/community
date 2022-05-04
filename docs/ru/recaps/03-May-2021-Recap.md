@@ -42,10 +42,10 @@
 
 SubQuery был выбран из более чем 50 кандидатов для участия в эксклюзивном 2021 Web 3.0 Bootcamp в Шанхае. Там есть несколько удивительных проектов и огромное количество талантов, так что мы рады, что являемся его частью. Polkadot является самой захватывающей экосистемой в нашей отрасли, и Китай является самым быстро растущим игроком в этой сфере.
 
-We expect to learn a lot, to make a lot of new friends and partners, to get a lot of feedback on our product development. We expect to come out of this bootcamp even stronger than we are now. You can watch our opening ceremony below
+Мы рассчитываем научиться многому, привлечь много новых друзей и партнеров и получить много отзывов о разработке нашего продукта. Мы рассчитываем выйти из этого Bootcamp еще сильнее, чем сейчас. Вы можете посмотреть нашу церемонию открытия ниже
 
 В следующем месяце у нас будет несколько интересных объявлений, которыми мы хотели бы поделиться с нашим сообществом. Оставайтесь в курсе событий с нашими социальными сетями, чтобы узнавать обо всем первыми.
 
-James, Sam, and the SubQuery Team
+Джеймс, Сэм, и команда SubQuery
 
-[Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Medium](https://subquery.medium.com/)
+[Веб-сайт](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Medium](https://subquery.medium.com/)
