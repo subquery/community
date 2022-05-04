@@ -16,7 +16,7 @@
 
 ![](https://miro.medium.com/max/1400/0*pe3Z3x1lGb_RLa5x)
 
-We understand that one of our biggest strengths is our community, and so [we recently launched our ambassador program](../blogs/20210713-Introducing-the-SubQuery-Ambassador-Program.md) for communities around the world. Ми були здивовані інтересом до нашої програми, і майже за два тижні надійшло майже 500 заявок!
+Ми розуміємо, що однією з наших найбільших сильних сторін є наше ком'юніті, і тому [ нещодавно запустили амбасадорську програму](../blogs/20210713-Introducing-the-SubQuery-Ambassador-Program.md) для спільнот по всьому світу. Ми були здивовані інтересом до нашої програми, і майже за два тижні надійшло майже 500 заявок!
 
 Найближчим часом ми збираємось залучити нашу першу партію амбассадорiв. Ми особливо схвильовані, тому що це означає, що кожен у нашій спільноті може очікувати кращого представництва та підтримки на місцях у різних спiльнотах!
 
@@ -28,7 +28,7 @@ We understand that one of our biggest strengths is our community, and so [we rec
 
 ![](https://miro.medium.com/max/1400/0*AhM68fyjjSp_2edZ)
 
-We have [joined the Patract Open Platform alliance](../blogs/20210714-SubQuery-is-Joining-the-Patract-Open-Platform.md) to jointly promote the development of public infrastructure, promote the evolution of contract technology, and to develop the Wasm contract development ecosystem.
+Ми [приєдналися до альянсу відкритої платформи Patract](../blogs/20210714-SubQuery-is-Joining-the-Patract-Open-Platform.md), щоб спільно сприяти розвитку публічної інфраструктури, сприяти еволюції технології контрактів та розробляти екосистему розвитку контрактів Wasm.
 
 Ми вважаємо, що контракти є важливою частиною процвітаючої екосистеми Polkadot, надання послуг щодо індексування даних для угод Wasm завжди було основною метою SubQuery. Цікаво бачити, що Відкрита платформа об’єднала велику кількість чудових проектів, і що всі працюють разом, щоб внести свій внесок у здорове та стабільне просування контрактів Wasm.
 
