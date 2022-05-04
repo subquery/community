@@ -32,7 +32,7 @@ OnFinality призван поддерживать разработчиков б
 
 ![](https://miro.medium.com/max/1000/1*3oA1Hvns1vrImTsmowO_Jw.png)
 
-Мы сосредоточимся на создании управляемой службы размещения, на основе этого предложения, которая будет более производительной и масштабируемой. We are going to provide trusty public infrastructure that will build a powerful productionised SubQuery node from an uploaded SubQuery project. The service will then index and persist the chain state, and provide a production GraphQL endpoint that can replace self-hosted implementations. We’re going to focus on this so that everyone else can focus on building and growing their dApp.
+Мы сосредоточимся на создании управляемой службы размещения, на основе этого предложения, которая будет более производительной и масштабируемой. Мы собираемся предоставить надежную публичную инфраструктуру, которая создаст мощный производственный узел SubQuery из загруженного проекта SubQuery. The service will then index and persist the chain state, and provide a production GraphQL endpoint that can replace self-hosted implementations. We’re going to focus on this so that everyone else can focus on building and growing their dApp.
 
 Once this is in place, our final phase is to tokenize the SubQuery business by building our own chain (likely parachain) for Polkadot. Although we’ll provide a similar billing model for enterprise and high consumption users (subscription plan with consumption levels), we’ll save this data to our chain to make it transparent to everyone and participating parties can stake for rewards as incentives. We’ll issue a governance token to provide stability to the chain and to allow the community to influence our direction and roadmap.
 
@@ -42,11 +42,11 @@ We saw Polkadot’s potential early and right from the start it felt natural to 
 
 Polkadot’s unique architecture means that we can focus on one network and then be able to support multiple current and future chains with ease. By putting in this effort now, even as Polkadot is still under development, we will be there ready to help the next generation of blockchain developers create the next big dApp.
 
-SubQuery will be built by the team at OnFinality, which is an infrastructure SaaS platform for blockchain teams and users to launch nodes and get access to a large range of blockchain protocols. We have a suite of symbiotic services including our API shared node service, and dedicated nodes that can be used in infrastructure management or as part of a protocol team’s CI/CD testing pipeline. We have relationships with the top Polkadot/Substrate teams, expertise in managed infrastructure hosting for the Substrate/Polkadot network, and the ability to deliver complex infrastructure projects and host them for production use.
+SubQuery будет создан командой OnFinality, которая представляет собой инфраструктурную SaaS-платформу, позволяющую командам и пользователям блокчейна запускать узлы и получать доступ к большому количеству протоколов блокчейна. У нас есть набор симбиотических сервисов, в том числе наш сервис общих узлов API и выделенные узлы, которые можно использовать для управления инфраструктурой или как часть конвейера тестирования CI/CD команды протокола. У нас есть отношения с ведущими командами Polkadot/Substrate, опыт в размещении управляемой инфраструктуры для сети Substrate/Polkadot и возможность реализовывать сложные инфраструктурные проекты и размещать их для производственного использования.
 
 **Sam Zou —** CEO ([LinkedIn](https://www.linkedin.com/in/sam-zou-5b8169a/))
 
-Entrepreneur, Investors with more than 20 years of IT experience specialising in infrastructure and cloud service design
+Предприниматель, инвестор с более чем 20-летним опытом работы в сфере IT, специализирующийся на разработке инфраструктуры и облачных сервисов
 
 **Ian He —** Head of Protocol ([LinkedIn](https://www.linkedin.com/in/yin-he-7a266345/))
 
