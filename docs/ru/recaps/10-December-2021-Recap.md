@@ -14,109 +14,109 @@ In late December, we were proud to announce the launch of our USD$500,000 Grants
 
 The vision of the [SubQuery Grants](https://subquery.network/grants) initiative is to offer key opportunities to blockchain developers, community members, and the wider ecosystem participants so they can create the next-generation of decentralized applications (dApps). These apps are expected to power the Polkadot-based solutions that will support Web 3.0, which is an evolving set of standards for the Internet of the future.
 
-<iframe width="680" height="382" src="https://www.youtube.com/embed/Gcu2syKYlB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="680" height="382" src="https://www.youtube.com/embed/Gcu2syKYlB4" title="Проигрыватель YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 SubQuery is looking for innovative or high-potential ideas that leverage SubQuery’s open-source data indexing tools to support cutting-edge applications that address problems in blockchain or distributed ledger technology (DLT) sector. We’re particularly interested in user friendly applications that unlock the data from Polkadot or parachains, providing an intuitive entry point into our ecosystem. Our aim is to bring millions of users into the Polkadot ecosystem by helping builders build the next generation of dApps. [You can read more here](../blogs/20211222-grants.md)
 
 ![](https://miro.medium.com/max/1400/1*tFm9pBCPmAet3WGiGjUtLg.png)
 
-### SubQuery Releases Tokenomics
+### Релиз токеномики SubQuery
 
-During our most recent Community Call we shared our high-level tokenomics for the first time including the allocations and vesting schedules. SubQuery will mint a supply of 10 billion SQT which will be allocated in the following manner.
+Во время нашего последнего обращения к сообществу мы впервые поделились нашей токеномикой высокого уровня, включая распределение и графики наделения правами. SubQuery выпустит 10 миллиардов SQT, которые будут распределены следующим образом.
 
 ![](https://miro.medium.com/max/1400/1*304WkKdNhuf0nSBmTlOXyQ.png)
 
-We aim to establish SQT as the token which powers the SubQuery network, providing an incentive for participation, as well as serving as a medium of exchange for transactions within the SubQuery network. SQT will be the fuel for the web3 data revolution.
+Мы стремимся установить SQT в качестве токена, который питает сеть SubQuery, обеспечивая стимул для участия, а также служит средством обмена транзакциями в сети SubQuery. SQT станет топливом для революции данных web3.
 
-The exact details of when and how the SQT token will be allocated and distributed are still subject to finalisation, and will be announced closer to the public sale. For the listing of SQT, we are planning to be available on key decentralised (DEX) and centralised exchanges (CEX) to make it as easy as possible for everyone to participate in the SubQuery Network. [Read more here](../blogs/20211220-tokenomics.md)
+Точные детали того, когда и как токен SQT будет выделен и распределен, все еще подлежат доработке и будут объявлены ближе к публичной продаже. Для листинга SQT мы планируем быть доступными на ключевых децентрализованных (DEX) и централизованных биржах (CEX), чтобы всем было как можно проще участвовать в сети SubQuery. [Подробнее здесь](../blogs/20211220-tokenomics.md)
 
-### Call for Indexers
+### Вызов индексаторов
 
-As we get ready for the launch of our mainnet we put out the call for Indexers in December to register their interest with us. In a matter of days we had over 1,000 applications!
+Поскольку мы готовимся к запуску нашей основной сети, в декабре мы отправили запрос индексаторам, чтобы они проявили к нам интерес. За считанные дни у нас было более 1000 заявок!
 
-We are looking for node operators with a deep understanding of the SubQuery Network, including the revenue streams and how staking and delegation works. You’ll need to be an expert in running high performance and scalable production applications with monitoring and wallet/infrastructure security. Finally, you’ll need a great attitude and a shared belief in growing the future of web3.
+Мы ищем операторов узлов с глубоким пониманием SubQuery, включая потоки доходов и принципы работы стейкинга и делегирования. Вам нужно быть экспертом по запуску высокопроизводительных и масштабируемых производственных приложений с мониторингом и безопасностью кошелька/инфраструктуры. Наконец, вам понадобится отличный настрой и общая вера в развитие будущего web3.
 
-Indexers who are interested in participating [can register their interest with SubQuery here](https://forms.gle/RyXyhb8T9Gxkwi7R9). After reviewing all of the applications, we expect to approve an initial pool of Indexers by early February 2022 with the testnet launching at the end of Q1 2022. Indexers will be retrospectively rewarded and invited to participate in the subsequent mainnet anticipated at the end of Q2 2022. [Read more here](../blogs/20211202-indexer-invitation.md)
+Индексаторы, которые заинтересованы в участии, [могут зарегистрировать свою заинтересованность в SubQuery здесь](https://forms.gle/RyXyhb8T9Gxkwi7R9). После рассмотрения всех заявок мы ожидаем утвердить первоначальный пул индексаторов к началу февраля 2022 года, а тестовая сеть будет запущена в конце первого квартала 2022 года. Индексаторы будут ретроспективно вознаграждены и приглашены для участия в последующей основной сети, ожидаемой в конце второго квартала 2022 года. [Подробнее здесь](../blogs/20211202-indexer-invitation.md)
 
-## Core Product Development
+## Разработка основного продукта
 
-### SubQuery Provides Customers with Enterprise Support
+### SubQuery предоставляет клиентам корпоративную поддержку
 
 ![](https://miro.medium.com/max/1400/1*gD9qkI5JK-PeWRTDr3IERw.png)
 
-Many customers now rely on SubQuery to provide mission critical data to their production apps. These customers represent some of the largest wallets ([Nova](https://novawallet.io/) and [Fearless](https://fearlesswallet.io/)), scanners ([Subscan](https://www.subscan.io/), [SubVis](https://www.subvis.io/), and [DotMarketCap](https://dotmarketcap.com/)), NFT platforms ([Kodadot](https://kodadot.xyz/) and [Yuser](https://yuser.co/)), and more. These are huge applications that the Polkadot community use on a daily basis and must be online at all times.
+Многие клиенты теперь полагаются на SubQuery для предоставления критически важных данных своим рабочим приложениям. Эти клиенты представляют одни из крупнейших кошельков ([Nova](https://novawallet.io/) и [Fearless](https://fearlesswallet.io/)), сканеры ([Subcan](https://www.subscan.io/), [SubVis](https://www.subvis.io/) и <[DotMarketCap](https://dotmarketcap.com/)), платформы NFT ([Kodadot](https://kodadot.xyz/) и [Yuser](https://yuser.co/)) и многие другие. Это огромные приложения, которые сообщество Polkadot использует ежедневно, и они должны быть постоянно подключены к сети.
 
-The performance and reliability of our hosted service has been on the top of our priority list for some time here at SubQuery. Our sister team is OnFinality, Polkadot’s largest infrastructure provider, so we have plenty of experience in this area. As a result, we made three recent improvements that will make SubQuery the most reliable, scalable, and performant data platform in Polkadot.
+Производительность и надежность нашего размещенного сервиса некоторое время были в списке наших приоритетов здесь, в SubQuery. Наша родственная команда — OnFinality, крупнейший поставщик инфраструктуры Polkadot, поэтому у нас большой опыт в этой области. В результате мы внесли три недавних улучшения, которые сделают SubQuery самой надежной, масштабируемой и производительной платформой данных в Polkadot.
 
-1.  Dedicated Databases
-2.  Multiple Cluster Support
-3.  Intelligent Routing
+1.  Выделенные базы данных
+2.  Поддержка нескольких кластеров
+3.  Интеллектуальная маршрутизация
 
-These services allow us to offer our premium service to more customers with confidence. We work with each customer to understand their business and goals, and then to set up a service to meet their needs. SubQuery is the largest data service provider in Polkadot, and these features show how we support thousands of community projects at the same time as the biggest projects in Polkadot. [Read more here](../blogs/20211228-enterprise-hosted.md)
+Эти услуги позволяют нам с уверенностью предлагать наш премиальный сервис большему количеству клиентов. Мы работаем с каждым клиентом, чтобы понять его бизнес и цели, а затем создать услугу для удовлетворения их потребностей. SubQuery — крупнейший поставщик услуг данных в Polkadot, и эти функции показывают, как мы поддерживаем тысячи проектов сообщества одновременно с крупнейшими проектами в Polkadot. [Подробнее здесь](../blogs/20211228-enterprise-hosted.md)
 
-## Community
+## Сообщество
 
-### The Hero Course
+### Курс Героя
 
-A few months ago we released our first course to help blockchain developers upskill themselves for free. Now, we are pleased to announce that all modules of our [Hero Course](https://subquery.coassemble.com/unlock/dOKZW6O#/) have now been released.
+Несколько месяцев назад мы выпустили наш первый курс, чтобы бесплатно помочь разработчикам блокчейнов повысить свою квалификацию. Мы рады сообщить, что все модули нашего [Курса Героев](https://subquery.coassemble.com/unlock/dOKZW6O#/) уже выпущены.
 
-We recently added a quiz feature to enable students to earn the official certificate and are working with the Community to translate the course into various languages.
+Недавно мы добавили функцию викторины, чтобы студенты могли получить официальный сертификат, и работаем с сообществом над переводом курса на разные языки.
 
-### SubQuery Celebrates Winners of Encode Club Hackathon
+### SubQuery чествует победителей хакатона Encode Club
 
-SubQuery was proud to partner with Acala for the Encode Club Hackathon last year to support the developer community and the next generation of Polkadot projects.
+SubQuery гордится партнерством с Acala на хакатоне Encode Club в прошлом году, чтобы поддержать сообщество разработчиков и новое поколение проектов Polkadot.
 
-After 10 weeks and scrutiny from high profile judges in the Polkadot ecosystem such as [Bryan Chen](https://twitter.com/XiliangChen) (Co-Founder and CTO of Acala), [Hang Yin](https://twitter.com/bgmshana) (Co-Founder of Phala Network), [Jack Platts](https://twitter.com/jackbplatts) (Co-Founder of Hypersphere Ventures) and [Sota Watanabe](https://twitter.com/WatanabeSota) (Founder of Astar, CEO of Stake Technologies) we are happy to share [the winners](https://medium.com/encode-club/polkadot-hack-finale-prizewinners-and-summary-931627c64d9) of our challenges.
+Спустя 10 недель после проверки со стороны высокопоставленных судей экосистемы Polkadot, таких как [Брайан Чен](https://twitter.com/XiliangChen) (соучредитель и технический директор Acala), [Хан Инь](https://twitter.com/bgmshana) (соучредитель Phala Network), [Джек Платтс](https://twitter.com/jackbplatts) (соучредитель Hypersphere Ventures) и [Сота Ватанабэ](https://twitter.com/WatanabeSota) (основатель Astar, генеральный директор Stake Technologies), мы рады поделиться [победителями](https://medium.com/encode-club/polkadot-hack-finale-prizewinners-and-summary-931627c64d9) наших проблем.
 
-🤖 The “build a bot” challenge was won by the team at Krakura with an interesting open-source DEX arbitrage bot that constantly checks for pricing differences.
+🤖 В конкурсе «Создай бота» победила команда Krakura с интересным арбитражным ботом DEX с открытым исходным кодом, который постоянно проверяет разницу в ценах.
 
-<iframe width="680" height="382" src="https://www.youtube.com/embed/G7TNTzMDijU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="680" height="382" src="https://www.youtube.com/embed/G7TNTzMDijU" title="Проигрыватель YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-📈 The winner of the Dashboard challenge with AcalaNetwork was the team at Polkadata, a data analytics platform for DeFi investors to track how smart money is investing and structuring their portfolio on Karura
+📈 Победителем конкурса Dashboard с AcalaNetwork стала команда Polkadata, платформы анализа данных для инвесторов DeFi, позволяющая отслеживать, как умные деньги инвестируют и структурируют свой портфель на Karura
 
 [http://polkadata.xy](http://polkadata.xy/)
 
-🪙 Entity 54 were the winners in the AcalaNetwork Defi DApp category. Entity 54 is a DApp that connects to AMTC6 via Acala API/EVM and reads account balances, loans and allows swaps, transfers, loan adjustments and transfers plus reads coin and loan data
+Entity 54 стали победителями в категории децентрализованных приложений AcalaNetwork Defi. Entity 54 — это DApp, которое подключается к AMTC6 через Acala API/EVM и считывает остатки на счетах, ссуды и разрешает свопы, переводы, корректировки ссуд и переводы, а также считывает данные о монетах и ​​ссудах
 
-<iframe width="680" height="382" src="https://www.youtube.com/embed/fU1BRVOtx2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="680" height="382" src="https://www.youtube.com/embed/fU1BRVOtx2o" title="Проигрыватель YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Read more here](../blogs/20220120-gr12-winners.md)
+[Подробнее здесь](../blogs/20220120-gr12-winners.md)
 
-### SubQuery Partners with OneBlock+ To Educate Blockchain Developers in China
+### SubQuery сотрудничает с OneBlock+ для обучения разработчиков блокчейна в Китае
 
-SubQuery’s community has always been global, and a huge number of SubQuery’s customers come from the thriving Polkadot community in China.
+Сообщество SubQuery всегда было глобальным, и огромное количество клиентов SubQuery происходит из процветающего сообщества Polkadot в Китае.
 
-SubQuery recently launched the SubQuery Academy to upskill blockchain developers globally, specifically in the area of data indexing in the Polkadot ecosystem. The existing “Hero Course” has been translated to Chinese and will be delivered via WeChat. OneBlock+ will provide additional learning support to students via weekly “Office Hours” on Tencents Conference platform.
+SubQuery недавно запустила Академию SubQuery для повышения квалификации разработчиков блокчейнов по всему миру, особенно в области индексации данных в экосистеме Polkadot. Существующий «Курс Героя» был переведен на китайский язык и будет доступен через WeChat. OneBlock+ будет предоставлять студентам дополнительную поддержку в обучении посредством еженедельных «рабочих часов» на платформе Tencents Conference.
 
-The delivery of this course in China is the embodiment of SubQuery’s dedication to providing local language support for all of our communities around the world. [Read more here](../blogs/20211209-oneblock-education.md)
+Проведение этого курса в Китае является воплощением стремления SubQuery обеспечить поддержку местного языка для всех наших сообществ по всему миру. [Подробнее здесь](../blogs/20211209-oneblock-education.md)
 
-### Inside The Polkadot Crowdloans (Part 2)
+### Внутри крауд-кредитов Polkadot (Часть 2)
 
-Like any keen fan of the Polkadot ecosystem, we were fascinated by the recent Polkadot crowdloan process and decided to put our data to work! After examining the battle between Acala and Moonbeam we conducted more analysis on how the Astar and Parallel Finance auction shaped up.
+Как и любой заядлый поклонник экосистемы Polkadot, мы были очарованы недавним процессом краудкредита Polkadot и решили использовать наши данные в работе! Изучив битву между Acala и Moonbeam, мы провели дополнительный анализ того, как складывались аукционы Astar и Parallel Finance.
 
-In a nutshell, Astar and Parallel Finance led a very competitive auction, where Astar was selected as the winner at block [7927110](https://polkadot.subscan.io/block/7927110), with a lead of only 120,000 DOT! If there was another random block selected any earlier or later, the result may have been quite different.
+Короче говоря, Astar и Parallel Finance провели очень конкурентный аукцион, где Astar была выбрана победителем в блоке [7927110](https://polkadot.subscan.io/block/7927110) с преимуществом всего в 120 000 DOT! Если бы раньше или позже был выбран другой случайный блок, результат мог бы быть совсем другим.
 
 ![](https://miro.medium.com/max/1400/1*2EnTjVHEztLqCDyoRoLasQ.png)
 
-Having auctions that have been extremely competitive suggests a healthy ecosystem, and it is encouraging to see the amount of commitment that the community has shown. Here at SubQuery we are very excited to continue working alongside the best Polkadot projects, and can’t wait to see what the future has in store for us. [Read more here](../blogs/20211124-polkadot-crowdloans.md)
+Наличие аукционов, которые были чрезвычайно конкурентоспособными, свидетельствует о здоровой экосистеме, и отрадно видеть степень приверженности, которую продемонстрировало сообщество. Здесь, в SubQuery, мы очень рады продолжить работу вместе с лучшими проектами Polkadot, и нам не терпится увидеть, что готовит нам будущее. [Подробнее здесь](../blogs/20211124-polkadot-crowdloans.md)
 
-### Gitcoin Hackathon
+### Хакатон Гиткоин
 
-To continue our work in growing the developer community for SubQuery, [we participated in the recent Gitcoin GR 12 Hackathon](../blogs/20211120-gitcoin12-hackathon.md) from December 1–16th.
+Чтобы продолжить нашу работу по расширению сообщества разработчиков для SubQuery, [мы приняли участие в недавнем хакатоне Gitcoin GR 12](../blogs/20211120-gitcoin12-hackathon.md) с 1 по 16 декабря.
 
-Partnering with our friends at Acala, Moonbeam and Astar, we had five different challenges with a total prize pool of $34,000 USDC. We were really encouraged by the quality of applications and will be announcing more details about the winners soon.
+Вместе с нашими друзьями из Acala, Moonbeam и Astar мы провели пять различных испытаний с общим призовым фондом в 34 000 долларов США. Мы были очень воодушевлены качеством заявок и скоро объявим более подробную информацию о победителях.
 
 ![](https://miro.medium.com/max/1400/1*H84EaIQhTn5H0x-lWHyP3g.png)
 
-Our partnership with Gitcoin reflects our commitment to provide opportunities for motivated developers around the world to build the applications of tomorrow. As we grow there will be more hackathons and other opportunities from SubQuery to build projects so stay tuned!
+Наше партнерство с Gitcoin отражает наше стремление предоставить мотивированным разработчикам по всему миру возможности для создания приложений завтрашнего дня. По мере нашего роста будет больше хакатонов и других возможностей SubQuery для создания проектов, так что следите за обновлениями!
 
-## Other things you might have missed
+## Другие вещи, которые вы могли пропустить
 
-- [**Solarbeam work with SubQuery for their new Eclipse Launchpad**](../customer_announcements/20211215-solarbeam.md)
-- Following the [Polkadot announcement](https://polkadot.network/blog/introducing-polkadot-kusama-gifts/) that you can gift DOT or KSM to friends or family, many have taken advantage of this and given the gift of a digital asset this year. In the spirit of Christmas s[ee our breakdown of Polkadot’s gifting data](../blogs/20211223-gifting.md)
+- [**Solarbeam работает с SubQuery для своего нового ланчпада Eclipse**](../customer_announcements/20211215-solarbeam.md)
+- После [объявления Polkadot](https://polkadot.network/blog/introducing-polkadot-kusama-gifts/) о том, что вы можете подарить DOT или KSM друзьям, или родственникам, многие воспользовались этим и в этом году подарили цифровой актив. В духе Рождества [посмотрите нашу разбивку данных о подарках Polkadot](../blogs/20211223-gifting.md)
 
-As always, please [join our social channels](https://linktr.ee/subquerynetwork) (especially our [Discord](https://discord.com/invite/subquery)) to stay updated on our latest news and announcements.
+Как всегда, пожалуйста, [присоединяйтесь к нашим социальным каналам](https://linktr.ee/subquerynetwork) (особенно к нашему [Discord](https://discord.com/invite/subquery)), чтобы быть в курсе наших последних новостей и объявлений.
 
-James, Sam, and the SubQuery Team
+Джеймс, Сэм и команда SubQuery
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
