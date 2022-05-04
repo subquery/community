@@ -42,7 +42,7 @@ As a SubQuery Ambassador, he desires to use this opportunity to create an open-s
 
 > _"Aside from the fact that the SubQuery team and community are amazing. The reason I like SubQuery is because I see the great potential that SubQuery will bring to the blockchain world. Being able to access and analyze data on blockchain is very important in taking blockchain to the next level. Especially now that data is more valuable than gold."_ - Prathak
 
-## About SubQuery
+## เกี่ยวกับ SubQuery
 
 [SubQuery](https://subquery.network) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot , Substrate and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
