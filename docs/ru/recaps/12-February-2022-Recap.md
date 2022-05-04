@@ -1,91 +1,91 @@
-# February Recap
+# Итоги февраля
 
 ![](https://miro.medium.com/max/1400/1*T3DLiAKSIy-AjRia_JJjow.png)
 
-February flew by for the team at SubQuery as we have been busy on all fronts preparing for our TGE and servicing all of our existing customers including the leading teams in Polkadot.
+Для команды SubQuery февраль пролетел незаметно, поскольку мы были заняты на всех фронтах подготовкой к нашему TGE и обслуживанием всех наших существующих клиентов, включая ведущие команды в Polkadot.
 
-We have a lot of exciting work going on that we can't wait to share in the weeks and months ahead!
+Впереди много увлекательной работы и мы не можем дождаться, чтобы поделиться ею в ближайшие недели и месяцы!
 
-## Community
+## Сообщество
 
-This month we finally passed 30,000 organic Twitter followers and our Discord has swelled to over 15,000 active community members working to help one another. It's not enough to build a tool or an application in web3, you need to build a self sustaining community and we're hard at work on this at SubQuery!
+В этом месяце мы, наконец, набрали 30 000 органических подписчиков в Твиттере, и наш Discord вырос более чем на 15 000 активных участников сообщества, работающих, чтобы помогать друг другу. Недостаточно просто создать инструмент или приложение в web3, главное - это создание самодостаточного сообщества, и мы усердно работаем над этим в SubQuery!
 
-### SubQuery Announces First Cohort of SubQuery Grants Recipients
+### Объявление первой группы получателей грантов Subquery
 
-Four teams have been selected as the first ever cohort of SubQuery Grants recipients. These teams are [Alphabit](https://www.polkadata.xyz/), [Zoombies](https://zoombies.world/), [Dapplooker](https://dapplooker.com/) and [Dotsama](http://dotsama.ai/). The [USD $500,000 SubQuery Grants](https://subquery.network/grants) Program kicked off in December 2021 with the vision of offering opportunities to blockchain developers, community members, and wider ecosystem participants to create innovative or high-potential web3 applications.
+Были отобраны четыре команды в качестве первой в истории группы получателей грантов Subquery. Этими командами стали [Alphabit](https://www.polkadata.xyz/), [Zoombies](https://zoombies.world/), [Dapplooker](https://dapplooker.com/) и [Dotsama](http://dotsama.ai/). Программа [Грантов Subquery на сумму $500,000](https://subquery.network/grants) стартовала в декабре 2021 года с целью предоставления возможности разработчикам блокчейна, членам сообщества и более широкому кругу участников экосистемы, создания инновационных или высокопотенциальных web3 приложений.
 
 ![](https://miro.medium.com/max/1400/1*tBnWK4svpGbGuP3mCXyGDg.png)
 
-Alphabit, are endeavouring to empower the independent investor by providing visibility to track and analyse the portfolios and investments of funds, and large traders or 'whales'. _"The business advice and technical support from SubQuery has completely surpassed our expectations about the support we could receive as a small analytics startup" --- Michael Anderson, Business Development & Strategic Partnerships (Alphabit)_
+Alphabit стремится расширить возможности независимого инвестора, предоставляя возможность отслеживать и анализировать портфели и инвестиции фондов, а также крупных трейдеров или "китов". _"Бизнес-консультации и техническая поддержка от SubQuery полностью превзошли наши ожидания относительно поддержки, которую мы могли бы получить как небольшой аналитический стартап" --- Майкл Андерсон, Отдел развития бизнеса и стратегического партнерства (Alphabit)_
 
 ![](https://miro.medium.com/max/1400/1*TpHBDhA7WqNGTOxz9LpifQ.png)
 
-Zoombies submitted a proposal in the hopes of using SubQuery to expedite their goal of deepening the value of the growing world of collectible play-to-earn (P2E) tokens. Their project will access the complete history of past event data within a game to produce meaningful views and enrich the player experience. _"The SubQuery Grants Programme has been a very clear step-by-step reward driven process" --- Ryan Price, CEO (Zoombies)_
+Zoombies внесли предложение в ожидании использовать Subquery для ускорения достижения своей цели по повышению ценности растущего мира коллекционных токенов play-to-earn (P2E). Их проект получит доступ к полной истории данных о прошлых событиях в игре, чтобы на основе этого создать осмысленное мнение об игре и обогатить игровой опыт. _"Программа грантов SubQuery представляет собой очень четкий пошаговый процесс, основанный на вознаграждении" --- Райан Прайс, генеральный директор (Zoombies)_
 
 ![](https://miro.medium.com/max/1400/1*4rPD0g-pC3MOU5M5vAtS4w.png)
 
-Dapplooker aim to empower Polkadot projects with beautiful and easy-to-build analytics tools such as explorers, charts and dashboards. These valuable metrics will be built on top of SubQuery projects to fetch the required data and present it to its audience in an intuitive and aesthetic format.
+Dapplooker стремится расширить возможности проектов Polkadot с помощью красивых и простых в создании аналитических инструментов, таких как поискове системы, диаграммы и информационные панели. Эти ценные показатели будут построены поверх проектов SubQuery, чтобы извлекать необходимые данные и предоставлять их своей аудитории в интуитивном и экстетичном формате.
 
 ![](https://miro.medium.com/max/1400/1*kC8QYVvlUZwUfgXTBFQbgg.png)
 
-The Dotsama team are also determined to bring rich insights to the average investor in the Polkadot / Kusama ecosystem, by aiming to be a one-stop analytics shop with tools to identify early investment trends and opportunities. "_By being part of the SubQuery Grants Programme, we are not just looking to get technical and strategic guidance, we are also looking to become part of this community and help accelerate the movement." --- Sudarshan Acharya, Founder (Dotsama)_
+Команда Dotsama также полна решимости предоставить рядовому инвестору богатую информацию об экосистеме Polkadot / Kusama, стремясь стать универсальным аналитическим центром с инструментами для выявления ранних инвестиционных тенденций и возможностей. "_ Участвуя в программе грантов SubQuery мы не просто хотим получить техническое и стратегическое руководство, а также стремимся стать частью этого сообщества и помочь ускорить общий прогресс" --- Сударшан Ачарья, Основатель (Dotsama)_
 
-In addition to general Grants like the ones awarded to our first cohort, there are also ongoing [technical bounties in partnership with leading parachain teams in Polkadot](../blogs/20220127-grants-bounties.md) such as Moonbeam, Acala, Astar and Bifrost on [SubQuery's website](https://subquery.network/grants)
+В дополнение к общим грантам, подобным тем, которые были присуждены нашей первой группе, на [веб-сайте SubQuery](https://subquery.network/grants) также актуальны [технические награды в партнерстве с ведущими командами parachain в Polkadot](../blogs/20220127-grants-bounties.md), такими как Moonbeam, Acala, Astar и Bifrost.
 
 ## SubQuery Network
 
-### SubQuery Released our Updated Whitepaper
+### SubQuery выпустила обновленный Whitepaper
 
-[The SubQuery whitepaper](https://static.subquery.network/whitepaper.pdf) is a document that outlines our strategic framework for the decentralised SubQuery Network and her SQT token. Since the original publication in June 2021, we have experienced significant growth in our customer base and community and made huge progress on building the SubQuery Network. From these sources, we have been inspired to improve and innovate, and that culminates in the latest version of our [whitepaper](https://static.subquery.network/whitepaper.pdf).
+[Whitepaper SubQuery](https://static.subquery.network/whitepaper.pdf) - это документ, в котором излагаются наши стратегические принципы для децентрализованной сети SubQuery и ее токена SQT. С момента первоначальной публикации в июне 2021 года мы пережили значительный рост нашей клиентской базы и сообщества, добились огромного прогресса в создании сети Subquery. Эти источники вдохновили нас на совершенствование и внедрение инноваций, кульминацией которых стала последняя версия нашего [whitepaper](https://static.subquery.network/whitepaper.pdf).
 
-The [updated whitepaper](https://static.subquery.network/whitepaper.pdf) maintains SubQuery's conviction that the data services of tomorrow must be multi-chain, simple, and flexible. The new version goes into detail on how the SubQuery Network factors these considerations into the token economic design while also enabling power users to run enterprise-level services.
+[Обновленный whitepaper](https://static.subquery.network/whitepaper.pdf) подтверждает уверенность SubQuery в том, что службы передачи данных завтрашнего дня должны быть многоцепочечными, простыми и гибкими. В новой версии подробно рассказывается о том, как сеть SubQuery учитывает эти факторы в экономическом дизайне токенов, а также позволяет опытным пользователям запускать службы корпоративного уровня.
 
-There is significant new information in the whitepaper relating to SubQuery's innovation in payment models, providing all participants with various flexible ways to transact with the SubQuery Token (SQT).
+Whitepaper содержит значительно новую информацию, касающуюся инноваций SubQuery в моделях платежей, предоставляющих всем участникам различные гибкие способы совершения транзакций с помощью токена SubQuery (SQT).
 
 ![](https://miro.medium.com/max/1400/1*EhLefs3-lb47y2LC4Z6jWA.png)
 
-[Read more here](../blogs/20220216-whitepaper-update.md)
+[Подробнее читайте здесь](../blogs/20220216-whitepaper-update.md)
 
-## Core Product Development
+## Разработка и развитие продукта
 
-### Dynamic Data Sources
+### Динамические источники данных
 
-This is a signifiant improvement for the rapidly growing number of SubQuery's EVM customers. SubQuery is the only data indexing tool that allows indexing of both Substrate and EVM data from Polkadot parachains in a single location.
+Это значительное улучшение для быстро растущего числа клиентов SubQuery EVM. Subquery - это единственный инструмент индексации данных, который позволяет индексировать как данные Substrate, так и данные EVM из parachains Polkadot в одном месте.
 
-In certain situations, you don't know the parameters for a data source when the SubQuery project starts, for example in a DEX you don't know what new trading pairs will be enabled when you write your SubQuery project. SubQuery's [support for dynamic data sources](https://university.subquery.network/build/dynamicdatasources.html) allows developers to create new data sources from new smart contracts dynamically using templates to automate the indexing of new contracts.
+В определенных ситуациях вы не знаете параметры источника данных при запуске проекта SubQuery, например, в DEX вы не знаете, какие новые торговые пары будут включены при написании вашего проекта SubQuery. [Поддержка динамических источников данных](https://university.subquery.network/build/dynamicdatasources.html) в SubQuery позволяет разработчикам динамически создавать новые источники данных из новых смарт-контрактов, используя шаблоны для автоматизации индексации новых контрактов.
 
-[Read more here](https://university.subquery.network/build/dynamicdatasources.html)
+[Подробнее читайте здесь](https://university.subquery.network/build/dynamicdatasources.html)
 
-## General Customer Announcements
+## Основные анонсы для клиентов
 
-### SubQuery Data Powers Nova Wallet --- a next-gen mobile wallet for the Polkadot & Kusama ecosystem
+### Nova Wallet на основе SubQuery- мобильный кошелек нового поколения для экосистемы Polkadot и Kusama
 
 ![](https://miro.medium.com/max/1400/1*NkYmEpYLpZYFRkANrvpwPw.png)
 
-Many customers, including Nova, rely on SubQuery to provide mission critical data to their production apps. These are huge applications that the Polkadot community use on a daily basis and must be online at all times. Nova know that they can trust SubQuery to provide reliable and scalable services to their applications though our [enterprise level features](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) in our [managed service](https://project.subquery.network/). Nova are a key user of SubQuery's intelligent routing which dynamically routes a user's request to the nearest SubQuery cluster resulting in higher reliability and superior performance than any other option on the market.
+Многие клиенты, включая Nova, полагаются на Subquery для предоставления критически важных данных своим производственным приложениям. Это огромные приложения, которые сообщество Polkadot использует ежедневно, поэтому они всегда должны быть в онлайн-режиме. Nova знает, что они могут доверять SubQuery в предоставлении надежных и масштабируемых услуг для своих приложений при использовании [функций уровня предприятия](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) в нашей [управляемом сервисе](https://project.subquery.network/). Nova является ключевым пользователем интеллектуальной маршрутизации SubQuery, которая динамически направляет запрос пользователя в ближайший кластер SubQuery, что обеспечивает более высокую надежность и превосходную производительность, чем любой другой вариант на рынке.
 
-[Read more here](../customer_announcements/20220210-nova-wallet.md)
+[Подробнее читайте здесь](../customer_announcements/20220210-nova-wallet.md)
 
-### SubQuery to help power Parami Protocol's Web 3 advertising technology
+### SubQuery помогает с запуском Web 3 протоколов рекламных технологий Parami
 
-[Parami Protocol](https://parami.io/) is developing an innovative new technology for a user-centric, tokenised advertising economy: Ad 3.0.
+[Parami Protocol](https://parami.io/) разрабатывает новую инновационную технологию для ориентированной на пользователя, токенизированной рекламной экономики: Ad 3.0.
 
-> _"Parami's vision is to build a user-centric advertising economy for web3 and in order to make this a reality, we turned to SubQuery as our trusted data partner. SubQuery provides the backbone of our service by delivering the query part of our Command and Query Responsibility Segregation (CQRS) pattern to update our core database. Parami takes advantage of SubQuery's superior indexing speed to track the price of NFT fragments and to build a secondary index of on-chain data all in one sentence. We are looking forward to building AD 3.0 for Web 3.0 leveraging SubQuery's innovative technology."_
+> _"Видение Parami заключается в создании ориентированной на пользователя рекламной экономики для web3, и чтобы воплотить это в реальность, мы обратились к SubQuery как к нашему надежному партнеру по обработке данных. Subquery обеспечивает основу нашего сервиса, путем предоставления части запроса нашего шаблона Command and Query Responsibility Segregation (CQRS) для обновления нашей основной базы данных. Parami использует преимущества превосходной скорости индексации SubQuery для отслеживания цен на фрагменты NFT, а также для создания вторичного индекса сетевых данных в одном предложении. Мы с нетерпением ожидаем создания AD 3.0 для Web 3.0 с использованием инновационной технологии SubQuery."_
 
-~ Dorian the Co-Founder of Parami Protocol
+~ Дориан, соучредитель Parami Protocol
 
-[Read more here](../customer_announcements/20220222-parami.md)
+[Подробнее читайте здесь](../customer_announcements/20220222-parami.md)
 
-## Other things you might have missed
+## Другие детали, которые вы могли пропустить
 
-- We had an AMA with [Talisman](https://talisman.xyz/) and a Polish Q&A on our [Discord server](https://discord.com/channels/796198414798028831/796198414798028834)
-- Watch the recording of our [February community call](https://www.crowdcast.io/e/subquery-sessions-february) on Crowdcast
-- New grants with Phala in our [SubQuery Grants Programme](https://subquery.network/grants)
+- У нас проходила АМА с [Talisman](https://talisman.xyz/), а также польскоязычная рубрика вопросов и ответов на нашем [сервере Discord](https://discord.com/channels/796198414798028831/796198414798028834)
+- Посмотрите запись нашего [февральского community call](https://www.crowdcast.io/e/subquery-sessions-february) на Crowdcast
+- Новые гранты с Phala в нашей [программе грантов SubQuery](https://subquery.network/grants)
 
-P.S.
+А также:
 
-Remember to join our [Discord](https://discord.com/invite/subquery) and [our social channels](https://linktr.ee/subquerynetwork) to stay updated on our latest news and announcements.
+Не забудьте присоединиться к нашему [Discord серверу](https://discord.com/invite/subquery) и [социальным сетям](https://linktr.ee/subquerynetwork), чтобы быть в курсе последних новостей и анонсов.
 
-The SubQuery Team
+Команда SubQuery
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
