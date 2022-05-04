@@ -1,43 +1,43 @@
-# 2021年6月のまとめ
+# June 2021 Recap
 
-## 忙しくなってきました🔥
+## Things are getting busy 🔥
 
-今月のアップデート:
+In this monthly update:
 
-- ホワイトペーパーリリース 🎊
-- チーム拡張 👩💻
-- デプロイメントのステージング 📥
-- SubQuery Dictionaryサービス 📖
-- 中国におけるリーチの改善 🇨🇳
+- Whitepaper Release 🎊
+- Team Expansion 👩💻
+- Staging Deployments 📥
+- SubQuery Dictionary Service 📖
+- Improving our Reach in China 🇨🇳
 
-SubQueryネットワークは、SubQueryの単一障害点を確保し、できるだけ多くの参加者をプロセスに奨励するために、分散型でトークン化されたネットワークに移行するための取り組みです。
+The SubQuery Network is our effort to move towards a decentralised and tokenised network in order to ensure no single point of failure for SubQuery and to encourage as many participants in the process as possible.
 
 [Last month, we publicly released our whitepaper for the world to read.](https://static.subquery.network/whitepaper.pdf) You can also read/watch a [short explanation here](../blogs/20210616-SubQuery-Network-In-Summary.md).
 
-SubQueryでは、Substrate上で最も高速でアクセス可能なデータサービスプロバイダになるという野心的な目標を掲げています。 We’ve written this whitepaper to highlight our [competitive advantages](../blogs/20210616-SubQuery-Network-Our-Goals-and-Competitive-Advantages.md) and our focus now is on executing this vision. SubQuery Networkは、「柔軟性」と「シンプルさ」という2つのポイントで構成されています。
+We have ambitious goals at SubQuery to be the fastest and accessible data service provider on Substrate. We’ve written this whitepaper to highlight our [competitive advantages](../blogs/20210616-SubQuery-Network-Our-Goals-and-Competitive-Advantages.md) and our focus now is on executing this vision. The SubQuery Network revolves around two key aspects, flexibility and simplicity.
 
-野心的な目標を達成するには、一流のチームが必要です。6月に入ってからも、着実に新しいメンバーを加えています。 その中には、新規開発インターン、UXデザイナー、開発ドキュメントライター、中国ベースのビジネス開発スタッフなどが含まれます。
+Ambitious goals require a first class team, and we’ve been steadily adding new members to the team over June. This includes; new development interns, a UX designer, a development documentation writer, and Chinese based business development staff.
 
-特に以下のような分野で、まだまだ募集しています。 お心当たりのある方はご連絡ください。
+We’re still looking for more, especially in the following areas. Please us know if you know if you have someone in mind:
 
-- [マーケティング責任者](https://angel.co/company/subquery/jobs/1494376-head-of-marketing)またはUS/EUベースのビジネス開発（これは見逃せない貴重な機会です。）
-- [SREエンジニア](https://angel.co/company/subquery/jobs/1497942-site-reliability-engineer)
-- [Rust](https://angel.co/company/subquery/jobs/1494414-rust-developer) と [Solidity](https://angel.co/company/subquery/jobs/1494435-solidity-developer) の開発者
+- [Head of Marketing](https://angel.co/company/subquery/jobs/1494376-head-of-marketing) or US/EU based business development (this is a rare opportunity not to be missed)
+- [SRE Engineers](https://angel.co/company/subquery/jobs/1497942-site-reliability-engineer)
+- [Rust](https://angel.co/company/subquery/jobs/1494414-rust-developer) and [Solidity](https://angel.co/company/subquery/jobs/1494435-solidity-developer) developers
 
-私たちの業界の開発者は、インフラの運営ではなく、未来の構築に集中すべきだと考えています。当社のSubQueryホスティングサービスは、それを具現化したものです。 [In June we released deployment slots](../blogs/20210604-Deployment-Slots-are-here-for-SubQuery-Projects.md), a whole new feature that improves the developer experience in SubQuery’s hosted service.
+It’s our belief that developers in our industry should focus on building the future, not running infrastructure — our SubQuery hosted service is the manifestation of that. [In June we released deployment slots](../blogs/20210604-Deployment-Slots-are-here-for-SubQuery-Projects.md), a whole new feature that improves the developer experience in SubQuery’s hosted service.
 
-デプロイメントスロットは新機能で、開発者はプロジェクトの更新、データの再インデックス化、ホストされているプロダクションのSubQueryプロジェクトのアップグレードをダウンタイムなしで行うことができます。 私たちは、お客様がインフラストラクチャを実行することを選択するためのデフォルトの選択肢として、無料のマネージドサービスを引き続き提供します。
+Deployment slots are a new feature that means developers can update their Project, reindex their data, and upgrade their hosted production SubQuery Project with zero downtime. We continue to make our free managed service the default choice for where our customers choose to run their infrastructure.
 
-お客様からよくいただくご要望として、SubQueryプロジェクトのインデックス作成速度を向上させたいというものがあります。 Polkadotのような大規模なチェーンでは、過去のデータをインデックス化するのに数日どころか数時間かかることもあり、テストは困難です。
+A common request we face from our customers is how to improve the indexing speed of their SubQuery project. Indexing historical data on a chain as large as Polkadot can take hours if not days, making testing difficult.
 
-SubQuery projects now have the option to skip all this using our new feature — [the SubQuery Dictionary](../blogs/20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md). チェーン内のすべてのイベントの位置をあらかじめインデックスしておくことで、結果的にインデックス作成速度が最大で10倍になり、SubQueryもこれまで以上に高速化しました。
+SubQuery projects now have the option to skip all this using our new feature — [the SubQuery Dictionary](../blogs/20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md). We essentially pre-index the location of all events within a chain and as a result we’ve seen up to 10x faster indexing speed, SubQuery is faster than ever before.
 
-中国は当社の戦略的拡大計画の重要な部分を占めています。 6月にはSiqiが加わり、この地域でのビジネス開発をリードします。 彼女は、現地で多くの既存のお客様やパートナーとの交流を深めています。
+China is a key part of our strategic expansion plans. In June Siqi joined us and will lead our business development in the region. She’s certainly hit the ground running, connecting with many of our existing customers and partners there.
 
-Siqiは、[合肥駅で開催された大成功を収めたイベント「Polka Ecology National Tour」のステージに立ち](https://twitter.com/SubQueryNetwork/status/1409696588465721348)、会議に参加した他の多くのプロジェクト関係者とコンタクトを取りました。 今後も多くのイベントに参加する予定ですので、彼女に注目してくださいね。
+Siqi was on [stage at the extremely successful Polka Ecology National Tour event at Hefei Station](https://twitter.com/SubQueryNetwork/status/1409696588465721348), establishing contact with many other project parties who also attended the conference. She’ll be at many events going forward, so keep an eye out for her and say hi!
 
-来月に向けて、私たちは急速な成長を続け、多くのエキサイティングなプロジェクトに取り組んでいます。 私たちのソーシャルメディアを通じて、最新の情報にいち早くアクセスしてください！
+Heading into next month we look to continue our rapid growth and are working on many exciting projects. Stay in touch through our social media to be the first to know what is happening!
 
-James, Sam, SubQuery チーム
+James, Sam, and the SubQuery Team
 
-[Linktree](https://subquery.network/) | [Webサイト](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://subquery.medium.com/)
+[Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Medium](https://subquery.medium.com/)
