@@ -1,28 +1,28 @@
-# Mayıs 2021 Özeti
+# May 2021 Recap
 
 ![](https://miro.medium.com/max/1400/1*5E_eIJBTvHI7W24ib_Syvw.png)
 
-Perde arkasında, Mayıs ayında hiç olmadığı kadar yoğunduk, ekibimizi genişlettik, ürünler sunduk ve en önemlisi, mümkün olduğunca çok sayıda ortak getirdik.
+Behind the scenes we’ve been busier than ever in May, expanding our team, delivering products, and most importantly, bring on as many partners as possible.
 
-Bu aylık güncellemede:
+In this monthly update:
 
-- Daha fazla SubQuery iş ortağı geliyor
-- İşe alıyoruz!
-- SubQuery, Web3.0 Bootcamp'ın bir parçası oldu
+- More SubQuery partners come onboard
+- We’re hiring!
+- SubQuery is part of the Web3.0 Bootcamp
 
 ![](https://miro.medium.com/freeze/max/60/1*bFOaBnLZUfhRxiQa7fjbwA.gif?q=20)
 
 ![](https://miro.medium.com/max/640/1*bFOaBnLZUfhRxiQa7fjbwA.gif)
 
-Son zamanlarda Polkadot ekosisteminde birçok protokole, DeFi uygulamasına, dApp'lere, Cüzdanlara, NFT platformlarına, zincirler arası köprülere ve daha fazlasına ulaşıyoruz. Örnek kod, hazır projeler ve geliştiriciler için daha iyi bilgilerle bunu hızlandırmak için yeni ortaklar için işe alım sürecimizi geliştirmeyi planlıyoruz.
+We’ve been reaching out to many protocols, DeFi apps, dApps, Wallets, NFT platforms, cross-chain bridges and more across the Polkadot ecosystem recently. We’re planning on improving our onboarding process for new partners to speed this up with example code, ready made projects, and better information for developers.
 
 **Expect the stream of new partner projects to turn into a flood.**
 
 At the end of May we now have a total of 48 SubQuery projects hosted on SubQuery including:
 
-- [Korkusuz Cüzdan](https://fearlesswallet.io/) (yakından çalışacağımız önde gelen bir Polkadot cüzdanı),
-- [KodaDot](https://kodadot.xyz/) ve[NFTMart](https://www.nftmart.io/) (NFT platforms)
-- [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia) (bir çapraz zincir köprüsü) ve test ağı [Crab](https://explorer.subquery.network/subquery/wuminzhe/crab)
+- [Fearless Wallet](https://fearlesswallet.io/) (a leading Polkadot wallet that we are going to work closely with),
+- [KodaDot](https://kodadot.xyz/) and [NFTMart](https://www.nftmart.io/) (NFT platforms)
+- [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia) (a cross chain bridge) and it’s test network [Crab](https://explorer.subquery.network/subquery/wuminzhe/crab)
 
 Take a look at what Darwinia said about us
 
@@ -36,9 +36,9 @@ There is so much potential at SubQuery, so many ideas we are building, and so ma
 
 Please let us know if you can recommend anyone for any of the following roles, we’re looking for the best to join us on our journey 🚀
 
-- [Site Güvenilirlik Mühendisi](https://dash.recooty.com/openings/details/e44cf9762b402f5d8b5bc36f60304a15) (Orta Doğu, Avrupa veya Doğu ABD merkezli)
-- [Blockchain Geliştiricileri](https://dash.recooty.com/openings/details/9578a63fbe545bd82cc5bbe749636af1) (herhangi bir Rust bilgisine sahip)
-- [İş Geliştirme Müdürü](https://rcty.co/3coJPrV) (ideal olarak Avrupa veya Kuzey Amerika merkezli)
+- [Site Reliability Engineer](https://dash.recooty.com/openings/details/e44cf9762b402f5d8b5bc36f60304a15) (based in Middle East, Europe, or Eastern US)
+- [Blockchain Developers](https://dash.recooty.com/openings/details/9578a63fbe545bd82cc5bbe749636af1) (with any knowledge of Rust)
+- [Business Development Manager](https://rcty.co/3coJPrV) (ideally based in Europe or North America)
 
 SubQuery was selected from over 50 candidates to join the exclusive 2021 Web 3.0 Bootcamp in Shanghai. There are some amazing projects and a huge amount of talent in this bootcamp, so we’re excited to be a part of it. Polkadot is the most exciting ecosystem out there in our industry, and China is the fastest growing country building here.
 
