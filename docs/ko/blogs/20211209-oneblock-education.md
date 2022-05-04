@@ -1,4 +1,4 @@
-# SubQuery는 중국에서 블록체인 개발자를 교육하기 위해 OneBlock+와 협약을 맺었습니다.
+# SubQuery Partners with OneBlock+ To Educate Blockchain Developers in China
 
 ![](https://miro.medium.com/max/700/1*c1X5h-MEHHwjeqczDKvvCQ.png)
 
@@ -18,14 +18,14 @@ The existing “Hero Course” has been translated to Chinese and will be delive
 
 The first session in the course will be scheduled from 10th January 2022, and in preparation OneBlock+ will deliver a live Technical Workshop in December 2021 as part of their regular Substrate Saturday programme. More information on the dates will be published in the [SubQuery Discord channel](https://discord.com/invite/78zg8aBSMG). In the meantime, you can [learn more about SubQuery via the SubQuery Academy](https://subquery.coassemble.com/unlock/dOKZW6O#/).
 
-## OneBlock+ 소개
+## About OneBlock+
 
 OneBlock+ is the first and the largest blockchain developer community in China. At OneBlock+, we provide full support for developers with their substrate studies and further setoff their career paths; we host Polkadot Hackathons every season to attract top notch developers to build and innovate for the prosperity of the ecosystem. As a greater China technology resource integrator, OneBlock+ also partner with developers, communities, business elites, and key media who have business insights and experiences in the blockchain industry to provide business like technology courses, news distributions, AMA, and offline events for the industry. Want to shape the crypto world together? Come and join us today!
 
 | [Twitter](https://mobile.twitter.com/oneblock_) | [Medium](https://medium.com/@OneBlockplus?p=5a6193755f9b) | [Discord](https://discord.gg/5aWx6Rch) | [Telegram](https://t.me/oneblock_dev) |
 
-## SubQuery 소개
+## 서브쿼리란
 
-[SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. The protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+[SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. 이 프로토콜은 서브쿼리 SDK를 사용하여 블록체인 데이터 고유성을 추상화하고 개발자가 사용자 지정 백엔드 기술에 대한 시간과 노력을 불필요하게 낭비하지 않도록하며 제품 개발 및 배포에 집중할 수 있도록 지원합니다.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
