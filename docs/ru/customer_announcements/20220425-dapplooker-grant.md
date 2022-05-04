@@ -30,12 +30,12 @@
 
 ## О Dapplooker
 
-Dapplooker is a multi-chain analytics and visualization platform for blockchain networks and Dapps. Our aim is to empower people by making analysis of blockchain data simple with the aid of easy-to-use visual editor. Users can run SQL queries on smart contract data, build charts and dashboards which can be shared with the community.
+Dapplooker - это многоцепочечная платформа аналитики и визуализации для блокчейн-сетей и Dapps. Наша цель - расширить возможности людей, упростив анализ данных блокчейна с помощью простого в использовании визуального редактора. Пользователи могут запускать SQL-запросы к данным смарт-контрактов, создавать диаграммы и информационные панели, которыми можно поделиться с сообществом.
 
 [Website](https://dapplooker.com/) | [Twitter](https://twitter.com/dapplooker) | [Discord](https://dapplooker.com/community) | [Telegram](https://t.me/dapplooker) | [Medium ](https://dapplooker.medium.com/)| [YouTube](https://www.youtube.com/channel/UC1KJmtb3UhnWSN_sDv71_fg)
 
-## About SubQuery
+## О SubQuery
 
-[SubQuery](https://subquery.network/) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot , Substrate and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+[SubQuery](https://subquery.network/) - это инструментарий разработчика блокчейна, позволяющий другим создавать приложения будущего на Web 3. Проект SubQuery - это полноценный API для организации и запроса данных из цепочек layer-1. В настоящее время поддерживающий проекты Polkadot, Substrate и Avalanche, этот сервис "данные как услуга" позволяет разработчикам сосредоточиться на своем основном сценарии использования и интерфейсе, не тратя время на создание пользовательского бэкэнда для обработки данных. Сеть SubQuery предлагает включить такое же масштабируемое и надежное решение, но полностью децентрализованным способом.
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
