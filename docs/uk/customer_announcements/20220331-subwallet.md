@@ -8,9 +8,9 @@ SubQuery з радістю оголошує про інтеграційне па
 
 Екосистема Dotsama складається з десятків блокчейнів і тисяч Dapps із величезною кількістю надзвичайно фрагментованих даних. Subwallet зміг використати сотні відкритих проектів, доступних в [SubQuery's Explorer](https://explorer.subquery.network/), що дозволяє їм інтегрувати кожну нову мережу швидше та без перешкод. Коротше кажучи, SubQuery допомагає SubWallet забезпечити більш повну підтримку екосистеми Dotsama та швидше розробляти свої додатки.
 
-> _"SubQuery з гордістю надає дані, необхідні для SubWallet, щоб реалізувати своє бачення надання привабливого та інтуїтивно зрозумілого досвіду для своїх користувачів. By partnering with innovative and fast-paced teams such as SubWallet we can remain agile and roll-out enhancements to ensure our mutual success"._ - Brittany Seales, Customer Success Lead at SubQuery
+> _"SubQuery з гордістю надає дані, необхідні для SubWallet, щоб реалізувати своє бачення надання привабливого та інтуїтивно зрозумілого досвіду для своїх користувачів. Співпрацюючи з командами,що є інноваційними та швидко розвиваються, такими як SubWallet, ми можемо залишатися гнучкими та впроваджувати покращення, щоб забезпечити наш взаємний успіх"._ –Brittany Seales, керівник відділу по роботі з клієнтами у SubQuery
 
-SubWallet is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. They take advantage of SubQuery's [enterprise-level hosting](../blogs/20211228-enterprise-hosted.md) to receive dedicated databases, automated deployments, and geographic routing to multiple clusters around the world for performance and uptime.
+SubWallet використовує [SubQuery Projects](https://project.subquery.network/) для керування власним проектом та внесення оновлень за необхідності. They take advantage of SubQuery's [enterprise-level hosting](../blogs/20211228-enterprise-hosted.md) to receive dedicated databases, automated deployments, and geographic routing to multiple clusters around the world for performance and uptime.
 
 ![](https://miro.medium.com/max/1400/0*2veb8l0E6zpyhhNB)
 
