@@ -1,26 +1,26 @@
-# December 2021 Recap
+# Підсумки за грудень 2021 року
 
 ![](https://miro.medium.com/max/1400/1*-gXOf6qYQiYypDCVBeE1kg.png)
 
-This year has absolutely flown by and SubQuery has come a long way! Since February 2021, we’ve grown a huge inclusive community, helped hundreds of projects to build faster, and scaled our hosted service to handle hundreds of millions of API requests for the top projects in Polkadot.
+Цей рік промайнув, і SubQuery пройшов довгий шлях! З лютого 2021 року ми створили величезну інклюзивну спільноту, допомогли сотням проєктів будувати швидше, і масштабували наш хост сервіс для обробки сотень мільйонів запитів API для найкращих проєктів у Polkadot.
 
-Read on for a message from Sam, and learn what we go up to in the final days of 2021!
+Прочитайте повідомлення від Сема та дізнайтеся, що ми плануємо в останні дні 2021 року!
 
 ## SubQuery Network
 
-### SubQuery Launches $500,000 Grants Programme
+### SubQuery запускає програму грантів у розмірі 500,000 доларів США
 
-In late December, we were proud to announce the launch of our USD$500,000 Grants Programme.
+Наприкінці грудня ми з гордістю оголосили про запуск нашої програми грантів у розмірі 500,000 доларів США.
 
-The vision of the [SubQuery Grants](https://subquery.network/grants) initiative is to offer key opportunities to blockchain developers, community members, and the wider ecosystem participants so they can create the next-generation of decentralized applications (dApps). These apps are expected to power the Polkadot-based solutions that will support Web 3.0, which is an evolving set of standards for the Internet of the future.
+Бачення ініціативи SubQuery Grants полягає в тому, щоб запропонувати ключові можливості розробникам блокчейну, членам спільноти та ширшим учасникам екосистеми, щоб вони могли створювати децентралізовані додатки наступного покоління (dApps). Очікується, що ці додатки будуть відповідати стандартам Інтернету3 майбутнього, забезпечуючи рішення на основі Polkadot, які підтримуватимуть Web 3.0. 
 
 <iframe width="680" height="382" src="https://www.youtube.com/embed/Gcu2syKYlB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-SubQuery is looking for innovative or high-potential ideas that leverage SubQuery’s open-source data indexing tools to support cutting-edge applications that address problems in blockchain or distributed ledger technology (DLT) sector. We’re particularly interested in user friendly applications that unlock the data from Polkadot or parachains, providing an intuitive entry point into our ecosystem. Our aim is to bring millions of users into the Polkadot ecosystem by helping builders build the next generation of dApps. [You can read more here](../blogs/20211222-grants.md)
+SubQuery шукає інноваційні або високопотенційні ідеї, які використовують інструменти індексації даних SubQuery з відкритим вихідним кодом для підтримки передових додатків, які розв'язують проблеми в секторі блокчейну або технології розподіленого реєстру (DLT). Нас особливо цікавлять зручні додатки, які розблокують дані з Polkadot або парачейнів, забезпечуючи інтуїтивно зрозумілий вхід у нашу екосистему. Наша мета — залучити мільйони користувачів до екосистеми Polkadot, допомагаючи розробникам створювати нове покоління dApps. Більше можна прочитати тут
 
 ![](https://miro.medium.com/max/1400/1*tFm9pBCPmAet3WGiGjUtLg.png)
 
-### SubQuery Releases Tokenomics
+### SubQuery опублікували токеноміку
 
 During our most recent Community Call we shared our high-level tokenomics for the first time including the allocations and vesting schedules. SubQuery will mint a supply of 10 billion SQT which will be allocated in the following manner.
 
