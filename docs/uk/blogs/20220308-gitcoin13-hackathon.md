@@ -19,14 +19,14 @@
 
 Більш детальну інформацію про програму [SubQuery Grants Programme, яка складається з відкритих нагород і партнерств з провідними командами Polkadot, ви можете знайти тут](https://subquery.network/grants).
 
-## About Gitcoin
+## Про Gitcoin
 
-[Gitcoin](http://www.gitcoin.co) is on a mission to build an internet that is open source, collaborative, and economically empowering. Gitcoin is creating community and infrastructure for Web 3 --- a diverse range of tools, technologies, and networks that enable people to work for the open internet. By funding projects, building community, and making learning resources accessible, Gitcoin is teaming up to create the digital public infrastructure of tomorrow.
+[Gitcoin](http://www.gitcoin.co) працює над створенням Інтернету з відкритим вихідним кодом, спільною роботою та економічними можливостями. Gitcoin створює спільноту та інфраструктуру для Web 3 --- різноманітні інструменти, технології та мережі, які дозволяють людям працювати у відкритому Інтернеті. Фінансуючи проєкти, створюючи спільноту та роблячи доступними навчальні ресурси, Gitcoin об’єднується для створення цифрової публічної інфраструктури завтрашнього дня.
 
 [Discord](https://discord.gg/6PZUM3cFpz) | [Website](http://www.gitcoin.co) | [Twitter](https://twitter.com/gitcoin) | [GitHub](https://github.com/gitcoinco/) |
 
-## About SubQuery
+## Про SubQuery
 
-[SubQuery](https://subquery.network) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. The protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+[SubQuery](https://subquery.network) – це децентралізований рівень агрегації даних, індексування та запитів між блокчейнами Layer-1 і децентралізованими додатками. Протокол абстрагує особливості даних блокчейну за допомогою SubQuery SDK, дозволяючи розробникам зосередитися на розгортанні свого основного продукту, не витрачаючи зусиль на користувацькі технології бекенду.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
