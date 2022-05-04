@@ -1,12 +1,12 @@
-# Announcing SubQuery's New Website
+# Анонс нового сайту SubQuery
 
 ![](https://miro.medium.com/max/1400/0*AnB_ILxq6i0kKz2Y)
 
-The public website is often the first thing people see and visit when looking at a company or product. It can create a lasting first impression, imprint a brand in your memory, and communicate the story behind what we do. Today we are excited to announce a new and improved website design for SubQuery.
+Вебсайт часто є першим, що люди бачать і відвідують під час перегляду компанії чи продукту. Це може створити стійке перше враження, відбити бренд у вашій пам’яті та передати історію того, що ми робимо. Сьогодні нам приємно повідомити про новий і покращений дизайн веб-сайту для SubQuery.
 
-We redesigned our website for two main reasons. Firstly we needed to refresh and modernise the site to reflect more accurately the current progress of SubQuery and its status as a leader in data indexing. Since our last website update, we have evolved significantly with the impending launch of the SubQuery Network. Secondly, we always want to improve our overall visual identity to create a better brand impression with our rapidly expanding community.
+Ми переробили свій сайт з двох основних причин. По-перше, нам потрібно було оновити та модернізувати сайт, щоб точніше відображати поточний прогрес SubQuery та його статус лідера в індексації даних. Після нашого останнього оновлення веб-сайту ми значно розвинулися завдяки запуску мережі SubQuery. По-друге, ми завжди хочемо покращувати нашу загальну візуальну ідентичність, щоб створити краще враження про бренд у нашій спільноті, яка швидко розширюється.
 
-SubQuery, being a data indexing project, is all about the details. It's with this mentality that we chose this specific design and layout which emphasises moderate spacing between paragraphs for a more modern look and makes the content easier to read. Additionally, this provides page templates that are flexible and responsive, and that can be reused across the growing number of applications that SubQuery has. Combined, these updates give the user a much better experience navigating through what can be quite detailed and technical information.
+SubQuery, будучи проектом індексації даних, стосується деталей. It's with this mentality that we chose this specific design and layout which emphasises moderate spacing between paragraphs for a more modern look and makes the content easier to read. Additionally, this provides page templates that are flexible and responsive, and that can be reused across the growing number of applications that SubQuery has. Combined, these updates give the user a much better experience navigating through what can be quite detailed and technical information.
 
 ![](https://miro.medium.com/max/1400/1*rqmuhuC5rdV7sZN2AwokZQ.png)
 
