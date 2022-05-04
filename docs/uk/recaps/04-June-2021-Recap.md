@@ -12,9 +12,9 @@
 
 Мережа SubQuery - це наші зусилля, спрямовані на просування до децентралізованої та символічної мережі, щоб гарантувати, що SubQuery не має єдиної точки збою, і заохотити якомога більше учасників процесу.
 
-[Last month, we publicly released our whitepaper for the world to read.](https://static.subquery.network/whitepaper.pdf) You can also read/watch a [short explanation here](../blogs/20210616-SubQuery-Network-In-Summary.md).
+[Минулого місяця ми опублікували нашу технічну документацію для всього світу.](https://static.subquery.network/whitepaper.pdf) Ви також можете прочитати/подивитися [коротке пояснення тут](../blogs/20210616-SubQuery-Network-In-Summary.md).
 
-Ми маємо амбітні цілі в SubQuery - бути найшвидшим і доступним постачальником послуг передачі даних на Substrate. We’ve written this whitepaper to highlight our [competitive advantages](../blogs/20210616-SubQuery-Network-Our-Goals-and-Competitive-Advantages.md) and our focus now is on executing this vision. Мережа SubQuery обертається навколо двох ключових аспектів - гнучкості та простоти.
+Ми маємо амбітні цілі в SubQuery - бути найшвидшим і доступним постачальником послуг передачі даних на Substrate. Ми написали цей технічний документ, щоб підкреслити наші [конкурентні переваги](../blogs/20210616-SubQuery-Network-Our-Goals-and-Competitive-Advantages.md), і зараз ми зосереджені на реалізації цього бачення. Мережа SubQuery обертається навколо двох ключових аспектів - гнучкості та простоти.
 
 Для амбітних цілей потрібна першокласна команда, і протягом червня ми постійно додавали до неї нових членів. Це включає; нові розробники, дизайнер UX, автор документації для розробки та співробітники з розвитку бізнесу в Китаї.
 
@@ -24,13 +24,13 @@
 - [Інженери SRE](https://angel.co/company/subquery/jobs/1497942-site-reliability-engineer)
 - [Rust](https://angel.co/company/subquery/jobs/1494414-rust-developer) i [Solidity](https://angel.co/company/subquery/jobs/1494435-solidity-developer) розробники
 
-Ми вважаємо, що розробники нашої галузі повинні зосередитися на побудові майбутнього, а не на запуску інфраструктури - проявом цього є наша розміщена служба SubQuery. [In June we released deployment slots](../blogs/20210604-Deployment-Slots-are-here-for-SubQuery-Projects.md), a whole new feature that improves the developer experience in SubQuery’s hosted service.
+Ми вважаємо, що розробники нашої галузі повинні зосередитися на побудові майбутнього, а не на запуску інфраструктури - проявом цього є наша розміщена служба SubQuery. [У червні ми зробили слоти для розгортання](../blogs/20210604-Deployment-Slots-are-here-for-SubQuery-Projects.md), абсолютно нову функцію, яка покращує досвід розробників у хостинговому сервісі SubQuery.
 
 Слоти для розгортання - це нова функція, яка означає, що розробники можуть оновлювати свій проект, переіндексувати свої дані та оновлювати свій розміщений проект SubQuery Project з нульовими простоями. Ми продовжуємо робити нашу безкоштовну керовану послугу вибором за замовчуванням для того, де наші клієнти вирішують керувати своєю інфраструктурою.
 
 Загальний запит, з яким ми стикаємось від наших клієнтів, - це як покращити швидкість індексації свого проекту SubQuery. Індексування історичних даних по такому великому ланцюжку, як Polkadot, може зайняти години, якщо не дні, що ускладнює тестування.
 
-SubQuery projects now have the option to skip all this using our new feature — [the SubQuery Dictionary](../blogs/20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md). Ми, по суті, попередньо індексуємо розташування всіх подій у ланцюжку, і в результаті ми бачили в 10 разів більшу швидкість індексування, SubQuery швидше, ніж будь-коли раніше.
+Проекти SubQuery тепер мають можливість пропустити все це за допомогою нашої нової функції - [SubQuery словник](../blogs/20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md). Ми, по суті, попередньо індексуємо розташування всіх подій у ланцюжку, і в результаті ми бачили в 10 разів більшу швидкість індексування, SubQuery швидше, ніж будь-коли раніше.
 
 Китай є ключовою частиною наших стратегічних планів розширення. У червні Siqi приєдналась до нас і вона очолить розвиток нашого бізнесу в регіоні. Вона, безумовно, досягла успіху, зв’язавшись з багатьма нашими існуючими клієнтами та партнерами.
 
