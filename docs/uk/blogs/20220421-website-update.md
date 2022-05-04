@@ -20,28 +20,28 @@ SubQuery, будучи проектом індексації даних, сто�
 
 ## Крок 2: Визначення
 
-The next step was to define these insights identified in the Empathise stage, we looked to define our users needs, problems, and insights. Once again, this process is to have a better understanding of exactly what our users need before we start looking to provide what we think they need.
+Наступним кроком було визначення цих уявлень, здобутих на стадії емпатизації, ми шукали визначення потреб наших користувачів, проблем та розуміння. Ще раз, цей процес полягає в тому, щоб краще розуміти саме те, що потрібно нашим користувачам, перш ніж ми почнемо розуміти, що нам необхідно.
 
-## Step 3: Ideate
+## Крок 3: Ідея
 
-Based on the previous two steps we then looked to ideate various different design options making sure to consider the user with every decision made.
+Виходячи з попередніх двох етапів, ми шукали різні варіанти дизайну, розглядаючи користувача за кожним прийнятим рішенням.
 
-## Step 4: Prototype
+## Крок 4: Прототип
 
-After going through the ideation process we looked to prototype specific designs we think best reflect the needs of our users and best solve the problems they have.
+Проходячи через процес ідеї, ми шукали зразки конкретних дизайнів, які, на нашу думку, найкраще відображають потреби наших користувачів і найкраще вирішують проблеми, які вони мають.
 
-## Step 5: Test
+## Крок 5: Тестування
 
-The final stage of our process was to test the prototypes we had designed. This allowed us to ensure that the changes we have made are effective.
+Останньою стадією нашого процесу було тестування прототипів, які ми спроектували. Це дозволило нам гарантувати, що здійснені нами зміни є ефективними.
 
 ![](https://miro.medium.com/max/1400/1*AMO1WP2Yg1MtNht22gIeaw.png)
 
-> _"SubQuery has bold ambitions and we needed an updated visual identity that reflects that vision. By modernising our layout and improving the visual hierarchy with new typography and colours, we provide our website visitors a fresh experience and insight into SubQuery. Personally, I'm a big fan of the new illustrations which were created for our Frontier testnet as they create an extra dimension in the evolution of our brand story"_ - Cassie Wang, UX Designer at SubQuery
+> _"SubQuery має сміливі амбіції і нам потрібна візуальна ідентифікація, яка відображає це бачення. Модернізуючи наш макет та покращуючи візуальну ієрархію новими типографіями та кольорами, ми надаємо відвідувачам сайту новий досвід та уявлення про SubQuery. Особисто Я великий фанат нових ілюстрацій, які були створені для нашого тестування Frontier через те, що вони створюють додатковий вимір в еволюції історії нашого бренду"_ - Кессі Ванг, Дизайнер UX у SubQuery
 
-We hope you enjoy the website as much as we do! Take a look today at https://subquery.network
+Ми сподіваємося, що Вам сподобається веб-сайт як і нам! Перегляньте сьогодні на https://subquery.network
 
-## About SubQuery
+## Про SubQuery
 
-[SubQuery](https://subquery.network) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from Layer-1 chains. Currently servicing Polkadot, Substrate, and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+[SubQuery](https://subquery.network) — це набір інструментів блокчейн розробника, який дає змогу іншим створювати веб-додатки майбутнього. Проект SubQuery — це повний API для організації та запиту даних із Layer-1 мереж. Наразі, обслуговуючи проекти Polkadot, Substrate і Avalanche, ці дані-як-послуга (data-as-a-service) дозволяє розробникам зосередитися на своєму основному варіанті використання та інтерфейсі, не витрачаючи час на створення спеціального сервера для обробки даних. SubQuery Network пропонує ввімкнути те саме масштабоване та надійне рішення, але повністю децентралізованим способом.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
