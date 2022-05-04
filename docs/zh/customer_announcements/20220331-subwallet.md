@@ -1,29 +1,29 @@
-# SubQuery与SubWallet合作，增强用户对多链数据的访问
+# SubQuery partners with SubWallet to Enhance User Access to Multi-Chain Data
 
 ![](https://miro.medium.com/max/1400/0*WrTfOuh_9W9uOs_s)
 
-SubQuery很高兴宣布与SubWallet建立集成伙伴关系，SubWallet是Dotsama生态系统的一种新型多链钱包。 SubWallet可以轻松地在DeFi和GameFi应用程序上跟踪、发送、接收和签署交易，并在Dotsama网络中支持40多个不同的侧链。
+SubQuery is delighted to announce an integration partnership with [SubWallet](https://subwallet.app/), a new multi-chain wallet for the Dotsama ecosystem. SubWallet makes it easy to track, send, receive and sign transactions on DeFi and GameFi applications and supports over 40 different parachains in the Dotsama network.
 
-> “为了让加密用户更接近Dotsama生态系统，打开Web3世界，我们正在与SubQuery合作，整合他们卓越的数据索引解决方案，以便SubWallet用户可以在我们的扩展钱包中查看40多个不同Polkadot副链的交易历史和众贷信息。” -SubWallet联合创始人Hieu Dao
+> _"With the mission of pulling crypto users closer to the Dotsama ecosystem and opening the Web3 universe, we are working with SubQuery to integrate their remarkable data indexing solution, so that SubWallet users can review transaction history and crowdloan information for over 40 different Polkadot parachains right in our extension wallet."_ - Hieu Dao, SubWallet Co-Founder
 
-Dotsama生态系统由数十个区块链和数千个DAPP组成，其中包含大量极其碎片化的数据。 Subwallet能够利用SubQuery Explorer中的数百个开放项目，使它们能够更快、无缝地集成每个新网络。 简而言之，SubQuery帮助SubWallet为Dotsama生态系统提供更全面的支持，并更快地开发其应用程序。
+The Dotsama ecosystem consists of dozens of blockchains and thousands of Dapps containing a huge amount of extremely fragmented data. Subwallet has been able to leverage the hundreds of open projects available in [SubQuery's Explorer](https://explorer.subquery.network/), allowing them to integrate each new network faster and seamlessly. In short, SubQuery helps SubWallet provide more complete support for the Dotsama ecosystem and develop their applications faster.
 
-> “SubQuery很自豪能为SubWallet提供所需的数据，以实现其为用户带来诱人而直观之体验的愿景。 通过与SubWallet等有创造力且高效的团队合作，我们将保持灵感，并推出增强功能，以确保我们的共同成功。” -Brittany Seales，SubQuery的客户成功主管
+> _"SubQuery is proud to power the data required for SubWallet to realise their vision of bringing an inviting and intuitive experience to their users. By partnering with innovative and fast-paced teams such as SubWallet we can remain agile and roll-out enhancements to ensure our mutual success"._ - Brittany Seales, Customer Success Lead at SubQuery
 
-Subvis.io正在使用 [SubQuery 项目](https://project.subquery.network/) 来管理自己的项目并根据需要进行更新。 他们利用SubQuery的 [个企业级托管](../blogs/20211228-enterprise-hosted.md) 来接收专门的数据库。 自动部署和地理路由到世界各地的多个集群，以供性能和时机。
+SubWallet is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. They take advantage of SubQuery's [enterprise-level hosting](../blogs/20211228-enterprise-hosted.md) to receive dedicated databases, automated deployments, and geographic routing to multiple clusters around the world for performance and uptime.
 
 ![](https://miro.medium.com/max/1400/0*2veb8l0E6zpyhhNB)
 
-您可以在 [SubQuery Explorer](https://explorer.subquery.network/) 中搜索SubWallet 和他们从 SubQuery 查询的数据来找到更多关于SubWallet 的信息。
+You can find more information about SubWallet and the data they leverage from SubQuery by searching for SubWallet in the [SubQuery Explorer](https://explorer.subquery.network/).
 
-## 关于SubWallet
+## About SubWallet
 
-SubWallet是Polkadot和Kusama生态中的用户友好型Web3多重宇宙网关的先驱。 为了让加密用户更接近Dotsama生态并打开Web3世界，我们专注于构建一款产品，为连接基于区块链的应用程序（如DeFi和GameFi for Dotsama生态系统）提供最简单、最安全的方式。
+SubWallet is a pioneer user-friendly Web3 Multiverse Gateway for Polkadot and Kusama ecosystem. With the mission of bringing crypto users closer to the Dotsama ecosystem and opening the Web3 universe, we focus on building a product that provides the simplest and most secure way to connect to blockchain-based applications like DeFi and GameFi for Dotsama Ecosystem.
 
 [Website](https://subwallet.app/) |[ Twitter](https://twitter.com/subwalletapp) |[ Discord](https://discord.gg/eDdVzF8ynJ) |[ Telegram](https://t.me/subwallet) |[ Youtube](https://www.youtube.com/channel/UC5XYLzQ1G077kUb7guZEMdA) |[ Linkedin](https://www.linkedin.com/company/subwallet/) |[ Github](https://github.com/Koniverse)
 
-## 关于SubQuery
+## About SubQuery
 
-[SubQuery](https://subquery.network) 是一个区块链开发者工具包，帮助用户构建未来的 Web3 应用程序。 SubQuery 项目是一个完整的 API，用于组织和查询来自 Layer 1的数据。 目前服务于 Polkadot 和 Substrate 项目，这种数据即服务的模式允许开发人员专注于其核心用例和前端，而无需浪费时间构建用于数据处理的定制后端。 SubQuery 网络建议以完全去中心化的方式实现同样的可扩展和可靠的解决方案。
+[SubQuery](https://subquery.network) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot and Substrate projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
