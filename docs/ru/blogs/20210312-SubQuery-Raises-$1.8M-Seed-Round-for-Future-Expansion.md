@@ -27,8 +27,8 @@ Led by Sam Zou, CEO of SubQuery, the team [received a grant from the Web3 founda
 **Свяжитесь с нами:**
 
 - [hello@subquery.network](mailto:hello@subquery.network)
-- [Дискорд](https://discord.com/invite/78zg8aBSMG)
+- [Discord](https://discord.com/invite/78zg8aBSMG)
 - [Telegram](https://t.me/subquerynetwork)
-- [Твиттер](https://twitter.com/subquerynetwork)
-- [Матрица](https://matrix.to/#/#subquery:matrix.org)
+- [Twitter](https://twitter.com/subquerynetwork)
+- [Matrix](https://matrix.to/#/#subquery:matrix.org)
 - [LinkedIn](https://www.linkedin.com/company/subquery)
