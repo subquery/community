@@ -1,25 +1,25 @@
-# KusamaのNFTはKodadotとSubQueryで探索できる
+# NFTs on Kusama can be Explored on Kodadot and SubQuery
 
-**本日は、KodadotとSubQuery Networkの戦略的パートナーシップについてお知らせします。**
+**Today we want to announce our strategic partnership between Kodadot and SubQuery Network.**
 
 ![](https://miro.medium.com/max/1400/1*Y4kdG9uEoxrySzb19QKxPg.gif)
 
-Kodadotは、RMRKプロトコルを使用したカーボンニュートラルなKusamaのネイティブNFTプラットフォームです。 ユーザーは、ネットワーク上でNFTのミント、転送、バーンを行うことができます。 最も重要なのは、Kodadotには応答性の高いWebベースのNFTエクスプローラーがあり、直感的なユーザーインターフェースを提供していることです。
+Kodadot is a carbon neutral Kusama native NFT platform that uses the RMRK protocol. Users can mint, transfer, and burn NFTs on the network. Most importantly, Kodadot has a responsive web based NFT explorer that provides an intuitive user interface.
 
-このフロントエンドでは、[SubQueryプロジェクト](https://explorer.subquery.network/subquery/vikiival/magick)を使用して、この探索を高速化しています。
+This front end uses a [SubQuery project](https://explorer.subquery.network/subquery/vikiival/magick) to make this exploration faster.
 
 ![](https://miro.medium.com/max/1400/0*3TdpXjj1iwGNdA3n)
 
 > _"At the first we had to realise how much the SubQuery is doing instead of you, so we were able to purely focus on the GraphQL architecture and NFT consolidation logic. Thanks to SubQuery, we are thinking now another feature set we can easily add over weekend"_ — Kodadot
 
-[SubQueryの](https://subquery.network/)サービスは、KodadotがKusamaのNFTのチェーンデータを抽出して照会する際に、よりエネルギー効率が高く、二酸化炭素を排出しない方法で行うことができます。
+[SubQuery’s](https://subquery.network/) service helps Kodadot extract and query on chain data for NFTs on Kusama, and do this in a more energy efficient and carbon friendly way.
 
 ![](https://miro.medium.com/max/1400/0*AocvCHVWMsGtH1Oz)
 
-以下の例では、SubQuery を使用して、Kusamaの「Canary」という検索語に一致する最初の 5 つの NFT 結果を検索しています。
+In the example below, we’re using SubQuery to find the first 5 NFT results that match the search term “Canary” on Kusama.
 
 ![](https://miro.medium.com/max/1400/0*QTzLpC0D-pYWDngZ)
 
-Kodadotは[SubQuery Projects](https://project.subquery.network/)を使って自分のプロジェクトを管理し、必要に応じて更新を行っています。 私たちが提供するインデックスやクエリのサービスは、SubQueryによって完全に管理され、[SubQuery's Explorer](https://explorer.subquery.network/)としてPolkadotコミュニティに無料で提供されています。
+Kodadot is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/).
 
-[Kodadotのデータセットを見る](https://explorer.subquery.network/subquery/vikiival/magick)
+[Explore the Kodadot data set](https://explorer.subquery.network/subquery/vikiival/magick)
