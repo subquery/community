@@ -22,13 +22,13 @@ SubQuery'nin amacı, Polkadot/Substrate projelerinin, herkesin verileri güvenil
 
 ![](https://miro.medium.com/max/1000/1*IHstJG-hBwQzicLdWkGR5w.png)
 
-Web 3.0 hayalinin gerçekleşmesi için, son kullanıcı için merkezi ağlardan kadar hızlı (hatta daha hızlı) olması gerekir.
+Web 3.0 hayalinin gerçekleşmesi için, onun son kullanıcı için merkezi ağlar kadar hızlı (hatta daha hızlı) olması gerekir.
 
 Bu nedenle, kullanıcıların GraphQL ile sorgulanabilecek bir veri kümesi oluşturması için zincirleri boyunca bir dizin oluşturucu çalıştırmasına olanak tanıyan açık kaynaklı bir proje olan SubQuery'yi duyurmaktan inanılmaz gurur duyuyoruz. Bu araç paketi, projelerin kendi SubQuery projelerini oluşturmasına olanak tanıyan ve dizin oluşturucunun kendi ağlarında nasıl geçiş yapabileceklerini ve bu ağları birleştireceklerini tanımlayan bir komut satırı arabirimi içerir. İşte ağı dizine ekleyen ve GraphQL sorgularını destekleyen bir SubQuery düğüm paketi. Bu araçların yardımıyla herkes kolayca sorgu oluşturabilir ve çalıştırabilir.
 
-**SubQuery Github deposundaki örneğimizi izleyerek hemen başlayabilirsiniz: [_https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql)**
+**You can get started right away by following our example on the SubQuery Github repository: [_https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql)**
 
-Ek olarak, [SubQuery belgelerimizi](https://doc.subquery.network/) okuyarak veya [https://subquery.network/](https://subquery.network/) adresindeki yeni web sitemizi ziyaret ederek daha fazla bilgi edinebilirsiniz
+Ek olarak, SubQuery belgelerimizi okuyarak veya [https://subquery.network/](https://doc.subquery.network/) adresindeki yeni web sitemizi ziyaret ederek daha fazla bilgi edinebilirsiniz
 
 ![](https://miro.medium.com/max/1000/1*3oA1Hvns1vrImTsmowO_Jw.png)
 
@@ -44,27 +44,27 @@ Polkadot'un benzersiz mimarisi, tek bir ağa odaklanabileceğimiz ve daha sonra 
 
 SubQuery, blok zinciri ekiplerinin ve kullanıcıların düğümleri başlatması ve çok çeşitli blok zinciri protokollerine erişmesi için bir altyapı SaaS platformu olan OnFinality'deki ekip tarafından oluşturulacak. API paylaşımlı düğüm hizmetimiz ve altyapı yönetiminde veya bir protokol ekibinin CI/CD test hattının parçası olarak kullanılabilecek özel düğümler de dahil olmak üzere bir simbiyotik hizmetler paketimiz var. En iyi Polkadot/Substrate ekipleriyle ilişkilerimiz, Substrate/Polkadot ağı için yönetilen altyapı barındırma konusunda uzmanlığımız ve karmaşık altyapı projeleri sunma ve bunları üretim kullanımı için barındırma yeteneğimiz var.
 
-**Ian He —** Protokol Müdürü ([LinkedIn](https://www.linkedin.com/in/sam-zou-5b8169a/))
+**Sam Zou —** CEO ([LinkedIn](https://www.linkedin.com/in/sam-zou-5b8169a/))
 
 Girişimci, Altyapı ve bulut hizmeti tasarımında uzmanlaşmış 20 yılı aşkın BT deneyimine sahip yatırımcılar
 
-**Ian He —** Protokol Müdürü ([LinkedIn](https://www.linkedin.com/in/yin-he-7a266345/))
+**Ian He —** Head of Protocol ([LinkedIn](https://www.linkedin.com/in/yin-he-7a266345/))
 
 Blockchain Mimarı, Polkadot-js'ye Katkıda Bulunan, Substrate teknolojisini erken benimseyen ve ilk Polkadot hackathon'unda ikincilik kazandı.
 
-**James Xu —** Çözüm Mimarı ([LinkedIn](https://www.linkedin.com/in/zhexu/))
+**James Xu —** Solutions Architect ([LinkedIn](https://www.linkedin.com/in/zhexu/))
 
-Altyapı ve Uygulama Mimarı, Ödüllü yazılım mühendisi.
+Altyapı ve Uygulama Mimarı, Ödüllü yazılım mühendisi
 
-**James Bayly** — İş Geliştirme Müdürü ([LinkedIn](https://www.linkedin.com/in/james-bayly/))
+**James Bayly** — Head of Business Development ([LinkedIn](https://www.linkedin.com/in/james-bayly/))
 
 Buradan başlayın [SubQuery Github repository.](https://github.com/OnFinality-io/subql)
 
 Okuyun [SubQuery docs](https://doc.subquery.network/)
 
-[Yeni web sitemizi ziyaret edin](https://subquery.network/)
+[Visit our new website](https://subquery.network/)
 
-Bizi takip edin:
+Bizi takip edin
 
 - [Telegram](https://t.me/subquerynetwork)
 - [Twitter](https://twitter.com/subquerynetwork)
