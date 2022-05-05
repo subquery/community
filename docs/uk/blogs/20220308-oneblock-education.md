@@ -1,14 +1,14 @@
-# SubQuery Extends Partnership with OneBlock+ To Promote Blockchain Education in China
+# SubQuery розширює партнерство з OneBlock+, щоб просувати блокчейн-освіту в Китаї
 
 ![](https://miro.medium.com/max/1400/0*vr-DzLokDkkiY4ss)
 
-Today we are excited to announce the continuation of our partnership with OneBlock+ to run a second round of the ["Hero Course"](https://doc.subquery.network/academy/herocourse/) in China starting in early April.
+Сьогодні ми раді оголосити про продовження нашого партнерства з OneBlock+, щоб провести другий раунд ["Курсу героїв"](https://doc.subquery.network/academy/herocourse/) у Китаї, який розпочнеться на початку квітня.
 
-SubQuery's mission of making the world's decentralised data more accessible relies on having a network of developers who are familiar with the solution. OneBlock+ are a recognised leader in blockchain education in China and helped us run a tailored version of our existing course renamed "SubQuery for Beginners --- To Learn Blockchain Data Indexing in an Easy Way."
+Місія Subqueries щодо підвищення доступності децентралізованих даних у всьому світі залежить від наявності мережі розробників, знайомих з рішенням. OneBlock + є визнаним лідером в області блокчейн-освіти в Китаї та допомогла нам запустити адаптовану версію нашого що існує курсу, перейменованого в "Під запит для початківців - як легко навчитися індексувати дані блокчейн"
 
-The course took in 90 students who participated in six lessons running from 10th January until the graduation ceremony on 28 February. The first batch of students learnt via WeChat and live Technical Workshops as part of their regular Substrate Saturday programme. OneBlock+ also provided additional learning support to students via weekly "Office Hours" on Tencent's Conference platform.
+У курсі взяли участь 90 студентів, які пройшли шість уроків з 10 січня до випускної церемонії 28 лютого. Перша група студентів навчалася через WeChat та живі технічні семінари в рамках їхньої звичайної суботньої програми Substrate. OneBlock+ також надав студентам додаткову підтримку в навчанні через щотижневі «Офісні години» на платформі Tencent's Conference.
 
-> _"Thanks to OneBlock+ and SubQuery for creating such a great course. The curriculum is good and I was able to master the use of SubQuery by completing the course. I found it was difficult and complex for data indexing during the development of a project. When I was looking for solutions, I coincidentally got into the course. I felt that the SubQuery's framework was clear and easy to use, and my team and I had started developing with SubQuery since then which had greatly reduced our workload. SubQuery will be an important tool in our subsequent projects."_ - Peng, Student Representative
+> _"Спасибі OneBlock+ і SubQuery за створення такого чудового курсу. Навчальна програма хороша, і я зміг освоїти використання підзапитів, пройшовши курс. Я виявив, що під час розробки проєкт індексація даних була складною та складною. Коли я шукав рішення, я випадково потрапив на цей курс. I felt that the SubQuery's framework was clear and easy to use, and my team and I had started developing with SubQuery since then which had greatly reduced our workload. SubQuery will be an important tool in our subsequent projects."_ - Peng, Student Representative
 
 One Block+ developed the world's first substrate developers course with engineers from Parity Asia and are recognised as leaders in blockchain education within China and around the world.
 
