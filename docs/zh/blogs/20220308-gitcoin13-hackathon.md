@@ -21,12 +21,12 @@ SubQuery的使命是使世界分散化数据更易于获取，取决于是否有
 
 ## 关于 Gitcoin
 
-[Gitcoin](http://www.gitcoin.co) is on a mission to build an internet that is open source, collaborative, and economically empowering. Gitcoin is creating community and infrastructure for Web 3 --- a diverse range of tools, technologies, and networks that enable people to work for the open internet. By funding projects, building community, and making learning resources accessible, Gitcoin is teaming up to create the digital public infrastructure of tomorrow.
+[Gitcoin](http://www.gitcoin.co)的使命是建立一个开源、协作和经济授权的互联网 Gitco币正在为 Web 3 创建社区和基础结构 --- 一系列不同的工具 ，使人们能够为开放的互联网而工作的技术和网络。 通过资助项目、建设社区和使学习资源易于获取，Gitcoin正在携手建立未来的数字公共基础设施。
 
-[Discord](https://discord.gg/6PZUM3cFpz) | [Website](http://www.gitcoin.co) | [Twitter](https://twitter.com/gitcoin) | [GitHub](https://github.com/gitcoinco/) |
+[Discord](https://discord.gg/6PZUM3cFpz) | [Website](http://www.gitcoin.co) | [Twitter](https://twitter.com/gitcoin) | [GitHub](https://github.com/gitcoinco/)|
 
-## About SubQuery
+## 关于 SubQuery
 
-[SubQuery](https://subquery.network) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. The protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+[SubQuery](https://subquery.network)是一个去中心化的的数据聚合，索引和查询层，存在于Layer-1区块链和去中心化的应用程序之间。 该协议通过SubQuery SDK抽象了区块链数据特性，允许开发人员专注于部署他们的核心产品，而不必在自定义后端技术上浪费不必要的精力。
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
