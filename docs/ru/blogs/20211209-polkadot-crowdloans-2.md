@@ -14,7 +14,7 @@ SubQuery — это ведущая служба индексирования д�
 
 ![](https://miro.medium.com/max/1920/0*QLdNkyaQBBj3L9Eu)
 
-But it’s not the number of contributions that matters here, rather the value of those contributions. Как вы можете видеть на графике ниже, аукцион был невероятно напряженным, и лидерство переходило между командами через аукцион.
+Но здесь важно не количество вкладов, а ценность этих вкладов. Как вы можете видеть на графике ниже, аукцион был невероятно напряженным, и лидерство переходило между командами через аукцион.
 
 ![](https://miro.medium.com/max/1920/0*AGGfB2oBSwoplGhv)
 
@@ -22,37 +22,37 @@ But it’s not the number of contributions that matters here, rather the value o
 
 ![](https://miro.medium.com/max/1920/0*UK4Drn6LXcjebF_V)
 
-For the first event occurred on the 12th of November at 2:26am UTC when an account linked to Binance deposited in quick succession, 2,005,295 DOT (US$73.5 million) to Astar and 1,026,763 DOT (US$37.9 million) to Parallel Finance. This is likely Binance providing the contributions that it collects from it’s own community to each crowdloan.
+Первое событие произошло 12 ноября в 2:26 утра по всемирному координированному времени, когда аккаунт, связанный с Binance, быстро пополнил счет: 2 005 295 DOT (73,5 млн долларов США) в Astar и 1 026 763 DOT (37,9 млн долларов США) в Parallel Finance. Скорее всего, это Binance, предоставляющая займы, которые она собирает от своего сообщества, для каждого краудзайма.
 
-The second even was a bit weirder, and was rather 25 separate events.In a 11 minutes, Parallel’s Crowdloan proxy vehicle made 25 identical contributions of 98,982 DOT (US$3,639,568.14) each to Parallel totalling 2,474,550 DOT (US$90,989,203.50). It’s not clear why these deposits were made via smaller DOT amounts, potentially Parallel’s Crowdloan proxy vehicle was set up to contribute a maximum amount of this value each time.
+Второй был еще более странным и состоял из 25 отдельных событий. За 11 минут прокси-машина Parallel Crowdloan сделала 25 одинаковых взносов по 98 982 DOT (3 639 568,14 долларов США) каждый в Parallel на общую сумму 2 474 550 DOT (90 989 203,50 долларов США). Непонятно, почему эти депозиты были сделаны с помощью меньших сумм DOT, потенциально прокси-машина Parallel Crowdloan была настроена для внесения максимальной суммы этого значения каждый раз.
 
 ![](https://miro.medium.com/max/1920/0*ZErTVoVAvSJvaIsL)
 
-Astar and Parallel Finance led a very competitive auction, where Astar was selected as the winner at block [7927110](https://polkadot.subscan.io/block/7927110), with a lead of only 120,000 DOT. If there was another random block selected any earlier or later, the result may have been quite different.
+Astar и Parallel Finance провели очень конкурентный аукцион, на котором Astar была выбрана победителем в блоке [7927110](https://polkadot.subscan.io/block/7927110) с преимуществом всего в 120 000 DOT. Если бы раньше или позже был выбран другой случайный блок, результат мог бы быть совсем другим.
 
-So who is contributing? Firstly there are two massive whales that are responsible for a combined 41% of all contributions and 69.34% of all value (13,756,262 DOT). These two accounts represent Parallel Finance’s Crowdloan proxy vehicle and Binance. Kraken and Bifrost’s SALP program were also represented in the top 6 contributors. Parallel’s Crowdloan proxy vehicle was particularly prevalent in our results with over 9.3 million DOT contributed (US$344.6 million) representing over 47% of all contributions.
+Так кто участвовал? Во-первых, есть два крупных кита, на долю которых в совокупности приходится 41% всех вкладов и 69,34% всей стоимости (13 756 262 DOT). Эти две учетные записи представляют собой прокси-сервера Crowdloan от Parallel Finance и Binance. Программа Kraken и Bifrost SALP также была представлена в топ-6 участников. Прокси-машина Parallel Crowdloan была особенно распространена в наших результатах: более 9,3 миллиона вкладов DOT (344,6 миллиона долларов США), что составляет более 47% всех вкладов.
 
-Unfortunately this high percentage means that comparing the average contribution size is difficult, since this proxy obscures the contribution data way too much. In the future, we might even dive deep into Parallel’s data and use this to determine exactly how many of these contributions come from whales versus individual small cap investors.
+К сожалению, такой высокий процент означает, что сравнение среднего размера взноса затруднено, поскольку этот прокси слишком сильно скрывает данные о вкладе. В будущем мы могли бы даже углубиться в параллельные данные и использовать их, чтобы определить, сколько из этих вкладов поступает от китов по сравнению с отдельными инвесторами с малой капитализацией.
 
-Having two auctions that have been extremely competitive suggests a healthy ecosystem, and it is encouraging to see the amount of commitment that the community has shown. Here at SubQuery we are very excited to continue working alongside the best Polkadot projects, and can’t wait to see what the future has in store for us.
+Наличие двух аукционов, которые были чрезвычайно конкурентоспособными, свидетельствует о здоровой экосистеме. Также отрадно наблюдать степень приверженности, которую продемонстрировало сообщество. Здесь, в SubQuery, мы очень рады продолжить работу вместе с лучшими проектами Polkadot, и нам не терпится увидеть, что готовит нам будущее.
 
 ---
 
-## About SubQuery Network
+## О SubQuery Network
 
-SubQuery is Polkadot’s leading data provider, supporting an indexing & querying layer between Layer-1 blockchains (Polkadot) and decentralized applications. SubQuery’s data service is being used by most of the Polkadot and Kusama crowdloan and parachain auction websites live today.
+SubQuery — это ведущий поставщик данных для Polkadot, поддерживающий индексирование & слой запросов между блокчейнами уровня 1 (Polkadot) и децентрализованными приложениями. Служба данных SubQuery используется большинством веб-сайтов краудлоанам Polkadot и Kusama и веб-сайтов аукционов парачейн, работающих сегодня.
 
-SubQuery’s protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+Протокол SubQuery абстрагируется от особенностей данных блокчейна с помощью SubQuery SDK, позволяя разработчикам сосредоточиться на развертывании своего основного продукта, не тратя зря усилия на настраиваемые серверные технологии.
 
 ​​​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
 
-## Appendix
+## Приложение
 
-All USD prices are quoted at the price at the 3rd Auctions’s close = USD$36.77
+Все цены в долларах США указаны по цене закрытия 3-го аукциона = 36,77 долларов США
 
-All data is from the start of the Polkadot Crowdloans to the completion of the third auction on 3rd December 1.43AM UTC (block 7,957,704).
+Все данные приведены с момента начала краудзаймов Polkadot до завершения третьего аукциона 3 декабря в 1:43 утра по всемирному координированному времени (блок 7 957 704).
 
-Excluded Crowdloan Sites
+Использованные сайты краудзаймов
 
 - [Acala LCDOT](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157)
 - [Binance Crowdloan](https://www.binance.com/en/dotslot)
