@@ -12,13 +12,13 @@ Polkadot'taki lider veri indeksleme çözümü olan SubQuery, son [Encode Club](
 
 Bir DeFi botu oluşturmanın ilk zorluğu, Acala/Karura platformundaki fırsatlardan yararlanmak için DeFi etkinliğinden ve SubQuery aracılığıyla zincir üstü veya toplu verilerden yararlanan bir bot oluşturabilen katılımcılar için 3,500 dolarlık ödüle sahipti.
 
-The team at [Krakura](https://github.com/houtenbos/krakura-bot) won this challenge with an interesting open source DEX exchange arbitrage bot built specifically for Karura. [The arbitrage bot](https://github.com/houtenbos/krakura-bot) constantly checks for pricing differences between the two platforms and executes trades when they are profitable.
+[Krakura'daki](https://github.com/houtenbos/krakura-bot) ekip, özellikle Karura için oluşturulmuş ilginç bir açık kaynaklı DEX değişim arbitraj botu ile bu mücadeleyi kazandı. [Arbitraj botu](https://github.com/houtenbos/krakura-bot), iki platform arasındaki fiyat farklılıklarını sürekli olarak kontrol eder ve kârlı olduklarında işlemleri gerçekleştirir.
 
 [Krakura'nın bir video demosunu izleyin](https://youtu.be/G7TNTzMDijU)
 
-## Dashboard or Analytics Tool
+## Gösterge Tablosu veya Analitik Aracı
 
-4.000 $ değerindeki ikinci zorluk, geliştiricilerden Karura verilerine dayalı bir gösterge tablosu veya analitik aracı oluşturmak için SubQuery'nin veri indeksleme hizmetlerinden yararlanmalarını istedi. The winner of this challenge was the team from [Polkadata](https://www.polkadata.xyz/), a data analytics platform for DeFi investors to track how smart money is investing and structuring their portfolio on Karura.
+4.000 $ değerindeki ikinci zorluk, geliştiricilerden Karura verilerine dayalı bir gösterge tablosu veya analitik aracı oluşturmak için SubQuery'nin veri indeksleme hizmetlerinden yararlanmalarını istedi. Bu zorluğun galibi, DeFi yatırımcılarının akıllı paranın ne kadar akıllıca yatırım yaptığını ve portföylerini Karura'da yapılandırdığını takip eden bir veri analizi platformu olan [Polkadata'dan](https://www.polkadata.xyz/) gelen ekip oldu.
 
 “_Encode Hackathon, Polkadot ekosistemindeki tutkulu inşaatçılar ile bağlantı kurmak ve işbirliği yapmak için harika bir fırsat sağladı. Encode ekibi, ortak kuruluşlar ve diğer bilgisayar korsanları da dahil olmak üzere dahil olan herkes sıcakkanlı ve olağanüstü yardımcıydı. Ek olarak, net yönergelere ve kesin teslim tarihlerine sahip olmak, ekibimize MVP'yi oluşturmanın anahtarı olan bir aciliyet duygusu verdi._
 
@@ -26,7 +26,7 @@ _Hackathon'un en iyi yanı, bilgisayar korsanlarıyla tanışmak ve inşa ettiğ
 
 ![](https://miro.medium.com/max/1400/0*o01LCEIOu-FyUOWx)
 
-## Build a DeFi DApp
+## Bir DeFi DApp oluşturun
 
 Bu meydan okuma, 3.500 $ değerinde tüm hackathon'un en büyük ödülünü ve 5.000 $'lık genel bir meydan okuma havuzunu içeriyordu.
 
@@ -34,20 +34,20 @@ Varlık 54, Defi DApp kategorisinde 3.500 $ alarak kazanan oldu. Entity 54, Acal
 
 [Entity 54'ün video demosunu izleyin](https://youtu.be/fU1BRVOtx2o)
 
-## Other Notable Entries
+## Diğer dikkate değer özellikler
 
 Kullanıcıların uyumlu kalmasına ve üçüncü taraf müdahalesine gerek kalmadan kripto vergilerini tamamlamasına yardımcı olan merkezi olmayan bir platform olan Defitax'ın çalışmasından oldukça etkilendik. Öncelikle Amerika'ya odaklanan ekip, vergi hesaplamalarının tüm karmaşık hesaplamalarını ve inceliklerini ele almakta başarılıdır, böylece sizin yapmanıza gerek kalmaz.
 
 Defitax'tan Shankar Rao Mata, bir elçi olarak bizimle yolculuğuna başlamış ve şimdi diğer tutkulu ve hırslı kişilerden oluşan bir ekiple Hackathon'a girdiği için SubQuery'ye zaten aşinaydı. Shankar hackathon'dan bahsetti, “_Encode Hackathon bizim için harika bir deneyimdi ve projemiz için mükemmel bir ortamdı. SubQuery, Defitax'ın başarılı olması için ihtiyaç duyduğumuz büyük miktarda dizine alınmış veriyi desteklemede etkili oldu ve olmaya devam edecek”._.
 
-Hem DeFi hem de Acala/Karura artan bir farkındalık düzeyi elde ederken, geliştirici topluluğundan gelen yanıtı görmek bizi heyecanlandırdı. To get things moving [SubQuery hosted a workshop where hackers learned how to index blockchain data](https://www.youtube.com/watch?v=QUtWC_LZM8Q) and get a node and query service running in only a few minutes.
+Hem DeFi hem de Acala/Karura artan bir farkındalık düzeyi elde ederken, geliştirici topluluğundan gelen yanıtı görmek bizi heyecanlandırdı. İşleri harekete geçirmek için [SubQuery, bilgisayar korsanlarının blok zinciri verilerini nasıl endeksleyeceğini öğrendiği](https://www.youtube.com/watch?v=QUtWC_LZM8Q) ve yalnızca birkaç dakika içinde çalışan bir düğüm ve sorgu hizmeti aldığı bir atölyeye ev sahipliği yaptı.
 
-Sam Zou, the Founder of SubQuery said _“SubQuery is thrilled to support the developer community and the next generation of Polkadot projects through Encode Club’s Polkadot Hackathon. SubQuery, geliştiricilerin DeFi gibi alanlarda oyunun kurallarını değiştiren DApp'ler oluşturmaları için temel bir katman sağlar; bu nedenle, insanları bizi Web3 geleceği vizyonumuza yaklaştıran araçlar ve uygulamalar oluşturmaya teşvik etmek istiyoruz"_
+SubQuery'nin Kurucusu Sam Zou, _"SubQuery, Encode Club'ın Polkadot Hackathon'u aracılığıyla geliştirici topluluğunu ve yeni nesil Polkadot projelerini desteklemekten heyecan duyuyor. SubQuery, geliştiricilerin DeFi gibi alanlarda oyunun kurallarını değiştiren DApp'ler oluşturmaları için temel bir katman sağlar; bu nedenle, insanları bizi Web3 geleceği vizyonumuza yaklaştıran araçlar ve uygulamalar oluşturmaya teşvik etmek istiyoruz"_
 
-Hackathon'dan sonra projeler, Encode tarafından yürütülen 10 haftalık Polkadot Accelerator programına başvurmaya hak kazanır. Many of these projects are right in the middle of this Accelerator and all are invited to apply to SubQuery’s recently announced [Grants Programme](https://subquery.network/grants).
+Hackathon'dan sonra projeler, Encode tarafından yürütülen 10 haftalık Polkadot Accelerator programına başvurmaya hak kazanır. Bu projelerin çoğu, bu Hızlandırıcının tam ortasındadır ve tümü, SubQuery'nin yakın zamanda duyurulan [Hibe Programına](https://subquery.network/grants) başvurmaya davet edilir.
 
-## About SubQuery
+## SubQuery Hakkında
 
-[SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. Bu hizmet, zincir verilerinin kilidini açar ve sezgisel uygulamalarda kullanılabilmesi için sorgulanabilir bir duruma dönüştürür. DApp geliştiricilerinin, veri işleme için özel bir arka uç oluşturmaya zaman kaybetmeden temel kullanım durumlarına ve ön uçlarına odaklanmalarına olanak tanır. Yaklaşan SubQuery Ağı, herkesin web3 veri devrimine katılmasına izin vermek için ekosistemi merkezileştirmeyecek ve belirtecektir.
+[SubQuery](https://subquery.network/), Katman-1 blok zincirleri ve merkezi olmayan uygulamalar arasında merkezi olmayan bir veri toplama, indeksleme & ve sorgulama katmanıdır. Bu hizmet, zincir verilerinin kilidini açar ve sezgisel uygulamalarda kullanılabilmesi için sorgulanabilir bir duruma dönüştürür. DApp geliştiricilerinin, veri işleme için özel bir arka uç oluşturmaya zaman kaybetmeden temel kullanım durumlarına ve ön uçlarına odaklanmalarına olanak tanır. Yaklaşan SubQuery Ağı, herkesin web3 veri devrimine katılmasına izin vermek için ekosistemi merkezileştirmeyecek ve belirtecektir.
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
