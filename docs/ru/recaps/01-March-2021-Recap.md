@@ -19,7 +19,7 @@
 
 ## **SubQuery получает $1.8M на раннем стадии инвестирования для дальнейшего развития**
 
-SubQuery готов к росту и развитию! [We successfully raised a US$1.8 million seed round](../blogs/20210312-SubQuery-Raises-%241.8M-Seed-Round-for-Future-Expansion.md) and private sale backed primarily by DeFi Alliance, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG), and The Lao. Огромный интерес, который мы получили к поддержке начального раунда SubQuery, свидетельствует о сильном интересе к инфраструктуре и вере в будущее экосистемы Polkadot.
+SubQuery готов к росту и развитию! [Мы успешно получили 1.8$M от инвесторов на раннем стадии инвестирования](../blogs/20210312-SubQuery-Raises-%241.8M-Seed-Round-for-Future-Expansion.md), а также провели частную продажу, поддержанную в основном: DeFi Alliance, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG), and The Lao. Огромный интерес, который мы получили к поддержке начального раунда SubQuery, свидетельствует о сильном интересе к инфраструктуре и вере в будущее экосистемы Polkadot.
 
 _Мы планируем последующую частную продажу позднее в этом году. Если вы заинтересованы в участии, пожалуйста, зарегистрируйтесь здесь:_ [_https://forms.gle/6LMapDNSidQAqy347_](https://forms.gle/6LMapDNSidQAqy347)
 
@@ -27,7 +27,7 @@ _Мы планируем последующую частную продажу п
 
 SubQuery - это полный пакет услуг по предоставлению данных нашим партнерам и клиентам. Каждая блокчейн команда и разработчики децентрализованных приложений должны быстро обрабатывать и запрашивать данные, а также реализовывать web3 мечты, он должен быть такой же быстрый (если не быстрее) чем централизованные сети для конечного пользователя. Вот почему мы прилагаем усилия к сотрудничеству с лучшими проектами Polkadot для предоставления бесплатных сервисов SubQuery для их протоколов.
 
-[Earlier we launched our first partnership with our close friends at Acala](../customer_announcements/20210316-SubQuery-Integrates-Acala-to-Aggregate-and-Serve-DeFi-Data-to-Polkadot-and-Kusama-Builders.md) to allow users and developers to query and extract data from Acala’s DeFi hub for Polkadot in only minutes and at no cost. Когда вы заходите в SubQuery Explorer, вас приветствуют новый Acala SubQuery проект. Этот субзапрос динамически отслеживает все дополнительные данные, созданные на Акале, и может быстро показать полученную агрегированную статистику по следующим вопросам:
+[Ранее мы начали свое первое партнерство с нашими близкими друзьями из Acala](../customer_announcements/20210316-SubQuery-Integrates-Acala-to-Aggregate-and-Serve-DeFi-Data-to-Polkadot-and-Kusama-Builders.md), которое позволило пользователям и разработчикам запрашивать и извлекать данные из Acala DeFi хаба для Polkadot всего за несколько минут и абсолютно бесплатно. Когда вы заходите в SubQuery Explorer, вас приветствуют новый Acala SubQuery проект. Этот субзапрос динамически отслеживает все дополнительные данные, созданные на Акале, и может быстро показать полученную агрегированную статистику по следующим вопросам:
 
 - Исторические данные с изменениями ликвидности (доказано поставщиками)
 - Исторические данные обо всех межсетевых обменах активами
@@ -35,23 +35,23 @@ SubQuery - это полный пакет услуг по предоставле
 
 ![](https://miro.medium.com/max/1400/0*LOig1jNfPTuVk73D)
 
-You could create a dApp for lenders showing collateralization ratio, loan amount, interests accrued, etc. Or a service for decentralised exchanges with pair liquidity, pair exchange rate, trading volumes.
+Вы можете создать децентрализованное приложение для кредиторов, которое показывает соотношения залога, суммы займа, процентов и другое. Или услугу по децентрализованным биржам с ликвидностью пар, обменным курсом и объемом торгов.
 
-We’re planning to improve our partnership tools very soon and are planning on onboarding other top protocols in the next week or two at a rapid pace.
+В ближайшее время мы планируем улучшить инструменты партнерства, и в течение следующей недели или двух планируем сотрудничество с другими топовыми протоколами.
 
-_Do you want to get started and create a new SubQuery project for your own dApp —_ [_get started now_](https://doc.subquery.network/quickstart.html)_. We’ll even host it in our_ [_SubQuery Explorer_](../blogs/20210305-Announcing-the-SubQuery-Explorer.md) _for free!_
+_Если вы хотите начать работу и создать новый проект на основе SubQuery для своего децентрализованного приложения —_ [_начните прямо сейчас_](https://doc.subquery.network/quickstart.html)_. Мы даже разместим его у нас на [_SubQuery Explorer_](../blogs/20210305-Announcing-the-SubQuery-Explorer.md) _абсолютно бесплатно!_
 
 ## **Berkeley Blockchain Xcelerator**
 
-[We were excited to announce in March](../blogs/20210523-SubQuery-Joins-Berkeleys-Blockchain-Xcelerator.md) that Berkeley has selected SubQuery to be part of their exclusive [Blockchain Xcelerator](https://www.xcelerator.berkeley.edu/). SubQuery (and it’s parent company OnFinality) were selected from over 200 applications to be part of just 21 exclusive spots.
+[В марте мы были рады объявить](../blogs/20210523-SubQuery-Joins-Berkeleys-Blockchain-Xcelerator.md), что Berkeley выбрал SubQuery в качестве участника их эксклюзивного [Blockchain Xcelerator](https://www.xcelerator.berkeley.edu/). SubQuery (и его материнская компания OnFinality) была выбрана из более чем 200 приложений, чтобы стать частью всего 21 эксклюзивных мест.
 
-Berkeley’s blockchain Xcelerator is known around the world as one of the most successful blockchain accelerators for a reason. It has incubated over 40 companies that have raised over $25M in seed and early stage funding, and over 75% of the inaugural batch raised follow-on funding.
+Блокчейн Xcelerator от Berkeley известен во всем мире как один из наиболее успешных блокчейн-аккселераторов не без причины. Он инкубировал более 40 компаний, которые собрали более 25$M на ранних стадиях инвестирования, а также более 75% всех инкубированных проектов воспользовались финансирования в дальнейшем.
 
 ![](https://miro.medium.com/max/1400/0*t-_mRJaTnGDQO-VI)
 
 ## **Интеллектуальная маршрутизация**
 
-We’ve recently been [awarded a treasury grant](https://kusama.polkassembly.io/treasury/72) to complete an intelligent routing layer that allows us to expose multiple clusters behind a single endpoint. This will allow us to scale our service better, and quickly fall over to redundant clusters in the unlikely event that some of our infrastructure goes down. Both OnFinality and SubQuery rely on this infrastructure so it’s important that we continue to invest and improve here.
+Недавно мы были [награждены грантом "казны"](https://kusama.polkassembly.io/treasury/72) для завершения интеллектуального слоя маршрутизации, который позволяет нам выявлять несколько кластеров за одну конечную точку. Это позволит нам улучшить качество сервиса, и быстро опуститься на избыточные кластеры в маловероятном случае, если некоторые из наших объектов инфраструктуры перестанут работать. Both OnFinality and SubQuery rely on this infrastructure so it’s important that we continue to invest and improve here.
 
 ## **Новый персонал и офис**
 
