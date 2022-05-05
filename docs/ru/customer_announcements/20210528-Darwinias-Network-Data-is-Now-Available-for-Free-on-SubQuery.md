@@ -2,13 +2,13 @@
 
 ![](https://miro.medium.com/max/1400/0*7_sagAfI_wTKePuH)
 
-**中文阅读版本请见下方**
+**Версию для чтения на китайском языке смотрите ниже**
 
 **Мы рады сообщить, что SubQuery и Darwinia Network создали стратегическое партнерство.**
 
 [Darwinia](https://darwinia.network/) недавно выпустила два новых проекта SubQuery один для их [основной сети](https://explorer.subquery.network/subquery/darwinia-network/darwinia) и другой для [Crab](https://explorer.subquery.network/subquery/darwinia-network/crab), их канарейной сети. Darwinia раскрывает свои данные на SubQuery открывая возможности для их применения и более эффективного использования в этой бесплатной системе данных.
 
-> _"Using SubQuery to query Darwinia’s on-chain data has become very simple and flexible. SubQuery рассматривает данные блокчейна как график, и использует расширяемость GraphQL для внедрения дополнительных функций. We believe that in the future, the data interface on the substrate chain will mainly use GraphQL, SubQuery is making this a reality"_ — Darwinia
+> _"Использование SubQuery для запроса он-чейн данных Darwinia стало очень простым и гибким. SubQuery рассматривает данные блокчейна как график, и использует расширяемость GraphQL для внедрения дополнительных функций. Мы считаем, что в будущем интерфейс данных на цепочке substrate будет использовать в основном GraphQL, SubQuery делает это реальностью"_ — Darwinia
 
 [Сервис SubQuery](https://subquery.network/) помогает Darwinia разблокировать данные цепи и сделать их более доступными для их прикладной экосистемы. Приложения, например рынок NFT, могут использовать данные SubQuery Darwnia для показа статистики аукционов, и даже могли бы расширить проект Darwinia SubQuery для обобщения и преобразования данных в целях обеспечения еще более уникальных представлений данных.
 
@@ -32,7 +32,7 @@ Darwinia использует [SubQuery Projects](https://project.subquery.netwo
 
 Darwinia Network – это децентрализованный гетерогенный межсетевой протокол мостов, построенный на Substrate, фокусирующийся на децентрализованном обмене между различными токенами, биржах и рынке.
 
-Darwinia также служит важнейшей инфраструктурой для обновления приложений в рамках одной цепочки, включая Defi, Game, DEX, рынок NFT и т.д. Их цель заключается в создании будущего Интернета Токенов.
+Darwinia также служит важнейшей инфраструктурой для обновления приложений в рамках одной цепочки, включая Defi, Game, DEX, рынок NFT и т.д. Их цель заключается в создании будущего Интернета Токенов. Их цель заключается в создании будущего Интернета Токенов.
 
 Все, что вам нужно знать о Darwinia
 
