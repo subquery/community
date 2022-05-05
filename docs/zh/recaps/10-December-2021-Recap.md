@@ -68,55 +68,55 @@ SubQuery去年很荣幸与Acala合作举办Encode Club Hackathon，以支持开�
 
 经过10周的审查和波卡生态系统中知名法官的审查，如Bryan Chen（Acala联合创始人兼首席技术官）、Hang Yin（Phala Network联合创始人）、Jack Platts（Hypersphere Ventures联合创始人）和Sota Watanabe（Astar创始人、Stack Technologies首席执行官），我们很高兴分享我们挑战的赢家。
 
-🤖 The “build a bot” challenge was won by the team at Krakura with an interesting open-source DEX arbitrage bot that constantly checks for pricing differences.
+🤖 Krakura的团队赢得了“构建机器人”挑战，他们使用了一个有趣的开源DEX套利机器人，该机器人不断检查定价差异：https://youtu.be/G7TNTzMDijU.
 
-<iframe width="680" height="382" src="https://www.youtube.com/embed/G7TNTzMDijU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="680" height="382" src="https://www.youtube.com/embed/G7TNTzMDijU" title="YouTube视频链接：" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-📈 The winner of the Dashboard challenge with AcalaNetwork was the team at Polkadata, a data analytics platform for DeFi investors to track how smart money is investing and structuring their portfolio on Karura
+📈 AcalaNetwork仪表盘挑战赛的获胜者是Polkadata的团队，Polkadata是一个数据分析平台，供DeFi投资者跟踪smart money如何在Karura上投资和构建其投资组合：
 
 [http://polkadata.xy](http://polkadata.xy/)
 
-🪙 Entity 54 were the winners in the AcalaNetwork Defi DApp category. Entity 54 is a DApp that connects to AMTC6 via Acala API/EVM and reads account balances, loans and allows swaps, transfers, loan adjustments and transfers plus reads coin and loan data
+Entity54是AcalaNetwork Defi DApp类别的优胜者。 Entity54是一个DApp，通过Acala API/EVM连接到AMTC6，读取账户余额、贷款，并允许掉期、转账、贷款调整和转账，以及读取硬币和贷款数据：https://youtu.be/fU1BRVOtx2o
 
-<iframe width="680" height="382" src="https://www.youtube.com/embed/fU1BRVOtx2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="680" height="382" src="https://www.youtube.com/embed/fU1BRVOtx2o" title="YouTube视频链接：" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Read more here](../blogs/20220120-gr12-winners.md)
+[阅读更多](../blogs/20220120-gr12-winners.md)
 
-### SubQuery Partners with OneBlock+ To Educate Blockchain Developers in China
+### SubQuery 与 OneBlock+ 达成合作以培养中国的区块链开发者
 
-SubQuery’s community has always been global, and a huge number of SubQuery’s customers come from the thriving Polkadot community in China.
+SubQuery的社区一直是全球性的，SubQuery的大量客户来自中国蓬勃发展的Polkadot社区。
 
-SubQuery recently launched the SubQuery Academy to upskill blockchain developers globally, specifically in the area of data indexing in the Polkadot ecosystem. The existing “Hero Course” has been translated to Chinese and will be delivered via WeChat. OneBlock+ will provide additional learning support to students via weekly “Office Hours” on Tencents Conference platform.
+SubQuery最近启动了SubQuery Academy，以提高区块链开发人员的全球技能，特别是在Polkadot生态系统中的数据索引领域。 现有的“英雄课程”已经翻译成中文，将通过微信发布。 OneBlock+将通过腾讯会议平台每周的“办公时间”为学生提供额外的学习支持。
 
-The delivery of this course in China is the embodiment of SubQuery’s dedication to providing local language support for all of our communities around the world. [Read more here](../blogs/20211209-oneblock-education.md)
+本课程在中国的开设体现了SubQuery致力于为全球所有社区提供本地语言支持。 [在这里阅读更多](../blogs/20211209-oneblock-education.md)
 
-### Inside The Polkadot Crowdloans (Part 2)
+### Polkadot众贷部分（第2部分）
 
-Like any keen fan of the Polkadot ecosystem, we were fascinated by the recent Polkadot crowdloan process and decided to put our data to work! After examining the battle between Acala and Moonbeam we conducted more analysis on how the Astar and Parallel Finance auction shaped up.
+像所有波卡生态系统的狂热粉丝一样，我们对最近的波卡众贷流程着迷，并决定将我们的数据投入工作！ 在考察了Acala和Moonbeam之间的斗争之后，我们对Astar和平行金融拍卖的形成进行了更多的分析。
 
-In a nutshell, Astar and Parallel Finance led a very competitive auction, where Astar was selected as the winner at block [7927110](https://polkadot.subscan.io/block/7927110), with a lead of only 120,000 DOT! If there was another random block selected any earlier or later, the result may have been quite different.
+简言之，Astar和Parallel Finance领导了一场竞争激烈的拍卖会，Astar在block( 7927110)被选为赢家，领先仅120000点！ 如果之前或之后选择了另一个随机块，结果可能会截然不同。
 
-![](https://miro.medium.com/max/1400/1*2EnTjVHEztLqCDyoRoLasQ.png)
+![](拍卖的竞争非常激烈，这意味着一个健康的生态系统，看到社区所表现出的承诺是令人鼓舞的。)
 
-Having auctions that have been extremely competitive suggests a healthy ecosystem, and it is encouraging to see the amount of commitment that the community has shown. Here at SubQuery we are very excited to continue working alongside the best Polkadot projects, and can’t wait to see what the future has in store for us. [Read more here](../blogs/20211124-polkadot-crowdloans.md)
+拍卖的竞争非常激烈，这意味着一个健康的生态系统，看到社区所表现出的承诺是令人鼓舞的。 在SubQuery，我们非常高兴能够继续与最好的Polkadot项目合作，并且迫不及待地想看看未来会发生什么。 [在这里阅读更多](../blogs/20211124-polkadot-crowdloans.md)
 
-### Gitcoin Hackathon
+### Gitcoin黑客马拉松
 
-To continue our work in growing the developer community for SubQuery, [we participated in the recent Gitcoin GR 12 Hackathon](../blogs/20211120-gitcoin12-hackathon.md) from December 1–16th.
+为了继续发展SubQuery的开发者社区，我们于12月1日至16日参加了最近的Gitcoin GR 12 Hackathon。
 
-Partnering with our friends at Acala, Moonbeam and Astar, we had five different challenges with a total prize pool of $34,000 USDC. We were really encouraged by the quality of applications and will be announcing more details about the winners soon.
+我们与Acala、Moonbeam和Astar的朋友合作，共有五项不同的挑战，总奖金为34000美元。 我们因申请的项目质量而感到备受鼓舞，并将很快公布获奖者的更多细节。
 
 ![](https://miro.medium.com/max/1400/1*H84EaIQhTn5H0x-lWHyP3g.png)
 
-Our partnership with Gitcoin reflects our commitment to provide opportunities for motivated developers around the world to build the applications of tomorrow. As we grow there will be more hackathons and other opportunities from SubQuery to build projects so stay tuned!
+我们与Gitcoin的合作关系反映了我们的承诺，即为世界各地有志于开发未来应用程序的开发人员提供机会。 随着我们的发展，SubQuery将有更多的hackathons和其他机会来构建项目，所以请继续关注！
 
-## Other things you might have missed
+## 其他你可能错过的事情：
 
-- [**Solarbeam work with SubQuery for their new Eclipse Launchpad**](../customer_announcements/20211215-solarbeam.md)
-- Following the [Polkadot announcement](https://polkadot.network/blog/introducing-polkadot-kusama-gifts/) that you can gift DOT or KSM to friends or family, many have taken advantage of this and given the gift of a digital asset this year. In the spirit of Christmas s[ee our breakdown of Polkadot’s gifting data](../blogs/20211223-gifting.md)
+- [**Solarbeam与SubQuery合作**](../customer_announcements/20211215-solarbeam.md)
+- 在  [Polkadot 宣布](https://polkadot.network/blog/introducing-polkadot-kusama-gifts/)  后，您可以将 DOT 或 KSM 赠送给朋友或家人。 许多人已经利用了这一点，并在今年赠送了数字资产的礼物。 本着圣诞节的精神，[为我们的 Polkadot 礼物数据的故障](../blogs/20211223-gifting.md)
 
-As always, please [join our social channels](https://linktr.ee/subquerynetwork) (especially our [Discord](https://discord.com/invite/subquery)) to stay updated on our latest news and announcements.
+我们一如既往请您加入我们的社交渠道（特别是我们的Discord），随时了解我们的最新新闻和公告。
 
-James, Sam, and the SubQuery Team
+James, Sam, 和 SubQuery 团队
 
-[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork) | [网站](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
