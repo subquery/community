@@ -1,8 +1,8 @@
-# Dapplooker is Celebrated as the First Graduate from the SubQuery Grants Programme
+# Dapplooker відзначається як перший випускник програми грантів  SubQuery
 
 ![](https://miro.medium.com/max/700/0*m7loo6ZhFd_UrPtG)
 
-Today we are proud to highlight the phenomenal work of our first [SubQuery Grants Programme](https://subquery.network/grants) graduate! [Dapplooker](https://dapplooker.com/) have integrated with SubQuery so that beautiful and easy-to-build analytic tools such as explorers, charts and dashboards can be built on top of any SubQuery dataset.
+Сьогодні ми з гордістю висвітлюємо феноменальну роботу нашого першого випускника [програми грантів SubQuery](https://subquery.network/grants)! [Dapplooker](https://dapplooker.com/) інтегровано з SubQuery, тому красиві та прості у створенні аналітичні інструменти, такі як експолорери, діаграми та інформаційні панелі, можуть бути створені поверх будь-якого набору даних SubQuery.
 
 Whether a SubQuery project was built by you or someone else in the community, you can use DappLooker to graph, chart, and visualise the data from within it. Until now, SubQuery's managed service only provided a GraphQL endpoint, but with Dapplookers innovation you can now more easily explore hundreds of datasets and do analytics on SubQuery data using intuitive "Visual SQL".
 
