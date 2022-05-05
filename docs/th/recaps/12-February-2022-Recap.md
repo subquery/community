@@ -34,25 +34,25 @@ Dapplooker ตั้งเป้าที่จะส่งเสริมโป
 
 ## SubQuery Network
 
-### SubQuery Released our Updated Whitepaper
+### SubQuery เผยแพร่ Whitepaper ฉบับปรับปรุง
 
-[The SubQuery whitepaper](https://static.subquery.network/whitepaper.pdf) is a document that outlines our strategic framework for the decentralised SubQuery Network and her SQT token. Since the original publication in June 2021, we have experienced significant growth in our customer base and community and made huge progress on building the SubQuery Network. From these sources, we have been inspired to improve and innovate, and that culminates in the latest version of our [whitepaper](https://static.subquery.network/whitepaper.pdf).
+[SubQuery Whitepaper](https://static.subquery.network/whitepaper.pdf) คือเอกสารสรุปกรอบการทำงานเชิงกลยุทธ์ของเรา สำหรับโปรเจกต์การกระจายอำนาจ SubQuery Network และโทเค็น SQT นับตั้งแต่การเผยแพร่ครั้งแรกในเดือนมิถุนายน 2021 ฐานลูกค้าและชุมชนของเราได้เติบโตขึ้นอย่างมีนัยสำคัญ และมีความก้าวหน้าอย่างมากในการสร้าง SubQuery Network จากแหล่งข้อมูลเหล่านี้ทำให้เราได้รับแรงบันดาลใจในการปรับปรุงและสร้างสรรค์สิ่งใหม่ๆ และได้กลายมาเป็น [Whitepaper](https://static.subquery.network/whitepaper.pdf) เวอร์ชั่นล่าสุดของเรา
 
-The [updated whitepaper](https://static.subquery.network/whitepaper.pdf) maintains SubQuery's conviction that the data services of tomorrow must be multi-chain, simple, and flexible. The new version goes into detail on how the SubQuery Network factors these considerations into the token economic design while also enabling power users to run enterprise-level services.
+[Whitepaper ฉบับปรับปรุงนี้](https://static.subquery.network/whitepaper.pdf) รักษาความเชื่อมั่นของ SubQuery ที่ว่า บริการด้านข้อมูลแห่งอนาคตจะต้องเป็นมัลติเชน เรียบง่าย และยืดหยุ่น เอกสารเวอร์ชั่นใหม่นี้จะลงรายละเอียดว่า SubQuery Network มีปัจจัยในการพิจารณาออกแบบ Tokenomic อย่างไร ในขณะที่ยังคงเปิดให้ผู้ใช้ระดับองค์กรสามารถเรียกใช้บริการได้ด้วย
 
-There is significant new information in the whitepaper relating to SubQuery's innovation in payment models, providing all participants with various flexible ways to transact with the SubQuery Token (SQT).
+มีข้อมูลใหม่ที่สำคัญใน Whitepaper ที่เกี่ยวข้องกับนวัตกรรมของ SubQuery ในรูปแบบการชำระเงิน ซึ่งทำให้ผู้เข้าร่วมทุกคนมีวิธีการทำธุรกรรมกับ SubQuery Token (SQT) ที่ยืดหยุ่นหลากหลาย
 
 ![](https://miro.medium.com/max/1400/1*EhLefs3-lb47y2LC4Z6jWA.png)
 
-[Read more here](../blogs/20220216-whitepaper-update.md)
+[อ่านเพิ่มเติมได้ที่นี่](../blogs/20220216-whitepaper-update.md)
 
-## Core Product Development
+## การพัฒนาผลิตภัณฑ์หลัก
 
-### Dynamic Data Sources
+### Dynamic Data Source
 
-This is a signifiant improvement for the rapidly growing number of SubQuery's EVM customers. SubQuery is the only data indexing tool that allows indexing of both Substrate and EVM data from Polkadot parachains in a single location.
+เป็นการปรับปรุงที่สำคัญสำหรับจำนวนลูกค้า EVM ของ SubQuery ที่เติบโตอย่างรวดเร็ว SubQuery เป็นเครื่องมือสร้างดัชนีข้อมูลเพียงเครื่องมือเดียวที่อนุญาตให้สร้างดัชนีของทั้งข้อมูล Substrate และ EVM จาก Polkadot Parachain ในที่เดียว
 
-In certain situations, you don't know the parameters for a data source when the SubQuery project starts, for example in a DEX you don't know what new trading pairs will be enabled when you write your SubQuery project. SubQuery's [support for dynamic data sources](https://university.subquery.network/build/dynamicdatasources.html) allows developers to create new data sources from new smart contracts dynamically using templates to automate the indexing of new contracts.
+ในบางสถานการณ์ คุณไม่ทราบพารามิเตอร์สำหรับแหล่งข้อมูลเมื่อเริ่มโปรเจกต์ SubQuery เช่น ใน DEX คุณไม่ทราบว่าคู่เทรดใหม่ใดบ้างที่จะเปิดใช้งานเมื่อคุณเขียนโปรเจกต์ SubQuery SubQuery's [support for dynamic data sources](https://university.subquery.network/build/dynamicdatasources.html) allows developers to create new data sources from new smart contracts dynamically using templates to automate the indexing of new contracts.
 
 [Read more here](https://university.subquery.network/build/dynamicdatasources.html)
 
