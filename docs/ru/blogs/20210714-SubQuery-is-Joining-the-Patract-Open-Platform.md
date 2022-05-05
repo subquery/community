@@ -26,10 +26,10 @@ Patract Labs считает, что развитие контрактной те
 
 Patract Labs предоставляет решения для разработки Parachains и DApps в экосистеме смарт контрактов Wasm Polkadot. Мы помогаем сообществу проектировать и разрабатывать модули цепочек контрактов и поддержка времени выполнения, и предоставить DApp разработчикам широкого профиля поддержку инструментов и услуг, охватывающий этапы разработки, тестирования, отладки, развертывания, мониторинга, поставщика данных и клиентской разработки интерфейса.
 
-[Website](https://patract.io/)｜[Element](https://app.element.io/#/room/#PatractLabsDev:matrix.org)｜[Twitter](https://twitter.com/PatractLabs)｜[GitHub](https://github.com/patractlabs) ｜[Discord](https://discord.gg/yMRMqcAb24) ｜[Telegram](https://t.me/patract)
+[Веб-сайт](https://patract.io/)|[Элемент](https://app.element.io/#/room/#PatractLabsDev:matrix.org)|[Твиттер](https://twitter.com/PatractLabs)|[GitHub](https://github.com/patractlabs) |[Дискорд](https://discord.gg/yMRMqcAb24) |[Телеграм](https://t.me/patract)
 
 ## О SubQuery
 
 Миссия SubQuery — сделать мировые децентрализованные данные более доступными. SubQuery — это поставщик данных как услуги, который агрегирует и организует данные из проектов Polkadot и Substrate; это уполномочивает проекты Polkadot/Substrate для создания лучших DApp, предоставляя разработчикам хорошо структурированные данные.
 
-[Website](https://www.subquery.network/)丨[Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Linkedin](https://www.linkedin.com/company/subquery) | [Medium](https://subquery.medium.com/)丨[GitHub](https://github.com/subquery/subql) | [Matrix](https://matrix.to/#/#subquery:matrix.org)
+[Веб-сайт](https://www.subquery.network/) | [Телеграм](https://t.me/subquerynetwork) | [Твиттер](https://twitter.com/subquerynetwork) | [Linkedin](https://www.linkedin.com/company/subquery) | [Медиум](https://subquery.medium.com/) | [GitHub](https://github.com/subquery/subql) | [Matrix](https://matrix.to/#/#subquery:matrix.org)
