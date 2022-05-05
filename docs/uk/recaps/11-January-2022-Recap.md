@@ -62,39 +62,39 @@ SubQuery є рідною для Polkadot, це наш дім, і ми напол
 
 Команда `subql init` знайома всім, хто створив проєкт SubQuery; він являти собою чисте полотно — безмежні можливості. Ми усвідомлюємо, що ми можемо зробити краще, щоб допомогти іншим розпочати роботу, а не чистого полотна. Розробники хочуть порожній каркас, де весь стандартний код уже написаний.
 
-Сьогодні, коли ви пишете `subql init`, вам буде представлений список з 29 мереж, з яких ви отримаєте попередньо створений каркас з усіма правильними кінцевими точками, посиланнями на словники та навіть визначеннями типів. This eliminates one of the most difficult steps when starting a new SubQuery project and makes building your next big dApp that much easier and faster.
+Сьогодні, коли ви пишете `subql init`, вам буде представлений список з 29 мереж, з яких ви отримаєте попередньо створений каркас з усіма правильними кінцевими точками, посиланнями на словники та навіть визначеннями типів. Це усуває один із найскладніших кроків під час запуску нового проєкт SubQuery і робить створення вашого наступного великого dApp набагато простіше та швидше.
 
 ### Особливості агрегації даних
 
-SubQuery now supports advanced GraphQL aggregate functions to allow you to perform a calculation on a set of values during your query. These functions provide our customers a richer set of insights and calculations from their existing data set. For example with a single query you can calculate the median contribution amount for each crowdloan broken down by contribution date.
+SubQuery тепер підтримує розширені агрегатні функції GraphQL, щоб ви могли виконувати обчислення набору значень під час вашого запиту. Ці функції надають нашим клієнтам багатший набір уявлень та розрахунків із наявного набору даних. Наприклад, за допомогою одного запиту ви можете обчислити середню суму внеску для кожного краудіон з розбивкою за датою внеску.
 
-[Read more about how to use these features in our upgraded docs.](https://doc.subquery.network/query/aggregate/)
+[Дізнайтеся більше про використання цих функцій у наших оновлених документах.](https://doc.subquery.network/query/aggregate/)
 
 ### SubQuery співпрацює з Darwinia Network для створення інструменту CLI SubQuery
 
-Darwinia has partnered with SubQuery to build the plethora of applications that will be needed to provide the ultimate user experience for cross chain interactions. This includes a new [Smart App that is a central hub](https://apps.darwinia.network/) to manage all Darwinia network interactions including governance, staking, chain exploration and more. This app uses a considerable amount of [SubQuery data to show historic data and actions](https://explorer.subquery.network/subquery/darwinia-network/smart-app-crab). SubQuery will be working closely with the team at Darwinia to make this the best experience in the entire Polkadot ecosystem.
+Darwinia співпрацює з SubQuery для створення безлічі додатків, які знадобляться для забезпечення максимального досвіду користувача для міжланцюгових взаємодій. Сюди входить новий [Розумний додаток, який є центральним центром](https://apps.darwinia.network/) для керування всіма мережевими взаємодіями Darwinia, включаючи керування, стейкінг, дослідження ланцюга тощо. Ця програма використовує значну кількість [даних під запиту для відбивання історичних даних і дій](https://explorer.subquery.network/subquery/darwinia-network/smart-app-crab). SubQuery буде тісно співпрацювати з командою Darwinia, щоб зробити це найкращим досвідом у всій екосистемі Polkadot.
 
 ![](https://miro.medium.com/max/1200/1*bL2Csj9qyamD7txAheCTIg.gif)
 
-Darwinia have also been working closely with the SubQuery team to [build a CLI tool](https://github.com/fewensa/subquery-cli) for the SubQuery managed service (https://project.subquery.network). You can use this [CLI](https://github.com/fewensa/subquery-cli) to create a SubQuery project and automatically deploy a new version to either the staging or production slot. Additionally you can retrieve information including the detailed syncing status and logs from your running project that is hosted for free in SubQuery Projects. [Read more here](../customer_announcements/20220125-subquery-partners-with-darwinia-network-to-build-subquerys-cli-tool.md)
+Darwinia також тісно співпрацює з командою SubQuery, щоб [побудувати інструмент CLI](https://github.com/fewensa/subquery-cli) для керованої служби SubQuery (https://project.subquery.network). Ви можете використовувати цей [CLI](https://github.com/fewensa/subquery-cli) для створення проєкт SubQuery та автоматичного розгортання нової версії в проміжному або робочому слоті. Крім того, ви можете отримати інформацію, включаючи детальний статус синхронізації та журнали з вашого запущеного проєкту, який безплатно розміщено в SubQuery Projects. [Докладніше тут](../customer_announcements/20220125-subquery-partners-with-darwinia-network-to-build-subquerys-cli-tool.md)
 
 ## SubQuery Network
 
-Last community call we walked through a few important details of the upcoming SubQuery test network. It will be run over at least three seasons, each season will test different aspects of the network:
+Останній дзвінок спільноти ми розглянули кілька важливих деталей майбутньої тестової мережі SubQuery. Він триватиме щонайменше три сезони, кожен сезон буде тестувати різні аспекти мережі:
 
 - Сезон 1: альфа-тестування обмеженої кількості функцій на ранньому етапі з кількома учасниками
 - Сезон 2: велике бета-тестування додаткових функцій із сотнями учасників
 - Сезон 3: Повна публічна тестова мережа для навантажувального та масштабного тестування з тисячами учасників
 
-Each season will have multiple challenges that you can complete which may result in real SQT rewards. Expect things to kickoff here in March!
+Кожен сезон буде мати кілька завдань, які ви можете виконати, що може призвести до реальних нагород SQT. Очікуйте, що розпочнеться тут у березні!
 
 ## Оновлення Roadmap
 
-Last October we released out [technical roadmap](https://blog.subquery.network/blogs/20211029-roadmap-october.html) with the next year mapped out for SubQuery, we’re overdue to address exactly how we’re doing here.
+У жовтні минулого року ми випустили [технічну дорожню карту](https://blog.subquery.network/blogs/20211029-roadmap-october.html), а наступний рік був розроблений для SubQuery. Ми запізнилися розглянути, як саме ми тут робимо.
 
 ![](https://miro.medium.com/max/1400/1*2a3SGrW-OG5pbw67jsavvw.jpeg)
 
-As you can see in the original roadmap above, we’ve completed all of Milestone 0 and 1, and are making good progress on Milestone 2. We’ve even delivered some features relevant to our hosted service much earlier than expected due to the huge scale of requests currently going to [our enterprise customers](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html).
+Як ви можете бачити в оригінальній дорожній карті вище, ми завершили всі етапи 0 і 1 і досягаємо хорошого прогресу на етапі 2. Ми навіть надали деякі функції, які стосуються нашої розміщеної служби, набагато раніше, ніж очікувалося, через величезний масштаб запитів, які зараз надходять до [наших корпоративних клієнтів](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html).
 
 ## Інші речі, які ви могли пропустити
 
@@ -103,8 +103,8 @@ As you can see in the original roadmap above, we’ve completed all of Milestone
 
 P.S.
 
-Remember to join our [Discord](https://discord.com/invite/subquery) and our [social channels](https://linktr.ee/subquerynetwork) to stay updated on our latest news and announcements.
+Не забудьте приєднатися до наших [Discord](https://discord.com/invite/subquery) і [соціальних каналів](https://linktr.ee/subquerynetwork), щоб бути в курсі наших останніх новин та оголошень.
 
-The SubQuery Team
+Команда SubQuery
 
-[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Email](hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Youtube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Дерево посилань](https://linktr.ee/subquerynetwork) | [Вебсайт](https://subquery.network/) | [Електронна адреса](hello@subquery.network) | [Розлад](https://discord.com/invite/78zg8aBSMG) | [Телеграма](https://t.me/subquerynetwork) | [Твіттер](https://twitter.com/subquerynetwork) | [Матриця](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Youtube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
