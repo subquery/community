@@ -22,11 +22,11 @@
 
 ![](https://miro.medium.com/max/1000/1*IHstJG-hBwQzicLdWkGR5w.png)
 
-For the Web 3.0 dream to be realised, it’s got to be as fast (if not faster) than centralised networks for the end user.
+เพื่อให้ความฝันของ Web 3.0 เป็นจริง มันจะต้องเร็ว (ถ้าไม่เร็วกว่า) กว่าเครือข่ายแบบรวมศูนย์สำหรับผู้ใช้ปลายทาง
 
-That’s why we’re incredibly proud to announce SubQuery, an open source project that allows users to run an indexer across their chain to build a dataset that can be queried with GraphQL. This suite of tools includes a command line interface to allow projects to generate their own SubQuery project, defining how the indexer should traverse and aggregate their own network. There’s a SubQuery node package that indexes the network and supports GraphQL queries. With the help of these tools, anyone can create and run queries easily.
+นั่นเป็นเหตุผลที่เราภูมิใจอย่างยิ่งที่จะประกาศว่า SubQuery ซึ่งเป็นโปรเจ็ค open source ที่อนุญาตให้ผู้ใช้งานเรียกใช้ indexer ข้ามเชนของพวกเขา เพื่อสร้างชุดข้อมูลที่สามารถถูกค้นหาด้วย GraphQL  เครื่องมือชุดนี้ประกอบด้วย อินเทอร์เฟซ command line อนุญาตโครงการสามารถสร้างโปรเจ็ค SubQuery ด้วยตัวของพวกเขาเอง โดยกำหนดให้ Indexer ควรสำรวจและรวบรวมเครือข่ายของตนเองอย่างไร มีแพ็คเกจโหนด SubQuery ที่จัดทำดัชนีเครือข่ายและรองรับการสืบค้น GraphQL ด้วยความช่วยเหลือของเครื่องมือเหล่านี้ ทุกคนสามารถสร้างและเรียกใช้การการสืบค้นข้อมูลได้อย่างง่ายดาย
 
-**You can get started right away by following our example on the SubQuery Github repository: [_https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql)**
+**คุณสามารถเริ่มต้นได้ทันทีโดยทำตามตัวอย่างของเราบน SubQuery Github repository Github: https://github.com/OnFinality-io/subql**
 
 Additionally, you can find out more by reading our [SubQuery docs](https://doc.subquery.network/) or visiting our new website at [https://subquery.network/](https://subquery.network/)
 
