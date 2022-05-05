@@ -1,18 +1,18 @@
-# December 2021 Recap
+# Итоги Декабря 2021
 
 ![](https://miro.medium.com/max/1400/1*-gXOf6qYQiYypDCVBeE1kg.png)
 
-This year has absolutely flown by and SubQuery has come a long way! Since February 2021, we’ve grown a huge inclusive community, helped hundreds of projects to build faster, and scaled our hosted service to handle hundreds of millions of API requests for the top projects in Polkadot.
+Этот год пролетел совершенно незаметно, и SubQuery прошел долгий путь! С февраля 2021 года мы создали огромное инклюзивное сообщество, помогли сотням проектов ускорить разработку и масштабировали наш размещенный сервис для обработки сотен миллионов API-запросов для лучших проектов в Polkadot.
 
-Read on for a message from Sam, and learn what we go up to in the final days of 2021!
+Прочтите сообщение от Сэма и узнайте, к чему мы идем в последние дни 2021 года!
 
-## SubQuery Network
+## Сеть SubQuery
 
-### SubQuery Launches $500,000 Grants Programme
+### SubQuery запускает программу грантов на $500,000
 
-In late December, we were proud to announce the launch of our USD$500,000 Grants Programme.
+В конце декабря мы с гордостью объявили о запуске нашей программы грантов на сумму $500,000.
 
-The vision of the [SubQuery Grants](https://subquery.network/grants) initiative is to offer key opportunities to blockchain developers, community members, and the wider ecosystem participants so they can create the next-generation of decentralized applications (dApps). These apps are expected to power the Polkadot-based solutions that will support Web 3.0, which is an evolving set of standards for the Internet of the future.
+Концепция инициативы [ грантов SubQuery](https://subquery.network/grants) заключается в том, чтобы предложить ключевые возможности блокчейн-разработчикам, членам сообщества и более широким участникам экосистемы, чтобы они могли создавать децентрализованные приложения (dApps) следующего поколения. These apps are expected to power the Polkadot-based solutions that will support Web 3.0, which is an evolving set of standards for the Internet of the future.
 
 <iframe width="680" height="382" src="https://www.youtube.com/embed/Gcu2syKYlB4" title="Проигрыватель YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
