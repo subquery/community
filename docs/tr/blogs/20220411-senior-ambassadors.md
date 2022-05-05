@@ -1,28 +1,28 @@
-# Introducing SubQuery's Senior Ambassadors
+# SubQuery'nin Kıdemli Elçileri ile tanışın
 
 ![](https://miro.medium.com/max/1400/0*E059TXajzXqkqW2g)
 
-SubQuery [launched an Ambassador programme](./20210713-Introducing-the-SubQuery-Ambassador-Program.md) in August 2021 to find community leaders who were passionate about the potential of SubQuery. Our goal was to find self-starters that could spread the word about SubQuery in their local areas and provide support to new developers who were building innovative dApps and services within our ecosystem.
+SubQuery, SubQuery'nin potansiyeli konusunda tutkulu olan topluluk liderlerini bulmak için Ağustos 2021'de [bir Elçi programı başlattı](./20210713-Introducing-the-SubQuery-Ambassador-Program.md). Hedefimiz, kendi yerel alanlarında SubQuery ile ilgili haberleri yayabilecek ve ekosistemimiz içinde yenilikçi dApp'ler ve hizmetler oluşturan yeni geliştiricilere destek sağlayabilecek kendi kendine başlayanlar bulmaktı.
 
-Within a short span of time, we were overwhelmed by the number and quality of applications from all over the world!
+Kısa bir süre içinde, dünyanın her yerinden başvuruların sayısı ve kalitesi karşısında şaşkına döndük!
 
-After consultation with our initial Ambassadors we created an additional [Spartan Programme](./20211101-spartan-programme.md) as an avenue for passionate individuals to have a chance to become an Ambassador. The Spartan Programme exists entirely within our Discord community, where aspiring Ambassadors can complete monthly tasks and competitions in order to earn the Spartan tag. The Spartans who then rise to the top of their class will be recommended by the existing Ambassadors to the SubQuery team to join their ranks.
+İlk Elçilerimizle görüştükten sonra, tutkulu bireylerin Elçi olma şansına sahip olmaları için ek bir [Spartan Programı](./20211101-spartan-programme.md) oluşturduk. Spartan Programı tamamen Discord topluluğumuzda mevcuttur ve hevesli Elçiler Spartan etiketini kazanmak için aylık görevleri ve yarışmaları tamamlayabilir. Daha sonra sınıflarının zirvesine yükselen Spartalılar, mevcut Alt Sorgu Elçileri tarafından saflarına katılmaları için tavsiye edilecek.
 
-Since the launch of the Ambassador programme, we have also identified several individuals who have also attained a higher level and we would like to formally thank and introduce them today! Please feel free to connect with them via their social media handles and to find out more about our Spartan and Ambassador programme please [join our Discord](https://discord.com/invite/subquery).
+Ambassador programının başlatılmasından bu yana, daha yüksek bir seviyeye ulaşmış birkaç kişiyi de belirledik ve bugün onlara resmen teşekkür etmek ve onları tanıştırmak istiyoruz! Lütfen sosyal medya hesapları aracılığıyla onlarla bağlantı kurmaktan çekinmeyin ve Spartan ve Ambassador programımız hakkında daha fazla bilgi edinmek için lütfen [Discord'umuza katılın](https://discord.com/invite/subquery).
 
 ![](https://miro.medium.com/max/1400/0*I0VcN-hdcTZzeA6l)
 
-Dmytro speaks English, Ukrainian, Russian, Bulgarian and Polish and has over 7 years of experience in marketing and business development. His experience is evident in his initiative in organising events, holding online meetings with influencers and his suggestions for the community.
+Dmytro, İngilizce, Ukraynaca, Rusça, Bulgarca ve Lehçe bilmektedir ve pazarlama ve iş geliştirme alanında 7 yılı aşkın deneyime sahiptir. Deneyimi, etkinlikler düzenleme girişiminde, etkileyici kişilerle çevrimiçi toplantılar düzenlemede ve topluluk için önerilerinde belirgindir.
 
-Most importantly, Dmytro values people and enjoys sharing knowledge, providing opportunities, and uniting people with a common goal.
+En önemlisi, Dmytro insanlara değer verir ve bilgiyi paylaşmaktan, fırsatlar sunmaktan ve insanları ortak bir hedefte birleştirmekten keyif alır.
 
-> _I am a fan and early explorer of the Polkadot ecosystem. I believe that it is they who will build the very great Web3 almanac of the future. But for the full functioning of the ecosystem, we need to open up a world of accessible and fast data and that's how I met SubQuery on June 14th, 2021. If Polkadot is the body, then SubQuery is memory and heart. For building more complex and intuitive applications, developers need more powerful tools for data processing and queries. SubQuery offers developers to focus more on the development of applications and solutions for them. SubQuery's believes that developers of applications will change the future while SubQuery will be engaged in maintenance of the exponentially growing infrastructure."_ - Dmytro
+> _Polkadot ekosisteminin bir hayranıyım ve ilk kaşifiyim. Geleceğin çok büyük Web3 almanakını inşa edeceklerin onlar olduğuna inanıyorum. Ancak ekosistemin tam olarak işlemesi için erişilebilir ve hızlı bir veri dünyasının kapılarını açmamız gerekiyor ve SubQuery ile 14 Haziran 2021'de bu şekilde tanıştım. Polkadot vücut ise, SubQuery bellek ve kalptir. Geliştiriciler, daha karmaşık ve sezgisel uygulamalar oluşturmak için veri işleme ve sorgular için daha güçlü araçlara ihtiyaç duyar. SubQuery, geliştiricilere, onlar için uygulamaların ve çözümlerin geliştirilmesine daha fazla odaklanmalarını sağlar. SubQuery's, uygulama geliştiricilerinin geleceği değiştireceğine ve SubQuery'nin katlanarak büyüyen altyapının bakımıyla ilgileneceğine inanıyor."_ - Dmytro
 
 ![](https://miro.medium.com/max/1400/0*fh2pBSbhmMkXWYqz)
 
-Nick has a degree in linguistics specialising in Germanic philology and literature, but also has a passion for marketing and management.
+Nick, Cermen filolojisi ve edebiyatında uzmanlaşmış dilbilim diplomasına sahiptir, ancak aynı zamanda pazarlama ve yönetim tutkusuna da sahiptir.
 
-He was interested in crypto since his school days, but it was not until university that he decided to take it seriously and take the necessary steps to familiarise himself with the crypto world. He believed that people would soon change their attitude towards cryptocurrencies and start to look into it more deeply, and that this topic would become very popular and commonplace.
+Okul günlerinden beri kriptoyla ilgileniyordu, ancak üniversiteye kadar ciddiye almaya ve kripto dünyasını tanımak için gerekli adımları atmaya karar vermedi. He believed that people would soon change their attitude towards cryptocurrencies and start to look into it more deeply, and that this topic would become very popular and commonplace.
 
 Nick speaks four languages, English, German, Russian and Ukrainian and has over two years of success in community management, team collaboration, leadership and strategic planning. His focus is on the Blockchain space, specifically DeFi technology and smart contract platforms, which he believes will change the world.
 
