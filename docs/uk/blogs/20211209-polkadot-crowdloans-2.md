@@ -28,31 +28,31 @@ SubQuery — це провідний сервіс індексації дани�
 
 ![](https://miro.medium.com/max/1920/0*ZErTVoVAvSJvaIsL)
 
-Astar and Parallel Finance led a very competitive auction, where Astar was selected as the winner at block [7927110](https://polkadot.subscan.io/block/7927110), with a lead of only 120,000 DOT. If there was another random block selected any earlier or later, the result may have been quite different.
+Astar і Parallel Finance очолили дуже конкурентоспроможний аукціон, де Astar була обрана переможцем у блоці [7927110](https://polkadot.subscan.io/block/7927110) з перевагою лише 120 000 DOT. Якщо раніше чи пізніше був вибраний інший випадковий блок, результат міг би бути зовсім іншим.
 
-So who is contributing? Firstly there are two massive whales that are responsible for a combined 41% of all contributions and 69.34% of all value (13,756,262 DOT). These two accounts represent Parallel Finance’s Crowdloan proxy vehicle and Binance. Kraken and Bifrost’s SALP program were also represented in the top 6 contributors. Parallel’s Crowdloan proxy vehicle was particularly prevalent in our results with over 9.3 million DOT contributed (US$344.6 million) representing over 47% of all contributions.
+Так хто ж вносить свій внесок? По-перше, є два масивних кити, які разом відповідають за 41% всіх внесків і 69,34% всієї вартості (13 756 262 DOT). Ці два рахунки являють собою проксі-сервер Crowdloan від Parallel Finance і Binance. Kraken і програма SALP від Bifrost також були представлені в найкращі 6 учасників. Красен і програма SALP від Bifrost також були представлені в найкращі 6 учасників.
 
-Unfortunately this high percentage means that comparing the average contribution size is difficult, since this proxy obscures the contribution data way too much. In the future, we might even dive deep into Parallel’s data and use this to determine exactly how many of these contributions come from whales versus individual small cap investors.
+На жаль, цей високий відсоток означає, що порівняти середній розмір внеску важко, оскільки цей проксі занадто сильно приховує дані про внески. У майбутньому ми можемо навіть глибоко зануритися в дані Parallel і використовувати їх, щоб точно визначити, скільки з цих внесків надходить від китів у порівнянні з окремими інвесторами з малими капіталами.
 
-Having two auctions that have been extremely competitive suggests a healthy ecosystem, and it is encouraging to see the amount of commitment that the community has shown. Here at SubQuery we are very excited to continue working alongside the best Polkadot projects, and can’t wait to see what the future has in store for us.
+Наявність двох аукціонів, які були надзвичайно конкурентними, свідчить про здорову екосистему, і це обнадійливо бачити, яку відданість виявила спільнота. Тут, у SubQuery, ми дуже раді продовжувати працювати разом із найкращими проєкт Polkadot і не можемо дочекатися, щоб побачити, що нас чекає в майбутньому.
 
 ---
 
-## About SubQuery Network
+## Про SubQuery Network
 
-SubQuery is Polkadot’s leading data provider, supporting an indexing & querying layer between Layer-1 blockchains (Polkadot) and decentralized applications. SubQuery’s data service is being used by most of the Polkadot and Kusama crowdloan and parachain auction websites live today.
+SubQuery є провідним постачальником даних Polkadot, який підтримує індексацію & рівень запитів між блокчейнами рівня 1 (Polkadot) і децентралізованими додатками. Службою даних SubQuery користується більшість вебсайт аукціонів Polkadot і Kusama, які працюють у режимі краудіон та парачейна.
 
-SubQuery’s protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+Протокол SubQuery абстрагує особливості даних блокчейну за допомогою SubQuery SDK, дозволяючи розробникам зосередитися на розгортанні свого основного продукту без зайвих зусиль на користувацькі технології бекенда.
 
-​​​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+​​[Linktree](https://linktr.ee/subquerynetwork) | [Вебсайт](https://subquery.network/) | [Розлад](https://discord.com/invite/78zg8aBSMG) | [Телеграма](https://t.me/subquerynetwork) | [Твіттер](https://twitter.com/subquerynetwork) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
 
 ## Appendix
 
-All USD prices are quoted at the price at the 3rd Auctions’s close = USD$36.77
+Усі ціни в доларах США вказані за ціною на момент закриття 3-го аукціону = 36,77 долара США
 
-All data is from the start of the Polkadot Crowdloans to the completion of the third auction on 3rd December 1.43AM UTC (block 7,957,704).
+Усі дані наведено від початку Crowdloans Polkadot до завершення третього аукціону 3 грудня 1: 43 ранку UTC (блок 7 957 704).
 
-Excluded Crowdloan Sites
+Виключені сайти краудлоан
 
 - [Acala LCDOT](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157)
 - [Binance Crowdloan](https://www.binance.com/en/dotslot)
