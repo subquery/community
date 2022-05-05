@@ -1,30 +1,30 @@
-# Inside The Polkadot Crowdloans (Part 2)
+# Усередині краудіонів Polkadot (Частина 2)
 
 ![](https://miro.medium.com/max/1400/0*MqQhXJbmnfMSqf-8)
 
-Polkadot has provided its community with another exciting race for their third parachain slot auction. We have recently witnessed Parallel Finance and Astar battle it out for the third slot, and in the end Astar managed to emerge victorious. Today we are going to explore a little more about what happened within the third auction by diving into the data behind every single contribution.
+Polka dot надала своїй спільноті ще одну що захоплює гоніння для свого третього аукціону ігрових автоматів parachain. Нещодавно ми були свідками боротьби Parallel Finance та Astar за третій слот, та в підсумку Astar вдалося вийти переможцем. Сьогодні ми детальніше розглянемо те, що сталося на третьому аукціоні, занурившись у дані кожного окремого внеску.
 
-SubQuery is Polkadot’s leading data indexing service, and over the past week we’ve been powering millions of daily requests to the majority of the crowdloan dashboards, contribution apps, and analytics websites. Teams like [SubVis](https://www.subvis.io/), [Parallel Finance](https://parallel.fi/), and [DotMarketCap](https://dotmarketcap.com/) rely on SubQuery to provide real time data on the crowdloans and other on-chain data directly to their websites and apps.
+SubQuery — це провідний сервіс індексації даних Polkadot, і протягом останнього тижня ми надсилали мільйони щоденних запитів до більшості інформаційних панелей краудіон, додатків для внеску та аналітичних вебсайтів. Такі команди, як [SubVis](https://www.subvis.io/), [Parallel Finance](https://parallel.fi/) і [DotMarketCap](https://dotmarketcap.com/), покладаються на SubQuery, щоб надавати дані в реальному часі про краудіони та інші дані в мережі безпосередньо своїм вебсайт та програми.
 
-Firstly, let’s start with some high level quick facts. As you can see below Astar had both more contributions and contributors. It’s important to note that Parallel raised a significant amount through its proxy fund, so the contributor amount is misleading because the proxy account hides this information.
+По-перше, почнім з деяких коротких фактів високого рівня. Як ви можете бачити нижче, в Astar було більше внесків і учасників. Важливо зазначити, що Parallel зібрала значну суму через свій проксі-фонд, тому сума вкладника вводить в оману, оскільки обліковий запис проксі приховує цю інформацію.
 
-Both received a median contribution of 10 DOT (US$367.70) but Astar was able to attract the largest single contribution with 2,005,295 DOT (US$73.7 million). In the end a total of almost 20 million DOT (US$735.4 million) was contributed across both two during the third auction. Unsurprisingly, this number was less than the amount committed in the first auctions, however it is promising to see the auction amounts still being of significant value.
+Обидва отримали середній внесок у розмірі 10 DOT (367,70 доларів США), але Astar змогла залучити найбільший внесок із 2 005 295 DOT (73,7 мільйона доларів США). Зрештою, під час третього аукціону загалом було внесено майже 20 мільйонів DOT (735,4 мільйона доларів США). Не дивно, що ця цифра була меншою за суму, яку було здійснено на перших аукціонах, однак багатонадійний бачити, що суми аукціону все ще мають значну вартість.
 
-![](https://miro.medium.com/max/1920/1*cHMt10lANsqtkLYHCv6iWg.png) As you can see in the graph below, the number of contributions were relatively constant, with simultaneous jumps in the contribution rate on the 17th of November to over 2,000 contributions in a 4 hour period. Similarly to the [Moonbeam and Acala battle](./20211124-polkadot-crowdloans.md), this auction had significantly different styles of participation while maintaining a relatively equal amount of contributions. Parallel Finance had 20,000 less contributions to their crowdloan when compared to Astar.
+![](https://miro.medium.com/max/1920/1*cHMt10lANsqtkLYHCv6iWg.png) Як ви можете бачити на графіку нижче, кількість внесків була відносно постійною, з одночасними стрибками ставки внесків 17 листопада до понад 2000 внесків за 4-годинний період. Подібно до [битви Moonbeam та Acala](./20211124-polkadot-crowdloans.md), цей аукціон мав значно різні стилі участі, зберігаючи відносно рівну суму внесків. У Parallel Finance було на 20 000 менше внесків до їх загальної позики в порівнянні із зіркою.
 
 ![](https://miro.medium.com/max/1920/0*QLdNkyaQBBj3L9Eu)
 
-But it’s not the number of contributions that matters here, rather the value of those contributions. As you can see in the chart below the auction was incredibly tight, with the lead passing between teams through the auction.
+Але тут важлива не кількість внесків, а вартість цих внесків. Як ви можете бачити на діаграмі нижче, аукціон був неймовірно напруженим, і перевага проходила між командами на аукціоні.
 
 ![](https://miro.medium.com/max/1920/0*AGGfB2oBSwoplGhv)
 
-As you can see in the following graphs there were two events to watch, the first was a huge spike in contributions to Astar on the 12th of November. This gave them a steady lead until the 24th of November, where Parallel Finance gained almost 2.5 million DOT (US$91 million).
+Як ви можете бачити на наступних графіках, слід було подивитися дві події, першою став величезний сплеск внесків у Astar 12 листопада. Це забезпечило їм стабільне лідерство до 24 листопада, коли Parallel Finance набрала майже 2,5 мільйона DOT (91 мільйон доларів США).
 
 ![](https://miro.medium.com/max/1920/0*UK4Drn6LXcjebF_V)
 
-For the first event occurred on the 12th of November at 2:26am UTC when an account linked to Binance deposited in quick succession, 2,005,295 DOT (US$73.5 million) to Astar and 1,026,763 DOT (US$37.9 million) to Parallel Finance. This is likely Binance providing the contributions that it collects from it’s own community to each crowdloan.
+Перша подія відбулася 12 листопада о 2:26 ранку UTC, коли обліковий запис, пов’язаний з Binance, швидко депонував, 2 005 295 DOT (73,5 мільйона доларів США) на Astar і 1 026 763 DOT (37,9 мільйона доларів США) на Parallel Finance. Швидше за все, це Binance, що надає внески, які вона збирає від своєї власної спільноти, кожному краудіону.
 
-The second even was a bit weirder, and was rather 25 separate events.In a 11 minutes, Parallel’s Crowdloan proxy vehicle made 25 identical contributions of 98,982 DOT (US$3,639,568.14) each to Parallel totalling 2,474,550 DOT (US$90,989,203.50). It’s not clear why these deposits were made via smaller DOT amounts, potentially Parallel’s Crowdloan proxy vehicle was set up to contribute a maximum amount of this value each time.
+Другий навіть був трохи дивнішим і мав скоріше 25 окремих подій. За 11 хвилин проксі-сервер компанії Parallel Crowdloan зробив 25 ідентичних внесків по 98 982 DOT (3 639 568,14 долара США) кожен у Parallel на загальну суму 2 474 550 DOT (89 90 долара США). Незрозуміло, чому ці депозити були зроблені через менші суми DOT, потенційно проксі-сервер Parallel Crowdloan був налаштований так, щоб кожен раз вносити максимальну суму цієї вартості.
 
 ![](https://miro.medium.com/max/1920/0*ZErTVoVAvSJvaIsL)
 
