@@ -1,10 +1,10 @@
-# SubQuery Partners with OneBlock+ To Educate Blockchain Developers in China
+# SubQuery заключил партнертсво с OneBlock + для обучения блокчейн-разработчиков в Китае
 
 ![](https://miro.medium.com/max/700/1*c1X5h-MEHHwjeqczDKvvCQ.png)
 
-SubQuery is proud to announce our partnership with OneBlock+ to promote the SubQuery Academy’s _Hero Course_ in China. One Block+ developed the world’s first substrate developers course with engineers from Parity Asia and are recognised as leaders in blockchain education within China and around the world.
+SubQuery с гордостью объявляет о нашем партнерстве с OneBlock+ для продвижения _курса Героев_ Академии SubQuery в Китае. One Block+ разработали первый в мире курс разработчиков substrate с инженерами из Parity Asia и признаны лидерами в области блокчейн обучения в Китае и во всем мире.
 
-Sam Zou, the CEO and Founder of SubQuery commented, _“OneBlock+ is well-placed to help SubQuery in its vision to empower developers around the world as they are stewards of the largest blockchain developer community in China. We look forward to engaging with the OneBlock+ team and motivated Chinese Substrate developers to build leading dApps that showcase our vision of a Web3 future”_
+Сэм Зоу (Sam Zou), генеральный директор и основатель SubQuery, прокомментировал: _«OneBlock+ имеет все возможности, чтобы помочь SubQuery в ее стремлении расширить возможности разработчиков по всему миру, поскольку они являются распорядителями крупнейшего сообщества разработчиков блокчейнов в Китае. Мы с нетерпением ждем возможности сотрудничать с командой OneBlock+ и вдохновить китайских разработчиков Substrate на создание передовых децентрализованных приложений, которые демонстрируют наше видение будущего Web3»._
 
 SubQuery’s community has always been global, and a huge number of SubQuery’s customers come from the thriving Polkadot community in China. The delivery of this course in China is the embodiment of SubQuery’s dedication to providing local language support for all of our communities around the world. Concurrently, all of SubQuery’s technical documentation is being translated by [SubQuery Ambassadors](./20210713-Introducing-the-SubQuery-Ambassador-Program.md).
 
@@ -18,13 +18,13 @@ The existing “Hero Course” has been translated to Chinese and will be delive
 
 The first session in the course will be scheduled from 10th January 2022, and in preparation OneBlock+ will deliver a live Technical Workshop in December 2021 as part of their regular Substrate Saturday programme. More information on the dates will be published in the [SubQuery Discord channel](https://discord.com/invite/78zg8aBSMG). In the meantime, you can [learn more about SubQuery via the SubQuery Academy](https://subquery.coassemble.com/unlock/dOKZW6O#/).
 
-## About OneBlock+
+## Подробнее о OneBlock+
 
 OneBlock+ is the first and the largest blockchain developer community in China. At OneBlock+, we provide full support for developers with their substrate studies and further setoff their career paths; we host Polkadot Hackathons every season to attract top notch developers to build and innovate for the prosperity of the ecosystem. As a greater China technology resource integrator, OneBlock+ also partner with developers, communities, business elites, and key media who have business insights and experiences in the blockchain industry to provide business like technology courses, news distributions, AMA, and offline events for the industry. Want to shape the crypto world together? Come and join us today!
 
 | [Twitter](https://mobile.twitter.com/oneblock_) | [Medium](https://medium.com/@OneBlockplus?p=5a6193755f9b) | [Discord](https://discord.gg/5aWx6Rch) | [Telegram](https://t.me/oneblock_dev) |
 
-## About SubQuery
+## Подробнее о Subquery
 
 [SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. The protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
 
