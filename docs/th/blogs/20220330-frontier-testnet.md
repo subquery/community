@@ -1,4 +1,4 @@
-# SubQuery Launches "The Frontier" Testnet
+# SubQuery ได้มีการเปิดตัว Testnet "The Frontier"
 
 ![](https://miro.medium.com/max/1400/1*zRR8l3aVZKth9Fw0rqL-lg.png)
 
