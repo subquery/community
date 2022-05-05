@@ -1,30 +1,30 @@
 # Оголошення SubQuery
 
-## Transform and query the world’s data for the web3.0 future
+## Перетворюйте та запитуйте світoвi дані  для майбутнього web3.0
 
 ![](https://miro.medium.com/max/1400/1*J5u22qNxndcuCrFJ1mfGqg.png)
 
-OnFinality’s mission is to support blockchain developers by providing infrastructure services to customers of all shapes and sizes. We’re launching a new venture that aims to solve a core problem to advance this mission: SubQuery.
+Місія OnFinality - підтримувати розробників блокчейнів, надаючи інфраструктурні послуги клієнтам будь -яких форм і розмірів. Ми запускаємо нове підприємство, яке має на меті вирішити основну проблему для просування цієї місії: SubQuery.
 
-Almost every blockchain has a need to process and query data. The thriving Polkadot community is going to need a service that allows them to reliably find and consume data quickly. Our project is inspired by [The Graph](https://thegraph.com/), an service currently focused on Ethereum that allows customers to do this using GraphQL.
+Майже кожен блокчейн має потребу в обробці та запиті даних. Процвітаючій спільноті Polkadot знадобиться служба, яка дозволяє їм надійно знаходити та швидко споживати дані. Наш проект натхненний сервісом [The Graph](https://thegraph.com/), нині орієнтований на Ethereum, що дозволяє клієнтам робити це за допомогою GraphQL.
 
-Since decentralised systems store data across networks querying is slow and hard. For the Web 3.0 dream to be realised, it’s got to be as fast (if not faster) than centralised networks for the end user. Protocol teams are currently building centralised indexing servers for their own projects, but this poses three issues:
+Оскільки децентралізовані системи зберігають дані у мережах, запити виконуються повільно та важко. Щоб мрія Web 3.0 втілилася в життя, вона має бути такою ж швидкою (якщо не швидшою), ніж централізовані мережі для кінцевого користувача. Наразі команди протоколу створюють централізовані сервери індексування для своїх власних проектів, але це призводить до трьох проблем:
 
-- Polkadot/Substrate teams shouldn’t need to worry about building or managing this while they’re building the next dApp
-- Teams are constantly reinventing the wheel; the fundamental advantage of Polkadot’s parachain interoperability is to avoid this
-- In our view, the Substrate/Polkadot ecosystem is poised to reach the same level of growth as Ethereum. We believe that it needs to provide the same level of community services that Ethereum already has
+- Командам Polkadot/Substrate не потрібно турбуватися про створення або управління цим під час створення наступного dApp
+- Команди постійно винаходять колесо; фундаментальною перевагою парачейн Polkadot є уникнення цієї проблеми
+- На наш погляд, екосистема Polkadot/Substrate готова досягти такого ж рівня зростання, як і Ethereum. Ми вважаємо, що він повинен забезпечити той самий рівень суспільних послуг, який вже існує у Ethereum
 
 ![](https://miro.medium.com/max/1400/1*l4b4BXWkczVDaHyv30lLQQ.png)
 
-SubQuery’s aim is to help Polkadot/Substrate projects build better dApps by allowing anyone to reliably find and consume data faster. Our service will allow users to extract, transform, persist, and query data initially, as well as connect and present data in the future. Our aim is to make this a core piece of infrastructure for the Substrate/Polkadot ecosystem, just as The Graph has become for Ethereum.
+Мета SubQuery - допомогти проектам Polkadot/Substrate створювати кращі dApps для доступу, дозволяючи будь-кому знаходити та споживати дані швидше. Наш сервіс дозволить користувачам видобувати, трансформувати, зберігати та запитувати дані, а також підключати та представляти дані в майбутньому. Наша мета - перетворити це на основну частину інфраструктури для екосистеми Substrate/Polkadot, такою, якою став The Graph для Ethereum.
 
-**SubQuery is here to help you transform and query the world’s data for a web3.0 future.**
+**SubQuery тут, щоб допомогти вам трансформувати та запитувати світові дані для майбутнього Web3.0.**
 
 ![](https://miro.medium.com/max/1000/1*IHstJG-hBwQzicLdWkGR5w.png)
 
-For the Web 3.0 dream to be realised, it’s got to be as fast (if not faster) than centralised networks for the end user.
+Щоб мрія про Web 3.0 була реалізована, вона повинна бути такою ж швидкою (якщо не швидше), як централізовані мережі для кінцевого користувача.
 
-That’s why we’re incredibly proud to announce SubQuery, an open source project that allows users to run an indexer across their chain to build a dataset that can be queried with GraphQL. This suite of tools includes a command line interface to allow projects to generate their own SubQuery project, defining how the indexer should traverse and aggregate their own network. There’s a SubQuery node package that indexes the network and supports GraphQL queries. With the help of these tools, anyone can create and run queries easily.
+Ось чому ми неймовірно пишаємося тим, що представляємо SubQuery, проект із відкритим кодом, який дозволяє користувачам запускати індексатор у своєму ланцюжку для створення набору даних, до якого можна запитувати за допомогою GraphQL. Цей набір інструментів включає інтерфейс командного рядка, що дозволяє проєкт генерувати власний проєкт SubQuery, визначаючи, як індексатор повинен проходити та об’єднувати власну мережу. Існує пакет вузла SubQuery, який індексує мережу та підтримує запити GraphQL. За допомогою цих інструментів кожен може легко створювати та запускати запити.
 
 **You can get started right away by following our example on the SubQuery Github repository: [_https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql)**
 
