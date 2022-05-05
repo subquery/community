@@ -38,19 +38,19 @@
 
 แม้จะมีการพัฒนามากกว่า 10 ปีตั้งแต่ bitcoin เริ่มต้นขึ้น แต่เครือข่ายแบบรวมศูนย์ยังคงเป็นกระแสหลัก ส่วนใหญ่เกิดจากความเร็วและค่าใช้จ่ายในการเข้าถึงและการสร้างเครือข่าย Ethereum ก้าวไปข้างหน้าอย่างมากด้วยสัญญาอัจฉริยะแบบกระจายศูนย์ (และ The Graph เป็นชิ้นงานที่ประสบความสำเร็จอย่างไม่น่าเชื่อของโครงสร้างพื้นฐาน) แต่เครือข่ายหลักกำลังดิ้นรนเพื่อลดต้นทุนการทำธุรกรรม
 
-เราเห็นศักยภาพของ Polkadot ตั้งแต่แรกและเหมาะสมจากจุดเริ่มต้นและรู้สึกเป็นธรรมชาติที่จะมุ่งเน้นความพยายามของเราที่นั่น มันแก้ปัญหา Ethereum’s governance, การ Forking, ปัญหาการทำงานร่วมกัน และอีกมากมาย The core premise of Polkadot is to create a thriving community of developers, users, and businesses that will tap into its multichain interoperability — that community is going to need a service that allows them to reliably find and consume data quickly.
+เราเห็นศักยภาพของ Polkadot ตั้งแต่แรกและเหมาะสมจากจุดเริ่มต้นและรู้สึกเป็นธรรมชาติที่จะมุ่งเน้นความพยายามของเราที่นั่น มันแก้ปัญหา Ethereum’s governance, การ Forking, ปัญหาการทำงานร่วมกัน และอีกมากมาย หลักการพื้นฐานของ Polkadot คือการสร้างชุมชนที่เจริญรุ่งเรืองของนักพัฒนา ผู้ใช้ และธุรกิจ ซึ่งจะใช้ความสามารถในการทำงานร่วมกันแบบมัลติเชน — ชุมชนนั้นกำลังต้องการบริการที่ให้พวกเขาสามารถค้นหาอย่างน่าเชื่อถือและใช้ข้อมูลได้อย่างรวดเร็ว
 
-Polkadot’s unique architecture means that we can focus on one network and then be able to support multiple current and future chains with ease. By putting in this effort now, even as Polkadot is still under development, we will be there ready to help the next generation of blockchain developers create the next big dApp.
+สถาปัตยกรรมที่เป็นเอกลักษณ์ของ Polkadot หมายความว่าเราสามารถมุ่งเน้นไปที่เครือข่ายเดียว จากนั้นจึงสามารถรองรับเครือข่ายหลายเครือข่ายในปัจจุบันและอนาคตได้อย่างง่ายดาย ด้วยความพยายามในตอนนี้ แม้ว่า Polkadot ยังอยู่ระหว่างการพัฒนา เราก็พร้อมที่จะช่วยเหลือนักพัฒนาบล็อกเชนรุ่นต่อไปในการสร้าง dApp ขนาดใหญ่ตัวต่อไป
 
-SubQuery will be built by the team at OnFinality, which is an infrastructure SaaS platform for blockchain teams and users to launch nodes and get access to a large range of blockchain protocols. We have a suite of symbiotic services including our API shared node service, and dedicated nodes that can be used in infrastructure management or as part of a protocol team’s CI/CD testing pipeline. We have relationships with the top Polkadot/Substrate teams, expertise in managed infrastructure hosting for the Substrate/Polkadot network, and the ability to deliver complex infrastructure projects and host them for production use.
+SubQuery จะถูกสร้างขึ้นโดยทีมงานที่ OnFinality ซึ่งเป็นแพลตฟอร์มโครงสร้างพื้นฐาน SaaS สำหรับทีม blockchain และผู้ใช้เพื่อเปิดใช้โหนดและเข้าถึงโปรโตคอล blockchain ที่หลากหลาย เรามีชุดบริการแบบพึ่งพาอาศัยกัน รวมถึงบริการโหนดที่ใช้ร่วมกันของ API และโหนดเฉพาะที่สามารถใช้ในการจัดการโครงสร้างพื้นฐานหรือเป็นส่วนหนึ่งของไปป์ไลน์การทดสอบ CI/CD ของทีมโปรโตคอล เรามีความสัมพันธ์กับทีมชั้นนำ Polkadot/Substrate  ความเชี่ยวชาญในการโฮสต์โครงสร้างพื้นฐานที่มีการจัดการสำหรับเครือข่าย Substrate/Polkadot และความสามารถในการส่งมอบโครงการโครงสร้างพื้นฐานที่ซับซ้อนและโฮสต์สิ่งต่างๆเหล้านั้นเพื่อการใช้งานจริง
 
 **Sam Zou —** CEO ([LinkedIn](https://www.linkedin.com/in/sam-zou-5b8169a/))
 
-Entrepreneur, Investors with more than 20 years of IT experience specialising in infrastructure and cloud service design
+ผู้ประกอบการ นักลงทุน ที่มีประสบการณ์ด้านไอทีมากกว่า 20 ปี เชี่ยวชาญด้านการออกแบบโครงสร้างพื้นฐานและบริการคลาวด์
 
 **Ian He —** Head of Protocol ([LinkedIn](https://www.linkedin.com/in/yin-he-7a266345/))
 
-Blockchain Architect, Contributor to polkadot-js, Early adopter of Substrate technology and won second place in the first Polkadot hackathon.
+สถาปนิกบล็อกเชน, ผู้สนับสนุน polkadot-js ซึ่งเป็นผู้ที่เริ่มใช้เทคโนโลยี Substrate ก่อนใคร และได้รับรางวัลที่สองใน Polkadot hackathon ครั้งที่หนึ่ง
 
 **James Xu —** Solutions Architect ([LinkedIn](https://www.linkedin.com/in/zhexu/))
 
@@ -62,9 +62,9 @@ Get started on the [SubQuery Github repository.](https://github.com/OnFinality-i
 
 Read our [SubQuery docs](https://doc.subquery.network/)
 
-[Visit our new website](https://subquery.network/)
+[เยี่ยมชมเว็บไซต์ใหม่ของเรา](https://subquery.network/)
 
-Follow us on:
+ติดตามเราได้ที่:
 
 - [Telegram](https://t.me/subquerynetwork)
 - [Twitter](https://twitter.com/subquerynetwork)
