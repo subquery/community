@@ -1,14 +1,14 @@
-# February Recap
+# บทสรุปของเดือนกุมภาพันธ์
 
 ![](https://miro.medium.com/max/1400/1*T3DLiAKSIy-AjRia_JJjow.png)
 
-February flew by for the team at SubQuery as we have been busy on all fronts preparing for our TGE and servicing all of our existing customers including the leading teams in Polkadot.
+เดือนกุมภาพันธ์ผ่านไปเร็วมากสำหรับทีมที่ SubQuery เนื่องจากเรามีงานยุ่งในทุกด้านในการเตรียมตัวสำหรับ TGE และให้บริการลูกค้าที่มีอยู่ทั้งหมดของเรา รวมถึงทีมชั้นนำใน Polkadot
 
-We have a lot of exciting work going on that we can't wait to share in the weeks and months ahead!
+เรามีงานที่น่าตื่นเต้นมากมายเกิดขึ้นซึ่งเราแทบรอไม่ไหวที่จะแบ่งปันในอีกไม่กี่สัปดาห์และหลายเดือนข้างหน้า!
 
-## Community
+## คอมมูนิตี้
 
-This month we finally passed 30,000 organic Twitter followers and our Discord has swelled to over 15,000 active community members working to help one another. It's not enough to build a tool or an application in web3, you need to build a self sustaining community and we're hard at work on this at SubQuery!
+ในที่สุดเดือนนี้เราก็มีผู้ติดตาม Twitter แบบออร์แกนิกถึง 30,000 คน และจำนวนสมาชิก Discord ในชุมชนที่ขยันขันแข็งของเราก็เพิ่มขึ้นถึง 15,000 คน ที่ทำงานเพื่อช่วยเหลือซึ่งกันและกัน การสร้างเครื่องมือหรือแอปพลิเคชันใน web3 เพียงอย่างเดียวไม่เพียงพอ คุณต้องสร้างคอมมูนิตี้ที่พึ่งพากันได้และเรากำลังทำงานอย่างหนักในเรื่องนี้ที่ SubQuery!
 
 ### SubQuery Announces First Cohort of SubQuery Grants Recipients
 
