@@ -34,8 +34,8 @@ Bir başvuru yapmadan önce SubQuery'de daha fazla beceri kazanmak isteyenler i�
 
 
 
-## About SubQuery
+## SubQuery Hakkında
 
-[SubQuery](https://subquery.network) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. Bu hizmet, blok zinciri verilerinin kilidini açar ve sezgisel uygulamalarda kullanılabilmesi için sorgulanabilir bir duruma dönüştürür. It allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. Yaklaşan Alt Sorgu Ağı, herkesin web3 veri devrimine katılmasına izin vermek için ekosistemi merkezileştirmeyecek ve belirtecektir.
+&[SubQuery](https://subquery.network), Katman-1 blok zincirleri ve merkezi olmayan uygulamalar arasında merkezi olmayan bir veri toplama, indeksleme ve sorgulama katmanıdır. Bu hizmet, blok zinciri verilerinin kilidini açar ve sezgisel uygulamalarda kullanılabilmesi için sorgulanabilir bir duruma dönüştürür. It allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. Yaklaşan Alt Sorgu Ağı, herkesin web3 veri devrimine katılmasına izin vermek için ekosistemi merkezileştirmeyecek ve belirtecektir.
 
 ​​[Bağlantı Ağacı](https://linktr.ee/subquerynetwork) | [Web sitesi](https://subquery.network/) | [Anlaşmazlık](https://discord.com/invite/78zg8aBSMG) | [Telgraf](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matris](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
