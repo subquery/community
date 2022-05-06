@@ -27,7 +27,7 @@ _Estamos planeando una subsiguiente venta privada/aumento más adelante este añ
 
 SubQuery trata de proporcionar servicios de datos a nuestros socios y clientes. Cada equipo de blockchain y constructor de dApp tiene la necesidad de procesar y consultar datos rápidamente, y para que el sueño web 3 sea realizado, tiene que ser tan rápido (si no más rápido) que las redes centralizadas para el usuario final. Por eso estamos esforzándonos por colaborar con los mejores proyectos de Polkadot para proporcionar servicios gratuitos de SubQuery para sus protocolos.
 
-[Earlier we launched our first partnership with our close friends at Acala](../customer_announcements/20210316-SubQuery-Integrates-Acala-to-Aggregate-and-Serve-DeFi-Data-to-Polkadot-and-Kusama-Builders.md) to allow users and developers to query and extract data from Acala’s DeFi hub for Polkadot in only minutes and at no cost. Cuando accedas al SubQuery Explorer serás bienvenido con un nuevo proyecto Acala SubQuery. SubQuery rastrea dinámicamente todos los datos extrínsecos creados en Acala y puede mostrar rápidamente estadísticas agregadas derivadas para lo siguiente:
+[Con anterioridad hemos realizado nuestra primera asociación con nuestros amigos cercanos de Acala](../customer_announcements/20210316-SubQuery-Integrates-Acala-to-Aggregate-and-Serve-DeFi-Data-to-Polkadot-and-Kusama-Builders.md) esto permite a usuarios y desarrolladores solicitar y extraer datos del DeFi hub de Acala para Polkadot en solo minutos y sin costo. Cuando accedas al SubQuery Explorer serás bienvenido con un nuevo proyecto Acala SubQuery. SubQuery rastrea dinámicamente todos los datos extrínsecos creados en Acala y puede mostrar rápidamente estadísticas agregadas derivadas para lo siguiente:
 
 - Datos históricos de cambios de liquidez (desglosados por proveedores)
 - Datos históricos sobre todos los intercambios de activos entre cadenas
@@ -35,7 +35,7 @@ SubQuery trata de proporcionar servicios de datos a nuestros socios y clientes. 
 
 ![](https://miro.medium.com/max/1400/0*LOig1jNfPTuVk73D)
 
-You could create a dApp for lenders showing collateralization ratio, loan amount, interests accrued, etc. Or a service for decentralised exchanges with pair liquidity, pair exchange rate, trading volumes.
+Usted puede crear una dApp para prestamistas mostrando el índice de garantía, cantidad prestada, intereses acumulados, etc. O un servicio para exchanges con liquidez de par, radio de intercambio del par y volúmenes de trading.
 
 We’re planning to improve our partnership tools very soon and are planning on onboarding other top protocols in the next week or two at a rapid pace.
 
