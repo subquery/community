@@ -64,7 +64,7 @@ SubQuery đã đề xuất 5 gói thưởng với tổng giá trị giải thư�
 
 ### Phân tích về Crowdloan trên Polkadot
 
-SubQuery là dịch vụ lập chỉ mục dữ liệu hàng đầu của Polkadot. Trong tuần qua, chúng tôi đã xử lý hàng triệu yêu cầu mỗi ngày cho phần lớn các trang tổng quan gọi vốn cộng đồng, các ứng dụng và cả những website phân tích dữ liệu. Teams like [**SubVis**](https://www.subvis.io/), [**Parallel Finance**](https://parallel.fi/), and [**DotMarketCap**](https://dotmarketcap.com/) rely on SubQuery to provide real-time data on the crowdloans and other on-chain data directly to their websites and apps.
+SubQuery là dịch vụ lập chỉ mục dữ liệu hàng đầu của Polkadot. Trong tuần qua, chúng tôi đã xử lý hàng triệu yêu cầu mỗi ngày cho phần lớn các trang tổng quan gọi vốn cộng đồng, các ứng dụng và cả những website phân tích dữ liệu. Các đội ngũ như [**SubVis**](https://www.subvis.io/), [**Parallel Finance**](https://parallel.fi/), và [** DotMarketCap **](https://dotmarketcap.com/) sử dụng SubQuery để cung cấp dữ liệu thời gian thực trên các kênh huy động vốn cộng đồng và cả những dữ liệu trực tuyến khác một cách trực tiếp cho website và ứng dụng của họ.
 
 ![](https://miro.medium.com/max/60/0*HfsoOwpat76ip6Jg?q=20)
 
@@ -72,16 +72,16 @@ SubQuery là dịch vụ lập chỉ mục dữ liệu hàng đầu của Polkad
 
 Gần đây, chúng tôi đã tìm hiểu sâu hơn về Crowdloan trên Polkadot (cụ thể là cuộc cạnh tranh giữa Acala và Moonbeam). [Nếu bạn chưa đọc thì có thể tìm hiểu thêm ở đây](https://blog.subquery.network/blogs/20211124-polkadot-crowdloans.html).
 
-## Other things you might have missed
+## Một vài thứ khác mà bạn có thể đã bỏ lỡ
 
-- We’re working closely with the new team at [Web3Go](https://www.web3go.xyz/) to [provide data anaysis tools to the SubQuery ecosystem.](https://blog.subquery.network/customer_announcements/20211110-web3go.html)
+- Chúng tôi đang hợp tác chặt chẽ với đội ngũ [Web3Go](https://www.web3go.xyz/) để [cung cấp các công cụ xử lý dữ liệu cho hệ sinh thái SubQuery.](https://blog.subquery.network/customer_announcements/20211110-web3go.html)
 - [Hãy nghe Sam và James trên podcast của Brave New Coin](https://bravenewcoin.com/insights/podcasts/subquery-connecting-the-dots-on-polkadot).
-- James talked to Acala’s Brett Kolodny to talk about how [Acala use SubQuery in their stack](https://www.youtube.com/watch?v=Wbxwj8K67Lw).
-- Siqi, our China representative, [talked to Acala Network and Polkaworld about the latest in web3](https://www.huoxing24.com/live/24313016).
-- We released modules [1](https://doc.subquery.network/academy/herocourse/module1/) to [4](https://doc.subquery.network/academy/herocourse/module4/) of our [SubQuery Hero Course](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html)
-- James also talked to Jacky to explore Litentry’s plans [for a future DID protocol](https://www.youtube.com/watch?v=Rqlpo9QIVyk).
+- James đã cùng với Brett Kolodny của Acala nói về việc [Acala sử dụng SubQuery như thế nào](https://www.youtube.com/watch?v=Wbxwj8K67Lw).
+- Siqi, đại diện cộng đồng Trung Quốc của chúng tôi, [đã nói chuyện với Acala Network và Polkaworld về những thông tin mới nhất trong web3](https://www.huoxing24.com/live/24313016).
+- Chúng tôi đã phát hành các mô-đun [1](https://doc.subquery.network/academy/herocourse/module1/) đến [4](https://doc.subquery.network/academy/herocourse/module4/) của [Khóa học anh hùng SubQuery](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html)
+- James cũng đã nói chuyện với Jacky để khám phá các kế hoạch của Litentry [trong việc xây dựng một giao thức DID trong tương lai](https://www.youtube.com/watch?v=Rqlpo9QIVyk).
 
-As always, please [join our social channels](https://linktr.ee/subquerynetwork) (especially our [Discord](https://discord.com/invite/subquery)) to stay updated on our latest news and announcements.
+Như thường lệ, hãy [tham gia các kênh xã hội của chúng tôi](https://linktr.ee/subquerynetwork) (đặc biệt là [Discord](https://discord.com/invite/subquery)) để được cập nhật những tin tức và thông báo mới nhất.
 
 James, Sam và Đội ngũ SubQuery
 
