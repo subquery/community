@@ -4,7 +4,7 @@
 
 **Đọc thêm để tìm hiểu sâu hơn về các yếu tố kỹ thuật trong bản phát hành mới nhất của SubQuery**
 
-## Support for External Chain Type Files in Project Manifest
+## Hỗ trợ các loại chuỗi bên ngoài trong tệp kê khai dự án
 
 Hôm nay, [phiên bản 0.2.0](https://doc.subquery.network/create/manifest/) của tập tin kê khai dự án của chúng tôi (`project.yaml`) đã chính thức được ra mắt. Phiên bản mới này cung cấp cho các nhà phát triển nhiều cải tiến đã được yêu cầu bởi khách hàng.
 
@@ -14,9 +14,9 @@ Giải pháp này cho phép bạn tránh sao chép và quản lý các khái ni�
 
 [Bạn có thể đọc thêm về tập tin kê khai mới bao gồm cách bạn có thể di chuyển các dự án của mình sang tập tin đó ngay trong tài liệu cập nhật của chúng tôi.](https://doc.subquery.network/create/manifest/)
 
-## Moonbeam EVM Support
+## Hỗ trợ Moonbeam EVM
 
-Last week we were pleased to [announce that we were working with Moonbeam to bring complete EVM and Substrate indexing support to Moonriver](../customer_announcements/20211028-moonbeam-evm.md).
+Tuần trước, chúng tôi đã [thông báo rằng chúng tôi đang làm việc với Moonbeam để hỗ trợ lập chỉ mục EVM và Substrate hoàn chỉnh cho Moonriver](../customer_announcements/20211028-moonbeam-evm.md).
 
 Cùng với thông báo đó, hôm nay chúng tôi sẽ cung cấp tất cả các tài nguyên dành cho nhà phát triển mà bạn cần để có thể bắt đầu.
 
@@ -26,17 +26,17 @@ Hiện tại, không có công cụ mã nguồn mở nào cho phép các nhà ph
 
 ![](https://miro.medium.com/max/600/1*AET6Ek_PqFDRoc29Jiitnw.gif)
 
-[Firstly, familiarize yourself with the updated documentation on how to connect to and index data from Moonbeam, Moonbase Alpha, and Moonriver.](https://doc.subquery.network/create/substrate-evm/) The process to index Moonbeam data is only two steps:
+[Trước hết, hãy làm quen với tài liệu cập nhật về cách kết nối và lập chỉ mục dữ liệu từ Moonbeam, Moonbase Alpha và Moonriver.](https://doc.subquery.network/create/substrate-evm/) Quy trình lập chỉ mục dữ liệu Moonbeam chỉ bao gồm hai bước:
 
-### Step 1: Add the Moonbeam Custom Data Source
+### Bước 1: Thêm nguồn dữ liệu tùy chỉnh của Moonbeam
 
-Chúng tôi đã tạo một bộ xử lý dữ liệu được thiết kế riêng để làm việc với việc triển khai [Frontier](https://github.com/paritytech/frontier) của Moonbeam. Nó cho phép bạn tham chiếu các tài nguyên ABI cụ thể được bộ xử lý sử dụng để phân tích cú pháp các đối số và địa chỉ hợp đồng thông minh nơi mà các sự kiện bắt đầu hoặc lệnh gọi được thực hiện. [You can read more here](https://doc.subquery.network/create/substrate-evm/#data-source-spec).
+Chúng tôi đã tạo một bộ xử lý dữ liệu được thiết kế riêng để làm việc với việc triển khai [Frontier](https://github.com/paritytech/frontier) của Moonbeam. Nó cho phép bạn tham chiếu các tài nguyên ABI cụ thể được bộ xử lý sử dụng để phân tích cú pháp các đối số và địa chỉ hợp đồng thông minh nơi mà các sự kiện bắt đầu hoặc lệnh gọi được thực hiện. [Bạn có thể đọc thêm tại đây](https://doc.subquery.network/create/substrate-evm/#data-source-spec).
 
 SubQuery giới thiệu các bộ lọc nâng cao hơn các trình lập chỉ mục khác, cho phép lọc các giao dịch không theo hợp đồng, người gửi giao dịch, hợp đồng và các đối số nhật ký được lập chỉ mục. Điều này cho phép các nhà phát triển xây dựng nhiều loại dự án phục vụ cho nhu cầu dữ liệu cụ thể của họ.
 
-### Step 2: Index Moonbeam Data
+### Bước 2: Lập chỉ mục dữ liệu Moonbeam
 
-Cũng giống như một dự án SubQuery thông thường, bạn sử dụng một hàm ánh xạ để chuyển đổi dữ liệu chuỗi thành các thực thể GraphQL mà bạn đã xác định. Sự khác biệt là thay vì nhận được một `SubstrateEvent` hoặc `SubstrateExtriuality`, hàm ánh xạ của bạn sẽ nhận được một `MoonbeamCall` hoặc `MoonbeamEvent` dựa trên các dạng [TransactionResponse](https://docs.ethers.io/v5/api/providers/types/#providers-TransactionResponse) hoặc [Log](https://docs.ethers.io/v5/api/providers/types/#providers-Log) của Ether. [You can read more about these here](https://doc.subquery.network/create/substrate-evm/#frontierevmcall).
+Cũng giống như một dự án SubQuery thông thường, bạn sử dụng một hàm ánh xạ để chuyển đổi dữ liệu chuỗi thành các thực thể GraphQL mà bạn đã xác định. Sự khác biệt là thay vì nhận được một `SubstrateEvent` hoặc `SubstrateExtriuality`, hàm ánh xạ của bạn sẽ nhận được một `MoonbeamCall` hoặc `MoonbeamEvent` dựa trên các dạng [TransactionResponse](https://docs.ethers.io/v5/api/providers/types/#providers-TransactionResponse) hoặc [Log](https://docs.ethers.io/v5/api/providers/types/#providers-Log) của Ether. [Bạn có thể đọc thêm về những điều này tại đây](https://doc.subquery.network/create/substrate-evm/#frontierevmcall).
 
 [Đọc tài liệu đầy đủ về quy trình này tại đây](https://doc.subquery.network/create/substrate-evm/#frontierevmcall)
 
