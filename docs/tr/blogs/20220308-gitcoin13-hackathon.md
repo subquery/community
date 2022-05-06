@@ -19,13 +19,13 @@ GR 13 Hackathon'un bir parçası olarak SubQuery, geliştiricilerin platformumuz
 
 Polkadot'taki önde gelen ekiplerle açık ödüller ve ortaklıklardan oluşan [Alt Sorgu Hibe Programı hakkında daha fazla bilgi için buraya gidebilirsiniz](https://subquery.network/grants).
 
-## About Gitcoin
+## Gitcoin Hakkında
 
 [Gitcoin](http://www.gitcoin.co), açık kaynak kodlu, işbirliğine dayalı ve ekonomik açıdan güçlendirici bir internet oluşturma misyonunu üstleniyor. Gitcoin, Web 3 için topluluk ve altyapı oluşturuyor --- insanların açık internet için çalışmasını sağlayan çeşitli araçlar, teknolojiler ve ağlar. Gitcoin, projeleri finanse ederek, topluluk oluşturarak ve öğrenme kaynaklarını erişilebilir hale getirerek yarının dijital kamu altyapısını oluşturmak için bir araya geliyor.
 
 [Anlaşmazlık](https://discord.gg/6PZUM3cFpz) | [Web sitesi](http://www.gitcoin.co) | [Twitter](https://twitter.com/gitcoin) | [GitHub](https://github.com/gitcoinco/) |
 
-## About SubQuery
+## SubQuery Hakkında
 
 [Alt Sorgu](https://subquery.network), merkezi olmayan bir veri toplama, dizin oluşturma & Katman-1 blok zincirleri ve merkezi olmayan uygulamalar arasındaki sorgulama katmanı. Protokol, SubQuery SDK ile blok zinciri veri özdeyişlerini soyutlayarak geliştiricilerin, özel arka uç teknolojilerinde gereksiz yere çaba harcamadan temel ürünlerini dağıtmaya odaklanmasına olanak tanır.
 
