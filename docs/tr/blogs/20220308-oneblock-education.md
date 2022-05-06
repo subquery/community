@@ -16,15 +16,15 @@ One Block+, Parity Asia'dan mühendislerle dünyanın ilk substrat geliştiricil
 
 Yaklaşan tarihler hakkında daha fazla bilgi [SubQuery'nin Discord kanalında](https://discord.com/invite/78zg8aBSMG) yayınlanacaktır.
 
-In the meantime, SubQuery will be participating in the [upcoming Gitcoin GR13 Hackathon and invites developers to participate](https://gitcoin.co/hackathon/gr13/onboard) in the bounties here [or via bounties directly running in the SubQuery Grants Programme](https://subquery.network/grants).
+Bu arada, SubQuery [yaklaşan Gitcoin GR13 Hackathon'a katılacak](https://gitcoin.co/hackathon/gr13/onboard) ve geliştiricileri buradaki [veya doğrudan SubQuery Hibe Programında yürütülen ödüller aracılığıyla](https://subquery.network/grants) katılmaya davet ediyor.
 
-## About OneBlock+
+## OneBlock hakkında +
 
 OneBlock+, Çin'deki ilk ve en büyük blockchain geliştirici topluluğudur. OneBlock+'ta geliştiricilere alt yapı çalışmaları konusunda tam destek sağlıyor ve kariyer yollarını daha da ileriye taşıyoruz; Ekosistemin refahı için inşa etmek ve yenilik yapmak üzere birinci sınıf geliştiricileri çekmek için her sezon Polkadot Hackathons'a ev sahipliği yapıyoruz. Daha büyük bir Çin teknoloji kaynağı entegratörü olarak OneBlock+, teknoloji kursları, haber dağıtımları, AMA ve sektör için çevrimdışı etkinlikler gibi iş sağlamak için blok zinciri endüstrisinde iş anlayışları ve deneyimleri olan geliştiriciler, topluluklar, iş seçkinleri ve kilit medya ile de ortaktır. Kripto dünyasını birlikte şekillendirmek ister misiniz? Gelin ve bugün bize katılın!
 
 | [Twitter](https://mobile.twitter.com/oneblock_) | [Orta](https://medium.com/@OneBlockplus?p=5a6193755f9b) | [Anlaşmazlık](https://discord.gg/5aWx6Rch) | [Telgraf](https://t.me/oneblock_dev) |
 
-## About SubQuery
+## SubQuery Hakkında
 
 [Alt Sorgu](https://subquery.network), merkezi olmayan bir veri toplama, dizin oluşturma & Katman-1 blok zincirleri ve merkezi olmayan uygulamalar arasındaki sorgulama katmanı. Protokol, SubQuery SDK ile blok zinciri veri özdeyişlerini soyutlayarak geliştiricilerin, özel arka uç teknolojilerinde gereksiz yere çaba harcamadan temel ürünlerini dağıtmaya odaklanmasına olanak tanır.
 
