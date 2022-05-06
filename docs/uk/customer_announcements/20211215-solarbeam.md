@@ -10,7 +10,7 @@
 
 > _"SubQuery довів, що є надійним інструментом для запиту подій та транзакцій в ланцюгах на основі EVM та Substrate, з мінімальною затримкою для синхронізації нових даних і підходить для великої кількості даних. Як результат, ми віримо, що SubQuery надасть такий же хороший досвід на Moonbeam, як і для нас на Moonriver »._ - Засновник, Solarbeam
 
-[ Сервіс SubQuery ](https://subquery.network/) допомагає керувати аналітикою для запуску Eclipse IDO від Solarbeam. Попереду запуску на Moonbeam, Solarbeam буде інтегрувати SubQuery зі своїм інструментом аналітики портфоліо користувачів, який дозволить користувачам відстежувати свою історію ведення сільського господарства та отримання прибутку. This is made possible by the [recent integration of Moonbeam and Moonriver’s EVM with SubQuery](./20211028-moonbeam-evm.md).
+[ Сервіс SubQuery ](https://subquery.network/) допомагає керувати аналітикою для запуску Eclipse IDO від Solarbeam. Попереду запуску на Moonbeam, Solarbeam буде інтегрувати SubQuery зі своїм інструментом аналітики портфоліо користувачів, який дозволить користувачам відстежувати свою історію ведення сільського господарства та отримання прибутку. Це стало можливим завдяки [ нещодавній інтеграції Moonbeam і Moonriver's EVM з SubQuery](./20211028-moonbeam-evm.md).
 
 ![](https://miro.medium.com/max/1400/1*6_iO6tLt4RxxMvs8u-F_Bg.png)
 
