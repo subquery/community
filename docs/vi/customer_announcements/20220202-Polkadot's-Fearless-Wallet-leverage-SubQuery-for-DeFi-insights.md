@@ -20,7 +20,7 @@ Ví Fearless cũng đang làm việc chăm chỉ để triển khai các công c
 
 Ví Fearless đang sử dụng [Dự án SubQuery](https://project.subquery.network/) để quản lý dự án của riêng họ và thực hiện cập nhật theo yêu cầu. Họ tận dụng tính năng lưu trữ cấp doanh nghiệp của SubQuery để nhận cơ sở dữ liệu chuyên dụng, triển khai tự động và định tuyến địa lý đến nhiều cụm trên khắp thế giới để có hiệu suất và thời gian hoạt động. Các dịch vụ lập chỉ mục và truy vấn mà chúng tôi cung cấp hoàn toàn do SubQuery quản lý và được cung cấp cho cộng đồng Polkadot trong [SubQuery’s Explorer](https://explorer.subquery.network/).
 
-> _"SubQuery is all about harnessing data from the blockchain and making it easier to build apps that encourage participation by the everyday user. We are proud to be working with Fearless Wallet to provide their users with a rich experience and grow with them as they explode into the Polkadot ecosystem"_ -James Bayly, Head of Business Development — SubQuery
+> _"SubQuery là tất cả về khai thác dữ liệu từ blockchain và giúp việc xây dựng các ứng dụng khuyến khích sự tham gia của người dùng hàng ngày trở nên dễ dàng hơn. Chúng tôi tự hào được hợp tác với Ví Fearless để cung cấp cho người dùng trải nghiệm phong phú và cùng họ phát triển khi họ bùng nổ trong hệ sinh thái Polkadot"_ -James Bayly, Trưởng bộ phận Phát triển Kinh doanh - SubQuery
 
 ## Giới thiệu về SubQuery
 
