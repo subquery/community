@@ -4,24 +4,24 @@
 
 ![](https://miro.medium.com/max/700/1*nU7PnYFMR6MMBfccYE_Ujg.png)
 
-Welcome to the latest monthly update from SubQuery. September was a massive month for SubQuery as we announced our fundraising and made huge strides in all areas of the business. We are constantly on the look-out for talented individuals so please reach out if you can help us on our mission of making the world's decentralised data more accessible!
+Benvenuti all'ultimo aggiornamento mensile di SubQuery. Settembre è stato un mese importante per SubQuery: abbiamo annunciato la nostra raccolta di fondi e fatto passi da gigante in tutte le aree del business. Siamo costantemente alla ricerca di persone di talento, quindi contattaci se puoi aiutarci nella nostra missione di rendere i dati decentralizzati del mondo più accessibili!
 
-In this monthly update:
+In questo aggiornamento mensile:
 
-- Announced our fundraising round 💰
-- Multi language blogs and documentation 🌍
-- Exclusive workshops with Discord Community 🔊
+- Annunciato il nostro giro di raccolta fondi 💰
+- Blog e documentazione multilingue 🌍
+- Workshop esclusivi con la comunità Discord 🔊
 - Encode Club Hackathon 👩‍🎓
-- Community Growth 🚀
-- Interview with Layah Heilpern 🎙
-- Progress on the SubQuery Network 🏗
-- New Projects on SubQuery 🤝
+- Crescita della comunità 🚀
+- Intervista con Layah Heilpern 🎙
+- Progressi sulla rete di SubQuery 🏗
+- Nuovi progetti su SubQuery 🤝
 
-## Announced our fundraising round 💰
+## Annunciato il nostro giro di raccolta fondi 💰
 
-We were thrilled to announce the [close of our US$9m Series A fundraising](../blogs/20210908-SubQuery-Announces-US%249-Million-Funding-Round.md) in September and were delighted with the response that we received from all the key crypto media. Apart from coverage in [Coindesk](https://www.coindesk.com/business/2021/09/08/subquery-gets-9m-in-series-a-to-improve-access-to-blockchain-data-on-polkadot/), [CoinTelegraph](https://cointelegraph.com/news/subquery-raises-9m-for-polkadot-data-protocol), [The Block](https://www.theblockcrypto.com/post/116915/subquery-indexing-protocol-polkadot-funding-saft) and many others, some of our leading investors also published their investment thesis.
+Siamo stati entusiasti di annunciare la [chiusura della nostra raccolta di fondi di Serie A da 9 milioni di dollari](../blogs/20210908-SubQuery-Announces-US%249-Million-Funding-Round.md) a settembre e siamo stati felici della risposta che abbiamo ricevuto da tutti i principali media di criptovalute. Oltre alla copertura in [Coindesk](https://www.coindesk.com/business/2021/09/08/subquery-gets-9m-in-series-a-to-improve-access-to-blockchain-data-on-polkadot/), [CoinTelegraph](https://cointelegraph.com/news/subquery-raises-9m-for-polkadot-data-protocol), [The Block](https://www.theblockcrypto.com/post/116915/subquery-indexing-protocol-polkadot-funding-saft) e molti altri, alcuni dei nostri principali investitori hanno anche pubblicato le loro tesi di investimento.
 
-Rennick Palley of [Stratos Capital stated that SubQuery](https://medium.com/stratos-technologies/the-google-of-the-decentralized-world-our-investment-in-subquery-e6e7d949b00a) is "The Google of the Decentralized World" and that "SubQuery is a prototypical example of how Web 3 principals take what works from Web 2 & makes it transparent, fair, and community driven."
+Rennick Palley di [Stratos Capital ha dichiarato che SubQuery](https://medium.com/stratos-technologies/the-google-of-the-decentralized-world-our-investment-in-subquery-e6e7d949b00a) è "Il Google del mondo decentralizzato" e che "SubQuery è un esempio prototipico di come i principi del Web 3 prendono ciò che funziona dal Web 2 & lo rende trasparente, giusto e guidato dalla comunità"
 
 While Ninor Mansor of Arrington Capital shared in their ["The League of Parachains" report](https://arringtonxrpcapital.com/2021/09/17/the-league-of-parachains-polkadot/): "If Parachains are nations and the Relay Chain is an international alliance, then SubQuery is the common language --- the lingua franca --- of this new global order."
 
