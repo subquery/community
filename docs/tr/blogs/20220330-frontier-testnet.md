@@ -22,7 +22,7 @@ Test ağı geliştirme amaçlıdır ve sezonlar boyunca önemli geliştirme iyil
 
 Daha fazla bilgi için lütfen [Discord'daki ekibimizle iletişime geçin](https://discord.com/invite/78zg8aBSMG).
 
-## About SubQuery Network
+## SubQuery Ağı Hakkında
 
 [SubQuery](https://subquery.network), başkalarının geleceğin Web3 uygulamalarını oluşturmasını sağlayan bir blok zinciri geliştirici araç takımıdır. Bir Alt Sorgu projesi, katman-1 zincirlerinden verileri düzenlemek ve sorgulamak için eksiksiz bir API'dir. Şu anda Polkadot, Substrate ve Avalanche projelerine hizmet veren bu hizmet olarak veri, geliştiricilerin veri işleme için özel bir arka uç oluşturmaya zaman kaybetmeden temel kullanım durumlarına ve ön uçlarına odaklanmalarına olanak tanır. Alt Sorgu Ağı, aynı ölçeklenebilir ve güvenilir çözümü, ancak tamamen merkezi olmayan bir şekilde etkinleştirmeyi önerir.
 
