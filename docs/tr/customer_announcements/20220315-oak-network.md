@@ -1,4 +1,4 @@
-# SubQuery Provides Data To OAK Network To Power DeFi Automation Hub
+# SubQuery DeFi Otomasyon Merkezini Güçlendirmek için OAK Ağına Veri Sağlar
 
 ![](https://miro.medium.com/max/1400/0*R-MluHyL9bHAEboa)
 
@@ -20,10 +20,10 @@ OAK (On-chain Autonomous Kernel) Network, türünün ilk örneği olay odaklı y
 
 [Web sitesi](https://oak.tech/) | [Alt Sosyal](https://app.subsocial.network/6109) | [Orta](https://medium.com/oak-blockchain) | [Twitter](https://twitter.com/oak_network) | [Anlaşmazlık](https://discord.gg/7W9UDvsbwh) | [Github](https://github.com/OAK-Foundation/) | [Telgraf](https://t.me/OAK_Announcements) | [YouTube](https://www.youtube.com/channel/UCSEu57BfQQpAfgDixfBnaNg) | [LinkedIn](https://www.linkedin.com/company/oak-blockchain/)
 
-## About SubQuery
+## SubQuery Hakkında
 
-SubQuery's mission is to help others create products that allow us to move to a decentralized future faster. SubQuery is a blockchain developer toolkit and the backbone of web3 infrastructure. A SubQuery project is a complete API to organize and query data from chains. Operating between layer-1 blockchains and decentralized apps (dApp), SubQuery is an open-source indexer organizing and serving well-structured data over GraphQL. SubQuery powers the next generation of dApps and tools with web3 data
+SubQuery's misyonu, diğerlerinin merkezi olmayan bir geleceğe daha hızlı geçmemizi sağlayan ürünler oluşturmasına yardımcı olmaktır. SubQuery, bir blockchain geliştirici araç takımı ve web3 altyapısının omurgasıdır. Bir SubQuery projesi, zincirlerdeki verileri düzenlemek ve sorgulamak için eksiksiz bir API'dir. Katman 1 blok zincirleri ve merkezi olmayan uygulamalar (dApp) arasında çalışan SubQuery, GraphQL üzerinden iyi yapılandırılmış verileri organize eden ve sunan açık kaynaklı bir dizin oluşturucudur. SubQuery, web3 verileriyle yeni nesil dApp'lere ve araçlara güç sağlar
 
-Currently, anyone can already use SubQuery to extract and query blockchain data in only minutes. The SubQuery Network proposes to enable this same scalable and performant solution, but in a completely decentralized way.
+Şu anda herkes, blockchain verilerini yalnızca birkaç dakika içinde ve ücretsiz olarak, ancak merkezi bir şekilde ayıklamak ve sorgulamak için SubQuery'yi kullanabilir. SubQuery Ağı, aynı ölçeklenebilir ve performanslı çözümü, ancak tamamen merkezi olmayan bir şekilde etkinleştirmeyi önerir.
 
-​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+​​[Bağlantı Ağacı](https://linktr.ee/subquerynetwork) | [Web sitesi](https://subquery.network/) | [Anlaşmazlık](https://discord.com/invite/78zg8aBSMG) | [Telgraf](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matris](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
