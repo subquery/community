@@ -10,20 +10,20 @@
 
 Ian He, технічний директор SubQuery, прокоментував, _" SubQuery схвильовані запуском тестової мережі SubQuery Frontier та тим, що вона представляє як для нас самих, так і для нашої лояльної спільноти. Вибір "Frontier" як імені нашої тестової мережі також вказує на те, де, на нашу думку, ми знаходимося в зростанні Web3 та що ми хочемо, щоб індексатори вийшли за межі."_
 
-The Frontier Testnet will be rolled out in stages that we call "seasons, starting from April 11th. Each season will go for 2--3 weeks.
+Тестова мережа Frontier буде розгортатися етапами, які ми називаємо "сезонами", починаючи від 11 квітня. Кожен сезон буде тривати 2-3 тижні.
 
-- Season 1. Early stage alpha testing of a limited number of features with less than 30 participants.
-- Season 2. Large beta testing of more features with more participants.
-- Season 3. Full public test network for load and scale testing --- open to all interested parties.
+- Сезон 1. Раннє альфа-тестування обмеженої кількості функцій з менш ніж 30 учасниками.
+- Сезон 2. Велике бета-тестування нових функцій з більшою кількістю функцій та з більшою кількістю учасників.
+- Сезон 3. Повна публічно доступна тестова мережа для тестування навантаження та масштабування - відкрита для всіх зацікавлених сторін.
 
 ![](https://miro.medium.com/max/1400/1*oWnMXGqndf5539Gml7gf-Q.png)
 
-The testnet is for development purposes and will undergo significant development enhancements during the seasons. More details are available on the SubQuery documentation website: https://university.subquery.network/
+Ця тестова мережа призначена для розробки та зазнаватиме значних удосконалень протягом сезонів. Більш детальна інформація доступна на вебсайті документації SubQuery: https://university.subquery.network/
 
-For further information, please [contact our team in Discord](https://discord.com/invite/78zg8aBSMG).
+Для отримання додаткової інформації, будь ласка, [зв'яжіться з нашою командою в Discord](https://discord.com/invite/78zg8aBSMG).
 
-## About SubQuery Network
+## Про SubQuery Network
 
-[SubQuery](https://subquery.network) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot, Substrate and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+[SubQuery](https://subquery.network) - це набір інструментів для розробників блокчейну, який дає змогу іншим створювати Web3 додатки майбутнього. Проект SubQuery - це повноцінний API для організації та запиту даний з layer-1 ланцюжків. Наразі обслуговуючи проекти Polkadot та Substrate, ці data-as-a-service дозволяють розробникам зосередитися на своєму основному варіанті використання та інтерфейсі, без необхідності витрачати час на створення власного бекенду для обробки даних. SubQuery Network пропонує таке ж масштабне та надійне рішення, але повністю децентралізовано.
 
 ​​​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
