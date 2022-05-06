@@ -18,7 +18,7 @@
 
 ![](https://miro.medium.com/max/700/0*Ajx_bTmMcRBuTB_z)
 
-[This example dashboard ](https://dapplooker.com/dapp/subquery-moonbeam-120116?network=subquery&category=subquery&type=dashboard&udid=0)uses SubQuery's indexed Moonbeam EVM data and highlights peaks and troughs as well as success versus failed transactions in the Moonbeam network.
+[У цьому прикладі інформаційної панелі](https://dapplooker.com/dapp/subquery-moonbeam-120116?network=subquery&category=subquery&type=dashboard&udid=0) використовуються індексовані дані EVM SubQuery Moonbeam і висвітлюються піки та спади, а також успіх та невдачі транзакцій у мережі Moonbeam.
 
 ![](https://miro.medium.com/max/700/0*CPmeF30Kwwj0DbC6)
 
@@ -26,16 +26,16 @@
 
 > _"Ми відразу зрозуміли, що хочемо прийняти Dapplooker до програми SubQuery Grants Program, оскільки їхні цінності так тісно збігаються з нашими, і для нас була очевидна користь від об'єднання зусиль. Ми обидва намагаємося забезпечити ефективність для розробників Dapp, щоб вони могли зосередитися на своїй місії та не витрачати час на створення внутрішніх рішень. Тепер з Applocker команди можуть використовувати свою просту у використанні платформу для доступу до аналітики та звітності по ланцюжку даних".< / 0> - Бріттені Тілес, керівник програми SubQuery Grants</p> </blockquote> 
 > 
-> To leverage Dapplooker today, head to the [SubQuery integration home page](https://dapplooker.com/integration/subquery) to log-in (or sign-up for free) and select the data set you would like to build your dashboard from. After using[ the step-by-step documentation](https://dapplooker.notion.site/SubQuery-55e159ee37ff453b9a278be0efbe319e), you can search directly for the relevant SubQuery project in the 'SubQuery Project Endpoint' field on Dapplooker or locate this directly in our [Explorer](https://explorer.subquery.network/) to be copied over.
+> Щоб використовувати Dapplooker вже зараз, перейдіть на [домашню сторінку SubQuery integration](https://dapplooker.com/integration/subquery), увійдіть до системи (або зареєструйтеся безплатно) і оберіть набір даних, на базі якого ви хочете побудувати свою інформаційну панель. Після використання[ покрокової документації](https://dapplooker.notion.site/SubQuery-55e159ee37ff453b9a278be0efbe319e) ви можете знайти відповідний проєкт SubQuery в полі 'SubQuery Project Endpoint' на Dapplooker або розташувати його безпосередньо в нашому [провіднику](https://explorer.subquery.network/).
 > 
-> ## About Dapplooker
+> ## Про мережу Dapplooker
 > 
-> Dapplooker is a multi-chain analytics and visualization platform for blockchain networks and Dapps. Our aim is to empower people by making analysis of blockchain data simple with the aid of easy-to-use visual editor. Users can run SQL queries on smart contract data, build charts and dashboards which can be shared with the community.
+> Dapplooker - це мульті-чейн платформа аналітики та візуалізації для блокчейнів та Dapps. Наша мета - розширити можливості людей зробивши аналітику блокчейн даних простою за допомогою зрозумілого візуального редактора. Користувачі можуть виконувати SQL запити даних смарт контракту, будувати графіки та панелі, які можна поширити серед спільноти.
 > 
-> [Website](https://dapplooker.com/) | [Twitter](https://twitter.com/dapplooker) | [Discord](https://dapplooker.com/community) | [Telegram](https://t.me/dapplooker) | [Medium ](https://dapplooker.medium.com/)| [YouTube](https://www.youtube.com/channel/UC1KJmtb3UhnWSN_sDv71_fg)
+> [Вебсайт](https://dapplooker.com/) | [Твіттер](https://twitter.com/dapplooker) | [Діскорд](https://dapplooker.com/community) | [Телеграм](https://t.me/dapplooker) | [Медіум ](https://dapplooker.medium.com/)| [Ютуб](https://www.youtube.com/channel/UC1KJmtb3UhnWSN_sDv71_fg)
 > 
-> ## About SubQuery
+> ## Про мережу SubQuery
 > 
-> [SubQuery](https://subquery.network/) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot , Substrate and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+> [SubQuery](https://subquery.network/) — це набір інструментів для блокчейн розробників, який дає змогу іншим створювати веб-3 додатки майбутнього. Проект SubQuery — це повний API для організації та запиту даних із чейнів рівня 1. Наразі обслуговуючи проєкти Polkadot, ці дані як послуга дають змогу розробникам зосередитися на своєму основному варіанті використання та інтерфейсі, не витрачаючи час на створення спеціального сервера для обробки даних. SubQuery Network пропонує ввімкнути те саме масштабоване та надійне рішення, але повністю децентралізованим способом.
 > 
-> [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+> [Посилання](https://linktr.ee/subquerynetwork) | [Вебсайт](https://subquery.network/) | [Діскорд](https://discord.com/invite/78zg8aBSMG) | [Телеграм](https://t.me/subquerynetwork) | [Твіттер](https://twitter.com/subquerynetwork) | [Матрікс](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Ютуб](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
