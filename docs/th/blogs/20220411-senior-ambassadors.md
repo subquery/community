@@ -16,15 +16,15 @@ Dmytro สามารถพูดภาษาอังกฤษ ยูเคร
 
 สิ่งสำคัญที่สุดคือ Dmytro ให้คุณค่ากับผู้คนและสนุกกับการแบ่งปันความรู้ ให้โอกาส และทำให้ผู้คนสามัคคีโดยมีเป้าหมายร่วมกัน
 
-> _ฉันเป็นแฟนตัวยงและเป็นผู้ริเริ่มสำรวจ ecosystem ของ Polkadot ฉันเชื่อว่า Polkadot คือผู้ที่จะสร้าง Web3 ที่ยอดเยี่ยมมากในอนาคต แต่เพื่อให้ ecosystem ทำงานได้อย่างเต็มประสิทธิภาพ เราจำเป็นต้องเปิดโลกแห่งข้อมูลที่เข้าถึงได้และรวดเร็ว นั่นคือตอนที่ฉันได้พบกับ SubQuery เมื่อวันที่ 14 มิถุนายน 2021 หาก Polkadot คือร่างกาย SubQuery ก็คือความทรงจำและหัวใจ สำหรับการสร้างแอปพลิเคชันที่ซับซ้อนและใช้งานง่ายขึ้น นักพัฒนาจำเป็นต้องมีเครื่องมือที่มีประสิทธิภาพมากขึ้นสำหรับการประมวลผลข้อมูลและการสืบค้นข้อมูล SubQuery ช่วยให้นักพัฒนาให้ความสำคัญกับการพัฒนาแอปพลิเคชันและโซลูชันสำหรับพวกเขามากขึ้น SubQuery เชื่อว่านักพัฒนาแอปพลิเคชันจะเปลี่ยนแปลงอนาคตในขณะที่ SubQuery จะมีส่วนร่วมในการบำรุงรักษาโครงสร้างพื้นฐานที่เติบโตแบบทวีคูณ"_ - Dmytro
+> _ฉันเป็นแฟนตัวยงและเป็นผู้ริเริ่มสำรวจ ecosystem ของ Polkadot ฉันเชื่อว่า Polkadot คือผู้ที่จะสร้าง Web3 ที่ยอดเยี่ยมมากในอนาคต แต่เพื่อให้ ecosystem ทำงานได้อย่างเต็มประสิทธิภาพ เราจำเป็นต้องเปิดโลกแห่งข้อมูลที่เข้าถึงได้และรวดเร็ว นั่นคือตอนที่ฉันได้พบกับ SubQuery เมื่อวันที่ 14 มิถุนายน 2021 หาก Polkadot คือร่างกาย SubQuery ก็คือความทรงจำและหัวใจ สำหรับการสร้างแอปพลิเคชันที่ซับซ้อนและใช้งานง่ายขึ้น นักพัฒนาจำเป็นต้องมีเครื่องมือที่มีประสิทธิภาพมากขึ้นสำหรับการประมวลผลข้อมูลและการสืบค้นข้อมูล SubQuery ช่วยให้นักพัฒนาให้ความสำคัญกับการพัฒนาแอปพลิเคชันและโซลูชันสำหรับพวกเขามากขึ้น SubQuery เชื่อว่านักพัฒนาแอปพลิเคชันจะเปลี่ยนแปลงอนาคตในขณะที่ SubQuery จะมีส่วนร่วมในการบำรุงรักษาโครงสร้างพื้นฐานที่เติบโตแบบทวีคูณ_ - Dmytro
 
 ![](https://miro.medium.com/max/1400/0*fh2pBSbhmMkXWYqz)
 
-Nick has a degree in linguistics specialising in Germanic philology and literature, but also has a passion for marketing and management.
+Nick จบการศึกษาด้านภาษาศาสตร์ที่เชี่ยวชาญด้านภาษาศาสตร์และวรรณคดีดั้งเดิม แต่เขายังมีความหลงใหลในการตลาดและการจัดการอีกด้วย
 
-He was interested in crypto since his school days, but it was not until university that he decided to take it seriously and take the necessary steps to familiarise himself with the crypto world. He believed that people would soon change their attitude towards cryptocurrencies and start to look into it more deeply, and that this topic would become very popular and commonplace.
+เขาสนใจคริปโตตั้งแต่สมัยเรียน แต่เมื่อเขาเรียนมหาวิทยาลัยเขาตัดสินใจที่จะจริงจังกับมันและศึกษาขั้นตอนที่จำเป็นเพื่อทำความคุ้นเคยกับโลกของคริปโต เขาเชื่อว่าในไม่ช้าผู้คนจะเปลี่ยนทัศนคติของพวกเขาที่มีต่อคริปโตเคอร์เรนซี่และเริ่มมองลึกลงไปอีก และสิ่งนี้จะกลายเป็นที่นิยมมากและเป็นเรื่องธรรมดาทั่วไป
 
-Nick speaks four languages, English, German, Russian and Ukrainian and has over two years of success in community management, team collaboration, leadership and strategic planning. His focus is on the Blockchain space, specifically DeFi technology and smart contract platforms, which he believes will change the world.
+Nick สามารถพูดได้ 4 ภาษาได้แก่ อังกฤษ เยอรมัน รัสเซีย และยูเครน และประสบความสำเร็จมากกว่าสองปีในด้านการจัดการชุมชน การทำงานร่วมกันเป็นทีม ความเป็นผู้นำ และการวางแผนเชิงกลยุทธ์ His focus is on the Blockchain space, specifically DeFi technology and smart contract platforms, which he believes will change the world.
 
 > _"I started my journey in SubQuery about one year ago. I liked the story of the project as well as the team, the goals and of course the technology. My research also revealed that SubQuery offers a great professional development programme for community members, which to me indicates a commitment to collective improvement that I value. The team members were very responsive and always willing to help newbies with questions. That's why I immediately decided to join the Ambassador programme. It was the right decision, and now I am very happy to be a part of and stand at the origins of such a wonderful project."_ - Nick
 
