@@ -10,20 +10,20 @@ Das Dotsama-Ökosystem besteht aus Dutzenden von Blockchains und Tausenden von D
 
 > _"SubQuery ist stolz darauf, die Daten zu liefern, die SubWallet benötigt, um seine Vision zu verwirklichen, seinen Nutzern ein einladendes und intuitives Erlebnis zu bieten. Durch die Zusammenarbeit mit innovativen und schnellen Teams wie SubWallet können wir agil bleiben und Verbesserungen einführen, um unseren gemeinsamen Erfolg zu gewährleisten"._ - Brittany Seales, Customer Success Lead bei SubQuery
 
-SubWallet verwendet [SubQuery Projects](https://project.subquery.network/), um ihr eigenes Projekt zu verwalten und bei Bedarf Aktualisierungen vorzunehmen. They take advantage of SubQuery's [enterprise-level hosting](../blogs/20211228-enterprise-hosted.md) to receive dedicated databases, automated deployments, and geographic routing to multiple clusters around the world for performance and uptime.
+SubWallet verwendet [SubQuery Projects](https://project.subquery.network/), um ihr eigenes Projekt zu verwalten und bei Bedarf Aktualisierungen vorzunehmen. Sie nutzen das [Enterprise-Level-Hosting](../blogs/20211228-enterprise-hosted.md) von SubQuery, um dedizierte Datenbanken, automatisierte Bereitstellungen und geografisches Routing zu mehreren Clustern auf der ganzen Welt für Leistung und Betriebszeit zu erhalten.
 
 ![](https://miro.medium.com/max/1400/0*2veb8l0E6zpyhhNB)
 
-You can find more information about SubWallet and the data they leverage from SubQuery by searching for SubWallet in the [SubQuery Explorer](https://explorer.subquery.network/).
+Sie können weitere Informationen über SubWallet und die Daten, die sie von SubQuery nutzen, finden, indem Sie im [SubQuery Explorer](https://explorer.subquery.network/) nach SubWallet suchen.
 
-## About SubWallet
+## Über SubWallet
 
-SubWallet is a pioneer user-friendly Web3 Multiverse Gateway for Polkadot and Kusama ecosystem. With the mission of bringing crypto users closer to the Dotsama ecosystem and opening the Web3 universe, we focus on building a product that provides the simplest and most secure way to connect to blockchain-based applications like DeFi and GameFi for Dotsama Ecosystem.
+SubWallet ist ein bahnbrechendes, benutzerfreundliches Web3 Multiverse Gateway für das Polkadot und Kusama Ökosystem. Mit der Mission, Krypto-Nutzer näher an das Dotsama-Ökosystem heranzuführen und das Web3-Universum zu öffnen, konzentrieren wir uns darauf, ein Produkt zu entwickeln, das den einfachsten und sichersten Weg bietet, sich mit Blockchain-basierten Anwendungen wie DeFi und GameFi für das Dotsama-Ökosystem zu verbinden.
 
 [Website](https://subwallet.app/) |[ Twitter](https://twitter.com/subwalletapp) |[ Discord](https://discord.gg/eDdVzF8ynJ) |[ Telegram](https://t.me/subwallet) |[ Youtube](https://www.youtube.com/channel/UC5XYLzQ1G077kUb7guZEMdA) |[ Linkedin](https://www.linkedin.com/company/subwallet/) |[ Github](https://github.com/Koniverse)
 
-## About SubQuery
+## Über SubQuery
 
-[SubQuery](https://subquery.network) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot and Substrate projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+[SubQuery](https://subquery.network) ist ein Blockchain-Entwickler-Toolkit, das es anderen ermöglicht, Web3-Anwendungen der Zukunft zu erstellen. Ein SubQuery-Projekt ist eine vollständige API zum Organisieren und Abfragen von Daten aus Schicht-1-Ketten. Dieser Data-as-a-Service, der derzeit für Polkadot- und Substrate-Projekte eingesetzt wird, ermöglicht es Entwicklern, sich auf ihren eigentlichen Anwendungsfall und ihr Frontend zu konzentrieren, ohne Zeit mit dem Aufbau eines benutzerdefinierten Backends für die Datenverarbeitung verschwenden zu müssen. Das SubQuery Network schlägt vor, dieselbe skalierbare und zuverlässige Lösung zu ermöglichen, allerdings auf völlig dezentralisierte Weise.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
