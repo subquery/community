@@ -44,23 +44,23 @@
 
 SubQuery จะถูกสร้างขึ้นโดยทีมงานที่ OnFinality ซึ่งเป็นแพลตฟอร์มโครงสร้างพื้นฐาน SaaS สำหรับทีม blockchain และผู้ใช้เพื่อเปิดใช้โหนดและเข้าถึงโปรโตคอล blockchain ที่หลากหลาย เรามีชุดบริการแบบพึ่งพาอาศัยกัน รวมถึงบริการโหนดที่ใช้ร่วมกันของ API และโหนดเฉพาะที่สามารถใช้ในการจัดการโครงสร้างพื้นฐานหรือเป็นส่วนหนึ่งของไปป์ไลน์การทดสอบ CI/CD ของทีมโปรโตคอล เรามีความสัมพันธ์กับทีมชั้นนำ Polkadot/Substrate  ความเชี่ยวชาญในการโฮสต์โครงสร้างพื้นฐานที่มีการจัดการสำหรับเครือข่าย Substrate/Polkadot และความสามารถในการส่งมอบโครงการโครงสร้างพื้นฐานที่ซับซ้อนและโฮสต์สิ่งต่างๆเหล้านั้นเพื่อการใช้งานจริง
 
-**Sam Zou —** CEO ([LinkedIn](https://www.linkedin.com/in/sam-zou-5b8169a/))
+Sam Zou — ซีอีโอ (LinkedIn)
 
 ผู้ประกอบการ นักลงทุน ที่มีประสบการณ์ด้านไอทีมากกว่า 20 ปี เชี่ยวชาญด้านการออกแบบโครงสร้างพื้นฐานและบริการคลาวด์
 
-**Ian He —** Head of Protocol ([LinkedIn](https://www.linkedin.com/in/yin-he-7a266345/))
+Ian He — หัวหน้าโปรโตคอล (LinkedIn)
 
 สถาปนิกบล็อกเชน, ผู้สนับสนุน polkadot-js ซึ่งเป็นผู้ที่เริ่มใช้เทคโนโลยี Substrate ก่อนใคร และได้รับรางวัลที่สองใน Polkadot hackathon ครั้งที่หนึ่ง
 
-**James Xu —** Solutions Architect ([LinkedIn](https://www.linkedin.com/in/zhexu/))
+James Xu — สถาปนิกโซลูชั่น (LinkedIn)
 
-Infrastructure & Application Architect, Award-winning software engineer.
+สถาปนิกโครงสร้างพื้นฐานและแอปพลิเคชัน วิศวกรซอฟต์แวร์ที่ได้รับรางวัล
 
-**James Bayly** — Head of Business Development ([LinkedIn](https://www.linkedin.com/in/james-bayly/))
+James Bayly — หัวหน้าฝ่ายพัฒนาธุรกิจ (LinkedIn)
 
-Get started on the [SubQuery Github repository.](https://github.com/OnFinality-io/subql)
+เริ่มต้นใช้งานที่เก็บ SubQuery Github
 
-Read our [SubQuery docs](https://doc.subquery.network/)
+อ่านเอกสารแบบสอบถามย่อยของเรา
 
 [เยี่ยมชมเว็บไซต์ใหม่ของเรา](https://subquery.network/)
 
