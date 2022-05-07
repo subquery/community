@@ -2,11 +2,11 @@
 
 ![](https://miro.medium.com/max/1400/0*LdQoekBCsctSL0Po)
 
-Today we are excited to announce the continuation of our partnership with Gitcoin to run a second hackathon via Gitcoin Grants Round 13 starting on March 9th.
+Hôm nay, chúng tôi rất vui mừng thông báo về việc tiếp tục hợp tác với Gitcoin để tổ chức cuộc thi hackathon thứ hai thông qua Gitcoin Grants Round 13 bắt đầu vào ngày 9 tháng 3.
 
-SubQuery's mission of making the world's decentralised data more accessible relies on having a network of developers who are empowered to create and innovate. After running our first Gitcoin Hackathon in December 2021 and achieving fantastic results with many talented developers it was an easy decision to extend our partnership.
+Sứ mệnh của SubQuery là làm cho dữ liệu phi tập trung của thế giới dễ tiếp cận hơn dựa vào việc có một mạng lưới các nhà phát triển được trao quyền để sáng tạo và đổi mới. Sau khi khởi chạy Gitcoin Hackathon đầu tiên vào tháng 12 năm 2021 và đạt được kết quả tuyệt vời với nhiều nhà phát triển tài năng, đó là một quyết định dễ dàng để mở rộng quan hệ đối tác của chúng tôi.
 
-The [Gitcoin GR13 Hackathon](https://gitcoin.co/hackathon/gr13/onboard) takes place from March 9th --- 24th 2022 with leading blockchain projects contributing to various prize pools. [SubQuery has proposed four bounties with a total prize pool of up to $22,000](https://gitcoin.co/hackathon/gr13/?org=subquery). The prizes will be granted to those who have successfully completed the projects to the pre-set standards, and who deliver the most creative ideas, or those or solve areas to improve the core SubQuery SDK. Dưới đây là một bản tóm tắt ngắn về những thử thách được đặt ra:
+[ Gitcoin GR13 Hackathon ](https://gitcoin.co/hackathon/gr13/onboard) diễn ra từ ngày 9 tháng 3 --- ngày 24 tháng 3 năm 2022 với các dự án blockchain hàng đầu đóng góp vào các nhóm giải thưởng khác nhau. [ SubQuery đã đề xuất bốn giải bounties (tiền thưởng) với tổng giải thưởng lên đến $ 22,000 ](https://gitcoin.co/hackathon/gr13/?org=subquery). Giải thưởng sẽ được trao cho những người đã hoàn thành xuất sắc các dự án theo tiêu chuẩn đặt trước và những người đưa ra ý tưởng sáng tạo nhất hoặc những người hoặc giải quyết các lĩnh vực để cải thiện cốt lõi của SubQuery. Dưới đây là một bản tóm tắt ngắn về những thách thức:
 
 - Build a solution that stores a historical state of the blockchain rather than just the final state
 - Create an alternative Substrate-like chain dictionary generation via a Substrate archive
