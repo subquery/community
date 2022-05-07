@@ -6,33 +6,33 @@
 
 เราออกแบบเว็บไซต์ใหม่ด้วยเหตุผลสองประการ ประการแรก เราจำเป็นต้องปรับปรุงเว็บไซต์ให้ทันสมัยเพื่อให้สะท้อนถึงความคืบหน้าในปัจจุบันของ SubQuery และสะท้อนฐานะผู้นำในการจัดทำดัชนีข้อมูลมากขึ้น นับตั้งแต่การอัปเดตเว็บไซต์ครั้งล่าสุด เราได้พัฒนาขึ้นอย่างมากพร้อมๆกับการที่กำลังจะเปิดตัว SubQuery Network ประการที่สอง เราต้องการปรับปรุงภาพรวมเพื่อสร้างความประทับใจที่มากขึ้นกับแบรนด์ด้วยคอมมูนิตี้ที่ขยายตัวอย่างรวดเร็วของเรา
 
-SubQuery เป็นโปรเจ็กต์ดัชนีข้อมูล และนั่นคือทั้งหมด ด้วยความคิดนี้เองทำใหเราเลือกการออกแบบและเลย์เอาต์ที่เฉพาะเจาะจงโดยเน้นการเว้นวรรคปานกลางระหว่างย่อหน้าเพื่อให้ดูทันสมัยยิ่งขึ้นและทำให้เนื้อหาอ่านง่ายขึ้น นอกจากนี้ยังมีเทมเพลตหน้าเว็บที่มีความยืดหยุ่นและตอบสนองได้ดีและยังสามารถนำมาทำขึ้นใหม่ได้เนื่องจาก SubQuery มีจำนวนแอปพลิเคชันที่เพิ่มขึ้นเรื่อยๆ Combined, these updates give the user a much better experience navigating through what can be quite detailed and technical information.
+SubQuery เป็นโปรเจ็กต์ดัชนีข้อมูล และนั่นคือทั้งหมด ด้วยความคิดนี้เองทำใหเราเลือกการออกแบบและเลย์เอาต์ที่เฉพาะเจาะจงโดยเน้นการเว้นวรรคปานกลางระหว่างย่อหน้าเพื่อให้ดูทันสมัยยิ่งขึ้นและทำให้เนื้อหาอ่านง่ายขึ้น นอกจากนี้ยังมีเทมเพลตหน้าเว็บที่มีความยืดหยุ่นและตอบสนองได้ดีและยังสามารถนำมาทำขึ้นใหม่ได้เนื่องจาก SubQuery มีจำนวนแอปพลิเคชันที่เพิ่มขึ้นเรื่อยๆ โดยรวมกันแล้วการอัปเดตเหล่านี้จะช่วยให้ผู้ใช้งานมีประสบการณ์การใช้ที่ดีขึ้นมาก
 
 ![](https://miro.medium.com/max/1400/1*rqmuhuC5rdV7sZN2AwokZQ.png)
 
-Going back to first principles of website design, we kept the end-user firmly in our mind. In order to achieve our goal, we stuck to key principles such as establishing a strong visual hierarchy across elements such as typography and content grouping. Furthermore, given the subject matter it was important that we ensured that the content was accessible and responsive and didn't overwhelm the audience with too much information.
+กลับไปที่หลักการตอนแรกของการออกแบบเว็บไซต์ เรารักษาผู้ใช้ปลายทางไว้อย่างมั่นคงในใจของเรา เพื่อให้บรรลุเป้าหมาย เราได้ยึดหลักการสำคัญเช่นการสร้างลำดับชั้นของภาพที่องค์ประกอบต่างๆแข็งแกร่ง เช่น การพิมพ์และการจัดกลุ่มเนื้อหา นอกจากนี้เมื่อพิจารณาถึงเรื่องนี้เป็นสิ่งสำคัญที่เราต้องมั่นใจว่าเนื้อหานั้นสามารถเข้าถึงและตอบสนองได้ และต้องไม่มีข้อมูลมากเกินไป
 
-Our UI design process went through five steps which gives us the opportunity to create user-centred design and successfully consider value based marketing principles.
+กระบวนการออกแบบ UI ของเรามีด้วยกัน 5 ขั้นตอน ซึ่งเปิดโอกาสให้เราสร้างการออกแบบที่ผู้ใช้งานเป็นศูนย์กลางและพิจารณาหลักการทางการตลาดแบบอิงคุณค่า
 
-## Step 1: Empathise
+## ขั้นตอนที่ 1: ความเอาใจใส่(Empathise)
 
-The goal during this stage is to understand who we design for. Creating customer personas are a good way to help represent a particular group of people with similar behaviour, needs, goals, and attitudes. This understanding allowed us to make the right decisions about product features, navigation, visual design, and much more.
+เป้าหมายในขั้นตอนนี้คือการทำความเข้าใจว่าเราออกแบบเพื่อใคร การสร้างตัวตนลูกค้าเป็นวิธีที่ดีในการช่วยเป็นตัวแทนของกลุ่มบุคคลที่มีพฤติกรรม ความต้องการ เป้าหมาย และทัศนคติที่คล้ายคลึงกัน ความเข้าใจนี้ทำให้เราตัดสินใจเกี่ยวกับคุณลักษณะของผลิตภัณฑ์ การนำทาง การออกแบบรูปภาพ และอื่นๆ อีกมากมายได้อย่างถูกต้อง
 
-## Step 2: Define
+## ขั้นตอนที่ 2: นิยาม(Define)
 
-The next step was to define these insights identified in the Empathise stage, we looked to define our users needs, problems, and insights. Once again, this process is to have a better understanding of exactly what our users need before we start looking to provide what we think they need.
+ขั้นตอนต่อไปคือการกำหนดเฉพาะเจาะจงข้อมูลเชิงลึกที่ระบุไว้ในขั้น เอาใจใส่(Empathise) เรามองหาเพื่อเจาะจงความต้องการ ปัญหา และข้อมูลเชิงลึกของผู้ใช้งาน ในกระบวนการนี้ ต้องมีความเข้าใจที่ากขึ้นว่าผู้ใช้ของเราต้องการอะไร ก่อนที่จะเริ่มนำเสนอสิ่งที่เราคิดว่าพวกเขาต้องการ
 
-## Step 3: Ideate
+## ขั้นตอนที่ 3: คิด(Ideate)
 
-Based on the previous two steps we then looked to ideate various different design options making sure to consider the user with every decision made.
+จากสองขั้นตอนก่อนหน้านี้ เราจึงมองหาตัวเลือกการออกแบบต่างๆ เพื่อให้แน่ใจว่าได้พิจารณาผู้ใช้งานในการตัดสินใจทุกครั้ง
 
-## Step 4: Prototype
+## ขั้นตอนที่ 4: ตัวต้นแบบ(Prototype)
 
-After going through the ideation process we looked to prototype specific designs we think best reflect the needs of our users and best solve the problems they have.
+หลังจากผ่านกระบวนการคิดเราเลือกการออกแบบของตัวต้นแบบที่เราคิดว่าสะท้อนความต้องการของผู้ใช้ได้ดีที่สุดและแก้ปัญหาที่พวกเขามีได้ดีที่สุด
 
-## Step 5: Test
+## ขั้นตอนที่ 5: ทดสอบ(Test)
 
-The final stage of our process was to test the prototypes we had designed. This allowed us to ensure that the changes we have made are effective.
+ขั้นตอนสุดท้ายของกระบวนการคือ การทดสอบตัวต้นแบบที่เราได้ออกแบบไว้ This allowed us to ensure that the changes we have made are effective.
 
 ![](https://miro.medium.com/max/1400/1*AMO1WP2Yg1MtNht22gIeaw.png)
 
