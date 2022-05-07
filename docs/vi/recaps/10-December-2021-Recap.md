@@ -12,15 +12,15 @@ Hãy đọc lời nhắn từ Sam và tìm hiểu những gì chúng ta phải l
 
 Vào cuối tháng 12, chúng tôi tự hào thông báo về việc ra mắt Chương trình Tài trợ $500.000 của mình.
 
-Tầm nhìn của sáng kiến [ SubQuery Grants ](https://subquery.network/grants) là cung cấp các cơ hội quan trọng cho các nhà phát triển blockchain, các thành viên cộng đồng và những người tham gia hệ sinh thái rộng khắp để họ có thể tạo ra thế hệ tiếp theo của các ứng dụng phi tập trung (dApps). These apps are expected to power the Polkadot-based solutions that will support Web 3.0, which is an evolving set of standards for the Internet of the future.
+Tầm nhìn của sáng kiến [ SubQuery Grants ](https://subquery.network/grants) là cung cấp các cơ hội quan trọng cho các nhà phát triển blockchain, các thành viên cộng đồng và những người tham gia hệ sinh thái rộng khắp để họ có thể tạo ra thế hệ tiếp theo của các ứng dụng phi tập trung (dApps). Các ứng dụng này dự kiến sẽ tiếp thêm năng lượng cho các giải pháp dựa trên Polkadot mà hỗ trợ Web 3.0, một bộ tiêu chuẩn đang phát triển cho Internet trong tương lai.
 
 <iframe width="680" height="382" src="https://www.youtube.com/embed/Gcu2syKYlB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-SubQuery is looking for innovative or high-potential ideas that leverage SubQuery’s open-source data indexing tools to support cutting-edge applications that address problems in blockchain or distributed ledger technology (DLT) sector. We’re particularly interested in user friendly applications that unlock the data from Polkadot or parachains, providing an intuitive entry point into our ecosystem. Our aim is to bring millions of users into the Polkadot ecosystem by helping builders build the next generation of dApps. [You can read more here](../blogs/20211222-grants.md)
+SubQuery đang tìm kiếm các ý tưởng sáng tạo hoặc có tiềm năng cao để tận dụng các công cụ lập chỉ mục dữ liệu mã nguồn mở của SubQuery nhằm hỗ trợ các ứng dụng tiên tiến giải quyết các vấn đề trong lĩnh vực chuỗi khối hoặc công nghệ sổ cái phân tán (DLT). Chúng tôi đặc biệt quan tâm đến các ứng dụng thân thiện với người dùng giúp mở khóa dữ liệu từ Polkadot hoặc các parachain, cung cấp một điểm vào trực quan cho hệ sinh thái của chúng tôi. Mục đích của chúng tôi là mang hàng triệu người dùng vào hệ sinh thái Polkadot bằng cách giúp các nhà phát triển xây dựng thế hệ dApp tiếp theo. [Bạn có thể tìm hiểu thêm tại đây](../blogs/20211222-grants.md)
 
 ![](https://miro.medium.com/max/1400/1*tFm9pBCPmAet3WGiGjUtLg.png)
 
-### SubQuery Releases Tokenomics
+### SubQuery phát hành Tokenomics
 
 During our most recent Community Call we shared our high-level tokenomics for the first time including the allocations and vesting schedules. SubQuery will mint a supply of 10 billion SQT which will be allocated in the following manner.
 
