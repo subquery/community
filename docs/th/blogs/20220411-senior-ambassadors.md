@@ -24,23 +24,23 @@ Nick จบการศึกษาด้านภาษาศาสตร์ท
 
 เขาสนใจคริปโตตั้งแต่สมัยเรียน แต่เมื่อเขาเรียนมหาวิทยาลัยเขาตัดสินใจที่จะจริงจังกับมันและศึกษาขั้นตอนที่จำเป็นเพื่อทำความคุ้นเคยกับโลกของคริปโต เขาเชื่อว่าในไม่ช้าผู้คนจะเปลี่ยนทัศนคติของพวกเขาที่มีต่อคริปโตเคอร์เรนซี่และเริ่มมองลึกลงไปอีก และสิ่งนี้จะกลายเป็นที่นิยมมากและเป็นเรื่องธรรมดาทั่วไป
 
-Nick สามารถพูดได้ 4 ภาษาได้แก่ อังกฤษ เยอรมัน รัสเซีย และยูเครน และประสบความสำเร็จมากกว่าสองปีในด้านการจัดการชุมชน การทำงานร่วมกันเป็นทีม ความเป็นผู้นำ และการวางแผนเชิงกลยุทธ์ His focus is on the Blockchain space, specifically DeFi technology and smart contract platforms, which he believes will change the world.
+Nick สามารถพูดได้ 4 ภาษาได้แก่ อังกฤษ เยอรมัน รัสเซีย และยูเครน และประสบความสำเร็จมากกว่าสองปีในด้านการจัดการชุมชน การทำงานร่วมกันเป็นทีม ความเป็นผู้นำ และการวางแผนเชิงกลยุทธ์ โฟกัสของเขาอยู่ที่ Blockchain โดยเฉพาะเทคโนโลยี DeFi และแพลตฟอร์ม smart contract ซึ่งเขาเชื่อว่ามันจะเปลี่ยนโลก
 
-> _"I started my journey in SubQuery about one year ago. I liked the story of the project as well as the team, the goals and of course the technology. My research also revealed that SubQuery offers a great professional development programme for community members, which to me indicates a commitment to collective improvement that I value. The team members were very responsive and always willing to help newbies with questions. That's why I immediately decided to join the Ambassador programme. It was the right decision, and now I am very happy to be a part of and stand at the origins of such a wonderful project."_ - Nick
+> _"ฉันเริ่มต้นการเดินทางกับ SubQuery เมื่อประมาณหนึ่งปีที่แล้ว ฉันชอบ story ของโปรเจคเช่นเดียวกับทีม เป้าหมาย และแน่นอนเทคโนโลยีด้วย การวิจัยของฉันยังเปิดเผยว่า SubQuery เสนอโปรแกรมการพัฒนาทางวิชาชีพที่ยอดเยี่ยมสำหรับสมาชิกในชุมชน ซึ่งสำหรับฉันแล้ว มันบ่งบอกถึงความมุ่งมั่นในการปรับปรุงส่วนรวมที่ฉันให้ความสำคัญ สมาชิกในทีมกระตือรือร้นมากและยินดีช่วยเหลือมือใหม่ที่ถามคำถามเสมอ นั่นเป็นเหตุผลที่ทำให้ฉันตัดสินใจเข้าร่วมโปรแกรม Ambassador ทันที มันเป็นการตัดสินใจที่ถูกต้อง และตอนนี้ฉันมีความสุขมากที่ได้เป็นส่วนหนึ่งและยืนหยัดที่ต้นกำเนิดของโปรเจคที่ยอดเยี่ยมเช่นนี้"_ - Nick
 
 ![](https://miro.medium.com/max/1400/0*UAl7Xw8tJuJ44SrF)
 
-Prathak is a doctor who is interested in a variety of fields, but his greatest interest lies in investment and technology.
+Prathak เป็นแพทย์ที่สนใจในหลากหลายสาขา แต่สิ่งที่เขาสนใจมากที่สุดคือการลงทุนและเทคโนโลยี
 
-He learned about the world of blockchain while studying programming on his own during his university years in his free time. He was drawn to the possibilities and potential of new technologies and became deeply passionate about blockchain, especially DeFi and DAOs. Other favoured topics for him are artificial intelligence, ZKP and how blockchain can be used in a more privacy-focused environment.
+เขาได้เรียนรู้โลกของบล็อคเชนในขณะที่ศึกษาการเขียนโปรแกรมด้วยตัวเองระหว่างเรียนมหาวิทยาลัยในเวลาว่าง เขาสนใจในความเป็นไปได้และศักยภาพของเทคโนโลยีใหม่ๆ และหลงใหลในบล็อกเชนอย่างลึกซึ้ง โดยเฉพาะ DeFi และ DAOs หัวข้อที่เขาชื่นชอบอื่นๆ ได้แก่ ปัญญาประดิษฐ์, ZKP และวิธีการใช้บล็อคเชนในสภาพแวดล้อมที่เน้นความเป็นส่วนตัวมากขึ้น
 
-In addition to his interest in blockchain and new technologies stemming from his software development background, he also has literary and poetic abilities.
+นอกเหนือจากความสนใจในบล็อคเชนและเทคโนโลยีใหม่ๆที่เกิดจากพื้นฐานการพัฒนาซอฟต์แวร์ของเขาแล้ว เขายังมีความสามารถด้านวรรณกรรมและบทกวีอีกด้วย
 
-In his spare time, he reads novels, comic books, and exercises regularly. On long weekends, he often goes out on a motorcycle to explore the nature and lifestyle of the local people. He aspires to have a positive influence on others such as his family and friends.
+ในเวลาว่าง เขาจะอ่านนิยาย หนังสือการ์ตูน และออกกำลังกายเป็นประจำสม่ำเสมอ ในช่วงวันหยุดยาว เขามักจะออกไปขี่มอเตอร์ไซค์เพื่อสำรวจธรรมชาติและวิถีชีวิตของผู้คนในท้องถิ่น เขาปรารถนาที่จะมีอิทธิพลเชิงบวกต่อผู้อื่น เช่น ครอบครัวและเพื่อนฝูง
 
-As a SubQuery Ambassador, he desires to use this opportunity to create an open-source instructional resource regarding blockchain applications. He envisions the resource to involve not just instructions on dapp creation for novices, but also scientific research on subjects such as AI and ZKP.
+ในฐานะ SubQuery Ambassador เขาต้องใช้โอกาสนี้เพื่อสร้างแหล่งข้อมูลการสอนแบบ open-source เกี่ยวกับแอปพลิเคชันบล็อคเชน เขาวาดภาพทรัพยากรว่าไม่เพียงแค่คำแนะนำเกี่ยวกับการสร้าง dapp สำหรับหน้าใหม่เท่านั้น แต่ยังรวมถึงการวิจัยทางวิทยาศาสตร์ในหัวข้อต่างๆ เช่น AI และ ZKP
 
-> _"Aside from the fact that the SubQuery team and community are amazing. The reason I like SubQuery is because I see the great potential that SubQuery will bring to the blockchain world. Being able to access and analyze data on blockchain is very important in taking blockchain to the next level. Especially now that data is more valuable than gold."_ - Prathak
+> _"นอกจากความจริงที่ว่าทีม SubQuery และชุมชนนั้นยอดเยี่ยม เหตุผลที่ฉันชอบ SubQuery เพราะฉันมองเห็นศักยภาพอันยิ่งใหญ่ที่ SubQuery จะนำมาสู่โลกบล็อคเชน การเข้าถึงและวิเคราะห์ข้อมูลบนบล็อคเชนนั้นสำคัญมากในการนำบล็อคเชนไปสู่อีกระดับ Especially now that data is more valuable than gold."_ - Prathak
 
 ## About SubQuery
 
