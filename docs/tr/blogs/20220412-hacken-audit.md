@@ -1,4 +1,4 @@
-# SubQuery Network Passes Smart Contract Audit by Hacken
+# SubQuery Ağı, Hacken Tarafından Akıllı Sözleşme Denetiminden Geçti
 
 ![](https://miro.medium.com/max/1400/0*EbIDDKebNpv2DBC9)
 
