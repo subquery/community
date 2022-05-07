@@ -88,4 +88,4 @@ Dapplooker стремится расширить возможности прое
 
 Команда SubQuery
 
-[Linktree](https://linktr.ee/subquerynetwork) | [Сайт](https://subquery.network/) | [Дискорд](https://discord.com/invite/78zg8aBSMG) | [Телеграм](https://t.me/subquerynetwork) | [Твиттер](https://twitter.com/subquerynetwork) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork) | [Сайт](https://subquery.network/) | [Дискорд](https://discord.com/invite/78zg8aBSMG) | [Телеграм](https://t.me/subquerynetwork) | [Твиттер](https://twitter.com/subquerynetwork) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Ютуб](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
