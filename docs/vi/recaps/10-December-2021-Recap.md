@@ -22,7 +22,7 @@ SubQuery đang tìm kiếm các ý tưởng sáng tạo hoặc có tiềm năng 
 
 ### SubQuery phát hành Tokenomics
 
-During our most recent Community Call we shared our high-level tokenomics for the first time including the allocations and vesting schedules. SubQuery will mint a supply of 10 billion SQT which will be allocated in the following manner.
+Trong Community Call gần đây nhất, chúng tôi đã lần đầu tiên chia sẻ chi tiết về tokenomics của mình bao gồm cả việc phân bổ và lịch trình mở khóa token. SubQuery sẽ có nguồn cung 10 tỷ SQT và được phân bổ theo cách thức sau.
 
 ![](https://miro.medium.com/max/1400/1*304WkKdNhuf0nSBmTlOXyQ.png)
 
