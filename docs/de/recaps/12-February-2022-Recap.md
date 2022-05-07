@@ -28,17 +28,17 @@ Dapplooker zielt darauf ab, Polkadot Projekte mit schönen und einfach zu erstel
 
 ![](https://miro.medium.com/max/1400/1*kC8QYVvlUZwUfgXTBFQbgg.png)
 
-Das Dotsama-Team ist auch entschlossen, dem durchschnittlichen Investor im Ökosystem Polkadot / Kuala reiche Einblicke zu geben. mit dem Ziel, ein One-Stop-Analyse-Shop mit Werkzeugen zur Identifizierung früherer Anlagetrends und -chancen zu sein. "_By being part of the SubQuery Grants Programme, we are not just looking to get technical and strategic guidance, we are also looking to become part of this community and help accelerate the movement." --- Sudarshan Acharya, Founder (Dotsama)_
+Das Dotsama-Team ist auch entschlossen, dem durchschnittlichen Investor im Ökosystem Polkadot / Kuala reiche Einblicke zu geben. mit dem Ziel, ein One-Stop-Analyse-Shop mit Werkzeugen zur Identifizierung früherer Anlagetrends und -chancen zu sein. "_Durch die Teilnahme am SubQuery Grants Programm wollen wir nicht nur technische und strategische Beratung erhalten, sondern auch Teil dieser Gemeinschaft werden und helfen, die Bewegung zu beschleunigen." --- Sudarshan Acharya, Gründer (Dotsama)_
 
-In addition to general Grants like the ones awarded to our first cohort, there are also ongoing [technical bounties in partnership with leading parachain teams in Polkadot](../blogs/20220127-grants-bounties.md) such as Moonbeam, Acala, Astar and Bifrost on [SubQuery's website](https://subquery.network/grants)
+Zusätzlich zu allgemeinen Zuschüssen wie denen, die unserer ersten Kohorte verliehen wurden, gibt es auch laufende [technische Bounties in Partnerschaft mit führenden Fallschirmteams in Polkadot](../blogs/20220127-grants-bounties.md) wie Moonbeam, Acala, Astar und Bifrost auf [Unterabfrageseite](https://subquery.network/grants)
 
-## SubQuery Network
+## SubQuery-Netzwerk
 
-### SubQuery Released our Updated Whitepaper
+### SubQuery hat unser aktualisiertes Whitepaper veröffentlicht
 
-[The SubQuery whitepaper](https://static.subquery.network/whitepaper.pdf) is a document that outlines our strategic framework for the decentralised SubQuery Network and her SQT token. Since the original publication in June 2021, we have experienced significant growth in our customer base and community and made huge progress on building the SubQuery Network. From these sources, we have been inspired to improve and innovate, and that culminates in the latest version of our [whitepaper](https://static.subquery.network/whitepaper.pdf).
+[Das SubQuery-Whitepaper](https://static.subquery.network/whitepaper.pdf) ist ein Dokument, das unseren strategischen Rahmen für das dezentralisierte SubQuery-Netzwerk und ihren SQT-Token umreißt. Seit der ursprünglichen Veröffentlichung im Juni 2021 haben wir ein erhebliches Wachstum unseres Kundenstamms und unserer Community erlebt und große Fortschritte beim Aufbau des SubQuery Network gemacht. Diese Quellen haben uns zu Verbesserungen und Innovationen inspiriert, und das gipfelt in der neuesten Version unseres [Whitepapers](https://static.subquery.network/whitepaper.pdf).
 
-The [updated whitepaper](https://static.subquery.network/whitepaper.pdf) maintains SubQuery's conviction that the data services of tomorrow must be multi-chain, simple, and flexible. The new version goes into detail on how the SubQuery Network factors these considerations into the token economic design while also enabling power users to run enterprise-level services.
+Das [aktualisierte Whitepaper](https://static.subquery.network/whitepaper.pdf) hält an der Überzeugung von SubQuery fest, dass die Datendienste von morgen mehrstufig, einfach und flexibel sein müssen. The new version goes into detail on how the SubQuery Network factors these considerations into the token economic design while also enabling power users to run enterprise-level services.
 
 There is significant new information in the whitepaper relating to SubQuery's innovation in payment models, providing all participants with various flexible ways to transact with the SubQuery Token (SQT).
 
