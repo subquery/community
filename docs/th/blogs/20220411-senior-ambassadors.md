@@ -2,13 +2,13 @@
 
 ![](https://miro.medium.com/max/1400/0*E059TXajzXqkqW2g)
 
-SubQuery [เปิดตัว Ambassador Programme](./20210713-Introducing-the-SubQuery-Ambassador-Program.md) ในเดือนสิงหาคม 2021 เพื่อค้นหาผู้นำ Community ที่สนใจในศักยภาพของ SubQuery เป้าหมายของเราคือการค้นหาผู้ที่สามารถเผยแพร่ข้อมูลเกี่ยวกับ SubQuery ในพื้นที่ของตนเองได้และให้การสนับสนุนนักพัฒนารายใหม่เพื่อสร้าง dApps และ บริการภายใน ecosystem ของเรา
+SubQuery [เปิดตัวโปรแกรม Ambassador](./20210713-Introducing-the-SubQuery-Ambassador-Program.md) ในเดือนสิงหาคม 2021 เพื่อค้นหาผู้นำ Community ที่สนใจในศักยภาพของ SubQuery เป้าหมายของเราคือการค้นหาผู้ที่สามารถเผยแพร่ข้อมูลเกี่ยวกับ SubQuery ในพื้นที่ของตนเองได้และให้การสนับสนุนนักพัฒนารายใหม่เพื่อสร้าง dApps และ บริการภายใน ecosystem ของเรา
 
 ภายในระยะเวลาอันสั้น เรารู้สึกทึ่งกับจำนวนและคุณภาพของแอปพลิเคชันจากทั่วทุกมุมโลก!
 
-หลังจากการปรึกษาหารือกับ Ambassador ของเรา เราได้สร้าง [Spartan Programme](./20211101-spartan-programme.md) เพิ่มเพื่อเป็นอีกหนึ่งช่องทางเพื่อให้ผู้ที่สนใจทั่วไปมีโอกาสได้เป็น Ambassador The Spartan Programme exists entirely within our Discord community, where aspiring Ambassadors can complete monthly tasks and competitions in order to earn the Spartan tag. The Spartans who then rise to the top of their class will be recommended by the existing Ambassadors to the SubQuery team to join their ranks.
+หลังจากการปรึกษาหารือกับ Ambassador ของเรา เราได้สร้าง [โปรแกรม Spartan](./20211101-spartan-programme.md) เพิ่มเพื่อเป็นอีกหนึ่งช่องทางเพื่อให้ผู้ที่สนใจทั่วไปมีโอกาสได้เป็น Ambassador โปรแกรม Spartan จัดขึ้นใน Discord Community ของเรา เพื่อให้ผู้ที่ต้องการเป็น Ambassador สามารถทำงานและแข่งขันกันในทุกๆเดือนเพื่อรับ tag Spartan โดย Spartan คนใดที่สามารถไต่อันดับไปถึงจุดสูงสุดจะถูกคัดเลือกโดย Ambassador เพื่อให้ทีม SubQuery แต่งตั้งพวกเขาเป็น Ambassador
 
-Since the launch of the Ambassador programme, we have also identified several individuals who have also attained a higher level and we would like to formally thank and introduce them today! Please feel free to connect with them via their social media handles and to find out more about our Spartan and Ambassador programme please [join our Discord](https://discord.com/invite/subquery).
+นับตั้งแต่เปิดตัวโปรแกรม Ambassador เราได้เจอบุคคลหลายคนที่สมควรได้รับระดับที่สูงขึ้น เราขอขอบคุณมากๆและเราจะแนะนำพวกเขาอย่างเป็นทางการ โปรดอย่าลังเลที่จะพูดคุยกับพวกเขาผ่านทางโซเชียลมีเดียของพวกเขา และหากต้องการข้อมูลเพิ่มเติมเกี่ยวกับโปรแกรม Spartan และ Ambassador โปรด [เข้าร่วม Discord ของเรา](https://discord.com/invite/subquery)
 
 ![](https://miro.medium.com/max/1400/0*I0VcN-hdcTZzeA6l)
 
