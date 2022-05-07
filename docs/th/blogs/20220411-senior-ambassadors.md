@@ -1,4 +1,4 @@
-# แนะนำ Senior Ambassador ของ SubQuery
+# ขอแนะนำให้รู้จัก Senior Ambassador ของ SubQuery
 
 ![](https://miro.medium.com/max/1400/0*E059TXajzXqkqW2g)
 
@@ -12,11 +12,11 @@ SubQuery [เปิดตัวโปรแกรม Ambassador](./20210713-Intr
 
 ![](https://miro.medium.com/max/1400/0*I0VcN-hdcTZzeA6l)
 
-Dmytro speaks English, Ukrainian, Russian, Bulgarian and Polish and has over 7 years of experience in marketing and business development. His experience is evident in his initiative in organising events, holding online meetings with influencers and his suggestions for the community.
+Dmytro สามารถพูดภาษาอังกฤษ ยูเครน รัสเซีย บัลแกเรีย และโปแลนด์ได้ และมีประสบการณ์มากกว่า 7 ปีในด้านการตลาดและการพัฒนาธุรกิจ ประสบการณ์ของเขาชัดเจนในการริเริ่มในการจัดกิจกรรม จัดการประชุมออนไลน์กับผู้มีอิทธิพล และข้อเสนอแนะของเขาสำหรับชุมชน
 
-Most importantly, Dmytro values people and enjoys sharing knowledge, providing opportunities, and uniting people with a common goal.
+สิ่งสำคัญที่สุดคือ Dmytro ให้คุณค่ากับผู้คนและสนุกกับการแบ่งปันความรู้ ให้โอกาส และทำให้ผู้คนสามัคคีโดยมีเป้าหมายร่วมกัน
 
-> _I am a fan and early explorer of the Polkadot ecosystem. I believe that it is they who will build the very great Web3 almanac of the future. But for the full functioning of the ecosystem, we need to open up a world of accessible and fast data and that's how I met SubQuery on June 14th, 2021. If Polkadot is the body, then SubQuery is memory and heart. For building more complex and intuitive applications, developers need more powerful tools for data processing and queries. SubQuery offers developers to focus more on the development of applications and solutions for them. SubQuery's believes that developers of applications will change the future while SubQuery will be engaged in maintenance of the exponentially growing infrastructure."_ - Dmytro
+> _ฉันเป็นแฟนตัวยงและเป็นผู้ริเริ่มสำรวจ ecosystem ของ Polkadot ฉันเชื่อว่า Polkadot คือผู้ที่จะสร้าง Web3 ที่ยอดเยี่ยมมากในอนาคต แต่เพื่อให้ ecosystem ทำงานได้อย่างเต็มประสิทธิภาพ เราจำเป็นต้องเปิดโลกแห่งข้อมูลที่เข้าถึงได้และรวดเร็ว นั่นคือตอนที่ฉันได้พบกับ SubQuery เมื่อวันที่ 14 มิถุนายน 2021 หาก Polkadot คือร่างกาย SubQuery ก็คือความทรงจำและหัวใจ สำหรับการสร้างแอปพลิเคชันที่ซับซ้อนและใช้งานง่ายขึ้น นักพัฒนาจำเป็นต้องมีเครื่องมือที่มีประสิทธิภาพมากขึ้นสำหรับการประมวลผลข้อมูลและการสืบค้นข้อมูล SubQuery ช่วยให้นักพัฒนาให้ความสำคัญกับการพัฒนาแอปพลิเคชันและโซลูชันสำหรับพวกเขามากขึ้น SubQuery เชื่อว่านักพัฒนาแอปพลิเคชันจะเปลี่ยนแปลงอนาคตในขณะที่ SubQuery จะมีส่วนร่วมในการบำรุงรักษาโครงสร้างพื้นฐานที่เติบโตแบบทวีคูณ"_ - Dmytro
 
 ![](https://miro.medium.com/max/1400/0*fh2pBSbhmMkXWYqz)
 
