@@ -18,7 +18,7 @@ There are three types of participants in the SubQuery Network:
 
 ## Indexer, Verbraucher und Abfragen
 
-Let’s start with Indexers, Indexers do a lot of the hard work behind the scenes. The manage hardware, run infrastructure, monitor resources, and choose the right SubQuery projects to index
+Beginnen wir mit Indexern, Indexer erledigen einen großteil der harten arbeit hinter den kulissen. The manage hardware, run infrastructure, monitor resources, and choose the right SubQuery projects to index
 
 This takes time and money, but once they have this, Consumers may come and make requests. Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
 
