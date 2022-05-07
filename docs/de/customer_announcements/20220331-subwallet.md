@@ -1,16 +1,16 @@
-# SubQuery partners with SubWallet to Enhance User Access to Multi-Chain Data
+# SubQuery arbeitet mit SubWallet zusammen, um den Benutzerzugang zu Multi-Chain-Daten zu verbessern
 
 ![](https://miro.medium.com/max/1400/0*WrTfOuh_9W9uOs_s)
 
-SubQuery is delighted to announce an integration partnership with [SubWallet](https://subwallet.app/), a new multi-chain wallet for the Dotsama ecosystem. SubWallet makes it easy to track, send, receive and sign transactions on DeFi and GameFi applications and supports over 40 different parachains in the Dotsama network.
+SubQuery freut sich, eine Integrationspartnerschaft mit [SubWallet](https://subwallet.app/)ankündigen zu können, einer neuen Multichain Wallet für das Dotsama Ökosystem. SubWallet erleichtert das Verfolgen, Senden, Empfangen und Signieren von Transaktionen auf DeFi- und GameFi-Anwendungen und unterstützt über 40 verschiedene Parachains im Dotsama-Netzwerk.
 
-> _"With the mission of pulling crypto users closer to the Dotsama ecosystem and opening the Web3 universe, we are working with SubQuery to integrate their remarkable data indexing solution, so that SubWallet users can review transaction history and crowdloan information for over 40 different Polkadot parachains right in our extension wallet."_ - Hieu Dao, SubWallet Co-Founder
+> _"Mit der Mission, Krypto-Nutzer näher an das Dotsama-Ökosystem heranzuführen und das Web3-Universum zu öffnen, arbeiten wir mit SubQuery zusammen, um deren bemerkenswerte Daten-Indizierungslösung zu integrieren, so dass SubWallet-Nutzer die Transaktionshistorie und Crowdloan-Informationen für über 40 verschiedene Polkadot-Parachains direkt in unserer Erweiterungs-Wallet einsehen können."_ - Hieu Dao, SubWallet-Mitbegründer
 
-The Dotsama ecosystem consists of dozens of blockchains and thousands of Dapps containing a huge amount of extremely fragmented data. Subwallet has been able to leverage the hundreds of open projects available in [SubQuery's Explorer](https://explorer.subquery.network/), allowing them to integrate each new network faster and seamlessly. In short, SubQuery helps SubWallet provide more complete support for the Dotsama ecosystem and develop their applications faster.
+Das Dotsama-Ökosystem besteht aus Dutzenden von Blockchains und Tausenden von Dapps, die eine riesige Menge an extrem fragmentierten Daten enthalten. Subwallet war in der Lage, die Hunderte von offenen Projekten, die im [SubQuery's Explorer](https://explorer.subquery.network/) verfügbar sind, zu nutzen, was es ihnen ermöglicht, jedes neue Netzwerk schneller und nahtlos zu integrieren. Kurz gesagt, SubQuery hilft SubWallet dabei, eine umfassendere Unterstützung für das Dotsama-Ökosystem zu bieten und ihre Anwendungen schneller zu entwickeln.
 
-> _"SubQuery is proud to power the data required for SubWallet to realise their vision of bringing an inviting and intuitive experience to their users. By partnering with innovative and fast-paced teams such as SubWallet we can remain agile and roll-out enhancements to ensure our mutual success"._ - Brittany Seales, Customer Success Lead at SubQuery
+> _"SubQuery ist stolz darauf, die Daten zu liefern, die SubWallet benötigt, um seine Vision zu verwirklichen, seinen Nutzern ein einladendes und intuitives Erlebnis zu bieten. Durch die Zusammenarbeit mit innovativen und schnellen Teams wie SubWallet können wir agil bleiben und Verbesserungen einführen, um unseren gemeinsamen Erfolg zu gewährleisten"._ - Brittany Seales, Customer Success Lead bei SubQuery
 
-SubWallet is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. They take advantage of SubQuery's [enterprise-level hosting](../blogs/20211228-enterprise-hosted.md) to receive dedicated databases, automated deployments, and geographic routing to multiple clusters around the world for performance and uptime.
+SubWallet verwendet [SubQuery Projects](https://project.subquery.network/), um ihr eigenes Projekt zu verwalten und bei Bedarf Aktualisierungen vorzunehmen. They take advantage of SubQuery's [enterprise-level hosting](../blogs/20211228-enterprise-hosted.md) to receive dedicated databases, automated deployments, and geographic routing to multiple clusters around the world for performance and uptime.
 
 ![](https://miro.medium.com/max/1400/0*2veb8l0E6zpyhhNB)
 
