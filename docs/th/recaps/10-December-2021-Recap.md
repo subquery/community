@@ -1,8 +1,8 @@
-# December 2021 Recap
+# บทสรุปของเดือนธันวาคม 2021
 
 ![](https://miro.medium.com/max/1400/1*-gXOf6qYQiYypDCVBeE1kg.png)
 
-This year has absolutely flown by and SubQuery has come a long way! Since February 2021, we’ve grown a huge inclusive community, helped hundreds of projects to build faster, and scaled our hosted service to handle hundreds of millions of API requests for the top projects in Polkadot.
+ปีนี้ผ่านไปอย่างรวดเร็วและ SubQuery ก็เดินทางมาไกลมาก! Since February 2021, we’ve grown a huge inclusive community, helped hundreds of projects to build faster, and scaled our hosted service to handle hundreds of millions of API requests for the top projects in Polkadot.
 
 Read on for a message from Sam, and learn what we go up to in the final days of 2021!
 
@@ -50,7 +50,7 @@ The performance and reliability of our hosted service has been on the top of our
 
 1.  Dedicated Databases
 2.  Multiple Cluster Support
-3.  การกำหนดเส้นทางอัจฉริยะ
+3.  Intelligent Routing
 
 These services allow us to offer our premium service to more customers with confidence. We work with each customer to understand their business and goals, and then to set up a service to meet their needs. SubQuery is the largest data service provider in Polkadot, and these features show how we support thousands of community projects at the same time as the biggest projects in Polkadot. [Read more here](../blogs/20211228-enterprise-hosted.md)
 
@@ -117,6 +117,6 @@ Our partnership with Gitcoin reflects our commitment to provide opportunities fo
 
 As always, please [join our social channels](https://linktr.ee/subquerynetwork) (especially our [Discord](https://discord.com/invite/subquery)) to stay updated on our latest news and announcements.
 
-James, Sam และทีม SubQuery
+James, Sam, and the SubQuery Team
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
