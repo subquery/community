@@ -12,23 +12,23 @@ Diesen Monat haben wir endlich 30.000 organische Twitter-Follower überschritten
 
 ### SubQuery gibt die erste Kohorte von SubQuery-Fördermittelempfängern bekannt
 
-Four teams have been selected as the first ever cohort of SubQuery Grants recipients. These teams are [Alphabit](https://www.polkadata.xyz/), [Zoombies](https://zoombies.world/), [Dapplooker](https://dapplooker.com/) and [Dotsama](http://dotsama.ai/). The [USD $500,000 SubQuery Grants](https://subquery.network/grants) Program kicked off in December 2021 with the vision of offering opportunities to blockchain developers, community members, and wider ecosystem participants to create innovative or high-potential web3 applications.
+Vier Teams wurden für die erste Kohorte von SubQuery-Zuschussempfängern überhaupt ausgewählt. Diese Teams sind [Alphabit](https://www.polkadata.xyz/), [Zoombies](https://zoombies.world/), [Dapplooker](https://dapplooker.com/) und [Dotsama](http://dotsama.ai/). Das [USD 500.000 SubQuery Grants](https://subquery.network/grants) Programm startete im Dezember 2021 mit der Vision, Blockchain-Entwicklern, Community-Mitgliedern und weiteren Teilnehmern des Ökosystems Möglichkeiten zu bieten, innovative oder vielversprechende Web3-Anwendungen zu entwickeln.
 
 ![](https://miro.medium.com/max/1400/1*tBnWK4svpGbGuP3mCXyGDg.png)
 
-Alphabit, are endeavouring to empower the independent investor by providing visibility to track and analyse the portfolios and investments of funds, and large traders or 'whales'. _"The business advice and technical support from SubQuery has completely surpassed our expectations about the support we could receive as a small analytics startup" --- Michael Anderson, Business Development & Strategic Partnerships (Alphabit)_
+Alphabit bemüht sich, den unabhängigen Anleger zu unterstützen, indem es ihm die Möglichkeit bietet, die Portfolios und Investitionen von Fonds und großen Händlern oder "Walen" zu verfolgen und zu analysieren. _"Die geschäftliche Beratung und technische Unterstützung von SubQuery hat unsere Erwartungen an die Unterstützung, die wir als kleines Analyse-Startup erhalten konnten, völlig übertroffen" --- Michael Anderson, Business Development & Strategic Partnerships (Alphabit)_
 
 ![](https://miro.medium.com/max/1400/1*TpHBDhA7WqNGTOxz9LpifQ.png)
 
-Zoombies submitted a proposal in the hopes of using SubQuery to expedite their goal of deepening the value of the growing world of collectible play-to-earn (P2E) tokens. Their project will access the complete history of past event data within a game to produce meaningful views and enrich the player experience. _"The SubQuery Grants Programme has been a very clear step-by-step reward driven process" --- Ryan Price, CEO (Zoombies)_
+Zoombies unterbreitete einen Vorschlag in der Hoffnung, mit SubQuery ihr Ziel zu beschleunigen, den Wert der wachsenden Welt der Sammelspiel-Token (P2E) zu vertiefen. Ihr Projekt greift auf die komplette Historie vergangener Ereignisdaten innerhalb eines Spiels zu, um aussagekräftige Ansichten zu erstellen und das Spielerlebnis zu bereichern. _"Sub-Query Grants Programm wurde ein sehr klarer schrittweiser Belohnungsprozess" --- Ryan Preis, CEO (Zoombies)_
 
 ![](https://miro.medium.com/max/1400/1*4rPD0g-pC3MOU5M5vAtS4w.png)
 
-Dapplooker aim to empower Polkadot projects with beautiful and easy-to-build analytics tools such as explorers, charts and dashboards. These valuable metrics will be built on top of SubQuery projects to fetch the required data and present it to its audience in an intuitive and aesthetic format.
+Dapplooker zielt darauf ab, Polkadot Projekte mit schönen und einfach zu erstellenden Analysewerkzeugen wie Explorern, Diagrammen und Dashboards auszustatten. Diese wertvollen Metriken werden auf der Grundlage von SubQuery Projekten erstellt, um die erforderlichen Daten abzurufen und sie dem Publikum in einem intuitiven und ästhetischen Format zu präsentieren.
 
 ![](https://miro.medium.com/max/1400/1*kC8QYVvlUZwUfgXTBFQbgg.png)
 
-The Dotsama team are also determined to bring rich insights to the average investor in the Polkadot / Kusama ecosystem, by aiming to be a one-stop analytics shop with tools to identify early investment trends and opportunities. "_By being part of the SubQuery Grants Programme, we are not just looking to get technical and strategic guidance, we are also looking to become part of this community and help accelerate the movement." --- Sudarshan Acharya, Founder (Dotsama)_
+Das Dotsama-Team ist auch entschlossen, dem durchschnittlichen Investor im Ökosystem Polkadot / Kuala reiche Einblicke zu geben. mit dem Ziel, ein One-Stop-Analyse-Shop mit Werkzeugen zur Identifizierung früherer Anlagetrends und -chancen zu sein. "_By being part of the SubQuery Grants Programme, we are not just looking to get technical and strategic guidance, we are also looking to become part of this community and help accelerate the movement." --- Sudarshan Acharya, Founder (Dotsama)_
 
 In addition to general Grants like the ones awarded to our first cohort, there are also ongoing [technical bounties in partnership with leading parachain teams in Polkadot](../blogs/20220127-grants-bounties.md) such as Moonbeam, Acala, Astar and Bifrost on [SubQuery's website](https://subquery.network/grants)
 
