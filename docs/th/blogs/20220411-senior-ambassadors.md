@@ -40,10 +40,10 @@ Prathak เป็นแพทย์ที่สนใจในหลากหล
 
 ในฐานะ SubQuery Ambassador เขาต้องใช้โอกาสนี้เพื่อสร้างแหล่งข้อมูลการสอนแบบ open-source เกี่ยวกับแอปพลิเคชันบล็อคเชน เขาวาดภาพทรัพยากรว่าไม่เพียงแค่คำแนะนำเกี่ยวกับการสร้าง dapp สำหรับหน้าใหม่เท่านั้น แต่ยังรวมถึงการวิจัยทางวิทยาศาสตร์ในหัวข้อต่างๆ เช่น AI และ ZKP
 
-> _"นอกจากความจริงที่ว่าทีม SubQuery และชุมชนนั้นยอดเยี่ยม เหตุผลที่ฉันชอบ SubQuery เพราะฉันมองเห็นศักยภาพอันยิ่งใหญ่ที่ SubQuery จะนำมาสู่โลกบล็อคเชน การเข้าถึงและวิเคราะห์ข้อมูลบนบล็อคเชนนั้นสำคัญมากในการนำบล็อคเชนไปสู่อีกระดับ Especially now that data is more valuable than gold."_ - Prathak
+> _"นอกจากความจริงที่ว่าทีม SubQuery และชุมชนนั้นยอดเยี่ยม เหตุผลที่ฉันชอบ SubQuery เพราะฉันมองเห็นศักยภาพอันยิ่งใหญ่ที่ SubQuery จะนำมาสู่โลกบล็อคเชน การเข้าถึงและวิเคราะห์ข้อมูลบนบล็อคเชนนั้นสำคัญมากในการนำบล็อคเชนไปสู่อีกระดับ ยิ่งในตอนนี้ข้อมูลมีค่ามากกว่าทองคำ”_ - Prathak
 
-## About SubQuery
+## เกี่ยวกับ SubQuery
 
-[SubQuery](https://subquery.network) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot , Substrate and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+[SubQuery](https://subquery.network) คือชุดเครื่องมือสำหรับนักพัฒนาบล็อกเชนที่จะช่วยให้ผู้อื่นสร้างแอปพลิเคชัน Web3 แห่งอนาคต โปรเจ็กต์ SubQuery เป็น API ที่สมบูรณ์ในการจัดระเบียบและสืบค้นข้อมูลจากเชน layer-1 ปัจจุบันได้ให้บริการโปรเจค Polkadot , Substrate และ Avalanche data-as-a-service นี้ช่วยให้นักพัฒนาสามารถมุ่งเน้นไปที่กรณีการใช้งานหลักและ font-end โดยไม่ต้องเสียเวลาไปกับการสร้าง backend แบบกำหนดเองสำหรับการประมวลผลข้อมูล SubQuery Network เสนอให้เปิดใช้งานโซลูชันที่ปรับขนาดได้และเชื่อถือได้แบบเดียวกัน แต่ในรูปแบบการกระจายอำนาจอย่างสมบูรณ์
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
