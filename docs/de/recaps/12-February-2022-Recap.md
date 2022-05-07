@@ -1,16 +1,16 @@
-# February Recap
+# Februar Rekapitulation
 
 ![](https://miro.medium.com/max/1400/1*T3DLiAKSIy-AjRia_JJjow.png)
 
-February flew by for the team at SubQuery as we have been busy on all fronts preparing for our TGE and servicing all of our existing customers including the leading teams in Polkadot.
+Der Februar verging für das Team von SubQuery wie im Flug, da wir an allen Fronten mit den Vorbereitungen für unser TGE und der Betreuung all unserer bestehenden Kunden, einschließlich der führenden Teams in Polkadot, beschäftigt waren.
 
-We have a lot of exciting work going on that we can't wait to share in the weeks and months ahead!
+Wir haben eine Menge aufregender Dinge vor, über die wir in den kommenden Wochen und Monaten berichten werden!
 
-## Community
+## Gemeinde
 
-This month we finally passed 30,000 organic Twitter followers and our Discord has swelled to over 15,000 active community members working to help one another. It's not enough to build a tool or an application in web3, you need to build a self sustaining community and we're hard at work on this at SubQuery!
+Diesen Monat haben wir endlich 30.000 organische Twitter-Follower überschritten und unser Discord ist auf über 15.000 aktive Community-Mitglieder angewachsen, die sich gegenseitig helfen. Es reicht nicht aus, ein Tool oder eine Anwendung in web3 zu entwickeln, man muss auch eine sich selbst erhaltende Community aufbauen und daran arbeiten wir bei SubQuery hart!
 
-### SubQuery Announces First Cohort of SubQuery Grants Recipients
+### SubQuery gibt die erste Kohorte von SubQuery-Fördermittelempfängern bekannt
 
 Four teams have been selected as the first ever cohort of SubQuery Grants recipients. These teams are [Alphabit](https://www.polkadata.xyz/), [Zoombies](https://zoombies.world/), [Dapplooker](https://dapplooker.com/) and [Dotsama](http://dotsama.ai/). The [USD $500,000 SubQuery Grants](https://subquery.network/grants) Program kicked off in December 2021 with the vision of offering opportunities to blockchain developers, community members, and wider ecosystem participants to create innovative or high-potential web3 applications.
 
