@@ -6,7 +6,7 @@
 
 เราออกแบบเว็บไซต์ใหม่ด้วยเหตุผลสองประการ ประการแรก เราจำเป็นต้องปรับปรุงเว็บไซต์ให้ทันสมัยเพื่อให้สะท้อนถึงความคืบหน้าในปัจจุบันของ SubQuery และสะท้อนฐานะผู้นำในการจัดทำดัชนีข้อมูลมากขึ้น นับตั้งแต่การอัปเดตเว็บไซต์ครั้งล่าสุด เราได้พัฒนาขึ้นอย่างมากพร้อมๆกับการที่กำลังจะเปิดตัว SubQuery Network ประการที่สอง เราต้องการปรับปรุงภาพรวมเพื่อสร้างความประทับใจที่มากขึ้นกับแบรนด์ด้วยคอมมูนิตี้ที่ขยายตัวอย่างรวดเร็วของเรา
 
-SubQuery เป็นโปรเจ็กต์ดัชนีข้อมูล และนั่นคือทั้งหมด ด้วยความคิดนี้เองทำใหเราเลือกการออกแบบและเลย์เอาต์ที่เฉพาะเจาะจงโดยเน้นการเว้นวรรคปานกลางระหว่างย่อหน้าเพื่อให้ดูทันสมัยยิ่งขึ้นและทำให้เนื้อหาอ่านง่ายขึ้น Additionally, this provides page templates that are flexible and responsive, and that can be reused across the growing number of applications that SubQuery has. Combined, these updates give the user a much better experience navigating through what can be quite detailed and technical information.
+SubQuery เป็นโปรเจ็กต์ดัชนีข้อมูล และนั่นคือทั้งหมด ด้วยความคิดนี้เองทำใหเราเลือกการออกแบบและเลย์เอาต์ที่เฉพาะเจาะจงโดยเน้นการเว้นวรรคปานกลางระหว่างย่อหน้าเพื่อให้ดูทันสมัยยิ่งขึ้นและทำให้เนื้อหาอ่านง่ายขึ้น นอกจากนี้ยังมีเทมเพลตหน้าเว็บที่มีความยืดหยุ่นและตอบสนองได้ดีและยังสามารถนำมาทำขึ้นใหม่ได้เนื่องจาก SubQuery มีจำนวนแอปพลิเคชันที่เพิ่มขึ้นเรื่อยๆ Combined, these updates give the user a much better experience navigating through what can be quite detailed and technical information.
 
 ![](https://miro.medium.com/max/1400/1*rqmuhuC5rdV7sZN2AwokZQ.png)
 
