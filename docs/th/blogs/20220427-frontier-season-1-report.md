@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/700/0*b3TqTiJWGrNSs28F)
 
-Last week we successfully completed the first season of the SubQuery Frontier testnet. A testnet, short for test network, is a network used by developers to test code before it is deployed to the main network (or "Mainnet"). In SubQuery's case, the launch of the testnet marks a critical milestone in our development as we progress towards the full deployment of mainnet which coincides with our token listing on centralised exchanges.
+เมื่อสัปดาห์ที่แล้ว SubQuery Frontier testnet ในซีซั่นแรกได้เสร็จสิ้นลงอย่างสัมฤทธิ์ผล testnet ย่อมาจาก เครือข่ายทดสอบ (test network) ซึ่งหมายถึงเครือข่ายที่นักพัฒนาใช้เพื่อทดสอบโค้ดก่อนที่จะนำไปใช้กับเครือข่ายหลัก (หรือ Mainnet) In SubQuery's case, the launch of the testnet marks a critical milestone in our development as we progress towards the full deployment of mainnet which coincides with our token listing on centralised exchanges.
 
 Season 1 of the SubQuery Frontier testnet had the following goal: find and fix critical bugs and documentation issues relating to the main day-to-day indexer actions. To help us with this, we enlisted 23 node operators with experience in running high performance and scalable productions with monitoring and wallet/infrastructure security.
 
