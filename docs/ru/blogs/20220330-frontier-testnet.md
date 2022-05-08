@@ -1,29 +1,29 @@
-# SubQuery Launches "The Frontier" Testnet
+# SubQuery запускает тестовую сеть "The Frontier"
 
 ![](https://miro.medium.com/max/1400/1*zRR8l3aVZKth9Fw0rqL-lg.png)
 
-Today we are pleased to announce the launch of our testnet, "The Frontier". A testnet, short for test network, is a network used by developers to test code before it is deployed to the main network (or "Mainnet). In SubQuery's case, the launch of the testnet marks a critical milestone in our development as we progress towards the full deployment of mainnet which coincides with our token listing on centralised exchanges.
+Сегодня мы рады объявить о запуске нашей тестовой сети «The Frontier» ("Граница/Рубеж"). Тестнет, сокращенно от тестовой сети (test network), — это сеть, используемая разработчиками для тестирования кода перед его развертыванием в основной сети (или «Mainnet»). В случае SubQuery запуск тестовой сети знаменует собой важную веху в нашем развитии, поскольку мы продвигаемся к полному развертыванию основной сети, что совпадает с листингом нашего токена на централизованных биржах.
 
-In order to run the testnet effectively, we require it to be battle-tested by experienced node operators who are experts in running high performance and scalable productions with monitoring and wallet/infrastructure security. Since our [call for indexers to participate](./20211202-indexer-invitation.md) we have been overwhelmed by the interest from our community and have recently approved an initial group of indexers who will soon receive their invitations to participate in SubQuery Frontier's seasons 1 & 2.
+Чтобы запустить тестовую сеть эффективно, мы требуем, чтобы она была проверена опытными операторами узлов, которые являются экспертами в области высокопроизводительных и масштабируемых производств с мониторингом и безопасностью кошелька/инфраструктуры. С момента нашего [призыва индексаторов к участию](./20211202-indexer-invitation.md) мы были поражены интересом со стороны нашего сообщества и недавно утвердили первую группу индексаторов, которые вскоре получат приглашения для участия в сезонах 1 и 2 SubQuery Frontier.
 
-Indexers in the SubQuery Network mark the transition of SubQuery to becoming a decentralised service as they will host and organise the blockchain data on their infrastructure. We expect that this will massively increase SubQuery's uptime, provide better redundancy, and increase performance by driving down latency.
+Индексаторы в сети SubQuery отмечают переход SubQuery к децентрализованной службе, поскольку они будут размещать и организовывать данные блокчейна в своей инфраструктуре. Мы ожидаем, что это значительно увеличит время безотказной работы SubQuery, обеспечит лучшую избыточность и повысит производительность за счет снижения задержек.
 
-Ian He, CTO of SubQuery, commented, _"SubQuery is excited about the launch of the SubQuery Frontier Testnet and what it represents to both ourselves and our loyal community. The choice of "Frontier" as our testnet name also denotes where we believe we are in the growth of Web3 and that we want Indexers to push beyond the limits."_
+Ian He, CTO SubQuery, прокомментировал: _«SubQuery в восторге от запуска тестовой сети SubQuery Frontier и того, что она представляет как для нас самих, так и для нашего лояльного сообщества. Выбор «Frontier» в качестве названия нашей тестовой сети также указывает на то, где, по нашему мнению, мы находимся в растущей части Web3 и что мы хотим, чтобы индексаторы вышли за пределы»._
 
-The Frontier Testnet will be rolled out in stages that we call "seasons, starting from April 11th. Each season will go for 2--3 weeks.
+Frontier Testnet будет развертываться этапами, которые мы называем «сезонами», начиная с 11 апреля. Каждый сезон будет идти по 2--3 недели.
 
-- Season 1. Early stage alpha testing of a limited number of features with less than 30 participants.
-- Season 2. Large beta testing of more features with more participants.
-- Season 3. Full public test network for load and scale testing --- open to all interested parties.
+- Сезон 1. Раннее альфа-тестирование ограниченного числа функций с менее чем 30 участниками.
+- Сезон 2. Большое бета-тестирование большего количества функций с большим количеством участников.
+- Сезон 3. Полная общедоступная тестовая сеть для тестирования нагрузки и масштабирования --- открыта для всех заинтересованных сторон.
 
 ![](https://miro.medium.com/max/1400/1*oWnMXGqndf5539Gml7gf-Q.png)
 
-The testnet is for development purposes and will undergo significant development enhancements during the seasons. More details are available on the SubQuery documentation website: https://university.subquery.network/
+Тестовая сеть предназначена для целей разработки и будет подвергаться значительным усовершенствованиям в течение сезонов. Более подробная информация доступна на веб-сайте документации SubQuery: https://university.subquery.network/
 
-For further information, please [contact our team in Discord](https://discord.com/invite/78zg8aBSMG).
+Для получения дополнительной информации, пожалуйста, [свяжитесь с нашей командой в Discord](https://discord.com/invite/78zg8aBSMG).
 
-## About SubQuery Network
+## О SubQuery Network
 
-[SubQuery](https://subquery.network) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot, Substrate and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+[SubQuery](https://subquery.network) – это набор инструментов для разработчиков блокчейнов, позволяющий другим создавать Web3 приложения будущего. Проект SubQuery — это полный API для организации и запроса данных из цепочек первого уровня. Эти data-as-a-service, которые в настоящее время обслуживают проекты Polkadot, Substrate и Avalanche, позволяют разработчикам сосредоточиться на своем основном сценарии использования и внешнем интерфейсе, не тратя время на создание пользовательского бэкэнда для обработки данных. SubQuery Network предлагает такое же масштабируемое и надежное решение, но полностью децентрализованное.
 
 ​​​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
