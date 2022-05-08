@@ -2,15 +2,19 @@
 
 ![](https://miro.medium.com/max/1400/0*WyB06V5POhvv7q4m)
 
-SubQuery ภูมิใจเป็นอย่างมากที่จะประกาศความร่วมมือกับ Moonbeans ซึ่งเป็นชุมชนที่เน้นตลาด NFT ซึ่งได้นำ ecosystem ของ Moonbeam และ Moonriver ประสบความสำเร็จ Moonbeans brings together artists, creators, and crypto enthusiasts on a single platform to create and trade the top NFTs on the Moonriver (and soon-to-be Moonbeam) network.
+SubQuery ภูมิใจเป็นอย่างมากที่จะประกาศความร่วมมือกับ Moonbeans ซึ่งเป็นชุมชนที่เน้นตลาด NFT ซึ่งได้นำ ecosystem ของ Moonbeam และ Moonriver ประสบความสำเร็จ Moonbeans ได้รวบรวมศิลปิน ครีเอเตอร์ และผู้ชื่นชอบคริปโตไว้บนแพลตฟอร์มเดียวกันเพื่อสร้างและแลกเปลี่ยน NFT อันดับต้นๆ บนเครือข่าย Moonriver network(และ Moonbeam เร็วๆนี้)
 
-The team at MoonBeams have built a SubQuery project which serves as a complete one-stop shop for all the data that they require to run their web application. [Their project, which can be found in the SubQuery explorer](https://explorer.subquery.network/subquery/m00nbeans/marketplace-v3), aggregates events on their NFT marketplace and provides easy access to current listing data, trade history, and more.
+ทีมงานของ MoonBeam ได้สร้างโปรเจกต์ SubQuery ขึ้นมา ทำหน้าที่เป็นร้านค้าครบวงจรสำหรับข้อมูลทั้งหมดที่พวกเขาต้องการเพื่อเรียกใช้เว็บแอปพลิเคชัน [โปรเจกต์ของพวกเขาสามารถพบได้ใน SubQuery explorer](https://explorer.subquery.network/subquery/m00nbeans/marketplace-v3) โดยรวบรวมเหตุการณ์ในตลาด NFT ของพวกเขาและให้การเข้าถึงข้อมูลรายการปัจจุบัน ประวัติการค้า และอื่นๆ ได้อย่างง่ายดาย
 
 ![](https://miro.medium.com/max/1400/0*j4M8qDAU12se05uX)
 
-> _"The SubQuery team has been extraordinarily quick and helpful with getting us off the ground and collaborating with us in order to provide the best experience for our users - we look forward to continuing our work with them!"_ - Smol Bean (CTO & Co-Founder of Moonbeans)
+> _"ทีม SubQuery ทำงานได้รวดเร็วและให้ความช่วยเหลือดีมากเป็นพิเศษในการนำเราออกจากพื้นที่และร่วมมือกับเราเพื่อมอบประสบการณ์ที่ดีที่สุดแก่ผู้ใช้งานของเรา เราหวังว่าจะได้ทำงานร่วมกับพวกเขาต่อไป!"_ - Smol Bean (CTO และผู้ร่วมก่อตั้ง Moonbeans)
 
-Moonbeans are well on their way to achieving their goal of becoming the native NFT platform of Moonbeam and Moonriver. Their future mission involves onboarding users from other EVMs onto 'Dotsama' (Polkadot and Kusama) by launching and cultivating communities on those chains too, a ride which SubQuery can travel alongside on, having recently announced [our expansion into Avalanche](../blogs/20220321-avalache.md) in pursuit of further multi-chain expansion.
+Moonbeans กำลังจะบรรลุเป้าหมายในการเป็นแพลตฟอร์ม NFT ดั้งเดิมของ Moonbeam และ Moonriver เป้าหมายในอนาคตของพวกเขาเกี่ยวข้องกับการแนะนำเบื้องต้นให้ผู้ใช้จาก EVM อื่น ๆ ไปยัง 'Dotsama' (Polkadot และ Kusama) ด้วยการเปิดตัวและปลูกฝังชุมชนบนเครือข่ายเหล่านั้นด้วย ซึ่งเป็นการเดินทางที่ SubQuery สามารถร่วมเดินทางได้ ในเมื่อเร็วๆ นี้
+
+การขยายสู่ Avalanche</0 > ในการแสวงหาการขยาย multi-chain เพิ่มเติม</p> 
+
+
 
 > _"Moonbeans have been able to harness SubQuery's aggregation and indexing capabilities to elevate their NFT marketplace data performance all within one excellent project. We look forward to being a part of their imminent arrival into the Moonbeam network."_ - James Bayly, Head of Business Development at SubQuery
 
@@ -18,11 +22,15 @@ Moonbeans are well on their way to achieving their goal of becoming the native N
 
 Moonbeans use [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. Check out this [SubQuery Snapshot](https://twitter.com/subquerynetwork/status/1497134283827339416?s=21) for an overview of Moonbeans and their project which can be found in the [SubQuery Explorer](https://explorer.subquery.network/) --- a project library managed by SubQuery and provided to the Polkadot community for free.
 
+
+
 ## About Moonbeans
 
 Moonbeans (BEANS) is the first dividend token on the Moonriver Network, and coming soon to Moonbeam. The Moonbeans NFT platform, The Galactic Trading Co., provides the highest profit-sharing available on the market! And don't worry, it's organic, extraterrestrially sourced, and alien cruelty-free. The platform features frictionless USDC dividends automatically rewarded to $BEANS holders, customizable rewards, a fully functional community DAO, and profit-sharing.
 
 [Website](http://moonbeans.io/) | [Twitter ](https://twitter.com/MoonBeansIO)| [Discord](http://discord.gg/qqE9aBPzQ9) | [Telegram](http://t.me/moonbeansio) |[Medium](https://medium.com/@MoonBeans)
+
+
 
 ## About SubQuery
 
