@@ -2,9 +2,9 @@
 
 ![](https://miro.medium.com/max/700/0*b3TqTiJWGrNSs28F)
 
-เมื่อสัปดาห์ที่แล้ว SubQuery Frontier testnet ในซีซั่นแรกได้เสร็จสิ้นลงอย่างสัมฤทธิ์ผล testnet ย่อมาจาก เครือข่ายทดสอบ (test network) ซึ่งหมายถึงเครือข่ายที่นักพัฒนาใช้เพื่อทดสอบโค้ดก่อนที่จะนำไปใช้กับเครือข่ายหลัก (หรือ Mainnet) In SubQuery's case, the launch of the testnet marks a critical milestone in our development as we progress towards the full deployment of mainnet which coincides with our token listing on centralised exchanges.
+เมื่อสัปดาห์ที่แล้ว SubQuery Frontier testnet ในซีซั่นแรกได้เสร็จสิ้นลงอย่างสัมฤทธิ์ผล testnet ย่อมาจาก เครือข่ายทดสอบ (test network) ซึ่งหมายถึงเครือข่ายที่นักพัฒนาใช้เพื่อทดสอบโค้ดก่อนที่จะนำไปใช้กับเครือข่ายหลัก (หรือ Mainnet) การเปิดตัว testnet ของ SubQuery ถือเป็นก้าวสำคัญในการพัฒนาไปสู่การปรับใช้บน mainnet เต็มรูปแบบซึ่งเกิดขึ้นพร้อมกับการลิสต์โทเค็นของเราบน centralised exchanges
 
-Season 1 of the SubQuery Frontier testnet had the following goal: find and fix critical bugs and documentation issues relating to the main day-to-day indexer actions. To help us with this, we enlisted 23 node operators with experience in running high performance and scalable productions with monitoring and wallet/infrastructure security.
+ในซีซั่นที่ 1 ของ SubQuery Frontier testnet เรามีเป้าหมายดังต่อไปนี้: ค้นหาและแก้ไขจุดบกพร่องที่สำคัญและปัญหาด้าน documentation ที่เกี่ยวข้องกับการดำเนินการหลักของ indexer แบบวันต่อวัน เพื่อช่วยเราในเรื่องนี้ เราได้คัดเลือกผู้ดำรันโหนด 23 ราย ที่มีประสบการณ์ในการใช้งานและโปรดักชั่นที่ปรับขนาดได้ด้วยการตรวจสอบและความปลอดภัยของกระเป๋าเงิน/โครงสร้างพื้นฐาน
 
 <iframe width="692" height="389" src="https://www.youtube.com/embed/hZ1Mn-jOuHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
