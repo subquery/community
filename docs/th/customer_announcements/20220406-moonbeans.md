@@ -1,8 +1,8 @@
-# Moonbeans Create a One-Stop Shop of NFT Data with SubQuery
+# Moonbeans สร้างร้านค้าข้อมูล NFT แบบ One-Stop ด้วย SubQuery
 
 ![](https://miro.medium.com/max/1400/0*WyB06V5POhvv7q4m)
 
-SubQuery is proud to announce a partnership with Moonbeans, a community focused NFT marketplace that has taken the Moonbeam and Moonriver ecosystems by storm. Moonbeans brings together artists, creators, and crypto enthusiasts on a single platform to create and trade the top NFTs on the Moonriver (and soon-to-be Moonbeam) network.
+SubQuery ภูมิใจเป็นอย่างมากที่จะประกาศความร่วมมือกับ Moonbeans ซึ่งเป็นชุมชนที่เน้นตลาด NFT ซึ่งได้นำ ecosystem ของ Moonbeam และ Moonriver ประสบความสำเร็จ Moonbeans brings together artists, creators, and crypto enthusiasts on a single platform to create and trade the top NFTs on the Moonriver (and soon-to-be Moonbeam) network.
 
 The team at MoonBeams have built a SubQuery project which serves as a complete one-stop shop for all the data that they require to run their web application. [Their project, which can be found in the SubQuery explorer](https://explorer.subquery.network/subquery/m00nbeans/marketplace-v3), aggregates events on their NFT marketplace and provides easy access to current listing data, trade history, and more.
 
@@ -24,7 +24,7 @@ Moonbeans (BEANS) is the first dividend token on the Moonriver Network, and comi
 
 [Website](http://moonbeans.io/) | [Twitter ](https://twitter.com/MoonBeansIO)| [Discord](http://discord.gg/qqE9aBPzQ9) | [Telegram](http://t.me/moonbeansio) |[Medium](https://medium.com/@MoonBeans)
 
-## เกี่ยวกับ SubQuery
+## About SubQuery
 
 SubQuery is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot, Substrate and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
