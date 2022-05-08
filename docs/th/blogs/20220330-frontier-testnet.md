@@ -2,9 +2,9 @@
 
 ![](https://miro.medium.com/max/1400/1*zRR8l3aVZKth9Fw0rqL-lg.png)
 
-วันนี้เรามีความยินดีเป็นอย่างยิ่งที่จะประกาศเปิดตัว testnet ของเรา "The Frontier" testnet ย่อมาจาก เครือข่ายทดสอบ (test network) ซึ่งหมายถึงเครือข่ายที่นักพัฒนาใช้เพื่อทดสอบโค้ดก่อนที่จะนำไปใช้กับเครือข่ายหลัก (หรือ Mainnet) In SubQuery's case, the launch of the testnet marks a critical milestone in our development as we progress towards the full deployment of mainnet which coincides with our token listing on centralised exchanges.
+วันนี้เรามีความยินดีเป็นอย่างยิ่งที่จะประกาศเปิดตัว testnet ของเรา "The Frontier" testnet ย่อมาจาก เครือข่ายทดสอบ (test network) ซึ่งหมายถึงเครือข่ายที่นักพัฒนาใช้เพื่อทดสอบโค้ดก่อนที่จะนำไปใช้กับเครือข่ายหลัก (หรือ Mainnet) ในกรณีของ SubQuery การเปิดตัว testnet ถือเป็นก้าวสำคัญในการพัฒนาของเรา เพื่อพัฒนาไปสู่การเปิดใช้งานบน mainnet อย่างเต็มรูปแบบ ซึ่งจะเกิดขึ้นพร้อมกับการลิสต์โทเค็นของเราบน centralised exchange
 
-In order to run the testnet effectively, we require it to be battle-tested by experienced node operators who are experts in running high performance and scalable productions with monitoring and wallet/infrastructure security. Since our [call for indexers to participate](./20211202-indexer-invitation.md) we have been overwhelmed by the interest from our community and have recently approved an initial group of indexers who will soon receive their invitations to participate in SubQuery Frontier's seasons 1 & 2.
+เพื่อที่จะรัน testnet ได้อย่างมีประสิทธิภาพ เราต้องการให้มันถูกทดสอบโดยผู้รันโหนดที่มีประสบการณ์ ผู้ซึ่งเชี่ยวชาญในการรันที่มีประสิทธิภาพสูงและการผลิตบล็อคที่สามารถสเกลได้ พร้อมทั้งมีการมอนิเตอร์และการรักษาความปลอดภัยของกระเป๋าเงิน/โครงสร้างพื้นฐาน Since our [call for indexers to participate](./20211202-indexer-invitation.md) we have been overwhelmed by the interest from our community and have recently approved an initial group of indexers who will soon receive their invitations to participate in SubQuery Frontier's seasons 1 & 2.
 
 Indexers in the SubQuery Network mark the transition of SubQuery to becoming a decentralised service as they will host and organise the blockchain data on their infrastructure. We expect that this will massively increase SubQuery's uptime, provide better redundancy, and increase performance by driving down latency.
 
