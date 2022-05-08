@@ -28,13 +28,13 @@ Trong Community Call gần đây nhất, chúng tôi đã lần đầu tiên chi
 
 Chúng tôi mong muốn thiết lập SQT làm token cho mạng SubQuery, khuyến khích sự tham gia của người dùng, cũng như đóng vai trò là một phương tiện trao đổi cho các giao dịch trong mạng SubQuery. SQT sẽ là động lực cho cuộc cách mạng dữ liệu web3.
 
-The exact details of when and how the SQT token will be allocated and distributed are still subject to finalisation, and will be announced closer to the public sale. For the listing of SQT, we are planning to be available on key decentralised (DEX) and centralised exchanges (CEX) to make it as easy as possible for everyone to participate in the SubQuery Network. [Read more here](../blogs/20211220-tokenomics.md)
+Chi tiết chính xác về thời điểm và cách thức phân bổ và phân phối token SQT vẫn đang được hoàn thiện và sẽ được thông báo gần sát với đợt mở bán công khai. Đối với việc niêm yết SQT, chúng tôi đang có kế hoạch niêm yết trên các sàn giao dịch phi tập trung (DEX) và sàn tập trung (CEX) để giúp mọi người tham gia vào Mạng SubQuery dễ dàng nhất có thể. [Đọc thêm tại đây](../blogs/20211220-tokenomics.md)
 
-### Call for Indexers
+### Kêu gọi những người lập chỉ mục
 
-As we get ready for the launch of our mainnet we put out the call for Indexers in December to register their interest with us. In a matter of days we had over 1,000 applications!
+Nhằm chuẩn bị sẵn sàng cho việc ra mắt mainnet, chúng tôi đã đưa ra lời kêu gọi các Nhà Lập Chỉ Mục đăng ký tham gia cùng chúng tôi vào Tháng 12 này. Chỉ trong vài ngày, chúng tôi đã có hơn 1.000 đơn đăng ký!
 
-We are looking for node operators with a deep understanding of the SubQuery Network, including the revenue streams and how staking and delegation works. You’ll need to be an expert in running high performance and scalable production applications with monitoring and wallet/infrastructure security. Finally, you’ll need a great attitude and a shared belief in growing the future of web3.
+Chúng tôi đang tìm kiếm các Nhà Vận Hành Node có hiểu biết sâu sắc về Mạng SubQuery, bao gồm các luồng doanh thu và cách hoạt động của việc stake và ủy quyền. Bạn cần phải là một chuyên gia trong việc chạy các ứng dụng sản xuất có hiệu suất cao và có khả năng mở rộng với tính năng giám sát và bảo mật ví / cơ sở hạ tầng. Cuối cùng, bạn sẽ cần một thái độ tuyệt vời và niềm tin chung vào tương lai lớn mạnh của web3.
 
 Indexers who are interested in participating [can register their interest with SubQuery here](https://forms.gle/RyXyhb8T9Gxkwi7R9). After reviewing all of the applications, we expect to approve an initial pool of Indexers by early February 2022 with the testnet launching at the end of Q1 2022. Indexers will be retrospectively rewarded and invited to participate in the subsequent mainnet anticipated at the end of Q2 2022. [Read more here](../blogs/20211202-indexer-invitation.md)
 
