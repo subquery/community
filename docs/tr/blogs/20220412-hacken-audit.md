@@ -8,20 +8,20 @@ Bugün, SubQuery Network'ün akıllı sözleşmelerinin Hacken'in denetim prosed
 
 Hacken ile ortaklığın önemi hakkında yorum yapan _SubQuery'nin CTO'su Ian He,<0>"SubQuery, kendisini Polkadot altyapısının kritik bir parçası olarak belirledi ve Hacken'ın akıllı sözleşme güvenliğimizi doğrulamasından heyecan duyuyoruz. Web3 veri devrimine öncülük etme vizyonumuza bir adım daha yaklaştığımız anlamına geliyor"_.
 
-The scope of the audit incorporated both a Code and Functional Review performed by a team of Hacken's renowned consultants to find and fix security issues from hacker attacks. During their analysis, Hacken ensured the smart contract's functionality and determined whether it could withstand all known vulnerabilities. In both cases, SubQuery passed and verified that it does not have any logic or access control issues, and that it is compliant with the Solidity Code Style Guide.
+Denetimin kapsamı, hacker saldırılarından kaynaklanan güvenlik sorunlarını bulmak ve düzeltmek için Hacken'ın ünlü danışmanlarından oluşan bir ekip tarafından gerçekleştirilen hem Kod hem de İşlevsel İncelemeyi içeriyordu. Hacken, analizleri sırasında akıllı sözleşmenin işlevselliğini sağladı ve bilinen tüm güvenlik açıklarına dayanıp dayanamayacağını belirledi. Her iki durumda da, SubQuery geçti ve herhangi bir mantık veya erişim kontrolü sorunu olmadığını ve Solidity Code Style Guide ile uyumlu olduğunu doğruladı.
 
-Passing the first phase of the audit will give comfort to our community and those indexers participating in the first season of the [recently launched "Frontier" testnet](./20220330-frontier-testnet.md).
+Denetimin ilk aşamasını geçmek, topluluğumuza ve [yakın zamanda başlatılan "Frontier" test ağının](./20220330-frontier-testnet.md) ilk sezonuna katılan dizin oluşturuculara rahatlık sağlayacaktır.
 
-For further information, please contact our team in Discord.
+Daha fazla bilgi için lütfen Discord'daki ekibimizle iletişime geçin.
 
-## About Hacken
+## Hacken Hakkında
 
-Hacken is a leading cybersecurity consulting company with an essential focus on blockchain security. Hacken Cybersecurity Services is a part of Hacken Group, including CER.live, HackenAI, and HackenProof
+Hacken, blok zinciri güvenliğine temel olarak odaklanan lider bir siber güvenlik danışmanlık şirketidir. Hacken Siber Güvenlik Hizmetleri, CER.live, HackenAI ve HackenProof dahil olmak üzere Hacken Group'un bir parçasıdır
 
-[Website](https://hacken.io/) | [Discord](https://discord.gg/hacken) | [Telegram](https://t.me/hackenio) | [Twitter](https://twitter.com/hackenclub) | [Facebook](https://www.facebook.com/hacken.io) | [LinkedIn](https://www.linkedin.com/company/hacken/)
+[E-posta](https://hacken.io/) | [Discord](https://discord.gg/hacken) | [Telegram](https://t.me/hackenio) | [Twitter](https://twitter.com/hackenclub) | [Matrix](https://www.facebook.com/hacken.io) | [Linkedin](https://www.linkedin.com/company/hacken/)
 
-## About SubQuery
+## SubQuery Hakkında
 
-[SubQuery](https://subquery.network) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot , Substrate and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+[SubQuery](https://subquery.network), başkalarının geleceğin Web3 uygulamalarını oluşturmasını sağlayan bir blok zinciri geliştirici araç takımıdır. Bir SubQuery projesi, katman-1 zincirlerinden verileri düzenlemek ve sorgulamak için eksiksiz bir API'dir. Şu anda Polkadot, Substrate ve Avalanche projelerine hizmet veren bu hizmet olarak veri, geliştiricilerin veri işleme için özel bir arka uç oluşturmaya zaman kaybetmeden temel kullanım durumlarına ve ön uçlarına odaklanmalarına olanak tanır. SubQuery Ağı, aynı ölçeklenebilir ve güvenilir çözümü, ancak tamamen merkezi olmayan bir şekilde etkinleştirmeyi önerir.
 
-​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+​​[Bağlantı Ağacı](https://linktr.ee/subquerynetwork) | [Web sitesi](https://subquery.network/) | [Anlaşmazlık](https://discord.com/invite/78zg8aBSMG) | [Telgraf](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matris](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
