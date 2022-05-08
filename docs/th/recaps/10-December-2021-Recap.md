@@ -16,17 +16,17 @@
 
 <iframe width="680" height="382" src="https://www.youtube.com/embed/Gcu2syKYlB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-SubQuery is looking for innovative or high-potential ideas that leverage SubQuery’s open-source data indexing tools to support cutting-edge applications that address problems in blockchain or distributed ledger technology (DLT) sector. We’re particularly interested in user friendly applications that unlock the data from Polkadot or parachains, providing an intuitive entry point into our ecosystem. Our aim is to bring millions of users into the Polkadot ecosystem by helping builders build the next generation of dApps. [You can read more here](../blogs/20211222-grants.md)
+ในขณะนี้ SubQuery กำลังมองหานวัตกรรม หรือ ideas ที่มีศักยภาพสูงซึ่งใช้ประโยชน์จากเครื่องมือ indexing โอเพนซอร์ซของ SubQuery เพื่อสนับสนุนแอปพลิเคชันล้ำสมัยที่แก้ไขปัญหาในบล็อกเชนหรือเทคโนโลยีบัญชีแยกประเภท (DLT) โดยเราสนใจแอปพลิเคชันที่ใช้งานง่ายเป็นพิเศษ ซึ่งจะปลดล็อกข้อมูลจาก Polkadot หรือ Parachains ซึ่งเป็นจุดเริ่มต้นที่ใช้งานง่ายในการเข้าสู่ ecosystem ของเรา ซึ่งเป้าหมายของเราคือการนำผู้ใช้หลายล้านคนเข้าสู่ ecosystem ของ Polkadot โดยช่วยนักพัฒนาสร้าง dApps ยุคใหม่ [อ่านเพิ่มเติมได้ที่นี่](../blogs/20211222-grants.md)
 
 ![](https://miro.medium.com/max/1400/1*tFm9pBCPmAet3WGiGjUtLg.png)
 
 ### SubQuery Releases Tokenomics
 
-During our most recent Community Call we shared our high-level tokenomics for the first time including the allocations and vesting schedules. SubQuery will mint a supply of 10 billion SQT which will be allocated in the following manner.
+ในช่วง Community Call ครั้งล่าสุด เราได้เปิดเผย Tokenomics ของเราเป็นครั้งแรก รวมถึงการจัดสรรและกำหนดการปลดโทเค็นด้วย โดย SubQuery จะมี supply ทั้งหมด 1 หมื่นล้าน SQT ซึ่งจะได้รับการจัดสรรดังรูป
 
 ![](https://miro.medium.com/max/1400/1*304WkKdNhuf0nSBmTlOXyQ.png)
 
-We aim to establish SQT as the token which powers the SubQuery network, providing an incentive for participation, as well as serving as a medium of exchange for transactions within the SubQuery network. SQT will be the fuel for the web3 data revolution.
+เราตั้งเป้าหมายที่จะสร้าง SQT โทเค็น เพื่อใช้ในการขับเคลื่อนเครือข่าย SubQuery ให้เป็นสิ่งจูงใจสำหรับผู้เข้าร่วม ตลอดจนทำหน้าที่เป็นสื่อกลางในการแลกเปลี่ยนสำหรับการทำธุรกรรมภายในเครือข่ายของ SubQuery SQT will be the fuel for the web3 data revolution.
 
 The exact details of when and how the SQT token will be allocated and distributed are still subject to finalisation, and will be announced closer to the public sale. For the listing of SQT, we are planning to be available on key decentralised (DEX) and centralised exchanges (CEX) to make it as easy as possible for everyone to participate in the SubQuery Network. [Read more here](../blogs/20211220-tokenomics.md)
 
