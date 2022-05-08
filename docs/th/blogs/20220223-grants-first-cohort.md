@@ -4,7 +4,7 @@
 
 SubQuery ซึ่งเป็นโซลูชันการจัดทำ indexing ข้อมูลชั้นนำใน Polkadot เรายินดีที่จะประกาศว่ามี 4 ทีมที่ได้รับเลือกให้เป็นผู้รับทุน SubQuery Grants เป็นกลุ่มแรก ได้แก่ทีม [Alphabit](https://www.polkadata.xyz/), [Zoombies](https://zoombies.world), [Dapplooker](https://dapplooker.com/) and [Dotsama](http://dotsama.ai/)
 
-[The USD $500,000 SubQuery Grants Program kicked off in December 2021](./20211222-grants.md) with the vision of offering opportunities to blockchain developers, community members, and wider ecosystem participants to create innovative or high-potential ideas that leverage SubQuery's open-source data indexing tools to support cutting-edge decentralised applications.
+[โครงการ SubQuery Grants มีมูลค่า $500,000 ดอลลาร์สหรัฐ ได้เริ่มขึ้นในเดือนธันวาคม 2021](./20211222-grants.md) ด้วยวิสัยทัศน์ในการเสนอโอกาสให้กับนักพัฒนาบล็อกเชน สมาชิกในคอมมูนิตี้ และผู้เข้าร่วมในระบบนิเวศในวงกว้างเพื่อสร้างนวัตกรรมที่มีศักยภาพสูงที่ใช้ประโยชน์จากข้อมูลโอเพนซอร์สของ SubQuery เครื่องมือสร้าง indexing เพื่อรองรับแอพพลิเคชั่นกระจายอำนาจที่ทันสมัย
 
 The first in the cohort, [Alphabit](https://www.polkadata.xyz/), are endeavouring to empower the independent investor by providing visibility to track and analyse the portfolios and investments of funds, and large traders or 'whales'. They will use SubQuery to power the on-chain data metrics required to propel them to become a leading market analytics player in Polkadot. SubQuery believes this will make a significant impact in the Polkadot ecosystem which is currently lacking in strong investment analysis tools.
 
