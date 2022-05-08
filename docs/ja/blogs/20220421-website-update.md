@@ -1,20 +1,20 @@
-# Announcing SubQuery's New Website
+# 発表 SubQuery's 新サイト
 
 ![](https://miro.medium.com/max/1400/0*AnB_ILxq6i0kKz2Y)
 
-The public website is often the first thing people see and visit when looking at a company or product. It can create a lasting first impression, imprint a brand in your memory, and communicate the story behind what we do. Today we are excited to announce a new and improved website design for SubQuery.
+公開されたウェブサイトは、多くの場合、人々が企業や製品を見るときに最初に目にし、訪問するものです。 第一印象に残り、ブランドを記憶に刻み、私たちの活動の背景にあるストーリーを伝えることができるのです。 本日、SubQuery のウェブサイトデザインが新しくなり、改善されました。
 
-We redesigned our website for two main reasons. Firstly we needed to refresh and modernise the site to reflect more accurately the current progress of SubQuery and its status as a leader in data indexing. Since our last website update, we have evolved significantly with the impending launch of the SubQuery Network. Secondly, we always want to improve our overall visual identity to create a better brand impression with our rapidly expanding community.
+私たちがウェブサイトをリニューアルした理由は、大きく2つあります。 まず、SubQuery の現在の進捗状況と、データインデックスのリーダーとしての地位をより正確に反映させるため、サイトを刷新し近代化する必要がありました。 前回のウェブサイト更新以降、SubQuery Network の立ち上げを目前に控え、私たちは大きく進化しています。 次に、急速に拡大するコミュニティに対してより良いブランド印象を与えるため、全体的なビジュアル・アイデンティティを常に向上させたいと考えています。
 
-SubQuery, being a data indexing project, is all about the details. It's with this mentality that we chose this specific design and layout which emphasises moderate spacing between paragraphs for a more modern look and makes the content easier to read. Additionally, this provides page templates that are flexible and responsive, and that can be reused across the growing number of applications that SubQuery has. Combined, these updates give the user a much better experience navigating through what can be quite detailed and technical information.
+SubQuery は、データのインデックスを作成するプロジェクトであるため、細部が重要です。 このような考えから、段落間の適度な間隔を強調することで、よりモダンな印象を与え、コンテンツを読みやすくするデザインとレイアウトを選びました。 さらに、柔軟性と応答性に優れ、SubQuery が持つ増え続けるアプリケーションで再利用可能なページテンプレートを提供します。 このように、今回のアップデートにより、より詳細で専門的な情報のナビゲーションが可能になりました。
 
 ![](https://miro.medium.com/max/1400/1*rqmuhuC5rdV7sZN2AwokZQ.png)
 
-Going back to first principles of website design, we kept the end-user firmly in our mind. In order to achieve our goal, we stuck to key principles such as establishing a strong visual hierarchy across elements such as typography and content grouping. Furthermore, given the subject matter it was important that we ensured that the content was accessible and responsive and didn't overwhelm the audience with too much information.
+Web デザインの原点に立ち返り、エンドユーザーをしっかり意識しています。 この目標を達成するために、タイポグラフィやコンテンツのグループ化といった要素において、強力な視覚的階層を確立するなどの重要な原則にこだわりました。 さらに、主題を考慮すると、コンテンツがアクセシビリティと応答性に優れ、視聴者を情報過多で圧倒しないようにすることが重要でした。
 
-Our UI design process went through five steps which gives us the opportunity to create user-centred design and successfully consider value based marketing principles.
+UIデザインは5つのステップを経て、ユーザー中心のデザインを実現し、バリューベースのマーケティング原則をうまく考慮する機会を得ました。
 
-## Step 1: Empathise
+## ステップ  1: 共感する
 
 The goal during this stage is to understand who we design for. Creating customer personas are a good way to help represent a particular group of people with similar behaviour, needs, goals, and attitudes. This understanding allowed us to make the right decisions about product features, navigation, visual design, and much more.
 
