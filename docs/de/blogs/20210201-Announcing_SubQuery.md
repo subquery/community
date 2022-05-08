@@ -46,11 +46,11 @@ SubQuery wird vom team von OnFinality erstellt, einer Infrastruktur-SaaS plattfo
 
 **Sam Zou —** CEO ([LinkedIn](https://www.linkedin.com/in/sam-zou-5b8169a/))
 
-Entrepreneur, Investors with more than 20 years of IT experience specialising in infrastructure and cloud service design
+Unternehmer, Investor mit mehr als 20 Jahren IT-Erfahrung, spezialisiert auf die Entwicklung von Infrastruktur- und Cloud-Diensten
 
 **Ian He —** Head of Protocol ([LinkedIn](https://www.linkedin.com/in/yin-he-7a266345/))
 
-Blockchain Architect, Contributor to polkadot-js, Early adopter of Substrate technology and won second place in the first Polkadot hackathon.
+Blockchain-Architekt, Mitwirkender bei polkadot-js, früher Anwender der Substrate-Technologie und Gewinner des zweiten Platzes beim ersten Polkadot-Hackathon.
 
 **James Xu —** Solutions Architect ([LinkedIn](https://www.linkedin.com/in/zhexu/))
 
