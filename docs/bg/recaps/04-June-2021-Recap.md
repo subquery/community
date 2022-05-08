@@ -12,9 +12,9 @@
 
 SubQuery Network е нашето усилие да преминем към децентрализирана и токенизирана мрежа, за да гарантираме, че SubQuery няма единична точка на провал, и да насърчим възможно най-много участници в процеса.
 
-[Last month, we publicly released our whitepaper for the world to read.](https://static.subquery.network/whitepaper.pdf) You can also read/watch a [short explanation here](../blogs/20210616-SubQuery-Network-In-Summary.md).
+[През миналия месец публикувахме публично нашата бяла книга, за да я прочете целият свят.](https://static.subquery.network/whitepaper.pdf) Можете също така да прочетете/гледате [кратко обяснение тук](../blogs/20210616-SubQuery-Network-In-Summary.md).
 
-В SubQuery имаме амбициозни цели - да бъдем най-бързият и достъпен доставчик на услуги за данни в Substrate. We’ve written this whitepaper to highlight our [competitive advantages](../blogs/20210616-SubQuery-Network-Our-Goals-and-Competitive-Advantages.md) and our focus now is on executing this vision. SubQuery Network се върти около два ключови аспекта - гъвкавост и простота.
+В SubQuery имаме амбициозни цели - да бъдем най-бързият и достъпен доставчик на услуги за данни в Substrate. Написахме тази бяла книга, за да подчертаем нашите [конкурентни предимства](../blogs/20210616-SubQuery-Network-Our-Goals-and-Competitive-Advantages.md), и сега се фокусираме върху изпълнението на тази визия. SubQuery Network се върти около два ключови аспекта - гъвкавост и простота.
 
 Амбициозните цели изискват първокласен екип и през юни постоянно добавяхме нови членове към екипа. Това включва стажанти по разработване на нови продукти, UX дизайнер, автор на документация за разработване на продукти и персонал за бизнес развитие, базиран в Китай.
 
