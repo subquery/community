@@ -14,7 +14,7 @@ Vào cuối tháng 12, chúng tôi tự hào thông báo về việc ra mắt Ch
 
 Tầm nhìn của sáng kiến [ SubQuery Grants ](https://subquery.network/grants) là cung cấp các cơ hội quan trọng cho các nhà phát triển blockchain, các thành viên cộng đồng và những người tham gia hệ sinh thái rộng khắp để họ có thể tạo ra thế hệ tiếp theo của các ứng dụng phi tập trung (dApps). Các ứng dụng này dự kiến sẽ tiếp thêm năng lượng cho các giải pháp dựa trên Polkadot mà hỗ trợ Web 3.0, một bộ tiêu chuẩn đang phát triển cho Internet trong tương lai.
 
-<iframe width="680" height="382" src="https://www.youtube.com/embed/Gcu2syKYlB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="680" height="382" src="https://www.youtube.com/embed/Gcu2syKYlB4" title="Trình phát video YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 SubQuery đang tìm kiếm các ý tưởng sáng tạo hoặc có tiềm năng cao để tận dụng các công cụ lập chỉ mục dữ liệu mã nguồn mở của SubQuery nhằm hỗ trợ các ứng dụng tiên tiến giải quyết các vấn đề trong lĩnh vực chuỗi khối hoặc công nghệ sổ cái phân tán (DLT). Chúng tôi đặc biệt quan tâm đến các ứng dụng thân thiện với người dùng giúp mở khóa dữ liệu từ Polkadot hoặc các parachain, cung cấp một điểm vào trực quan cho hệ sinh thái của chúng tôi. Mục đích của chúng tôi là mang hàng triệu người dùng vào hệ sinh thái Polkadot bằng cách giúp các nhà phát triển xây dựng thế hệ dApp tiếp theo. [Bạn có thể tìm hiểu thêm tại đây](../blogs/20211222-grants.md)
 
@@ -64,59 +64,59 @@ Gần dây, chúng tôi đã thêm tính năng Giải Đố nhằm cho phép h�
 
 ### SubQuery Chúc Mừng Những Người Chiến Thắng Cuộc Thi Encode Club Hackathon
 
-SubQuery was proud to partner with Acala for the Encode Club Hackathon last year to support the developer community and the next generation of Polkadot projects.
+SubQuery tự hào được hợp tác với Acala cùng triển khai Encode Club Hackathon năm ngoái nhằm hỗ trợ cộng đồng nhà phát triển và thế hệ tiếp theo của các dự án Polkadot.
 
-After 10 weeks and scrutiny from high profile judges in the Polkadot ecosystem such as [Bryan Chen](https://twitter.com/XiliangChen) (Co-Founder and CTO of Acala), [Hang Yin](https://twitter.com/bgmshana) (Co-Founder of Phala Network), [Jack Platts](https://twitter.com/jackbplatts) (Co-Founder of Hypersphere Ventures) and [Sota Watanabe](https://twitter.com/WatanabeSota) (Founder of Astar, CEO of Stake Technologies) we are happy to share [the winners](https://medium.com/encode-club/polkadot-hack-finale-prizewinners-and-summary-931627c64d9) of our challenges.
+Sau 10 tuần và dưới sự giám sát kỹ lưỡng từ các giám khảo nổi tiếng trong hệ sinh thái Polkadot như [ Bryan Chen ](https://twitter.com/XiliangChen) (Đồng sáng lập và CTO của Acala), [ Hang Yin ](https://twitter.com/bgmshana) (Đồng sáng lập Phala Network), [ Jack Platts ](https://twitter.com/jackbplatts) (Đồng sáng lập Hypersphere Ventures) và [ Sota Watanabe ](https://twitter.com/WatanabeSota) (Người sáng lập Astar, Giám đốc điều hành của Stake Technologies), chúng tôi rất vui khi được công bố [ những người chiến thắng ](https://medium.com/encode-club/polkadot-hack-finale-prizewinners-and-summary-931627c64d9) thử thách của chúng tôi.
 
-🤖 The “build a bot” challenge was won by the team at Krakura with an interesting open-source DEX arbitrage bot that constantly checks for pricing differences.
+🤖 Đội ngũ tại Krakura đã giành chiến thắng trong thử thách “xây dựng một bot” với con bot thú vị liên tục kiểm tra sự khác biệt về giá cả tại DEX mã nguồn mở.
 
-<iframe width="680" height="382" src="https://www.youtube.com/embed/G7TNTzMDijU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="680" height="382" src="https://www.youtube.com/embed/G7TNTzMDijU" title="Trình phát video YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-📈 The winner of the Dashboard challenge with AcalaNetwork was the team at Polkadata, a data analytics platform for DeFi investors to track how smart money is investing and structuring their portfolio on Karura
+📈 Người chiến thắng trong thử thách Bảng Điều Khiển với AcalaNetwork là nhóm tại Polkadata, một nền tảng phân tích dữ liệu dành cho các nhà đầu tư DeFi dùng để theo dấu cách các quỹ triển khai việc đầu tư và cấu trúc danh mục đầu tư của họ trên Karura
 
 [http://polkadata.xy](http://polkadata.xy/)
 
-🪙 Entity 54 were the winners in the AcalaNetwork Defi DApp category. Entity 54 is a DApp that connects to AMTC6 via Acala API/EVM and reads account balances, loans and allows swaps, transfers, loan adjustments and transfers plus reads coin and loan data
+🪙 Entity 54 là ứng dụng chiến thắng trong danh mục AcalaNetwork Defi DApp. Entity 54 là DApp kết nối với AMTC6 thông qua Acala API/EVM và đọc số dư tài khoản, khoản vay và cho phép hoán đổi, chuyển khoản, điều chỉnh khoản vay và chuyển khoản đồng thời đọc dữ liệu đồng coin và khoản vay
 
-<iframe width="680" height="382" src="https://www.youtube.com/embed/fU1BRVOtx2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="680" height="382" src="https://www.youtube.com/embed/fU1BRVOtx2o" title="Trình phát video YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Read more here](../blogs/20220120-gr12-winners.md)
+[Đọc thêm tại đây](../blogs/20220120-gr12-winners.md)
 
-### SubQuery Partners with OneBlock+ To Educate Blockchain Developers in China
+### SubQuery hợp tác với OneBlock+ để đào tạo các nhà phát triển Blockchain ở Trung Quốc
 
-SubQuery’s community has always been global, and a huge number of SubQuery’s customers come from the thriving Polkadot community in China.
+Cộng đồng của SubQuery luôn mang tính toàn cầu và một số lượng lớn khách hàng của SubQuery đến từ cộng đồng Polkadot đang ngày một lớn mạnh ở Trung Quốc.
 
-SubQuery recently launched the SubQuery Academy to upskill blockchain developers globally, specifically in the area of data indexing in the Polkadot ecosystem. The existing “Hero Course” has been translated to Chinese and will be delivered via WeChat. OneBlock+ will provide additional learning support to students via weekly “Office Hours” on Tencents Conference platform.
+SubQuery gần đây đã ra mắt Học viện SubQuery để nâng cao kỹ năng cho các nhà phát triển blockchain trên toàn cầu, đặc biệt trong lĩnh vực lập chỉ mục dữ liệu trong hệ sinh thái Polkadot. “Khóa học Người Hùng” hiện có đã được dịch sang tiếng Trung và sẽ được chuyển giao qua WeChat. OneBlock+ sẽ cung cấp hỗ trợ học tập bổ sung cho học viên thông qua “Office Hours” hàng tuần trên nền tảng Tencents Conference.
 
-The delivery of this course in China is the embodiment of SubQuery’s dedication to providing local language support for all of our communities around the world. [Read more here](../blogs/20211209-oneblock-education.md)
+Việc chuyển giao khóa học này ở Trung Quốc là thể hiện sự tâm huyết của SubQuery trong việc cung cấp hỗ trợ ngôn ngữ bản địa cho tất cả các cộng đồng của chúng tôi trên khắp thế giới. [Đọc thêm tại đây](../blogs/20211209-oneblock-education.md)
 
-### Inside The Polkadot Crowdloans (Part 2)
+### Tìm hiều về Crowdloan trên Polkadot (Phần 2)
 
-Like any keen fan of the Polkadot ecosystem, we were fascinated by the recent Polkadot crowdloan process and decided to put our data to work! After examining the battle between Acala and Moonbeam we conducted more analysis on how the Astar and Parallel Finance auction shaped up.
+Giống như bất kỳ người hâm mộ nào của hệ sinh thái Polkadot, chúng tôi bị cuốn hút bởi quy trình huy động vốn cộng đồng trên Polkadot gần đây và quyết định đưa dữ liệu của chúng tôi vào hoạt động! Sau khi xem xét trận chiến giữa Acala và Moonbeam, chúng tôi đã tiến hành phân tích thêm về cách hình thành cuộc đấu giá giữa Astar và Parallel Finance.
 
-In a nutshell, Astar and Parallel Finance led a very competitive auction, where Astar was selected as the winner at block [7927110](https://polkadot.subscan.io/block/7927110), with a lead of only 120,000 DOT! If there was another random block selected any earlier or later, the result may have been quite different.
+Tóm lại, Astar và Parallel Finance đã dẫn đầu một cuộc đấu giá rất cạnh tranh, trong đó Astar được chọn là người chiến thắng tại khối [7927110 ](https://polkadot.subscan.io/block/7927110), với mức dẫn đầu chỉ với 120.000 DOT! Nếu có một khối ngẫu nhiên khác được chọn bất kỳ sớm hơn hoặc muộn hơn, kết quả có thể đã hoàn toàn khác.
 
 ![](https://miro.medium.com/max/1400/1*2EnTjVHEztLqCDyoRoLasQ.png)
 
-Having auctions that have been extremely competitive suggests a healthy ecosystem, and it is encouraging to see the amount of commitment that the community has shown. Here at SubQuery we are very excited to continue working alongside the best Polkadot projects, and can’t wait to see what the future has in store for us. [Read more here](../blogs/20211124-polkadot-crowdloans.md)
+Có các cuộc đấu giá cực kỳ cạnh tranh cho thấy một hệ sinh thái lành mạnh và thật đáng khích lệ khi thấy mức độ cam kết mà cộng đồng đã thể hiện. Tại SubQuery, chúng tôi rất hào hứng khi được tiếp tục làm việc cùng với các dự án Polkadot tốt nhất và chúng tôi rất nóng lòng chờ đợi xem tương lai sẽ ra sao. [Đọc thêm tại đây](../blogs/20211124-polkadot-crowdloans.md)
 
-### Gitcoin Hackathon
+### Cuộc thi Gitcoin Hackathon
 
-To continue our work in growing the developer community for SubQuery, [we participated in the recent Gitcoin GR 12 Hackathon](../blogs/20211120-gitcoin12-hackathon.md) from December 1–16th.
+Để tiếp tục công việc phát triển cộng đồng nhà phát triển cho SubQuery, [ chúng tôi đã tham gia Gitcoin GR 12 Hackathon ](../blogs/20211120-gitcoin12-hackathon.md) gần đây từ ngày 1 đến ngày 16 tháng 12.
 
-Partnering with our friends at Acala, Moonbeam and Astar, we had five different challenges with a total prize pool of $34,000 USDC. We were really encouraged by the quality of applications and will be announcing more details about the winners soon.
+Hợp tác với những người bạn của chúng tôi tại Acala, Moonbeam và Astar, chúng tôi đã có năm thử thách khác nhau với tổng giải thưởng là $34.000 USDC. Chúng tôi thực sự được khích lệ bởi chất lượng của các ứng dụng và sẽ sớm công bố thêm thông tin chi tiết về những người chiến thắng.
 
 ![](https://miro.medium.com/max/1400/1*H84EaIQhTn5H0x-lWHyP3g.png)
 
-Our partnership with Gitcoin reflects our commitment to provide opportunities for motivated developers around the world to build the applications of tomorrow. As we grow there will be more hackathons and other opportunities from SubQuery to build projects so stay tuned!
+Quan hệ đối tác của chúng tôi với Gitcoin phản ánh cam kết của chúng tôi trong việc cung cấp cơ hội cho các nhà phát triển trên khắp thế giới xây dựng các ứng dụng của tương lai. Khi chúng tôi lớn mạnh, sẽ có nhiều hackathon hơn và các cơ hội khác từ SubQuery để xây dựng các dự án, vì vậy hãy chú ý theo dõi!
 
-## Other things you might have missed
+## Những thứ khác mà bạn có thể đã bỏ lỡ
 
-- [**Solarbeam work with SubQuery for their new Eclipse Launchpad**](../customer_announcements/20211215-solarbeam.md)
-- Following the [Polkadot announcement](https://polkadot.network/blog/introducing-polkadot-kusama-gifts/) that you can gift DOT or KSM to friends or family, many have taken advantage of this and given the gift of a digital asset this year. In the spirit of Christmas s[ee our breakdown of Polkadot’s gifting data](../blogs/20211223-gifting.md)
+- [**Solarbeam làm việc với SubQuery về Launchpad mới Eclipse của họ**](../customer_announcements/20211215-solarbeam.md)
+- Sau khi [ Polkadot thông báo ](https://polkadot.network/blog/introducing-polkadot-kusama-gifts/) rằng bạn có thể tặng DOT hoặc KSM cho bạn bè hoặc gia đình, nhiều người đã tận dụng điều này và tặng quà là tài sản kỹ thuật số trong năm nay. Với tinh thần của lễ Giáng sinh, chúng ta [ phân tích dữ liệu về quà tặng của Polkadot ](../blogs/20211223-gifting.md)
 
-As always, please [join our social channels](https://linktr.ee/subquerynetwork) (especially our [Discord](https://discord.com/invite/subquery)) to stay updated on our latest news and announcements.
+Như thường lệ, hãy [ tham gia các kênh truyền thông của chúng tôi ](https://linktr.ee/subquerynetwork) (đặc biệt là [ Discord ](https://discord.com/invite/subquery)) để được cập nhật tin tức và thông báo mới nhất.
 
-James, Sam, and the SubQuery Team
+James, Sam, và Đội ngũ SubQuery
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
