@@ -26,7 +26,7 @@
 
 ![](https://miro.medium.com/max/1400/1*304WkKdNhuf0nSBmTlOXyQ.png)
 
-เราตั้งเป้าหมายที่จะสร้าง SQT โทเค็น เพื่อใช้ในการขับเคลื่อนเครือข่าย SubQuery ให้เป็นสิ่งจูงใจสำหรับผู้เข้าร่วม ตลอดจนทำหน้าที่เป็นสื่อกลางในการแลกเปลี่ยนสำหรับการทำธุรกรรมภายในเครือข่ายของ SubQuery SQT will be the fuel for the web3 data revolution.
+เราตั้งเป้าหมายที่จะสร้าง SQT โทเค็น เพื่อใช้ในการขับเคลื่อนเครือข่าย SubQuery ให้เป็นสิ่งจูงใจสำหรับผู้เข้าร่วม ตลอดจนทำหน้าที่เป็นสื่อกลางในการแลกเปลี่ยนสำหรับการทำธุรกรรมภายในเครือข่ายของ SubQuery โดย SQT โทเค็น จะเป็นเชื้อเพลิงสำหรับการปฏิวัติข้อมูล web3
 
 The exact details of when and how the SQT token will be allocated and distributed are still subject to finalisation, and will be announced closer to the public sale. For the listing of SQT, we are planning to be available on key decentralised (DEX) and centralised exchanges (CEX) to make it as easy as possible for everyone to participate in the SubQuery Network. [Read more here](../blogs/20211220-tokenomics.md)
 
