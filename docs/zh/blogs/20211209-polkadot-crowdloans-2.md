@@ -1,58 +1,58 @@
-# Inside The Polkadot Crowdloans (Part 2)
+# Polkadot众贷部分（第2部分）
 
 ![](https://miro.medium.com/max/1400/0*MqQhXJbmnfMSqf-8)
 
-Polkadot has provided its community with another exciting race for their third parachain slot auction. We have recently witnessed Parallel Finance and Astar battle it out for the third slot, and in the end Astar managed to emerge victorious. Today we are going to explore a little more about what happened within the third auction by diving into the data behind every single contribution.
+Polkadot为其社区第三次平行链拍卖提供了又一次激动人心的竞赛。 我们最近目睹了Parallel Finance和Astar为第三个插槽的激烈竞争，最后，Astar取得了胜利。 今天，我们将通过深入分析每一笔捐款背后的数据，进一步了解在第三次拍卖中发生了什么。
 
-SubQuery is Polkadot’s leading data indexing service, and over the past week we’ve been powering millions of daily requests to the majority of the crowdloan dashboards, contribution apps, and analytics websites. Teams like [SubVis](https://www.subvis.io/), [Parallel Finance](https://parallel.fi/), and [DotMarketCap](https://dotmarketcap.com/) rely on SubQuery to provide real time data on the crowdloans and other on-chain data directly to their websites and apps.
+SubQuery是Polkadot上提供数据索引服务的领导者，在过去的一周中，我们每天都为大多数众贷仪表板、贡献应用和分析网站的成功处理了数百万个请求。 SubVis, Parallel Finance, 和 DotMarketCap 等团队依靠SubQuery向他们的网站和应用程序提供关于众贷和其他链上数据的实时数据。
 
-Firstly, let’s start with some high level quick facts. As you can see below Astar had both more contributions and contributors. It’s important to note that Parallel raised a significant amount through its proxy fund, so the contributor amount is misleading because the proxy account hides this information.
+首先，让我们从一些高层次的易见的事实开始。 正如你可以看到的那样，Astar拥有更多的贡献和贡献者。 值得注意的是，Parallel通过代理基金筹集了大量资金，因此，由于代理账户隐藏了这一信息，所以捐款金额具有误导性。
 
-Both received a median contribution of 10 DOT (US$367.70) but Astar was able to attract the largest single contribution with 2,005,295 DOT (US$73.7 million). In the end a total of almost 20 million DOT (US$735.4 million) was contributed across both two during the third auction. Unsurprisingly, this number was less than the amount committed in the first auctions, however it is promising to see the auction amounts still being of significant value.
+两者均收到的贡献的中位数都是10DOT(367.70美元)，但Astar吸引了最大的单笔捐款2,005,295个DOT（7370万美元）。 最后，在第三次拍卖期间，两个项目共收到近2 000万DOT（735.4百万美元）的捐款。 不足为奇的是，这一数字低于第一次拍卖中筹集到的金额。 然而，这次拍卖的金额仍将相当可观
 
-![](https://miro.medium.com/max/1920/1*cHMt10lANsqtkLYHCv6iWg.png) As you can see in the graph below, the number of contributions were relatively constant, with simultaneous jumps in the contribution rate on the 17th of November to over 2,000 contributions in a 4 hour period. Similarly to the [Moonbeam and Acala battle](./20211124-polkadot-crowdloans.md), this auction had significantly different styles of participation while maintaining a relatively equal amount of contributions. Parallel Finance had 20,000 less contributions to their crowdloan when compared to Astar.
+![](https://miro.medium.com/max/1920/1*cHMt10lANsqtkLYHCv6iWg.png) 如下图所示，捐款的数量相对稳定，在11月17日，在4个小时的时间里，收到2000多笔贡献使得贡献率瞬间飙升。 与  [Moonbeam和 Acala 的竞争](./20211124-polkadot-crowdloans.md)类似， 此次拍卖的参与方式明显不同，但捐赠金额相对相等 与Astar相比，Parallel Finance 收到的贡献少了20000多笔。
 
 ![](https://miro.medium.com/max/1920/0*QLdNkyaQBBj3L9Eu)
 
-But it’s not the number of contributions that matters here, rather the value of those contributions. As you can see in the chart below the auction was incredibly tight, with the lead passing between teams through the auction.
+但这不是这里重要的贡献数量，而是这些贡献的价值。 正如你在下面的图表中所看到的，拍卖非常紧张，两者互相超越。
 
 ![](https://miro.medium.com/max/1920/0*AGGfB2oBSwoplGhv)
 
-As you can see in the following graphs there were two events to watch, the first was a huge spike in contributions to Astar on the 12th of November. This gave them a steady lead until the 24th of November, where Parallel Finance gained almost 2.5 million DOT (US$91 million).
+正如你在下面的图表中看到的，有两个事件值得关注，第一个事件是在11月12日Astar的贡献激增。 这使得他们一直保持领先，直到11月24日，Parallel Finance获得了近250万DOT(9100万美元)。
 
 ![](https://miro.medium.com/max/1920/0*UK4Drn6LXcjebF_V)
 
-For the first event occurred on the 12th of November at 2:26am UTC when an account linked to Binance deposited in quick succession, 2,005,295 DOT (US$73.5 million) to Astar and 1,026,763 DOT (US$37.9 million) to Parallel Finance. This is likely Binance providing the contributions that it collects from it’s own community to each crowdloan.
+第一起事件发生在11月12日UTC时间凌晨2:26，一个与币安相关的账户迅速连续存入了2,005,295 DOT(7350万美元)给Astar, 1,026,763 DOT(3790万美元)给Parallel Finance。 这可能是币安从它自己的社区为每次众贷收集到贡献。
 
-The second even was a bit weirder, and was rather 25 separate events.In a 11 minutes, Parallel’s Crowdloan proxy vehicle made 25 identical contributions of 98,982 DOT (US$3,639,568.14) each to Parallel totalling 2,474,550 DOT (US$90,989,203.50). It’s not clear why these deposits were made via smaller DOT amounts, potentially Parallel’s Crowdloan proxy vehicle was set up to contribute a maximum amount of this value each time.
+第二个更奇怪，有25个独立的事件。在11分钟的时间里，Parallel的众贷代理工具向Parallel提供了25笔相同的捐款，每笔共计98,982DOT(约合3,639,568.14美元)，总计2,474,550DOT(约合90,989,203.50美元)。 目前还不清楚为什么这些存款是通过较小的DOT金额进行的，可能是Parallel的众贷代理工具限制了每次贡献的最大的金额。
 
 ![](https://miro.medium.com/max/1920/0*ZErTVoVAvSJvaIsL)
 
-Astar and Parallel Finance led a very competitive auction, where Astar was selected as the winner at block [7927110](https://polkadot.subscan.io/block/7927110), with a lead of only 120,000 DOT. If there was another random block selected any earlier or later, the result may have been quite different.
+Astar 和 Parallel Finance领导了一次竞争性很强的拍卖， 在第 [7927110](https://polkadot.subscan.io/block/7927110)个区块上，Astar以120000 DOT的微弱优势赢得了拍卖. 如果在更早或更晚的时间随机选择另外一个区块，结果可能会有很大的不同。
 
-So who is contributing? Firstly there are two massive whales that are responsible for a combined 41% of all contributions and 69.34% of all value (13,756,262 DOT). These two accounts represent Parallel Finance’s Crowdloan proxy vehicle and Binance. Kraken and Bifrost’s SALP program were also represented in the top 6 contributors. Parallel’s Crowdloan proxy vehicle was particularly prevalent in our results with over 9.3 million DOT contributed (US$344.6 million) representing over 47% of all contributions.
+那么谁在做出贡献？ 首先，有两个鲸鱼账户贡献了所有贡献的41%和所有价值的69.34% (13,756,262 DOT)。 这两个账户代表Parallel Finance的众贷代理工具和币安。 Kraken和Bifrost的SALP项目也占据了前6位 在我们的调查结果中，Parallel的众贷代理工具尤其重要，超过930万的DOT贡献(3.446亿美元)，占所有贡献的47%以上。
 
-Unfortunately this high percentage means that comparing the average contribution size is difficult, since this proxy obscures the contribution data way too much. In the future, we might even dive deep into Parallel’s data and use this to determine exactly how many of these contributions come from whales versus individual small cap investors.
+不幸的是，这个高百分比意味着比较平均贡献大小是困难的，因为这个代理掩盖了太多的贡献数据。 将来我们甚至可能深入研究Parallel的数据，并使用这些数据来准确地定位这些贡献中有多少来自鲸鱼投资者和个人小额投资者。
 
-Having two auctions that have been extremely competitive suggests a healthy ecosystem, and it is encouraging to see the amount of commitment that the community has shown. Here at SubQuery we are very excited to continue working alongside the best Polkadot projects, and can’t wait to see what the future has in store for us.
+拥有两个竞争非常激烈的拍卖表明波卡拥有一个非常健康的生态，看到来自社区的诸多贡献是令人鼓舞的。 在SubQuery，我们很高兴能继续与最好的波卡项目一起工作，迫不及待地想看看我们的未来。
 
 ---
 
-## About SubQuery Network
+## 关于 SubQuery
 
-SubQuery is Polkadot’s leading data provider, supporting an indexing & querying layer between Layer-1 blockchains (Polkadot) and decentralized applications. SubQuery’s data service is being used by most of the Polkadot and Kusama crowdloan and parachain auction websites live today.
+SubQuery是Polkadot领先的数据提供商，支持在第一层区块链(Polkadot) 和去中心化应用程序之间的索引和查询。 SubQuery的数据服务目前被大多数Polkadot和Kusama众贷和平行链链拍卖网站所使用。
 
-SubQuery’s protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+SubQuery 的协议通过 SubQuery SDK 抽象出区块链数据特性，使开发人员能够专注于部署他们的核心产品，而无需在自定义后端技术上浪费精力。
 
-​​​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+​​​​[Linktree](https://linktr.ee/subquerynetwork) | [网站](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
 
-## Appendix
+## 附录
 
-All USD prices are quoted at the price at the 3rd Auctions’s close = USD$36.77
+所有美元价格均以第三次拍卖收盘价计算 = 36.77 美元
 
-All data is from the start of the Polkadot Crowdloans to the completion of the third auction on 3rd December 1.43AM UTC (block 7,957,704).
+所有数据都是从波卡众贷开始到UTC时间11月18日上午11点57分（区块 7,957,704）完成第一次拍卖结束。
 
-Excluded Crowdloan Sites
+排除的众贷网站
 
 - [Acala LCDOT](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157)
 - [Binance Crowdloan](https://www.binance.com/en/dotslot)
