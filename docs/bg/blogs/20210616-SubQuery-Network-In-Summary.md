@@ -1,16 +1,16 @@
 # SubQuery Network - Обобщение
 
-**How does the SubQuery Network work? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)**
+**Как работи мрежата SubQuery Network? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)**
 
-Today we’re going to talk about how the SubQuery Network works at a high level.
+Днес ще поговорим за това как работи SubQuery Network на високо ниво.
 
 ## Участници
 
 ![](https://miro.medium.com/max/1400/1*9993cakplwupZC5tbUv3vA.png)
 
-Participants in the SubQuery Network
+Участници в мрежата SubQuery
 
-There are three types of participants in the SubQuery Network:
+В мрежата SubQuery Network има три вида участници:
 
 - **Потребители**: Потребителите ще отправят заявки към мрежата на SubQuery за конкретни данни и ще плащат рекламираната сума в SQT
 - **Индексатори**: Индексаторите ще хостват SubQuery проекти в собствена инфраструктура, поддържайки, както нода, така и услугата за заявки, за да могат да индексират данни и да отговарят на GraphQL заявки.
@@ -18,9 +18,9 @@ There are three types of participants in the SubQuery Network:
 
 ## Индексатори, Потребители и Заявки
 
-Let’s start with Indexers, Indexers do a lot of the hard work behind the scenes. The manage hardware, run infrastructure, monitor resources, and choose the right SubQuery projects to index
+Нека започнем с индексиращите, които вършат много от тежката работа зад кулисите. Управлението на хардуера, стартирането на инфраструктурата, наблюдението на ресурсите и изборът на правилните проекти за индексиране на SubQuery
 
-This takes time and money, but once they have this, Consumers may come and make requests. Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
+Това отнема време и пари, но след като ги получат, потребителите могат да идват и да отправят искания. Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
 
 ![](https://miro.medium.com/max/1400/1*dKLkzSc2uXYaPW_IXUxstQ.png)
 
