@@ -36,21 +36,21 @@ Nhằm chuẩn bị sẵn sàng cho việc ra mắt mainnet, chúng tôi đã đ
 
 Chúng tôi đang tìm kiếm các Nhà Vận Hành Node có hiểu biết sâu sắc về Mạng SubQuery, bao gồm các luồng doanh thu và cách hoạt động của việc stake và ủy quyền. Bạn cần phải là một chuyên gia trong việc chạy các ứng dụng sản xuất có hiệu suất cao và có khả năng mở rộng với tính năng giám sát và bảo mật ví / cơ sở hạ tầng. Cuối cùng, bạn sẽ cần một thái độ tuyệt vời và niềm tin chung vào tương lai lớn mạnh của web3.
 
-Indexers who are interested in participating [can register their interest with SubQuery here](https://forms.gle/RyXyhb8T9Gxkwi7R9). After reviewing all of the applications, we expect to approve an initial pool of Indexers by early February 2022 with the testnet launching at the end of Q1 2022. Indexers will be retrospectively rewarded and invited to participate in the subsequent mainnet anticipated at the end of Q2 2022. [Read more here](../blogs/20211202-indexer-invitation.md)
+Những Người Lập Chỉ Mục muốn tham gia [ có thể đăng ký với SubQuery tại đây ](https://forms.gle/RyXyhb8T9Gxkwi7R9). Sau khi xem xét tất cả các đơn đăng ký, chúng tôi dự kiến sẽ phê duyệt một nhóm Người Lập Chỉ Mục đầu tiên vào đầu tháng 2 năm 2022 với việc khởi chạy testnet vào cuối Quý 1 năm 2022. Người Lập Chỉ Mục sẽ được thưởng và được mời tham gia vào mainnet tiếp theo được dự kiến vào cuối Quý 2 năm 2022. [Đọc thêm tại đây](../blogs/20211202-indexer-invitation.md)
 
-## Core Product Development
+## Phát triển sản phẩm cốt lõi
 
-### SubQuery Provides Customers with Enterprise Support
+### SubQuery cung cấp cho khách hàng Dịch Vụ Hỗ Trợ Doanh Nghiệp
 
 ![](https://miro.medium.com/max/1400/1*gD9qkI5JK-PeWRTDr3IERw.png)
 
-Many customers now rely on SubQuery to provide mission critical data to their production apps. These customers represent some of the largest wallets ([Nova](https://novawallet.io/) and [Fearless](https://fearlesswallet.io/)), scanners ([Subscan](https://www.subscan.io/), [SubVis](https://www.subvis.io/), and [DotMarketCap](https://dotmarketcap.com/)), NFT platforms ([Kodadot](https://kodadot.xyz/) and [Yuser](https://yuser.co/)), and more. These are huge applications that the Polkadot community use on a daily basis and must be online at all times.
+Nhiều khách hàng hiện đang dùng SubQuery để cung cấp dữ liệu quan trọng cho các ứng dụng sản xuất của họ. Những khách hàng này đại diện cho một số ví lớn nhất ([ Nova ](https://novawallet.io/) và [ Fearless ](https://fearlesswallet.io/)), ứng dụng quét mạng lưới ([ Subscan ](https://www.subscan.io/), [ SubVis ](https://www.subvis.io/) và [ DotMarketCap ](https://dotmarketcap.com/)), nền tảng NFT ([ Kodadot ](https://kodadot.xyz/) và [ Yuser ](https://yuser.co/)), và nhiều hơn nữa. Đây là những ứng dụng khổng lồ mà cộng đồng Polkadot sử dụng hàng ngày và luôn phải trực tuyến.
 
-The performance and reliability of our hosted service has been on the top of our priority list for some time here at SubQuery. Our sister team is OnFinality, Polkadot’s largest infrastructure provider, so we have plenty of experience in this area. As a result, we made three recent improvements that will make SubQuery the most reliable, scalable, and performant data platform in Polkadot.
+Hiệu suất và độ tin cậy của dịch vụ được lưu trữ luôn là ưu tiên hàng đầu của chúng tôi tại SubQuery. Nhóm "chị em" của chúng tôi là OnFinality, nhà cung cấp cơ sở hạ tầng lớn nhất của Polkadot, do đó chúng tôi có rất nhiều kinh nghiệm trong lĩnh vực này. Và kết quả là chúng tôi gần đây đã thực hiện ba cải tiến mà sẽ làm cho SubQuery trở thành nền tảng dữ liệu đáng tin, có thể mở rộng và hoạt động hiệu quả nhất trên Polkadot.
 
-1.  Dedicated Databases
-2.  Multiple Cluster Support
-3.  Intelligent Routing
+1.  Cơ sở dữ liệu chuyên dụng
+2.  Hỗ trợ nhiều cụm
+3.  Định tuyến thông minh
 
 These services allow us to offer our premium service to more customers with confidence. We work with each customer to understand their business and goals, and then to set up a service to meet their needs. SubQuery is the largest data service provider in Polkadot, and these features show how we support thousands of community projects at the same time as the biggest projects in Polkadot. [Read more here](../blogs/20211228-enterprise-hosted.md)
 
