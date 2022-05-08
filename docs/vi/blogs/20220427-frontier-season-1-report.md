@@ -1,8 +1,8 @@
-# SubQuery Frontier Season 1: Testnet Report
+# SubQuery Frontier Mùa 1: Báo cáo Testnet
 
 ![](https://miro.medium.com/max/700/0*b3TqTiJWGrNSs28F)
 
-Last week we successfully completed the first season of the SubQuery Frontier testnet. A testnet, short for test network, is a network used by developers to test code before it is deployed to the main network (or "Mainnet"). In SubQuery's case, the launch of the testnet marks a critical milestone in our development as we progress towards the full deployment of mainnet which coincides with our token listing on centralised exchanges.
+Tuần trước, chúng tôi đã hoàn thành thành công mùa đầu tiên của testnet SubQuery Frontier. Testnet, viết tắt của "test network", là một mạng được các nhà phát triển sử dụng để kiểm tra code trước khi nó được triển khai trên mạng chính (hoặc "Mainnet"). Trong trường hợp của SubQuery, việc ra mắt testnet đánh dấu một cột mốc quan trọng trong quá trình phát triển của chúng tôi khi chúng tôi tiến tới việc triển khai đầy đủ mainnet, cùng thời điểm với việc niêm yết token của chúng tôi trên các sàn giao dịch tập trung.
 
 Season 1 of the SubQuery Frontier testnet had the following goal: find and fix critical bugs and documentation issues relating to the main day-to-day indexer actions. To help us with this, we enlisted 23 node operators with experience in running high performance and scalable productions with monitoring and wallet/infrastructure security.
 
