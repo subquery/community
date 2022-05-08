@@ -4,7 +4,7 @@
 
 SubQuery ภูมิใจที่จะประกาศความร่วมมือกับ OAK Network ศูนย์กลางของระบบอัตโนมัติของ Web3 สำหรับ DeFi และการชำระเงิน ความเชี่ยวชาญของ SubQuery จะถูกใช้เพื่อให้ข้อมูลที่เป็นเชิงลึกมากขึ้นสำหรับ OAK เมื่อทำการตรวจสอบและสังเกตกิจกรรมบล็อคเชนสำหรับทั้งใน OAK Network บน Polkadot และTuring Network บน Kusama รวมถึงเครือข่ายทดสอบ Neumann
 
-> ภารกิจของ SubQuery คือการช่วยทีมสร้างผลิตภัณฑ์ที่จะช่วยให้การเคลื่อนไปสู่อนาคตของการกระจายอำนาจนั้นสอดคล้องกับภารกิจของ OAK Network ในการนำระบบอัตโนมัติที่ปลอดภัยและเชื่อถือได้มาสู่คนจำนวนมาก SubQuery will serve as a valuable resource to accelerate development timelines and ensure the services which OAK supplies to the market are stable and observable."</em> - David Finklestein , Head of Growth at OAK Network
+> ภารกิจของ SubQuery คือการช่วยทีมสร้างผลิตภัณฑ์ที่จะช่วยให้การเคลื่อนไปสู่อนาคตของการกระจายอำนาจนั้นสอดคล้องกับภารกิจของ OAK Network ในการนำระบบอัตโนมัติที่ปลอดภัยและเชื่อถือได้มาสู่คนจำนวนมาก "SubQuery จะทำหน้าที่เป็นแหล่งทรัพยากรที่มีคุณค่าที่จะช่วยเร่งระยะเวลาของการพัฒนา และทำให้มั่นใจว่าบริการที่ OAK จัดหาให้กับตลาดมีความเสถียรและตรวจสอบได้" - David Finklestein หัวหน้าฝ่ายการเติบโตของ OAK Network กล่าว
 
 By partnering with SubQuery, the development team at OAK will be able to aggregate, observe, and monitor the state of the OAK Virtual Machine, event registry, and automation tasks by their partners and end users. This mission critical information will inform OAK's business strategy and maintain best in class security and visibility within their own ecosystem.
 
@@ -20,10 +20,10 @@ OAK (On-chain Autonomous Kernel) Network is a blockchain automation hub for DeFi
 
 [Website](https://oak.tech/) | [SubSocial](https://app.subsocial.network/6109) | [Medium](https://medium.com/oak-blockchain) | [Twitter](https://twitter.com/oak_network) | [Discord](https://discord.gg/7W9UDvsbwh) | [Github](https://github.com/OAK-Foundation/) | [Telegram](https://t.me/OAK_Announcements) | [YouTube](https://www.youtube.com/channel/UCSEu57BfQQpAfgDixfBnaNg) | [LinkedIn](https://www.linkedin.com/company/oak-blockchain/)
 
-## About SubQuery
+## เกี่ยวกับ SubQuery
 
-SubQuery's mission is to help others create products that allow us to move to a decentralized future faster. SubQuery is a blockchain developer toolkit and the backbone of web3 infrastructure. A SubQuery project is a complete API to organize and query data from chains. Operating between layer-1 blockchains and decentralized apps (dApp), SubQuery is an open-source indexer organizing and serving well-structured data over GraphQL. SubQuery powers the next generation of dApps and tools with web3 data
+ภารกิจของ SubQuery คือการช่วยให้ผู้อื่นสร้างผลิตภัณฑ์ที่ช่วยให้เราก้าวไปสู่อนาคตเเบบกระจายอำนาจได้เร็วขึ้น SubQuery เป็นชุดเครื่องมือสำหรับนักพัฒนาและเป็นแกนหลักของโครงสร้างพื้นฐานของ Web3 โปรเจกต์ SubQuery เป็น API ที่ครบถ้วนสมบูรณ์ในการจัดระเบียบและสืบค้นข้อมูลจากเชนต่างๆ การทำงานระหว่าง Layer-1 บลอคเชน และแอปพลิเคชั่นแบบกระจายอำนาจ (dApp) SubQuery เป็นผู้จัดระเบียบ Indexer แบบเปิด (Open-source) และให้บริการข้อมูลที่มีโครงสร้างที่ดีด้วยเทคโนโลยี GraphQL SubQuery คือพลังขับเคลื่อน dApp และเครื่องมือต่างๆ ในยุคถัดไปด้วยข้อมูลของ Web3
 
-Currently, anyone can already use SubQuery to extract and query blockchain data in only minutes. The SubQuery Network proposes to enable this same scalable and performant solution, but in a completely decentralized way.
+ปัจจุบัน ใครๆ ก็สามารถใช้ SubQuery เพื่อดึงและ Query ข้อมูล ได้ในเวลาเพียงไม่กี่นาที SubQuery Network เสนอให้มีการเปิดใช้งานโซลูชันที่ปรับขนาดได้และมีประสิทธิภาพแบบเดียวกันนี้ แต่ด้วยแนวทางที่มีการกระจายอำนาจอย่างสมบูรณ์
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
