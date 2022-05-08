@@ -1,8 +1,8 @@
-# SubQuery сооющает о первой группе получателей грантов SubQuery
+# SubQuery сообщает о первой группе получателей грантов SubQuery
 
 ![](https://miro.medium.com/max/1400/1*qp0hhPcvodDIMmVScohSnw.png)
 
-SubQuery - ведущее решение для индексации данных в Polkadot, с радостью сообщает, что четыре команды были выбраны в качестве первой группы получателей грантов SubQuery. Это команды [Alphabit](https://www.polkadata.xyz/), [Zoombies](https://zoombies.world), [Dapplooker](https://dapplooker.com/) и [Dotsama](http://dotsama.ai/).
+SubQuery - ведущее решение для индексации данных в Polkadot, с радостью сообщает, что четыре команды были выбраны в качестве первой группы получателей грантов SubQuery Это команды [Alphabit](https://www.polkadata.xyz/), [Zoombies](https://zoombies.world), [Dapplooker](https://dapplooker.com/) и [Dotsama](http://dotsama.ai/).
 
 [Программа грантов SubQuery на сумму 500 000 долларов США стартовала в декабре 2021 года](./20211222-grants.md). Ее цель – предложить блокчейн-разработчикам, членам сообщества и более широкой аудитории экосистемы возможность для создания инновационных или перспективных идей, использующих инструменты индексации данных SubQuery с открытым исходным кодом для поддержки передовых децентрализованных приложений.
 
