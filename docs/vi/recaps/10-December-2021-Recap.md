@@ -52,17 +52,17 @@ Hiệu suất và độ tin cậy của dịch vụ được lưu trữ luôn l�
 2.  Hỗ trợ nhiều cụm
 3.  Định tuyến thông minh
 
-These services allow us to offer our premium service to more customers with confidence. We work with each customer to understand their business and goals, and then to set up a service to meet their needs. SubQuery is the largest data service provider in Polkadot, and these features show how we support thousands of community projects at the same time as the biggest projects in Polkadot. [Read more here](../blogs/20211228-enterprise-hosted.md)
+Những dịch vụ này cho phép chúng tôi tự tin cung cấp dịch vụ cao cấp của mình cho nhiều khách hàng hơn. Chúng tôi làm việc với từng khách hàng để hiểu mô hình hoạt động và mục tiêu của họ, sau đó thiết lập dịch vụ để đáp ứng nhu cầu của họ. SubQuery là nhà cung cấp dịch vụ dữ liệu lớn nhất trên Polkadot và các tính năng này cho thấy cách chúng tôi hỗ trợ hàng nghìn dự án cộng đồng cùng lúc với các dự án lớn nhất ở Polkadot. [Đọc thêm tại đây](../blogs/20211228-enterprise-hosted.md)
 
-## Community
+## Phát triển cộng đồng
 
-### The Hero Course
+### Khóa học Người Hùng
 
-A few months ago we released our first course to help blockchain developers upskill themselves for free. Now, we are pleased to announce that all modules of our [Hero Course](https://subquery.coassemble.com/unlock/dOKZW6O#/) have now been released.
+Một vài tháng trước, chúng tôi đã phát hành khóa học miễn phí đầu tiên của mình để giúp các nhà phát triển blockchain nâng cao kỹ năng bản thân. Giờ đây, chúng tôi vui mừng thông báo rằng tất cả các học phần của [ Khóa học Người Hùng ](https://subquery.coassemble.com/unlock/dOKZW6O#/) của chúng tôi hiện đã được phát hành.
 
-We recently added a quiz feature to enable students to earn the official certificate and are working with the Community to translate the course into various languages.
+Gần dây, chúng tôi đã thêm tính năng Giải Đố nhằm cho phép học viên lấy được chứng chỉ chính thức và chúng tôi cũng đang làm việc với Cộng Đồng để dịch khóa học sang nhiều ngôn ngữ khác nhau.
 
-### SubQuery Celebrates Winners of Encode Club Hackathon
+### SubQuery Chúc Mừng Những Người Chiến Thắng Cuộc Thi Encode Club Hackathon
 
 SubQuery was proud to partner with Acala for the Encode Club Hackathon last year to support the developer community and the next generation of Polkadot projects.
 
