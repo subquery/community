@@ -18,17 +18,17 @@
 
 Целта на SubQuery е да помогне на проектите на Polkadot/Substrate да изградят по-добри dApps, като позволят на всеки по-бързо и надеждно да намира и консумира данни. Нашата услуга ще позволи на потребителите първоначално да извличат, трансформират, запазват и заявяват данни, както и да свързват и представят данни в бъдеще. Нашата цел е да превърнем това в основна част от инфраструктурата на Substrate/Polkadot екосистемите, точно както The Graph се превърна за Ethereum.
 
-**SubQuery is here to help you transform and query the world’s data for a web3.0 future.**
+**SubQuery е тук, за да ви помогне да трансформирате и обработвате световните данни за бъдещето на Web3.0.**
 
 ![](https://miro.medium.com/max/1000/1*IHstJG-hBwQzicLdWkGR5w.png)
 
-For the Web 3.0 dream to be realised, it’s got to be as fast (if not faster) than centralised networks for the end user.
+За да се осъществи мечтата за Web 3.0, тя трябва да бъде толкова бърза (ако не и по-бърза), колкото централизираните мрежи за крайния потребител.
 
-That’s why we’re incredibly proud to announce SubQuery, an open source project that allows users to run an indexer across their chain to build a dataset that can be queried with GraphQL. This suite of tools includes a command line interface to allow projects to generate their own SubQuery project, defining how the indexer should traverse and aggregate their own network. There’s a SubQuery node package that indexes the network and supports GraphQL queries. With the help of these tools, anyone can create and run queries easily.
+Ето защо сме изключително горди да обявим SubQuery - проект с отворен код, който позволява на потребителите да стартират индексиращо устройство в своята верига, за да изградят набор от данни, който може да бъде заявен с GraphQL. Този набор от инструменти включва интерфейс на командния ред, който позволява на проектите да генерират собствен проект SubQuery, определящ как индексиращото устройство да обхожда и агрегира собствената им мрежа. Има пакет от възли SubQuery, който индексира мрежата и поддържа GraphQL заявки. С помощта на тези инструменти всеки може лесно да създава и изпълнява заявки.
 
-**You can get started right away by following our example on the SubQuery Github repository: [_https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql)**
+**Можете да започнете веднага, като следвате нашия пример в хранилището SubQuery Github: [_https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql)**
 
-Additionally, you can find out more by reading our [SubQuery docs](https://doc.subquery.network/) or visiting our new website at [https://subquery.network/](https://subquery.network/)
+Освен това можете да научите повече, като прочетете нашите документи [SubQuery](https://doc.subquery.network/) или посетите новия ни уебсайт на адрес [https://subquery.network/](https://subquery.network/)
 
 ![](https://miro.medium.com/max/1000/1*3oA1Hvns1vrImTsmowO_Jw.png)
 
