@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/0*R-MluHyL9bHAEboa)
 
-SubQuery с гордост обявява нашето партньорство с OAK Network, центъра за автоматизация на Web3 за DeFi и плащания. SubQuery's expertise will be used to provide greater insights for OAK when monitoring and observing blockchain activity for both OAK Network on Polkadot, the Turing Network on Kusama, as well as their Neumann testnet.
+SubQuery с гордост обявява нашето партньорство с OAK Network, центъра за автоматизация на Web3 за DeFi и плащания. Експертизата на SubQuery ще бъде използвана за предоставяне на по-добри прозрения за OAK при наблюдение и наблюдение на блокчейн активността както за OAK Network на Polkadot, така и за Turing Network на Kusama, както и тяхната тестова мрежа на Neumann.
 
 > _"SubQuery's mission to help teams create products that allow movement to a decentralized future aligns closely with OAK Network's own mission of bringing secure and trustless automation to the masses. SubQuery will serve as a valuable resource to accelerate development timelines and ensure the services which OAK supplies to the market are stable and observable."_ - David Finklestein , Head of Growth at OAK Network
 
