@@ -22,11 +22,11 @@ SubQuery đang tìm kiếm các ý tưởng sáng tạo hoặc có tiềm năng 
 
 ### SubQuery phát hành Tokenomics
 
-Trong Community Call gần đây nhất, chúng tôi đã lần đầu tiên chia sẻ chi tiết về tokenomics của mình bao gồm cả việc phân bổ và lịch trình mở khóa token. SubQuery sẽ có nguồn cung 10 tỷ SQT và được phân bổ theo cách thức sau.
+Trong Community Call gần đây nhất, chúng tôi đã lần đầu tiên chia sẻ chi tiết về tokenomics của mình bao gồm cả việc phân bổ và lịch trình mở khóa token. SubQuery sẽ có nguồn cung 10 tỷ SQT và được phân bổ như sau.
 
 ![](https://miro.medium.com/max/1400/1*304WkKdNhuf0nSBmTlOXyQ.png)
 
-We aim to establish SQT as the token which powers the SubQuery network, providing an incentive for participation, as well as serving as a medium of exchange for transactions within the SubQuery network. SQT will be the fuel for the web3 data revolution.
+Chúng tôi mong muốn thiết lập SQT làm token cho mạng SubQuery, khuyến khích sự tham gia của người dùng, cũng như đóng vai trò là một phương tiện trao đổi cho các giao dịch trong mạng SubQuery. SQT sẽ là động lực cho cuộc cách mạng dữ liệu web3.
 
 The exact details of when and how the SQT token will be allocated and distributed are still subject to finalisation, and will be announced closer to the public sale. For the listing of SQT, we are planning to be available on key decentralised (DEX) and centralised exchanges (CEX) to make it as easy as possible for everyone to participate in the SubQuery Network. [Read more here](../blogs/20211220-tokenomics.md)
 
