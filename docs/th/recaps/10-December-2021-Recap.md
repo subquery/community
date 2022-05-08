@@ -4,15 +4,15 @@
 
 ปีนี้ผ่านไปอย่างรวดเร็วและ SubQuery ก็เดินทางมาไกลมาก! นับตั้งแต่เดือนกุมภาพันธ์ 2021 เราได้ขยาย Community ของเราให้มีขนาดใหญ่ขึ้นเพื่อช่วยสนับสนุนโครงการหลายร้อยโครงการให้สร้างได้เร็วขึ้น และปรับขนาดบริการที่โฮสต์ของเราเพื่อจัดการคำขอ API หลายร้อยล้านรายการสำหรับโครงการชั้นนำใน Polkadot
 
-Read on for a message from Sam, and learn what we go up to in the final days of 2021!
+มาดูความเห็นจากแซมกัน ว่าเขาคิดเห็นอย่างไร และเราจะทำอะไรในช่วงสุดท้ายของปี 2021 นี้!
 
 ## SubQuery Network
 
-### SubQuery Launches $500,000 Grants Programme
+### SubQuery เปิดตัว Grants Programme มูลค่า $500,000
 
-In late December, we were proud to announce the launch of our USD$500,000 Grants Programme.
+เมื่อปลายเดือนธันวาคม เราภูมิใจที่จะประกาศเปิดตัว Grants Programme มูลค่า $500,000 ดอลลาร์สหรัฐ
 
-The vision of the [SubQuery Grants](https://subquery.network/grants) initiative is to offer key opportunities to blockchain developers, community members, and the wider ecosystem participants so they can create the next-generation of decentralized applications (dApps). These apps are expected to power the Polkadot-based solutions that will support Web 3.0, which is an evolving set of standards for the Internet of the future.
+วิสัยทัศน์ของโครงการ [SubQuery Grants](https://subquery.network/grants) คือการมอบโอกาสสำคัญให้กับนักพัฒนาบล็อกเชน สมาชิกในชุมชน และผู้เข้าร่วมใน ecosystem ที่กว้างขึ้น เพื่อให้พวกเขาสามารถสร้างแอปพลิเคชันกระจายอำนาจ (dApps) ยุคใหม่ แอพเหล่านี้คาดว่าจะขับเคลื่อนโซลูชั่นของ Polkadot ที่จะรองรับ Web 3.0 ซึ่งเป็นชุดมาตรฐานที่พัฒนาขึ้นสำหรับอินเทอร์เน็ตแห่งอนาคต
 
 <iframe width="680" height="382" src="https://www.youtube.com/embed/Gcu2syKYlB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
