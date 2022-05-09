@@ -1,8 +1,8 @@
-# Introducing SubQuery's Senior Ambassadors
+# 介绍SubQuery的高级大使
 
 ![](https://miro.medium.com/max/1400/0*E059TXajzXqkqW2g)
 
-SubQuery [launched an Ambassador programme](./20210713-Introducing-the-SubQuery-Ambassador-Program.md) in August 2021 to find community leaders who were passionate about the potential of SubQuery. Our goal was to find self-starters that could spread the word about SubQuery in their local areas and provide support to new developers who were building innovative dApps and services within our ecosystem.
+SubQuery [在2021年8月启动了一个大使方案](./20210713-Introducing-the-SubQuery-Ambassador-Program.md) ，以寻找那些热衷于SubQuery潜力的社区领导人。 我们的目标是找到能够在本地传播关于SubQuery的信息的自启动器，并为新开发者在 Polkadot 建造惊人的应用和服务提供支持。
 
 Within a short span of time, we were overwhelmed by the number and quality of applications from all over the world!
 
