@@ -34,7 +34,7 @@
 > > 
 > > [SubQuery](https://subquery.network/) это децентрализованный агрегатор данных, индексирующий уровень поисковых запросов между блокчейнами первого уровня и децентрализованными приложениями (DApps). В настоящее время ориентированы на проекты Polkadot и Substrate, эти данные как услуга позволяют разработчикам сосредоточиться на их основном роде деятельности и интерфейсе, не тратя время на создание настраиваемого внутреннего интерфейса для обработки данных.
 > > 
-> > [Вебсайт](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)
+> > [Веб-Сайт](https://subquery.network/) | [Почта](mailto:hello@subquery.network) | [Дискорд](https://discord.com/invite/78zg8aBSMG) | [Телеграм](https://t.me/subquerynetwork) | [Твиттер](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [GitHub](https://github.com/subquery)
 > > 
 > > ## **О Subvis.io**
 > > 
