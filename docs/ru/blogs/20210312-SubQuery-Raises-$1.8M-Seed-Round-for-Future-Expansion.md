@@ -28,7 +28,7 @@ OnFinality это команда за SubQuery, которые являются 
 
 - [hello@subquery.network](mailto:hello@subquery.network)
 - [Дискорд](https://discord.com/invite/78zg8aBSMG)
-- [Telegram](https://t.me/subquerynetwork)
+- [Телеграм](https://t.me/subquerynetwork)
 - [Твиттер](https://twitter.com/subquerynetwork)
 - [Матрица](https://matrix.to/#/#subquery:matrix.org)
 - [LinkedIn](https://www.linkedin.com/company/subquery)
