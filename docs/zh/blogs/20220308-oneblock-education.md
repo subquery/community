@@ -1,14 +1,14 @@
-# SubQuery Extends Partnership with OneBlock+ To Promote Blockchain Education in China
+# SubQuery扩大与OneBlock+的合作伙伴关系，在中国推广区块链教育
 
 ![](https://miro.medium.com/max/1400/0*vr-DzLokDkkiY4ss)
 
-Today we are excited to announce the continuation of our partnership with OneBlock+ to run a second round of the ["Hero Course"](https://doc.subquery.network/academy/herocourse/) in China starting in early April.
+今天，我们高兴地宣布，我们将继续与OneBlock+合作，从4月初开始在中国举办第二轮 ["英雄课程"](https://doc.subquery.network/academy/herocourse/)。
 
-SubQuery's mission of making the world's decentralised data more accessible relies on having a network of developers who are familiar with the solution. OneBlock+ are a recognised leader in blockchain education in China and helped us run a tailored version of our existing course renamed "SubQuery for Beginners --- To Learn Blockchain Data Indexing in an Easy Way."
+SubQuery使世界上的去中心化数据更容易获取的任务取决于是否有一个熟悉解决办法的开发者网络。 OneBlock+ 是中国区块链教育中公认的领先者，帮助我们运行我们现有课程的定制版本，其名称为“为初学者提供的SubQuery - 以简单的方式学习区块链数据索引”。
 
-The course took in 90 students who participated in six lessons running from 10th January until the graduation ceremony on 28 February. The first batch of students learnt via WeChat and live Technical Workshops as part of their regular Substrate Saturday programme. OneBlock+ also provided additional learning support to students via weekly "Office Hours" on Tencent's Conference platform.
+从1月10日至2月28日毕业典礼期间，有90名学生参加了这个课程。 第一批学生通过WeChat学习，作为他们常规的 Substrate 周六课程的一部分在现场技术讲习班。 OneBlock+还通过腾讯会议平台上的每周“办公时间”向学生提供额外的学习支助。
 
-> _"Thanks to OneBlock+ and SubQuery for creating such a great course. The curriculum is good and I was able to master the use of SubQuery by completing the course. I found it was difficult and complex for data indexing during the development of a project. When I was looking for solutions, I coincidentally got into the course. I felt that the SubQuery's framework was clear and easy to use, and my team and I had started developing with SubQuery since then which had greatly reduced our workload. SubQuery will be an important tool in our subsequent projects."_ - Peng, Student Representative
+> _"感谢OneBlock+ 和 SubQuery 创建了这么好的课程。 课程很好，我能够通过完成课程来掌握SubQuery的使用。 我发现，在开发一个项目期间，数据索引的工作很困难而且很复杂。 When I was looking for solutions, I coincidentally got into the course. I felt that the SubQuery's framework was clear and easy to use, and my team and I had started developing with SubQuery since then which had greatly reduced our workload. SubQuery will be an important tool in our subsequent projects."_ - Peng, Student Representative
 
 One Block+ developed the world's first substrate developers course with engineers from Parity Asia and are recognised as leaders in blockchain education within China and around the world.
 
