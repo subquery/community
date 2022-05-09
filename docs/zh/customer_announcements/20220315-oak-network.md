@@ -1,16 +1,16 @@
-# SubQuery Provides Data To OAK Network To Power DeFi Automation Hub
+# SubQuery将向OAK网络提供数据，以连接Power DeFi Automation Hub
 
 ![](https://miro.medium.com/max/1400/0*R-MluHyL9bHAEboa)
 
-SubQuery is proud to announce our partnership with OAK Network, the Web3 automation hub for DeFi and payments. SubQuery's expertise will be used to provide greater insights for OAK when monitoring and observing blockchain activity for both OAK Network on Polkadot, the Turing Network on Kusama, as well as their Neumann testnet.
+SubQuery很荣幸地宣布我们与OAK Network的合作关系，OAK Network是用于DeFi和支付的Web3自动化中心。 在Polkadot上的OAK网络、Kusama上的Turing网络以及他们的Neumann测试网区块链活动的监视和观察中，SubQuery的专业知识将被用来为OAK提供更深入的数据分析。
 
-> _"SubQuery's mission to help teams create products that allow movement to a decentralized future aligns closely with OAK Network's own mission of bringing secure and trustless automation to the masses. SubQuery will serve as a valuable resource to accelerate development timelines and ensure the services which OAK supplies to the market are stable and observable."_ - David Finklestein , Head of Growth at OAK Network
+> _“SubQuery的使命是帮助团队创造产品，使其能够向去中心化的未来发展，这与OAK Network自身的使命密切相关，即为大众带来安全可靠的自动控制。 SubQuery将作为一种宝贵的资源，加快开发进度，确保OAK向市场提供的服务具有稳定性和可见性。”_---David Finklestein, OAK Network发展部门主管
 
-By partnering with SubQuery, the development team at OAK will be able to aggregate, observe, and monitor the state of the OAK Virtual Machine, event registry, and automation tasks by their partners and end users. This mission critical information will inform OAK's business strategy and maintain best in class security and visibility within their own ecosystem.
+通过与SubQuery合作，OAK的开发团队将能够聚合、观察和监控OAK虚拟机、事件注册表的状态，以及合作伙伴以及用户的自动任务。 这些关键任务信息将为OAK的业务战略提供信息资源，并在其自身的生态系统中保持一流的安全性和可见性。
 
-> _"OAK Network's vision for a secure, trustless and decentralised system for automation of payments is strongly aligned with SubQuery's goals of the same for data. We are proud to be powering innovative Web3 solutions like OAK that will provide users with more control and create better outcomes as they become aware of the exciting possibilities that lie ahead"_ - James Bayly, Head of Business Development at SubQuery
+> _“OAK Network为支付自动化提供一个安全的、不依赖于信任的、去中心化的系统的愿景，与SubQuery在数据方面的目标是一致的。 我们很自豪能够为像OAK这样的创新型Web3解决方案提供支持，这将为用户提供更多的控制，并在他们的美好期待中创造出更好的结果。”_ - James Bayly。 SubQuery 企业发展主任
 
-OAK Network are currently preparing for the [launch of The Turing Network](https://oak.tech/turing/crowdloan/) (OAK's canary network on Kusama) parachain and crowdloan. OAK joins many of the leading parachain teams in Polkadot and Kusama who rely on SubQuery to provide mission critical data to their applications and utilise [enterprise level features](../blogs/20211228-enterprise-hosted.md) via our [managed service](https://project.subquery.network/).
+OAK网络目前正在准备 [推出Ting Network](https://oak.tech/turing/crowdloan/) (OECK canary network on Kusama) 平行链和众贷。 OAK joins many of the leading parachain teams in Polkadot and Kusama who rely on SubQuery to provide mission critical data to their applications and utilise [enterprise level features](../blogs/20211228-enterprise-hosted.md) via our [managed service](https://project.subquery.network/).
 
 You can find more information about OAK and the data they leverage from SubQuery via their project link https://project.subquery.network/project/irsal/neumann-monitoring.
 
