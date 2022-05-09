@@ -6,15 +6,15 @@ Herkese açık web sitesi genellikle insanların bir şirkete veya ürüne bakt�
 
 Web sitemizi iki ana nedenden dolayı yeniden tasarladık. Öncelikle, SubQuery'nin mevcut ilerlemesini ve veri indekslemede lider olma durumunu daha doğru bir şekilde yansıtmak için siteyi yenilememiz ve modernleştirmemiz gerekiyordu. Son web sitesi güncellememizden bu yana, SubQuery Network'ün yakında piyasaya sürülmesiyle önemli ölçüde geliştik. İkinci olarak, hızla genişleyen topluluğumuzla daha iyi bir marka izlenimi yaratmak için her zaman genel görsel kimliğimizi geliştirmek istiyoruz.
 
-Bir veri indeksleme projesi olan SubQuery, tamamen detaylarla ilgilidir. It's with this mentality that we chose this specific design and layout which emphasises moderate spacing between paragraphs for a more modern look and makes the content easier to read. Additionally, this provides page templates that are flexible and responsive, and that can be reused across the growing number of applications that SubQuery has. Combined, these updates give the user a much better experience navigating through what can be quite detailed and technical information.
+Bir veri indeksleme projesi olan SubQuery, tamamen detaylarla ilgilidir. Daha modern bir görünüm için paragraflar arasındaki orta mesafeyi vurgulayan ve içeriğin daha kolay okunmasını sağlayan bu özel tasarımı ve düzeni bu anlayışla seçtik. Ayrıca bu, esnek ve duyarlı olan ve SubQuery'nin sahip olduğu artan sayıda uygulamada yeniden kullanılabilen sayfa şablonları sağlar. Kombine olarak, bu güncellemeler, kullanıcıya oldukça ayrıntılı ve teknik bilgiler arasında gezinme konusunda çok daha iyi bir deneyim sunar.
 
 ![](https://miro.medium.com/max/1400/1*rqmuhuC5rdV7sZN2AwokZQ.png)
 
-Going back to first principles of website design, we kept the end-user firmly in our mind. In order to achieve our goal, we stuck to key principles such as establishing a strong visual hierarchy across elements such as typography and content grouping. Furthermore, given the subject matter it was important that we ensured that the content was accessible and responsive and didn't overwhelm the audience with too much information.
+Web sitesi tasarımının ilk ilkelerine dönerek son kullanıcıyı aklımızda tuttuk. Hedefimize ulaşmak için tipografi ve içerik gruplandırma gibi öğeler arasında güçlü bir görsel hiyerarşi oluşturmak gibi temel ilkelere bağlı kaldık. Ayrıca, konu göz önüne alındığında, içeriğin erişilebilir ve duyarlı olmasını ve izleyiciyi çok fazla bilgi ile boğmamasını sağlamamız önemliydi.
 
-Our UI design process went through five steps which gives us the opportunity to create user-centred design and successfully consider value based marketing principles.
+UI tasarım sürecimiz, bize kullanıcı merkezli tasarım oluşturma ve değer temelli pazarlama ilkelerini başarıyla değerlendirme fırsatı veren beş adımdan geçti.
 
-## Step 1: Empathise
+## Adım 1: Empati Yapın
 
 The goal during this stage is to understand who we design for. Creating customer personas are a good way to help represent a particular group of people with similar behaviour, needs, goals, and attitudes. This understanding allowed us to make the right decisions about product features, navigation, visual design, and much more.
 
