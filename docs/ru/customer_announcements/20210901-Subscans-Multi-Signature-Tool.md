@@ -1,6 +1,6 @@
 # Инструмент Multi-Signature от Subscan - на базе SubQuery
 
-![Подписка на заголовок.jpg](https://cdn-images-1.medium.com/max/1600/1*Xs3mJrvClJq3qBzWU48fjg.jpeg)
+![Subscan header.jpg](https://cdn-images-1.medium.com/max/1600/1*Xs3mJrvClJq3qBzWU48fjg.jpeg)
 
 Новый [ инструмент кошелька с несколькими подписями ](https://medium.com/r/?url=https%3A%2F%2Fmultisig.subscan.io%2F) от Subscan разработан, чтобы помочь другим участникам экосистемы Polkadot создавать учетные записи и транзакции с несколькими подписями и управлять ими. Он поддерживается программой [ Web3 Foundation Grants Program ](https://github.com/w3f/Grants-Program/blob/master/applications/multisignature_management_tool.md) и предоставляет удобные службы управления кошельком с несколькими подписями для нескольких сетей, основанных на Polkadot.
 
