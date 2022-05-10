@@ -26,15 +26,21 @@ Karura bietet auch ein ethisches und nachhaltiges Token-Verteilungsmodell sowie 
 
 ## Offene Tools für Karura DApp Builder
 
-Es liegt nun an der Karura-Community, die erste Community-dApp im DeFi-Hub von Kusama zu erstellen. Unten ist ein einfaches Beispiel dafür, wie Karura SubQuery verwenden kann, um die vergangenen Extrinsics (und die darin enthaltenen Transfers) für jedes Konto auf Karura zu finden und abzurufen --- Sie können sehen, dass dies vollständig online im [SubQuery explorer](https://explorer.subquery.network/subquery/AcalaNetwork/karura).
+Es liegt nun an der Karura-Community, die erste Community-dApp im DeFi-Hub von Kusama zu erstellen. Unten ist ein einfaches Beispiel dafür, wie Karura SubQuery verwenden kann, um die vergangenen Extrinsics (und die darin enthaltenen Transfers) für jedes Konto auf Karura zu finden und abzurufen --- Sie können sehen, dass dies vollständig online im
+
+SubQuery-Explorer<. erfolgt /0>.</p> 
 
 ![](https://cdn-images-1.medium.com/max/1600/0*t6stH0LeQC8M5fSp)
+
+
 
 ## Über SubQuery
 
 [SubQuery](https://subquery.network/) ist eine Datenaggregationsschicht, die zwischen den Schicht-1-Blockchains (Kusama) und Dapps (wie Kodadot) operiert. SubQuery ermöglicht den dApp-Entwicklern, On-Chain-Daten zu untersuchen und zu transformieren, um intuitive dApps schneller zu erstellen, ohne sich um die Erstellung oder Verwaltung benutzerdefinierter Backends für die Datenverarbeitung kümmern zu müssen. [Jetzt loslegen](https://doc.subquery.network/).
 
 [Webseite](https://subquery.network/) | [Dokumentation](https://doc.subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
+
+
 
 ## Über Karura
 
