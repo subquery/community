@@ -1,32 +1,32 @@
-# บทสรุปของเดือนธันวาคม 2021
+# December 2021 Recap
 
 ![](https://miro.medium.com/max/1400/1*-gXOf6qYQiYypDCVBeE1kg.png)
 
-ปีนี้ผ่านไปอย่างรวดเร็วและ SubQuery ก็เดินทางมาไกลมาก! นับตั้งแต่เดือนกุมภาพันธ์ 2021 เราได้ขยาย Community ของเราให้มีขนาดใหญ่ขึ้นเพื่อช่วยสนับสนุนโครงการหลายร้อยโครงการให้สร้างได้เร็วขึ้น และปรับขนาดบริการที่โฮสต์ของเราเพื่อจัดการคำขอ API หลายร้อยล้านรายการสำหรับโครงการชั้นนำใน Polkadot
+This year has absolutely flown by and SubQuery has come a long way! Since February 2021, we’ve grown a huge inclusive community, helped hundreds of projects to build faster, and scaled our hosted service to handle hundreds of millions of API requests for the top projects in Polkadot.
 
-มาดูความเห็นจากแซมกัน ว่าเขาคิดเห็นอย่างไร และเราจะทำอะไรในช่วงสุดท้ายของปี 2021 นี้!
+Read on for a message from Sam, and learn what we go up to in the final days of 2021!
 
 ## SubQuery Network
 
-### SubQuery เปิดตัว Grants Programme มูลค่า $500,000
+### SubQuery Launches $500,000 Grants Programme
 
-เมื่อปลายเดือนธันวาคม เราภูมิใจที่จะประกาศเปิดตัว Grants Programme มูลค่า $500,000 ดอลลาร์สหรัฐ
+In late December, we were proud to announce the launch of our USD$500,000 Grants Programme.
 
-วิสัยทัศน์ของโครงการ [SubQuery Grants](https://subquery.network/grants) คือการมอบโอกาสสำคัญให้กับนักพัฒนาบล็อกเชน สมาชิกในชุมชน และผู้เข้าร่วมใน ecosystem ที่กว้างขึ้น เพื่อให้พวกเขาสามารถสร้างแอปพลิเคชันกระจายอำนาจ (dApps) ยุคใหม่ แอพเหล่านี้คาดว่าจะขับเคลื่อนโซลูชั่นของ Polkadot ที่จะรองรับ Web 3.0 ซึ่งเป็นชุดมาตรฐานที่พัฒนาขึ้นสำหรับอินเทอร์เน็ตแห่งอนาคต
+The vision of the [SubQuery Grants](https://subquery.network/grants) initiative is to offer key opportunities to blockchain developers, community members, and the wider ecosystem participants so they can create the next-generation of decentralized applications (dApps). These apps are expected to power the Polkadot-based solutions that will support Web 3.0, which is an evolving set of standards for the Internet of the future.
 
 <iframe width="680" height="382" src="https://www.youtube.com/embed/Gcu2syKYlB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-ในขณะนี้ SubQuery กำลังมองหานวัตกรรม หรือ ideas ที่มีศักยภาพสูงซึ่งใช้ประโยชน์จากเครื่องมือ indexing โอเพนซอร์ซของ SubQuery เพื่อสนับสนุนแอปพลิเคชันล้ำสมัยที่แก้ไขปัญหาในบล็อกเชนหรือเทคโนโลยีบัญชีแยกประเภท (DLT) โดยเราสนใจแอปพลิเคชันที่ใช้งานง่ายเป็นพิเศษ ซึ่งจะปลดล็อกข้อมูลจาก Polkadot หรือ Parachains ซึ่งเป็นจุดเริ่มต้นที่ใช้งานง่ายในการเข้าสู่ ecosystem ของเรา ซึ่งเป้าหมายของเราคือการนำผู้ใช้หลายล้านคนเข้าสู่ ecosystem ของ Polkadot โดยช่วยนักพัฒนาสร้าง dApps ยุคใหม่ [อ่านเพิ่มเติมได้ที่นี่](../blogs/20211222-grants.md)
+SubQuery is looking for innovative or high-potential ideas that leverage SubQuery’s open-source data indexing tools to support cutting-edge applications that address problems in blockchain or distributed ledger technology (DLT) sector. We’re particularly interested in user friendly applications that unlock the data from Polkadot or parachains, providing an intuitive entry point into our ecosystem. Our aim is to bring millions of users into the Polkadot ecosystem by helping builders build the next generation of dApps. [You can read more here](../blogs/20211222-grants.md)
 
 ![](https://miro.medium.com/max/1400/1*tFm9pBCPmAet3WGiGjUtLg.png)
 
 ### SubQuery Releases Tokenomics
 
-ในช่วง Community Call ครั้งล่าสุด เราได้เปิดเผย Tokenomics ของเราเป็นครั้งแรก รวมถึงการจัดสรรและกำหนดการปลดโทเค็นด้วย โดย SubQuery จะมี supply ทั้งหมด 1 หมื่นล้าน SQT ซึ่งจะได้รับการจัดสรรดังรูป
+During our most recent Community Call we shared our high-level tokenomics for the first time including the allocations and vesting schedules. SubQuery will mint a supply of 10 billion SQT which will be allocated in the following manner.
 
 ![](https://miro.medium.com/max/1400/1*304WkKdNhuf0nSBmTlOXyQ.png)
 
-เราตั้งเป้าหมายที่จะสร้าง SQT โทเค็น เพื่อใช้ในการขับเคลื่อนเครือข่าย SubQuery ให้เป็นสิ่งจูงใจสำหรับผู้เข้าร่วม ตลอดจนทำหน้าที่เป็นสื่อกลางในการแลกเปลี่ยนสำหรับการทำธุรกรรมภายในเครือข่ายของ SubQuery โดย SQT โทเค็น จะเป็นเชื้อเพลิงสำหรับการปฏิวัติข้อมูล web3
+We aim to establish SQT as the token which powers the SubQuery network, providing an incentive for participation, as well as serving as a medium of exchange for transactions within the SubQuery network. SQT will be the fuel for the web3 data revolution.
 
 The exact details of when and how the SQT token will be allocated and distributed are still subject to finalisation, and will be announced closer to the public sale. For the listing of SQT, we are planning to be available on key decentralised (DEX) and centralised exchanges (CEX) to make it as easy as possible for everyone to participate in the SubQuery Network. [Read more here](../blogs/20211220-tokenomics.md)
 
@@ -50,7 +50,7 @@ The performance and reliability of our hosted service has been on the top of our
 
 1.  Dedicated Databases
 2.  Multiple Cluster Support
-3.  Intelligent Routing
+3.  การกำหนดเส้นทางอัจฉริยะ
 
 These services allow us to offer our premium service to more customers with confidence. We work with each customer to understand their business and goals, and then to set up a service to meet their needs. SubQuery is the largest data service provider in Polkadot, and these features show how we support thousands of community projects at the same time as the biggest projects in Polkadot. [Read more here](../blogs/20211228-enterprise-hosted.md)
 
@@ -117,6 +117,6 @@ Our partnership with Gitcoin reflects our commitment to provide opportunities fo
 
 As always, please [join our social channels](https://linktr.ee/subquerynetwork) (especially our [Discord](https://discord.com/invite/subquery)) to stay updated on our latest news and announcements.
 
-James, Sam, and the SubQuery Team
+James, Sam และทีม SubQuery
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
