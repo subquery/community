@@ -10,7 +10,7 @@ Frontend ini menggunakan [proyek SubQuery](https://explorer.subquery.network/sub
 
 ![](https://miro.medium.com/max/1400/0*3TdpXjj1iwGNdA3n)
 
-> “Awalnya kami harus menyadari seberapa banyak yang dilakukan SubQuery daripada Anda, jadi kami dapat sepenuhnya fokus pada arsitektur GraphQL dan logika konsolidasi NFT. Thanks to SubQuery, we are thinking now another feature set we can easily add over weekend"</em> — Kodadot
+> _“Awalnya kami harus menyadari seberapa banyak yang dilakukan SubQuery daripada Anda, jadi kami dapat sepenuhnya fokus pada arsitektur GraphQL dan logika konsolidasi NFT. Thanks to SubQuery, we are thinking now another feature set we can easily add over weekend"_ — Kodadot
 
 Layanan [SubQuery](https://subquery.network/) membantu Kodadot mengekstrak dan membuat kueri pada data on chain untuk NFT di Kusama, dan melakukannya dengan cara yang lebih hemat energi dan ramah karbon.
 
