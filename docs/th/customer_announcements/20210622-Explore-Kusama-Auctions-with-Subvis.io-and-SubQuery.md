@@ -31,11 +31,11 @@
 
 การเสนอราคา 3 รายการล่าสุดมาจาก Karura ทั้งหมดในสล็อต 13–20
 
-Subvis.io ใช้ [โปรเจกต์ SubQuery](https://project.subquery.network/) เพื่อจัดการโปรเจกต์ของตนเองและทำการอัปเดตเมื่อจำเป็น การจัดทำดัชนีและสืบค้นข้อมูล (query) สำหรับบริการนี้ได้รับการจัดการโดย SubQuery และให้บริการแก่ชุมชน Polkadot โดยไม่เสียค่าใช้จ่ายใน [SubQuery's Explorer](https://explorer.subquery.network/)
+Subvis.io ใช้ [โปรเจกต์ SubQuery](https://project.subquery.network/) เพื่อจัดการโปรเจกต์ของตนเองและทำการอัปเดตเมื่อจำเป็น การจัดทำดัชนีและสืบค้นข้อมูล (query) สำหรับบริการนี้ได้รับการจัดการโดย SubQuery และให้บริการแก่ชุมชน Polkadot โดยไม่เสียค่าใช้จ่ายใน [SubQuery’s Explorer](https://explorer.subquery.network/).
 
 [สำรวจชุดข้อมูล Subvis.io](https://explorer.subquery.network/subquery/subvis-io/kusama-auction)
 
-[SubQuery](https://subquery.network/) เป็นเลเยอร์การรวบรวมข้อมูลที่จะทำงานระหว่างบล็อคเชนเลเยอร์-1 (Kusama) และ DApps (เช่น Subvis.io) บริการนี้ช่วยให้นักพัฒนา DApp สามารถมุ่งเน้นไปที่การพัฒนาการใช้งานหลัก (core use case) และ front-end ของแอปโดยไม่ต้องเสียเวลาไปกับการสร้าง back-end ขึ้นเองสำหรับการประมวลผลข้อมูล
+[SubQuery](https://subquery.network/) เป็นเลเยอร์การรวบรวมข้อมูลที่จะทำงานระหว่างเลเยอร์-1 (Kusama) และ DApps (เช่น Subvis.io) บริการนี้ช่วยให้นักพัฒนา DApp สามารถมุ่งเน้นไปที่การพัฒนาการใช้งานหลัก (core use case) และ front-end ของแอปโดยไม่ต้องเสียเวลาไปกับการสร้าง back-end ขึ้นเองสำหรับการประมวลผลข้อมูล
 
 เรียนรู้เพิ่มเติมเกี่ยวกับ SubQuery
 
