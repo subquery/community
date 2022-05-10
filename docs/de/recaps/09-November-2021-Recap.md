@@ -50,9 +50,7 @@ Darüber hinaus konnte Scott diesen gesamten Workflow im [Moonbuilders-Workshop]
 
 ### Gitcoin Hackathon
 
-Direkt nach dem überwältigenden Erfolg des _Hero-Kurses_ der SubQuery Academy waren wir stolz darauf, Ihnen mit der
-
-Gitcoin Grants Round 12</1 unsere erste Hackathon-Gelegenheit für alle Entwickler anbieten zu können >, ab 1. Dezember.</p> 
+Hot on the heels of the overwhelming success of the SubQuery Academy’s _Hero Course_, we were proud to announce that we would be providing our first hackathon opportunity for all developers via [Gitcoin Grants Round 12](https://gitcoin.co/hackathon/gr12/?org=subquery) starting on December 1st.
 
 SubQuery hat 5 Kopfgelder mit einem Gesamtpreispool von bis zu 34.000 USD vorgeschlagen:
 
@@ -64,8 +62,6 @@ SubQuery hat 5 Kopfgelder mit einem Gesamtpreispool von bis zu 34.000 USD vorges
 
 [Sie können hier mehr über diese Prämien lesen.](https://blog.subquery.network/blogs/20211120-gitcoin12-hackathon.html)
 
-
-
 ### Analysis into the Polkadot Crowdloans
 
 SubQuery ist der führende Datenindexierungsdienst von Polkadot, und in der letzten Woche haben wir Millionen von täglichen Anfragen an die meisten Crowdloan-Dashboards, Beitrags-Apps und Analyse-Websites gestellt. Teams wie [**SubVis**](https://www.subvis.io/), [**Parallele Finanzen**](https://parallel.fi/), und [**DotMarketCap**](https://dotmarketcap.com/) verlassen sich auf SubQuery um Echtzeitdaten über Crowdloans und andere on-chain Daten direkt an ihre Websites und Apps zu liefern.
@@ -75,8 +71,6 @@ SubQuery ist der führende Datenindexierungsdienst von Polkadot, und in der letz
 ![](https://miro.medium.com/max/700/0*HfsoOwpat76ip6Jg)
 
 Wir haben kürzlich einen tiefen Einblick in die Polkadot-Crowdloans (insbesondere den Titelkampf zwischen Acala und Moonbeam) geworfen. [Sie sollten es hier lesen, falls Sie es noch nicht getan haben](https://blog.subquery.network/blogs/20211124-polkadot-crowdloans.html).
-
-
 
 ## Other things you might have missed
 
