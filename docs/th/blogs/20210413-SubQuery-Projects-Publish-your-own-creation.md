@@ -4,13 +4,13 @@
 
 SubQuery Projects
 
-วันนี้ เราจะเปิดตัว SubQuery เฟสต่อไป — [Projects](https://project.subquery.network) ภารกิจของ SubQuery คือการทำให้ข้อมูลรูปแบบกระจายอำนาจบนโลกสามารถเข้าถึงได้มากขึ้น ดังนั้นการประกาศในสัปดาห์นี้จึงเป็นเรื่องใหญ่สำหรับชุมชนของเรา!
+วันนี้ เราจะเปิดตัว SubQuery เฟสต่อไป — [Projects](https://project.subquery.network). ภารกิจของ SubQuery คือการทำให้ข้อมูลรูปแบบกระจายอำนาจบนโลกสามารถเข้าถึงได้มากขึ้น ดังนั้นการประกาศในสัปดาห์นี้จึงเป็นเรื่องใหญ่สำหรับชุมชนของเรา!
 
 
 
 ![](https://miro.medium.com/max/464/0*FTsLOuy0A4cWEwcp)
 
-[SubQuery Projects](https://project.subquery.network) คือสถานที่แห่งใหม่ที่คุณสามารถเผยแพร่โปรเจกต์ของคุณไปยังบริการของเราที่มีการจัดการดูแล เมื่อคุณเชื่อมต่อบัญชี GitHub แล้ว คุณจะสามารถแชร์โปรเจกต์ SubQuery กับผู้ใช้มากกว่า 500 คนบน [SubQuery Explorer](https://explorer.subquery.network/) ได้ในเวลาเพียงไม่กี่นาที โปรเจกต์ของคุณเองสามารถโฮสต์ออนไลน์ได้เช่นเดียวกับโปรเจกต์ SubQuery ที่มีอยู่ของเราจาก [Acala](https://explorer.subquery.network/subquery/OnFinality-io/acala-subql) และ [Bifrost](https://explorer.subquery.network/subquery/bifrost-finance/subql)
+[SubQuery Projects](https://project.subquery.network) คือสถานที่แห่งใหม่ที่คุณสามารถเผยแพร่โปรเจกต์ของคุณไปยังบริการของเราที่มีการจัดการดูแล เมื่อคุณเชื่อมต่อบัญชี GitHub แล้ว คุณจะสามารถแชร์โปรเจกต์ SubQuery กับผู้ใช้มากกว่า 500 คนบน [SubQuery Explorer](https://explorer.subquery.network/) ได้ในเวลาเพียงไม่กี่นาที โปรเจกต์ของคุณเองสามารถโฮสต์ออนไลน์ได้เช่นเดียวกับโปรเจกต์ SubQuery ที่มีอยู่ของเราจาก [Acala](https://explorer.subquery.network/subquery/OnFinality-io/acala-subql) และ [Bifrost](https://explorer.subquery.network/subquery/bifrost-finance/subql).
 
 คุณยังสามารถรักษาโปรเจกต์ SubQuery ของคุณให้เป็นส่วนตัวได้โดยการไม่แสดงใน Explorer ซึ่งเหมาะอย่างยิ่งหากคุณต้องการทดสอบมันแบบเป็นส่วนตัวโดยใช้โครงสร้างพื้นฐานที่มีการจัดการของเรา นอกจากนี้เรายังได้ผสานรวมกับ GitHub ซึ่งจะทำให้การสร้างโปรเจกต์ SubQuery ภายในบัญชีองค์กร GitHub ถูกแชร์กับสมาชิกในทีมของคุณโดยอัตโนมัติ
 
