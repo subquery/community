@@ -46,7 +46,7 @@ En nuestra opinión, la belleza de esta ecuación es que un indexador racional d
 
 Así pues, los indexadores están incentivados a trabajar lo máximo posible y a apostar lo máximo posible para maximizar sus recompensas. Aquí es donde entran los delegados.
 
-Los delegadores pueden delegar sus SQT sobrantes a los indexadores, cada indexador puede publicar una tasa de participación en los ingresos de la tasa de consulta</em>, y esos delegadores serán recompensados con una parte de los ingresos de la tasa de consulta en la que el indexador es recompensado.
+Los delegadores pueden delegar sus SQT sobrantes a los indexadores, cada indexador puede publicar una tasa de participación en los _ingresos de la tasa de consulta_, y esos delegadores serán recompensados con una parte de los ingresos de la tasa de consulta en la que el indexador es recompensado.
 
 ![](https://miro.medium.com/max/1400/1*YoN7PV7h3a2nAFN-ODqILg.png)
 
