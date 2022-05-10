@@ -18,25 +18,25 @@ SubQuery - это активный проект, который поддержи
 
 Наша цель всегда прислушиваться и взаимодействовать с нашим лояльным сообществом, поэтому пожалуйста, присоединяйтесь к разговору и отправьте нам ваши идеи или вопросы!
 
-### Официальные сообщества SubQuery
+### Official SubQuery Communities
 
 - [Linktree](https://linktr.ee/subquerynetwork)
-- [Discord](https://discord.com/invite/subquery) (Основное сообщество с выделенными каналами технической поддержки)
-- [Medium](https://subquery.medium.com) (Основной канал анонсов)
+- [Discord](https://discord.com/invite/subquery) (Primary Community with dedicated technical support channels)
+- [Medium](https://subquery.medium.com) (Primary announcements channel)
 - [Twitter](https://twitter.com/subquerynetwork)
 - [Telegram](https://t.me/subquerynetwork) (только канал объявлений)
 - [GitHub](https://github.com/SubQuery/subql)
 - [Matrix/Riot](https://matrix.to/#/#subquery:matrix.org)
 - [LinkedIn](https://www.linkedin.com/company/subquery)
 
-### Неофициальные сообщества SubQuery
+### Unofficial SubQuery Communities
 
-Эти сообщества не модерируются командой SubQuery, но наши амбассадоры могут быть там для оказания поддержки. Будьте осторожны с мошенниками, поскольку SubQuery ** не ** несет ответственности за то, что происходит внутри этих чатов.
+These communities are not moderated by the SubQuery team, but our ambassadors may be there to provide support. Please be careful of scams as SubQuery is **not** responsible for what happens within them.
 
-- [Telegram (Китайский)](https://t.me/subquerychina)
-- [Telegram (Русский)](https://t.me/SubQuery_russia)
-- [Telegram (Испанский)](https://t.me/SubQueryES)
-- [Telegram (Тайский)](https://t.me/subquerynetworkthai)
-- [Telegram (Турецкий)](https://t.me/subquery_TR)
-- [Telegram (Вьетнамский)](https://t.me/subqueryvietnam)
-- [Telegram (Вьетнамские объявления)](https://t.me/subqueryannvn)
+- [Telegram (Chinese)](https://t.me/subquerychina)
+- [Telegram (Russian)](https://t.me/SubQuery_russia)
+- [Telegram (Spanish)](https://t.me/SubQueryES)
+- [Telegram (Thai)](https://t.me/subquerynetworkthai)
+- [Telegram (Turkish)](https://t.me/subquery_TR)
+- [Telegram (Vietnamese)](https://t.me/subqueryvietnam)
+- [Telegram (Vietnamese Announcement)](https://t.me/subqueryannvn)
