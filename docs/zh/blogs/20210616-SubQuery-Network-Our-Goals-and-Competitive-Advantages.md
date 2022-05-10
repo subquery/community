@@ -1,4 +1,4 @@
-# SubQuery Network - Our Goals and Competitive Advantages
+# SubQuery Network - 我们的目标和竞争优势
 
 今天，我们将探讨 SubQuery 的目标, 以及我们认为使 SubQuery 网络优于竞争对手的一些竞争优势。
 
