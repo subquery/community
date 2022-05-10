@@ -1,10 +1,10 @@
-# The SubQuery Terra Onboarding Guide
+# SubQuery Terra İlk Katılım Kılavuzu
 
 ![](https://miro.medium.com/max/1400/1*DiTE9KuzH0xHLojzGWxOuw.png)
 
-For quite some time we have been developing and refining Terra support behind the scenes and testing it with key development launch partners (keep an eye out for announcements in the coming days). This prolonged period has allowed us to be extremely confident in the scalability, reliability, and features that SubQuery today brings to Terra. In this article we share a detailed developer guide and roadmap for all of the Terra community to use to solve their data indexing needs.
+Bir süredir Terra desteğini perde arkasında geliştiriyor ve iyileştiriyoruz ve bunu önemli geliştirme lansman ortaklarıyla test ediyoruz (önümüzdeki günlerde duyuruları takip edin). Bu uzun dönem, SubQuery'nin bugün Terra'ya getirdiği ölçeklenebilirlik, güvenilirlik ve özellikler konusunda son derece emin olmamızı sağladı. Bu makalede, tüm Terra topluluğunun veri indeksleme ihtiyaçlarını çözmek için kullanmaları için ayrıntılı bir geliştirici kılavuzu ve yol haritası paylaşıyoruz.
 
-SubQuery is an open data indexer that is flexible and fast. Our open indexing tool is designed to help developers build their own API in hours, and it's designed to index chains incredibly quickly with the assistance of dictionaries (pre-computed indices). Our experience with customers across all verticals in Polkadot (wallets, networks, explorers, NFT, DeFi, scanners, etc) has helped us build this.
+SubQuery, esnek ve hızlı bir açık veri dizinleyicisidir. Açık dizin oluşturma aracımız, geliştiricilerin saatler içinde kendi API'lerini oluşturmalarına yardımcı olmak için tasarlanmıştır ve sözlüklerin (önceden hesaplanmış dizinler) yardımıyla zincirleri inanılmaz derecede hızlı bir şekilde dizine eklemek için tasarlanmıştır. Polkadot'taki tüm sektörlerdeki (cüzdanlar, ağlar, kaşifler, NFT, DeFi, tarayıcılar, vb.) müşterilerle olan deneyimimiz bunu oluşturmamıza yardımcı oldu.
 
 This is still in its early versions, and while we consider far beyond a "beta", we would appreciate it if any bugs can be reported to our team so we can address them quickly.
 
