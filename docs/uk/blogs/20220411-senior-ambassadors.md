@@ -2,48 +2,48 @@
 
 ![](https://miro.medium.com/max/1400/0*E059TXajzXqkqW2g)
 
-SubQuery [запустив програму Ambassador](./20210713-Introducing-the-SubQuery-Ambassador-Program.md) у серпні 2021 року, щоб знайти лідерів спільноти, які були б захоплені потенціалом SubQuery. Наша мета полягала в тому, щоб знайти тих, хто розпочав роботу, які могли б розповсюдити інформацію про SubQuery у своїх локальних регіонах та надати підтримку новим розробникам, які створювали інноваційні додатки та сервіси в нашій екосистемі.
+SubQuery [launched an Ambassador programme](./20210713-Introducing-the-SubQuery-Ambassador-Program.md) in August 2021 to find community leaders who were passionate about the potential of SubQuery. Our goal was to find self-starters that could spread the word about SubQuery in their local areas and provide support to new developers who were building innovative dApps and services within our ecosystem.
 
-За короткий проміжок часу ми були приголомшені кількістю і якістю заявок з усього світу!
+Within a short span of time, we were overwhelmed by the number and quality of applications from all over the world!
 
-Після консультації з нашими початковими послами ми створили додаткову [Спартанську програму](./20211101-spartan-programme.md) як можливість для тих, хто пристрасний, отримати шанс стати послом. Програма Spartan повністю існує в нашій спільноті Discord, де початківці посли можуть виконувати щомісячні завдання та змагання, щоб отримати тег Spartan. Спартанці, які потім піднімуться на вершину свого класу, будуть рекомендовані що існує послами команди SubQuery, щоб приєднатися до їх лав.
+After consultation with our initial Ambassadors we created an additional [Spartan Programme](./20211101-spartan-programme.md) as an avenue for passionate individuals to have a chance to become an Ambassador. The Spartan Programme exists entirely within our Discord community, where aspiring Ambassadors can complete monthly tasks and competitions in order to earn the Spartan tag. The Spartans who then rise to the top of their class will be recommended by the existing Ambassadors to the SubQuery team to join their ranks.
 
-З моменту запуску програми Ambassador ми також визначили кількох осіб, які також досягли вищого рівня, і ми хотіли б офіційно подякувати та представити їх сьогодні! Будь ласка, зв’яжіться з ними через їхні соціальні мережі та щоб дізнатися більше про нашу програму Spartan and Ambassador, [приєднайтеся до нашого Discord](https://discord.com/invite/subquery).
+Since the launch of the Ambassador programme, we have also identified several individuals who have also attained a higher level and we would like to formally thank and introduce them today! Please feel free to connect with them via their social media handles and to find out more about our Spartan and Ambassador programme please [join our Discord](https://discord.com/invite/subquery).
 
 ![](https://miro.medium.com/max/1400/0*I0VcN-hdcTZzeA6l)
 
-Дмитро володіє англійською, українською, російською, болгарською та польською мовами та має понад 7 років досвіду в маркетингу та розвитку бізнесу. Його досвід проявляється в його ініціативі в організації заходів, проведенні онлайн-зустрічей з інфлюенсерами та його пропозиціях для спільноти.
+Dmytro speaks English, Ukrainian, Russian, Bulgarian and Polish and has over 7 years of experience in marketing and business development. His experience is evident in his initiative in organising events, holding online meetings with influencers and his suggestions for the community.
 
-Найголовніше, Дмитро цінує людей і любить ділитися знаннями, надавати можливості та об’єднувати людей спільною метою.
+Most importantly, Dmytro values people and enjoys sharing knowledge, providing opportunities, and uniting people with a common goal.
 
-> _Я шанувальник і ранній дослідник екосистеми Polkadot. Я вірю, що саме вони створять чудовий альманах Web3 майбутнього. Але для повного функціонування екосистеми нам потрібно відкрити світ доступних і швидких даних, і саме так я зустрів SubQuery 14 червня 2021 року. Якщо Polkadot - це тіло, то SubQuery - це пам'ять і серце. Для створення більш складних та інтуїтивно зрозумілих програм розробникам потрібні потужніші інструменти для обробки даних і запитів. SubQuery пропонує розробникам більше зосередитися на розробці програм і рішень для них. SubQuery's вірить, що розробники додатків змінять майбутнє, а SubQuery займатиметься підтримкою інфраструктури, що розвивається в геометричній прогресії."_ - Дмитро
+> _I am a fan and early explorer of the Polkadot ecosystem. I believe that it is they who will build the very great Web3 almanac of the future. But for the full functioning of the ecosystem, we need to open up a world of accessible and fast data and that's how I met SubQuery on June 14th, 2021. If Polkadot is the body, then SubQuery is memory and heart. For building more complex and intuitive applications, developers need more powerful tools for data processing and queries. SubQuery offers developers to focus more on the development of applications and solutions for them. SubQuery's believes that developers of applications will change the future while SubQuery will be engaged in maintenance of the exponentially growing infrastructure."_ - Dmytro
 
 ![](https://miro.medium.com/max/1400/0*fh2pBSbhmMkXWYqz)
 
-Нік має ступінь в галузі лінгвістики, що спеціалізується на німецькій філології та літературі, але також захоплюється маркетингом і менеджментом.
+Nick has a degree in linguistics specialising in Germanic philology and literature, but also has a passion for marketing and management.
 
-Він цікавився криптографією зі шкільних часів, але тільки в університеті вирішив поставитися до цього серйозно і зробити необхідні кроки для ознайомлення з криптофітом. Він вірив, що люди незабаром змінять своє ставлення до криптовалют і почнуть глибше в них заглядати, і ця тема стане дуже популярною і буденною.
+He was interested in crypto since his school days, but it was not until university that he decided to take it seriously and take the necessary steps to familiarise himself with the crypto world. He believed that people would soon change their attitude towards cryptocurrencies and start to look into it more deeply, and that this topic would become very popular and commonplace.
 
-Нік володіє чотирма мовами, англійською, німецькою, російською та українською, і має понад два роки успіху в управлінні спільнотою, командній співпраці, лідерстві та стратегічному плануванні. Його увага зосереджена на блокчейн-просторі, зокрема на технології DeFi та платформах смартконтрактів, які, на його думку, змінять світ.
+Nick speaks four languages, English, German, Russian and Ukrainian and has over two years of success in community management, team collaboration, leadership and strategic planning. His focus is on the Blockchain space, specifically DeFi technology and smart contract platforms, which he believes will change the world.
 
-> _"Я почав свою подорож у SubQuery близько року тому. Мені сподобалася історія проєкт, а також команда, цілі та, звичайно ж, технологія. Моє дослідження також показало, що SubQuery пропонує чудову програму професійного розвитку для членів спільноти, що, на мій погляд, свідчить про прихильність до колективного вдосконалення, яке я ціную. Члени команди були дуже чуйні та завжди готові допомогти новачкам з питаннями. Ось чому я відразу ж вирішив приєднатися до програми Ambassador. Це було правильне рішення, і тепер я дуже щасливий бути частиною такого чудового проєкт та стояти біля його джерела."_ - Нік
+> _"I started my journey in SubQuery about one year ago. I liked the story of the project as well as the team, the goals and of course the technology. My research also revealed that SubQuery offers a great professional development programme for community members, which to me indicates a commitment to collective improvement that I value. The team members were very responsive and always willing to help newbies with questions. That's why I immediately decided to join the Ambassador programme. It was the right decision, and now I am very happy to be a part of and stand at the origins of such a wonderful project."_ - Nick
 
 ![](https://miro.medium.com/max/1400/0*UAl7Xw8tJuJ44SrF)
 
-Пратхак — лікар, який цікавиться різними галузями, але найбільше його цікавлять інвестиції та технології.
+Prathak is a doctor who is interested in a variety of fields, but his greatest interest lies in investment and technology.
 
-Він дізнався про світ блокчейн, самостійно вивчаючи програмування під час навчання в університеті у вільний час. Його привернули до можливостей та потенціалу нових технологій та він глибоко захопився блокчейном, особливо DeFi та DAO. Інші улюблені теми для нього-штучний інтелект, ZKP і те, як блокчейн можна використовувати в середовищі, більш орієнтованої на конфіденційність.
+He learned about the world of blockchain while studying programming on his own during his university years in his free time. He was drawn to the possibilities and potential of new technologies and became deeply passionate about blockchain, especially DeFi and DAOs. Other favoured topics for him are artificial intelligence, ZKP and how blockchain can be used in a more privacy-focused environment.
 
-На додаток до його інтересу до блокчейну та нових технологій, що випливає з його досвіду розробки програмного забезпечення, він також володіє літературними та поетичними здібностями.
+In addition to his interest in blockchain and new technologies stemming from his software development background, he also has literary and poetic abilities.
 
-У вільний час він читає романи, комікси, регулярно займається вправами. У довгі вихідні він часто їздить на мотоциклі, щоб досліджувати природу та спосіб життя місцевих жителів. Він прагне мати позитивний вплив на інших, таких як його сім'я та друзі.
+In his spare time, he reads novels, comic books, and exercises regularly. On long weekends, he often goes out on a motorcycle to explore the nature and lifestyle of the local people. He aspires to have a positive influence on others such as his family and friends.
 
-Як посол SubQuery, він хоче використати цю можливість для створення навчального ресурсу з відкритим вихідним кодом щодо додатків blockchain. Він передбачає, що ресурс включатиме не лише інструкції зі створення dapp для новачків, а й наукові дослідження з таких предметів, як AI та ZKP.
+As a SubQuery Ambassador, he desires to use this opportunity to create an open-source instructional resource regarding blockchain applications. He envisions the resource to involve not just instructions on dapp creation for novices, but also scientific research on subjects such as AI and ZKP.
 
-> _"Окрім того факту, що команда та спільнота SubQuery чудові. Причина, чому мені подобається SubQuery, полягає в тому, що я бачу великий потенціал, який SubQuery принесе у світ блокчейну. Можливість доступу та аналізу даних на блокчейні дуже важлива для виходу блокчейн на новий рівень. Особливо зараз, коли дані цінніші за золото."_ - Пратхак
+> _"Aside from the fact that the SubQuery team and community are amazing. The reason I like SubQuery is because I see the great potential that SubQuery will bring to the blockchain world. Being able to access and analyze data on blockchain is very important in taking blockchain to the next level. Especially now that data is more valuable than gold."_ - Prathak
 
-## Про SubQuery
+## About SubQuery
 
-[SubQuery](https://subquery.network) — це набір інструментів розробника блокчейну, який дає змогу іншим створювати додатки Web3 майбутнього. Проєкт SubQuery — це повний API для організації та запиту даних із ланцюжків рівня 1. Наразі обслуговуючи проєкт Polkadot , Substrate й Avalanche, ця послуга даних як послуга дозволяє розробникам зосередитися на своєму основному варіанті використання та інтерфейсі, не витрачаючи час на створення спеціального сервера для обробки даних. SubQuery Network пропонує ввімкнути те саме масштабоване та надійне рішення, але повністю децентралізованим способом.
+[SubQuery](https://subquery.network) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot , Substrate and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
-[Дерево посилань](https://linktr.ee/subquerynetwork) | [Вебсайт](https://subquery.network/) | [Розлад](https://discord.com/invite/78zg8aBSMG) | [Телеграма](https://t.me/subquerynetwork) | [Твіттер](https://twitter.com/subquerynetwork) | [Матриця](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
