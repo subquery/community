@@ -12,7 +12,7 @@ Una de las mejores partes de esta herramienta de inteligencia de negocios es que
 
 
 
-> _"We founded DappLooker to make blockchain data accessible so even non-technical users can easily create charts and dashboards to visualise information. Thanks to the SubQuery Grants Programme we are now able to provide more value to the Polkadot ecosystem with our integration and we can't wait to see how people use it. As we progressed through our Grant milestones, the SubQuery team were fantastic to work with as they solved any query we had including solving technical challenges very quickly."_ - Abhinav, Co-Founder, DappLooker
+> _Fundamos DappLooker para hacer los datos de la blockchain accesible de tal manera que incluso usuarios menos avanzados puedan crear facilmente graficos y paneles para visualizar la información. Thanks to the SubQuery Grants Programme we are now able to provide more value to the Polkadot ecosystem with our integration and we can't wait to see how people use it. As we progressed through our Grant milestones, the SubQuery team were fantastic to work with as they solved any query we had including solving technical challenges very quickly."_ - Abhinav, Co-Founder, DappLooker
 
 Si bien los informes y análisis anteriores pueden haber quedado fuera del alcance como un elemento prioritario, esta integración brinda a los proyectos la capacidad de escribir consultas SQL para crear información invaluable utilizando el editor visual fácil de usar de Dapplooker.
 
