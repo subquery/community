@@ -1,47 +1,47 @@
-# Анонс нового сайту SubQuery
+# Announcing SubQuery's New Website
 
 ![](https://miro.medium.com/max/1400/0*AnB_ILxq6i0kKz2Y)
 
-Вебсайт часто є першим, що люди бачать і відвідують під час перегляду компанії чи продукту. Це може створити стійке перше враження, відбити бренд у вашій пам’яті та передати історію того, що ми робимо. Сьогодні нам приємно повідомити про новий і покращений дизайн веб-сайту для SubQuery.
+The public website is often the first thing people see and visit when looking at a company or product. It can create a lasting first impression, imprint a brand in your memory, and communicate the story behind what we do. Today we are excited to announce a new and improved website design for SubQuery.
 
-Ми переробили свій сайт з двох основних причин. По-перше, нам потрібно було оновити та модернізувати сайт, щоб точніше відображати поточний прогрес SubQuery та його статус лідера в індексації даних. Після нашого останнього оновлення веб-сайту ми значно розвинулися завдяки запуску мережі SubQuery. По-друге, ми завжди хочемо покращувати нашу загальну візуальну ідентичність, щоб створити краще враження про бренд у нашій спільноті, яка швидко розширюється.
+We redesigned our website for two main reasons. Firstly we needed to refresh and modernise the site to reflect more accurately the current progress of SubQuery and its status as a leader in data indexing. Since our last website update, we have evolved significantly with the impending launch of the SubQuery Network. Secondly, we always want to improve our overall visual identity to create a better brand impression with our rapidly expanding community.
 
-SubQuery, будучи проектом індексації даних, стосується деталей. Саме з такою ментальністю ми вибрали цей специфічний дизайн та макет, який підкреслює помірний інтервал між абзацами для більш сучасного вигляду та полегшує читання вмісту. Крім того, він надає шаблони сторінок, які є гнучкими та респонсивними, і які можна повторно використовувати для зростаючого числа додатків SubQuery. У поєднанні ці оновлення дають користувачеві набагато кращий досвід у навігації через досить детальну та технічну інформацію.
+SubQuery, being a data indexing project, is all about the details. It's with this mentality that we chose this specific design and layout which emphasises moderate spacing between paragraphs for a more modern look and makes the content easier to read. Additionally, this provides page templates that are flexible and responsive, and that can be reused across the growing number of applications that SubQuery has. Combined, these updates give the user a much better experience navigating through what can be quite detailed and technical information.
 
 ![](https://miro.medium.com/max/1400/1*rqmuhuC5rdV7sZN2AwokZQ.png)
 
-Повертаючись до перших принципів дизайну веб-сайтів, ми твердо пам’ятали про кінцевого користувача. Щоб досягти нашої мети, ми дотримувались таких ключових принципів, як встановлення міцної візуальної ієрархії між елементами, такими як типографіка та групування вмісту. Крім того, враховуючи тему, було важливо, щоб вміст був доступним і респонсивним і не перевантажував аудиторію великою кількістю інформації.
+Going back to first principles of website design, we kept the end-user firmly in our mind. In order to achieve our goal, we stuck to key principles such as establishing a strong visual hierarchy across elements such as typography and content grouping. Furthermore, given the subject matter it was important that we ensured that the content was accessible and responsive and didn't overwhelm the audience with too much information.
 
-Наш процес розробки інтерфейсу користувача проходив п’ять кроків, що дає нам можливість створити орієнтований на користувача дизайн та успішно врахувати значущі маркетингові принципи.
+Our UI design process went through five steps which gives us the opportunity to create user-centred design and successfully consider value based marketing principles.
 
-## Крок 1: Емпатизація
+## Step 1: Empathise
 
-Мета на цьому етапі - зрозуміти, для кого ми створюємо дизайн. Створення особистого характеру клієнтів є хорошим способом представити конкретну групу людей з подібною поведінкою, потребами, цілями та ставленням. Таке розуміння дозволило нам приймати правильні рішення про функції продукту, навігацію, візуальний дизайн та багато іншого.
+The goal during this stage is to understand who we design for. Creating customer personas are a good way to help represent a particular group of people with similar behaviour, needs, goals, and attitudes. This understanding allowed us to make the right decisions about product features, navigation, visual design, and much more.
 
-## Крок 2: Визначення
+## Step 2: Define
 
-Наступним кроком було визначення цих уявлень, здобутих на стадії емпатизації, ми шукали визначення потреб наших користувачів, проблем та розуміння. Ще раз, цей процес полягає в тому, щоб краще розуміти саме те, що потрібно нашим користувачам, перш ніж ми почнемо розуміти, що нам необхідно.
+The next step was to define these insights identified in the Empathise stage, we looked to define our users needs, problems, and insights. Once again, this process is to have a better understanding of exactly what our users need before we start looking to provide what we think they need.
 
-## Крок 3: Ідея
+## Step 3: Ideate
 
-Виходячи з попередніх двох етапів, ми шукали різні варіанти дизайну, розглядаючи користувача за кожним прийнятим рішенням.
+Based on the previous two steps we then looked to ideate various different design options making sure to consider the user with every decision made.
 
-## Крок 4: Прототип
+## Step 4: Prototype
 
-Проходячи через процес ідеї, ми шукали зразки конкретних дизайнів, які, на нашу думку, найкраще відображають потреби наших користувачів і найкраще вирішують проблеми, які вони мають.
+After going through the ideation process we looked to prototype specific designs we think best reflect the needs of our users and best solve the problems they have.
 
-## Крок 5: Тестування
+## Step 5: Test
 
-Останньою стадією нашого процесу було тестування прототипів, які ми спроектували. Це дозволило нам гарантувати, що здійснені нами зміни є ефективними.
+The final stage of our process was to test the prototypes we had designed. This allowed us to ensure that the changes we have made are effective.
 
 ![](https://miro.medium.com/max/1400/1*AMO1WP2Yg1MtNht22gIeaw.png)
 
-> _"SubQuery має сміливі амбіції і нам потрібна візуальна ідентифікація, яка відображає це бачення. Модернізуючи наш макет та покращуючи візуальну ієрархію новими типографіями та кольорами, ми надаємо відвідувачам сайту новий досвід та уявлення про SubQuery. Особисто Я великий фанат нових ілюстрацій, які були створені для нашого тестування Frontier через те, що вони створюють додатковий вимір в еволюції історії нашого бренду"_ - Кессі Ванг, Дизайнер UX у SubQuery
+> _"SubQuery has bold ambitions and we needed an updated visual identity that reflects that vision. By modernising our layout and improving the visual hierarchy with new typography and colours, we provide our website visitors a fresh experience and insight into SubQuery. Personally, I'm a big fan of the new illustrations which were created for our Frontier testnet as they create an extra dimension in the evolution of our brand story"_ - Cassie Wang, UX Designer at SubQuery
 
-Ми сподіваємося, що Вам сподобається веб-сайт як і нам! Перегляньте сьогодні на https://subquery.network
+We hope you enjoy the website as much as we do! Take a look today at https://subquery.network
 
-## Про SubQuery
+## About SubQuery
 
-[SubQuery](https://subquery.network) — це набір інструментів блокчейн розробника, який дає змогу іншим створювати веб-додатки майбутнього. Проект SubQuery — це повний API для організації та запиту даних із Layer-1 мереж. Наразі, обслуговуючи проекти Polkadot, Substrate і Avalanche, ці дані-як-послуга (data-as-a-service) дозволяє розробникам зосередитися на своєму основному варіанті використання та інтерфейсі, не витрачаючи час на створення спеціального сервера для обробки даних. SubQuery Network пропонує ввімкнути те саме масштабоване та надійне рішення, але повністю децентралізованим способом.
+[SubQuery](https://subquery.network) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from Layer-1 chains. Currently servicing Polkadot, Substrate, and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
