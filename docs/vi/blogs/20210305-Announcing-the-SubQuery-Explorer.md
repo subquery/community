@@ -1,8 +1,8 @@
 # Công bố SubQuery Explorer
 
-Kể từ khi công bố SubQuery với thế giới chỉ một tháng trước, phản hồi mà chúng tôi nhận được từ cộng đồng Polkadot đã rất tích cực. Chúng tôi đã thu hút được hàng nghìn người theo dõi trên các kênh của mình và đã có hơn 1.353 lượt cài đặt từ NPM. Chúng tôi được truyền cảm hứng khi nhận được tất cả các thông điệp ủng hộ và thấy được sự tương tác từ cộng đồng. ** Đã đến lúc chúng ta nên đền đáp một điều gì đó! **
+Kể từ khi công bố SubQuery với thế giới chỉ một tháng trước, phản hồi mà chúng tôi nhận được từ cộng đồng Polkadot đã rất tích cực. Chúng tôi đã thu hút được hàng nghìn người theo dõi trên các kênh của mình và đã có hơn 1.353 lượt cài đặt từ NPM. Chúng tôi được truyền cảm hứng khi nhận được tất cả các thông điệp ủng hộ và thấy được sự tương tác từ cộng đồng. **Đã đến lúc chúng ta nên đền đáp một điều gì đó!**
 
-Chúng tôi đã làm việc ngoài giờ trong tháng trước để phát hành giai đoạn quan trọng tiếp theo trong lộ trình của chúng tôi cho SubQuery. Hôm nay, chúng tôi sẽ thông báo về việc phát hành [ SubQuery Explorer. ](https://explorer.subquery.network/)
+Chúng tôi đã làm việc thêm giờ trong tháng trước để phát hành giai đoạn quan trọng tiếp theo trong lộ trình của chúng tôi cho SubQuery. Hôm nay, chúng tôi sẽ thông báo về việc phát hành [SubQuery Explorer](https://explorer.subquery.network/)
 
 ![](https://miro.medium.com/max/1400/0*2bDaF3HPgNkpm8Kt)
 
@@ -24,7 +24,7 @@ Bạn có thể nhanh chóng tìm thấy tổng doanh thu staking của bất k�
 
 ## **Validator Threshold SubQuery Project (**[Mã nguồn dự án trên GitHub](https://github.com/subquery/subql-examples/tree/main/validator-threshold))
 
-Bạn có thể nhanh chóng thấy số lượng staking tối thiểu cần thiết để 1 validator được bầu. Dự án này là một ví dụ tuyệt vời về việc triển khai các trạng thái truy vấn trong hàm ánh xạ. Đầu tiên, nó tìm thấy các địa chỉ staking đang hoạt động thông qua một truy vấn trạng thái và ghi lại số tiền staking. Sau đó, nó sẽ tính toán số tiền staking tối thiểu và tổng số tiền staking trong chu kỳ này. Cuối cùng, nó ghi lại số lượng người được đề cử tối đa có thể được thưởng.
+Bạn có thể nhanh chóng thấy số lượng staking tối thiểu cần thiết để 1 validator được bầu. Dự án này là một ví dụ tuyệt vời về việc triển khai các trạng thái truy vấn trong hàm ánh xạ. Đầu tiên, nó tìm thấy các địa chỉ staking đang hoạt động thông qua một truy vấn trạng thái và ghi lại số tiền staking. Sau đó, nó sẽ tính toán số tiền staking tối thiểu và tổng số tiền staking trong chu kỳ này. Cuối cùng, nó ghi lại số lượng người được đề cử tối đa có thể được thưởng.
 
 SubQuery Explorer chỉ là phần đầu tiên trong kế hoạch của chúng tôi để xây dựng một trung tâm cộng đồng cho dữ liệu Polkadot. Chúng tôi sẽ theo đuổi các tính năng sau:
 
