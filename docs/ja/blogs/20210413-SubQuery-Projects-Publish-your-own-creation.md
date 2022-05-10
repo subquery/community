@@ -1,43 +1,43 @@
-# SubQuery Projects — あなた自身の作品を公開します!
+# SubQuery Projects — Publish your own creation!
 
 ![](https://miro.medium.com/max/1400/0*Jhkt10DyMiptFocJ)
 
-サブクエリプロジェクト
+SubQuery Projects
 
-本日、SubQuery の次のフェーズを開始します — [Projects](https://project.subquery.network)。 SubQueryの使命は、世界中の分散型データにアクセスしやすくすることです。今週のお知らせは私たちのコミュニティにとって大きなものです！
+Today we’re launching the next phase of SubQuery — [Projects](https://project.subquery.network). SubQuery’s mission is to make the world’s decentralised data more accessible, so this announcement this week is huge for our community!
 
 
 
 ![](https://miro.medium.com/max/464/0*FTsLOuy0A4cWEwcp)
 
-[SubQuery Projects](https://project.subquery.network) は、管理されたサービスにプロジェクトを公開できる新しい場所です。 GitHubアカウントを接続すると、[SubQuery Explorer](https://explorer.subquery.network/)の500人以上のユーザーにSubQueryプロジェクトを共有するのに数分しかかかりません。 あなた自身のプロジェクトは、 [Acala](https://explorer.subquery.network/subquery/OnFinality-io/acala-subql) と [Bifrost](https://explorer.subquery.network/subquery/bifrost-finance/subql) から、既存の SubQuery プロジェクトのすぐ隣にオンラインでホストできます。
+[SubQuery Projects](https://project.subquery.network) is the new place where you can publish your projects to our managed service. Once you connect your GitHub account, you’re only minutes away from sharing your SubQuery project to over 500 users of the [SubQuery Explorer](https://explorer.subquery.network/). Your own project can be hosted online right next to our existing SubQuery projects from [Acala](https://explorer.subquery.network/subquery/OnFinality-io/acala-subql) and [Bifrost](https://explorer.subquery.network/subquery/bifrost-finance/subql).
 
-エクスプローラに表示しないことで、SubQuery プロジェクトを非公開にすることもできます。 管理されたインフラを使って個人的にテストしたいなら完璧です。 さらに、GitHub と統合されているため、GitHub 組織アカウント内で SubQuery プロジェクトを作成すると、チームメンバーと自動的に共有されます。
+You can also keep your SubQuery project private by not showing it in the Explorer, perfect if you want to privately test it using our managed infrastructure. Additionally, we’re integrated with GitHub, so creating a SubQuery project within a GitHub organisation account will automatically share it with your team members.
 
 
 
 ![](https://miro.medium.com/max/1400/1*IupCbHA6aaal26sYbK-Hbw.png)
 
-チュートリアルと例
+Creating a new SubQuery Project
 
-新しいプロジェクトを公開し、展開したら。 GraphQLエンドポイント経由で操作したり、 [エクスプローラーのプレイグラウンド](https://explorer.subquery.network/)で遊ぶことができます。 SubQueryを使用して、今すぐ次のdAppで分散データをアンロックできるように、本番アプリケーションのように実行します。
+Once you’ve published and deployed your new project, you can interact with it over our GraphQL endpoint or simply play in our [Explorer playground](https://explorer.subquery.network/)! We’ll run it like it’s a production application, so you can unlock your decentralized data in your next dApp today using SubQuery.
 
 
 
 ![](https://miro.medium.com/max/1400/1*Re6uHuy05UzWttfWQBM6hg.png)
 
-新しい公開されたSubQueryプロジェクト
+A new published SubQuery Project
 
-SubQueryノードを実行することは心配しないでください。エキスパートに任せてください。 インデックスサーバーの管理に焦点を当てます。
+Don’t worry about running production SubQuery nodes, leave it to the experts. We’re going to focus on managing indexing servers so that you don’t have to.
 
-## もっと詳しく
+## Learn More
 
-[ガイドに従って、](https://doc.subquery.network/publish/publish.html) [SubQuery Projects](https://project.subquery.network) で最初のプロジェクト
+[Follow our guide to publish your first project](https://doc.subquery.network/publish/publish.html) on [SubQuery Projects](https://project.subquery.network)
 
-新しい [SubQuery Explorer](https://explorer.subquery.network/) でデータのクエリを開始する
+Start querying data on the new [SubQuery Explorer](https://explorer.subquery.network/)
 
-[SubQueryドキュメント](https://doc.subquery.network/)に従って、独自のSubQueryプロジェクトを構築してください
+Build your own SubQuery project by following our [SubQuery docs](https://doc.subquery.network/)
 
-[Email](https://subquery.network/) | [Discord](mailto:hello@subquery.network) | [Telegram](https://discord.com/invite/78zg8aBSMG) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://t.me/subquerynetwork) | [LinkedIn](https://matrix.to/#/#subquery:matrix.org)
+[Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Twitter](https://twitter.com/subquerynetwork) | [Telegram](https://t.me/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
 
 ![](https://miro.medium.com/max/1400/0*4Yetj66AO5gHV2rt)
