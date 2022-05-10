@@ -1,27 +1,27 @@
-# サブクエリは辞書でもっと速くなりました
+# SubQuery Just Got a Lot Faster with the Dictionary
 
 ![](https://miro.medium.com/max/1400/1*iEQbr-KZNIkztylVowAuaQ.png)
 
-本日、SubQueryの辞書インデックス機能の改善点を発表いたしました。
+Today we are proud to announce our new improvement to SubQuery, SubQuery’s Dictionary indexing feature.
 
-SubQuery辞書は、プロジェクトのスピードアップについてです。 SubQuery Projectのパフォーマンスを劇的に向上させます。 **場合によっては最大 10 倍速くなることがあります。**
+The SubQuery Dictionary is all about speeding up your Projects. It dramatically improves indexing the performance of your SubQuery Project, **sometimes up to 10x faster.**
 
-チェーンデータのインデックス作成時、各ブロックを検査するために使用されるSubQuery Projects。 ポルカドットのチェーンは、約600万ブロックにわたって130GBの非構造化データです。 インデックス作成には多くの時間がかかります。特にテスト時には、待ちたくない時間があります。
+When indexing chain data, SubQuery Projects used to inspect each block. Polkadot’s chain is large, 130GB of unstructured data over almost 6 million blocks. This takes many hours to index, time that you don’t want to wait for — especially when testing.
 
-SubQuery プロジェクトには、これらすべてをスキップするオプションがあります。基本的には、チェーン内のすべてのイベントの位置をインデックス前に作成します。
+SubQuery projects now have the option to skip all this, we essentially pre-index the location of all events within a chain.
 
 ![](https://miro.medium.com/max/1400/1*uIjz8W4TG9Q0au9zoKbHVw.png)
 
-データが一般的な発生ではなく、その代わりにチェーンに点在する場合、パフォーマンスが最も向上します。 データが稀なように、辞書はブロックを多くスキップするため、パフォーマンスへの影響が大きくなります。
+Performance is improved the most when the data is not a common occurrence, but instead interspersed along the chain, as if the data is rare, the Dictionary skips more blocks, and therefore the impact on performance is greater.
 
-辞書エンドポイントは、 [実行時に指定された](https://doc.subquery.network/create/manifest.html)の [project.yamlファイル](https://doc.subquery.network/run/run.html#using-a-dictionary)に追加することができます。 さらに、 [SubQuery Projects](https://project.subquery.network/) でプロジェクトを実行するときに、このエンドポイントを上書きすることもできます。
+The Dictionary endpoint can be added in [your ‘project.yaml’ file](https://doc.subquery.network/create/manifest.html), or alternatively [specified at run time](https://doc.subquery.network/run/run.html#using-a-dictionary). Additionally, you can also override this endpoint when running your Project in [SubQuery Projects](https://project.subquery.network/).
 
 ![](https://miro.medium.com/max/1400/1*xl4wENAv_oNingDQZyrtyw.png)
 
-辞書の詳細はこちら [役立つドキュメント](https://doc.subquery.network/run/run.html#using-a-dictionary)をご覧ください。
+You can read more about the dictionary in our [helpful documentation here](https://doc.subquery.network/run/run.html#using-a-dictionary).
 
-SubQuery は、Polkadot/Substrate dApp で利用可能な最高のデータインデックス化オプションだと信じています。 SubQueryの辞書のこの新しい実装により、SubQueryプロジェクトのインデックス作成プロセスを高速化することで、サービスをさらに改善することができます。
+We believe SubQuery is the best data indexing option available for any Polkadot/Substrate dApp, and this new implementation of SubQuery’s Dictionary allows us to further improve our service by speeding up the indexing process for your SubQuery Projects.
 
-[SubQuery Projects](https://project.subquery.network/) で自分で試すか、 [エクスプローラー](https://explorer.subquery.network/) で辞書を表示することができます。 既存のプロジェクトで 辞書を使用するには、 [@subql/cli](https://www.npmjs.com/package/@subql/cli) のバージョンが 0.10.0 以上である必要があります。
+You can try it yourself in [SubQuery Projects](https://project.subquery.network/) or view the dictionaries themselves in [our explorer](https://explorer.subquery.network/). In order to use a Dictionary in your existing project, your [@subql/cli](https://www.npmjs.com/package/@subql/cli) version must be at least 0.10.0
 
 ![](https://miro.medium.com/max/1400/1*CrbWsx1rFiBNjkCepxbkPQ.png)
