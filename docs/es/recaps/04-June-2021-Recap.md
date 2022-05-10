@@ -1,43 +1,43 @@
-# June 2021 Recap
+# Resumen Junio 2021
 
-## Things are getting busy 🔥
+## Las cosas se están poniendo 🔥
 
-In this monthly update:
+Actualización en este mes:
 
-- Whitepaper Release 🎊
-- Team Expansion 👩💻
-- Staging Deployments 📥
-- SubQuery Dictionary Service 📖
-- Improving our Reach in China 🇨🇳
+- Lanzamiento del Whitepaper 🎊
+- Expansión del equipo 👩💻
+- Despliegues en etapas 📥
+- Servicio de diccionario de SubQuery 📖
+- Mejorar nuestro alcance en China 🇨🇳
 
-The SubQuery Network is our effort to move towards a decentralised and tokenised network in order to ensure no single point of failure for SubQuery and to encourage as many participants in the process as possible.
+La Red SubQuery es nuestro esfuerzo por pasar a una red descentralizada y tokenizada para poder garantizar que no haya ni un punto de falla para SubQuery y para alentar a tantos participantes en el proceso como sea posible.
 
 [Last month, we publicly released our whitepaper for the world to read.](https://static.subquery.network/whitepaper.pdf) You can also read/watch a [short explanation here](../blogs/20210616-SubQuery-Network-In-Summary.md).
 
-We have ambitious goals at SubQuery to be the fastest and accessible data service provider on Substrate. We’ve written this whitepaper to highlight our [competitive advantages](../blogs/20210616-SubQuery-Network-Our-Goals-and-Competitive-Advantages.md) and our focus now is on executing this vision. The SubQuery Network revolves around two key aspects, flexibility and simplicity.
+Tenemos metas ambiciosas en SubQuery para ser el proveedor de servicios de datos más rápido y accesible en Substrate. We’ve written this whitepaper to highlight our [competitive advantages](../blogs/20210616-SubQuery-Network-Our-Goals-and-Competitive-Advantages.md) and our focus now is on executing this vision. La SubQuery Network abarca dos aspectos clave, flexibilidad y simplicidad.
 
-Ambitious goals require a first class team, and we’ve been steadily adding new members to the team over June. This includes; new development interns, a UX designer, a development documentation writer, and Chinese based business development staff.
+Las metas ambiciosas requieren un equipo de primera clase, y hemos estado añadiendo constantemente nuevos miembros al equipo durante el mes de junio. Esto incluye: nuevos pasantes de desarrollo, un diseñador de UX, un escritor de documentación de desarrollo y personal de desarrollo de negocios basado en China.
 
-We’re still looking for more, especially in the following areas. Please us know if you know if you have someone in mind:
+Todavía estamos buscando más, especialmente en las siguientes áreas. Por favor, infórmenos si tiene a alguien en mente:
 
-- [Head of Marketing](https://angel.co/company/subquery/jobs/1494376-head-of-marketing) or US/EU based business development (this is a rare opportunity not to be missed)
-- [SRE Engineers](https://angel.co/company/subquery/jobs/1497942-site-reliability-engineer)
-- [Rust](https://angel.co/company/subquery/jobs/1494414-rust-developer) and [Solidity](https://angel.co/company/subquery/jobs/1494435-solidity-developer) developers
+- [Jefe de Marketing](https://angel.co/company/subquery/jobs/1494376-head-of-marketing) o desarrollo de negocios basado en EE. UU/UE (esta es una rara oportunidad para no perderse)
+- [Ingenieros de SRE](https://angel.co/company/subquery/jobs/1497942-site-reliability-engineer)
+- [Desarrolladores](https://angel.co/company/subquery/jobs/1494414-rust-developer) de [Rust y Solidity](https://angel.co/company/subquery/jobs/1494435-solidity-developer)
 
-It’s our belief that developers in our industry should focus on building the future, not running infrastructure — our SubQuery hosted service is the manifestation of that. [In June we released deployment slots](../blogs/20210604-Deployment-Slots-are-here-for-SubQuery-Projects.md), a whole new feature that improves the developer experience in SubQuery’s hosted service.
+Creemos que los desarrolladores de nuestra industria deberían centrarse en construir el futuro, no ejecutar infraestructura — nuestro servicio alojado en SubQuery es la manifestación de eso. [In June we released deployment slots](../blogs/20210604-Deployment-Slots-are-here-for-SubQuery-Projects.md), a whole new feature that improves the developer experience in SubQuery’s hosted service.
 
-Deployment slots are a new feature that means developers can update their Project, reindex their data, and upgrade their hosted production SubQuery Project with zero downtime. We continue to make our free managed service the default choice for where our customers choose to run their infrastructure.
+Las ranuras de despliegue son una nueva característica que permite a los desarrolladores actualizar su proyecto, reindexar sus datos y actualizar su SubQuery Project de producción hospedado con cero tiempo de inactividad. Seguimos haciendo de nuestro servicio gratuito de gestión la opción por defecto para donde nuestros clientes deciden ejecutar su infraestructura.
 
-A common request we face from our customers is how to improve the indexing speed of their SubQuery project. Indexing historical data on a chain as large as Polkadot can take hours if not days, making testing difficult.
+Una petición común que afrontamos por parte de nuestros clientes es cómo mejorar la velocidad de indexación de su proyecto SubQuery. La indexación de datos históricos en una cadena tan grande como Polkadot puede tomar horas si no días, lo que dificulta la prueba.
 
-SubQuery projects now have the option to skip all this using our new feature — [the SubQuery Dictionary](../blogs/20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md). We essentially pre-index the location of all events within a chain and as a result we’ve seen up to 10x faster indexing speed, SubQuery is faster than ever before.
+SubQuery projects now have the option to skip all this using our new feature — [the SubQuery Dictionary](../blogs/20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md). Esencialmente preindexamos la ubicación de todos los eventos dentro de una cadena y como resultado hemos visto hasta 10 veces más rápido de indexación, SubQuery es más rápido que nunca.
 
-China is a key part of our strategic expansion plans. In June Siqi joined us and will lead our business development in the region. She’s certainly hit the ground running, connecting with many of our existing customers and partners there.
+China es una parte clave de nuestros planes estratégicos de expansión. En junio, Siqi se unió a nosotros y liderará nuestro desarrollo empresarial en la región. Sin duda, ha empezado a trabajar, conectándose con muchos de nuestros clientes y socios existentes allí.
 
-Siqi was on [stage at the extremely successful Polka Ecology National Tour event at Hefei Station](https://twitter.com/SubQueryNetwork/status/1409696588465721348), establishing contact with many other project parties who also attended the conference. She’ll be at many events going forward, so keep an eye out for her and say hi!
+Siqi estaba en el escenario [del extremadamente exitoso evento Tour Nacional de Ecología Polka en la Estación Hefei](https://twitter.com/SubQueryNetwork/status/1409696588465721348), estableciendo contacto con muchas otras partes del proyecto que también asistieron a la conferencia. ¡Estará en muchos eventos avanzando, así que vigila y di hola!
 
-Heading into next month we look to continue our rapid growth and are working on many exciting projects. Stay in touch through our social media to be the first to know what is happening!
+El mes que viene esperamos continuar con nuestro rápido crecimiento y estamos trabajando en muchos proyectos interesantes. Manténgase en contacto a través de nuestros medios de comunicación social para ser el primero en saber lo que está pasando!
 
-James, Sam, and the SubQuery Team
+James, Sam y el equipo de SubQuery
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Medium](https://subquery.medium.com/)
