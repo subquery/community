@@ -1,56 +1,56 @@
-# SubQuery Network - Summary
+# Red de SubQuery - Resumen
 
-**How does the SubQuery Network work? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)**
+**¿Cómo funciona la red de SubQuery? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)**
 
-Today we’re going to talk about how the SubQuery Network works at a high level.
+Hoy vamos a hablar de cómo funciona la red de SubQuery a alto nivel.
 
-## Participants
+## Participantes
 
 ![](https://miro.medium.com/max/1400/1*9993cakplwupZC5tbUv3vA.png)
 
-Participants in the SubQuery Network
+Colaboradores de la Red SubQuery
 
-There are three types of participants in the SubQuery Network:
+Hay tres tipos de colaboradores en la Red SubQuery:
 
-- **Consumers**: Consumers will make requests to the SubQuery Network for specific data and pay an advertised amount of SQT
-- **Indexers**: Indexers will host SubQuery Projects in their own infrastructure, running both the node and query service to index data and answer GraphQL requests.
-- **Delegators**: Delegators will participate in the network by supporting their favourite Indexers to earn rewards
+- **Consumidores**: Los consumidores harán solicitudes a la red de SubQuery para datos específicos y pagarán una cantidad anunciada de SQT
+- **Indexadores**: Los indexadores alojarán los proyectos de SubQuery en su propia infraestructura, ejecutando tanto el nodo como el servicio de consultas para indexar datos y responder solicitudes GraphQL.
+- **Delegators**: Los delegadores participarán en la red apoyando a sus Indexadores favoritos para ganar recompensas
 
-## Indexers, Consumers, and Queries
+## Indexadores, Consumidores y Consultas
 
-Let’s start with Indexers, Indexers do a lot of the hard work behind the scenes. The manage hardware, run infrastructure, monitor resources, and choose the right SubQuery projects to index
+Empecemos por los indexadores, que hacen gran parte del trabajo duro entre bastidores. La gestión del hardware, la ejecución de la infraestructura, la supervisión de los recursos y la elección de los proyectos de SubQuery adecuados para indexar
 
-This takes time and money, but once they have this, Consumers may come and make requests. Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
+Esto lleva tiempo y dinero, pero una vez que lo tienen, los consumidores pueden venir a hacer peticiones. Los consumidores harán peticiones a la red SubQuery para obtener datos específicos y pagarán una cantidad anunciada de nuestro token, SQT.
 
 ![](https://miro.medium.com/max/1400/1*dKLkzSc2uXYaPW_IXUxstQ.png)
 
-Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
+Los consumidores harán peticiones a la red SubQuery para obtener datos específicos y pagarán una cantidad anunciada de nuestro token, SQT.
 
-## Cobb-Douglas Production Function
+## Función de Producción Cobb-Douglas
 
-This payment goes into a project revenue pool and at the end of a staking era (28 days) we take this project revenue pool and split it. It’s spit across indexers by something called the Cobb-Douglas production function.
+Este pago va a un fondo de ingresos del proyecto y al final de una época de apuestas (28 días) tomamos este fondo de ingresos del proyecto y lo dividimos. Se escupe a través de los indexadores por algo llamado función de producción Cobb-Douglas.
 
 ![](https://miro.medium.com/max/1400/1*E-W7o7cWoclxHb8rXAMdpA.png)
 
-It’s spit across indexers by something called the Cobb-Douglas production function.
+Se escupe a través de los indexadores por algo llamado función de producción Cobb-Douglas.
 
-This approach, in simple terms, means that revenue is allocated to competing Indexers as a proportion of both requests answered and amount staked.
+Este enfoque, en términos sencillos, significa que los ingresos se asignan a los indexadores que compiten como una proporción tanto de las solicitudes respondidas como de la cantidad apostada.
 
 ![](https://miro.medium.com/max/1400/1*VhDu2BGDxd3ob7z9XkoOXA.png)
 
-Revenue is allocated to competing Indexers as a proportion of both requests answered and amount staked.
+Los ingresos se asignan a los indexadores competidores en proporción a las solicitudes contestadas y a la cantidad apostada.
 
-In our view, the beauty of this equation is that a rational Indexer must maintain a high level of staked SQT relative to the work they do in order to receive optimal revenue. As a result, we do not need to enforce arbitrary staking requirements because Indexers are incentivised to self-manage and maintain a stake or skin in the game.
+En nuestra opinión, la belleza de esta ecuación es que un indexador racional debe mantener un alto nivel de SQT apostado en relación con el trabajo que realiza para recibir unos ingresos óptimos. Como resultado, no necesitamos imponer requisitos de apuesta arbitrarios porque los indexadores están incentivados a autogestionar y mantener una participación o piel en el juego.
 
-## Delegators
+## Delegadores
 
-So Indexers are incentivised to both do as much work as possible, and to stake as much as possible to maximise their rewards. This is where delegators come in.
+Así pues, los indexadores están incentivados a trabajar lo máximo posible y a apostar lo máximo posible para maximizar sus recompensas. Aquí es donde entran los delegados.
 
-Delegators can delegate their spare SQT to Indexers, each Indexer can publish a _query fee revenue share rate_, and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in.
+Los delegadores pueden delegar sus SQT sobrantes a los indexadores, cada indexador puede publicar una tasa de participación en los _ingresos de la tasa de consulta_, y esos delegadores serán recompensados con una parte de los ingresos de la tasa de consulta en la que el indexador es recompensado.
 
 ![](https://miro.medium.com/max/1400/1*YoN7PV7h3a2nAFN-ODqILg.png)
 
-Delegators can delegate their spare SQT to Indexers and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in
+Los delegadores pueden delegar sus SQT sobrantes a los indexadores y esos delegadores serán recompensados con una parte de los ingresos de la tasa de consulta que el indexador recibe en
 
 The _query fee revenue share rate_ that indexers advertise is locked for each 28 day staking era, and a decrease to it must be advertised for an entire 28 day staking era before coming into force.
 
@@ -60,7 +60,7 @@ Similarly, delegators can remove their delegation amounts at any point, but they
 
 Delegators will only receive rewards when they have delegated for the entire staking era
 
-## Purchase Orders
+## Ordenes de Compra
 
 Indexing a project takes time and money, there’s a lot of data on the chain. In order to encourage Indexers to index and support an entirely new SubQuery Project, we plan to implement a market mechanism for Consumers to signal guaranteed revenue to Indexers of new SubQuery Projects.
 
