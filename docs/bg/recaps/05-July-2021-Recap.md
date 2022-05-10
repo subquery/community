@@ -28,7 +28,7 @@
 
 ![](https://miro.medium.com/max/1400/0*AhM68fyjjSp_2edZ)
 
-Присъединихме се към алианса Patract Open Platform</a>, за да насърчаваме съвместно развитието на публичната инфраструктура, да насърчаваме развитието на договорната технология и да развиваме екосистемата за разработване на договори Wasm.
+We have [joined the Patract Open Platform alliance](../blogs/20210714-SubQuery-is-Joining-the-Patract-Open-Platform.md) to jointly promote the development of public infrastructure, promote the evolution of contract technology, and to develop the Wasm contract development ecosystem.
 
 Вярваме, че договорите са важна част от процъфтяващата екосистема на Polkadot, а предоставянето на услуги за индексиране на данни за договорите на Wasm винаги е било основна цел на SubQuery. Вълнуващо е да се види, че отворената платформа е събрала голям брой страхотни проекти и че всички работят заедно, за да допринесат за здравословното и стабилно развитие на договорите Wasm.
 
