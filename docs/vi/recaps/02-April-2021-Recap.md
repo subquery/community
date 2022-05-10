@@ -9,7 +9,7 @@ Trong bản cập nhật tháng này:
 - Cải tiến khả năng mở rộng của nhà cung cấp dịch vụ OnFinality của chúng tôi
 - Và nhiều hơn nữa…
 
-Về mặt đối tác, chúng tôi đã tung ra một sản phẩm chính cần thiết để thúc đẩy sự phát triển của SubQuery về mặt hoạt động. Trước khi bạn có thể tạo và chạy các dự án SubQuery của riêng mình tại địa phương hoặc trong cơ sở hạ tầng của riêng bạn. [Projects](https://project.subquery.network/) cho phép người dùng đẩy dự án của họ lên cộng đồng SubQuery và chúng tôi sẽ chạy chúng trong một dịch vụ công có hiệu suất cao, có thể mở rộng và được quản lý - miễn phí!
+Về mặt đối tác, chúng tôi đã tung ra một sản phẩm chính cần thiết để thúc đẩy sự phát triển của SubQuery về mặt hoạt động. Trước khi bạn có thể tạo và chạy các dự án SubQuery của riêng mình tại địa phương hoặc trong cơ sở hạ tầng của riêng bạn. [Dự án](https://project.subquery.network/) cho phép người dùng đẩy dự án của họ lên cộng đồng SubQuery và chúng tôi sẽ chạy chúng trong một dịch vụ công có hiệu suất cao, có thể mở rộng và được quản lý - miễn phí!
 
 ![](https://miro.medium.com/max/1400/0*zZkmiEq5g2BbAxfl)
 
@@ -25,7 +25,7 @@ Dịch vụ của SubQuery giúp Bifrost cung cấp phần lớn dữ liệu đ�
 
 Dự án Bifrost SubQuery mới trong SubQuery Explorer
 
-> _"Nếu không có SubQuery, thật khó để tưởng tượng việc thu thập dữ liệu từ chuỗi theo cách thủ công sẽ phức tạp như thế nào. Các nhà phát triển Bifrost có thể dành nhiều thời gian để tìm kiếm tất cả dữ liệu giao dịch trên chuỗi để sử dụng cho lịch sử giao dịch. SubQuery giúp các nhà phát triển tiết kiệm rất nhiều chi phí làm việc lặp đi lặp lại. Bifrost sẽ hợp tác lâu dài với SubQuery để đẩy nhanh tốc độ phát triển sản phẩm"_ — Bifrost Finance
+> _"Without SubQuery, it is difficult to imagine how complicated it is to manually collect data from the chain. Các nhà phát triển Bifrost có thể dành nhiều thời gian để tìm kiếm tất cả dữ liệu giao dịch trên chuỗi để sử dụng cho lịch sử giao dịch. SubQuery giúp các nhà phát triển tiết kiệm rất nhiều chi phí làm việc lặp đi lặp lại. Bifrost will cooperate with SubQuery for a long time to accelerate the iterative speed of product development"_ — Bifrost Finance
 
 OnFinality là nhà cung cấp dịch vụ chính cho SubQuery - hầu hết các trình chỉ mục SubQuery trong các dự án Polkadot và Kusama đang sử dụng các điểm cuối API công khai của OnFinality để lấy dữ liệu của họ. Lưu lượng truy cập đáng kể từ SubQuery là một trong những lý do tại sao OnFinality là nhà cung cấp cơ sở hạ tầng lớn nhất trong hệ sinh thái Polkadot / Kusama.
 
