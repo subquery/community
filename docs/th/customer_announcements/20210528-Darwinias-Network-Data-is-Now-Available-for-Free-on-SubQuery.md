@@ -8,7 +8,7 @@
 
 ไม่นานมานี้ [Darwinia](https://darwinia.network/) ได้เปิดตัวโครงการ SubQuery ใหม่ 2 โครงการ โครงการหนึ่งสำหรับ [เครือข่ายหลัก](https://explorer.subquery.network/subquery/darwinia-network/darwinia) และอีกโครงการสำหรับ [Crab](https://explorer.subquery.network/subquery/darwinia-network/crab) ซึ่งเป็นเครือข่าย Canary ของพวกเขา การเปิดเผยข้อมูลใน SubQuery ทำให้ Darwinia เปิดโอกาสให้แอพลิเคชั่นของพวกเขาในการสร้างแอปพลิเคชันที่มีส่วนร่วมมากขึ้นบนแหล่งข้อมูลฟรีนี้
 
-> _"Using SubQuery to query Darwinia’s on-chain data has become very simple and flexible. SubQuery ถือว่าข้อมูลบล็อคเชนเป็นกราฟ และใช้ประโยชน์จากความสามารถในการขยายของ GraphQL เพื่อแนะนำฟังก์ชันเพิ่มเติม We believe that in the future, the data interface on the substrate chain will mainly use GraphQL, SubQuery is making this a reality"_ — Darwinia
+> _"Using SubQuery to query Darwinia’s on-chain data has become very simple and flexible. SubQuery ถือว่าข้อมูลเป็นกราฟ และใช้ประโยชน์จากความสามารถในการขยายของ GraphQL เพื่อแนะนำฟังก์ชันเพิ่มเติม We believe that in the future, the data interface on the substrate chain will mainly use GraphQL, SubQuery is making this a reality"_ — Darwinia
 
 บริการของ[SubQuery](https://subquery.network/)ช่วยให้ Darwinia ปลดล็อกข้อมูลของเชน และทำให้ระบบนิเวศของแอปพลิเคชันของพวกเขาเข้าถึงได้มากขึ้น แอปพลิเคชัน เช่น ตลาด NFT สามารถใช้ข้อมูลจาก SubQuery ของ Darwnia เพื่อแสดงสถิติการประมูล และยังสามารถขยายโครงการ Darwinia SubQuery เพื่อรวบรวมและแปลงข้อมูลเพื่อให้ข้อมูลเชิงลึกที่ไม่ซ้ำใครมากยิ่งขึ้น
 
@@ -20,11 +20,11 @@
 
 Darwinia กำลังใช้ [SubQuery Projects](https://project.subquery.network/) เพื่อบริหารโครงการของตนเองและทำการอัปเดตตามต้องการ บริการจัดทำ index และ query สำหรับในบริการนี้ได้รับการจัดการโดย SubQuery และให้บริการฟรีแก่ชุมชน Polkadot ใน[SubQuery's Explorer](https://explorer.subquery.network/) คุณสามารถทดลองใช้ชุดข้อมูล Darwinia SubQuery ได้ที่นี่ (และ Crab ของ Darwinia ที่นี่) ด้วย Explorer โดยไม่ต้องใช้โค้ดใดๆเลย ตามที่คุณต้องการ การรับบันทึกของบัญชีเฉพาะจะกลายเป็นเรื่องง่ายมาก
 
-โดย query บ่งชี้ว่าเราต้องรับข้อมูลของ 20 ธุรกรรมล่าสุดไม่ว่าจะรับหรือส่ง _2qeMxq616BhqvTW8a1bp2g7VKPAmpda1vXuAAz5TxV5ehivG_
+โดย query บ่งชี้ว่าเราต้องรับข้อมูลของ 20 ธุรกรรมล่าสุดไม่ว่าจะรับหรือส่งโดย address _2qeMxq616BhqvTW8a1bp2g7VKPAmpda1vXuAAz5TxV5ehivG_
 
 ![](https://miro.medium.com/max/1400/0*z-9giNk4RnhxliYy)
 
-[SubQuery](https://subquery.network/) เป็นเลเยอร์การรวมข้อมูลที่จะทำงานระหว่างบล็อคเชนเลเยอร์-1(Darwinia) และ DApps โซลูชันรวบรวมและจัดระเบียบข้อมูลจาก [Darwinia](https://darwinia.network/) และบล็อกเชนอื่นๆ โดยให้บริการข้อมูลที่มีโครงสร้างที่ดีให้กับ dApp นั้นๆและให้กับนักพัฒนารายอื่นๆในการใช้ในโครงการที่หลากหลาย บริการนี้ช่วยให้นักพัฒนา DApp สามารถมุ่งเน้นไปที่กรณีการใช้งานหลักและ front-end โดยไม่ต้องเสียเวลาไปกับการสร้าง back-end สำหรับการประมวลผลข้อมูลของตัวเอง
+[SubQuery](https://subquery.network/) เป็นเลเยอร์การรวมข้อมูลที่จะทำงานระหว่างเลเยอร์-1(Darwinia) และ DApps โซลูชันรวบรวมและจัดระเบียบข้อมูลจาก [Darwinia](https://darwinia.network/) และอื่นๆ โดยให้บริการข้อมูลที่มีโครงสร้างที่ดีให้กับ dApp นั้นๆและให้กับนักพัฒนารายอื่นๆในการใช้ในโครงการที่หลากหลาย บริการนี้ช่วยให้นักพัฒนา DApp สามารถมุ่งเน้นไปที่กรณีการใช้งานหลักและ front-end โดยไม่ต้องเสียเวลาไปกับการสร้าง back-end สำหรับการประมวลผลข้อมูลของตัวเอง
 
 เรียนรู้เพิ่มเติมเกี่ยวกับ SubQuery
 
