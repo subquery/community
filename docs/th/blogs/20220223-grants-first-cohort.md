@@ -1,10 +1,10 @@
-# SubQuery ประกาศกลุ่มผู้รับทุน SubQuery Grants กลุ่มแรก บริบท
+# SubQuery Announces First Cohort of SubQuery Grants Recipients
 
 ![](https://miro.medium.com/max/1400/1*qp0hhPcvodDIMmVScohSnw.png)
 
-SubQuery ซึ่งเป็นโซลูชันการจัดทำ indexing ข้อมูลชั้นนำใน Polkadot เรายินดีที่จะประกาศว่ามี 4 ทีมที่ได้รับเลือกให้เป็นผู้รับทุน SubQuery Grants เป็นกลุ่มแรก ได้แก่ทีม [Alphabit](https://www.polkadata.xyz/), [Zoombies](https://zoombies.world), [Dapplooker](https://dapplooker.com/) and [Dotsama](http://dotsama.ai/)
+SubQuery, the leading data indexing solution in Polkadot, is happy to announce that four teams have been selected as the first ever cohort of SubQuery Grants recipients. These teams are [Alphabit](https://www.polkadata.xyz/), [Zoombies](https://zoombies.world), [Dapplooker](https://dapplooker.com/) and [Dotsama](http://dotsama.ai/).
 
-[โครงการ SubQuery Grants มีมูลค่า $500,000 ดอลลาร์สหรัฐ ได้เริ่มขึ้นในเดือนธันวาคม 2021](./20211222-grants.md) ด้วยวิสัยทัศน์ในการเสนอโอกาสให้กับนักพัฒนาบล็อกเชน สมาชิกในคอมมูนิตี้ และผู้เข้าร่วมในระบบนิเวศในวงกว้างเพื่อสร้างนวัตกรรมที่มีศักยภาพสูงที่ใช้ประโยชน์จากข้อมูลโอเพนซอร์สของ SubQuery เครื่องมือสร้าง indexing เพื่อรองรับแอพพลิเคชั่นกระจายอำนาจที่ทันสมัย
+[The USD $500,000 SubQuery Grants Program kicked off in December 2021](./20211222-grants.md) with the vision of offering opportunities to blockchain developers, community members, and wider ecosystem participants to create innovative or high-potential ideas that leverage SubQuery's open-source data indexing tools to support cutting-edge decentralised applications.
 
 The first in the cohort, [Alphabit](https://www.polkadata.xyz/), are endeavouring to empower the independent investor by providing visibility to track and analyse the portfolios and investments of funds, and large traders or 'whales'. They will use SubQuery to power the on-chain data metrics required to propel them to become a leading market analytics player in Polkadot. SubQuery believes this will make a significant impact in the Polkadot ecosystem which is currently lacking in strong investment analysis tools.
 
@@ -30,7 +30,7 @@ Applicants who are interested in any of these bounties are encouraged to submit 
 
 For those who would like to up-skill more on SubQuery before making an application, [The SubQuery Academy](./20211018-subquery-launches-the-subquery-academy.md)'s _"Hero Course"_ is a free and modular educational program designed to build awareness amongst developers. and is [completely free and accessible via an online portal](https://subquery.coassemble.com/unlock/dOKZW6O#/).
 
-## About SubQuery
+## เกี่ยวกับ SubQuery
 
 [SubQuery](https://subquery.network) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. This service unlocks blockchain data and transforms it to a queryable state so that it can be used in intuitive applications. It allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The upcoming SubQuery Network will decentralize and tokenize the ecosystem to allow everyone to participate in the web3 data revolution.
 
