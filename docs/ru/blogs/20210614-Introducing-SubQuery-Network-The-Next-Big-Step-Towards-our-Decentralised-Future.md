@@ -10,7 +10,7 @@
 
 Создание проекта SubQuery всегда будет бесплатным. Разработчики должны тратить время на создание инфраструктуры, а не на ее эксплуатацию. Однако мы считаем, что здоровое децентрализованное будущее требует совместной работы нескольких поставщиков услуг распределенных данных для повышения отказоустойчивости, скорости и производительности сети.
 
-## Представляем сеть SubQuery:
+## Introducing The SubQuery Network:
 
 Сеть SubQuery - это наша попытка перейти к децентрализованной и токенизированной сети, чтобы гарантировать отсутствие единой точки отказа для SubQuery и поощрить как можно больше участников процесса.
 
@@ -24,4 +24,4 @@
 
 [Прочтите технический документ сейчас.](https://static.subquery.network/whitepaper.pdf)
 
-[Веб-Сайт](https://subquery.network/) | [Почта](mailto:hello@subquery.network) | [Дискорд](https://discord.com/invite/78zg8aBSMG) | [Телеграм](https://t.me/subquerynetwork) | [Твиттер](https://twitter.com/subquerynetwork) | [Матрица](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Медиум](https://subquery.medium.com/)
+[Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Medium](https://subquery.medium.com/)
