@@ -6,7 +6,7 @@
 
 ![](https://cdn-images-1.medium.com/max/1600/1*5Ru0mv1hq86BuBhGwsmoqQ.png)
 
-> *«SubQuery - отличный инструмент, который привнес в Parallel Heiko традиционную технологию индексирования & запросов. The plug-and-play service really saved us a lot time developing our own block indexing tool and maintaining our own solution."* - Parallel Finance
+> *«SubQuery - отличный инструмент, который привнес в Parallel Heiko традиционную технологию индексирования & запросов. Сервис plug-and-play действительно сэкономил нам много времени на разработку нашего собственного инструмента индексации блоков и поддержку нашего собственного решения".* - Parallel Finance
 
 [Сервисы SubQuery](https://subquery.network/) помогают Parallel Finance хранить, анализировать и запрашивать данные в их текущей тестовой сети Heiko. Некоторые из этих данных используются непосредственно в новом приложении Parallel, помогая пользователям понимать и анализировать данные DeFi.
 
@@ -16,7 +16,7 @@
 
 ![](https://cdn-images-1.medium.com/max/1600/1*FDRgez-G26x1DkWqCkORMQ.png)
 
-> *«Нам нравится работать с командой SubQuery и индивидуальным обслуживанием клиентов, которое они нам предоставляют. We plan to use it more as we introduce more features into our DeFi application."* - Parallel Finance
+> *«Нам нравится работать с командой SubQuery и индивидуальным обслуживанием клиентов, которое они нам предоставляют. Мы планируем использовать его больше по мере того, как будем внедрять новые функции в наше приложение DeFi".* - Parallel Finance
 
 В приведенном ниже примере мы используем SubQuery, чтобы показать исторический обменный курс для всех активов в каждом блоке.
 
@@ -38,4 +38,4 @@ Parallel Finance - это децентрализованный протокол 
 
 [ SubQuery ](https://subquery.network/) - это уровень агрегации данных, который будет работать между блокчейнами уровня 1 (Kusama) и DApps (например, Kodadot). Эта услуга позволяет разработчикам DApp сосредоточиться на основном сценарии использования и интерфейсе, не тратя время на создание настраиваемого внутреннего интерфейса для обработки данных.
 
-[Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
+[Веб-Сайт](https://subquery.network/) | [Почта](mailto:hello@subquery.network) | [Дискорд](https://discord.com/invite/78zg8aBSMG) | [Телеграм](https://t.me/subquerynetwork) | [Твиттер](https://twitter.com/subquerynetwork) | [Матрица](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
