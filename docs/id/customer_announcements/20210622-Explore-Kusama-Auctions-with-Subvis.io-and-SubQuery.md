@@ -4,7 +4,7 @@
 
 **_Kami sangat antusias untuk menyoroti proyek SubQuery baru yang merupakan contoh hebat dari kekuatan SubQuery_**
 
-Minggu lalu [Subvis.io](https://www.subvis.io/) meluncurkan explorer baru mereka untuk lelang slot parachain Kusama. Website baru ini menyediakan informasi kontekstual terkini tentang crowdloan dan lelang yang baru saja dimulai di Kusama.
+Minggu lalu [Subvis.io](https://www.subvis.io/) meluncurkan penjelajah baru mereka untuk lelang slot parachain Kusama. Website baru ini menyediakan informasi kontekstual terkini tentang crowdloan dan lelang yang baru saja dimulai di Kusama.
 
 
 ![](https://miro.medium.com/max/1400/1*iHO4P9JcW-Gt7GxqwXxa3g.png)
@@ -13,13 +13,13 @@ Dasbor Lelang Subvis.io
 
 Dengan memaparkan data jaringan ini di SubQuery, [Subvis.io](https://www.subvis.io/) menunjukkan kepada semuanya bahwa wawasan yang kaya sudah dapat diekstraksi dari data on-chain.
 
-> _“SubQuery memudahkan pengumpulan data chain yang rumit untuk Subvis dan menjumlahkannya untuk ditampilkan di situs web kami. Kami tidak perlu membuat database apa pun atau mendeploy apa pun ke AWS— Solusi scaffolded SubQuery saja sudah cukup!”. — Subvis.io_
+> _“SubQuery memudahkan pengumpulan data rantai yang rumit untuk Subvis dan merangkumnya untuk ditampilkan di website kami. Kami tidak perlu membuat database apa pun atau menerapkan apa pun ke AWS— Solusi scaffolded SubQuery baru saja berhasil!”. — Subvis.io_
 
 Layanan [SubQuery](https://subquery.network/) membantu [Subvis.io](https://www.subvis.io/) mengubah dan menggabungkan data Kusama dan membuatnya lebih mudah diakses oleh pengguna biasa untuk memahami dan membacanya.
 
 ![](https://miro.medium.com/max/1400/1*0W6n5vW1yHc3MjfzgsCFZw.png)
 
-[Berkat SubQuery, kami dapat dengan mudah melakukan kueri](https://explorer.subquery.network/subquery/subvis-io/kusama-auction) kontribusi total untuk setiap parachain, dan melihat bagaimana data ini berubah dari waktu ke waktu. Sebagai contoh, kita bisa mendapatkan 5 kontribusi tunggal terbesar untuk crowdloan melalui kueri di bawah ini
+[Berkat SubQuery, kami dapat dengan mudah melakukan kueri](https://explorer.subquery.network/subquery/subvis-io/kusama-auction) kontribusi total untuk setiap parachain, dan melihat bagaimana data ini berubah dari waktu ke waktu. Misalnya, kita bisa mendapatkan 5 kontribusi tunggal terbesar untuk crowdloan melalui kueri di bawah ini
 
 ![](https://miro.medium.com/max/1400/1*4509Ki-4lxJyz1kdm6E5PA.png)
 
@@ -31,11 +31,11 @@ Anda juga bisa mendapatkan tawaran terbaru untuk setiap lelang menggunakan kueri
 
 3 tawaran terbaru semuanya oleh Karura pada slot 13–20
 
-Subvis.io menggunakan [SubQuery Projects](https://project.subquery.network/) untuk mengelola proyek mereka sendiri dan membuat pembaruan sesuai kebutuhan. Layanan pengindeksan dan kueri untuk layanan ini sepenuhnya dikelola oleh SubQuery dan diberikan kepada komunitas Polkadot secara gratis di [SubQuery's Explorer](https://explorer.subquery.network/).
+Subvis.io menggunakan [Proyek SubQuery](https://project.subquery.network/) untuk mengelola proyek mereka sendiri dan membuat pembaruan sesuai kebutuhan. Layanan pengindeksan dan kueri untuk layanan ini sepenuhnya dikelola oleh SubQuery dan diberikan kepada komunitas Polkadot secara gratis di [SubQuery's Explorer](https://explorer.subquery.network/).
 
 [Jelajahi data set Subvis.io](https://explorer.subquery.network/subquery/subvis-io/kusama-auction)
 
-[SubQuery](https://subquery.network/) adalah layer agregasi data yang akan beroperasi antara layer-1 blockchain (Kusama) dan DApps (seperti Subvis.io). Layanan ini memungkinkan pengembang DApp untuk fokus pada use case inti dan front-end mereka, tanpa perlu membuang waktu untuk membangun backend khusus untuk pemrosesan data.
+[SubQuery](https://subquery.network/) adalah lapisan agregasi data yang akan beroperasi antara blockchain lapisan-1 (Kusama) dan DApps (seperti Subvis.io). Layanan ini memungkinkan pengembang DApp untuk fokus pada kasus penggunaan inti dan front-end mereka, tanpa perlu membuang waktu untuk membangun backend khusus untuk pemrosesan data.
 
 Pelajari lebih lanjut tentang SubQuery
 
