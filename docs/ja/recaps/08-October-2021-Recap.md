@@ -1,72 +1,72 @@
-# 2021年10月のまとめ
+# October 2021 Recap
 
 ![](https://miro.medium.com/max/1400/1*Yf3LOc6onAZ-XRQLPyxAmQ.png)
 
-**私たちの計画を動きに入れる**
+**Putting Our Plans Into Motion**
 
-SubQuery からの最新の月次アップデートへようこそ 私たちのコミュニティの成長に基づく最初のものは何でしょうか?
+Welcome to the latest monthly update from SubQuery, and what will be the first one for many of you based on the growth of our community.
 
-今後は、コミュニティ、コア製品開発、SubQuery Networkの3つの主要分野を中心に、アップデートごとに構成していきます。
+From here on out we will try to structure every update around three key areas; community, core product development, and the SubQuery Network.
 
 ## SubQuery Network
 
 ### Technical Roadmap Announced
 
-At our community call last week we shared more about our plans for the future. SubQueryの次の進化が、Polkadotのエコシステムにさらなる価値をもたらし、コミュニティが我々の成長に参加する機会をどのように提供するのかということに、興奮しています。
+At our community call last week we shared more about our plans for the future. We are excited about how the next evolution of SubQuery will drive even more value to the Polkadot ecosystem and provide more opportunities for our community to participate in our growth.
 
-コミュニティとの透明性と今後の作業の合理化のために、私たちは非常に深いところまで行きました。 これは、我々が内部的にターゲットとして使用している野心的なタイムラインです。下の画像からいくつの動くピースがあるかを見ることができます！ とはいえ、R&D ソフトウェア開発のタイムラインを推定することは、周知のように難しいことです。 以下は最終的なものではありません。それは私たちの最善の努力です。
+We’ve gone extremely deep here for transparency with the community and to rationalise the work we have ahead. It’s an ambitious timeline that we are internally using as a target, you can see how many moving pieces there are from the image below! That being said, estimating timelines for R&D software development is notoriously difficult, so nothing below is final — it’s just our best effort at estimations.
 
-[技術的なロードマップについてはこちらをご覧ください](../blogs/20211029-roadmap-october.md)
+[Read more about our technical roadmap here](../blogs/20211029-roadmap-october.md)
 
 ### Significant Development on the SubQuery Network
 
-新しい分散型トークン化されたネットワークを構築することは莫大な作業であり、残念ながらしばらくの間、外部からはっきりと見えない作業です。 とはいえ、しばらくの間、これに取り組んでいる専任開発者のトップチームがいました。 年末までに最初の内部テストネットを立ち上げることに近づけるために、少しでも確実にスマートコントラクトの実装のリストを通して取り組んでいます。
+Building a new decentralised and tokenised network is a huge amount of work and it is unfortunately work that isn’t clearly visible externally for some time. That being said, we’ve had a top team of dedicated developers working on this for some time, slowly but surely working through the list of smart contract implementations to bring us closer to launching the first internal testnet by the end of the year.
 
 ## Core Product Development
 
 ### Moonriver EVM Support
 
-これは私たちにとって重要なマイルストーンであり、ムーンビームとの大きなパートナーシップです。 現在、開発者がEthereumとPolkadot/Kusamaの両方で柔軟にデータを収集しクエリできるオープンソースのツールはありません。 この制限により、Moonriver内のdAppsソリューションはスマートコントラクト層にサイロ化され、それによってネットワークが繁栄する両方の消費者の可能性が制限される可能性があります。
+This is a significant milestone for us and a huge partnership with Moonbeam. Currently, there is no open-source tool which allows developers to flexibly collect and query data across both Ethereum and Polkadot/Kusama. This limitation can cause dApps solutions within Moonriver to be siloed into the smart contract layer and thereby limit their potential to consumers across both thriving networks.
 
-Moonbeamとのパートナーシップにより、Moonriver内のすべてのブロックチェーンデータに完全かつ統一されたデータインデックス作成ソリューションが提供され、Moonriverの成長するアプリケーションエコシステムに大きな利益がもたらされます。 SubQueryの革新により、1つのツールがSubstrateデータソースに加えてEVMログとトランザクションをクエリおよびフィルタできるようになりました。
+This partnership with Moonbeam brings a complete and unified data indexing solution for all blockchain data within Moonriver and will greatly benefit Moonriver’s growing application ecosystem. With SubQuery’s innovation, one tool can now query and filter EVM logs and transactions in addition to Substrate data sources.
 
-[Moonriver EVMのサポートについてはこちらをご覧ください](../customer_announcements/20211028-moonbeam-evm.md)
+[Read more about our Moonriver EVM support here](../customer_announcements/20211028-moonbeam-evm.md)
 
 ## Community
 
 ### The Spartan Programme
 
-SubQuery アンバサダープログラムは、Polkadot と SubQuery に情熱的なコミュニティリーダーを見つけることを目指しています。 ここ数ヶ月、何千、何万という応募が殺到しており、当初予定していた応募者を手作業で採用することが困難になってきていました。 既存のアンバサダーと相談した結果、Discordコミュニティでレベルアップし、アンバサダーになる可能性を持つための、新しく透明性のある方法をデザインしました。
+In August, SubQuery launched its Ambassador programme to find community leaders passionate about Polkadot and SubQuery. Surprisingly we were completely overwhelmed by thousands and thousands of applications, and our initial plans to manually onboard applicants has become challenging. After consultation with our existing Ambassadors we have designed a new, and transparent method to level up in our Discord community and potentially become an Ambassador.
 
-SpartanプログラムはDiscordコミュニティ内に存在し、他のティアまたはコントリビューターと共に確立されたアンバサダープログラムを補完するように設計されています。 メンバーを求めることはSpartanになるために月次のタスクやコンテストを完了することができます。 その後、クラスでトップになったスパルタンは、既存のアンバサダーからSubQueryチームに推薦され、仲間入りすることになります。
+The Spartan programme exists within our Discord community, and it is designed to complement our established ambassador programme with another tier or contributors. Aspiring members can complete monthly tasks and competitions to become a Spartan. The Spartans who then rise to the top of their class will be nominated by our existing Ambassadors to join their ranks.
 
 To find out more about our Spartan programme and participate in our November competition please [join our Discord](https://discord.com/invite/subquery).
 
-[スパルタンプログラムの詳細はこちらをご覧ください](../blogs/20211101-spartan-programme.md)
+[Read more about our Spartan programme here](../blogs/20211101-spartan-programme.md)
 
 ### SubQuery Academy
 
-だからこそ、新しい開発者に参加し、明日のdAppsを構築するために必要なスキルを教えることは、私たちのコミュニティの成功にとって非常に重要です。
+Onboarding new developers and teaching them the skills they need to build the dApps of tomorrow is incredibly important to the success of our community.
 
-アカデミーは毎週、6つのモジュールから構成され、5分から10分間のレッスンが録画されます。 ビデオコンテンツには、書面によるチュートリアル、スライド、ラボ・ワークブック、完成したGitHubコードリポジトリへのリンクが付いています。
+The Academy will be a weekly series of 6 modules with several 5 to 10 minute lessons which are delivered by a recorded video. The video content is accompanied by written tutorials, slides, lab workbooks, and links to the finished GitHub code repository.
 
-このプログラムの内容は、最初から高度なブロックチェーン開発者を目指しています。  100%無料でオンラインでアクセスできる です。 私たちは1以上を持っています 2週間前に開始されて以来、最初のヒーローコースへの参加は1200で、私たちは私たちが持つ情熱的なコミュニティに感謝しています。
+Our Academy aims to take an aspiring blockchain developer from beginner to advanced and it is 100% free and accessible online. We have had over 1,200 enrolments for our first hero course since its launch two weeks ago and we are grateful for the passionate community that we have with us.
 
-[SubQueryのアカデミーについてはこちらをご覧ください](../blogs/20211018-subquery-launches-the-subquery-academy.md)
+[Read more about SubQuery’s Academy here](../blogs/20211018-subquery-launches-the-subquery-academy.md)
 
 ### Community Call
 
-私たちは10月28日、ロードマップと最新のコミュニティの最新情報を共有するために、史上初のコミュニティコールを開催しました。 私たちのコミュニティと、彼らが長い間求めてきたことを、もっと個人的な方法で共有することは素晴らしいことでした。 私たちは、電話に来たすべての人々に感謝し、我々はこれらの呼び出しをより定期的にホストすることを計画。 10月上旬に私たちに加わった新しいコミュニティ・マネージャーのサリーさんからも多くの方にご連絡いただけると思います。
+We held our first-ever community call on October 28th to share our roadmap and the latest community updates. It was great to share with our community the things they had been asking for a long time in a more personal way. We appreciate all those who came to the call and we plan on hosting these calls more regularly. It would have been the first time for a lot of you to hear from our new community manager Sally as well who joined us in early October.
 
-[ここで10月のセッション録音を見る](https://www.crowdcast.io/e/subquery-sessions-october)
+[Watch the October session recording here](https://www.crowdcast.io/e/subquery-sessions-october)
 
 ## Other things you might have missed
 
 - We’ve partnered with Acala to provide the [largest pool of prizes for the Encode Club Polkadot Hackathons](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e).
-- [SubQueryがKhalaのERC20チェーンブリッジ構築を支援](../customer_announcements/20211021-khala.md)
+- [SubQuery helps Khala Build their New ERC20 Chain Bridge](../customer_announcements/20211021-khala.md)
 
-詳細を知りたい場合は、エクスプローラから簡単にすべてのプロジェクトを表示できます。
+If you would like to learn more you can view all projects easily via our Explorer here.
 
-いつも通り、ソーシャルチャンネルに参加し、最新のニュースやお知らせをお知らせいたします。 James, Sam, SubQuery チーム
+As always, please join our social channels to stay updated on our latest news and announcements. James, Sam, and the SubQuery Team
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
