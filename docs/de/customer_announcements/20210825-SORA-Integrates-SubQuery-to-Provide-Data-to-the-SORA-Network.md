@@ -1,4 +1,4 @@
-# SORA integriert SubQuery, um Daten für das SORA-Netzwerk bereitzustellen
+# SORA integriert SubQuery, um die Daten für das SORA-Netzwerk bereitzustellen
 
 ![sora-header.jpg](https://miro.medium.com/max/1400/1*fPPW0DsynIt9QpvK4ZrsUA.jpeg)
 
