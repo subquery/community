@@ -18,17 +18,17 @@ There are three types of participants in the SubQuery Network:
 
 ## Indexer, Verbraucher und Abfragen
 
-Let’s start with Indexers, Indexers do a lot of the hard work behind the scenes. The manage hardware, run infrastructure, monitor resources, and choose the right SubQuery projects to index
+Beginnen wir mit Indexern, Indexer erledigen einen großteil der harten arbeit hinter den kulissen. The manage hardware, run infrastructure, monitor resources, and choose the right SubQuery projects to index
 
-This takes time and money, but once they have this, Consumers may come and make requests. Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
+This takes time and money, but once they have this, Consumers may come and make requests. Die Verbraucher stellen Anfragen an das SubQuery-Netzwerk für bestimmte Daten und zahlen einen angekündigten Betrag unseres Tokens, SQT.
 
 ![](https://miro.medium.com/max/1400/1*dKLkzSc2uXYaPW_IXUxstQ.png)
 
-Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
+Die Verbraucher stellen Anfragen an das SubQuery-Netzwerk für bestimmte Daten und zahlen einen angekündigten Betrag unseres Tokens, SQT.
 
 ## Cobb-Douglas Produktionsfunktion
 
-This payment goes into a project revenue pool and at the end of a staking era (28 days) we take this project revenue pool and split it. It’s spit across indexers by something called the Cobb-Douglas production function.
+Diese Zahlung fließt in einen Projekteinnahmenpool und am Ende einer Staking-Periode (28 Tage) nehmen wir diesen Projekteinnahmenpool und teilen ihn auf. It’s spit across indexers by something called the Cobb-Douglas production function.
 
 ![](https://miro.medium.com/max/1400/1*E-W7o7cWoclxHb8rXAMdpA.png)
 
@@ -46,7 +46,7 @@ In our view, the beauty of this equation is that a rational Indexer must maintai
 
 So Indexers are incentivised to both do as much work as possible, and to stake as much as possible to maximise their rewards. This is where delegators come in.
 
-Delegators can delegate their spare SQT to Indexers, each Indexer can publish a _query fee revenue share rate_, and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in.
+Delegatoren können ihre überschüssige SQT an Indexer delegieren, jeder Indexer kann einen _Anfragegebühren-Ertragsanteil_ veröffentlichen, und diese Delegatoren werden durch einen Teil des Anfragegebühren-Ertrags, den der Indexer erhält, belohnt.
 
 ![](https://miro.medium.com/max/1400/1*YoN7PV7h3a2nAFN-ODqILg.png)
 
