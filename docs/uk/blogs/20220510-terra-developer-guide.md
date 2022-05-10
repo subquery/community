@@ -2,17 +2,17 @@
 
 ![](https://miro.medium.com/max/1400/1*DiTE9KuzH0xHLojzGWxOuw.png)
 
-For quite some time we have been developing and refining Terra support behind the scenes and testing it with key development launch partners (keep an eye out for announcements in the coming days). This prolonged period has allowed us to be extremely confident in the scalability, reliability, and features that SubQuery today brings to Terra. In this article we share a detailed developer guide and roadmap for all of the Terra community to use to solve their data indexing needs.
+Протягом досить тривалого часу за лаштунками ми розробляли та вдосконалювали підтримку Terra та тестували її з ключовими партнерами з розробки (слідкуйте за оголошеннями найближчими днями). Цей тривалий період дозволив нам бути надзвичайно впевненими в масштабованості, надійності та можливостях, які SubQuery сьогодні пропонує для Terra. У цій статті ми ділимося детальним посібником для розробників і дорожньою картою для всієї спільноти Terra для вирішення своїх потреб в індексації даних.
 
-SubQuery is an open data indexer that is flexible and fast. Our open indexing tool is designed to help developers build their own API in hours, and it's designed to index chains incredibly quickly with the assistance of dictionaries (pre-computed indices). Our experience with customers across all verticals in Polkadot (wallets, networks, explorers, NFT, DeFi, scanners, etc) has helped us build this.
+SubQuery — це індексатор відкритих даних, який є гнучким і швидким. Наш відкритий інструмент індексування розроблений, щоб допомогти розробникам створити власний API за години, і він розроблений для неймовірно швидкої індексації ланцюгів за допомогою словників (попередньо обчислених індексів). Наш досвід роботи з клієнтами в усіх галузях у Polkadot (гаманці, мережі, провідники, NFT, DeFi, сканери тощо) допоміг нам створити це.
 
 This is still in its early versions, and while we consider far beyond a "beta", we would appreciate it if any bugs can be reported to our team so we can address them quickly.
 
 <iframe width="656" height="369" src="https://www.youtube.com/embed/dS7h3isQCeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Why Use SubQuery?
+## Навіщо використовувати SubQuery?
 
-The application ecosystem has thrived in Terra even though there is a serious lack of some key developer tools and infrastructure services. It's amazing to see, and a testament to the drive and ingenuity of the Lunatics in Terra. I most cases when we asked teams how they solved their data indexing needs, it was:
+Екосистема додатків процвітала в Terra, незважаючи на те, що існує серйозна нестача деяких ключових інструментів розробки та інфраструктурних послуг. It's amazing to see, and a testament to the drive and ingenuity of the Lunatics in Terra. I most cases when we asked teams how they solved their data indexing needs, it was:
 
 - **Build your own solution:** A custom implementation running by yourself built specifically for your app. But why reinvent the wheel? SubQuery is focusing on building a reliable and fast open indexer - we're here to save you time
 - **Designing smart contracts for queries:** Some teams were even implementing custom quirks in their smart contracts to specifically allow for more advanced queries specific to their application logic.
@@ -29,22 +29,22 @@ You'll first need to install a recent version of @subql/cli via npm i -g @subql/
 
 The best way is to start with [our starter project](https://github.com/subquery/terra-subql-starter), it contains a running project with an example of all mapping functions: This project indexes the following:
 
-- **BlockHandler:** All blocks and their hash and height
-- **TransactionHandler:** All transactions and their hash, height, and timestamp
-- **EventHandler:** All smart contract transfer events and their hash, height, sender, recipient, and amount from a filtered smart contract address (bLuna)
-- **MessageHandler:** All smart contract messages and their hash, height, contract, sender, and execute_msg data from a filtered smart contract address (bLuna)
+- **BlockHandler:** Усі блоки та їх хеш і висота
+- **TransactionHandler:** всі транзакції та їх хеш, висота та мітка часу
+- **EventHandler:** Усі події передачі смартконтракту та їх хеш, висота, відправник, одержувач і сума з відфільтрованої адреси смартконтракту (bLuna)
+- **MessageHandler:** Усі повідомлення смарт-контракту та їх хеш, висота, дані контракту, відправника та execute_msg з відфільтрованої адреси смарт-контракту (bLuna)
 
-SubQuery supports indexing Terra's smart contracts with both transaction and message subscriptions and handlers. You can see a working example of Smart Contract support in the [starter project](https://github.com/subquery/terra-subql-starter) and read the documentation on the [SubQuery University](http://localhost:8080/build/manifest.html#mapping-handlers-and-filters).
+SubQuery підтримує індексацію смарт-контрактів Terra за допомогою підписок і обробників транзакцій і повідомлень. Ви можете побачити робочий приклад підтримки Smart Contract у [початковому проекті](https://github.com/subquery/terra-subql-starter) і прочитати документацію в [Університеті підзапитів](http://localhost:8080/build/manifest.html#mapping-handlers-and-filters).
 
-SubQuery's Terra implementation has been designed to operate almost identically to SubQuery's Polkadot support, and in a similar way to the Graph's approach. We've updated the [SubQuery University](https://university.subquery.network/) to add Terra specific information to the general SubQuery documentation. You can start by following this [excellent getting started guide here](http://university.subquery.network/quickstart/quickstart-terra.html).
+Реалізація Terra в SubQuery була розроблена так, щоб працювати майже так само, як і підтримка Polkadot в SubQuery, і подібно до підходу Graph. Ми оновили [Університет SubQuery](https://university.subquery.network/), щоб додати конкретну інформацію про Terra до загальної документації SubQuery. Ви можете почати, дотримуючись цього [чудового посібника з початку роботи тут](http://university.subquery.network/quickstart/quickstart-terra.html).
 
-## Deploying your Project to SubQuery's Managed Service
+## Розгортання вашого проекту в керованій службі SubQuery
 
-Although you will always be able to run your project in your own infrastructure easily, [SubQuery's managed service](https://subquery.network/managedservices) now supports Terra project. Some of the biggest projects depend on SubQuery's [enterprise level](./20211228-enterprise-hosted.md) managed service and now you can too. As part of our launch partner agreement, we are providing you with 3 months free hosting.
+Хоча ви завжди зможете легко запускати свій проект у власній інфраструктурі, [керована служба SubQuery](https://subquery.network/managedservices) тепер підтримує проект Terra Деякі з найбільших проектів залежать від керованої служби SubQuery [підприємства](./20211228-enterprise-hosted.md), і тепер ви також можете. У рамках нашої партнерської угоди про запуск ми надаємо вам 3 місяці безкоштовного хостингу.
 
-You can [follow the guide here](https://university.subquery.network/run_publish/publish.html) to publish your Terra SubQuery project to our managed service. Please note that you must host your [SubQuery project using IPFS](https://university.subquery.network/run_publish/publish.html) rather than GitHub.
+Ви можете [слідувати посібнику тут](https://university.subquery.network/run_publish/publish.html), щоб опублікувати свій проект Terra SubQuery в нашій керованій службі Зауважте, що ви повинні розміщувати свій [проект SubQuery за допомогою IPFS](https://university.subquery.network/run_publish/publish.html), а не GitHub.
 
-You can update your managed service project as much as you want. We even have a [staging deployment slot](./20210604-Deployment-Slots-are-here-for-SubQuery-Projects.md) to allow you to do seamless blue/green upgrades without any downtime. This staging slot can also be used to run a clean instance of SubQuery with a fresh database for complete background reindexing of your project. Customers usually link the staging slot to the staging/development versions of their applications.
+Ви можете оновлювати свій керований сервісний проект скільки завгодно. У нас навіть є [слот поетапного розгортання](./20210604-Deployment-Slots-are-here-for-SubQuery-Projects.md), щоб ви могли безперебійно оновлювати синій/зелений колір без простоїв. This staging slot can also be used to run a clean instance of SubQuery with a fresh database for complete background reindexing of your project. Customers usually link the staging slot to the staging/development versions of their applications.
 
 Once deployed, you can access your project using the SubQuery Explorer, and make requests directly from your app to the provided GraphQL endpoint. Let us know if you would like us to enable more advanced features like [GraphQL subscriptions](https://university.subquery.network/run_publish/subscription.html), more complex queries, and [aggregation functions](https://university.subquery.network/run_publish/aggregate.html).
 
