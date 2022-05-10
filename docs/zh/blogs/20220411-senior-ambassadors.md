@@ -30,20 +30,20 @@ Nick讲四种语言，即英语、德语、俄语和乌克兰语，在社区管�
 
 ![](https://miro.medium.com/max/1400/0*UAl7Xw8tJuJ44SrF)
 
-Prathak is a doctor who is interested in a variety of fields, but his greatest interest lies in investment and technology.
+Prathak是一位对各种领域感兴趣的医生，但他最大的兴趣在于投资和技术。
 
-He learned about the world of blockchain while studying programming on his own during his university years in his free time. He was drawn to the possibilities and potential of new technologies and became deeply passionate about blockchain, especially DeFi and DAOs. Other favoured topics for him are artificial intelligence, ZKP and how blockchain can be used in a more privacy-focused environment.
+他在自由时间的大学年份里自己学习编程时了解了区块链的世界。 他被利用了新技术的可能性和潜力，并对区块链，尤其是Defi 和 DAO 深感激动。 他喜欢的其他主题是人工智能，ZKP 和区块链如何能够在更注重隐私的环境中使用。
 
-In addition to his interest in blockchain and new technologies stemming from his software development background, he also has literary and poetic abilities.
+除了他对软件开发背景所产生的区块链和新技术感兴趣外，他还具有文学和诗歌能力。
 
-In his spare time, he reads novels, comic books, and exercises regularly. On long weekends, he often goes out on a motorcycle to explore the nature and lifestyle of the local people. He aspires to have a positive influence on others such as his family and friends.
+他在余下的时间里读了小说、漫画书，并定期练习。 在很长的周末，他经常骑摩托车去探索当地人民的性质和生活方式。 他希望对他的家人和朋友等其他人产生积极影响。
 
-As a SubQuery Ambassador, he desires to use this opportunity to create an open-source instructional resource regarding blockchain applications. He envisions the resource to involve not just instructions on dapp creation for novices, but also scientific research on subjects such as AI and ZKP.
+作为SubQuery 大使，他希望利用这个机会创建一个关于区块链应用程序的开源教学资源。 他设想这种资源不仅涉及关于创造新体系的dapp 的指示，而且还涉及诸如AI和ZKP等主题的科学研究。
 
-> _"Aside from the fact that the SubQuery team and community are amazing. The reason I like SubQuery is because I see the great potential that SubQuery will bring to the blockchain world. Being able to access and analyze data on blockchain is very important in taking blockchain to the next level. Especially now that data is more valuable than gold."_ - Prathak
+> _“除了对SubQuery团队和社区感到惊奇之外， 我喜欢SubQuery的原因是因为我看到SubQuery会给区块链世界带来巨大的潜力。 能够访问和分析区块链上的数据对于将区块链推到下一级非常重要。 特别是现在该数据比黄金更宝贵。”_ - Prathak
 
-## About SubQuery
+## 关于 SubQuery
 
-[SubQuery](https://subquery.network) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot , Substrate and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+[SubQuery](https://subquery.network) 是一个区块链开发者工具包，使他人能够构建未来的 Web3 应用程序。 SubQuery项目是一个完整的API，用于组织和查询来自Layer 1的数据。 目前的重心是在 Polkadot 和 Substrate 的项目，我们提供的数据服务使开发人员能够专注于核心应用案例和前端，为其节省下建立数据处理的自定义后端的时间。 SubQuery Network提供同样的可扩展且高性能的解决方案，是以完全去中心化的方式呈现。
 
-​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+Linktree | Website | Discord | Telegram | Twitter | Matrix | LinkedIn | YouTube
