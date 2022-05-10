@@ -1,29 +1,29 @@
-# SubQuery ได้มีการเปิดตัว Testnet "The Frontier"
+# SubQuery Launches "The Frontier" Testnet
 
 ![](https://miro.medium.com/max/1400/1*zRR8l3aVZKth9Fw0rqL-lg.png)
 
-วันนี้เรามีความยินดีเป็นอย่างยิ่งที่จะประกาศเปิดตัว testnet ของเรา "The Frontier" testnet ย่อมาจาก เครือข่ายทดสอบ (test network) ซึ่งหมายถึงเครือข่ายที่นักพัฒนาใช้เพื่อทดสอบโค้ดก่อนที่จะนำไปใช้กับเครือข่ายหลัก (หรือ Mainnet) ในกรณีของ SubQuery การเปิดตัว testnet ถือเป็นก้าวสำคัญในการพัฒนาของเรา เพื่อพัฒนาไปสู่การเปิดใช้งานบน mainnet อย่างเต็มรูปแบบ ซึ่งจะเกิดขึ้นพร้อมกับการลิสต์โทเค็นของเราบน centralised exchange
+Today we are pleased to announce the launch of our testnet, "The Frontier". A testnet, short for test network, is a network used by developers to test code before it is deployed to the main network (or "Mainnet). In SubQuery's case, the launch of the testnet marks a critical milestone in our development as we progress towards the full deployment of mainnet which coincides with our token listing on centralised exchanges.
 
-เพื่อที่จะรัน testnet ได้อย่างมีประสิทธิภาพ เราต้องการให้มันถูกทดสอบโดยผู้รันโหนดที่มีประสบการณ์ ผู้ซึ่งเชี่ยวชาญในการรันที่มีประสิทธิภาพสูงและการผลิตบล็อคที่สามารถสเกลได้ พร้อมทั้งมีการมอนิเตอร์และการรักษาความปลอดภัยของกระเป๋าเงิน/โครงสร้างพื้นฐาน ตั้งแต่ที่ [เราได้เชิญให้ indexer เข้าร่วม](./20211202-indexer-invitation.md) เราได้รับความสนใจอย่างล้นหลามจากผู้คนชุมชนของเรา และเราได้อนุมัติกลุ่มของ indexer กลุ่มแรกซึ่งจะได้รับคำเชิญให้เข้าร่วมในซีซั่นที่ 1 และ 2 ของ SubQuery Frontier
+In order to run the testnet effectively, we require it to be battle-tested by experienced node operators who are experts in running high performance and scalable productions with monitoring and wallet/infrastructure security. Since our [call for indexers to participate](./20211202-indexer-invitation.md) we have been overwhelmed by the interest from our community and have recently approved an initial group of indexers who will soon receive their invitations to participate in SubQuery Frontier's seasons 1 & 2.
 
-Indexer ของ SubQuery Network ได้ทำให้ SubQuery เปลี่ยนแปลงไปสู่การเป็นบริการแบบกระจายอำนาจ จากการที่พวกเขาจะเป็นโฮสต์และเป็นผู้จัดระเบียบข้อมูลบล็อคเชนบนโครงสร้างพื้นฐานของพวกเขาเอง เราคาดหวังว่าสิ่งนี้จะเพิ่ม Uptime ของ SubQuery ได้อีกมาก จัดเตรียมระบบ Redundancy ที่ดียิ่งขึ้น และเพิ่มประสิทธิภาพโดยการลด Latency
+Indexers in the SubQuery Network mark the transition of SubQuery to becoming a decentralised service as they will host and organise the blockchain data on their infrastructure. We expect that this will massively increase SubQuery's uptime, provide better redundancy, and increase performance by driving down latency.
 
-Ian He, CTO ของ SubQuery ได้กล่าวว่า _"SubQuery รู้สึกตื่นเต้นกับการเปิดตัว SubQuery Frontier Testnet และสิ่งที่แสดงถึงทั้งตัวเราและชุมชนที่ภักดีของเรา การเลือกใช้คำว่า "Frontier" มาเป็นชื่อ testnet ยังเป็นการบ่งบอกว่า เราเชื่อว่าเราอยู่ในการเติบโตของ Web3 และเราต้องการให้ indexer ก้าวข้ามขีดจำกัด"_
+Ian He, CTO of SubQuery, commented, _"SubQuery is excited about the launch of the SubQuery Frontier Testnet and what it represents to both ourselves and our loyal community. The choice of "Frontier" as our testnet name also denotes where we believe we are in the growth of Web3 and that we want Indexers to push beyond the limits."_
 
-The Frontier Testnet จะเปิดตัวโดยแบ่งเป็นระยะที่เราเรียกว่า ซีซั่น เริ่มตั้งแต่วันที่ 11 เมษายน แต่ละซีซั่นจะใช้เวลา 2-3 สัปดาห์
+The Frontier Testnet will be rolled out in stages that we call "seasons, starting from April 11th. Each season will go for 2--3 weeks.
 
-- ซีซั่น 1 ระยะอัลฟา เป็นการทดสอบโดยฟีเจอร์ยังมีจำนวนจำกัด มีผู้เข้าร่วมไม่เกิน 30 คน
-- ซีซั่น 2 เป็นการทดสอบเบต้าครั้งใหญ่ที่มีฟีเจอร์เพิ่มเติม พร้อมกับจำนวนผู้เข้าร่วมที่มากขึ้น
-- ซีซั่น 3 เป็นการเปิด testnet สาธารณะอย่างเต็มรูปแบบ สำหรับการทดสอบโหลดและสเกล --- เปิดให้ทุกฝ่ายที่สนใจ
+- Season 1. Early stage alpha testing of a limited number of features with less than 30 participants.
+- Season 2. Large beta testing of more features with more participants.
+- Season 3. Full public test network for load and scale testing --- open to all interested parties.
 
 ![](https://miro.medium.com/max/1400/1*oWnMXGqndf5539Gml7gf-Q.png)
 
-testnet นั้นมีเป้าหมายเพื่อการพัฒนา และจะได้รับการปรับปรุงที่สำคัญในระหว่างซีซั่น รายละเอียดเพิ่มเติมอยู่ในเว็บไซต์เอกสารอ้างอิงของ SubQuery: https://university.subquery.network/
+The testnet is for development purposes and will undergo significant development enhancements during the seasons. More details are available on the SubQuery documentation website: https://university.subquery.network/
 
-สำหรับข้อมูลเพิ่มเติม โปรด[ติดต่อทีมงานของเราใน Discord](https://discord.com/invite/78zg8aBSMG)
+For further information, please [contact our team in Discord](https://discord.com/invite/78zg8aBSMG).
 
-## เกี่ยวกับ SubQuery Network
+## About SubQuery Network
 
-[SubQuery](https://subquery.network)เป็นชุดเครื่องมือสำหรับนักพัฒนาบล็อกเชนที่ช่วยในการสร้างแอปพลิเคชัน Web3 แห่งอนาคต โปรเจกต์ SubQuery เป็น API ที่สมบูรณ์ในการจัดระเบียบและสืบค้นข้อมูลจากเชนเลเยอร์ 1 ปัจจุบัน เปิดให้บริการอยู่บน Polkadot, Substrate และ Avalanche การบริการด้านข้อมูลในลักษณะนี้ช่วยให้นักพัฒนาสามารถมุ่งเน้นไปที่กรณีการใช้งานหลักและ front-end โดยไม่ต้องเสียเวลาไปกับการสร้าง backend สำหรับการประมวลผลข้อมูลขึ้นมาเอง The SubQuery Network นำเสนอการใช้งานโซลูชันที่สามารถสเกลได้และเชื่อถือได้แบบเดียวกันนี้ แต่อยู่ในแนวทางการกระจายอำนาจอย่างสมบูรณ์
+[SubQuery](https://subquery.network) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot, Substrate and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
-[ลิงก์ทรี](https://linktr.ee/subquerynetwork) | [เว็บไซต์](https://subquery.network/) | [ดิสคอร์ด](https://discord.com/invite/78zg8aBSMG) | [เทเลแกรม](https://t.me/subquerynetwork) | [ทวิตเตอร์](https://twitter.com/subquerynetwork) | [เมทริกซ์](https://matrix.to/#/#subquery:matrix.org) | [ลิงก์อิน](https://www.linkedin.com/company/subquery) | [ยูทูป](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+​​​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
