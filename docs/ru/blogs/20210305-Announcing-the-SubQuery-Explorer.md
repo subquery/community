@@ -41,7 +41,7 @@ SubQuery Explorer является первым набором наших пла
 **Поговорите с нами на:**
 
 -   [hello@subquery.network](mailto:hello@subquery.network)
--   [Дискорд](https://discord.com/invite/78zg8aBSMG)
+-   [Discord](https://discord.com/invite/78zg8aBSMG)
 -   [Телеграмма](https://t.me/subquerynetwork)
 -   [Твиттер](https://twitter.com/subquerynetwork)
 -   [Матрица](https://matrix.to/#/#subquery:matrix.org)
