@@ -1,10 +1,10 @@
-# Introducing SubQuery's Senior Ambassadors
+# Giới thiệu các Đại sứ cấp cao của SubQuery
 
 ![](https://miro.medium.com/max/1400/0*E059TXajzXqkqW2g)
 
-SubQuery [launched an Ambassador programme](./20210713-Introducing-the-SubQuery-Ambassador-Program.md) in August 2021 to find community leaders who were passionate about the potential of SubQuery. Our goal was to find self-starters that could spread the word about SubQuery in their local areas and provide support to new developers who were building innovative dApps and services within our ecosystem.
+SubQuery [ đã khởi động chương trình Đại sứ ](./20210713-Introducing-the-SubQuery-Ambassador-Program.md) vào tháng 8 năm 2021 để tìm các nhà lãnh đạo cộng đồng, những người đam mê tiềm năng của SubQuery. Mục tiêu của chúng tôi là tìm kiếm những người tự khởi nghiệp có thể quảng bá rộng rãi về SubQuery ở các khu vực của họ và cung cấp sự hỗ trợ cho các nhà phát triển mới đang xây dựng các dApp và dịch vụ sáng tạo trong hệ sinh thái của chúng tôi.
 
-Within a short span of time, we were overwhelmed by the number and quality of applications from all over the world!
+Trong một khoảng thời gian ngắn, chúng tôi đã bị choáng ngợp bởi số lượng và chất lượng của các ứng dụng từ khắp nơi trên thế giới!
 
 After consultation with our initial Ambassadors we created an additional [Spartan Programme](./20211101-spartan-programme.md) as an avenue for passionate individuals to have a chance to become an Ambassador. The Spartan Programme exists entirely within our Discord community, where aspiring Ambassadors can complete monthly tasks and competitions in order to earn the Spartan tag. The Spartans who then rise to the top of their class will be recommended by the existing Ambassadors to the SubQuery team to join their ranks.
 
@@ -42,7 +42,7 @@ As a SubQuery Ambassador, he desires to use this opportunity to create an open-s
 
 > _"Aside from the fact that the SubQuery team and community are amazing. The reason I like SubQuery is because I see the great potential that SubQuery will bring to the blockchain world. Being able to access and analyze data on blockchain is very important in taking blockchain to the next level. Especially now that data is more valuable than gold."_ - Prathak
 
-## Giới thiệu về SubQuery
+## About SubQuery
 
 [SubQuery](https://subquery.network) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot , Substrate and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
