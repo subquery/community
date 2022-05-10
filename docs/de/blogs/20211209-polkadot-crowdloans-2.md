@@ -2,11 +2,11 @@
 
 ![](https://miro.medium.com/max/1400/0*MqQhXJbmnfMSqf-8)
 
-Polkadot has provided its community with another exciting race for their third parachain slot auction. We have recently witnessed Parallel Finance and Astar battle it out for the third slot, and in the end Astar managed to emerge victorious. Today we are going to explore a little more about what happened within the third auction by diving into the data behind every single contribution.
+Polkadot hat seiner Community ein weiteres aufregendes Rennen für ihre dritte Parachain-Slot-Auktion beschert. Wir haben vor kurzem erlebt, wie Parallel Finance und Astar um den dritten Slot kämpften, und am Ende schaffte es Astar, als Sieger hervorzugehen. Heute werden wir etwas mehr über die Ereignisse der dritten Auktion erfahren, indem wir in die Daten hinter jedem einzelnen Beitrag eintauchen.
 
-SubQuery is Polkadot’s leading data indexing service, and over the past week we’ve been powering millions of daily requests to the majority of the crowdloan dashboards, contribution apps, and analytics websites. Teams like [SubVis](https://www.subvis.io/), [Parallel Finance](https://parallel.fi/), and [DotMarketCap](https://dotmarketcap.com/) rely on SubQuery to provide real time data on the crowdloans and other on-chain data directly to their websites and apps.
+SubQuery ist Polkadots führender Datenindexierungsdienst. In den letzten Wochen haben wir täglich Millionen von Anfragen an die meisten Crowdloan-Dashboards, Beitrags-Apps und Analyse-Websites gestellt. Teams wie [SubVis](https://www.subvis.io/), [Parallel Finance](https://parallel.fi/) und [DotMarketCap](https://dotmarketcap.com/) verlassen sich auf SubQuery, um Echtzeitdaten zu den Crowdloans und anderen On-Chain-Daten direkt an ihre Webseiten und Apps.
 
-Firstly, let’s start with some high level quick facts. As you can see below Astar had both more contributions and contributors. It’s important to note that Parallel raised a significant amount through its proxy fund, so the contributor amount is misleading because the proxy account hides this information.
+Beginnen wir zunächst mit einigen schnellen Fakten auf hohem Niveau. Wie Sie unten sehen können, hatte Astar sowohl mehr Beiträge als auch Mitwirkende. Es ist wichtig zu beachten, dass Parallel einen erheblichen Betrag durch seinen Proxy-Fonds gesammelt hat, daher ist der Beitragsbetrag irreführend, da das Proxy-Konto diese Informationen verbirgt.
 
 Both received a median contribution of 10 DOT (US$367.70) but Astar was able to attract the largest single contribution with 2,005,295 DOT (US$73.7 million). In the end a total of almost 20 million DOT (US$735.4 million) was contributed across both two during the third auction. Unsurprisingly, this number was less than the amount committed in the first auctions, however it is promising to see the auction amounts still being of significant value.
 
