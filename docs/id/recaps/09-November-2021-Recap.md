@@ -64,17 +64,13 @@ SubQuery telah mengusulkan 5 hadiah dengan total hadiah hingga $34,000:
 
 ### Analisis ke dalam Crowdloans Polkadot
 
-SubQuery adalah layanan pengindeksan data terkemuka dari Polkadot, dan selama seminggu terakhir, kami telah mendukung jutaan permintaan harian ke sebagian besar dashboard crowdloan, aplikasi kontribusi, dan situs web analitik. Tim seperti [**SubVis**](https://www.subvis.io/), [**Parallel Finance**](https://parallel.fi/), dan
-
-**DotMarketCap**</3 > mengandalkan SubQuery untuk menyediakan data real-time tentang crowdloan dan data on-chain lainnya langsung ke situs web dan aplikasi mereka.</p> 
+SubQuery adalah layanan pengindeksan data terkemuka dari Polkadot, dan selama seminggu terakhir, kami telah mendukung jutaan permintaan harian ke sebagian besar dashboard crowdloan, aplikasi kontribusi, dan situs web analitik. Tim seperti [**SubVis**](https://www.subvis.io/), [**Parallel Finance**](https://parallel.fi/), dan [**DotMarketCap**](https://dotmarketcap.com/) mengandalkan SubQuery untuk menyediakan data real-time tentang crowdloan dan data on-chain lainnya langsung ke situs web dan aplikasi mereka.
 
 ![](https://miro.medium.com/max/60/0*HfsoOwpat76ip6Jg?q=20)
 
 ![](https://miro.medium.com/max/700/0*HfsoOwpat76ip6Jg)
 
 Kami baru-baru ini menyelam jauh ke dalam crowdloan Polkadot (khususnya pertarungan gelar antara Acala dan Moonbeam). [Anda harus membacanya di sini jika belum](https://blog.subquery.network/blogs/20211124-polkadot-crowdloans.html).
-
-
 
 ## Hal-hal lain yang mungkin Anda lewatkan
 
