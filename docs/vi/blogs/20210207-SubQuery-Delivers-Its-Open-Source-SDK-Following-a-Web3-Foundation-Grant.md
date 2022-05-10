@@ -16,7 +16,7 @@ Bộ công cụ này bao gồm @subql/cli, để cho phép các dự án tạo d
 
 Thứ hai, có một tập các node SubQuery tải dự án SubQuery được tạo bởi CLI và sau đó lập chỉ mục mạng và lưu trữ bằng cơ sở dữ liệu Postgres. Sử dụng Hasura, bạn có thể chạy các truy vấn GraphQL ngay lập tức trên các bảng được lập chỉ mục. Với sự trợ giúp của các công cụ này và tài liệu hỗ trợ cộng đồng mà chúng tôi luôn cải tiến, bất kỳ ai cũng có thể tạo và chạy các truy vấn một cách dễ dàng.
 
-**Bạn có thể bắt đầu ngay lập tức bằng cách làm theo ví dụ của chúng tôi trên** [**Github của SubQuery**](https://github.com/OnFinality-io/subql) **. Ngoài ra, bạn có thể tìm hiểu thêm bằng cách đọc ** [**tài liệu SubQuery**](https://doc.subquery.network/) ** hoặc** [**truy cập website mới của chúng tôi**](https://subquery.network/) **. **
+**Bạn có thể bắt đầu ngay lập tức bằng cách làm theo ví dụ của chúng tôi trên** **[**Github SubQuery**](https://github.com/OnFinality-io/subql)**. Ngoài ra, bạn có thể tìm hiểu thêm bằng cách đọc **[**tài liệu SubQuery**](https://doc.subquery.network/)** **hoặc** [**truy cập website mới của chúng tôi**](https://subquery.network/)**.**
 
 Chúng tôi vô cùng biết ơn sự hỗ trợ của Web3 Foundation đã giúp chúng tôi thực hiện dự án vì cộng đồng này. Web3 Foundation tài trợ cho các nhóm nghiên cứu và phát triển xây dựng nền tảng công nghệ của web phi tập trung. Nó được thành lập tại Zug, Thụy Sĩ bởi đồng sáng lập và cựu giám đốc công nghệ của Ethereum, Tiến sĩ Gavin Wood. Polkadot là dự án hàng đầu của Tổ chức.
 
