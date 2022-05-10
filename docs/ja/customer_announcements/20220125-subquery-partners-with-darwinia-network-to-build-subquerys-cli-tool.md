@@ -1,35 +1,35 @@
-# SubQueryはDarwiniaネットワークと提携してSubQueryのCLIツールを構築します。
+# SubQuery partners with Darwinia Network to build SubQuery’s CLI Tool
 
 ![](https://miro.medium.com/max/1400/1*96OGWsQrxNGC5rblYxhdAw.jpeg)
 
-本日は、KodadotとSubQuery Networkの戦略的パートナーシップについてお知らせします。 ダーウィニアは最近、クサマパラチェーンオークトンスロットを獲得し、ポルカドットスロットを確保する準備をしています。 ダーウィニアは、ポルカドットのクロスチェーンブリッジハブを構築するためのロードマップの一環として、サブクエリと提携して、クロスチェーンインタラクションの究極のユーザーエクスペリエンスを提供するために必要な多数のアプリケーションを構築しています。
+Today we want to announce our partnership between Darwinia Network and SubQuery Network. Darwinia recently won their Kusama parachain aucton slot, and is preparing to secure their Polkadot slot. As part of Darwinia’s roadmap to build a cross chain bridge hub for Polkadot, Darwinia has partnered with SubQuery to build the plethora of applications that will be needed to provide the ultimate user experience for cross chain interactions
 
-私たちのパートナーシップは、Darwiniaのアプリケーションエコシステムを強化するためにSubQueryを使用するだけでなく、SubQueryチームと緊密に協力して[SubQueryマネージドサービスのCLIツール](https://github.com/fewensa/subquery-cli)を構築しています([https://project.subquery.network](https://project.subquery.network))。 この[CLI](https://github.com/fewensa/subquery-cli)を使用して、SubQueryプロジェクトを作成し、ステージングまたは本番スロットに新しいバージョンを自動的にデプロイできます。 さらに、SubQuery Projectsで無料でホストされている実行中のプロジェクトから詳細な同期ステータスやログなどの情報を取得できます。 Darwiniaはこれをさらに進め、[GitHubアクションワークフロー](https://github.com/darwinia-network/bridger/blob/master/.github/workflows/subquery-prod.yml)の例を構築しました。これは、CLIツールを使用して、[リポジトリ](https://github.com/darwinia-network/bridger/blob/master/.github/workflows/subquery-prod.yml)のメインブランチへのプッシュでこれを行います。 この新しい自動化は、DarwiniaとSubQueryとの密接な関係の良い例です。 CLIツールはすでにSubQueryの大きなエコシステム内の他の多くのプロジェクトで使用されています。
-> 「私たちが構築したSubQuery CLI ツールは、開発パイプラインを簡単にしました。 ブランチでリリースを完全に管理し、SubQueryのホストされたサービスに自動的に変更が展開されると確信できるようになりました。 私たちは、スキーマかどうかを確認するために私たちの自動化されたプロセスを誇りに思っています。 raphqlファイルが変更されました。もしそうであれば、新しいクリーンなデータベースを再デプロイします。」 — ヤリン、コア開発者 — Darwinia Network
+Our partnership goes deeper than just using SubQuery to power Darwinia’s application ecosystem, Darwinia have been working closely with the SubQuery team to [build a CLI tool](https://github.com/fewensa/subquery-cli) for the SubQuery managed service ([https://project.subquery.network](https://project.subquery.network)). You can use this [CLI](https://github.com/fewensa/subquery-cli) to create a SubQuery project and automatically deploy a new version to either the staging or production slot. Additionally you can retrieve information including the detailed syncing status and logs from your running project that is hosted for free in SubQuery Projects. Darwinia have taken this even further and built an example [GitHub Action workflow](https://github.com/darwinia-network/bridger/blob/master/.github/workflows/subquery-prod.yml) that uses the CLI tool to do this on any push to the main branch of their [repository](https://github.com/darwinia-network/bridger/blob/master/.github/workflows/subquery-prod.yml). This new automation is an excellent example of the close relationship between Darwinia and SubQuery, and the CLI tool is already used by many other projects within SubQuery’s large ecosystem.
+> “The SubQuery CLI tool that we’ve built has really made our development pipeline easy, now we can entirely manage releases in branches and feel confident that our changes will be deployed automatically to SubQuery’s hosted service. We are particulay proud of our automated process to check if the schema.graphql file has changed, and if so, we’ll redeploy a new clean database” — Yalin, Core Developer — Darwinia Network
 
 
-ここで [新しい CLI ツールをチェックし、](https://github.com/fewensa/subquery-cli) ここで [生きている例](https://github.com/darwinia-network/bridger/blob/master/.github/workflows/subquery-prod.yml) を参照してください。
+Check out the [new CLI tool here](https://github.com/fewensa/subquery-cli) and see a [living example of it here](https://github.com/darwinia-network/bridger/blob/master/.github/workflows/subquery-prod.yml).
 
-Darwiniaの成長を続けるアプリケーションエコシステムの最初の多くのアプリケーションは、 [Wormholeアプリ](https://wormhole.darwinia.network/)です。 Wormholeは使いやすいアプリケーションであり、ネットワーク間でアセットを簡単に転送することができ、Darwiniaのクロスチェーン戦略の重要な部分です。 現在、DarwiniaとEthereumの間のブリッジは稼働しています。 [SubQuery は、ワームホールに関連する Darwinia/Crab/Pangolin アドレスで発生した歴史的な送金やイベント](https://explorer.subquery.network/subquery/darwinia-network/wormhole-darwinia) を表示するために使用されます。 を選択します。
+The first of many applications in Darwinia’s growing application ecosystem is the [Wormhole app](https://wormhole.darwinia.network/). Wormhole is an easy to use application that makes transferring assets between networks easy and is a key part of Darwinia’s cross chain strategy. Currently the bridge between Darwinia and Ethereum is operational. [SubQuery is used to show historic transfers and events](https://explorer.subquery.network/subquery/darwinia-network/wormhole-darwinia) that have occurred on your Darwinia/Crab/Pangolin address related to the wormhole (e.g. the arrival of assets from another network).
 
 ![](https://miro.medium.com/max/1400/1*p3V-lvW6BmEVZXaDYDY7mw.png)
 
-Darwiniaのチームは、ガバナンスを含むすべてのDarwiniaネットワークの相互作用を管理するための中央ハブである [スマートアプリを新たに構築中です](https://apps.darwinia.network/) 杭打ちやチェーン探査などです。 このアプリはかなりの量の [SubQuery データを使用して、歴史的なデータとアクション](https://explorer.subquery.network/subquery/darwinia-network/smart-app-crab) を表示します。 SubQuery は、Darwinia のチームと密接に連携し、これを全体の Polkadot エコシステムにおける最速かつより簡単なユーザ体験にします。
-> 「Wormhole用の既存のバックエンドserviesをSubQueryに置き換えることを楽しみにしています。 SubQuery Networkの長期的な機能により、これによりサービスは完全に分散型でオープンソースになります。 — ヤリン、コア開発者 — Darwinia Network
+The team at Darwinia is in the process of building a new [Smart App that is a central hub](https://apps.darwinia.network/) to manage all Darwinia network interactions including governance, staking, chain exploration and more. This app uses a considerable amount of [SubQuery data to show historic data and actions](https://explorer.subquery.network/subquery/darwinia-network/smart-app-crab). SubQuery will be working closely with the team at Darwinia to make this the fastest and easier user experience in the entire Polkadot ecosystem.
+> “We’re excited to use SubQuery to replace our existing backend servies for Wormhole, over the long term with the SubQuery Network this will make our services total decentralised and open source — its something that we are proud of!”” — Yalin, Core Developer — Darwinia Network
 
 
-さらに、DarwiniaはSubQueryを [に使用して、](https://explorer.subquery.network/subquery/darwinia-network/home-plo-polkadot) 彼らの [Parachain Loan Offering ウェブサイト](https://darwinia.network/plo_contribute)の背後にあるデータを提供しています。 Crab は Kusama で既にスロットを獲得していますが、Darwinia のキャンペーンに貢献するには遅すぎることはありません。 彼らはまた、ネットワーク内で作成されたすべてのブロックに対して [Merkle Mountain range](https://explorer.subquery.network/subquery/darwinia-network/darwinia-mmr) をインデックスするために SubQuery を利用しています。
+Additionally, Darwinia are using SubQuery to [provide the data behind](https://explorer.subquery.network/subquery/darwinia-network/home-plo-polkadot) their [Parachain Loan Offering website](https://darwinia.network/plo_contribute). Although Crab has already won their slot on Kusama, it’s not too late to contribute to Darwinia’s campaign for a Polkadot slot. They are also taking advantage of SubQuery to index [Merkle Mountain ranges](https://explorer.subquery.network/subquery/darwinia-network/darwinia-mmr) for all blocks created in their network.
 
-Darwiniaは[SubQuery Projects](https://project.subquery.network/)を使って自分のプロジェクトを管理し、必要に応じてアップデートを行っています。 私たちが提供するインデックスやクエリのサービスは、SubQueryによって完全に管理され、[SubQuery's Explorer](https://explorer.subquery.network/)としてPolkadotコミュニティに無料で提供されています。
+Darwinia Network is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/).
 
-## Darwinia Networkについて
+## About Darwinia Network
 
-Darwinia Networkは、クロスチェーン生態学の「ゴールデンゲートブリッジ」であるSubstrate上に構築された分散型クロスチェーンブリッジネットワークです。 これは、クロスチェーンアセット転送と一般的なリモートチェーンコールによってPolkadot、Ethereum、BSCおよびその他の異種チェーンを接続し、最も安全な一般的なブリッジソリューションを提供します。 また、主なアプリケーション分野には、デフィ、クロスチェーンNFT取引市場、ゲームなどがあります。
+Darwinia Network is a decentralized cross-chain bridge network building on Substrate, which is the “Golden Gate Bridge” of the cross-chain ecology. It provides the safest general bridge solution, connecting Polkadot, Ethereum, BSC and other heterogeneous chains by cross-chain assets transfer and general remote chain call. Also, its main application areas include Defi, cross-chain NFT trading market, games, etc.
 
 [Website](https://darwinia.network/) | [Twitter](https://twitter.com/DarwiniaNetwork) | [Telegram](https://t.me/DarwiniaNetwork) | [GitHub](https://github.com/darwinia-network) | [Discord](https://discord.gg/KMZVeyM)
 
-## SubQuery Networkについて
+## About SubQuery Network
 
-[SubQuery](https://subquery.network/)は、Layer-1ブロックチェーンと分散型アプリケーションの間にある、分散型のデータ集約、インデックス作成、およびクエリを行うためのレイヤーです。 現在、ポルカドットと基板プロジェクトに焦点を当てているこのサービスとしてのデータは、開発者がコアユースケースとフロントに集中することを可能にします。
+[SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications (DApps). Currently focused on Polkadot and Substrate projects, this data-as-a-service allows developers to focus on their core use case and front
 
-[Linktree](https://linktr.ee/subquerynetwork) | [Webサイト](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
