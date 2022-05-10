@@ -66,13 +66,11 @@ Wir haben kürzlich eine Quizfunktion hinzugefügt, damit die Schüler das offiz
 
 SubQuery was proud to partner with Acala for the Encode Club Hackathon last year to support the developer community and the next generation of Polkadot projects.
 
-Nach 10 Wochen und der Prüfung durch hochkarätige Juroren im Polkadot-Ökosystem wie [Bryan Chen](https://twitter.com/XiliangChen) (Mitbegründer und CTO von Acala), [Hang Yin](https://twitter.com/bgmshana) (Mitbegründer von Phala Network), [Jack Platts](https://twitter.com/jackbplatts) (Mitbegründer von Hypersphere Ventures) und [Sota Watanabe](https://twitter.com/WatanabeSota) (Gründer von Astar, CEO von Stake Technologies) freuen wir uns,
-
-die Gewinner< bekannt zu geben /4> unserer Herausforderungen.</p> 
+After 10 weeks and scrutiny from high profile judges in the Polkadot ecosystem such as [Bryan Chen](https://twitter.com/XiliangChen) (Co-Founder and CTO of Acala), [Hang Yin](https://twitter.com/bgmshana) (Co-Founder of Phala Network), [Jack Platts](https://twitter.com/jackbplatts) (Co-Founder of Hypersphere Ventures) and [Sota Watanabe](https://twitter.com/WatanabeSota) (Founder of Astar, CEO of Stake Technologies) we are happy to share [the winners](https://medium.com/encode-club/polkadot-hack-finale-prizewinners-and-summary-931627c64d9) of our challenges.
 
 🤖 Die „Build a Bot“-Herausforderung wurde vom Team von Krakura mit einem interessanten Open-Source-DEX-Arbitrage-Bot gewonnen, der ständig nach Preisunterschieden sucht.
 
-<iframe width="680" height="382" src="https://www.youtube.com/embed/G7TNTzMDijU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="680" height="382" src="https://www.youtube.com/embed/G7TNTzMDijU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 📈 Der Gewinner der Dashboard-Herausforderung mit AcalaNetwork war das Team bei Polkadata, eine Datenanalyseplattform für DeFi-Investoren, um zu verfolgen, wie intelligentes Geld auf Karura investiert und strukturiert wird
 
@@ -80,11 +78,9 @@ die Gewinner< bekannt zu geben /4> unserer Herausforderungen.</p>
 
 🪙 Entity 54 were the winners in the AcalaNetwork Defi DApp category. Entity 54 is a DApp that connects to AMTC6 via Acala API/EVM and reads account balances, loans and allows swaps, transfers, loan adjustments and transfers plus reads coin and loan data
 
-<iframe width="680" height="382" src="https://www.youtube.com/embed/fU1BRVOtx2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="680" height="382" src="https://www.youtube.com/embed/fU1BRVOtx2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Read more here](../blogs/20220120-gr12-winners.md)
-
-
 
 ### SubQuery Partners with OneBlock+ To Educate Blockchain Developers in China
 
@@ -93,8 +89,6 @@ Die Community von SubQuery war schon immer global, und eine große Zahl der Kund
 SubQuery hat kürzlich die SubQuery Academy ins Leben gerufen, um Blockchain-Entwickler weltweit weiterzubilden, insbesondere im Bereich der Datenindizierung im Polkadot-Ökosystem. Der bestehende "Hero Course" wurde ins Chinesische übersetzt und wird über WeChat bereitgestellt. OneBlock+ will provide additional learning support to students via weekly “Office Hours” on Tencents Conference platform.
 
 Die Durchführung dieses Kurses in China ist die Verkörperung des Engagements von SubQuery, allen unseren Gemeinden auf der ganzen Welt Unterstützung in lokaler Sprache zu bieten. [Read more here](../blogs/20211209-oneblock-education.md)
-
-
 
 ### Inside The Polkadot Crowdloans (Part 2)
 
@@ -106,8 +100,6 @@ Kurz gesagt, Astar und Parallel Finance führten eine sehr wettbewerbsfähige Au
 
 Auktionen zu haben, die extrem wettbewerbsfähig waren, deutet auf ein gesundes Ökosystem hin, und es ist ermutigend zu sehen, wie viel Engagement die Community gezeigt hat. Hier bei SubQuery freuen wir uns sehr, weiterhin mit den besten Polkadot-Projekten zusammenzuarbeiten, und können es kaum erwarten zu sehen, was die Zukunft für uns bereithält. [Read more here](../blogs/20211124-polkadot-crowdloans.md)
 
-
-
 ### Gitcoin Hackathon
 
 Um unsere Arbeit am Ausbau der Entwickler-Community für SubQuery fortzusetzen, [haben wir vom 1. bis 16. Dezember am jüngsten Gitcoin GR 12 Hackathon teilgenommen](../blogs/20211120-gitcoin12-hackathon.md).
@@ -117,8 +109,6 @@ In Zusammenarbeit mit unseren Freunden bei Acala, Moonbeam und Astar hatten wir 
 ![](https://miro.medium.com/max/1400/1*H84EaIQhTn5H0x-lWHyP3g.png)
 
 Our partnership with Gitcoin reflects our commitment to provide opportunities for motivated developers around the world to build the applications of tomorrow. As we grow there will be more hackathons and other opportunities from SubQuery to build projects so stay tuned!
-
-
 
 ## Other things you might have missed
 
