@@ -1,8 +1,8 @@
-# Introducing SubQuery's Senior Ambassadors
+# Giới thiệu các Đại sứ cấp cao của SubQuery
 
 ![](https://miro.medium.com/max/1400/0*E059TXajzXqkqW2g)
 
-SubQuery [launched an Ambassador programme](./20210713-Introducing-the-SubQuery-Ambassador-Program.md) in August 2021 to find community leaders who were passionate about the potential of SubQuery. Our goal was to find self-starters that could spread the word about SubQuery in their local areas and provide support to new developers who were building innovative dApps and services within our ecosystem.
+SubQuery [ đã khởi động chương trình Đại sứ ](./20210713-Introducing-the-SubQuery-Ambassador-Program.md) vào tháng 8 năm 2021 để tìm các nhà lãnh đạo cộng đồng, những người đam mê tiềm năng của SubQuery. Our goal was to find self-starters that could spread the word about SubQuery in their local areas and provide support to new developers who were building innovative dApps and services within our ecosystem.
 
 Within a short span of time, we were overwhelmed by the number and quality of applications from all over the world!
 
