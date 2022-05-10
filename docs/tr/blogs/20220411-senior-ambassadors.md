@@ -1,49 +1,49 @@
-# Introducing SubQuery's Senior Ambassadors
+# SubQuery'nin Kıdemli Elçileri ile tanışın
 
 ![](https://miro.medium.com/max/1400/0*E059TXajzXqkqW2g)
 
-SubQuery [launched an Ambassador programme](./20210713-Introducing-the-SubQuery-Ambassador-Program.md) in August 2021 to find community leaders who were passionate about the potential of SubQuery. Our goal was to find self-starters that could spread the word about SubQuery in their local areas and provide support to new developers who were building innovative dApps and services within our ecosystem.
+SubQuery, SubQuery'nin potansiyeli konusunda tutkulu olan topluluk liderlerini bulmak için Ağustos 2021'de [bir Elçi programı başlattı](./20210713-Introducing-the-SubQuery-Ambassador-Program.md). Hedefimiz, kendi yerel alanlarında SubQuery ile ilgili haberleri yayabilecek ve ekosistemimiz içinde yenilikçi dApp'ler ve hizmetler oluşturan yeni geliştiricilere destek sağlayabilecek kendi kendine başlayanlar bulmaktı.
 
-Within a short span of time, we were overwhelmed by the number and quality of applications from all over the world!
+Kısa bir süre içinde, dünyanın her yerinden başvuruların sayısı ve kalitesi karşısında şaşkına döndük!
 
-After consultation with our initial Ambassadors we created an additional [Spartan Programme](./20211101-spartan-programme.md) as an avenue for passionate individuals to have a chance to become an Ambassador. The Spartan Programme exists entirely within our Discord community, where aspiring Ambassadors can complete monthly tasks and competitions in order to earn the Spartan tag. The Spartans who then rise to the top of their class will be recommended by the existing Ambassadors to the SubQuery team to join their ranks.
+İlk Elçilerimizle görüştükten sonra, tutkulu bireylerin Elçi olma şansına sahip olmaları için ek bir [Spartan Programı](./20211101-spartan-programme.md) oluşturduk. Spartan Programı tamamen Discord topluluğumuzda mevcuttur ve hevesli Elçiler Spartan etiketini kazanmak için aylık görevleri ve yarışmaları tamamlayabilir. Daha sonra sınıflarının zirvesine yükselen Spartalılar, mevcut Alt Sorgu Elçileri tarafından saflarına katılmaları için tavsiye edilecek.
 
-Since the launch of the Ambassador programme, we have also identified several individuals who have also attained a higher level and we would like to formally thank and introduce them today! Please feel free to connect with them via their social media handles and to find out more about our Spartan and Ambassador programme please [join our Discord](https://discord.com/invite/subquery).
+Ambassador programının başlatılmasından bu yana, daha yüksek bir seviyeye ulaşmış birkaç kişiyi de belirledik ve bugün onlara resmen teşekkür etmek ve onları tanıştırmak istiyoruz! Lütfen sosyal medya hesapları aracılığıyla onlarla bağlantı kurmaktan çekinmeyin ve Spartan ve Ambassador programımız hakkında daha fazla bilgi edinmek için lütfen [Discord'umuza katılın](https://discord.com/invite/subquery).
 
 ![](https://miro.medium.com/max/1400/0*I0VcN-hdcTZzeA6l)
 
-Dmytro speaks English, Ukrainian, Russian, Bulgarian and Polish and has over 7 years of experience in marketing and business development. His experience is evident in his initiative in organising events, holding online meetings with influencers and his suggestions for the community.
+Dmytro, İngilizce, Ukraynaca, Rusça, Bulgarca ve Lehçe bilmektedir ve pazarlama ve iş geliştirme alanında 7 yılı aşkın deneyime sahiptir. Deneyimi, etkinlikler düzenleme girişiminde, etkileyici kişilerle çevrimiçi toplantılar düzenlemede ve topluluk için önerilerinde belirgindir.
 
-Most importantly, Dmytro values people and enjoys sharing knowledge, providing opportunities, and uniting people with a common goal.
+En önemlisi, Dmytro insanlara değer verir ve bilgiyi paylaşmaktan, fırsatlar sunmaktan ve insanları ortak bir hedefte birleştirmekten keyif alır.
 
-> _I am a fan and early explorer of the Polkadot ecosystem. I believe that it is they who will build the very great Web3 almanac of the future. But for the full functioning of the ecosystem, we need to open up a world of accessible and fast data and that's how I met SubQuery on June 14th, 2021. If Polkadot is the body, then SubQuery is memory and heart. For building more complex and intuitive applications, developers need more powerful tools for data processing and queries. SubQuery offers developers to focus more on the development of applications and solutions for them. SubQuery's believes that developers of applications will change the future while SubQuery will be engaged in maintenance of the exponentially growing infrastructure."_ - Dmytro
+> _Polkadot ekosisteminin bir hayranıyım ve ilk kaşifiyim. Geleceğin çok büyük Web3 almanakını inşa edeceklerin onlar olduğuna inanıyorum. Ancak ekosistemin tam olarak işlemesi için erişilebilir ve hızlı bir veri dünyasının kapılarını açmamız gerekiyor ve SubQuery ile 14 Haziran 2021'de bu şekilde tanıştım. Polkadot vücut ise, SubQuery bellek ve kalptir. Geliştiriciler, daha karmaşık ve sezgisel uygulamalar oluşturmak için veri işleme ve sorgular için daha güçlü araçlara ihtiyaç duyar. SubQuery, geliştiricilere, onlar için uygulamaların ve çözümlerin geliştirilmesine daha fazla odaklanmalarını sağlar. SubQuery's, uygulama geliştiricilerinin geleceği değiştireceğine ve SubQuery'nin katlanarak büyüyen altyapının bakımıyla ilgileneceğine inanıyor."_ - Dmytro
 
 ![](https://miro.medium.com/max/1400/0*fh2pBSbhmMkXWYqz)
 
-Nick has a degree in linguistics specialising in Germanic philology and literature, but also has a passion for marketing and management.
+Nick, Cermen filolojisi ve edebiyatında uzmanlaşmış dilbilim diplomasına sahiptir, ancak aynı zamanda pazarlama ve yönetim tutkusuna da sahiptir.
 
-He was interested in crypto since his school days, but it was not until university that he decided to take it seriously and take the necessary steps to familiarise himself with the crypto world. He believed that people would soon change their attitude towards cryptocurrencies and start to look into it more deeply, and that this topic would become very popular and commonplace.
+Okul günlerinden beri kriptoyla ilgileniyordu, ancak üniversiteye kadar ciddiye almaya ve kripto dünyasını tanımak için gerekli adımları atmaya karar vermedi. İnsanların kripto paralara karşı tutumlarını yakında değiştireceklerine ve daha derinden araştırmaya başlayacaklarına ve bu konunun çok popüler ve yaygın hale geleceğine inanıyordu.
 
-Nick speaks four languages, English, German, Russian and Ukrainian and has over two years of success in community management, team collaboration, leadership and strategic planning. His focus is on the Blockchain space, specifically DeFi technology and smart contract platforms, which he believes will change the world.
+Nick, İngilizce, Almanca, Rusça ve Ukraynaca olmak üzere dört dil biliyor ve topluluk yönetimi, ekip işbirliği, liderlik ve stratejik planlama alanlarında iki yıldan fazla bir başarıya sahip. Odak noktası Blockchain alanı, özellikle de dünyayı değiştireceğine inandığı DeFi teknolojisi ve akıllı sözleşme platformları.
 
-> _"I started my journey in SubQuery about one year ago. I liked the story of the project as well as the team, the goals and of course the technology. My research also revealed that SubQuery offers a great professional development programme for community members, which to me indicates a commitment to collective improvement that I value. The team members were very responsive and always willing to help newbies with questions. That's why I immediately decided to join the Ambassador programme. It was the right decision, and now I am very happy to be a part of and stand at the origins of such a wonderful project."_ - Nick
+> _"SubQuery'deki yolculuğuma yaklaşık bir yıl önce başladım. Takımın, hedeflerin ve tabii ki teknolojinin yanı sıra projenin hikayesini de beğendim. Araştırmam ayrıca, SubQuery'nin topluluk üyeleri için harika bir profesyonel gelişim programı sunduğunu ortaya çıkardı ve bu benim için değer verdiğim toplu iyileştirme taahhüdünü gösteriyor. Ekip üyeleri çok duyarlıydı ve her zaman yeni başlayanlara sorularıyla yardım etmeye istekliydi. Bu yüzden hemen Ambassador programına katılmaya karar verdim. Bu doğru bir karardı ve şimdi böyle harika bir projenin parçası olmaktan ve bu projenin temelinde yer almaktan çok mutluyum."_ - Nick
 
 ![](https://miro.medium.com/max/1400/0*UAl7Xw8tJuJ44SrF)
 
-Prathak is a doctor who is interested in a variety of fields, but his greatest interest lies in investment and technology.
+Prathak, çeşitli alanlarla ilgilenen bir doktordur, ancak en büyük ilgisi yatırım ve teknolojidir.
 
-He learned about the world of blockchain while studying programming on his own during his university years in his free time. He was drawn to the possibilities and potential of new technologies and became deeply passionate about blockchain, especially DeFi and DAOs. Other favoured topics for him are artificial intelligence, ZKP and how blockchain can be used in a more privacy-focused environment.
+Üniversite yıllarında boş zamanlarında kendi başına programlama okurken blockchain dünyasını öğrendi. Yeni teknolojilerin olanaklarına ve potansiyeline çekildi ve özellikle DeFi ve DAO'lar olmak üzere blockchain konusunda derinden tutkulu hale geldi. Onun için diğer tercih edilen konular yapay zeka, ZKP ve blok zincirinin daha mahremiyet odaklı bir ortamda nasıl kullanılabileceğidir.
 
-In addition to his interest in blockchain and new technologies stemming from his software development background, he also has literary and poetic abilities.
+Yazılım geliştirme geçmişinden gelen blockchain ve yeni teknolojilere olan ilgisinin yanı sıra edebi ve şiirsel yetenekleri de vardır.
 
-In his spare time, he reads novels, comic books, and exercises regularly. On long weekends, he often goes out on a motorcycle to explore the nature and lifestyle of the local people. He aspires to have a positive influence on others such as his family and friends.
+Boş zamanlarında düzenli olarak roman, çizgi roman okur ve egzersiz yapar. Uzun hafta sonları, yerel halkın doğasını ve yaşam tarzını keşfetmek için sık sık bir motosikletle dışarı çıkar. Ailesi ve arkadaşları gibi başkaları üzerinde olumlu bir etkiye sahip olmayı arzular.
 
-As a SubQuery Ambassador, he desires to use this opportunity to create an open-source instructional resource regarding blockchain applications. He envisions the resource to involve not just instructions on dapp creation for novices, but also scientific research on subjects such as AI and ZKP.
+Bir SubQuery Elçisi olarak, bu fırsatı blok zinciri uygulamalarıyla ilgili açık kaynaklı bir öğretim kaynağı oluşturmak için kullanmak istiyor. Kaynağın sadece acemiler için Dapp oluşturma talimatlarını değil, aynı zamanda AI ve ZKP gibi konularda bilimsel araştırmaları da içermesini öngörüyor.
 
-> _"Aside from the fact that the SubQuery team and community are amazing. The reason I like SubQuery is because I see the great potential that SubQuery will bring to the blockchain world. Being able to access and analyze data on blockchain is very important in taking blockchain to the next level. Especially now that data is more valuable than gold."_ - Prathak
+> _"SubQuery ekibinin ve topluluğunun harika olmasının yanı sıra. SubQuery'yi sevmemin nedeni, SubQuery'nin blockchain dünyasına getireceği büyük potansiyeli görmem. Blok zinciri üzerindeki verilere erişebilmek ve bunları analiz edebilmek, blok zincirini bir sonraki seviyeye taşımak için çok önemlidir. Özellikle şimdi bu veriler altından daha değerli."_ - Prathak
 
-## About SubQuery
+## SubQuery Hakkında
 
-[SubQuery](https://subquery.network) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot , Substrate and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+[SubQuery](https://subquery.network), başkalarının geleceğin Web3 uygulamalarını oluşturmasını sağlayan bir blok zinciri geliştirici araç takımıdır. Bir SubQuery projesi, katman-1 zincirlerinden verileri düzenlemek ve sorgulamak için eksiksiz bir API'dir. Şu anda Polkadot, Substrate ve Avalanche projelerine hizmet veren bu hizmet olarak veri, geliştiricilerin veri işleme için özel bir arka uç oluşturmaya zaman kaybetmeden temel kullanım durumlarına ve ön uçlarına odaklanmalarına olanak tanır. SubQuery Ağı, aynı ölçeklenebilir ve güvenilir çözümü, ancak tamamen merkezi olmayan bir şekilde etkinleştirmeyi önerir.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
