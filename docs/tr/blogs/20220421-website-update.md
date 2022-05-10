@@ -1,47 +1,47 @@
-# Announcing SubQuery's New Website
+# SubQuery'nin Yeni Web Sitesini Duyuruyoruz
 
 ![](https://miro.medium.com/max/1400/0*AnB_ILxq6i0kKz2Y)
 
-The public website is often the first thing people see and visit when looking at a company or product. It can create a lasting first impression, imprint a brand in your memory, and communicate the story behind what we do. Today we are excited to announce a new and improved website design for SubQuery.
+Herkese açık web sitesi genellikle insanların bir şirkete veya ürüne baktıklarında gördükleri ve ziyaret ettikleri ilk şeydir. Kalıcı bir ilk izlenim yaratabilir, bir markayı hafızanıza kazıyabilir ve yaptığımız işin arkasındaki hikayeyi anlatabilir. Bugün, SubQuery için yeni ve geliştirilmiş bir web sitesi tasarımını duyurmaktan heyecan duyuyoruz.
 
-We redesigned our website for two main reasons. Firstly we needed to refresh and modernise the site to reflect more accurately the current progress of SubQuery and its status as a leader in data indexing. Since our last website update, we have evolved significantly with the impending launch of the SubQuery Network. Secondly, we always want to improve our overall visual identity to create a better brand impression with our rapidly expanding community.
+Web sitemizi iki ana nedenden dolayı yeniden tasarladık. Öncelikle, SubQuery'nin mevcut ilerlemesini ve veri indekslemede lider olma durumunu daha doğru bir şekilde yansıtmak için siteyi yenilememiz ve modernleştirmemiz gerekiyordu. Son web sitesi güncellememizden bu yana, SubQuery Network'ün yakında piyasaya sürülmesiyle önemli ölçüde geliştik. İkinci olarak, hızla genişleyen topluluğumuzla daha iyi bir marka izlenimi yaratmak için her zaman genel görsel kimliğimizi geliştirmek istiyoruz.
 
-SubQuery, being a data indexing project, is all about the details. It's with this mentality that we chose this specific design and layout which emphasises moderate spacing between paragraphs for a more modern look and makes the content easier to read. Additionally, this provides page templates that are flexible and responsive, and that can be reused across the growing number of applications that SubQuery has. Combined, these updates give the user a much better experience navigating through what can be quite detailed and technical information.
+Bir veri indeksleme projesi olan SubQuery, tamamen detaylarla ilgilidir. Daha modern bir görünüm için paragraflar arasındaki orta mesafeyi vurgulayan ve içeriğin daha kolay okunmasını sağlayan bu özel tasarımı ve düzeni bu anlayışla seçtik. Ayrıca bu, esnek ve duyarlı olan ve SubQuery'nin sahip olduğu artan sayıda uygulamada yeniden kullanılabilen sayfa şablonları sağlar. Kombine olarak, bu güncellemeler, kullanıcıya oldukça ayrıntılı ve teknik bilgiler arasında gezinme konusunda çok daha iyi bir deneyim sunar.
 
 ![](https://miro.medium.com/max/1400/1*rqmuhuC5rdV7sZN2AwokZQ.png)
 
-Going back to first principles of website design, we kept the end-user firmly in our mind. In order to achieve our goal, we stuck to key principles such as establishing a strong visual hierarchy across elements such as typography and content grouping. Furthermore, given the subject matter it was important that we ensured that the content was accessible and responsive and didn't overwhelm the audience with too much information.
+Web sitesi tasarımının ilk ilkelerine dönerek son kullanıcıyı aklımızda tuttuk. Hedefimize ulaşmak için tipografi ve içerik gruplandırma gibi öğeler arasında güçlü bir görsel hiyerarşi oluşturmak gibi temel ilkelere bağlı kaldık. Ayrıca, konu göz önüne alındığında, içeriğin erişilebilir ve duyarlı olmasını ve izleyiciyi çok fazla bilgi ile boğmamasını sağlamamız önemliydi.
 
-Our UI design process went through five steps which gives us the opportunity to create user-centred design and successfully consider value based marketing principles.
+UI tasarım sürecimiz, bize kullanıcı merkezli tasarım oluşturma ve değer temelli pazarlama ilkelerini başarıyla değerlendirme fırsatı veren beş adımdan geçti.
 
-## Step 1: Empathise
+## Adım 1: Empati Yapın
 
-The goal during this stage is to understand who we design for. Creating customer personas are a good way to help represent a particular group of people with similar behaviour, needs, goals, and attitudes. This understanding allowed us to make the right decisions about product features, navigation, visual design, and much more.
+Bu aşamadaki amaç, kimin için tasarladığımızı anlamaktır. Müşteri kişilikleri oluşturmak, benzer davranışlara, ihtiyaçlara, hedeflere ve tutumlara sahip belirli bir grup insanı temsil etmeye yardımcı olmanın iyi bir yoludur. Bu anlayış, ürün özellikleri, navigasyon, görsel tasarım ve çok daha fazlası hakkında doğru kararlar vermemizi sağladı.
 
-## Step 2: Define
+## 2. Adım: Tanımlayın
 
-The next step was to define these insights identified in the Empathise stage, we looked to define our users needs, problems, and insights. Once again, this process is to have a better understanding of exactly what our users need before we start looking to provide what we think they need.
+Bir sonraki adım, Empathize aşamasında tanımlanan bu içgörüleri tanımlamaktı, kullanıcılarımızın ihtiyaçlarını, sorunlarını ve içgörülerini tanımlamaya çalıştık. Bir kez daha, bu süreç, ihtiyaç duyduklarını düşündüğümüz şeyi sağlamaya başlamadan önce kullanıcılarımızın tam olarak neye ihtiyaç duyduğunu daha iyi anlamaktır.
 
-## Step 3: Ideate
+## Adım 3: Tasarım
 
-Based on the previous two steps we then looked to ideate various different design options making sure to consider the user with every decision made.
+Önceki iki adıma dayanarak, verilen her kararda kullanıcıyı göz önünde bulundurarak çeşitli farklı tasarım seçenekleri bulmaya çalıştık.
 
-## Step 4: Prototype
+## Adım 4: Prototip
 
-After going through the ideation process we looked to prototype specific designs we think best reflect the needs of our users and best solve the problems they have.
+Fikir sürecinden geçtikten sonra, kullanıcılarımızın ihtiyaçlarını en iyi şekilde yansıttığını ve sahip oldukları sorunları en iyi şekilde çözdüğünü düşündüğümüz belirli tasarımları prototiplemeye çalıştık.
 
-## Step 5: Test
+## Adım 5: Test Et
 
-The final stage of our process was to test the prototypes we had designed. This allowed us to ensure that the changes we have made are effective.
+Sürecimizin son aşaması ise tasarladığımız prototipleri test etmek oldu. Bu, yaptığımız değişikliklerin etkili olduğundan emin olmamızı sağladı.
 
 ![](https://miro.medium.com/max/1400/1*AMO1WP2Yg1MtNht22gIeaw.png)
 
-> _"SubQuery has bold ambitions and we needed an updated visual identity that reflects that vision. By modernising our layout and improving the visual hierarchy with new typography and colours, we provide our website visitors a fresh experience and insight into SubQuery. Personally, I'm a big fan of the new illustrations which were created for our Frontier testnet as they create an extra dimension in the evolution of our brand story"_ - Cassie Wang, UX Designer at SubQuery
+> _"SubQuery'nin cesur hedefleri var ve bu vizyonu yansıtan güncellenmiş bir görsel kimliğe ihtiyacımız vardı. Düzenimizi modernize ederek ve yeni tipografi ve renklerle görsel hiyerarşiyi geliştirerek, web sitesi ziyaretçilerimize SubQuery'ye yeni bir deneyim ve içgörü sunuyoruz. Şahsen, marka hikayemizin evriminde ekstra bir boyut oluşturdukları için Frontier test ağımız için oluşturulan yeni illüstrasyonların büyük bir hayranıyım"_ - Cassie Wang, SubQuery'de UX Tasarımcısı
 
-We hope you enjoy the website as much as we do! Take a look today at https://subquery.network
+Umarız web sitesini bizim kadar beğenirsiniz! Bugün https://subquery.network'e bir göz atın
 
-## About SubQuery
+## SubQuery Hakkında
 
-[SubQuery](https://subquery.network) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from Layer-1 chains. Currently servicing Polkadot, Substrate, and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+[SubQuery](https://subquery.network), başkalarının geleceğin Web3 uygulamalarını oluşturmasını sağlayan bir blok zinciri geliştirici araç takımıdır. Bir SubQuery projesi, katman-1 zincirlerinden verileri düzenlemek ve sorgulamak için eksiksiz bir API'dir. Şu anda Polkadot, Substrate ve Avalanche projelerine hizmet veren bu hizmet olarak veri, geliştiricilerin veri işleme için özel bir arka uç oluşturmaya zaman kaybetmeden temel kullanım durumlarına ve ön uçlarına odaklanmalarına olanak tanır. SubQuery Ağı, aynı ölçeklenebilir ve güvenilir çözümü, ancak tamamen merkezi olmayan bir şekilde etkinleştirmeyi önerir.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
