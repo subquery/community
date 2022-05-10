@@ -23,7 +23,7 @@ Siamo stati entusiasti di annunciare la [chiusura della nostra raccolta di fondi
 
 Rennick Palley di [Stratos Capital ha dichiarato che SubQuery](https://medium.com/stratos-technologies/the-google-of-the-decentralized-world-our-investment-in-subquery-e6e7d949b00a) è "Il Google del mondo decentralizzato" e che "SubQuery è un esempio prototipico di come i principi del Web 3 prendono ciò che funziona dal Web 2 & lo rende trasparente, giusto e guidato dalla comunità"
 
-Mentre Ninor Mansor di Arrington Capital ha condiviso nel loro <zero>report "The League of Parachains"</zero>: "Se i Parachains sono nazioni e la Relay Chain è un'alleanza internazionale, allora SubQuery è la lingua comune --- la lingua franca --- di questo nuovo ordine globale"
+Mentre Ninor Mansor di Arrington Capital ha condiviso nel loro [report "The League of Parachains"](https://arringtonxrpcapital.com/2021/09/17/the-league-of-parachains-polkadot/): "Se i Parachains sono nazioni e la Relay Chain è un'alleanza internazionale, allora SubQuery è la lingua comune --- la lingua franca --- di questo nuovo ordine globale"
 
 Per ulteriori approfondimenti e analisi su SubQuery, controlla i seguenti pensieri di [Arrington Capital](https://arringtonxrpcapital.com/2021/09/08/building-the-multi-chain-world-announcing-our-investment-into-subquery/), [Node Capital](https://www.node.capital/blog-posts/a-subquery-to-supercharge-your-insights), [Stratos](https://medium.com/stratos-technologies/the-google-of-the-decentralized-world-our-investment-in-subquery-e6e7d949b00a) e [IconPlus Capital](https://medium.com/@iconpluscapital/understanding-the-aggregation-of-data-in-subquery-network-investment-thesis-90fe8f6b7abe) o guarda questo video di James Bayly, il nostro Head of Business Development:
 
