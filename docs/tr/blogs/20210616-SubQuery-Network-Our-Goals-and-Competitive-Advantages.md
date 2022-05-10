@@ -1,41 +1,41 @@
-# SubQuery Network - Our Goals and Competitive Advantages
+# SubQuery Network - Hedeflerimiz ve Rekabet Avantajlarımız
 
-Today we’re going to explore the goals that we have with SubQuery and some of the competitive advantages that we think make the SubQuery Network better than our competitors.
+Bugün, SubQuery ile sahip olduğumuz hedefleri ve SubQuery Network'ü rakiplerimizden daha iyi hale getirdiğini düşündüğümüz bazı rekabet avantajlarını keşfedeceğiz.
 
-SubQuery’s currently provided indexing and transformation data in a centralised way. Although this has allowed us to power some of the top Polkadot projects; DeFi apps like Acala and Bifrost, wallets like Fearless Wallet, NFT platforms like [KodaDot](https://kodadot.xyz/), cross-chain bridges like [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia), and analytics platforms like [SubVis](https://subvis.io/) — it has it’s downside.
+SubQuery, şu anda merkezi bir şekilde dizin oluşturma ve dönüştürme verilerini sağlıyor. Bu, en iyi Polkadot projelerinden bazılarına güç vermemize izin vermiş olsa da; Acala ve Bifrost gibi DeFi uygulamaları, Fearless Wallet gibi cüzdanlar, [KodaDot](https://kodadot.xyz/) gibi NFT platformları, [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia) gibi zincirler arası köprüler ve [SubVis](https://subvis.io/) gibi analiz platformları -- bazı dezavantajları var.
 
-It requires our users to trust the service we provide, and carries risks associated with a centralised service, like potential server failures or outages that can cripple your applications. This is a major reason why we are moving to a decentralised future.
+Kullanıcılarımızın sağladığımız hizmete güvenmesini gerektirir ve uygulamalarınızı aksatabilecek olası sunucu arızaları veya kesintileri gibi merkezi bir hizmetle ilişkili riskler taşır. Bu, merkezi olmayan bir geleceğe geçmemizin önemli bir nedenidir.
 
 ![](https://miro.medium.com/max/868/1*CPksnN9_jyMGQ0sSbiJvDQ.png)
 
-Our Competitive Advantages
+Rekabet Avantajlarımız
 
-We understand that The SubQuery Network is competing against many players in the decentralised data industry, SubQuery looks to provide unique benefits through a multitude of competitive advantages. Our guiding principles, and what we expect to be the main advantages, are the simplicity and flexibility of our network.
+SubQuery Network'ün merkezi olmayan veri endüstrisindeki birçok oyuncuya karşı rekabet ettiğini anlıyoruz, SubQuery çok sayıda rekabet avantajı aracılığıyla benzersiz faydalar sağlamaya çalışıyor. Yol gösterici ilkelerimiz ve ana avantajları olmasını umduğumuz unsur, ağımızın basitliği ve esnekliğidir.
 
-## Flexibility
+## Esneklik
 
-Our first advantage is our flexibility. SubQuery is open source, so anyone has the freedom to define the data set that is specific to their needs, tailored to their applications. Rather than having to combine queries from different API endpoints — you can define the shape of your APIs yourself. It saves time, money, and provides a vastly better experience for your users.
+İlk avantajımız esnekliğimizdir. SubQuery açık kaynaktır, bu nedenle herkes kendi ihtiyaçlarına özel, uygulamalarına göre uyarlanmış veri setini tanımlama özgürlüğüne sahiptir. Farklı API uç noktalarından gelen sorguları birleştirmek yerine API'lerinizin şeklini kendiniz tanımlayabilirsiniz. Zamandan ve paradan tasarruf sağlar ve kullanıcılarınız için çok daha iyi bir deneyim sağlar.
 
-## Simplicity
+## Kolaylık
 
-You do not need to be an expert to take advantage of what SubQuery offers. There is literally 3 files that need to be changed to make a working SubQuery project. Our focus will be on making SubQuery easier to use and build with than our competitors — SubQuery’s success depends on the success of our community building the future with it.
+SubQuery'nin sunduğu avantajlardan yararlanmak için uzman olmanıza gerek yoktur. Çalışan bir SubQuery projesi yapmak için değiştirilmesi gereken tam anlamıyla 3 dosya var. Odak noktamız, SubQuery'nin kullanımını ve rakiplerimizden daha kolay oluşturulmasını sağlamak olacaktır - SubQuery'nin başarısı, topluluğumuzun onunla geleceği inşa etme başarısına bağlıdır.
 
-## Indexer/Delegator Imbalance
+## Dizin Oluşturucu/Delegasyon Oransızlığı
 
-Among our competitors, we believe the ability for Indexers to change delegation reward rates without warning is unfair. We try to fix this by requiring Indexers to advertise a decrease to the Query Fee Revenue Share Rate for an entire staking era (28 day period).
+Rakiplerimiz arasında, indeksleyicilerin delegasyon ödül oranlarını uyarmadan değiştirme yeteneğinin adil olmadığına inanıyoruz. İndeksleyicilerin tüm stake dönemi (28 günlük dönem) için Sorgu Ücreti Gelir Paylaşım Oranında bir düşüş ilan etmesini isteyerek bunu düzeltmeye çalışıyoruz.
 
-## Purchase Orders Instead of Curators
+## Küratörler Yerine Sipariş Satın Alın
 
-In marketplaces like SubQuery, where there are both buyers and sellers of data, signalling demand for future supply is difficult. Other competitors use “curators” to achieve this, participants who predict future demand and are rewarded when that future demand eventuates.
+Hem alıcıların hem de veri satıcılarının bulunduğu SubQuery gibi pazarlarda, gelecekteki arz talebine işaret etmek zordur. Diğer rakipler bunu başarmak için "küratörler" kullanıyor, katılımcılar gelecekteki talebi tahmin ediyor ve bu talep gerçekleştiğinde ödüllendiriliyor.
 
-SubQuery has taken a different approach in where we look to Consumers to create an upfront commitment, a purchase order. This can be used both to attract Indexers to new SubQuery Projects, or to attract additional Indexers to existing and uncompetitive SubQuery Projects.
+SubQuery, Tüketicilerin önceden bir taahhüt, bir satın alma siparişi oluşturmasını istediğimiz yerde farklı bir yaklaşım benimsemiştir. Bu, hem indeksleyicileri yeni SubQuery Projelerine çekmek için hem de mevcut ve rekabetçi olmayan SubQuery Projelerine ek indeksleyicileri çekmek için kullanılabilir.
 
-## Incentives for Query Performance:
+## Sorgu Performansı için Teşvikler:
 
-Our Indexer discovery and routing process will include performance data (latency and uptime) for all Indexers, and we will take steps to ensure that Consumers report on this data when unlocking micropayments to Indexers.
+İndeksleyicileri keşif ve yönlendirme sürecimiz, tüm indeksleyiciler için performans verilerini (gecikme ve çalışma süresi) içerecek ve Tüketicilerin İndeksleyicilere mikro ödemelerin kilidini açarken bu veriler hakkında rapor vermesini sağlamak için adımlar atacağız.
 
-This will ideally encourage Indexers in the SubQuery Network to provide infrastructure with high uptime and low latency, the best performance possible.
+Bu, ideal olarak SubQuery Ağı'ndaki İndeksleyicilere mümkün olan en iyi performansı, yüksek çalışma süresi ve düşük gecikme süresi ile altyapı sağlamaya teşvik edecektir.
 
-## Focus on Substrate/Polkadot:
+## Substrate/Polkadot'a odaklandık:
 
-SubQuery committed to focus on Polkadot and Substate from the day we started. This allowed our service and tools to be built from the outset to work with Substrate. On top of this, Polkadots unique architecture makes it easier for SubQuery to support multiple current and future blockchains automatically.
+SubQuery, başladığımız günden itibaren Polkadot ve Substate'e odaklanmayı taahhüt etti. Bu, hizmetimizin ve araçlarımızın en başından Substrate ile çalışacak şekilde oluşturulmasını sağladı. Bunun da ötesinde, Polkadot'un benzersiz mimarisi, SubQuery'nin birden fazla mevcut ve gelecekteki blok zincirlerini otomatik olarak desteklemesini kolaylaştırır.
