@@ -1,47 +1,47 @@
-# Subquery เปิดตัวเว็บไซต์ใหม่
+# Announcing SubQuery's New Website
 
 ![](https://miro.medium.com/max/1400/0*AnB_ILxq6i0kKz2Y)
 
-เว็บไซต์สาธารณะมักเป็นสิ่งแรกที่ผู้คนได้เห็นและได้พบเมื่อค้นดูบริษัทหรือผลิตภัณฑ์ มันสามารถสร้างความประทับใจแรกพบ ภาพลักษณ์ของแบรนด์ในความทรงจำของคุณ และบอกเล่าเรื่องราวเบื้องหลังของสิ่งที่เรากำลังทำ วันนี้เรารู้สึกตื่นเต้นที่จะประกาศการเรื่องออกแบบและปรับปรุงเว็บไซต์ใหม่ของ SubQuery
+The public website is often the first thing people see and visit when looking at a company or product. It can create a lasting first impression, imprint a brand in your memory, and communicate the story behind what we do. Today we are excited to announce a new and improved website design for SubQuery.
 
-เราออกแบบเว็บไซต์ใหม่ด้วยเหตุผลสองประการ ประการแรก เราจำเป็นต้องปรับปรุงเว็บไซต์ให้ทันสมัยเพื่อให้สะท้อนถึงความคืบหน้าในปัจจุบันของ SubQuery และสะท้อนฐานะผู้นำในการจัดทำดัชนีข้อมูลมากขึ้น นับตั้งแต่การอัปเดตเว็บไซต์ครั้งล่าสุด เราได้พัฒนาขึ้นอย่างมากพร้อมๆกับการที่กำลังจะเปิดตัว SubQuery Network ประการที่สอง เราต้องการปรับปรุงภาพรวมเพื่อสร้างความประทับใจที่มากขึ้นกับแบรนด์ด้วยคอมมูนิตี้ที่ขยายตัวอย่างรวดเร็วของเรา
+We redesigned our website for two main reasons. Firstly we needed to refresh and modernise the site to reflect more accurately the current progress of SubQuery and its status as a leader in data indexing. Since our last website update, we have evolved significantly with the impending launch of the SubQuery Network. Secondly, we always want to improve our overall visual identity to create a better brand impression with our rapidly expanding community.
 
-SubQuery เป็นโปรเจ็กต์ดัชนีข้อมูล และนั่นคือทั้งหมด ด้วยความคิดนี้เองทำใหเราเลือกการออกแบบและเลย์เอาต์ที่เฉพาะเจาะจงโดยเน้นการเว้นวรรคปานกลางระหว่างย่อหน้าเพื่อให้ดูทันสมัยยิ่งขึ้นและทำให้เนื้อหาอ่านง่ายขึ้น นอกจากนี้ยังมีเทมเพลตหน้าเว็บที่มีความยืดหยุ่นและตอบสนองได้ดีและยังสามารถนำมาทำขึ้นใหม่ได้เนื่องจาก SubQuery มีจำนวนแอปพลิเคชันที่เพิ่มขึ้นเรื่อยๆ โดยรวมกันแล้วการอัปเดตเหล่านี้จะช่วยให้ผู้ใช้งานมีประสบการณ์การใช้ที่ดีขึ้นมาก
+SubQuery, being a data indexing project, is all about the details. It's with this mentality that we chose this specific design and layout which emphasises moderate spacing between paragraphs for a more modern look and makes the content easier to read. Additionally, this provides page templates that are flexible and responsive, and that can be reused across the growing number of applications that SubQuery has. Combined, these updates give the user a much better experience navigating through what can be quite detailed and technical information.
 
 ![](https://miro.medium.com/max/1400/1*rqmuhuC5rdV7sZN2AwokZQ.png)
 
-กลับไปที่หลักการตอนแรกของการออกแบบเว็บไซต์ เรารักษาผู้ใช้ปลายทางไว้อย่างมั่นคงในใจของเรา เพื่อให้บรรลุเป้าหมาย เราได้ยึดหลักการสำคัญเช่นการสร้างลำดับชั้นของภาพที่องค์ประกอบต่างๆแข็งแกร่ง เช่น การพิมพ์และการจัดกลุ่มเนื้อหา นอกจากนี้เมื่อพิจารณาถึงเรื่องนี้เป็นสิ่งสำคัญที่เราต้องมั่นใจว่าเนื้อหานั้นสามารถเข้าถึงและตอบสนองได้ และต้องไม่มีข้อมูลมากเกินไป
+Going back to first principles of website design, we kept the end-user firmly in our mind. In order to achieve our goal, we stuck to key principles such as establishing a strong visual hierarchy across elements such as typography and content grouping. Furthermore, given the subject matter it was important that we ensured that the content was accessible and responsive and didn't overwhelm the audience with too much information.
 
-กระบวนการออกแบบ UI ของเรามีด้วยกัน 5 ขั้นตอน ซึ่งเปิดโอกาสให้เราสร้างการออกแบบที่ผู้ใช้งานเป็นศูนย์กลางและพิจารณาหลักการทางการตลาดแบบอิงคุณค่า
+Our UI design process went through five steps which gives us the opportunity to create user-centred design and successfully consider value based marketing principles.
 
-## ขั้นตอนที่ 1: ความเอาใจใส่(Empathise)
+## Step 1: Empathise
 
-เป้าหมายในขั้นตอนนี้คือการทำความเข้าใจว่าเราออกแบบเพื่อใคร การสร้างตัวตนลูกค้าเป็นวิธีที่ดีในการช่วยเป็นตัวแทนของกลุ่มบุคคลที่มีพฤติกรรม ความต้องการ เป้าหมาย และทัศนคติที่คล้ายคลึงกัน ความเข้าใจนี้ทำให้เราตัดสินใจเกี่ยวกับคุณลักษณะของผลิตภัณฑ์ การนำทาง การออกแบบรูปภาพ และอื่นๆ อีกมากมายได้อย่างถูกต้อง
+The goal during this stage is to understand who we design for. Creating customer personas are a good way to help represent a particular group of people with similar behaviour, needs, goals, and attitudes. This understanding allowed us to make the right decisions about product features, navigation, visual design, and much more.
 
-## ขั้นตอนที่ 2: นิยาม(Define)
+## Step 2: Define
 
-ขั้นตอนต่อไปคือการกำหนดเฉพาะเจาะจงข้อมูลเชิงลึกที่ระบุไว้ในขั้น เอาใจใส่(Empathise) เรามองหาเพื่อเจาะจงความต้องการ ปัญหา และข้อมูลเชิงลึกของผู้ใช้งาน ในกระบวนการนี้ ต้องมีความเข้าใจที่ากขึ้นว่าผู้ใช้ของเราต้องการอะไร ก่อนที่จะเริ่มนำเสนอสิ่งที่เราคิดว่าพวกเขาต้องการ
+The next step was to define these insights identified in the Empathise stage, we looked to define our users needs, problems, and insights. Once again, this process is to have a better understanding of exactly what our users need before we start looking to provide what we think they need.
 
-## ขั้นตอนที่ 3: คิด(Ideate)
+## Step 3: Ideate
 
-จากสองขั้นตอนก่อนหน้านี้ เราจึงมองหาตัวเลือกการออกแบบต่างๆ เพื่อให้แน่ใจว่าได้พิจารณาผู้ใช้งานในการตัดสินใจทุกครั้ง
+Based on the previous two steps we then looked to ideate various different design options making sure to consider the user with every decision made.
 
-## ขั้นตอนที่ 4: ตัวต้นแบบ(Prototype)
+## Step 4: Prototype
 
-หลังจากผ่านกระบวนการคิดเราเลือกการออกแบบของตัวต้นแบบที่เราคิดว่าสะท้อนความต้องการของผู้ใช้ได้ดีที่สุดและแก้ปัญหาที่พวกเขามีได้ดีที่สุด
+After going through the ideation process we looked to prototype specific designs we think best reflect the needs of our users and best solve the problems they have.
 
-## ขั้นตอนที่ 5: ทดสอบ(Test)
+## Step 5: Test
 
-ขั้นตอนสุดท้ายของกระบวนการคือ การทดสอบตัวต้นแบบที่เราได้ออกแบบไว้ สิ่งนี้ทำให้เราสามารถมั่นใจได้ว่าการเปลี่ยนแปลงที่เราได้ทำไว้จะมีประสิทธิภาพ
+The final stage of our process was to test the prototypes we had designed. This allowed us to ensure that the changes we have made are effective.
 
 ![](https://miro.medium.com/max/1400/1*AMO1WP2Yg1MtNht22gIeaw.png)
 
-> _"SubQuery มีความทะเยอทะยานที่ชัดเจน และเราต้องการการปรับปรุงภาพลักษณ์ที่จะสะท้อนวิสัยทัศน์นั้น ด้วยการปรับปรุงเค้าโครงของเราให้ทันสมัยและปรับปรุงลำดับชั้นของภาพด้วยรูปแบบตัวอักษรและสีใหม่ เรามอบประสบการณ์ใหม่และข้อมูลเชิงลึกให้กับผู้เยี่ยมชมเว็บไซต์ของเรา โดยส่วนตัวแล้วฉันเป็นแฟนตัวยงของภาพประกอบ(illustration)ใหม่ที่สร้างขึ้นสำหรับ Frontier Testnet เนื่องจากพวกเขาสร้างมิติที่พิเศษในวิวัฒนาการของเรื่องราวของแบรนด์เรา "_ กล่าวโดย Cassie Wang นักออกแบบ UX ที่ SubQuery
+> _"SubQuery has bold ambitions and we needed an updated visual identity that reflects that vision. By modernising our layout and improving the visual hierarchy with new typography and colours, we provide our website visitors a fresh experience and insight into SubQuery. Personally, I'm a big fan of the new illustrations which were created for our Frontier testnet as they create an extra dimension in the evolution of our brand story"_ - Cassie Wang, UX Designer at SubQuery
 
-เราหวังว่าคุณจะสนุกกับเว็บไซต์มากเท่ากับที่เราสนุก! รับชมได้แล้ววันนี้ที่ https://subquery.network
+We hope you enjoy the website as much as we do! Take a look today at https://subquery.network
 
 ## เกี่ยวกับ SubQuery
 
-[SubQuery](https://subquery.network) เป็นชุดเครื่องมือสำหรับนักพัฒนาบล็อกเชนที่ช่วยผู้ในการสร้างแอปพลิเคชัน Web3 แห่งอนาคต โปรเจ็กต์ SubQuery เป็น API ที่สมบูรณ์ในการจัดระเบียบและ query ข้อมูลจากเชนเลเยอร์ -1 ปัจจุบันได้ให้บริการโปรเจ็กต์ Polkadot , Substrate และ Avalanche ซึ่ง การให้บริการด้านข้อมูล(data-as-a-service)นี้ช่วยให้นักพัฒนาสามารถโฟกัสไปที่กรณีการใช้งานหลักและฟร้อนเอนท์โดยไม่ต้องเสียเวลาไปกับการสร้างแบ็กเอนด์สำหรับการประมวลผลข้อมูลขึ้นมาเอง SubQuery Network นำเสนอโซลูชันที่ปรับขนาดและเชื่อถือได้แบบเดียวกันนี้ แต่ในรูปแบบการกระจายอำนาจอย่างสมบูรณ์
+[SubQuery](https://subquery.network) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from Layer-1 chains. Currently servicing Polkadot, Substrate, and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
