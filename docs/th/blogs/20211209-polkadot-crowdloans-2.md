@@ -1,8 +1,8 @@
-# เจาะลึก Polkadot Crowdloans (ตอนที่ 2)
+# Inside The Polkadot Crowdloans (Part 2)
 
 ![](https://miro.medium.com/max/1400/0*MqQhXJbmnfMSqf-8)
 
-Polkadot ได้เปิดโอกาสให้กับคอมมูนิตี้ของตนได้เข้าร่วมการประมูล Parachain Slot รอบที่สาม โดยที่เราต่างก็ได้เป็นพยานในการแข่งขันระหว่าง Parallel Finance และ Astar เพื่อที่จะชิงสล็อตที่ 3 ในท้ายที่สุด Aster ก็เป็นผู้ที่ได้รับชัยชนะ Today we are going to explore a little more about what happened within the third auction by diving into the data behind every single contribution.
+Polkadot has provided its community with another exciting race for their third parachain slot auction. We have recently witnessed Parallel Finance and Astar battle it out for the third slot, and in the end Astar managed to emerge victorious. Today we are going to explore a little more about what happened within the third auction by diving into the data behind every single contribution.
 
 SubQuery is Polkadot’s leading data indexing service, and over the past week we’ve been powering millions of daily requests to the majority of the crowdloan dashboards, contribution apps, and analytics websites. Teams like [SubVis](https://www.subvis.io/), [Parallel Finance](https://parallel.fi/), and [DotMarketCap](https://dotmarketcap.com/) rely on SubQuery to provide real time data on the crowdloans and other on-chain data directly to their websites and apps.
 
