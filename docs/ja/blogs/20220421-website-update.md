@@ -36,9 +36,9 @@ UIデザインは5つのステップを経て、ユーザー中心のデザイ�
 
 ![](https://miro.medium.com/max/1400/1*AMO1WP2Yg1MtNht22gIeaw.png)
 
-> "SubQuery は大胆な野望を抱いており、そのビジョンを反映した新しいビジュアル・アイデンティティが必要でした。 レイアウトを近代化し、新しいタイポグラフィーとカラーで視覚的階層を改善することで、ウェブサイト訪問者に新鮮な体験とSubQuery への洞察を提供します。 Personally, I'm a big fan of the new illustrations which were created for our Frontier testnet as they create an extra dimension in the evolution of our brand story"</em> - Cassie Wang, UX Designer at SubQuery
+> "SubQuery は大胆な野望を抱いており、そのビジョンを反映した新しいビジュアル・アイデンティティが必要でした。 レイアウトを近代化し、新しいタイポグラフィーとカラーで視覚的階層を改善することで、ウェブサイト訪問者に新鮮な体験とSubQuery への洞察を提供します。 個人的には、Frontierのテストネットのために作成された新しいイラストが、私たちのブランドストーリーの進化にさらなる次元を与えてくれています」</em> - SubQueryのUXデザイナー、Cassie Wang氏。
 
-個人的には、Frontierのテストネットのために作成された新しいイラストが、私たちのブランドストーリーの進化にさらなる次元を与えてくれています」- SubQueryのUX デザイナー、Cassie Wang氏。 で今日見てみましょう。https://subquery.network
+We hope you enjoy the website as much as we do! で今日見てみましょう。https://subquery.network
 
 ## About SubQuery
 
