@@ -1,29 +1,29 @@
-# SubQuery将向OAK网络提供数据，以连接Power DeFi Automation Hub
+# SubQuery Provides Data To OAK Network To Power DeFi Automation Hub
 
 ![](https://miro.medium.com/max/1400/0*R-MluHyL9bHAEboa)
 
-SubQuery很荣幸地宣布我们与OAK Network的合作关系，OAK Network是用于DeFi和支付的Web3自动化中心。 在Polkadot上的OAK网络、Kusama上的Turing网络以及他们的Neumann测试网区块链活动的监视和观察中，SubQuery的专业知识将被用来为OAK提供更深入的数据分析。
+SubQuery is proud to announce our partnership with OAK Network, the Web3 automation hub for DeFi and payments. SubQuery's expertise will be used to provide greater insights for OAK when monitoring and observing blockchain activity for both OAK Network on Polkadot, the Turing Network on Kusama, as well as their Neumann testnet.
 
-> _“SubQuery的使命是帮助团队创造产品，使其能够向去中心化的未来发展，这与OAK Network自身的使命密切相关，即为大众带来安全可靠的自动控制。 SubQuery将作为一种宝贵的资源，加快开发进度，确保OAK向市场提供的服务具有稳定性和可见性。”_---David Finklestein, OAK Network发展部门主管
+> _"SubQuery's mission to help teams create products that allow movement to a decentralized future aligns closely with OAK Network's own mission of bringing secure and trustless automation to the masses. SubQuery will serve as a valuable resource to accelerate development timelines and ensure the services which OAK supplies to the market are stable and observable."_ - David Finklestein , Head of Growth at OAK Network
 
-通过与SubQuery合作，OAK的开发团队将能够聚合、观察和监控OAK虚拟机、事件注册表的状态，以及合作伙伴以及用户的自动任务。 这些关键任务信息将为OAK的业务战略提供信息资源，并在其自身的生态系统中保持一流的安全性和可见性。
+By partnering with SubQuery, the development team at OAK will be able to aggregate, observe, and monitor the state of the OAK Virtual Machine, event registry, and automation tasks by their partners and end users. This mission critical information will inform OAK's business strategy and maintain best in class security and visibility within their own ecosystem.
 
-> _“OAK Network为支付自动化提供一个安全的、不依赖于信任的、去中心化的系统的愿景，与SubQuery在数据方面的目标是一致的。 我们很自豪能够为像OAK这样的创新型Web3解决方案提供支持，这将为用户提供更多的控制，并在他们的美好期待中创造出更好的结果。”_ - James Bayly。 SubQuery 企业发展主任
+> _"OAK Network's vision for a secure, trustless and decentralised system for automation of payments is strongly aligned with SubQuery's goals of the same for data. We are proud to be powering innovative Web3 solutions like OAK that will provide users with more control and create better outcomes as they become aware of the exciting possibilities that lie ahead"_ - James Bayly, Head of Business Development at SubQuery
 
-OAK网络目前正在准备 [推出Ting Network](https://oak.tech/turing/crowdloan/) (OECK canary network on Kusama) 平行链和众贷。 OAK加入了Polkadot和Kusama的许多主要的平行链团队，他们依靠SubQuery为其应用程序提供关键任务数据，并通过[我们的托管服务](https://project.subquery.network/)运转[企业级功能](../blogs/20211228-enterprise-hosted.md)。
+OAK Network are currently preparing for the [launch of The Turing Network](https://oak.tech/turing/crowdloan/) (OAK's canary network on Kusama) parachain and crowdloan. OAK joins many of the leading parachain teams in Polkadot and Kusama who rely on SubQuery to provide mission critical data to their applications and utilise [enterprise level features](../blogs/20211228-enterprise-hosted.md) via our [managed service](https://project.subquery.network/).
 
-您可以通过其项目链接 https://project.subquery.network/project/irsal/neumann-monitoring，找到更多关于OAK及其从 SubQuery 传输的数据的信息。
+You can find more information about OAK and the data they leverage from SubQuery via their project link https://project.subquery.network/project/irsal/neumann-monitoring.
 
-## 关于 OAK 网络
+## About OAK Network
 
-OAK (On-chain Autonomous Kernel) Network 是一个 DeFi 区块链自动化枢纽和付款建立在对等基础上，首个由事件驱动的执行模型。 此模型允许交易由事件信号触发，如时间、价格和智能合同状态变更。 重要的是，这与以太坊、比特币和其他受欢迎的链条使用的传统结构不同，在这些结构中，多笔交易需要重复的私钥签字。 通过这个新颖的设计，OAK可以赋予任何连接的区块链以自主的功能，为我们的合作伙伴释放无限的潜力。
+OAK (On-chain Autonomous Kernel) Network is a blockchain automation hub for DeFi and payments built on Parity Substrate with a first of its kind event-driven execution model. This model enables transactions to be triggered by event signals such as time, price, and smart contract state changes. Importantly, this differs from traditional architectures utilized by Ethereum, Bitcoin, and other popular chains where multiple transactions require repeated private key signing. With this novel design, OAK can empower any connected blockchain with autonomous functionality unleashing endless potential for our partners.
 
-[网站](https://oak.tech/) | [SubSocial](https://app.subsocial.network/6109) | [中等](https://medium.com/oak-blockchain) | [Twitter](https://twitter.com/oak_network) | [Discord](https://discord.gg/7W9UDvsbwh) | [Github](https://github.com/OAK-Foundation/) | [Telegram](https://t.me/OAK_Announcements) | [YouTube](https://www.youtube.com/channel/UCSEu57BfQQpAfgDixfBnaNg) | [LinkedIn](https://www.linkedin.com/company/oak-blockchain/)
+[Website](https://oak.tech/) | [SubSocial](https://app.subsocial.network/6109) | [Medium](https://medium.com/oak-blockchain) | [Twitter](https://twitter.com/oak_network) | [Discord](https://discord.gg/7W9UDvsbwh) | [Github](https://github.com/OAK-Foundation/) | [Telegram](https://t.me/OAK_Announcements) | [YouTube](https://www.youtube.com/channel/UCSEu57BfQQpAfgDixfBnaNg) | [LinkedIn](https://www.linkedin.com/company/oak-blockchain/)
 
-## 关于SubQuery
+## About SubQuery
 
-SubQuery的使命是帮助其他项目组创造产品，让我们更快地走向去中心化的未来。 SubQuery是一个区块链开发者工具包，同时也是web3基础设施的主干。 SubQuery项目是组织和查询链中数据的完整API。 SubQuery在第一层区块链和分散应用程序（dApp）之间运行，是一个开源索引器，通过GraphQL组织和服务结构良好的数据。 SubQuery为下一代DAPP和工具提供了web3数据
+SubQuery's mission is to help others create products that allow us to move to a decentralized future faster. SubQuery is a blockchain developer toolkit and the backbone of web3 infrastructure. A SubQuery project is a complete API to organize and query data from chains. Operating between layer-1 blockchains and decentralized apps (dApp), SubQuery is an open-source indexer organizing and serving well-structured data over GraphQL. SubQuery powers the next generation of dApps and tools with web3 data
 
-目前，任何人都可以在几分钟内使用SubQuery提取和查询区块链数据。 SubQuery网络建议以完全去中心化的方式实现同样的可扩展和性能解决方案。
+Currently, anyone can already use SubQuery to extract and query blockchain data in only minutes. The SubQuery Network proposes to enable this same scalable and performant solution, but in a completely decentralized way.
 
-Linktree | Website | Discord | Telegram | Twitter | Matrix | LinkedIn | YouTube
+​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
