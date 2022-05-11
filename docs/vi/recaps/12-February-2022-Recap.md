@@ -1,4 +1,4 @@
-# February Recap
+# Tóm tắt tháng Hai
 
 ![](https://miro.medium.com/max/1400/1*T3DLiAKSIy-AjRia_JJjow.png)
 
