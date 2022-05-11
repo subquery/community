@@ -1,18 +1,18 @@
-# Moonbeans Create a One-Stop Shop of NFT Data with SubQuery
+# Moonbeans Tạo một cửa hàng tổng hợp dữ liệu NFT với SubQuery
 
 ![](https://miro.medium.com/max/1400/0*WyB06V5POhvv7q4m)
 
-SubQuery is proud to announce a partnership with Moonbeans, a community focused NFT marketplace that has taken the Moonbeam and Moonriver ecosystems by storm. Moonbeans brings together artists, creators, and crypto enthusiasts on a single platform to create and trade the top NFTs on the Moonriver (and soon-to-be Moonbeam) network.
+SubQuery tự hào thông báo về mối quan hệ đối tác với Moonbeans, một thị trường NFT tập trung vào cộng đồng đã đưa hệ sinh thái Moonbeam và Moonriver thành công rực rỡ. Moonbeans tập hợp các nghệ sĩ, người sáng tạo và những người đam mê tiền điện tử trên một nền tảng duy nhất để tạo và giao dịch các NFT hàng đầu trên mạng Moonriver (và sắp có là Moonbeam).
 
-The team at MoonBeams have built a SubQuery project which serves as a complete one-stop shop for all the data that they require to run their web application. [Their project, which can be found in the SubQuery explorer](https://explorer.subquery.network/subquery/m00nbeans/marketplace-v3), aggregates events on their NFT marketplace and provides easy access to current listing data, trade history, and more.
+Đội ngũ tại MoonBeams đã xây dựng một dự án SubQuery, đóng vai trò như một trung tâm một cửa hoàn chỉnh cho tất cả dữ liệu mà họ yêu cầu để chạy ứng dụng web của họ. [ Dự án của họ, có thể được tìm thấy trong trình khám phá SubQuery ](https://explorer.subquery.network/subquery/m00nbeans/marketplace-v3), tổng hợp các sự kiện trên thị trường NFT của họ và cung cấp khả năng truy cập dễ dàng vào dữ liệu danh sách hiện tại, lịch sử giao dịch và hơn thế nữa.
 
 ![](https://miro.medium.com/max/1400/0*j4M8qDAU12se05uX)
 
-> _"The SubQuery team has been extraordinarily quick and helpful with getting us off the ground and collaborating with us in order to provide the best experience for our users - we look forward to continuing our work with them!"_ - Smol Bean (CTO & Co-Founder of Moonbeans)
+> _ "Nhóm SubQuery đã cực kỳ nhanh chóng và hữu ích trong việc đưa chúng tôi đi đầu và cộng tác với chúng tôi để cung cấp trải nghiệm tốt nhất cho người dùng của chúng tôi - chúng tôi mong muốn được tiếp tục công việc với họ!" _ - Smol Bean (CTO & Đồng sáng lập Moonbeans)
 
-Moonbeans are well on their way to achieving their goal of becoming the native NFT platform of Moonbeam and Moonriver. Their future mission involves onboarding users from other EVMs onto 'Dotsama' (Polkadot and Kusama) by launching and cultivating communities on those chains too, a ride which SubQuery can travel alongside on, having recently announced [our expansion into Avalanche](../blogs/20220321-avalache.md) in pursuit of further multi-chain expansion.
+Moonbeans đang trên đường đạt được mục tiêu trở thành nền tảng NFT gốc của Moonbeam và Moonriver. Nhiệm vụ tương lai của họ liên quan đến việc giới thiệu người dùng từ các EVM khác vào 'Dotsama' (Polkadot và Kusama) bằng cách khởi chạy và phát triển cộng đồng trên các chuỗi đó, một chuyến đi mà SubQuery có thể đi cùng, gần đây đã công bố [ việc mở rộng của chúng tôi vào mạng Avalanche ](../blogs/20220321-avalache.md), theo đuổi việc mở rộng đa chuỗi hơn nữa.
 
-> _"Moonbeans have been able to harness SubQuery's aggregation and indexing capabilities to elevate their NFT marketplace data performance all within one excellent project. We look forward to being a part of their imminent arrival into the Moonbeam network."_ - James Bayly, Head of Business Development at SubQuery
+> _ "Moonbeans đã có thể khai thác khả năng tổng hợp và lập chỉ mục của SubQuery để nâng cao hiệu suất dữ liệu thị trường NFT của họ, tất cả trong một dự án xuất sắc. We look forward to being a part of their imminent arrival into the Moonbeam network."_ - James Bayly, Head of Business Development at SubQuery
 
 ![](https://miro.medium.com/max/1400/0*-FlPYXDl_QKfz9s5)
 
@@ -24,7 +24,7 @@ Moonbeans (BEANS) is the first dividend token on the Moonriver Network, and comi
 
 [Website](http://moonbeans.io/) | [Twitter ](https://twitter.com/MoonBeansIO)| [Discord](http://discord.gg/qqE9aBPzQ9) | [Telegram](http://t.me/moonbeansio) |[Medium](https://medium.com/@MoonBeans)
 
-## Giới thiệu về SubQuery
+## About SubQuery
 
 SubQuery is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot, Substrate and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
