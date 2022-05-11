@@ -2,17 +2,17 @@
 
 ![](https://miro.medium.com/max/1400/1*T3DLiAKSIy-AjRia_JJjow.png)
 
-February flew by for the team at SubQuery as we have been busy on all fronts preparing for our TGE and servicing all of our existing customers including the leading teams in Polkadot.
+Tháng Hai bận rộn ở tất cả các mảng công việc của team SubQuery đã trôi qua, để chuẩn bị cho sự kiện TGE và phục vụ tất cả các khách hàng hiện hữu của SubQuery bao gồm cả các dự án hàng đầu của hệ sinh thái Polkadot.
 
-We have a lot of exciting work going on that we can't wait to share in the weeks and months ahead!
+Chúng tôi đang có rất nhiều việc thú vị chia sẻ ngay tới quý vị mà không thể chờ để tiết lộ trong thời gian tới!
 
-## Community
+## Cộng đồng
 
-This month we finally passed 30,000 organic Twitter followers and our Discord has swelled to over 15,000 active community members working to help one another. It's not enough to build a tool or an application in web3, you need to build a self sustaining community and we're hard at work on this at SubQuery!
+Tháng này, kênh Twitter của chúng ta đã vượt ngưỡng 30 000 người theo dõi và kênh Discord đã vượt con số 15 000 thành viên hoạt động tích cực để giúp đỡ lẫn nhau. Việc xây dựng một bộ công cụ hoặc một ứng dụng trong Web3 là không đủ, bạn cần phải xây dựng một cộng đồng bền vững và chúng tôi chăm chỉ thực hiện điều đó tại SubQuery!
 
-### SubQuery Announces First Cohort of SubQuery Grants Recipients
+### SubQuey công bố nhóm đầu tiên nhận Tài trợ SubQuery
 
-Four teams have been selected as the first ever cohort of SubQuery Grants recipients. These teams are [Alphabit](https://www.polkadata.xyz/), [Zoombies](https://zoombies.world/), [Dapplooker](https://dapplooker.com/) and [Dotsama](http://dotsama.ai/). The [USD $500,000 SubQuery Grants](https://subquery.network/grants) Program kicked off in December 2021 with the vision of offering opportunities to blockchain developers, community members, and wider ecosystem participants to create innovative or high-potential web3 applications.
+Bốn nhóm đã được lựa chọn là những nhóm đầu tiên nhận được tài trợ của SubQuery. Các nhóm đó là: [Alphabit](https://www.polkadata.xyz/), [Zoombies](https://zoombies.world/), [Dapplooker](https://dapplooker.com/) and [Dotsama](http://dotsama.ai/). [ Chương trình SubQuery Grants trị giá $500.000 USD bắt đầu vào Tháng 12 năm 2021 ](https://subquery.network/grants) với tầm nhìn mang lại cơ hội cho các nhà phát triển blockchain, thành viên cộng đồng và mở rộng những người tham gia hệ sinh thái để tạo ra các ý tưởng sáng tạo hoặc tiềm năng cao bằng việc tận dụng dữ liệu nguồn mở của SubQuery các công cụ lập chỉ mục để hỗ trợ các ứng dụng phi tập trung tiên tiến.
 
 ![](https://miro.medium.com/max/1400/1*tBnWK4svpGbGuP3mCXyGDg.png)
 
