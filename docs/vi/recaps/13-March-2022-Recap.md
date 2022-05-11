@@ -1,8 +1,8 @@
-# March 2022 Recap
+# Tóm tắt Tháng 3 năm 2022
 
 ![](https://miro.medium.com/max/1400/1*ePGA5YU2NgY-qhQ66xAzcg.png)
 
-Welcome to the latest SubQuery Monthly Update!
+Chào mừng bạn đến với Bản cập nhật hàng tháng mới nhất của SubQuery!
 
 As usual the past month was action-packed with the news of our integration with Avalanche taking centre-stage. We also made massive progress towards our TGE after announcing the launch of our Testnet, "The Frontier" and have invited the first participants to our closed beta.
 
