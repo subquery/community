@@ -24,21 +24,21 @@ James ได้พูดคุยกับ Bette Chen ทีมของ Acala �
 
 ### การปรับขนาดการบริการโฮสต์ของเรา
 
-SubQuery Projects has been a recipient of some explosive growth over the past month as [thousands of academy participants](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html) have created even more projects in our hosted service ([project.subquery.network](https://project.subquery.network/)) in the space of a few weeks.
+โปรเจกต์ SubQuery ได้มีการเติบโตอย่างรวดเร็วในช่วงเดือนที่ผ่านมาเนื่องจาก [ผู้เข้าร่วมจากสถาบันการศึกษาจำนวนหลายพันคน](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html) ได้มีการสร้างโปรเจกต์เพิ่มเติมในบริการโฮสต์ของเรา ([project.subquery.network](https://project.subquery.network/)) ในช่วงไม่กี่สัปดาห์ที่ผ่านมา
 
 เราได้ก้าวข้าม milestone มากกว่า 2,000 โปรเจ็กต์ที่ได้ deployed กับบริการโฮสต์ (hosted service) ของเรา และด้วยเหตุนี้ scale ของ hosted service จึงเป็นเรื่องสำคัญ ขณะนี้เรานำเสนอทรัพยากร (resource) สำหรับลูกค้าประเภท enterprise เพื่อปรับปรุงประสิทธิภาพและสร้างความน่าเชื่อถือ
 
-If you would like to upgrade your SubQuery project to receive dedicated resourcing, contact us at [sales@subquery.network](mailto:sales@subquery.network).
+หากคุณต้องการอัปเกรดโปรเจกต์ SubQuery ของคุณเพื่อรับทรัพยากรเฉพาะ โปรดติดต่อเราที่ [sales@subquery.network](mailto:sales@subquery.network).
 
-### Supporting External Chain Type Files in our Project Manifest
+### โปรเจคของเราสามารถรองรับไฟล์ประเภท External Chain
 
-In November we launched [**version 0.2.0**](https://doc.subquery.network/create/manifest/) of our project manifest file (`project.yaml`). เวอร์ชันใหม่นี้ช่วยให้นักพัฒนามีการปรับปรุงต่างๆ ตามความต้องการของผู้ใช้บริการ
+ในเดือนพฤศจิกายน พวกเราได้เปิดตัว [**version 0.2.0**](https://doc.subquery.network/create/manifest/) ของโปรเจกต์ manifest file (`project.yaml`) เวอร์ชันใหม่นี้ช่วยให้นักพัฒนามีการปรับปรุงต่างๆ ตามความต้องการของผู้ใช้บริการ
 
 สิ่งสำคัญที่สุดคือตอนนี้คือคุณสามารถอ้างอิง chain type definition file ที่มีประเภทแบบกำหนดเองทั้งหมดรวมอยู่ด้วยเมื่อคุณสร้าง index บน substrate chain แบบกำหนดเอง วิธีนี้ช่วยให้คุณเชื่อมต่อโปรเจกต์ SubQuery ใหม่ๆกับ substrate-based chain ต่างๆได้อย่างรวดเร็ว รวมถึง parachains ของ Kusama ทั้งหมด
 
 [คุณสามารถอ่านเพิ่มเติมเกี่ยวกับฟีเจอร์ใหม่นี้ได้ที่นี่](https://blog.subquery.network/blogs/20211105-november-technical-update.html#support-for-external-chain-type-files-in-project-manifest).
 
-### Moonriver EVM Support
+### การสนับสนุน EVM ของ Moonriver
 
 ![](https://miro.medium.com/max/600/0*B27QVtvcR6nXA9ff.gif)
 
@@ -50,19 +50,19 @@ Additionally, Scott was able to present this entire workflow to the [Moonbuilder
 
 ### Gitcoin Hackathon
 
-Hot on the heels of the overwhelming success of the SubQuery Academy’s _Hero Course_, we were proud to announce that we would be providing our first hackathon opportunity for all developers via [Gitcoin Grants Round 12](https://gitcoin.co/hackathon/gr12/?org=subquery) starting on December 1st.
+จากความสำเร็จอย่างท่วมท้นของ _Hero Course_ จาก SubQuery Academy เราภูมิใจที่จะประกาศว่าเราจะจัด Hackathon ครั้งแรกให้แก่นักพัฒนาทุกคนผ่าน [Gitcoin Grants Round 12](https://gitcoin.co/hackathon/gr12/?org=subquery) โดยเริ่ม 1 ธันวาคม นี้
 
 SubQuery มอบ 5 รางวัลพร้อมเงินรางวัลรวมสูงถึง 34,000 ดอลลาร์สหรัฐ:
 
-- [Create a unified block explorer that combines Substrate and EVM insights from Moonbeam and Astar into one easy to use application](https://gitcoin.co/issue/subquery/grants/1) — US$12,000 [Sponsored by Moonbeam and Astar]
+- [สร้าง บล็อคสำรวจแบบรวมศูนย์ที่รวบรวมข้อมูลเชิงลึกต่างๆ ของ Substrate และ EVM จาก Moonbeam และ Astar เข้ามาไว้ด้วยกันเพื่อให้ง่ายต่อการใช้งานแอปพลิเคชัน](https://gitcoin.co/issue/subquery/grants/1) — 12,000 ดอลลาร์สหรัฐ [สนับสนุนโดย Moonbeam และ Astar]
 - [Work with SubQuery and the DeFi hub at Karura/Acala to build a dashboard that’s inspired by Zapper.fi or defisaver.com](https://gitcoin.co/issue/subquery/grants/2) — US$8,000 [Sponsored by Acala]
-- [Create a staking dashboard that shows the best staking opportunities across Polkadot and its various parachains](https://gitcoin.co/issue/subquery/grants/3) — US$3,000
+- [สร้างแดชบอร์ดที่แสดงกระบวนการตรวจสอบความถูกต้องของธุรกรรม สำหรับการ (Staking) ที่แสดงทางเลือกการ Stake ที่ดีที่สุดทั่วทั้งเครือข่าย Polkadot และบน Parachain ต่างๆ](https://gitcoin.co/issue/subquery/grants/3) — 3,000 ดอลลาร์สหรัฐ
 - [Build a marketplace explorer for all RMRK protocol based NFTs](https://gitcoin.co/issue/subquery/grants/4) — US$2,000
 - [Extend the @subql/node service to index data from another layer 1 chain](https://gitcoin.co/issue/subquery/grants/5) — US$12,000
 
 [คุณสามารถอ่านเพิ่มเติมเกี่ยวกับเงินรางวัลเหล่านี้ได้ที่นี่](https://blog.subquery.network/blogs/20211120-gitcoin12-hackathon.html)
 
-### Analysis into the Polkadot Crowdloans
+### วิเคราะห์การระดมทุน ของ Polkadot
 
 SubQuery เป็นบริการจัดทำ index ข้อมูลชั้นนำของ Polkadot และในสัปดาห์ที่ผ่านมา เราได้รับการเรียกใช้บริการมากกว่าล้านคำสั่งต่อวันไปยังแดชบอร์ดของ Crowdloan แอพลิเคชั่นที่สนับสนุน และเว็บไซต์สำหรับการวิเคราะห์ข้อมูล Teams like [**SubVis**](https://www.subvis.io/), [**Parallel Finance**](https://parallel.fi/), and [**DotMarketCap**](https://dotmarketcap.com/) rely on SubQuery to provide real-time data on the crowdloans and other on-chain data directly to their websites and apps.
 
