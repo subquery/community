@@ -2,32 +2,32 @@
 
 ![](https://miro.medium.com/max/1400/1*DiTE9KuzH0xHLojzGWxOuw.png)
 
-For quite some time we have been developing and refining Terra support behind the scenes and testing it with key development launch partners (keep an eye out for announcements in the coming days). This prolonged period has allowed us to be extremely confident in the scalability, reliability, and features that SubQuery today brings to Terra. In this article we share a detailed developer guide and roadmap for all of the Terra community to use to solve their data indexing needs.
+В течение довольно долгого времени мы разрабатывали и совершенствовали поддержку Terra, а также тестировали ее с ключевыми партнерами по запуску разработки (следите за анонсами в ближайшие дни). Этот длительный период позволил нам стать чрезвычайно уверенными в масштабируемости, надежности и функциях, которые SubQuery предоставляет Terra на сегодняшний день. В этой статье мы делимся подробным руководством для разработчиков и дорожной картой, которые все сообщество Terra может использовать для решения своих потребностей в индексации данных.
 
-SubQuery is an open data indexer that is flexible and fast. Our open indexing tool is designed to help developers build their own API in hours, and it's designed to index chains incredibly quickly with the assistance of dictionaries (pre-computed indices). Our experience with customers across all verticals in Polkadot (wallets, networks, explorers, NFT, DeFi, scanners, etc) has helped us build this.
+Subquery - это гибкий и быстрый индексатор открытых данных. Наш открытый инструмент индексирования предназначен для того, чтобы помочь разработчикам создавать свой собственный API за считанные часы. Он предназначен для невероятно быстрого индексирования цепочек с помощью словарей (предварительно вычисленных индексов). Наш опыт работы с клиентами во всех вертикалях Polkadot (кошельки, сети, исследователи, NFT, DeFi, сканеры и т.д.) помог нам создать это.
 
-This is still in its early versions, and while we consider far beyond a "beta", we would appreciate it if any bugs can be reported to our team so we can address them quickly.
+Это все еще ранние версии, и, хотя мы заглядываем далеко за пределы "бета-версии", будем признательны, если о любых ошибках вы будете сообщать нашей команде для их оперативного устранения.
 
 <iframe width="656" height="369" src="https://www.youtube.com/embed/dS7h3isQCeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Why Use SubQuery?
+## Почему стоит использовать SubQuery?
 
-The application ecosystem has thrived in Terra even though there is a serious lack of some key developer tools and infrastructure services. It's amazing to see, and a testament to the drive and ingenuity of the Lunatics in Terra. I most cases when we asked teams how they solved their data indexing needs, it was:
+Экосистема приложений преуспела в Terra, несмотря на серьезную нехватку некоторых ключевых инструментов разработчика и инфраструктурных сервисов. Это удивительно видеть, но главное, что это свидетельство упорства и изобретательности Lunatics в Terra. В большинстве случаев, когда мы спрашивали команды, как они решают свои потребности в индексации данных, это было:
 
-- **Build your own solution:** A custom implementation running by yourself built specifically for your app. But why reinvent the wheel? SubQuery is focusing on building a reliable and fast open indexer - we're here to save you time
-- **Designing smart contracts for queries:** Some teams were even implementing custom quirks in their smart contracts to specifically allow for more advanced queries specific to their application logic.
+- **Создание собственного решения:** Пользовательская реализация, выполняемая самостоятельно, созданная специально для вашего приложения. Но зачем изобретать велосипед заново? SubQuery фокусируется на создании надежного и быстрого открытого индексатора - мы здесь, чтобы сэкономить ваше время
+- ** Разработка смарт-контрактов для запросов:** Некоторые команды даже внедряли пользовательские особенности в свои смарт-контракты, специально позволяющие выполнять более сложные запросы, специфичные для их прикладной логики.
 
-At SubQuery we have an open-source SDK that is easy to use and lightning quick. It provides you with a standard GraphQL endpoint, or you can just query the postgres database directly. With it you can index a unique set of data from your own smart contracts that allows you to build a superior product that blows your competition out of the water! We give you flexibility to get the data that you need in the shape that works best for you.
+В SubQuery есть SDK с открытым исходным кодом, который прост в использовании и работает молниеносно. Он предоставляет вам стандартную конечную точку GraphQL, но вы можете и просто запросить базу данных postgres напрямую. С его помощью вы можете индексировать уникальный набор данных из ваших собственных смарт-контрактов, что позволяет вам создавать превосходный продукт, который выбьет ваших конкурентов из колеи! Мы предоставляем вам гибкость в выборе необходимых вам данных в форме, которая лучше всего подходит для вас.
 
-Reliability is key, and you need a reliable and scalable platform to host it. [SubQuery's managed service](https://subquery.network/managedservices) is an industry leading hosting solution for all customers that is serving hundreds of millions of daily requests to the biggest projects in Polkadot. We provide our [enterprise level customers](./20211228-enterprise-hosted.md) with services such as dedicated databases, redundant clusters, intelligent multi-cluster routing, and advanced monitoring and analytics. It will support your application when you are ready and will scale with you.
+Надежность это ключевой фактор, поэтому вам нужна надежная и масштабируемая платформа для ее размещения. [Управляемый сервис SubQuery](https://subquery.network/managedservices) - это ведущее в отрасли решение для хостинга всех клиентов, которое обслуживает сотни миллионов ежедневных запросов в крупнейших проектах на Polkadot. Мы предоставляем нашим клиентам [корпоративного уровня](./20211228-enterprise-hosted.md) такие услуги, как выделенные базы данных, резервные кластеры, интеллектуальная многокластерная маршрутизация, а также расширенный мониторинг и аналитика. Все это поддержит ваше приложение, когда вы будете готовы, и будет масштабироваться вместе с вами.
 
-And finally, in a few months you'll be able to completely decentralise your SubQuery infrastructure with the SubQuery Network, the future of Web3 infrastructure. The SubQuery Network will index and service your projects data to the global community in an incentivised and verifiable way. It is designed to support any SubQuery project from any layer-1 network including Terra, so you can take advantage of the scale of the unified SubQuery Network from launch.
+И, наконец, через несколько месяцев вы сможете полностью децентрализовать свою инфраструктуру SubQuery с помощью сети SubQuery — будущего инфраструктуры Web3. Сеть Subquery будет индексировать и предоставлять данные о ваших проектах мировому сообществу стимулируемым и поддающимся проверке способом. Он предназначен для поддержки любого проекта SubQuery из любой сети layer-1, включая Terra, поэтому вы можете воспользоваться преимуществами масштаба объединенной сети SubQuery с момента запуска.
 
-## Installation Instructions
+## Инструкции по установке
 
-You'll first need to install a recent version of @subql/cli via npm i -g @subql/cli@latest
+Сначала вам нужно будет установить последнюю версию @subql/cli через npm i -g @subql/cli@latest
 
-The best way is to start with [our starter project](https://github.com/subquery/terra-subql-starter), it contains a running project with an example of all mapping functions: This project indexes the following:
+Лучший способ - начать с [нашего начального проекта](https://github.com/subquery/terra-subql-starter), который содержит запущенный проект с примером всех функций сопоставления: Этот проект индексирует следующее:
 
 - **BlockHandler:** All blocks and their hash and height
 - **TransactionHandler:** All transactions and their hash, height, and timestamp
