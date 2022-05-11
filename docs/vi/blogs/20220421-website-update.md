@@ -12,7 +12,7 @@ SubQuery, là một dự án lập chỉ mục dữ liệu, tất cả chỉ có
 
 Quay trở lại các nguyên tắc đầu tiên của thiết kế trang web, chúng tôi chắc chắn luôn ghi nhớ tới người dùng cuối. Để đạt được mục tiêu của mình, chúng tôi phải tuân thủ các nguyên tắc chính như thiết lập hệ thống phân cấp trực quan mạnh mẽ trên các yếu tố như kiểu chữ và nhóm nội dung. Hơn nữa, với vấn đề chủ đề, điều quan trọng là chúng tôi đảm bảo rằng nội dung có thể truy cập và phản hồi nhanh và không làm khán giả choáng ngợp với quá nhiều thông tin.
 
-Quy trình thiết kế giao diện người dùng của chúng tôi trải qua năm bước mang đến cho chúng tôi cơ hội tạo ra thiết kế lấy người dùng làm trung tâm và xem xét các nguyên tắc thành công tiếp thị dựa trên giá trị.
+Quy trình thiết kế giao diện người dùng của chúng tôi trải qua năm bước mang đến cho chúng tôi cơ hội tạo ra thiết kế lấy người dùng làm trung tâm và xem xét các nguyên tắc thành công của tiếp thị dựa trên giá trị.
 
 ## Step 1: Empathise
 
