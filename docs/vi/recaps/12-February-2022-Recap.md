@@ -68,24 +68,24 @@ Many customers, including Nova, rely on SubQuery to provide mission critical dat
 
 ### SubQuery to help power Parami Protocol's Web 3 advertising technology
 
-[Parami Protocol](https://parami.io/) is developing an innovative new technology for a user-centric, tokenised advertising economy: Ad 3.0.
+[ Giao thức Parami ](https://parami.io/) đang phát triển một công nghệ mới sáng tạo cho nền kinh tế quảng cáo mã hóa, lấy người dùng làm trung tâm: Ad 3.0.
 
-> _"Parami's vision is to build a user-centric advertising economy for web3 and in order to make this a reality, we turned to SubQuery as our trusted data partner. SubQuery provides the backbone of our service by delivering the query part of our Command and Query Responsibility Segregation (CQRS) pattern to update our core database. Parami takes advantage of SubQuery's superior indexing speed to track the price of NFT fragments and to build a secondary index of on-chain data all in one sentence. We are looking forward to building AD 3.0 for Web 3.0 leveraging SubQuery's innovative technology."_
+> _"Tầm nhìn của Parami là xây dựng nền kinh tế quảng cáo lấy người dùng làm trung tâm cho web3 và để biến điều này thành hiện thực, chúng tôi đã chuyển sang SubQuery làm đối tác dữ liệu đáng tin cậy của mình. SubQuery cung cấp xương sống cho dịch vụ của chúng tôi bằng cách cung cấp phần truy vấn của mẫu Phân tách trách nhiệm truy vấn và lệnh (CQRS) để cập nhật cơ sở dữ liệu cốt lõi của chúng tôi. Parami tận dụng tốc độ lập chỉ mục vượt trội của SubQuery để theo dõi giá của các đoạn NFT và xây dựng chỉ mục thứ cấp của dữ liệu trên chuỗi, tất cả trong một câu. Chúng tôi mong muốn xây dựng AD 3.0 cho Web 3.0 tận dụng công nghệ tiên tiến của SubQuery."_
 
-~ Dorian the Co-Founder of Parami Protocol
+~ Dorian Đồng sáng lập Parami Protocol
 
-[Read more here](../customer_announcements/20220222-parami.md)
+[Đọc thêm tại đây](../customer_announcements/20220222-parami.md)
 
-## Other things you might have missed
+## Một vài thứ khác mà bạn có thể đã bỏ lỡ
 
-- We had an AMA with [Talisman](https://talisman.xyz/) and a Polish Q&A on our [Discord server](https://discord.com/channels/796198414798028831/796198414798028834)
-- Watch the recording of our [February community call](https://www.crowdcast.io/e/subquery-sessions-february) on Crowdcast
-- New grants with Phala in our [SubQuery Grants Programme](https://subquery.network/grants)
+- Chúng tôi đã có AMA với [ Talisman ](https://talisman.xyz/) và một người Ba Lan Q&A trên [ Discord ](https://discord.com/channels/796198414798028831/796198414798028834) của chúng tôi
+- Xem bản ghi [ cuộc gọi cộng đồng tháng 2 của chúng tôi ](https://www.crowdcast.io/e/subquery-sessions-february) trên Crowdcast
+- Các khoản tài trợ mới với Phala trong [ Chương trình tài trợ SubQuery ](https://subquery.network/grants) của chúng tôi
 
 P.S.
 
-Remember to join our [Discord](https://discord.com/invite/subquery) and [our social channels](https://linktr.ee/subquerynetwork) to stay updated on our latest news and announcements.
+Hãy nhớ tham gia [Discord](https://discord.com/invite/subquery) và [các kênh xã hội của chúng tôi](https://linktr.ee/subquerynetwork) để được cập nhật tin tức và thông báo mới nhất của chúng tôi.
 
-The SubQuery Team
+Đội ngũ của SubQuery
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
