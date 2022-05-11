@@ -16,34 +16,34 @@ Dmytro nói được tiếng Anh, tiếng Ukraina, tiếng Nga, tiếng Bungary 
 
 Quan trọng nhất, Dmytro coi trọng mọi người và thích chia sẻ kiến thức, cung cấp cơ hội và đoàn kết mọi người với mục tiêu chung.
 
-> _ Tôi là một người hâm mộ và là người khám phá từ khá sớm hệ sinh thái Polkadot. Tôi tin rằng họ sẽ tạo nên một thời đại We3 thực sự vĩ đại trong tương lai. Nhưng để có một hệ sinh thái với đầy đủ các tính năng, chứng ta cần tạo một thế giới dữ liệu cho phép truy cập nhanh chóng và dễ dàng, đó là lý do tôi gặp SubQuery vào ngày 14/6/2021. Nếu ví Polkadot như là một cơ thể sồng thì SubQuery chính là bộ nhớ và trái tim của cơ thể đó. Để xây dựng các ứng dụng phức tạp và trực quan hơn, các nhà phát triển cần các công cụ mạnh mẽ hơn để truy vần và xử lý dữ liệu. SubQuery offers developers to focus more on the development of applications and solutions for them. SubQuery's believes that developers of applications will change the future while SubQuery will be engaged in maintenance of the exponentially growing infrastructure."_ - Dmytro
-
-![](https://miro.medium.com/max/1400/0*fh2pBSbhmMkXWYqz)
-
-Nick has a degree in linguistics specialising in Germanic philology and literature, but also has a passion for marketing and management.
-
-He was interested in crypto since his school days, but it was not until university that he decided to take it seriously and take the necessary steps to familiarise himself with the crypto world. He believed that people would soon change their attitude towards cryptocurrencies and start to look into it more deeply, and that this topic would become very popular and commonplace.
-
-Nick speaks four languages, English, German, Russian and Ukrainian and has over two years of success in community management, team collaboration, leadership and strategic planning. His focus is on the Blockchain space, specifically DeFi technology and smart contract platforms, which he believes will change the world.
-
-> _"I started my journey in SubQuery about one year ago. I liked the story of the project as well as the team, the goals and of course the technology. My research also revealed that SubQuery offers a great professional development programme for community members, which to me indicates a commitment to collective improvement that I value. The team members were very responsive and always willing to help newbies with questions. That's why I immediately decided to join the Ambassador programme. It was the right decision, and now I am very happy to be a part of and stand at the origins of such a wonderful project."_ - Nick
-
-![](https://miro.medium.com/max/1400/0*UAl7Xw8tJuJ44SrF)
-
-Prathak is a doctor who is interested in a variety of fields, but his greatest interest lies in investment and technology.
-
-He learned about the world of blockchain while studying programming on his own during his university years in his free time. He was drawn to the possibilities and potential of new technologies and became deeply passionate about blockchain, especially DeFi and DAOs. Other favoured topics for him are artificial intelligence, ZKP and how blockchain can be used in a more privacy-focused environment.
-
-In addition to his interest in blockchain and new technologies stemming from his software development background, he also has literary and poetic abilities.
-
-In his spare time, he reads novels, comic books, and exercises regularly. On long weekends, he often goes out on a motorcycle to explore the nature and lifestyle of the local people. He aspires to have a positive influence on others such as his family and friends.
-
-As a SubQuery Ambassador, he desires to use this opportunity to create an open-source instructional resource regarding blockchain applications. He envisions the resource to involve not just instructions on dapp creation for novices, but also scientific research on subjects such as AI and ZKP.
-
-> _"Aside from the fact that the SubQuery team and community are amazing. The reason I like SubQuery is because I see the great potential that SubQuery will bring to the blockchain world. Being able to access and analyze data on blockchain is very important in taking blockchain to the next level. Especially now that data is more valuable than gold."_ - Prathak
-
-## About SubQuery
-
-[SubQuery](https://subquery.network) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot , Substrate and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
-
-​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+> _ Tôi là một người hâm mộ và là người khám phá từ khá sớm hệ sinh thái Polkadot. Tôi tin rằng họ sẽ tạo nên một thời đại We3 thực sự vĩ đại trong tương lai. Nhưng để có một hệ sinh thái với đầy đủ các tính năng, chứng ta cần tạo một thế giới dữ liệu cho phép truy cập nhanh chóng và dễ dàng, đó là lý do tôi gặp SubQuery vào ngày 14/6/2021. Nếu ví Polkadot như là một cơ thể sồng thì SubQuery chính là bộ nhớ và trái tim của cơ thể đó. Để xây dựng các ứng dụng phức tạp và trực quan hơn, các nhà phát triển cần các công cụ mạnh mẽ hơn để truy vần và xử lý dữ liệu. SubQuery cho phép các nhà phát triển tập trung hơn vào việc phát triển các ứng dụng và giải pháp của họ. "SubQuery tin tưởng rằng các nhà phát triển ứng dụng sẽ làm thay đổi tương lại trong đó SubQuery sẽ tham gia vào việc duy trì cơ sở hạ tầng (của Web3-Nd) đang phát triển theo cấp số nhân" - Dmytro nói</p> </blockquote> 
+> 
+> ![](https://miro.medium.com/max/1400/0*fh2pBSbhmMkXWYqz)
+> 
+> Nick có bằng cấp về ngôn ngữ và văn học Đức, nhưng đồng thời anh cũng rất đam mê về marketigg và quản lý.
+> 
+> Anh ấy quan tâm đến lĩnh vực mã hóa từ khi còn học phổ thông, nhưng cho đến khi học đại học anh mới quyết định thực hiện các bước nghiêm túc để tự mình làm quen với thế giới tiền mã hóa. Anh ấy tin rằng mọi người sẽ sớm thay đổi thái độ đối với tiền điện tử và bắt đầu xem xét nó kỹ càng hơn, và chủ đề này sẽ trở nên rất phổ biến và thông dụng.
+> 
+> Nick nói được 4 thứ tiếng Anh, Đức, Nga và Ukraina và đã có hơn hai năm thành công trong lĩnh vực quản lý cộng đồng, hợp tác nhóm, lãnh đạo và lập kế hoạch chiến lược. Anh ấy chú trọng vào mảng bblockchain, lĩnh vực DeFi và hợp đồng thông minh, những thứ anh ấy tin rằng sẽ làm thay đổi thế giới.
+> 
+> > _"Tôi bắt đầu hành trình của mình với SubQuery cách đây 1 năm. Tôi thích câu chuyện của dự án cũng như đội ngũ, mục tiêu và tất nhiên công nghệ của dự án. Nghiên cứu của tôi cho thấy SubQuery đưa ra chương trình phát triển rất chuyên nghiệp cho các thành viên của cộng đồng, đối với tôi điều này thể hiện sự cam kết phát triển không ngừng của dự án, và tôi đánh giá cao việc đó. Các thành viên của dự án rất trách nhiệm và sẵn sàng phúc đáp các câu hỏi giúp những người mới gia nhập cộng đồng. Đó chính là lý do tôi quyết định ngay lập tức gia nhập chương trình Đại sứ của dự án. Đó là quyết định đúng đắn và hiện nay tôi rất hạnh phúc khi là một trong những đại sứ đầu tiên của dự án tuyệt vời như vậy."_ - Nick
+> 
+> ![](https://miro.medium.com/max/1400/0*UAl7Xw8tJuJ44SrF)
+> 
+> Prathak là một bác sỹ quan tâm đến rất nhiều lĩnh vực, nhưng mối quan tâm lớn nhất của anh ấy là đầu tư và công nghệ.
+> 
+> Anh học về thế giới blockchain khi tự mình tranh thủ nghiên cứu về lập trình trong những khoảng thời gian rảnh rỗi ở trường đại học. Anh bị cuốn hút bởi khả năng và tiềm năng của công nghệ mới và trở thành người có niềm đam mê sâu sắc về blockchain, đặc biệt là DeFi và DAOs. Các chủ đề ưa thích khác của anh là trí tuệ nhân tạo, ZKP và làm thế nào để blockchain ứng dụng trong môi trường ngày càng chú trọng vào quyền riêng tư.
+> 
+> Cùng với sở thích về blockchain và công nghệ mới xuất phát từ nền tảng nghiên cứu trong lĩnh vực phần mềm của mình, anh ấy còn có khả năng thơ phú và văn chương.
+> 
+> Anh đọc tiểu thuyết, truyện tranh và tập thể dục thường xuyên vào thời gian rảnh. Những dịp nghỉ cuối tuần dài ngày, anh ấy thường đi dã ngoại trên chiếc xe máy để khám phá thiên nhiên và cuộc sống của những người bản địa. Anh ấy mong muốn có ảnh hưởng tích cực đến người khác như các thành viên trong gia đình hay bạn bè của mình.
+> 
+> As a SubQuery Ambassador, he desires to use this opportunity to create an open-source instructional resource regarding blockchain applications. He envisions the resource to involve not just instructions on dapp creation for novices, but also scientific research on subjects such as AI and ZKP.
+> 
+> > _"Aside from the fact that the SubQuery team and community are amazing. The reason I like SubQuery is because I see the great potential that SubQuery will bring to the blockchain world. Being able to access and analyze data on blockchain is very important in taking blockchain to the next level. Especially now that data is more valuable than gold."_ - Prathak
+> 
+> ## About SubQuery
+> 
+> [SubQuery](https://subquery.network) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot , Substrate and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+> 
+> ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
