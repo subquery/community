@@ -10,38 +10,38 @@ SubQuery, là một dự án lập chỉ mục dữ liệu, tất cả chỉ có
 
 ![](https://miro.medium.com/max/1400/1*rqmuhuC5rdV7sZN2AwokZQ.png)
 
-Quay trở lại các nguyên tắc đầu tiên của thiết kế trang web, chúng tôi chắc chắn luôn ghi nhớ tới người dùng cuối. Để đạt được mục tiêu của mình, chúng tôi phải tuân thủ các nguyên tắc chính như thiết lập hệ thống phân cấp trực quan mạnh mẽ trên các yếu tố như kiểu chữ và nhóm nội dung. Hơn nữa, với vấn đề chủ đề, điều quan trọng là chúng tôi đảm bảo rằng nội dung có thể truy cập và phản hồi nhanh và không làm khán giả choáng ngợp với quá nhiều thông tin.
+Quay trở lại các nguyên tắc đầu tiên của thiết kế trang web, chúng tôi chắc chắn luôn quan tâm tới người dùng cuối. Để đạt được mục tiêu của mình, chúng tôi phải tuân thủ các nguyên tắc chính như thiết lập hệ thống phân cấp trực quan mạnh mẽ trên các yếu tố như kiểu chữ và nhóm nội dung. Hơn nữa, về tiêu đề, điều quan trọng là chúng tôi đảm bảo rằng nội dung có thể truy cập và phản hồi nhanh và không làm khán giả choáng ngợp với quá nhiều thông tin.
 
 Quy trình thiết kế giao diện người dùng của chúng tôi trải qua năm bước mang đến cho chúng tôi cơ hội tạo ra thiết kế lấy người dùng làm trung tâm và xem xét các nguyên tắc thành công của tiếp thị dựa trên giá trị.
 
-## Step 1: Empathise
+## Bước 1: Đồng cảm
 
-The goal during this stage is to understand who we design for. Creating customer personas are a good way to help represent a particular group of people with similar behaviour, needs, goals, and attitudes. This understanding allowed us to make the right decisions about product features, navigation, visual design, and much more.
+Mục tiêu trong giai đoạn này là hiểu chúng tôi thiết kế cho ai. Tạo chân dung khách hàng là một cách tốt trong việc giúp đại diện cho một nhóm người cụ thể có hành vi, nhu cầu, mục tiêu và thái độ tương tự nhau. Sự hiểu biết này cho phép chúng tôi đưa ra quyết định đúng đắn về tính năng sản phẩm, điều hướng, thiết kế trực quan, v. v.
 
-## Step 2: Define
+## Bước 2: Xác định
 
-The next step was to define these insights identified in the Empathise stage, we looked to define our users needs, problems, and insights. Once again, this process is to have a better understanding of exactly what our users need before we start looking to provide what we think they need.
+Bước tiếp theo là xác định những thông tin chi tiết được nhận định trong giai đoạn Đồng cảm, chúng tôi đã tìm cách xác định nhu cầu, vấn đề và thông tin chi tiết của người dùng. Một lần nữa, quá trình này là để hiểu rõ hơn về chính xác những gì người dùng của chúng tôi cần trước khi chúng tôi bắt đầu tìm cách cung cấp những gì chúng tôi nghĩ rằng họ cần.
 
-## Step 3: Ideate
+## Bước 3: Lên ý tưởng
 
-Based on the previous two steps we then looked to ideate various different design options making sure to consider the user with every decision made.
+Dựa trên hai bước trước đó, chúng tôi sau đó đã xem xét lý tưởng các tùy chọn thiết kế khác nhau để đảm bảo cân nhắc người dùng với mọi quyết định được đưa ra.
 
-## Step 4: Prototype
+## Bước 4: Nguyên mẫu
 
-After going through the ideation process we looked to prototype specific designs we think best reflect the needs of our users and best solve the problems they have.
+Sau khi trải qua quá trình hình thành ý tưởng, chúng tôi đã xem xét các thiết kế nguyên mẫu cụ thể mà chúng tôi cho rằng phản ánh tốt nhất nhu cầu của người dùng và giải quyết tốt nhất các vấn đề mà họ gặp phải.
 
-## Step 5: Test
+## Bước 5: Kiểm tra
 
-The final stage of our process was to test the prototypes we had designed. This allowed us to ensure that the changes we have made are effective.
+Giai đoạn cuối cùng của quá trình thiết kế là kiểm tra các nguyên mẫu mà chúng tôi đã làm. Điều này cho phép chúng tôi đảm bảo rằng những thay đổi chúng tôi đã thực hiện có hiệu quả.
 
 ![](https://miro.medium.com/max/1400/1*AMO1WP2Yg1MtNht22gIeaw.png)
 
-> _"SubQuery has bold ambitions and we needed an updated visual identity that reflects that vision. By modernising our layout and improving the visual hierarchy with new typography and colours, we provide our website visitors a fresh experience and insight into SubQuery. Personally, I'm a big fan of the new illustrations which were created for our Frontier testnet as they create an extra dimension in the evolution of our brand story"_ - Cassie Wang, UX Designer at SubQuery
+> _ "SubQuery có tham vọng táo bạo và chúng tôi cần một bản cập nhật trực quan phản ánh tầm nhìn đó. Bằng cách hiện đại hóa bố cục và cải thiện hệ thống phân cấp trực quan với kiểu chữ và màu sắc mới, chúng tôi cung cấp cho khách truy cập trang web của mình trải nghiệm mới và cái nhìn sâu sắc về SubQuery. Cá nhân tôi là một fan hâm mộ lớn của những hình minh họa mới được tạo cho Frontier testnet của chúng tôi vì chúng tạo ra một khía cạnh bổ sung trong quá trình phát triển câu chuyện thương hiệu của chúng tôi "_ - Cassie Wang, UX Designer tại SubQuery
 
-We hope you enjoy the website as much as we do! Take a look today at https://subquery.network
+Chúng tôi hy vọng bạn thích trang web nhiều như chúng tôi! Hãy xem ngay hôm nay tại https://subquery.network
 
-## About SubQuery
+## Giới thiệu về SubQuery
 
-[SubQuery](https://subquery.network) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from Layer-1 chains. Currently servicing Polkadot, Substrate, and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+[ SubQuery ](https://subquery.network) là bộ công cụ dành cho nhà phát triển blockchain cho phép những người khác xây dựng các ứng dụng Web3 trong tương lai. Dự án SubQuery là một API hoàn chỉnh để tổ chức và truy vấn dữ liệu từ chuỗi L1. Hiện đang phục vụ các dự án Polkadot, Substrate và Avalanche, dữ liệu dưới dạng dịch vụ này cho phép các nhà phát triển tập trung vào trường hợp sử dụng cốt lõi và giao diện người dùng mà không cần lãng phí thời gian vào việc xây dựng chương trình phụ trợ tùy chỉnh để xử lý dữ liệu. Mạng SubQuery đề xuất kích hoạt cùng một giải pháp có thể mở rộng và đáng tin cậy này, nhưng theo cách hoàn toàn phi tập trung.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
