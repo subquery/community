@@ -54,19 +54,19 @@ Indexers ที่สนใจจะเข้าร่วม [สามารถ
 
 บริการเหล่านี้ช่วยให้เราสามารถนำเสนอบริการระดับพรีเมียมให้กับลูกค้าได้อย่างมั่นใจมากขึ้น เราทำงานร่วมกับลูกค้าแต่ละรายเพื่อทำความเข้าใจธุรกิจและเป้าหมายของพวกเขา จากนั้นจึงจัดทำบริการเพื่อตอบสนองความต้องการของพวกเขา SubQuery เป็นผู้ให้บริการข้อมูลรายใหญ่ที่สุดใน Polkadot และคุณสมบัติเหล่านี้แสดงให้เห็นว่าเราสนับสนุนโครงการชุมชนหลายพันโครงการได้อย่างไรในเวลาเดียวกับโครงการที่ใหญ่ที่สุดใน Polkadot [อ่านเพิ่มเติมได้ที่นี่](../blogs/20211228-enterprise-hosted.md)
 
-## Community
+## คอมมูนิตี้
 
-### The Hero Course
+### Hero Course
 
-A few months ago we released our first course to help blockchain developers upskill themselves for free. Now, we are pleased to announce that all modules of our [Hero Course](https://subquery.coassemble.com/unlock/dOKZW6O#/) have now been released.
+ไม่กี่เดือนที่ผ่านมา เราได้เปิดตัวหลักสูตรแรกของเราเพื่อช่วยนักพัฒนาบล็อกเชนเพิ่มทักษะให้ตัวเองฟรี ตอนนี้ เรายินดีที่จะประกาศว่า modules ทั้งหมดของ [Hero Course](https://subquery.coassemble.com/unlock/dOKZW6O#/) ของเราได้รับการเผยแพร่แล้ว
 
-We recently added a quiz feature to enable students to earn the official certificate and are working with the Community to translate the course into various languages.
+เมื่อเร็วๆ นี้เราได้เพิ่มฟีเจอร์แบบทดสอบเพื่อให้นักเรียนได้รับใบรับรองอย่างเป็นทางการ และกำลังทำงานร่วมกับชุมชนเพื่อแปลหลักสูตรเป็นภาษาต่างๆ
 
-### SubQuery Celebrates Winners of Encode Club Hackathon
+### SubQuery ขอแสดงความยินดีกับผู้ชนะใน Encode Club Hackathon
 
-SubQuery was proud to partner with Acala for the Encode Club Hackathon last year to support the developer community and the next generation of Polkadot projects.
+เรารู้สึกภูมิใจอย่างยิ่งที่ได้เป็นร่วมมือกับ Acala ในการทำ Encode Club Hackathon เมื่อปีที่แล้ว เพื่อสนับสนุนคอมมูนิตี้นักพัฒนาและโปรเจกต์บน Polkadot รุ่นต่อไป
 
-After 10 weeks and scrutiny from high profile judges in the Polkadot ecosystem such as [Bryan Chen](https://twitter.com/XiliangChen) (Co-Founder and CTO of Acala), [Hang Yin](https://twitter.com/bgmshana) (Co-Founder of Phala Network), [Jack Platts](https://twitter.com/jackbplatts) (Co-Founder of Hypersphere Ventures) and [Sota Watanabe](https://twitter.com/WatanabeSota) (Founder of Astar, CEO of Stake Technologies) we are happy to share [the winners](https://medium.com/encode-club/polkadot-hack-finale-prizewinners-and-summary-931627c64d9) of our challenges.
+หลังจากผ่านไป 10 สัปดาห์และด้วยการพิจารณาอย่างรอบคอบจากผู้ตัดสินผู้มีคุณวุฒิใน Polkadot เช่น [Bryan Chen](https://twitter.com/XiliangChen) (ผู้ร่วมก่อตั้งและ CTO ของ Acala), [Hang Yin](https://twitter.com/bgmshana) (ผู้ร่วมก่อตั้ง Phala Network), [Jack Platts](https://twitter.com/jackbplatts) (ผู้ร่วมก่อตั้ง Hypersphere Ventures) และ [Sota Watanabe](https://twitter.com/WatanabeSota) (ผู้ก่อตั้ง Astar, CEO ของ Stake Technologies) เรายินดีอย่างยิ่งที่จะประกาศรายชื่อ [ผู้ชนะ](https://medium.com/encode-club/polkadot-hack-finale-prizewinners-and-summary-931627c64d9) จากกิจกรรมครั้งนี้
 
 🤖 The “build a bot” challenge was won by the team at Krakura with an interesting open-source DEX arbitrage bot that constantly checks for pricing differences.
 
