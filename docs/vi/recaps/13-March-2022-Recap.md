@@ -4,11 +4,11 @@
 
 Chào mừng bạn đến với Bản cập nhật hàng tháng mới nhất của SubQuery!
 
-As usual the past month was action-packed with the news of our integration with Avalanche taking centre-stage. We also made massive progress towards our TGE after announcing the launch of our Testnet, "The Frontier" and have invited the first participants to our closed beta.
+Như thường lệ, tháng trước có rất nhiều hành động với tin tức về sự tích hợp của chúng tôi với Avalanche làm trung tâm. Chúng tôi cũng đã đạt được tiến bộ lớn đối với TGE của mình sau khi thông báo ra mắt Testnet, "The Frontier" và đã mời những người tham gia đầu tiên vào bản beta đã đóng của chúng tôi.
 
-Meanwhile, we also announced partnerships with several teams in Polkadot and we rewarded our rapidly community by continuing our partnership with Gitcoin.
+Trong khi đó, chúng tôi cũng đã công bố quan hệ đối tác với một số nhóm ở Polkadot và chúng tôi đã thưởng cho cộng đồng nhanh chóng của mình bằng cách tiếp tục quan hệ đối tác với Gitcoin.
 
-## Community
+## Phát triển cộng đồng
 
 ### SubQuery Provides Web3 Developers More Opportunities via Gitcoin Hackathon
 
