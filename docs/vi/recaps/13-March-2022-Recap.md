@@ -10,59 +10,59 @@ Trong khi đó, chúng tôi cũng đã công bố quan hệ đối tác với m�
 
 ## Phát triển cộng đồng
 
-### SubQuery Provides Web3 Developers More Opportunities via Gitcoin Hackathon
+### SubQuery cung cấp thêm cơ hội cho các nhà phát triển Web3 thông qua Gitcoin Hackathon
 
-After running our first Gitcoin Hackathon in December 2021 and achieving fantastic results with many talented developers it was an easy decision to extend our partnership.
+Sau khi khởi chạy Gitcoin Hackathon đầu tiên vào tháng 12 năm 2021 và đạt được kết quả tuyệt vời với nhiều nhà phát triển tài năng, đó là một quyết định dễ dàng để mở rộng quan hệ đối tác của chúng tôi.
 
-> _"SubQuery is proud to partner with the Gitcoin GR13 Hackathon to build the future of Web3. It is in our interest to support motivated developers around the world to build on top of our data indexing service which is why we also recently launched a $500,000 SubQuery Grants Programme. We have developed bounties that should excite graduates of our 'Hero Course' and developers who are new to SubQuery and look forward to seeing the results"_ - Sam Zou, Founder and CEO of SubQuery
+> _ "SubQuery tự hào được hợp tác với Gitcoin GR13 Hackathon để xây dựng tương lai của Web3. Chúng tôi quan tâm đến việc hỗ trợ các nhà phát triển có niềm đam mê trên toàn thế giới, để xây dựng dựa trên dịch vụ lập chỉ mục dữ liệu của chúng tôi, đó là lý do tại sao gần đây chúng tôi cũng đã khởi chạy Chương trình tài trợ SubQuery trị giá 500.000 đô la. Chúng tôi đã phát triển các khoản tiền thưởng có thể kích thích các môn sinh tốt nghiệp 'Khóa học anh hùng' của chúng tôi và các nhà phát triển mới sử dụng SubQuery và mong được thấy kết quả "_ - Sam Zou, Người sáng lập và Giám đốc điều hành của SubQuery
 
-[Read more here](../blogs/20220308-gitcoin13-hackathon.md)
+[Đọc thêm tại đây](../blogs/20220308-gitcoin13-hackathon.md)
 
-### SubQuery Extends Partnership with OneBlock+ To Promote Blockchain Education in China
+### SubQuery mở rộng quan hệ đối tác với OneBlock+ để thúc đẩy đào tạo Blockchain ở Trung Quốc
 
-We are partnering with OneBlock+ to run a second round of the ["Hero Course"](https://doc.subquery.network/academy/herocourse/) in China starting in early April.
+Chúng tôi đang hợp tác với OneBlock + để tổ chức vòng thứ hai của [ "Khóa học Anh hùng" ](https://doc.subquery.network/academy/herocourse/) tại Trung Quốc bắt đầu vào đầu tháng 4.
 
-> _"SubQuery is excited to continue our partnership with OneBlock+ and their passionate group of Chinese Substrate developers. We have already received feedback that the first group of students are already using SubQuery on their own projects to make their development easier. We look forward to collaborating with the future students as they leverage on OneBlock+ and SubQuery to build the next generation of dApps"_ - Sam Zou, Founder and CEO of SubQuery
+> _ "SubQuery rất vui được tiếp tục hợp tác với OneBlock+ và nhóm các nhà phát triển Substrate Trung Quốc đầy nhiệt huyết của họ. Chúng tôi đã nhận được phản hồi rằng nhóm học viên đầu tiên đã sử dụng SubQuery nhằm giúp họ phát triển dễ dàng hơn trong các dự án riêng. Chúng tôi mong muốn được cộng tác với các học viên tương lai khi họ sử dụng OneBlock+ và SubQuery để xây dựng thế hệ dApp tiếp theo "_ - Sam Zou, Người sáng lập và Giám đốc điều hành của SubQuery
 
-[Read more here](../blogs/20220308-oneblock-education.md)
+[Đọc thêm tại đây](../blogs/20220308-oneblock-education.md)
 
-## SubQuery Network
+## Mạng lưới SubQuery
 
-### SubQuery supports Automata Network to deliver Web3 privacy services
+### SubQuery hỗ trợ Automata Network để cung cấp các dịch vụ bảo mật Web3
 
-SubQuery is excited to announce our partnership with Automata, a decentralised service protocol that provides middleware-like traceless privacy services for dApps on Ethereum and Polkadot. SubQuery is working with Automata to allow developers access to a high performance indexing solution that will power Automata's rapidly growing application ecosystem.
+SubQuery vui mừng thông báo quan hệ đối tác của chúng tôi với Automata, một giao thức dịch vụ phi tập trung cung cấp các dịch vụ bảo mật vô giá giống phần mềm trung gian cho các dApp trên Ethereum và Polkadot. SubQuery đang làm việc với Automata để cho phép các nhà phát triển truy cập vào giải pháp lập chỉ mục hiệu suất cao giúp tăng cường sức mạnh cho hệ sinh thái Autoimata, một hệ sinh thái đang phát triển nhanh chóng về số lượng các ứng dụng.
 
-> _"Subquery has become the standard indexing protocol within the Polkadot and Kusama ecosystems, and it is not without reason. The team has been prompt, exceptional, and we're pleased to continue working closely with them as Automata focuses on its middleware solutions to bring forth a fair-minded and privacy-focused Web3."_ - Deli Gong, Automata Network
+> Không phải vô cớ mà Subquery trở thành giao thức lập chỉ mục tiêu chuẩn trong hệ sinh thái Polkadot và Kusama. SubQuery đã đặc biệt nhanh chong phối hợp và chúng tôi rất vui được tiếp tục hợp tác chặt chẽ với họ vì Automata tập trung vào các giải pháp phần mềm trung gian của mình để mang lại một Web3 tập trung vào quyền riêng tư và công bằng. "</em> - Deli Gong, Automata Network
 
-[Read more here](../customer_announcements/20220317-automata.md)
+[Đọc thêm](../customer_announcements/20220317-automata.md)
 
-### SubQuery Provides Data To OAK Network To Power DeFi Automation Hub
+### SubQuery cung cấp dữ liệu cho mạng OAK để tăng cường cho Trung tâm Tự động hóa DeFi
 
-SubQuery is proud to announce our partnership with OAK Network, the Web3 automation hub for DeFi and payments. SubQuery's expertise will be used to provide greater insights for OAK when monitoring and observing blockchain activity for both OAK Network on Polkadot, the Turing Network on Kusama, as well as their Neumann testnet.
+SubQuery tự hào thông báo quan hệ đối tác của chúng tôi với OAK Network, trung tâm tự động hóa Web3 cho DeFi và các giải pháp thanh toán. Công nghệ của SubQuery sẽ được sử dụng để cung cấp thông tin chi tiết hơn cho OAK khi theo dõi và quan sát hoạt động blockchain cho cả mạng lưới OAK trên Polkadot, Turing Network trên Kusama, cũng như testnet Neumann của họ.
 
-> _"SubQuery's mission to help teams create products that allow movement to a decentralized future aligns closely with OAK Network's own mission of bringing secure and trustless automation to the masses. SubQuery will serve as a valuable resource to accelerate development timelines and ensure the services which OAK supplies to the market are stable and observable."_ - David Finklestein , Head of Growth at OAK Network
+> _ "Sứ mệnh của SubQuery là giúp các nhóm tạo ra các sản phẩm cho phép các nỗ lực đến một tương lai phi tập trung phù hợp chặt chẽ với sứ mệnh của chính OAK Network là mang lại sự tự động hóa an toàn và không cần tin cậy cho công chúng. SubQuery sẽ đóng vai trò như một nguồn tài nguyên quý giá để đẩy nhanh tiến độ phát triển và đảm bảo các dịch vụ mà OAK cung cấp cho thị trường luôn ổn định và có thể quan sát được. "_ - David Finklestein, Trưởng phòng Tăng trưởng của Mạng lưới OAK chia sẻ
 
-[Read more here](../customer_announcements/20220315-oak-network.md)
+[Đọc thêm tại đây](../customer_announcements/20220315-oak-network.md)
 
-### SubQuery provides an open data foundation for Astar, Polkadot's dApp Hub
+### SubQuery cung cấp nền tảng dữ liệu mở cho Astar, một dApp Hub của Polkadot
 
-We're excited to share the close partnership between Astar and SubQuery to provide key data infrastructure to applications within Astar's application ecosystem. Our two teams share the same vision, to encourage development of the next generation of dApps in Polkadot and catalyse our transition to web3. Today, the announced integration and developer material will enable dApp projects on Astar to use SubQuery's data indexing solution to speed up their development and build even better applications.
+Chúng tôi rất vui được chia sẻ mối quan hệ đối tác chặt chẽ giữa Astar và SubQuery để cung cấp cơ sở hạ tầng dữ liệu quan trọng cho các ứng dụng trong hệ sinh thái ứng dụng của Astar. Hai nhóm của chúng tôi có chung tầm nhìn, nhằm khuyến khích sự phát triển của thế hệ dApp tiếp theo trong Polkadot và thúc đẩy quá trình chuyển đổi của chúng tôi sang web3. Hôm nay, tài liệu tích hợp và tư liệu nhà phát triển đã được công bố sẽ cho phép các dự án dApp trên Astar sử dụng giải pháp lập chỉ mục dữ liệu của SubQuery để tăng tốc độ phát triển và xây dựng các ứng dụng tốt hơn nữa.
 
-[Read more here](../customer_announcements/20220302-astar.md)
+[Đọc thêm tại đây](../customer_announcements/20220302-astar.md)
 
-### SubQuery partners with SubWallet to Enhance User Access to Multi-Chain Data
+### SubQuery hợp tác với SubWallet để nâng cao quyền truy cập của người dùng vào dữ liệu đa chuỗi
 
 ![](https://miro.medium.com/max/1400/1*2F2Itdhy6CPL0K1OF4flbA.png)
 
-SubQuery is delighted to announce an integration partnership with [SubWallet](https://subwallet.app/), a new multi-chain wallet for the Dotsama ecosystem. SubWallet makes it easy to track, send, receive and sign transactions on DeFi and GameFi applications and supports over 40 different parachains in the Dotsama network.
+SubQuery vui mừng thông báo về mối quan hệ đối tác tích hợp với [ SubWallet ](https://subwallet.app/), một ví đa chuỗi mới cho hệ sinh thái Dotsama. SubWallet giúp dễ dàng theo dõi, gửi, nhận và ký các giao dịch trên các ứng dụng DeFi và GameFi và hỗ trợ hơn 40 parachain khác nhau trong mạng Dotsama.
 
-> _"With the mission of pulling crypto users closer to the Dotsama ecosystem and opening the Web3 universe, we are working with SubQuery to integrate their remarkable data indexing solution, so that SubWallet users can review transaction history and crowdloan information for over 40 different Polkadot parachains right in our extension wallet."_ - Hieu Dao, SubWallet Co-Founder
+> _ "Với sứ mệnh kéo người dùng tiền điện tử đến gần hơn với hệ sinh thái Dotsama và mở ra vũ trụ Web3, chúng tôi đang làm việc với SubQuery để tích hợp giải pháp lập chỉ mục dữ liệu đáng chú ý của họ, để người dùng SubWallet có thể xem lại lịch sử giao dịch và thông tin cộng đồng cho hơn 40 Polkadot parachains ngay trong ví mở rộng của chúng tôi. "_ - Hieu Dao, Đồng sáng lập SubWallet cho biết
 
-[Read more here](../customer_announcements/20220331-subwallet.md)
+[Đọc thêm tại đây](../customer_announcements/20220331-subwallet.md)
 
-## Core Product Development
+## Phát triển sản phẩm cốt lõi
 
-### SubQuery Expands its Data Indexing Solution to Support Avalanche
+### SubQuery mở rộng Giải pháp lập chỉ mục dữ liệu để hỗ trợ Avalanche
 
 ![](https://miro.medium.com/max/1400/1*d4CnfS7YSvAhxcgBEdwCiA.png)
 
