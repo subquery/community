@@ -66,7 +66,7 @@ SubQuery vui mừng thông báo về mối quan hệ đối tác tích hợp v�
 
 ![](https://miro.medium.com/max/1400/1*d4CnfS7YSvAhxcgBEdwCiA.png)
 
-SubQuery is bringing this fast, flexible, and open data indexing solution to Avalanche as well as all the other tools, documentation, developer support, free managed hosting, and other benefits that developers receive from the SubQuery ecosystem.
+SubQuery đang mang giải pháp lập chỉ mục dữ liệu mở, linh hoạt và nhanh chóng này cho Avalanche cũng như tất cả các công cụ, tài liệu, hỗ trợ nhà phát triển, quản lý lưu trữ miễn phí và nhiều quyền lợi khác nữa mà nhà phát triển nhận được từ hệ sinh thái SubQuery.
 
 > _"SubQuery will always have our home in Polkadot, but we are excited to help developers in Avalanche become more empowered to create and innovate the future of Web3 together. In order to achieve this, we are pleased to provide the same level of developer tools and support to Avalanche that we do to Polkadot"_ - Sam Zou, Founder and CEO of SubQuery
 
