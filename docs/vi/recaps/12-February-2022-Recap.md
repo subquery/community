@@ -62,13 +62,13 @@ Trong một số tình huống, bạn không biết các thông số của một
 
 ![](https://miro.medium.com/max/1400/1*NkYmEpYLpZYFRkANrvpwPw.png)
 
-Many customers, including Nova, rely on SubQuery to provide mission critical data to their production apps. These are huge applications that the Polkadot community use on a daily basis and must be online at all times. Nova know that they can trust SubQuery to provide reliable and scalable services to their applications though our [enterprise level features](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) in our [managed service](https://project.subquery.network/). Nova are a key user of SubQuery's intelligent routing which dynamically routes a user's request to the nearest SubQuery cluster resulting in higher reliability and superior performance than any other option on the market.
+Nhiều khách hàng, bao gồm cả Nova, sử dụng SubQuery để cung cấp dữ liệu quan trọng cho các ứng dụng sản xuất của họ. Đây là những ứng dụng khổng lồ mà cộng đồng Polkadot sử dụng hàng ngày và luôn phải online. Nova biết rằng họ có thể dựa vào SubQuery để cung cấp các ứng dụng tin cậy và có thể mở rộng của họ thông qua tính năng ở [cấp độ doanh nghiệp](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) trong phần [Các dịch vụ được quản lý](https://project.subquery.network/) của chúng tôi. Nova là người dùng chính của định tuyến thông minh SubQuery, định tuyến yêu cầu của người dùng đến cụm SubQuery gần nhất, mang lại độ tin cậy cao hơn và hiệu suất vượt trội hơn bất kỳ tùy chọn nào khác trên thị trường.
 
-[Read more here](../customer_announcements/20220210-nova-wallet.md)
+[Đọc thêm](../customer_announcements/20220210-nova-wallet.md)
 
-### SubQuery to help power Parami Protocol's Web 3 advertising technology
+### SubQuery hỗ trợ công nghệ quảng cáo Web 3 của Parami Protocol
 
-[ Giao thức Parami ](https://parami.io/) đang phát triển một công nghệ mới sáng tạo cho nền kinh tế quảng cáo mã hóa, lấy người dùng làm trung tâm: Ad 3.0.
+[Parami Protocol](https://parami.io/) đang phát triển một công nghệ mới sáng tạo lấy người dùng làm trung tâm, nền kinh tế quảng cáo mã hóa: Ad 3.0.
 
 > _"Tầm nhìn của Parami là xây dựng nền kinh tế quảng cáo lấy người dùng làm trung tâm cho web3 và để biến điều này thành hiện thực, chúng tôi đã chuyển sang SubQuery làm đối tác dữ liệu đáng tin cậy của mình. SubQuery cung cấp xương sống cho dịch vụ của chúng tôi bằng cách cung cấp phần truy vấn của mẫu Phân tách trách nhiệm truy vấn và lệnh (CQRS) để cập nhật cơ sở dữ liệu cốt lõi của chúng tôi. Parami tận dụng tốc độ lập chỉ mục vượt trội của SubQuery để theo dõi giá của các đoạn NFT và xây dựng chỉ mục thứ cấp của dữ liệu trên chuỗi, tất cả trong một câu. Chúng tôi mong muốn xây dựng AD 3.0 cho Web 3.0 tận dụng công nghệ tiên tiến của SubQuery."_
 
