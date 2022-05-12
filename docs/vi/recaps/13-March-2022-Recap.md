@@ -68,26 +68,26 @@ SubQuery vui mừng thông báo về mối quan hệ đối tác tích hợp v�
 
 SubQuery đang mang giải pháp lập chỉ mục dữ liệu mở, linh hoạt và nhanh chóng này cho Avalanche cũng như tất cả các công cụ, tài liệu, hỗ trợ nhà phát triển, quản lý lưu trữ miễn phí và nhiều quyền lợi khác nữa mà nhà phát triển nhận được từ hệ sinh thái SubQuery.
 
-> _"SubQuery will always have our home in Polkadot, but we are excited to help developers in Avalanche become more empowered to create and innovate the future of Web3 together. In order to achieve this, we are pleased to provide the same level of developer tools and support to Avalanche that we do to Polkadot"_ - Sam Zou, Founder and CEO of SubQuery
+> _ "SubQuery sẽ luôn có chỗ trên Polkadot, nhưng chúng tôi rất vui khi được giúp các nhà phát triển ở Avalanche được trao quyền nhiều hơn để cùng nhau tạo ra và đổi mới tương lai của Web3. Để đạt được điều này, chúng tôi rất sẵn lòng cung cấp các công cụ và sự hỗ trợ dành cho nhà phát triển trên Avalanche giống với những gì mà chúng tôi làm trên Polkadot "_ - Sam Zou, Người sáng lập và Giám đốc điều hành của SubQuery chia sẻ
 
-[Read more here](../blogs/20220321-avalache.md)
+[Đọc thêm tại đây](../blogs/20220321-avalache.md)
 
-### SubQuery Launches "The Frontier" Testnet
+### SubQuery khởi chạy Testnet "The Frontier"
 
-We are pleased to announce the launch of our testnet, "The Frontier". In SubQuery's case, the launch of the testnet marks a critical milestone in our development as we progress towards the full deployment of mainnet which coincides with our token listing on centralised exchanges.
+Hôm nay, chúng tôi vui mừng thông báo về việc ra mắt testnet của chúng tôi, "The Frontier". Trong trường hợp của SubQuery, việc ra mắt testnet đánh dấu một cột mốc quan trọng trong quá trình phát triển của chúng tôi khi chúng tôi tiến tới việc triển khai đầy đủ mainnet, cùng thời điểm với việc niêm yết token của chúng tôi trên các sàn giao dịch tập trung.
 
-In order to run the testnet effectively, we require it to be battle-tested by experienced node operators who are experts in running high performance and scalable productions with monitoring and wallet/infrastructure security. Since our [call for indexers to participate](../blogs/20211202-indexer-invitation.md) we have been overwhelmed by the interest from our community and have recently approved an initial group of indexers who will soon receive their invitations to participate in SubQuery Frontier's seasons 1 & 2.
+Để chạy testnet một cách hiệu quả, chúng tôi yêu cầu nó phải được kiểm tra thực chiến bởi các nhà vận hành node có kinh nghiệm, những chuyên gia trong việc chạy các sản phẩm có hiệu suất cao và có thể mở rộng với tính năng giám sát và bảo mật ví/cơ sở hạ tầng. Kể từ khi chúng tôi [ kêu gọi những người lập chỉ mục tham gia ](../blogs/20211202-indexer-invitation.md), chúng tôi đã bị choáng ngợp bởi sự quan tâm từ cộng đồng của mình và gần đây đã chấp thuận một nhóm mở đầu gồm những người lập chỉ mục, những người này sẽ sớm nhận được lời mời tham gia vào các phần 1 và 2 của SubQuery Frontier.
 
 ![](https://miro.medium.com/max/1400/1*_iqge0IqXriY7Zl0hUKQ3g.png)
 
-> _"SubQuery is excited about the launch of the SubQuery Frontier Testnet and what it represents to both ourselves and our loyal community. The choice of "Frontier" as our testnet name also denotes where we believe we are in the growth of Web3 and that we want Indexers to push beyond the limits."_ - Ian He, CTO of SubQuery
+> _ "SubQuery vui mừng về sự ra mắt của SubQuery Frontier Testnet và những gì nó đại diện cho cả chúng tôi và cộng đồng trung thành của chúng tôi. Việc chọn "Frontier(Biên giới)" làm tên testnet của chúng tôi khẳng định, chúng tôi hiểu rõ vị thế của mình trong sự phát triển của Web3 và chúng tôi muốn Người lập chỉ mục vượt qua giới hạn. "_ - Ian He, CTO của SubQuery cho biết
 
-[Read more here](../blogs/20220330-frontier-testnet.md)
+[Đọc thêm tại đây](../blogs/20220330-frontier-testnet.md)
 
-## Other things you might have missed
+## Những thứ khác mà bạn có thể đã bỏ lỡ
 
-- SubQuery celebrated it's 1st birthday with an [Airdrop campaign](https://gleam.io/leBTF/subquery-1st-birthday-airdrop-)
-- [James](https://matchstiq.io/stories/james-bayly-head-of-business-development-at-subquery/) was at [Avalanche summit](https://www.avalanchesummit.com/agenda/speakers/1565739) in time with our Avalanche launch, which we also did an [Airdrop giveaway](https://gleam.io/pPoMH/-subquery-x-avalanche-airdrop-competition) for.
+- SubQuery đã tổ chức sinh nhật lần thứ nhất bằng [ chiến dịch Airdrop ](https://gleam.io/leBTF/subquery-1st-birthday-airdrop-)
+- [ James ](https://matchstiq.io/stories/james-bayly-head-of-business-development-at-subquery/) đã có mặt tại [ hội nghị Avalanche ](https://www.avalanchesummit.com/agenda/speakers/1565739) đúng lúc với lễ ra mắt Avalanche của chúng tôi, khi mà chúng tôi cũng đã thực hiện [ quà tặng Airdrop ](https://gleam.io/pPoMH/-subquery-x-avalanche-airdrop-competition).
 - We had a [Customer Interview with Sota Watanabe](https://www.youtube.com/watch?v=KczSlTcb6aw) from Astar and talked about the new partnership that allows dApp projects on Astar to use SubQuery for native Astar EVM data indexing.
 - An interview with our solution architect [James Xu](https://www.youtube.com/watch?v=K-d-3JA5IsA) who leads our hosted service
 - An interview with [Brittany](https://www.youtube.com/watch?v=IyKg2Gu2A8g) who leads our Customer Success & Grants Programme
