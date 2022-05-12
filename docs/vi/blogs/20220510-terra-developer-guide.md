@@ -17,66 +17,66 @@ Các ứng dụng trên hệ sinh thái Terra đã phát triển mạnh mặc d�
 - ** Xây dựng giải pháp của riêng bạn: ** Một triển khai tùy chỉnh do chính bạn chạy được tạo riêng cho ứng dụng của bạn. Vậy tại sao phải phát minh lại bánh xe? SubQuery đang tập trung vào việc xây dựng một trình lập chỉ mục mở, nhanh và đáng tin cậy - chúng tôi ở đây để giúp bạn tiết kiệm thời gian
 - ** Thiết kế hợp đồng thông minh cho các truy vấn: ** Một số nhóm thậm chí còn triển khai các câu hỏi tùy chỉnh trong hợp đồng thông minh của họ để cho phép cụ thể các truy vấn nâng cao hơn cho logic ứng dụng của họ.
 
-Tại SubQuery, chúng tôi có một SDK mã nguồn mở dễ sử dụng và nhanh chóng. Nó cung cấp cho bạn một điểm cuối GraphQL tiêu chuẩn hoặc bạn chỉ có thể truy vấn trực tiếp cơ sở dữ liệu. With it you can index a unique set of data from your own smart contracts that allows you to build a superior product that blows your competition out of the water! We give you flexibility to get the data that you need in the shape that works best for you.
+Tại SubQuery, chúng tôi có một SDK mã nguồn mở dễ sử dụng và nhanh chóng. Nó cung cấp cho bạn một điểm cuối GraphQL tiêu chuẩn hoặc bạn chỉ có thể truy vấn trực tiếp cơ sở dữ liệu. Với nó, bạn có thể lập chỉ mục một tập hợp dữ liệu độc đáo từ các hợp đồng thông minh của riêng mình, cho phép bạn tạo ra một sản phẩm vượt trội giúp đánh bật đối thủ cạnh tranh của bạn! Chúng tôi cung cấp cho bạn sự linh hoạt để có được dữ liệu bạn cần ở dạng phù hợp nhất.
 
-Reliability is key, and you need a reliable and scalable platform to host it. [SubQuery's managed service](https://subquery.network/managedservices) is an industry leading hosting solution for all customers that is serving hundreds of millions of daily requests to the biggest projects in Polkadot. We provide our [enterprise level customers](./20211228-enterprise-hosted.md) with services such as dedicated databases, redundant clusters, intelligent multi-cluster routing, and advanced monitoring and analytics. It will support your application when you are ready and will scale with you.
+Độ tin cậy là điểm chính yếu và bạn cần một nền tảng đáng tin cậy và có thể mở rộng để lưu trữ nó. [ Dịch vụ được quản lý của SubQuery ](https://subquery.network/managedservices) là giải pháp lưu trữ hàng đầu trong ngành dành cho tất cả khách hàng mà đang phục vụ hàng trăm triệu yêu cầu hàng ngày cho các dự án lớn nhất trên Polkadot. Chúng tôi cung cấp cho [ khách hàng cấp doanh nghiệp ](./20211228-enterprise-hosted.md) các dịch vụ như cơ sở dữ liệu chuyên dụng, cụm dự phòng, định tuyến đa cụm thông minh cũng như giám sát và phân tích nâng cao. Chúng sẽ hỗ trợ ứng dụng của bạn khi bạn đã sẵn sàng và sẽ mở rộng quy mô cùng với bạn.
 
-And finally, in a few months you'll be able to completely decentralise your SubQuery infrastructure with the SubQuery Network, the future of Web3 infrastructure. The SubQuery Network will index and service your projects data to the global community in an incentivised and verifiable way. It is designed to support any SubQuery project from any layer-1 network including Terra, so you can take advantage of the scale of the unified SubQuery Network from launch.
+Và cuối cùng, trong vài tháng nữa, bạn sẽ có thể hoàn toàn phi tập trung hóa cơ sở hạ tầng SubQuery của mình với Mạng SubQuery, tương lai của cơ sở hạ tầng Web3. Mạng SubQuery sẽ lập chỉ mục và cung cấp dữ liệu dự án của bạn cho cộng đồng toàn cầu theo cách được khuyến khích và có thể xác minh. Nó được thiết kế để hỗ trợ bất kỳ dự án SubQuery nào từ bất kỳ mạng Layer 1 nào bao gồm cả Terra, vì vậy bạn có thể tận dụng quy mô thống nhất của Mạng SubQuery từ khi khởi chạy.
 
-## Installation Instructions
+## Hướng dẫn cài đặt
 
-You'll first need to install a recent version of @subql/cli via npm i -g @subql/cli@latest
+Trước tiên, bạn sẽ cần cài đặt phiên bản gần đây của @subql/cli qua lệnh npm i -g @subql/cli@latest
 
-The best way is to start with [our starter project](https://github.com/subquery/terra-subql-starter), it contains a running project with an example of all mapping functions: This project indexes the following:
+Cách tốt nhất là bắt đầu với [ dự án khởi đầu của chúng tôi ](https://github.com/subquery/terra-subql-starter), dự án này chứa một dự án đang chạy với ví dụ về tất cả các chức năng ánh xạ: Dự án này lập chỉ mục như sau:
 
-- **BlockHandler:** All blocks and their hash and height
-- **TransactionHandler:** All transactions and their hash, height, and timestamp
-- **EventHandler:** All smart contract transfer events and their hash, height, sender, recipient, and amount from a filtered smart contract address (bLuna)
-- **MessageHandler:** All smart contract messages and their hash, height, contract, sender, and execute_msg data from a filtered smart contract address (bLuna)
+- **BlockHandler:** Tất cả các khối và hàm băm và chiều cao của chúng
+- **TransactionHandler:** Tất cả các giao dịch và hàm băm, chiều cao và dấu thời gian của chúng
+- **EventHandler:** Tất cả các sự kiện chuyển hợp đồng thông minh và hàm băm, chiều cao, người gửi, người nhận và số tiền của chúng từ một địa chỉ hợp đồng thông minh đã lọc (bLuna)
+- **MessageHandler:** Tất cả các thông báo hợp đồng thông minh và dữ liệu băm, chiều cao, hợp đồng, người gửi và execute_msg của chúng từ một địa chỉ hợp đồng thông minh đã lọc (bLuna)
 
-SubQuery supports indexing Terra's smart contracts with both transaction and message subscriptions and handlers. You can see a working example of Smart Contract support in the [starter project](https://github.com/subquery/terra-subql-starter) and read the documentation on the [SubQuery University](http://localhost:8080/build/manifest.html#mapping-handlers-and-filters).
+SubQuery hỗ trợ lập chỉ mục các hợp đồng thông minh của Terra bao gồm cả đăng ký giao dịch và tin nhắn cũng như trình xử lý. Bạn có thể xem một ví dụ hoạt động về hỗ trợ Hợp đồng thông minh trong [ dự án dành cho người mới bắt đầu ](https://github.com/subquery/terra-subql-starter) và đọc tài liệu về [ SubQuery University ](http://localhost:8080/build/manifest.html#mapping-handlers-and-filters).
 
-SubQuery's Terra implementation has been designed to operate almost identically to SubQuery's Polkadot support, and in a similar way to the Graph's approach. We've updated the [SubQuery University](https://university.subquery.network/) to add Terra specific information to the general SubQuery documentation. You can start by following this [excellent getting started guide here](http://university.subquery.network/quickstart/quickstart-terra.html).
+Việc triển khai trên Terra của SubQuery đã được thiết kế để hoạt động gần như giống hệt với việc hỗ trợ Polkadot của SubQuery và theo cách tương tự như cách tiếp cận của Graph. Chúng tôi đã cập nhật [ SubQuery University ](https://university.subquery.network/) để thêm thông tin cụ thể về Terra vào tài liệu tổng hợp của SubQuery. Bạn có thể bắt đầu bằng cách làm theo [ hướng dẫn bắt đầu tuyệt vời này tại đây ](http://university.subquery.network/quickstart/quickstart-terra.html).
 
-## Deploying your Project to SubQuery's Managed Service
+## Triển khai Dự án của bạn với Dịch vụ được Quản lý của SubQuery
 
-Although you will always be able to run your project in your own infrastructure easily, [SubQuery's managed service](https://subquery.network/managedservices) now supports Terra project. Some of the biggest projects depend on SubQuery's [enterprise level](./20211228-enterprise-hosted.md) managed service and now you can too. As part of our launch partner agreement, we are providing you with 3 months free hosting.
+Mặc dù bạn sẽ luôn có thể chạy dự án của mình tren cơ sở hạ tầng của riêng bạn một cách dễ dàng, nhưng dịch vụ được quản lý của [ SubQuery ](https://subquery.network/managedservices) hiện hỗ trợ dự án Terra. Một số dự án lớn nhất phụ thuộc vào dịch vụ được quản lý ở [ cấp doanh nghiệp ](./20211228-enterprise-hosted.md) của SubQuery và bây giờ bạn cũng có thể làm được. Là một phần của thỏa thuận ra mắt đối tác, chúng tôi sẽ cung cấp cho bạn 3 tháng lưu trữ miễn phí.
 
-You can [follow the guide here](https://university.subquery.network/run_publish/publish.html) to publish your Terra SubQuery project to our managed service. Please note that you must host your [SubQuery project using IPFS](https://university.subquery.network/run_publish/publish.html) rather than GitHub.
+Bạn có thể [ làm theo hướng dẫn tại đây ](https://university.subquery.network/run_publish/publish.html) để xuất bản dự án Terra SubQuery của mình lên dịch vụ được quản lý của chúng tôi. Xin lưu ý rằng bạn phải lưu trữ [ dự án SubQuery của mình bằng IPFS ](https://university.subquery.network/run_publish/publish.html) chứ không phải GitHub.
 
-You can update your managed service project as much as you want. We even have a [staging deployment slot](./20210604-Deployment-Slots-are-here-for-SubQuery-Projects.md) to allow you to do seamless blue/green upgrades without any downtime. This staging slot can also be used to run a clean instance of SubQuery with a fresh database for complete background reindexing of your project. Customers usually link the staging slot to the staging/development versions of their applications.
+Bạn có thể cập nhật dự án dịch vụ được quản lý của mình bao nhiêu tùy thích. Chúng tôi thậm chí còn có [ vị trí triển khai theo giai đoạn ](./20210604-Deployment-Slots-are-here-for-SubQuery-Projects.md) để cho phép bạn thực hiện 'nâng cấp màu xanh lam/xanh lá' cây liền mạch mà không có bất kỳ thời gian ngừng hoạt động nào. Giai đoạn này cũng có thể được sử dụng để chạy một phiên bản SubQuery rõ ràng với cơ sở dữ liệu mới để lập lại chỉ mục nền hoàn chỉnh cho dự án của bạn. Khách hàng thường liên kết vị trí dàn dựng với các phiên bản dàn/phát triển của ứng dụng của họ.
 
-Once deployed, you can access your project using the SubQuery Explorer, and make requests directly from your app to the provided GraphQL endpoint. Let us know if you would like us to enable more advanced features like [GraphQL subscriptions](https://university.subquery.network/run_publish/subscription.html), more complex queries, and [aggregation functions](https://university.subquery.network/run_publish/aggregate.html).
+Sau khi được triển khai, bạn có thể truy cập dự án của mình bằng SubQuery Explorer và thực hiện yêu cầu trực tiếp từ ứng dụng của bạn tới điểm cuối được GraphQL cung cấp. Hãy cho chúng tôi biết nếu bạn muốn chúng tôi bật các tính năng nâng cao hơn như [ đăng ký GraphQL ](https://university.subquery.network/run_publish/subscription.html), các truy vấn phức tạp hơn và [ chức năng tổng hợp ](https://university.subquery.network/run_publish/aggregate.html).
 
-Please notify us once you have deployed your project as we may need to assist with fine tuning the batch size to ensure that our Terra archive node runs well for your project.
+Vui lòng thông báo cho chúng tôi khi bạn đã triển khai dự án của mình vì chúng tôi có thể cần hỗ trợ tinh chỉnh kích thước lô để đảm bảo rằng nút lưu trữ Terra của chúng tôi chạy tốt cho dự án của bạn.
 
-## SubQuery's Support for Terra
+## Hỗ trợ của SubQuery cho Terra
 
-Today we are sharing the following:
+Hôm nay chúng tôi chia sẻ những điều sau:
 
--   Advanced indexing of blocks, event
--   Terra Dictionary: Pre-computed indices to [dramatically reduce indexing time](./20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md)
--   Full support for Terra in our free [enterprise level](./20211228-enterprise-hosted.md) managed service
--   Intuitive documentation in the [SubQuery University](https://university.subquery.network/)
+-   Lập chỉ mục nâng cao các khối, sự kiện
+-   Terra Dictionary: Các chỉ mục được tính toán trước để [ giảm đáng kể thời gian lập chỉ mục ](./20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md)
+-   Hỗ trợ đầy đủ cho Terra trong dịch vụ được quản lý [ cấp doanh nghiệp ](./20211228-enterprise-hosted.md) miễn phí của chúng tôi
+-   Tài liệu trực quan của [ SubQuery University ](https://university.subquery.network/)
 
-In the coming weeks you can expect:
+Trong những tuần tới, bạn có thể mong đợi:
 
--   A step by step learning course in the [SubQuery Academy](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html)
--   Full support for Terra in our decentralised SubQuery Network (you'll soon see a project in our current Frontier test network)
+-   Khóa học từng bước trong [ Học viện SubQuery ](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html)
+-   Hỗ trợ đầy đủ cho Terra trong Mạng SubQuery phi tập trung của chúng tôi (bạn sẽ sớm thấy một dự án trong mạng thử nghiệm Frontier hiện tại của chúng tôi)
 
 ---
 
-The launch of our beta support for Terra marks a significant milestone in our commitment to offer enhanced indexing tools for the Terra community to enable her developers to go further, faster. We are eager to get feedback from the community in order to improve our offering and increase our visibility as a trusted infrastructure partner for one of the fastest growing developer communities in Web3
+Việc ra mắt bản beta của chúng tôi cho Terra đánh dấu một cột mốc quan trọng trong cam kết của chúng tôi trong việc cung cấp các công cụ lập chỉ mục nâng cao cho cộng đồng Terra để giúp các nhà phát triển tiến xa hơn, nhanh hơn. Chúng tôi mong muốn nhận được phản hồi từ cộng đồng để cải thiện dịch vụ của chúng tôi và tăng khả năng hiển thị của chúng tôi với tư cách là đối tác cơ sở hạ tầng đáng tin cậy cho một trong những cộng đồng nhà phát triển lớn mạnh nhanh nhất trong Web3
 
 James Bayly
 
-## Links
+## Các đường dẫn
 
--   [Getting Started Guide](https://university.subquery.network/quickstart/quickstart-terra.html)
--   [SubQuery University (Documentation)](https://university.subquery.network/)
--   [Example Terra Project](https://github.com/subquery/terra-subql-starter)
--   [Managed Service](https://explorer.subquery.network/)
--   [Publish your own Terra Project to the Managed Service](https://project.subquery.network/)
+-   [Hướng dẫn bắt đầu](https://university.subquery.network/quickstart/quickstart-terra.html)
+-   [SubQuery University (Tài liệu)](https://university.subquery.network/)
+-   [Dự án mẫu trên Terra](https://github.com/subquery/terra-subql-starter)
+-   [Dịch vụ quản lý](https://explorer.subquery.network/)
+-   [Xuất bản Dự án Terra của riêng bạn lên Dịch vụ Quản lý](https://project.subquery.network/)
 
 ## Giới thiệu về SubQuery
 
