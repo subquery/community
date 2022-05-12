@@ -20,45 +20,45 @@ Nhóm đầu tiên, Alphabit, đang cố gắng trao quyền cho nhà đầu tư
 
 ![](https://miro.medium.com/max/1400/1*TpHBDhA7WqNGTOxz9LpifQ.png)
 
-Trong khi đó, Zoombies đã gửi một đề xuất với hy vọng sử dụng SubQuery để thúc đẩy mục tiêu đào sâu vào giá trị của thế giới các token chơi để kiếm tiền (P2E) đang ngày càng phát triển. Their project will access the complete history of past event data within a game to produce meaningful views and enrich the player experience. _"The SubQuery Grants Programme has been a very clear step-by-step reward driven process" --- Ryan Price, CEO (Zoombies)_
+Trong khi đó, Zoombies đã gửi một đề xuất với hy vọng sử dụng SubQuery để thúc đẩy mục tiêu đào sâu vào giá trị của thế giới các token chơi để kiếm tiền (P2E) đang ngày càng phát triển. Dự án của họ sẽ truy cập vào toàn bộ dữ liệu lịch sử các sự kiện trong game để tạo ra các góc nhìn có ý nghĩa và làm phong phú trải nghiệm của người chơi. _"Chương trình tài trợ SubQuery Grants có quy trình trao thưởng từng bước rất rõ ràng" --- Ryan Price, CEO (Zoombies)_
 
 ![](https://miro.medium.com/max/1400/1*4rPD0g-pC3MOU5M5vAtS4w.png)
 
-Dapplooker aim to empower Polkadot projects with beautiful and easy-to-build analytics tools such as explorers, charts and dashboards. These valuable metrics will be built on top of SubQuery projects to fetch the required data and present it to its audience in an intuitive and aesthetic format.
+Dự án Dapplooker có mục tiêu tăng cường cho các dự án trên Polkadot các bộ công cụ đẹp mắt và dễ dàng xây dựng như trình duyệt, biểu đồ và các trang tổng quan. Các số liệu có giá trị này sẽ được xây dựng dựa trên các dự án SubQuery để tìm nạp dữ liệu cần thiết và trình bày cho người xem ở định dạng trực quan và thẩm mỹ.
 
 ![](https://miro.medium.com/max/1400/1*kC8QYVvlUZwUfgXTBFQbgg.png)
 
-The Dotsama team are also determined to bring rich insights to the average investor in the Polkadot / Kusama ecosystem, by aiming to be a one-stop analytics shop with tools to identify early investment trends and opportunities. "_By being part of the SubQuery Grants Programme, we are not just looking to get technical and strategic guidance, we are also looking to become part of this community and help accelerate the movement." --- Sudarshan Acharya, Founder (Dotsama)_
+Nhóm Dotsama cũng quyết tâm mang lại tầm nhìn cho các nhà đầu tư trong hệ sinh thái Polkadot/Kusama, bằng cách hướng tới mục tiêu trở thành một ứng dụng phân tích tổng hợp với các công cụ để xác định xu hướng và cơ hội đầu tư sớm. "Là một phần của Chương trình tài trợ của SubQuery, chúng tôi không chỉ muốn nhận được hướng dẫn về kỹ thuật và chiến lược, chúng tôi còn mong muốn trở thành một phần của cộng đồng này và giúp nó đẩy nhanh tốc độ phát triển. "</em> - Sudarshan Acharya, Người sáng lập (Dotsama." --- Sudarshan Acharya, Founder (Dotsama)</em>
 
-In addition to general Grants like the ones awarded to our first cohort, there are also ongoing [technical bounties in partnership with leading parachain teams in Polkadot](../blogs/20220127-grants-bounties.md) such as Moonbeam, Acala, Astar and Bifrost on [SubQuery's website](https://subquery.network/grants)
+Ngoài các khoản tài trợ chung như các khoản được trao cho nhóm riêng ban đầu trên SubQuery, còn có các khoản [tiền thưởng về hợp tác kỹ thuật với các nhóm parachain hàng đầu ở Polkadot](../blogs/20220127-grants-bounties.md) như Moonbeam, Acala, Astar và Bifrost trên [trang web của SubQuery](https://subquery.network/grants)
 
-## SubQuery Network
+## Mạng lưới SubQuery
 
-### SubQuery Released our Updated Whitepaper
+### SubQuery công bố bản cập nhật Sách trắng
 
-[The SubQuery whitepaper](https://static.subquery.network/whitepaper.pdf) is a document that outlines our strategic framework for the decentralised SubQuery Network and her SQT token. Since the original publication in June 2021, we have experienced significant growth in our customer base and community and made huge progress on building the SubQuery Network. From these sources, we have been inspired to improve and innovate, and that culminates in the latest version of our [whitepaper](https://static.subquery.network/whitepaper.pdf).
+Được xuất bản lần đầu vào tháng 6 năm 2021, Sách trắng (SubQuery Whitepaper) là tài liệu phác thảo khung chiến lược của chúng tôi cho Mạng lưới phi tập trung SubQuery và token SQT. Kể từ lần xuất bản đầu tiên, chúng tôi đã có sự phát triển đáng kể về tập khách hàng và cộng đồng của mình và đạt được tiến bộ to lớn trong việc xây dựng Mạng lưới SubQuery. Đó là động lực truyền cảm hứng để cải tiến và đổi mới cho chúng tôi, được thể hiện trong bản Sách trắng cập nhật mới này của chúng tôi. [whitepaper](https://static.subquery.network/whitepaper.pdf).
 
-The [updated whitepaper](https://static.subquery.network/whitepaper.pdf) maintains SubQuery's conviction that the data services of tomorrow must be multi-chain, simple, and flexible. The new version goes into detail on how the SubQuery Network factors these considerations into the token economic design while also enabling power users to run enterprise-level services.
+Bản [cập nhật này](https://static.subquery.network/whitepaper.pdf) khẳng định niềm tin của SubQuery là dịch vụ dữ liệu của tương lại phải là đa chuỗi, đơn giản và linh hoạt. Bản cập nhật mới trình bày cách mạng lưới SubQuery cân nhắc các yếu tố để thiết kế tokenomics đồng thời cho phép người dùng có thể triển khai dịch vụ dữ liệu ở cấp độ doanh nghiệp.
 
-There is significant new information in the whitepaper relating to SubQuery's innovation in payment models, providing all participants with various flexible ways to transact with the SubQuery Token (SQT).
+Có những thông tin mới rất đáng chú ý trong Sách trắng này về những cải tiến về mô hình thanh toán, cho phép mọi người tham gia có nhiều cách linh hoạt để giao dịch với token SubQuery (SQT).
 
 ![](https://miro.medium.com/max/1400/1*EhLefs3-lb47y2LC4Z6jWA.png)
 
-[Read more here](../blogs/20220216-whitepaper-update.md)
+[Đọc thêm](../blogs/20220216-whitepaper-update.md)
 
-## Core Product Development
+## Phát triển sản phẩm cốt lõi
 
-### Dynamic Data Sources
+### Nguồn dữ liệu động
 
-This is a signifiant improvement for the rapidly growing number of SubQuery's EVM customers. SubQuery is the only data indexing tool that allows indexing of both Substrate and EVM data from Polkadot parachains in a single location.
+Đây là một cải tiến đáng kể để tăng nhanh số lượng khách hàng sử dụng máy ảo Ethereum (EVM) của SubQuery. SubQuery là công cụ duy nhất cho phép lập chỉ mục dữ liệu cả trên Substrate và EVM từ các chuỗi parachains của Polkadot tại một nơi duy nhất.
 
-In certain situations, you don't know the parameters for a data source when the SubQuery project starts, for example in a DEX you don't know what new trading pairs will be enabled when you write your SubQuery project. SubQuery's [support for dynamic data sources](https://university.subquery.network/build/dynamicdatasources.html) allows developers to create new data sources from new smart contracts dynamically using templates to automate the indexing of new contracts.
+Trong một số tình huống, bạn không biết các thông số của một nguồn dữ liệu khi mới bắt đầu dự án SubQuery, ví dụ như bạn không thể biết các cặp tiền nào sẽ được đưa vào trong một sàn DEX nào đó khi bạn xây dựng dự án SubQuery của mình. Chức năng [hỗ trợ nguồn dữ liệu động](https://university.subquery.network/build/dynamicdatasources.html) cho phép các nhà phát triển tạo nguồn dữ liệu mới từ các hợp đồng thông minh mới sử dụng linh hoạt các bộ mẫu để tự động lập chỉ mục dữ liệu cho các hợp đồng này.
 
-[Read more here](https://university.subquery.network/build/dynamicdatasources.html)
+[Đọc thêm](https://university.subquery.network/build/dynamicdatasources.html)
 
-## General Customer Announcements
+## Thông báo chung
 
-### SubQuery Data Powers Nova Wallet --- a next-gen mobile wallet for the Polkadot & Kusama ecosystem
+### Dữ liệu SubQuery cung cấp sức mạnh cho Nova Wallet— ví di động thế hệ tiếp theo cho hệ sinh thái Polkadot & Kusama
 
 ![](https://miro.medium.com/max/1400/1*NkYmEpYLpZYFRkANrvpwPw.png)
 
