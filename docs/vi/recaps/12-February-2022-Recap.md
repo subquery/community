@@ -16,11 +16,11 @@ Bốn nhóm đã được lựa chọn là những nhóm đầu tiên nhận đ�
 
 ![](https://miro.medium.com/max/1400/1*tBnWK4svpGbGuP3mCXyGDg.png)
 
-Alphabit, are endeavouring to empower the independent investor by providing visibility to track and analyse the portfolios and investments of funds, and large traders or 'whales'. _"The business advice and technical support from SubQuery has completely surpassed our expectations about the support we could receive as a small analytics startup" --- Michael Anderson, Business Development & Strategic Partnerships (Alphabit)_
+Nhóm đầu tiên, Alphabit, đang cố gắng trao quyền cho nhà đầu tư độc lập bằng cách cung cấp khả năng hiển thị để theo dõi và phân tích danh mục đầu tư của các quỹ đầu tư cũng như các nhà giao dịch lớn hay 'cá voi'. _"Các khuyến nghị về kinh doanh và hỗ trợ kỹ thuật từ SubQuery vượt quá sự mong đợi của một công ty khởi nghiệp nhỏ về phân tích đầu tư như chúng tôi." --- Michael Anderson, Phụ trách Phát triển Kinh doanh và Hợp tác chiến lược (Alphabit)_
 
 ![](https://miro.medium.com/max/1400/1*TpHBDhA7WqNGTOxz9LpifQ.png)
 
-Zoombies submitted a proposal in the hopes of using SubQuery to expedite their goal of deepening the value of the growing world of collectible play-to-earn (P2E) tokens. Their project will access the complete history of past event data within a game to produce meaningful views and enrich the player experience. _"The SubQuery Grants Programme has been a very clear step-by-step reward driven process" --- Ryan Price, CEO (Zoombies)_
+Trong khi đó, Zoombies đã gửi một đề xuất với hy vọng sử dụng SubQuery để thúc đẩy mục tiêu đào sâu vào giá trị của thế giới các token chơi để kiếm tiền (P2E) đang ngày càng phát triển. Their project will access the complete history of past event data within a game to produce meaningful views and enrich the player experience. _"The SubQuery Grants Programme has been a very clear step-by-step reward driven process" --- Ryan Price, CEO (Zoombies)_
 
 ![](https://miro.medium.com/max/1400/1*4rPD0g-pC3MOU5M5vAtS4w.png)
 
