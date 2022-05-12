@@ -44,30 +44,30 @@ Unserer Ansicht nach besteht das Schöne an dieser Gleichung darin, dass ein rat
 
 ## Delegierten
 
-So Indexers are incentivised to both do as much work as possible, and to stake as much as possible to maximise their rewards. This is where delegators come in.
+Indexer haben also einen Anreiz, sowohl so viel Arbeit wie möglich zu leisten als auch so viel wie möglich zu setzen, um ihre Belohnungen zu maximieren. Hier kommen die Delegierten ins Spiel.
 
 Delegatoren können ihre überschüssige SQT an Indexer delegieren, jeder Indexer kann einen _Anfragegebühren-Ertragsanteil_ veröffentlichen, und diese Delegatoren werden durch einen Teil des Anfragegebühren-Ertrags, den der Indexer erhält, belohnt.
 
 ![](https://miro.medium.com/max/1400/1*YoN7PV7h3a2nAFN-ODqILg.png)
 
-Delegators can delegate their spare SQT to Indexers and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in
+Delegierende können ihre freie SQT an Indexer delegieren, und diese Delegierenden werden mit einem Teil der Einnahmen aus der Abfragegebühr belohnt, mit denen der Indexer belohnt wird
 
-The _query fee revenue share rate_ that indexers advertise is locked for each 28 day staking era, and a decrease to it must be advertised for an entire 28 day staking era before coming into force.
+Die von Indexierern beworbene _Umsatzbeteiligungsrate für Abfragegebühren_ ist für jede 28-tägige Staking-Ära gesperrt, und eine Senkung muss für eine ganze 28-tägige Staking-Ära beworben werden, bevor sie in Kraft tritt.
 
-Similarly, delegators can remove their delegation amounts at any point, but they will only receive rewards when they have delegated for the entire staking era.
+Ebenso können Delegierende ihre Delegationsbeträge jederzeit entfernen, erhalten jedoch nur dann Belohnungen, wenn sie für die gesamte Staking-Ära delegiert haben.
 
 ![](https://miro.medium.com/max/1400/0*we0k4A07pbj86COZ)
 
-Delegators will only receive rewards when they have delegated for the entire staking era
+Delegierende erhalten nur Belohnungen, wenn sie für die gesamte Staking-Ära delegiert haben
 
 ## Kauforder
 
-Indexing a project takes time and money, there’s a lot of data on the chain. In order to encourage Indexers to index and support an entirely new SubQuery Project, we plan to implement a market mechanism for Consumers to signal guaranteed revenue to Indexers of new SubQuery Projects.
+Die Indexierung eines Projekts kostet Zeit und Geld, es gibt viele Daten in der Chain. Um Indexierer zu ermutigen, ein völlig neues SubQuery-Projekt zu indizieren und zu unterstützen, planen wir die Implementierung eines Marktmechanismus für Verbraucher, um Indexierern von neuen SubQuery-Projekten garantierte Einnahmen zu signalisieren.
 
-We’re calling them purchase orders, and Consumers can advertise a contract on chain for a set price and number of requests. Indexers can view this and choose to fill the contracts.
+Wir nennen sie Bestellungen, und Verbraucher können für einen Vertrag in der Chain für einen festgelegten Preis und eine festgelegte Anzahl von Anfragen werben. Indexierer können dies einsehen und die Verträge ausfüllen.
 
 ![](https://miro.medium.com/max/1400/1*IPtaZlt24E7h9bKNZWdSCw.png)
 
-Consumers can advertise a purchase order on chain for a set price and number of requests.
+Verbraucher können eine Bestellung in der Chain für einen festgelegten Preis und eine festgelegte Anzahl von Anfragen bewerben.
 
-Purchase orders can also be placed on existing SubQuery Projects to attract additional Indexers to improve competition and decrease prices
+Bestellungen können auch für bestehende SubQuery-Projekte aufgegeben werden, um zusätzliche Indexer anzuziehen, um den Wettbewerb zu verbessern und die Preise zu senken
