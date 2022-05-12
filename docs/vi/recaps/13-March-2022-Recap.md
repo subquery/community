@@ -88,18 +88,18 @@ Hôm nay, chúng tôi vui mừng thông báo về việc ra mắt testnet của 
 
 - SubQuery đã tổ chức sinh nhật lần thứ nhất bằng [ chiến dịch Airdrop ](https://gleam.io/leBTF/subquery-1st-birthday-airdrop-)
 - [ James ](https://matchstiq.io/stories/james-bayly-head-of-business-development-at-subquery/) đã có mặt tại [ hội nghị Avalanche ](https://www.avalanchesummit.com/agenda/speakers/1565739) đúng lúc với lễ ra mắt Avalanche của chúng tôi, khi mà chúng tôi cũng đã thực hiện [ quà tặng Airdrop ](https://gleam.io/pPoMH/-subquery-x-avalanche-airdrop-competition).
-- We had a [Customer Interview with Sota Watanabe](https://www.youtube.com/watch?v=KczSlTcb6aw) from Astar and talked about the new partnership that allows dApp projects on Astar to use SubQuery for native Astar EVM data indexing.
-- An interview with our solution architect [James Xu](https://www.youtube.com/watch?v=K-d-3JA5IsA) who leads our hosted service
-- An interview with [Brittany](https://www.youtube.com/watch?v=IyKg2Gu2A8g) who leads our Customer Success & Grants Programme
-- An interview with [Daniel](https://www.youtube.com/watch?v=meaictYiskI&feature=youtu.be) who supports our Marketing & Business Development teams
-- Siqi hosted Chinese AMAs with Darwinia, Manta Network, Moonbeam, Acala, Unique NFT, and also [interviewed a top student](https://www.youtube.com/watch?v=z13w7GmpZWw) from the Chinese Hero Course.
-- Sean interviewed one of the first few students who completed our Hero Course which can we watched [here](https://www.youtube.com/watch?v=pItgREDAprc)
-- Other events on our [Discord channel](https://discord.com/invite/subquery) include a crowdin workshop with our Thai Ambassadors, a Russian AMA on DropsEarn, Office Hours, and a German & Ukranian AMA.
+- Chúng tôi đã có một [cuộc phỏng vấn Khách hàng với Sota Watanabe](https://www.youtube.com/watch?v=KczSlTcb6aw) đến từ Astar và nói về quan hệ đối tác mới cho phép các dự án dApp trên Astar sử dụng SubQuery để lập chỉ mục dữ liệu Astar EVM gốc.
+- Một cuộc phỏng vấn với kiến trúc sư giải pháp [James Xu](https://www.youtube.com/watch?v=K-d-3JA5IsA), trưởng nhóm dịch vụ lưu trữ của chúng tôi
+- Một cuộc phỏng vấn với [Brittany](https://www.youtube.com/watch?v=IyKg2Gu2A8g), trưởng nhóm Chương trình Tài trợ & Khách hàng Thành công của chúng tôi
+- Một cuộc phỏng vấn với [Daniel](https://www.youtube.com/watch?v=meaictYiskI&feature=youtu.be) người hỗ trợ các nhóm Tiếp thị & Phát triển Kinh doanh của chúng tôi
+- Siqi đã tổ chức AMA tại Trung Quốc với Darwinia, Manta Network, Moonbeam, Acala, Unique NFT, và cũng đã [phỏng vấn một sinh viên hàng đầu](https://www.youtube.com/watch?v=z13w7GmpZWw) từ Khóa học Anh hùng Trung Quốc.
+- Sean đã phỏng vấn một trong số sinh viên đầu tiên đã hoàn thành Khóa học Anh hùng, chúng ta có thể xem [tại đây](https://www.youtube.com/watch?v=pItgREDAprc)
+- Các sự kiện khác trên [kênh Discord](https://discord.com/invite/subquery) của chúng tôi bao gồm hội thảo cộng đồng với các Đại sứ Thái Lan, AMA tại Nga về DropsEarn, Giờ làm việc và người Đức & AMA tại Ukraina.
 
 P.S.
 
-Remember to join our [Discord](https://discord.com/invite/subquery) and [our social channels](https://linktr.ee/subquerynetwork) to stay updated on our latest news and announcements.
+Hãy nhớ tham gia [Discord](https://discord.com/invite/subquery) và [các kênh xã hội của chúng tôi](https://linktr.ee/subquerynetwork) để được cập nhật tin tức và thông báo mới nhất của chúng tôi.
 
-The SubQuery Team
+Đội ngũ của SubQuery
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
