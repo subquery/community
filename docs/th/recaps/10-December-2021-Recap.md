@@ -22,7 +22,7 @@
 
 ### SubQuery Releases Tokenomics
 
-ในช่วง Community Call ครั้งล่าสุด เราได้เปิดเผย Tokenomics ของเราเป็นครั้งแรก รวมถึงการจัดสรรและกำหนดการปลดโทเค็นด้วย โดย SubQuery จะมี supply ทั้งหมด 1 หมื่นล้าน SQT ซึ่งจะได้รับการจัดสรรดังรูป
+ในช่วง Community Call ครั้งล่าสุด เราได้เปิดเผย Tokenomics ของเราเป็นครั้งแรก รวมถึงการจัดสรรและกำหนดการให้สิทธิโทเค็นด้วย โดย SubQuery จะมี supply ทั้งหมด 1 หมื่นล้าน SQT ซึ่งจะได้รับการจัดสรรดังรูป
 
 ![](https://miro.medium.com/max/1400/1*304WkKdNhuf0nSBmTlOXyQ.png)
 
