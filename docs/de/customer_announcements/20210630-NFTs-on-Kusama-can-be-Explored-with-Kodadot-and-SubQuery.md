@@ -10,7 +10,7 @@ Dieses Front-End verwendet ein [SubQuery-Projekt](https://explorer.subquery.netw
 
 ![](https://miro.medium.com/max/1400/0*3TdpXjj1iwGNdA3n)
 
-> _"At the first we had to realise how much the SubQuery is doing instead of you, so we were able to purely focus on the GraphQL architecture and NFT consolidation logic. Thanks to SubQuery, we are thinking now another feature set we can easily add over weekend"_ — Kodadot
+> _"Am Anfang mussten wir feststellen, wie viel die SubQuery anstelle von Ihnen macht, sodass wir uns ausschließlich auf die GraphQL-Architektur und die NFT-Konsolidierungslogik konzentrieren konnten. Dank SubQuery denken wir jetzt an eine weitere Funktion, die wir am Wochenende leicht hinzufügen können"_ - Kodadot
 
 Der Dienst von [SubQuery](https://subquery.network/) hilft Kodadot dabei, Kettendaten für NFTs auf Kusama zu extrahieren und abzufragen, und zwar auf energieeffizientere und CO2-freundlichere Weise.
 
