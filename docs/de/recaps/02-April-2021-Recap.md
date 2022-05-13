@@ -13,7 +13,7 @@ Auf der Partnerseite haben wir ein Schlüsselprodukt eingeführt, das benötigt 
 
 ![](https://miro.medium.com/max/1400/0*zZkmiEq5g2BbAxfl)
 
-Das letzte fehlende Stück bedeutet jetzt, dass wir über eine vollständige Suite von Tools verfügen, mit denen Kunden [untersuchen](https://explorer.subquery.network/), [erstellen](https://doc.subquery.network/quickstart.html), [ ausführen](https://doc.subquery.network/run/indexing_query.html) und dann <3 >veröffentlichen</a> SubQuery-Projekte ganz allein.
+Das letzte fehlende Stück bedeutet jetzt, dass wir über eine vollständige Suite von Tools verfügen, mit denen Kunden [untersuchen](https://explorer.subquery.network/), [erstellen](https://doc.subquery.network/quickstart.html), [ ausführen](https://doc.subquery.network/run/indexing_query.html) und dann [veröffentlichen](https://doc.subquery.network/publish/publish.html#benefits) SubQuery-Projekte ganz allein.
 
 ![](https://miro.medium.com/max/1400/0*pDQgyo3phe2ZcMml)
 
@@ -25,7 +25,7 @@ Der Dienst von SubQuery hilft Bifrost dabei, viele der in ihrer neuen dApp angez
 
 Das neue Bifrost-SubQuery-Projekt im SubQuery-Explorer
 
-> _"Without SubQuery, it is difficult to imagine how complicated it is to manually collect data from the chain. Bifrost-Entwickler verbringen möglicherweise viel Zeit damit, nach allen Transaktionsdaten in der Kette zu suchen, die für den Transaktionsverlauf verwendet werden sollen. SubQuery hilft Entwicklern, eine Menge sich wiederholender Arbeitskosten zu sparen. Bifrost will cooperate with SubQuery for a long time to accelerate the iterative speed of product development"_ — Bifrost Finance
+> _"Ohne SubQuery ist es schwer vorstellbar, wie kompliziert es ist, Daten manuell aus der Kette zu sammeln. Bifrost-Entwickler verbringen möglicherweise viel Zeit damit, nach allen Transaktionsdaten in der Kette zu suchen, die für den Transaktionsverlauf verwendet werden sollen. SubQuery hilft Entwicklern, eine Menge sich wiederholender Arbeitskosten zu sparen. Bifrost wird noch lange mit SubQuery zusammenarbeiten, um die iterative Geschwindigkeit der Produktentwicklung zu beschleunigen"_ - Bifrost Finance
 
 OnFinality ist ein wichtiger Dienstanbieter für SubQuery – die meisten SubQuery-Indexer in Polkadot- und Kusama-Projekten verwenden die öffentlichen API-Endpunkte von OnFinality, um ihre Daten abzurufen. Der erhebliche Datenverkehr von SubQuery ist einer der Gründe, warum OnFinality der größte Infrastrukturanbieter im Polkadot/Kusama-Ökosystem ist.
 
