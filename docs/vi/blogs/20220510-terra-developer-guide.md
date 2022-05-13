@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/1*DiTE9KuzH0xHLojzGWxOuw.png)
 
-Trong một thời gian dài, chúng tôi đã phát triển và hỗ trợ tinh chỉnh Terra ở hậu trường và thử nghiệm nó với các đối tác phát triển quan trọng (hãy chú ý đến các thông báo trong những ngày tới). Khoảng thời gian kéo dài này cho phép chúng tôi cực kỳ tin tưởng vào khả năng mở rộng, độ tin cậy và các tính năng mà SubQuery mang lại cho Terra ngày nay. Trong bài viết này, chúng tôi chia sẻ hướng dẫn chi tiết dành cho nhà phát triển và lộ trình cho tất cả cộng đồng Terra sử dụng để giải quyết nhu cầu lập chỉ mục dữ liệu của họ.
+Trong một thời gian dài, chúng tôi đã phát triển và hỗ trợ tinh chỉnh Terra ở hậu trường và thử nghiệm nó với các đối tác phát triển quan trọng (hãy chú ý đến các thông báo trong những ngày tới). Khoảng thời gian kéo dài này cho phép chúng tôi cực kỳ tin tưởng vào khả năng mở rộng, độ tin cậy và các tính năng mà SubQuery sẽ mang lại cho Terra. Trong bài viết này, chúng tôi chia sẻ hướng dẫn chi tiết dành cho nhà phát triển và lộ trình cho toàn thể cộng đồng Terra sử dụng để giải quyết nhu cầu lập chỉ mục dữ liệu của họ.
 
 SubQuery là một công cụ lập chỉ mục dữ liệu mở, linh hoạt và nhanh chóng. Công cụ lập chỉ mục mở của chúng tôi được thiết kế để giúp các nhà phát triển xây dựng API của riêng họ trong vài giờ và nó được thiết kế để lập chỉ mục các chuỗi cực kỳ nhanh chóng với sự hỗ trợ của từ điển (các chỉ mục được tính toán trước). Kinh nghiệm của chúng tôi với khách hàng trên tất cả các lĩnh vực trên Polkadot (ví, mạng, trình khám phá, NFT, DeFi, quét chuỗi, v. v.) đã giúp chúng tôi xây dựng điều này.
 
