@@ -16,9 +16,9 @@
 
 เราได้เข้าถึงโปรโตคอลมากมาย, แอป DeFi, dApps, กระเป๋าเงิน, แพลตฟอร์ม NFT, สะพานข้ามเชน และอื่นๆ ทั่วทั้งระบบนิเวศของ Polkadot เรากำลังวางแผนที่จะปรับปรุงกระบวนการปฐมนิเทศสำหรับพันธมิตรรายใหม่เพื่อให้เร็วขึ้นด้วยตัวอย่างโค้ด, โครงการสำเร็จรูป, และข้อมูลที่ดีขึ้นสำหรับนักพัฒนา
 
-**Expect the stream of new partner projects to turn into a flood.**
+**คาดว่ากระแสของโครงการ partner ใหม่กำลังถาโถมเข้ามา**
 
-At the end of May we now have a total of 48 SubQuery projects hosted on SubQuery including:
+สิ้นเดือนพฤษภาคม เรามีโครงการ SubQuery ทั้งหมด 48 โครงการที่โฮสต์บน SubQuery รวมถึง:
 
 - [Fearless Wallet](https://fearlesswallet.io/) (กระเป๋าเงิน Polkadot ชั้นนำที่เราจะทำงานอย่างใกล้ชิดด้วย)
 - [KodaDot](https://kodadot.xyz/) และ [NFTMart](https://www.nftmart.io/) (แพลตฟอร์ม NFT)
