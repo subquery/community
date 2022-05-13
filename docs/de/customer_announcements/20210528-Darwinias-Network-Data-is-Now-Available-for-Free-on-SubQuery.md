@@ -8,7 +8,7 @@
 
 [Darwinia](https://darwinia.network/) hat kürzlich zwei neue SubQuery Projekte veröffentlicht ein für ihr [Hauptnetzwerk](https://explorer.subquery.network/subquery/darwinia-network/darwinia) und das andere für [Krabbe](https://explorer.subquery.network/subquery/darwinia-network/crab), ihr kanarisches Netzwerk. Durch die Bereitstellung ihrer Daten in SubQuery öffnet Darwinia die Tür für ihr Anwendungs-Ökosystem, um ansprechendere Anwendungen auf dieser kostenlosen Datenquelle zu erstellen.
 
-> _"Using SubQuery to query Darwinia’s on-chain data has become very simple and flexible. SubQuery betrachtet Blockchain-Daten als Diagramm und nutzt die Erweiterbarkeit von GraphQL, um zusätzliche Funktionalität einzuführen. We believe that in the future, the data interface on the substrate chain will mainly use GraphQL, SubQuery is making this a reality"_ — Darwinia
+> _"Die Verwendung von SubQuery zur Abfrage von Darwinia's On-Chain-Daten ist sehr einfach und flexibel geworden. SubQuery betrachtet Blockchain-Daten als Diagramm und nutzt die Erweiterbarkeit von GraphQL, um zusätzliche Funktionalität einzuführen. Wir glauben, dass die Datenschnittstelle in der Substratkette in Zukunft hauptsächlich GraphQL verwenden wird, SubQuery macht dies zur Realität"_ - Darwinia
 
 [SubQuerys](https://subquery.network/) Service hilft Darwinia, Kettendaten freizuschalten und für ihr Anwendungs-Ökosystem zugänglicher zu machen. Anwendungen, beispielsweise ein NFT-Marktplatz, könnten die Daten von Darwnias SubQuery verwenden, um Auktionsstatistiken anzuzeigen, und könnten sogar das Darwinia-SubQuery-Projekt erweitern, um Daten zu aggregieren und zu transformieren, um noch einzigartigere Dateneinblicke zu erhalten.
 
@@ -32,7 +32,7 @@ Erfahren Sie mehr über SubQuery
 
 Das Darwinia Network ist ein dezentralisiertes heterogenes Cross-Chain-Bridge-Protokoll, das auf Substrate aufbaut, das sich auf dezentrale Cross-Chain-Token-Swap, Austausch und Markt konzentriert.
 
-Darwinia fungiert auch als kritische Infrastruktur für das Upgrade von Einzelanwendungen auf Cross-Chain-Version, einschließlich Defi, Game, DEX, NFT-Markt usw. Ihre Vision ist es, das zukünftige Internet von Tokens aufzubauen.
+Darwinia fungiert auch als kritische Infrastruktur für das Upgrade von Einzelanwendungen auf Cross-Chain-Version, einschließlich Defi, Game, DEX, NFT-Markt usw. Ihre Vision ist es, das zukünftige Internet von Tokens aufzubauen. Ihre Vision ist folgende: das zukünftige Internet der Token aufzubauen.
 
 Alles, was Sie über Darwinia wissen müssen
 
