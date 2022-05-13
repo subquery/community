@@ -16,7 +16,7 @@ Moonbeans กำลังจะบรรลุเป้าหมายในก�
 
 
 
-> _"Moonbeans have been able to harness SubQuery's aggregation and indexing capabilities to elevate their NFT marketplace data performance all within one excellent project. We look forward to being a part of their imminent arrival into the Moonbeam network."_ - James Bayly, Head of Business Development at SubQuery
+> _"Moonbeans สามารถควบคุมความสามารถการควบรวมและการจัดทำดัชนีของ SubQuery เพื่อยกระดับประสิทธิภาพด้านข้อมูลตลาดการค้า NFT ทั้งหมดทั้งมวลภายใต้หนึ่งโปรเจกต์ที่ยอดเยี่ยมนี้ We look forward to being a part of their imminent arrival into the Moonbeam network."_ - James Bayly, Head of Business Development at SubQuery
 
 ![](https://miro.medium.com/max/1400/0*-FlPYXDl_QKfz9s5)
 
