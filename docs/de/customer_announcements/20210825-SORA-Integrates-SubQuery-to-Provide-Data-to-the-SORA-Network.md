@@ -1,4 +1,4 @@
-# SORA integriert SubQuery, um Daten für das SORA-Netzwerk bereitzustellen
+# SORA integriert SubQuery, um die Daten für das SORA-Netzwerk bereitzustellen
 
 ![sora-header.jpg](https://miro.medium.com/max/1400/1*fPPW0DsynIt9QpvK4ZrsUA.jpeg)
 
@@ -6,9 +6,9 @@ Heute freuen wir uns, ein spannendes neues Projekt zu SubQuery ankündigen zu k�
 
 ![sora-frontend.jpg](https://miro.medium.com/max/1400/1*pq0U6wsutlf8rjXqq7i2BQ.jpeg)
 
-> _"SubQuery was selected to improve the UX of SORA network usage. We used SubQuery to get and list extrinsic details, calculate fiat prices and liquidity pool APY. Our goal was to get transaction history and aggregated data for applications that work with the SORA network._
+> _"SubQuery wurde ausgewählt, um die UX der SORA-Netzwerknutzung zu verbessern. Wir haben SubQuery verwendet, um extrinsische Details zu erhalten und aufzulisten, Fiat-Preise und Liquiditätspool-APY zu berechnen. Unser Ziel war es, den Transaktionsverlauf und aggregierte Daten für Anwendungen zu erhalten, die mit dem SORA-Netz arbeiten._
 > 
-> _SubQuery has been the ideal solution for our needs because the application is easy to deploy and manage, it is easy to learn and develop as well as being well documented, and it also has its own infrastructure with Github integration. Die einfache Datenstrukturierung von SubQuery bietet schnellen Zugriff, es unterstützt die GraphQL-API für Client-Anwendungen, es verfügt über eine flexible Konfiguration zum Parsen von Ereignissen, Extrinsik und Blöcken mit zusätzlicher Filterung. Finally, the application is completely transparent for users, so they won't notice if the application was updated or stopped."_ —SORA Development Team
+> _SubQuery war die ideale Lösung für unsere Bedürfnisse, denn die Anwendung ist einfach zu implementieren und zu verwalten, sie ist leicht zu erlernen und zu entwickeln und gut dokumentiert und verfügt über eine eigene Infrastruktur mit Github-Integration. Die einfache Datenstrukturierung von SubQuery bietet schnellen Zugriff, es unterstützt die GraphQL-API für Client-Anwendungen, es verfügt über eine flexible Konfiguration zum Parsen von Ereignissen, Extrinsik und Blöcken mit zusätzlicher Filterung. Schließlich ist die Anwendung für die Benutzer völlig transparent, sodass sie nicht bemerken, wenn die Anwendung aktualisiert oder gestoppt wurde."_ -SORA Development Team
 
 Polkaswap ist ein führender DEX im florierenden Polkadot-Ökosystem und benutzt SubQuery, um Überweisungen, Swaps, die in Polkaswap stattfinden, das Hinzufügen oder Entfernen von Liquidität, den Pauschalpreis von Token und den APY für Liquiditätspools abzurufen.
 
@@ -24,7 +24,7 @@ SORA verwendet [SubQuery-Projekte](https://project.subquery.network/), um ihr Pr
 
 Erkunden Sie das Projekt von SORA im SubQuery-Explorer [hier](https://explorer.subquery.network/subquery/sora-xor/sora).
 
-## About SORA
+## Über SORA
 
 SORA schafft ein supranationales Weltwirtschaftssystem mit eingebauten Tools für dezentrale Finanzen (DeFi) unter der kryptografischen Sortierung-basierten demokratischen Aufsicht des SORA-Parlaments.
 
@@ -32,7 +32,7 @@ Das SORA-Netzwerk zeichnet sich durch die Bereitstellung von Tools für dezentra
 
 [Webseite](https://sora.org/) | [Reddit](https://www.reddit.com/r/SORA/) | [Blog](https://sora.org/blog) | [Telegram](https://t.me/sora_xor) | [Twitter](https://twitter.com/sora_xor) | [YouTube](https://youtube.com/sora_xor) | [Instagram](https://instagram.com/sora_xor)
 
-## About SubQuery
+## Über SubQuery
 
 [SubQuery](https://subquery.network/) ist eine dezentrale Datenaggregation, Indexierung & Abfrageschicht zwischen Layer-1-Blockchains und dezentralen Anwendungen (DApps). Dieser Data-as-a-Service konzentriert sich derzeit auf Polkadot- und Substrate-Projekte und ermöglicht den Entwicklern, sich auf ihren Kernanwendungsfall und ihr Frontend zu konzentrieren, ohne Zeit mit dem Aufbau eines benutzerdefinierten Backends für die Datenverarbeitung zu verschwenden.
 
