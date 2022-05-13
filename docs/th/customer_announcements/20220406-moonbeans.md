@@ -26,14 +26,14 @@ Moonbeans use [SubQuery Projects](https://project.subquery.network/) to manage t
 
 ## เกี่ยวกับ Moonbeans
 
-Moonbeans (BEANS) เป็นโทเคนย่อยตัวแรกบนเครือข่าย Moonriver และจะมาสู่เครือข่าย Moonbeam เร็วๆนี้ แพลตฟอร์ม NFT Moonbeans หรือบริษัท เดอะ กาเล็คติค เทรดดิ้ง ให้ส่วนแบ่งทางกำไรสูงสุดเท่าที่เป็นไปได้ในตลาด And don't worry, it's organic, extraterrestrially sourced, and alien cruelty-free. The platform features frictionless USDC dividends automatically rewarded to $BEANS holders, customizable rewards, a fully functional community DAO, and profit-sharing.
+Moonbeans (BEANS) เป็นโทเคนย่อยตัวแรกบนเครือข่าย Moonriver และจะมาสู่เครือข่าย Moonbeam เร็วๆนี้ แพลตฟอร์ม NFT Moonbeans หรือบริษัท เดอะ กาเล็คติค เทรดดิ้ง ให้ส่วนแบ่งทางกำไรสูงสุดเท่าที่เป็นไปได้ในตลาด หมดกังวลเรื่องความปลอดภัยได้เลย เพราะแพลตฟอร์มนำเข้าข้อมูลจากภายนอก และปราศจากการคุกคามจากสิ่งแปลกปลอม แพลตฟอร์มนี้โด่ดเด่นด้านการจ่ายปันผลอย่างลื่นไหลเป็น USDC ซึ่งเป็นรางวัลที่มอบให้โดยอัตโนมัติแก่ ผู้ที่ถือ $BEANS รางวัลซึ่งสามารถปรับสัดส่วนได้ ชุมชน DAO ที่ทำงานได้อย่างสมบูรณ์แบบ และส่วนแบ่งทางผลกำไร
 
 [Website](http://moonbeans.io/) | [Twitter ](https://twitter.com/MoonBeansIO)| [Discord](http://discord.gg/qqE9aBPzQ9) | [Telegram](http://t.me/moonbeansio) |[Medium](https://medium.com/@MoonBeans)
 
 
 
-## About SubQuery
+## เกี่ยวกับ SubQuery
 
-SubQuery is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot, Substrate and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+SubQuery คือเครื่องมือสำหรับนักพัฒนาบล็อคเชนที่ช่วยใช้บุคคลต่างๆสามารถสร้างแอปพลิเคชั่น Web3 แห่งอนาคตได้ โปรเจกต์ SubQuery เป็น API อย่างแท้จริง ทำหน้าที่ในการจัดระเบียบและจัดเรียงข้อมูลจากเชนเลเยอร์ 1 Currently servicing Polkadot, Substrate and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
