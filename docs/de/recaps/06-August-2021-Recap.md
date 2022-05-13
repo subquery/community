@@ -6,7 +6,7 @@ Herzlich Willkommen zum neuesten monatlichen Update von SubQuery. Nach dem letzt
 
 In diesem monatlichen Update:
 
-- Onboarding Ambassadors 👩‍💼
+- Onboarding-Ambassadors 👩‍💼
 - Die Arbeit am SubQuery-Netzwerk gestartet🏗
 - Großes Community-Wachstum 🚀
 - Neue Projekte in SubQuery🤝
@@ -14,11 +14,11 @@ In diesem monatlichen Update:
 - Aktivität in China 🇨🇳
 - Bereitstellung des zweiten Meilensteins der Polkadot Common API ✅
 
-## Onboarding Ambassadors 👩‍💼
+## Onboarding-Ambassadors 👩‍💼
 
 ![](https://miro.medium.com/max/1400/0*_nOcsPjhQxta_FPH)
 
-After [launching our Ambassador program](../blogs/20210713-Introducing-the-SubQuery-Ambassador-Program.md) last month, we have been amazed by the excitement in the community and quality of the participants. Bis heute haben wir auf fast allen Kontinenten knapp 2.000 Bewerbungen erhalten (wir rufen nach Bewerbungen aus der Antarktis ☃️) und bisher über 30 Personen an Bord.
+Nach dem [Start unseres Botschafterprogramms](../blogs/20210713-Introducing-the-SubQuery-Ambassador-Program.md) im letzten Monat waren wir von der Begeisterung in der Gemeinschaft und der Qualität der Teilnehmer überrascht. Bis heute haben wir auf fast allen Kontinenten knapp 2.000 Bewerbungen erhalten (wir rufen nach Bewerbungen aus der Antarktis ☃️) und bisher über 30 Personen an Bord.
 
 Tre hat hervorragende Arbeit geleistet, diese Initiative zu leiten und [mit der Community auf Discord zu interagieren](https://discord.com/invite/78zg8aBSMG). Da wir bereits die Vorteile einer engeren Beziehung zu den Unterstützern von SubQuery sehen, werden wir das Team in den nächsten Wochen erweitern. Bitte haben Sie etwas Geduld, wenn Sie noch nichts von uns gehört haben!
 
@@ -32,7 +32,7 @@ Wenn Sie uns helfen möchten, dieses Wachstum zu beschleunigen und sicherzustell
 
 ## Die Arbeit am SubQuery-Netzwerk gestartet 🏗
 
-Ja! The work on [moving SubQuery towards a decentralised and tokenised network](../blogs/20210614-Introducing-SubQuery-Network-The-Next-Big-Step-Towards-our-Decentralised-Future.md); the SubQuery Network, has begun! Diese Migration stellt sicher, dass es keinen Single Point of Failure für SubQuery gibt und ermutigt die Teilnehmer über das SQT-Token. Um uns bei dieser bedeutenden Änderung zu unterstützen, haben wir diesen Monat neue Entwickler für uns rekrutiert.
+Ja! Die Arbeit an der [Umstellung von SubQuery auf ein dezentrales und tokenisiertes Netzwerk](../blogs/20210614-Introducing-SubQuery-Network-The-Next-Big-Step-Towards-our-Decentralised-Future.md), das SubQuery Network, hat begonnen! Diese Migration stellt sicher, dass es keinen Single Point of Failure für SubQuery gibt und ermutigt die Teilnehmer über das SQT-Token. Um uns bei dieser bedeutenden Änderung zu unterstützen, haben wir diesen Monat neue Entwickler für uns rekrutiert.
 
 ## Neue Projekte in SubQuery
 
@@ -40,7 +40,7 @@ Ja! The work on [moving SubQuery towards a decentralised and tokenised network]
 
 Im August haben wir mehrere neue Projekte zu SubQuery gestartet, darunter solche mit Subscan, Karura, Subscan, Polkaswap und Soramitsu.
 
-For Karura, [SubQuery is being used to extract and query data from Karura's chain](../customer_announcements/20210819-Karura-Integrates-with-SubQuery-to-Aggregate-and-Serve-DeFi-Data-to-Kusama-Builders.md), making queries fast and efficient for [Karura's app](https://apps.karura.network/).
+Für Karura wird [SubQuery zum Extrahieren und Abfragen von Daten aus der Karura-Kette](../customer_announcements/20210819-Karura-Integrates-with-SubQuery-to-Aggregate-and-Serve-DeFi-Data-to-Kusama-Builders.md) verwendet, was Abfragen für [Karuras App](https://apps.karura.network/) schnell und effizient macht.
 
 SubQuery's service is playing a key role in [Subscan](https://www.subscan.io/) by [providing fast data on transactions](../customer_announcements/20210901-Subscans-Multi-Signature-Tool.md) for any given multi signature address, thereby improving the UX and allowing for more advanced features.
 
