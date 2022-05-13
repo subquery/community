@@ -40,12 +40,12 @@ Please let us know if you can recommend anyone for any of the following roles, w
 - [Blockchain-Entwickler](https://dash.recooty.com/openings/details/9578a63fbe545bd82cc5bbe749636af1) (mit irgendeinem Wissen über Rust)
 - [Business Development Manager](https://rcty.co/3coJPrV) (ideal in Europa oder Nordamerika)
 
-SubQuery was selected from over 50 candidates to join the exclusive 2021 Web 3.0 Bootcamp in Shanghai. There are some amazing projects and a huge amount of talent in this bootcamp, so we’re excited to be a part of it. Polkadot is the most exciting ecosystem out there in our industry, and China is the fastest growing country building here.
+SubQuery wurde aus über 50 Kandidaten ausgewählt, um am exklusiven Web 3.0 Bootcamp 2021 in Shanghai teilzunehmen. Es gibt einige erstaunliche Projekte und eine riesige Menge an Talent in diesem Bootcamp, so dass wir uns freuen, ein Teil davon zu sein. Polkadot ist das spannendste Ökosystem in unserer Branche, und China ist das am schnellsten wachsende Land, das hier baut.
 
-We expect to learn a lot, to make a lot of new friends and partners, to get a lot of feedback on our product development. We expect to come out of this bootcamp even stronger than we are now. You can watch our opening ceremony below
+Wir erwarten, viel zu lernen, viele neue Freunde und Partner zu finden und viel Feedback zu unserer Produktentwicklung zu bekommen. Wir gehen davon aus, dass wir aus diesem Bootcamp noch stärker hervorgehen werden, als wir es jetzt sind. Sie können sich die Eröffnungsfeier unten ansehen
 
-Next month we’ve got some exciting new announcements to share with our community, stay subscribed to our social media channels to hear about them first.
+Nächsten Monat haben wir einige aufregende neue Ankündigungen, die wir mit unserer Community teilen möchten. Bleiben Sie bei unseren Social Media-Kanälen angemeldet, um sie als Erste zu erfahren.
 
-James, Sam, and the SubQuery Team
+James, Sam und das SubQuery-Team
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Medium](https://subquery.medium.com/)
