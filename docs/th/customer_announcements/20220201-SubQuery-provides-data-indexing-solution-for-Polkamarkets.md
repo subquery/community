@@ -6,7 +6,7 @@
 
 การ Query และ Aggregate ข้อมูล On-chain เป็นกระบวนการที่ซับซ้อนและมีค่าใช้จ่ายที่สูง ซึ่งนักพัฒนาจำเป็นต้องมีเครื่องมือที่มีประสิทธิภาพในการประมวลผลและ Query ข้อมูลได้เร็วขึ้น เพื่อที่จะสร้างแอปพลิเคชั่นที่ซับซ้อนและใช้งานง่ายยิ่งขึ้น  แม้ว่า Polkamarkets Labs จะได้สร้าง [Indexing solution](https://github.com/Polkamarkets/polkamarkets-api) เป็นของตัวเองไว้แล้วก่อนหน้านี้ พวกเขาก็ยังเลือกที่จะย้ายไปยัง SubQuery เพื่อพัฒนาความสามารถในการรองรับการขยายตัวเนื่องจากโปรโตคอลมีการใช้งานที่มากขึ้น
 
-> _"การคาดการณ์ตลาดมีความน่าเชื่อถือพอๆกับข้อมูลที่พวกเขาใช้ ความร่วมมือกับ SubQuery นี้ ทำให้โปรโตคอลของ Polkamarkets มีความสามารถในการจัดการข้อมูล เพื่อให้มั่นใจว่าผู้ใช้จะได้รับประสบการณ์ที่ราบรื่นและเสถียร ในขณะเดียวกันก็เพิ่มเครื่องมือข้อมูลที่มีประสิทธิภาพให้สำหรับนักพัฒนาที่ใช้โปรโตคอลเพื่อสร้างแอปพลิเคชั่นตลาดเพื่อการพยากรณ์ We look forward to seeing where our technologies can work together to bring greater prediction market usage and adoption."_ — Ricardo Marques, Co-Founder of Polkamarkets.
+> _"การคาดการณ์ตลาดมีความน่าเชื่อถือพอๆกับข้อมูลที่พวกเขาใช้ ความร่วมมือกับ SubQuery นี้ ทำให้โปรโตคอลของ Polkamarkets มีความสามารถในการจัดการข้อมูล เพื่อให้มั่นใจว่าผู้ใช้จะได้รับประสบการณ์ที่ราบรื่นและเสถียร ในขณะเดียวกันก็เพิ่มเครื่องมือข้อมูลที่มีประสิทธิภาพให้สำหรับนักพัฒนาที่ใช้โปรโตคอลเพื่อสร้างแอปพลิเคชั่นตลาดเพื่อการพยากรณ์ พวกเราตั้งตารอที่จะได้เห็นเทคโนโลยีของพวกเราทำงานร่วมกันเพื่อสร้างการนำไปใช้ประโยชน์ในการคาดการณ์ตลาดที่ยอดเยี่ยมยิ่งขึ้น" _ - Ricardo Marques
 
 ในฐานะ Indexer ข้อมูลชั้นนำใน Polkabot SubQuery จะถูกใช้เพื่อ Index และ Aggregate โปรโตคอลของ Polkamarkets เช่น:
 
@@ -14,7 +14,7 @@
 - ประวัติราคาผลลัพธ์ของตลาด
 - ความเที่ยงตรงของประวัติตลาดตราสารหนี้ POLK
 
-> _"One of the most exciting applications of blockchain is prediction markets and trading, we’re excited to partner with the leading player in this space in Polkadot. Creating a prediction market isn’t just about collecting real world events, it requires an excellent user interface to display this information and allow users to take the right positions — we’re keen to play a big part in this development."_ — James Bayly, Head of Business Development at SubQuery.
+> _"หนึ่งในแอปพลิเคชั่นที่น่าตื่นเต้นที่สุดของบล็อคเชนคือการเทรดและการคาดการณ์ตลาด พวกเรารู้สึกตื่นเต้นที่จะได้เป็นพันธมิตรกับเหล่าผู้เล่นชั้นนำในจักรวาล Polkadot นี้ การคาดการณ์ตลาดไม่ใช่การเก็บรวบรวมข้อมูลต่างๆในโลกแห่งความเป็นจริงเท่านั้น แต่ยังต้องการอินเตอร์เฟซผู้ใช้งานที่แสดงข้อมูลนี้และช่วยให้ผู้ใช้งานออกโพซิชั่นได้อย่างถูกต้อง - พวกเรารู้สึกตื่นเต้นที่จะได้เป็นส่วนสำคัญในการพัฒนาครั้งนี้"_ - James Bayly, หัวหน้าฝ่ายพัฒนาธุรกิจของ SubQuery
 
 โปรโตคอล Polkamarkets กำลังถูก Deploy ใน Kasuma ผ่าน Moonriver และในอีกไม่ช้าสำหรับ Polkadot ผ่าน Moonbeam บริการ Indexing และ Query ที่จัดการโดย SubQuery และถูกมอบให้แก่คอมมูนิตี้ Polkadot มีให้บริการใน [SubQuery’s Explorer](https://explorer.subquery.network/)
 
