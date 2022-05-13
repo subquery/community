@@ -16,11 +16,11 @@ Moonbeans กำลังจะบรรลุเป้าหมายในก�
 
 
 
-> _"Moonbeans สามารถควบคุมความสามารถการควบรวมและการจัดทำดัชนีของ SubQuery เพื่อยกระดับประสิทธิภาพด้านข้อมูลตลาดการค้า NFT ทั้งหมดทั้งมวลภายใต้หนึ่งโปรเจกต์ที่ยอดเยี่ยมนี้ We look forward to being a part of their imminent arrival into the Moonbeam network."_ - James Bayly, Head of Business Development at SubQuery
+> _"Moonbeans สามารถควบคุมความสามารถการควบรวมและการจัดทำดัชนีของ SubQuery เพื่อยกระดับประสิทธิภาพด้านข้อมูลตลาดการค้า NFT ทั้งหมดทั้งมวลภายใต้หนึ่งโปรเจกต์ที่ยอดเยี่ยมนี้ พวกเราตั้งตารอที่จะเป็นส่วนหนึ่งของการมาสู่เครือข่าย Moonbeam ของพวกเขาในไม่ช้านี้" _ - James Bayly, หัวหน้าฝ่ายพัฒนาธุรกิจของ SubQuery
 
 ![](https://miro.medium.com/max/1400/0*-FlPYXDl_QKfz9s5)
 
-Moonbeans use [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. Check out this [SubQuery Snapshot](https://twitter.com/subquerynetwork/status/1497134283827339416?s=21) for an overview of Moonbeans and their project which can be found in the [SubQuery Explorer](https://explorer.subquery.network/) --- a project library managed by SubQuery and provided to the Polkadot community for free.
+Moonbeans ใช้[โปรเจกต์ SubQuery](https://project.subquery.network/)ในการดูแลโปรเจกต์ของพวกเขาเองและทำการอัปเดตตามความต้องการที่จำเป็น Check out this [SubQuery Snapshot](https://twitter.com/subquerynetwork/status/1497134283827339416?s=21) for an overview of Moonbeans and their project which can be found in the [SubQuery Explorer](https://explorer.subquery.network/) --- a project library managed by SubQuery and provided to the Polkadot community for free.
 
 
 
