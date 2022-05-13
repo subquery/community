@@ -19,7 +19,7 @@
 
 ## **SubQuery ได้รับ seed round 1.8 ล้านเหรียญสำหรับการขยายในอนาคต**
 
-SubQuery พร้อมที่จะเติบโตและส่งมอบ! [We successfully raised a US$1.8 million seed round](../blogs/20210312-SubQuery-Raises-%241.8M-Seed-Round-for-Future-Expansion.md) and private sale backed primarily by DeFi Alliance, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG), and The Lao. ความต้องการอย่างล้นหลามที่เราได้รับในการสนับสนุนรอบ Seed Round ของ SubQuery แสดงให้เห็นถึงความสนใจอย่างมากในบริการโครงสร้างพื้นฐานและความเชื่อในอนาคตของระบบนิเวศ Polkadot
+SubQuery พร้อมที่จะเติบโตและส่งมอบ! [เราประสบความสำเร็จในการระดมทุนรอบ Seed ด้วยมูลค่า 1.8 ล้านเหรียญสหรัฐ](../blogs/20210312-SubQuery-Raises-%241.8M-Seed-Round-for-Future-Expansion.md) และการขายแบบส่วนตัวได้รับการสนับสนุนโดย DeFi Alliance, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG) และ The Lao เป็นหลัก ความต้องการอย่างล้นหลามที่เราได้รับในการสนับสนุนรอบ Seed Round ของ SubQuery แสดงให้เห็นถึงความสนใจอย่างมากในบริการโครงสร้างพื้นฐานและความเชื่อในอนาคตของระบบนิเวศ Polkadot
 
 _เรากำลังวางแผนการขาย/เพิ่มแบบ private ในปลายปีนี้ หากคุณสนใจเข้าร่วม โปรดลงทะเบียนที่นี่:_ [_https://forms.gle/6LMapDNSidQAqy347_](https://forms.gle/6LMapDNSidQAqy347)
 
