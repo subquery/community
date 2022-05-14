@@ -12,7 +12,7 @@ Fearless Wallet ได้นำเอาบริการของ SubQuery ม
 
 ![](https://miro.medium.com/max/1400/1*5D3J7-_HC2tAP05oOlV5yw.png)
 
-> _"Fearless Wallet is a true multi-asset wallet that grows in tune with Polkadot and Kusama. โดย SubQuery ทำให้เราสามารถนำพาให้ผู้ใช้งานของเราใช้งาน parachain ใหม่ๆได้อย่างง่ายดายและเต็มประสิทธิภาพ As the number of parachains is increasing all the time, the synergy between SubQuery’s modular tools and Fearless Wallet’s unparalleled user experience will continue to add value for the entire ecosystem."_ -Fearless Wallet team
+> _"Fearless Wallet เป็นกระเป๋าเงินหลากหลายสินทรัพย์ที่เติบโตสอดคล้องกับ Polkadot และ Kusama โดย SubQuery ทำให้เราสามารถนำพาให้ผู้ใช้งานของเราใช้งาน parachain ใหม่ๆได้อย่างง่ายดายและเต็มประสิทธิภาพ เนื่องจากจำนวน Parachains เพิ่มขึ้นตลอดเวลา การประสานกันระหว่างเครื่องมือโมดูลาร์ของ SubQuery และประสบการณ์ผู้ใช้ที่ไม่มีใครเทียบของ Fearless Wallet จะยังคงเพิ่มมูลค่าให้กับระบบทั้งหมดต่อไป"_ - ทีมงาน Fearless Wallet
 
 นอกจากนี้ Fearless Wallet ยังเร่งพัฒนาเครื่องมือที่ใช้ในการวิเคราะห์ข้อมูล เพื่อที่จะรองรับฟังก์ชั่น collator และ validator staking ในทุกๆ parachain โดย SubQuery จะขาดไปไม่ได้เลยในการสร้างฟังก์ชันนี้ เนื่องจากจะต้องมีการรวบรวม คำนวณ และให้บริการข้อมูลส่งตรงไปยังแอพพลิเคชั่น นอกจากนี้คุณอาจจะได้เห็นฟังก์ชั่นการใช้งานของ RMRK NFT และ Polkaswap DEX รวมเข้ากับแอพพลิเคชั่นในเร็ววันนี้
 
@@ -20,7 +20,7 @@ Fearless Wallet ได้นำเอาบริการของ SubQuery ม
 
 Fearless Wallet ได้ใช้ [SubQuery Projects](https://project.subquery.network/) เพื่อจัดการโปรเจกต์ของตนและทำการอัปเดตตามต้องการ พวกเขาใช้ประโยชน์จากบริการ enterprise-level hosting ของ SubQuery เพื่อถ่ายโอนฐานข้อมูล, automated deployment และ geographic routing ไปยังหลายคลัสเตอร์ทั่วโลกเพื่อประสิทธิภาพที่สูงและระยะเวลาการประมวลผลสั้น โดยบริการ indexing และ query ข้อมูลที่เรามีให้นั้นได้รับการจัดการเบ็ดเสร็จโดย SubQuery และได้มอบมันให้กับคอมมูนิตี้ของ Polkadot ผ่านทาง [SubQuery's Explorer](https://explorer.subquery.network/)
 
-> _" สิ่งที่ SubQuery ทำคือการจัดการข้อมูลที่อยู่บนบล็อกเชน และช่วยให้การสร้างแอพพลิเคชั่นที่ทำให้เหล่าผู้ใช้งานทุกวันนี้อยากเข้ามามีส่วนร่วมได้ง่ายยิ่งขึ้น พวกเรารู้สึกภูมิใจที่ได้ร่วมกับ Fearless Wallet มอบประสบการณ์ที่ยอดเยี่ยมให้กับกลุ่มผู้ใช้งาน และเติบโตไปพร้อมกับกลุ่มพวกเขาที่กำลังเติบโตอย่างก้าวกระโดดอยู่ใน Eocosystem ของ Polkadot" _- James Bayly, หัวหน้าฝ่ายพัฒนาธุรกิจของ SubQuery
+> _" สิ่งที่ SubQuery ทำคือการจัดการข้อมูลที่อยู่บนบล็อกเชน และช่วยให้การสร้างแอพพลิเคชั่นที่ทำให้เหล่าผู้ใช้งานทุกวันนี้อยากเข้ามามีส่วนร่วมได้ง่ายยิ่งขึ้น พวกเรารู้สึกภูมิใจที่ได้ร่วมกับ Fearless Wallet มอบประสบการณ์ที่ยอดเยี่ยมให้กับกลุ่มผู้ใช้งาน และเติบโตไปพร้อมกับกลุ่มพวกเขาที่กำลังเติบโตอย่างก้าวกระโดดอยู่ใน Ecosystem ของ Polkadot" _- James Bayly, หัวหน้าฝ่ายพัฒนาธุรกิจของ SubQuery
 
 ## เกี่ยวกับ SubQuery
 
