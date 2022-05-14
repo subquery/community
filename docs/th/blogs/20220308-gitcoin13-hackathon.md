@@ -27,6 +27,6 @@
 
 ## เกี่ยวกับ SubQuery
 
-[SubQuery](https://subquery.network) คือการรวบรวมข้อมูลที่ไร้ศูนย์กลาง indexing & การค้นหา layer ระหว่าง Layer-1 บล๊อกเชน และแอปพลิเคชันที่ไร้ศูนย์กลาง The protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+[SubQuery](https://subquery.network) คือการรวบรวมข้อมูลที่ไร้ศูนย์กลาง indexing & การค้นหา layer ระหว่าง Layer-1 บล๊อกเชน และแอปพลิเคชันที่ไร้ศูนย์กลาง Protocol จะแยกแยะความแตกต่างของข้อมูลบล็อกเชนด้วย SubQuery SDK, ทำให้นักพัฒนาสามารถมุ่งเน้นไปที่การ deploy ผลัตภัณฑ์หลักของตนโดยไม่เสียเวลาไปกับความพยายามที่ไม่จำเป็นในการปรับเทคโนโลยีทางด้าน backend
 
-​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+​​[Linktree](https://linktr.ee/subquerynetwork) | [เว็บไซต์](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
