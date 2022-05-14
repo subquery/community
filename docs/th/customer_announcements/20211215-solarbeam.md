@@ -8,7 +8,7 @@
 
 ![](https://miro.medium.com/max/1400/1*IbRN8EnymWvqvh0sx_PNKw.png)
 
-> _"SubQuery has proved to be a reliable tool for querying events and transactions on EVM and Substrate based chains, with a minimal latency for syncing new data and suitable for large amounts of data. As a result, we believe SubQuery will provide as good of an experience on Moonbeam as it has for us on Moonriver"_ — Founder, Solarbeam
+> _ ด้วยความหน่วงเพียงเล็กน้อยในการ Syncing ข้อมูลใหม่ อีกทั้งใช้ได้ดีกับข้อมูลที่มหาศาล SubQuery ได้พิสูจน์ให้เห็นแล้วว่าเป็นเครื่องมือที่น่าเชื่อถือสำหรับการตรวจสอบสืบค้นประวัติและการทำธุรกรรมบนเชนหลัก EVM และ Substrate เพราะเหตุนั้น เราจึงเชื่อว่า SubQuery จะส่งมอบประสบการณ์ที่ยอดเยี่ยมบน Moonmean เหมือนที่เราได้สัมผัสกันมาแล้วบน Moonriver" _ - ผู้ก่อตั้ง Solarbeam
 
 บริการของ [SubQuery](https://subquery.network/) ช่วยขับเคลื่อนการวิเคราะห์สำหรับ IDO Launchpad ของ Eclipse โดย Solarbeam ก่อนการเปิดตัวบน Moonbeam นั้น Solarbeam จะผสาน SubQuery เข้ากับเครื่องมือวิเคราะห์พอร์ตลงทุนผู้ใช้ ซึ่งจะช่วยให้ผู้ใช้สามารถติดตามประวัติการทำฟาร์มและผลกำไรของพวกเขาได้ สิ่งนี้เกิดขึ้นได้จาก[การบูรณาการของ Moonbeam และ Moonriver EVM เข้ากับ Subquery เมื่อไม่นานมานี้](./20211028-moonbeam-evm.md)
 
