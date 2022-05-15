@@ -1,10 +1,11 @@
-# The SubQuery Terra Onboarding Guide
+# SubQuery 的 Terra 引导指南
 
-![](https://miro.medium.com/max/1400/1*DiTE9KuzH0xHLojzGWxOuw.png)
+![](https://miro.medium.com/max/1400/1*DiTE9KuzH0xHLojzGWxOuw.png
+)
 
-For quite some time we have been developing and refining Terra support behind the scenes and testing it with key development launch partners (keep an eye out for announcements in the coming days). This prolonged period has allowed us to be extremely confident in the scalability, reliability, and features that SubQuery today brings to Terra. In this article we share a detailed developer guide and roadmap for all of the Terra community to use to solve their data indexing needs.
+在相当长的一段时间里，我们一直在开发和完善对于 Terra 的支持，并与关键的开发者合作伙伴一起进行测试工作（请关注未来几天的公告）。 这段漫长的时间让我们对 SubQuery 为 Terra 带来可伸缩性、可靠性的功能充满信心。 在本文中，我们将分享一份详细的开发人员指南和路线图，为所有 Terra 社区解决其数据索引需求提供参考。
 
-SubQuery is an open data indexer that is flexible and fast. Our open indexing tool is designed to help developers build their own API in hours, and it's designed to index chains incredibly quickly with the assistance of dictionaries (pre-computed indices). Our experience with customers across all verticals in Polkadot (wallets, networks, explorers, NFT, DeFi, scanners, etc) has helped us build this.
+SubQuery 是一款灵活快速的开放式数据索引工具。 Our open indexing tool is designed to help developers build their own API in hours, and it's designed to index chains incredibly quickly with the assistance of dictionaries (pre-computed indices). Our experience with customers across all verticals in Polkadot (wallets, networks, explorers, NFT, DeFi, scanners, etc) has helped us build this.
 
 This is still in its early versions, and while we consider far beyond a "beta", we would appreciate it if any bugs can be reported to our team so we can address them quickly.
 
