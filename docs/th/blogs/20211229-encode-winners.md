@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/1*KSv8qczywRPCEvWXeYiDNA.png)
 
-Subquery เป็นผู้นำในการให้บริการแหล่งข้อมูลบนเชน Polkadot ซึ่งมีความยินดีที่จะประกาศผู้ชนะของ [Encode Club](https://www.encode.club/) Polkadot Hackathon เร็วๆนี้ โดย Encode Club เป็นคอมมูนิตี้ด้านการศึกษาบล็อกเชนชั้นนำที่ส่งเสริมระบบนิเวศผ่านกิจกรรมต่างๆ เช่น hackathons และโครงการบ่มเพาะความรู้ความเข้าใจต่าง ๆ SubQuery partnered with Acala/Karura in September to sponsor three challenges to a value of $14,000, inviting developers to build useful tools, dashboards and DApps.
+Subquery เป็นผู้นำในการให้บริการแหล่งข้อมูลบนเชน Polkadot ซึ่งมีความยินดีที่จะประกาศผู้ชนะของ [Encode Club](https://www.encode.club/) Polkadot Hackathon เร็วๆนี้ โดย Encode Club เป็นคอมมูนิตี้ด้านการศึกษาบล็อกเชนชั้นนำที่ส่งเสริมระบบนิเวศผ่านกิจกรรมต่างๆ เช่น hackathons และโครงการบ่มเพาะความรู้ความเข้าใจต่าง ๆ ซึ่ง SubQuery ได้ร่วมมือกับ Acala/Karura ในเดือนกันยายน เพื่อให้การสนับสนุนโจทย์ที่ท้าทายสามรายการ พร้อมรางวัลมูลค่า 14,000 ดอลลาร์ โดยเชิญชวนนักพัฒนาให้สร้างเครื่องมือ แดชบอร์ด และ DApps ที่มีประโยชน์
 
 หลังจาก 10 สัปดาห์ของการพิจารณาอย่างดีแล้วจากผู้ตัดสินผู้ทรงคุณวุฒิของทาง Polkadot เช่น [Bryan Chen](https://twitter.com/XiliangChen) (ผู้ร่วมก่อตั้งและ CTO ของ Acala), [Hang Yin](https://twitter.com/bgmshana) (ผู้ร่วมก่อตั้งของ Phala Network), [Jack Platts](https://twitter.com/jackbplatts) (ผู้ร่วมก่อตั้งของ Hypersphere Venture) และ [Sota Watanabe](https://twitter.com/WatanabeSota) (ผู้ก่อตั้งของ Astar, CEO ของ Stake Technologies) พวกเรายินดีอย่างยิ่งที่จะประกาศผู้ชนะของกิจกรรมในครั้งนี้
 
