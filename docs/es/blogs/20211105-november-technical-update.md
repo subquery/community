@@ -4,7 +4,7 @@
 
 **Obtenga más información para conocer nuestro análisis técnico profundo de la última versión de SubQuery**
 
-## Support for External Chain Type Files in Project Manifest
+## Soporte para archivos de tipo de cadena externa en el proyecto manifestado
 
 Hoy es el lanzamiento de [versión 0.2.0](https://doc.subquery.network/create/manifest/) de nuestro archivo manifestado de proyecto (`project.yaml`). Esta nueva versión proporciona a los desarrolladores varias mejoras que han sido solicitadas por los clientes.
 
@@ -14,7 +14,7 @@ Esta solución le permite evitar copiar y gestionar definiciones de tipo de cade
 
 [Puedes leer sobre el nuevo archivo de manifiesto, incluyendo cómo puedes migrar tus proyectos a él, aquí en nuestros documentos actualizados.](https://doc.subquery.network/create/manifest/)
 
-## Moonbeam EVM Support
+## Soporte para EVM de Moonbeam
 
 La semana pasada tuvimos el placer de [anunciar que estábamos trabajando con Moonbeam para llevar el soporte completo de EVM e indexación de sustratos a Moonriver](../customer_announcements/20211028-moonbeam-evm.md).
 
@@ -36,15 +36,15 @@ SubQuery introduce filtros más avanzados que otros índices, permitiendo el fil
 
 ### Paso 2: indexar los datos de Moonbeam
 
-Al igual que un proyecto de SubQuery normal, usas una función de mapeo para transformar los datos de la cadena a las entidades GraphQL que definas, la diferencia es que en lugar de un `SubstrateEvent` o `SubstrateExtrinsic`, tu función de mapeo recibirá una `MoonbeamCall` o `MoonbeamEvent` que se basan en [TransactionResponse](https://docs.ethers.io/v5/api/providers/types/#providers-TransactionResponse) o [Log](https://docs.ethers.io/v5/api/providers/types/#providers-Log) tipo. [You can read more about these here](https://doc.subquery.network/create/substrate-evm/#frontierevmcall).
+Al igual que un proyecto de SubQuery normal, usas una función de mapeo para transformar los datos de la cadena a las entidades GraphQL que definas, la diferencia es que en lugar de un `SubstrateEvent` o `SubstrateExtrinsic`, tu función de mapeo recibirá una `MoonbeamCall` o `MoonbeamEvent` que se basan en [TransactionResponse](https://docs.ethers.io/v5/api/providers/types/#providers-TransactionResponse) o [Log](https://docs.ethers.io/v5/api/providers/types/#providers-Log) tipo. [Puedes leer más sobre estos aquí](https://doc.subquery.network/create/substrate-evm/#frontierevmcall).
 
 [Lea la documentación completa sobre este proceso aquí](https://doc.subquery.network/create/substrate-evm/#frontierevmcall)
 
-### Example Project
+### Ejemplo de proyecto
 
 Hay un proyecto de ejemplo completo que indexa eth `eventos de transferencia` y `aprueba` llamadas inteligentes de contrato. El código para este proyecto de ejemplo está [aquí en GitHub](https://github.com/subquery/tutorials-moonriver-evm-starter) o accesible a través del [proyecto de subconsulta en SubQuery Explorer aquí](https://explorer.subquery.network/subquery/subquery/moonriver-evm-starter-project).
 
-La mayor parte de los cambios ocurren en el archivo de Manifest (`project.yaml`). Puedes ver a continuación que tenemos [filtros de llamada extendidos](https://doc.subquery.network/create/substrate-evm/#call-filters) para soportar tanto [cadenas de firmas de funciones](https://docs.ethers.io/v5/api/utils/abi/fragments/#FunctionFragment) como la función sighash para filtrar la función llamada en el contrato. For [event filters](https://doc.subquery.network/create/substrate-evm/#event-filters), you can use topics filtering that follows the [Ethereum JSON-PRC log filters standard found here](https://docs.ethers.io/v5/concepts/events/). Tenga en cuenta que SubQuery introduce filtros más avanzados que otros indexadores para Moonbeam EVM y estas mejoras deberían beneficiar significativamente a los desarrolladores.
+La mayor parte de los cambios ocurren en el archivo de Manifest (`project.yaml`). Puedes ver a continuación que tenemos [filtros de llamada extendidos](https://doc.subquery.network/create/substrate-evm/#call-filters) para soportar tanto [cadenas de firmas de funciones](https://docs.ethers.io/v5/api/utils/abi/fragments/#FunctionFragment) como la función sighash para filtrar la función llamada en el contrato. Para [filtros de eventos](https://doc.subquery.network/create/substrate-evm/#event-filters), puede utilizar el filtrado de temas que sigue el estándar [de filtros de registro JSON-PRC encontrados aquí](https://docs.ethers.io/v5/concepts/events/). Tenga en cuenta que SubQuery introduce filtros más avanzados que otros indexadores para Moonbeam EVM y estas mejoras deberían beneficiar significativamente a los desarrolladores.
 
 ![](https://miro.medium.com/max/700/1*4JRHItnILfCie4FT6sYLEA.png)
 
@@ -58,12 +58,12 @@ Si tienes alguna pregunta sobre esto, asegúrate de [consultar nuestros document
 
 Como pueden ver, crear un proyecto Moonriver o Moonbase Alpha que indexe los datos de Substrate y EVM en un solo proyecto es extremadamente simple y en gran medida similar. Puedes utilizar las herramientas avanzadas de andamiaje de SubQuery para acelerar el desarrollo de tu dApp y aprovechar o mejorar la indexación para tus datos para construir dApps más intuitivas. ¡No podemos esperar a ver lo que construyes!
 
-## About SubQuery
+## Sobre SubQuery
 
 SubQuery es una capa de agregación de datos que opera entre las blockchains de la capa 1 (Moonriver y Polkadot) y DApps. Este servicio desbloquea los datos de la cadena de bloques y los transforma a un estado consultable para que pueda ser usado en aplicaciones intuitiva. Permite a los desarrolladores de DApp centrarse en su caso principal de uso y en el front-end, sin necesidad de perder el tiempo en la construcción de un backend personalizado para el procesamiento de datos.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Github](https://github.com/subquery/subql) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
 
-## About Moonbeam
+## Acerca de Moonbeam
 
 Moonbeam es una plataforma de contratos inteligentes compatible con Ethereum en la red Polkadot que facilita la construcción de aplicaciones nativamente interoperables. Esta compatibilidad con Ethereum permite a los desarrolladores implementar contratos inteligentes de Solidity existentes y frontends de DApp a Moonbeam con cambios mínimos. Como un parachain en la red Polkadot, Moonbeam se beneficiará de la seguridad compartida de la cadena principal de Polkadot e integraciones con otras cadenas conectadas a Polkadot. Actualmente en desarrollo activo por PureStake, se espera que Moonbeam llegue a MainNet para el Q4 2021. Más información: [https://moonbeam.network/](https://moonbeam.network/).
