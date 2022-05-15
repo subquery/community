@@ -8,11 +8,11 @@ SubQuery เป็น data indexer แบบเปิดที่มีควา
 
 สิ่งนี้ยังอยู่ในเวอร์ชันแรกๆ และในขณะที่เราพิจารณาที่จะไปไกลกว่าคำว่า "Beta" เราจะขอบคุณมากหากสามารถรายงานจุดบกพร่องใดๆ ไปยังทีมของเรา เพื่อให้เราสามารถจัดการกับปัญหาได้อย่างรวดเร็ว
 
-<iframe width="656" height="369" src="https://www.youtube.com/embed/dS7h3isQCeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="656" height="369" src="https://www.youtube.com/embed/dS7h3isQCeA" title="วิดีโอ YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## ทำไมต้องใช้ SubQuery
 
-แอปพลิเคชันต่างๆเติบโตขึ้นมากในระบบนิเวศของ Terra แม้ว่าจะมีการขาดแคลนเครื่องมือสำหรับนักพัฒนาและบริการโครงสร้างพื้นฐานที่สำคัญอยู่บ้าง เป็นเรื่องที่น่าอัศจรรย์ที่ได้เห็นสิ่งเหล่านั้น จะเป็นเครื่องพิสูจน์ถึงแรงผลักดันและความเฉลียวฉลาดของเหล่า Lunatics ใน Terra บ่อยครั้งในกรณีส่วนใหญ่ที่เราถามทีมงานว่าพวกเขาแก้ไขความต้องการในการ data indexing อย่างไร
+แอปพลิเคชันต่างๆเติบโตขึ้นมากในระบบนิเวศของ Terra แม้ว่าจะมีการขาดแคลนเครื่องมือสำหรับนักพัฒนาและบริการโครงสร้างพื้นฐานที่สำคัญอยู่บ้าง เป็นเรื่องที่น่าอัศจรรย์ที่ได้เห็นสิ่งเหล่านั้น จะเป็นเครื่องพิสูจน์ถึงแรงผลักดันและความเฉลียวฉลาดของเหล่า Lunatics ใน Terra บ่อยครั้งในกรณีส่วนใหญ่ที่เราถามทีมงานว่าพวกเขาแก้ไขความต้องการในการ data indexing อย่างไร ซึ่งนั้นก็คือ
 
 - สร้างโซลูชั่นของตัวเอง การใช้งานแบบกำหนดเอง ที่สามารถดำเนินการได้เองโดยสร้างขึ้นมาสำหรับแอปของคุณโดยเฉพาะ แต่ทำไมต้องหาอย่างอื่นใหม่ละ? SubQuery มุ่งเน้นไปที่การสร้างindexerแบบเปิดที่เชื่อถือได้และรวดเร็ว - พวกเราพร้อมช่วยให้คุณประหยัดเวลา
 - **ออกแบบ smart contracts สำหรับการ queries ** บางทีมยังใช้นิสัยแปลก ๆ ที่กำหนดเองใน smart contracts ของพวกเขาเพื่อให้สามารถสืบค้นขั้นสูงเพิ่มเติมโดยเฉพาะกับ ตรรกะของแอปพลิเคชันของพวกเขาเอง
@@ -21,7 +21,7 @@ SubQuery เป็น data indexer แบบเปิดที่มีควา
 
 ความน่าเชื่อถือเป็นกุญแจสำคัญ และคุณจำเป็นต้องการแพลตฟอร์มที่เชื่อถือได้และสามารถปรับขนาดได้เพื่อเชื่อมต่อมัน [SubQuery's managed service](https://subquery.network/managedservices) เป็นโซลูชันชั้นนำของอุตสาหกรรมสำหรับเชื่อมต่อลูกค้าทุกรายที่ให้บริการคำขอหลายร้อยล้านรายการต่อวันสำหรับโครงการที่ใหญ่ที่สุดใน Polkadot เราให้บริการแก่[ลูกค้าระดับองค์กร](./20211228-enterprise-hosted.md)เช่น ฐานข้อมูลเฉพาะ clustersที่ซ้ำซ้อน การกำหนดเส้นทางหลายclustersแบบอัจฉริยะ และการตรวจสอบและวิเคราะห์ขั้นสูง มันจะสนับสนุนการสมัครของคุณเมื่อคุณพร้อมและจะปรับขนาดไปพร้อมกับคุณ
 
-และสุดท้าย ในอีกไม่กี่เดือน คุณจะสามารถกระจายโครงสร้างพื้นฐาน SubQuery ของคุณได้อย่างสมบูรณ์ด้วย SubQuery Network ซึ่งเป็นอนาคตของโครงสร้างพื้นฐานของโลก Web3 The SubQuery Network จะจัดทำดัชนีและให้บริการข้อมูลโครงการของคุณแก่ชุมชนทั่วโลกด้วยวิธีการจูงใจและตรวจสอบได้ ซึ่งได้รับการออกแบบมาเพื่อรองรับโปรเจ็กต์ SubQuery จากเครือข่ายในเลเยอร์ 1 ต่างๆ รวมถึง Terra ดังนั้นคุณจึงสามารถใช้ประโยชน์จากขนาดของเครือข่าย SubQuery เพียงหนึ่งเดียวได้ตั้งแต่เปิดตัว
+และสุดท้าย ในอีกไม่กี่เดือน คุณจะสามารถกระจายโครงสร้างพื้นฐาน SubQuery ของคุณได้อย่างสมบูรณ์ด้วย SubQuery Network ซึ่งเป็นอนาคตของโครงสร้างพื้นฐานของโลก Web3 SubQuery Network จะจัดทำดัชนีและให้บริการข้อมูลโครงการของคุณแก่ชุมชนทั่วโลกด้วยวิธีการจูงใจและตรวจสอบได้ ซึ่งได้รับการออกแบบมาเพื่อรองรับโปรเจ็กต์ SubQuery จากเครือข่ายในเลเยอร์ 1 ต่างๆ รวมถึง Terra ดังนั้นคุณจึงสามารถใช้ประโยชน์จากขนาดของเครือข่าย SubQuery เพียงหนึ่งเดียวได้ตั้งแต่เปิดตัว
 
 ## คำแนะนำในการติดตั้ง
 
@@ -29,14 +29,14 @@ SubQuery เป็น data indexer แบบเปิดที่มีควา
 
 วิธีที่ดีที่สุดคือการเริ่มต้นด้วย [โครงการเริ่มต้นของเรา](https://github.com/subquery/terra-subql-starter) ซึ่งมีโครงการที่กำลังทำงานอยู่พร้อมตัวอย่างของฟังก์ชันการทำแผนที่ทั้งหมด: ดังต่อไปนี้
 
-- **BlockHandler:** All blocks and their hash and height
-- **TransactionHandler:** All transactions and their hash, height, and timestamp
-- **EventHandler:** All smart contract transfer events and their hash, height, sender, recipient, and amount from a filtered smart contract address (bLuna)
-- **MessageHandler:** All smart contract messages and their hash, height, contract, sender, and execute_msg data from a filtered smart contract address (bLuna)
+- **BlockHandler:** บล็อคทั้งหมดและแฮชและความสูง
+- **TransactionHandler:** ธุรกรรมทั้งหมดและแฮช ความสูง และการประทับเวลา
+- **EventHandler:** การโอนสัญญาอัจฉริยะทั้งหมดและแฮช ความสูง ผู้ส่ง ผู้รับ และจำนวนเงินจาก smart contract ที่กรอง (bLuna)
+- **MessageHandler:**ข้อความ smart contract ทั้งหมดและข้อมูลแฮช ความสูง สัญญา ผู้ส่ง และ ข้อมูล execute_msg จาก smart contract ที่กรอง (bLuna)
 
 SubQuery รองรับการทำ indexing ของ Terra smart contracts ด้วยการสมัครรับข้อมูลและตัวจัดการธุรกรรมและข้อความ คุณสามารถดูตัวอย่างการทำงานของการสนับสนุน Smart Contract ได้ใน[โครงการเริ่มต้น](https://github.com/subquery/terra-subql-starter)และอ่านเอกสารได้ใน [SubQuery University](http://localhost:8080/build/manifest.html#mapping-handlers-and-filters)
 
-การใช้งาน Terra ของ SubQuery ได้รับการออกแบบให้ทำงานเกือบจะเหมือนกับการสนับสนุน Polkadot ของ SubQuery และในลักษณะเดียวกันกับแนวทางของ Graph's เราได้อัปเดต [SubQuery University](https://university.subquery.network/) เพื่อเพิ่มข้อมูลเฉพาะของ Terra ลงในเอกสารประกอบทั่วไปของ SubQuery  คุณสามารถเริ่มต้นด้วยการปฏิบัติตาม[คู่มือการเริ่มต้นใช้งานที่ยอดเยี่ยมนี้ได้ที่นี่](http://university.subquery.network/quickstart/quickstart-terra.html)
+การใช้งาน Terra ของ SubQuery ได้รับการออกแบบให้ทำงานเกือบจะเหมือนกับการสนับสนุน Polkadot ของ SubQuery และในลักษณะเดียวกันกับแนวทางของ Graph เราได้อัปเดต [SubQuery University](https://university.subquery.network/) เพื่อเพิ่มข้อมูลเฉพาะของ Terra ลงในเอกสารประกอบทั่วไปของ SubQuery  คุณสามารถเริ่มต้นด้วยการปฏิบัติตาม[คู่มือการเริ่มต้นใช้งานที่ยอดเยี่ยมนี้ได้ที่นี่](http://university.subquery.network/quickstart/quickstart-terra.html)
 
 ## การปรับใช้โปรเจ็กต์ของคุณกับบริการ SubQuery's Managed Service
 
@@ -44,25 +44,25 @@ SubQuery รองรับการทำ indexing ของ Terra smart contra
 
 คุณสามารถทำตาม[คำแนะนำ](https://university.subquery.network/run_publish/publish.html)ที่นี่เพื่อเผยแพร่โครงการ Terra SubQuery ไปยังบริการที่มีการจัดการของเรา โปรดทราบว่าคุณต้อง host โครงการ [SubQuery ของคุณโดยใช้ IPFS ](https://university.subquery.network/run_publish/publish.html)แทน GitHub
 
-คุณสามารถอัปเดตโครงการบริการที่มีการจัดการของคุณได้มากเท่าที่คุณต้องการ We even have a [staging deployment slot](./20210604-Deployment-Slots-are-here-for-SubQuery-Projects.md) to allow you to do seamless blue/green upgrades without any downtime. สล็อตการจัดเตรียมนี้ยังสามารถใช้เพื่อเรียกใช้อินสแตนซ์ย่อยของ SubQuery ด้วยฐานข้อมูลใหม่สำหรับการจัดทำดัชนีพื้นหลังโดยสมบูรณ์ของโปรเจ็กต์ของคุณ โดยปกติ ลูกค้าจะเชื่อมโยงสล็อตการจัดเตรียมกับเวอร์ชันการจัดเตรียม/การพัฒนาของแอปพลิเคชันของตน
+คุณสามารถอัปเดตโครงการบริการที่มีการจัดการของคุณได้มากเท่าที่คุณต้องการ เรายังมี[ช่องการปรับใช้การจัดเตรียม](./20210604-Deployment-Slots-are-here-for-SubQuery-Projects.md)เพื่อให้คุณอัปเกรด blue/green ได้อย่างราบรื่นโดยไม่ต้องหยุดทำงาน สล็อตการจัดเตรียมนี้ยังสามารถใช้เพื่อเรียกใช้อินสแตนซ์ย่อยของ SubQuery ด้วยฐานข้อมูลใหม่สำหรับการจัดทำดัชนีพื้นหลังโดยสมบูรณ์ของโปรเจ็กต์ของคุณ โดยปกติ ลูกค้าจะเชื่อมโยงสล็อตการจัดเตรียมกับเวอร์ชันการจัดเตรียม/การพัฒนาของแอปพลิเคชันของตน
 
-เมื่อปรับใช้แล้ว คุณจะสามารถเข้าถึงโปรเจ็กต์ของคุณโดยใช้ SubQuery Explorer และทำการร้องขอโดยตรงจากแอปของคุณไปยัง GraphQL endpoint ที่ให้มา Let us know if you would like us to enable more advanced features like [GraphQL subscriptions](https://university.subquery.network/run_publish/subscription.html), more complex queries, and [aggregation functions](https://university.subquery.network/run_publish/aggregate.html).
+เมื่อปรับใช้แล้ว คุณจะสามารถเข้าถึงโปรเจ็กต์ของคุณโดยใช้ SubQuery Explorer และทำการร้องขอโดยตรงจากแอปของคุณไปยัง GraphQL endpoint ที่ให้มา คุณสามารถแจ้งให้เราทราบได้ หากคุณต้องการให้เราเปิดใช้งานคุณลักษณะขั้นสูงเพิ่มเติม เช่น [การสมัคร GraphQL](https://university.subquery.network/run_publish/subscription.html) การสืบค้นที่ซับซ้อนยิ่งขึ้น และ[ฟังก์ชันการรวม](https://university.subquery.network/run_publish/aggregate.html)
 
 โปรดแจ้งให้เราทราบเมื่อคุณปรับใช้โปรเจ็กต์ของคุณแล้ว เนื่องจากเราอาจจำเป็นต้องช่วยปรับขนาดแบตช์อย่างละเอียดเพื่อให้แน่ใจว่าโหนดเก็บถาวร Terra ของเราทำงานได้ดีสำหรับโปรเจ็กต์ของคุณ
 
-## SubQuery's Support for Terra
+## การสนับสนุนของ SubQuery ต่อ Terra
 
 วันนี้เราจะมาแบ่งปันสิ่งต่อไปนี้
 
--   Advanced indexing of blocks, event
--   Terra Dictionary: Pre-computed indices to [dramatically reduce indexing time](./20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md)
--   Full support for Terra in our free [enterprise level](./20211228-enterprise-hosted.md) managed service
--   Intuitive documentation in the [SubQuery University](https://university.subquery.network/)
+-   การ Index ขั้นสูงของบล็อกเเละเหตุการณ์
+-   Terra Dictionary: คำนวณดัชนีล่วงหน้าเพื่อ [ลดเวลาการ index อย่างมาก](./20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md)
+-   รองรับ Terra อย่างเต็มที่ในบริการที่มีการจัดการ [ระดับองค์กร](./20211228-enterprise-hosted.md) ของเรา ฟรี
+-   เอกสารประกอบที่ใช้งานง่ายใน [SubQuery University](https://university.subquery.network/)
 
-In the coming weeks you can expect:
+ในอีกไม่กี่สัปดาห์ข้างหน้า คุณจะพบกับ:
 
--   A step by step learning course in the [SubQuery Academy](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html)
--   Full support for Terra in our decentralised SubQuery Network (you'll soon see a project in our current Frontier test network)
+-   หลักสูตรการเรียนรู้ทีละขั้นตอนใน [SubQuery Academy](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html)
+-   รองรับ Terra อย่างสมบูรณ์ในเครือข่าย SubQuery ที่กระจายอำนาจของเรา (คุณจะเห็นโครงการในเครือข่ายทดสอบ Frontier ในปัจจุบันของเราในเร็วๆ นี้)
 
 ---
 
@@ -70,16 +70,16 @@ In the coming weeks you can expect:
 
 James Bayly
 
-## Links
+## ลิงก์
 
--   [Getting Started Guide](https://university.subquery.network/quickstart/quickstart-terra.html)
--   [SubQuery University (Documentation)](https://university.subquery.network/)
--   [Example Terra Project](https://github.com/subquery/terra-subql-starter)
--   [Managed Service](https://explorer.subquery.network/)
--   [Publish your own Terra Project to the Managed Service](https://project.subquery.network/)
+-   [คู่มือเริ่มต้นใช้งาน](https://university.subquery.network/quickstart/quickstart-terra.html)
+-   [SubQuery University (เอกสาร)](https://university.subquery.network/)
+-   [ตัวอย่างโปรเจกต์ของ Terra](https://github.com/subquery/terra-subql-starter)
+-   [จัดการบริการ](https://explorer.subquery.network/)
+-   [เผยแพร่โปรเจกต์ Terra ของคุณเองไปยังตัวจัดการบริการ](https://project.subquery.network/)
 
-## About SubQuery
+## เกี่ยวกับ SubQuery
 
-[SubQuery](https://subquery.network/) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot, Substrate, Avalanche, and now Terra projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+[SubQuery](https://subquery.network/)เป็นชุดเครื่องมือสำหรับนักพัฒนาบล็อกเชนที่ช่วยในการสร้างแอปพลิเคชัน Web3 แห่งอนาคต โปรเจ็กต์ SubQuery เป็น API ที่สมบูรณ์ในการจัดระเบียบและสืบค้นข้อมูลจากเชน layer-1 ปัจจุบันให้บริการอยู่บน Polkadot, Substrate, Avalanche, และ Terra โดยการบริการด้านข้อมูลนี้ช่วยให้นักพัฒนาสามารถมุ่งเน้นไปที่กรณีการใช้งานหลักและฟร้อนท์เอ็นโดยไม่ต้องเสียเวลาไปกับการสร้างแบ็คเอนท์สำหรับการประมวลผลข้อมูลขึ้นมาเอง SubQuery Network นำเสนอการใช้งานโซลูชันที่สามารถปรับขนาดได้และน่าเชื่อถือแบบเดียวกันนี้ แต่ในรูปแบบที่มีการกระจายอำนาจอย่างสมบูรณ์
 
-​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
