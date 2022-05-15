@@ -1,31 +1,31 @@
-# SubQuery Extends Partnership with OneBlock+ To Promote Blockchain Education in China
+# SubQuery erweitert Partnerschaft mit OneBlock+ zur Förderung der Blockchain-Bildung in China
 
 ![](https://miro.medium.com/max/1400/0*vr-DzLokDkkiY4ss)
 
-Today we are excited to announce the continuation of our partnership with OneBlock+ to run a second round of the ["Hero Course"](https://doc.subquery.network/academy/herocourse/) in China starting in early April.
+Wir freuen uns, heute die Fortsetzung unserer Partnerschaft mit OneBlock+ ankündigen zu können, um Anfang April eine zweite Runde des ["Hero-Course"](https://doc.subquery.network/academy/herocourse/) in China durchzuführen.
 
-SubQuery's mission of making the world's decentralised data more accessible relies on having a network of developers who are familiar with the solution. OneBlock+ are a recognised leader in blockchain education in China and helped us run a tailored version of our existing course renamed "SubQuery for Beginners --- To Learn Blockchain Data Indexing in an Easy Way."
+Die Mission von SubQuery, die dezentralisierten Daten der Welt zugänglicher zu machen, beruht auf einem Netzwerk von Entwicklern, die mit der Lösung vertraut sind. OneBlock+ ist ein anerkannter Marktführer in der Blockchain-Ausbildung in China und hat uns geholfen, eine maßgeschneiderte Version unseres bestehenden Kurses mit dem Namen „SubQuery for Beginners --- To Learn Blockchain Data Indexing in an Easy Way“ durchzuführen.
 
-The course took in 90 students who participated in six lessons running from 10th January until the graduation ceremony on 28 February. The first batch of students learnt via WeChat and live Technical Workshops as part of their regular Substrate Saturday programme. OneBlock+ also provided additional learning support to students via weekly "Office Hours" on Tencent's Conference platform.
+Der Kurs umfasste 90 Studenten, die vom 10. Januar bis zur Abschlussfeier am 28. Februar an sechs Unterrichtsstunden teilnahmen. Die erste Gruppe von Studenten lernte über WeChat und Live-Technik-Workshops als Teil ihres regulären Substrate-Samstagsprogramms. OneBlock+ bot den Schülern auch zusätzliche Lernunterstützung über wöchentliche „Bürozeiten“ auf der Konferenzplattform von Tencent.
 
-> _"Thanks to OneBlock+ and SubQuery for creating such a great course. The curriculum is good and I was able to master the use of SubQuery by completing the course. I found it was difficult and complex for data indexing during the development of a project. When I was looking for solutions, I coincidentally got into the course. I felt that the SubQuery's framework was clear and easy to use, and my team and I had started developing with SubQuery since then which had greatly reduced our workload. SubQuery will be an important tool in our subsequent projects."_ - Peng, Student Representative
+> _"Danke an OneBlock+ und SubQuery für die Erstellung eines so großartigen Kurses. Der Lehrplan ist gut und ich konnte die Verwendung von SubQuery durch Abschluss des Kurses beherrschen. Ich fand die Datenindizierung während der Entwicklung eines Projekts schwierig und komplex. Als ich nach Lösungen suchte, kam ich zufällig in den Kurs. Ich hatte das Gefühl, dass das Framework von SubQuery klar und einfach zu verwenden war, und mein Team und ich hatten seitdem mit der Entwicklung mit SubQuery begonnen, was unsere Arbeitsbelastung erheblich reduziert hatte. SubQuery wird ein wichtiges Werkzeug in unseren Folgeprojekten sein."_ – Peng, Studentenvertreter
 
-One Block+ developed the world's first substrate developers course with engineers from Parity Asia and are recognised as leaders in blockchain education within China and around the world.
+One Block+ hat den weltweit ersten Kurs für Substratentwickler mit Ingenieuren von Parity Asia entwickelt und gilt als führend in der Blockchain-Ausbildung in China und auf der ganzen Welt.
 
-> _"SubQuery is excited to continue our partnership with OneBlock+ and their passionate group of Chinese Substrate developers. We have already received feedback that the first group of students are already using SubQuery on their own projects to make their development easier. We look forward to collaborating with the future students as they leverage on OneBlock+ and SubQuery to build the next generation of dApps"_ - Sam Zou, Founder and CEO of SubQuery
+> _"SubQuery freut sich, unsere Partnerschaft mit OneBlock+ und ihrer leidenschaftlichen Gruppe chinesischer Substratentwickler fortzusetzen. Wir haben bereits Rückmeldungen erhalten, dass die erste Gruppe von Studenten SubQuery bereits in ihren eigenen Projekten verwendet, um ihre Entwicklung zu erleichtern. Wir freuen uns auf die Zusammenarbeit mit den zukünftigen Studenten, die OneBlock+ und SubQuery nutzen, um die nächste Generation von dApps zu entwickeln.“_ – Sam Zou, Gründer und CEO von SubQuery
 
-More information on the upcoming dates will be published in [SubQuery's Discord channel](https://discord.com/invite/78zg8aBSMG).
+Weitere Informationen zu den bevorstehenden Terminen werden im [Discord-Kanal von SubQuery](https://discord.com/invite/78zg8aBSMG) veröffentlicht.
 
-In the meantime, SubQuery will be participating in the [upcoming Gitcoin GR13 Hackathon and invites developers to participate](https://gitcoin.co/hackathon/gr13/onboard) in the bounties here [or via bounties directly running in the SubQuery Grants Programme](https://subquery.network/grants).
+In der Zwischenzeit nimmt SubQuery am [bevorstehenden Gitcoin GR13 Hackathon teil und lädt Entwickler ein,](https://gitcoin.co/hackathon/gr13/onboard) an den Prämien hier [oder über Prämien teilzunehmen, die direkt im SubQuery Grants Program laufen](https://subquery.network/grants).
 
-## About OneBlock+
+## Über OneBlock+
 
-OneBlock+ is the first and the largest blockchain developer community in China. At OneBlock+, we provide full support for developers with their substrate studies and further setoff their career paths; we host Polkadot Hackathons every season to attract top notch developers to build and innovate for the prosperity of the ecosystem. As a greater China technology resource integrator, OneBlock+ also partner with developers, communities, business elites, and key media who have business insights and experiences in the blockchain industry to provide business like technology courses, news distributions, AMA, and offline events for the industry. Want to shape the crypto world together? Come and join us today!
+OneBlock+ ist die erste und größte Blockchain-Entwickler-Community in China. Bei OneBlock+ bieten wir Entwicklern volle Unterstützung bei ihren Substratstudien und bringen ihre Karrierewege weiter voran; Wir veranstalten jede Saison Polkadot-Hackathons, um erstklassige Entwickler anzuziehen, um für den Wohlstand des Ökosystems zu bauen und zu innovieren. Als größerer Integrator von Technologieressourcen in China arbeitet OneBlock+ auch mit Entwicklern, Communities, Geschäftselite und wichtigen Medien zusammen, die über geschäftliche Einblicke und Erfahrungen in der Blockchain-Branche verfügen, um Geschäfte wie Technologiekurse, Nachrichtenverbreitung, AMA und Offline-Veranstaltungen für die Branche anzubieten . Willst du gemeinsam die Kryptowelt gestalten? Kommen Sie noch heute zu uns!
 
 | [Twitter](https://mobile.twitter.com/oneblock_) | [Medium](https://medium.com/@OneBlockplus?p=5a6193755f9b) | [Discord](https://discord.gg/5aWx6Rch) | [Telegram](https://t.me/oneblock_dev) |
 
-## About SubQuery
+## Über SubQuery
 
-[SubQuery](https://subquery.network) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. The protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+[SubQuery](https://subquery.network) ist eine dezentralisierte Datenaggregation, Indexierung & Abfrageebene zwischen Layer-1-Blockchains und dezentralen Anwendungen. Das Protokoll abstrahiert Blockchain-Daten-Eigenheiten mit dem SubQuery SDK, sodass sich Entwickler auf die Bereitstellung ihres Kernprodukts konzentrieren können, ohne unnötige Anstrengungen für benutzerdefinierte Backend-Technologien zu verschwenden.
 
-​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+​​[Linktree](https://linktr.ee/subquerynetwork) | [Webseite](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
