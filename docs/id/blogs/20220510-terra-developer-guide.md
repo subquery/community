@@ -1,85 +1,85 @@
-# The SubQuery Terra Onboarding Guide
+# Panduan Orientasi SubQuery Terra
 
 ![](https://miro.medium.com/max/1400/1*DiTE9KuzH0xHLojzGWxOuw.png)
 
-For quite some time we have been developing and refining Terra support behind the scenes and testing it with key development launch partners (keep an eye out for announcements in the coming days). This prolonged period has allowed us to be extremely confident in the scalability, reliability, and features that SubQuery today brings to Terra. In this article we share a detailed developer guide and roadmap for all of the Terra community to use to solve their data indexing needs.
+Selama beberapa waktu kami telah mengembangkan dan menyempurnakan dukungan Terra di belakang layar dan mengujinya dengan mitra peluncuran pengembangan utama (perhatikan pengumuman dalam beberapa hari mendatang). Periode yang berkepanjangan ini memungkinkan kami untuk menjadi sangat percaya diri dalam skalabilitas, keandalan, dan fitur yang dibawa SubQuery hari ini ke Terra. Dalam artikel ini kami membagikan panduan pengembang dan peta jalan terperinci untuk semua komunitas Terra yang digunakan untuk menyelesaikan kebutuhan pengindeksan data mereka.
 
-SubQuery is an open data indexer that is flexible and fast. Our open indexing tool is designed to help developers build their own API in hours, and it's designed to index chains incredibly quickly with the assistance of dictionaries (pre-computed indices). Our experience with customers across all verticals in Polkadot (wallets, networks, explorers, NFT, DeFi, scanners, etc) has helped us build this.
+SubQuery adalah pengindeks data terbuka yang fleksibel dan cepat. Alat pengindeksan terbuka kami dirancang untuk membantu pengembang membangun API mereka sendiri dalam hitungan jam, dan dirancang untuk mengindeks rantai dengan sangat cepat dengan bantuan kamus (indeks yang telah dihitung sebelumnya). Pengalaman kami dengan pelanggan di semua vertikal di Polkadot (wallet, jaringan, penjelajah, NFT, DeFi, pemindai, dll) telah membantu kami membangun ini.
 
-This is still in its early versions, and while we consider far beyond a "beta", we would appreciate it if any bugs can be reported to our team so we can address them quickly.
+Ini masih dalam versi awal, dan sementara kami menganggap jauh melampaui "beta", kami akan sangat menghargai jika ada bug yang dapat dilaporkan ke tim kami sehingga kami dapat mengatasinya dengan cepat.
 
 <iframe width="656" height="369" src="https://www.youtube.com/embed/dS7h3isQCeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Why Use SubQuery?
+## Mengapa Menggunakan SubQuery?
 
-The application ecosystem has thrived in Terra even though there is a serious lack of some key developer tools and infrastructure services. It's amazing to see, and a testament to the drive and ingenuity of the Lunatics in Terra. I most cases when we asked teams how they solved their data indexing needs, it was:
+Ekosistem aplikasi telah berkembang pesat di Terra meskipun ada kekurangan yang serius dari beberapa alat pengembang utama dan layanan infrastruktur. Sungguh menakjubkan untuk dilihat, dan merupakan bukti dorongan dan kecerdikan orang-orang di Terra. Saya kebanyakan kasus ketika kami bertanya kepada tim bagaimana mereka memecahkan kebutuhan pengindeksan data mereka, itu adalah:
 
-- **Build your own solution:** A custom implementation running by yourself built specifically for your app. But why reinvent the wheel? SubQuery is focusing on building a reliable and fast open indexer - we're here to save you time
-- **Designing smart contracts for queries:** Some teams were even implementing custom quirks in their smart contracts to specifically allow for more advanced queries specific to their application logic.
+- **Buat solusi Anda sendiri:** Penerapan kustom yang berjalan sendiri yang dibuat khusus untuk aplikasi Anda. Tapi mengapa menemukan kembali roda? SubQuery berfokus pada pembuatan pengindeks terbuka yang andal dan cepat - kami di sini untuk menghemat waktu Anda
+- **Merancang smart contract untuk kueri:** Beberapa tim bahkan menerapkan kebiasaan khusus dalam kontrak cerdas mereka untuk secara khusus memungkinkan kueri lanjutan khusus untuk logika aplikasi mereka.
 
-At SubQuery we have an open-source SDK that is easy to use and lightning quick. It provides you with a standard GraphQL endpoint, or you can just query the postgres database directly. With it you can index a unique set of data from your own smart contracts that allows you to build a superior product that blows your competition out of the water! We give you flexibility to get the data that you need in the shape that works best for you.
+Di SubQuery, kami memiliki SDK sumber terbuka yang mudah digunakan dan secepat kilat. Ini memberi Anda titik akhir GraphQL standar, atau Anda bisa langsung menanyakan database postgres. Dengannya, Anda dapat mengindeks kumpulan data unik dari smart contract Anda sendiri yang memungkinkan Anda membangun produk unggulan yang mengalahkan pesaing Anda! Kami memberi Anda fleksibilitas untuk mendapatkan data yang Anda butuhkan dalam bentuk yang paling sesuai untuk Anda.
 
-Reliability is key, and you need a reliable and scalable platform to host it. [SubQuery's managed service](https://subquery.network/managedservices) is an industry leading hosting solution for all customers that is serving hundreds of millions of daily requests to the biggest projects in Polkadot. We provide our [enterprise level customers](./20211228-enterprise-hosted.md) with services such as dedicated databases, redundant clusters, intelligent multi-cluster routing, and advanced monitoring and analytics. It will support your application when you are ready and will scale with you.
+Keandalan adalah kuncinya, dan Anda memerlukan platform yang andal dan skalabel untuk menampungnya. [Layanan terkelola SubQuery](https://subquery.network/managedservices) adalah solusi hosting terdepan di industri untuk semua pelanggan yang melayani ratusan juta permintaan harian ke proyek terbesar di Polkadot. Kami menyediakan [pelanggan tingkat perusahaan](./20211228-enterprise-hosted.md) layanan seperti database khusus, cluster redundan, perutean multi-cluster yang cerdas, serta pemantauan dan analitik lanjutan. Ini akan mendukung aplikasi Anda saat Anda siap dan akan menskalakan bersama Anda.
 
-And finally, in a few months you'll be able to completely decentralise your SubQuery infrastructure with the SubQuery Network, the future of Web3 infrastructure. The SubQuery Network will index and service your projects data to the global community in an incentivised and verifiable way. It is designed to support any SubQuery project from any layer-1 network including Terra, so you can take advantage of the scale of the unified SubQuery Network from launch.
+Dan terakhir, dalam beberapa bulan Anda akan dapat mendesentralisasikan infrastruktur SubQuery Anda sepenuhnya dengan Jaringan SubQuery, infrastruktur Web3 masa depan. Jaringan SubQuery akan mengindeks dan melayani data proyek Anda ke komunitas global dengan cara yang berinsentif dan dapat diverifikasi. Ini dirancang untuk mendukung proyek SubQuery apa pun dari jaringan layer-1 mana pun termasuk Terra, sehingga Anda dapat memanfaatkan skala Jaringan SubQuery terpadu sejak peluncuran.
 
-## Installation Instructions
+## Instruksi instalasi
 
-You'll first need to install a recent version of @subql/cli via npm i -g @subql/cli@latest
+Pertama-tama Anda harus menginstal @subql/cli versi terbaru melalui npm i -g @subql/cli@latest
 
-The best way is to start with [our starter project](https://github.com/subquery/terra-subql-starter), it contains a running project with an example of all mapping functions: This project indexes the following:
+Cara terbaik adalah memulai dengan [proyek awal kami](https://github.com/subquery/terra-subql-starter), yang berisi proyek yang sedang berjalan dengan contoh semua fungsi pemetaan: Proyek ini mengindeks yang berikut:
 
-- **BlockHandler:** All blocks and their hash and height
-- **TransactionHandler:** All transactions and their hash, height, and timestamp
-- **EventHandler:** All smart contract transfer events and their hash, height, sender, recipient, and amount from a filtered smart contract address (bLuna)
-- **MessageHandler:** All smart contract messages and their hash, height, contract, sender, and execute_msg data from a filtered smart contract address (bLuna)
+- **BlockHandler:** Semua blok beserta hash dan tingginya
+- **TransactionHandler:** Semua transaksi dan hash, tinggi, dan stempel waktunya
+- **EventHandler:** Semua peristiwa transfer kontrak pintar dan hash, tinggi, pengirim, penerima, dan jumlahnya dari alamat kontrak pintar yang difilter (bLuna)
+- **MessageHandler:** Semua pesan kontrak cerdas dan hash, tinggi, kontrak, pengirim, dan data execution_msg dari alamat kontrak cerdas yang difilter (bLuna)
 
-SubQuery supports indexing Terra's smart contracts with both transaction and message subscriptions and handlers. You can see a working example of Smart Contract support in the [starter project](https://github.com/subquery/terra-subql-starter) and read the documentation on the [SubQuery University](http://localhost:8080/build/manifest.html#mapping-handlers-and-filters).
+SubQuery mendukung pengindeksan smart contract Terra dengan langganan dan penangan transaksi dan pesan. Anda dapat melihat contoh kerja dukungan smart contract di [proyek pemula](https://github.com/subquery/terra-subql-starter) dan membaca dokumentasi di [Universitas SubQuery](http://localhost:8080/build/manifest.html#mapping-handlers-and-filters).
 
-SubQuery's Terra implementation has been designed to operate almost identically to SubQuery's Polkadot support, and in a similar way to the Graph's approach. We've updated the [SubQuery University](https://university.subquery.network/) to add Terra specific information to the general SubQuery documentation. You can start by following this [excellent getting started guide here](http://university.subquery.network/quickstart/quickstart-terra.html).
+Implementasi Terra SubQuery telah dirancang untuk beroperasi hampir identik dengan dukungan Polkadot SubQuery, dan dengan cara yang mirip dengan pendekatan Graph. Kami telah memperbarui [Universitas SubQuery](https://university.subquery.network/) untuk menambahkan informasi khusus Terra ke dokumentasi SubQuery umum. Anda dapat memulai dengan mengikuti [panduan memulai yang sangat baik di sini](http://university.subquery.network/quickstart/quickstart-terra.html).
 
-## Deploying your Project to SubQuery's Managed Service
+## Menerapkan Proyek Anda ke Layanan Terkelola SubQuery
 
-Although you will always be able to run your project in your own infrastructure easily, [SubQuery's managed service](https://subquery.network/managedservices) now supports Terra project. Some of the biggest projects depend on SubQuery's [enterprise level](./20211228-enterprise-hosted.md) managed service and now you can too. As part of our launch partner agreement, we are providing you with 3 months free hosting.
+Meskipun Anda selalu dapat menjalankan project di infrastruktur Anda sendiri dengan mudah, [layanan terkelola SubQuery](https://subquery.network/managedservices) kini mendukung project Terra. Beberapa proyek terbesar bergantung pada layanan terkelola [tingkat perusahaan](./20211228-enterprise-hosted.md) SubQuery dan sekarang Anda juga bisa melakukannya. Sebagai bagian dari perjanjian mitra peluncuran kami, kami memberi Anda hosting gratis selama 3 bulan.
 
-You can [follow the guide here](https://university.subquery.network/run_publish/publish.html) to publish your Terra SubQuery project to our managed service. Please note that you must host your [SubQuery project using IPFS](https://university.subquery.network/run_publish/publish.html) rather than GitHub.
+Anda dapat [mengikuti panduan di sini](https://university.subquery.network/run_publish/publish.html) untuk memublikasikan proyek Terra SubQuery Anda ke layanan terkelola kami. Perhatikan bahwa Anda harus menghosting [proyek SubQuery menggunakan IPFS](https://university.subquery.network/run_publish/publish.html) bukan GitHub.
 
-You can update your managed service project as much as you want. We even have a [staging deployment slot](./20210604-Deployment-Slots-are-here-for-SubQuery-Projects.md) to allow you to do seamless blue/green upgrades without any downtime. This staging slot can also be used to run a clean instance of SubQuery with a fresh database for complete background reindexing of your project. Customers usually link the staging slot to the staging/development versions of their applications.
+Anda dapat memperbarui proyek layanan terkelola sebanyak yang Anda inginkan. Kami bahkan memiliki [slot penerapan staging](./20210604-Deployment-Slots-are-here-for-SubQuery-Projects.md) untuk memungkinkan Anda melakukan upgrade biru/hijau tanpa hambatan tanpa waktu henti. Slot pementasan ini juga dapat digunakan untuk menjalankan instance SubQuery yang bersih dengan database baru untuk pengindeksan ulang latar belakang lengkap proyek Anda. Pelanggan biasanya menautkan slot staging ke versi staging/pengembangan aplikasi mereka.
 
-Once deployed, you can access your project using the SubQuery Explorer, and make requests directly from your app to the provided GraphQL endpoint. Let us know if you would like us to enable more advanced features like [GraphQL subscriptions](https://university.subquery.network/run_publish/subscription.html), more complex queries, and [aggregation functions](https://university.subquery.network/run_publish/aggregate.html).
+Setelah diterapkan, Anda dapat mengakses proyek Anda menggunakan SubQuery Explorer, dan membuat permintaan langsung dari aplikasi Anda ke titik akhir GraphQL yang disediakan. Beri tahu kami jika Anda ingin kami mengaktifkan fitur yang lebih canggih seperti [langganan GraphQL](https://university.subquery.network/run_publish/subscription.html), kueri yang lebih kompleks, dan [fungsi agregasi](https://university.subquery.network/run_publish/aggregate.html).
 
-Please notify us once you have deployed your project as we may need to assist with fine tuning the batch size to ensure that our Terra archive node runs well for your project.
+Harap beri tahu kami setelah Anda menerapkan proyek Anda karena kami mungkin perlu membantu menyesuaikan ukuran batch untuk memastikan node arsip Terra kami berjalan dengan baik untuk proyek Anda.
 
-## SubQuery's Support for Terra
+## Dukungan SubQuery untuk Terra
 
-Today we are sharing the following:
+Hari ini kami membagikan yang berikut:
 
--   Advanced indexing of blocks, event
--   Terra Dictionary: Pre-computed indices to [dramatically reduce indexing time](./20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md)
--   Full support for Terra in our free [enterprise level](./20211228-enterprise-hosted.md) managed service
--   Intuitive documentation in the [SubQuery University](https://university.subquery.network/)
+-   Pengindeksan lanjutan dari blok, acara
+-   Terra Dictionary: Indeks yang telah dihitung sebelumnya untuk [mengurangi waktu pengindeksan secara drastis](./20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md)
+-   Dukungan penuh untuk Terra di [tingkat perusahaan](./20211228-enterprise-hosted.md) layanan terkelola gratis kami
+-   Dokumentasi intuitif di [Universitas SubQuery](https://university.subquery.network/)
 
-In the coming weeks you can expect:
+Dalam beberapa minggu mendatang Anda dapat mengharapkan:
 
--   A step by step learning course in the [SubQuery Academy](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html)
--   Full support for Terra in our decentralised SubQuery Network (you'll soon see a project in our current Frontier test network)
+-   Kursus pembelajaran langkah demi langkah di [Akademi SubQuery](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html)
+-   Dukungan penuh untuk Terra di Jaringan SubQuery terdesentralisasi kami (Anda akan segera melihat proyek di jaringan uji Frontier kami saat ini)
 
 ---
 
-The launch of our beta support for Terra marks a significant milestone in our commitment to offer enhanced indexing tools for the Terra community to enable her developers to go further, faster. We are eager to get feedback from the community in order to improve our offering and increase our visibility as a trusted infrastructure partner for one of the fastest growing developer communities in Web3
+Peluncuran dukungan beta kami untuk Terra menandai tonggak penting dalam komitmen kami untuk menawarkan alat pengindeksan yang disempurnakan bagi komunitas Terra untuk memungkinkan pengembangnya melangkah lebih jauh, lebih cepat. Kami sangat ingin mendapatkan umpan balik dari komunitas untuk meningkatkan penawaran kami dan meningkatkan visibilitas kami sebagai mitra infrastruktur tepercaya untuk salah satu komunitas pengembang dengan pertumbuhan tercepat di Web3
 
 James Bayly
 
-## Links
+## Link
 
--   [Getting Started Guide](https://university.subquery.network/quickstart/quickstart-terra.html)
--   [SubQuery University (Documentation)](https://university.subquery.network/)
--   [Example Terra Project](https://github.com/subquery/terra-subql-starter)
--   [Managed Service](https://explorer.subquery.network/)
--   [Publish your own Terra Project to the Managed Service](https://project.subquery.network/)
+-   [Panduan Memulai](https://university.subquery.network/quickstart/quickstart-terra.html)
+-   [SubQuery University (Documentasi)](https://university.subquery.network/)
+-   [Contoh Proyek Terra](https://github.com/subquery/terra-subql-starter)
+-   [Layanan Terkelola](https://explorer.subquery.network/)
+-   [Publikasikan Proyek Terra Anda sendiri ke Layanan Terkelola](https://project.subquery.network/)
 
 ## Tentang SubQuery
 
-[SubQuery](https://subquery.network/) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot, Substrate, Avalanche, and now Terra projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+[SubQuery](https://subquery.network/) adalah toolkit pengembang blockchain yang memungkinkan orang lain membangun aplikasi Web3 di masa depan. Proyek SubQuery adalah API lengkap untuk mengatur dan mengkueri data dari chain layer-1. Saat ini melayani proyek Polkadot, Substrat, Longsor, dan sekarang Terra, data sebagai layanan ini memungkinkan pengembang untuk fokus pada kasus penggunaan inti dan front-end mereka, tanpa perlu membuang waktu untuk membangun backend khusus untuk pemrosesan data. Jaringan SubQuery mengusulkan untuk mengaktifkan solusi skalabel dan andal yang sama ini, tetapi dengan cara yang sepenuhnya terdesentralisasi.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
