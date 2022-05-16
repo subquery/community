@@ -10,25 +10,25 @@ In diesem monatlichen Update:
 
 - Botschafterprogramm 👩💼
 - DApp API Grant Arbeit 🏗
-- Patract Open Platform 🌃
+- Offene Plattform von Patract 🌃
 - Relaychain Podcast der Parity 🎙
 - Dokumentationsverbesserungen 📑
 
 ![](https://miro.medium.com/max/1400/0*pe3Z3x1lGb_RLa5x)
 
-We understand that one of our biggest strengths is our community, and so [we recently launched our ambassador program](../blogs/20210713-Introducing-the-SubQuery-Ambassador-Program.md) for communities around the world. Wir waren von dem Interesse an unserem Programm überwältigt, mit fast 500 Bewerbungen innerhalb von zwei Wochen eingeholt!
+Wir wissen, dass eine unserer größten Stärken unsere Gemeinschaft ist. Deshalb haben wir vor kurzem unser [Botschafterprogramm](../blogs/20210713-Introducing-the-SubQuery-Ambassador-Program.md) für Gemeinden in aller Welt ins Leben gerufen. Wir waren von dem Interesse an unserem Programm überwältigt, mit fast 500 Bewerbungen innerhalb von zwei Wochen eingeholt!
 
 Wir sind gerade dabei, unsere erste Gruppe von Botschaftern in Kürze an Bord zu nehmen. Wir sind hier besonders aufgeregt, weil es bedeutet, dass jeder in unserer Community eine bessere lokale Vertretung und Unterstützung in verschiedenen Gemeinschaften erwarten kann!
 
 Bis Ende Juli haben wir gute Fortschritte bei den ersten beiden Meilensteinen unseres [Open-Source dApp API Treasury Grants](https://kusama.polkassembly.io/treasury/95) gemacht. Obwohl es an der Oberfläche nicht so aussieht, ist es eigentlich eine wirklich wichtige Initiative für uns. Erstens stellt es eine tiefe strategische Zusammenarbeit mit einer der größten Polkadot-nativen Wallets dar, Fearless Wallet.
 
-Zweitens Diese Open-Source-API sollte in der Lage sein, verschiedene Arten von Anwendungen mit einer ausreichenden (aber nur schreibgeschützten) Ansicht aller Schlüsseldaten innerhalb der Kusama-Kette zu versorgen. Z.B. ein Entwickler könnte damit seinen eigenen Ketten-Explorer erstellen, ohne Kettendaten direkt abfragen zu müssen.
+Zweitens Diese Open-Source-API sollte in der Lage sein, verschiedene Arten von Anwendungen mit einer ausreichenden (aber nur schreibgeschützten) Ansicht aller Schlüsseldaten innerhalb der Kusama-Kette zu versorgen. z.B. Z.B. ein Entwickler könnte damit seinen eigenen Ketten-Explorer erstellen, ohne Kettendaten direkt abfragen zu müssen.
 
 Wir bauen dies so auf, dass es einfach auf die wachsende Anzahl von Parachains erweitert werden kann. Es bietet auch eine viel bessere Grundlage für neue Anwendungen, die auf SubQuery aufbauen, sodass wir neue Partnerschaften schneller einbinden können!
 
 ![](https://miro.medium.com/max/1400/0*AhM68fyjjSp_2edZ)
 
-We have [joined the Patract Open Platform alliance](../blogs/20210714-SubQuery-is-Joining-the-Patract-Open-Platform.md) to jointly promote the development of public infrastructure, promote the evolution of contract technology, and to develop the Wasm contract development ecosystem.
+Wir sind [der Patract Open Platform Alliance](../blogs/20210714-SubQuery-is-Joining-the-Patract-Open-Platform.md) beigetreten, um gemeinsam die Entwicklung der öffentlichen Infrastruktur zu fördern, die Weiterentwicklung der Vertragstechnologie voranzutreiben und das Ökosystem für die Entwicklung von Wasm-Verträgen zu entwickeln.
 
 Wir glauben, dass Verträge ein wichtiger Teil eines florierenden Polkadot-Ökosystems sind. Die Bereitstellung von Datenindexierungsdiensten für Wasm-Verträge war schon immer ein Hauptziel von SubQuery. Es ist spannend zu sehen, dass die Open Platform eine Vielzahl großartiger Projekte zusammengebracht hat und dass alle zusammenarbeiten, um zur gesunden und stabilen Weiterentwicklung der Abfallverträge beizutragen.
 
