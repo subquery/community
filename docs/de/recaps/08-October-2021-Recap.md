@@ -8,17 +8,17 @@ Herzlich Willkommen zum neuesten monatlichen Update von SubQuery und dem, was f�
 
 Von nun an werden wir versuchen, jedes Update in drei Schlüsselbereiche zu strukturieren; Community, Kernproduktentwicklung und das SubQuery-Netzwerk.
 
-## SubQuery Network
+## SubQuery Netzwerk
 
-### Technical Roadmap Announced
+### Technische Roadmap bekannt gegeben
 
-At our community call last week we shared more about our plans for the future. Wir sind gespannt, wie die nächste Entwicklung von SubQuery dem Polkadot-Ökosystem noch mehr Wert verleihen und unserer Community mehr Möglichkeiten bieten wird, an unserem Wachstum teilzuhaben.
+Bei unserer Telefonkonferenz in der letzten Woche haben wir mehr über unsere Pläne für die Zukunft erfahren. Wir sind gespannt, wie die nächste Entwicklung von SubQuery dem Polkadot-Ökosystem noch mehr Wert verleihen und unserer Community mehr Möglichkeiten bieten wird, an unserem Wachstum teilzuhaben.
 
 Wir sind hier extrem tief gegangen, um Transparenz mit der Community zu schaffen und die vor uns liegende Arbeit zu rationalisieren. Es ist ein ehrgeiziger Zeitplan, den wir intern als Ziel verwenden. Wie viele bewegliche Teile es gibt, können Sie dem Bild unten entnehmen! Allerdings ist die Schätzung von Zeitplänen für die Entwicklung von F&E-Software bekanntermaßen schwierig, daher ist nichts unten endgültig – es sind nur unsere besten Bemühungen bei Schätzungen.
 
 [Lesen Sie hier mehr über unsere technische Roadmap](../blogs/20211029-roadmap-october.md)
 
-### Significant Development on the SubQuery Network
+### Bedeutende Entwicklung im SubQuery-Netzwerk
 
 Der Aufbau eines neuen dezentralen und tokenisierten Netzwerks ist ein enormer Arbeitsaufwand und leider eine Arbeit, die nach außen seit einiger Zeit nicht mehr klar sichtbar ist. Davon abgesehen haben wir seit einiger Zeit ein Top-Team von engagierten Entwicklern, die daran arbeiten und langsam aber sicher die Liste der Smart Contract-Implementierungen durcharbeiten, um uns dem Start des ersten internen Testnetzes bis Ende des Jahres näher zu bringen.
 
