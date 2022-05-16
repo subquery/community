@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/0*0inUQ8U1g9auTjfU)
 
-## Providing Free Data Indexing for Wasm Tech Alliance
+## Kostenlose Datenindizierung für Wasm Tech Alliance
 
 SubQuery tritt der Patract Open Platform bei, um gemeinsam die Entwicklung der öffentlichen Infrastruktur zu fördern, die Weiterentwicklung der Vertragstechnologie zu fördern und das Wasm-Ökosystem für Vertragsentwicklung zu entwickeln.
 
@@ -22,7 +22,7 @@ SubQuery wird mit Vertragsprojekten innerhalb der Allianz zusammenarbeiten, um a
 
 Patract Labs glaubt, dass die Entwicklung der Polkadot Wasm Vertragstechnologie eine kontinuierliche Ergänzung und Verbesserung der Infrastruktur erfordert. SubQuery schließt sich der Patract Open Platform als Dateninfrastrukturanbieter an, der den Bedarf des Polkadot-Ökosystems ergänzt, dezentrale Daten bereitstellt, den Zugriff liberalisiert und die Betriebskosten für die Verbindung und Anwendung von Daten in einem Projekt senkt. Daher brauchen Entwickler nicht mehr viel Zeit zu investieren, um eigene Indexierungslösungen zu erstellen und zu pflegen. Zweitens ist es schwierig für Blockchain-Daten, direkt in DApps zu speichern, da DApps Daten aus der zugrunde liegenden Datenquelle beziehen und transformieren müssen. So ist das On-Ketten-Indizierungsschema von SubQuery eine große Grundlage für explosives Wachstum von DApps in der Polkadot Ökologie. Derzeit untersucht SubQuery auch eine Lösung, die SQL-Tools mit Wasm Smart Contracts kombiniert, und wir freuen uns darauf.
 
-## About Patract Labs
+## Über Patract Labs
 
 Patract Labs bietet Lösungen für die Entwicklung von Parachains und DApps im Wasm Smart Contract Ökosystem von Polkadot. Wir helfen der Community, On-Chain-Vertragsmodule und Laufzeitunterstützung zu entwerfen und zu entwickeln, und bieten DApp-Entwicklern umfassende Tools und Dienstleistungen, die die Phasen der Entwicklung, des Testens, der Fehlersuche, der Bereitstellung, der Überwachung, des Datenanbieters und der Front-End-Entwicklung abdecken.
 
