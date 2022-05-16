@@ -34,17 +34,17 @@ Wir haben einen Datenprozessor entwickelt, der speziell für die Arbeit mit der 
 
 SubQuery führt erweiterte Filter als andere Indexer ein und ermöglicht das Filtern von Nichtvertragstransaktionen, Transaktionssendern, Verträgen und indizierten Protokollargumenten. Auf diese Weise können Entwickler eine Vielzahl von Projekten erstellen, die ihren spezifischen Datenanforderungen gerecht werden.
 
-### Step 2: Index Moonbeam Data
+### Schritt 2: Moonbeam-Daten indizieren
 
-Wie bei einem normalen SubQuery-Projekt verwenden Sie eine Zuordnungsfunktion, um Off-Chain-Daten in die von Ihnen definierten GraphQL-Entitäten umzuwandeln. Der Unterschied besteht darin, dass anstelle eines `SubstrateEvent` oder `SubstrateExtrinsic`, Ihre Mapping-Funktion erhält einen `MoonbeamCall` oder `MoonbeamEvent`, die auf Ethers [TransactionResponse](https://docs.ethers.io/v5/api/providers/types/#providers-TransactionResponse)- oder [Log](https://docs.ethers.io/v5/api/providers/types/#providers-Log)-Typ basieren. [You can read more about these here](https://doc.subquery.network/create/substrate-evm/#frontierevmcall).
+Wie bei einem normalen SubQuery-Projekt verwenden Sie eine Zuordnungsfunktion, um Off-Chain-Daten in die von Ihnen definierten GraphQL-Entitäten umzuwandeln. Der Unterschied besteht darin, dass anstelle eines `SubstrateEvent` oder `SubstrateExtrinsic`, Ihre Mapping-Funktion erhält einen `MoonbeamCall` oder `MoonbeamEvent`, die auf Ethers [TransactionResponse](https://docs.ethers.io/v5/api/providers/types/#providers-TransactionResponse)- oder [Log](https://docs.ethers.io/v5/api/providers/types/#providers-Log)-Typ basieren. [Sie können hier mehr darüber lesen](https://doc.subquery.network/create/substrate-evm/#frontierevmcall).
 
 [Lesen Sie hier die vollständige Dokumentation zu diesem Prozess](https://doc.subquery.network/create/substrate-evm/#frontierevmcall)
 
-### Example Project
+### Beispiel-Projekt
 
 Es gibt ein vollständiges Beispielprojekt, das eth `transfer`-Ereignisse indiziert und Smart-Contract-Aufrufe `genehmigt`. Der Code für dieses Beispielprojekt ist [hier auf GitHub](https://github.com/subquery/tutorials-moonriver-evm-starter) oder über das [Live-SubQuery-Projekt im SubQuery-Explorer hier](https://explorer.subquery.network/subquery/subquery/moonriver-evm-starter-project) zugänglich.
 
-Der Großteil der Änderungen erfolgt in der Manifest-Datei (`project.yaml`). Sie können unten sehen, dass wir [Aufruffilter](https://doc.subquery.network/create/substrate-evm/#call-filters) erweitert haben, um entweder [Funktionssignatur-Strings](https://docs.ethers.io/v5/api/utils/abi/fragments/#FunctionFragment) oder den Funktions-Sighash zu unterstützen, um die im Vertrag aufgerufene Funktion zu filtern. For [event filters](https://doc.subquery.network/create/substrate-evm/#event-filters), you can use topics filtering that follows the [Ethereum JSON-PRC log filters standard found here](https://docs.ethers.io/v5/concepts/events/). Beachten Sie, dass SubQuery erweiterte Filter einführt als andere Indexer für Moonbeam EVM und diese Verbesserungen Entwicklern erheblich zugute kommen sollten.
+Der Großteil der Änderungen erfolgt in der Manifest-Datei (`project.yaml`). Sie können unten sehen, dass wir [Aufruffilter](https://doc.subquery.network/create/substrate-evm/#call-filters) erweitert haben, um entweder [Funktionssignatur-Strings](https://docs.ethers.io/v5/api/utils/abi/fragments/#FunctionFragment) oder den Funktions-Sighash zu unterstützen, um die im Vertrag aufgerufene Funktion zu filtern. Für [Ereignisfilter](https://doc.subquery.network/create/substrate-evm/#event-filters) können Sie Themenfilter verwenden, die dem [Ethereum JSON-PRC Log Filter Standard folgen, den Sie hier finden](https://docs.ethers.io/v5/concepts/events/). Beachten Sie, dass SubQuery erweiterte Filter einführt als andere Indexer für Moonbeam EVM und diese Verbesserungen Entwicklern erheblich zugute kommen sollten.
 
 ![](https://miro.medium.com/max/700/1*4JRHItnILfCie4FT6sYLEA.png)
 
@@ -58,12 +58,12 @@ Wenn du Fragen dazu hast, schau in unsere [Dokumente](https://doc.subquery.netwo
 
 Wie Sie sehen, ist das Erstellen eines Moonriver- oder Moonbase Alpha-Projekts, das sowohl Substrat- als auch EVM-Daten in einem einzigen Projekt indiziert, extrem einfach und weitgehend ähnlich. Sie können die fortschrittlichen Scaffolding-Tools von SubQuery verwenden, um Ihre dApp-Entwicklung zu beschleunigen und eine umfassendere Indizierung für Ihre Daten zu nutzen, um intuitivere dApps zu erstellen. Wir können es kaum erwarten zu sehen, was Sie bauen!
 
-## About SubQuery
+## Über SubQuery
 
 SubQuery ist eine Datenaggregationsschicht, die zwischen den Schicht-1-Blockchains (wie Moonriver und Polkadot) und DApps arbeitet. Dieser Dienst entsperrt Blockchain-Daten und wandelt sie in einen abfragbaren Zustand um, damit sie in intuitiven Anwendungen verwendet werden können. Es ermöglicht DApp-Entwicklern, sich auf ihren Kernanwendungsfall und ihr Front-End zu konzentrieren, ohne Zeit damit verschwenden zu müssen, ein benutzerdefiniertes Back-End für die Datenverarbeitung zu erstellen.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Webseite](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Github](https://github.com/subquery/subql) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
 
-## About Moonbeam
+## Über Moonbeam
 
 Moonbeam ist eine Ethereum-kompatible Smart-Contract-Plattform im Polkadot-Netzwerk, die es einfach macht, nativ interoperable Anwendungen zu erstellen. Diese Ethereum-Kompatibilität ermöglicht es Entwicklern, bestehende Solidity Smart Contracts und DApp-Frontends mit minimalen Änderungen auf Moonbeam bereitzustellen. Als Parachain im Polkadot-Netzwerk profitiert Moonbeam von der gemeinsamen Sicherheit der Polkadot-Relaiskette und der Integration mit anderen Ketten, die mit Polkadot verbunden sind. Moonbeam befindet sich derzeit in der aktiven Entwicklung von PureStake und wird voraussichtlich im vierten Quartal 2021 MainNet erreichen. Erfahren Sie mehr: [https://moonbeam.network/](https://moonbeam.network/).
