@@ -42,15 +42,15 @@ Im August haben wir mehrere neue Projekte zu SubQuery gestartet, darunter solche
 
 Für Karura wird [SubQuery zum Extrahieren und Abfragen von Daten aus der Karura-Kette](../customer_announcements/20210819-Karura-Integrates-with-SubQuery-to-Aggregate-and-Serve-DeFi-Data-to-Kusama-Builders.md) verwendet, was Abfragen für [Karuras App](https://apps.karura.network/) schnell und effizient macht.
 
-SubQuery's service is playing a key role in [Subscan](https://www.subscan.io/) by [providing fast data on transactions](../customer_announcements/20210901-Subscans-Multi-Signature-Tool.md) for any given multi signature address, thereby improving the UX and allowing for more advanced features.
+Der Dienst von SubQuery spielt eine Schlüsselrolle bei [Subscan](https://www.subscan.io/), indem er [schnelle Daten über Transaktionen](../customer_announcements/20210901-Subscans-Multi-Signature-Tool.md) für jede beliebige Adresse mit mehreren Unterschriften liefert und so die Benutzerfreundlichkeit verbessert und fortgeschrittenere Funktionen ermöglicht.
 
-[SORA](https://sora.org/) has built a [SubQuery Project that retrieves data from the SORA network](../customer_announcements/20210825-SORA-Integrates-SubQuery-to-Provide-Data-to-the-SORA-Network.md) to power mobile applications built on SORA and [Polkaswap.io](http://polkaswap.io/). Hier können Sie mehr lesen
+[SORA](https://sora.org/) hat ein [SubQuery-Projekt entwickelt, das Daten aus dem SORA-Netzwerk](../customer_announcements/20210825-SORA-Integrates-SubQuery-to-Provide-Data-to-the-SORA-Network.md) abruft, um mobile Anwendungen zu betreiben, die auf SORA und [Polkaswap.io](http://polkaswap.io/) aufbauen. Hier können Sie mehr lesen
 
 In beiden Fällen freuen wir uns über so tolles Feedback wie dieses von unseren Partnern:
 
 *"Die Verwendung von Subquery macht das Erstellen von Dapps einfacher, keine komplizierten Aufrufe mehr, um die benötigten Daten zu erhalten."* - Brett (Entwickler bei Acala)
 
-_"SubQuery has been the ideal solution for our needs because the application is easy to deploy and manage, it is easy to learn and develop as well as being well documented, and it also has its own infrastructure with Github integration"_ - SORA Development Team
+_"SubQuery war die ideale Lösung für unsere Bedürfnisse, da die Anwendung einfach zu implementieren und zu verwalten ist, leicht zu erlernen und zu entwickeln ist und gut dokumentiert ist. Außerdem verfügt sie über eine eigene Infrastruktur mit Github-Integration"_ - SORA Development Team
 
 [Alle Projekte können Sie hier ganz einfach über unseren Explorer anzeigen](https://explorer.subquery.network/).
 
