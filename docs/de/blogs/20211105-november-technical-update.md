@@ -4,7 +4,7 @@
 
 **Lesen Sie mehr über unseren technischen Einblick in die neueste Version von SubQuery**
 
-## Support for External Chain Type Files in Project Manifest
+## Unterstützung für externe Kettentypdateien im Projektmanifest
 
 Heute ist der Start von [Version 0.2.0](https://doc.subquery.network/create/manifest/) unserer Projektmanifestdatei (`project.yaml`). Diese neue Version bietet Entwicklern verschiedene Verbesserungen, die von Kunden gewünscht wurden.
 
@@ -14,9 +14,9 @@ Mit dieser Lösung können Sie das Kopieren und Verwalten von Kettentypdefinitio
 
 [Informationen zur neuen Manifestdatei, einschließlich der Migration Ihrer Projekte in diese, finden Sie hier in unseren aktualisierten Dokumenten.](https://doc.subquery.network/create/manifest/)
 
-## Moonbeam EVM Support
+## Moonbeam EVM-Unterstützung
 
-Last week we were pleased to [announce that we were working with Moonbeam to bring complete EVM and Substrate indexing support to Moonriver](../customer_announcements/20211028-moonbeam-evm.md).
+Letzte Woche haben wir mit Freude [angekündigt, dass wir mit Moonbeam zusammenarbeiten, um eine vollständige EVM- und Substrat-Indizierung in Moonriver](../customer_announcements/20211028-moonbeam-evm.md) zu ermöglichen.
 
 Heute folgen wir dieser Ankündigung mit allen Entwicklerressourcen, die Sie für den Einstieg benötigen.
 
@@ -28,9 +28,9 @@ Derzeit gibt es kein Open-Source-Tool, mit dem Entwickler flexibel Daten sowohl 
 
 [Machen Sie sich zunächst mit der aktualisierten Dokumentation vertraut, in der beschrieben wird, wie Sie eine Verbindung zu den Daten von Moonbeam, Moonbase Alpha und Moonriver herstellen und diese indizieren können.](https://doc.subquery.network/create/substrate-evm/) Der Prozess zur Indizierung von Moonbeam-Daten besteht aus nur zwei Schritten:
 
-### Step 1: Add the Moonbeam Custom Data Source
+### Schritt 1: Hinzufügen der benutzerdefinierten Datenquelle Moonbeam
 
-Wir haben einen Datenprozessor entwickelt, der speziell für die Arbeit mit der Moonbeam-Implementierung von [Frontier](https://github.com/paritytech/frontier) entwickelt wurde. Es ermöglicht Ihnen, auf bestimmte ABI-Ressourcen zu verweisen, die vom Prozessor verwendet werden, um Argumente und die Smart-Contract-Adresse zu analysieren, von der die Ereignisse stammen oder an die der Aufruf erfolgt. [You can read more here](https://doc.subquery.network/create/substrate-evm/#data-source-spec).
+Wir haben einen Datenprozessor entwickelt, der speziell für die Arbeit mit der Moonbeam-Implementierung von [Frontier](https://github.com/paritytech/frontier) entwickelt wurde. Es ermöglicht Ihnen, auf bestimmte ABI-Ressourcen zu verweisen, die vom Prozessor verwendet werden, um Argumente und die Smart-Contract-Adresse zu analysieren, von der die Ereignisse stammen oder an die der Aufruf erfolgt. [Sie können hier mehr lesen](https://doc.subquery.network/create/substrate-evm/#data-source-spec).
 
 SubQuery führt erweiterte Filter als andere Indexer ein und ermöglicht das Filtern von Nichtvertragstransaktionen, Transaktionssendern, Verträgen und indizierten Protokollargumenten. Auf diese Weise können Entwickler eine Vielzahl von Projekten erstellen, die ihren spezifischen Datenanforderungen gerecht werden.
 
