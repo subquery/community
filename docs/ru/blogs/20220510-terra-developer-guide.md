@@ -1,4 +1,4 @@
-# Руководство по вводу в эксплуатацию SubQuery в Terra
+# Инструкция по подзапросу Терра
 
 ![](https://miro.medium.com/max/1400/1*DiTE9KuzH0xHLojzGWxOuw.png)
 
