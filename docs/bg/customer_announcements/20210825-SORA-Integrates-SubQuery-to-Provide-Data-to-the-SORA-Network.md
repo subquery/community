@@ -6,7 +6,7 @@
 
 ![sora-frontend.jpg](https://miro.medium.com/max/1400/1*pq0U6wsutlf8rjXqq7i2BQ.jpeg)
 
-> _"SubQuery was selected to improve the UX of SORA network usage. We used SubQuery to get and list extrinsic details, calculate fiat prices and liquidity pool APY. Our goal was to get transaction history and aggregated data for applications that work with the SORA network._
+> _"SubQuery беше избрана, за да се подобри UX на използването на мрежата SORA. Използвахме SubQuery, за да получим и изброим външни детайли, да изчислим фиатните цени и APY на ликвидния пул. Целта ни беше да получим история на транзакциите и обобщени данни за приложенията, които работят с мрежата SORA._
 > 
 > _SubQuery беше идеалното решение за нашите нужди, тъй като приложението е лесно за внедряване и управление, лесно е за изучаване и разработване, както и е добре документирано, а освен това има собствена инфраструктура с интеграция в Github. Обикновеното структуриране на данните на SubQuery осигурява бърз достъп, поддържа GraphQL API за клиентски приложения, има гъвкава конфигурация за анализиране на събития, екстринси и блокове с допълнително филтриране. И накрая, приложението е напълно прозрачно за потребителите, така че те няма да забележат дали приложението е било актуализирано или спряно."_ -SORA Development Team
 
