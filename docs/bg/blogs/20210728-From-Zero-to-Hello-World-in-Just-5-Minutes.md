@@ -8,7 +8,7 @@
 
 ![](https://miro.medium.com/max/1200/1*snyFSjyQ9q116bmIcaVfsQ.gif)
 
-> _"Documentation may not be glamorous work but it plays a vital role in communicating how something works and allows us to empower our community members to learn and unleash their creativity. That is why we believe documentation is so important"_ — Sean Au (SubQuery Academy)
+> _"Документирането може и да не е бляскава работа, но то играе жизненоважна роля в съобщаването на начина, по който нещо работи, и ни позволява да дадем възможност на членовете на общността да се учат и да разгърнат творческия си потенциал. Ето защо смятаме, че документацията е толкова важна"_ - Шон Ау (SubQuery Academy)
 
 [Нашият нов уебсайт за документация](https://doc.subquery.network/) има привлекателна начална страница, предназначена да приветства всички потребители, независимо от тяхното техническо разбиране за блокчейн или Polkadot. От началната страница потребителите могат да преминат направо към урока за въведение в проекта или да отскочат до секция, от която се интересуват.
 
