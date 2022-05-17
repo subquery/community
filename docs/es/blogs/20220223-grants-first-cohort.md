@@ -1,10 +1,10 @@
-# SubQuery Announces First Cohort of SubQuery Grants Recipients
+# SubQuery anuncia el primer grupo de beneficiarios de subsidios de SubQuery
 
 ![](https://miro.medium.com/max/1400/1*qp0hhPcvodDIMmVScohSnw.png)
 
-SubQuery, the leading data indexing solution in Polkadot, is happy to announce that four teams have been selected as the first ever cohort of SubQuery Grants recipients. These teams are [Alphabit](https://www.polkadata.xyz/), [Zoombies](https://zoombies.world), [Dapplooker](https://dapplooker.com/) and [Dotsama](http://dotsama.ai/).
+SubQuery, la solución de indexación de datos líder en Polkadot, se complace en anunciar que cuatro equipos han sido seleccionados como el primer grupo de beneficiarios de subsidios de SubQuery. Estos equipos son [Alphabit](https://www.polkadata.xyz/), [Zoombies](https://zoombies.world), [Dapplooker](https://dapplooker.com/) y [Dotsama](http://dotsama.ai/).
 
-[The USD $500,000 SubQuery Grants Program kicked off in December 2021](./20211222-grants.md) with the vision of offering opportunities to blockchain developers, community members, and wider ecosystem participants to create innovative or high-potential ideas that leverage SubQuery's open-source data indexing tools to support cutting-edge decentralised applications.
+[El programa de subsidios de SubQuery impulsado con USD $500 000 comenzó en diciembre de 2021](./20211222-grants.md) con la visión de ofrecer oportunidades a los desarrolladores de blockchain, a los miembros de la comunidad y a los participantes del ecosistema en general para crear ideas innovadoras o de gran potencial que aprovechen las herramientas de indexación de datos de código abierto de SubQuery para apoyar aplicaciones descentralizadas de ultima generacion.
 
 The first in the cohort, [Alphabit](https://www.polkadata.xyz/), are endeavouring to empower the independent investor by providing visibility to track and analyse the portfolios and investments of funds, and large traders or 'whales'. They will use SubQuery to power the on-chain data metrics required to propel them to become a leading market analytics player in Polkadot. SubQuery believes this will make a significant impact in the Polkadot ecosystem which is currently lacking in strong investment analysis tools.
 
