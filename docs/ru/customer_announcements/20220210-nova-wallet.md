@@ -1,4 +1,4 @@
-# Данные SubQuery обеспечивают работу Nova Wallet — мобильного кошелька нового поколения для экосистем Polkadot и Kusama
+# Данные SubQuery необходимы для работы Nova Wallet — мобильного кошелька нового поколения для экосистем Polkadot и Kusama
 
 ![](https://miro.medium.com/max/1400/1*0HRq9OTOIIvv3Hfz9hE23A.jpeg)
 
