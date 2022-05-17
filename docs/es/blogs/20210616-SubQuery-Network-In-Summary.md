@@ -32,7 +32,7 @@ Este pago va a un fondo de ingresos del proyecto y al final de una época de apu
 
 ![](https://miro.medium.com/max/1400/1*E-W7o7cWoclxHb8rXAMdpA.png)
 
-Se escupe a través de los indexadores por algo llamado función de producción Cobb-Douglas.
+Se arroja a través de los indexadores por algo llamado función de producción Cobb-Douglas.
 
 Este enfoque, en términos sencillos, significa que los ingresos se asignan a los indexadores que compiten como una proporción tanto de las solicitudes respondidas como de la cantidad apostada.
 
