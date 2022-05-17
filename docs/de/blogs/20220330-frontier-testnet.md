@@ -8,22 +8,22 @@ Um das Testnetz effektiv betreiben zu können, müssen wir es von erfahrenen Nod
 
 Indexer im SubQuery-Netzwerk markieren den Übergang von SubQuery zu einem dezentralisierten Dienst, da sie die Blockchain-Daten in ihrer Infrastruktur hosten und organisieren. Wir gehen davon aus, dass dies die Betriebszeit von SubQuery massiv erhöhen, eine bessere Redundanz bieten und die Leistung steigern wird, indem die Latenz verringert wird.
 
-Ian He, CTO von SubQuery, kommentierte: _ „SubQuery freut sich über die Einführung des SubQuery Frontier Testnet und dessen Bedeutung für uns und unsere treue Community. The choice of "Frontier" as our testnet name also denotes where we believe we are in the growth of Web3 and that we want Indexers to push beyond the limits."_
+Ian He, CTO von SubQuery, kommentierte: _ „SubQuery freut sich über die Einführung des SubQuery Frontier Testnet und dessen Bedeutung für uns und unsere treue Community. Die Wahl von „Frontier“ als Name unseres Testnetzes zeigt auch, wo wir unserer Meinung nach beim Wachstum von Web3 stehen und dass wir möchten, dass Indexer die Grenzen überschreiten.“_
 
-The Frontier Testnet will be rolled out in stages that we call "seasons, starting from April 11th. Each season will go for 2--3 weeks.
+Das Frontier Testnet wird ab dem 11. April in Phasen eingeführt, die wir „Saisons“ nennen. Jede Saison dauert 2-3 Wochen.
 
-- Season 1. Early stage alpha testing of a limited number of features with less than 30 participants.
-- Season 2. Large beta testing of more features with more participants.
-- Season 3. Full public test network for load and scale testing --- open to all interested parties.
+- Saison 1. Alpha-Tests in der Frühphase einer begrenzten Anzahl von Funktionen mit weniger als 30 Teilnehmern.
+- Saison 2. Großer Beta-Test von mehr Funktionen mit mehr Teilnehmern.
+- Saison 3. Vollständiges öffentliches Testnetz für Last- und Waagentests --- offen für alle Interessierten.
 
 ![](https://miro.medium.com/max/1400/1*oWnMXGqndf5539Gml7gf-Q.png)
 
-The testnet is for development purposes and will undergo significant development enhancements during the seasons. More details are available on the SubQuery documentation website: https://university.subquery.network/
+Das Testnetz dient Entwicklungszwecken und wird im Laufe der Saison erheblichen Entwicklungsverbesserungen unterzogen. Weitere Details finden Sie auf der SubQuery-Dokumentationswebsite: https://university.subquery.network/
 
-For further information, please [contact our team in Discord](https://discord.com/invite/78zg8aBSMG).
+Für weitere Informationen [kontaktiere bitte unser Team in Discord](https://discord.com/invite/78zg8aBSMG).
 
-## About SubQuery Network
+## Über SubQuery Network
 
-[SubQuery](https://subquery.network) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot, Substrate and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+[SubQuery](https://subquery.network) ist ein Blockchain-Entwickler-Toolkit, mit dem andere Web3-Anwendungen der Zukunft erstellen können. Ein SubQuery-Projekt ist eine vollständige API zum Organisieren und Abfragen von Daten aus Layer-1-Chains. Dieser Data-as-a-Service, der derzeit Polkadot-, Substrate- und Avalanche-Projekte bedient, ermöglicht es Entwicklern, sich auf ihren Kernanwendungsfall und ihr Frontend zu konzentrieren, ohne Zeit mit dem Aufbau eines benutzerdefinierten Backends für die Datenverarbeitung verschwenden zu müssen. Das SubQuery Network schlägt vor, dieselbe skalierbare und zuverlässige Lösung zu ermöglichen, jedoch auf vollständig dezentralisierte Weise.
 
-​​​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+​​​​[Linktree](https://linktr.ee/subquerynetwork) | [Webseite](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
