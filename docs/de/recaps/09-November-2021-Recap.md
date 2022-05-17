@@ -4,9 +4,9 @@
 
 Herzlich Willkommen zum neuesten monatlichen Update von SubQuery, das besonders voll von all den aufregenden Dingen ist, die in unserer Community passieren.
 
-## SubQuery Network
+## SubQuery Netzwerk
 
-### SubQuery to launch on Acala
+### SubQuery wird auf Acala eingeführt
 
 ![](https://miro.medium.com/max/600/0*SJ1TWt1sGwUWqvuI.gif) Bei unserem Community-Call haben wir schließlich angekündigt, dass SubQuery und der SQT-Token die erste externe Anwendung und das erste Token sein werden, die mit Acala gestartet werden.
 
@@ -16,13 +16,13 @@ James hat Bette Chen von Acala für ein umfassendes Interview zu dieser Entschei
 
 [Lesen Sie hier mehr über diese Ankündigung](https://blog.subquery.network/blogs/20211125-subquery-network-acala.html)
 
-### Significant Development on the SubQuery Network
+### Bedeutende Entwicklung im SubQuery-Netzwerk
 
 Auch wenn wir fleißig am SubQuery-Netzwerk arbeiten und immer noch auf den Start unseres Testnetzwerks im ersten Quartal 2022 zusteuern. Wir haben große Fortschritte bei unseren Smart Contracts und der Verfeinerung unseres Token-Wirtschaftsmodells gemacht. Erwarten Sie, dass wir bald viel mehr darüber teilen werden.
 
-## Core Product Development
+## Entwicklung von Kernprodukten
 
-### Scaling our Hosted Service
+### Skalierung unseres gehosteten Dienstes
 
 SubQuery Projekte verzeichneten im letzten Monat ein explosives Wachstum, da [Tausende von Akademieteilnehmern](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html) noch mehr Projekte in unserem gehosteten Dienst ([project.subquery.network](https://project.subquery.network/)) in der Zeitraum von einigen Wochen erstellt haben.
 
@@ -32,13 +32,13 @@ Wenn Sie Ihr SubQuery-Projekt aktualisieren möchten, um dedizierte Ressourcen z
 
 ### Unterstützung von externen Kettentypdateien in unserem Projektmanifest
 
-In November we launched [**version 0.2.0**](https://doc.subquery.network/create/manifest/) of our project manifest file (`project.yaml`). Diese neue Version bietet Entwicklern verschiedene Verbesserungen, die von Kunden gewünscht wurden.
+Im November haben wir [**Version 0.2.0**](https://doc.subquery.network/create/manifest/) unserer Projektmanifestdatei (`project.yaml`) veröffentlicht. Diese neue Version bietet Entwicklern verschiedene Verbesserungen, die von Kunden gewünscht wurden.
 
 Am wichtigsten ist, dass Sie jetzt auf eine Chaintyp-Definitionsdatei verweisen können, die alle benutzerdefinierten Typen enthält, wenn Sie eine benutzerdefinierte Substrate-Chain indizieren. Auf diese Weise können Sie schnell ein neues SubQuery-Projekt mit einer beliebigen substratbasierten Chain verbinden, einschließlich aller Parachains von Kusama.
 
 [Weitere Informationen zu dieser neuen Funktion finden Sie hier](https://blog.subquery.network/blogs/20211105-november-technical-update.html#support-for-external-chain-type-files-in-project-manifest).
 
-### Moonriver EVM Support
+### Moonriver EVM-Unterstützung
 
 ![](https://miro.medium.com/max/600/0*B27QVtvcR6nXA9ff.gif)
 
@@ -46,9 +46,9 @@ Wie bereits angekündigt, haben wir die Unterstützung für die Netzwerke Moonbe
 
 Darüber hinaus konnte Scott diesen gesamten Workflow im [Moonbuilders-Workshop](https://www.crowdcast.io/e/moonbuilders-ws/10) für alle sichtbar präsentieren. Perfektes Timing für die Vorbereitung auf die von uns gesponserten Gitcoin-Grants (mehr dazu weiter finden Sie unten).
 
-## Community
+## Gemeinschaft
 
-### Gitcoin Hackathon
+### Gitcoin-Hackathon
 
 Nach dem überwältigenden Erfolg des _Heldenkurses_ der SubQuery Academy konnten wir stolz verkünden, dass wir ab dem 1. Dezember unsere erste Hackathon-Möglichkeit für alle Entwickler über [Gitcoin Grants Round 12](https://gitcoin.co/hackathon/gr12/?org=subquery) anbieten werden.
 
