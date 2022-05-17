@@ -4,13 +4,13 @@
 
 A medida que nuestra comunidad crece, estamos viendo cientos de despliegues y un tráfico exponencialmente mayor en nuestro servicio alojado cada día. Sin embargo, el equipo de SubQuery está haciendo frente a este desafío y está ampliando nuestros servicios para satisfacer la demanda sin precedentes de nuestras herramientas por parte de nuestros clientes, mientras mantiene nuestro [servicio de alojamiento](https://projects.subquery.network/) gratuito.
 
-Many customers now rely on SubQuery to provide mission critical data to their production apps. These customers represent some of the largest wallets ([Nova](https://novawallet.io/) and [Fearless](https://fearlesswallet.io/)), scanners ([Subscan](https://www.subscan.io/), [SubVis](https://www.subvis.io/), and [DotMarketCap](https://dotmarketcap.com/)), NFT platforms ([Kodadot](https://kodadot.xyz/) and [Yuser](https://yuser.co/)), and more. Se trata de enormes aplicaciones que la comunidad de Polkadot utiliza a diario y que deben estar en línea en todo momento.
+Múltiples clientes ahora confían en SubQuery para proveer datos de misión crítica a sus aplicaciones de producción. These customers represent some of the largest wallets ([Nova](https://novawallet.io/) and [Fearless](https://fearlesswallet.io/)), scanners ([Subscan](https://www.subscan.io/), [SubVis](https://www.subvis.io/), and [DotMarketCap](https://dotmarketcap.com/)), NFT platforms ([Kodadot](https://kodadot.xyz/) and [Yuser](https://yuser.co/)), and more. Se trata de enormes aplicaciones que la comunidad de Polkadot utiliza a diario y que deben estar en línea en todo momento.
 
 El rendimiento y la fiabilidad de nuestro servicio alojado han estado en lo más alto de nuestra lista de prioridades durante algún tiempo aquí en SubQuery. Nuestro equipo hermano es OnFinality, el mayor proveedor de infraestructura de Polkadot, por lo que tenemos mucha experiencia en esta área. Como resultado, hoy vamos a recorrer tres mejoras recientes que harán de SubQuery la plataforma de datos más fiable, escalable y con mayor rendimiento de Polkadot.
 
 ![](https://miro.medium.com/max/1200/1*QckhJzjQqw9czpBMRhXgXQ.gif)
 
-## Dedicated Databases
+## Bases de datos dedicadas
 
 Al principio, todos los proyectos de SubQuery se desplegaban en bases de datos compartidas en nuestra infraestructura para ahorrar dinero y permitir que nuestro servicio siguiera siendo gratuito. Sin embargo, esto provocaría que los proyectos de alto tráfico con grandes conjuntos de datos estrangularan a otros proyectos alojados en la misma base de datos.
 
@@ -24,9 +24,9 @@ La resistencia y la fiabilidad lo son todo para nosotros en SubQuery. Disponer d
 
 Además, cuando se hace una petición a un proyecto de SubQuery en nuestro servicio alojado, la mayor parte del tiempo de espera proviene de la latencia. La latencia es el tiempo punto a punto que tarda su solicitud en dar la vuelta al mundo hasta el clúster de SubQuery más cercano y puede tardar hasta un segundo o dos desde algunas regiones remotas. Disponer de múltiples clusters en todo el mundo nos permite reducir la parte más significativa del tiempo de solicitud (la latencia).
 
-Hemos implementado múltiples clusters en diferentes regiones que proporcionan el mismo servicio. This work also includes a tool in [SubQuery Projects](https://project.subquery.network/) that allows you to deploy and manage your project across these clusters. También hemos implementado procesos que garantizan la coherencia de las bases de datos de las distintas regiones, de modo que, independientemente del clúster al que se dirija su solicitud, los datos que reciba sean coherentes.
+Hemos implementado múltiples clusters en diferentes regiones que proporcionan el mismo servicio. Este trabajo también incluye una herramienta en [Proyectos de SubQuery](https://project.subquery.network/) que te permite desplegar y gestionar tu proyecto a través de estos clústeres. También hemos implementado procesos que garantizan la coherencia de las bases de datos de las distintas regiones, de modo que, independientemente del clúster al que se dirija su solicitud, los datos que reciba sean coherentes.
 
-## Intelligent Routing
+## Enrutamiento inteligente
 
 Una vez que tenemos clusters de SubQuery funcionando en diferentes regiones, el siguiente paso lógico es hacer que esta función sea invisible para sus usuarios. Sus usuarios nunca deberían tener que decidir a qué clúster van sus peticiones, SubQuery debería dirigir automáticamente sus peticiones al clúster sano más cercano. Esto es lo que proporciona el enrutamiento inteligente de SubQuery.
 
