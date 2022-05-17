@@ -1,10 +1,10 @@
-# SubQuery Provides Data To OAK Network To Power DeFi Automation Hub
+# Das SubQuery Network schlägt vor, dieselbe skalierbare und zuverlässige Lösung zu ermöglichen, jedoch auf vollständig dezentralisierte Weise.
 
 ![](https://miro.medium.com/max/1400/0*R-MluHyL9bHAEboa)
 
-SubQuery is proud to announce our partnership with OAK Network, the Web3 automation hub for DeFi and payments. SubQuery's expertise will be used to provide greater insights for OAK when monitoring and observing blockchain activity for both OAK Network on Polkadot, the Turing Network on Kusama, as well as their Neumann testnet.
+SubQuery ist stolz darauf, unsere Partnerschaft mit OAK Network, dem Web3-Automatisierungszentrum für DeFi und Zahlungen, bekannt zu geben. Die Expertise von SubQuery wird genutzt, um OAK bei der Überwachung und Beobachtung der Blockchain-Aktivität sowohl für das OAK-Netzwerk auf Polkadot, das Turing-Netzwerk auf Kusama als auch für ihr Neumann-Testnetz bessere Einblicke zu verschaffen.
 
-> _"SubQuery's mission to help teams create products that allow movement to a decentralized future aligns closely with OAK Network's own mission of bringing secure and trustless automation to the masses. SubQuery will serve as a valuable resource to accelerate development timelines and ensure the services which OAK supplies to the market are stable and observable."_ - David Finklestein , Head of Growth at OAK Network
+> _"Die Mission von SubQuery, Teams dabei zu helfen, Produkte zu entwickeln, die den Übergang in eine dezentralisierte Zukunft ermöglichen, stimmt eng mit der eigenen Mission von OAK Network überein, der Masse eine sichere und vertrauenswürdige Automatisierung zu bieten. SubQuery will serve as a valuable resource to accelerate development timelines and ensure the services which OAK supplies to the market are stable and observable."_ - David Finklestein , Head of Growth at OAK Network
 
 By partnering with SubQuery, the development team at OAK will be able to aggregate, observe, and monitor the state of the OAK Virtual Machine, event registry, and automation tasks by their partners and end users. This mission critical information will inform OAK's business strategy and maintain best in class security and visibility within their own ecosystem.
 
