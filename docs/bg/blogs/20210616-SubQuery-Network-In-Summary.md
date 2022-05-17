@@ -50,24 +50,24 @@
 
 ![](https://miro.medium.com/max/1400/1*YoN7PV7h3a2nAFN-ODqILg.png)
 
-Delegators can delegate their spare SQT to Indexers and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in
+Делегатите могат да делегират свободните си SQT на индексиращите и тези делегати ще бъдат възнаградени с част от приходите от таксите за заявки, които индексиращият получава
 
-The _query fee revenue share rate_ that indexers advertise is locked for each 28 day staking era, and a decrease to it must be advertised for an entire 28 day staking era before coming into force.
+Процентът на _споделяне на приходите от таксите за заявки_, който индексиращите оператори обявяват, е фиксиран за всеки 28-дневен период на залагане и намаляването му трябва да бъде обявено за целия 28-дневен период на залагане, преди да влезе в сила.
 
-Similarly, delegators can remove their delegation amounts at any point, but they will only receive rewards when they have delegated for the entire staking era.
+По подобен начин делегиращите лица могат да премахнат своите делегирани суми по всяко време, но ще получат награди само когато са делегирали суми за целия период на залагане.
 
 ![](https://miro.medium.com/max/1400/0*we0k4A07pbj86COZ)
 
-Delegators will only receive rewards when they have delegated for the entire staking era
+Делегиращите лица ще получават награди само когато са делегирали за целия период на залагане
 
 ## Поръчки за покупка
 
-Indexing a project takes time and money, there’s a lot of data on the chain. In order to encourage Indexers to index and support an entirely new SubQuery Project, we plan to implement a market mechanism for Consumers to signal guaranteed revenue to Indexers of new SubQuery Projects.
+Индексирането на даден проект отнема време и пари, а във веригата има много данни. За да насърчим индексиращите да индексират и поддържат изцяло нов проект за подзапитване, планираме да въведем пазарен механизъм, чрез който потребителите да сигнализират за гарантирани приходи на индексиращите на нови проекти за подзапитване.
 
-We’re calling them purchase orders, and Consumers can advertise a contract on chain for a set price and number of requests. Indexers can view this and choose to fill the contracts.
+Наричаме ги поръчки за покупка и потребителите могат да рекламират договор във веригата за определена цена и брой заявки. Индексиращите могат да видят това и да изберат да попълнят договорите.
 
 ![](https://miro.medium.com/max/1400/1*IPtaZlt24E7h9bKNZWdSCw.png)
 
-Consumers can advertise a purchase order on chain for a set price and number of requests.
+Потребителите могат да обявят поръчка за покупка във веригата за определена цена и брой заявки.
 
-Purchase orders can also be placed on existing SubQuery Projects to attract additional Indexers to improve competition and decrease prices
+Поръчките за покупка могат да се поставят и върху съществуващи SubQuery проекти за привличане на допълнителни индексиращи, за да се подобри конкуренцията и да се намалят цените
