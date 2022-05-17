@@ -4,7 +4,7 @@
 
 **Прочетете повече в нашия задълбочен преглед на най-новата версия на SubQuery**
 
-## Support for External Chain Type Files in Project Manifest
+## Поддръжка на външни файлове с типове вериги в манифеста на проекта
 
 Днес стартира [версия 0.2.0](https://doc.subquery.network/create/manifest/) на манифестния файл на нашия проект (`project.yaml`). Тази нова версия предоставя на разработчиците различни подобрения, поискани от клиентите.
 
@@ -14,9 +14,9 @@
 
 [Можете да прочетете за новия файл на манифеста, включително как можете да мигрирате проектите си към него, тук в нашите актуализирани документи.](https://doc.subquery.network/create/manifest/)
 
-## Moonbeam EVM Support
+## Поддръжка на Moonbeam EVM
 
-Last week we were pleased to [announce that we were working with Moonbeam to bring complete EVM and Substrate indexing support to Moonriver](../customer_announcements/20211028-moonbeam-evm.md).
+Миналата седмица имахме удоволствието да [обявим, че работим с Moonbeam, за да осигурим пълна поддръжка на индексирането на EVM и Substrate в Moonriver](../customer_announcements/20211028-moonbeam-evm.md).
 
 Днес допълваме това съобщение с информация за всички ресурси за разработчици, от които се нуждаете, за да започнете.
 
@@ -26,7 +26,7 @@ Last week we were pleased to [announce that we were working with Moonbeam to bri
 
 ![](https://miro.medium.com/max/600/1*AET6Ek_PqFDRoc29Jiitnw.gif)
 
-[Firstly, familiarize yourself with the updated documentation on how to connect to and index data from Moonbeam, Moonbase Alpha, and Moonriver.](https://doc.subquery.network/create/substrate-evm/) The process to index Moonbeam data is only two steps:
+[На първо място се запознайте с актуализираната документация за свързване и индексиране на данни от Moonbeam, Moonbase Alpha и Moonriver.](https://doc.subquery.network/create/substrate-evm/) Процесът на индексиране на данни от Moonbeam се състои само от две стъпки:
 
 ### Step 1: Add the Moonbeam Custom Data Source
 
