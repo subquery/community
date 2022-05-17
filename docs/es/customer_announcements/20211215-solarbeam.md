@@ -8,7 +8,7 @@ Solarbeam ha lanzado recientemente [Eclipse](https://app.solarbeam.io/eclipse), 
 
 ![](https://miro.medium.com/max/1400/1*IbRN8EnymWvqvh0sx_PNKw.png)
 
-> _"SubQuery has proved to be a reliable tool for querying events and transactions on EVM and Substrate based chains, with a minimal latency for syncing new data and suitable for large amounts of data. As a result, we believe SubQuery will provide as good of an experience on Moonbeam as it has for us on Moonriver"_ — Founder, Solarbeam
+> _"Subquery ha demostrado ser una herramienta fiable para para consultar eventos y transacciones en cadenas basadas en EVM y Substrate, con una latencia mínima para sincronizarse con nuevos datos y apto para volumenes extensos de datos. Como resultado, creemos que SubQuery proveerá una experiencia tan buena en Moonbeam como la que nos ha proporcionado en Moonriver"_ - Fundador, Solarbeam
 
 El servicio de [SubQuery](https://subquery.network/) ayuda a impulsar analíticas para el launchpad IDO de Eclipse por Solarbeam. Antes de su lanzamiento en Moonbeam, Solarbeam integrará SubQuery con su herramienta de análisis de portafolio de usuarios que permitirá a los usuarios rastrear su historial de farming y beneficios. Esto es posible gracias a la [reciente integración del EVM de Moonbeam y Moonriver con SubQuery](./20211028-moonbeam-evm.md).
 
