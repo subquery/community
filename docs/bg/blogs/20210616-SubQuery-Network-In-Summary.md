@@ -20,33 +20,33 @@
 
 Нека започнем с индексиращите, които вършат много от тежката работа зад кулисите. Управлението на хардуера, стартирането на инфраструктурата, наблюдението на ресурсите и изборът на правилните проекти за индексиране на SubQuery
 
-Това отнема време и пари, но след като ги получат, потребителите могат да идват и да отправят искания. Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
+Това отнема време и пари, но след като ги получат, потребителите могат да идват и да отправят искания. Потребителите правят заявки към мрежата SubQuery за конкретни данни и заплащат обявена сума от нашия токен, SQT.
 
 ![](https://miro.medium.com/max/1400/1*dKLkzSc2uXYaPW_IXUxstQ.png)
 
-Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
+Потребителите правят заявки към мрежата SubQuery за конкретни данни и заплащат обявена сума от нашия токен, SQT.
 
 ## Производствената Функция на Коб-Дъглас
 
-This payment goes into a project revenue pool and at the end of a staking era (28 days) we take this project revenue pool and split it. It’s spit across indexers by something called the Cobb-Douglas production function.
+Това плащане отива в пул за приходи от проекта и в края на периода на залагане (28 дни) вземаме този пул за приходи от проекта и го разделяме. Тя се разпределя между индексите чрез нещо, наречено производствена функция на Коб-Дъглас.
 
 ![](https://miro.medium.com/max/1400/1*E-W7o7cWoclxHb8rXAMdpA.png)
 
-It’s spit across indexers by something called the Cobb-Douglas production function.
+Тя се разпределя между индексите чрез нещо, наречено производствена функция на Коб-Дъглас.
 
-This approach, in simple terms, means that revenue is allocated to competing Indexers as a proportion of both requests answered and amount staked.
+Най-просто казано, този подход означава, че приходите се разпределят между конкуриращите се индексатори като част от отговорите на заявките и размера на залозите.
 
 ![](https://miro.medium.com/max/1400/1*VhDu2BGDxd3ob7z9XkoOXA.png)
 
-Revenue is allocated to competing Indexers as a proportion of both requests answered and amount staked.
+Приходите се разпределят между конкуриращите се индексиращи оператори като част от отговорите на заявките и размера на залозите.
 
-In our view, the beauty of this equation is that a rational Indexer must maintain a high level of staked SQT relative to the work they do in order to receive optimal revenue. As a result, we do not need to enforce arbitrary staking requirements because Indexers are incentivised to self-manage and maintain a stake or skin in the game.
+Според нас красотата на това уравнение се състои в това, че рационалният индексиращ трябва да поддържа високо ниво на заложените SQT спрямо работата, която върши, за да получи оптимален приход. В резултат на това не е необходимо да налагаме произволни изисквания за залог, тъй като индексиращите са стимулирани да се самоуправляват и да поддържат залог или участие в играта.
 
 ## Делегатори
 
-So Indexers are incentivised to both do as much work as possible, and to stake as much as possible to maximise their rewards. This is where delegators come in.
+Така че индексиращите са стимулирани да вършат колкото се може повече работа и да залагат колкото се може повече, за да получат максимални възнаграждения. Тук се намесват делегатите.
 
-Delegators can delegate their spare SQT to Indexers, each Indexer can publish a _query fee revenue share rate_, and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in.
+Делегатите могат да делегират своите свободни SQT на индексиращите устройства, като всяко индексиращо устройство може да публикува _стойност на споделяне на приходите от таксите за заявки_ и тези делегати ще бъдат възнаградени с част от приходите от таксите за заявки, които индексиращото устройство получава.
 
 ![](https://miro.medium.com/max/1400/1*YoN7PV7h3a2nAFN-ODqILg.png)
 
