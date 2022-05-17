@@ -22,9 +22,9 @@ Wir sind hier extrem tief gegangen, um Transparenz mit der Community zu schaffen
 
 Der Aufbau eines neuen dezentralen und tokenisierten Netzwerks ist ein enormer Arbeitsaufwand und leider eine Arbeit, die nach außen seit einiger Zeit nicht mehr klar sichtbar ist. Davon abgesehen haben wir seit einiger Zeit ein Top-Team von engagierten Entwicklern, die daran arbeiten und langsam aber sicher die Liste der Smart Contract-Implementierungen durcharbeiten, um uns dem Start des ersten internen Testnetzes bis Ende des Jahres näher zu bringen.
 
-## Core Product Development
+## Entwicklung von Kernprodukten
 
-### Moonriver EVM Support
+### Moonriver EVM-Unterstützung
 
 Dies ist ein bedeutender Meilenstein für uns und eine große Partnerschaft mit Moonbeam. Derzeit gibt es kein Open-Source-Tool, mit dem Entwickler flexibel Daten sowohl über Ethereum als auch Polkadot/Kusama sammeln und abfragen können. Diese Einschränkung kann dazu führen, dass dApps-Lösungen innerhalb von Moonriver in die Smart-Contract-Schicht integriert werden und dadurch ihr Potenzial für Verbraucher in beiden florierenden Netzwerken einschränken.
 
@@ -32,9 +32,9 @@ Diese Partnerschaft mit Moonbeam bietet eine vollständige und einheitliche Date
 
 [Lesen Sie hier mehr über unseren Moonriver EVM-Support](../customer_announcements/20211028-moonbeam-evm.md)
 
-## Community
+## Gemeinschaft
 
-### The Spartan Programme
+### Das spartanische Programm
 
 Im August startete SubQuery sein Ambassador-Programm, um Community-Leader zu finden, die sich für Polkadot und SubQuery begeistern. Überraschenderweise waren wir von Tausenden und Abertausenden von Bewerbungen völlig überwältigt, und unsere anfänglichen Pläne, Bewerber manuell einzubinden, sind zu einer Herausforderung geworden. Nach Rücksprache mit unseren bestehenden Ambassadors haben wir eine neue und transparente Methode entwickelt, um in unserer Discord-Community aufzusteigen und möglicherweise Ambassador zu werden.
 
@@ -44,7 +44,7 @@ Um mehr über unser Spartan-Programm zu erfahren und an unserem November-Wettbew
 
 [Lesen Sie hier mehr über unser Spartan-Programm](../blogs/20211101-spartan-programme.md)
 
-### SubQuery Academy
+### SubQuery-Akademie
 
 Das Onboarding neuer Entwickler und die Vermittlung der Fähigkeiten, die sie zum Erstellen der dApps von morgen benötigen, ist für den Erfolg unserer Community unglaublich wichtig.
 
@@ -54,13 +54,13 @@ Unsere Akademie zielt darauf ab, einen aufstrebenden Blockchain-Entwickler vom A
 
 [Lesen Sie hier mehr über die Akademie von SubQuery ](../blogs/20211018-subquery-launches-the-subquery-academy.md)
 
-### Community Call
+### Aufruf der Gemeinschaft
 
 Am 28. Oktober hielten wir unseren allerersten Community-Call ab, um unsere Roadmap und die neuesten Community-Updates zu teilen. Es war großartig, mit unserer Community die Dinge, die sie schon lange fragen, auf persönlichere Weise zu teilen. Wir danken allen, die zu dem Anruf gekommen sind, und planen, diese Anrufe regelmäßiger zu veranstalten. Es wäre für viele von euch das erste Mal gewesen, auch von unserer neuen Community-Managerin Sally zu hören, die Anfang Oktober zu uns kam.
 
 [Sehen Sie sich hier die Aufzeichnung der Oktober-Session an](https://www.crowdcast.io/e/subquery-sessions-october)
 
-## Other things you might have missed
+## Andere Dinge, die Sie vielleicht verpasst haben
 
 - Wir haben uns mit Acala zusammengetan, um den [größten Pool an Preisen für die Encode Club Polkadot Hackathons](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e) bereitzustellen.
 - [SubQuery hilft Khala beim Bau ihrer neuen ERC20-Chainbrücke](../customer_announcements/20211021-khala.md)
