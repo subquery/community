@@ -12,13 +12,13 @@ Nach 10 Wochen und der Prüfung durch hochkarätige Juroren aus dem Polkadot-Ök
 
 Bei der ersten Herausforderung, einen DeFi-Bot zu bauen, standen Preise in Höhe von 3.500 US-Dollar für Teilnehmer zur Verfügung, die einen Bot bauen konnten, der DeFi-Aktivitäten und On-Chain- oder aggregierte Daten durch SubQuery nutzte, um von den Möglichkeiten innerhalb der Acala/Karura-Plattform zu profitieren.
 
-The team at [Krakura](https://github.com/houtenbos/krakura-bot) won this challenge with an interesting open source DEX exchange arbitrage bot built specifically for Karura. [The arbitrage bot](https://github.com/houtenbos/krakura-bot) constantly checks for pricing differences between the two platforms and executes trades when they are profitable.
+Das Team von [Krakura](https://github.com/houtenbos/krakura-bot) hat diese Herausforderung mit einem interessanten Open Source DEX Exchange Arbitrage Bot gewonnen, der speziell für Karura entwickelt wurde. [Der Arbitrage-Bot](https://github.com/houtenbos/krakura-bot) prüft ständig die Preisunterschiede zwischen den beiden Plattformen und führt Trades aus, wenn sie profitabel sind.
 
 [Sehen Sie sich eine Video-Demo von Krakura an](https://youtu.be/G7TNTzMDijU)
 
-## Dashboard or Analytics Tool
+## Dashboard oder Analysewerkzeug
 
-Die zweite Herausforderung im Wert von 4.000 US-Dollar an Preisen forderte Entwickler auf, die Datenindizierungsdienste von SubQuery zu nutzen, um ein Dashboard oder Analysetool auf der Grundlage von Karura-Daten zu erstellen. The winner of this challenge was the team from [Polkadata](https://www.polkadata.xyz/), a data analytics platform for DeFi investors to track how smart money is investing and structuring their portfolio on Karura.
+Die zweite Herausforderung im Wert von 4.000 US-Dollar an Preisen forderte Entwickler auf, die Datenindizierungsdienste von SubQuery zu nutzen, um ein Dashboard oder Analysetool auf der Grundlage von Karura-Daten zu erstellen. Der Gewinner dieses Wettbewerbs war das Team von [Polkadata](https://www.polkadata.xyz/), einer Datenanalyseplattform für DeFi-Investoren, mit der sie verfolgen können, wie intelligentes Geld auf Karura investiert und sein Portfolio strukturiert.
 
 „_Der Encode-Hackathon bot eine großartige Gelegenheit, sich mit leidenschaftlichen Entwicklern im Polkadot-Ökosystem zu vernetzen und zusammenzuarbeiten. Alle Beteiligten, einschließlich des Encode-Teams, Partnerorganisationen und anderer Hacker, waren alle gastfreundlich und außerordentlich hilfsbereit. Außerdem vermittelten klare Richtlinien und feste Fristen unserem Team ein Gefühl der Dringlichkeit, das der Schlüssel zum Aufbau von MVP war._
 
@@ -26,7 +26,7 @@ _Das Beste am Hackathon war, andere Hacker zu treffen und Vordenker von Startups
 
 ![](https://miro.medium.com/max/1400/0*o01LCEIOu-FyUOWx)
 
-## Build a DeFi DApp
+## Erstellen einer DeFi DApp
 
 Diese Herausforderung beinhaltete den größten Preis des gesamten Hackathons im Wert von 3.500 $ und einen Gesamt-Challenge-Pool von 5.000 $.
 
