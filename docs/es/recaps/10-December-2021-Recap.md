@@ -1,10 +1,10 @@
-# December 2021 Recap
+# Resumen Diciembre 2021
 
 ![](https://miro.medium.com/max/1400/1*-gXOf6qYQiYypDCVBeE1kg.png)
 
-This year has absolutely flown by and SubQuery has come a long way! Since February 2021, we’ve grown a huge inclusive community, helped hundreds of projects to build faster, and scaled our hosted service to handle hundreds of millions of API requests for the top projects in Polkadot.
+¡Este año ha pasado volando absolutamente y SubQuery ha recorrido un largo camino! Desde febrero de 2021, hemos construido una gran comunidad inclusiva, ayudado a cientos de proyectos a desarrollarse más rápido y escalado nuestro servicio alojado para manejar cientos de millones de solicitudes de API para los principales proyectos en Polkadot.
 
-Read on for a message from Sam, and learn what we go up to in the final days of 2021!
+¡Continúa leyendo para ver un mensaje de Sam, y descubre lo que hacemos en los últimos días del 2021!
 
 ## SubQuery Network
 
