@@ -28,7 +28,7 @@ SubQuery está ansioso por apoyar a todos los equipos para que hagan realidad su
 
 Se anima a los solicitantes que estén interesados en alguna de estas recompensas a que presenten su propuesta con el presupuesto necesario para completar la tarea y otros requisitos [aquí](https://docs.google.com/forms/d/e/1FAIpQLSfmMazkebKwNTWThBkVGaxf2Bg8s4aWZ0ZhwiMCtc9kv4sJHQ/viewform). Si tienes alguna pregunta, únete a nuestro servidor de Discord y ponte en contacto con nuestro equipo en el canal de subvenciones.
 
-Para aquellos que deseen mejorar sus habilidades en SubQuery antes de realizar una solicitud, [La Academia SubQuery](./20211018-subquery-launches-the-subquery-academy.md) _"Curso de héroe"_ es un programa educativo gratuito y modular diseñado para crear conciencia entre los desarrolladores. y es [completamente gratuito Y accesible a través del portal en línea](https://subquery.coassemble.com/unlock/dOKZW6O#/).
+Para aquellos que deseen mejorar sus habilidades en SubQuery antes de realizar una solicitud, [La Academia SubQuery](./20211018-subquery-launches-the-subquery-academy.md) _"Curso de héroe"_ es un programa educativo gratuito y modular diseñado para crear conciencia entre los desarrolladores. Y es [completamente gratuito y accesible a través del portal en línea](https://subquery.coassemble.com/unlock/dOKZW6O#/).
 
 ## Acerca de SubQuery
 
