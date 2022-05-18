@@ -24,13 +24,13 @@ Stiamo ancora cercando di più, specialmente nelle seguenti aree. Per favore, sa
 - [Ingegneri SRE](https://angel.co/company/subquery/jobs/1497942-site-reliability-engineer)
 - Sviluppatori [Rust](https://angel.co/company/subquery/jobs/1494414-rust-developer) e [Solidity](https://angel.co/company/subquery/jobs/1494435-solidity-developer)
 
-Siamo convinti che gli sviluppatori del nostro settore debbano concentrarsi sulla costruzione del futuro, non sull'esecuzione dell'infrastruttura: il nostro servizio in hosting SubQuery ne è la manifestazione. [In June we released deployment slots](../blogs/20210604-Deployment-Slots-are-here-for-SubQuery-Projects.md), a whole new feature that improves the developer experience in SubQuery’s hosted service.
+Siamo convinti che gli sviluppatori del nostro settore debbano concentrarsi sulla costruzione del futuro, non sull'esecuzione dell'infrastruttura: il nostro servizio in hosting SubQuery ne è la manifestazione. [A giugno abbiamo rilasciato gli slot di distribuzione](../blogs/20210604-Deployment-Slots-are-here-for-SubQuery-Projects.md), una funzionalità completamente nuova che migliora l'esperienza degli sviluppatori nel servizio ospitato di SubQuery.
 
 Gli slot di distribuzione sono una nuova funzione che significa che gli sviluppatori possono aggiornare il loro progetto, reindicizza i loro dati e aggiorna la loro produzione ospitata SubQuery Project con zero tempi di inattività. Continuiamo a rendere il nostro servizio gestito gratuito la scelta predefinita per il luogo in cui i nostri clienti scelgono di eseguire la loro infrastruttura.
 
 Una richiesta comune che dobbiamo affrontare dai nostri clienti è come migliorare la velocità di indicizzazione del loro progetto SubQuery. L'indicizzazione dei dati storici su una catena grande come Polkadot può richiedere ore se non giorni, rendendo i test difficili.
 
-SubQuery projects now have the option to skip all this using our new feature — [the SubQuery Dictionary](../blogs/20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md). In sostanza, pre-indiciamo la posizione di tutti gli eventi all'interno di una catena e, di conseguenza, abbiamo visto una velocità di indicizzazione fino a 10 volte più veloce, SubQuery è più veloce che mai.
+I progetti SubQuery hanno ora la possibilità di saltare tutto questo utilizzando la nostra nuova funzione - [il Dizionario SubQuery](../blogs/20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md). In sostanza, pre-indiciamo la posizione di tutti gli eventi all'interno di una catena e, di conseguenza, abbiamo visto una velocità di indicizzazione fino a 10 volte più veloce, SubQuery è più veloce che mai.
 
 La Cina è una parte fondamentale dei nostri piani di espansione strategica. A giugno Siqi si è unito a noi e guiderà lo sviluppo del nostro business nella regione. Ha sicuramente preso il volo, entrando in contatto con molti dei nostri clienti e partner esistenti lì.
 
