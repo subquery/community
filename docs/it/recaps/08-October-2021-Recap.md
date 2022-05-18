@@ -4,29 +4,29 @@
 
 **Putting Our Plans Into Motion**
 
-Welcome to the latest monthly update from SubQuery, and what will be the first one for many of you based on the growth of our community.
+Benvenuti all'ultimo aggiornamento mensile di SubQuery, che per molti di voi sarà il primo, vista la crescita della nostra comunità.
 
-From here on out we will try to structure every update around three key areas; community, core product development, and the SubQuery Network.
+D'ora in poi cercheremo di strutturare ogni aggiornamento intorno a tre aree chiave: la comunità, lo sviluppo del prodotto principale e la rete SubQuery.
 
 ## SubQuery Network
 
-### Technical Roadmap Announced
+### Annunciata la roadmap tecnica
 
-At our community call last week we shared more about our plans for the future. We are excited about how the next evolution of SubQuery will drive even more value to the Polkadot ecosystem and provide more opportunities for our community to participate in our growth.
+La scorsa settimana, in occasione dell'incontro con la comunità, abbiamo condiviso ulteriori informazioni sui nostri piani per il futuro. Siamo entusiasti di come la prossima evoluzione di SubQuery porterà ancora più valore all'ecosistema Polkadot e fornirà maggiori opportunità alla nostra comunità di partecipare alla nostra crescita.
 
-We’ve gone extremely deep here for transparency with the community and to rationalise the work we have ahead. It’s an ambitious timeline that we are internally using as a target, you can see how many moving pieces there are from the image below! That being said, estimating timelines for R&D software development is notoriously difficult, so nothing below is final — it’s just our best effort at estimations.
+Siamo andati molto in profondità per trasparenza nei confronti della comunità e per razionalizzare il lavoro che ci aspetta. È una linea temporale ambiziosa che stiamo usando internamente come obiettivo, potete vedere quanti pezzi in movimento ci sono dall'immagine qui sotto! That being said, estimating timelines for R&D software development is notoriously difficult, so nothing below is final — it’s just our best effort at estimations.
 
 [Read more about our technical roadmap here](../blogs/20211029-roadmap-october.md)
 
 ### Significant Development on the SubQuery Network
 
-Building a new decentralised and tokenised network is a huge amount of work and it is unfortunately work that isn’t clearly visible externally for some time. That being said, we’ve had a top team of dedicated developers working on this for some time, slowly but surely working through the list of smart contract implementations to bring us closer to launching the first internal testnet by the end of the year.
+La costruzione di una nuova rete decentralizzata e tokenizzata è un lavoro enorme e, purtroppo, non è chiaramente visibile all'esterno per un certo periodo di tempo. Detto questo, abbiamo un team di sviluppatori dedicati che ci lavora da un po' di tempo, lavorando lentamente ma inesorabilmente sull'elenco delle implementazioni dei contratti intelligenti per avvicinarci al lancio della prima rete di test interna entro la fine dell'anno.
 
 ## Core Product Development
 
 ### Moonriver EVM Support
 
-This is a significant milestone for us and a huge partnership with Moonbeam. Currently, there is no open-source tool which allows developers to flexibly collect and query data across both Ethereum and Polkadot/Kusama. This limitation can cause dApps solutions within Moonriver to be siloed into the smart contract layer and thereby limit their potential to consumers across both thriving networks.
+This is a significant milestone for us and a huge partnership with Moonbeam. Attualmente non esiste uno strumento open-source che permetta agli sviluppatori di raccogliere e interrogare in modo flessibile i dati sia su Ethereum che su Polkadot/Kusama. Questa limitazione può far sì che le soluzioni dApp all'interno di Moonriver siano isolate nel livello degli smart contract, limitando così il loro potenziale per i consumatori di entrambe le reti.
 
 This partnership with Moonbeam brings a complete and unified data indexing solution for all blockchain data within Moonriver and will greatly benefit Moonriver’s growing application ecosystem. With SubQuery’s innovation, one tool can now query and filter EVM logs and transactions in addition to Substrate data sources.
 
