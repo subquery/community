@@ -82,41 +82,41 @@ Entidad 54 fueron los ganadores en la categoría AcalaNetwork Defi DApp. Entidad
 
 [Lea más aquí](../blogs/20220120-gr12-winners.md)
 
-### SubQuery Partners with OneBlock+ To Educate Blockchain Developers in China
+### Alianza de SubQuery con OneBlock+ para educar a los desarrolladores de blockchain en China
 
-SubQuery’s community has always been global, and a huge number of SubQuery’s customers come from the thriving Polkadot community in China.
+La comunidad de SubQuery siempre ha sido global, y un gran número de clientes de SubQuery provienen de la emocionante comunidad Polkadot en China.
 
-SubQuery recently launched the SubQuery Academy to upskill blockchain developers globally, specifically in the area of data indexing in the Polkadot ecosystem. The existing “Hero Course” has been translated to Chinese and will be delivered via WeChat. OneBlock+ will provide additional learning support to students via weekly “Office Hours” on Tencents Conference platform.
+SubQuery lanzó recientemente SubQuery Academia para mejorar las habilidades de los desarrolladores de blockchain en todo el mundo, específicamente en el área de indexación de datos en el ecosistema Polkadot. El "curso de héroe" existente ha sido traducido al chino y será entregado a través de WeChat. OneBlock+ proporcionará apoyo adicional de aprendizaje a los estudiantes a través de “Horas De Oficina” semanales en la plataforma de conferencias de Tencents.
 
-The delivery of this course in China is the embodiment of SubQuery’s dedication to providing local language support for all of our communities around the world. [Read more here](../blogs/20211209-oneblock-education.md)
+La entrega de este curso en China es la encarnación de la dedicación de SubQuery de brindar soporte en el idioma local para todas nuestras comunidades alrededor del mundo. [Lea más aquí](../blogs/20211209-oneblock-education.md)
 
-### Inside The Polkadot Crowdloans (Part 2)
+### Dentro de los Préstamos Colectivos Polkadot (Parte 2)
 
-Like any keen fan of the Polkadot ecosystem, we were fascinated by the recent Polkadot crowdloan process and decided to put our data to work! After examining the battle between Acala and Moonbeam we conducted more analysis on how the Astar and Parallel Finance auction shaped up.
+Como cualquier entusiasta del ecosistema de Polkadot, nos fascinó el reciente proceso de préstamo colectivo de Polkadot y decidimos poner nuestros datos a trabajar. Después de examinar la batalla entre Acala y Moonbeam, conducimos más análisis sobre cómo se desarrolló la subasta de Astar y Parallel Finance.
 
-In a nutshell, Astar and Parallel Finance led a very competitive auction, where Astar was selected as the winner at block [7927110](https://polkadot.subscan.io/block/7927110), with a lead of only 120,000 DOT! If there was another random block selected any earlier or later, the result may have been quite different.
+Astar y Parallel Finance lideraron una subasta muy competitiva, donde Astar fue seleccionado como el ganador en el bloque [7927110](https://polkadot.subscan.io/block/7927110), con una ventaja de solo 120.000 DOT! Si hubiera otro bloque aleatorio seleccionado antes o después, el resultado podría haber sido bastante diferente.
 
 ![](https://miro.medium.com/max/1400/1*2EnTjVHEztLqCDyoRoLasQ.png)
 
-Having auctions that have been extremely competitive suggests a healthy ecosystem, and it is encouraging to see the amount of commitment that the community has shown. Here at SubQuery we are very excited to continue working alongside the best Polkadot projects, and can’t wait to see what the future has in store for us. [Read more here](../blogs/20211124-polkadot-crowdloans.md)
+Tener subastas que han sido extremadamente competitivas sugiere un ecosistema saludable y es alentador ver la cantidad de compromiso que ha mostrado la comunidad. Aquí en SubQuery estamos muy emocionados de continuar trabajando junto con los mejores proyectos de Polkadot, y no podemos esperar a ver qué nos depara el futuro. [Lea más aquí](../blogs/20211124-polkadot-crowdloans.md)
 
 ### Gitcoin Hackathon
 
-To continue our work in growing the developer community for SubQuery, [we participated in the recent Gitcoin GR 12 Hackathon](../blogs/20211120-gitcoin12-hackathon.md) from December 1–16th.
+Para continuar nuestro trabajo en el crecimiento de la comunidad de desarrolladores para SubQuery, [participamos en el reciente Hackathon Gitcoin GR 12](../blogs/20211120-gitcoin12-hackathon.md) del 1 al 16 de diciembre.
 
-Partnering with our friends at Acala, Moonbeam and Astar, we had five different challenges with a total prize pool of $34,000 USDC. We were really encouraged by the quality of applications and will be announcing more details about the winners soon.
+Asociándonos con nuestros amigos en Acala, Moonbeam y Astar, tuvimos cinco retos diferentes con un bote de premios total de $34,000 USDC. Nos animó mucho la calidad de las aplicaciones y pronto anunciaremos más detalles sobre los ganadores.
 
 ![](https://miro.medium.com/max/1400/1*H84EaIQhTn5H0x-lWHyP3g.png)
 
-Our partnership with Gitcoin reflects our commitment to provide opportunities for motivated developers around the world to build the applications of tomorrow. As we grow there will be more hackathons and other opportunities from SubQuery to build projects so stay tuned!
+Nuestra asociación con Gitcoin refleja nuestro compromiso de proporcionar oportunidades para desarrolladores motivados de todo el mundo para construir las aplicaciones del mañana. A medida que crezcamos habrá más hackathons y otras oportunidades de SubQuery para construir proyectos así que ¡mantente atento!
 
-## Other things you might have missed
+## Otras cosas que te puedes haber perdido
 
-- [**Solarbeam work with SubQuery for their new Eclipse Launchpad**](../customer_announcements/20211215-solarbeam.md)
-- Following the [Polkadot announcement](https://polkadot.network/blog/introducing-polkadot-kusama-gifts/) that you can gift DOT or KSM to friends or family, many have taken advantage of this and given the gift of a digital asset this year. In the spirit of Christmas s[ee our breakdown of Polkadot’s gifting data](../blogs/20211223-gifting.md)
+- [**Solarbeam trabaja con SubQuery para su nuevo Launchpad Eclipse**](../customer_announcements/20211215-solarbeam.md)
+- Tras el [anuncio de Polkadot](https://polkadot.network/blog/introducing-polkadot-kusama-gifts/) de que puedes regalar DOT o KSM a amigos o familiares, muchos han aprovechado esto y regalado un activo digital este año. Con el espíritu navideño, [vea nuestro desglose de los datos de obsequios de Polkadot](../blogs/20211223-gifting.md)
 
-As always, please [join our social channels](https://linktr.ee/subquerynetwork) (especially our [Discord](https://discord.com/invite/subquery)) to stay updated on our latest news and announcements.
+Como siempre, por favor [únete a nuestros canales sociales](https://linktr.ee/subquerynetwork) (especialmente nuestro [Discord](https://discord.com/invite/subquery)) para estar al día de nuestras últimas noticias y anuncios.
 
-James, Sam, and the SubQuery Team
+James, Sam y el equipo de SubQuery
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
