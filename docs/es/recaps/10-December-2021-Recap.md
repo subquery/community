@@ -14,7 +14,7 @@ A finales de diciembre, nos sentimos orgullosos de anunciar el lanzamiento de nu
 
 La visión de la iniciativa [SubQuery Subvenciones](https://subquery.network/grants) es ofrecer oportunidades primordiales a los desarrolladores de blockchain, los miembros de la comunidad y los participantes del ecosistema en general para que puedan crear la próxima generación de aplicaciones descentralizadas (dApps). Se espera que estas aplicaciones impulsen las soluciones basadas en Polkadot que soportarán la Web 3.0, el cual es un conjunto de estándares en evolución para la Internet del futuro.
 
-<iframe width="680" height="382" src="https://www.youtube.com/embed/Gcu2syKYlB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="680" height="382" src="https://www.youtube.com/embed/Gcu2syKYlB4" title="Vista previa de YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 SubQuery está buscando innovación o ideas de alto potencial que aprovechen las herramientas de indexación de datos de código abierto de SubQuery para respaldar aplicaciones de vanguardia que aborden problemas en el sector de blockchain o tecnología de contabilidad distribuida (DLT). Estamos particularmente interesados en aplicaciones fáciles de usar que desbloquean los datos de Polkadot o parachains, que puedan proporcionar un punto de entrada intuitivo a nuestro ecosistema. Nuestro objetivo es atraer a millones de usuarios al ecosistema de Polkadot ayudando a los constructores a crear la próxima generación de aplicaciones descentralizadas (dApps). [Puedes leer más aquí](../blogs/20211222-grants.md)
 
@@ -70,7 +70,7 @@ Después de 10 semanas y el escrutinio de jueces de alto perfil en el ecosistema
 
 🤖 El desafío de “construir un bot” fue ganado por el equipo de Krakura con un interesante bot de arbitraje DEX de código abierto que constantemente comprueba las diferencias de precios.
 
-<iframe width="680" height="382" src="https://www.youtube.com/embed/G7TNTzMDijU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="680" height="382" src="https://www.youtube.com/embed/G7TNTzMDijU" title="Vista previa de YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 El ganador del desafío del panel con AcalaNetwork fue el equipo de Polkadata, una plataforma de análisis de datos para inversores de DeFi para rastrear cómo el dinero inteligente está invirtiendo y estructurando su cartera en Karura
 
@@ -78,9 +78,9 @@ El ganador del desafío del panel con AcalaNetwork fue el equipo de Polkadata, u
 
 Entidad 54 fueron los ganadores en la categoría AcalaNetwork Defi DApp. Entidad 54 es una DApp que se conecta a AMTC6 a través de Acala API/EVM y lee saldos de cuentas, préstamos y permite intercambios, transferencias, ajustes de préstamos y transferencias, además de leer monedas y datos de préstamos
 
-<iframe width="680" height="382" src="https://www.youtube.com/embed/fU1BRVOtx2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="680" height="382" src="https://www.youtube.com/embed/fU1BRVOtx2o" title="Vista previa de YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Lea más aquí](../blogs/20220120-gr12-winners.md)
+[Lea más aquí](../blogs/2020-gr12-winners.md)
 
 ### Alianza de SubQuery con OneBlock+ para educar a los desarrolladores de blockchain en China
 
