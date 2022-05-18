@@ -1,12 +1,12 @@
-# February Recap
+# Recapitulación de febrero
 
 ![](https://miro.medium.com/max/1400/1*T3DLiAKSIy-AjRia_JJjow.png)
 
-February flew by for the team at SubQuery as we have been busy on all fronts preparing for our TGE and servicing all of our existing customers including the leading teams in Polkadot.
+Febrero pasó volando para el equipo de SubQuery, ya que hemos estado ocupados en todos los frentes preparándonos para nuestro evento de generación de tokens (TGE) y brindando servicio a todos nuestros clientes existentes, incluidos los equipos líderes en Polkadot.
 
-We have a lot of exciting work going on that we can't wait to share in the weeks and months ahead!
+¡Tenemos mucho trabajo emocionante en marcha que no podemos esperar por compartir en las próximas semanas y meses!
 
-## Community
+## Comunidad
 
 This month we finally passed 30,000 organic Twitter followers and our Discord has swelled to over 15,000 active community members working to help one another. It's not enough to build a tool or an application in web3, you need to build a self sustaining community and we're hard at work on this at SubQuery!
 
