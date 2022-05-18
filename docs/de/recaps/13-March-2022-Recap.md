@@ -1,10 +1,10 @@
-# March 2022 Recap
+# März 2022 Zusammenfassung
 
 ![](https://miro.medium.com/max/1400/1*ePGA5YU2NgY-qhQ66xAzcg.png)
 
-Welcome to the latest SubQuery Monthly Update!
+Willkommen zum neuesten SubQuery Monthly Update!
 
-As usual the past month was action-packed with the news of our integration with Avalanche taking centre-stage. We also made massive progress towards our TGE after announcing the launch of our Testnet, "The Frontier" and have invited the first participants to our closed beta.
+Wie üblich war der letzte Monat aktiv mit den Nachrichten über unsere Integration mit Avalanche im Mittelpunkt. Wir haben auch massive Fortschritte in Richtung unseres TGE gemacht, nachdem wir den Start unseres Testnetzes „The Frontier“ angekündigt haben, und haben die ersten Teilnehmer zu unserer geschlossenen Beta eingeladen.
 
 Meanwhile, we also announced partnerships with several teams in Polkadot and we rewarded our rapidly community by continuing our partnership with Gitcoin.
 
