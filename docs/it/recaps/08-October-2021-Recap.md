@@ -1,8 +1,8 @@
-# October 2021 Recap
+# Riassunto del mese di ottobre 2021
 
 ![](https://miro.medium.com/max/1400/1*Yf3LOc6onAZ-XRQLPyxAmQ.png)
 
-**Putting Our Plans Into Motion**
+**Mettere in moto i nostri piani**
 
 Benvenuti all'ultimo aggiornamento mensile di SubQuery, che per molti di voi sarà il primo, vista la crescita della nostra comunità.
 
