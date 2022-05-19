@@ -4,7 +4,7 @@
 
 **Lesen Sie mehr über unseren technischen Einblick in die neueste Version von SubQuery**
 
-## Unterstützung für externe Kettentypdateien im Projektmanifest
+## Unterstützung für externe Chain-Typ-Dateien im Projektmanifest
 
 Heute ist der Start von [Version 0.2.0](https://doc.subquery.network/create/manifest/) unserer Projektmanifestdatei (`project.yaml`). Diese neue Version bietet Entwicklern verschiedene Verbesserungen, die von Kunden gewünscht wurden.
 
