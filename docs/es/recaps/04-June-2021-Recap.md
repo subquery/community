@@ -14,7 +14,7 @@ La Red SubQuery es nuestro esfuerzo por pasar a una red descentralizada y tokeni
 
 [El mes pasado, publicamos nuestro libro blanco para que el mundo lo leyera.](https://static.subquery.network/whitepaper.pdf) También puede leer/ver una [breve explicación aquí](../blogs/20210616-SubQuery-Network-In-Summary.md).
 
-Tenemos metas ambiciosas en SubQuery para ser el proveedor de servicios de datos más rápido y accesible en Substrate. We’ve written this whitepaper to highlight our [competitive advantages](../blogs/20210616-SubQuery-Network-Our-Goals-and-Competitive-Advantages.md) and our focus now is on executing this vision. La SubQuery Network abarca dos aspectos clave, flexibilidad y simplicidad.
+Tenemos metas ambiciosas en SubQuery para ser el proveedor de servicios de datos más rápido y accesible en Substrate. Hemos redactado este libro blanco para destacar nuestras [ventajas competitivas](../blogs/20210616-SubQuery-Network-Our-Goals-and-Competitive-Advantages.md) y ahora nos centramos en ejecutar esta visión. La SubQuery Network abarca dos aspectos clave, flexibilidad y simplicidad.
 
 Las metas ambiciosas requieren un equipo de primera clase, y hemos estado añadiendo constantemente nuevos miembros al equipo durante el mes de junio. Esto incluye: nuevos pasantes de desarrollo, un diseñador de UX, un escritor de documentación de desarrollo y personal de desarrollo de negocios basado en China.
 
@@ -24,13 +24,13 @@ Todavía estamos buscando más, especialmente en las siguientes áreas. Por favo
 - [Ingenieros de SRE](https://angel.co/company/subquery/jobs/1497942-site-reliability-engineer)
 - [Desarrolladores](https://angel.co/company/subquery/jobs/1494414-rust-developer) de [Rust y Solidity](https://angel.co/company/subquery/jobs/1494435-solidity-developer)
 
-Creemos que los desarrolladores de nuestra industria deberían centrarse en construir el futuro, no ejecutar infraestructura — nuestro servicio alojado en SubQuery es la manifestación de eso. [In June we released deployment slots](../blogs/20210604-Deployment-Slots-are-here-for-SubQuery-Projects.md), a whole new feature that improves the developer experience in SubQuery’s hosted service.
+Creemos que los desarrolladores de nuestra industria deberían centrarse en construir el futuro, no ejecutar infraestructura — nuestro servicio alojado en SubQuery es la manifestación de eso. [En junio lanzamos las ranuras de despliegue](../blogs/20210604-Deployment-Slots-are-here-for-SubQuery-Projects.md), una característica totalmente nueva que mejora la experiencia del desarrollador en el servicio alojado de SubQuery.
 
 Las ranuras de despliegue son una nueva característica que permite a los desarrolladores actualizar su proyecto, reindexar sus datos y actualizar su SubQuery Project de producción hospedado con cero tiempo de inactividad. Seguimos haciendo de nuestro servicio gratuito de gestión la opción por defecto para donde nuestros clientes deciden ejecutar su infraestructura.
 
 Una petición común que afrontamos por parte de nuestros clientes es cómo mejorar la velocidad de indexación de su proyecto SubQuery. La indexación de datos históricos en una cadena tan grande como Polkadot puede tomar horas si no días, lo que dificulta la prueba.
 
-SubQuery projects now have the option to skip all this using our new feature — [the SubQuery Dictionary](../blogs/20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md). Esencialmente preindexamos la ubicación de todos los eventos dentro de una cadena y como resultado hemos visto hasta 10 veces más rápido de indexación, SubQuery es más rápido que nunca.
+Los proyectos de SubQuery tienen ahora la opción de saltarse todo esto usando nuestra nueva característica - [el Diccionario de SubQuery](../blogs/20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md). Esencialmente preindexamos la ubicación de todos los eventos dentro de una cadena y como resultado hemos visto hasta 10 veces más rápido de indexación, SubQuery es más rápido que nunca.
 
 China es una parte clave de nuestros planes estratégicos de expansión. En junio, Siqi se unió a nosotros y liderará nuestro desarrollo empresarial en la región. Sin duda, ha empezado a trabajar, conectándose con muchos de nuestros clientes y socios existentes allí.
 
