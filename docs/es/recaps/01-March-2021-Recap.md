@@ -39,22 +39,22 @@ Usted puede crear una dApp para prestamistas mostrando el índice de garantía, 
 
 Estamos planeando mejorar nuestras herramientas de asociación muy pronto y estamos planeando incorporar otros protocolos principales en la próxima semana o dos a un ritmo rápido.
 
-_¿Quieres empezar y crear un nuevo proyecto SubQuery para tu propia dApp -_ [_empieza ahora_](https://doc.subquery.network/quickstart.html)_. We’ll even host it in our_ [_SubQuery Explorer_](../blogs/20210305-Announcing-the-SubQuery-Explorer.md) _for free!_
+_¿Quieres empezar y crear un nuevo proyecto SubQuery para tu propia dApp -_ [_empieza ahora_](https://doc.subquery.network/quickstart.html)_. Incluso lo alojaremos en nuestro_ [_Explorador de SubQuery_](../blogs/20210305-Announcing-the-SubQuery-Explorer.md) _gratis!_
 
 ## **Acelerador de Berkeley Blockchain**
 
-[We were excited to announce in March](../blogs/20210523-SubQuery-Joins-Berkeleys-Blockchain-Xcelerator.md) that Berkeley has selected SubQuery to be part of their exclusive [Blockchain Xcelerator](https://www.xcelerator.berkeley.edu/). SubQuery (and it’s parent company OnFinality) were selected from over 200 applications to be part of just 21 exclusive spots.
+[Estamos encantados de anunciar en marzo](../blogs/20210523-SubQuery-Joins-Berkeleys-Blockchain-Xcelerator.md) que Berkeley ha seleccionado a SubQuery para formar parte de su exclusivo [Blockchain Xcelerator](https://www.xcelerator.berkeley.edu/). SubQuery (y su empresa matriz OnFinality) fueron seleccionadas entre más de 200 solicitudes para formar parte de sólo 21 puestos exclusivos.
 
-Berkeley’s blockchain Xcelerator is known around the world as one of the most successful blockchain accelerators for a reason. It has incubated over 40 companies that have raised over $25M in seed and early stage funding, and over 75% of the inaugural batch raised follow-on funding.
+El blockchain Xcelerator de Berkeley es conocido en todo el mundo como uno de los aceleradores de blockchain más exitosos por una razón. Ha incubado más de 40 empresas que han recaudado más de 25 millones de dólares en financiación inicial y más del 75% del lote inaugural obtuvo financiación posterior.
 
 ![](https://miro.medium.com/max/1400/0*t-_mRJaTnGDQO-VI)
 
 ## **Rutas inteligentes**
 
-We’ve recently been [awarded a treasury grant](https://kusama.polkassembly.io/treasury/72) to complete an intelligent routing layer that allows us to expose multiple clusters behind a single endpoint. This will allow us to scale our service better, and quickly fall over to redundant clusters in the unlikely event that some of our infrastructure goes down. Both OnFinality and SubQuery rely on this infrastructure so it’s important that we continue to invest and improve here.
+Recientemente nos han concedido una subvención del Tesoro</a> para completar una capa de enrutamiento inteligente que nos permite exponer múltiples clusters detrás de un único punto final. Esto nos permitirá escalar mejor nuestro servicio y pasar rápidamente a clusters redundantes en el improbable caso de que alguna de nuestras infraestructuras se caiga. Tanto OnFinality como SubQuery dependen de esta infraestructura, por lo que es importante que sigamos invirtiendo y mejorando en ella.
 
 ## **Nuevo personal y oficina**
 
-One of the biggest changes over the past month is how much the team has grown. We’ve added two new staff over the past month and expect to hire more, as a result, we’ve found a new office in Auckland that fits us perfectly. We will grow, but still plan to remain small and nimble so we can deliver our product vision.
+Uno de los mayores cambios en el último mes es lo mucho que ha crecido el equipo. En el último mes hemos incorporado a dos nuevos empleados y esperamos contratar a más, por lo que hemos encontrado una nueva oficina en Auckland que encaja perfectamente con nosotros. Creceremos, pero seguiremos siendo pequeños y ágiles para poder ofrecer nuestra visión del producto.
 
 ![](https://miro.medium.com/max/1400/1*cJZxerXHfgVGu4-7h2xw4Q.jpeg)
