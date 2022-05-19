@@ -26,7 +26,7 @@ Patract Labs glaubt, dass die Entwicklung der Polkadot Wasm Vertragstechnologie 
 
 Patract Labs bietet Lösungen für die Entwicklung von Parachains und DApps im Wasm Smart Contract Ökosystem von Polkadot. Wir helfen der Community, On-Chain-Vertragsmodule und Laufzeitunterstützung zu entwerfen und zu entwickeln, und bieten DApp-Entwicklern umfassende Tools und Dienstleistungen, die die Phasen der Entwicklung, des Testens, der Fehlersuche, der Bereitstellung, der Überwachung, des Datenanbieters und der Front-End-Entwicklung abdecken.
 
-[Website](https://patract.io/)｜[Element](https://app.element.io/#/room/#PatractLabsDev:matrix.org)｜[Twitter](https://twitter.com/PatractLabs)｜[GitHub](https://github.com/patractlabs) ｜[Discord](https://discord.gg/yMRMqcAb24) ｜[Telegram](https://t.me/patract)
+[Webseite](https://patract.io/)|[Element](https://app.element.io/#/room/#PatractLabsDev:matrix.org)|[Twitter](https://twitter.com/PatractLabs)|[GitHub](https://github.com/patractlabs) |[Discord](https://discord.gg/yMRMqcAb24) |[Telegram](https://t.me/patract)
 
 ## Über SubQuery
 
