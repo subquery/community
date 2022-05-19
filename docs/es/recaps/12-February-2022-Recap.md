@@ -8,7 +8,7 @@ Febrero pasó volando para el equipo de SubQuery, ya que hemos estado ocupados e
 
 ## Comunidad
 
-Este mes finalmente hemos pasado los 30,000 seguidores orgánicos en Twitter y nuestro Discord ha aumentado a más de 15 000 miembros activos de la comunidad que trabajan para ayudarse unos a otros. No es suficiente crear una herramienta o una aplicación en web3, necesitas una comunidad autosustentable y ¡estamos trabajando arduamente en esto en SubQuery!
+Este mes finalmente hemos pasado los 30,000 seguidores orgánicos en Twitter y nuestro Discord ha aumentado a más de 15,000 miembros activos de la comunidad que trabajan para ayudarse unos a otros. No es suficiente crear una herramienta o una aplicación en web3, necesitas una comunidad autosustentable y ¡Estamos trabajando arduamente en esto en SubQuery!
 
 ### SubQuery Anuncia La Primera Cohorte De Beneficiarios en SubQuery Grants
 
@@ -32,7 +32,7 @@ El equipo de Dotsama también está decidido a aportar información valiosa al i
 
 Además de las subvenciones generales como las otorgadas a nuestra primera cohorte, también hay [recompensas técnicas en curso en asociación con los principales equipos de parachain en Polkadot](../blogs/20220127-grants-bounties.md) tales como Moonbeam, Acala, Astar y Bifrost en el sitio web de [SubQuery ](https://subquery.network/grants)
 
-## SubQuery Network
+## Red Subquery
 
 ### SubQuery Publica Su Whitepaper Actualizado
 
