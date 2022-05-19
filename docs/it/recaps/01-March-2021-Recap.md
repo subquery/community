@@ -39,7 +39,7 @@ Si potrebbe creare una dApp per i prestatori che mostri il rapporto di garanzia,
 
 Stiamo pianificando di migliorare i nostri strumenti di partnership molto presto e stiamo pianificando l'inserimento di altri protocolli top nella prossima settimana o due a un ritmo rapido.
 
-_Volete iniziare a creare un nuovo progetto SubQuery per la vostra dApp -_ [_iniziate subito_](https://doc.subquery.network/quickstart.html)_. We’ll even host it in our_ [_SubQuery Explorer_](../blogs/20210305-Announcing-the-SubQuery-Explorer.md) _for free!_
+_Volete iniziare a creare un nuovo progetto SubQuery per la vostra dApp -_ [_iniziate subito_](https://doc.subquery.network/quickstart.html)_. Lo ospiteremo anche nel nostro_ [_SubQuery Explorer_](../blogs/20210305-Announcing-the-SubQuery-Explorer.md) _gratis!_
 
 ## **Berkeley Blockchain Xcelerator**
 
