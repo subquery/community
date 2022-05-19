@@ -28,7 +28,7 @@ Bewerber, die an einem dieser Prämien interessiert sind, werden ermutigt, ihren
 
 Kürzlich haben wir in [dieser ausführlichen Beschreibung](../blogs/20220120-gr12-winners.md) über die vielen Gewinner berichtet, die an diesem Hackathon teilgenommen haben, und die erstaunlichen Projekte, die sie aufgebaut haben. Wir waren überwältigt von der Qualität und dem Fortschritt der Einreichungen in so kurzer Zeit und wir freuen uns, viele der Einreichungen zur Teilnahme an unserem Stipendienprogramm einzuladen.
 
-[Lesen Sie hier mehr](../blogs/20220120-gr12-winners.md)
+[Lesen Sie hier mehr](../blogs/20220120-gr12-siegers.md)
 
 ### Hero-Kurs China
 
@@ -94,7 +94,7 @@ Letzten Oktober haben wir unsere [technische Roadmap](https://blog.subquery.netw
 
 ![](https://miro.medium.com/max/1400/1*2a3SGrW-OG5pbw67jsavvw.jpeg)
 
-As you can see in the original roadmap above, we’ve completed all of Milestone 0 and 1, and are making good progress on Milestone 2. We’ve even delivered some features relevant to our hosted service much earlier than expected due to the huge scale of requests currently going to [our enterprise customers](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html).
+Wie Sie in der ursprünglichen Roadmap oben sehen können, haben wir alle Meilensteine 0 und 1 abgeschlossen und machen gute Fortschritte bei Meilenstein 2. Wir haben sogar einige Funktionen, die für unseren gehosteten Dienst relevant sind, viel früher als erwartet bereitgestellt, da derzeit sehr viele Anfragen an [unsere Unternehmenskunden](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) gehen.
 
 ## Andere Dinge, die Sie vielleicht übersehen haben
 
@@ -103,8 +103,8 @@ As you can see in the original roadmap above, we’ve completed all of Milestone
 
 P.S.
 
-Remember to join our [Discord](https://discord.com/invite/subquery) and our [social channels](https://linktr.ee/subquerynetwork) to stay updated on our latest news and announcements.
+Denken Sie daran, unserem [Discord](https://discord.com/invite/subquery) und unseren [sozialen Kanälen](https://linktr.ee/subquerynetwork) beizutreten, um über unsere neuesten Nachrichten und Ankündigungen auf dem Laufenden zu bleiben.
 
-The SubQuery Team
+SubQuery-Team
 
-[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Email](hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Youtube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork) | [Webseite](https://subquery.network/) | [E-Mail](hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Youtube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
