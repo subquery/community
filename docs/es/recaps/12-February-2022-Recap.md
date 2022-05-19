@@ -8,7 +8,7 @@ Febrero pasó volando para el equipo de SubQuery, ya que hemos estado ocupados e
 
 ## Comunidad
 
-This month we finally passed 30,000 organic Twitter followers and our Discord has swelled to over 15,000 active community members working to help one another. It's not enough to build a tool or an application in web3, you need to build a self sustaining community and we're hard at work on this at SubQuery!
+Este mes finalmente hemos pasado los 30,000 seguidores orgánicos en Twitter y nuestro Discord ha aumentado a más de 15 000 miembros activos de la comunidad que trabajan para ayudarse unos a otros. It's not enough to build a tool or an application in web3, you need to build a self sustaining community and we're hard at work on this at SubQuery!
 
 ### SubQuery Announces First Cohort of SubQuery Grants Recipients
 
