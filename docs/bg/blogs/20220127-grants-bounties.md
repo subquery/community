@@ -6,7 +6,7 @@ _Техническите награди дават възможност на р
 
 [SubQuery](https://subquery.network/), водещото решение за индексиране на данни, изградено върху Polkadot (DOT), има удоволствието да обяви стартирането на технически награди в партньорство с водещи блокчейн екипи в Polkadot като част от програмата за грантове на SubQuery.
 
-[The USD$500,000 SubQuery Grants Program kicked off in December 2021](./20211222-grants.md) with the vision of offering opportunities to blockchain developers, community members, and wider ecosystem participants to create innovative or high-potential ideas that leverage SubQuery’s open-source data indexing tools to support cutting-edge decentralised applications.
+[Програмата SubQuery Grants със USD$500 000 стартира през декември 2021 г.](./20211222-grants.md) с визията за предлагане на възможности на разработчиците на блокчейн, членовете на общността и по-широки участници в екосистемата за създаване на иновативни идеи или идеи с висок потенциал, които използват инструментите с данни с отворен код на SubQuery за индексиране за поддръжка на авангардни децентрализирани приложения.
 
 Въпреки че разработчиците все още могат да кандидатстват за програмата за безвъзмездни средства на SubQuery със свои собствени идеи, SubQuery пусна първоначални награди в партньорство с Moonbeam, Acala, Astar и Bifrost като проекти за вдъхновение. Всички могат да кандидатстват сега, а като бонус, ако кандидатурата ви е успешна, ще можете да работите в тясно сътрудничество с екипа на Parachain, който е предложил предизвикателството!
 
