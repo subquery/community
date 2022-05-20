@@ -22,9 +22,9 @@
 
 OneBlock +と提携して、4月上旬から中国で[「ヒーローコース」](https://doc.subquery.network/academy/herocourse/)の第2ラウンドを実施します。
 
-> SubQueryは、OneBlock+および中国のSubstrate開発者の情熱的なグループとのパートナーシップを継続できることを嬉しく思います。 We have already received feedback that the first group of students are already using SubQuery on their own projects to make their development easier. We look forward to collaborating with the future students as they leverage on OneBlock+ and SubQuery to build the next generation of dApps"</em> - Sam Zou, Founder and CEO of SubQuery
+> SubQueryは、OneBlock+および中国のSubstrate開発者の情熱的なグループとのパートナーシップを継続できることを嬉しく思います。 最初のグループの学生は、開発を容易にするために、すでに自分のプロジェクトでSubQueryを使用しているというフィードバックをすでに受け取っています。 OneBlock +とSubQueryを活用して次世代のdAppを構築する将来の学生と協力することを楽しみにしています」</em>-SubQueryの創設者兼CEO、Sam Zou
 
-[Read more here](../blogs/20220308-oneblock-education.md)
+[詳細はこちら](../blogs/20220308-oneblock-education.md)
 
 ## SubQuery Network
 
