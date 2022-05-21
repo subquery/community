@@ -14,16 +14,16 @@ La red OAK se está preparando actualmente para el lanzamiento de la [Red Turing
 
 Puede encontrar más información sobre OAK y los datos que aprovechan de SubQuery a través del enlace de su proyecto https://project.subquery.network/project/irsal/neumann-monitoring.
 
-## About OAK Network
+## Acerca de la Red OAK
 
-OAK (On-chain Autonomous Kernel) Network is a blockchain automation hub for DeFi and payments built on Parity Substrate with a first of its kind event-driven execution model. This model enables transactions to be triggered by event signals such as time, price, and smart contract state changes. Importantly, this differs from traditional architectures utilized by Ethereum, Bitcoin, and other popular chains where multiple transactions require repeated private key signing. With this novel design, OAK can empower any connected blockchain with autonomous functionality unleashing endless potential for our partners.
+La red OAK (On-chain Autonomous Kernel) es un centro de automatización de blockchain para DeFi y pagos construidos en Parity Substrate con un primer modelo de ejecución basado en eventos. Este modelo permite que las transacciones se activen mediante señales de eventos como la hora, el precio y los cambios de estado del contrato inteligente. Es importante destacar que esto difiere de las arquitecturas tradicionales utilizadas por Ethereum, Bitcoin y otras cadenas populares donde múltiples transacciones requiere la firma repetida de claves privadas. Con este diseño novedoso, OAK puede potenciar cualquier cadena de bloques conectada con una funcionalidad autónoma que libera un potencial infinito para nuestros socios.
 
 [Website](https://oak.tech/) | [SubSocial](https://app.subsocial.network/6109) | [Medium](https://medium.com/oak-blockchain) | [Twitter](https://twitter.com/oak_network) | [Discord](https://discord.gg/7W9UDvsbwh) | [Github](https://github.com/OAK-Foundation/) | [Telegram](https://t.me/OAK_Announcements) | [YouTube](https://www.youtube.com/channel/UCSEu57BfQQpAfgDixfBnaNg) | [LinkedIn](https://www.linkedin.com/company/oak-blockchain/)
 
-## About SubQuery
+## Acerca de SubQuery
 
-SubQuery's mission is to help others create products that allow us to move to a decentralized future faster. SubQuery is a blockchain developer toolkit and the backbone of web3 infrastructure. A SubQuery project is a complete API to organize and query data from chains. Operating between layer-1 blockchains and decentralized apps (dApp), SubQuery is an open-source indexer organizing and serving well-structured data over GraphQL. SubQuery powers the next generation of dApps and tools with web3 data
+La misión de SubQuery es ayudar a otros a crear productos que nos permitan avanzar más rápidamente hacia un futuro descentralizado. SubQuery es un conjunto de herramientas para desarrolladores de blockchain y la columna vertebral de la infraestructura de web3. Un proyecto SubQuery es una API completa para organizar y consultar datos de cadenas. Operando entre cadenas de bloques de capa 1 y aplicaciones descentralizadas (dApp), SubQuery es un indexador de código abierto que organiza y entrega datos bien estructurados en GraphQL. SubQuery impulsa la próxima generación de dApps y herramientas con datos web3
 
-Currently, anyone can already use SubQuery to extract and query blockchain data in only minutes. The SubQuery Network proposes to enable this same scalable and performant solution, but in a completely decentralized way.
+Actualmente, cualquier persona puede ya utilizar SubQuery para extraer y consultar los datos de la cadena de bloques en solo unos minutos y sin coste alguno, pero de forma centralizada. La Red SubQuery propone habilitar esta misma solución escalable y de alto rendimiento, pero de forma totalmente descentralizada.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
