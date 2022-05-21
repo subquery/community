@@ -2,15 +2,15 @@
 
 **SubQuery 네트워크는 어떻게 작동합니까? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)**
 
-Today we’re going to talk about how the SubQuery Network works at a high level.
+오늘 우리는 SubQuery Network가 높은 수준에서 어떻게 작동하는지에 대해 이야기할 것입니다.
 
 ## 참가자들
 
 ![](https://miro.medium.com/max/1400/1*9993cakplwupZC5tbUv3vA.png)
 
-Participants in the SubQuery Network
+서브쿼리 네트워크 참여자
 
-There are three types of participants in the SubQuery Network:
+SubQuery 네트워크에는 세 가지 유형의 참가자가 있습니다:
 
 - **소비자**: 소비자는 특정 데이터에 대해 SubQuery 네트워크에 요청하고 광고한만큼의 SQT를 지불합니다.
 - **인덱서**: 인덱서는 데이터를 인덱싱하고 GraphQL 요청에 응답하기 위해 노드와 쿼리 서비스를 모두 실행하여 자체 인프라에서 SubQuery 프로젝트를 호스팅합니다.
@@ -18,17 +18,17 @@ There are three types of participants in the SubQuery Network:
 
 ## 인덱서, 소비자 및 쿼리
 
-Let’s start with Indexers, Indexers do a lot of the hard work behind the scenes. The manage hardware, run infrastructure, monitor resources, and choose the right SubQuery projects to index
+인덱서부터 시작하겠습니다. 인덱서는 이면에서 많은 노력을 기울입니다. 하드웨어 관리, 인프라 실행, 리소스 모니터링, 인덱싱할 올바른 SubQuery 프로젝트 선택
 
-This takes time and money, but once they have this, Consumers may come and make requests. Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
+시간과 비용이 많이 들지만 일단 이거만 있으면 소비자들이 와서 요청할 수 있습니다. 소비자는 특정 데이터에 대해 SubQuery 네트워크에 요청하고 광고된 양의 토큰 SQT를 지불합니다.
 
 ![](https://miro.medium.com/max/1400/1*dKLkzSc2uXYaPW_IXUxstQ.png)
 
-Consumers will make requests to the SubQuery network for specific data and pay an advertised amount of our token, SQT.
+소비자는 특정 데이터에 대해 SubQuery 네트워크에 요청하고 광고된 양의 토큰 SQT를 지불합니다.
 
 ## Cobb-Douglas 생산 함수
 
-This payment goes into a project revenue pool and at the end of a staking era (28 days) we take this project revenue pool and split it. It’s spit across indexers by something called the Cobb-Douglas production function.
+이 지불은 프로젝트 수익 풀로 들어가고 스테이킹 기간(28일) 이 끝나면 이 프로젝트 수익 풀을 가져와 분할합니다. Cobb-Douglas 생산 함수라고 하는 것에 의해 인덱서 전체에 걸쳐 발생합니다.
 
 ![](https://miro.medium.com/max/1400/1*E-W7o7cWoclxHb8rXAMdpA.png)
 
