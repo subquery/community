@@ -32,42 +32,42 @@ SubQuery 네트워크에는 세 가지 유형의 참가자가 있습니다:
 
 ![](https://miro.medium.com/max/1400/1*E-W7o7cWoclxHb8rXAMdpA.png)
 
-It’s spit across indexers by something called the Cobb-Douglas production function.
+Cobb-Douglas 생산 함수라고 하는 것에 의해 인덱서 전체에 걸쳐 발생합니다.
 
-This approach, in simple terms, means that revenue is allocated to competing Indexers as a proportion of both requests answered and amount staked.
+이 접근 방식은 수익이 스테이킹된 양에 대한 플래그가 지정된 쿼리의 비율로 경쟁 인덱서 간에 공유됨을 의미합니다.
 
 ![](https://miro.medium.com/max/1400/1*VhDu2BGDxd3ob7z9XkoOXA.png)
 
-Revenue is allocated to competing Indexers as a proportion of both requests answered and amount staked.
+수익은 응답된 요청과 스테이킹된 금액의 비율로 경쟁 인덱서에 할당됩니다.
 
-In our view, the beauty of this equation is that a rational Indexer must maintain a high level of staked SQT relative to the work they do in order to receive optimal revenue. As a result, we do not need to enforce arbitrary staking requirements because Indexers are incentivised to self-manage and maintain a stake or skin in the game.
+우리가 보기에 이 방정식의 장점은 합리적인 인덱서가 최적의 수익을 얻기 위해 수행하는 작업에 비해 높은 수준의 스테이킹된 SQT를 유지해야 한다는 것입니다. 결과적으로 인덱서가 게임에서 지분 또는 스킨을 자체 관리하고 유지하도록 인센티브를 받기 때문에 임의의 스테이킹 요구 사항을 시행할 필요가 없습니다.
 
 ## 위임자
 
-So Indexers are incentivised to both do as much work as possible, and to stake as much as possible to maximise their rewards. This is where delegators come in.
+따라서 인덱서는 가능한 한 많은 작업을 수행하고 보상을 최대화하기 위해 가능한 한 많이 스테이킹하도록 장려됩니다. 여기에서 대리인이 등장합니다.
 
-Delegators can delegate their spare SQT to Indexers, each Indexer can publish a _query fee revenue share rate_, and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in.
+위임자는 여분의 SQT를 인덱서에 위임할 수 있고, 각 인덱서는 쿼리 수수료 수익 공유 비율을 게시할 수 있으며, 이러한 위임자는 인덱서가 보상을 받는 쿼리 수수료 수익의 일부로 보상을 받습니다.
 
 ![](https://miro.medium.com/max/1400/1*YoN7PV7h3a2nAFN-ODqILg.png)
 
-Delegators can delegate their spare SQT to Indexers and those delegators will be rewarded by a portion of the query fee revenue that the indexer is rewarded in
+위임자는 여분의 SQT를 인덱서에 위임할 수 있으며 해당 위임자는 인덱서가 보상으로 받는 쿼리 수수료 수익의 일부로 보상을 받습니다.
 
-The _query fee revenue share rate_ that indexers advertise is locked for each 28 day staking era, and a decrease to it must be advertised for an entire 28 day staking era before coming into force.
+인덱서가 광고하는 쿼리 수수료 수익 공유 비율은 각 28일 스테이킹 기간 동안 고정되며, 그 감소는 발효되기 전에 전체 28일 스테이킹 기간 동안 공지되어야 합니다.
 
-Similarly, delegators can remove their delegation amounts at any point, but they will only receive rewards when they have delegated for the entire staking era.
+마찬가지로 위임자는 언제든지 위임 금액을 제거할 수 있지만 스테이킹 기간 동안에만 위임에 대한 보상을 받습니다.
 
 ![](https://miro.medium.com/max/1400/0*we0k4A07pbj86COZ)
 
-Delegators will only receive rewards when they have delegated for the entire staking era
+위임자는 전체 스테이킹 기간 동안 위임한 경우에만 보상을 받습니다.
 
 ## Purchase Orders
 
-Indexing a project takes time and money, there’s a lot of data on the chain. In order to encourage Indexers to index and support an entirely new SubQuery Project, we plan to implement a market mechanism for Consumers to signal guaranteed revenue to Indexers of new SubQuery Projects.
+프로젝트 인덱싱에는 시간과 돈이 필요하며 체인에는 많은 데이터가 있습니다. 인덱서가 새로운 SubQuery 프로젝트를 인덱싱하고 지원하도록 장려하기 위해 소비자가 새 SubQuery 프로젝트의 인덱서에게 보장된 수입을 보장할 수 있는 시장 메커니즘을 구현할 계획입니다.
 
-We’re calling them purchase orders, and Consumers can advertise a contract on chain for a set price and number of requests. Indexers can view this and choose to fill the contracts.
+우리는 그것을 구매 주문이라고 부르며 소비자는 정해진 가격과 요청 수에 대해 체인에서 계약을 광고할 수 있습니다. 인덱서는 이것을 보고 계약을 채우도록 선택할 수 있습니다.
 
 ![](https://miro.medium.com/max/1400/1*IPtaZlt24E7h9bKNZWdSCw.png)
 
-Consumers can advertise a purchase order on chain for a set price and number of requests.
+소비자는 정해진 가격과 요청 횟수에 대해 체인에서 구매 주문을 광고할 수 있습니다.
 
-Purchase orders can also be placed on existing SubQuery Projects to attract additional Indexers to improve competition and decrease prices
+경쟁을 개선하고 가격을 낮추기 위해 추가 인덱서를 유치하기 위해 기존 SubQuery 프로젝트에 구매 주문을 할 수도 있습니다.
