@@ -26,7 +26,7 @@ _Das Beste am Hackathon war, andere Hacker zu treffen und Vordenker von Startups
 
 ![](https://miro.medium.com/max/1400/0*o01LCEIOu-FyUOWx)
 
-## Erstellen einer DeFi DApp
+## Erstellen Sie eine DeFi-DApp
 
 Diese Herausforderung beinhaltete den größten Preis des gesamten Hackathons im Wert von 3.500 $ und einen Gesamt-Challenge-Pool von 5.000 $.
 
@@ -34,20 +34,20 @@ Entity 54 war der Gewinner in der Kategorie Defi DApp und nahm 3.500 US-Dollar m
 
 [Sehen Sie sich eine Videodemo von Entity 54 an](https://youtu.be/fU1BRVOtx2o)
 
-## Other Notable Entries
+## Andere bemerkenswerte Einträge
 
 Wir waren ziemlich beeindruckt von der Arbeit von Defitax, einer dezentralen Plattform, die den Benutzern hilft, konform zu bleiben und ihre Krypto-Steuern vollständig zu erhalten, ohne dass ein Eingreifen Dritter erforderlich ist. Das Team, das sich zunächst hauptsächlich auf Amerika konzentriert, ist bestrebt, all die komplexen Berechnungen und Feinheiten der Steuerberechnungen so zu handhaben, dass Sie es nicht tun müssen.
 
 Shankar Rao Mata von Defitax war bereits mit SubQuery vertraut, da er seine Reise mit uns als Ambassador begonnen hatte und nun mit einem Team anderer leidenschaftlicher und ehrgeiziger Personen am Hackathon teilnimmt. Shankar erwähnte den Hackathon: „_Der Encode Hackathon war eine großartige Erfahrung für uns und die perfekte Umgebung für unser Projekt. SubQuery war und wird weiterhin maßgeblich zur Unterstützung der großen Mengen an indizierten Daten beitragen, die wir für den Erfolg von Defitax benötigen_“.
 
-Da sowohl DeFi als auch Acala/Karura einen zunehmenden Bekanntheitsgrad erlangten, waren wir gespannt auf die Reaktion der Entwickler-Community. To get things moving [SubQuery hosted a workshop where hackers learned how to index blockchain data](https://www.youtube.com/watch?v=QUtWC_LZM8Q) and get a node and query service running in only a few minutes.
+Da sowohl DeFi als auch Acala/Karura einen zunehmenden Bekanntheitsgrad erlangten, waren wir gespannt auf die Reaktion der Entwickler-Community. Um die Dinge in Gang zu bringen, veranstaltete [SubQuery einen Workshop, in dem Hacker lernten, wie man Blockchain-Daten indiziert](https://www.youtube.com/watch?v=QUtWC_LZM8Q) und einen Node- und Abfragedienst in nur wenigen Minuten zum Laufen bringt.
 
-Sam Zou, the Founder of SubQuery said _“SubQuery is thrilled to support the developer community and the next generation of Polkadot projects through Encode Club’s Polkadot Hackathon. SubQuery bietet Entwicklern eine grundlegende Ebene, um bahnbrechende DApps in Bereichen wie DeFi zu erstellen. Daher möchten wir Menschen ermutigen, Tools und Anwendungen zu entwickeln, die uns unserer Vision einer Web3-Zukunft näher bringen.“_
+Sam Zou, der Gründer von SubQuery, sagte: _ „SubQuery ist begeistert, die Entwicklergemeinschaft und die nächste Generation von Polkadot-Projekten durch den Polkadot-Hackathon des Encode Club zu unterstützen. SubQuery bietet Entwicklern eine grundlegende Ebene, um bahnbrechende DApps in Bereichen wie DeFi zu erstellen. Daher möchten wir Menschen ermutigen, Tools und Anwendungen zu entwickeln, die uns unserer Vision einer Web3-Zukunft näher bringen.“_
 
-Nach dem Hackathon können sich Projekte für ein 10-wöchiges Polkadot Accelerator-Programm bewerben, das von Encode durchgeführt wird. Many of these projects are right in the middle of this Accelerator and all are invited to apply to SubQuery’s recently announced [Grants Programme](https://subquery.network/grants).
+Nach dem Hackathon können sich Projekte für ein 10-wöchiges Polkadot Accelerator-Programm bewerben, das von Encode durchgeführt wird. Viele dieser Projekte befinden sich mitten in diesem Accelerator und alle sind eingeladen, sich für das kürzlich angekündigte [Stipendienprogramm](https://subquery.network/grants) von SubQuery zu bewerben.
 
-## About SubQuery
+## Über SubQuery
 
-[SubQuery](https://subquery.network/) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. Dieser Dienst entsperrt Blockchain-Daten und wandelt sie in einen abfragbaren Zustand um, sodass sie in intuitiven Anwendungen verwendet werden können. Es ermöglicht DApp-Entwicklern, sich auf ihren Kernanwendungsfall und ihr Frontend zu konzentrieren, ohne Zeit mit dem Erstellen eines benutzerdefinierten Backends für die Datenverarbeitung verschwenden zu müssen. Das kommende SubQuery Network wird das Ökosystem dezentralisieren und tokenisieren, damit jeder an der Web3-Datenrevolution teilhaben kann.
+[SubQuery](https://subquery.network/) ist eine dezentralisierte Datenaggregation, Indexierung & Abfrageebene zwischen Layer-1-Blockchains und dezentralen Anwendungen. Dieser Dienst entsperrt Blockchain-Daten und wandelt sie in einen abfragbaren Zustand um, sodass sie in intuitiven Anwendungen verwendet werden können. Es ermöglicht DApp-Entwicklern, sich auf ihren Kernanwendungsfall und ihr Frontend zu konzentrieren, ohne Zeit mit dem Erstellen eines benutzerdefinierten Backends für die Datenverarbeitung verschwenden zu müssen. Das kommende SubQuery Network wird das Ökosystem dezentralisieren und tokenisieren, damit jeder an der Web3-Datenrevolution teilhaben kann.
 
-[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork) | [Webseite](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
