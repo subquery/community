@@ -1,14 +1,14 @@
-# Inside The Polkadot Crowdloans (Part 2)
+# Polkadotのクラウドローンの裏側(パート2)
 
 ![](https://miro.medium.com/max/1400/0*MqQhXJbmnfMSqf-8)
 
-Polkadot has provided its community with another exciting race for their third parachain slot auction. We have recently witnessed Parallel Finance and Astar battle it out for the third slot, and in the end Astar managed to emerge victorious. Today we are going to explore a little more about what happened within the third auction by diving into the data behind every single contribution.
+Polkadotは、第3回目のパラチェンスロットオークションでも、エキサイティングなレースをコミュニティに提供しました。 最近、Parallel FinanceとAstarが3番目の枠を巡って争い、最終的にAstarが勝利を収めました。 今日は、3回目のオークションで何が起こったのかを、一つ一つの貢献の裏にあるデータを見ながら、もう少し詳しく調べてみたいと思います。
 
-SubQuery is Polkadot’s leading data indexing service, and over the past week we’ve been powering millions of daily requests to the majority of the crowdloan dashboards, contribution apps, and analytics websites. Teams like [SubVis](https://www.subvis.io/), [Parallel Finance](https://parallel.fi/), and [DotMarketCap](https://dotmarketcap.com/) rely on SubQuery to provide real time data on the crowdloans and other on-chain data directly to their websites and apps.
+SubQueryはPolkadotの代表的なデータ・インデックス・サービスであり、過去1週間にわたり、クラウドローンのダッシュボード、コントリビューションアプリ、分析サイトの大半に毎日数百万のリクエストを提供してきました。 [SubVis](https://www.subvis.io/)、[Parallel Finance](https://parallel.fi/)、[DotMarketCap](https://dotmarketcap.com/)などのチームは、SubQueryを利用して、クラウドローンやその他のオンチェーンのデータをリアルタイムでウェブサイトやアプリに直接提供しています。
 
-Firstly, let’s start with some high level quick facts. As you can see below Astar had both more contributions and contributors. It’s important to note that Parallel raised a significant amount through its proxy fund, so the contributor amount is misleading because the proxy account hides this information.
+まず、いくつかの高レベルの簡単な事実から始めましょう。 以下に示すように、Astarはより多くの貢献額と貢献者の両方を持っていました。 ここで重要なのは、Parallelがプロキシ・ファンドを通じて多額の資金を調達したことで、プロキシ・アカウントではこの情報が隠されているため、貢献者の金額は誤解を招くものになっているということです。
 
-Both received a median contribution of 10 DOT (US$367.70) but Astar was able to attract the largest single contribution with 2,005,295 DOT (US$73.7 million). In the end a total of almost 20 million DOT (US$735.4 million) was contributed across both two during the third auction. Unsurprisingly, this number was less than the amount committed in the first auctions, however it is promising to see the auction amounts still being of significant value.
+どちらも中央値は10DOT(367.70ドル) でしたが、Astarは2,005,295DOT(73.7百万米ドル) という1回の貢献での最大貢献額を集めることができました。 最終的に、第3回オークションでは、両者合わせて約2,000万DOT(7億3,540万ドル) の貢献が行われました。 当然のことながら、この数字は最初のオークションでコミットされた金額よりも少ないものでしたが、オークションの金額が依然として大きな価値を持っていることは有望です。
 
 ![](https://miro.medium.com/max/1920/1*cHMt10lANsqtkLYHCv6iWg.png) As you can see in the graph below, the number of contributions were relatively constant, with simultaneous jumps in the contribution rate on the 17th of November to over 2,000 contributions in a 4 hour period. Similarly to the [Moonbeam and Acala battle](./20211124-polkadot-crowdloans.md), this auction had significantly different styles of participation while maintaining a relatively equal amount of contributions. Parallel Finance had 20,000 less contributions to their crowdloan when compared to Astar.
 
