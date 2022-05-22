@@ -1,10 +1,10 @@
-# Dapplooker is Celebrated as the First Graduate from the SubQuery Grants Programme
+# Dapplooker wird als erster Absolvent des SubQuery Grants Program gefeiert
 
 ![](https://miro.medium.com/max/700/0*m7loo6ZhFd_UrPtG)
 
-Today we are proud to highlight the phenomenal work of our first [SubQuery Grants Programme](https://subquery.network/grants) graduate! [Dapplooker](https://dapplooker.com/) have integrated with SubQuery so that beautiful and easy-to-build analytic tools such as explorers, charts and dashboards can be built on top of any SubQuery dataset.
+Heute sind wir stolz darauf, die phänomenale Arbeit unseres ersten Absolventen des [SubQuery-Stipendienprogramms](https://subquery.network/grants) hervorzuheben! [Dapplooker](https://dapplooker.com/) wurde in SubQuery integriert, sodass schöne und einfach zu erstellende Analysetools wie Explorer, Diagramme und Dashboards auf jedem SubQuery-Datensatz aufgebaut werden können.
 
-Whether a SubQuery project was built by you or someone else in the community, you can use DappLooker to graph, chart, and visualise the data from within it. Until now, SubQuery's managed service only provided a GraphQL endpoint, but with Dapplookers innovation you can now more easily explore hundreds of datasets and do analytics on SubQuery data using intuitive "Visual SQL".
+Unabhängig davon, ob ein SubQuery-Projekt von Ihnen oder jemand anderem in der Community erstellt wurde, können Sie mit DappLooker die darin enthaltenen Daten grafisch darstellen, grafisch darstellen und visualisieren. Until now, SubQuery's managed service only provided a GraphQL endpoint, but with Dapplookers innovation you can now more easily explore hundreds of datasets and do analytics on SubQuery data using intuitive "Visual SQL".
 
 One of the best parts about this business intelligence tool is that you do not have to be technical to use it and Dapplooker have provided [straightforward documentation](https://dapplooker.notion.site/SubQuery-55e159ee37ff453b9a278be0efbe319e) to assist users starting out on the platform. Furthermore, the Dapplooker team have also used two existing SubQuery data sets to create [useful dashboards](https://dapplooker.com/category/subquery?type=dashboard) with Moonbeam staking data and Polkadot crowdloans that show off the potential of the tool.
 
