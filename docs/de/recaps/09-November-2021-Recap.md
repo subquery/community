@@ -30,7 +30,7 @@ Wir haben einen Meilenstein von über 2.000 Projekten überschritten, die für u
 
 Wenn Sie Ihr SubQuery-Projekt aktualisieren möchten, um dedizierte Ressourcen zu erhalten, kontaktieren Sie uns unter [sales@subquery.network](mailto:sales@subquery.network).
 
-### Unterstützung von externen Kettentypdateien in unserem Projektmanifest
+### Unterstützung von externen Chain-Typ-Dateien in unserem Projektmanifest
 
 Im November haben wir [**Version 0.2.0**](https://doc.subquery.network/create/manifest/) unserer Projektmanifestdatei (`project.yaml`) veröffentlicht. Diese neue Version bietet Entwicklern verschiedene Verbesserungen, die von Kunden gewünscht wurden.
 
@@ -78,7 +78,7 @@ Wir haben kürzlich einen tiefen Einblick in die Polkadot-Crowdloans (insbesonde
 - [Hören Sie bitte Sam und James im Podcast von Brave New Coin](https://bravenewcoin.com/insights/podcasts/subquery-connecting-the-dots-on-polkadot).
 - James sprach mit Acalas Brett Kolodny, um darüber zu sprechen, wie [Acala Unterabfragen in ihrem Stapel](https://www.youtube.com/watch?v=Wbxwj8K67Lw) verwendet.
 - Siqi, unser China-Vertreter, hat [mit Acala Network und Polkaworld über die neuesten Entwicklungen im Web3 gesprochen](https://www.huoxing24.com/live/24313016).
-- Wir haben die Module [1](https://doc.subquery.network/academy/herocourse/module1/) bis [4](https://doc.subquery.network/academy/herocourse/module4/) unseres [Unterabfrage-Heldenkurs](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html) veröffentlicht
+- Wir haben die Module [1](https://doc.subquery.network/academy/herocourse/module1/) bis [4](https://doc.subquery.network/academy/herocourse/module4/) unseres [SubQuery Hero Course](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html) veröffentlicht
 - James sprach auch mit Jacky, um Litentrys Pläne [für ein zukünftiges DID-Protokoll zu erforschen](https://www.youtube.com/watch?v=Rqlpo9QIVyk).
 
 Wie immer betreten Sie bitte [unsere sozialen Kanäle](https://linktr.ee/subquerynetwork) (insbesondere unseren [Discord](https://discord.com/invite/subquery)), um über unsere neuesten Nachrichten und Ankündigungen auf dem Laufenden zu bleiben.
