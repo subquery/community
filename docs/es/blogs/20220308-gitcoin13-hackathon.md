@@ -2,11 +2,11 @@
 
 ![](https://miro.medium.com/max/1400/0*LdQoekBCsctSL0Po)
 
-Today we are excited to announce the continuation of our partnership with Gitcoin to run a second hackathon via Gitcoin Grants Round 13 starting on March 9th.
+Hoy nos complace anunciar la continuación de nuestra asociación con Gitcoin para llevar a cabo un segundo hackathon a través de Gitcoin Grants Round 13 a partir del 9 de marzo.
 
-SubQuery's mission of making the world's decentralised data more accessible relies on having a network of developers who are empowered to create and innovate. After running our first Gitcoin Hackathon in December 2021 and achieving fantastic results with many talented developers it was an easy decision to extend our partnership.
+La misión de SubQuery de hacer más accesibles los datos descentralizados del mundo se basa en tener una red de desarrolladores con capacidad para crear e innovar. Después de celebrar nuestro primer Hackathon de Gitcoin en diciembre de 2021 y de conseguir unos resultados fantásticos con muchos desarrolladores con talento, fue una decisión fácil ampliar nuestra colaboración.
 
-The [Gitcoin GR13 Hackathon](https://gitcoin.co/hackathon/gr13/onboard) takes place from March 9th --- 24th 2022 with leading blockchain projects contributing to various prize pools. [SubQuery has proposed four bounties with a total prize pool of up to $22,000](https://gitcoin.co/hackathon/gr13/?org=subquery). The prizes will be granted to those who have successfully completed the projects to the pre-set standards, and who deliver the most creative ideas, or those or solve areas to improve the core SubQuery SDK. A short summary of the challenges are below:
+The [Gitcoin GR13 Hackathon](https://gitcoin.co/hackathon/gr13/onboard) takes place from March 9th --- 24th 2022 with leading blockchain projects contributing to various prize pools. [SubQuery has proposed four bounties with a total prize pool of up to $22,000](https://gitcoin.co/hackathon/gr13/?org=subquery). Los premios se concederán a aquellos que hayan completado con éxito los proyectos según los estándares preestablecidos, y que aporten las ideas más creativas, o las que resuelvan áreas para mejorar el núcleo del SDK de SubQuery. A short summary of the challenges are below:
 
 - Build a solution that stores a historical state of the blockchain rather than just the final state
 - Create an alternative Substrate-like chain dictionary generation via a Substrate archive
