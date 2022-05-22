@@ -1,14 +1,14 @@
-# SubQuery partners with SubWallet to Enhance User Access to Multi-Chain Data
+# SubQuery se asocia con SubWallet para mejorar el acceso de los usuarios a los datos de cadenas múltiples
 
 ![](https://miro.medium.com/max/1400/0*WrTfOuh_9W9uOs_s)
 
-SubQuery is delighted to announce an integration partnership with [SubWallet](https://subwallet.app/), a new multi-chain wallet for the Dotsama ecosystem. SubWallet makes it easy to track, send, receive and sign transactions on DeFi and GameFi applications and supports over 40 different parachains in the Dotsama network.
+SubQuery se complace en anunciar una asociación de integración con [SubWallet](https://subwallet.app/), una nueva billetera multicadena para el ecosistema Dotsama. SubWallet hace fácil seguir, enviar, recibir y firmar transacciones en aplicaciones DeFi y GameFi y soporta más de 40 parachains diferentes en la red Dotsama.
 
-> _"With the mission of pulling crypto users closer to the Dotsama ecosystem and opening the Web3 universe, we are working with SubQuery to integrate their remarkable data indexing solution, so that SubWallet users can review transaction history and crowdloan information for over 40 different Polkadot parachains right in our extension wallet."_ - Hieu Dao, SubWallet Co-Founder
+> _"Con la misión de acercar a los usuarios de criptomonedas al ecosistema Dotsama y abrir el universo Web3, estamos trabajando con SubQuery para integrar su notable solución de indexación de datos, de modo que los usuarios de SubWallet puedan revisar el historial de transacciones y la información de préstamos colectivos de más de 40 parachains diferentes de Polkadot directamente en nuestra billetera de extensión"._ - Hieu Dao, cofundador de SubWallet
 
-The Dotsama ecosystem consists of dozens of blockchains and thousands of Dapps containing a huge amount of extremely fragmented data. Subwallet has been able to leverage the hundreds of open projects available in [SubQuery's Explorer](https://explorer.subquery.network/), allowing them to integrate each new network faster and seamlessly. In short, SubQuery helps SubWallet provide more complete support for the Dotsama ecosystem and develop their applications faster.
+El ecosistema Dotsama consta de docenas de cadenas de bloques y miles de Dapps que contienen una gran cantidad de datos extremadamente fragmentados. Subwallet ha podido aprovechar los cientos de proyectos abiertos disponibles en [SubQuery Explorador](https://explorer.subquery.network/), permitiéndoles integrar cada nueva red más rápido y sin problemas. En resumen, SubQuery ayuda a SubWallet a brindar un soporte más completo para el ecosistema Dotsama y desarrollar sus aplicaciones más rápido.
 
-> _"SubQuery is proud to power the data required for SubWallet to realise their vision of bringing an inviting and intuitive experience to their users. By partnering with innovative and fast-paced teams such as SubWallet we can remain agile and roll-out enhancements to ensure our mutual success"._ - Brittany Seales, Customer Success Lead at SubQuery
+> _"SubQuery se enorgullece de impulsar los datos necesarios para que SubWallet haga realidad su visión de brindar una experiencia atractiva e intuitiva a sus usuarios. Al asociarnos con equipos innovadores y de ritmo rápido como SubWallet, podemos seguir siendo ágiles e implementar mejoras para asegurar nuestro éxito mutuo"._ - Brittany Seales, líder de éxito del cliente en SubQuery
 
 SubWallet is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. They take advantage of SubQuery's [enterprise-level hosting](../blogs/20211228-enterprise-hosted.md) to receive dedicated databases, automated deployments, and geographic routing to multiple clusters around the world for performance and uptime.
 
