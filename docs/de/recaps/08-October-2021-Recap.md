@@ -10,7 +10,7 @@ Von nun an werden wir versuchen, jedes Update in drei Schlüsselbereiche zu stru
 
 ## SubQuery Netzwerk
 
-### Technische Roadmap bekannt gegeben
+### Technische Roadmap wurde angekündigt
 
 Bei unserer Telefonkonferenz in der letzten Woche haben wir mehr über unsere Pläne für die Zukunft erfahren. Wir sind gespannt, wie die nächste Entwicklung von SubQuery dem Polkadot-Ökosystem noch mehr Wert verleihen und unserer Community mehr Möglichkeiten bieten wird, an unserem Wachstum teilzuhaben.
 
@@ -34,7 +34,7 @@ Diese Partnerschaft mit Moonbeam bietet eine vollständige und einheitliche Date
 
 ## Gemeinschaft
 
-### Das spartanische Programm
+### Das Spartan-Programm
 
 Im August startete SubQuery sein Ambassador-Programm, um Community-Leader zu finden, die sich für Polkadot und SubQuery begeistern. Überraschenderweise waren wir von Tausenden und Abertausenden von Bewerbungen völlig überwältigt, und unsere anfänglichen Pläne, Bewerber manuell einzubinden, sind zu einer Herausforderung geworden. Nach Rücksprache mit unseren bestehenden Ambassadors haben wir eine neue und transparente Methode entwickelt, um in unserer Discord-Community aufzusteigen und möglicherweise Ambassador zu werden.
 
