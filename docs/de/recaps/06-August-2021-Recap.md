@@ -18,7 +18,7 @@ In diesem monatlichen Update:
 
 ![](https://miro.medium.com/max/1400/0*_nOcsPjhQxta_FPH)
 
-Nach dem [Start unseres Botschafterprogramms](../blogs/20210713-Introducing-the-SubQuery-Ambassador-Program.md) im letzten Monat waren wir von der Begeisterung in der Gemeinschaft und der Qualität der Teilnehmer überrascht. Bis heute haben wir auf fast allen Kontinenten knapp 2.000 Bewerbungen erhalten (wir rufen nach Bewerbungen aus der Antarktis ☃️) und bisher über 30 Personen an Bord.
+Nach dem [Start unseres Ambassador-Programms](../blogs/20210713-Introducing-the-SubQuery-Ambassador-Program.md) im letzten Monat waren wir von der Begeisterung in der Gemeinschaft und der Qualität der Teilnehmer überrascht. Bis heute haben wir auf fast allen Kontinenten knapp 2.000 Bewerbungen erhalten (wir rufen nach Bewerbungen aus der Antarktis ☃️) und bisher über 30 Personen an Bord.
 
 Tre hat hervorragende Arbeit geleistet, diese Initiative zu leiten und [mit der Community auf Discord zu interagieren](https://discord.com/invite/78zg8aBSMG). Da wir bereits die Vorteile einer engeren Beziehung zu den Unterstützern von SubQuery sehen, werden wir das Team in den nächsten Wochen erweitern. Bitte haben Sie etwas Geduld, wenn Sie noch nichts von uns gehört haben!
 
