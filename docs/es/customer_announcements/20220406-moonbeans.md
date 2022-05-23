@@ -1,16 +1,16 @@
-# Moonbeans Create a One-Stop Shop of NFT Data with SubQuery
+# Moonbeans Crea una Ventanilla Única de Datos NFT con SubQuery
 
 ![](https://miro.medium.com/max/1400/0*WyB06V5POhvv7q4m)
 
-SubQuery is proud to announce a partnership with Moonbeans, a community focused NFT marketplace that has taken the Moonbeam and Moonriver ecosystems by storm. Moonbeans brings together artists, creators, and crypto enthusiasts on a single platform to create and trade the top NFTs on the Moonriver (and soon-to-be Moonbeam) network.
+SubQuery se enorgullece de anunciar una asociación con Moonbeans, un mercado NFT centrado en la comunidad que ha tomado los ecosistemas Moonbeam y Moonriver. Moonbeans reúne a artistas, creadores y entusiastas de las criptomonedas en una sola plataforma para crear y comercializar los mejores NFT en la red Moonriver (y pronto en Moonbeam).
 
-The team at MoonBeams have built a SubQuery project which serves as a complete one-stop shop for all the data that they require to run their web application. [Their project, which can be found in the SubQuery explorer](https://explorer.subquery.network/subquery/m00nbeans/marketplace-v3), aggregates events on their NFT marketplace and provides easy access to current listing data, trade history, and more.
+El equipo de MoonBeans ha creado un proyecto SubQuery que sirve como una ventanilla única completa para todos los datos que requieran para ejecutar su aplicación web. [Su proyecto, que se puede encontrar en el explorador de SubQuery](https://explorer.subquery.network/subquery/m00nbeans/marketplace-v3), agrega eventos en su mercado NFT y brinda fácil acceso a los datos de cotización actuales, el historial comercial y más.
 
 ![](https://miro.medium.com/max/1400/0*j4M8qDAU12se05uX)
 
-> _"The SubQuery team has been extraordinarily quick and helpful with getting us off the ground and collaborating with us in order to provide the best experience for our users - we look forward to continuing our work with them!"_ - Smol Bean (CTO & Co-Founder of Moonbeans)
+> _"El equipo de SubQuery ha sido extraordinariamente rápido y servicial al ponernos en marcha y colaborar con nosotros para proporcionar la mejor experiencia a nuestros usuarios. ¡Esperamos continuar nuestro trabajo con ellos!"_ - Smol Bean (CTO y cofundador de Moonbeans)
 
-Moonbeans are well on their way to achieving their goal of becoming the native NFT platform of Moonbeam and Moonriver. Their future mission involves onboarding users from other EVMs onto 'Dotsama' (Polkadot and Kusama) by launching and cultivating communities on those chains too, a ride which SubQuery can travel alongside on, having recently announced [our expansion into Avalanche](../blogs/20220321-avalache.md) in pursuit of further multi-chain expansion.
+Moonbeans está en camino de lograr su objetivo de convertirse en la plataforma NFT nativa de Moonbeam y Moonriver. Their future mission involves onboarding users from other EVMs onto 'Dotsama' (Polkadot and Kusama) by launching and cultivating communities on those chains too, a ride which SubQuery can travel alongside on, having recently announced [our expansion into Avalanche](../blogs/20220321-avalache.md) in pursuit of further multi-chain expansion.
 
 > _"Moonbeans have been able to harness SubQuery's aggregation and indexing capabilities to elevate their NFT marketplace data performance all within one excellent project. We look forward to being a part of their imminent arrival into the Moonbeam network."_ - James Bayly, Head of Business Development at SubQuery
 
