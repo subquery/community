@@ -2,11 +2,11 @@
 
 ![](https://miro.medium.com/max/700/1*c1X5h-MEHHwjeqczDKvvCQ.png)
 
-SubQuery is proud to announce our partnership with OneBlock+ to promote the SubQuery Academy’s _Hero Course_ in China. One Block+ developed the world’s first substrate developers course with engineers from Parity Asia and are recognised as leaders in blockchain education within China and around the world.
+SubQuery с гордост обявява нашето партньорство с OneBlock+ за популяризиране на _Курс за герои_ на SubQuery Academy в Китай. One Block+ разработи първия в света курс за разработчици на субстрати с инженери от Parity Asia и са признати за лидери в обучението по блокчейн в Китай и по света.
 
-Sam Zou, the CEO and Founder of SubQuery commented, _“OneBlock+ is well-placed to help SubQuery in its vision to empower developers around the world as they are stewards of the largest blockchain developer community in China. We look forward to engaging with the OneBlock+ team and motivated Chinese Substrate developers to build leading dApps that showcase our vision of a Web3 future”_
+Сам Зоу, главен изпълнителен директор и основател на SubQuery, коментира: _„OneBlock+ е на добра позиция да помогне на SubQuery във визията му да даде възможност на разработчиците по целия свят, тъй като те са настойници на най-голямата общност на разработчици на блокчейн в Китай. Очакваме с нетърпение да се ангажираме с екипа на OneBlock+ и мотивирани китайски разработчици на Substrate да изградят водещи dApps, които демонстрират нашата визия за бъдеще на Web3“_
 
-SubQuery’s community has always been global, and a huge number of SubQuery’s customers come from the thriving Polkadot community in China. The delivery of this course in China is the embodiment of SubQuery’s dedication to providing local language support for all of our communities around the world. Concurrently, all of SubQuery’s technical documentation is being translated by [SubQuery Ambassadors](./20210713-Introducing-the-SubQuery-Ambassador-Program.md).
+Общността на SubQuery винаги е била глобална и огромен брой клиенти на SubQuery идват от процъфтяващата общност на Polkadot в Китай. Предоставянето на този курс в Китай е въплъщение на отдадеността на SubQuery да предоставя поддръжка на местен език за всички наши общности по света. Едновременно с това цялата техническа документация на SubQuery се превежда от [Посланици на SubQuery](./20210713-Introducing-the-SubQuery-Ambassador-Program.md).
 
 SubQuery recently launched the SubQuery Academy to upskill blockchain developers globally, specifically in the area of data indexing in the Polkadot ecosystem. The _Hero Course_ is designed to up-skill and empower developers in the SubQuery ecosystem by providing them with a modular programme. The content of this programme takes an aspiring blockchain developer from beginner to advanced over six modular lessons.
 
