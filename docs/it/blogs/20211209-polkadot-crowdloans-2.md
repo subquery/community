@@ -32,27 +32,27 @@ Astar e Parallel Finance hanno condotto un'asta molto competitiva, in cui Astar 
 
 Chi sta contribuendo? Innanzitutto ci sono due enormi balene che sono responsabili del 41% di tutti i contributi e del 69,34% di tutto il valore (13.756.262 DOT). Questi due conti rappresentano il veicolo di delega Crowdloan di Parallel Finance e Binance. Anche Kraken e il programma SALP di Bifrost erano rappresentati tra i primi 6 contributori. Il veicolo proxy Crowdloan di Parallel è stato particolarmente presente nei nostri risultati con oltre 9,3 milioni di DOT conferiti (344,6 milioni di dollari) che rappresentano oltre il 47% di tutti i contributi.
 
-Sfortunatamente, questa percentuale elevata rende difficile il confronto delle dimensioni medie dei contributi, poiché questo proxy oscura eccessivamente i dati sui contributi. In the future, we might even dive deep into Parallel’s data and use this to determine exactly how many of these contributions come from whales versus individual small cap investors.
+Sfortunatamente, questa percentuale elevata rende difficile il confronto delle dimensioni medie dei contributi, poiché questo proxy oscura eccessivamente i dati sui contributi. In futuro, potremmo anche scavare a fondo nei dati di Parallel e utilizzarli per determinare esattamente quanti di questi contributi provengano dalle balene rispetto ai singoli investitori di piccole capitali.
 
-Having two auctions that have been extremely competitive suggests a healthy ecosystem, and it is encouraging to see the amount of commitment that the community has shown. Here at SubQuery we are very excited to continue working alongside the best Polkadot projects, and can’t wait to see what the future has in store for us.
+Avere due aste estremamente competitive suggerisce un ecosistema sano ed è incoraggiante vedere l'impegno che la comunità ha dimostrato. Noi di SubQuery siamo entusiasti di continuare a lavorare al fianco dei migliori progetti Polkadot e non vediamo l'ora di vedere cosa ci riserverà il futuro.
 
 ---
 
-## About SubQuery Network
+## La rete SubQuery
 
-SubQuery is Polkadot’s leading data provider, supporting an indexing & querying layer between Layer-1 blockchains (Polkadot) and decentralized applications. SubQuery’s data service is being used by most of the Polkadot and Kusama crowdloan and parachain auction websites live today.
+SubQuery è il principale fornitore di dati di Polkadot, che supporta un livello di indicizzazione & interrogazione tra le blockchain Layer-1 (Polkadot) e le applicazioni decentralizzate. Il servizio dati di SubQuery è utilizzato dalla maggior parte dei siti web di crowdloan e aste paracadutali di Polkadot e Kusama.
 
-SubQuery’s protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
+Il protocollo di SubQuery astrae dalle idiosincrasie dei dati della blockchain con l'SDK di SubQuery, consentendo agli sviluppatori di concentrarsi sull'implementazione del loro prodotto principale senza sprecare inutilmente gli sforzi su tecnologie backend personalizzate.
 
 ​​​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
 
-## Appendix
+## Appendice
 
-All USD prices are quoted at the price at the 3rd Auctions’s close = USD$36.77
+Tutti i prezzi in USD sono quotati al prezzo di chiusura della terza asta = 36,77 USD
 
-All data is from the start of the Polkadot Crowdloans to the completion of the third auction on 3rd December 1.43AM UTC (block 7,957,704).
+Tutti i dati si riferiscono all'inizio dei Crowdloan di Polkadot fino al completamento della terza asta il 3 dicembre alle 1.43AM UTC (blocco 7.957.704).
 
-Excluded Crowdloan Sites
+Siti Crowdloan esclusi
 
 - [Acala LCDOT](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157)
 - [Binance Crowdloan](https://www.binance.com/en/dotslot)
