@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/1*qp0hhPcvodDIMmVScohSnw.png)
 
-SubQuery, la principale solution d'indexation des données de Polkadot, est heureuse d'annoncer que quatre équipes ont été sélectionnées pour former la toute première cohorte de bénéficiaires de subventions SubQuery. These teams are [Alphabit](https://www.polkadata.xyz/), [Zoombies](https://zoombies.world), [Dapplooker](https://dapplooker.com/) and [Dotsama](http://dotsama.ai/).
+SubQuery, la principale solution d'indexation des données de Polkadot, est heureuse d'annoncer que quatre équipes ont été sélectionnées pour former la toute première cohorte de bénéficiaires de subventions SubQuery. Ces équipes sont [Alphabit](https://www.polkadata.xyz/), [Zoombies](https://zoombies.world), [Dapplooker](https://dapplooker.com/) et [Dotsama](http://dotsama.ai/).
 
 [Le programme de subventions SubQuery de 500 000 USD a été lancé en décembre 2021](./20211222-grants.md) avec la vision d'offrir des opportunités aux développeurs de blockchain, aux membres de la communauté et aux participants de l'écosystème plus large pour créer des idées innovantes ou à fort potentiel qui tirent parti des outils d'indexation de données open-source de SubQuery pour soutenir des applications décentralisées de pointe.
 
