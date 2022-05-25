@@ -1,20 +1,20 @@
-# The SubQuery Terra Onboarding Guide
+# Der SubQuery Terra Onboarding-Leitfaden
 
 ![](https://miro.medium.com/max/1400/1*DiTE9KuzH0xHLojzGWxOuw.png)
 
-For quite some time we have been developing and refining Terra support behind the scenes and testing it with key development launch partners (keep an eye out for announcements in the coming days). This prolonged period has allowed us to be extremely confident in the scalability, reliability, and features that SubQuery today brings to Terra. In this article we share a detailed developer guide and roadmap for all of the Terra community to use to solve their data indexing needs.
+Seit geraumer Zeit arbeiten wir hinter den Kulissen an der Entwicklung und Verfeinerung der Terra-Unterstützung und testen sie mit wichtigen Entwicklungspartnern (halten Sie in den kommenden Tagen Ausschau nach Ankündigungen). Dieser lange Zeitraum hat es uns ermöglicht, äußerst zuversichtlich in Bezug auf die Skalierbarkeit, Zuverlässigkeit und die Funktionen zu sein, die SubQuery heute für Terra bietet. In diesem Artikel stellen wir einen detaillierten Leitfaden für Entwickler und eine Roadmap für die gesamte Terra-Community zur Verfügung, mit der sie ihre Anforderungen an die Datenindizierung erfüllen können.
 
-SubQuery is an open data indexer that is flexible and fast. Our open indexing tool is designed to help developers build their own API in hours, and it's designed to index chains incredibly quickly with the assistance of dictionaries (pre-computed indices). Our experience with customers across all verticals in Polkadot (wallets, networks, explorers, NFT, DeFi, scanners, etc) has helped us build this.
+SubQuery ist ein offener Datenindexierer, der flexibel und schnell ist. Unser offenes Indizierungstool soll Entwicklern helfen, ihre eigene API in wenigen Stunden zu erstellen, und es ist darauf ausgelegt, Ketten mit Hilfe von Wörterbüchern (vorberechneten Indizes) unglaublich schnell zu indizieren. Unsere Erfahrung mit Kunden aus allen Bereichen von Polkadot (Wallets, Netzwerke, Explorer, NFT, DeFi, Scanner usw.) hat uns bei der Entwicklung dieser Lösung geholfen.
 
-This is still in its early versions, and while we consider far beyond a "beta", we would appreciate it if any bugs can be reported to our team so we can address them quickly.
+Es handelt sich noch um eine frühe Version, und obwohl wir weit über eine "Beta" hinausgehen, würden wir uns freuen, wenn Sie unserem Team etwaige Fehler melden, damit wir sie schnell beheben können.
 
 <iframe width="656" height="369" src="https://www.youtube.com/embed/dS7h3isQCeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Why Use SubQuery?
+## Warum SubQuery verwenden?
 
-The application ecosystem has thrived in Terra even though there is a serious lack of some key developer tools and infrastructure services. It's amazing to see, and a testament to the drive and ingenuity of the Lunatics in Terra. I most cases when we asked teams how they solved their data indexing needs, it was:
+Das Anwendungsökosystem hat sich auf Terra gut entwickelt, obwohl es an einigen wichtigen Entwicklerwerkzeugen und Infrastrukturdiensten mangelt. Es ist erstaunlich zu sehen und ein Beweis für die Tatkraft und den Einfallsreichtum der Lunatics in Terra. Als wir die Teams fragten, wie sie ihre Anforderungen an die Datenindizierung gelöst haben, war dies in den meisten Fällen der Fall:
 
-- **Build your own solution:** A custom implementation running by yourself built specifically for your app. But why reinvent the wheel? SubQuery is focusing on building a reliable and fast open indexer - we're here to save you time
+- **Erstellen Sie Ihre eigene Lösung:** Eine benutzerdefinierte Implementierung, die Sie selbst ausführen und speziell für Ihre Anwendung erstellen. But why reinvent the wheel? SubQuery is focusing on building a reliable and fast open indexer - we're here to save you time
 - **Designing smart contracts for queries:** Some teams were even implementing custom quirks in their smart contracts to specifically allow for more advanced queries specific to their application logic.
 
 At SubQuery we have an open-source SDK that is easy to use and lightning quick. It provides you with a standard GraphQL endpoint, or you can just query the postgres database directly. With it you can index a unique set of data from your own smart contracts that allows you to build a superior product that blows your competition out of the water! We give you flexibility to get the data that you need in the shape that works best for you.
