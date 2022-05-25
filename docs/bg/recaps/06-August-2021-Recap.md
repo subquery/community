@@ -70,7 +70,7 @@ _"SubQuery е идеалното решение за нашите нужди, т
 
 ## Предоставяне на втория крайъгълен камък на Polkadot Common API ✅
 
-We are pleased to make progress in the [development of an open-source dApp API ](https://docs.google.com/document/d/13L8HBwB6VB-n2g274FFFJKORYPJsq744C6H8iEDQ0-0/edit)for Kusama in conjunction with the team at [Fearless Wallet](https://fearlesswallet.io/). Тази работа е подкрепена от Kusama Treasury.
+Имаме удоволствието да постигнем напредък в [разработването на API за dApp с отворен код](https://docs.google.com/document/d/13L8HBwB6VB-n2g274FFFJKORYPJsq744C6H8iEDQ0-0/edit)за Kusama съвместно с екипа на [Fearless Wallet](https://fearlesswallet.io/). Тази работа е подкрепена от Kusama Treasury.
 
 Скорошното завършване на втория етап от този проект означава, че скоро ще има дефиниран и общ API интерфейс за основните данни на Polkadot, Kusama и други. Това ще привлече повече разработчици към екосистемата. Да направим разработката интуитивна и възможно най-безпроблемна е една от основните ни цели!
 
