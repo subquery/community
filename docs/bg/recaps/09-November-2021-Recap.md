@@ -30,23 +30,23 @@
 
 Ако искате да надградите проекта си SubQuery, за да получите специален ресурс, свържете се с нас на адрес [sales@subquery.network](mailto:sales@subquery.network).
 
-### Поддържане на външни файлове тип верига в манифеста на проекта
+### Поддръжка на файлове от тип външна верига в нашия манифест на проекта
 
-In November we launched [**version 0.2.0**](https://doc.subquery.network/create/manifest/) of our project manifest file (`project.yaml`). Тази нова версия предоставя на разработчиците различни подобрения, които са били поискани от клиентите.
+През ноември пуснахме [**версия 0.2.0**](https://doc.subquery.network/create/manifest/) на файла с манифест на проекта (`project.yaml`). Тази нова версия предоставя на разработчиците различни подобрения, които са били поискани от клиентите.
 
 Най-важното е, че при индексиране на потребителска верига от substrate вече можете да се позовете на файл за дефиниране на типа на веригата, в който са включени всички потребителски типове. Това бързо ви позволява да свържете нов проект SubQuery с всяка верига, базирана на substrate, включително всички парачейни на Кусама.
 
 [Можете да прочетете повече за тази нова функция тук](https://blog.subquery.network/blogs/20211105-november-technical-update.html#support-for-external-chain-type-files-in-project-manifest).
 
-### Moonriver EVM Support
+### Поддръжка на Moonriver EVM
 
 ![](https://miro.medium.com/max/600/0*B27QVtvcR6nXA9ff.gif)
 
 Както вече съобщихме, внедрихме поддръжка за мрежите Moonbeam и Moonriver в SubQuery. През ноември представихме всички ресурси за разработчици, които са ви необходими, за да започнете работа. [Можете да прочетете инструкциите тук](https://blog.subquery.network/blogs/20211105-november-technical-update.html#moonbeam-evm-support).
 
-Additionally, Scott was able to present this entire workflow to the [Moonbuilders workshop](https://www.crowdcast.io/e/moonbuilders-ws/10) for everyone to watch. Идеално време за подготовката на Gitcoin Grants, които спонсорираме (повече за това по-долу).
+Освен това Скот успя да представи целия работен процес на семинара [Moonbuilders](https://www.crowdcast.io/e/moonbuilders-ws/10), за да могат всички да го гледат. Идеално време за подготовката на Gitcoin Grants, които спонсорираме (повече за това по-долу).
 
-## Community
+## Общност
 
 ### Gitcoin Hackathon
 
