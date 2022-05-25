@@ -1,4 +1,4 @@
-# SubQuery Data Powers Nova Wallet — a next-gen mobile wallet for the Polkadot & Kusama ecosystem
+# I dati di SubQuery alimentano Nova Wallet, un portafoglio mobile di nuova generazione per l'ecosistema Polkadot & Kusama
 
 ![](https://miro.medium.com/max/1400/1*0HRq9OTOIIvv3Hfz9hE23A.jpeg)
 
@@ -31,6 +31,6 @@ Nova Wallet è un'applicazione di nuova generazione per l'ecosistema Polkadot & 
 
 ## Informazioni su SubQuery
 
-SubQuery è un livello decentralizzato di aggregazione, indicizzazione e interrogazione dei dati tra le blockchain Layer-1 e le applicazioni decentralizzate (DApp). Currently focused on Polkadot and Substrate projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+SubQuery è un livello decentralizzato di aggregazione, indicizzazione e interrogazione dei dati tra le blockchain Layer-1 e le applicazioni decentralizzate (DApp). Attualmente focalizzato sui progetti Polkadot e Substrate, questo data-as-a-service consente agli sviluppatori di concentrarsi sul loro caso d'uso principale e sul front-end, senza dover perdere tempo a costruire un back-end personalizzato per l'elaborazione dei dati.
 
-[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork) | [Sito web](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
