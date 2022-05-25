@@ -1,4 +1,4 @@
-# Applocker es reconocido como el Primer Graduado del Programa de Becas SubQuery
+# Dapplooker se celebra como el Primer Graduado del Programa de SubQuery Grants
 
 ![](https://miro.medium.com/max/700/0*m7loo6ZhFd_UrPtG)
 
