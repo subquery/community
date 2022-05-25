@@ -4,9 +4,9 @@
 
 Добре дошли в най-новата месечна актуализация от SubQuery, която е особено пълна с всички вълнуващи неща, които се случват в нашата общност.
 
-## SubQuery Network
+## Мрежата на SubQuery
 
-### SubQuery to launch on Acala
+### SubQuery ще стартира на Acala
 
 ![](https://miro.medium.com/max/600/0*SJ1TWt1sGwUWqvuI.gif) По време на разговора с общността най-накрая обявихме, че ще се стремим SubQuery и токенът SQT да бъдат първите външни приложения и токени, стартирани с Acala.
 
@@ -16,21 +16,21 @@
 
 [Прочетете повече за тази новина тук](https://blog.subquery.network/blogs/20211125-subquery-network-acala.html)
 
-### Significant Development on the SubQuery Network
+### Значително развитие на SubQuery мрежата
 
 Въпреки че сме заети с усилена работа по SubQuery Network и все още бързаме за стартирането на нашата тестова мрежа през първото тримесечие на 2022 г. Постигнахме голям напредък по отношение на умните ни договори и усъвършенстване на токеномиката ни. Очаквайте скоро да споделим много повече за това.
 
-## Core Product Development
+## Развитие на основния продукт
 
-### Scaling our Hosted Service
+### Мащабиране на хостваната услуга
 
-SubQuery Projects has been a recipient of some explosive growth over the past month as [thousands of academy participants](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html) have created even more projects in our hosted service ([project.subquery.network](https://project.subquery.network/)) in the space of a few weeks.
+През последния месец проектите SubQuery отбелязаха експлозивен растеж, тъй като хиляди [участници в академията създадоха](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html) още повече проекти в нашата хостинг услуга ([project.subquery.network](https://project.subquery.network/)) в рамките на няколко седмици.
 
 Преминахме границата от над 2000 проекта, разгърнати в нашата хостинг услуга, и в резултат на това мащабирането на тази услуга беше приоритет. Сега предлагаме на нашите корпоративни клиенти специални ресурси за подобряване на производителността и надеждността.
 
-If you would like to upgrade your SubQuery project to receive dedicated resourcing, contact us at [sales@subquery.network](mailto:sales@subquery.network).
+Ако искате да надградите проекта си SubQuery, за да получите специален ресурс, свържете се с нас на адрес [sales@subquery.network](mailto:sales@subquery.network).
 
-### Supporting External Chain Type Files in our Project Manifest
+### Поддържане на външни файлове тип верига в манифеста на проекта
 
 In November we launched [**version 0.2.0**](https://doc.subquery.network/create/manifest/) of our project manifest file (`project.yaml`). Тази нова версия предоставя на разработчиците различни подобрения, които са били поискани от клиентите.
 
