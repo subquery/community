@@ -1,4 +1,4 @@
-# SubQuery Provides Web3 Developers More Opportunities via Gitcoin Hackathon
+# SubQuery ofrece a los desarrolladores de Web3 más oportunidades a través de Gitcoin Hackathon
 
 ![](https://miro.medium.com/max/1400/0*LdQoekBCsctSL0Po)
 
@@ -6,7 +6,7 @@ Hoy nos complace anunciar la continuación de nuestra asociación con Gitcoin pa
 
 La misión de SubQuery de hacer más accesibles los datos descentralizados del mundo se basa en tener una red de desarrolladores con capacidad para crear e innovar. Después de celebrar nuestro primer Hackathon de Gitcoin en diciembre de 2021 y de conseguir unos resultados fantásticos con muchos desarrolladores con talento, fue una decisión fácil ampliar nuestra colaboración.
 
-The [Gitcoin GR13 Hackathon](https://gitcoin.co/hackathon/gr13/onboard) takes place from March 9th --- 24th 2022 with leading blockchain projects contributing to various prize pools. [SubQuery has proposed four bounties with a total prize pool of up to $22,000](https://gitcoin.co/hackathon/gr13/?org=subquery). Los premios se concederán a aquellos que hayan completado con éxito los proyectos según los estándares preestablecidos, y que aporten las ideas más creativas, o las que resuelvan áreas para mejorar el núcleo del SDK de SubQuery. A short summary of the challenges are below:
+El [Hackathon Gitcoin GR13](https://gitcoin.co/hackathon/gr13/onboard) tendrá lugar desde el 9 de marzo hasta el 24 de 2022 con proyectos líderes en blockchain que contribuyen a varios premios. [SubQuery has proposed four bounties with a total prize pool of up to $22,000](https://gitcoin.co/hackathon/gr13/?org=subquery). Los premios se concederán a aquellos que hayan completado con éxito los proyectos según los estándares preestablecidos, y que aporten las ideas más creativas, o las que resuelvan áreas para mejorar el núcleo del SDK de SubQuery. A short summary of the challenges are below:
 
 - Build a solution that stores a historical state of the blockchain rather than just the final state
 - Create an alternative Substrate-like chain dictionary generation via a Substrate archive
