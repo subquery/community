@@ -60,7 +60,7 @@ Cơ sở hạ tầng & Kiến trúc sư ứng dụng, kỹ sư phần mềm từ
 
 Bắt đầu trên [Github của SubQuery.](https://github.com/OnFinality-io/subql)
 
-Đọc [ tài liệu SubQuery ](https://doc.subquery.network/) của chúng tôi
+Đọc [tài liệu SubQuery](https://doc.subquery.network/) của chúng tôi
 
 [Ghé thăm trang web mới của chúng tôi](https://subquery.network/)
 
