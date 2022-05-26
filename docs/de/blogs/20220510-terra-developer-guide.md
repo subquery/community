@@ -23,13 +23,13 @@ Zuverlässigkeit ist der Schlüssel, und Sie brauchen eine zuverlässige und ska
 
 Und schließlich werden Sie in ein paar Monaten in der Lage sein, Ihre SubQuery-Infrastruktur mit dem SubQuery Network, der Zukunft der Web3-Infrastruktur, vollständig zu dezentralisieren. Das SubQuery Network wird die Daten Ihrer Projekte indizieren und der globalen Gemeinschaft auf eine anregende und überprüfbare Weise zur Verfügung stellen. Es ist so konzipiert, dass es jedes SubQuery-Projekt aus jedem Layer-1-Netzwerk einschließlich Terra unterstützt, so dass Sie von Anfang an die Vorteile des einheitlichen SubQuery-Netzwerks nutzen können.
 
-## Installation Instructions
+## Installationsanweisungen
 
-You'll first need to install a recent version of @subql/cli via npm i -g @subql/cli@latest
+Zuerst musst du eine aktuelle Version von @subql/cli via npm i -g @subql/cli@latest installieren
 
-The best way is to start with [our starter project](https://github.com/subquery/terra-subql-starter), it contains a running project with an example of all mapping functions: This project indexes the following:
+Der beste Weg ist mit[unseres Startprojektes](https://github.com/subquery/terra-subql-starter) zu starten, es enthält ein laufendes Projekt mit einem Beispiel von allen Mapping-Funktionen: Des Indexes vom Projekt sind:
 
-- **BlockHandler:** All blocks and their hash and height
+- **BlockHandler:** Alle Blöcke und ihre Hash und Höhe
 - **TransactionHandler:** All transactions and their hash, height, and timestamp
 - **EventHandler:** All smart contract transfer events and their hash, height, sender, recipient, and amount from a filtered smart contract address (bLuna)
 - **MessageHandler:** All smart contract messages and their hash, height, contract, sender, and execute_msg data from a filtered smart contract address (bLuna)
