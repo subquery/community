@@ -16,36 +16,36 @@
 
 Напоследък се свързваме с много протоколи, DeFi приложения, dApps, портфейли, NFT платформи, cross-chain мостове и други в екосистемата на Polkadot. Планираме да подобрим процеса на обучение на нови партньори, за да го ускорим с примерен код, готови проекти и по-добра информация за разработчиците.
 
-**Expect the stream of new partner projects to turn into a flood.**
+**Очаквайте потокът от нови партньорски проекти да се превърне в наводнение.**
 
-At the end of May we now have a total of 48 SubQuery projects hosted on SubQuery including:
+В края на май вече имаме общо 48 SubQuery проекта, хоствани в SubQuery, включително:
 
 - [Fearless Wallet](https://fearlesswallet.io/) (водещ портфейл Polkadot, с който ще работим в тясно сътрудничество),
 - [KodaDot](https://kodadot.xyz/) и [NFTMart](https://www.nftmart.io/) (NFT платформи)
 - [Darwinia](https://explorer.subquery.network/subquery/darwinia-network/darwinia) (a cross chain мост) и неговата тестова мрежа [Crab](https://explorer.subquery.network/subquery/wuminzhe/crab)
 
-Take a look at what Darwinia said about us
+Вижте какво казва Darwinia за нас
 
 ![](https://miro.medium.com/max/1400/0*Bc8P3mcH6rz-KtT0)
 
-> _“Using SubQuery to query Darwinia’s on-chain data has become very simple and flexible. SubQuery regards blockchain data as a graph, and leverages the extensibility of GraphQL to introduce additional functionality. We believe that in the future, the data interface on the substrate chain will mainly use GraphQL, SubQuery is making this a reality”_ — [Darwinia](../customer_announcements/20210528-Darwinias-Network-Data-is-Now-Available-for-Free-on-SubQuery.md)
+> _„Използването на SubQuery за запитване на данни във веригата на Darwinia стана много просто и гъвкаво. SubQuery разглежда блокчейн данните като графика и използва разширяемостта на GraphQL, за да въведе допълнителна функционалност. Вярваме, че в бъдеще интерфейсът за данни във веригата на субстрата ще използва основно GraphQL, SubQuery превръща това в реалност“_ — [Darwinia](../customer_announcements/20210528-Darwinias-Network-Data-is-Now-Available-for-Free-on-SubQuery.md)
 
-You can start building your next dApp with us today, follow our [quick start guide](https://doc.subquery.network/quickstart.html) or chat with us in our #technical-support channel in [Discord](https://discord.com/invite/78zg8aBSMG).
+Можете да започнете да създавате следващото си dApp с нас днес, следвайте нашето [ръководство за бързо начало](https://doc.subquery.network/quickstart.html) или чатете с нас в нашия канал #technical-support в [Discord](https://discord.com/invite/78zg8aBSMG).
 
-There is so much potential at SubQuery, so many ideas we are building, and so many partners that we’re onboarding that we need to massively expand our team. We’ve just added 4 employees across UX, marketing, business development, and engineering but need to keep adding more.
+Има толкова голям потенциал в SubQuery, толкова много идеи, които изграждаме, и толкова много партньори, които внедряваме, че трябва масово да разширим екипа си. Току-що добавихме 4 служители в UX, маркетинг, бизнес развитие и инженеринг, но трябва да продължим да добавяме още.
 
-Please let us know if you can recommend anyone for any of the following roles, we’re looking for the best to join us on our journey 🚀
+Моля, уведомете ни, ако можете да препоръчате някой за някоя от следните роли, ние търсим най-добрите да се присъединят към нас в нашето пътуване 🚀
 
 - [Инженер по надеждност на сайта](https://dash.recooty.com/openings/details/e44cf9762b402f5d8b5bc36f60304a15) (в Близкия изток, Европа или източната част на САЩ)
 - [Разработчици на блокчейн](https://dash.recooty.com/openings/details/9578a63fbe545bd82cc5bbe749636af1) (с познания за Rust)
 - [Мениджър бизнес развитие](https://rcty.co/3coJPrV) (в идеалния случай в Европа или Северна Америка)
 
-SubQuery was selected from over 50 candidates to join the exclusive 2021 Web 3.0 Bootcamp in Shanghai. There are some amazing projects and a huge amount of talent in this bootcamp, so we’re excited to be a part of it. Polkadot is the most exciting ecosystem out there in our industry, and China is the fastest growing country building here.
+SubQuery беше избран от над 50 кандидати, за да се присъединят към ексклузивния 2021 Web 3.0 Bootcamp в Шанхай. В този учебен лагер има някои невероятни проекти и огромно количество таланти, така че сме развълнувани да бъдем част от него. Polkadot е най-вълнуващата екосистема в нашия бранш, а Китай е най-бързо развиващата се страна, която строи тук.
 
-We expect to learn a lot, to make a lot of new friends and partners, to get a lot of feedback on our product development. We expect to come out of this bootcamp even stronger than we are now. You can watch our opening ceremony below
+Очакваме да научим много, да намерим много нови приятели и партньори, да получим много обратна връзка за разработването на нашите продукти. Очакваме да излезем от този тренировъчен лагер още по-силни, отколкото сме сега. Можете да гледате нашата церемония по откриването по-долу
 
-Next month we’ve got some exciting new announcements to share with our community, stay subscribed to our social media channels to hear about them first.
+През следващия месец имаме няколко вълнуващи нови съобщения, които ще споделим с нашата общност. Бъдете абонирани за каналите ни в социалните медии, за да научите първи за тях.
 
-James, Sam, and the SubQuery Team
+Джеймс, Сам и екипът на SubQuery
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Medium](https://subquery.medium.com/)
