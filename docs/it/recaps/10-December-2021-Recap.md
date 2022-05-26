@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/1*-gXOf6qYQiYypDCVBeE1kg.png)
 
-This year has absolutely flown by and SubQuery has come a long way! Since February 2021, we’ve grown a huge inclusive community, helped hundreds of projects to build faster, and scaled our hosted service to handle hundreds of millions of API requests for the top projects in Polkadot.
+This year has absolutely flown by and SubQuery has come a long way! Dal febbraio 2021, siamo cresciuti come una grande comunità inclusiva, aiutando centinaia di progetti a sviluppare più velocemente, e abbiamo scalato il nostro servizio online per gestire centinaia di milioni di richieste API per i migliori progetti in Polkadot.
 
 Read on for a message from Sam, and learn what we go up to in the final days of 2021!
 
