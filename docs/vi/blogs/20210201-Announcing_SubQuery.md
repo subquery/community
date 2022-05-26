@@ -18,7 +18,7 @@ Vì các hệ thống phi tập trung lưu trữ dữ liệu trên các mạng n
 
 Mục đích của SubQuery là giúp các dự án Polkadot/Substrate xây dựng các dApp tốt hơn bằng cách cho phép bất kỳ ai cũng có thể tìm và sử dụng dữ liệu nhanh hơn một cách đáng tin cậy. Dịch vụ của chúng tôi sẽ cho phép người dùng trích xuất, chuyển đổi, duy trì và truy vấn dữ liệu ban đầu, cũng như kết nối và trình bày dữ liệu trong tương lai. Mục đích của chúng tôi là biến Subquery thành một phần cơ sở hạ tầng cốt lõi cho hệ sinh thái Substrate/Polkadot, giống như The Graph trong Ethereum.
 
-**Tại đây, SubQuery giúp bạn chuyển đổi và truy vấn dữ liệu của thế giới thực cho tương lai của web3.0.**
+**SubQuery ở đây để giúp bạn chuyển đổi và truy vấn dữ liệu của thế giới cho tương lai web3.0.**
 
 ![](https://miro.medium.com/max/1000/1*IHstJG-hBwQzicLdWkGR5w.png)
 
