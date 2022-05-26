@@ -44,35 +44,35 @@ Gli Indicizzatori che sono interessati a partecipare [possono segnalare il loro 
 
 ![](https://miro.medium.com/max/1400/1*gD9qkI5JK-PeWRTDr3IERw.png)
 
-Many customers now rely on SubQuery to provide mission critical data to their production apps. These customers represent some of the largest wallets ([Nova](https://novawallet.io/) and [Fearless](https://fearlesswallet.io/)), scanners ([Subscan](https://www.subscan.io/), [SubVis](https://www.subvis.io/), and [DotMarketCap](https://dotmarketcap.com/)), NFT platforms ([Kodadot](https://kodadot.xyz/) and [Yuser](https://yuser.co/)), and more. These are huge applications that the Polkadot community use on a daily basis and must be online at all times.
+Molti clienti, tra cui Nova, si affidano a SubQuery per fornire dati mission critical alle loro applicazioni di produzione. Questi clienti rappresentano alcuni dei più grandi wallet ([Nova](https://novawallet.io/) e [Fearless](https://fearlesswallet.io/)), scanner ([Subscan](https://www.subscan.io/), [SubVis](https://www.subvis.io/), e [DotMarketCap](https://dotmarketcap.com/)), piattaforme NFT ([Kodadot](https://kodadot.xyz/) e [Yuser](https://yuser.co/)), e altro. Queste sono applicazioni enormi che la comunità Polkadot usa quotidianamente e devono essere sempre online.
 
-The performance and reliability of our hosted service has been on the top of our priority list for some time here at SubQuery. Our sister team is OnFinality, Polkadot’s largest infrastructure provider, so we have plenty of experience in this area. As a result, we made three recent improvements that will make SubQuery the most reliable, scalable, and performant data platform in Polkadot.
+Le prestazioni e l'affidabilità del nostro servizio hosted sono state in cima alla nostra lista di priorità per un po' di tempo qui a SubQuery. Il nostro team gemello è OnFinality, il più grande fornitore di infrastrutture di Polkadot, quindi abbiamo molta esperienza in questo settore. Di conseguenza, oggi andremo attraverso tre recenti miglioramenti che renderanno SubQuery la piattaforma dati più affidabile, scalabile e performante in Polkadot.
 
-1.  Dedicated Databases
-2.  Multiple Cluster Support
-3.  Intelligent Routing
+1.  Database dedicati
+2.  Supporto per cluster multipli
+3.  Instradamento intelligente
 
-These services allow us to offer our premium service to more customers with confidence. We work with each customer to understand their business and goals, and then to set up a service to meet their needs. SubQuery is the largest data service provider in Polkadot, and these features show how we support thousands of community projects at the same time as the biggest projects in Polkadot. [Read more here](../blogs/20211228-enterprise-hosted.md)
+In sintesi, questi servizi ci permettono di offrire il nostro servizio premium a più clienti con fiducia. Lavoriamo con ogni cliente per capire il loro business e i loro obiettivi, e poi per impostare un servizio che soddisfi le loro esigenze. SubQuery è il più grande fornitore di servizi di dati in Polkadot, e queste caratteristiche mostrano come supportiamo migliaia di progetti comunitari allo stesso tempo dei più grandi progetti in Polkadot. [Puoi leggere di più qui](../blogs/20211228-enterprise-hosted.md)
 
-## Community
+## Comunità
 
-### The Hero Course
+### Il Corso Dell'Eroe
 
-A few months ago we released our first course to help blockchain developers upskill themselves for free. Now, we are pleased to announce that all modules of our [Hero Course](https://subquery.coassemble.com/unlock/dOKZW6O#/) have now been released.
+Qualche mese fa abbiamo rilasciato il nostro primo corso per aiutare gli sviluppatori blockchain ad aggiornare se stessi gratuitamente. Ora siamo lieti di annunciare che tutti i moduli del nostro [Hero Course](https://subquery.coassemble.com/unlock/dOKZW6O#/) sono stati rilasciati.
 
-We recently added a quiz feature to enable students to earn the official certificate and are working with the Community to translate the course into various languages.
+Recentemente abbiamo aggiunto una funzione quiz per consentire agli studenti di ottenere il certificato ufficiale e stanno lavorando con la Comunità per tradurre il corso in varie lingue.
 
-### SubQuery Celebrates Winners of Encode Club Hackathon
+### SubQuery celebra i vincitori dell'Encode Club Hackathon
 
-SubQuery was proud to partner with Acala for the Encode Club Hackathon last year to support the developer community and the next generation of Polkadot projects.
+SubQuery è stata orgogliosa di collaborare con Acala per l'Encode Club Hackathon l'anno scorso per sostenere la comunità di sviluppatori e la prossima generazione di progetti Polkadot.
 
-After 10 weeks and scrutiny from high profile judges in the Polkadot ecosystem such as [Bryan Chen](https://twitter.com/XiliangChen) (Co-Founder and CTO of Acala), [Hang Yin](https://twitter.com/bgmshana) (Co-Founder of Phala Network), [Jack Platts](https://twitter.com/jackbplatts) (Co-Founder of Hypersphere Ventures) and [Sota Watanabe](https://twitter.com/WatanabeSota) (Founder of Astar, CEO of Stake Technologies) we are happy to share [the winners](https://medium.com/encode-club/polkadot-hack-finale-prizewinners-and-summary-931627c64d9) of our challenges.
+Dopo 10 settimane e l'esame da parte di giudici di alto profilo nell'ecosistema Polkadot come [Bryan Chen](https://twitter.com/XiliangChen) (Co-Fondatore e CTO di Acala), [Hang Yin](https://twitter.com/bgmshana) (Co-Fondatore di Phala Network), [Jack Platts](https://twitter.com/jackbplatts) (Co-Fondatore di Hypersphere Ventures) e [Sota Watanabe](https://twitter.com/WatanabeSota) (Fondatore di Astar, CEO di Stake Technologies) siamo felici di condividere [i vincitori](https://medium.com/encode-club/polkadot-hack-finale-prizewinners-and-summary-931627c64d9) delle nostre sfide.
 
-🤖 The “build a bot” challenge was won by the team at Krakura with an interesting open-source DEX arbitrage bot that constantly checks for pricing differences.
+🤖 La sfida “build a bot” è stata vinta dalla squadra di Cracovia con un interessante open source bot di arbitraggio DEX che controlla costantemente le differenze di prezzo.
 
 <iframe width="680" height="382" src="https://www.youtube.com/embed/G7TNTzMDijU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-📈 The winner of the Dashboard challenge with AcalaNetwork was the team at Polkadata, a data analytics platform for DeFi investors to track how smart money is investing and structuring their portfolio on Karura
+📈 Il vincitore di questa sfida è stato il team di Polkadata, una piattaforma di analisi dei dati per gli investitori DeFi per tracciare come il denaro intelligente sta investendo e strutturando il loro portafoglio su Karura
 
 [http://polkadata.xy](http://polkadata.xy/)
 
