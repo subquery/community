@@ -1,46 +1,46 @@
-# December 2021 Recap
+# Riassunto del mese di dicembre 2021
 
 ![](https://miro.medium.com/max/1400/1*-gXOf6qYQiYypDCVBeE1kg.png)
 
-This year has absolutely flown by and SubQuery has come a long way! Dal febbraio 2021, siamo cresciuti come una grande comunità inclusiva, aiutando centinaia di progetti a sviluppare più velocemente, e abbiamo scalato il nostro servizio online per gestire centinaia di milioni di richieste API per i migliori progetti in Polkadot.
+Quest'anno è assolutamente volato e SubQuery ha fatto molta strada! Dal febbraio 2021, siamo cresciuti come una grande comunità inclusiva, aiutando centinaia di progetti a sviluppare più velocemente, e abbiamo scalato il nostro servizio online per gestire centinaia di milioni di richieste API per i migliori progetti in Polkadot.
 
-Read on for a message from Sam, and learn what we go up to in the final days of 2021!
+Continua a leggere un messaggio da Sam, e scopri cosa abbiamo fatto negli ultimi giorni del 2021!
 
 ## SubQuery Network
 
-### SubQuery Launches $500,000 Grants Programme
+### SubQuery lancia $500,000 Programma Di Sovvenzioni
 
-In late December, we were proud to announce the launch of our USD$500,000 Grants Programme.
+Alla fine di dicembre, siamo stati orgogliosi di annunciare il lancio del nostro programma di sovvenzioni per 500.000 USD.
 
-The vision of the [SubQuery Grants](https://subquery.network/grants) initiative is to offer key opportunities to blockchain developers, community members, and the wider ecosystem participants so they can create the next-generation of decentralized applications (dApps). These apps are expected to power the Polkadot-based solutions that will support Web 3.0, which is an evolving set of standards for the Internet of the future.
+La visione dell'iniziativa [SubQuery Grants](https://subquery.network/grants) è quella di offrire opportunità chiave agli sviluppatori di blockchain, ai membri della community e i più ampi partecipanti all'ecosistema in modo che possano creare la prossima generazione di applicazioni decentralizzate (dApps). Queste app dovrebbero alimentare le soluzioni basate su Polkadot che supporteranno il Web 3.0, che è un insieme di standard evolutivi per l'Internet del futuro.
 
 <iframe width="680" height="382" src="https://www.youtube.com/embed/Gcu2syKYlB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-SubQuery is looking for innovative or high-potential ideas that leverage SubQuery’s open-source data indexing tools to support cutting-edge applications that address problems in blockchain or distributed ledger technology (DLT) sector. We’re particularly interested in user friendly applications that unlock the data from Polkadot or parachains, providing an intuitive entry point into our ecosystem. Our aim is to bring millions of users into the Polkadot ecosystem by helping builders build the next generation of dApps. [You can read more here](../blogs/20211222-grants.md)
+SubQuery è alla ricerca di idee innovative o ad alto potenziale che sfruttino gli strumenti di indicizzazione dei dati open source di SubQuery per supportare applicazioni all'avanguardia che affrontano problemi nel settore blockchain o Distributed ledger Technology (DLT). Siamo particolarmente interessati alle applicazioni di facile utilizzo che forniranno dati da Polkadot o dalle parachains, fornendo un punto di accesso intuitivo nel nostro ecosistema. Il nostro obiettivo è quello di portare milioni di utenti nell'ecosistema Polkadot aiutando gli sviluppatori a costruire la prossima generazione di dApps. [Puoi leggere di più qui](../blogs/20211222-grants.md)
 
 ![](https://miro.medium.com/max/1400/1*tFm9pBCPmAet3WGiGjUtLg.png)
 
-### SubQuery Releases Tokenomics
+### Subquery rilascia la Tokenomics
 
-During our most recent Community Call we shared our high-level tokenomics for the first time including the allocations and vesting schedules. SubQuery will mint a supply of 10 billion SQT which will be allocated in the following manner.
+Durante la nostra più recente Community Call abbiamo condiviso per la prima volta i nostri tokenomics di alto livello, compresi gli stanziamenti e i calendari di acquisizione. SubQuery conierà una fornitura fissa di 10 miliardi di SQT che verrà allocata nel modo seguente.
 
 ![](https://miro.medium.com/max/1400/1*304WkKdNhuf0nSBmTlOXyQ.png)
 
-We aim to establish SQT as the token which powers the SubQuery network, providing an incentive for participation, as well as serving as a medium of exchange for transactions within the SubQuery network. SQT will be the fuel for the web3 data revolution.
+Come indicato nel whitepaper, miriamo a stabilire SQT come il token che alimenta la rete SubQuery, fornendo un incentivo per la partecipazione, oltre a fungere da mezzo di scambio per le transazioni all'interno della rete SubQuery. SQT sarà il carburante per la rivoluzione dei dati web3.
 
-The exact details of when and how the SQT token will be allocated and distributed are still subject to finalisation, and will be announced closer to the public sale. For the listing of SQT, we are planning to be available on key decentralised (DEX) and centralised exchanges (CEX) to make it as easy as possible for everyone to participate in the SubQuery Network. [Read more here](../blogs/20211220-tokenomics.md)
+I dettagli esatti di quando e come verrà allocato e distribuito il token SQT sono ancora soggetti a finalizzazione e saranno annunciati in prossimità della vendita pubblica. Per il listing di SQT, stiamo pianificando di essere disponibili su exchange chiave decentralizzati (DEX) e centralizzati (CEX) per rendere il più semplice possibile la partecipazione di tutti alla rete di Subquery. [Puoi leggere di più qui](../blogs/20211220-tokenomics.md)
 
-### Call for Indexers
+### Chiamata per indicizzatori
 
-As we get ready for the launch of our mainnet we put out the call for Indexers in December to register their interest with us. In a matter of days we had over 1,000 applications!
+Mentre ci prepariamo per il lancio della nostra mainnet abbiamo lanciato la richiesta di indicizzatori a dicembre per registrare il loro interesse con noi. In pochi giorni abbiamo avuto più di 1.000 applicazioni!
 
-We are looking for node operators with a deep understanding of the SubQuery Network, including the revenue streams and how staking and delegation works. You’ll need to be an expert in running high performance and scalable production applications with monitoring and wallet/infrastructure security. Finally, you’ll need a great attitude and a shared belief in growing the future of web3.
+Stiamo cercando node operators con una profonda comprensione della rete SubQuery, compresi i flussi di reddito e come funzionano staking e deleghe. Dovrai essere un esperto nell'esecuzione di applicazioni in produzione ad alte prestazioni e scalabili con monitoraggio e sicurezza del portafoglio/infrastruttura. Infine, avrete bisogno di un grande atteggiamento e di una fede condivisa nel crescere il futuro del web3.
 
-Indexers who are interested in participating [can register their interest with SubQuery here](https://forms.gle/RyXyhb8T9Gxkwi7R9). After reviewing all of the applications, we expect to approve an initial pool of Indexers by early February 2022 with the testnet launching at the end of Q1 2022. Indexers will be retrospectively rewarded and invited to participate in the subsequent mainnet anticipated at the end of Q2 2022. [Read more here](../blogs/20211202-indexer-invitation.md)
+Gli Indicizzatori che sono interessati a partecipare [possono segnalare il loro interesse con SubQuery qui](https://forms.gle/RyXyhb8T9Gxkwi7R9). Dopo aver esaminato tutte le domande, ci aspettiamo di approvare un pool iniziale di indicizzatori entro la fine di gennaio 2022 con il lancio del testnet alla fine del Q1 2022. Gli Indexer saranno premiati a posteriori e invitati a partecipare al successivo mainnet previsto alla fine del Q2 2022. [Puoi leggere di più qui](../blogs/20211202-indexer-invitation.md)
 
-## Core Product Development
+## Sviluppo del prodotto principale
 
-### SubQuery Provides Customers with Enterprise Support
+### SubQuery fornisce ai clienti un supporto aziendale
 
 ![](https://miro.medium.com/max/1400/1*gD9qkI5JK-PeWRTDr3IERw.png)
 
