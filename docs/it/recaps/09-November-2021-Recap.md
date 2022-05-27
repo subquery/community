@@ -2,19 +2,19 @@
 
 ![](https://miro.medium.com/max/1400/1*qzKzZnWY2ao3tiffwwugXQ.png) **_This month it’s all about execution_**
 
-Welcome to the latest monthly update from SubQuery, and one that is particularly full of all the exciting stuff happening around our community.
+Benvenuto nell'ultimo aggiornamento mensile di SubQuery, particolarmente ricco di tutte le cose interessanti che accadono intorno alla nostra community.
 
 ## SubQuery Network
 
-### SubQuery to launch on Acala
+### SubQuery da avviare su Acala
 
-![](https://miro.medium.com/max/600/0*SJ1TWt1sGwUWqvuI.gif) At our community call, we finally announced that SubQuery and the SQT token will aim to be the first external application and token to launch with Acala.
+![](https://miro.medium.com/max/600/0*SJ1TWt1sGwUWqvuI.gif) Alla nostra chiamata della community, abbiamo finalmente annunciato che SubQuery e il token SQT mireranno a essere la prima applicazione e token esterno ad essere lanciato con Acala.
 
-We considered a variety of options before electing to deepen its existing partnership with Acala by launching on its leading DeFi protocol built on Polkadot. The three main reasons that went into this decision to launch with Acala were community access, domain/technical excellence, and our existing robust relationship.
+Abbiamo considerato una varietà di opzioni prima di decidere di approfondire la sua partnership esistente con Acala lanciando il suo protocollo DeFi leader basato su Polkadot. I tre motivi principali alla base di questa decisione di avviare con Acala sono stati l'accesso alla comunità, l'eccellenza tecnica/di dominio e la nostra solida relazione esistente.
 
-James caught up with Acala’s Bette Chen for a wide-ranging interview on this decision and partnership, including the specifics on why Acala and SubQuery are a match made in heaven.
+James ha incontrato Bette Chen di Acala per un'intervista ad ampio raggio su questa decisione e partnership, comprese le specifiche sul perché Acala e SubQuery sono una partita fatta in paradiso.
 
-[Read more about this announcement here](https://blog.subquery.network/blogs/20211125-subquery-network-acala.html)
+[Leggi di più su questo annuncio qui](https://blog.subquery.network/blogs/20211125-subquery-network-acala.html)
 
 ### Significant Development on the SubQuery Network
 
