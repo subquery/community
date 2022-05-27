@@ -18,12 +18,12 @@ SubWallet използва под-проекти [SubQuery Projects](https://pro
 
 ## За SubWallet
 
-SubWallet is a pioneer user-friendly Web3 Multiverse Gateway for Polkadot and Kusama ecosystem. With the mission of bringing crypto users closer to the Dotsama ecosystem and opening the Web3 universe, we focus on building a product that provides the simplest and most secure way to connect to blockchain-based applications like DeFi and GameFi for Dotsama Ecosystem.
+SubWallet е пионер лесен за употреба Web3 мултивселена портал за Polkadot и Kusama екосистема. С мисията да доближим крипто потребителите до Dotsama екосистемата и да отворим Web3 Вселената, ние се фокусираме върху изграждането на продукт, който осигурява най-простия и най-сигурен начин за свързване с приложения, базирани на блокчейн, като DeFi и GameFi за Dotsama екосистемата.
 
 [Website](https://subwallet.app/) |[ Twitter](https://twitter.com/subwalletapp) |[ Discord](https://discord.gg/eDdVzF8ynJ) |[ Telegram](https://t.me/subwallet) |[ Youtube](https://www.youtube.com/channel/UC5XYLzQ1G077kUb7guZEMdA) |[ Linkedin](https://www.linkedin.com/company/subwallet/) |[ Github](https://github.com/Koniverse)
 
-## About SubQuery
+## За SubQuery
 
-[SubQuery](https://subquery.network) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot and Substrate projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+<[SubQuery](https://subquery.network) е инструментариум за разработчици на блокчейн, който позволява на другите да изграждат Web3 приложения на бъдещето. SubQuery проект е пълен програмен интерфейс за организиране и заявяване на данни от веригите слой-1. Понастоящем обслужващи Polkadot и Substrate проекти, тази услуга за данни позволява на разработчиците да се съсредоточат върху основния си случай на използване и предния край, без да се налага да губят време за изграждане на персонализиран бекенд за обработка на данни. SubQuery предлага да се даде възможност за същото мащабируемо и надеждно решение, но по напълно децентрализиран начин.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
