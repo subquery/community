@@ -16,7 +16,7 @@ _Техническите награди дават възможност на р
 
 Кандидатите, които се интересуват от някоя от тези награди, се насърчават да изпратят своето предложение с бюджета, необходим за изпълнение на задачата, и други изисквания тук. Ако имате някакви въпроси, моля, присъединете се към нашия Discord сървър и се свържете с нашия екип в канала Grants.
 
-For those who would like to up-skill more on SubQuery before making an application, [The SubQuery Academy](./20211018-subquery-launches-the-subquery-academy.md)’s “Hero Course” is a free and modular educational program designed to build awareness amongst developers. и е [напълно безплатен и достъпен чрез онлайн портал](https://subquery.coassemble.com/unlock/dOKZW6O#/).
+За тези, които биха искали да повишат квалификацията си за SubQuery, преди да подадат заявление, "Курсът за герои" на [Академията SubQuery](./20211018-subquery-launches-the-subquery-academy.md) е безплатна и модулна образователна програма, предназначена за повишаване на осведомеността сред разработчиците. и е [напълно безплатен и достъпен чрез онлайн портал](https://subquery.coassemble.com/unlock/dOKZW6O#/).
 
 ## За SubQuery Network
 
