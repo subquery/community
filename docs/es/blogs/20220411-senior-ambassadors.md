@@ -1,4 +1,4 @@
-# Introducing SubQuery's Senior Ambassadors
+# Presentación de los Embajadores Seniores de SubQuery
 
 ![](https://miro.medium.com/max/1400/0*E059TXajzXqkqW2g)
 
