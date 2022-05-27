@@ -42,31 +42,31 @@ Il programma Spartan esiste all'interno della nostra community Discord ed è pro
 
 To find out more about our Spartan programme and participate in our November competition please [join our Discord](https://discord.com/invite/subquery).
 
-[Read more about our Spartan programme here](../blogs/20211101-spartan-programme.md)
+[Leggi di più sul nostro programma Spartan qui](../blogs/20211101-spartan-programme.md)
 
 ### SubQuery Academy
 
-Onboarding new developers and teaching them the skills they need to build the dApps of tomorrow is incredibly important to the success of our community.
+L'inserimento di nuovi sviluppatori e l'insegnamento delle competenze di cui hanno bisogno per creare le dApp di domani è incredibilmente importante per il successo della nostra community.
 
-The Academy will be a weekly series of 6 modules with several 5 to 10 minute lessons which are delivered by a recorded video. The video content is accompanied by written tutorials, slides, lab workbooks, and links to the finished GitHub code repository.
+L'Accademia sarà una serie settimanale di 6 moduli con diverse lezioni da 5 a 10 minuti che vengono fornite da un video registrato. The video content is accompanied by written tutorials, slides, lab workbooks, and links to the finished GitHub code repository.
 
 Our Academy aims to take an aspiring blockchain developer from beginner to advanced and it is 100% free and accessible online. Abbiamo avuto oltre 1.200 iscrizioni al nostro primo corso per eroi dal suo lancio due settimane fa e siamo grati per l'appassionata community che abbiamo con noi.
 
-[Read more about SubQuery’s Academy here](../blogs/20211018-subquery-launches-the-subquery-academy.md)
+[Leggi di più sull'Accademia di SubQuery qui](../blogs/20211018-subquery-launches-the-subquery-academy.md)
 
-### Community Call
+### Leggi di più sull'Accademia di SubQuery qui
 
-We held our first-ever community call on October 28th to share our roadmap and the latest community updates. It was great to share with our community the things they had been asking for a long time in a more personal way. We appreciate all those who came to the call and we plan on hosting these calls more regularly. It would have been the first time for a lot of you to hear from our new community manager Sally as well who joined us in early October.
+Abbiamo tenuto la nostra prima chiamata della community in assoluto il 28 ottobre per condividere la nostra tabella di marcia e gli ultimi aggiornamenti della community. È stato fantastico condividere con la nostra comunità le cose che chiedevano da molto tempo in un modo più personale. Apprezziamo tutti coloro che sono venuti alla chiamata e prevediamo di ospitare queste chiamate più regolarmente. Sarebbe stata la prima volta per molti di voi di sentire anche la nostra nuova community manager Sally, che si è unita a noi all'inizio di ottobre.
 
-[Watch the October session recording here](https://www.crowdcast.io/e/subquery-sessions-october)
+[Guarda la registrazione della sessione di ottobre qui](https://www.crowdcast.io/e/subquery-sessions-october)
 
-## Other things you might have missed
+## Altre cose che potresti esserti perso
 
 - We’ve partnered with Acala to provide the [largest pool of prizes for the Encode Club Polkadot Hackathons](https://medium.com/encode-club/polkadot-hack-challenges-7cfeba1a4c0e).
-- [SubQuery helps Khala Build their New ERC20 Chain Bridge](../customer_announcements/20211021-khala.md)
+- [SubQuery aiuta Khala a costruire il nuovo ponte delle catene ERC20](../customer_announcements/20211021-khala.md)
 
-If you would like to learn more you can view all projects easily via our Explorer here.
+Se desideri saperne di più, puoi visualizzare facilmente tutti i progetti tramite il nostro Explorer qui.
 
-As always, please join our social channels to stay updated on our latest news and announcements. James, Sam, and the SubQuery Team
+Come sempre, iscriviti ai nostri canali social per rimanere aggiornato sulle nostre ultime novità e annunci. James, Sam, and the SubQuery Team
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
