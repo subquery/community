@@ -30,20 +30,20 @@ Nick habla cuatro idiomas, inglés, alemán, ruso y ucraniano y tiene más de do
 
 ![](https://miro.medium.com/max/1400/0*UAl7Xw8tJuJ44SrF)
 
-Prathak is a doctor who is interested in a variety of fields, but his greatest interest lies in investment and technology.
+Prathak es un médico interesado en una variedad de campos, pero su mayor interés radica en la inversión y la tecnología.
 
-He learned about the world of blockchain while studying programming on his own during his university years in his free time. He was drawn to the possibilities and potential of new technologies and became deeply passionate about blockchain, especially DeFi and DAOs. Other favoured topics for him are artificial intelligence, ZKP and how blockchain can be used in a more privacy-focused environment.
+Aprendió sobre el mundo de blockchain mientras estudiaba programación por su cuenta durante sus años universitarios en su tiempo libre. Se sintió atraído por las posibilidades y el potencial de las nuevas tecnologías y se apasionó profundamente por blockchain, especialmente DeFi y DAOs. Otros temas favoritos para él son la inteligencia artificial, ZKP y cómo se puede usar blockchain en un entorno más enfocado en la privacidad.
 
-In addition to his interest in blockchain and new technologies stemming from his software development background, he also has literary and poetic abilities.
+Además de su interés en blockchain y las nuevas tecnologías derivadas de su experiencia en desarrollo de software, también posee habilidades literarias y poéticas.
 
-In his spare time, he reads novels, comic books, and exercises regularly. On long weekends, he often goes out on a motorcycle to explore the nature and lifestyle of the local people. He aspires to have a positive influence on others such as his family and friends.
+En su tiempo libre, lee novelas, cómics y hace ejercicio regularmente. Los fines de semana largos, a menudo sale en motocicleta para explorar la naturaleza y el estilo de vida de la gente local. Aspira a tener una influencia positiva en los demás, como su familia y amigos.
 
-As a SubQuery Ambassador, he desires to use this opportunity to create an open-source instructional resource regarding blockchain applications. He envisions the resource to involve not just instructions on dapp creation for novices, but also scientific research on subjects such as AI and ZKP.
+Como Embajador de SubQuery, desea utilizar esta oportunidad para construir un recurso instructivo de código abierto sobre las aplicaciones de blockchain. Él vislumbra que el recurso incluya no solo instrucciones sobre la creación de dapp para principiantes, sino también investigación científica sobre temas como IA y ZKP.
 
-> _"Aside from the fact that the SubQuery team and community are amazing. The reason I like SubQuery is because I see the great potential that SubQuery will bring to the blockchain world. Being able to access and analyze data on blockchain is very important in taking blockchain to the next level. Especially now that data is more valuable than gold."_ - Prathak
+> _"Además del hecho de que el equipo y la comunidad de SubQuery son increíbles. La razón por la que me gusta SubQuery es porque veo el gran potencial que traerá SubQuery al mundo blockchain. Poder acceder y analizar datos en blockchain es muy importante para llevar blockchain al siguiente nivel. Especialmente ahora que los datos son más valiosos que el oro"._ - Prathak
 
-## About SubQuery
+## Acerca de SubQuery
 
-[SubQuery](https://subquery.network) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot , Substrate and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+[SubQuery](https://subquery.network) es un conjunto de herramientas para desarrolladores de blockchain que permite a otros crear aplicaciones Web3 del futuro. Un proyecto de SubQuery es una completa API para organizar y consultar los datos de las cadenas de capa-1. Actualmente, sirviendo a los proyectos de Polkadot, Substrate y Avalanche, este servicio de datos permite a los desarrolladores centrarse en su caso de uso principal y en la linea de diseño además de los elementos gráficos, sin necesidad de perder tiempo en la creación de un codigo interno personalizado para el procesamiento de datos. La Red SubQuery propone hacer posible esta misma solución escalable y fiable, pero de forma totalmente descentralizada.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
