@@ -16,29 +16,29 @@ La scorsa settimana, in occasione dell'incontro con la comunità, abbiamo condiv
 
 Siamo andati molto in profondità per trasparenza nei confronti della comunità e per razionalizzare il lavoro che ci aspetta. È una linea temporale ambiziosa che stiamo usando internamente come obiettivo, potete vedere quanti pezzi in movimento ci sono dall'immagine qui sotto! That being said, estimating timelines for R&D software development is notoriously difficult, so nothing below is final — it’s just our best effort at estimations.
 
-[Read more about our technical roadmap here](../blogs/20211029-roadmap-october.md)
+[Leggi di più sulla nostra tabella di marcia tecnica qui](../blogs/20211029-roadmap-october.md)
 
-### Significant Development on the SubQuery Network
+### Sviluppo significativo sulla rete di sottointerrogazione
 
 La costruzione di una nuova rete decentralizzata e tokenizzata è un lavoro enorme e, purtroppo, non è chiaramente visibile all'esterno per un certo periodo di tempo. Detto questo, abbiamo un team di sviluppatori dedicati che ci lavora da un po' di tempo, lavorando lentamente ma inesorabilmente sull'elenco delle implementazioni dei contratti intelligenti per avvicinarci al lancio della prima rete di test interna entro la fine dell'anno.
 
-## Core Product Development
+## Sviluppo del prodotto principale
 
-### Moonriver EVM Support
+### Supporto EVM Moonriver
 
-This is a significant milestone for us and a huge partnership with Moonbeam. Attualmente non esiste uno strumento open-source che permetta agli sviluppatori di raccogliere e interrogare in modo flessibile i dati sia su Ethereum che su Polkadot/Kusama. Questa limitazione può far sì che le soluzioni dApp all'interno di Moonriver siano isolate nel livello degli smart contract, limitando così il loro potenziale per i consumatori di entrambe le reti.
+Questa è una pietra miliare significativa per noi e una grande collaborazione con Moonbeam. Attualmente non esiste uno strumento open-source che permetta agli sviluppatori di raccogliere e interrogare in modo flessibile i dati sia su Ethereum che su Polkadot/Kusama. Questa limitazione può far sì che le soluzioni dApp all'interno di Moonriver siano isolate nel livello degli smart contract, limitando così il loro potenziale per i consumatori di entrambe le reti.
 
-This partnership with Moonbeam brings a complete and unified data indexing solution for all blockchain data within Moonriver and will greatly benefit Moonriver’s growing application ecosystem. With SubQuery’s innovation, one tool can now query and filter EVM logs and transactions in addition to Substrate data sources.
+Questa partnership con Moonbeam offre una soluzione di indicizzazione dei dati completa e unificata per tutti i dati blockchain all'interno di Moonriver e apporterà grandi benefici al crescente ecosistema di applicazioni di Moonriver. Con l'innovazione di SubQuery, uno strumento ora può interrogare e filtrare i registri e le transazioni EVM oltre alle origini dati di Substrate.
 
-[Read more about our Moonriver EVM support here](../customer_announcements/20211028-moonbeam-evm.md)
+[Leggi di più sul nostro supporto EVM Moonriver qui](../customer_announcements/20211028-moonbeam-evm.md)
 
 ## Community
 
-### The Spartan Programme
+### Il programma spartano
 
-In August, SubQuery launched its Ambassador programme to find community leaders passionate about Polkadot and SubQuery. Surprisingly we were completely overwhelmed by thousands and thousands of applications, and our initial plans to manually onboard applicants has become challenging. After consultation with our existing Ambassadors we have designed a new, and transparent method to level up in our Discord community and potentially become an Ambassador.
+Ad agosto, SubQuery ha lanciato il suo programma Ambassador per trovare leader della comunità appassionati di Polkadot e SubQuery. Sorprendentemente, siamo stati completamente sopraffatti da migliaia e migliaia di candidature e i nostri piani iniziali per l'onboarding manuale dei candidati sono diventati impegnativi. Dopo aver consultato i nostri ambasciatori esistenti, abbiamo progettato un metodo nuovo e trasparente per salire di livello nella nostra comunità Discord e diventare potenzialmente ambasciatori.
 
-The Spartan programme exists within our Discord community, and it is designed to complement our established ambassador programme with another tier or contributors. Aspiring members can complete monthly tasks and competitions to become a Spartan. The Spartans who then rise to the top of their class will be nominated by our existing Ambassadors to join their ranks.
+Il programma Spartan esiste all'interno della nostra community Discord ed è progettato per integrare il nostro consolidato programma Ambassador con un altro livello o contributori. Gli aspiranti membri possono completare compiti e gare mensili per diventare uno spartano. Gli spartani che poi saliranno in cima alla loro classe saranno nominati dai nostri attuali ambasciatori per unirsi ai loro ranghi.
 
 To find out more about our Spartan programme and participate in our November competition please [join our Discord](https://discord.com/invite/subquery).
 
@@ -50,7 +50,7 @@ Onboarding new developers and teaching them the skills they need to build the dA
 
 The Academy will be a weekly series of 6 modules with several 5 to 10 minute lessons which are delivered by a recorded video. The video content is accompanied by written tutorials, slides, lab workbooks, and links to the finished GitHub code repository.
 
-Our Academy aims to take an aspiring blockchain developer from beginner to advanced and it is 100% free and accessible online. We have had over 1,200 enrolments for our first hero course since its launch two weeks ago and we are grateful for the passionate community that we have with us.
+Our Academy aims to take an aspiring blockchain developer from beginner to advanced and it is 100% free and accessible online. Abbiamo avuto oltre 1.200 iscrizioni al nostro primo corso per eroi dal suo lancio due settimane fa e siamo grati per l'appassionata community che abbiamo con noi.
 
 [Read more about SubQuery’s Academy here](../blogs/20211018-subquery-launches-the-subquery-academy.md)
 
