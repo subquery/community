@@ -6,7 +6,7 @@ La semana pasada completamos con éxito la primera temporada de la red de prueba
 
 La temporada 1 de SubQuery Frontier tenía el siguiente objetivo: encontrar y solucionar errores críticos y problemas de documentación relacionados con las principales acciones del indexador del día a día. Para ayudarnos con esto, hemos enlistado 23 operadores de nodos con experiencia en la ejecución de producciones escalables de alto rendimiento y con seguridad de monitoreo y billetera/infraestructura.
 
-<iframe width="692" height="389" src="https://www.youtube.com/embed/hZ1Mn-jOuHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="692" height="389" src="https://www.youtube.com/embed/hZ1Mn-jOuHQ" title="Vista previa de YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Nos centramos en lo que llamamos las "acciones principales del indexador" en esta temporada, el cual incluye el flujo básico de incorporación para que los indexadores se registren, comiencen a procesar un proyecto Subquery, aparte vendan datos a la red. Esto incluye la instalación todos los servicios, siguiendo nuestra documentación para indexar y anunciar su compatibilidad con el proyecto SubQuery, así como luego llevar a cabo operaciones de replanteo y delegación. También se esperaba que los indexadores mantuvieran y expusieran sus puntos finales de GraphQL mientras se medía el tiempo de actividad de cada uno de ellos.
 
@@ -20,14 +20,14 @@ Esta siguiente fase será particularmente importante para nosotros en muchos fre
 
 ![](https://miro.medium.com/max/700/0*viJ1DgWiGoPdI2fS)
 
-Frontier Testnet se está implementando en etapas que llamamos temporadas, a partir del 11 de abril y cada temporada dura de 2 a 3 semanas. After putting out the[ call for indexers to participate](./20211202-indexer-invitation) we were overwhelmed by the response from our community and after careful deliberation, we chose 23 indexers to participate in the first season. Now that the first season is complete, we are already looking forward to Season 2 that has just started today with over 100 carefully selected indexers and expanded functionality.
+Frontier Testnet se está implementando en etapas que llamamos temporadas, a partir del 11 de abril y cada temporada dura de 2 a 3 semanas. Después de publicar el [ llamado a los indexadores para que participen](./20211202-indexer-invitation), nos sentimos abrumados por la respuesta de nuestra comunidad y, luego de una cuidadosa deliberación, elegimos a 23 indexadores para que participaran en la primera temporada. Ahora que la primera temporada está completa, ya esperamos con ansias la temporada 2 que acaba de comenzar hoy con más de 100 indexadores cuidadosamente seleccionados y una funcionalidad ampliada.
 
-Whilst there are several factors at play, we expect to be able to announce our TGE timeline shortly after the end of Season 2, whilst also starting preparations to deploy Season 3. For more information on the testnet, please visit the SubQuery documentation website: https://university.subquery.network/
+Si bien hay varios factores en juego, esperamos poder anunciar nuestra línea de tiempo de TGE poco después del final de la Temporada 2, al mismo tiempo que comenzamos los preparativos para implementar la Temporada 3. Para obtener más información sobre la red de pruebas, visite el sitio web de documentación de SubQuery: https://university.subquery.network/
 
-For further information, please [contact our team in Discord](https://discord.com/invite/78zg8aBSMG).
+Para más información, por favor [contacta con nuestro equipo en Discord](https://discord.com/invite/78zg8aBSMG).
 
-## About SubQuery Network
+## Acerca de la Red SubQuery
 
-[SubQuery](https://subquery.network/) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot, Substrate and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+[SubQuery](https://subquery.network/) es un conjunto de herramientas para desarrolladores de blockchain que permite a otros crear aplicaciones Web3 del futuro. Un proyecto de SubQuery es una completa API para organizar y consultar los datos de las cadenas de capa-1. Actualmente, sirviendo a los proyectos de Polkadot, Substrate y Avalanche, este servicio de datos permite a los desarrolladores centrarse en su caso de uso principal y en la linea de diseño además de los elementos gráficos, sin necesidad de perder tiempo en la creación de un codigo interno personalizado para el procesamiento de datos. La Red SubQuery propone hacer posible esta misma solución escalable y fiable, pero de forma totalmente descentralizada.
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
