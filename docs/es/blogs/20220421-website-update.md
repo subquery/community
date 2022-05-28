@@ -10,38 +10,38 @@ SubQuery, al ser un proyecto de indexación de datos, todo tiene que ver con los
 
 ![](https://miro.medium.com/max/1400/1*rqmuhuC5rdV7sZN2AwokZQ.png)
 
-Going back to first principles of website design, we kept the end-user firmly in our mind. In order to achieve our goal, we stuck to key principles such as establishing a strong visual hierarchy across elements such as typography and content grouping. Furthermore, given the subject matter it was important that we ensured that the content was accessible and responsive and didn't overwhelm the audience with too much information.
+Volviendo a los primeros principios del diseño de sitios web, mantuvimos firmemente en mente al usuario final. Con el fin de lograr nuestro objetivo, nos apegamos a principios clave, como establecer una sólida jerarquía visual a través elementos como la tipografía y la agrupación de contenido. Además, dado el tema, era importante que nos aseguráramos de que el contenido fuera accesible y receptivo y que no abrumara a la audiencia con demasiada información.
 
-Our UI design process went through five steps which gives us the opportunity to create user-centred design and successfully consider value based marketing principles.
+Nuestro proceso de diseño de interfaz de usuario ha pasado por cinco pasos que nos dan la oportunidad de crear un diseño centrado en el usuario y considerar con éxito los principios de marketing basados en valores.
 
-## Step 1: Empathise
+## Paso 1: Empatizar
 
-The goal during this stage is to understand who we design for. Creating customer personas are a good way to help represent a particular group of people with similar behaviour, needs, goals, and attitudes. This understanding allowed us to make the right decisions about product features, navigation, visual design, and much more.
+El objetivo en esta etapa es entender para quién diseñamos. La creación de clientes personalizados es una buena manera de ayudar a representar a un grupo particular de personas con comportamiento, necesidades, objetivos y actitudes similares. Esta comprensión nos permitió tomar las decisiones correctas sobre las características del producto, la navegación, el diseño visual y mucho más.
 
-## Step 2: Define
+## Paso 2: Definir
 
-The next step was to define these insights identified in the Empathise stage, we looked to define our users needs, problems, and insights. Once again, this process is to have a better understanding of exactly what our users need before we start looking to provide what we think they need.
+El siguiente paso fue definir estos conocimientos identificados en la etapa Empatizar, buscamos definir las necesidades, los problemas y los conocimientos de nuestros usuarios. Una vez más, este proceso es para tener una mejor comprensión de exactamente lo que necesitan nuestros usuarios antes de comenzar a buscar para proporcionar lo que creemos que necesitan.
 
-## Step 3: Ideate
+## Paso 3: Idear
 
-Based on the previous two steps we then looked to ideate various different design options making sure to consider the user with every decision made.
+Basándonos en los dos pasos anteriores buscamos entonces idear diferentes opciones de diseño asegurándonos de considerar al usuario con cada decisión tomada.
 
-## Step 4: Prototype
+## Paso 4: Prototipo
 
-After going through the ideation process we looked to prototype specific designs we think best reflect the needs of our users and best solve the problems they have.
+Después de pasar por el proceso de ideación, buscamos prototipos de diseños específicos que creemos que reflejan mejor las necesidades de nuestros usuarios y resuelven mejor los problemas que tienen.
 
-## Step 5: Test
+## Paso 5: Prueba
 
-The final stage of our process was to test the prototypes we had designed. This allowed us to ensure that the changes we have made are effective.
+La fase final de nuestro proceso fue probar los prototipos que habíamos diseñado. Esto nos permitió garantizar la eficiencia de los cambios que hemos realizado.
 
 ![](https://miro.medium.com/max/1400/1*AMO1WP2Yg1MtNht22gIeaw.png)
 
-> _"SubQuery has bold ambitions and we needed an updated visual identity that reflects that vision. By modernising our layout and improving the visual hierarchy with new typography and colours, we provide our website visitors a fresh experience and insight into SubQuery. Personally, I'm a big fan of the new illustrations which were created for our Frontier testnet as they create an extra dimension in the evolution of our brand story"_ - Cassie Wang, UX Designer at SubQuery
+> _"SubQuery tiene ambiciones audaces y necesitábamos una identidad visual actualizada que refleje esa visión. Al modernizar nuestro diseño y mejorar la jerarquía visual con nueva tipografía y colores, brindamos a los visitantes de nuestro sitio web una nueva experiencia y una visión de SubQuery. Personalmente, soy un gran fan de las nuevas ilustraciones las cuales fueron creadas para nuestra red de pruebas Frontier, ya que crean una dimensión extra en la evolución de nuestra marca histórica"_ - Cassie Wang, Diseñador UX en SubQuery
 
-We hope you enjoy the website as much as we do! Take a look today at https://subquery.network
+¡Esperamos que disfrutes del sitio web tanto como nosotros! Echa un vistazo hoy a https://subquery.network
 
-## About SubQuery
+## Acerca de SubQuery
 
-[SubQuery](https://subquery.network) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from Layer-1 chains. Currently servicing Polkadot, Substrate, and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+[SubQuery](https://subquery.network) es un conjunto de herramientas para desarrolladores de blockchain que permite a otros crear aplicaciones Web3 del futuro. Un proyecto de SubQuery es una completa API para organizar y consultar los datos de las cadenas de capa-1. Actualmente, sirviendo a los proyectos de Polkadot, Substrate y Avalanche, este servicio de datos permite a los desarrolladores centrarse en su caso de uso principal y en la linea de diseño además de los elementos gráficos, sin necesidad de perder tiempo en la creación de un codigo interno personalizado para el procesamiento de datos. La Red SubQuery propone hacer posible esta misma solución escalable y fiable, pero de forma totalmente descentralizada.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
