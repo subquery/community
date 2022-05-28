@@ -14,11 +14,11 @@ La red de pruebas Frontier se implementará en etapas que llamamos "temporadas",
 
 - Temporada 1. Prueba alfa en etapa inicial de un número limitado de características con menos de 30 participantes.
 - Temporada 2. Una gran prueba beta de más características con cientos de participantes.
-- Temporada 3. Red de prueba pública completa para pruebas de carga y escala --- abierta a todas las partes interesadas.
+- Temporada 3. Red de pruebas pública completa para pruebas de carga y escala --- abierta a todas las partes interesadas.
 
 ![](https://miro.medium.com/max/1400/1*oWnMXGqndf5539Gml7gf-Q.png)
 
-La red de prueba es para fines de desarrollo y se someterá a importantes mejoras de desarrollo durante las temporadas. Hay más detalles disponibles en el sitio web de documentación de SubQuery: https://university.subquery.network/
+La red de pruebas es para fines de desarrollo y se someterá a importantes mejoras de desarrollo durante las temporadas. Hay más detalles disponibles en el sitio web de documentación de SubQuery: https://university.subquery.network/
 
 Para más información, por favor [contacta con nuestro equipo en Discord](https://discord.com/invite/78zg8aBSMG).
 
