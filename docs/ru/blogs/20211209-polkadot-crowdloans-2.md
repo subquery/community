@@ -1,4 +1,4 @@
-# Погружение в Crowdloans на Polkadot (Часть 2)
+# В недрах Polkadot Crowdloans (Часть 2)
 
 ![](https://miro.medium.com/max/1400/0*MqQhXJbmnfMSqf-8)
 
