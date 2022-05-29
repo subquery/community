@@ -30,19 +30,19 @@ Zuerst musst du eine aktuelle Version von @subql/cli via npm i -g @subql/cli@lat
 Der beste Weg ist mit[unseres Startprojektes](https://github.com/subquery/terra-subql-starter) zu starten, es enthält ein laufendes Projekt mit einem Beispiel von allen Mapping-Funktionen: Des Indexes vom Projekt sind:
 
 - **BlockHandler:** Alle Blöcke und ihre Hash und Höhe
-- **TransactionHandler:** All transactions and their hash, height, and timestamp
-- **EventHandler:** All smart contract transfer events and their hash, height, sender, recipient, and amount from a filtered smart contract address (bLuna)
-- **MessageHandler:** All smart contract messages and their hash, height, contract, sender, and execute_msg data from a filtered smart contract address (bLuna)
+- TransactionHandler: Alle Transaktionen und deren Hash, Höhe und Zeitstempel
+- EreignisHandler: Alle Smart-Contract-Übertragungsereignisse und deren Hash, Höhe, Absender, Empfänger und Betrag von einer gefilterten Smart-Contract-Adresse (bLuna)
+- **MessageHandler:** Alle Smart-Contract-Nachrichten und ihre Hash-, Höhen-, Vertrags-, Absender- und execute_msg-Daten von einer gefilterten Smart-Contract-Adresse (bLuna)
 
-SubQuery supports indexing Terra's smart contracts with both transaction and message subscriptions and handlers. You can see a working example of Smart Contract support in the [starter project](https://github.com/subquery/terra-subql-starter) and read the documentation on the [SubQuery University](http://localhost:8080/build/manifest.html#mapping-handlers-and-filters).
+SubQuery unterstützt die Indizierung von Terra's Smart Contracts sowohl mit Transaktions- als auch mit Nachrichten-Abonnements und -Handlern. Sie können ein funktionierendes Beispiel für die Unterstützung von Smart Contracts im Starterprojekt sehen und die Dokumentation der SubQuery University lesen.
 
-SubQuery's Terra implementation has been designed to operate almost identically to SubQuery's Polkadot support, and in a similar way to the Graph's approach. We've updated the [SubQuery University](https://university.subquery.network/) to add Terra specific information to the general SubQuery documentation. You can start by following this [excellent getting started guide here](http://university.subquery.network/quickstart/quickstart-terra.html).
+Die Terra-Implementierung von SubQuery wurde so konzipiert, dass sie fast identisch mit der Polkadot-Unterstützung von SubQuery und ähnlich wie der Ansatz von Graph funktioniert. Wir haben die SubQuery University aktualisiert, um die allgemeine SubQuery-Dokumentation um Terra-spezifische Informationen zu ergänzen. Beginnen Sie mit dieser ausgezeichneten Anleitung für den Einstieg.
 
-## Deploying your Project to SubQuery's Managed Service
+## Bereitstellung Ihres Projekts für den Managed Service von SubQuery
 
-Although you will always be able to run your project in your own infrastructure easily, [SubQuery's managed service](https://subquery.network/managedservices) now supports Terra project. Some of the biggest projects depend on SubQuery's [enterprise level](./20211228-enterprise-hosted.md) managed service and now you can too. As part of our launch partner agreement, we are providing you with 3 months free hosting.
+Obwohl Sie immer in der Lage sein werden, Ihr Projekt in Ihrer eigenen Infrastruktur zu betreiben, unterstützt der Managed Service von SubQuery jetzt Terra Project.  Einige der größten Projekte verlassen sich auf SubQuerys Managed Service auf Unternehmensebene, und jetzt können Sie das auch. Im Rahmen unserer Partnervereinbarung zur Markteinführung stellen wir Ihnen 3 Monate kostenloses Hosting zur Verfügung.
 
-You can [follow the guide here](https://university.subquery.network/run_publish/publish.html) to publish your Terra SubQuery project to our managed service. Please note that you must host your [SubQuery project using IPFS](https://university.subquery.network/run_publish/publish.html) rather than GitHub.
+Sie können [hier](https://university.subquery.network/run_publish/publish.html) der Anleitung folgen, um Ihr Terra SubQuery Projekt in unserem Managed Service zu veröffentlichen. Bitte beachten Sie, dass Sie Ihr [SubQuery-Projekt über IPFS](https://university.subquery.network/run_publish/publish.html) und nicht über GitHub hosten müssen.
 
 You can update your managed service project as much as you want. We even have a [staging deployment slot](./20210604-Deployment-Slots-are-here-for-SubQuery-Projects.md) to allow you to do seamless blue/green upgrades without any downtime. This staging slot can also be used to run a clean instance of SubQuery with a fresh database for complete background reindexing of your project. Customers usually link the staging slot to the staging/development versions of their applications.
 
