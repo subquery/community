@@ -32,49 +32,55 @@ If you would like to upgrade your SubQuery project to receive dedicated resourci
 
 ### Supporting External Chain Type Files in our Project Manifest
 
-In November we launched [**version 0.2.0**](https://doc.subquery.network/create/manifest/) of our project manifest file (`project.yaml`). This new version provides developers with various improvements that have been requested by customers.
+In November we launched [**version 0.2.0**](https://doc.subquery.network/create/manifest/) of our project manifest file (`project.yaml`). Questa nuova versione fornisce agli sviluppatori vari miglioramenti che sono stati richiesti dai clienti.
 
-Most importantly, you can now reference a chain type definition file that has all the custom types included when you’re indexing a custom substrate chain. This quickly allows you to connect a new SubQuery project to any substrate-based chain, including all of Kusama’s parachains.
+Ancora più importante, ora puoi fare riferimento a un file di definizione del tipo di catena che include tutti i tipi personalizzati quando stai indicizzando una catena di substrati personalizzata. Ciò ti consente di connettere rapidamente un nuovo progetto SubQuery a qualsiasi catena basata su substrato, comprese tutte le paracatene di Kusama.
 
 [You can read more about this new feature here](https://blog.subquery.network/blogs/20211105-november-technical-update.html#support-for-external-chain-type-files-in-project-manifest).
 
-### Moonriver EVM Support
+### Supporto EVM Moonriver
 
 ![](https://miro.medium.com/max/600/0*B27QVtvcR6nXA9ff.gif)
 
-As previously announced we have implemented support for the Moonbeam and Moonriver networks in SubQuery. In November we followed up with all the developer resources that you need to get started. [You can read the instructions here](https://blog.subquery.network/blogs/20211105-november-technical-update.html#moonbeam-evm-support).
+Come precedentemente annunciato, abbiamo implementato il supporto per le reti Moonbeam e Moonriver in SubQuery. A novembre abbiamo seguito tutte le risorse per sviluppatori di cui hai bisogno per iniziare. [Puoi leggere le istruzioni qui](https://blog.subquery.network/blogs/20211105-november-technical-update.html#moonbeam-evm-support).
 
-Additionally, Scott was able to present this entire workflow to the [Moonbuilders workshop](https://www.crowdcast.io/e/moonbuilders-ws/10) for everyone to watch. Perfect timing for the lead up to the Gitcoin Grants that we are sponsoring (more on that below).
+Inoltre, Scott è stato in grado di presentare l'intero flusso di lavoro al [laboratorio Moonbuilders](https://www.crowdcast.io/e/moonbuilders-ws/10) affinché tutti lo guardassero. Tempismo perfetto per la preparazione delle sovvenzioni Gitcoin che stiamo sponsorizzando (ne parleremo più avanti).
 
-## Community
+## Comunità
 
 ### Gitcoin Hackathon
 
-Hot on the heels of the overwhelming success of the SubQuery Academy’s _Hero Course_, we were proud to announce that we would be providing our first hackathon opportunity for all developers via [Gitcoin Grants Round 12](https://gitcoin.co/hackathon/gr12/?org=subquery) starting on December 1st.
+Sulla scia del travolgente successo del _Corso Hero_ della SubQuery Academy, siamo stati orgogliosi di annunciare che avremmo offerto la nostra prima opportunità di hackathon a tutti gli sviluppatori tramite il
 
-SubQuery has proposed 5 bounties with a total prize pool of up to $34,000:
+Gitcoin Grants Round 12</1 > a partire dal 1 dicembre.</p> 
 
-- [Create a unified block explorer that combines Substrate and EVM insights from Moonbeam and Astar into one easy to use application](https://gitcoin.co/issue/subquery/grants/1) — US$12,000 [Sponsored by Moonbeam and Astar]
-- [Work with SubQuery and the DeFi hub at Karura/Acala to build a dashboard that’s inspired by Zapper.fi or defisaver.com](https://gitcoin.co/issue/subquery/grants/2) — US$8,000 [Sponsored by Acala]
-- [Create a staking dashboard that shows the best staking opportunities across Polkadot and its various parachains](https://gitcoin.co/issue/subquery/grants/3) — US$3,000
-- [Build a marketplace explorer for all RMRK protocol based NFTs](https://gitcoin.co/issue/subquery/grants/4) — US$2,000
-- [Extend the @subql/node service to index data from another layer 1 chain](https://gitcoin.co/issue/subquery/grants/5) — US$12,000
+SubQuery ha proposto 5 ricompense con un montepremi totale fino a $ 34.000:
 
-[You can read more about these bounties here.](https://blog.subquery.network/blogs/20211120-gitcoin12-hackathon.html)
+- [Crea un block explorer unificato che combina le informazioni dettagliate su Substrate ed EVM di Moonbeam e Astar in un'unica applicazione facile da usare](https://gitcoin.co/issue/subquery/grants/1) — 12.000 USD [Sponsorizzato da Moonbeam e Astar]
+- [Lavora con SubQuery e l'hub DeFi di Karura/Acala per creare una dashboard ispirata a Zapper.fi o defisaver.com](https://gitcoin.co/issue/subquery/grants/2) — 8.000 USD [Sponsorizzato da Acala]
+- [Crea una dashboard per lo staking che mostri le migliori opportunità di staking in Polkadot e nei suoi vari parachain](https://gitcoin.co/issue/subquery/grants/3) — 3.000 USD
+- [Crea un Market Explorer per tutti gli NFT basati su protocollo RMRK](https://gitcoin.co/issue/subquery/grants/4) — 2.000 USD
+- [Estendi il servizio @subql/node per indicizzare i dati da un'altra catena di livello 1](https://gitcoin.co/issue/subquery/grants/5) — 12.000 USD
 
-### Analysis into the Polkadot Crowdloans
+[Puoi leggere di più su queste taglie qui.](https://blog.subquery.network/blogs/20211120-gitcoin12-hackathon.html)
 
-SubQuery is Polkadot’s leading data indexing service, and over the past week, we’ve been powering millions of daily requests to the majority of the crowdloan dashboards, contribution apps, and analytics websites. Teams like [**SubVis**](https://www.subvis.io/), [**Parallel Finance**](https://parallel.fi/), and [**DotMarketCap**](https://dotmarketcap.com/) rely on SubQuery to provide real-time data on the crowdloans and other on-chain data directly to their websites and apps.
+
+
+### Analisi sui Crowdloans Polkadot
+
+SubQuery è il principale servizio di indicizzazione dei dati di Polkadot e, nell'ultima settimana, abbiamo alimentato milioni di richieste giornaliere alla maggior parte delle dashboard di crowdloan, delle app di contributo e dei siti Web di analisi. Team come [**SubVis**](https://www.subvis.io/), [**Finanza parallela**](https://parallel.fi/) e **DotMarketCap**</3 > affidati a SubQuery per fornire dati in tempo reale sui prestiti collettivi e altri dati on-chain direttamente ai loro siti Web e app.</p> 
 
 ![](https://miro.medium.com/max/60/0*HfsoOwpat76ip6Jg?q=20)
 
 ![](https://miro.medium.com/max/700/0*HfsoOwpat76ip6Jg)
 
-We recently took a deep dive into the Polkadot crowdloans (specifically the title fight between Acala and Moonbeam). [You should read it here if you haven’t already](https://blog.subquery.network/blogs/20211124-polkadot-crowdloans.html).
+Di recente abbiamo approfondito il crowdloan di Polkadot (in particolare la lotta per il titolo tra Acala e Moonbeam). [Dovresti leggerlo qui se non l'hai già fatto](https://blog.subquery.network/blogs/20211124-polkadot-crowdloans.html).
 
-## Other things you might have missed
 
-- We’re working closely with the new team at [Web3Go](https://www.web3go.xyz/) to [provide data anaysis tools to the SubQuery ecosystem.](https://blog.subquery.network/customer_announcements/20211110-web3go.html)
+
+## Altre cose che potresti esserti perso
+
+- Stiamo lavorando a stretto contatto con il nuovo team di [Web3Go](https://www.web3go.xyz/) per [fornire strumenti di analisi dei dati all'ecosistema SubQuery.](https://blog.subquery.network/customer_announcements/20211110-web3go.html)
 - [Listen to Sam and James on Brave New Coin’s podcast](https://bravenewcoin.com/insights/podcasts/subquery-connecting-the-dots-on-polkadot).
 - James talked to Acala’s Brett Kolodny to talk about how [Acala use SubQuery in their stack](https://www.youtube.com/watch?v=Wbxwj8K67Lw).
 - Siqi, our China representative, [talked to Acala Network and Polkaworld about the latest in web3](https://www.huoxing24.com/live/24313016).
