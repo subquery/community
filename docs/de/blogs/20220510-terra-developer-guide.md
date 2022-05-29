@@ -44,11 +44,11 @@ Obwohl Sie immer in der Lage sein werden, Ihr Projekt in Ihrer eigenen Infrastru
 
 Sie können [hier](https://university.subquery.network/run_publish/publish.html) der Anleitung folgen, um Ihr Terra SubQuery Projekt in unserem Managed Service zu veröffentlichen. Bitte beachten Sie, dass Sie Ihr [SubQuery-Projekt über IPFS](https://university.subquery.network/run_publish/publish.html) und nicht über GitHub hosten müssen.
 
-You can update your managed service project as much as you want. We even have a [staging deployment slot](./20210604-Deployment-Slots-are-here-for-SubQuery-Projects.md) to allow you to do seamless blue/green upgrades without any downtime. This staging slot can also be used to run a clean instance of SubQuery with a fresh database for complete background reindexing of your project. Customers usually link the staging slot to the staging/development versions of their applications.
+Sie können Ihr verwaltetes Serviceprojekt so oft aktualisieren, wie Sie möchten. Wir verfügen sogar über einen [Staging Deployment Slot](./20210604-Deployment-Slots-are-here-for-SubQuery-Projects.md), der es Ihnen ermöglicht, nahtlose Blue/Green-Upgrades ohne Ausfallzeiten durchzuführen. Dieser Staging-Slot kann auch verwendet werden, um eine saubere Instanz von SubQuery mit einer frischen Datenbank für eine vollständige Neuindizierung Ihres Projekts im Hintergrund auszuführen. In der Regel verknüpfen Kunden den Staging-Slot mit den Staging-/Entwicklungsversionen ihrer Anwendungen.
 
-Once deployed, you can access your project using the SubQuery Explorer, and make requests directly from your app to the provided GraphQL endpoint. Let us know if you would like us to enable more advanced features like [GraphQL subscriptions](https://university.subquery.network/run_publish/subscription.html), more complex queries, and [aggregation functions](https://university.subquery.network/run_publish/aggregate.html).
+Nach der Bereitstellung können Sie über den SubQuery Explorer auf Ihr Projekt zugreifen und Anfragen direkt von Ihrer Anwendung an den bereitgestellten GraphQL-Endpunkt stellen. Lassen Sie uns wissen, wenn Sie erweiterte Funktionen wie [GraphQL-Abonnements](https://university.subquery.network/run_publish/subscription.html), komplexere Abfragen und [Aggregationsfunktionen](https://university.subquery.network/run_publish/aggregate.html) aktivieren möchten.
 
-Please notify us once you have deployed your project as we may need to assist with fine tuning the batch size to ensure that our Terra archive node runs well for your project.
+Bitte benachrichtigen Sie uns, sobald Sie Ihr Projekt bereitgestellt haben, da wir möglicherweise bei der Feinabstimmung der Stapelgröße behilflich sein müssen, um sicherzustellen, dass unser Terra-Archivknoten für Ihr Projekt gut funktioniert.
 
 ## SubQuery's Support for Terra
 
