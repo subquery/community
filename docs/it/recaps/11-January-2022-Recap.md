@@ -2,57 +2,57 @@
 
 ![](https://miro.medium.com/max/1400/1*2IMAaY-YYyAdl7YfZqHTAg.png)
 
-Hi everyone, and welcome to 2022! Last year was huge for us at SubQuery but after a much needed summer holiday here in New Zealand the team are well rested and energised by the potential ahead of us. This year is going to be the year of the decentralised data revolution!
+Ciao a tutti e benvenuti nel 2022! L'anno scorso è stato grandioso per noi di SubQuery, ma dopo le tanto necessarie vacanze estive qui in Nuova Zelanda, il team è ben riposato ed energizzato dal potenziale che ci attende. Quest'anno sarà l'anno della rivoluzione dei dati decentralizzati!
 
-As always, we are breaking down our monthly update into three sections; community, core product development, and the SubQuery Network.
+Come sempre, suddividiamo il nostro aggiornamento mensile in tre sezioni; community, sviluppo del prodotto principale e SubQuery Network.
 
-## Community
+## Comunità
 
-SubQuery’s community is expanding rapidly in terms of numbers and regions we cover! As a result, we have a lot to talk about in this area.
+La community di SubQuery si sta espandendo rapidamente in termini di numero e regioni che copriamo! Di conseguenza, abbiamo molto di cui parlare in questo settore.
 
-### SubQuery Partners With Leading Polkadot Teams On Technical Bounties via the SubQuery Grants Programme
+### SubQuery collabora con i principali team Polkadot su ricompense tecniche tramite il programma di sovvenzioni SubQuery
 
-Last month we launched the SubQuery Grants Programme, a non dilutive accelerator to help developers in our community build the next generation of dApps. This month we’ve talked to our partners to release a first round of bounties in partnership with Moonbeam, Acala, Astar and Bifrost as projects for inspiration. All are open to apply now, and as a bonus, if your application is successful you’ll get to work closely with the parachain team that suggested the challenge!
+Il mese scorso abbiamo lanciato il SubQuery Grants Program, un acceleratore non diluitivo per aiutare gli sviluppatori della nostra community a costruire la prossima generazione di dApp. Questo mese abbiamo parlato con i nostri partner per rilasciare un primo round di taglie in collaborazione con Moonbeam, Acala, Astar e Bifrost come progetti di ispirazione. Tutti possono candidarsi ora e, come bonus, se la tua domanda ha esito positivo, lavorerai a stretto contatto con il team di paracatena che ha suggerito la sfida!
 
-Applicants who are interested in any of these bounties are encouraged to submit their proposal with the budget required to complete the task and other requirements [here](https://docs.google.com/forms/d/e/1FAIpQLSfmMazkebKwNTWThBkVGaxf2Bg8s4aWZ0ZhwiMCtc9kv4sJHQ/viewform). Additionally, we look forward to announce the first round of SubQuery grantees in February.
+I candidati interessati a uno di questi premi sono incoraggiati a presentare la loro proposta con il budget necessario per completare l'attività e altri requisiti [qui](https://docs.google.com/forms/d/e/1FAIpQLSfmMazkebKwNTWThBkVGaxf2Bg8s4aWZ0ZhwiMCtc9kv4sJHQ/viewform). Inoltre, non vediamo l'ora di annunciare il primo round di beneficiari di SubQuery a febbraio.
 
-[Read more here](../blogs/20220127-grants-bounties.md)
+[Leggi di più qui](../blogs/20220127-grants-bounties.md)
 
-### SubQuery Celebrates Winners of Gitcoin GR 12 Hackathon
+### SubQuery celebra i vincitori di Gitcoin GR 12 Hackathon
 
-[SubQuery partnered with Gitcoin in December](../blogs/20211120-gitcoin12-hackathon.md) to sponsor five challenges to a value of USD$37,000 (the largest prize pool in the challenge), inviting developers to build useful tools, dashboards and even extend SubQuery to another Layer-1 blockchain.
+[SubQuery ha collaborato con Gitcoin a dicembre](../blogs/20211120-gitcoin12-hackathon.md) per sponsorizzare cinque sfide per un valore di $ 37.000 USD (il montepremi più grande della sfida), invitando gli sviluppatori a creare strumenti utili, dashboard e persino estendere SubQuery a un altro Layer-1.
 
 ![](https://miro.medium.com/max/1400/1*BUq3ah1ULNnvLjqxv_vzlQ.png)
 
-[Sam Zou](https://twitter.com/zoujialiu), the CEO and Founder of SubQuery commented, “_SubQuery is delighted with the results of the Gitcoin GR12 Hackathon. Our mission relies on having a network of developers who are empowered to create and innovate within the Substrate/Polkadot ecosystem. This partnership provided opportunities for motivated developers around the world to build the applications of tomorrow. We are excited to nurture the winners of the challenges to develop their ideas even further_”
+[Sam Zou](https://twitter.com/zoujialiu), CEO e fondatore di SubQuery ha commentato: '_SubQuery è lieto dei risultati del Gitcoin GR12 Hackathon. La nostra missione si basa sull'avere una rete di sviluppatori che hanno il potere di creare e innovare all'interno dell'ecosistema Substrate/Polkadot. Questa partnership ha offerto agli sviluppatori motivati ​​di tutto il mondo l'opportunità di creare le applicazioni di domani. Siamo entusiasti di coltivare i vincitori delle sfide per sviluppare ulteriormente le loro idee_”
 
-Recently we’ve covered the many winners that participated in this hackathon and the amazing projects that they have built in [this detailed writeup](../blogs/20220120-gr12-winners.md). We were blown away by the quality and progress made by the submissions in such a short time and we’re pleased to invite many of the submissions to participate in our grants programme.
+Di recente abbiamo parlato dei numerosi vincitori che hanno partecipato a questo hackathon e degli incredibili progetti che hanno costruito in [questo articolo dettagliato](../blogs/20220120-gr12-winners.md). Siamo rimasti sbalorditi dalla qualità e dai progressi compiuti dalle candidature in così poco tempo e siamo lieti di invitare molte delle candidature a partecipare al nostro programma di sovvenzioni.
 
-[Read more here](../blogs/20220120-gr12-winners.md)
+[Leggi di più qui](../blogs/20220120-gr12-winners.md)
 
-### Hero Course China
+### Corso Eroe Cina
 
-Our Hero Course made in partnership with OneBlock+ started in early January and now we already have released three lessons to over 200 students! Join the OneBlock+ Community to join this course or office hours. China is a strategically important region for SubQuery, but we expect to launch many other regional developer courses soon — reach out if you can help us with this!
+Il nostro corso Hero realizzato in collaborazione con OneBlock+ è iniziato all'inizio di gennaio e ora abbiamo già rilasciato tre lezioni a oltre 200 studenti! Unisciti alla community di OneBlock+ per partecipare a questo corso o all'orario di ufficio. La Cina è una regione strategicamente importante per SubQuery, ma prevediamo di lanciare presto molti altri corsi regionali per sviluppatori: contattaci se puoi aiutarci in questo!
 
 ![](https://miro.medium.com/max/1400/1*_8N000hX1WBM79ZbFyhvYQ.png)
 
-## Core Product Development
+## Sviluppo del prodotto principale
 
-### Multi Chain Support
+### Supporto multicatena
 
-SubQuery is native to Polkadot, it’s our home and we’ve worked hard to build relationships in this ecosystem. The core premise of Polkadot is to create a thriving community of developers, users, and businesses that will tap into its multichain interoperability. We stand by that vision and we also believe Polkadot will be a leading player in that initiative.
+SubQuery è nativo di Polkadot, è la nostra casa e abbiamo lavorato duramente per costruire relazioni in questo ecosistema. La premessa principale di Polkadot è creare una fiorente comunità di sviluppatori, utenti e aziende che attingerà alla sua interoperabilità multichain. Sosteniamo questa visione e crediamo anche che Polkadot sarà un attore di primo piano in tale iniziativa.
 
-But we believe in a multi chain future, we know that there are going to be many different interoperable blockchains working together to solve different problems. Our long term plan has always been to take SubQuery and to adapt it to work for other blockchain that don’t have a current indexing solution. Our multi-chain approach that we’ve needed to make for Polkadot means we are uniquely suited for this challenge.
+Ma crediamo in un futuro multi-catena, sappiamo che ci saranno molte blockchain interoperabili diverse che lavoreranno insieme per risolvere problemi diversi. Il nostro piano a lungo termine è sempre stato quello di prendere SubQuery e di adattarlo per funzionare per altre blockchain che non hanno una soluzione di indicizzazione attuale. Il nostro approccio multi-catena che abbiamo dovuto realizzare per Polkadot significa che siamo particolarmente adatti per questa sfida.
 
-We’re finalising the work on the first of 5 new layer 1 chains that SubQuery will be indexing, we can’t wait to announce it soon!
+Stiamo finalizzando il lavoro sulla prima delle 5 nuove catene di livello 1 che SubQuery indicizzerà, non vediamo l'ora di annunciarlo presto!
 
 ![](https://miro.medium.com/max/1400/1*jD1n5MSjeatjiaF5hY-Wjg.png)
 
-### SubQuery Performance Improvements
+### Miglioramenti delle prestazioni delle sottoquery
 
-SubQuery’s indexing speed is always being improved, it’s a constant focus on our development team. Our advanced Dictionary support means enables this, Dictionaries speed up your project by many multiples and allow you to index entire Polkadot chain in minutes, not hours (depending on your project complexity).
+La velocità di indicizzazione di SubQuery viene sempre migliorata, è un focus costante sul nostro team di sviluppo. Il nostro supporto avanzato del dizionario significa che consente questo, i dizionari velocizzano il tuo progetto di molti multipli e ti consentono di indicizzare l'intera catena di Polkadot in pochi minuti, non in ore (a seconda della complessità del tuo progetto).
 
-As an indicator of the breadth of support that SubQuery offers to the Polkadot ecosystem, we are now hosting and managing dictionaries across the 31 different networks, representing the majority of all major Polkadot/Kusama parachains.
+Come indicatore dell'ampiezza del supporto che SubQuery offre all'ecosistema Polkadot, ora ospitiamo e gestiamo dizionari su 31 diverse reti, che rappresentano la maggior parte di tutte le principali parachain Polkadot/Kusama.
 
 ![](https://miro.medium.com/max/1400/1*WeMY5WnWZ_jvllxidhycUA.png)
 
