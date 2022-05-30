@@ -12,13 +12,13 @@ Mientras tanto, también anunciamos asociaciones con varios equipos en Polkadot 
 
 ### SubQuery proporciona a desarrolladores Web3 más oportunidades a través de Gitcoin Hackathon
 
-After running our first Gitcoin Hackathon in December 2021 and achieving fantastic results with many talented developers it was an easy decision to extend our partnership.
+Después de celebrar nuestro primer Hackathon de Gitcoin en diciembre de 2021 y de conseguir unos resultados fantásticos con muchos desarrolladores con talento, fue una decisión fácil ampliar nuestra colaboración.
 
-> _"SubQuery is proud to partner with the Gitcoin GR13 Hackathon to build the future of Web3. It is in our interest to support motivated developers around the world to build on top of our data indexing service which is why we also recently launched a $500,000 SubQuery Grants Programme. We have developed bounties that should excite graduates of our 'Hero Course' and developers who are new to SubQuery and look forward to seeing the results"_ - Sam Zou, Founder and CEO of SubQuery
+> _"SubQuery se enorgullece de colaborar con el Hackathon Gitcoin GR13 para construir el futuro de Web3. Nos interesa apoyar a los desarrolladores motivados de todo el mundo para que construyan sobre nuestro servicio de indexación de datos, por lo que también hemos lanzado recientemente un programa de subvenciones para subconsultas de $500.000 dólares. Hemos desarrollado recompensas que deberían entusiasmar a los graduados de nuestro 'Curso de Héroes' y a los desarrolladores que son nuevos en SubQuery y esperamos ver los resultados"_ - Sam Zou, Fundador y CEO de SubQuery
 
 [Lea más aquí](../blogs/20220308-gitcoin13-hackathon.md)
 
-### SubQuery Extends Partnership with OneBlock+ To Promote Blockchain Education in China
+### SubQuery amplía su asociación con OneBlock+ para promover la educación sobre la cadena de bloques en China
 
 We are partnering with OneBlock+ to run a second round of the ["Hero Course"](https://doc.subquery.network/academy/herocourse/) in China starting in early April.
 
