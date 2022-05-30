@@ -1,27 +1,27 @@
-# Мережа SubQuery пройшла аудит смарт контракту від Hacken
+# SubQuery Network Passes Smart Contract Audit by Hacken
 
 ![](https://miro.medium.com/max/1400/0*EbIDDKebNpv2DBC9)
 
-Сьогодні ми раді повідомити, що смарт контракти мережі SubQuery пройшли процедури аудиту Hacken. [Hacken є провідною консалтинговою компанією з питань безпеки](https://hacken.io/), зосередженою на безпеці блокчейну, і відіграватиме важливу роль у кінцевій децентралізації служби індексування SubQuery.
+Today we are pleased to announce that the smart contracts of the SubQuery Network have passed the audit procedures of Hacken. [Hacken is a leading security consulting company](https://hacken.io/) with a focus on blockchain security and will play an important role in the eventual decentralisation of SubQuery's indexing service.
 
-Як ми [оголосили в наших планах](./20211029-roadmap-october.md), SubQuery має подолати ряд ключових технічних перешкод, перш ніж ми зможемо перетворитися на мережу SubQuery. Взяти складну базу коду, яка обслуговує мільйони запитів API у десятках провідних проєктів у Polkadot, і перенести її в абсолютно нове середовище в режимі реального часу, зберігаючи при цьому її безпеку, — це не так й мало! Ми впевнені, що зараз досягли цього і нещодавно призначили Hacken провести ретельний аудит коду, щоб підтвердити, що код мережі безпечний і масштабований.
+As we [announced in our roadmap](./20211029-roadmap-october.md), SubQuery has a number of key technical hurdles to overcome before we can evolve into the SubQuery Network. Taking a sophisticated code-base that is servicing millions of API queries across dozens of leading projects in Polkadot and migrating that to a completely new environment in real-time, while keeping it secure, is no small feat! We feel confident that we have now achieved this and recently appointed Hacken to conduct a thorough code audit to confirm that the network's code is secure and scalable.
 
-Коментуючи важливість партнерства з Hacken, Ян Хе, технічний директор SubQuery, поділився: _«SubQuery зарекомендував себе як важлива частина інфраструктури Polkadot, і ми раді, що Hacken перевірив нашу безпеку смарт-контрактів, оскільки це означає, що ми на крок ближче до нашого бачення лідерства в галузі даних Web3»_.
+Commenting on the importance of the partnership with Hacken, Ian He, CTO of SubQuery, shared, _"SubQuery has established itself as a critical part of Polkadot's infrastructure and we are excited to have had Hacken validate our smart-contract security as it means we are one step closer to our vision of leading a Web3 data revolution"_.
 
-Обсяг аудиту включав як код, так і функціональний огляд, проведений командою відомих консультантів Hacken для пошуку та усунення проблем безпеки від хакерських атак. Під час їх аналізу Hacken забезпечив функціональність смарт контракту та визначив, чи зможе він протистояти всім відомим уразливостям. В обох випадках SubQuery пройшов і перевірив, що він не має жодних проблем із логікою чи контролем доступу, і що він відповідає критеріям зі стилю коду Solidity.
+The scope of the audit incorporated both a Code and Functional Review performed by a team of Hacken's renowned consultants to find and fix security issues from hacker attacks. During their analysis, Hacken ensured the smart contract's functionality and determined whether it could withstand all known vulnerabilities. In both cases, SubQuery passed and verified that it does not have any logic or access control issues, and that it is compliant with the Solidity Code Style Guide.
 
-Проходження першої фази аудиту заспокоїть нашу спільноту та тих індексаторів, які беруть участь у першому сезоні [нещодавно запущеного тестнету «Frontier»](./20220330-frontier-testnet.md).
+Passing the first phase of the audit will give comfort to our community and those indexers participating in the first season of the [recently launched "Frontier" testnet](./20220330-frontier-testnet.md).
 
-Для отримання додаткової інформації, будь ласка, зв’яжіться з нашою командою в Discord.
+For further information, please contact our team in Discord.
 
-## Про Hacken
+## About Hacken
 
-Hacken є провідною консалтинговою компанією з кібербезпеки, яка зосереджена на безпеці блокчейну. Hacken Cybersecurity Services є частиною Hacken Group, включаючи CER.live, HackenAI та HackenProof
+Hacken is a leading cybersecurity consulting company with an essential focus on blockchain security. Hacken Cybersecurity Services is a part of Hacken Group, including CER.live, HackenAI, and HackenProof
 
 [Website](https://hacken.io/) | [Discord](https://discord.gg/hacken) | [Telegram](https://t.me/hackenio) | [Twitter](https://twitter.com/hackenclub) | [Facebook](https://www.facebook.com/hacken.io) | [LinkedIn](https://www.linkedin.com/company/hacken/)
 
-## Про мережу SubQuery
+## About SubQuery
 
-[SubQuery](https://subquery.network) — це набір інструментів блокчейн розробника, який дає змогу іншим створювати Web3 додатки майбутнього. Проєкт SubQuery — це повний API для організації та запиту даних із чейнів Рівня-1. Наразі обслуговуючи проєкти Polkadot , Substrate й Avalanche, ця послуга даних дозволяє розробникам зосередитися на своєму основному варіанті використання та інтерфейсі, не витрачаючи час на створення спеціального сервера для обробки даних. SubQuery Network пропонує використовувати те саме масштабоване та надійне рішення, але повністю децентралізованим способом.
+[SubQuery](https://subquery.network) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot , Substrate and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
