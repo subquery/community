@@ -1,12 +1,12 @@
-# 2月のまとめ
+# February Recap
 
 ![](https://miro.medium.com/max/1400/1*T3DLiAKSIy-AjRia_JJjow.png)
 
-2月は、TGEの準備と、Polkadotの主要なチームを含むすべての既存の顧客へのサービス提供にあらゆる面で忙しかったため、SubQueryのチームのために飛んでいました。
+February flew by for the team at SubQuery as we have been busy on all fronts preparing for our TGE and servicing all of our existing customers including the leading teams in Polkadot.
 
-数週間から数か月先に共有するのが待ちきれない、たくさんのエキサイティングな作業が進行中です！
+We have a lot of exciting work going on that we can't wait to share in the weeks and months ahead!
 
-## コミュニティ
+## Community
 
 This month we finally passed 30,000 organic Twitter followers and our Discord has swelled to over 15,000 active community members working to help one another. It's not enough to build a tool or an application in web3, you need to build a self sustaining community and we're hard at work on this at SubQuery!
 
