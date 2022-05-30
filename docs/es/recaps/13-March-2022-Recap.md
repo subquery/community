@@ -1,30 +1,30 @@
-# Resumen Marzo 2022
+# March 2022 Recap
 
 ![](https://miro.medium.com/max/1400/1*ePGA5YU2NgY-qhQ66xAzcg.png)
 
-¡Bienvenido a la última actualización mensual de SubQuery!
+Welcome to the latest SubQuery Monthly Update!
 
-Como de costumbre, el mes pasado fue cargado de acciones con las noticias de nuestra integración con Avalanche como centro del escenario. También hicimos grandes progresos hacia nuestro TGE después de anunciar el lanzamiento de nuestra Testnet, "La frontera" y han invitado a los primeros participantes a nuestra beta cerrada.
+As usual the past month was action-packed with the news of our integration with Avalanche taking centre-stage. We also made massive progress towards our TGE after announcing the launch of our Testnet, "The Frontier" and have invited the first participants to our closed beta.
 
-Mientras tanto, también anunciamos asociaciones con varios equipos en Polkadot y premiamos a nuestra comunidad rápida al continuar nuestra asociación con Gitcoin.
+Meanwhile, we also announced partnerships with several teams in Polkadot and we rewarded our rapidly community by continuing our partnership with Gitcoin.
 
-## Comunidad
+## Community
 
-### SubQuery proporciona a desarrolladores Web3 más oportunidades a través de Gitcoin Hackathon
+### SubQuery Provides Web3 Developers More Opportunities via Gitcoin Hackathon
 
-Después de celebrar nuestro primer Hackathon de Gitcoin en diciembre de 2021 y de conseguir unos resultados fantásticos con muchos desarrolladores con talento, fue una decisión fácil ampliar nuestra colaboración.
+After running our first Gitcoin Hackathon in December 2021 and achieving fantastic results with many talented developers it was an easy decision to extend our partnership.
 
-> _"SubQuery se enorgullece de colaborar con el Hackathon Gitcoin GR13 para construir el futuro de Web3. Nos interesa apoyar a los desarrolladores motivados de todo el mundo para que construyan sobre nuestro servicio de indexación de datos, por lo que también hemos lanzado recientemente un programa de subvenciones para subconsultas de $500.000 dólares. Hemos desarrollado recompensas que deberían entusiasmar a los graduados de nuestro 'Curso de Héroes' y a los desarrolladores que son nuevos en SubQuery y esperamos ver los resultados"_ - Sam Zou, Fundador y CEO de SubQuery
+> _"SubQuery is proud to partner with the Gitcoin GR13 Hackathon to build the future of Web3. It is in our interest to support motivated developers around the world to build on top of our data indexing service which is why we also recently launched a $500,000 SubQuery Grants Programme. We have developed bounties that should excite graduates of our 'Hero Course' and developers who are new to SubQuery and look forward to seeing the results"_ - Sam Zou, Founder and CEO of SubQuery
 
-[Lea más aquí](../blogs/20220308-gitcoin13-hackathon.md)
+[Read more here](../blogs/20220308-gitcoin13-hackathon.md)
 
-### SubQuery amplía su asociación con OneBlock+ para promover la educación sobre la cadena de bloques en China
+### SubQuery Extends Partnership with OneBlock+ To Promote Blockchain Education in China
 
 We are partnering with OneBlock+ to run a second round of the ["Hero Course"](https://doc.subquery.network/academy/herocourse/) in China starting in early April.
 
 > _"SubQuery is excited to continue our partnership with OneBlock+ and their passionate group of Chinese Substrate developers. We have already received feedback that the first group of students are already using SubQuery on their own projects to make their development easier. We look forward to collaborating with the future students as they leverage on OneBlock+ and SubQuery to build the next generation of dApps"_ - Sam Zou, Founder and CEO of SubQuery
 
-[Lea más aquí](../blogs/20220308-oneblock-education.md)
+[Read more here](../blogs/20220308-oneblock-education.md)
 
 ## SubQuery Network
 
@@ -80,13 +80,13 @@ In order to run the testnet effectively, we require it to be battle-tested by ex
 
 ![](https://miro.medium.com/max/1400/1*_iqge0IqXriY7Zl0hUKQ3g.png)
 
-> _"SubQuery is excited about the launch of the SubQuery Frontier Testnet and what it represents to both ourselves and our loyal community. La elección de "Frontier" como nombre de nuestra red de pruebas también indica dónde creemos que estamos en el crecimiento de la Web3 y que queremos que los Indexadores superen los límites._ - Ian He, CTO de SubQuery
+> _"SubQuery is excited about the launch of the SubQuery Frontier Testnet and what it represents to both ourselves and our loyal community. The choice of "Frontier" as our testnet name also denotes where we believe we are in the growth of Web3 and that we want Indexers to push beyond the limits."_ - Ian He, CTO of SubQuery
 
 [Read more here](../blogs/20220330-frontier-testnet.md)
 
-## Otras cosas que quizás te hayan faltado
+## Other things you might have missed
 
-- SubQuery celebró su 1er cumpleaños con una [campaña de Airdrop](https://gleam.io/leBTF/subquery-1st-birthday-airdrop-)
+- SubQuery celebrated it's 1st birthday with an [Airdrop campaign](https://gleam.io/leBTF/subquery-1st-birthday-airdrop-)
 - [James](https://matchstiq.io/stories/james-bayly-head-of-business-development-at-subquery/) was at [Avalanche summit](https://www.avalanchesummit.com/agenda/speakers/1565739) in time with our Avalanche launch, which we also did an [Airdrop giveaway](https://gleam.io/pPoMH/-subquery-x-avalanche-airdrop-competition) for.
 - We had a [Customer Interview with Sota Watanabe](https://www.youtube.com/watch?v=KczSlTcb6aw) from Astar and talked about the new partnership that allows dApp projects on Astar to use SubQuery for native Astar EVM data indexing.
 - An interview with our solution architect [James Xu](https://www.youtube.com/watch?v=K-d-3JA5IsA) who leads our hosted service
