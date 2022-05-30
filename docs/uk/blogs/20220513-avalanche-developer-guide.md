@@ -56,13 +56,13 @@ _У Avalanche вже є кілька інших варіантів, тож на�
 У найближчі тижні ви можете очікувати:
 
 - Покроковий курс навчання в [Академії SubQuery](./20211018-subquery-launches-the-subquery-academy.md)
-- Full support for Avalanche in our decentralised SubQuery Network (you'll see a project in our current Frontier test network)
+- Повна підтримка Avalanche в нашій децентралізованій мережі SubQuery (ви побачите проект у нашій поточній тестовій мережі Frontier)
 
-With the number of Subnets planned over the coming months, there will be a huge need for fast, open, and flexible indexing support that works across all compatible Subnets. We have experience implementing this level of configurability for Polkadot's parachains, and are investigating how to provide the same outcome for Avalanche (e.g. by importing custom implementations of snowman.Block etc).
+З огляду на кількість підмереж, запланованих на найближчі місяці, виникне величезна потреба у швидкій, відкритій та гнучкою підтримці індексування, яка працює в усіх сумісних підмережах. Ми маємо досвід впровадження цього рівня конфігурації для парачейнів Polkadot і досліджуємо, як забезпечити такий самий результат для Avalanche (наприклад, імпортуючи власні реалізації snowman.Block тощо).
 
-The launch of our beta support for Avalanche marks a significant milestone in our commitment to offer enhanced indexing tools for the Avalanche community to enable her developers to go further, faster. We are eager to get feedback from the community in order to improve our offering and increase our visibility as a trusted infrastructure partner for one of the fastest growing developer communities in Web3
+Запуск нашої бета-підтримки для Avalanche знаменує собою важливу віху в нашому прагненні запропонувати вдосконалені інструменти індексації для спільноти Avalanche, щоб її розробники могли йти далі та швидше. Ми прагнемо отримати відгуки від спільноти, щоб покращити нашу пропозицію та збільшити нашу видимість як надійного інфраструктурного партнера для однієї з найбільш швидкозростаючих спільнот розробників у Web3
 
-We are now looking for launch partners that we can closely support as they develop their first SubQuery projects in this ecosystem. Reach out to me at james.bayly@subquery.network if you want to be first on the journey with us.
+Зараз ми шукаємо партнерів для запуску, яких зможемо тісно підтримувати, коли вони розробляють свої перші проекти SubQuery в цій екосистемі. Reach out to me at james.bayly@subquery.network if you want to be first on the journey with us.
 
 _James Bayly_
 
