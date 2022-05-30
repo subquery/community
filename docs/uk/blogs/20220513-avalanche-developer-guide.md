@@ -62,14 +62,14 @@ _У Avalanche вже є кілька інших варіантів, тож на�
 
 Запуск нашої бета-підтримки для Avalanche знаменує собою важливу віху в нашому прагненні запропонувати вдосконалені інструменти індексації для спільноти Avalanche, щоб її розробники могли йти далі та швидше. Ми прагнемо отримати відгуки від спільноти, щоб покращити нашу пропозицію та збільшити нашу видимість як надійного інфраструктурного партнера для однієї з найбільш швидкозростаючих спільнот розробників у Web3
 
-Зараз ми шукаємо партнерів для запуску, яких зможемо тісно підтримувати, коли вони розробляють свої перші проекти SubQuery в цій екосистемі. Reach out to me at james.bayly@subquery.network if you want to be first on the journey with us.
+Зараз ми шукаємо партнерів для запуску, яких зможемо тісно підтримувати, коли вони розробляють свої перші проекти SubQuery в цій екосистемі. Зв’яжіться зі мною на james.bayly@subquery.network, якщо ви хочете бути першим у подорожі з нами.
 
-_James Bayly_
+_Джеймс Бейлі_
 
-Follow the beta guide here: https://university.subquery.network/quickstart/quickstart-avalanche.html
+Дотримуйтесь посібника з бета-версії тут:https://university.subquery.network/quickstart/quickstart-avalanche.html
 
-## About SubQuery
+## Про SubQuery
 
-[SubQuery](https://subquery.network/) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot, Substrate, Avalanche and Terra projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+SubQuery — це набір інструментів розробника блокчейну, який дає змогу іншим створювати веб-додатки майбутнього. SubQuery — це повний API для організації та запиту даних із ланцюгів рівня 1. Наразі обслуговуючи проекти Polkadot, Substrate, Avalanche і Terra, ці дані як послуга дають змогу розробникам зосередитися на своєму базовому варіанті використання та інтерфейсі, не витрачаючи час на створення спеціального сервера для обробки даних. SubQuery Network пропонує ввімкнути те саме масштабоване та надійне рішення, але повністю децентралізованим способом.
 
-​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+Linktree | Веб-сайт | Дискорд | Telegram | Twitter | Матриця | LinkedIn | YouTube
