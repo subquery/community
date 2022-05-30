@@ -1,110 +1,110 @@
-# Ricapitolo Di Gennaio
+# January Recap
 
 ![](https://miro.medium.com/max/1400/1*2IMAaY-YYyAdl7YfZqHTAg.png)
 
-Ciao a tutti e benvenuti nel 2022! L'anno scorso è stato grandioso per noi di SubQuery, ma dopo le tanto necessarie vacanze estive qui in Nuova Zelanda, il team è ben riposato ed energizzato dal potenziale che ci attende. Quest'anno sarà l'anno della rivoluzione dei dati decentralizzati!
+Hi everyone, and welcome to 2022! Last year was huge for us at SubQuery but after a much needed summer holiday here in New Zealand the team are well rested and energised by the potential ahead of us. This year is going to be the year of the decentralised data revolution!
 
-Come sempre, suddividiamo il nostro aggiornamento mensile in tre sezioni; community, sviluppo del prodotto principale e SubQuery Network.
+As always, we are breaking down our monthly update into three sections; community, core product development, and the SubQuery Network.
 
-## Comunità
+## Community
 
-La community di SubQuery si sta espandendo rapidamente in termini di numero e regioni che copriamo! Di conseguenza, abbiamo molto di cui parlare in questo settore.
+SubQuery’s community is expanding rapidly in terms of numbers and regions we cover! As a result, we have a lot to talk about in this area.
 
-### SubQuery collabora con i principali team Polkadot su ricompense tecniche tramite il programma di sovvenzioni SubQuery
+### SubQuery Partners With Leading Polkadot Teams On Technical Bounties via the SubQuery Grants Programme
 
-Il mese scorso abbiamo lanciato il SubQuery Grants Program, un acceleratore non diluitivo per aiutare gli sviluppatori della nostra community a costruire la prossima generazione di dApp. Questo mese abbiamo parlato con i nostri partner per rilasciare un primo round di taglie in collaborazione con Moonbeam, Acala, Astar e Bifrost come progetti di ispirazione. Tutti possono candidarsi ora e, come bonus, se la tua domanda ha esito positivo, lavorerai a stretto contatto con il team di paracatena che ha suggerito la sfida!
+Last month we launched the SubQuery Grants Programme, a non dilutive accelerator to help developers in our community build the next generation of dApps. This month we’ve talked to our partners to release a first round of bounties in partnership with Moonbeam, Acala, Astar and Bifrost as projects for inspiration. All are open to apply now, and as a bonus, if your application is successful you’ll get to work closely with the parachain team that suggested the challenge!
 
-I candidati interessati a uno di questi premi sono incoraggiati a presentare la loro proposta con il budget necessario per completare l'attività e altri requisiti [qui](https://docs.google.com/forms/d/e/1FAIpQLSfmMazkebKwNTWThBkVGaxf2Bg8s4aWZ0ZhwiMCtc9kv4sJHQ/viewform). Inoltre, non vediamo l'ora di annunciare il primo round di beneficiari di SubQuery a febbraio.
+Applicants who are interested in any of these bounties are encouraged to submit their proposal with the budget required to complete the task and other requirements [here](https://docs.google.com/forms/d/e/1FAIpQLSfmMazkebKwNTWThBkVGaxf2Bg8s4aWZ0ZhwiMCtc9kv4sJHQ/viewform). Additionally, we look forward to announce the first round of SubQuery grantees in February.
 
-[Leggi di più qui](../blogs/20220127-grants-bounties.md)
+[Read more here](../blogs/20220127-grants-bounties.md)
 
-### SubQuery celebra i vincitori di Gitcoin GR 12 Hackathon
+### SubQuery Celebrates Winners of Gitcoin GR 12 Hackathon
 
-[SubQuery ha collaborato con Gitcoin a dicembre](../blogs/20211120-gitcoin12-hackathon.md) per sponsorizzare cinque sfide per un valore di $ 37.000 USD (il montepremi più grande della sfida), invitando gli sviluppatori a creare strumenti utili, dashboard e persino estendere SubQuery a un altro Layer-1.
+[SubQuery partnered with Gitcoin in December](../blogs/20211120-gitcoin12-hackathon.md) to sponsor five challenges to a value of USD$37,000 (the largest prize pool in the challenge), inviting developers to build useful tools, dashboards and even extend SubQuery to another Layer-1 blockchain.
 
 ![](https://miro.medium.com/max/1400/1*BUq3ah1ULNnvLjqxv_vzlQ.png)
 
-[Sam Zou](https://twitter.com/zoujialiu), CEO e fondatore di SubQuery ha commentato: '_SubQuery è lieto dei risultati del Gitcoin GR12 Hackathon. La nostra missione si basa sull'avere una rete di sviluppatori che hanno il potere di creare e innovare all'interno dell'ecosistema Substrate/Polkadot. Questa partnership ha offerto agli sviluppatori motivati ​​di tutto il mondo l'opportunità di creare le applicazioni di domani. Siamo entusiasti di coltivare i vincitori delle sfide per sviluppare ulteriormente le loro idee_”
+[Sam Zou](https://twitter.com/zoujialiu), the CEO and Founder of SubQuery commented, “_SubQuery is delighted with the results of the Gitcoin GR12 Hackathon. Our mission relies on having a network of developers who are empowered to create and innovate within the Substrate/Polkadot ecosystem. This partnership provided opportunities for motivated developers around the world to build the applications of tomorrow. We are excited to nurture the winners of the challenges to develop their ideas even further_”
 
-Di recente abbiamo parlato dei numerosi vincitori che hanno partecipato a questo hackathon e degli incredibili progetti che hanno costruito in [questo articolo dettagliato](../blogs/20220120-gr12-winners.md). Siamo rimasti sbalorditi dalla qualità e dai progressi compiuti dalle candidature in così poco tempo e siamo lieti di invitare molte delle candidature a partecipare al nostro programma di sovvenzioni.
+Recently we’ve covered the many winners that participated in this hackathon and the amazing projects that they have built in [this detailed writeup](../blogs/20220120-gr12-winners.md). We were blown away by the quality and progress made by the submissions in such a short time and we’re pleased to invite many of the submissions to participate in our grants programme.
 
-[Leggi di più qui](../blogs/20220120-gr12-winners.md)
+[Read more here](../blogs/20220120-gr12-winners.md)
 
-### Corso Eroe Cina
+### Hero Course China
 
-Il nostro corso Hero realizzato in collaborazione con OneBlock+ è iniziato all'inizio di gennaio e ora abbiamo già rilasciato tre lezioni a oltre 200 studenti! Unisciti alla community di OneBlock+ per partecipare a questo corso o all'orario di ufficio. La Cina è una regione strategicamente importante per SubQuery, ma prevediamo di lanciare presto molti altri corsi regionali per sviluppatori: contattaci se puoi aiutarci in questo!
+Our Hero Course made in partnership with OneBlock+ started in early January and now we already have released three lessons to over 200 students! Join the OneBlock+ Community to join this course or office hours. China is a strategically important region for SubQuery, but we expect to launch many other regional developer courses soon — reach out if you can help us with this!
 
 ![](https://miro.medium.com/max/1400/1*_8N000hX1WBM79ZbFyhvYQ.png)
 
-## Sviluppo del prodotto principale
+## Core Product Development
 
-### Supporto multicatena
+### Multi Chain Support
 
-SubQuery è nativo di Polkadot, è la nostra casa e abbiamo lavorato duramente per costruire relazioni in questo ecosistema. La premessa principale di Polkadot è creare una fiorente comunità di sviluppatori, utenti e aziende che attingerà alla sua interoperabilità multichain. Sosteniamo questa visione e crediamo anche che Polkadot sarà un attore di primo piano in tale iniziativa.
+SubQuery is native to Polkadot, it’s our home and we’ve worked hard to build relationships in this ecosystem. The core premise of Polkadot is to create a thriving community of developers, users, and businesses that will tap into its multichain interoperability. We stand by that vision and we also believe Polkadot will be a leading player in that initiative.
 
-Ma crediamo in un futuro multi-catena, sappiamo che ci saranno molte blockchain interoperabili diverse che lavoreranno insieme per risolvere problemi diversi. Il nostro piano a lungo termine è sempre stato quello di prendere SubQuery e di adattarlo per funzionare per altre blockchain che non hanno una soluzione di indicizzazione attuale. Il nostro approccio multi-catena che abbiamo dovuto realizzare per Polkadot significa che siamo particolarmente adatti per questa sfida.
+But we believe in a multi chain future, we know that there are going to be many different interoperable blockchains working together to solve different problems. Our long term plan has always been to take SubQuery and to adapt it to work for other blockchain that don’t have a current indexing solution. Our multi-chain approach that we’ve needed to make for Polkadot means we are uniquely suited for this challenge.
 
-Stiamo finalizzando il lavoro sulla prima delle 5 nuove catene di livello 1 che SubQuery indicizzerà, non vediamo l'ora di annunciarlo presto!
+We’re finalising the work on the first of 5 new layer 1 chains that SubQuery will be indexing, we can’t wait to announce it soon!
 
 ![](https://miro.medium.com/max/1400/1*jD1n5MSjeatjiaF5hY-Wjg.png)
 
-### Miglioramenti delle prestazioni delle sottoquery
+### SubQuery Performance Improvements
 
-La velocità di indicizzazione di SubQuery viene sempre migliorata, è un focus costante sul nostro team di sviluppo. Il nostro supporto avanzato del dizionario significa che consente questo, i dizionari velocizzano il tuo progetto di molti multipli e ti consentono di indicizzare l'intera catena di Polkadot in pochi minuti, non in ore (a seconda della complessità del tuo progetto).
+SubQuery’s indexing speed is always being improved, it’s a constant focus on our development team. Our advanced Dictionary support means enables this, Dictionaries speed up your project by many multiples and allow you to index entire Polkadot chain in minutes, not hours (depending on your project complexity).
 
-Come indicatore dell'ampiezza del supporto che SubQuery offre all'ecosistema Polkadot, ora ospitiamo e gestiamo dizionari su 31 diverse reti, che rappresentano la maggior parte di tutte le principali parachain Polkadot/Kusama.
+As an indicator of the breadth of support that SubQuery offers to the Polkadot ecosystem, we are now hosting and managing dictionaries across the 31 different networks, representing the majority of all major Polkadot/Kusama parachains.
 
 ![](https://miro.medium.com/max/1400/1*WeMY5WnWZ_jvllxidhycUA.png)
 
-### Registro dei modelli di sottointerrogazione
+### SubQuery Templates Registry
 
-**29 reti sono coperte da modelli**
+**29 networks are covered by templates**
 
-Il comando `subql init` è familiare a chiunque abbia creato un progetto SubQuery; rappresenta una tela bianca: opportunità illimitate. Siamo consapevoli che possiamo fare di meglio per aiutare gli altri a iniziare, piuttosto che una tela bianca gli sviluppatori vogliono uno scaffold vuoto, dove tutto il codice della caldaia è già scritto.
+The `subql init` command is a familiar one for anyone that has built a SubQuery project; it represents a blank canvas — limitless opportunities. We are aware that we can do better to help others get started, rather than a blank canvas developers want a blank scaffold, where all the boiler-plate code is already written.
 
-Oggi, quando scrivi `subql init`, ti viene presentato un elenco di 29 reti da cui ti viene fornito uno scaffold pre-creato con tutti gli endpoint corretti, i collegamenti ai dizionari e persino le definizioni dei tipi. Ciò elimina uno dei passaggi più difficili quando si avvia un nuovo progetto SubQuery e rende la creazione della tua prossima grande dApp molto più semplice e veloce.
+Today when you write `subql init`, you are presented with a list of 29 networks from which you are provided a pre-created scaffold with all the correct endpoints, dictionary links, and even type definitions. This eliminates one of the most difficult steps when starting a new SubQuery project and makes building your next big dApp that much easier and faster.
 
-### Funzionalità di aggregazione dei dati
+### Data Aggregation Features
 
-SubQuery ora supporta le funzioni aggregate GraphQL avanzate per consentire di eseguire un calcolo su un insieme di valori durante la query. Queste funzioni forniscono ai nostri clienti un insieme più ricco di informazioni e calcoli dal loro set di dati esistente. Ad esempio con un'unica query è possibile calcolare l'importo del contributo mediano per ogni crowdloan suddiviso per data di contributo.
+SubQuery now supports advanced GraphQL aggregate functions to allow you to perform a calculation on a set of values during your query. These functions provide our customers a richer set of insights and calculations from their existing data set. For example with a single query you can calculate the median contribution amount for each crowdloan broken down by contribution date.
 
-[Leggi di più su come utilizzare queste funzionalità nei nostri documenti aggiornati.](https://doc.subquery.network/query/aggregate/)
+[Read more about how to use these features in our upgraded docs.](https://doc.subquery.network/query/aggregate/)
 
-### SubQuery collabora con Darwinia Network per creare lo strumento CLI di SubQuery
+### SubQuery partners with Darwinia Network to build SubQuery’s CLI Tool
 
-Darwinia ha collaborato con SubQuery per creare la pletora di applicazioni necessarie per fornire la migliore esperienza utente per le interazioni a catena incrociata. Ciò include una nuova [App intelligente che è un hub centrale](https://apps.darwinia.network/) per gestire tutte le interazioni della rete Darwinia, inclusi governance, staking, esplorazione della catena e altro ancora. Questa app utilizza una notevole quantità di [dati di sottoquery per mostrare dati storici e azioni](https://explorer.subquery.network/subquery/darwinia-network/smart-app-crab). SubQuery lavorerà a stretto contatto con il team di Darwinia per rendere questa la migliore esperienza nell'intero ecosistema Polkadot.
+Darwinia has partnered with SubQuery to build the plethora of applications that will be needed to provide the ultimate user experience for cross chain interactions. This includes a new [Smart App that is a central hub](https://apps.darwinia.network/) to manage all Darwinia network interactions including governance, staking, chain exploration and more. This app uses a considerable amount of [SubQuery data to show historic data and actions](https://explorer.subquery.network/subquery/darwinia-network/smart-app-crab). SubQuery will be working closely with the team at Darwinia to make this the best experience in the entire Polkadot ecosystem.
 
 ![](https://miro.medium.com/max/1200/1*bL2Csj9qyamD7txAheCTIg.gif)
 
-Darwinia ha anche lavorato a stretto contatto con il team di SubQuery per [creare uno strumento CLI](https://github.com/fewensa/subquery-cli) per il servizio gestito da SubQuery (https://project.subquery.network). Puoi utilizzare questa [CLI](https://github.com/fewensa/subquery-cli) per creare un progetto SubQuery e distribuire automaticamente una nuova versione nello slot di staging o di produzione. Inoltre, puoi recuperare informazioni tra cui lo stato di sincronizzazione dettagliato e i registri dal tuo progetto in esecuzione che è ospitato gratuitamente in SubQuery Projects. [Leggi di più qui](../customer_announcements/20220125-subquery-partners-with-darwinia-network-to-build-subquerys-cli-tool.md)
+Darwinia have also been working closely with the SubQuery team to [build a CLI tool](https://github.com/fewensa/subquery-cli) for the SubQuery managed service (https://project.subquery.network). You can use this [CLI](https://github.com/fewensa/subquery-cli) to create a SubQuery project and automatically deploy a new version to either the staging or production slot. Additionally you can retrieve information including the detailed syncing status and logs from your running project that is hosted for free in SubQuery Projects. [Read more here](../customer_announcements/20220125-subquery-partners-with-darwinia-network-to-build-subquerys-cli-tool.md)
 
 ## SubQuery Network
 
-Nell'ultima chiamata della comunità abbiamo esaminato alcuni dettagli importanti della prossima rete di test di SubQuery. Si svolgerà in almeno tre stagioni, ogni stagione metterà alla prova diversi aspetti della rete:
+Last community call we walked through a few important details of the upcoming SubQuery test network. It will be run over at least three seasons, each season will test different aspects of the network:
 
-- Stagione 1: test alfa in fase iniziale di un numero limitato di funzionalità con pochi partecipanti selezionati
-- Stagione 2: ampio beta test di più funzionalità con centinaia di partecipanti
-- Stagione 3: rete di test pubblica completa per test di carico e scala con migliaia di partecipanti
+- Season 1: Early stage alpha testing of a limited number of features with a select few participants
+- Season 2: Large beta testing of more features with hundreds of participants
+- Season 3: Full public test network for load and scale testing with thousands of participants
 
-Ogni stagione avrà più sfide che puoi completare che potrebbero comportare reali ricompense SQT. Aspettati che le cose inizino qui a marzo!
+Each season will have multiple challenges that you can complete which may result in real SQT rewards. Expect things to kickoff here in March!
 
-## Aggiornamento Roadmap
+## Roadmap Update
 
-Lo scorso ottobre abbiamo pubblicato la [roadmap tecnica](https://blog.subquery.network/blogs/20211029-roadmap-october.html) con il prossimo anno mappato per SubQuery, siamo in ritardo per affrontare esattamente come stiamo facendo qui.
+Last October we released out [technical roadmap](https://blog.subquery.network/blogs/20211029-roadmap-october.html) with the next year mapped out for SubQuery, we’re overdue to address exactly how we’re doing here.
 
 ![](https://miro.medium.com/max/1400/1*2a3SGrW-OG5pbw67jsavvw.jpeg)
 
-Come puoi vedere nella tabella di marcia originale sopra, abbiamo completato tutti i traguardi 0 e 1 e stiamo facendo buoni progressi su traguardi 2. Abbiamo persino fornito alcune funzionalità rilevanti per il nostro servizio in hosting molto prima del previsto, a causa dell'enorme portata di richieste attualmente inviate ai [nostri clienti aziendali](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html).
+As you can see in the original roadmap above, we’ve completed all of Milestone 0 and 1, and are making good progress on Milestone 2. We’ve even delivered some features relevant to our hosted service much earlier than expected due to the huge scale of requests currently going to [our enterprise customers](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html).
 
-## Altre cose che potresti esserti perso
+## Other things you might have missed
 
-- Avremo orari d'ufficio settimanali sul nostro server Discord! Unisciti a 'Office Hours' di SubQuery sul nostro canale stage dove puoi metterti al passo con il team in un ambiente informale.
-- Abbiamo avuto un QnA russo con James & Dmytro a Discord dove tutte le domande sono state poste e risposte in russo. Facci sapere quale lingua vorresti ascoltare dopo
+- We will be having weekly office hours on our Discord Server! Join SubQuery’s ‘Office Hours’ on our stages channel where you can catch-up with the team in a casual environment.
+- We had a Russian QnA with James & Dmytro in Discord where all questions were asked and answered in Russian. Let us know which language you would like to hear next
 
 P.S.
 
-Ricordati di unirti ai nostri [Discord](https://discord.com/invite/subquery) e ai nostri [canali social](https://linktr.ee/subquerynetwork) per rimanere aggiornato sulle nostre ultime notizie e annunci.
+Remember to join our [Discord](https://discord.com/invite/subquery) and our [social channels](https://linktr.ee/subquerynetwork) to stay updated on our latest news and announcements.
 
-La rete SubQuery
+The SubQuery Team
 
-[Albero dei collegamenti](https://linktr.ee/subquerynetwork) | [Sito web](https://subquery.network/) | [E-mail](hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegramma](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrice](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Youtube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Email](hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Youtube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
