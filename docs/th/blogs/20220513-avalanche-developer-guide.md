@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/1*BiJaESR69-vDimBJmXhQvw.png)
 
-วันนี้ หลังจากการปรับปรุงพัฒนา พิจารณาปัจจัย และการทดสอบในหลายเดือนที่ผ่านมา พวกเราดีใจที่จะแบ่งปันระบบสนับสนุนชนิดเบต้าของผลจากการเปิด index ของพวกเรากับชุมชน Avalanche After establishing SubQuery as the leading data indexer in Polkadot, the recent [announcement of our expansion into Avalanche](./20220321-avalache.md) during the recent [Avalanche Summit](https://www.avalanchesummit.com/agenda) was met with excitement by developers eager for a flexible and scalable indexing tool.
+วันนี้ หลังจากการปรับปรุงพัฒนา พิจารณาปัจจัย และการทดสอบในหลายเดือนที่ผ่านมา พวกเราดีใจที่จะแบ่งปันระบบสนับสนุนชนิดเบต้าของผลจากการเปิด index ของพวกเราร่วมกับชุมชน Avalanche After establishing SubQuery as the leading data indexer in Polkadot, the recent [announcement of our expansion into Avalanche](./20220321-avalache.md) during the recent [Avalanche Summit](https://www.avalanchesummit.com/agenda) was met with excitement by developers eager for a flexible and scalable indexing tool.
 
 Follow the beta guide here: https://university.subquery.network/quickstart/quickstart-avalanche.html
 
