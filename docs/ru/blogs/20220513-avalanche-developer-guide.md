@@ -1,20 +1,20 @@
-# Beta of SubQuery Support Released For Avalanche
+# Бета-версия поддержки SubQuery выпущена для Avalanche
 
 ![](https://miro.medium.com/max/1400/1*BiJaESR69-vDimBJmXhQvw.png)
 
-Today, after months of improvements, refactoring, and testing, we are happy to share the beta support of our open indexing solution with the Avalanche community. After establishing SubQuery as the leading data indexer in Polkadot, the recent [announcement of our expansion into Avalanche](./20220321-avalache.md) during the recent [Avalanche Summit](https://www.avalanchesummit.com/agenda) was met with excitement by developers eager for a flexible and scalable indexing tool.
+Сегодня, после нескольких месяцев улучшений, реорганизации и тестирования, мы рады поделиться с сообществом Avalanche бета-версией нашего решения для открытого индексирования. После утверждения SubQuery в качестве ведущего индексатора данных в сети Polkadot, недавнее [объявление о нашем расширении в сети Avalanche](./20220321-avalache.md) во время недавнего [Avalanche Summit](https://www.avalanchesummit.com/agenda) было встречено с волнением разработчиками, с нетерпением ждущими гибкого и масштабируемого инструмента индексирования.
 
-Follow the beta guide here: https://university.subquery.network/quickstart/quickstart-avalanche.html
+Следуйте руководству по бета-версии здесь: https://university.subquery.network/quickstart/quickstart-avalanche.html
 
-SubQuery is an open data indexer that is flexible and fast. Our open indexing tool is designed to help developers build their own API in hours, and it's designed to index chains incredibly quickly with the assistance of dictionaries (pre-computed indices). Our experience with customers across all verticals in Polkadot (wallets, networks, explorers, NFT, DeFi, scanners, etc) has helped us build this.
+SubQuery — это гибкий и быстрый индексатор открытых данных. Наш открытый инструмент индексирования призван помочь разработчикам создать свой собственный API за считанные часы, и он предназначен для невероятно быстрого индексирования цепочек с помощью словарей (предварительно вычисленных индексов). Наш опыт работы с клиентами по всем направлениям в сети Polkadot (кошельки, сети, проводники, NFT, DeFi, сканеры и т. д.) помог нам создать это.
 
-From today, Avalanche developers will be able to access the beta of the same fast, flexible, and open indexing solution widely used across Polkadot. As this is a beta version, it is likely to have some issues. As such, we would appreciate it if any bugs can be reported to our team so we can address them quickly.
+С сегодняшнего дня, разработчики сети Avalanche смогут получить доступ к бета-версии того же быстрого, гибкого и открытого решения для индексирования, которое широко используется в сети Polkadot. Поскольку это бета-версия, в ней могут быть некоторые проблемы. Поэтому мы будем признательны, если о любых ошибках вы сообщите нашей команде, чтобы мы могли быстро их устранить.
 
-## Why Use SubQuery?
+## Зачем Использовать SubQuery?
 
-_There are already a few other options here in Avalanche, so why would you build with SubQuery?_
+_В Avalanche уже есть несколько других вариантов, так зачем вам создавать с помощью SubQuery?_
 
-I was asked this very question by many of you that I was lucky enough to meet at the Avalanche Summit. In our space there are generally three other solutions:
+Мне задавали этот вопрос многие из вас, с кем мне посчастливилось встретиться на Avalanche Summit. In our space there are generally three other solutions:
 
 - Build your own solution: Why reinvent the wheel? SubQuery is focusing on building a reliable and fast open indexer --- we're here to save you time
 - Standardised data services or "unified APIs": These providers are excellent if you're building the same app on the same basic smart contract as everyone else, but you're not. You need a unique set of data that allows you to build a superior product that blows your competition out of the water! You need flexibility to get the data that you need in the shape that works best for you
@@ -58,15 +58,15 @@ In the coming weeks you can expect:
 - A step by step learning course in the [SubQuery Academy](./20211018-subquery-launches-the-subquery-academy.md)
 - Full support for Avalanche in our decentralised SubQuery Network (you'll see a project in our current Frontier test network)
 
-With the number of Subnets planned over the coming months, there will be a huge need for fast, open, and flexible indexing support that works across all compatible Subnets. We have experience implementing this level of configurability for Polkadot's parachains, and are investigating how to provide the same outcome for Avalanche (e.g. by importing custom implementations of snowman.Block etc).
+Учитывая количество подсетей, запланированных на ближайшие месяцы, возникнет огромная потребность в быстрой, открытой и гибкой поддержке индексации, которая работает во всех совместимых подсетях. We have experience implementing this level of configurability for Polkadot's parachains, and are investigating how to provide the same outcome for Avalanche (e.g. by importing custom implementations of snowman.Block etc).
 
-The launch of our beta support for Avalanche marks a significant milestone in our commitment to offer enhanced indexing tools for the Avalanche community to enable her developers to go further, faster. We are eager to get feedback from the community in order to improve our offering and increase our visibility as a trusted infrastructure partner for one of the fastest growing developer communities in Web3
+Запуск нашей бета-версии для поддержки Avalanche знаменует собой важную веху в нашем стремлении предложить сообществу Avalanche улучшенные инструменты индексации, позволяющие ее разработчикам продвигаться дальше и быстрее. Мы стремимся получить обратную связь от сообщества, чтобы улучшить наше предложение и повысить нашу узнаваемость как надежного партнера по инфраструктуре для одного из самых быстрорастущих сообществ разработчиков в Web3
 
-We are now looking for launch partners that we can closely support as they develop their first SubQuery projects in this ecosystem. Reach out to me at james.bayly@subquery.network if you want to be first on the journey with us.
+Сейчас мы ищем партнеров по запуску, которых мы могли бы тесно поддерживать, поскольку они разрабатывают свои первые проекты подзапросов в этой экосистеме. Свяжись со мной в james.bayly@subquery.network, если вы хотите первыми начать путешествие вместе с нами.
 
-_James Bayly_
+_Джеймс Бэйли _
 
-Follow the beta guide here: https://university.subquery.network/quickstart/quickstart-avalanche.html
+Следуйте руководству по бета-тестированию здесь:https://university.subquery.network/quickstart/quickstart-avalanche.html
 
 ## About SubQuery
 
