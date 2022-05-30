@@ -50,12 +50,12 @@ _У Avalanche вже є кілька інших варіантів, тож на�
 
 - Розширена індексація ланцюга контрактів
 - Avalanche Dictionary: попередньо обчислені індекси для [значного скорочення часу індексування](./20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md)
-- Full support for Avalanche in our free [enterprise level](./20211228-enterprise-hosted.md) managed service
-- Intuitive documentation in the [SubQuery University](https://university.subquery.network/)
+- Повна підтримка Avalanche у нашій безкоштовній службі під керуванням [підприємства](./20211228-enterprise-hosted.md)
+- Інтуїтивно зрозуміла документація в [Університеті SubQuery](https://university.subquery.network/)
 
-In the coming weeks you can expect:
+У найближчі тижні ви можете очікувати:
 
-- A step by step learning course in the [SubQuery Academy](./20211018-subquery-launches-the-subquery-academy.md)
+- Покроковий курс навчання в [Академії SubQuery](./20211018-subquery-launches-the-subquery-academy.md)
 - Full support for Avalanche in our decentralised SubQuery Network (you'll see a project in our current Frontier test network)
 
 With the number of Subnets planned over the coming months, there will be a huge need for fast, open, and flexible indexing support that works across all compatible Subnets. We have experience implementing this level of configurability for Polkadot's parachains, and are investigating how to provide the same outcome for Avalanche (e.g. by importing custom implementations of snowman.Block etc).
