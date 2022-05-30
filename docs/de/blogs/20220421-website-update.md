@@ -1,47 +1,47 @@
-# Ankündigung der neuen Website von SubQuery
+# Announcing SubQuery's New Website
 
 ![](https://miro.medium.com/max/1400/0*AnB_ILxq6i0kKz2Y)
 
-Die öffentliche Website ist oft das erste, was Menschen sehen und besuchen, wenn sie sich ein Unternehmen oder Produkt ansehen. Es kann einen bleibenden ersten Eindruck hinterlassen, eine Marke in Ihr Gedächtnis einprägen und die Geschichte hinter dem, was wir tun, kommunizieren. Heute freuen wir uns, ein neues und verbessertes Website-Design für SubQuery ankündigen zu können.
+The public website is often the first thing people see and visit when looking at a company or product. It can create a lasting first impression, imprint a brand in your memory, and communicate the story behind what we do. Today we are excited to announce a new and improved website design for SubQuery.
 
-Wir haben unsere Website aus zwei Hauptgründen neu gestaltet. Zunächst mussten wir die Website erneuern und modernisieren, um den aktuellen Fortschritt von SubQuery und seinen Status als führendes Unternehmen in der Datenindizierung genauer widerzuspiegeln. Seit unserem letzten Website-Update haben wir uns mit dem bevorstehenden Start des SubQuery-Netzwerks erheblich weiterentwickelt. Zweitens möchten wir unsere visuelle Gesamtidentität immer verbessern, um mit unserer schnell wachsenden Community einen besseren Markeneindruck zu schaffen.
+We redesigned our website for two main reasons. Firstly we needed to refresh and modernise the site to reflect more accurately the current progress of SubQuery and its status as a leader in data indexing. Since our last website update, we have evolved significantly with the impending launch of the SubQuery Network. Secondly, we always want to improve our overall visual identity to create a better brand impression with our rapidly expanding community.
 
-Bei SubQuery, einem Datenindizierungsprojekt, dreht sich alles um die Details. Mit dieser Mentalität haben wir dieses spezielle Design und Layout gewählt, das moderate Abstände zwischen den Absätzen betont, um ein moderneres Aussehen zu erzielen und den Inhalt leichter lesbar zu machen. Darüber hinaus bietet dies Seitenvorlagen, die flexibel und reaktionsschnell sind und die in der wachsenden Anzahl von Anwendungen von SubQuery wiederverwendet werden können. Zusammen bieten diese Updates dem Benutzer eine viel bessere Erfahrung beim Navigieren durch teilweise sehr detaillierte und technische Informationen.
+SubQuery, being a data indexing project, is all about the details. It's with this mentality that we chose this specific design and layout which emphasises moderate spacing between paragraphs for a more modern look and makes the content easier to read. Additionally, this provides page templates that are flexible and responsive, and that can be reused across the growing number of applications that SubQuery has. Combined, these updates give the user a much better experience navigating through what can be quite detailed and technical information.
 
 ![](https://miro.medium.com/max/1400/1*rqmuhuC5rdV7sZN2AwokZQ.png)
 
-Zurück zu den Grundprinzipien des Website-Designs haben wir den Endbenutzer fest im Auge behalten. Um unser Ziel zu erreichen, haben wir uns an Schlüsselprinzipien wie die Einrichtung einer starken visuellen Hierarchie über Elemente wie Typografie und Gruppierung von Inhalten hinweg gehalten. Darüber hinaus war es angesichts des Themas wichtig, sicherzustellen, dass der Inhalt zugänglich und reaktionsschnell ist und das Publikum nicht mit zu vielen Informationen überfordert.
+Going back to first principles of website design, we kept the end-user firmly in our mind. In order to achieve our goal, we stuck to key principles such as establishing a strong visual hierarchy across elements such as typography and content grouping. Furthermore, given the subject matter it was important that we ensured that the content was accessible and responsive and didn't overwhelm the audience with too much information.
 
-Unser UI-Designprozess durchlief fünf Schritte, die uns die Möglichkeit geben, ein benutzerzentriertes Design zu erstellen und wertbasierte Marketingprinzipien erfolgreich zu berücksichtigen.
+Our UI design process went through five steps which gives us the opportunity to create user-centred design and successfully consider value based marketing principles.
 
-## Schritt 1: Empathie
+## Step 1: Empathise
 
-Das Ziel in dieser Phase ist es zu verstehen, für wen wir entwerfen. Das Erstellen von Kundenpersönlichkeiten ist eine gute Möglichkeit, eine bestimmte Gruppe von Menschen mit ähnlichen Verhaltensweisen, Bedürfnissen, Zielen und Einstellungen zu repräsentieren. Dieses Verständnis ermöglichte es uns, die richtigen Entscheidungen über Produktfunktionen, Navigation, visuelles Design und vieles mehr zu treffen.
+The goal during this stage is to understand who we design for. Creating customer personas are a good way to help represent a particular group of people with similar behaviour, needs, goals, and attitudes. This understanding allowed us to make the right decisions about product features, navigation, visual design, and much more.
 
-## Schritt 2: Definition
+## Step 2: Define
 
-Der nächste Schritt bestand darin, diese Erkenntnisse zu definieren, die in der Empathize-Phase identifiziert wurden. Wir haben versucht, die Bedürfnisse, Probleme und Erkenntnisse unserer Benutzer zu definieren. Auch hier geht es darum, besser zu verstehen, was unsere Benutzer genau brauchen, bevor wir anfangen, das bereitzustellen, was sie unserer Meinung nach benötigen.
+The next step was to define these insights identified in the Empathise stage, we looked to define our users needs, problems, and insights. Once again, this process is to have a better understanding of exactly what our users need before we start looking to provide what we think they need.
 
-## Schritt 3: Ideen entwickeln
+## Step 3: Ideate
 
-Basierend auf den beiden vorherigen Schritten haben wir dann versucht, verschiedene Designoptionen zu entwickeln, um sicherzustellen, dass der Benutzer bei jeder getroffenen Entscheidung berücksichtigt wird.
+Based on the previous two steps we then looked to ideate various different design options making sure to consider the user with every decision made.
 
-## Schritt 4: Prototyp
+## Step 4: Prototype
 
-Nachdem wir den Ideenfindungsprozess durchlaufen hatten, suchten wir nach Prototyp-spezifischen Designs, von denen wir glauben, dass sie die Bedürfnisse unserer Benutzer am besten widerspiegeln und die Probleme, die sie haben, am besten lösen.
+After going through the ideation process we looked to prototype specific designs we think best reflect the needs of our users and best solve the problems they have.
 
-## Schritt 5: Test
+## Step 5: Test
 
-Die letzte Phase unseres Prozesses bestand darin, die von uns entworfenen Prototypen zu testen. Dadurch konnten wir sicherstellen, dass die von uns vorgenommenen Änderungen wirksam sind.
+The final stage of our process was to test the prototypes we had designed. This allowed us to ensure that the changes we have made are effective.
 
 ![](https://miro.medium.com/max/1400/1*AMO1WP2Yg1MtNht22gIeaw.png)
 
-> _"SubQuery hat ehrgeizige Ambitionen und wir brauchten eine aktualisierte visuelle Identität, die diese Vision widerspiegelt. Durch die Modernisierung unseres Layouts und die Verbesserung der visuellen Hierarchie mit neuer Typografie und neuen Farben bieten wir unseren Website-Besuchern ein frisches Erlebnis und Einblicke in SubQuery. Ich persönlich bin ein großer Fan der neuen Illustrationen, die für unser Frontier-Testnetz erstellt wurden, da sie eine zusätzliche Dimension in der Entwicklung unserer Markengeschichte schaffen.“_ – Cassie Wang, UX Designer bei SubQuery
+> _"SubQuery has bold ambitions and we needed an updated visual identity that reflects that vision. By modernising our layout and improving the visual hierarchy with new typography and colours, we provide our website visitors a fresh experience and insight into SubQuery. Personally, I'm a big fan of the new illustrations which were created for our Frontier testnet as they create an extra dimension in the evolution of our brand story"_ - Cassie Wang, UX Designer at SubQuery
 
-Wir hoffen, Ihnen gefällt die Website genauso gut wie uns! Werfen Sie noch heute einen Blick auf https://subquery.network
+We hope you enjoy the website as much as we do! Take a look today at https://subquery.network
 
-## Über SubQuery
+## About SubQuery
 
-[SubQuery](https://subquery.network) ist ein Blockchain-Entwickler-Toolkit, mit dem andere Web3-Anwendungen der Zukunft erstellen können. Ein SubQuery-Projekt ist eine vollständige API zum Organisieren und Abfragen von Daten aus Layer-1-Chains. Dieser Data-as-a-Service, der derzeit Polkadot-, Substrate- und Avalanche-Projekte bedient, ermöglicht es Entwicklern, sich auf ihren Kernanwendungsfall und ihr Frontend zu konzentrieren, ohne Zeit mit dem Aufbau eines benutzerdefinierten Backends für die Datenverarbeitung verschwenden zu müssen. Das SubQuery Network schlägt vor, dieselbe skalierbare und zuverlässige Lösung zu ermöglichen, jedoch auf vollständig dezentralisierte Weise.
+[SubQuery](https://subquery.network) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from Layer-1 chains. Currently servicing Polkadot, Substrate, and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
-​​[Linktree](https://linktr.ee/subquerynetwork) | [Webseite](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
