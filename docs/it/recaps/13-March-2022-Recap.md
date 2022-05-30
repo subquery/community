@@ -2,104 +2,104 @@
 
 ![](https://miro.medium.com/max/1400/1*ePGA5YU2NgY-qhQ66xAzcg.png)
 
-Benvenuto all'ultimo aggiornamento mensile di SubQuery!
+Welcome to the latest SubQuery Monthly Update!
 
-Come al solito, l'ultimo mese è stato ricco di novità e la notizia dell'integrazione con Avalanche è stata al centro dell'attenzione. Abbiamo anche fatto enormi progressi per quanto riguarda il TGE dopo aver annunciato il lancio della nostra piattaforma di collaudo "The Frontier", invitando i primi partecipanti alla versione beta privata.
+As usual the past month was action-packed with the news of our integration with Avalanche taking centre-stage. We also made massive progress towards our TGE after announcing the launch of our Testnet, "The Frontier" and have invited the first participants to our closed beta.
 
-Abbiamo anche annunciato la collaborazione con diversi progetti di Polkadot e mantenuto l'unione con Gitcoin, premiando cosí la fedeltà dimostrata dalla nostra comunitá.
+Meanwhile, we also announced partnerships with several teams in Polkadot and we rewarded our rapidly community by continuing our partnership with Gitcoin.
 
-## Comunità
+## Community
 
-### SubQuery offre ulteriori occasioni agli sviluppatori Web3 grazie all'hackathon di Gitcoin
+### SubQuery Provides Web3 Developers More Opportunities via Gitcoin Hackathon
 
-La decisione di ampliare questa collaborazione è vincolata al successo della prima edizione del nostro hackathon su Gitcoin, svoltasi nel dicembre 2021, dove abbiamo potuto constatare i brillanti risultati ottenuti da molti sviluppatori di talento.
+After running our first Gitcoin Hackathon in December 2021 and achieving fantastic results with many talented developers it was an easy decision to extend our partnership.
 
-> _"SubQuery è lieta di contribuire alla costruzione del futuro del Web3 partecipando attivamente all'Hackathon di Gitcoin GR13. Vogliamo incoraggiare gli sviluppatori più appassionati di tutto il mondo a lavorare sul nostro servizio di indicizzazione dei dati e per questo abbiamo lanciato recentemente un Programma SubQuery di incentivi del valore di 500.000 dollari. Abbiamo pensato a delle ricompense che dovrebbero entusiasmare i diplomati del nostro 'Hero Course' e gli sviluppatori che sono nuovi nel mondo di SubQuery e non vediamo l'ora di vederne i risultati"_ - Sam Zou, Fondatore e CEO di SubQuery
+> _"SubQuery is proud to partner with the Gitcoin GR13 Hackathon to build the future of Web3. It is in our interest to support motivated developers around the world to build on top of our data indexing service which is why we also recently launched a $500,000 SubQuery Grants Programme. We have developed bounties that should excite graduates of our 'Hero Course' and developers who are new to SubQuery and look forward to seeing the results"_ - Sam Zou, Founder and CEO of SubQuery
 
-[Per saperne di più](../blogs/20220308-gitcoin13-hackathon.md)
+[Read more here](../blogs/20220308-gitcoin13-hackathon.md)
 
-### SubQuery estende la propria collaborazione con OneBlock+ per promuovere la formazione sulla blockchain in Cina
+### SubQuery Extends Partnership with OneBlock+ To Promote Blockchain Education in China
 
-Stiamo collaborando con OneBlock+ per organizzare un secondo ciclo del [" Hero Course"](https://doc.subquery.network/academy/herocourse/) in Cina che inizierà ai primi d'aprile.
+We are partnering with OneBlock+ to run a second round of the ["Hero Course"](https://doc.subquery.network/academy/herocourse/) in China starting in early April.
 
-> _"SubQuery è entusiasta di continuare la sua collaborazione con OneBlock+ e con il loro gruppo di entusiasti sviluppatori cinesi di Substrate. Abbiamo già ricevuto commenti sul fatto che il primo gruppo di studenti sta già utilizzando SubQuery nei propri progetti per semplificarne lo sviluppo. Non vediamo l'ora di collaborare con i futuri studenti che faranno leva su OneBlock+ e SubQuery per costruire la prossima generazione di dApp"_ - Sam Zou, Fondatore e CEO di SubQuery
+> _"SubQuery is excited to continue our partnership with OneBlock+ and their passionate group of Chinese Substrate developers. We have already received feedback that the first group of students are already using SubQuery on their own projects to make their development easier. We look forward to collaborating with the future students as they leverage on OneBlock+ and SubQuery to build the next generation of dApps"_ - Sam Zou, Founder and CEO of SubQuery
 
-[Per saperne di più](../blogs/20220308-oneblock-education.md)
+[Read more here](../blogs/20220308-oneblock-education.md)
 
-## La rete SubQuery
+## SubQuery Network
 
-### SubQuery utilizza Automata Network per fornire servizi Web3 in materia di privacy
+### SubQuery supports Automata Network to deliver Web3 privacy services
 
-SubQuery è lieta di annunciare la propria collaborazione con Automata, un protocollo di servizio decentralizzato che fornisce servizi di privacy senza tracciabilità di tipo middleware per le dApp su Ethereum e Polkadot. SubQuery collabora con Automata per consentire agli sviluppatori di usufruire di una soluzione di indicizzazione ad alte prestazioni che alimenterà l'ecosistema di applicazioni in rapida crescita di Automata.
+SubQuery is excited to announce our partnership with Automata, a decentralised service protocol that provides middleware-like traceless privacy services for dApps on Ethereum and Polkadot. SubQuery is working with Automata to allow developers access to a high performance indexing solution that will power Automata's rapidly growing application ecosystem.
 
-> _"SubQuery è ormai il protocollo di indicizzazione standard all'interno degli ecosistemi Polkadot e Kusama, e non a caso. La squadra è stata tempestiva, eccezionale e siamo contenti di continuare la nostra stretta collaborazione mentre Automata si concentra sulle soluzioni middleware per portare avanti un Web3 imparziale e incentrato sulla privacy"._ - Deli Gong, Automata Network
+> _"Subquery has become the standard indexing protocol within the Polkadot and Kusama ecosystems, and it is not without reason. The team has been prompt, exceptional, and we're pleased to continue working closely with them as Automata focuses on its middleware solutions to bring forth a fair-minded and privacy-focused Web3."_ - Deli Gong, Automata Network
 
-[Per saperne di più](../customer_announcements/20220317-automata.md)
+[Read more here](../customer_announcements/20220317-automata.md)
 
-### SubQuery fornisce dati alla rete OAK per alimentare l'hub di automazione DeFi
+### SubQuery Provides Data To OAK Network To Power DeFi Automation Hub
 
-SubQuery è lieta di annunciare la collaborazione con OAK Network, l'hub di automazione Web3 per la DeFi e i servizi di pagamento. L'esperienza di SubQuery sarà utilizzata per migliorare le competenze di OAK nel monitoraggio e nell'osservazione dell'attività della blockchain sia per la rete OAK su Polkadot, sia per la rete Turing su Kusama, sia per la rete di collaudo Neumann.
+SubQuery is proud to announce our partnership with OAK Network, the Web3 automation hub for DeFi and payments. SubQuery's expertise will be used to provide greater insights for OAK when monitoring and observing blockchain activity for both OAK Network on Polkadot, the Turing Network on Kusama, as well as their Neumann testnet.
 
-> _"La missione di SubQuery, che è quella di aiutare le aziende a creare prodotti che permettano di muoversi verso un futuro decentralizzato, si sposa perfettamente con la missione di OAK Network che mira a portare l'automazione sicura e affidabile alla gente. SubQuery costituirà una risorsa preziosa per accelerare le fasi di sviluppo e garantire che i servizi forniti da OAK al mercato siano stabili e affidabili"._ - David Finklestein , responsabile della crescita di OAK Network
+> _"SubQuery's mission to help teams create products that allow movement to a decentralized future aligns closely with OAK Network's own mission of bringing secure and trustless automation to the masses. SubQuery will serve as a valuable resource to accelerate development timelines and ensure the services which OAK supplies to the market are stable and observable."_ - David Finklestein , Head of Growth at OAK Network
 
-[Per saperne di più](../customer_announcements/20220315-oak-network.md)
+[Read more here](../customer_announcements/20220315-oak-network.md)
 
-### SubQuery fornisce una piattaforma di dati aperta per Astar, l'hub di dApp di Polkadot
+### SubQuery provides an open data foundation for Astar, Polkadot's dApp Hub
 
-Siamo entusiasti di annunciare la stretta collaborazione tra Astar e SubQuery che fornirà un'infrastruttura di dati essenziale per le applicazioni all'interno dell'ecosistema applicativo di Astar. Le nostre due squadre condividono la stessa visione: incoraggiare lo sviluppo della prossima generazione di dApp in Polkadot e accelerare la nostra migrazione verso il Web3. Oggi, l'integrazione annunciata e il materiale per gli sviluppatori consentiranno ai progetti di dApp su Astar di utilizzare la soluzione di indicizzazione dei dati di SubQuery per accelerare lo sviluppo e creare nuove e migliori applicazioni.
+We're excited to share the close partnership between Astar and SubQuery to provide key data infrastructure to applications within Astar's application ecosystem. Our two teams share the same vision, to encourage development of the next generation of dApps in Polkadot and catalyse our transition to web3. Today, the announced integration and developer material will enable dApp projects on Astar to use SubQuery's data indexing solution to speed up their development and build even better applications.
 
-[Per saperne di più](../customer_announcements/20220302-astar.md)
+[Read more here](../customer_announcements/20220302-astar.md)
 
-### SubQuery collabora con SubWallet per migliorare l'accesso degli utenti ai dati Multi-Chain
+### SubQuery partners with SubWallet to Enhance User Access to Multi-Chain Data
 
 ![](https://miro.medium.com/max/1400/1*2F2Itdhy6CPL0K1OF4flbA.png)
 
-SubQuery è lieta di annunciare la collaborazione per l'integrazione con [SubWallet](https://subwallet.app/), un nuovo portafoglio multi-chain per l'ecosistema Dotsama. SubWallet semplifica la tracciabilità, l'invio, la ricezione e la firma delle transazioni sulle applicazioni DeFi e GameFi gestendo oltre 40 diverse parachain della rete Dotsama.
+SubQuery is delighted to announce an integration partnership with [SubWallet](https://subwallet.app/), a new multi-chain wallet for the Dotsama ecosystem. SubWallet makes it easy to track, send, receive and sign transactions on DeFi and GameFi applications and supports over 40 different parachains in the Dotsama network.
 
-> _"Con la missione di avvicinare gli utenti di criptovalute all'ecosistema Dotsama e di aprire l'universo Web3, stiamo lavorando con SubQuery per integrare la loro straordinaria soluzione di indicizzazione dei dati, in modo che gli utenti di SubWallet possano esaminare la cronologia delle transazioni e le informazioni sui crowdloan per oltre 40 diverse parachain Polkadot, direttamente nel nostro portafoglio di espansione."_ - Hieu Dao, cofondatore di SubWallet
+> _"With the mission of pulling crypto users closer to the Dotsama ecosystem and opening the Web3 universe, we are working with SubQuery to integrate their remarkable data indexing solution, so that SubWallet users can review transaction history and crowdloan information for over 40 different Polkadot parachains right in our extension wallet."_ - Hieu Dao, SubWallet Co-Founder
 
-[Per saperne di più](../customer_announcements/20220331-subwallet.md)
+[Read more here](../customer_announcements/20220331-subwallet.md)
 
-## Sviluppo del prodotto principale
+## Core Product Development
 
-### SubQuery espande la propria soluzione di indicizzazione dei dati per gestire Avalanche
+### SubQuery Expands its Data Indexing Solution to Support Avalanche
 
 ![](https://miro.medium.com/max/1400/1*d4CnfS7YSvAhxcgBEdwCiA.png)
 
-SubQuery porta su Avalanche una soluzione di indicizzazione dei dati veloce, flessibile e aperta, nonché tutti gli altri strumenti, la documentazione, il supporto agli sviluppatori, l'hosting gestito gratuitamente e gli altri vantaggi che gli sviluppatori ricevono dall'ecosistema SubQuery.
+SubQuery is bringing this fast, flexible, and open data indexing solution to Avalanche as well as all the other tools, documentation, developer support, free managed hosting, and other benefits that developers receive from the SubQuery ecosystem.
 
-> _"SubQuery avrà sempre una corsia preferenziale con Polkadot, ma abbiamo l'ambizione di aiutare gli sviluppatori di Avalanche a creare e innovare il futuro del Web3. Per raggiungere quest'obiettivo, siamo lieti di fornire ad Avalanche lo stesso servizio di assistenza e strumenti per gli sviluppatori che forniamo a Polkadot"_ - Sam Zou, Fondatore e CEO di SubQuery
+> _"SubQuery will always have our home in Polkadot, but we are excited to help developers in Avalanche become more empowered to create and innovate the future of Web3 together. In order to achieve this, we are pleased to provide the same level of developer tools and support to Avalanche that we do to Polkadot"_ - Sam Zou, Founder and CEO of SubQuery
 
-[Per saperne di più](../blogs/20220321-avalache.md)
+[Read more here](../blogs/20220321-avalache.md)
 
-### SubQuery lancia la piattaforma di collaudo "The Frontier"
+### SubQuery Launches "The Frontier" Testnet
 
-Siamo lieti di annunciare il lancio della nostra piattaforma di collaudo, "The Frontier". Nel caso di SubQuery, il lancio del testnet segna una pietra miliare critica nel nostro sviluppo mentre procediamo verso il pieno dispiegamento di mainnet che coincide con la nostra quotazione del token sugli centralizzati.
+We are pleased to announce the launch of our testnet, "The Frontier". In SubQuery's case, the launch of the testnet marks a critical milestone in our development as we progress towards the full deployment of mainnet which coincides with our token listing on centralised exchanges.
 
-Al fine di eseguire il testnet in modo efficace, abbiamo bisogno che sia testato da operatori di nodi esperti che sono esperti nell'esecuzione di produzioni ad alte prestazioni e scalabili con monitoraggio e sicurezza del portafoglio/infrastruttura. Dal nostro [invito a partecipare per gli indicizzatori](../blogs/20211202-indexer-invitation.md) siamo stati sommersi dall'interesse della nostra comunità e abbiamo recentemente approvato un primo gruppo di indicizzatori che presto riceveranno il loro invito a partecipare alle stagioni 1 & 2 di SubQuery Frontier.
+In order to run the testnet effectively, we require it to be battle-tested by experienced node operators who are experts in running high performance and scalable productions with monitoring and wallet/infrastructure security. Since our [call for indexers to participate](../blogs/20211202-indexer-invitation.md) we have been overwhelmed by the interest from our community and have recently approved an initial group of indexers who will soon receive their invitations to participate in SubQuery Frontier's seasons 1 & 2.
 
 ![](https://miro.medium.com/max/1400/1*_iqge0IqXriY7Zl0hUKQ3g.png)
 
-> Ian He, Cto di SubQuery, ha commentato, _"SubQuery è entusiasta del lancio di SubQuery Frontier Testnet e di ciò che rappresenta sia per noi che per la nostra fedele comunità. La scelta di "Frontier" come nome del nostro testnet denota anche dove crediamo di essere nella crescita del Web3 e che vogliamo che gli indicizzatori si spingano oltre i limiti."_
+> _"SubQuery is excited about the launch of the SubQuery Frontier Testnet and what it represents to both ourselves and our loyal community. The choice of "Frontier" as our testnet name also denotes where we believe we are in the growth of Web3 and that we want Indexers to push beyond the limits."_ - Ian He, CTO of SubQuery
 
-[Per saperne di più](../blogs/20220330-frontier-testnet.md)
+[Read more here](../blogs/20220330-frontier-testnet.md)
 
-## Altre cose che potresti aver perso
+## Other things you might have missed
 
-- SubQuery ha festeggiato il suo primo compleanno con una [campagna Airdrop](https://gleam.io/leBTF/subquery-1st-birthday-airdrop-)
-- [James](https://matchstiq.io/stories/james-bayly-head-of-business-development-at-subquery/) era al [vertice Avalanche](https://www.avalanchesummit.com/agenda/speakers/1565739) in tempo con il nostro lancio di Avalanche, che abbiamo anche fatto un [Airdrop giveaway](https://gleam.io/pPoMH/-subquery-x-avalanche-airdrop-competition) per.
-- Abbiamo avuto un'intervista [dei clienti con Sota Watanabe](https://www.youtube.com/watch?v=KczSlTcb6aw) di Astar e abbiamo parlato della nuova partnership che consente ai progetti dApp su Astar di utilizzare SubQuery per l'indicizzazione nativa dei dati Astar EVM.
-- Un'intervista al nostro architetto [James Xu](https://www.youtube.com/watch?v=K-d-3JA5IsA) che guida il nostro servizio ospitato
-- Un'intervista con [Brittany](https://www.youtube.com/watch?v=IyKg2Gu2A8g) che guida il nostro Customer Success & Programma di sovvenzioni
-- Un'intervista a [Daniel](https://www.youtube.com/watch?v=meaictYiskI&feature=youtu.be) che supporta i nostri team di Marketing & Business Development
-- Siqi ha ospitato AMA cinesi con Darwinia, Manta Network, Moonbeam, Acala, Unique NFT, e anche [ha intervistato uno dei migliori studenti](https://www.youtube.com/watch?v=z13w7GmpZWw) del corso eroe cinese.
-- Sean ha intervistato uno dei primi studenti che hanno completato il nostro Corso Eroe che possiamo guardare [qui](https://www.youtube.com/watch?v=pItgREDAprc)
-- Altri eventi sul nostro [canale Discord](https://discord.com/invite/subquery) includono un workshop crowdin con i nostri ambasciatori tailandesi, un russo AMA su DropsEarn, Office Hours, e un tedesco & Ukranian AMA.
+- SubQuery celebrated it's 1st birthday with an [Airdrop campaign](https://gleam.io/leBTF/subquery-1st-birthday-airdrop-)
+- [James](https://matchstiq.io/stories/james-bayly-head-of-business-development-at-subquery/) was at [Avalanche summit](https://www.avalanchesummit.com/agenda/speakers/1565739) in time with our Avalanche launch, which we also did an [Airdrop giveaway](https://gleam.io/pPoMH/-subquery-x-avalanche-airdrop-competition) for.
+- We had a [Customer Interview with Sota Watanabe](https://www.youtube.com/watch?v=KczSlTcb6aw) from Astar and talked about the new partnership that allows dApp projects on Astar to use SubQuery for native Astar EVM data indexing.
+- An interview with our solution architect [James Xu](https://www.youtube.com/watch?v=K-d-3JA5IsA) who leads our hosted service
+- An interview with [Brittany](https://www.youtube.com/watch?v=IyKg2Gu2A8g) who leads our Customer Success & Grants Programme
+- An interview with [Daniel](https://www.youtube.com/watch?v=meaictYiskI&feature=youtu.be) who supports our Marketing & Business Development teams
+- Siqi hosted Chinese AMAs with Darwinia, Manta Network, Moonbeam, Acala, Unique NFT, and also [interviewed a top student](https://www.youtube.com/watch?v=z13w7GmpZWw) from the Chinese Hero Course.
+- Sean interviewed one of the first few students who completed our Hero Course which can we watched [here](https://www.youtube.com/watch?v=pItgREDAprc)
+- Other events on our [Discord channel](https://discord.com/invite/subquery) include a crowdin workshop with our Thai Ambassadors, a Russian AMA on DropsEarn, Office Hours, and a German & Ukranian AMA.
 
 P.S.
 
-Ricordati di unirti ai nostri [Discord](https://discord.com/invite/subquery) e [nostri canali social](https://linktr.ee/subquerynetwork) per rimanere aggiornati sulle nostre ultime notizie e annunci.
+Remember to join our [Discord](https://discord.com/invite/subquery) and [our social channels](https://linktr.ee/subquerynetwork) to stay updated on our latest news and announcements.
 
-La rete SubQuery
+The SubQuery Team
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
