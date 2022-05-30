@@ -1,30 +1,30 @@
-# Beta of SubQuery Support Released For Avalanche
+# Beta der SubQuery-Unterstützung für Avalanche veröffentlicht
 
 ![](https://miro.medium.com/max/1400/1*BiJaESR69-vDimBJmXhQvw.png)
 
-Today, after months of improvements, refactoring, and testing, we are happy to share the beta support of our open indexing solution with the Avalanche community. After establishing SubQuery as the leading data indexer in Polkadot, the recent [announcement of our expansion into Avalanche](./20220321-avalache.md) during the recent [Avalanche Summit](https://www.avalanchesummit.com/agenda) was met with excitement by developers eager for a flexible and scalable indexing tool.
+Nach monatelangen Verbesserungen, Refactoring und Tests freuen wir uns heute, die Beta-Unterstützung unserer offenen Indexnäherungslösung mit der Avalanche-Community zu teilen. Nach der Etablierung von SubQuery als führendem Datenindizierer in Polkadot hat die jüngste [Ankündigung unserer Expansion nach Avalanche](./20220321-avalache.md) während der jüngsten [Avalanche Summit](https://www.avalanchesummit.com/agenda) wurde von Entwicklern, die ein flexibles und skalierbares Indizierungstool suchten, mit Begeisterung aufgenommen.
 
-Follow the beta guide here: https://university.subquery.network/quickstart/quickstart-avalanche.html
+Folgen Sie dem Beta-Leitfaden hier: https://university.subquery.network/quickstart/quickstart-avalanche.html
 
-SubQuery is an open data indexer that is flexible and fast. Our open indexing tool is designed to help developers build their own API in hours, and it's designed to index chains incredibly quickly with the assistance of dictionaries (pre-computed indices). Our experience with customers across all verticals in Polkadot (wallets, networks, explorers, NFT, DeFi, scanners, etc) has helped us build this.
+SubQuery ist ein offener Datenindexierer, der flexibel und schnell ist. Unser offenes Indizierungstool soll Entwicklern helfen, ihre eigene API in wenigen Stunden zu erstellen, und es ist darauf ausgelegt, Ketten mit Hilfe von Wörterbüchern (vorberechneten Indizes) unglaublich schnell zu indizieren. Unsere Erfahrung mit Kunden aus allen Bereichen von Polkadot (Wallets, Netzwerke, Explorer, NFT, DeFi, Scanner usw.) hat uns bei der Entwicklung dieser Lösung geholfen.
 
-From today, Avalanche developers will be able to access the beta of the same fast, flexible, and open indexing solution widely used across Polkadot. As this is a beta version, it is likely to have some issues. As such, we would appreciate it if any bugs can be reported to our team so we can address them quickly.
+Ab heute können Avalanche-Entwickler auf die Beta-Version der gleichen schnellen, flexiblen und offenen Indexierungslösung zugreifen, die auch bei Polkadot zum Einsatz kommt. Da es sich um eine Betaversion handelt, ist es wahrscheinlich, dass sie einige Probleme aufweist. Wir würden es daher begrüßen, wenn Sie unserem Team etwaige Fehler melden könnten, damit wir sie schnell beheben können.
 
-## Why Use SubQuery?
+## Warum SubQuery verwenden?
 
-_There are already a few other options here in Avalanche, so why would you build with SubQuery?_
+_Es gibt bereits einige andere Optionen hier in Avalanche, warum also sollten Sie mit SubQuery bauen?_
 
-I was asked this very question by many of you that I was lucky enough to meet at the Avalanche Summit. In our space there are generally three other solutions:
+Genau diese Frage wurde mir von vielen von Ihnen gestellt, die ich auf dem Avalanche Summit kennenlernen durfte. In unserem Raum gibt es im Allgemeinen drei andere Lösungen:
 
-- Build your own solution: Why reinvent the wheel? SubQuery is focusing on building a reliable and fast open indexer --- we're here to save you time
-- Standardised data services or "unified APIs": These providers are excellent if you're building the same app on the same basic smart contract as everyone else, but you're not. You need a unique set of data that allows you to build a superior product that blows your competition out of the water! You need flexibility to get the data that you need in the shape that works best for you
-- Other open GraphQL data services: Everyone that was already using them expressed the same problems, there was a serious lack of developer support and some significant performance issues. Additionally there was only coverage on the contract chain with no plans to extend to your next subnet
+- Bauen Sie Ihre eigene Lösung: Warum das Rad neu erfinden? SubQuery konzentriert sich auf den Aufbau eines zuverlässigen und schnellen offenen Indexers --- wir sind hier, um Ihnen Zeit zu sparen
+- Standardisierte Datendienste oder "vereinheitlichte APIs": Diese Anbieter sind hervorragend, wenn Sie die gleiche App auf dem gleichen Basis-Smart-Contract aufbauen wie alle anderen, aber das tun Sie nicht. Sie brauchen einen einzigartigen Datensatz, der es Ihnen ermöglicht, ein überlegenes Produkt zu entwickeln, das Ihre Konkurrenz in den Schatten stellt! Sie brauchen Flexibilität, um die benötigten Daten in der für Sie am besten geeigneten Form zu erhalten
+- Andere offene GraphQL-Datendienste: Alle, die sie bereits nutzen, äußerten die gleichen Probleme, es gab einen gravierenden Mangel an Entwicklerunterstützung und einige erhebliche Leistungsprobleme. Außerdem wurde nur die Vertragskette abgedeckt, eine Ausweitung auf das nächste Teilnetz war nicht vorgesehen
 
-At SubQuery we have an open-source SDK that is easy to use and lightning quick. It provides you with a standard GraphQL endpoint, or you can just query the postgres database directly.
+Bei SubQuery haben wir ein Open-Source-SDK, das einfach zu bedienen und blitzschnell ist. Es stellt Ihnen einen Standard-GraphQL-Endpunkt zur Verfügung, oder Sie können einfach die Postgres-Datenbank direkt abfragen.
 
-Reliability is key, and you need a reliable and scalable platform to host it. [SubQuery's managed service](https://subquery.network/managedservices) is an industry leading hosting solution for all customers that is serving hundreds of millions of daily requests to the biggest projects in Polkadot. We provide our [enterprise level customers](./20211228-enterprise-hosted.md) with services such as dedicated databases, redundant clusters, intelligent multi-cluster routing, and advanced monitoring and analytics. It will support your application when you are ready and will scale with you.
+Zuverlässigkeit ist der Schlüssel, und Sie brauchen eine zuverlässige und skalierbare Plattform, um sie zu hosten. [Der verwaltete Dienst von SubQuery](https://subquery.network/managedservices) ist eine branchenführende Hosting-Lösung für alle Kunden, die täglich Hunderte von Millionen von Anfragen zu den größten Projekten in Polkadot bedient. Wir bieten unsere [Kunden auf Unternehmensebene](./20211228-enterprise-hosted.md) mit Diensten wie dedizierten Datenbanken, redundanten Clustern, intelligentem Multi-Cluster-Routing sowie fortschrittlicher Überwachung und Analyse. Es wird Ihre Bewerbung unterstützen, wenn Sie bereit sind, und wird mit Ihnen skalieren.
 
-And finally, in a few months you'll be able to completely decentralise your SubQuery infrastructure with the SubQuery Network, the future of Web3 infrastructure. The SubQuery Network will index and service your projects data to the global community in an incentivised and verifiable way. It is designed to support any SubQuery project from any layer-1 network including Avalanche, so you can take advantage of the scale of the unified SubQuery Network from launch.
+Und schließlich werden Sie in ein paar Monaten in der Lage sein, Ihre SubQuery-Infrastruktur mit dem SubQuery Network, der Zukunft der Web3-Infrastruktur, vollständig zu dezentralisieren. Das SubQuery Network wird die Daten Ihrer Projekte indizieren und der globalen Gemeinschaft auf eine anregende und überprüfbare Weise zur Verfügung stellen. Es ist so konzipiert, dass es jedes SubQuery-Projekt aus jedem Layer-1-Netzwerk einschließlich Avalanche unterstützt, so dass Sie von Anfang an die Vorteile des einheitlichen SubQuery-Netzwerks nutzen können.
 
 ## Installation Instructions
 
