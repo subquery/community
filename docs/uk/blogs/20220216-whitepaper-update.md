@@ -1,83 +1,83 @@
-# SubQuery випускає оновлений технічний документ
+# SubQuery Releases Updated Whitepaper
 
 ![](https://miro.medium.com/max/700/0*guA8YHyJPhu0wmzf)
 
-_Оновлений план того, як SubQuery революціонізує майбутнє інфраструктури web3_
+_An updated plan for how SubQuery will revolutionise the future of web3 infrastructure_
 
-Після тривалого періоду розробки, обговорення, тестування та розробки сьогодні ми випускаємо нову та значно оновлену версію нашої Whitepaper </a>. Опублікований ще в червні 2021 року Whitepaper SubQuery — це документ, який описує нашу стратегічну структуру для децентралізованої мережі SubQuery та її токена SQT. З моменту первинної публікації ми відчули значне зростання нашої клієнтської бази та спільноти та досягли величезного прогресу у створенні мережі SubQuery. З цих джерел ми надихнулися вдосконалюватись та впроваджувати інновації, і це завершується останньою версією нашого технічного документа.
+After a long period of design, discussion, testing, and development, today we are releasing a new and significantly [updated version of our Whitepaper](https://static.subquery.network/whitepaper.pdf). Originally published back in June 2021, the SubQuery Whitepaper is a document that outlines our strategic framework for the decentralised SubQuery Network and her SQT token. Since the original publication, we have experienced significant growth in our customer base and community and made huge progress on building the SubQuery Network. From these sources, we have been inspired to improve and innovate, and that culminates in the latest version of our whitepaper.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ghxyw5bIHs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-У цьому офіційному документі описано плани SubQuery щодо переходу до глобальної децентралізованої мережі учасників, які організовують дані блокчейну, щоб забезпечити відсутність єдиної точки збою для SubQuery. Очікується, що це значно збільшить час роботи SubQuery, забезпечить кращу резервування та підвищить продуктивність за рахунок зменшення затримки. Передбачається, що програми зможуть використовувати GraphQL для запиту будь-якого сховища даних (як визначено проектом SubQuery) від індексаторів по мережі.
+This whitepaper outlines SubQuery’s plans to move towards a globally decentralised network of participants organising blockchain data in order to ensure no single point of failure for SubQuery. It is expected that this will massively increase SubQuery’s uptime, provide better redundancy, and increase performance by driving down latency. It is envisioned that applications will be able to use GraphQL to query any store of data (as defined by the SubQuery Project) from Indexers around the network.
 
 ![](https://miro.medium.com/max/700/0*xtd6e7mn7JkfhpzG)
 
-## Наш фокус
+## Our Focus
 
-[Оновлений whitepaper ](https://static.subquery.network/whitepaper.pdf) підтримує переконання SubQuery, що послуги даних завтрашнього дня мають бути багатоланцюговими, простими та гнучкими. У цьому документі детально розповідається про те, як мережа SubQuery враховує ці міркування в економічний дизайн маркерів, а також дозволяє досвідченим користувачам запускати на ньому послуги на рівні підприємства.
+The [updated whitepaper](https://static.subquery.network/whitepaper.pdf) maintains SubQuery’s conviction that the data services of tomorrow must be multi-chain, simple, and flexible. The whitepaper goes into detail on how the SubQuery Network factors these considerations into the token economic design while also enabling power users to run enterprise-level services on it.
 
-### Багатоланцюговий дизайн
+### Multi-chain by Design
 
-_SubQuery вірить в ідею, що спільнота блокчейнів, яка працює разом, щоб заохочувати впровадження web3, - це майбутнє_
+_SubQuery believes in the idea that a community of blockchains, working together to encourage web3 adoption, is the future_
 
-SubQuery є рідною для екосистеми Polkadot, це наш дім і буде місцем розташування мережі SubQuery. Але майбутнє за мультиланцюжками. SubQuery знає, що для вирішення різних проблем буде багато різних блокчейнів.
+SubQuery is native to the Polkadot ecosystem, it’s our home and will be the location of the SubQuery Network. But the future is multi-chain. SubQuery knows that there are going to be many different blockchains working together to solve different problems.
 
-Мережа SubQuery розроблена для підтримки будь-якого проекту SubQuery з будь-якої мережі рівня 1 (в межах Polkadot чи ні). З самого початку він буде розроблений і побудований як багатоланцюжковий, де ви побачите проекти з однієї мережі, які індексуються разом з проектами з іншої.
+The SubQuery Network is designed to support any SubQuery Project from any Layer 1 network (within Polkadot or not). It will be designed and built to be multi-chain from the outset, where you will see projects from one network being indexed alongside projects from another.
 
-### Простий і доступний
+### Simple and Accessible
 
-_Мережа SubQuery створена як постачальник даних для людей._
+_The SubQuery Network is designed to be the data provider of the people._
 
-Основним принципом мережі SubQuery є простота. SubQuery вважає, що інші підходи до децентралізованих служб запитів даних є надто складними і ускладнюють учасникам прогнозування віддачі від інвестицій. Мета полягає в тому, щоб полегшити вам участь у мережі та чітко спрогнозувати вашу майбутню потенційну віддачу.
+The guiding principle with the SubQuery Network is simplicity. It is SubQuery’s opinion that other approaches to decentralised data query services are overly complex and make it difficult for participants to predict their return on investment. The aim is to make it easy for you to get involved in the network, and to clearly forecast your future potential return.
 
-SubQuery не вимагатиме високих порогових значень для участі або величезних інвестицій в обладнання. Основна увага буде зосереджена на тому, щоб було легше приєднатися до SubQuery та створити його, ніж наші конкуренти — успіх SubQuery залежить від успіху інших, які створюють на ньому майбутнє.
+SubQuery won’t require high staking thresholds to participate or huge investment into hardware. The focus will be on making SubQuery easier to join and build with than our competitors — SubQuery’s success depends on the success of others creating the future on it.
 
-Це означає, що метою дизайну є максимально полегшити участь будь-кого. Вам не потрібно бути розробником або мати глибокі знання економічної моделі токенів, ви можете легко брати участь як делегат. Як споживач, у вас також є багато варіантів оплати, які найкраще відповідають вашим потребам. Нарешті, основним завданням SubQuery Foundation є забезпечення достатньої підтримки, щоб будь-хто, від команди експертів з блокчейну до нового розробника-любителя, міг створити власний проект SubQuery.
+This means that a design goal is to make it as easy as possible for anyone to participate. You don’t need to be a developer or have a deep knowledge of the token economic model, you can easily participate as a Delegator. As a Consumer, you also have plenty of payment options to best suit your needs. Finally, a key focus of the SubQuery Foundation is to ensure that there is enough support that anyone, from an expert blockchain team to a new hobbyist developer, can build their own SubQuery project.
 
-### Гнучкий
+### Flexible
 
-_SubQuery – це лише інструмент у руках нашої спільноти, існують безмежні можливості, обмежені лише творчістю людей._
+_SubQuery is just a tool in the hands of our community, endless opportunities exist limited only by the creativity of the people._
 
-Справжні переваги SubQuery можуть полягати в його гнучкості — користувачі матимуть свободу адаптувати та трансформувати децентралізовані дані відповідно до своїх потреб. Цей прагнення до гнучкості поширюється на те, щоб легше для делегатів швидко й легко підтримувати різні індексатори, не чекаючи тривалих періодів роз’єднання. Нарешті, цей підхід ідеально втілений у нашому введенні трьох способів оплати, які ми розглянемо далі.
+The true advantages of SubQuery may lie in its flexibility — users will have the freedom to adapt and transform decentralised data to suit their needs. This drive for flexibility extends to making it easier for delegators to quickly and easily support different indexers without having to wait for extended unbonding periods. Finally, this approach is perfectly embodied by our introduction of three payment methods which we’ll cover next.
 
-## Інновація SubQuery у способах оплати
+## SubQuery’s Innovation in Payment Methods
 
-Найбільша зміна в цій версії офіційної книги – це інновація в способах оплати. Сьогодні ми зазвичай платимо за підписку за музику, яку ми слухаємо, телевізійні шоу, які ми дивимося, і програми, які ми використовуємо. У новітніх додатках-сервісах web3 ми замість цього прийняли модель оплати по мірі використання, де кожна атомарна транзакція має точну вартість у мережі.
+The biggest change by far with this version of the whitepaper is our innovation in payment methods. Today, we generally pay with subscription-based payments for the music we listen to, the TV shows we watch, and the applications that we use. In pioneering web3 service applications, we’ve instead adopted a pay-as-you-go model, where each atomic transaction has an exact cost in the network.
 
-Ми вважаємо, що способи оплати на основі підписки або регулярні платежі залишаться на місці. Постачальникам послуг вони подобаються, тому що вони представляють передбачуваний дохід, так само, з іншого боку, вони подобаються споживачам, тому що це відомі витрати, які можна легко визначити кількісно. Існує також психологічний фактор, коли, як тільки ви підпишетеся, більшість споживачів відчують обов’язок споживати стільки, якщо не все, що збільшує попит на послугу та дозволить отримати ефект від масштабу.
+We think subscription based or recurring payment methods are here to stay. Service providers like them because they represent predictable revenue, similarly on the other side consumers like them because they are a known and easily quantified cost. There’s also a psychological factor where once you subscribe, most consumers will feel obligated to consume as much if not all of it, increasing the demand for the service and allowing economies of scale to kick in.
 
-У результаті SubQuery планує запровадити три способи оплати в мережі SubQuery, надавши всім учасникам різні гнучкі способи здійснення транзакцій за допомогою маркера SubQuery (SQT). І індексатори, і споживачі об’єднаються на ринку планів, щоб рекламувати свої ціни та підтримувані способи оплати.
+As a result, SubQuery plans to introduce three ways to pay within the SubQuery Network, providing all participants with various flexible ways to transact with the SubQuery Token (SQT). Both Indexers and Consumers will come together on the Plan Marketplace to advertise their pricing and supported payment methods.
 
 ![](https://miro.medium.com/max/700/0*f0yVHlbWTE8DdjuB)
 
 ### Pay-As-You-Go (PAYG)
 
-Першим і стандартним серед індустрії web3 є оплата по Pay-As-You-Go Це базовий спосіб оплати та резервний для інших. Кожен індексатор рекламуватиме свої ціни PAYG під час реєстрації своєї можливості обслуговувати запити для конкретних проектів SubQuery.
+The first, and a standard amongst the web3 industry, is Pay-As-You-Go. This is the baseline payment method and a fallback for others. Each Indexer will advertise their PAYG prices when registering their ability to serve requests for specific SubQuery Projects.
 
-### Закриті плани та угоди
+### Closed Plans and Agreements
 
-Закриті угоди являють собою угоду лише між одним Індексатором та одним Споживачем. Це прямий зв’язок, коли вся оплата протікає між двома сторонами за виконану роботу. Закриті угоди призначені для того, щоб дати індексаторам впевненість у тому, що існує ринок для даних з конкретного проекту SubQuery, і, по суті, сигналізують їм, які проекти слід проіндексувати. Закриті плани також можна розмістити в існуючих проектах підзапитів, щоб залучити додаткові індексатори до цього проекту SubQuery. Це може бути корисно в ситуаціях, коли існуючий монополістичний Індексатор може стягувати необґрунтовану суму за дані або відсутня конкуренція, щоб привести ціни до рівноваги.
+Closed Agreements represent an agreement between only one Indexer and one Consumer. It’s a direct relationship where all payment flows between the two parties for the work that is done. Closed Agreements are designed to give Indexers confidence that there is a market for data from a particular SubQuery Project, and essentially signal to them which Projects should be indexed. Closed Plans can also be placed on existing SubQuery Projects to attract additional Indexers to that SubQuery Project. This may be useful in situations where the existing monopolistic Indexer may be charging an unreasonable amount for the data or there is a lack of competition to drive prices to equilibrium.
 
-### Відкриті плани та угоди
+### Open Plans and Agreements
 
-Відкриті угоди подібні до закритих угод, але дозволяють кільком Індексаторам приєднуватися та змагатися за надання даних Споживачеві. Відкрита угода може починатися як угода між одним Споживачем та одним Індексатором, але більше сторін можуть приєднатися до існуючої Угоди, що призведе до Індексаторів та Споживачів.
+Open Agreements are similar to Closed Agreements, but allow multiple Indexers to join and compete to provide data to the Consumer. An Open Agreement may start as an Agreement between one Consumer and one Indexer, but more parties may join the existing Agreement resulting in ’n’ Indexers and ’n’ Consumers.
 
-Відкриті угоди надають вигідні умови як для індексаторів, так і для споживачів, але забезпечують кращу продуктивність і надійність для споживачів, залучаючи більше індексаторів для конкуренції та обслуговування тих самих даних. Якщо Споживачі запускають великомасштабні програми з користувачами по всьому світу, то відкриті угоди ідеально підійдуть.
+Open Agreements provide favourable terms for both Indexers and Consumers, but enable better performance and reliability for Consumers by attracting more Indexers to compete and serve the same data. If Consumers are running large scale applications with users around the world, then Open Agreements are ideal.
 
 ![](https://miro.medium.com/max/1400/0*sc9-ee7VTl0XEhTS)
 
-Комбінація наведених вище трьох варіантів оплати для індексаторів надає кілька розширених варіантів підписки для споживачів та індексаторів. Деякі сторони можуть отримати вигоду від впевненості винагород, передбачених закритими угодами, і передбачуваності періодичних витрат. Крім того, інші можуть замість цього віддати перевагу пошуку найдоступніших даних, укладаючи регулярні угоди великого обсягу або низькі спотові ціни на ринку Pay-as-You-Go.
+he combination of the above three payment options for indexers provide several advanced subscription based options for Consumers and Indexers. Some parties may benefit from the certainty of rewards provided by Closed Agreements and the predictability of recurring costs. Equally, others may instead prefer to hunt out the most affordable data by going for high volume recurring agreements or low spot prices on the Pay-as-you-Go market.
 
-Ці зміни та багато інших, викладені в технічній документації, ілюструють нашу зосередженість на створенні найбільшого можливого сервісу інфраструктури web3. Ми впевнені, що наш економічний дизайн токена ретельно продуманий і розроблений для інклюзивного зростання для всіх учасників. Хоча починати з величезного централізованого сервісу й поступово переходити до децентралізованого непросто, команда SubQuery готова до цього завдання, і ми сподіваємося, що ви приєднаєтеся до нас!
+These changes, and many others outlined in the whitepaper illustrate our focus on building the largest web3 infrastructure service possible. We are confident that our token economic design is carefully considered and designed for inclusive growth for all participants. While starting with a huge centralised service and slowly moving towards a decentralised one isn’t easy, the team at SubQuery is up for the challenge and we hope you’ll join us!
 
-Щоб отримати додаткову інформацію, будь ласка, [зв’яжіться з нашою командою в Discord](https://discord.com/invite/78zg8aBSMG) або поспілкуйтеся з нами в наступні «Години роботи». Ви також можете [зареєструвати свою зацікавленість](https://forms.gle/RyXyhb8T9Gxkwi7R9), щоб стати індексатором у найближчій тестовій мережі SubQuery.
+For further information, please [contact our team in Discord](https://discord.com/invite/78zg8aBSMG) or chat with us in our next “Office Hours”. You can also [register your expression of interest](https://forms.gle/RyXyhb8T9Gxkwi7R9) to become an indexer in the imminent SubQuery test network.
 
-[Прочитайте оновлений whitepaper](https://static.subquery.network/whitepaper.pdf)
+[Read the updated whitepaper](https://static.subquery.network/whitepaper.pdf)
 
-## Про мережу SubQuery
+## About SubQuery Network
 
-Місія SubQuery полягає в тому, щоб допомогти іншим створювати продукти, які дозволяють нам швидше рухатися до децентралізованого майбутнього. SubQuery — це набір інструментів розробника блокчейну та основа інфраструктури web3. Проект SubQuery — це повний API для організації та запиту даних із ланцюжків. SubQuery, який працює між блокчейнами рівня 1 і децентралізованими додатками (dApp), є індексатором з відкритим кодом, який організовує та обслуговує добре структуровані дані через GraphQL. SubQuery забезпечує наступне покоління dApps та інструментів із даними web3
+SubQuery’s mission is to help others create products that allow us to move to a decentralised future faster. SubQuery is a blockchain developer toolkit and the backbone of web3 infrastructure. A SubQuery project is a complete API to organise and query data from chains. Operating between layer-1 blockchains and decentralised apps (dApp), SubQuery is an open-source indexer organising and serving well-structured data over GraphQL. SubQuery powers the next generation of dApps and tools with web3 data
 
-Наразі будь-хто вже може використовувати SubQuery для отримання та запиту даних блокчейну лише за лічені хвилини і безкоштовно, але централізовано. SubQuery Network пропонує ввімкнути те саме масштабоване та продуктивне рішення, але повністю децентралізованим способом.
+Currently, anyone can already use SubQuery to extract and query blockchain data in only minutes and at no cost but in a centralised way. The SubQuery Network proposes to enable this same scalable and performant solution, but in a completely decentralised way.
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
