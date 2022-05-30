@@ -36,7 +36,7 @@ SubQuery построена командой в OnFinality, которая яв�
 
 Подпишитесь на нас:
 
--   [Telegram](https://t.me/subquerynetwork)
+-   [Телеграмм](https://t.me/subquerynetwork)
 -   [Twitter](https://twitter.com/subquerynetwork)
 -   [Matrix](https://matrix.to/#/%23subquery:matrix.org)
 -   [LinkedIn](https://www.linkedin.com/company/subquery)
