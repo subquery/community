@@ -4,13 +4,13 @@
 
 ![](https://miro.medium.com/max/1400/1*Y4kdG9uEoxrySzb19QKxPg.gif)
 
-Kodadot เป็นแพลตฟอร์ม NFT รักษ์โลกของ Kusama ซึ่งใช้โปรโตคอล RMRK ผู้ใช้สามารถ mint, โยกย้าย, และเบิร์น NFT บนเครือข่ายได้  สิ่งสำคัญที่สุดคือ Kodadot มี NFT explorer บนเว็บที่ตอบสนองได้ที่จัดหาอินเตอร์เฟซให้ผู้ใช้งานด้วยสัญชาตญาณ
+Kodadot เป็นแพลตฟอร์ม NFT รักษ์โลกของ Kusama ซึ่งใช้โปรโตคอล RMRK ผู้ใช้สามารถ mint, โยกย้าย, และเบิร์น NFT บนเครือข่ายได้ สิ่งสำคัญที่สุดคือ Kodadot มี NFT explorer บนเว็บที่ตอบสนองได้ที่จัดหาอินเตอร์เฟซให้ผู้ใช้งานด้วยสัญชาตญาณ
 
 Front-end นี้ใช้[โปรเจ็กต์ SubQuery](https://explorer.subquery.network/subquery/vikiival/magick)เพื่อให้การสำรวจรวดเร็วขึ้น
 
 ![](https://miro.medium.com/max/1400/0*3TdpXjj1iwGNdA3n)
 
-> ในตอนต้น เราต้องเข้าใจให้ได้ว่า SubQuery นั้นสามารถทำงานได้มากน้อยเพียงใด ดังนั้นพวกเราจึงมุ่งเน้นไปที่สถาปัตยกรรมของ GraphQL และ เหตุผลในการควบรวมเข้ากับ NFT   ต้องขอบคุณ SubQuery พวกเรากำลังคิดถึงเกี่ยวกับฟีเจอร์อื่นๆซึ่งเราสามารถนำมาเพิ่มได้อย่างง่ายดายในช่วงสุดสัปดาห์ที่ผ่านมา - Kodadot
+> _"At the first we had to realise how much the SubQuery is doing instead of you, so we were able to purely focus on the GraphQL architecture and NFT consolidation logic. Thanks to SubQuery, we are thinking now another feature set we can easily add over weekend"_ — Kodadot
 
 บริการของ [SubQuery](https://subquery.network/) ช่วยให้ Kodadot ดึงและ query ข้อมูลบนเชนสำหรับ NFT บน Kusama และด้วยวิธีการนี้ทำให้ประหยัดพลังงานและเป็นมิตรกับคาร์บอนมากขึ้น
 
