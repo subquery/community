@@ -1,4 +1,4 @@
-# Beta of SubQuery Support Released For Avalanche
+# ปล่อยตัว SubQury เบต้า เพื่อรองรับ Avalanche
 
 ![](https://miro.medium.com/max/1400/1*BiJaESR69-vDimBJmXhQvw.png)
 
