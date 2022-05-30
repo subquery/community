@@ -1,8 +1,8 @@
-# Beta of SubQuery Support Released For Avalanche
+# Beta de soporte de SubQuery lanzado para Avalanche
 
 ![](https://miro.medium.com/max/1400/1*BiJaESR69-vDimBJmXhQvw.png)
 
-Today, after months of improvements, refactoring, and testing, we are happy to share the beta support of our open indexing solution with the Avalanche community. After establishing SubQuery as the leading data indexer in Polkadot, the recent [announcement of our expansion into Avalanche](./20220321-avalache.md) during the recent [Avalanche Summit](https://www.avalanchesummit.com/agenda) was met with excitement by developers eager for a flexible and scalable indexing tool.
+Hoy, después de meses de mejoras, refactorización y pruebas, estamos encantados de compartir el apoyo beta de nuestra solución de indexación abierta con la comunidad Avalanche. After establishing SubQuery as the leading data indexer in Polkadot, the recent [announcement of our expansion into Avalanche](./20220321-avalache.md) during the recent [Avalanche Summit](https://www.avalanchesummit.com/agenda) was met with excitement by developers eager for a flexible and scalable indexing tool.
 
 Follow the beta guide here: https://university.subquery.network/quickstart/quickstart-avalanche.html
 
