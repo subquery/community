@@ -58,7 +58,7 @@ Como indicador de la amplitud de apoyo que SubQuery ofrece al ecosistema Polkado
 
 ### Registro de plantillas de subQuery
 
-**29 networks are covered by templates**
+**29 redes están cubiertas por plantillas**
 
 El comando `subql init` es familiar para cualquiera que haya construido un proyecto SubQuery; representa un lienzo en blanco - oportunidades ilimitadas. Somos conscientes de que podemos ayudar mejor a los demás a empezar, en lugar de un lienzo en blanco los desarrolladores quieren un andamiaje en blanco, donde todo el código de caldera ya está escrito.
 
@@ -68,7 +68,7 @@ Hoy en día, cuando escribes `subql init`, se te presenta una lista de 29 redes 
 
 SubQuery ahora soporta funciones avanzadas de agregación de GraphQL para permitirle realizar un cálculo sobre un conjunto de valores durante su consulta. Estas funciones proporcionan a nuestros clientes un conjunto más rico de conocimientos y cálculos a partir de su conjunto de datos existente. Por ejemplo, con una sola consulta se puede calcular el importe medio de las aportaciones de cada crowdloan desglosado por fecha de aportación.
 
-[Read more about how to use these features in our upgraded docs.](https://doc.subquery.network/query/aggregate/)
+[Lea más sobre cómo utilizar estas características en nuestros documentos actualizados.](https://doc.subquery.network/query/aggregate/)
 
 ### SubQuery se asocia con Darwinia Network para crear la herramienta CLI SubQuery
 
@@ -76,17 +76,17 @@ Darwinia se ha asociado con SubQuery para crear la plétora de aplicaciones que 
 
 ![](https://miro.medium.com/max/1200/1*bL2Csj9qyamD7txAheCTIg.gif)
 
-Darwinia también ha estado trabajando estrechamente con el equipo de SubQuery para [construir una herramienta CLI](https://github.com/fewensa/subquery-cli) para el servicio gestionado SubQuery (https://project.subquery.network). Puede utilizar esta [CLI](https://github.com/fewensa/subquery-cli) para crear un proyecto SubQuery y desplegar automáticamente una nueva versión en la ranura de staging o de producción. Además, puede recuperar información, incluyendo el estado detallado de la sincronización y los registros de su proyecto en ejecución, que está alojado gratuitamente en SubQuery Projects. [Read more here](../customer_announcements/20220125-subquery-partners-with-darwinia-network-to-build-subquerys-cli-tool.md)
+Darwinia también ha estado trabajando estrechamente con el equipo de SubQuery para [construir una herramienta CLI](https://github.com/fewensa/subquery-cli) para el servicio gestionado SubQuery (https://project.subquery.network). Puede utilizar esta [CLI](https://github.com/fewensa/subquery-cli) para crear un proyecto SubQuery y desplegar automáticamente una nueva versión en la ranura de staging o de producción. Además, puede recuperar información, incluyendo el estado detallado de la sincronización y los registros de su proyecto en ejecución, que está alojado gratuitamente en SubQuery Projects. [Lea más aquí](../customer_announcements/20220125-subquery-partners-with-darwinia-network-to-build-subquerys-cli-tool.md)
 
 ## SubQuery Network
 
-Last community call we walked through a few important details of the upcoming SubQuery test network. It will be run over at least three seasons, each season will test different aspects of the network:
+Última llamada comunitaria caminamos a través de algunos detalles importantes de la próxima red de pruebas de SubQuery. Se ejecutará en al menos tres temporadas, cada temporada se pondrá a prueba diferentes aspectos de la red:
 
 - Temporada 1: Pruebas alfa tempranas de un número limitado de características con unos pocos participantes seleccionados
 - Temporada 2: Prueba beta grande de más características con cientos de participantes
 - Temporada 3: Red pública completa de pruebas para pruebas de carga y escala con miles de participantes
 
-Each season will have multiple challenges that you can complete which may result in real SQT rewards. Expect things to kickoff here in March!
+Cada temporada tendrá múltiples desafíos que usted puede completar y que pueden resultar en verdaderas recompensas SQT. ¡Espere que las cosas arranquen aquí en marzo!
 
 ## Actualizar Hoja de Ruta
 
@@ -101,10 +101,10 @@ Como puede ver en la hoja de ruta original, hemos completado todos los Hitos 0 y
 - ¡Tendremos horas semanales de oficina en nuestro servidor de Discord! Únete a las ‘Horas de oficina’ de SubQuery en nuestro canal de etapas, donde podrás ponerte al día con el equipo en un entorno informal.
 - Tuvimos una QnA rusa con James & Dmytro en Discord donde todas las preguntas se hicieron y respondieron en ruso. Háganos saber qué idioma le gustaría escuchar
 
-P.S.
+Postdata.
 
-Remember to join our [Discord](https://discord.com/invite/subquery) and our [social channels](https://linktr.ee/subquerynetwork) to stay updated on our latest news and announcements.
+Recuerda unirse a nuestros [Discord](https://discord.com/invite/subquery) y nuestros [canales sociales](https://linktr.ee/subquerynetwork) para estar actualizado de nuestras últimas noticias y anuncios.
 
-The SubQuery Team
+El equipo de Subquery
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Email](hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Youtube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
