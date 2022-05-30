@@ -8,7 +8,7 @@
 
 > *"Използването на SubQuery улеснява създаването на приложения, вече не е необходимо да правя сложни поредици от повиквания, за да получа необходимите ми данни."* - Брет (разработчик в Acala)
 
-Разработването на dApps в Karura вече е много по-бързо с новите публични проекти SubQuery, публикувани от Karura. Съществува публично достъпен проект [SubQuery](https://explorer.subquery.network/subquery/AcalaNetwork/karura), който общността на Karura може да разклони и да изгради всяко dApp, което желае. Освен това [речникът на Карура](https://explorer.subquery.network/subquery/AcalaNetwork/karura-dictionary) прави [индексирането много по-бързо](../blogs/20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md).
+Разработването на dApps в Karura вече е много по-бързо с новите публични проекти SubQuery, публикувани от Karura. Съществува публично достъпен проект [SubQuery](https://explorer.subquery.network/subquery/AcalaNetwork/karura), който общността на Karura може да разклони и да изгради всяко dApp, което желае. Освен това [речникът на Karura ](https://explorer.subquery.network/subquery/AcalaNetwork/karura-dictionary) прави [индексирането много по-бързо](../blogs/20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md).
 
 ![](https://cdn-images-1.medium.com/max/1600/1*vvI_pI93mhe4kzSNQ2yMoQ.png)
 
