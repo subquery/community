@@ -1,4 +1,4 @@
-# Beta of SubQuery Support Released For Avalanche
+# Бета-версія підтримки запитів випущена для Avalanche
 
 ![](https://miro.medium.com/max/1400/1*BiJaESR69-vDimBJmXhQvw.png)
 
