@@ -30,4 +30,4 @@
 
 [SubQuery](https://subquery.network/) — це набір інструментів блокчейн розробника, який дає змогу іншим створювати Web3 додатки майбутнього. Проєкт SubQuery — це повний API для організації та запиту даних із чейнів Рівня-1. Наразі обслуговуючи проєкти Polkadot, Substrate й Avalanche, ця послуга даних дозволяє розробникам зосередитися на своєму базовому варіанті використання та інтерфейсі, не витрачаючи час на створення спеціального сервера для обробки даних. SubQuery Network пропонує те саме масштабоване та надійне рішення, але повністю децентралізованим способом.
 
-​​​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+Linktree | Веб-сайт | Дискорд | Telegram | Twitter | Матриця | LinkedIn | YouTube
