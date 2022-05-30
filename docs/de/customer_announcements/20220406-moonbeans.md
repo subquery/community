@@ -1,39 +1,31 @@
-# Moonbeans erstellen mit SubQuery einen One-Stop-Shop für NFT-Daten
+# Moonbeans Create a One-Stop Shop of NFT Data with SubQuery
 
 ![](https://miro.medium.com/max/1400/0*WyB06V5POhvv7q4m)
 
-SubQuery ist stolz darauf, eine Partnerschaft mit Moonbeans bekannt zu geben, einem Community-fokussierten NFT-Marktplatz, der die Ökosysteme von Moonbeam und Moonriver im Sturm erobert hat. Moonbeans bringt Künstler, Schöpfer und Krypto-Enthusiasten auf einer einzigen Plattform zusammen, um die besten NFTs im Moonriver- (und bald auch Moonbeam-) Netzwerk zu erstellen und zu handeln.
+SubQuery is proud to announce a partnership with Moonbeans, a community focused NFT marketplace that has taken the Moonbeam and Moonriver ecosystems by storm. Moonbeans brings together artists, creators, and crypto enthusiasts on a single platform to create and trade the top NFTs on the Moonriver (and soon-to-be Moonbeam) network.
 
-Das Team von MoonBeams hat ein SubQuery-Projekt aufgebaut, das als komplette zentrale Anlaufstelle für alle Daten dient, die sie zum Ausführen ihrer Webanwendung benötigen. [Ihr Projekt, das im SubQuery-Explorer zu finden ist](https://explorer.subquery.network/subquery/m00nbeans/marketplace-v3), aggregiert Ereignisse auf ihrem NFT-Marktplatz und bietet einfachen Zugriff auf aktuelle Auflistungsdaten, Handelshistorie und mehr.
+The team at MoonBeams have built a SubQuery project which serves as a complete one-stop shop for all the data that they require to run their web application. [Their project, which can be found in the SubQuery explorer](https://explorer.subquery.network/subquery/m00nbeans/marketplace-v3), aggregates events on their NFT marketplace and provides easy access to current listing data, trade history, and more.
 
 ![](https://miro.medium.com/max/1400/0*j4M8qDAU12se05uX)
 
-> _"Das SubQuery-Team war außerordentlich schnell und hilfreich dabei, uns auf den Weg zu bringen und mit uns zusammenzuarbeiten, um unseren Benutzern das beste Erlebnis zu bieten - wir freuen uns auf die Fortsetzung unserer Zusammenarbeit!"_ - Smol Bean (CTO und Mitbegründer von Moonbeans)
+> _"The SubQuery team has been extraordinarily quick and helpful with getting us off the ground and collaborating with us in order to provide the best experience for our users - we look forward to continuing our work with them!"_ - Smol Bean (CTO & Co-Founder of Moonbeans)
 
-Moonbeans sind auf dem besten Weg, ihr Ziel zu erreichen, die native NFT-Plattform von Moonbeam und Moonriver zu werden. Ihre zukünftige Mission besteht darin, Benutzer von anderen EVMs in „Dotsama“ (Polkadot und Kusama) einzubinden, indem sie auch Communities auf diesen Ketten gründen und kultivieren, eine Fahrt, auf der SubQuery mitfahren kann, nachdem wir kürzlich
+Moonbeans are well on their way to achieving their goal of becoming the native NFT platform of Moonbeam and Moonriver. Their future mission involves onboarding users from other EVMs onto 'Dotsama' (Polkadot and Kusama) by launching and cultivating communities on those chains too, a ride which SubQuery can travel alongside on, having recently announced [our expansion into Avalanche](../blogs/20220321-avalache.md) in pursuit of further multi-chain expansion.
 
-unsere Expansion nach Avalanche</0 angekündigt haben > im Streben nach weiterer Multi-Chain-Expansion.</p> 
-
-
-
-> _"Moonbeans war in der Lage, die Aggregations- und Indizierungsfunktionen von SubQuery zu nutzen, um die Datenleistung seines NFT-Marktplatzes innerhalb eines hervorragenden Projekts zu steigern. Wir freuen uns darauf, Teil ihrer bevorstehenden Aufnahme in das Moonbeam-Netzwerk zu sein."_ – James Bayly, Head of Business Development bei SubQuery
+> _"Moonbeans have been able to harness SubQuery's aggregation and indexing capabilities to elevate their NFT marketplace data performance all within one excellent project. We look forward to being a part of their imminent arrival into the Moonbeam network."_ - James Bayly, Head of Business Development at SubQuery
 
 ![](https://miro.medium.com/max/1400/0*-FlPYXDl_QKfz9s5)
 
-Moonbeans verwenden [SubQuery-Projekte](https://project.subquery.network/), um ihr eigenes Projekt zu verwalten und bei Bedarf Aktualisierungen vorzunehmen. Sehen Sie sich diesen [SubQuery-Snapshot](https://twitter.com/subquerynetwork/status/1497134283827339416?s=21) an, um einen Überblick über Moonbeans und ihr Projekt zu erhalten, das im [SubQuery Explorer](https://explorer.subquery.network/) zu finden ist – einer Projektbibliothek, die von SubQuery verwaltet und der Polkadot-Community zur Verfügung gestellt wird kostenlos.
+Moonbeans use [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. Check out this [SubQuery Snapshot](https://twitter.com/subquerynetwork/status/1497134283827339416?s=21) for an overview of Moonbeans and their project which can be found in the [SubQuery Explorer](https://explorer.subquery.network/) --- a project library managed by SubQuery and provided to the Polkadot community for free.
 
+## About Moonbeans
 
+Moonbeans (BEANS) is the first dividend token on the Moonriver Network, and coming soon to Moonbeam. The Moonbeans NFT platform, The Galactic Trading Co., provides the highest profit-sharing available on the market! And don't worry, it's organic, extraterrestrially sourced, and alien cruelty-free. The platform features frictionless USDC dividends automatically rewarded to $BEANS holders, customizable rewards, a fully functional community DAO, and profit-sharing.
 
-## Über Moonbeans
+[Website](http://moonbeans.io/) | [Twitter ](https://twitter.com/MoonBeansIO)| [Discord](http://discord.gg/qqE9aBPzQ9) | [Telegram](http://t.me/moonbeansio) |[Medium](https://medium.com/@MoonBeans)
 
-Moonbeans (BEANS) ist der erste Dividenden-Token im Moonriver-Netzwerk und kommt bald zu Moonbeam. Die NFT-Plattform von Moonbeans, The Galactic Trading Co., bietet die höchste auf dem Markt erhältliche Gewinnbeteiligung! Und keine Sorge, es ist biologisch, von außerirdischen Quellen und frei von Alien-Grausamkeit. Die Plattform bietet reibungslose USDC-Dividenden, die automatisch an $BEANS-Inhaber vergeben werden, anpassbare Belohnungen, ein voll funktionsfähiges Community-DAO und Gewinnbeteiligung.
+## About SubQuery
 
-[Webseite](http://moonbeans.io/) | [Twitter ](https://twitter.com/MoonBeansIO)| [Discord](http://discord.gg/qqE9aBPzQ9) | [Telegram](http://t.me/moonbeansio) |[Medium](https://medium.com/@MoonBeans)
+SubQuery is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot, Substrate and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
-
-
-## Über SubQuery
-
-SubQuery ist ein Blockchain-Entwickler-Toolkit, mit dem andere Web3-Anwendungen der Zukunft erstellen können. Ein SubQuery-Projekt ist eine vollständige API zum Organisieren und Abfragen von Daten aus Layer-1-Chains. Dieser Data-as-a-Service, der derzeit Polkadot-, Substrate- und Avalanche-Projekte bedient, ermöglicht es Entwicklern, sich auf ihren Kernanwendungsfall und ihr Frontend zu konzentrieren, ohne Zeit mit dem Aufbau eines benutzerdefinierten Backends für die Datenverarbeitung verschwenden zu müssen. Das SubQuery Network schlägt vor, dieselbe skalierbare und zuverlässige Lösung zu ermöglichen, jedoch auf vollständig dezentralisierte Weise.
-
-[Linktree](https://linktr.ee/subquerynetwork) | [Webseite](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
