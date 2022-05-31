@@ -28,7 +28,7 @@ Los solicitantes que estén interesados en alguna de estas recompensas deben pre
 
 Recientemente hemos cubierto a los muchos ganadores que participaron en este hackathon y los increíbles proyectos que han construido en [esta detallada reseña](../blogs/20220120-gr12-winners.md). La calidad y el progreso de los envíos en tan poco tiempo nos han llevado a pensar y nos complace invitar a muchos de los envíos a participar en nuestro programa de subvenciones.
 
-[Lee más aquí](../blogs/20220120-gr12-winners.md)
+[Lee más aquí](../blogs/2020-gr12-winners.md)
 
 ### Hero Course China
 
@@ -80,7 +80,7 @@ Darwinia también ha estado trabajando estrechamente con el equipo de SubQuery p
 
 ## SubQuery Network
 
-Última llamada comunitaria caminamos a través de algunos detalles importantes de la próxima red de pruebas de SubQuery. Se ejecutará en al menos tres temporadas, cada temporada se pondrá a prueba diferentes aspectos de la red:
+En la última llamada de la comunidad, hemos repasado algunos detalles importantes de la próxima testnet de SubQuery. Se ejecutará en al menos tres temporadas, cada temporada se pondrá a prueba diferentes aspectos de la red:
 
 - Temporada 1: Pruebas alfa tempranas de un número limitado de características con unos pocos participantes seleccionados
 - Temporada 2: Prueba beta grande de más características con cientos de participantes
