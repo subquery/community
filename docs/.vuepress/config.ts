@@ -2,11 +2,15 @@ import { defineUserConfig } from "vuepress";
 import { defaultTheme } from "vuepress";
 import { glob } from "glob";
 import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics';
+import { sitemapPlugin } from "vuepress-plugin-sitemap2";
 
 export default defineUserConfig({
   plugins: [
     googleAnalyticsPlugin({
       id: 'G-4TZ8386E8Q',
+    }),
+    sitemapPlugin({
+      hostname: 'https://blog.subquery.network'
     }),
   ],
   head: [['link', { rel: 'icon', href: '/assets/img/logo.png' }]],
