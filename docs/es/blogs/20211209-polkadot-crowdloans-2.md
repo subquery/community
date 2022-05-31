@@ -10,7 +10,7 @@ En primer lugar, empecemos con algunos hechos rápidos de alto nivel. Como puede
 
 Ambos recibieron una contribución media de 10 DOT (US$367,70) pero Astar fue capaz de atraer la mayor contribución individual con 2.005.295 DOT (US$73,7 millones). Al final, un total de casi 20 millones de DOT (735,4 millones de dólares) fueron aportados en ambos durante la tercera subasta. No es de extrañar que esta cifra fuera inferior a la cantidad comprometida en las primeras subastas, Sin embargo, es prometedor ver que las cantidades de subastas siguen siendo de gran valor.
 
-![](https://miro.medium.com/max/1920/1*cHMt10lANsqtkLYHCv6iWg.png) Como pueden ver en el gráfico de abajo, el número de contribuciones fueron relativamente constantes, con saltos simultáneos en la tasa de contribución del 17 de noviembre a más de 2.000 contribuciones en un período de 4 horas. Similarmente a la [batalla de Luna y Acala](./20211124-polkadot-crowdloans.md), esta subasta tenía estilos de participación significativamente diferentes mientras mantenía una cantidad relativamente igual de contribuciones. En comparación con Astar, Parallel Finance tuvieron 20.000 menos contribuciones a su préstamo de dinero.
+![](https://miro.medium.com/max/1920/1*cHMt10lANsqtkLYHCv6iWg.png) Como pueden ver en el gráfico de abajo, el número de contribuciones fueron relativamente constantes, con saltos simultáneos en la tasa de contribución del 17 de noviembre a más de 2.000 contribuciones en un período de 4 horas. Al igual que en la batalla de [Moonbeam y Acala](./20211124-polkadot-crowdloans.md), esta subasta tuvo estilos de participación significativamente diferentes, pero manteniendo una cantidad relativamente igual de contribuciones. En comparación con Astar, Parallel Finance tuvieron 20.000 menos contribuciones a su préstamo de dinero.
 
 ![](https://miro.medium.com/max/1920/0*QLdNkyaQBBj3L9Eu)
 
@@ -18,7 +18,7 @@ Pero no es el número de contribuciones lo que importa aquí, sino el valor de e
 
 ![](https://miro.medium.com/max/1920/0*AGGfB2oBSwoplGhv)
 
-Como puedes ver en las siguientes gráficas hubo dos eventos que ver, el primero fue un gran incremento en las contribuciones a Astar el 12 de noviembre. Esto les dio una ventaja constante hasta el 24 de noviembre, donde las finanzas paralelas ganaron casi 2,5 millones de DOT (91 millones de dólares).
+Como puedes ver en las siguientes gráficas hubo dos eventos que ver, el primero fue un gran incremento en las contribuciones a Astar el 12 de noviembre. Esto les dio una ventaja constante hasta el 24 de noviembre, donde Parallel Finance ganó casi 2,5 millones de DOT (91 millones de dólares).
 
 ![](https://miro.medium.com/max/1920/0*UK4Drn6LXcjebF_V)
 
