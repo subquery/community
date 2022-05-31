@@ -14,17 +14,17 @@ Mientras tanto, también anunciamos asociaciones con varios equipos en Polkadot 
 
 Después de celebrar nuestro primer Hackathon de Gitcoin en diciembre de 2021 y de conseguir unos resultados fantásticos con muchos desarrolladores con talento, fue una decisión fácil ampliar nuestra colaboración.
 
-> _"SubQuery se enorgullece de colaborar con el Hackathon Gitcoin GR13 para construir el futuro de Web3. Nos interesa apoyar a los desarrolladores motivados de todo el mundo para que construyan sobre nuestro servicio de indexación de datos, por lo que también hemos lanzado recientemente el programa Grants para SubQuery de $500.000 dólares. Hemos desarrollado recompensas que deberían entusiasmar a los graduados de nuestro 'Curso de Héroes' y a los desarrolladores que son nuevos en SubQuery y esperamos ver los resultados"_ - Sam Zou, Fundador y CEO de SubQuery
+> _"SubQuery se enorgullece de colaborar con el Hackathon Gitcoin GR13 para construir el futuro de Web3. Nos interesa apoyar a los desarrolladores motivados de todo el mundo para que construyan sobre nuestro servicio de indexación de datos, por lo que también hemos lanzado recientemente el programa Grants para SubQuery de $500.000 dólares. Hemos desarrollado recompensas que deberían entusiasmar a los graduados de nuestro 'Hero Course' y a los desarrolladores que son nuevos en SubQuery y esperamos ver los resultados"_ - Sam Zou, Fundador y CEO de SubQuery
 
-[Lea más aquí](../blogs/20220308-gitcoin13-hackathon.md)
+[Lee más aquí](../blogs/20220308-gitcoin13-hackathon.md)
 
 ### SubQuery amplía su asociación con OneBlock+ para promover la educación sobre la cadena de bloques en China
 
-Nos hemos asociado con OneBlock+ para organizar una segunda ronda del ["Curso de Héroes"](https://doc.subquery.network/academy/herocourse/) en China a partir de principios de abril.
+Nos hemos asociado con OneBlock+ para organizar una segunda ronda del ["Hero Course"](https://doc.subquery.network/academy/herocourse/) en China a partir de principios de abril.
 
-> _"SubQuery se complace en continuar nuestra asociación con OneBlock+ y su apasionado grupo de desarrolladores de sustratos chinos. Ya hemos recibido comentarios de que el primer grupo de estudiantes ya está utilizando SubQuery en sus propios proyectos para facilitar su desarrollo. Estamos deseando colaborar con los futuros estudiantes mientras aprovechan OneBlock+ y SubQuery para construir la próxima generación de dApps"_ - Sam Zou, Fundador y CEO de SubQuery
+> _"SubQuery se complace en continuar nuestra asociación con OneBlock+ y su apasionado grupo de desarrolladores de Substrate chinos. Ya hemos recibido comentarios de que el primer grupo de estudiantes ya está utilizando SubQuery en sus propios proyectos para facilitar su desarrollo. Estamos deseando colaborar con los futuros estudiantes mientras aprovechan OneBlock+ y SubQuery para construir la próxima generación de dApps"_ - Sam Zou, Fundador y CEO de SubQuery
 
-[Lea más aquí](../blogs/20220308-oneblock-education.md)
+[Lee más aquí](../blogs/20220308-oneblock-education.md)
 
 ## SubQuery Network
 
@@ -32,7 +32,7 @@ Nos hemos asociado con OneBlock+ para organizar una segunda ronda del ["Curso de
 
 SubQuery se complace en anunciar nuestra asociación con Automata, un protocolo de servicio descentralizado que proporciona servicios de privacidad sin rastro tipo middleware para dApps en Ethereum y Polkadot. SubQuery está trabajando con Automata para permitir a los desarrolladores el acceso a una solución de indexación de alto rendimiento que potenciará el ecosistema de aplicaciones de Automata, que está creciendo rápidamente.
 
-> _"La subconsulta se ha convertido en el protocolo de indexación estándar dentro de los ecosistemas Polkadot y Kusama, y no es para menos. El equipo ha sido rápido y excepcional, y estamos encantados de seguir trabajando estrechamente con ellos mientras Automata se centra en sus soluciones de middleware para hacer realidad una Web3 justa y centrada en la privacidad". _ - Deli Gong, Automata Network
+> _"SubQuery se ha convertido en el protocolo de indexación estándar dentro de los ecosistemas Polkadot y Kusama, y no es para menos. El equipo ha sido rápido y excepcional, y estamos encantados de seguir trabajando estrechamente con ellos mientras Automata se centra en sus soluciones de middleware para hacer realidad una Web3 justa y centrada en la privacidad". _ - Deli Gong, Automata Network
 
 [Lee más aquí](../customer_announcements/20220317-automata.md)
 
