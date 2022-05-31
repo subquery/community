@@ -1,8 +1,14 @@
 import { defineUserConfig } from "vuepress";
-const { defaultTheme } = require("vuepress");
+import { defaultTheme } from "vuepress";
 import { glob } from "glob";
+import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics';
 
 export default defineUserConfig({
+  plugins: [
+    googleAnalyticsPlugin({
+      id: 'G-4TZ8386E8Q',
+    }),
+  ],
   head: [['link', { rel: 'icon', href: '/assets/img/logo.png' }]],
   locales: {
     "/": {
