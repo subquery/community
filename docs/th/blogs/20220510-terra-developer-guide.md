@@ -61,8 +61,8 @@ SubQuery รองรับการทำ indexing ของ Terra smart contra
 
 ในอีกไม่กี่สัปดาห์ข้างหน้า คุณจะพบกับ:
 
--   หลักสูตรการเรียนรู้ทีละขั้นตอนใน [SubQuery Academy](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html)
--   รองรับ Terra อย่างสมบูรณ์ในเครือข่าย SubQuery ที่กระจายอำนาจของเรา (คุณจะเห็นโครงการในเครือข่ายทดสอบ Frontier ในปัจจุบันของเราในเร็วๆ นี้)
+-   หลักสูตรการเรียนรู้แบบแบ่งขั้นตอนใน [SubQuery Academy](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html)
+-   รองรับ Terra อย่างสมบูรณ์ในเครือข่าย SubQuery ที่กระจายอำนาจของเรา(คุณจะเห็นโปรเจกต์ในเครือข่ายทดสอบ Frontier ของเราในเร็วๆนี้)
 
 ---
 
@@ -75,11 +75,11 @@ James Bayly
 -   [คู่มือเริ่มต้นใช้งาน](https://university.subquery.network/quickstart/quickstart-terra.html)
 -   [SubQuery University (เอกสาร)](https://university.subquery.network/)
 -   [ตัวอย่างโปรเจกต์ของ Terra](https://github.com/subquery/terra-subql-starter)
--   [จัดการบริการ](https://explorer.subquery.network/)
--   [เผยแพร่โปรเจกต์ Terra ของคุณเองไปยังตัวจัดการบริการ](https://project.subquery.network/)
+-   [บริการจัดการ](https://explorer.subquery.network/)
+-   [เผยแพร่โปรเจกต์ Terra ของคุณเองไปยังตัวบริการจัดการ](https://project.subquery.network/)
 
 ## เกี่ยวกับ SubQuery
 
-[SubQuery](https://subquery.network/)เป็นชุดเครื่องมือสำหรับนักพัฒนาบล็อกเชนที่ช่วยในการสร้างแอปพลิเคชัน Web3 แห่งอนาคต โปรเจ็กต์ SubQuery เป็น API ที่สมบูรณ์ในการจัดระเบียบและสืบค้นข้อมูลจากเชน layer-1 ปัจจุบันให้บริการอยู่บน Polkadot, Substrate, Avalanche, และ Terra โดยการบริการด้านข้อมูลนี้ช่วยให้นักพัฒนาสามารถมุ่งเน้นไปที่กรณีการใช้งานหลักและฟร้อนท์เอ็นโดยไม่ต้องเสียเวลาไปกับการสร้างแบ็คเอนท์สำหรับการประมวลผลข้อมูลขึ้นมาเอง SubQuery Network นำเสนอการใช้งานโซลูชันที่สามารถปรับขนาดได้และน่าเชื่อถือแบบเดียวกันนี้ แต่ในรูปแบบที่มีการกระจายอำนาจอย่างสมบูรณ์
+[SubQuery](https://subquery.network/)เป็นชุดเครื่องมือสำหรับนักพัฒนาบล็อกเชนที่ช่วยในการสร้างแอปพลิเคชัน Web3 แห่งอนาคต โปรเจ็กต์ SubQuery เป็น API ที่สมบูรณ์ในการจัดระเบียบและสืบค้นข้อมูลจากเชนเลเยอร์ 1 ปัจจุบันให้บริการอยู่บน Polkadot, Substrate, Avalanche, และ Terra โดยการบริการด้านข้อมูลนี้ช่วยให้นักพัฒนาสามารถมุ่งเน้นไปที่กรณีการใช้งานหลักและฟร้อนท์เอ็นโดยไม่ต้องเสียเวลาไปกับการสร้างแบ็คเอนท์สำหรับการประมวลผลข้อมูลขึ้นมาเอง SubQuery Network นำเสนอการใช้งานโซลูชันที่สามารถปรับขนาดได้และน่าเชื่อถือแบบเดียวกันนี้ แต่ในรูปแบบที่มีการกระจายอำนาจอย่างสมบูรณ์
 
 ​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
