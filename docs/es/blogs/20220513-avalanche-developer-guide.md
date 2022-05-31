@@ -55,12 +55,12 @@ Hoy compartimos lo siguiente:
 
 En las próximas semanas puedes esperar:
 
-- Un curso de aprendizaje paso a paso en el [Academia de subconsultas](./20211018-subquery-launches-the-subquery-academy.md)
-- Soporte completo para Avalanche en nuestra red descentralizada SubQuery (verás un proyecto en nuestra actual red de pruebas Frontier)
+- Un curso de aprendizaje paso a paso en el [SubQuery Academy](./20211018-subquery-launches-the-subquery-academy.md)
+- Soporte completo para Avalanche en nuestra red descentralizada SubQuery (verás un proyecto en nuestra actual testnet Frontier)
 
 Con el número de subredes previstas en los próximos meses, habrá una enorme necesidad de un soporte de indexación rápido, abierto y flexible que funcione en todas las subredes compatibles. Tenemos experiencia en la implementación de este nivel de configurabilidad para los parachains de Polkadot, y estamos investigando cómo proporcionar el mismo resultado para Avalanche (por ejemplo, importando implementaciones personalizadas de snowman.Block, etc).
 
-El lanzamiento de nuestra compatibilidad beta con Avalanche marca un hito importante en nuestro compromiso de ofrecer herramientas de indexación mejoradas a la comunidad de Avalanche para que sus desarrolladores puedan llegar más lejos, más rápido. Estamos deseosos de recibir comentarios de la comunidad para mejorar nuestra oferta y aumentar nuestra visibilidad como socio de infraestructura de confianza para una de las comunidades de desarrolladores de más rápido crecimiento en Web3
+El lanzamiento de nuestra compatibilidad beta con Avalanche marca un hito importante en nuestro compromiso de ofrecer herramientas de indexación mejoradas a la comunidad de Avalanche para que sus desarrolladores puedan llegar más lejos, con mayor rapidez. Estamos deseosos de recibir comentarios de la comunidad para mejorar nuestra oferta y aumentar nuestra visibilidad como socio de infraestructura de confianza para una de las comunidades de desarrolladores de más rápido crecimiento en Web3
 
 Ahora estamos buscando socios de lanzamiento a los que podamos apoyar de cerca mientras desarrollan sus primeros proyectos de SubQuery en este ecosistema. Ponte en contacto conmigo en james.bayly@subquery.network si quieres ser el primero en el viaje con nosotros.
 
@@ -70,6 +70,6 @@ Siga la guía de la beta aquí: https://university.subquery.network/quickstart/
 
 ## Acerca de SubQuery
 
-[SubQuery](https://subquery.network/) es un conjunto de herramientas para desarrolladores de blockchain que permite a otros construir aplicaciones Web3 del futuro. Un proyecto SubQuery es una API completa para organizar y consultar los datos de las cadenas de la capa 1. Este servicio de datos permite a los desarrolladores centrarse en su caso de uso principal y en el front-end, sin necesidad de perder tiempo en la construcción de un backend personalizado para el procesamiento de datos. La Red SubQuery propone hacer posible esta misma solución escalable y fiable, pero de forma totalmente descentralizada.
+[SubQuery](https://subquery.network/) es un conjunto de herramientas para desarrolladores de blockchain que permite a otros construir aplicaciones Web3 del futuro. Un proyecto SubQuery es una API completa para organizar y consultar los datos de las cadenas de la capa 1. Este servicio de datos permite a los desarrolladores centrarse en su caso de uso principal y en el front-end, sin necesidad de perder tiempo en la construcción de un backend personalizado para el procesamiento de datos. SubQuery Network propone hacer posible esta misma solución escalable y fiable, pero de forma totalmente descentralizada.
 
 [Linktree](https://linktr.ee/subquerynetwork)  [Website](https://subquery.network/)  [Discord](https://discord.com/invite/78zg8aBSMG)  [Telegram](https://t.me/subquerynetwork)  [Twitter](https://twitter.com/subquerynetwork)  [Matrix](https://matrix.to/#/#subquery:matrix.org)  [LinkedIn](https://www.linkedin.com/company/subquery)  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
