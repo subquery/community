@@ -4,7 +4,7 @@
 
 ¡Bienvenido a la última actualización mensual de SubQuery!
 
-Como de costumbre, el mes pasado fue cargado de acciones con las noticias de nuestra integración con Avalanche como centro del escenario. También hicimos grandes progresos hacia nuestro TGE después de anunciar el lanzamiento de nuestra Testnet, "La frontera" y han invitado a los primeros participantes a nuestra beta cerrada.
+Como de costumbre, el mes pasado fue cargado de acciones con las noticias de nuestra integración con Avalanche como centro del escenario. También hicimos grandes progresos hacia nuestro TGE después de anunciar el lanzamiento de nuestra Testnet, "The Frontier" y han invitado a los primeros participantes a nuestra beta cerrada.
 
 Mientras tanto, también anunciamos asociaciones con varios equipos en Polkadot y premiamos a nuestra comunidad rápida al continuar nuestra asociación con Gitcoin.
 
@@ -14,7 +14,7 @@ Mientras tanto, también anunciamos asociaciones con varios equipos en Polkadot 
 
 Después de celebrar nuestro primer Hackathon de Gitcoin en diciembre de 2021 y de conseguir unos resultados fantásticos con muchos desarrolladores con talento, fue una decisión fácil ampliar nuestra colaboración.
 
-> _"SubQuery se enorgullece de colaborar con el Hackathon Gitcoin GR13 para construir el futuro de Web3. Nos interesa apoyar a los desarrolladores motivados de todo el mundo para que construyan sobre nuestro servicio de indexación de datos, por lo que también hemos lanzado recientemente un programa de subvenciones para subconsultas de $500.000 dólares. Hemos desarrollado recompensas que deberían entusiasmar a los graduados de nuestro 'Curso de Héroes' y a los desarrolladores que son nuevos en SubQuery y esperamos ver los resultados"_ - Sam Zou, Fundador y CEO de SubQuery
+> _"SubQuery se enorgullece de colaborar con el Hackathon Gitcoin GR13 para construir el futuro de Web3. Nos interesa apoyar a los desarrolladores motivados de todo el mundo para que construyan sobre nuestro servicio de indexación de datos, por lo que también hemos lanzado recientemente el programa Grants para SubQuery de $500.000 dólares. Hemos desarrollado recompensas que deberían entusiasmar a los graduados de nuestro 'Curso de Héroes' y a los desarrolladores que son nuevos en SubQuery y esperamos ver los resultados"_ - Sam Zou, Fundador y CEO de SubQuery
 
 [Lea más aquí](../blogs/20220308-gitcoin13-hackathon.md)
 
