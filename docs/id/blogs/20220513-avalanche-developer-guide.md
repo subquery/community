@@ -1,14 +1,14 @@
-# Beta of SubQuery Support Released For Avalanche
+# Beta Dukungan SubQuery Dirilis Untuk Avalanche
 
 ![](https://miro.medium.com/max/1400/1*BiJaESR69-vDimBJmXhQvw.png)
 
-Today, after months of improvements, refactoring, and testing, we are happy to share the beta support of our open indexing solution with the Avalanche community. After establishing SubQuery as the leading data indexer in Polkadot, the recent [announcement of our expansion into Avalanche](./20220321-avalache.md) during the recent [Avalanche Summit](https://www.avalanchesummit.com/agenda) was met with excitement by developers eager for a flexible and scalable indexing tool.
+Hari ini, setelah berbulan-bulan peningkatan, pemfaktoran ulang, dan pengujian, kami dengan senang hati membagikan dukungan beta dari solusi pengindeksan terbuka kami dengan komunitas Avalanche. Setelah menetapkan SubQuery sebagai pengindeks data terkemuka di Polkadot, [pengumuman baru-baru ini tentang ekspansi kami ke Avalanche](./20220321-avalache.md) selama [Avalanche Summit](https://www.avalanchesummit.com/agenda) baru-baru ini disambut dengan antusias oleh para developer yang menginginkan sistem yang fleksibel dan skalabel alat pengindeksan.
 
-Follow the beta guide here: https://university.subquery.network/quickstart/quickstart-avalanche.html
+Ikuti panduan beta di sini: https://university.subquery.network/quickstart/quickstart-avalanche.html
 
-SubQuery is an open data indexer that is flexible and fast. Our open indexing tool is designed to help developers build their own API in hours, and it's designed to index chains incredibly quickly with the assistance of dictionaries (pre-computed indices). Our experience with customers across all verticals in Polkadot (wallets, networks, explorers, NFT, DeFi, scanners, etc) has helped us build this.
+SubQuery adalah pengindeks data terbuka yang fleksibel dan cepat. Alat pengindeksan terbuka kami dirancang untuk membantu pengembang membangun API mereka sendiri dalam hitungan jam, dan dirancang untuk mengindeks rantai dengan sangat cepat dengan bantuan kamus (indeks yang telah dihitung sebelumnya). Pengalaman kami dengan pelanggan di semua vertikal di Polkadot (wallet, jaringan, penjelajah, NFT, DeFi, pemindai, dll) telah membantu kami membangun ini.
 
-From today, Avalanche developers will be able to access the beta of the same fast, flexible, and open indexing solution widely used across Polkadot. As this is a beta version, it is likely to have some issues. As such, we would appreciate it if any bugs can be reported to our team so we can address them quickly.
+Mulai hari ini, pengembang Avalanche akan dapat mengakses versi beta dari solusi pengindeksan cepat, fleksibel, dan terbuka yang sama yang banyak digunakan di seluruh Polkadot. Karena ini adalah versi beta, kemungkinan ada beberapa masalah. Karena itu, kami akan sangat menghargai jika ada bug yang dapat dilaporkan ke tim kami sehingga kami dapat mengatasinya dengan cepat.
 
 ## Why Use SubQuery?
 
