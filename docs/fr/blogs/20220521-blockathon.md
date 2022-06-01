@@ -1,4 +1,4 @@
-# SubQuery Partners with Blockathon DAO's Metaverse Hackathon
+# SubQuery s'associe au hackathon du Metaverse de Blockathon DAO
 
 ![](https://miro.medium.com/max/1400/1*ROmTqzpmfmdW_gsBKQQrGQ.png)
 
