@@ -6,15 +6,15 @@ Today, after months of improvements, refactoring, and testing, we are happy to s
 
 Follow the beta guide here: https://university.subquery.network/quickstart/quickstart-avalanche.html
 
-SubQuery is an open data indexer that is flexible and fast. Our open indexing tool is designed to help developers build their own API in hours, and it's designed to index chains incredibly quickly with the assistance of dictionaries (pre-computed indices). Our experience with customers across all verticals in Polkadot (wallets, networks, explorers, NFT, DeFi, scanners, etc) has helped us build this.
+SubQuery is an open data indexer that is flexible and fast. Our open indexing tool is designed to help developers build their own API in hours, and it's designed to index chains incredibly quickly with the assistance of dictionaries (pre-computed indices). Polkadot'taki tüm dikeylerdeki (cüzdanlar, ağlar, kaşifler, NFT, DeFi, tarayıcılar vb.) müşterilerle olan deneyimimiz bunu oluşturmamıza yardımcı oldu.
 
-From today, Avalanche developers will be able to access the beta of the same fast, flexible, and open indexing solution widely used across Polkadot. As this is a beta version, it is likely to have some issues. As such, we would appreciate it if any bugs can be reported to our team so we can address them quickly.
+Bugünden itibaren, Avalanche geliştiricileri Polkadot'ta yaygın olarak kullanılan aynı hızlı, esnek ve açık dizin oluşturma çözümünün beta sürümüne erişebilecek. Bu bir beta sürümü olduğundan, bazı sorunları olması muhtemeldir. Bu nedenle, ekibimize herhangi bir hata bildirilebilirse memnun oluruz, böylece bunları hızlı bir şekilde ele alabiliriz.
 
-## Why Use SubQuery?
+## Neden SubQuery Kullanılır?
 
-_There are already a few other options here in Avalanche, so why would you build with SubQuery?_
+_Avalanche'da zaten birkaç seçenek daha var, peki neden SubQuery ile derleme yapasınız?_
 
-I was asked this very question by many of you that I was lucky enough to meet at the Avalanche Summit. In our space there are generally three other solutions:
+Birçoğunuz bana Avalanche Zirvesi'nde tanışacak kadar şanslı olduğum bu soruyu sordu. Alanımızda genellikle üç çözüm daha vardır:
 
 - Build your own solution: Why reinvent the wheel? SubQuery is focusing on building a reliable and fast open indexer --- we're here to save you time
 - Standardised data services or "unified APIs": These providers are excellent if you're building the same app on the same basic smart contract as everyone else, but you're not. You need a unique set of data that allows you to build a superior product that blows your competition out of the water! You need flexibility to get the data that you need in the shape that works best for you
