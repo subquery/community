@@ -1,4 +1,4 @@
-# Техническа карта на издаване подзапроса
+# SubQuery пуска техническа пътна карта
 
 ![](https://cdn-images-1.medium.com/max/800/1*Qcu5mFIs8eJhAXaMpWOlMQ.png)
 
