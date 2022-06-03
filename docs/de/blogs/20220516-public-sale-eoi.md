@@ -1,25 +1,25 @@
-# SubQuery Opens an Expression of Interest for its Public Sale
+# SubQuery öffnet eine Interessensbekundung für den öffentlichen Verkauf
 
 ![](https://miro.medium.com/max/1400/1*oPs8f6r1427cPwlsE1eyRw.png)
 
-Today, SubQuery is excited to open an Expression of Interest for our community in the upcoming Public Sale of our SubQuery Token (SQT). SubQuery already plans to provide pre-approval to key network contributors to participate, but we would also like to give our early followers a chance to secure their place in the sale.
+Heute freut sich SubQuery, eine Interessensbekundung für unsere Community im bevorstehenden öffentlichen Verkauf unseres SubQuery-Tokens (SQT) zu eröffnen. SubQuery plant bereits, wichtigen Netzwerkanbietern eine Vorabgenehmigung zur Teilnahme zu erteilen, aber wir möchten unseren frühen Followern auch die Chance geben, sich ihren Platz im Verkauf zu sichern.
 
-[Apply Now for a Chance to Secure Your Spot](https://docs.google.com/forms/d/e/1FAIpQLSc3V_1TrTmBcSxNTuG8xPnPODJkwj5PhWrnlPHlKzcIFk8cqQ/viewform?usp=sf_link)
+[Bewerben Sie sich jetzt und sichern Sie sich Ihren Platz](https://docs.google.com/forms/d/e/1FAIpQLSc3V_1TrTmBcSxNTuG8xPnPODJkwj5PhWrnlPHlKzcIFk8cqQ/viewform?usp=sf_link)
 
-Since its founding in 2021, SubQuery has achieved rapid growth by working with thousands of projects and serving hundreds of millions of queries each day (from our [managed service](https://subquery.network/managedservices)) to every day apps in the Polkadot and Avalanche ecosystems. From our seed round to now, SubQuery has raised over US$10m in private investment and grown to a large global team of over 30 with a community of over 50,000 on Twitter. This is a huge number of individuals who believe in SubQuery's mission to help developers create products that allow us to move to a decentralised future faster.
+Seit seiner Gründung im Jahr 2021 hat SubQuery ein schnelles Wachstum erzielt, indem es mit Tausenden von Projekten zusammengearbeitet und täglich Hunderte Millionen Abfragen (von unserem [verwalteten Dienst](https://subquery.network/managedservices)) bis hin zu alltäglichen Apps in den Polkadot- und Avalanche-Ökosystemen verarbeitet hat. Von unserer Startrunde bis jetzt hat SubQuery über 10 Millionen US-Dollar an privaten Investitionen gesammelt und ist zu einem großen globalen Team von über 30 mit einer Community von über 50.000 auf Twitter herangewachsen. Das ist eine große Anzahl von Personen, die an die Mission von SubQuery glauben, Entwicklern bei der Entwicklung von Produkten zu helfen, die es uns ermöglichen, schneller in eine dezentralisierte Zukunft zu wechseln.
 
-[As outlined in the Whitepaper](https://static.subquery.network/whitepaper.pdf), SQT is intended to be the token that powers the SubQuery Network, providing an incentive for participation, as well as serving as a medium of exchange for transactions within the SubQuery Network. In practice, this means that SubQuery Network is intended to function as a blockchain data marketplace where both Consumers (buyers) and Indexers (sellers) can meet to exchange data for SQT. The third participant in the model are Delegators who participate in the network by supporting their favourite Indexers by delegating their tokens to them in order to earn rewards. SQT will be the fuel for revolution in Web3 data infrastructure.
+[Wie im Whitepaper beschrieben](https://static.subquery.network/whitepaper.pdf) soll SQT das Token sein, das das SubQuery-Netzwerk antreibt, einen Anreiz zur Teilnahme bietet und als Tauschmittel für Transaktionen innerhalb des SubQuery-Netzwerks dient. In der Praxis bedeutet dies, dass SubQuery Network als Blockchain-Datenmarktplatz fungieren soll, auf dem sich sowohl Verbraucher (Käufer) als auch Indexer (Verkäufer) treffen können, um Daten für SQT auszutauschen. Der dritte Teilnehmer des Modells sind Delegatoren, die am Netzwerk teilnehmen, indem sie ihre bevorzugten Indexer unterstützen, indem sie ihre Token an sie delegieren, um Belohnungen zu verdienen. SQT wird der Treibstoff für die Revolution in der Web3-Dateninfrastruktur sein.
 
-Although the public sale will be conducted in a first-come, first-served manner, we would like to give our early followers and valuable community members an opportunity to secure their place with a reserved spot. Applicants selected in this process will have an opportunity to purchase SQT and may even receive a guaranteed allocation.
+Obwohl der öffentliche Verkauf nach dem Prinzip „fcfs“ durchgeführt wird, möchten wir unseren frühen Followern und wertvollen Community-Mitgliedern die Möglichkeit geben, sich ihren Platz mit einem reservierten Platz zu sichern. Bewerber, die in diesem Verfahren ausgewählt werden, haben die Möglichkeit, SQT zu erwerben, und erhalten möglicherweise sogar eine garantierte Zuteilung.
 
-While we aim to provide everyone with an opportunity to take part, and we want to ensure that SQT is available for all, space will be limited. To balance these needs we have reserved 1,000 allocated spots in the Public Sale that will be given to:
+Obwohl wir bestrebt sind, jedem die Möglichkeit zur Teilnahme zu bieten, und wir sicherstellen möchten, dass SQT für alle verfügbar ist, wird der Platz begrenzt sein. Um diese Bedürfnisse auszugleichen, haben wir 1.000 Plätze im öffentlichen Verkauf reserviert, die vergeben werden an:
 
-- The first 500 applicants that correctly fill in the Expression of Interest form, and
-- 500 randomly selected applicants that correctly fill in the form before the deadline.
+- Die ersten 500 Bewerber, die das Formular zur Interessenbekundung korrekt ausfüllen, und
+- 500 zufällig ausgewählte Bewerber, die das Formular vor Ablauf der Frist korrekt ausfüllen.
 
-To register your interest, [please apply via this form](https://docs.google.com/forms/d/e/1FAIpQLSc3V_1TrTmBcSxNTuG8xPnPODJkwj5PhWrnlPHlKzcIFk8cqQ/viewform?usp=sf_link). The deadline for applications is 6th June 2022, 11.59pm UTC.
+Um Ihr Interesse zu bekunden, [bewerben Sie sich bitte über dieses Formular](https://docs.google.com/forms/d/e/1FAIpQLSc3V_1TrTmBcSxNTuG8xPnPODJkwj5PhWrnlPHlKzcIFk8cqQ/viewform?usp=sf_link). Bewerbungsschluss ist der 6. Juni 2022, 23:59 Uhr UTC.
 
-Please do not submit multiple applications. The TGE will have a strict KYC process where identities of all users will be verified, so it won't be possible to participate with multiple accounts per one person. Submitting multiple applications for the Expression of Interest will only contaminate the data, result in other community members missing out, and make it harder for the team to make informed decisions.
+Bitte reichen Sie keine Mehrfachbewerbungen ein. The TGE will have a strict KYC process where identities of all users will be verified, so it won't be possible to participate with multiple accounts per one person. Submitting multiple applications for the Expression of Interest will only contaminate the data, result in other community members missing out, and make it harder for the team to make informed decisions.
 
 More information about the public sale, including sale dates and token pricing information will be released in due course. For details about the SQT tokenomics, [please refer to this article](./20211220-tokenomics.md). For any additional information or questions, [please contact us in Discord](https://discord.com/invite/subquery).
 
