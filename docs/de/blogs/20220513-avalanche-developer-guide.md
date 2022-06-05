@@ -26,15 +26,15 @@ Zuverlässigkeit ist der Schlüssel, und Sie brauchen eine zuverlässige und ska
 
 Und schließlich werden Sie in ein paar Monaten in der Lage sein, Ihre SubQuery-Infrastruktur mit dem SubQuery Network, der Zukunft der Web3-Infrastruktur, vollständig zu dezentralisieren. Das SubQuery Network wird die Daten Ihrer Projekte indizieren und der globalen Gemeinschaft auf eine anregende und überprüfbare Weise zur Verfügung stellen. Es ist so konzipiert, dass es jedes SubQuery-Projekt aus jedem Layer-1-Netzwerk einschließlich Avalanche unterstützt, so dass Sie von Anfang an die Vorteile des einheitlichen SubQuery-Netzwerks nutzen können.
 
-## Installation Instructions
+## Installationsanweisungen
 
-Follow the beta guide here: https://university.subquery.network/quickstart/quickstart-avalanche.html
+Folgen Sie dem Beta-Leitfaden hier: https://university.subquery.network/quickstart/quickstart-avalanche.html
 
-You'll first need to install @subql/cli via *npm i -g @subql/cli*
+Sie müssen zuerst @subql/cli über *npm i -g @subql/cli* installieren
 
-The best way is to start with our starter project, it contains a running project with an example of all mapping functions: https://github.com/subquery/avalanche-subql-starter. This project indexes the following from the [Pangolin Smart Contract](https://snowtrace.io/token/0x60781c2586d68229fde47564546784ab3faca982):
+Beginnen Sie am besten mit unserem Starter-Projekt, es enthält ein laufendes Projekt mit einem Beispiel aller Mapping-Funktionen: https://github.com/subquery/avalanche-subql-starter. Dieses Projekt indiziert Folgendes aus dem [Pangolin Smart Contract](https://snowtrace.io/token/0x60781c2586d68229fde47564546784ab3faca982):
 
-- BlockHandler: All blocks and their core information
+- BlockHandler: Alle Blöcke und ihre Kerninformationen
 - TransactionHandler: All transactions from the approve function within the Pangolin smart contract
 - EventHandler: All transfer events from the Pangolin smart contract
 
@@ -72,4 +72,4 @@ Follow the beta guide here: https://university.subquery.network/quickstart/quic
 
 [SubQuery](https://subquery.network/) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot, Substrate, Avalanche and Terra projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
-​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+​​[Linktree](https://linktr.ee/subquerynetwork) | [Webseite](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
