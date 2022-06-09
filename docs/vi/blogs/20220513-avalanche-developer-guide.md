@@ -4,7 +4,7 @@
 
 Hôm nay, sau nhiều tháng cải tiến, tái cấu trúc và thử nghiệm, chúng tôi rất vui khi chia sẻ sự bản hỗ trợ beta của giải pháp lập chỉ mục mở với cộng đồng Avalanche. Sau khi thành lập SubQuery là công cụ lập chỉ mục dữ liệu hàng đầu trong Polkadot, [thông báo gần đây của chúng tôi về việc mở rộng sang Avalanche](./20220321-avalache.md) trong [Avalanche Summit](https://www.avalanchesummit.com/agenda) gần đây đã nhận được sự hào hứng của các nhà phát triển mong muốn một sản phẩm linh hoạt và có thể mở rộng công cụ lập chỉ mục.
 
-Follow the beta guide here: https://university.subquery.network/quickstart/quickstart-avalanche.html
+Làm theo hướng dẫn beta tại đây: https://university.subquery.network/quickstart/quickstart-avalanche.html
 
 SubQuery là một công cụ lập chỉ mục dữ liệu mở, linh hoạt và nhanh chóng. Công cụ lập chỉ mục mở của chúng tôi được thiết kế để giúp các nhà phát triển xây dựng API của riêng họ trong vài giờ và nó được thiết kế để lập chỉ mục các chuỗi cực kỳ nhanh chóng với sự hỗ trợ của từ điển (các chỉ mục được tính toán trước). Kinh nghiệm của chúng tôi với khách hàng trên tất cả các lĩnh vực trên Polkadot (ví, mạng, trình khám phá, NFT, DeFi, quét chuỗi, v. v.) đã giúp chúng tôi xây dựng điều này.
 
@@ -68,7 +68,7 @@ _James Bayly_
 
 Follow the beta guide here: https://university.subquery.network/quickstart/quickstart-avalanche.html
 
-## About SubQuery
+## Giới thiệu về SubQuery
 
 [SubQuery](https://subquery.network/) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot, Substrate, Avalanche and Terra projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
