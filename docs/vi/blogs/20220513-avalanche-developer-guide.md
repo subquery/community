@@ -48,15 +48,15 @@ We are completing the first phase of our full support for the Avalanche ecosyste
 
 Hôm nay chúng tôi chia sẻ những điều sau:
 
-- Advanced Contract Chain Indexing
+- Lập chỉ mục chuỗi hợp đồng nâng cao
 - Avalanche Dictionary: Các chỉ mục được tính toán trước để [giảm đáng kể thời gian lập chỉ mục](./20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md)
-- Full support for Avalanche in our free [enterprise level](./20211228-enterprise-hosted.md) managed service
+- Hỗ trợ đầy đủ cho Avalanche trong dịch vụ được quản lý [cấp doanh nghiệp](./20211228-enterprise-hosted.md) miễn phí của chúng tôi
 - Tài liệu trực quan của [SubQuery University](https://university.subquery.network/)
 
-In the coming weeks you can expect:
+Trong những tuần tới, bạn có thể mong đợi:
 
-- A step by step learning course in the [SubQuery Academy](./20211018-subquery-launches-the-subquery-academy.md)
-- Full support for Avalanche in our decentralised SubQuery Network (you'll see a project in our current Frontier test network)
+- Khóa học từng bước trong [Học viện SubQuery](./20211018-subquery-launches-the-subquery-academy.md)
+- Hỗ trợ đầy đủ cho Avalanche trong Mạng SubQuery phi tập trung của chúng tôi (bạn sẽ sớm thấy một dự án trong mạng thử nghiệm Frontier hiện tại của chúng tôi)
 
 With the number of Subnets planned over the coming months, there will be a huge need for fast, open, and flexible indexing support that works across all compatible Subnets. We have experience implementing this level of configurability for Polkadot's parachains, and are investigating how to provide the same outcome for Avalanche (e.g. by importing custom implementations of snowman.Block etc).
 
@@ -70,6 +70,6 @@ Follow the beta guide here: https://university.subquery.network/quickstart/quic
 
 ## Giới thiệu về SubQuery
 
-[SubQuery](https://subquery.network/) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot, Substrate, Avalanche and Terra projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+[SubQuery](https://subquery.network/) là bộ công cụ dành cho nhà phát triển blockchain cho phép những người khác xây dựng các ứng dụng Web3 trong tương lai. Một dự án SubQuery là một API hoàn chỉnh để tổ chức và truy vấn dữ liệu từ các blockchain layer 1. Hiện đang phục vụ các dự án Polkadot, Substrate, Avalanche và Terra, dữ liệu dưới dạng dịch vụ này cho phép các nhà phát triển tập trung vào phát triển cốt lõi sản phẩm và giao diện người dùng của họ mà không cần lãng phí thời gian vào việc xây dựng chương trình phụ trợ để xử lý dữ liệu. SubQuery Network đề xuất kích hoạt giải pháp có thể mở rộng và đáng tin cậy tương tự như thế này, nhưng theo cách hoàn toàn phi tập trung.
 
-​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
