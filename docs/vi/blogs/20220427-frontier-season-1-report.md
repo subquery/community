@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/700/0*b3TqTiJWGrNSs28F)
 
-Tuần trước, chúng tôi đã hoàn thành thành công mùa đầu tiên của testnet SubQuery Frontier. Testnet, viết tắt của "test network", là một mạng được các nhà phát triển sử dụng để kiểm tra code trước khi nó được triển khai trên mạng chính (hoặc "Mainnet"). Trong trường hợp của SubQuery, việc ra mắt testnet đánh dấu một cột mốc quan trọng trong quá trình phát triển của chúng tôi khi chúng tôi tiến tới việc triển khai đầy đủ mainnet, cùng thời điểm với việc niêm yết token của chúng tôi trên các sàn giao dịch tập trung.
+Tuần trước, chúng tôi đã hoàn thành thành công mùa đầu tiên của testnet SubQuery Frontier. Testnet, viết tắt của "test network", là một mạng được các nhà phát triển sử dụng để kiểm tra code trước khi nó được triển khai trên mạng chính (hay "Mainnet"). Trong trường hợp của SubQuery, việc ra mắt testnet đánh dấu một cột mốc quan trọng trong quá trình phát triển của chúng tôi khi chúng tôi tiến tới việc triển khai đầy đủ mainnet, cùng thời điểm với việc niêm yết token của chúng tôi trên các sàn giao dịch tập trung.
 
 Mùa 1 của testnet SubQuery Frontier có mục tiêu sau: tìm và sửa các lỗi nghiêm trọng và các vấn đề về tài liệu liên quan đến các hoạt động chính ngày qua ngày của người lập chỉ mục. Để giúp chúng tôi làm điều này, chúng tôi đã tuyển dụng 23 nhà vận hành node có kinh nghiệm trong việc chạy các sản phẩm có hiệu suất cao và khả năng mở rộng với giám sát và bảo mật ví/cơ sở hạ tầng.
 
@@ -28,6 +28,6 @@ Mặc dù có một số yếu tố đang diễn ra, chúng tôi hy vọng có t
 
 ## Giới thiệu về mạng SubQuery
 
-[SubQuery](https://subquery.network/) là bộ công cụ dành cho nhà phát triển blockchain cho phép những người khác xây dựng các ứng dụng Web3 trong tương lai. Dự án SubQuery là một API hoàn chỉnh để tổ chức và truy vấn dữ liệu từ chuỗi L1. Hiện đang phục vụ các dự án Polkadot, Substrate và Avalanche, dữ liệu dưới dạng dịch vụ này cho phép các nhà phát triển tập trung vào phát triển cốt lõi sản phẩm và giao diện người dùng của họ mà không cần lãng phí thời gian xây dựng chương trình phụ trợ tùy chỉnh để xử lý dữ liệu. Mạng SubQuery đề xuất kích hoạt giải pháp có thể mở rộng và đáng tin cậy tương tự này, nhưng theo cách hoàn toàn phi tập trung.
+[SubQuery](https://subquery.network/) là bộ công cụ dành cho nhà phát triển blockchain cho phép những người khác xây dựng các ứng dụng Web3 trong tương lai. Một dự án SubQuery là một API hoàn chỉnh để tổ chức và truy vấn dữ liệu từ các chuỗi layer 1. Hiện đang phục vụ các dự án Polkadot, Substrate và Avalanche, dữ liệu dưới dạng dịch vụ này cho phép các nhà phát triển tập trung vào phát triển cốt lõi sản phẩm và giao diện người dùng của họ mà không cần lãng phí thời gian xây dựng chương trình phụ trợ tùy chỉnh để xử lý dữ liệu. Mạng SubQuery đề xuất kích hoạt giải pháp có thể mở rộng và đáng tin cậy tương tự này, nhưng theo cách hoàn toàn phi tập trung.
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
