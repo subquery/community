@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/700/0*m7loo6ZhFd_UrPtG)
 
-Hôm nay, chúng tôi tự hào đánh dấu thành tích xuất sắc của sinh viên tốt nghiệp [ Chương trình SubQuery Grants ](https://subquery.network/grants) đầu tiên của chúng tôi! [ Dapplooker ](https://dapplooker.com/) đã tích hợp với SubQuery để các công cụ phân tích tuyệt với và dễ xây dựng như explorers, biểu đồ và dashboards có thể được xây dựng trên đầu bất kỳ tập dữ liệu SubQuery nào.
+Hôm nay, chúng tôi tự hào đánh dấu thành tích xuất sắc của sinh viên tốt nghiệp [ Chương trình SubQuery Grants ](https://subquery.network/grants) đầu tiên của chúng tôi! [Dapplooker](https://dapplooker.com/) đã tích hợp với SubQuery để các công cụ phân tích tuyệt với và dễ xây dựng như explorers, biểu đồ và dashboards có thể được xây dựng trên đầu bất kỳ tập dữ liệu SubQuery nào.
 
 Cho dù dự án SubQuery do bạn hay người khác trong cộng đồng xây dựng, bạn đều có thể sử dụng DappLooker để vẽ biểu đồ, chart và trực quan hóa dữ liệu từ bên trong nó. Cho đến nay, dịch vụ được quản lý của SubQuery chỉ cung cấp một điểm cuối GraphQL, nhưng với sự đổi mới của Dapplookers, giờ đây bạn có thể dễ dàng khám phá hàng trăm bộ dữ liệu và thực hiện phân tích trên dữ liệu SubQuery bằng cách sử dụng "Visual SQL" trực quan.
 
@@ -18,7 +18,7 @@ Ví dụ: bạn có thể sử dụng tập dữ liệu đấu giá cộng đồ
 
 ![](https://miro.medium.com/max/700/0*Ajx_bTmMcRBuTB_z)
 
-[ Bảng điều khiển mẫu này ](https://dapplooker.com/dapp/subquery-moonbeam-120116?network=subquery&category=subquery&type=dashboard&udid=0) sử dụng dữ liệu Moonbeam EVM đã được lập chỉ mục của SubQuery và làm nổi bật các đỉnh và đáy cũng như thành công so với các giao dịch thất bại trong mạng Moonbeam.
+[Bảng điều khiển mẫu này](https://dapplooker.com/dapp/subquery-moonbeam-120116?network=subquery&category=subquery&type=dashboard&udid=0) sử dụng dữ liệu Moonbeam EVM đã được lập chỉ mục của SubQuery và làm nổi bật các đỉnh và đáy cũng như thành công so với các giao dịch thất bại trong mạng Moonbeam.
 
 ![](https://miro.medium.com/max/700/0*CPmeF30Kwwj0DbC6)
 
@@ -36,6 +36,6 @@ Dapplooker là một nền tảng phân tích và trực quan hóa đa chuỗi c
 
 ## Giới thiệu về SubQuery
 
-[SubQuery](https://subquery.network/) là bộ công cụ dành cho nhà phát triển blockchain cho phép những người khác xây dựng các ứng dụng Web3 trong tương lai. Dự án SubQuery là một API hoàn chỉnh để tổ chức và truy vấn dữ liệu từ các chuỗi. Hiện đang phục vụ các dự án Polkadot, Substrate và Avalanche, dữ liệu dưới dạng dịch vụ này cho phép các nhà phát triển tập trung vào trường hợp sử dụng cốt lõi và giao diện người dùng của họ mà không cần lãng phí thời gian xây dựng chương trình phụ trợ tùy chỉnh để xử lý dữ liệu. Mạng SubQuery đề xuất kích hoạt giải pháp có thể mở rộng và đáng tin cậy tương tự này, nhưng theo cách hoàn toàn phi tập trung.
+[SubQuery](https://subquery.network/) là bộ công cụ dành cho nhà phát triển blockchain cho phép những người khác xây dựng các ứng dụng Web3 trong tương lai. Một dự án SubQuery là một API hoàn chỉnh để tổ chức và truy vấn dữ liệu từ các chuỗi layer 1. Hiện đang phục vụ các dự án Polkadot, Substrate và Avalanche, dữ liệu dưới dạng dịch vụ này cho phép các nhà phát triển tập trung vào trường hợp sử dụng cốt lõi và giao diện người dùng của họ mà không cần lãng phí thời gian xây dựng chương trình phụ trợ tùy chỉnh để xử lý dữ liệu. Mạng SubQuery đề xuất kích hoạt giải pháp có thể mở rộng và đáng tin cậy tương tự này, nhưng theo cách hoàn toàn phi tập trung.
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
