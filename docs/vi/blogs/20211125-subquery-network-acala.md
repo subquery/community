@@ -16,7 +16,7 @@ Cuối cùng, cả SubQuery và Acala đều có chung tầm nhìn để phát t
 
 Bette Chen, Người đồng sáng lập Acala giải thích; _ “Acala sẽ đóng vai trò trung tâm DeFi cho Polkadot và là điểm tập trung tổng hợp tài sản và tính thanh khoản từ nhiều blockchain. Chúng tôi rất vui khi có thể tiếp tục mối quan hệ chặt chẽ với SubQuery, và ra mắt token SQT cũng như hợp đồng thông minh SubQuery trên nền tảng của chúng tôi. ”_
 
-## Về Acala
+## Giới thiệu về Acala
 
 Acala là một nền tảng hợp đồng thông minh tương thích với Ethereum được tối ưu hóa cho DeFi và mở rộng DApps sang Polkadot. Blockchain có các giao thức DeFi tích hợp sẵn để các nhà phát triển ứng dụng tận dụng, bao gồm một stablecoin phi tập trung (Acala Dollar - aUSD), một mô hình phái sinh staking (liquid DOT - LDOT) và một sàn giao dịch phi tập trung.
 
