@@ -44,7 +44,7 @@ Những Người Lập Chỉ Mục muốn tham gia [ có thể đăng ký với 
 
 ![](https://miro.medium.com/max/1400/1*gD9qkI5JK-PeWRTDr3IERw.png)
 
-Nhiều khách hàng hiện đang dùng SubQuery để cung cấp dữ liệu quan trọng cho các ứng dụng sản xuất của họ. Những khách hàng này đại diện cho một số ví lớn nhất ([ Nova ](https://novawallet.io/) và [ Fearless ](https://fearlesswallet.io/)), ứng dụng quét mạng lưới ([ Subscan ](https://www.subscan.io/), [ SubVis ](https://www.subvis.io/) và [ DotMarketCap ](https://dotmarketcap.com/)), nền tảng NFT ([ Kodadot ](https://kodadot.xyz/) và [ Yuser ](https://yuser.co/)), và nhiều hơn nữa. Đây là những ứng dụng khổng lồ mà cộng đồng Polkadot sử dụng hàng ngày và luôn phải trực tuyến.
+Nhiều khách hàng hiện đang dùng SubQuery để cung cấp dữ liệu quan trọng cho các ứng dụng sản xuất của họ. Những khách hàng này đại diện cho một số ví lớn nhất ([Nova](https://novawallet.io/) và [Fearless](https://fearlesswallet.io/)), scanners ([Subscan](https://www.subscan.io/), [SubVis](https://www.subvis.io/), và [DotMarketCap](https://dotmarketcap.com/)), nền tảng NFT ([Kodadot](https://kodadot.xyz/) và [Yuser](https://yuser.co/)), và nhiều hơn nữa. Đây là những ứng dụng khổng lồ mà cộng đồng Polkadot sử dụng hàng ngày và luôn phải trực tuyến.
 
 Hiệu suất và độ tin cậy của dịch vụ được lưu trữ luôn là ưu tiên hàng đầu của chúng tôi tại SubQuery. Nhóm "chị em" của chúng tôi là OnFinality, nhà cung cấp cơ sở hạ tầng lớn nhất của Polkadot, do đó chúng tôi có rất nhiều kinh nghiệm trong lĩnh vực này. Và kết quả là chúng tôi gần đây đã thực hiện ba cải tiến mà sẽ làm cho SubQuery trở thành nền tảng dữ liệu đáng tin, có thể mở rộng và hoạt động hiệu quả nhất trên Polkadot.
 
