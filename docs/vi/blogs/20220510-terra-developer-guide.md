@@ -61,7 +61,7 @@ Hôm nay chúng tôi chia sẻ những điều sau:
 
 Trong những tuần tới, bạn có thể mong đợi:
 
--   Khóa học từng bước trong [ Học viện SubQuery ](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html)
+-   Khóa học từng bước trong [Học viện SubQuery](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html)
 -   Hỗ trợ đầy đủ cho Terra trong Mạng SubQuery phi tập trung của chúng tôi (bạn sẽ sớm thấy một dự án trong mạng thử nghiệm Frontier hiện tại của chúng tôi)
 
 ---
@@ -80,6 +80,6 @@ James Bayly
 
 ## Giới thiệu về SubQuery
 
-[SubQuery](https://subquery.network/) là bộ công cụ dành cho nhà phát triển blockchain cho phép những người khác xây dựng các ứng dụng Web3 trong tương lai. Dự án SubQuery là một API hoàn chỉnh để tổ chức và truy vấn dữ liệu từ chuỗi Layer 1. Hiện đang phục vụ các dự án Polkadot, Substrate, Avalanche và bây giờ là Terra, dữ liệu dưới dạng dịch vụ này cho phép các nhà phát triển tập trung vào phát triển cốt lõi sản phẩm và giao diện người dùng của họ mà không cần lãng phí thời gian vào việc xây dựng chương trình phụ trợ để xử lý dữ liệu. Mạng SubQuery đề xuất kích hoạt giải pháp có thể mở rộng và đáng tin cậy tương tự này, nhưng theo cách hoàn toàn phi tập trung.
+[SubQuery](https://subquery.network/) là bộ công cụ dành cho nhà phát triển blockchain cho phép những người khác xây dựng các ứng dụng Web3 trong tương lai. Một dự án SubQuery là một API hoàn chỉnh để tổ chức và truy vấn dữ liệu từ các chuỗi layer 1. Hiện đang phục vụ các dự án Polkadot, Substrate, Avalanche và bây giờ là Terra, dữ liệu dưới dạng dịch vụ này cho phép các nhà phát triển tập trung vào phát triển cốt lõi sản phẩm và giao diện người dùng của họ mà không cần lãng phí thời gian vào việc xây dựng chương trình phụ trợ để xử lý dữ liệu. Mạng SubQuery đề xuất kích hoạt giải pháp có thể mở rộng và đáng tin cậy tương tự này, nhưng theo cách hoàn toàn phi tập trung.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
