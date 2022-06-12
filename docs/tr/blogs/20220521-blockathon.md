@@ -2,9 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/1*ROmTqzpmfmdW_gsBKQQrGQ.png)
 
-SubQuery, blockchain eğitim girişimlerini ve yaklaşan Metaverse Hackathon'u desteklemek için [Blockathon DAO](https://blockathon.xyz/) ile ortaklığını duyurmaktan mutluluk duyar. Hackathon, takımları bu Temmuz ayında Paris'teki Metaverse Summit</a>'daki
-
-Global Metaverse Startup Yarışması'na katılmaya hazırlamayı amaçlıyor.</p> 
+SubQuery, blockchain eğitim girişimlerini ve yaklaşan Metaverse Hackathon'u desteklemek için [Blockathon DAO](https://blockathon.xyz/) ile ortaklığını duyurmaktan mutluluk duyar. Hackathon, takımları bu Temmuz ayında Paris'teki Metaverse Summit 'daki Global Metaverse Startup Yarışması'na katılmaya hazırlamayı amaçlıyor.
 
 Hackathon'daki ekiplerin gelişimini hızlandırmak için SubQuery, ekiplere veri indeksleme ve ödüller sağlama konusunda ücretsiz atölye çalışmaları sağlayacak. Buna ek olarak, kardeş şirket OnFinality, düğümle ilgili hizmetler için indirimler sağlayacaktır.
 

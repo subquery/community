@@ -28,7 +28,7 @@ Dự án Dapplooker có mục tiêu tăng cường cho các dự án trên Polka
 
 ![](https://miro.medium.com/max/1400/1*kC8QYVvlUZwUfgXTBFQbgg.png)
 
-Nhóm Dotsama cũng quyết tâm mang lại tầm nhìn cho các nhà đầu tư trong hệ sinh thái Polkadot/Kusama, bằng cách hướng tới mục tiêu trở thành một ứng dụng phân tích tổng hợp với các công cụ để xác định xu hướng và cơ hội đầu tư sớm. "Là một phần của Chương trình tài trợ của SubQuery, chúng tôi không chỉ muốn nhận được hướng dẫn về kỹ thuật và chiến lược, chúng tôi còn mong muốn trở thành một phần của cộng đồng này và giúp nó đẩy nhanh tốc độ phát triển. "</em> - Sudarshan Acharya, Người sáng lập (Dotsama." --- Sudarshan Acharya, Người sáng lập (Dotsama)</em>
+> _"Nhóm Dotsama cũng quyết tâm mang lại tầm nhìn cho các nhà đầu tư trong hệ sinh thái Polkadot/Kusama, bằng cách hướng tới mục tiêu trở thành một ứng dụng phân tích tổng hợp với các công cụ để xác định xu hướng và cơ hội đầu tư sớm. "Là một phần của Chương trình tài trợ của SubQuery, chúng tôi không chỉ muốn nhận được hướng dẫn về kỹ thuật và chiến lược, chúng tôi còn mong muốn trở thành một phần của cộng đồng này và giúp nó đẩy nhanh tốc độ phát triển."_ - Sudarshan Acharya, Người sáng lập (Dotsama." --- Sudarshan Acharya, Người sáng lập (Dotsama)
 
 Ngoài các khoản tài trợ chung như các khoản được trao cho nhóm riêng ban đầu trên SubQuery, còn có các khoản [tiền thưởng về hợp tác kỹ thuật với các nhóm parachain hàng đầu ở Polkadot](../blogs/20220127-grants-bounties.md) như Moonbeam, Acala, Astar và Bifrost trên [trang web của SubQuery](https://subquery.network/grants)
 

@@ -2,9 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/1*BiJaESR69-vDimBJmXhQvw.png)
 
-Bugün, aylarca süren iyileştirmeler, yeniden düzenleme ve testlerden sonra, açık indeksleme çözümümüzün beta desteğini Avalanche topluluğuyla paylaşmaktan mutluluk duyuyoruz. Polkadot'ta lider veri indeksleyicisi olarak SubQuery'yi kurduktan sonra, yakın zamanda [Avalanche Summit](https://www.avalanchesummit.com/agenda) sırasında Avalanche</a> genişlememizin yakın zamanda
-
- duyurulması, esnek ve ölçeklenebilir bir indeksleme aracı için istekli geliştiriciler tarafından heyecanla karşılandı.</p> 
+Bugün, aylarca süren iyileştirmeler, yeniden düzenleme ve testlerden sonra, açık indeksleme çözümümüzün beta desteğini Avalanche topluluğuyla paylaşmaktan mutluluk duyuyoruz. Polkadot'ta lider veri indeksleyicisi olarak SubQuery'yi kurduktan sonra, yakın zamanda [Avalanche Summit](https://www.avalanchesummit.com/agenda) sırasında Avalanche genişlememizin yakın zamanda duyurulması, esnek ve ölçeklenebilir bir indeksleme aracı için istekli geliştiriciler tarafından heyecanla karşılandı. 
 
 Beta kılavuzunu buradan takip edin: https://university.subquery.network/quickstart/quickstart-avalanche.html
 
@@ -36,7 +34,7 @@ Ve son olarak, birkaç ay içinde, Web3 altyapısının geleceği olan SubQuery 
 
 Beta kılavuzunu buradan takip edin: https://university.subquery.network/quickstart/quickstart-avalanche.html
 
-Öncelikle @subql/cli'yi *npm i -g @subql/cli</0 üzerinden yüklemeniz gerekir></p> 
+Öncelikle @subql/cli'yi *npm i -g @subql/cli  üzerinden yüklemeniz gerekir
 
 En iyi yol, başlangıç ​​projemizle başlamaktır, tüm eşleme işlevlerinin bir örneğini içeren çalışan bir proje içerir: Bu proje aşağıdakileri dizine ekler.: https://github.com/subquery/avalanche-subql-starter. Bu proje aşağıdakileri [Pangolin Akıllı Sözleşmesinden endekslemektedir](https://snowtrace.io/token/0x60781c2586d68229fde47564546784ab3faca982):
 
@@ -44,7 +42,7 @@ En iyi yol, başlangıç ​​projemizle başlamaktır, tüm eşleme işlevler
 - TransactionHandler: Pangolin akıllı sözleşmesindeki onaylama işlevinden yapılan tüm işlemler
 - EventHandler: Pangolin akıllı sözleşmesindeki tüm transfer etkinlikleri
 
-SubQuery'nin Avalanche uygulaması, SubQuery'nin Polkadot desteğiyle neredeyse aynı şekilde ve Graph'ın yaklaşımına benzer şekilde çalışacak şekilde tasarlanmıştır. Genel SubQuery belgelerine Avalanchea özel bilgiler eklemek için SubQuery Üniversitesi'ni güncelledik. Bu [mükemmel başlangıç ​​kılavuzunu buradan](https://university.subquery.network/quickstart/quickstart-avalanche.html) izleyerek başlayabilirsiniz.</p> 
+SubQuery'nin Avalanche uygulaması, SubQuery'nin Polkadot desteğiyle neredeyse aynı şekilde ve Graph'ın yaklaşımına benzer şekilde çalışacak şekilde tasarlanmıştır. Genel SubQuery belgelerine Avalanchea özel bilgiler eklemek için SubQuery Üniversitesi'ni güncelledik. Bu [mükemmel başlangıç ​​kılavuzunu buradan](https://university.subquery.network/quickstart/quickstart-avalanche.html) izleyerek başlayabilirsiniz.
 
 
 
@@ -59,11 +57,7 @@ Bugün aşağıdakileri paylaşıyoruz:
 - Gelişmiş Sözleşme Zinciri İndeksleme
 - Avalanche Dictionary: [dizin oluşturma süresini önemli ölçüde azaltmak için](./20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md) önceden hesaplanmış dizinler
 - Ücretsiz [kurumsal düzeyde yönetilen](./20211228-enterprise-hosted.md) hizmetimizde Avalanche için tam destek
-- SubQuery Üniversitesi'ndeki sezgisel belgeler</li> </ul> 
-  
-  Önümüzdeki haftalarda şunları bekleyebilirsiniz:
-  
-  - [SubQuery Academy'de adım adım eğitim kursu](./20211018-subquery-launches-the-subquery-academy.md)
+- SubQuery Üniversitesi'ndeki sezgisel belgeler Önümüzdeki haftalarda şunları bekleyebilirsiniz: [SubQuery Academy'de adım adım eğitim kursu](./20211018-subquery-launches-the-subquery-academy.md)
 - Merkezi olmayan SubQuery Ağımızda Avalanche için tam destek (yakında mevcut Frontier test ağımızda bir proje göreceksiniz)
 
 Önümüzdeki aylarda planlanan Alt Ağ sayısıyla, tüm uyumlu Alt Ağlarda çalışan hızlı, açık ve esnek dizin oluşturma desteğine büyük ihtiyaç duyulacaktır. Polkadot'un parachain'leri için bu yapılandırılabilirlik seviyesini uygulama deneyimine sahibiz ve Avalanche için aynı sonucun nasıl sağlanacağını araştırıyoruz (örneğin, kardan adamın özel uygulamalarını içe aktararak). Blok vb.).

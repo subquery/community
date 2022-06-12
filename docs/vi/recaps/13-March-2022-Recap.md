@@ -32,7 +32,7 @@ Chúng tôi đang hợp tác với OneBlock + để tổ chức vòng thứ hai 
 
 SubQuery vui mừng thông báo quan hệ đối tác của chúng tôi với Automata, một giao thức dịch vụ phi tập trung cung cấp các dịch vụ bảo mật vô giá giống phần mềm trung gian cho các dApp trên Ethereum và Polkadot. SubQuery đang làm việc với Automata để cho phép các nhà phát triển truy cập vào giải pháp lập chỉ mục hiệu suất cao giúp tăng cường sức mạnh cho hệ sinh thái Autoimata, một hệ sinh thái đang phát triển nhanh chóng về số lượng các ứng dụng.
 
-> Không phải vô cớ mà Subquery trở thành giao thức lập chỉ mục tiêu chuẩn trong hệ sinh thái Polkadot và Kusama. SubQuery đã đặc biệt nhanh chong phối hợp và chúng tôi rất vui được tiếp tục hợp tác chặt chẽ với họ vì Automata tập trung vào các giải pháp phần mềm trung gian của mình để mang lại một Web3 tập trung vào quyền riêng tư và công bằng. "</em> - Deli Gong, Automata Network
+> _"Không phải vô cớ mà Subquery trở thành giao thức lập chỉ mục tiêu chuẩn trong hệ sinh thái Polkadot và Kusama. SubQuery đã đặc biệt nhanh chong phối hợp và chúng tôi rất vui được tiếp tục hợp tác chặt chẽ với họ vì Automata tập trung vào các giải pháp phần mềm trung gian của mình để mang lại một Web3 tập trung vào quyền riêng tư và công bằng."_ - Deli Gong, Automata Network
 
 [Đọc thêm](../customer_announcements/20220317-automata.md)
 

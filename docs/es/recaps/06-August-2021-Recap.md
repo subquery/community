@@ -44,7 +44,7 @@ En el caso de Karura, [SubQuery se está usando para extraer y consultar los dat
 
 El servicio de SubQuery está desempeñando un papel clave en [Subscan](https://www.subscan.io/) al [proporcionar datos rápidos sobre transacciones](../customer_announcements/20210901-Subscans-Multi-Signature-Tool.md) para cualquier dirección de firma múltiple dada, mejorando así la UX y permitiendo funciones más avanzadas.
 
-[SORA](https://sora.org/) ha construido un [Proyecto SubQuery](../customer_announcements/20210825-SORA-Integrates-SubQuery-to-Provide-Data-to-the-SORA-Network.md) que recupera datos de la red SORA</1> para alimentar aplicaciones móviles construidas sobre SORA y [Polkaswap.io](http://polkaswap.io/). Puede leer más aquí
+[SORA](https://sora.org/) ha construido un [Proyecto SubQuery](../customer_announcements/20210825-SORA-Integrates-SubQuery-to-Provide-Data-to-the-SORA-Network.md) que recupera datos de la red SORA para alimentar aplicaciones móviles construidas sobre SORA y [Polkaswap.io](http://polkaswap.io/). Puede leer más aquí
 
 En ambos casos estamos agradecidos de tener comentarios de nuestros socios, algunos tan buenos como este:
 
