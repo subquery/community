@@ -6,9 +6,9 @@ Trong những tuần gần đây, Karura và nhóm Acala đã ra mắt [Karura S
 
 Hôm nay, chúng ta cùng khám phá cách SubQuery giúp nền tảng này có thể thực hiện điều đó. Karura đang sử dụng SubQuery để trích xuất và truy vấn dữ liệu từ chuỗi của Karura, giúp các truy vấn nhanh chóng và hiệu quả cho [ứng dụng của Karura](https://apps.karura.network/).
 
-> "Sử dụng Subquery giúp việc xây dựng dApp trở nên dễ dàng, không còn phải thực hiện một loạt lệnh phức tạp để lấy dữ liệu tôi cần."* --- Brett (Nhà phát triển tại Acala)*
+> *"Sử dụng SubQuery giúp việc tạo dapp trở nên dễ dàng, không còn phải thực hiện một loạt lệnh gọi phức tạp để lấy dữ liệu tôi cần."* - Brett (Nhà phát triển tại Acala)
 
-Việc phát triển dApps trên Karura giờ đây nhanh hơn nhiều với các dự án SubQuery mới do Karura thực hiện. Có một [dự án SubQuery](https://explorer.subquery.network/subquery/AcalaNetwork/karura) công khai mà cộng đồng Karura có thể phân nhánh và xây dựng bất kỳ dApp nào mà họ mong muốn. Ngoài ra, một [Từ điển Karura](https://explorer.subquery.network/subquery/AcalaNetwork/karura-dictionary) giúp [lập chỉ mục nhanh hơn nhiều](https://subquery.medium.com/subquerys-just-got-a-lot-faster-with-the-dictionary-8a7a1447574).
+Việc phát triển dApps trên Karura giờ đây nhanh hơn nhiều với các dự án SubQuery mới do Karura thực hiện. Có một [dự án SubQuery](https://explorer.subquery.network/subquery/AcalaNetwork/karura) công khai mà cộng đồng Karura có thể phân nhánh và xây dựng bất kỳ dApp nào mà họ mong muốn. Ngoài ra, một [Từ điển Karura](https://explorer.subquery.network/subquery/AcalaNetwork/karura-dictionary) giúp [lập chỉ mục nhanh hơn nhiều](../blogs/20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md).
 
 ![](https://cdn-images-1.medium.com/max/1600/1*vvI_pI93mhe4kzSNQ2yMoQ.png)
 
@@ -18,9 +18,9 @@ Việc phát triển dApps trên Karura giờ đây nhanh hơn nhiều với cá
 
 ![](https://cdn-images-1.medium.com/max/1600/0*g174RcFJwJcw2ITS)
 
-Karura cũng cung cấp một mô hình phân phối token chuẩn chỉnh và bền vững cũng như một Kho bạc Karura trên chuỗi, cả hai đều hỗ trợ rất nhiều cho cộng đồng. Karura là dự án đầu tiên giành chiến thắng trong một cuộc đấu giá parachain trên Kusama, thu được số tiền từ cộng đồng lên tới 500.000 KSM (100 triệu USD) từ cộng đồng của dự án. Bởi vì Karura tận dụng Acala EVM, cho phép khả năng tương thích Ethereum với chức năng Substrate* không giới hạn, mạng lưới được ưu tiên hỗ trợ triển khai các dự án DeFi hàng đầu nhằm mở rộng dịch vụ của họ ra ngoài Ethereum.
+Karura cũng cung cấp một mô hình phân phối token chuẩn chỉnh và bền vững cũng như một Kho bạc Karura trên chuỗi, cả hai đều hỗ trợ rất nhiều cho cộng đồng. Karura là dự án đầu tiên giành chiến thắng trong một cuộc đấu giá parachain trên Kusama, thu được số tiền từ cộng đồng lên tới 500.000 KSM (100 triệu USD) từ cộng đồng của dự án. Bởi vì Karura tận dụng Acala EVM, cho phép khả năng tương thích Ethereum với chức năng Substrate\* không giới hạn, mạng lưới được ưu tiên hỗ trợ triển khai các dự án DeFi hàng đầu nhằm mở rộng dịch vụ của họ ra ngoài Ethereum.
 
-*[Substrate](http://substrate.dev/)* là framework xây dựng blockchain trên Polkadot và Kusama*
+*[Substrate](http://substrate.dev/) *là framework xây dựng blockchain trên Polkadot và Kusama\*
 
 [Đọc thêm về Karura tại đây](https://medium.com/acalanetwork/countdown-to-karura-a-deep-dive-on-the-defi-hub-of-kusama-410066fc1e1f)
 

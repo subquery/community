@@ -1,81 +1,83 @@
-# SubQuery Sürümleri Güncellenmiş Teknik İnceleme
+# SubQuery Releases Updated Whitepaper
 
 ![](https://miro.medium.com/max/700/0*guA8YHyJPhu0wmzf)
 
-_SubQuery'nin web3 altyapısının geleceğinde nasıl devrim yaratacağına dair güncellenmiş bir plan_
+_An updated plan for how SubQuery will revolutionise the future of web3 infrastructure_
 
-Uzun bir tasarım, tartışma, test ve geliştirme sürecinden sonra bugün, [Beyaz Bültenimizin yeni ve önemli ölçüde güncellenmiş bir sürümünü yayınlıyoruz](https://static.subquery.network/whitepaper.pdf). İlk olarak Haziran 2021'de yayınlanan SubQuery Whitepaper, merkezi olmayan SubQuery Network ve onun SQT belirteci için stratejik çerçevemizi özetleyen bir belgedir. Orijinal yayından bu yana, müşteri tabanımızda ve topluluğumuzda önemli bir büyüme yaşadık ve SubQuery Ağı oluşturma konusunda büyük ilerleme kaydettik. Bu kaynaklardan, iyileştirme ve yenilik yapma konusunda ilham aldık ve bu, teknik incelememizin en son sürümüyle sonuçlanıyor. <iframe width="560" height="315" src="https://www.youtube.com/embed/Ghxyw5bIHs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+After a long period of design, discussion, testing, and development, today we are releasing a new and significantly [updated version of our Whitepaper](https://static.subquery.network/whitepaper.pdf). Originally published back in June 2021, the SubQuery Whitepaper is a document that outlines our strategic framework for the decentralised SubQuery Network and her SQT token. Since the original publication, we have experienced significant growth in our customer base and community and made huge progress on building the SubQuery Network. From these sources, we have been inspired to improve and innovate, and that culminates in the latest version of our whitepaper.
 
-Bu teknik inceleme, SubQuery'nin SubQuery için tek bir başarısızlık noktası olmamasını sağlamak için blok zinciri verilerini organize eden küresel olarak merkezi olmayan bir katılımcılar ağına geçme planlarını özetlemektedir. Bunun SubQuery'nin çalışma süresini büyük ölçüde artırması, daha iyi artıklık sağlaması ve gecikmeyi azaltarak performansı artırması bekleniyor. Uygulamaların, ağdaki Dizinleyicilerden herhangi bir veri deposunu (SubQuery Projesi tarafından tanımlandığı gibi) sorgulamak için GraphQL'yi kullanabileceği öngörülmüştür.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ghxyw5bIHs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This whitepaper outlines SubQuery’s plans to move towards a globally decentralised network of participants organising blockchain data in order to ensure no single point of failure for SubQuery. It is expected that this will massively increase SubQuery’s uptime, provide better redundancy, and increase performance by driving down latency. It is envisioned that applications will be able to use GraphQL to query any store of data (as defined by the SubQuery Project) from Indexers around the network.
 
 ![](https://miro.medium.com/max/700/0*xtd6e7mn7JkfhpzG)
 
-## Otomatik Odaklama
+## Our Focus
 
-[Güncellenmiş teknik inceleme](https://static.subquery.network/whitepaper.pdf), SubQuery'nin yarının veri hizmetlerinin çok zincirli, basit ve esnek olması gerektiğine dair inancını koruyor. Teknik inceleme, SubQuery Network'ün bu hususları belirteç ekonomik tasarımına nasıl etkilediğine ve aynı zamanda ileri düzey kullanıcıların bunun üzerinde kurumsal düzeyde hizmetler çalıştırmasına olanak sağladığına ilişkin ayrıntılara giriyor.
+The [updated whitepaper](https://static.subquery.network/whitepaper.pdf) maintains SubQuery’s conviction that the data services of tomorrow must be multi-chain, simple, and flexible. The whitepaper goes into detail on how the SubQuery Network factors these considerations into the token economic design while also enabling power users to run enterprise-level services on it.
 
-### Tasarıma Göre Çoklu Zincir
+### Multi-chain by Design
 
-_SubQuery, web3'ün benimsenmesini teşvik etmek için birlikte çalışan bir blok zinciri topluluğunun geleceğin olduğu fikrine inanmaktadır_
+_SubQuery believes in the idea that a community of blockchains, working together to encourage web3 adoption, is the future_
 
-SubQuery, Polkadot ekosistemine özgüdür, bizim evimizdir ve SubQuery Ağının konumu olacaktır. Ancak gelecek çok zincirli. SubQuery, farklı sorunları çözmek için birlikte çalışan birçok farklı blok zincirinin olacağını bilir.
+SubQuery is native to the Polkadot ecosystem, it’s our home and will be the location of the SubQuery Network. But the future is multi-chain. SubQuery knows that there are going to be many different blockchains working together to solve different problems.
 
-SubQuery Ağı, herhangi bir Katman 1 ağından (Polkadot içinde veya değil) herhangi bir SubQuery Projesini desteklemek üzere tasarlanmıştır. En başından itibaren çok zincirli olacak şekilde tasarlanacak ve inşa edilecektir; burada bir ağdaki projelerin diğerinin yanı sıra dizine eklendiğini göreceksiniz.
+The SubQuery Network is designed to support any SubQuery Project from any Layer 1 network (within Polkadot or not). It will be designed and built to be multi-chain from the outset, where you will see projects from one network being indexed alongside projects from another.
 
-### Basit ve klasik.
+### Simple and Accessible
 
-_SubQuery Ağı, insanların veri sağlayıcısı olacak şekilde tasarlanmıştır._
+_The SubQuery Network is designed to be the data provider of the people._
 
-SubQuery Network'ün yol gösterici ilkesi basitliktir. SubQuery, merkezi olmayan veri sorgulama hizmetlerine yönelik diğer yaklaşımların aşırı karmaşık olduğu ve katılımcıların yatırım getirilerini tahmin etmelerini zorlaştırdığı görüşündedir. Amaç, ağa dahil olmanızı kolaylaştırmak ve gelecekteki potansiyel getirinizi net bir şekilde tahmin etmektir.
+The guiding principle with the SubQuery Network is simplicity. It is SubQuery’s opinion that other approaches to decentralised data query services are overly complex and make it difficult for participants to predict their return on investment. The aim is to make it easy for you to get involved in the network, and to clearly forecast your future potential return.
 
-SubQuery, katılmak için yüksek bahis eşikleri veya donanıma büyük yatırım gerektirmez. Odak noktamız, SubQuery'nin kullanımını ve rakiplerimizden daha kolay oluşturulmasını sağlamak olacaktır - SubQuery'nin başarısı, topluluğumuzun onunla geleceği inşa etme başarısına bağlıdır.
+SubQuery won’t require high staking thresholds to participate or huge investment into hardware. The focus will be on making SubQuery easier to join and build with than our competitors — SubQuery’s success depends on the success of others creating the future on it.
 
-Bu, bir tasarım hedefinin herkesin katılımını mümkün olduğunca kolaylaştırmak olduğu anlamına gelir. Bir geliştirici olmanıza veya jeton ekonomik modeli hakkında derin bir bilgiye sahip olmanıza gerek yok, kolayca Yetkilendiren olarak katılabilirsiniz. Bir Tüketici olarak, ihtiyaçlarınıza en uygun ödeme seçeneklerine de sahipsiniz. Son olarak, SubQuery Foundation'ın temel odak noktası, uzman bir blok zinciri ekibinden yeni bir hobi geliştiricisine kadar herkesin kendi SubQuery projesini oluşturabilmesi için yeterli desteğin olmasını sağlamaktır.
+This means that a design goal is to make it as easy as possible for anyone to participate. You don’t need to be a developer or have a deep knowledge of the token economic model, you can easily participate as a Delegator. As a Consumer, you also have plenty of payment options to best suit your needs. Finally, a key focus of the SubQuery Foundation is to ensure that there is enough support that anyone, from an expert blockchain team to a new hobbyist developer, can build their own SubQuery project.
 
-### Esneklik
+### Flexible
 
-_SubQuery topluluğumuzun elinde sadece bir araçtır, sonsuz fırsatlar sadece insanların yaratıcılığı ile sınırlıdır._
+_SubQuery is just a tool in the hands of our community, endless opportunities exist limited only by the creativity of the people._
 
-SubQuery'nin gerçek avantajları esnekliğinde yatıyor olabilir - kullanıcılar, merkezi olmayan verileri ihtiyaçlarına göre uyarlama ve dönüştürme özgürlüğüne sahip olacak. Bu esneklik dürtüsü, delege edenlerin uzun bağ çözme süreleri beklemek zorunda kalmadan farklı dizin oluşturucuları hızlı ve kolay bir şekilde desteklemesini kolaylaştırmaya kadar uzanır. Son olarak, bu yaklaşım, daha sonra ele alacağımız üç ödeme yöntemiyle mükemmel bir şekilde somutlaştırılmıştır.
+The true advantages of SubQuery may lie in its flexibility — users will have the freedom to adapt and transform decentralised data to suit their needs. This drive for flexibility extends to making it easier for delegators to quickly and easily support different indexers without having to wait for extended unbonding periods. Finally, this approach is perfectly embodied by our introduction of three payment methods which we’ll cover next.
 
-## SubQuery'nin Ödeme Yöntemlerinde Yeniliği
+## SubQuery’s Innovation in Payment Methods
 
-Teknik incelemenin bu sürümündeki açık ara en büyük değişiklik, ödeme yöntemlerindeki yeniliğimizdir. Günümüzde genellikle dinlediğimiz müzikler, izlediğimiz diziler, kullandığımız uygulamalar için abonelik bazlı ödemeler yapıyoruz. Öncü web3 hizmet uygulamalarında, bunun yerine, her atomik işlemin ağda tam bir maliyetinin olduğu, kullandıkça öde modelini benimsedik.
+The biggest change by far with this version of the whitepaper is our innovation in payment methods. Today, we generally pay with subscription-based payments for the music we listen to, the TV shows we watch, and the applications that we use. In pioneering web3 service applications, we’ve instead adopted a pay-as-you-go model, where each atomic transaction has an exact cost in the network.
 
-Aboneliğe dayalı veya yinelenen ödeme yöntemlerinin kalıcı olduğunu düşünüyoruz. Hizmet sağlayıcılar bunları, öngörülebilir gelirleri temsil ettikleri için severler, benzer şekilde diğer tarafta tüketiciler, bilinen ve kolayca ölçülebilir bir maliyet oldukları için onları sever. Ayrıca, bir kez abone olduğunuzda, çoğu tüketicinin tamamını olmasa da o kadarını tüketmek zorunda hissedeceği, hizmete olan talebi artıracağı ve ölçek ekonomilerinin devreye girmesine izin verecek psikolojik bir faktör de vardır.
+We think subscription based or recurring payment methods are here to stay. Service providers like them because they represent predictable revenue, similarly on the other side consumers like them because they are a known and easily quantified cost. There’s also a psychological factor where once you subscribe, most consumers will feel obligated to consume as much if not all of it, increasing the demand for the service and allowing economies of scale to kick in.
 
-Sonuç olarak, SubQuery, tüm katılımcılara SubQuery Token (SQT) ile işlem yapmak için çeşitli esnek yollar sağlayarak, SubQuery Ağı içinde ödeme yapmak için üç yol sunmayı planlıyor. Hem Dizin Oluşturucular hem de Tüketiciler, fiyatlandırmalarının ve desteklenen ödeme yöntemlerinin reklamını yapmak için Plan Pazarında bir araya gelecekler.
+As a result, SubQuery plans to introduce three ways to pay within the SubQuery Network, providing all participants with various flexible ways to transact with the SubQuery Token (SQT). Both Indexers and Consumers will come together on the Plan Marketplace to advertise their pricing and supported payment methods.
 
 ![](https://miro.medium.com/max/700/0*f0yVHlbWTE8DdjuB)
 
-### Kullandıkça Öde (PAYG)
+### Pay-As-You-Go (PAYG)
 
-Web3 endüstrisi arasında ilk ve bir standart, Kullandıkça Öde'dir. Bu, temel ödeme yöntemidir ve diğerleri için bir yedektir. Her Dizin Oluşturucu, belirli SubQuery Projeleri için istekleri sunma yeteneklerini kaydederken PAYG fiyatlarının reklamını yapacaktır.
+The first, and a standard amongst the web3 industry, is Pay-As-You-Go. This is the baseline payment method and a fallback for others. Each Indexer will advertise their PAYG prices when registering their ability to serve requests for specific SubQuery Projects.
 
-### Kapanan Planlar ve Anlaşmalar
+### Closed Plans and Agreements
 
-Kapatılan Sözleşmeler, yalnızca bir Dizin Oluşturucu ile bir Tüketici arasındaki bir anlaşmayı temsil eder. Yapılan iş için tüm ödemelerin iki taraf arasında aktığı doğrudan bir ilişkidir. Kapalı Anlaşmalar, Dizin Oluşturuculara belirli bir SubQuery Projesi'nden gelen veriler için bir pazar olduğuna dair güven vermek ve esasen onlara hangi Projelerin endekslenmesi gerektiğini belirtmek için tasarlanmıştır. Kapalı Planlar, o SubQuery Projesine ek Dizin Oluşturucuları çekmek için mevcut SubQuery Projelerine de yerleştirilebilir. Bu, mevcut tekelci Endeksleyicinin veriler için makul olmayan bir miktar talep edebileceği veya fiyatları dengeye getirmek için rekabet eksikliğinin olduğu durumlarda faydalı olabilir.
+Closed Agreements represent an agreement between only one Indexer and one Consumer. It’s a direct relationship where all payment flows between the two parties for the work that is done. Closed Agreements are designed to give Indexers confidence that there is a market for data from a particular SubQuery Project, and essentially signal to them which Projects should be indexed. Closed Plans can also be placed on existing SubQuery Projects to attract additional Indexers to that SubQuery Project. This may be useful in situations where the existing monopolistic Indexer may be charging an unreasonable amount for the data or there is a lack of competition to drive prices to equilibrium.
 
-### Kapanan Planlar ve Anlaşmalar
+### Open Plans and Agreements
 
-Açık Sözleşmeler, Kapalı Sözleşmelere benzer, ancak birden fazla Dizin Oluşturucunun Tüketiciye veri sağlamak için katılmasına ve rekabet etmesine izin verir. Bir Açık Sözleşme, bir Tüketici ile bir Dizin Oluşturucu arasında bir Sözleşme olarak başlayabilir, ancak daha fazla taraf, "n" Dizin Oluşturucular ve "n" Tüketiciler ile sonuçlanan mevcut Anlaşmaya katılabilir.
+Open Agreements are similar to Closed Agreements, but allow multiple Indexers to join and compete to provide data to the Consumer. An Open Agreement may start as an Agreement between one Consumer and one Indexer, but more parties may join the existing Agreement resulting in ’n’ Indexers and ’n’ Consumers.
 
-Açık Sözleşmeler, hem Dizin Oluşturucular hem de Tüketiciler için uygun koşullar sağlar, ancak rekabet etmek ve aynı verileri sunmak için daha fazla Dizin Oluşturucuyu çekerek Tüketiciler için daha iyi performans ve güvenilirlik sağlar. Tüketiciler dünya çapındaki kullanıcılarla büyük ölçekli uygulamalar çalıştırıyorsa, Açık Sözleşmeler idealdir.
+Open Agreements provide favourable terms for both Indexers and Consumers, but enable better performance and reliability for Consumers by attracting more Indexers to compete and serve the same data. If Consumers are running large scale applications with users around the world, then Open Agreements are ideal.
 
 ![](https://miro.medium.com/max/1400/0*sc9-ee7VTl0XEhTS)
 
-dizin oluşturucular için yukarıdaki üç ödeme seçeneğinin birleşimi, Tüketiciler ve Dizin Oluşturucular için birkaç gelişmiş abonelik tabanlı seçenek sunar. Bazı taraflar, Kapanan Sözleşmeler tarafından sağlanan ödüllerin kesinliğinden ve yinelenen maliyetlerin öngörülebilirliğinden yararlanabilir. Aynı şekilde, diğerleri de Kullandıkça Öde pazarında yüksek hacimli yinelenen anlaşmalar veya düşük spot fiyatlara giderek en uygun fiyatlı verileri aramayı tercih edebilir.
+he combination of the above three payment options for indexers provide several advanced subscription based options for Consumers and Indexers. Some parties may benefit from the certainty of rewards provided by Closed Agreements and the predictability of recurring costs. Equally, others may instead prefer to hunt out the most affordable data by going for high volume recurring agreements or low spot prices on the Pay-as-you-Go market.
 
-Bu değişiklikler ve teknik incelemede özetlenen diğerleri, mümkün olan en büyük web3 altyapı hizmetini oluşturmaya odaklandığımızı göstermektedir. Belirteç ekonomik tasarımımızın dikkatlice düşünüldüğünden ve tüm katılımcılar için kapsayıcı büyüme için tasarlandığından eminiz. Devasa bir merkezi hizmetle başlayıp, yavaş yavaş merkezi olmayan bir hizmete geçmek kolay olmasa da, SubQuery ekibi bu zorlu göreve hazır ve umarız bize katılırsınız!
+These changes, and many others outlined in the whitepaper illustrate our focus on building the largest web3 infrastructure service possible. We are confident that our token economic design is carefully considered and designed for inclusive growth for all participants. While starting with a huge centralised service and slowly moving towards a decentralised one isn’t easy, the team at SubQuery is up for the challenge and we hope you’ll join us!
 
-Daha fazla bilgi için lütfen [Discord'daki ekibimizle iletişime geçin](https://discord.com/invite/78zg8aBSMG) veya bir sonraki “Ofis Saatlerimizde” bizimle sohbet edin. Ayrıca, yaklaşan SubQuery test ağında dizin oluşturucu olmak için [ilgi ifadenizi kaydedebilirsiniz](https://forms.gle/RyXyhb8T9Gxkwi7R9).
+For further information, please [contact our team in Discord](https://discord.com/invite/78zg8aBSMG) or chat with us in our next “Office Hours”. You can also [register your expression of interest](https://forms.gle/RyXyhb8T9Gxkwi7R9) to become an indexer in the imminent SubQuery test network.
 
-[Güncellenen teknik incelemeyi okuyun](https://static.subquery.network/whitepaper.pdf)
+[Read the updated whitepaper](https://static.subquery.network/whitepaper.pdf)
 
-## SubQuery Ağı Hakkında
+## About SubQuery Network
 
-SubQuery'nin misyonu, diğerlerinin merkezi olmayan bir geleceğe daha hızlı geçmemizi sağlayan ürünler oluşturmasına yardımcı olmaktır. SubQuery, bir blockchain geliştirici araç takımı ve web3 altyapısının omurgasıdır. Bir SubQuery projesi, zincirlerdeki verileri düzenlemek ve sorgulamak için eksiksiz bir API'dir. Katman 1 blok zincirleri ve merkezi olmayan uygulamalar (dApp) arasında çalışan SubQuery, GraphQL üzerinden iyi yapılandırılmış verileri organize eden ve sunan açık kaynaklı bir dizin oluşturucudur. SubQuery, web3 verileriyle yeni nesil dApp'lere ve araçlara güç sağlar
+SubQuery’s mission is to help others create products that allow us to move to a decentralised future faster. SubQuery is a blockchain developer toolkit and the backbone of web3 infrastructure. A SubQuery project is a complete API to organise and query data from chains. Operating between layer-1 blockchains and decentralised apps (dApp), SubQuery is an open-source indexer organising and serving well-structured data over GraphQL. SubQuery powers the next generation of dApps and tools with web3 data
 
-Şu anda herkes, blockchain verilerini yalnızca birkaç dakika içinde ve ücretsiz olarak, ancak merkezi bir şekilde ayıklamak ve sorgulamak için SubQuery'yi kullanabilir. SubQuery Ağı, aynı ölçeklenebilir ve performanslı çözümü, ancak tamamen merkezi olmayan bir şekilde etkinleştirmeyi önerir.
+Currently, anyone can already use SubQuery to extract and query blockchain data in only minutes and at no cost but in a centralised way. The SubQuery Network proposes to enable this same scalable and performant solution, but in a completely decentralised way.
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)

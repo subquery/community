@@ -14,7 +14,7 @@
 
 ![](https://miro.medium.com/max/1400/0*gquKRKBgiyAAxRFZ)
 
-> “เราเลือกใช้ SubQuery เนื่องจากเอกสารดูชัดเจนสำหรับเราในแวบแรก และเราไม่ได้เข้าใจผิด SubQuery ให้สภาพแวดล้อมที่สมบูรณ์ด้วย docker ซึ่งทำให้การทดสอบและการปรับใช้ทำได้ง่ายมาก มันค่อนข้างง่ายที่จะพัฒนาในสภาพแวดล้อมนี้และง่ายที่จะตั้งโปรแกรมการรับรู้เหตุการณ์ต่างๆ ที่ปล่อยออกมาจากบล็อคเชนของเรา ขอแสดงความยินดีกับการสนับสนุนที่ตอบสนองได้ดีมากๆ” — CTO ของ Ternoa
+> _"We made the choice to use SubQuery because the documentation seemed clear to us at first glance and we were not mistaken. SubQuery ให้สภาพแวดล้อมที่สมบูรณ์ด้วย docker ซึ่งทำให้การทดสอบและการปรับใช้ทำได้ง่ายมาก มันค่อนข้างง่ายที่จะพัฒนาในสภาพแวดล้อมนี้และง่ายที่จะตั้งโปรแกรมการรับรู้เหตุการณ์ต่างๆ ที่ปล่อยออกมาจากบล็อคเชนของเรา Congratulations also to the support which is very responsive."_ — Ternoa CTO
 
 บริการของ [SubQuery](https://subquery.network/) ยังช่วยดึงและ query ข้อมูลบนเชนสำหรับ Secret-NFT ที่ถูกสร้างขึ้นบน Ternoa Blockchain โดยช่วยในลักษณะที่รองรับคุณลักษณะเฉพาะของ NFT ของ Ternoa
 

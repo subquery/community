@@ -10,7 +10,7 @@ Jeder kennt, dass eine Kernschwäche von Blockchain-Daten darin besteht, dass di
 
 Die Erstellung eines SubQuery-Projekts ist und wird kostenlos. Entwickler sollten Zeit damit verbringen, Infrastruktur aufzubauen und nicht zu betreiben. Wir glauben jedoch, dass eine gesunde dezentrale Zukunft die Zusammenarbeit mehrerer verteilter Datendienstanbieter erfordert, um die Ausfallsicherheit, Geschwindigkeit und Netzwerkleistung zu verbessern.
 
-# Einführung in das SubQuery-Netzwerk:
+## Introducing The SubQuery Network:
 
 Das SubQuery-Netzwerk ist unser Bestreben, uns in Richtung eines dezentralisierten und tokenisierten Netzwerks zu bewegen, um für SubQuery keinen Single Point of Failure zu gewährleisten und so viele Teilnehmer wie möglich in den Prozess einzubinden.
 

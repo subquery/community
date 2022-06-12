@@ -8,9 +8,9 @@ Solarbeam recently launched [Eclipse](https://app.solarbeam.io/eclipse), a launc
 
 ![](https://miro.medium.com/max/1400/1*IbRN8EnymWvqvh0sx_PNKw.png)
 
-> _“_SubQuery has proved to be a reliable tool for querying events and transactions on EVM and Substrate based chains, with a minimal latency for syncing new data and suitable for large amounts of data. As a result, we believe SubQuery will provide as good of an experience on Moonbeam as it has for us on Moonriver”. _— Founder, Solarbeam_
+> _"SubQuery has proved to be a reliable tool for querying events and transactions on EVM and Substrate based chains, with a minimal latency for syncing new data and suitable for large amounts of data. As a result, we believe SubQuery will provide as good of an experience on Moonbeam as it has for us on Moonriver"_ — Founder, Solarbeam
 
-[SubQuery’s](https://subquery.network/) service helps drive analytics for the Eclipse IDO launchpad by Solarbeam. Ahead of their launch on Moonbeam, Solarbeam will be integrating SubQuery with their user portfolio analytics tool which will enable users to track their farming and profit history. This is made possible by the [recent integration of Moonbeam and Moonriver’s EVM with SubQuery](https://subquery.medium.com/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff).
+[SubQuery’s](https://subquery.network/) service helps drive analytics for the Eclipse IDO launchpad by Solarbeam. Ahead of their launch on Moonbeam, Solarbeam will be integrating SubQuery with their user portfolio analytics tool which will enable users to track their farming and profit history. This is made possible by the [recent integration of Moonbeam and Moonriver’s EVM with SubQuery](./20211028-moonbeam-evm.md).
 
 ![](https://miro.medium.com/max/1400/1*6_iO6tLt4RxxMvs8u-F_Bg.png)
 
@@ -21,8 +21,6 @@ In the example below, we’re using SubQuery to easily retrieve the top two part
 Solarbeam is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/).
 
 [You can take a look at Solarbeam’s project in SubQuery’s Explorer here](https://explorer.subquery.network/subquery/csntest/eclipse)
-
----
 
 ## About Solarbeam
 

@@ -10,7 +10,7 @@ Giao diện người dùng này sử dụng [dự án SubQuery](https://explorer
 
 ![](https://miro.medium.com/max/1400/0*3TdpXjj1iwGNdA3n)
 
-> “Ban đầu, chúng tôi nhận ra SubQuery đang giúp chúng tôi rất nhiều, vì vậy chúng tôi có thể hoàn toàn tập trung vào kiến ​​trúc GraphQL và logic hợp nhất NFT. Nhờ SubQuery, giờ đây chúng tôi đang nghĩ đến một bộ tính năng khác mà chúng tôi có thể dễ dàng thêm vào cuối tuần ”- Kodadot
+> _"Ban đầu, chúng tôi nhận ra SubQuery đang giúp chúng tôi rất nhiều, vì vậy chúng tôi có thể hoàn toàn tập trung vào kiến ​​trúc GraphQL và logic hợp nhất NFT. Nhờ SubQuery, giờ đây chúng tôi đang nghĩ đến một bộ tính năng khác mà chúng tôi có thể dễ dàng thêm vào cuối tuần"_ — Kodadot
 
 Dịch vụ của [SubQuery](https://subquery.network/) giúp Kodadot trích xuất và truy vấn dữ liệu chuỗi cho NFT trên Kusama và thực hiện việc này theo cách tiết kiệm năng lượng và thân thiện hơn.
 

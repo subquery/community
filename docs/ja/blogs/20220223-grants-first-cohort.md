@@ -1,0 +1,37 @@
+# SubQuery Announces First Cohort of SubQuery Grants Recipients
+
+![](https://miro.medium.com/max/1400/1*qp0hhPcvodDIMmVScohSnw.png)
+
+SubQuery, the leading data indexing solution in Polkadot, is happy to announce that four teams have been selected as the first ever cohort of SubQuery Grants recipients. These teams are [Alphabit](https://www.polkadata.xyz/), [Zoombies](https://zoombies.world), [Dapplooker](https://dapplooker.com/) and [Dotsama](http://dotsama.ai/).
+
+[The USD $500,000 SubQuery Grants Program kicked off in December 2021](./20211222-grants.md) with the vision of offering opportunities to blockchain developers, community members, and wider ecosystem participants to create innovative or high-potential ideas that leverage SubQuery's open-source data indexing tools to support cutting-edge decentralised applications.
+
+The first in the cohort, [Alphabit](https://www.polkadata.xyz/), are endeavouring to empower the independent investor by providing visibility to track and analyse the portfolios and investments of funds, and large traders or 'whales'. They will use SubQuery to power the on-chain data metrics required to propel them to become a leading market analytics player in Polkadot. SubQuery believes this will make a significant impact in the Polkadot ecosystem which is currently lacking in strong investment analysis tools.
+
+> _"We are honoured and delighted to be a part of the SubQuery Grants Programme and to hold a collaborative partnership with SubQuery. The business advice and technical support from SubQuery has completely surpassed our expectations about the support we could receive as a small analytics startup. The generous funding we've received from SubQuery will allow us to build the next wave of key analytics for the Polkadot / Kusama DeFi community. One of the most valuable benefits of this programme will be connecting with SubQuery's network of strategic partners and fellow builders. We are early in our journey and SubQuery's grant partnership will be the rocket fuel needed for us to get to the next level"_ - Michael Anderson, Business Development & Strategic Partnerships (Alphabit)
+
+Meanwhile, [Zoombies](https://zoombies.world/) submitted a proposal in the hopes of using SubQuery to expedite their goal of deepening the value of the growing world of collectible play-to-earn (P2E) tokens. Their project will access the complete history of past event data within a game to produce meaningful views and enrich the player experience. The SubQuery project as well as the benefits received within the SubQuery Grants Programme are going to enable Zoombies to deliver an exceptionally informative front-end to their users.
+
+> _"The SubQuery Grants Programme has been a very clear step-by-step reward driven process. James and the team directed us to embrace an iterative approach to our implementation that would provide small achievable complete goals before attempting to implement the more challenging tasks we have outlined. This approach has been a great boost in our confidence towards success with this project"_ - Ryan Price, CEO (Zoombies)
+
+The third team in our initial cohort is [Dapplooker](https://dapplooker.com/), who aim to empower Polkadot projects with beautiful and easy-to-build analytics tools such as explorers, charts and dashboards. These valuable metrics will be built on top of SubQuery projects to fetch the required data and present it to its audience in an intuitive and aesthetic format.
+
+> _"Dapplooker's partnership with SubQuery will enable analytics and dashboard solutions to Polkadot developers. Polkadot users can create, fork and share dashboards on top of SubQuery data to track key metrics and provide feedback on performance and adoption. Dapplooker's intuitive visual SQL editor will help browse GraphQL data in tabular form and write SQL queries using an easy to use editor"_ - Abhinav Singh, Founder & Lead Developer (Dapplooker)
+
+Finally, the fourth and final grant recipient in this cohort is [Dotsama](http://dotsama.ai/). The Dotsama team are also determined to bring rich insights to the average investor in the Polkadot / Kusama ecosystem, by aiming to be a one-stop analytics shop with tools to identify early investment trends and opportunities. In order to power such insights, Dotsama requires a strong foundation of data which is where SubQuery steps in as a natural partner.
+
+> _"SubQuery and its ecosystem's success is very important to the success of Polkadot and the web3 space in general. By being part of the SubQuery Grants Programme, we are not just looking to get technical and strategic guidance, we are also looking to become part of this community and help accelerate the movement."_ - Sudarshan Acharya, Founder (Dotsama)
+
+Brittany Seales, who administers the SubQuery Grants Programme commented, _"We are delighted to welcome these teams into the SubQuery ecosystem after they have been awarded the first ever SubQuery Grants. SubQuery is a fundamental part of Polkadot's infrastructure and we believe by supporting up-and-coming projects like Zoombies, Alphabit, Dotsama and Dapplooker and connecting them to existing parachain teams, we can accelerate our vision of a Web3 data revolution"_
+
+SubQuery is eager to support all the teams to bring their visions to life and hopes that the success of these teams will motivate more to apply. In addition to general Grants like the ones awarded to our first cohort, there are also ongoing [technical bounties in partnership with leading parachain teams in Polkadot](./20220127-grants-bounties.md) such as Moonbeam, Acala, Astar and Bifrost on [SubQuery's website](https://subquery.network/grants).
+
+Applicants who are interested in any of these bounties are encouraged to submit their proposal with the budget required to complete the task and other requirements [here](https://docs.google.com/forms/d/e/1FAIpQLSfmMazkebKwNTWThBkVGaxf2Bg8s4aWZ0ZhwiMCtc9kv4sJHQ/viewform). If you have any questions please join our Discord server and reach out to our team in the Grants channel.
+
+For those who would like to up-skill more on SubQuery before making an application, [The SubQuery Academy](./20211018-subquery-launches-the-subquery-academy.md)'s _"Hero Course"_ is a free and modular educational program designed to build awareness amongst developers. and is [completely free and accessible via an online portal](https://subquery.coassemble.com/unlock/dOKZW6O#/).
+
+## About SubQuery
+
+[SubQuery](https://subquery.network) is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications. This service unlocks blockchain data and transforms it to a queryable state so that it can be used in intuitive applications. It allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The upcoming SubQuery Network will decentralize and tokenize the ecosystem to allow everyone to participate in the web3 data revolution.
+
+​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)

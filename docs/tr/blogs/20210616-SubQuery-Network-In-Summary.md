@@ -1,11 +1,10 @@
 # SubQuery Network - Özet
 
-> SubQuery Network nasıl çalışır? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)
+**SubQuery Network nasıl çalışır? [ELI5](https://www.dictionary.com/e/slang/eli5/#:~:text=ELI5%20stands%20for%20the%20phrase,naive%20understanding%20of%20the%20issue.)**
 
 Bugün, SubQuery Network'ün yüksek düzeyde nasıl çalıştığı hakkında konuşacağız.
 
 ## Katılımcılar
-
 
 ![](https://miro.medium.com/max/1400/1*9993cakplwupZC5tbUv3vA.png)
 
@@ -13,9 +12,9 @@ SubQuery Network'deki Katılımcılar
 
 SubQuery Network'de üç tür katılımcı vardır:
 
--   **Tüketiciler**: Tüketiciler, belirli veriler için SubQuery Network'e talepte bulunacak ve reklamı yapılan SQT miktarını ödeyecektir
--   **İndeksleyiciler**: Indeksleyiciler, verileri endekslemek ve GraphQL isteklerini yanıtlamak için hem node hem de sorgu hizmetini çalıştırarak SubQuery Projelerini kendi altyapılarında barındırır.
--   **Yetkililer**: Delegeler, ödül kazanmak için favori Indeksleyicileri destekleyerek ağa katılacak
+- **Tüketiciler**: Tüketiciler, belirli veriler için SubQuery Network'e talepte bulunacak ve reklamı yapılan SQT miktarını ödeyecektir
+- **İndeksleyiciler**: Indeksleyiciler, verileri endekslemek ve GraphQL isteklerini yanıtlamak için hem node hem de sorgu hizmetini çalıştırarak SubQuery Projelerini kendi altyapılarında barındırır.
+- **Yetkililer**: Delegeler, ödül kazanmak için favori Indeksleyicileri destekleyerek ağa katılacak
 
 ## Indeksleyiciler, Tüketiciler ve Sorgucular
 
@@ -25,7 +24,7 @@ Bu zaman ve para gerektirir, ancak buna sahip olduklarında Tüketiciler gelip t
 
 ![](https://miro.medium.com/max/1400/1*dKLkzSc2uXYaPW_IXUxstQ.png)
 
-Tüketiciler, belirli veriler için SubQuery network'e talepte bulunacak ve reklamı yapılan SQT miktarını ödeyecektir.
+Tüketiciler: Tüketiciler, belirli veriler için SubQuery network'e talepte bulunacak ve reklamı yapılan SQT miktarını ödeyecektir.
 
 ## Cobb-Douglas Üretim Fonksiyonu
 

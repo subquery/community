@@ -6,9 +6,9 @@
 
 ![sora-frontend.jpg](https://miro.medium.com/max/1400/1*pq0U6wsutlf8rjXqq7i2BQ.jpeg)
 
-> "SubQuery была выбрана для улучшения использования UX сети SORA. Мы использовали SubQuery для получения и перечисления внешних данных, расчета фиатных цен и APY пула ликвидности. Нашей целью было получить историю транзакций и агрегированные данные для приложений, которые работают с сетью SORA.
+> _"SubQuery была выбрана для улучшения UX сети SORA. Мы использовали SubQuery для получения и перечисления внешних данных, расчета фиатных цен и APY пула ликвидности. Нашей целью было получить историю транзакций и агрегированные данные для приложений, которые работают с сетью SORA._
 > 
-> SubQuery стал идеальным решением для наших целей, потому что приложением легко управлять и запускать, его легко изучать и осваивать, а также оно хорошо задокументировано, кроме того, оно имеет собственную инфраструктуру включающую интеграцию с Github. Простое структурирование данных SubQuery обеспечивает быстрый доступ, поддерживает GraphQL API для клиентских приложений, имеет гибкую конфигурацию для анализа событий, внешних элементов и блоков с дополнительной фильтрацией. Наконец, приложение полностью прозрачно для пользователей, благодаря этому они не заметят было ли приложение обновлено или остановлено », - команда разработчиков SORA
+> _SubQuery был идеальным решением для наших нужд, потому что приложение легко развертывается и управляется, его легко изучать и использовать, а также он хорошо документировано и имеет собственную инфраструктуру и интеграцию в Github. Простое структурирование данных SubQuery обеспечивает быстрый доступ, поддерживает GraphQL API для клиентских приложений, имеет гибкую конфигурацию для анализа событий, внешних элементов и блоков с дополнительной фильтрацией. Наконец, приложение полностью прозрачно для пользователей, поэтому они не заметят, было ли приложение обновлено или остановлено"._ — Команда разработчиков SORA
 
 Polkaswap является ведущим DEXом в процветающей экосистеме Polkadot и использует SubQuery для получения переводов, свопов, которые происходят в Polkaswap, добавления или извлечения ликвидности, фиксирования цены токенов и APY для пулов ликвидности.
 
@@ -24,18 +24,16 @@ SORA использует [SubQuery Projects](https://project.subquery.network/)
 
 Изучите проект SORA в поисковике SubQuery [тут](https://explorer.subquery.network/subquery/sora-xor/sora).
 
----
-
-### О SORA
+## Подробнее о SORA
 
 SORA создает наднациональную мировую экономическую систему со встроенными инструментами для децентрализованного финансирования (DeFi) под демократическим контролем парламента SORA на основе криптографической жеребьевки.
 
 Сеть SORA выделяется тем, что предоставляет инструменты для децентрализованных приложений, использующих цифровые активы, такие как атомарные обмены токенов, связывание токенов с другими блокчейнами и создание программных правил, связанных с цифровыми активами.
 
-[Website](https://sora.org/) | [Reddit](https://www.reddit.com/r/SORA/) | [Blog](https://sora.org/blog) | [Telegram](https://t.me/sora_xor) | [Twitter](https://twitter.com/sora_xor) | [YouTube](https://youtube.com/sora_xor) | [Instagram](https://instagram.com/sora_xor)
+[Веб-сайт](https://sora.org/) | [Reddit](https://www.reddit.com/r/SORA/) | [блог](https://sora.org/blog) | [Telegram](https://t.me/sora_xor) | [Twitter](https://twitter.com/sora_xor) | [YouTube](https://youtube.com/sora_xor) | [Instagram](https://instagram.com/sora_xor)
 
-### Про SubQuery
+## О проекте SubQuery
 
 [SubQuery](https://subquery.network/) это децентрализованный агрегатор данных, индексирующий уровень поисковых запросов между блокчейнами первого уровня и децентрализованными приложениями (DApps). В настоящее время ориентированы на проекты Polkadot и Substrate, эти данные как услуга позволяют разработчикам сосредоточиться на их основном роде деятельности и интерфейсе, не тратя время на создание настраиваемого внутреннего интерфейса для обработки данных.
 
-[Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Email](mailto:hello@subquery.network)
+[Веб-сайт](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Email](mailto:hello@subquery.network)

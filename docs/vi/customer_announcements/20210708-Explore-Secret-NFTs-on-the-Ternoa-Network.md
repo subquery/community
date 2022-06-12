@@ -14,7 +14,7 @@ Phần Bí Mật sẽ có thể dễ dàng truy cập bởi người dùng Walle
 
 ![](https://miro.medium.com/max/1400/0*gquKRKBgiyAAxRFZ)
 
-> “Chúng tôi đã lựa chọn sử dụng SubQuery vì thoạt nhìn tài liệu này có vẻ rõ ràng đối với chúng tôi và chúng tôi đã không nhầm. SubQuery cung cấp một môi trường hoàn chỉnh với một máy docker giúp việc kiểm tra và triển khai rất dễ dàng. Nó tương đối dễ dàng để phát triển trong môi trường này và lập trình lắng nghe các sự kiện khác nhau được phát ra bởi blockchain của chúng tôi. Cũng xin được chúc mừng và cảm ơn sự hỗ trợ rất nhiệt tình.” — Ternoa CTO
+> _"Chúng tôi đã lựa chọn sử dụng SubQuery vì thoạt nhìn tài liệu này có vẻ rõ ràng đối với chúng tôi và chúng tôi đã không nhầm. SubQuery cung cấp một môi trường hoàn chỉnh với một máy docker giúp việc kiểm tra và triển khai rất dễ dàng. Nó tương đối dễ dàng để phát triển trong môi trường này và lập trình lắng nghe các sự kiện khác nhau được phát ra bởi blockchain của chúng tôi. Cũng xin được chúc mừng và cảm ơn sự hỗ trợ rất nhiệt tình."_ — Ternoa CTO
 
 Các dịch vụ của [SubQuery](https://subquery.network/) cũng giúp trích xuất và truy vấn dữ liệu chuỗi cho các NFT-Bí Mật được đúc trên Ternoa Blockchain, theo cách hỗ trợ các tính năng độc đáo của Ternoa’s NFT.
 

@@ -2,12 +2,12 @@
 
 Đó là một vài tháng cuối cùng căng thẳng tại OnFinality và SubQuery, chúng tôi đã mở rộng nhóm và thu hút thêm một số đối tác mới khi chúng tôi khởi động một số dự án mới quan trọng. Bản cập nhật tháng này bao gồm:
 
--   Trình khám phá SubQuery
--   Cập nhật vòng hạt giống
--   Tính ứng dụng đầu tiên của đối tác cho SubQuery
--   Berkeley Blockchain Xcelerator
--   Định tuyến thông minh
--   Văn phòng mới và các thành viên trong nhóm
+- Trình khám phá SubQuery
+- Cập nhật vòng hạt giống
+- Tính ứng dụng đầu tiên của đối tác cho SubQuery
+- Berkeley Blockchain Xcelerator
+- Định tuyến thông minh
+- Văn phòng mới và các thành viên trong nhóm
 
 ## SubQuery Explorer đi vào hoạt động
 
@@ -15,12 +15,11 @@
 
 Chúng tôi chạy các dự án SubQuery trong đó giống như chúng là các ứng dụng sản xuất, vì vậy, bạn có thể mở khóa dữ liệu phi tập trung của mình trong dApp tiếp theo ngay hôm nay bằng cách sử dụng SubQuery.
 
-
 ![](https://miro.medium.com/max/1400/1*GE-Y6XKNOkj_MKY4ZuM5oQ.png)
 
 ## **SubQuery đã gọi vốn 1,8 triệu đô la vòng hạt giống để phục vụ việc mở rộng trong tương lai**
 
-SubQuery đã sẵn sàng để phát triển và bùng nổ! [Chúng tôi đã huy động thành công vòng hạt giống 1,8 triệu đô la Mỹ](https://subquery.medium.com/subquery-raises-1-8m-seed-round-for-future-expansion-3348c1f2a931) và vòng bán riêng tư được hỗ trợ chủ yếu bởi DeFi Alliance, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG) và The Lao. Nhu cầu lớn mà chúng tôi nhận được để hỗ trợ vòng hạt giống của SubQuery cho thấy sự quan tâm mạnh mẽ đến các dịch vụ cơ sở hạ tầng và niềm tin vào tương lai của hệ sinh thái Polkadot.
+SubQuery đã sẵn sàng để phát triển và bùng nổ! [Chúng tôi đã huy động thành công vòng hạt giống 1,8 triệu đô la Mỹ](../blogs/20210312-SubQuery-Raises-%241.8M-Seed-Round-for-Future-Expansion.md) và vòng bán riêng tư được hỗ trợ chủ yếu bởi DeFi Alliance, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG) và The Lao. Nhu cầu lớn mà chúng tôi nhận được để hỗ trợ vòng hạt giống của SubQuery cho thấy sự quan tâm mạnh mẽ đến các dịch vụ cơ sở hạ tầng và niềm tin vào tương lai của hệ sinh thái Polkadot.
 
 _Chúng tôi đang lên kế hoạch mở bán/gọi vốn vòng riêng tư tiếp theo trong thời gian tới. Nếu bạn quan tâm vui lòng đăng ký tại đây:_ [_https://forms.gle/6LMapDNSidQAqy347_](https://forms.gle/6LMapDNSidQAqy347)
 
@@ -28,25 +27,25 @@ _Chúng tôi đang lên kế hoạch mở bán/gọi vốn vòng riêng tư ti�
 
 SubQuery tập trung tất cả vào việc cung cấp dịch vụ dữ liệu cho các đối tác và khách hàng. Mọi nhóm blockchain và những người xây dựng dApp đều có nhu cầu xử lý và truy vấn dữ liệu nhanh chóng và để giấc mơ web3 thành hiện thực, nó phải nhanh (nếu không muốn nói là nhanh hơn) so với các mạng tập trung cho người dùng cuối. Đó là lý do tại sao chúng tôi đang tăng cường hợp tác với các dự án Polkadot hàng đầu để cung cấp dịch vụ SubQuery miễn phí cho các giao thức của họ.
 
-[Trước đó, chúng tôi đã khởi động mối quan hệ hợp tác đầu tiên với những người bạn thân thiết của mình tại Acala](https://subquery.medium.com/subquery-integrates-acala-to-aggregate-and-serve-defi-data-to-polkadot-and-kusama-builders-fc9af6a7aae1) để cho phép người dùng và nhà phát triển truy vấn và trích xuất dữ liệu từ trung tâm DeFi của Acala cho Polkadot chỉ trong vài phút và hoàn toàn miễn phí. Khi bạn truy cập SubQuery Explorer, bạn sẽ được chào đón với Dự án Acala SubQuery mới. SubQuery này tự động theo dõi tất cả dữ liệu bên ngoài được tạo trên Acala và có thể nhanh chóng hiển thị số liệu thống kê tổng hợp có nguồn gốc cho những điều sau:
+[Trước đó, chúng tôi đã khởi động mối quan hệ hợp tác đầu tiên với những người bạn thân thiết của mình tại Acala](../customer_announcements/20210316-SubQuery-Integrates-Acala-to-Aggregate-and-Serve-DeFi-Data-to-Polkadot-and-Kusama-Builders.md) để cho phép người dùng và nhà phát triển truy vấn và trích xuất dữ liệu từ trung tâm DeFi của Acala cho Polkadot chỉ trong vài phút và hoàn toàn miễn phí. Khi bạn truy cập SubQuery Explorer, bạn sẽ được chào đón với Dự án Acala SubQuery mới. SubQuery này tự động theo dõi tất cả dữ liệu bên ngoài được tạo trên Acala và có thể nhanh chóng hiển thị số liệu thống kê tổng hợp có nguồn gốc cho những điều sau:
 
--   Dữ liệu lịch sử về những thay đổi thanh khoản (được chia nhỏ bởi các nhà cung cấp)
--   Dữ liệu lịch sử về tất cả các hoán đổi tài sản chuỗi chéo
--   Lịch sử gao dịch
+- Dữ liệu lịch sử về những thay đổi thanh khoản (được chia nhỏ bởi các nhà cung cấp)
+- Dữ liệu lịch sử về tất cả các hoán đổi tài sản chuỗi chéo
+- Lịch sử gao dịch
 
 ![](https://miro.medium.com/max/1400/0*LOig1jNfPTuVk73D)
 
-> Bạn có thể tạo một dApp cho người cho vay hiển thị tỷ lệ thế chấp, số tiền cho vay, lãi tích lũy,. Hoặc một dịch vụ cho các sàn giao dịch phi tập trung với tính thanh khoản của cặp, tỷ giá hối đoái, khối lượng giao dịch.
+Bạn có thể tạo một dApp cho người cho vay hiển thị tỷ lệ thế chấp, số tiền cho vay, lãi tích lũy,. Hoặc một dịch vụ cho các sàn giao dịch phi tập trung với tính thanh khoản của cặp, tỷ giá hối đoái, khối lượng giao dịch.
 
 Chúng tôi đang có kế hoạch sớm cải thiện các công cụ đối tác của mình và đang lên kế hoạch giới thiệu các giao thức hàng đầu khác trong một hoặc hai tuần tới với tốc độ nhanh chóng.
 
-_Bạn có muốn bắt đầu và tạo một dự án SubQuery mới cho dApp của riêng bạn không - _ [_hãy bắt đầu ngay bây giờ_](https://doc.subquery.network/quickstart.html) _. Chúng tôi thậm chí sẽ lưu trữ nó trong_ [_SubQuery Explorer_](https://subquery.medium.com/announcing-the-subquery-explorer-48c051483730) _hoàn toàn miễn phí!_
+_Bạn có muốn bắt đầu và tạo một dự án SubQuery mới cho dApp của riêng bạn không - _ [_hãy bắt đầu ngay bây giờ_](https://doc.subquery.network/quickstart.html) _. Chúng tôi thậm chí sẽ lưu trữ nó trong_ [_SubQuery Explorer_](../blogs/20210305-Announcing-the-SubQuery-Explorer.md) _hoàn toàn miễn phí!_
 
 ## **Berkeley Blockchain Xcelerator**
 
-[Chúng tôi rất vui mừng thông báo vào tháng 3](https://subquery.medium.com/subquery-joins-berkeleys-blockchain-xcelerator-7ea81f96af73) rằng Berkeley đã chọn SubQuery trở thành một phần của [Blockchain Xcelerator](https://www.xcelerator.berkeley.edu/) độc quyền của họ. SubQuery (và công ty mẹ của nó là OnFinality) đã được chọn từ hơn 200 ứng dụng để trở thành một phần của chỉ 21 vị trí độc quyền.
+[Chúng tôi rất vui mừng thông báo vào tháng 3](../blogs/20210523-SubQuery-Joins-Berkeleys-Blockchain-Xcelerator.md) rằng Berkeley đã chọn SubQuery trở thành một phần của [Blockchain Xcelerator](https://www.xcelerator.berkeley.edu/) độc quyền của họ. SubQuery (và công ty mẹ của nó là OnFinality) đã được chọn từ hơn 200 ứng dụng để trở thành một phần của 21 vị trí độc quyền.
 
-Berkeley's blockchain Xcelerator được biết đến trên toàn thế giới như một trong những công cụ tăng tốc blockchain thành công nhất là có lý do. Nó đã ươm tạo được hơn 40 công ty và các công ty đó đã huy động được hơn 25 triệu đô la tiền tài trợ vòng hạt giống và giai đoạn đầu, và hơn 75% của nhóm đầu tiên này đã huy động vốn vòng tiếp theo.
+Berkeley's blockchain Xcelerator được biết đến trên toàn thế giới như một trong những công cụ tăng tốc blockchain thành công nhất là có lý do. Nó đã ươm tạo hơn 40 công ty đã huy động được hơn 25 triệu đô la tiền tài trợ hạt giống và giai đoạn đầu, và hơn 75% của lô đầu tiên đã đến vòng huy động vốn tiếp theo.
 
 ![](https://miro.medium.com/max/1400/0*t-_mRJaTnGDQO-VI)
 

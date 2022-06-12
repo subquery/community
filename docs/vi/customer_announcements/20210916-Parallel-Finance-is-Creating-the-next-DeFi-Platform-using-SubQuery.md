@@ -6,7 +6,7 @@ Sứ mệnh của Parallel là đổi mới và đưa DeFi lên một tầm cao 
 
 ![](https://cdn-images-1.medium.com/max/1600/1*5Ru0mv1hq86BuBhGwsmoqQ.png)
 
-> *"SubQuery là một công cụ tuyệt vời mang công nghệ truy vấn & lập chỉ mục truyền thống cho Parallel Heiko. Dịch vụ plug-and-play thực sự đã giúp chúng tôi tiết kiệm rất nhiều thời gian trong việc phát triển công cụ lập chỉ mục khối của riêng chúng tôi và duy trì giải pháp của riêng chúng tôi."* - Parallel Finance *
+> *"SubQuery là một công cụ tuyệt vời mang công nghệ truy vấn & lập chỉ mục truyền thống cho Parallel Heiko. Dịch vụ plug-and-play thực sự đã giúp chúng tôi tiết kiệm rất nhiều thời gian trong việc phát triển công cụ lập chỉ mục khối của riêng chúng tôi và duy trì giải pháp của riêng chúng tôi."* - Parallel Finance
 
 Dịch vụ của [SubQuery](https://subquery.network/) giúp Parallel Finance lưu trữ, phân tích và truy vấn dữ liệu trên mạng thử nghiệm Heiko hiện tại của họ. Một số dữ liệu này được sử dụng trực tiếp trong ứng dụng mới của Parallel, giúp người dùng hiểu và phân tích dữ liệu DeFi.
 
@@ -16,7 +16,7 @@ Sử dụng SubQuery, bạn có thể nhanh chóng truy vấn thông tin tài kh
 
 ![](https://cdn-images-1.medium.com/max/1600/1*FDRgez-G26x1DkWqCkORMQ.png)
 
-> *"Chúng tôi thích làm việc với đội ngũ SubQuery và dịch vụ khách hàng 1-1 mà họ cung cấp cho chúng tôi. Chúng tôi có kế hoạch sử dụng nó nhiều hơn khi chúng tôi giới thiệu nhiều tính năng hơn vào ứng dụng DeFi của mình. "* - Parallel Finance *
+> *"Chúng tôi thích làm việc với đội ngũ SubQuery và dịch vụ khách hàng 1-1 mà họ cung cấp cho chúng tôi. Chúng tôi có kế hoạch sử dụng nó nhiều hơn khi chúng tôi giới thiệu nhiều tính năng hơn vào ứng dụng DeFi của mình."* - Parallel Finance
 
 Trong ví dụ bên dưới, chúng tôi đang sử dụng SubQuery để hiển thị tỷ giá hối đoái lịch sử cho tất cả các tài sản ở tất cả các khối dữ liệu.
 
@@ -26,7 +26,7 @@ Parallel Finance đang sử dụng [Dự án SubQuery](https://project.subquery.
 
 [Bạn có thể khám phá dữ liệu của Parallel Finance trong SubQuery ngay hôm nay](https://explorer.subquery.network/subquery/parallel-finance/parallel-finance)
 
-* * * * *
+---
 
 ## Giới thiệu về Parallel Finance
 

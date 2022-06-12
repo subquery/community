@@ -4,7 +4,7 @@
 
 **Прочетете повече в нашия задълбочен преглед на най-новата версия на SubQuery**
 
-# Поддръжка за файлове от външен тип вериги в манифеста на проекта
+## Поддръжка на външни файлове с типове вериги в манифеста на проекта
 
 Днес стартира [версия 0.2.0](https://doc.subquery.network/create/manifest/) на манифестния файл на нашия проект (`project.yaml`). Тази нова версия предоставя на разработчиците различни подобрения, поискани от клиентите.
 
@@ -14,9 +14,9 @@
 
 [Можете да прочетете за новия файл на манифеста, включително как можете да мигрирате проектите си към него, тук в нашите актуализирани документи.](https://doc.subquery.network/create/manifest/)
 
-# Поддръжка на Moonbeam EVM
+## Поддръжка на Moonbeam EVM
 
-Миналата седмица с удоволствие [обявихме, че работим с Moonbeam, за да предоставим пълна поддръжка за EVM и Substrate индексиране на Moonriver](https://subquery.medium.com/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff).
+Миналата седмица имахме удоволствието да [обявим, че работим с Moonbeam, за да осигурим пълна поддръжка на индексирането на EVM и Substrate в Moonriver](../customer_announcements/20211028-moonbeam-evm.md).
 
 Днес допълваме това съобщение с информация за всички ресурси за разработчици, от които се нуждаете, за да започнете.
 
@@ -26,21 +26,21 @@
 
 ![](https://miro.medium.com/max/600/1*AET6Ek_PqFDRoc29Jiitnw.gif)
 
-[Първо, запознайте се с актуализираната документация за това как да се свържете и индексирате данни от Moonbeam, Moonbase Alpha и Moonriver.](https://doc.subquery.network/create/substrate-evm/) Процесът за индексиране на данни Moonbeam е само в две стъпки:
+[На първо място се запознайте с актуализираната документация за свързване и индексиране на данни от Moonbeam, Moonbase Alpha и Moonriver.](https://doc.subquery.network/create/substrate-evm/) Процесът на индексиране на данни от Moonbeam се състои само от две стъпки:
 
-## Стъпка 1: Добавете персонализирания източник на данни на Moonbeam
+### Стъпка 1: Добавете персонализирания източник на данни на Moonbeam
 
 Създадохме процесор на данни, специално създаден да работи с внедряването на Moonbeam на [Frontier](https://github.com/paritytech/frontier). Позволява ви да препращате към специфични ABI ресурси, използвани от процесора, за да анализирате аргументите и адреса на смарт контракта, от който идват събитията или до който е направено повикването. [Можете да прочетете повече тук](https://doc.subquery.network/create/substrate-evm/#data-source-spec).
 
 SubQuery въвежда по-усъвършенствани филтри от другите индексатори, позволявайки филтриране на транзакции извън контракта, податели на транзакции, контракти и индексирани аргументи от лога. Това позволява на разработчиците да създават голямо разнообразие от проекти, които отговарят на техните специфични нужди от данни.
 
-## Стъпка 2: Индексиране на Moonbeam данни
+### Стъпка 2: Индексиране на Moonbeam данни
 
 Точно като нормален проект на SubQuery, вие използвате мапинг функция за трансформиране на данни извън веригата към обектите на GraphQL, които дефинирате, разликата е, че вместо `SubstrateEvent` или `SubstrateExtrinsic`, вашата мапинг функция ще получи `MoonbeamCall` или `MoonbeamEvent`, които са базирани на типа [TransactionResponse](https://docs.ethers.io/v5/api/providers/types/#providers-TransactionResponse) или [Log](https://docs.ethers.io/v5/api/providers/types/#providers-Log) на Ether. [Можете да прочетете повече за тях тук](https://doc.subquery.network/create/substrate-evm/#frontierevmcall).
 
 [Прочетете пълната документация за този процес тук](https://doc.subquery.network/create/substrate-evm/#frontierevmcall)
 
-## Примерен проект
+### Примерен проект
 
 There is a complete example project that indexes eth `трансферни` събития и `одобрява` повиквания на смарт контракти. Кодът за този примерен проект е [тук в GitHub](https://github.com/subquery/tutorials-moonriver-evm-starter) или е достъпен чрез [работещия проект SubQuery в SubQuery Explorer тук](https://explorer.subquery.network/subquery/subquery/moonriver-evm-starter-project).
 

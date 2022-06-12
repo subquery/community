@@ -18,11 +18,11 @@
 
 폴카닷의 파라체인 아키텍처는 다른 레이어 1 블록체인과의 주된 차별화 요소입니다. 서롷 간에 경쟁하는 단일 체인 설계와 달리 각 파라체인은 릴레이체인을 통해 다른 파라체인과 상호 운용 및 자체적인 독립 프로토콜 역할을 수행합니다. 릴레이 체인에서 슬롯을 획득하기 위해 파라체인은 크라우드론 캠페인을 통해 커뮤니티에서 자금을 조달하고,  이 캠페인을 통해 참가자는 장기적으로 자신이 좋아하는 프로젝트에 대해 쿠사마 또는 폴카닷 토큰을 스테이킹 해야합니다. 처음부터 서브쿼리는 최소한의 구성으로 모든 파라체인과 통합되도록 구축되었습니다.
 
-서브쿼리는 이미 [폴카닷 & 쿠사마에서 구축된 60개 이상의 프로젝트](https://explorer.subquery.network/)에 매일 수백만 개의 데이터 쿼리를 제공하고 있습니다. 기존의 고객 층 중에는 [Subscan](https://subquery.medium.com/subscans-multi-signature-tool-powered-by-subquery-926da3e4fc25), [Fearless Wallet](https://explorer.subquery.network/subquery/ef1rspb/fearless-wallet) 및 [SubVis](https://subquery.medium.com/explore-kusama-auctions-with-subvis-io-and-subquery-522351538d17)와 같은 기존 애플리케이션과 통합되며, 쿠사마 파라체인 크라우드론 초기 5개 중 3개([Acala's Karura](https://subquery.medium.com/karura-integrates-with-subquery-to-aggregate-and-serve-defi-data-to-kusama-builders-d34f0e722311), Phala's Khala 그리고 [Bifrost](https://subquery.medium.com/bifrost-chooses-subquery-to-provide-the-data-for-their-new-dapp-c8005ee54f38)) 와 통합됩니다. 다음 5개의 파라체인 크라우드론은 9월 한 달 동안 진행될 예정입니다.
+서브쿼리는 이미 [폴카닷 & 쿠사마에서 구축된 60개 이상의 프로젝트](https://explorer.subquery.network/)에 매일 수백만 개의 데이터 쿼리를 제공하고 있습니다. Of its existing customer base, SubQuery is integrated with established applications like [Subscan](../customer_announcements/20210901-Subscans-Multi-Signature-Tool.md), [Fearless Wallet](https://explorer.subquery.network/subquery/ef1rspb/fearless-wallet) and [SubVis](../customer_announcements/20210622-Explore-Kusama-Auctions-with-Subvis.io-and-SubQuery.md), as well as three out of the initial five Kusama parachain crowdloan winners: [Acala's Karura](../customer_announcements/20210819-Karura-Integrates-with-SubQuery-to-Aggregate-and-Serve-DeFi-Data-to-Kusama-Builders.md), Phala's Khala, and [Bifrost](../customer_announcements/20210416-Bifrost-chooses-SubQuery-to-provide-the-data-for-their-new-dApp.md). 다음 5개의 파라체인 크라우드론은 9월 한 달 동안 진행될 예정입니다.
 
 이 모금 라운드는 2021년과 그 이후에 서브쿼리의 기술 및 커뮤니티 로드맵에 추진력을 불어넣어 줄 것입니다. 팀은 프로토콜을 분산 및 토큰화하고 서브쿼리 네트워크를 구축하여 전 세계에서 인센티브를 받은 참가자를 온보딩할 계획입니다. 서브쿼리는 이미 60개 이상이나 되는 다수의 프로젝트에서 호스팅 서비스를 사용하고 있기 때문에 계속해서 서비스를 개선하고 확장할 계획입니다. 앞으로 팀은 솔라나, 테라 등을 포함한 다른 레이어 1 체인과 통합할 계획입니다.
 
-* * * * *
+---
 
 ## 서브쿼리란
 

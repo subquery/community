@@ -16,21 +16,21 @@ Tháng trước, chúng tôi đã khởi chạy Chương trình SubQuery Grants,
 
 Các ứng viên quan tâm đến bất kỳ khoản tiền thưởng nào trong số này được khuyến khích gửi đề xuất của họ với ngân sách cần thiết để hoàn thành nhiệm vụ và các yêu cầu khác [tại đây](https://docs.google.com/forms/d/e/1FAIpQLSfmMazkebKwNTWThBkVGaxf2Bg8s4aWZ0ZhwiMCtc9kv4sJHQ/viewform). Ngoài ra, chúng tôi mong muốn thông báo nhưng người nhận tài trợ SubQuery cho vòng đầu tiên vào tháng 2.
 
-[Đọc thêm tại đây](https://subquery.medium.com/subquery-partners-with-leading-polkadot-teams-on-technical-bounties-via-the-subquery-grants-d40453788435)
+[Đọc thêm tại đây](../blogs/20220127-grants-bounties.md)
 
 ### SubQuery tôn vinh những người chiến thắng cuộc thi Hackathon Gitcoin GR 12
 
-[SubQuery hợp tác với Gitcoin vào tháng 12](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a) để tài trợ cho năm thử thách với trị giá 37.000 USD (giải thưởng lớn nhất trong thử thách), mời các nhà phát triển xây dựng các công cụ hữu ích, trang tổng quan và thậm chí mở rộng SubQuery sang các blockchain Lớp-1 khác.
+[SubQuery hợp tác với Gitcoin vào tháng 12](../blogs/20211120-gitcoin12-hackathon.md) để tài trợ cho năm thử thách với trị giá 37.000 USD (tổng giải thưởng lớn nhất trong thử thách), mời các nhà phát triển xây dựng các công cụ hữu ích, dashboards và thậm chí mở rộng SubQuery sang blockchain layer-1 khác.
 
 ![](https://miro.medium.com/max/1400/1*BUq3ah1ULNnvLjqxv_vzlQ.png)
 
 [Sam Zou](https://twitter.com/zoujialiu), Giám đốc điều hành kiêm Người sáng lập SubQuery nhận xét: “_SubQuery rất vui với kết quả của Gitcoin GR12 Hackathon. Sứ mệnh của chúng tôi phụ thuộc vào việc có một mạng lưới các nhà phát triển được trao quyền để tạo và đổi mới trong hệ sinh thái Substrate/Polkadot. Sự hợp tác này đã tạo cơ hội cho các nhà phát triển trên khắp thế giới xây dựng các ứng dụng của tương lai. Chúng tôi rất vui mừng được đồng hành cùng những người chiến thắng trong các thử thách để phát triển hơn nữa ý tưởng của họ_”
 
-Gần đây, chúng tôi đã đề cập đến nhiều người chiến thắng đã tham gia cuộc thi hackathon này và những dự án tuyệt vời mà họ đã xây dựng trong [một bài viết chi tiết](https://subquery.medium.com/subquery-celebrates-winners-of-gitcoin-gr-12-hackathon-7486afaeab29). Chúng tôi đã rất ngạc nhiên bởi chất lượng và tiến độ của các bài nộp trong thời gian ngắn như vậy và chúng tôi rất vui mừng khi được mời nhiều người trong số họ tham gia vào chương trình tài trợ của chúng tôi.
+Gần đây, chúng tôi đã đề cập đến nhiều người chiến thắng đã tham gia cuộc thi hackathon này và những dự án tuyệt vời mà họ đã xây dựng trong [một bài viết chi tiết](../blogs/20220120-gr12-winners.md). Chúng tôi đã rất ngạc nhiên bởi chất lượng và tiến độ của các bài nộp trong thời gian ngắn như vậy và chúng tôi rất vui mừng khi được mời nhiều người trong số họ tham gia vào chương trình tài trợ của chúng tôi.
 
-[Đọc thêm tại đây](https://subquery.medium.com/subquery-celebrates-winners-of-gitcoin-gr-12-hackathon-7486afaeab29)
+[Đọc thêm tại đây](../blogs/20220120-gr12-winners.md)
 
-### Khóa học Người hùng tại Trung Quốc
+### Khóa học Anh hùng tại Trung Quốc
 
 Khóa học Người hùng hợp tác với OneBlock+ của chúng tôi bắt đầu vào đầu tháng 1 và hiện tại chúng tôi đã phát hành ba bài học cho hơn 200 học viên! Tham gia Cộng đồng OneBlock + để tham gia khóa học này hoặc giờ làm việc. Trung Quốc là một khu vực chiến lược quan trọng đối với SubQuery, nhưng chúng tôi dự kiến sẽ sớm triển khai nhiều khóa học dành cho nhà phát triển khu vực khác - hãy liên hệ nếu bạn có thể giúp chúng tôi về vấn đề này!
 
@@ -58,9 +58,9 @@ Là một chỉ báo về phạm vi hỗ trợ mà SubQuery cung cấp cho hệ 
 
 ### Sổ đăng ký Mẫu SubQuery
 
-> 29 mạng được bao phủ bởi các mẫu
+**29 mạng được bao phủ bởi các mẫu**
 
-Lệnh `subql init` là một lệnh quen thuộc đối với bất kỳ ai đã xây dựng dự án SubQuery; nó đại diện cho một khung trống — cơ hội vô hạn. Chúng tôi nhận thức được rằng chúng tôi có thể làm tốt hơn để giúp những người khác bắt đầu, thay vì một bức vẽ trống rỗng, các nhà phát triển muốn nó giống một cái khung trống hơn, nơi tất cả mã đã được viết sẵn.
+Lệnh `subql init` là một lệnh quen thuộc đối với bất kỳ ai đã xây dựng dự án SubQuery; nó đại diện cho một khung trống — cơ hội vô hạn. Chúng tôi nhận thức được rằng chúng tôi có thể làm tốt hơn để giúp những người khác bắt đầu, thay vì chỉ là một bức tranh rỗng các nhà phát triển muốn có một khung trống, nơi tất cả mã boiler-plate đã được viết sẵn.
 
 Bây giờ, khi bạn viết `subql init`, bạn sẽ thấy danh sách 29 mạng mà từ đó bạn được cung cấp một khung được tạo trước với tất cả các điểm cuối chính xác, liên kết từ điển và thậm chí cả định nghĩa loại. Điều này giúp loại bỏ một trong những bước khó khăn nhất khi bắt đầu một dự án SubQuery mới và giúp việc xây dựng dApp tiếp theo của bạn trở nên dễ dàng và nhanh chóng hơn rất nhiều.
 
@@ -72,11 +72,11 @@ SubQuery hiện hỗ trợ các hàm tổng hợp GraphQL nâng cao để cho ph
 
 ### SubQuery hợp tác với Darwinia Network để xây dựng Công cụ CLI của SubQuery
 
-Darwinia đã hợp tác với SubQuery để xây dựng rất nhiều ứng dụng cần thiết để cung cấp trải nghiệm người dùng tối ưu cho các tương tác chuỗi chéo. Điều này bao gồm một [Ứng dụng thông minh là một hub trung tâm](https://apps.darwinia.network/) để quản lý tất cả các tương tác mạng Darwinia bao gồm quản trị, đặt cược, trình khám phá chuỗi và hơn thế nữa. Ứng dụng này sử dụng một lượng đáng kể [dữ liệu SubQuery để hiển thị dữ liệu lịch sử và hành động](https://explorer.subquery.network/subquery/darwinia-network/smart-app-crab). SubQuery sẽ hợp tác chặt chẽ với đội ngũ Darwinia để biến nó trở thành trải nghiệm tốt nhất trong toàn bộ hệ sinh thái Polkadot.
+Darwinia đã hợp tác với SubQuery để xây dựng rất nhiều ứng dụng cần thiết để cung cấp trải nghiệm người dùng tối ưu cho các tương tác chuỗi chéo. Điều này bao gồm một [Ứng dụng thông minh là một hub trung tâm](https://apps.darwinia.network/) để quản lý tất cả các tương tác mạng Darwinia bao gồm quản trị, đặt cược, trình khám phá chuỗi và hơn thế nữa. Ứng dụng này sử dụng một lượng đáng kể [dữ liệu SubQuery để hiển thị dữ liệu lịch sử và các hành động liên quan](https://explorer.subquery.network/subquery/darwinia-network/smart-app-crab). SubQuery sẽ hợp tác chặt chẽ với đội ngũ Darwinia để biến nó trở thành trải nghiệm tốt nhất trong toàn bộ hệ sinh thái Polkadot.
 
 ![](https://miro.medium.com/max/1200/1*bL2Csj9qyamD7txAheCTIg.gif)
 
-Darwinia cũng đã hợp tác chặt chẽ với đội ngũ SubQuery để [xây dựng công cụ CLI](https://github.com/fewensa/subquery-cli) cho dịch vụ được quản lý bởi SubQuery (https://project.subquery.network). Bạn có thể sử dụng [CLI](https://github.com/fewensa/subquery-cli) này để tạo một dự án SubQuery và tự động triển khai phiên bản mới cho vùng dàn dựng hoặc vùng sản xuất. Ngoài ra, bạn có thể truy xuất thông tin bao gồm trạng thái đồng bộ hóa chi tiết và nhật ký từ dự án đang chạy của bạn được lưu trữ miễn phí trong Dự án SubQuery. [Đọc thêm tại đây](https://subquery.medium.com/subquery-partners-with-darwinia-network-to-build-subquerys-cli-tool-903dc4c9ef66)
+Darwinia cũng đã hợp tác chặt chẽ với đội ngũ SubQuery để [xây dựng công cụ CLI](https://github.com/fewensa/subquery-cli) cho dịch vụ được quản lý bởi SubQuery (https://project.subquery.network). Bạn có thể sử dụng [CLI](https://github.com/fewensa/subquery-cli) này để tạo một dự án SubQuery và tự động triển khai phiên bản mới cho vùng dàn dựng hoặc vùng sản xuất. Ngoài ra, bạn có thể truy xuất thông tin bao gồm trạng thái đồng bộ hóa chi tiết và nhật ký từ dự án đang chạy của bạn được lưu trữ miễn phí trong Dự án SubQuery. [Đọc thêm tại đây](../customer_announcements/20220125-subquery-partners-with-darwinia-network-to-build-subquerys-cli-tool.md)
 
 ## Mạng lưới SubQuery
 

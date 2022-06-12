@@ -10,15 +10,15 @@ Hampir setiap blockchain memiliki kebutuhan untuk memproses dan mengkueri data. 
 
 Karena sistem terdesentralisasi menyimpan data di seluruh jaringan, kueri menjadi lambat dan sulit. Untuk mewujudkan impian Web 3.0, itu harus secepat (jika tidak lebih cepat) daripada jaringan terpusat untuk pengguna akhir. Tim protokol saat ini sedang membangun server pengindeksan terpusat untuk proyek mereka sendiri, akan tetapi ini menimbulkan tiga masalah:
 
--   Tim Polkadot/Substrate seharusnya tidak perlu khawatir dalam membangun atau mengelola ini saat mereka membangun dApp berikutnya
--   Tim terus-menerus menciptakan kembali roda; kelebihan mendasar dari interoperabilitas parachain Polkadot adalah untuk menghindari hal ini
--   Dalam pandangan kami, ekosistem Substrate/Polkadot siap untuk mencapai tingkat pertumbuhan yang sama dengan Ethereum. Kami percaya bahwa itu perlu menyediakan tingkat layanan komunitas yang setara dengan yang telah dimiliki Ethereum
+- Tim Polkadot/Substrate seharusnya tidak perlu khawatir dalam membangun atau mengelola ini saat mereka membangun dApp berikutnya
+- Tim terus-menerus menciptakan kembali roda; kelebihan mendasar dari interoperabilitas parachain Polkadot adalah untuk menghindari hal ini
+- Dalam pandangan kami, ekosistem Substrate/Polkadot siap untuk mencapai tingkat pertumbuhan yang sama dengan Ethereum. Kami percaya bahwa itu perlu menyediakan tingkat layanan komunitas yang setara dengan yang telah dimiliki Ethereum
 
 ![](https://miro.medium.com/max/1400/1*l4b4BXWkczVDaHyv30lLQQ.png)
 
 Tujuan SubQuery adalah untuk membantu proyek Polkadot/Substrate membangun dApps yang lebih baik dengan memungkinkan siapa pun untuk menemukan dan mengkonsumsi data dengan andal lebih cepat. Layanan kami akan memungkinkan pengguna untuk mengekstrak, mengubah, mempertahankan, dan mengkueri data pada awalnya, serta menghubungkan dan menyajikan data di masa mendatang. Tujuan kami adalah menjadikan ini bagian inti dari infrastruktur untuk ekosistem Substrate/Polkadot, seperti halnya The Graph untuk Ethereum.
 
-> SubQuery hadir untuk membantu Anda mengubah dan mengkueri data dunia untuk masa depan web3.0.
+**SubQuery hadir untuk membantu Anda mengubah dan mengkueri data dunia untuk masa depan web3.0.**
 
 ![](https://miro.medium.com/max/1000/1*IHstJG-hBwQzicLdWkGR5w.png)
 
@@ -26,7 +26,7 @@ Untuk mewujudkan impian Web 3.0, itu harus secepat (jika tidak lebih cepat) dari
 
 Itulah sebabnya kami sangat bangga mengumumkan SubQuery, sebuah proyek open source yang memungkinkan pengguna untuk menjalankan pengindeks di seluruh chain mereka untuk membangun dataset yang dapat dikueri dengan GraphQL. Rangkaian alat ini mencakup antarmuka command line untuk memungkinkan proyek menghasilkan proyek SubQuery mereka sendiri, menentukan bagaimana pengindeks harus melintasi dan menggabungkan jaringan mereka sendiri. Ada paket node SubQuery yang mengindeks jaringan dan mendukung kueri GraphQL. Dengan bantuan alat-alat ini, siapa pun dapat membuat dan menjalankan kueri dengan mudah.
 
-> _Anda bisa segera memulai dengan mengikuti contoh kami di repository Github SubQuery:_[_https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql)
+**You can get started right away by following our example on the SubQuery Github repository: [_https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql)**
 
 Selain itu, Anda dapat mengetahui lebih lanjut dengan membaca [dokumen SubQuery](https://doc.subquery.network/) kami atau mengunjungi situs web baru kami di [https://subquery.network/](https://subquery.network/)
 
@@ -66,7 +66,7 @@ Baca [dokumen SubQuery](https://doc.subquery.network/) kami
 
 Ikuti kami di:
 
--   [Telegram](https://t.me/subquerynetwork)
--   [Twitter](https://twitter.com/subquerynetwork)
--   [Matrix](https://matrix.to/#/%23subquery:matrix.org)
--   [LinkedIn](https://www.linkedin.com/company/subquery)
+- [Telegram](https://t.me/subquerynetwork)
+- [Twitter](https://twitter.com/subquerynetwork)
+- [Matrix](https://matrix.to/#/%23subquery:matrix.org)
+- [LinkedIn](https://www.linkedin.com/company/subquery)

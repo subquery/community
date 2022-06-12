@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/0*0inUQ8U1g9auTjfU)
 
-## **将为 Wasm 技术联盟提供免费数据索引服务**
+## Providing Free Data Indexing for Wasm Tech Alliance
 
 近日，SubQuery 宣布加入 Patract 开放平台，旨在共同推动公共基础设施建设和合约技术升级演进，发展 Wasm 合约开发生态
 
@@ -22,14 +22,14 @@ SubQuery 可以支持每个 Substrate 或 Polkadot 生态团队处理、查询�
 
 Patract Labs 表示，波卡 Wasm 合约技术的发展就是需要基础设施的不断补充和完善， SubQuery 作为数据类的基础设施提供商加入 Patract Open Platform ，很好的补充了波卡生态上对去中心化数据的高度自由化访问，降低了项目在连接、应用数据的运营成本， 同时开发者无需再投入大量精力来构建维护自己的索引解决方案。 其次，DApp 是需要从底层数据源获取和转换数据，因此区块链数据很难在 DApp 应用中直接调取使用的格式存储， 那么 SubQuery 的链上索引方案则为波卡生态上的 DAPP 应用爆发带来很好的基础支撑。 目前 SubQuery 也在探索将 SQL 工具结合到 Wasm 智能合约的解决方案，对此，我们十分期待。
 
-关于 Patract Labs
+## About Patract Labs
 
-Patract Labs 是波卡 Wasm 合约生态的平行链，为 DApp 开发提供解决方案。 我们帮助社区平行链设计和开发链上合约模块和 Runtime 支持，并且为 DApp 开发者提供覆盖开发、测试、调试、部署、监控、数据提供和前端开发等阶段性的全栈工具和服务支持。
+Patract Labs provides solutions for the development of Parachains and DApps in the Wasm smart contract ecosystem of Polkadot. We help the community to design and develop on-chain contract modules and Runtime support, and provide DApp developers with full-stack tools and services support, covering development, testing, debugging, deployment, monitoring, data provider, and front-end development stages.
 
-[网站](https://patract.io/)|[元素](https://app.element.io/#/room/#PatractLabsDev:matrix.org)|[Twitter](https://twitter.com/PatractLabs)|[GitHub](https://github.com/patractlabs) |[Discord](https://discord.gg/yMRMqcAb24) |[Telegram](https://t.me/patract)
+[Website](https://patract.io/)｜[Element](https://app.element.io/#/room/#PatractLabsDev:matrix.org)｜[Twitter](https://twitter.com/PatractLabs)｜[GitHub](https://github.com/patractlabs) ｜[Discord](https://discord.gg/yMRMqcAb24) ｜[Telegram](https://t.me/patract)
 
-关于 SubQuery
+## About SubQuery
 
-SubQuery 的使命是让世界上去中心化的数据更容易获取。 SubQuery 的使命是让世界上去中心化的数据更容易获取。SubQuery 是一个数据即服务的供应商，聚集和整理来自 Polkadot 和 Substrate 项目的数据，为开发者提供结构良好的数据，帮助 Polkadot/Substrate 项目更好的创建 DApps 。
+The mission of SubQuery is to make the world’s decentralized data more accessible. SubQuery is a data-as-a-service provider that aggregates and organises data from Polkadot and Substrate projects; it empowers Polkadot/Substrate projects to build better DApps by providing well-structured data for developers.
 
-[网站](https://www.subquery.network/)=[Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Linkedin](https://www.linkedin.com/company/subquery) | [medium](https://subquery.medium.com/)x[GitHub](https://github.com/subquery/subql) | [Matrix](https://matrix.to/#/#subquery:matrix.org)
+[Website](https://www.subquery.network/)丨[Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Linkedin](https://www.linkedin.com/company/subquery) | [Medium](https://subquery.medium.com/)丨[GitHub](https://github.com/subquery/subql) | [Matrix](https://matrix.to/#/#subquery:matrix.org)

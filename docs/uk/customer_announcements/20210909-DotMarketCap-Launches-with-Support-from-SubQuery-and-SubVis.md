@@ -8,7 +8,7 @@
 
 ![](https://cdn-images-1.medium.com/max/1600/1*-UL84MrIB3TtZBkDPwLMmw.png)
 
-> * "SubQuery з понад 60 проектами та мільйонами запитів запитів на день, а також даними з Subvis є ідеальним місцем для підтримки та надання DotMarketCap найшвидшого та найточнішого доступу до даних Crowdloan аукціонів. Завдяки цьому надійному джерелу даних і фірмовому інтерфейсу користувача UI UX, ми вважаємо, що це партнерство принесе чудовий досвід та легкий доступ до спільноти Polkadot. "* - Санг Тран (засновник DotMarketCap)
+> _"SubQuery, with over 60 projects and millions of query requests per day, as well as data from Subvis, is the perfect place to support and provide DotMarketCap with the fastest and most accurate access to Crowdloan & Auction data. Завдяки цьому надійному джерелу даних і фірмовому інтерфейсу користувача UI UX, ми вважаємо, що це партнерство принесе чудовий досвід та легкий доступ до спільноти Polkadot. "_ - Санг Тран (засновник DotMarketCap)
 
 Аукціон Kusama parachain - найважливіша подія цього року, а з [Auction Crowdloan tracking ](https://dotmarketcap.com/auction), ви можете бути в курсі запеклої конкуренції між проектами, а також підтримати своїх улюблених кандидатів, щоб виграти слот парачейн за допомогою їх краудлоун.
 
@@ -16,7 +16,7 @@
 
 Для SubQuery це реалізація нашої мети побудувати відкритий ринок спільноти даних у нашому Провіднику. Це найкращий приклад, коли величезний клієнт споживає дані з проекту SubQuery, створеного та підтримуваного іншою командою. Це показує, наскільки сибіотичною є екосистема Polkadot, і як команди працюють разом для досягнення спільної мети децентралізованого майбутнього
 
-> * "Безумовно, DotMarketCap 2.0 неможливо завершити без підтримки наших партнерів: SubQuery та [ Subvis.io ](http://subvis.io/). Усі дані, які ми використали для нашої сторінки аукціону, взяті з [ Subvis.io ](http://subvis.io/). Завдяки цій співпраці нам набагато легше отримати доступ до децентралізованих даних. Ми хотіли б висловити вдячність Сему Цзоу, Джеймсу Бейлі та всій команді SubQuery. "* - DotMarketCap
+> _"For sure DotMarketCap 2.0 couldn’t be completed without the support of our partners: SubQuery and [Subvis.io](http://subvis.io/). Усі дані, які ми використали для нашої сторінки аукціону, взяті з [ Subvis.io ](http://subvis.io/). Завдяки цій співпраці нам набагато легше отримати доступ до децентралізованих даних. Ми хотіли б висловити вдячність Сему Цзоу, Джеймсу Бейлі та всій команді SubQuery. "_ - DotMarketCap
 
 [Тут ви можете переглянути джерела даних SubVis](https://explorer.subquery.network/subquery/subvis-io/kusama-auction)
 

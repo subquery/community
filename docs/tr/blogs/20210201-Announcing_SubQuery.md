@@ -10,23 +10,23 @@ Hemen hemen her blok zincirin verileri işleme ve sorgulama ihtiyacı vardır. G
 
 Merkezi olmayan sistemler, verileri ağlar arasında depoladığından, sorgulama yavaş ve zordur. Web 3.0 hayalinin gerçekleşmesi için, onun son kullanıcı için merkezi ağlar kadar hızlı (hatta daha hızlı) olması gerekir. Protokol ekipleri şu anda kendi projeleri için merkezi dizin oluşturma sunucuları oluşturuyor, ancak bu üç probleme yol açıyor:
 
--   Polkadot/Substrate ekipleri, bir sonraki dApp'i oluştururken bunu oluşturma veya yönetme konusunda endişelenmemelidir
--   Takımlar sürekli olarak tekerleği yeniden icat ediyor; Polkadot'un parachain ile birlikte çalışabilirliğinin temel avantajı, bundan kaçınmaktır
--   Bize göre, Substrate/Polkadot ekosistemi, Ethereum ile aynı büyüme seviyesine ulaşmaya hazır. Ethereum'un hali hazırda sahip olduğu aynı düzeyde topluluk hizmetleri sağlaması gerektiğine inanıyoruz
+- Polkadot/Substrate ekipleri, bir sonraki dApp'i oluştururken bunu oluşturma veya yönetme konusunda endişelenmemelidir
+- Takımlar sürekli olarak tekerleği yeniden icat ediyor; Polkadot'un parachain ile birlikte çalışabilirliğinin temel avantajı, bundan kaçınmaktır
+- Bize göre, Substrate/Polkadot ekosistemi, Ethereum ile aynı büyüme seviyesine ulaşmaya hazır. Ethereum'un hali hazırda sahip olduğu aynı düzeyde topluluk hizmetleri sağlaması gerektiğine inanıyoruz
 
 ![](https://miro.medium.com/max/1400/1*l4b4BXWkczVDaHyv30lLQQ.png)
 
 SubQuery'nin amacı, Polkadot/Substrate projelerinin, herkesin verileri güvenilir bir şekilde bulmasına ve daha hızlı kullanmasına izin vererek daha iyi dApp'ler oluşturmasına yardımcı olmaktır. Hizmetimiz, kullanıcıların ilk olarak verileri ayıklamasına, dönüştürmesine, sürdürmesine ve sorgulamasına ve ayrıca gelecekte verileri bağlamasına ve sunmasına olanak tanır. Amacımız, tıpkı The Graph'in Ethereum için olduğu gibi, bunu Substrate/Polkadot ekosistemi için temel bir altyapı parçası haline getirmektir.
 
-> SubQuery, dünyanın verilerini web3.0 geleceği için dönüştürmenize ve sorgulamanıza yardımcı olmak için burada.
+**SubQuery, dünyanın verilerini web3.0 geleceği için dönüştürmenize ve sorgulamanıza yardımcı olmak için burada.**
 
 ![](https://miro.medium.com/max/1000/1*IHstJG-hBwQzicLdWkGR5w.png)
 
-Web 3.0 hayalinin gerçekleşmesi için, son kullanıcı için merkezi ağlardan kadar hızlı (hatta daha hızlı) olması gerekir.
+Web 3.0 hayalinin gerçekleşmesi için, onun son kullanıcı için merkezi ağlar kadar hızlı (hatta daha hızlı) olması gerekir.
 
 Bu nedenle, kullanıcıların GraphQL ile sorgulanabilecek bir veri kümesi oluşturması için zincirleri boyunca bir dizin oluşturucu çalıştırmasına olanak tanıyan açık kaynaklı bir proje olan SubQuery'yi duyurmaktan inanılmaz gurur duyuyoruz. Bu araç paketi, projelerin kendi SubQuery projelerini oluşturmasına olanak tanıyan ve dizin oluşturucunun kendi ağlarında nasıl geçiş yapabileceklerini ve bu ağları birleştireceklerini tanımlayan bir komut satırı arabirimi içerir. İşte ağı dizine ekleyen ve GraphQL sorgularını destekleyen bir SubQuery düğüm paketi. Bu araçların yardımıyla herkes kolayca sorgu oluşturabilir ve çalıştırabilir.
 
-> _SubQuery Github deposundaki örneğimizi izleyerek hemen başlayabilirsiniz:_ [_https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql)
+**You can get started right away by following our example on the SubQuery Github repository: [_https://github.com/OnFinality-io/subql_](https://github.com/OnFinality-io/subql)**
 
 Ek olarak, SubQuery belgelerimizi okuyarak veya [https://subquery.network/](https://doc.subquery.network/) adresindeki yeni web sitemizi ziyaret ederek daha fazla bilgi edinebilirsiniz
 
@@ -66,7 +66,7 @@ Okuyun [SubQuery docs](https://doc.subquery.network/)
 
 Bizi takip edin
 
--   [Telegram](https://t.me/subquerynetwork)
--   [Twitter](https://twitter.com/subquerynetwork)
--   [Matrix](https://matrix.to/#/%23subquery:matrix.org)
--   [LinkedIn](https://www.linkedin.com/company/subquery)
+- [Telegram](https://t.me/subquerynetwork)
+- [Twitter](https://twitter.com/subquerynetwork)
+- [Matrix](https://matrix.to/#/%23subquery:matrix.org)
+- [LinkedIn](https://www.linkedin.com/company/subquery)

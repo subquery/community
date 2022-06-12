@@ -4,7 +4,7 @@
 
 **Lisez la suite pour notre plongée technique dans la dernière version de SubQuery**
 
-# Prise en charge des fichiers externes de type chaîne dans le manifeste du projet
+## Prise en charge des fichiers externes de type chaîne dans le manifeste du projet
 
 Aujourd'hui est le lancement de [version 0.2.0](https://doc.subquery.network/create/manifest/) de notre fichier manifeste de projet (`project.yaml`). Cette nouvelle version apporte aux développeurs diverses améliorations qui ont été demandées par les clients.
 
@@ -14,9 +14,9 @@ Cette solution vous permet d'éviter de copier et de gérer les définitions de 
 
 [Vous pouvez vous informer sur le nouveau fichier manifeste, y compris sur la façon dont vous pouvez y migrer vos projets, ici dans notre documentation mise à jour.](https://doc.subquery.network/create/manifest/)
 
-# Support de l'EVM Moonbeam
+## Support EVM Moonbeam
 
-La semaine dernière, nous avons été heureux d'annoncer [que nous travaillions avec Moonbeam pour apporter le support complet de l'indexation EVM et Substrate à Moonriver](https://subquery.medium.com/subquery-adds-ethereum-virtual-machine-evm-functionality-in-integration-with-moonbeam-and-ddbcdf0fd8ff).
+La semaine dernière, nous avons eu le plaisir d'[annoncer que nous travaillions avec Moonbeam pour apporter un support complet de l'indexation des EVM et des substrats à Moonriver](../customer_announcements/20211028-moonbeam-evm.md).
 
 Aujourd'hui, nous donnons suite à cette annonce avec toutes les ressources pour développeurs dont vous avez besoin pour démarrer.
 
@@ -26,25 +26,25 @@ Actuellement, il n'existe pas d'outil open-source permettant aux développeurs d
 
 ![](https://miro.medium.com/max/600/1*AET6Ek_PqFDRoc29Jiitnw.gif)
 
-[Premièrement, vous familiarisez avec la documentation mise à jour sur la façon de vous connecter et d'indexer les données de Moonbeam, Moonbase Alpha, et Moonriver.](https://doc.subquery.network/create/moonbeam/) Le processus d'indexation des données de Moonbeam ne comporte que deux étapes :
+[D'abord, familiarisez-vous avec la documentation mise à jour sur la façon de vous connecter et d'indexer les données de Moonbeam, Moonbase Alpha et Moonriver.](https://doc.subquery.network/create/substrate-evm/) Le processus d'indexation des données de Moonbeam ne comporte que deux étapes :
 
-## Étape 1 : Ajouter la source de données personnalisée de Moonbeam
+### Étape 1 : Ajouter la source de données personnalisée Moonbeam
 
-Nous avons créé un processeur de données spécialement conçu pour fonctionner avec l'implémentation de [Frontier](https://github.com/paritytech/frontier) de Moonbeam. Il vous permet de référencer des ressources ABI spécifiques utilisées par le processeur pour analyser les arguments et l'adresse du contrat intelligent d'où proviennent les événements ou vers lequel l'appel est effectué. [Vous pouvez en savoir plus ici](https://doc.subquery.network/create/moonbeam/#data-source-spec).
+Nous avons créé un processeur de données spécialement conçu pour fonctionner avec l'implémentation de [Frontier](https://github.com/paritytech/frontier) de Moonbeam. Il vous permet de référencer des ressources ABI spécifiques utilisées par le processeur pour analyser les arguments et l'adresse du contrat intelligent d'où proviennent les événements ou vers lequel l'appel est effectué. [Vous pouvez en savoir plus ici](https://doc.subquery.network/create/substrate-evm/#data-source-spec).
 
 SubQuery introduit des filtres plus avancés que d'autres indexeurs, permettant le filtrage des transactions non-contractuelles, des expéditeurs de transactions, des contrats et des arguments de log indexés. Cela permet aux développeurs de construire une grande variété de projets qui répondent à leurs besoins spécifiques en matière de données.
 
-## Étape 2 : Indexer les données de Moonbeam
+### Étape 2 : Indexer les données de Moonbeam
 
-Tout comme un projet de SubQuery normal, vous utilisez une fonction de mapping pour transformer les données hors chaîne vers les entités GraphQL que vous définissez, la différence est que au lieu d'un `SubstrateEvent` ou `SubstrateExtrinsic`, votre fonction de mappage recevra un `MoonbeamCall` ou `MoonbeamEvent` basé sur le type [TransactionResponse](https://docs.ethers.io/v5/api/providers/types/#providers-TransactionResponse) d'Ether ou [Log](https://docs.ethers.io/v5/api/providers/types/#providers-Log). [Vous pouvez en savoir plus à ce sujet ici](https://doc.subquery.network/create/moonbeam/#moonbeamcall).
+Tout comme un projet de SubQuery normal, vous utilisez une fonction de mapping pour transformer les données hors chaîne vers les entités GraphQL que vous définissez, la différence est que au lieu d'un `SubstrateEvent` ou `SubstrateExtrinsic`, votre fonction de mappage recevra un `MoonbeamCall` ou `MoonbeamEvent` basé sur le type [TransactionResponse](https://docs.ethers.io/v5/api/providers/types/#providers-TransactionResponse) d'Ether ou [Log](https://docs.ethers.io/v5/api/providers/types/#providers-Log). [Vous pouvez en savoir plus à ce sujet ici](https://doc.subquery.network/create/substrate-evm/#frontierevmcall).
 
-[Lisez la documentation complète sur ce processus ici](https://doc.subquery.network/create/moonbeam/#moonbeamcall)
+[Lisez la documentation complète sur ce processus ici](https://doc.subquery.network/create/substrate-evm/#frontierevmcall)
 
-## Exemples de Projets
+### Exemple de projet
 
 Il y a un exemple de projet complet qui indexe les `événements de transfert` et `approuve` appels de contrat intelligent. Le code pour ce projet d'exemple est [ici sur GitHub](https://github.com/subquery/tutorials-moonriver-evm-starter) ou accessible via le projet [live SubQuery sur SubQuery Explorer ici](https://explorer.subquery.network/subquery/subquery/moonriver-evm-starter-project).
 
-La majeure partie des changements se produisent dans le fichier Manifest (`project.yaml`). Vous pouvez voir ci-dessous que nous avons [des filtres d'appel étendus](https://doc.subquery.network/create/moonbeam/#call-filters) pour prendre en charge soit [les chaînes de signature de fonction](https://docs.ethers.io/v5/api/utils/abi/fragments/#FunctionFragment) ou la fonction sighash pour filtrer la fonction appelée sur le contrat. Pour les [filtres d'événements](https://doc.subquery.network/create/moonbeam/#event-filters), vous pouvez utiliser un filtrage des sujets qui suit la norme [Ethereum JSON-PRC log la norme sur les filtres se trouve ici](https://docs.ethers.io/v5/concepts/events/). Notez que SubQuery introduit des filtres plus avancés que d'autres indexeurs pour Moonbeam EVM et que ces améliorations devraient bénéficier de manière significative aux développeurs.
+La majeure partie des changements se produisent dans le fichier Manifest (`project.yaml`). Vous pouvez voir ci-dessous que nous avons [élargi les filtres d'appel](https://doc.subquery.network/create/substrate-evm/#call-filters) pour prendre en charge soit [chaînes de signature de fonction](https://docs.ethers.io/v5/api/utils/abi/fragments/#FunctionFragment) soit la fonction sighash pour filtrer la fonction appelée sur le contrat. Pour les [filtres d'événements](https://doc.subquery.network/create/substrate-evm/#event-filters), vous pouvez utiliser le filtrage des sujets qui suit la [Norme de filtres de journaux JSON-PRC d'Ethereum trouvée ici](https://docs.ethers.io/v5/concepts/events/). Notez que SubQuery introduit des filtres plus avancés que d'autres indexeurs pour Moonbeam EVM et que ces améliorations devraient bénéficier de manière significative aux développeurs.
 
 ![](https://miro.medium.com/max/700/1*4JRHItnILfCie4FT6sYLEA.png)
 
@@ -52,7 +52,7 @@ Si vous connaissez la façon dont le projet SubQuery basé sur Substrate est ré
 
 ![](https://miro.medium.com/max/700/1*k4_uJYYCsTnPRRJ7avq2WA.png)
 
-Si vous avez des questions à ce sujet, assurez-vous d'avoir [consultez notre documentation](https://doc.subquery.network/create/moonbeam) ou contactez notre [communauté Discord](https://discord.com/invite/subquery) sur notre canal de support #technical-support.
+Si vous avez des questions à ce sujet, assurez-vous de [vérifier nos docs](https://doc.subquery.network/create/substrate-evm) ou de nous contacter sur notre canal #technical-support dans notre communauté [Discord](https://discord.com/invite/subquery).
 
 [Cloner le projet d'exemple sur GitHub](https://github.com/subquery/tutorials-moonriver-evm-starter)
 

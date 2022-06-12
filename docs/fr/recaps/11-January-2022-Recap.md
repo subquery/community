@@ -16,19 +16,19 @@ Le mois dernier, nous avons lancé le programme SubQuery Grants, un accélérate
 
 Les candidats intéressés par l'une de ces primes sont encouragés à soumettre leur proposition avec le budget nécessaire pour accomplir la tâche et les autres exigences [ici](https://docs.google.com/forms/d/e/1FAIpQLSfmMazkebKwNTWThBkVGaxf2Bg8s4aWZ0ZhwiMCtc9kv4sJHQ/viewform). En outre, nous avons hâte d'annoncer la première série de bénéficiaires de SubQuery en février.
 
-[Plus d'informations ici](https://subquery.medium.com/subquery-partners-with-leading-polkadot-teams-on-technical-bounties-via-the-subquery-grants-d40453788435)
+[Plus d'informations ici](../blogs/20220127-grants-bounties.md)
 
 ### SubQuery célèbre les gagnants du hackathon Gitcoin GR 12
 
-[En décembre, SubQuery s'est associé à Gitcoin](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a) pour parrainer cinq défis d'une valeur de 37 000 dollars américains (la plus grande cagnotte du défi), invitant les développeurs à créer des outils utiles, des tableaux de bord et même à étendre SubQuery à une autre blockchain de couche 1.
+[SubQuery s'est associé à Gitcoin en décembre](../blogs/20211120-gitcoin12-hackathon.md) pour parrainer cinq défis d'une valeur de 37 000 dollars américains (la plus grande cagnotte du défi), invitant les développeurs à construire des outils utiles, des tableaux de bord et même à étendre SubQuery à une autre blockchain de couche 1.
 
 ![](https://miro.medium.com/max/1400/1*BUq3ah1ULNnvLjqxv_vzlQ.png)
 
 [Sam Zou](https://twitter.com/zoujialiu), PDG et fondateur de SubQuery, a déclaré : "_SubQuery est ravi des résultats du hackathon Gitcoin GR12. Notre mission repose sur l'existence d'un réseau de développeurs habilités à créer et à innover au sein de l'écosystème Substrate/Polkadot. Ce partenariat a permis à des développeurs motivés du monde entier de créer les applications de demain. Nous sommes ravis d'aider les gagnants des défis à développer leurs idées encore plus loin_"
 
-Nous avons récemment couvert les nombreux gagnants qui ont participé à ce hackathon et les projets étonnants qu'ils ont construits dans [ce compte rendu détaillé](https://subquery.medium.com/subquery-celebrates-winners-of-gitcoin-gr-12-hackathon-7486afaeab29). Nous avons été époustouflés par la qualité et les progrès réalisés par les projets soumis en si peu de temps et nous sommes heureux d'inviter plusieurs d'entre eux à participer à notre programme de subventions.
+Récemment, nous avons couvert les nombreux gagnants qui ont participé à ce hackathon et les projets étonnants qu'ils ont construits dans [cette writeup détaillée](../blogs/20220120-gr12-winners.md). Nous avons été époustouflés par la qualité et les progrès réalisés par les projets soumis en si peu de temps et nous sommes heureux d'inviter plusieurs d'entre eux à participer à notre programme de subventions.
 
-[Plus d'informations ici](https://subquery.medium.com/subquery-celebrates-winners-of-gitcoin-gr-12-hackathon-7486afaeab29)
+[Plus d'informations ici](../blogs/20220120-gr12-winners.md)
 
 ### Hero Course Chine
 
@@ -58,29 +58,29 @@ Pour illustrer l'étendue du support que SubQuery offre à l'écosystème Polkad
 
 ### Registre de modèles SubQuery
 
-> 29 réseaux sont couverts par des modèles
+**29 réseaux sont couverts par des modèles**
 
 La commande `subql init` est familière à tous ceux qui ont construit un projet SubQuery ; elle représente une toile blanche - des possibilités illimitées. Nous sommes conscients que nous pouvons faire mieux pour aider les autres à démarrer, plutôt qu'une toile vierge, les développeurs veulent un échafaudage vierge, où tout le code passe-partout est déjà écrit.
 
-Aujourd'hui, lorsque vous écrivez `subql init`, on vous présente une liste de 29 réseaux à partir de laquelle on vous fournit un échafaudage pré-créé avec tous les points d'extrémité corrects, les liens du dictionnaire et même les définitions de type. Cela élimine l'une des étapes les plus difficiles lors du lancement d'un nouveau projet SubQuery et facilite et accélère la création de votre prochain grand dApp.
+Aujourd'hui, lorsque vous écrivez `subql init`, on vous présente une liste de 29 réseaux à partir desquels on vous fournit un échafaudage précréé avec tous les points d'extrémité corrects, les liens du dictionnaire et même les définitions des types. Cela élimine l'une des étapes les plus difficiles lors du lancement d'un nouveau projet SubQuery et facilite et accélère la création de votre prochain grand dApp.
 
 ### Fonctionnalités d'agrégation de données
 
-SubQuery prend désormais en charge les fonctions d'agrégation GraphQL avancées qui vous permettent d'effectuer un calcul sur un ensemble de valeurs pendant votre requête. Ces fonctions offrent à nos clients un ensemble plus riche d'informations et de calculs à partir de leur ensemble de données existant. Par exemple, avec une seule requête, vous pouvez calculer le montant médian des contributions pour chaque crowdloan, ventilé par date de contribution.
+SubQuery prend désormais en charge les fonctions d'agrégation GraphQL avancées pour vous permettre d'effectuer un calcul sur un ensemble de valeurs pendant votre requête. Ces fonctions offrent à nos clients un ensemble plus riche d'informations et de calculs à partir de leur ensemble de données existant. Par exemple, avec une seule requête, vous pouvez calculer le montant médian de la contribution pour chaque crowdloan, réparti par date de contribution.
 
 [Pour en savoir plus sur l'utilisation de ces fonctionnalités, consultez notre documentation mise à jour.](https://doc.subquery.network/query/aggregate/)
 
 ### SubQuery s'associe à Darwinia Network pour construire l'outil CLI de SubQuery
 
-Darwinia s'est associé à SubQuery pour construire la pléthore d'applications qui seront nécessaires pour offrir une expérience utilisateur optimale pour les interactions inter-chaînes. Cela inclut une nouvelle [Smart App qui est un hub central](https://apps.darwinia.network/) pour gérer toutes les interactions du réseau Darwinia, y compris la gouvernance, le jalonnement, l'exploration de la chaîne et plus encore. Cette application utilise une quantité considérable de [données SubQuery pour montrer les données historiques et les actions](https://explorer.subquery.network/subquery/darwinia-network/smart-app-crab). SubQuery travaillera en étroite collaboration avec l'équipe de Darwinia pour faire de cette application la meilleure expérience de tout l'écosystème Polkadot.
+Darwinia s'est associé à SubQuery pour créer la pléthore d'applications qui seront nécessaires pour offrir une expérience utilisateur optimale pour les interactions inter-chaînes. Cela inclut une nouvelle [Smart App qui est un hub central](https://apps.darwinia.network/) pour gérer toutes les interactions du réseau Darwinia, y compris la gouvernance, le staking, l'exploration des chaînes et plus encore. Cette application utilise une quantité considérable de [données SubQuery pour montrer les données historiques et les actions](https://explorer.subquery.network/subquery/darwinia-network/smart-app-crab). SubQuery travaillera en étroite collaboration avec l'équipe de Darwinia pour faire de cette application la meilleure expérience de tout l'écosystème Polkadot.
 
 ![](https://miro.medium.com/max/1200/1*bL2Csj9qyamD7txAheCTIg.gif)
 
-Darwinia a également travaillé en étroite collaboration avec l'équipe SubQuery pour [créer un outil CLI](https://github.com/fewensa/subquery-cli) pour le service géré SubQuery[(https://project.subquery.network)](https://project.subquery.network). Vous pouvez utiliser cette [CLI](https://github.com/fewensa/subquery-cli) pour créer un projet SubQuery et déployer automatiquement une nouvelle version sur le slot de transit ou de production. En outre, vous pouvez récupérer des informations, y compris l'état détaillé de la synchronisation et les journaux de votre projet en cours, qui est hébergé gratuitement dans SubQuery Projects. [Plus d'informations ici](https://subquery.medium.com/subquery-partners-with-darwinia-network-to-build-subquerys-cli-tool-903dc4c9ef66)
+Darwinia a également travaillé en étroite collaboration avec l'équipe SubQuery pour [créer un outil CLI](https://github.com/fewensa/subquery-cli) pour le service géré SubQuery[(https://project.subquery.network)](https://project.subquery.network). Vous pouvez utiliser ce [CLI](https://github.com/fewensa/subquery-cli) pour créer un projet SubQuery et déployer automatiquement une nouvelle version sur le slot de staging ou de production. En outre, vous pouvez récupérer des informations, y compris l'état détaillé de la synchronisation et les journaux de votre projet en cours, qui est hébergé gratuitement dans SubQuery Projects. [Plus d'informations ici](../customer_announcements/20220125-subquery-partners-with-darwinia-network-to-build-subquerys-cli-tool.md)
 
 ## Réseau SubQuery
 
-Lors du dernier appel à la communauté, nous avons abordé quelques détails importants concernant le prochain réseau de test SubQuery. Il se déroulera sur au moins trois saisons, chaque saison testant différents aspects du réseau :
+Lors du dernier appel à la communauté, nous avons abordé quelques détails importants concernant le prochain réseau de test SubQuery. Il s'étalera sur au moins trois saisons, chaque saison testant différents aspects du réseau :
 
 - Saison 1 : test alpha précoce d'un nombre limité de fonctionnalités avec un nombre restreint de participants.
 - Saison 2 : test bêta à grande échelle d'un plus grand nombre de fonctionnalités avec des centaines de participants.
@@ -94,7 +94,7 @@ En octobre dernier, nous avons publié notre [feuille de route technique](https:
 
 ![](https://miro.medium.com/max/1400/1*2a3SGrW-OG5pbw67jsavvw.jpeg)
 
-Comme vous pouvez le voir dans la feuille de route originale ci-dessus, nous avons terminé toutes les étapes 0 et 1, et nous progressons bien sur l'étape 2. Nous avons même livré certaines fonctionnalités pertinentes pour notre service hébergé beaucoup plus tôt que prévu en raison de l'ampleur des demandes actuellement adressées à [nos entreprises clientes](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html).
+Comme vous pouvez le voir dans la feuille de route originale ci-dessus, nous avons réalisé l'ensemble des étapes 0 et 1, et nous progressons bien sur l'étape 2. Nous avons même livré certaines fonctionnalités relatives à notre service hébergé beaucoup plus tôt que prévu en raison de l'ampleur des demandes adressées actuellement à [nos entreprises clientes](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html).
 
 ## Autres choses que vous avez pu manquer
 
@@ -107,4 +107,4 @@ N'oubliez pas de rejoindre notre [Discord](https://discord.com/invite/subquery) 
 
 L'équipe SubQuery
 
-[Linktree](https://linktr.ee/subquerynetwork) | [Site Web](https://subquery.network/) | [Email](hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Youtube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+[Linktree](https://linktr.ee/subquerynetwork) | [Site Web](https://subquery.network/) | [Discord](hello@subquery.network) | [Telegram](https://discord.com/invite/78zg8aBSMG) | [Twitter](https://t.me/subquerynetwork) | [LinkedIn](https://twitter.com/subquerynetwork) | [YouTube](https://matrix.to/#/#subquery:matrix.org)

@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/0*CrM8-LKRt3slWAsN)
 
-Merkezi olmayan verilerin sorgulanmasını kolaylaştıran hizmet olan SubQuery, bugün, başta DeFi Alliance, D1 Ventures, Hypersphere Ventures, Digital Finance Group (DFG)** ve* * Lao** tarafından desteklenen 1,8 milyon ABD Doları tutarında bir başlangıç turunu ve özel satışı başarıyla artırdığını duyurdu. SubQuery'nin başlangıç ​​turunu desteklemek için aldığımız yoğun talep, altyapı hizmetlerine olan güçlü ilgiyi ve Polkadot ekosisteminin geleceğine olan inancı gösteriyor.**
+**SubQuery, the service making decentralised data easier to query, announced today that it has successfully raised a US$1.8 million seed round and private sale backed primarily by [DeFi Alliance](https://defialliance.co/), [D1 Ventures](https://d1.ventures/), [Hypersphere Ventures](https://hypersphere.ventures/), [Digital Finance Group (DFG)](https://www.dfg.group/), and [The Lao](https://www.thelao.io/). The overwhelming demand we received to back SubQuery’s seed round shows the strong interest in infrastructure services and belief in the future of the Polkadot ecosystem.**
 
 SubQuery, her Substrate/Polkadot ekibinin verilerini işlemesine ve sorgulamasına olanak tanır. Proje, uygulama katmanına hizmet eden veri protokollerinin büyümesinden ilham alıyor ve amacı, Polkadot/Substrate projelerinin, herkesin verileri güvenilir bir şekilde daha hızlı bulmasını ve tüketmesini sağlayarak daha iyi dApp'ler oluşturmasına yardımcı olmaktır. Bugün herkes Polkadot ağ verilerini sadece birkaç dakika içinde ve hiçbir ücret ödemeden sorgulayabilir ve ayıklayabilir.
 
@@ -12,7 +12,7 @@ OnFinality, blok zinciri ekiplerinin ve kullanıcıların düğümleri başlatma
 
 > Hypersphere Ventures'ın Kurucu Ortağı olan Jack Platts, "Hypersphere, yalnızca Polkadot ekosistemine odaklanmak için ilk dizin oluşturma protokolünü hızla oluştururken Sam ve SubQuery ekibini desteklemekten heyecan duyuyor." dedi
 
-Subquery'nin CEO'su Sam Zou liderliğindeki ekip, Aralık 2020'de Web3 Vakfı'ndan, kullanıcıların GraphQL ile sorgulanabilecek bir veri kümesi oluşturmak için zincirlerinde bir dizinleyici çalıştırmasına olanak tanıyan açık kaynaklı bir proje olan Subquery'nin ilk aşamasını oluşturmak için bir hibe aldı.
+Led by Sam Zou, CEO of SubQuery, the team [received a grant from the Web3 foundation](./20210207-SubQuery-Delivers-Its-Open-Source-SDK-Following-a-Web3-Foundation-Grant.md) in December 2020 to build the initial phase of SubQuery, an open source project that allows users to run an indexer across their chain to build a dataset that can be queried with GraphQL.
 
 ![](https://miro.medium.com/max/1000/0*kjspGYRr_BtMk015)
 
@@ -20,15 +20,15 @@ O zamandan beri SubQuery, SubQuery Explorer'ı başlattı. Dünyanın dört bir 
 
 Bu tohum artışı, SubQuery'nin gelişimini hızlandıracak ve kritik veri hizmetlerinin Polkadot/Substrate topluluğuna teslimini hızlandıracak. Bu, topluluk Alt Sorgu projelerini barındırmak ve yönetmek için ücretsiz bir kamu hizmeti oluşturmayı, veri ve bilgi paylaşımı etrafında bir topluluk oluşturmayı ve projemizin nihai tokenleştirmesini içerir.
 
--   Buradan deneyebilirsiniz[SubQuery Explorer](https://explorer.subquery.network/)
--   Daha fazla oku [SubQuery docs](https://doc.subquery.network/)
--   Sitemizi ziyaret edinr [website](https://subquery.network/)
+- Buradan deneyebilirsiniz[SubQuery Explorer](https://explorer.subquery.network/)
+- Daha fazla oku [SubQuery docs](https://doc.subquery.network/)
+- Sitemizi ziyaret edinr [website](https://subquery.network/)
 
 **Bizimle iletişime geçin:**
 
--   [networkhello@subquery.network](mailto:hello@subquery.network)
--   [Discord](https://discord.com/invite/78zg8aBSMG)
--   [Telegram](https://t.me/subquerynetwork)
--   [Twitter](https://twitter.com/subquerynetwork)
--   [Matrix](https://matrix.to/#/#subquery:matrix.org)
--   [LinkedIn](https://www.linkedin.com/company/subquery)
+- [networkhello@subquery.network](mailto:hello@subquery.network)
+- [Discord](https://discord.com/invite/78zg8aBSMG)
+- [Telegram](https://t.me/subquerynetwork)
+- [Twitter](https://twitter.com/subquerynetwork)
+- [Matrix](https://matrix.to/#/#subquery:matrix.org)
+- [LinkedIn](https://www.linkedin.com/company/subquery)

@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/0*CrM8-LKRt3slWAsN)
 
-**SubQuery, сервис, облегчающий процесс запроса децентрализованных данных, объявил сегодня о том, что он успешно собрал $1.8 миллион долларов в сид раунде и приватной продажи преимущественно за счет ** [**DeFi Альянса**](https://defialliance.co/)**,** [**Ventures D1**](https://d1.ventures/)**,** [**Предметы гиперсферы**](https://hypersphere.ventures/)**,** [**Группа цифровых финансов (DFG)**](https://www.dfg.group/)**, и** [**Лаоса**](https://www.thelao.io/)**. Огромный спрос, который мы получили на поддержку начального раунда SubQuery, свидетельствует о сильном интересе к инфраструктурным услугам и вере в будущее экосистемы Polkadot. **
+**SubQuery-сервис, упрощающий запросы к децентрализованным данным, объявил сегодня об успешном привлечении сид раунда и частной продажи на сумму 1,8 млн долларов США, главным образом при поддержке [DeFi Alliance](https://defialliance.co/), [D1 Ventures](https://d1.ventures/), [Hypersphere Ventures](https://hypersphere.ventures/), [Digital Finance Group (DFG)](https://www.dfg.group/) и [Лаос](https://www.thelao.io/). Огромный спрос, который мы получили на поддержку начального раунда SubQuery, свидетельствует о большом интересе к инфраструктурным услугам и вере в будущее экосистемы Polkadot.**
 
 SubQuery позволяет каждой команде Substrate/Polkadot обрабатывать и запрашивать свои данные. Проект вдохновлен ростом протоколов данных, обслуживающих уровень приложений, и его цель - помочь проектам Polkadot / Substrate создавать лучшие приложения, позволяя любому пользователю быстрее находить и потреблять данные. Сегодня каждый может запросить и извлечь данные сети Polkadot всего за несколько минут и бесплатно.
 
@@ -12,7 +12,7 @@ OnFinality это команда за SubQuery, которые являются 
 
 > _“Hypersphere рада поддержать Сэма и команду SubQuery, так как они строят первый протокол индексации, который сосредоточен исключительно на экосистеме Polkadot._ — Джек Платс, соучредитель Hypersphere Ventures
 
-Под руководством Сэма Чжоу, генерального директора SubQuery, команда [получила грант от Фонда Web3](https://subquery.medium.com/subquery-delivers-its-open-source-sdk-following-a-web3-foundation-grant-20da26ae87f) в декабре 2020 года на строительство первой фазы SubQuery, проект с открытым исходным кодом, который позволяет пользователям запускать индексатор по цепочке для построения набора данных, который может быть запрошен с помощью GraphQL.
+Под руководством Сэма Зоу, генерального директора SubQuery, команда [получила грант от фонда Web3](./20210207-SubQuery-Delivers-Its-Open-Source-SDK-Following-a-Web3-Foundation-Grant.md) в декабре 2020 года на создание начальной фазы SubQuery, проекта с открытым исходным кодом, который позволяет пользователям запускать индексатор в своей цепочке. для создания набора данных, который можно запрашивать с помощью GraphQL.
 
 ![](https://miro.medium.com/max/1000/0*kjspGYRr_BtMk015)
 
@@ -20,15 +20,15 @@ OnFinality это команда за SubQuery, которые являются 
 
 Это начальное повышение будет способствовать развитию SubQuery и ускорению предоставления критических данных сообществу Polkadot/Substrate. Сюда входит создание бесплатного публичного сервиса для размещения и управления проектами сообщества SubQuery, создание комьюнити вокруг обмена данными и знаниями, а также последующая токенизация нашего проекта.
 
--   Попробуйте его в[SubQuery Explorer](https://explorer.subquery.network/)
--   Подробнее о [SubQuery docs](https://doc.subquery.network/)
--   Посетите наш [сайт](https://subquery.network/)
+- Попробуйте его в[SubQuery Explorer](https://explorer.subquery.network/)
+- Подробнее о [SubQuery docs](https://doc.subquery.network/)
+- Посетите наш [сайт](https://subquery.network/)
 
 **Свяжитесь с нами:**
 
--   [hello@subquery.network](mailto:hello@subquery.network)
--   [Discord](https://discord.com/invite/78zg8aBSMG)
--   [Telegram](https://t.me/subquerynetwork)
--   [Twitter](https://twitter.com/subquerynetwork)
--   [Matrix](https://matrix.to/#/#subquery:matrix.org)
--   [LinkedIn](https://www.linkedin.com/company/subquery)
+- [hello@subquery.network](mailto:hello@subquery.network)
+- [Дискорд](https://discord.com/invite/78zg8aBSMG)
+- [Телеграм](https://t.me/subquerynetwork)
+- [Твиттер](https://twitter.com/subquerynetwork)
+- [Матрица](https://matrix.to/#/#subquery:matrix.org)
+- [LinkedIn](https://www.linkedin.com/company/subquery)

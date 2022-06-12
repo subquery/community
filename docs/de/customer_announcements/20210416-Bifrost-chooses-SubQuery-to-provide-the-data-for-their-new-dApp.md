@@ -4,8 +4,7 @@
 
 Bifrost hat kürzlich die Beta seiner neuen dApp veröffentlicht, der offiziellen interaktiven Schnittstelle für alle Bifrost-Dienste. Über diese dApp können Benutzer vTokens prägen, diese Derivate einlösen und tauschen und ihre Einnahmen in Echtzeit einsehen. Diese Beta-dApp ist ein großer Schritt vorwärts, um es Benutzern zu ermöglichen, die Absteckkosten über Ketten hinweg zu senken, indem sie die Liquidität aufrechterhalten. [Du kannst Bifrosts neue dApp hier ausprobieren](https://apps.bifrost.finance/).
 
-> „Ohne SubQuery ist es schwer vorstellbar, wie kompliziert es ist, manuell Daten aus der Kette zu sammeln. Bifrost-Entwickler verbringen möglicherweise viel Zeit damit, nach allen Transaktionsdaten in der Kette zu suchen, die für den Transaktionsverlauf verwendet werden sollen. SubQuery hilft Entwicklern, eine Menge sich wiederholender Arbeitskosten zu sparen. Bifrost wird noch lange mit SubQuery zusammenarbeiten, um die iterative Geschwindigkeit der Produktentwicklung zu beschleunigen.“. — Bifrost.Finance
-
+> _"Without SubQuery, it is difficult to imagine how complicated it is to manually collect data from the chain. Bifrost-Entwickler verbringen möglicherweise viel Zeit damit, nach allen Transaktionsdaten in der Kette zu suchen, die für den Transaktionsverlauf verwendet werden sollen. SubQuery hilft Entwicklern, eine Menge sich wiederholender Arbeitskosten zu sparen. Bifrost will cooperate with SubQuery for a long time to accelerate the iterative speed of product development"_ — Bifrost.Finance
 
 ![](https://miro.medium.com/max/1400/0*_JK-h0rjef6rk1ot)
 

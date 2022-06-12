@@ -6,7 +6,7 @@ Hôm nay, chúng tôi vui mừng thông báo về quan hệ đối tác giữa P
 
 Truy vấn và tổng hợp dữ liệu trên chuỗi là một quá trình phức tạp và tốn kém. Để xây dựng các ứng dụng ngày càng phức tạp và trực quan, các nhà phát triển cần các công cụ mạnh mẽ để xử lý và truy vấn dữ liệu của họ nhanh hơn. Mặc dù Polkamarkets Labs trước đây đã xây dựng [giải pháp lập chỉ mục](https://github.com/Polkamarkets/polkamarkets-api) của riêng họ, nhưng họ đã chọn chuyển sang SubQuery để cải thiện khả năng mở rộng khi giao thức của họ đạt được nhiều sức hút hơn.
 
-> “Các thị trường dự đoán chỉ đáng tin cậy giống như dữ liệu họ sử dụng. Sự hợp tác này với SubQuery cho phép giao thức Polkamarkets nâng cao khả năng xử lý dữ liệu của nó để đảm bảo trải nghiệm người dùng mạnh mẽ và mượt mà, đồng thời bổ sung các công cụ dữ liệu mạnh mẽ cho các nhà phát triển sử dụng giao thức để xây dựng các ứng dụng thị trường dự đoán của riêng họ. Chúng tôi mong muốn được thấy nơi mà các công nghệ của chúng tôi có thể kết hợp với nhau giúp tạo nên tính ứng dụng cao hơn cho các thị trường dự đoán.” - Ricardo Marques, Đồng sáng lập Polkamarkets.
+> _"Các thị trường dự đoán chỉ đáng tin cậy giống như dữ liệu họ sử dụng. Sự hợp tác này với SubQuery cho phép giao thức Polkamarkets nâng cao khả năng xử lý dữ liệu của nó để đảm bảo trải nghiệm người dùng mạnh mẽ và mượt mà, đồng thời bổ sung các công cụ dữ liệu mạnh mẽ cho các nhà phát triển sử dụng giao thức để xây dựng các ứng dụng thị trường dự đoán của riêng họ. Chúng tôi mong muốn được thấy nơi mà các công nghệ của chúng tôi có thể hoạt động cùng nhau để mang lại hiệu quả sử dụng và chấp nhận thị trường dự đoán tốt hơn."_ — Ricardo Marques, Đồng sáng lập Polkamarkets.
 
 Là công cụ lập chỉ mục dữ liệu hàng đầu trong Polkadot, SubQuery sẽ được sử dụng để lập chỉ mục và tổng hợp giao thức của Polkamarkets, chẳng hạn như:
 
@@ -14,7 +14,7 @@ Là công cụ lập chỉ mục dữ liệu hàng đầu trong Polkadot, SubQue
 - Giá lịch sử của thị trường
 - Phân tích thị trường trái phiếu POLK
 
-> “Một trong những ứng dụng thú vị nhất của blockchain là thị trường dự đoán và giao dịch, chúng tôi rất vui mừng được hợp tác với công ty hàng đầu trong lĩnh vực này ở Polkadot. Tạo thị trường dự đoán không chỉ là thu thập các sự kiện trong thế giới thực mà còn yêu cầu giao diện người dùng xuất sắc để hiển thị thông tin này và cho phép người dùng vào đúng vị trí — chúng tôi muốn đóng một vai trò quan trọng trong sự phát triển này.” — James Bayly, Trưởng bộ phận Phát triển Kinh doanh tại SubQuery.
+> _"Một trong những ứng dụng thú vị nhất của blockchain là thị trường dự đoán và giao dịch, chúng tôi rất vui mừng được hợp tác với công ty hàng đầu trong lĩnh vực này ở Polkadot. Tạo thị trường dự đoán không chỉ là thu thập các sự kiện trong thế giới thực mà còn yêu cầu giao diện người dùng xuất sắc để hiển thị thông tin này và cho phép người dùng vào đúng vị trí — chúng tôi muốn đóng một vai trò quan trọng trong sự phát triển này."_ — James Bayly, Trưởng phòng Phát triển Kinh doanh tại SubQuery.
 
 Giao thức Polkamarkets đang được triển khai ở Kusama thông qua Moonriver và sắp tới sẽ là Polkadot thông qua Moonbeam. Các dịch vụ lập chỉ mục và truy vấn do SubQuery quản lý và được cung cấp cho cộng đồng Polkadot có sẵn trong [SubQuery’s Explorer](https://explorer.subquery.network/).
 

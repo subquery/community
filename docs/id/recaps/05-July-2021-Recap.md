@@ -4,21 +4,19 @@
 
 ## Komunitas, Komunitas, Komunitas!
 
-
 Selamat datang di pembaruan bulanan lainnya dari SubQuery. Seperti yang Anda semua tahu, komunitas adalah elemen kunci untuk setiap proyek crypto yang sukses — bulan ini kami mulai memperluas fokus kami di area ini.
 
 Dalam pembaruan bulanan ini:
 
--   Ambassador Program 👩💼
--   DApp API Grant Work 🏗
--   Patract Platform Terbuka 🌃
--   Podcast Relaychain Parity 🎙
--   Peningkatan Dokumentasi 📑
-
+- Ambassador Program 👩💼
+- DApp API Grant Work 🏗
+- Patract Platform Terbuka 🌃
+- Podcast Relaychain Parity 🎙
+- Peningkatan Dokumentasi 📑
 
 ![](https://miro.medium.com/max/1400/0*pe3Z3x1lGb_RLa5x)
 
-Kami memahami bahwa salah satu kekuatan terbesar kami adalah komunitas kami, jadi [kami baru saja meluncurkan ambassador program kami](https://subquery.medium.com/introducing-the-subquery-ambassador-program-aa82613ab804) untuk komunitas di seluruh dunia. Kami sangat tertarik dengan program kami, dengan hampir 500 permohonan diterima dalam waktu kurang dari dua minggu!
+We understand that one of our biggest strengths is our community, and so [we recently launched our ambassador program](../blogs/20210713-Introducing-the-SubQuery-Ambassador-Program.md) for communities around the world. Kami sangat tertarik dengan program kami, dengan hampir 500 permohonan diterima dalam waktu kurang dari dua minggu!
 
 Kami sedang dalam proses onboarding ambassador pertama kami dalam waktu dekat. Kami sangat senang di sini karena ini berarti bahwa setiap orang di komunitas kami dapat mengharapkan untuk melihat perwakilan dan dukungan lokal yang lebih baik di komunitas yang berbeda!
 
@@ -30,7 +28,7 @@ Kami membangun ini dengan cara yang memudahkan untuk memperluas jumlah parachain
 
 ![](https://miro.medium.com/max/1400/0*AhM68fyjjSp_2edZ)
 
-Kami telah [bergabung dengan aliansi Patract Open Platform](https://subquery.medium.com/subquery-is-joining-the-patract-open-platform-91682c748a57) untuk bersama-sama mempromosikan pengembangan infrastruktur publik, mempromosikan evolusi teknologi kontrak, dan untuk mengembangkan ekosistem pengembangan kontrak Wasm.
+We have [joined the Patract Open Platform alliance](../blogs/20210714-SubQuery-is-Joining-the-Patract-Open-Platform.md) to jointly promote the development of public infrastructure, promote the evolution of contract technology, and to develop the Wasm contract development ecosystem.
 
 Kami percaya bahwa kontrak adalah bagian penting dari ekosistem Polkadot yang berkembang, menyediakan layanan pengindeksan data untuk kontrak Wasm selalu menjadi tujuan utama SubQuery. Sangat menarik untuk melihat bahwa Platform Terbuka telah menyatukan sejumlah besar proyek hebat, dan setiap orang bekerja sama untuk berkontribusi pada kemajuan kontrak Wasm yang sehat dan stabil.
 

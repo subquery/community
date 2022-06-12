@@ -8,10 +8,9 @@ Hari ini kami meluncurkan [website dokumentasi baru kami di doc.subquery.network
 
 ![](https://miro.medium.com/max/1200/1*snyFSjyQ9q116bmIcaVfsQ.gif)
 
-> _“_Dokumentasi mungkin bukanlah pekerjaan yang glamor tetapi memainkan peran penting dalam mengkomunikasikan bagaimana sesuatu bekerja dan memungkinkan kami untuk memberdayakan anggota komunitas kami untuk belajar dan melepaskan kreativitas mereka. Itulah mengapa kami percaya bahwa dokumentasi sangat penting_” — Sean Au (SubQuery Academy)_
+> _"Documentation may not be glamorous work but it plays a vital role in communicating how something works and allows us to empower our community members to learn and unleash their creativity. That is why we believe documentation is so important"_ — Sean Au (SubQuery Academy)
 
 [Website dokumentasi baru kami](https://doc.subquery.network/) memiliki landing page menarik yang dirancang untuk menyambut semua pengguna, terlepas dari pemahaman teknis mereka tentang blockchain atau Polkadot. Dari landing page, pengguna dapat langsung masuk ke tutorial permulaan, atau membuka bantuan yang mereka butuhkan.
-
 
 ![](https://miro.medium.com/max/1400/1*obZau98aya3Ohtc43DAuEw.png)
 
