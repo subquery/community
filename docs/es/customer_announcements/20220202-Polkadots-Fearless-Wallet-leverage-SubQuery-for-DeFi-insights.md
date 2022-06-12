@@ -12,7 +12,7 @@ Pero la escala de la implementación de Fearless wallet es lo que la distingue. 
 
 ![](https://miro.medium.com/max/1400/1*5D3J7-_HC2tAP05oOlV5yw.png)
 
-> _"Fearless Wallet es una verdadera Wallet para múltiples activos que crece en sintonía con Polkadot y Kusama. SubQuery nos permite ofrecer a nuestros usuarios el acceso a cada nuevo parachain, con el mínimo esfuerzo y la máxima funcionalidad. Así como el número de parachains no deja de incrementar, la sinergia entre las herramientas modulares de SubQuery y la experiencia incomparable de Fear Wallet seguirá aportando valor a todo el ecosistema." _ - Equipo de Fearless Wallet
+> _"Fearless Wallet es una verdadera Wallet para múltiples activos que crece en sintonía con Polkadot y Kusama. SubQuery nos permite ofrecer a nuestros usuarios el acceso a cada nuevo parachain, con el mínimo esfuerzo y la máxima funcionalidad. Así como el número de parachains no deja de incrementar, la sinergia entre las herramientas modulares de SubQuery y la experiencia incomparable de Fear Wallet seguirá aportando valor a todo el ecosistema."_ - Equipo de Fearless Wallet
 
 Fearless Wallet también está trabajando duro para implementar herramientas analíticas avanzadas que se centran en la funcionalidad de las apuestas del cotejador y del validador en varias parachains. SubQuery va a desempeñar un papel indispensable en esta funcionalidad, ya que se utilizará para recoger, calcular y servir los datos de las recompensas directamente a la aplicación. Además, es de esperar que pronto se integren las funciones RMRK NFT y Polkaswap DEX directamente en la aplicación.
 

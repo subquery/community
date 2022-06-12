@@ -16,19 +16,19 @@ Last month we launched the SubQuery Grants Programme, a non dilutive accelerator
 
 Applicants who are interested in any of these bounties are encouraged to submit their proposal with the budget required to complete the task and other requirements [here](https://docs.google.com/forms/d/e/1FAIpQLSfmMazkebKwNTWThBkVGaxf2Bg8s4aWZ0ZhwiMCtc9kv4sJHQ/viewform). Additionally, we look forward to announce the first round of SubQuery grantees in February.
 
-[Read more here](https://subquery.medium.com/subquery-partners-with-leading-polkadot-teams-on-technical-bounties-via-the-subquery-grants-d40453788435)
+[Read more here](../blogs/20220127-grants-bounties.md)
 
 ### SubQuery Celebrates Winners of Gitcoin GR 12 Hackathon
 
-[SubQuery partnered with Gitcoin in December](https://subquery.medium.com/subquery-announces-gitcoin-hackathon-16c9d18753a) to sponsor five challenges to a value of USD$37,000 (the largest prize pool in the challenge), inviting developers to build useful tools, dashboards and even extend SubQuery to another Layer-1 blockchain.
+[SubQuery partnered with Gitcoin in December](../blogs/20211120-gitcoin12-hackathon.md) to sponsor five challenges to a value of USD$37,000 (the largest prize pool in the challenge), inviting developers to build useful tools, dashboards and even extend SubQuery to another Layer-1 blockchain.
 
 ![](https://miro.medium.com/max/1400/1*BUq3ah1ULNnvLjqxv_vzlQ.png)
 
 [Sam Zou](https://twitter.com/zoujialiu), the CEO and Founder of SubQuery commented, “_SubQuery is delighted with the results of the Gitcoin GR12 Hackathon. Our mission relies on having a network of developers who are empowered to create and innovate within the Substrate/Polkadot ecosystem. This partnership provided opportunities for motivated developers around the world to build the applications of tomorrow. We are excited to nurture the winners of the challenges to develop their ideas even further_”
 
-Recently we’ve covered the many winners that participated in this hackathon and the amazing projects that they have built in [this detailed writeup](https://subquery.medium.com/subquery-celebrates-winners-of-gitcoin-gr-12-hackathon-7486afaeab29). We were blown away by the quality and progress made by the submissions in such a short time and we’re pleased to invite many of the submissions to participate in our grants programme.
+Recently we’ve covered the many winners that participated in this hackathon and the amazing projects that they have built in [this detailed writeup](../blogs/20220120-gr12-winners.md). We were blown away by the quality and progress made by the submissions in such a short time and we’re pleased to invite many of the submissions to participate in our grants programme.
 
-[Read more here](https://subquery.medium.com/subquery-celebrates-winners-of-gitcoin-gr-12-hackathon-7486afaeab29)
+[Read more here](../blogs/20220120-gr12-winners.md)
 
 ### Hero Course China
 
@@ -58,7 +58,7 @@ As an indicator of the breadth of support that SubQuery offers to the Polkadot e
 
 ### SubQuery Templates Registry
 
-> 29 networks are covered by templates
+**29 networks are covered by templates**
 
 The `subql init` command is a familiar one for anyone that has built a SubQuery project; it represents a blank canvas — limitless opportunities. We are aware that we can do better to help others get started, rather than a blank canvas developers want a blank scaffold, where all the boiler-plate code is already written.
 
@@ -77,7 +77,7 @@ Darwinia has partnered with SubQuery to build the plethora of applications that 
 ![](https://miro.medium.com/max/1200/1*bL2Csj9qyamD7txAheCTIg.gif)
 
 Darwinia have also been working closely with the SubQuery team to [build a CLI tool](https://github.com/fewensa/subquery-cli) for the SubQuery managed service (https://project.subquery.network). You can use this [CLI](https://github.com/fewensa/subquery-cli) to create a SubQuery project and automatically deploy a new version to either the staging or production slot. Additionally you can retrieve information including the detailed syncing status and logs from your running project that is hosted for free in SubQuery Projects.
-[Read more here](https://subquery.medium.com/subquery-partners-with-darwinia-network-to-build-subquerys-cli-tool-903dc4c9ef66)
+[Read more here](../customer_announcements/20220125-subquery-partners-with-darwinia-network-to-build-subquerys-cli-tool.md)
 
 ## SubQuery Network
 

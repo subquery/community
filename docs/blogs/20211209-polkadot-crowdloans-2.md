@@ -4,14 +4,14 @@
 
 Polkadot has provided its community with another exciting race for their third parachain slot auction. We have recently witnessed Parallel Finance and Astar battle it out for the third slot, and in the end Astar managed to emerge victorious. Today we are going to explore a little more about what happened within the third auction by diving into the data behind every single contribution.
 
-SubQuery is Polkadot’s leading data  indexing service, and over the past week we’ve been powering millions of daily requests to the majority of the crowdloan dashboards, contribution apps, and analytics websites. Teams like  [SubVis](https://www.subvis.io/),  [Parallel Finance](https://parallel.fi/), and  [DotMarketCap](https://dotmarketcap.com/)  rely on SubQuery to provide real time data on the crowdloans and other on-chain data directly to their websites and apps.
+SubQuery is Polkadot’s leading data indexing service, and over the past week we’ve been powering millions of daily requests to the majority of the crowdloan dashboards, contribution apps, and analytics websites. Teams like [SubVis](https://www.subvis.io/), [Parallel Finance](https://parallel.fi/), and [DotMarketCap](https://dotmarketcap.com/) rely on SubQuery to provide real time data on the crowdloans and other on-chain data directly to their websites and apps.
 
 Firstly, let’s start with some high level quick facts. As you can see below Astar had both more contributions and contributors. It’s important to note that Parallel raised a significant amount through its proxy fund, so the contributor amount is misleading because the proxy account hides this information.
 
 Both received a median contribution of 10 DOT (US$367.70) but Astar was able to attract the largest single contribution with 2,005,295 DOT (US$73.7 million). In the end a total of almost 20 million DOT (US$735.4 million) was contributed across both two during the third auction. Unsurprisingly, this number was less than the amount committed in the first auctions, however it is promising to see the auction amounts still being of significant value.
 
 ![](https://miro.medium.com/max/1920/1*cHMt10lANsqtkLYHCv6iWg.png)
-As you can see in the graph below, the number of contributions were relatively constant, with simultaneous jumps in the contribution rate on the 17th of November to over 2,000 contributions in a 4 hour period. Similarly to the  [Moonbeam and Acala battle](https://subquery.medium.com/inside-the-polkadot-crowdloans-986025f6b93a), this auction had significantly different styles of participation while maintaining a relatively equal amount of contributions. Parallel Finance had 20,000 less contributions to their crowdloan when compared to Astar.
+As you can see in the graph below, the number of contributions were relatively constant, with simultaneous jumps in the contribution rate on the 17th of November to over 2,000 contributions in a 4 hour period. Similarly to the [Moonbeam and Acala battle](./20211124-polkadot-crowdloans.md), this auction had significantly different styles of participation while maintaining a relatively equal amount of contributions. Parallel Finance had 20,000 less contributions to their crowdloan when compared to Astar.
 
 ![](https://miro.medium.com/max/1920/0*QLdNkyaQBBj3L9Eu)
 
@@ -29,7 +29,7 @@ The second even was a bit weirder, and was rather 25 separate events.In a 11 min
 
 ![](https://miro.medium.com/max/1920/0*ZErTVoVAvSJvaIsL)
 
-Astar and Parallel Finance led a very competitive auction, where Astar was selected as the winner at block  [7927110](https://polkadot.subscan.io/block/7927110), with a lead of only 120,000 DOT. If there was another random block selected any earlier or later, the result may have been quite different.
+Astar and Parallel Finance led a very competitive auction, where Astar was selected as the winner at block [7927110](https://polkadot.subscan.io/block/7927110), with a lead of only 120,000 DOT. If there was another random block selected any earlier or later, the result may have been quite different.
 
 So who is contributing? Firstly there are two massive whales that are responsible for a combined 41% of all contributions and 69.34% of all value (13,756,262 DOT). These two accounts represent Parallel Finance’s Crowdloan proxy vehicle and Binance. Kraken and Bifrost’s SALP program were also represented in the top 6 contributors. Parallel’s Crowdloan proxy vehicle was particularly prevalent in our results with over 9.3 million DOT contributed (US$344.6 million) representing over 47% of all contributions.
 
@@ -45,7 +45,7 @@ SubQuery is Polkadot’s leading data provider, supporting an indexing & queryin
 
 SubQuery’s protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
 
-​​​​[Linktree](https://linktr.ee/subquerynetwork)  |  [Website](https://subquery.network/)  |  [Discord](https://discord.com/invite/78zg8aBSMG)  |  [Telegram](https://t.me/subquerynetwork)  |  [Twitter](https://twitter.com/subquerynetwork)  |  [LinkedIn](https://www.linkedin.com/company/subquery)  |  [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+​​​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
 
 ## Appendix
 
@@ -55,9 +55,9 @@ All data is from the start of the Polkadot Crowdloans to the completion of the t
 
 Excluded Crowdloan Sites
 
--   [Acala LCDOT](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157)
--   [Binance Crowdloan](https://www.binance.com/en/dotslot)
--   [Parallel Finance](https://crowdloan.parallel.fi/#/auction/polkadot)
--   [Kraken Crowdloan](https://www.kraken.com/learn/parachain-auctions)
--   [https://pos.dog/](https://pos.dog/)
--   [Bifrost SALP](https://medium.com/bifrost-finance/bifrost-announces-slot-auction-liquidity-protocol-salp-weekly-report-51-57a7f69aad34)
+- [Acala LCDOT](https://medium.com/acalanetwork/acala-liquid-crowdloan-dot-lcdot-launch-on-polkadot-f28d8f561157)
+- [Binance Crowdloan](https://www.binance.com/en/dotslot)
+- [Parallel Finance](https://crowdloan.parallel.fi/#/auction/polkadot)
+- [Kraken Crowdloan](https://www.kraken.com/learn/parachain-auctions)
+- [https://pos.dog/](https://pos.dog/)
+- [Bifrost SALP](https://medium.com/bifrost-finance/bifrost-announces-slot-auction-liquidity-protocol-salp-weekly-report-51-57a7f69aad34)

@@ -1,8 +1,19 @@
 import { defineUserConfig } from "vuepress";
-import type { DefaultThemeOptions } from "vuepress";
+import { defaultTheme } from "vuepress";
 import { glob } from "glob";
+import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics';
+import { sitemapPlugin } from "vuepress-plugin-sitemap2";
 
-export default defineUserConfig<DefaultThemeOptions>({
+export default defineUserConfig({
+  plugins: [
+    googleAnalyticsPlugin({
+      id: 'G-4TZ8386E8Q',
+    }),
+    sitemapPlugin({
+      hostname: 'https://blog.subquery.network'
+    }),
+  ],
+  head: [['link', { rel: 'icon', href: '/assets/img/logo.png' }]],
   locales: {
     "/": {
       lang: "en-UK",
@@ -95,7 +106,7 @@ export default defineUserConfig<DefaultThemeOptions>({
         "Explore and transform your chain data to build intuitive dApps faster!.",
     },
   },
-  themeConfig: {
+  theme: defaultTheme({
     logo: "/assets/img/logo.png",
     logoLink: "https://subquery.network",
     lastUpdated: true,
@@ -120,7 +131,7 @@ export default defineUserConfig<DefaultThemeOptions>({
         rel: "",
       },
     ],
-    sidebarDepth: 0,
+    sidebarDepth: 2,
     locales: {
       "/": {
         selectLanguageName: "English",
@@ -579,5 +590,5 @@ export default defineUserConfig<DefaultThemeOptions>({
         rel: "",
       },
     ],
-  },
+  }),
 });

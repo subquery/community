@@ -6,7 +6,7 @@ _The technical bounties give opportunities for developers to work on projects fo
 
 [SubQuery](https://subquery.network/), the leading data indexing solution built on Polkadot (DOT), is pleased to announce the launch of technical bounties in partnership with leading blockchain teams in Polkadot as part of SubQuery’s Grants Programme.
 
-[The USD$500,000 SubQuery Grants Program kicked off in December 2021](https://subquery.medium.com/subquery-launches-500-000-grants-program-to-promote-polkadot-ecosystem-growth-9f04e6f67a3b) with the vision of offering opportunities to blockchain developers, community members, and wider ecosystem participants to create innovative or high-potential ideas that leverage SubQuery’s open-source data indexing tools to support cutting-edge decentralised applications.
+[The USD$500,000 SubQuery Grants Program kicked off in December 2021](./20211222-grants.md) with the vision of offering opportunities to blockchain developers, community members, and wider ecosystem participants to create innovative or high-potential ideas that leverage SubQuery’s open-source data indexing tools to support cutting-edge decentralised applications.
 
 While developers can still apply for the SubQuery Grants Programme with their own ideas, SubQuery has released initial bounties in partnership with Moonbeam, Acala, Astar and Bifrost as projects for inspiration. All are open to apply now, and as a bonus, if your application is successful you’ll get to work closely with the parachain team that suggested the challenge!
 
@@ -16,7 +16,7 @@ You can see a live list of all the bounties on SubQuery’s website, including a
 
 Applicants who are interested in any of these bounties are encouraged to submit their proposal with the budget required to complete the task and other requirements here. If you have any questions please join our Discord server and reach out to our team in the Grants channel.
 
-For those who would like to up-skill more on SubQuery before making an application, [The SubQuery Academy](https://subquery.medium.com/subquery-launches-the-subquery-academy-9505dc66a01)’s “Hero Course” is a free and modular educational program designed to build awareness amongst developers. and is [completely free and accessible via an online portal](https://subquery.coassemble.com/unlock/dOKZW6O#/).
+For those who would like to up-skill more on SubQuery before making an application, [The SubQuery Academy](./20211018-subquery-launches-the-subquery-academy.md)’s “Hero Course” is a free and modular educational program designed to build awareness amongst developers. and is [completely free and accessible via an online portal](https://subquery.coassemble.com/unlock/dOKZW6O#/).
 
 ## About SubQuery Network
 

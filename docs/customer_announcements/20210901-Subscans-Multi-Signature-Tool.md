@@ -2,7 +2,7 @@
 
 ![Subscan header.jpg](https://cdn-images-1.medium.com/max/1600/1*Xs3mJrvClJq3qBzWU48fjg.jpeg)
 
-Subscan's new [multi-signature wallet tool](https://medium.com/r/?url=https%3A%2F%2Fmultisig.subscan.io%2F) is designed to help others in the Polkadot ecosystem create and manage multi-signature accounts and transactions. It is supported by the [Web3 Foundation Grants Program](https://github.com/w3f/Grants-Program/blob/master/applications/multisignature_management_tool.md) and provides convenient multi-signature wallet management services for multiple networks based in Polkadot. 
+Subscan's new [multi-signature wallet tool](https://medium.com/r/?url=https%3A%2F%2Fmultisig.subscan.io%2F) is designed to help others in the Polkadot ecosystem create and manage multi-signature accounts and transactions. It is supported by the [Web3 Foundation Grants Program](https://github.com/w3f/Grants-Program/blob/master/applications/multisignature_management_tool.md) and provides convenient multi-signature wallet management services for multiple networks based in Polkadot.
 
 SubQuery's service plays a key part in this tool providing fast data on transaction for any given multi signature address, which improves the UX and allows more advanced features.
 
