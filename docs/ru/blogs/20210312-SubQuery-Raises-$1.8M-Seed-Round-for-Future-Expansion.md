@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1400/0*CrM8-LKRt3slWAsN)
 
-**SubQuery-сервис, упрощающий запросы к децентрализованным данным, объявил сегодня об успешном привлечении сид раунда и частной продажи на сумму 1,8 млн долларов США, главным образом при поддержке [DeFi Alliance](https://defialliance.co/), [D1 Ventures](https://d1.ventures/), [Hypersphere Ventures](https://hypersphere.ventures/), [Digital Finance Group (DFG)](https://www.dfg.group/) и [Лаос](https://www.thelao.io/). Огромный спрос, который мы получили на поддержку начального раунда SubQuery, свидетельствует о большом интересе к инфраструктурным услугам и вере в будущее экосистемы Polkadot.**
+**SubQuery, the service making decentralised data easier to query, announced today that it has successfully raised a US$1.8 million seed round and private sale backed primarily by [DeFi Alliance](https://defialliance.co/), [D1 Ventures](https://d1.ventures/), [Hypersphere Ventures](https://hypersphere.ventures/), [Digital Finance Group (DFG)](https://www.dfg.group/), and [The Lao](https://www.thelao.io/). The overwhelming demand we received to back SubQuery’s seed round shows the strong interest in infrastructure services and belief in the future of the Polkadot ecosystem.**
 
 SubQuery позволяет каждой команде Substrate/Polkadot обрабатывать и запрашивать свои данные. Проект вдохновлен ростом протоколов данных, обслуживающих уровень приложений, и его цель - помочь проектам Polkadot / Substrate создавать лучшие приложения, позволяя любому пользователю быстрее находить и потреблять данные. Сегодня каждый может запросить и извлечь данные сети Polkadot всего за несколько минут и бесплатно.
 
@@ -12,7 +12,7 @@ OnFinality это команда за SubQuery, которые являются 
 
 > _“Hypersphere рада поддержать Сэма и команду SubQuery, так как они строят первый протокол индексации, который сосредоточен исключительно на экосистеме Polkadot._ — Джек Платс, соучредитель Hypersphere Ventures
 
-Под руководством Сэма Зоу, генерального директора SubQuery, команда [получила грант от фонда Web3](./20210207-SubQuery-Delivers-Its-Open-Source-SDK-Following-a-Web3-Foundation-Grant.md) в декабре 2020 года на создание начальной фазы SubQuery, проекта с открытым исходным кодом, который позволяет пользователям запускать индексатор в своей цепочке. для создания набора данных, который можно запрашивать с помощью GraphQL.
+Led by Sam Zou, CEO of SubQuery, the team [received a grant from the Web3 foundation](./20210207-SubQuery-Delivers-Its-Open-Source-SDK-Following-a-Web3-Foundation-Grant.md) in December 2020 to build the initial phase of SubQuery, an open source project that allows users to run an indexer across their chain to build a dataset that can be queried with GraphQL.
 
 ![](https://miro.medium.com/max/1000/0*kjspGYRr_BtMk015)
 
@@ -27,8 +27,8 @@ OnFinality это команда за SubQuery, которые являются 
 **Свяжитесь с нами:**
 
 - [hello@subquery.network](mailto:hello@subquery.network)
-- [Дискорд](https://discord.com/invite/78zg8aBSMG)
-- [Телеграм](https://t.me/subquerynetwork)
-- [Твиттер](https://twitter.com/subquerynetwork)
-- [Матрица](https://matrix.to/#/#subquery:matrix.org)
+- [Discord](https://discord.com/invite/78zg8aBSMG)
+- [Telegram](https://t.me/subquerynetwork)
+- [Twitter](https://twitter.com/subquerynetwork)
+- [Matrix](https://matrix.to/#/#subquery:matrix.org)
 - [LinkedIn](https://www.linkedin.com/company/subquery)
