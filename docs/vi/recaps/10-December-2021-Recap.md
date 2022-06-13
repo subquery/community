@@ -1,122 +1,122 @@
-# Tóm tắt Tháng 12 năm 2021
+# December 2021 Recap
 
 ![](https://miro.medium.com/max/1400/1*-gXOf6qYQiYypDCVBeE1kg.png)
 
-Năm nay đã trôi qua và SubQuery đã đi được một chặng đường dài! Kể từ tháng 2 năm 2021, chúng tôi đã phát triển một cộng đồng khổng lồ, giúp đỡ hàng trăm dự án xây dựng nhanh hơn và mở rộng quy mô dịch vụ lưu trữ của chúng tôi để xử lý hàng trăm triệu yêu cầu API cho các dự án hàng đầu trên nền tảng Polkadot.
+This year has absolutely flown by and SubQuery has come a long way! Since February 2021, we’ve grown a huge inclusive community, helped hundreds of projects to build faster, and scaled our hosted service to handle hundreds of millions of API requests for the top projects in Polkadot.
 
-Hãy đọc lời nhắn từ Sam và tìm hiểu những gì chúng ta phải làm trong những ngày cuối cùng của năm 2021!
+Read on for a message from Sam, and learn what we go up to in the final days of 2021!
 
-## Mạng lưới SubQuery
+## SubQuery Network
 
-### SubQuery ra mắt chương trình tài trợ $500,000
+### SubQuery Launches $500,000 Grants Programme
 
-Vào cuối tháng 12, chúng tôi tự hào thông báo về việc ra mắt Chương trình Tài trợ $500.000 của mình.
+In late December, we were proud to announce the launch of our USD$500,000 Grants Programme.
 
-Tầm nhìn của sáng kiến [SubQuery Grants](https://subquery.network/grants) là cung cấp các cơ hội quan trọng cho các nhà phát triển blockchain, các thành viên cộng đồng và những người tham gia hệ sinh thái rộng khắp để họ có thể tạo ra thế hệ tiếp theo của các ứng dụng phi tập trung (dApps). Các ứng dụng này dự kiến sẽ tiếp thêm năng lượng cho các giải pháp dựa trên Polkadot mà hỗ trợ Web 3.0, một bộ tiêu chuẩn đang phát triển cho Internet trong tương lai.
+The vision of the [SubQuery Grants](https://subquery.network/grants) initiative is to offer key opportunities to blockchain developers, community members, and the wider ecosystem participants so they can create the next-generation of decentralized applications (dApps). These apps are expected to power the Polkadot-based solutions that will support Web 3.0, which is an evolving set of standards for the Internet of the future.
 
-<iframe width="680" height="382" src="https://www.youtube.com/embed/Gcu2syKYlB4" title="Trình phát video YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="680" height="382" src="https://www.youtube.com/embed/Gcu2syKYlB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-SubQuery đang tìm kiếm các ý tưởng sáng tạo hoặc có tiềm năng cao để tận dụng các công cụ lập chỉ mục dữ liệu mã nguồn mở của SubQuery nhằm hỗ trợ các ứng dụng tiên tiến giải quyết các vấn đề trong lĩnh vực chuỗi khối hoặc công nghệ sổ cái phân tán (DLT). Chúng tôi đặc biệt quan tâm đến các ứng dụng thân thiện với người dùng giúp mở khóa dữ liệu từ Polkadot hoặc các parachain, cung cấp một điểm vào trực quan cho hệ sinh thái của chúng tôi. Mục đích của chúng tôi là mang hàng triệu người dùng vào hệ sinh thái Polkadot bằng cách giúp các nhà phát triển xây dựng thế hệ dApp tiếp theo. [Bạn có thể tìm hiểu thêm tại đây](../blogs/20211222-grants.md)
+SubQuery is looking for innovative or high-potential ideas that leverage SubQuery’s open-source data indexing tools to support cutting-edge applications that address problems in blockchain or distributed ledger technology (DLT) sector. We’re particularly interested in user friendly applications that unlock the data from Polkadot or parachains, providing an intuitive entry point into our ecosystem. Our aim is to bring millions of users into the Polkadot ecosystem by helping builders build the next generation of dApps. [You can read more here](../blogs/20211222-grants.md)
 
 ![](https://miro.medium.com/max/1400/1*tFm9pBCPmAet3WGiGjUtLg.png)
 
-### SubQuery phát hành Tokenomics
+### SubQuery Releases Tokenomics
 
-Trong Community Call gần đây nhất, chúng tôi đã lần đầu tiên chia sẻ chi tiết về tokenomics của mình bao gồm cả việc phân bổ và lịch trình mở khóa token. SubQuery sẽ có nguồn cung 10 tỷ SQT và được phân bổ như sau.
+During our most recent Community Call we shared our high-level tokenomics for the first time including the allocations and vesting schedules. SubQuery will mint a supply of 10 billion SQT which will be allocated in the following manner.
 
 ![](https://miro.medium.com/max/1400/1*304WkKdNhuf0nSBmTlOXyQ.png)
 
-Chúng tôi mong muốn thiết lập SQT làm token cho mạng SubQuery, khuyến khích sự tham gia của người dùng, cũng như đóng vai trò là một phương tiện trao đổi cho các giao dịch trong mạng SubQuery. SQT sẽ là động lực cho cuộc cách mạng dữ liệu web3.
+We aim to establish SQT as the token which powers the SubQuery network, providing an incentive for participation, as well as serving as a medium of exchange for transactions within the SubQuery network. SQT will be the fuel for the web3 data revolution.
 
-Chi tiết chính xác về thời điểm và cách thức phân bổ và phân phối token SQT vẫn đang được hoàn thiện và sẽ được thông báo gần sát với đợt mở bán công khai. Đối với việc niêm yết SQT, chúng tôi đang có kế hoạch niêm yết trên các sàn giao dịch phi tập trung (DEX) và sàn tập trung (CEX) để giúp mọi người tham gia vào Mạng SubQuery dễ dàng nhất có thể. [Đọc thêm tại đây](../blogs/20211220-tokenomics.md)
+The exact details of when and how the SQT token will be allocated and distributed are still subject to finalisation, and will be announced closer to the public sale. For the listing of SQT, we are planning to be available on key decentralised (DEX) and centralised exchanges (CEX) to make it as easy as possible for everyone to participate in the SubQuery Network. [Read more here](../blogs/20211220-tokenomics.md)
 
-### Kêu gọi những người lập chỉ mục
+### Call for Indexers
 
-Nhằm chuẩn bị sẵn sàng cho việc ra mắt mainnet, chúng tôi đã đưa ra lời kêu gọi các Nhà Lập Chỉ Mục đăng ký tham gia cùng chúng tôi vào Tháng 12 này. Chỉ trong vài ngày, chúng tôi đã có hơn 1.000 đơn đăng ký!
+As we get ready for the launch of our mainnet we put out the call for Indexers in December to register their interest with us. In a matter of days we had over 1,000 applications!
 
-Chúng tôi đang tìm kiếm các Nhà Vận Hành Node có hiểu biết sâu sắc về Mạng SubQuery, bao gồm các luồng doanh thu và cách hoạt động của việc stake và ủy quyền. Bạn cần phải là một chuyên gia trong việc chạy các ứng dụng sản xuất có hiệu suất cao và có khả năng mở rộng với tính năng giám sát và bảo mật ví / cơ sở hạ tầng. Cuối cùng, bạn sẽ cần một thái độ tuyệt vời và niềm tin chung vào tương lai lớn mạnh của web3.
+We are looking for node operators with a deep understanding of the SubQuery Network, including the revenue streams and how staking and delegation works. You’ll need to be an expert in running high performance and scalable production applications with monitoring and wallet/infrastructure security. Finally, you’ll need a great attitude and a shared belief in growing the future of web3.
 
-Những Người Lập Chỉ Mục muốn tham gia [ có thể đăng ký với SubQuery tại đây ](https://forms.gle/RyXyhb8T9Gxkwi7R9). Sau khi xem xét tất cả các đơn đăng ký, chúng tôi dự kiến sẽ phê duyệt một nhóm Người Lập Chỉ Mục đầu tiên vào đầu tháng 2 năm 2022 với việc khởi chạy testnet vào cuối Quý 1 năm 2022. Người Lập Chỉ Mục sẽ được thưởng và được mời tham gia vào mainnet tiếp theo được dự kiến vào cuối Quý 2 năm 2022. [Đọc thêm tại đây](../blogs/20211202-indexer-invitation.md)
+Indexers who are interested in participating [can register their interest with SubQuery here](https://forms.gle/RyXyhb8T9Gxkwi7R9). After reviewing all of the applications, we expect to approve an initial pool of Indexers by early February 2022 with the testnet launching at the end of Q1 2022. Indexers will be retrospectively rewarded and invited to participate in the subsequent mainnet anticipated at the end of Q2 2022. [Read more here](../blogs/20211202-indexer-invitation.md)
 
-## Phát triển sản phẩm cốt lõi
+## Core Product Development
 
-### SubQuery cung cấp cho khách hàng Dịch Vụ Hỗ Trợ Doanh Nghiệp
+### SubQuery Provides Customers with Enterprise Support
 
 ![](https://miro.medium.com/max/1400/1*gD9qkI5JK-PeWRTDr3IERw.png)
 
-Nhiều khách hàng hiện đang dùng SubQuery để cung cấp dữ liệu quan trọng cho các ứng dụng sản xuất của họ. Những khách hàng này đại diện cho một số ví lớn nhất ([Nova](https://novawallet.io/) và [Fearless](https://fearlesswallet.io/)), scanners ([Subscan](https://www.subscan.io/), [SubVis](https://www.subvis.io/), và [DotMarketCap](https://dotmarketcap.com/)), nền tảng NFT ([Kodadot](https://kodadot.xyz/) và [Yuser](https://yuser.co/)), và nhiều hơn nữa. Đây là những ứng dụng khổng lồ mà cộng đồng Polkadot sử dụng hàng ngày và luôn phải trực tuyến.
+Many customers now rely on SubQuery to provide mission critical data to their production apps. These customers represent some of the largest wallets ([Nova](https://novawallet.io/) and [Fearless](https://fearlesswallet.io/)), scanners ([Subscan](https://www.subscan.io/), [SubVis](https://www.subvis.io/), and [DotMarketCap](https://dotmarketcap.com/)), NFT platforms ([Kodadot](https://kodadot.xyz/) and [Yuser](https://yuser.co/)), and more. These are huge applications that the Polkadot community use on a daily basis and must be online at all times.
 
-Hiệu suất và độ tin cậy của dịch vụ được lưu trữ luôn là ưu tiên hàng đầu của chúng tôi tại SubQuery. Nhóm "chị em" của chúng tôi là OnFinality, nhà cung cấp cơ sở hạ tầng lớn nhất của Polkadot, do đó chúng tôi có rất nhiều kinh nghiệm trong lĩnh vực này. Và kết quả là chúng tôi gần đây đã thực hiện ba cải tiến mà sẽ làm cho SubQuery trở thành nền tảng dữ liệu đáng tin, có thể mở rộng và hoạt động hiệu quả nhất trên Polkadot.
+The performance and reliability of our hosted service has been on the top of our priority list for some time here at SubQuery. Our sister team is OnFinality, Polkadot’s largest infrastructure provider, so we have plenty of experience in this area. As a result, we made three recent improvements that will make SubQuery the most reliable, scalable, and performant data platform in Polkadot.
 
-1.  Cơ sở dữ liệu chuyên dụng
-2.  Hỗ trợ nhiều cụm
+1.  Dedicated Databases
+2.  Multiple Cluster Support
 3.  Định tuyến thông minh
 
-Những dịch vụ này cho phép chúng tôi tự tin cung cấp dịch vụ cao cấp của mình cho nhiều khách hàng hơn. Chúng tôi làm việc với từng khách hàng để hiểu mô hình hoạt động và mục tiêu của họ, sau đó thiết lập dịch vụ để đáp ứng nhu cầu của họ. SubQuery là nhà cung cấp dịch vụ dữ liệu lớn nhất trên Polkadot và các tính năng này cho thấy cách chúng tôi hỗ trợ hàng nghìn dự án cộng đồng cùng lúc với các dự án lớn nhất ở Polkadot. [Đọc thêm tại đây](../blogs/20211228-enterprise-hosted.md)
+These services allow us to offer our premium service to more customers with confidence. We work with each customer to understand their business and goals, and then to set up a service to meet their needs. SubQuery is the largest data service provider in Polkadot, and these features show how we support thousands of community projects at the same time as the biggest projects in Polkadot. [Read more here](../blogs/20211228-enterprise-hosted.md)
 
-## Phát triển cộng đồng
+## Community
 
-### Khóa học Người Hùng
+### The Hero Course
 
-Một vài tháng trước, chúng tôi đã phát hành khóa học miễn phí đầu tiên của mình để giúp các nhà phát triển blockchain nâng cao kỹ năng bản thân. Giờ đây, chúng tôi vui mừng thông báo rằng tất cả các học phần của [ Khóa học Người Hùng ](https://subquery.coassemble.com/unlock/dOKZW6O#/) của chúng tôi hiện đã được phát hành.
+A few months ago we released our first course to help blockchain developers upskill themselves for free. Now, we are pleased to announce that all modules of our [Hero Course](https://subquery.coassemble.com/unlock/dOKZW6O#/) have now been released.
 
-Gần dây, chúng tôi đã thêm tính năng Giải Đố nhằm cho phép học viên lấy được chứng chỉ chính thức và chúng tôi cũng đang làm việc với Cộng Đồng để dịch khóa học sang nhiều ngôn ngữ khác nhau.
+We recently added a quiz feature to enable students to earn the official certificate and are working with the Community to translate the course into various languages.
 
-### SubQuery Chúc Mừng Những Người Chiến Thắng Cuộc Thi Encode Club Hackathon
+### SubQuery Celebrates Winners of Encode Club Hackathon
 
-SubQuery tự hào được hợp tác với Acala cùng triển khai Encode Club Hackathon năm ngoái nhằm hỗ trợ cộng đồng nhà phát triển và thế hệ tiếp theo của các dự án Polkadot.
+SubQuery was proud to partner with Acala for the Encode Club Hackathon last year to support the developer community and the next generation of Polkadot projects.
 
-Sau 10 tuần và dưới sự giám sát kỹ lưỡng từ các giám khảo nổi tiếng trong hệ sinh thái Polkadot như [ Bryan Chen ](https://twitter.com/XiliangChen) (Đồng sáng lập và CTO của Acala), [ Hang Yin ](https://twitter.com/bgmshana) (Đồng sáng lập Phala Network), [ Jack Platts ](https://twitter.com/jackbplatts) (Đồng sáng lập Hypersphere Ventures) và [ Sota Watanabe ](https://twitter.com/WatanabeSota) (Người sáng lập Astar, Giám đốc điều hành của Stake Technologies), chúng tôi rất vui khi được công bố [ những người chiến thắng ](https://medium.com/encode-club/polkadot-hack-finale-prizewinners-and-summary-931627c64d9) thử thách của chúng tôi.
+After 10 weeks and scrutiny from high profile judges in the Polkadot ecosystem such as [Bryan Chen](https://twitter.com/XiliangChen) (Co-Founder and CTO of Acala), [Hang Yin](https://twitter.com/bgmshana) (Co-Founder of Phala Network), [Jack Platts](https://twitter.com/jackbplatts) (Co-Founder of Hypersphere Ventures) and [Sota Watanabe](https://twitter.com/WatanabeSota) (Founder of Astar, CEO of Stake Technologies) we are happy to share [the winners](https://medium.com/encode-club/polkadot-hack-finale-prizewinners-and-summary-931627c64d9) of our challenges.
 
-🤖 Đội ngũ tại Krakura đã giành chiến thắng trong thử thách “xây dựng một bot” với con bot thú vị liên tục kiểm tra sự khác biệt về giá cả tại DEX mã nguồn mở.
+🤖 The “build a bot” challenge was won by the team at Krakura with an interesting open-source DEX arbitrage bot that constantly checks for pricing differences.
 
-<iframe width="680" height="382" src="https://www.youtube.com/embed/G7TNTzMDijU" title="Trình phát video YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="680" height="382" src="https://www.youtube.com/embed/G7TNTzMDijU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-📈 Người chiến thắng trong thử thách Bảng Điều Khiển với AcalaNetwork là nhóm tại Polkadata, một nền tảng phân tích dữ liệu dành cho các nhà đầu tư DeFi dùng để theo dấu cách các quỹ triển khai việc đầu tư và cấu trúc danh mục đầu tư của họ trên Karura
+📈 The winner of the Dashboard challenge with AcalaNetwork was the team at Polkadata, a data analytics platform for DeFi investors to track how smart money is investing and structuring their portfolio on Karura
 
 [http://polkadata.xy](http://polkadata.xy/)
 
-🪙 Entity 54 là ứng dụng chiến thắng trong danh mục AcalaNetwork Defi DApp. Entity 54 là DApp kết nối với AMTC6 thông qua Acala API/EVM và đọc số dư tài khoản, khoản vay và cho phép hoán đổi, chuyển khoản, điều chỉnh khoản vay và chuyển khoản đồng thời đọc dữ liệu đồng coin và khoản vay
+🪙 Entity 54 were the winners in the AcalaNetwork Defi DApp category. Entity 54 is a DApp that connects to AMTC6 via Acala API/EVM and reads account balances, loans and allows swaps, transfers, loan adjustments and transfers plus reads coin and loan data
 
-<iframe width="680" height="382" src="https://www.youtube.com/embed/fU1BRVOtx2o" title="Trình phát video YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="680" height="382" src="https://www.youtube.com/embed/fU1BRVOtx2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Đọc thêm tại đây](../blogs/20220120-gr12-winners.md)
+[Read more here](../blogs/20220120-gr12-winners.md)
 
-### SubQuery hợp tác với OneBlock+ để đào tạo các nhà phát triển Blockchain ở Trung Quốc
+### SubQuery Partners with OneBlock+ To Educate Blockchain Developers in China
 
-Cộng đồng của SubQuery luôn mang tính toàn cầu và một số lượng lớn khách hàng của SubQuery đến từ cộng đồng Polkadot đang ngày một lớn mạnh ở Trung Quốc.
+SubQuery’s community has always been global, and a huge number of SubQuery’s customers come from the thriving Polkadot community in China.
 
-SubQuery gần đây đã ra mắt Học viện SubQuery để nâng cao kỹ năng cho các nhà phát triển blockchain trên toàn cầu, đặc biệt trong lĩnh vực lập chỉ mục dữ liệu trong hệ sinh thái Polkadot. “Khóa học Người Hùng” hiện có đã được dịch sang tiếng Trung và sẽ được chuyển giao qua WeChat. OneBlock+ sẽ cung cấp hỗ trợ học tập bổ sung cho học viên thông qua “Office Hours” hàng tuần trên nền tảng Tencents Conference.
+SubQuery recently launched the SubQuery Academy to upskill blockchain developers globally, specifically in the area of data indexing in the Polkadot ecosystem. The existing “Hero Course” has been translated to Chinese and will be delivered via WeChat. OneBlock+ will provide additional learning support to students via weekly “Office Hours” on Tencents Conference platform.
 
-Việc chuyển giao khóa học này ở Trung Quốc là thể hiện sự tâm huyết của SubQuery trong việc cung cấp hỗ trợ ngôn ngữ bản địa cho tất cả các cộng đồng của chúng tôi trên khắp thế giới. [Đọc thêm tại đây](../blogs/20211209-oneblock-education.md)
+The delivery of this course in China is the embodiment of SubQuery’s dedication to providing local language support for all of our communities around the world. [Read more here](../blogs/20211209-oneblock-education.md)
 
-### Tìm hiều về Crowdloan trên Polkadot (Phần 2)
+### Inside The Polkadot Crowdloans (Part 2)
 
-Giống như bất kỳ người hâm mộ nào của hệ sinh thái Polkadot, chúng tôi bị cuốn hút bởi quy trình huy động vốn cộng đồng trên Polkadot gần đây và quyết định đưa dữ liệu của chúng tôi vào hoạt động! Sau khi xem xét trận chiến giữa Acala và Moonbeam, chúng tôi đã tiến hành phân tích thêm về cách hình thành cuộc đấu giá giữa Astar và Parallel Finance.
+Like any keen fan of the Polkadot ecosystem, we were fascinated by the recent Polkadot crowdloan process and decided to put our data to work! After examining the battle between Acala and Moonbeam we conducted more analysis on how the Astar and Parallel Finance auction shaped up.
 
-Tóm lại, Astar và Parallel Finance đã dẫn đầu một cuộc đấu giá rất cạnh tranh, trong đó Astar được chọn là người chiến thắng tại khối [7927110 ](https://polkadot.subscan.io/block/7927110), với mức dẫn đầu chỉ với 120.000 DOT! Nếu có một khối ngẫu nhiên khác được chọn bất kỳ sớm hơn hoặc muộn hơn, kết quả có thể đã hoàn toàn khác.
+In a nutshell, Astar and Parallel Finance led a very competitive auction, where Astar was selected as the winner at block [7927110](https://polkadot.subscan.io/block/7927110), with a lead of only 120,000 DOT! If there was another random block selected any earlier or later, the result may have been quite different.
 
 ![](https://miro.medium.com/max/1400/1*2EnTjVHEztLqCDyoRoLasQ.png)
 
-Có các cuộc đấu giá cực kỳ cạnh tranh cho thấy một hệ sinh thái lành mạnh và thật đáng khích lệ khi thấy mức độ cam kết mà cộng đồng đã thể hiện. Tại SubQuery, chúng tôi rất hào hứng khi được tiếp tục làm việc cùng với các dự án Polkadot tốt nhất và chúng tôi rất nóng lòng chờ đợi xem tương lai sẽ ra sao. [Đọc thêm tại đây](../blogs/20211124-polkadot-crowdloans.md)
+Having auctions that have been extremely competitive suggests a healthy ecosystem, and it is encouraging to see the amount of commitment that the community has shown. Here at SubQuery we are very excited to continue working alongside the best Polkadot projects, and can’t wait to see what the future has in store for us. [Read more here](../blogs/20211124-polkadot-crowdloans.md)
 
-### Cuộc thi Gitcoin Hackathon
+### Gitcoin Hackathon
 
-Để tiếp tục công việc phát triển cộng đồng nhà phát triển cho SubQuery, [ chúng tôi đã tham gia Gitcoin GR 12 Hackathon ](../blogs/20211120-gitcoin12-hackathon.md) gần đây từ ngày 1 đến ngày 16 tháng 12.
+To continue our work in growing the developer community for SubQuery, [we participated in the recent Gitcoin GR 12 Hackathon](../blogs/20211120-gitcoin12-hackathon.md) from December 1–16th.
 
-Hợp tác với những người bạn của chúng tôi tại Acala, Moonbeam và Astar, chúng tôi đã có năm thử thách khác nhau với tổng giải thưởng là $34.000 USDC. Chúng tôi thực sự được khích lệ bởi chất lượng của các ứng dụng và sẽ sớm công bố thêm thông tin chi tiết về những người chiến thắng.
+Partnering with our friends at Acala, Moonbeam and Astar, we had five different challenges with a total prize pool of $34,000 USDC. We were really encouraged by the quality of applications and will be announcing more details about the winners soon.
 
 ![](https://miro.medium.com/max/1400/1*H84EaIQhTn5H0x-lWHyP3g.png)
 
-Quan hệ đối tác của chúng tôi với Gitcoin phản ánh cam kết của chúng tôi trong việc cung cấp cơ hội cho các nhà phát triển trên khắp thế giới xây dựng các ứng dụng của tương lai. Khi chúng tôi lớn mạnh, sẽ có nhiều hackathon hơn và các cơ hội khác từ SubQuery để xây dựng các dự án, vì vậy hãy chú ý theo dõi!
+Our partnership with Gitcoin reflects our commitment to provide opportunities for motivated developers around the world to build the applications of tomorrow. As we grow there will be more hackathons and other opportunities from SubQuery to build projects so stay tuned!
 
-## Những thứ khác mà bạn có thể đã bỏ lỡ
+## Other things you might have missed
 
-- [**Solarbeam làm việc với SubQuery về Launchpad mới Eclipse của họ**](../customer_announcements/20211215-solarbeam.md)
-- Sau khi [Polkadot thông báo](https://polkadot.network/blog/introducing-polkadot-kusama-gifts/) rằng bạn có thể tặng DOT hoặc KSM cho bạn bè hoặc gia đình, nhiều người đã tận dụng điều này và tặng quà là tài sản kỹ thuật số trong năm nay. Với tinh thần của lễ Giáng sinh, chúng ta [phân tích dữ liệu về quà tặng của Polkadot](../blogs/20211223-gifting.md)
+- [**Solarbeam work with SubQuery for their new Eclipse Launchpad**](../customer_announcements/20211215-solarbeam.md)
+- Following the [Polkadot announcement](https://polkadot.network/blog/introducing-polkadot-kusama-gifts/) that you can gift DOT or KSM to friends or family, many have taken advantage of this and given the gift of a digital asset this year. In the spirit of Christmas s[ee our breakdown of Polkadot’s gifting data](../blogs/20211223-gifting.md)
 
-Như thường lệ, hãy [tham gia các kênh truyền thông của chúng tôi](https://linktr.ee/subquerynetwork) (đặc biệt là [Discord](https://discord.com/invite/subquery)) để được cập nhật tin tức và thông báo mới nhất.
+As always, please [join our social channels](https://linktr.ee/subquerynetwork) (especially our [Discord](https://discord.com/invite/subquery)) to stay updated on our latest news and announcements.
 
-James, Sam, và Đội ngũ SubQuery
+James, Sam và Nhóm SubQuery
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
