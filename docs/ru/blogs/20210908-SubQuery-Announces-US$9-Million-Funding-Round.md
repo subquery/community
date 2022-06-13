@@ -8,7 +8,11 @@ SubQuery объявляет о раунде финансирования в ра
 
 SubQuery направлен на улучшение доступа к децентрализованным данным блокчейна путем создания динамичного рынка для индексирования и предоставления данных. Его технология предоставляет разработчикам Polkadot и Kusama инструменты, необходимые для простого исследования, преобразования и анализа данных в сети. Абстрагируясь от серверной части, SubQuery устраняет необходимость в настраиваемых серверах обработки данных. Это позволяет разработчикам сосредоточиться на разработке продукта и взаимодействии с пользователем, а не на создании собственных систем запросов.
 
-Этот стратегический раунд проводился совместно [ Arrington Capital ](https://arringtonxrpcapital.com/), [ DCG ](https://dcg.co/) и [ Stratos Technologies ](https://www.stratoslp.com/), и в нем участвовали [ Hypersphere Ventures ](https://hypersphere.ventures/), [ Neo Global Capital (NGC) ](http://ngc.fund/), [ Wintermute ](https://www.wintermute.com/) и [ Skynet Trading ](http://skynettrading.com/). Это продолжение из начального раунда в начале 2021 года, в который входили [ DeFi Alliance ](https://defialliance.co/), [ The LAO ](https://www.thelao.io/), [ Digital Renaissance ](https://drf.ee/), P2P Capital и [ Web3 Capital ](https://web3.capital/).
+Этот стратегический раунд проводился совместно [ Arrington Capital ](https://arringtonxrpcapital.com/), [ DCG ](https://dcg.co/) и [ Stratos Technologies ](https://www.stratoslp.com/), и в нем участвовали [ Hypersphere Ventures ](https://hypersphere.ventures/), [ Neo Global Capital (NGC) ](http://ngc.fund/), [ Wintermute ](https://www.wintermute.com/) и [ Skynet Trading ](http://skynettrading.com/). Это продолжение из начального раунда в начале 2021 года, в который входили [ DeFi Alliance ](https://defialliance.co/), [ The LAO ](https://www.thelao.io/), [ Digital Renaissance ](https://drf.ee/),
+
+ P2P Capital </ 3> и [ Web3 Capital ](https://web3.capital/).</p> 
+
+
 
 > * «Мы первые инвесторы в парачейны, такие как Moonbeam и Acala, и хотим, чтобы команды в этих экосистемах могли сосредоточиться на своих основных продуктах. SubQuery упрощает работу над проектами, строительством. Он масштабируется для всех парачейнов и может стать катализатором следующего бума активности на Polkadot и Kusama * - Ninor Mansor, партнер Arrington Capital
 
