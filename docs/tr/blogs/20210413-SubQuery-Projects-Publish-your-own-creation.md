@@ -20,7 +20,9 @@ Ayrıca, SubQuery projenizi Explorer'da göstermeyerek gizli tutabilirsiniz; bu,
 
 Yeni bir SubQuery Projesi Oluşturma
 
-Yeni projenizi yayınlayıp dağıttıktan sonra, onunla GraphQL uç noktamız üzerinden etkileşime geçebilir veya sadece [Explorer playground](https://explorer.subquery.network/) alanımızda oynayabilirsiniz!! Bir üretim uygulaması gibi çalıştıracağız, böylece SubQuery kullanarak bugün bir sonraki dApp'inizde merkezi olmayan verilerinizin kilidini açabilirsiniz.
+Yeni projenizi yayınlayıp dağıttıktan sonra, onunla GraphQL uç noktamız üzerinden etkileşime geçebilir veya sadece [Explorer playground](https://explorer.subquery.network/) alanımızda oynayabilirsiniz!<0>! Bir üretim uygulaması gibi çalıştıracağız, böylece SubQuery kullanarak bugün bir sonraki dApp'inizde merkezi olmayan verilerinizin kilidini açabilirsiniz.
+
+
 
 ![](https://miro.medium.com/max/1400/1*Re6uHuy05UzWttfWQBM6hg.png)
 
