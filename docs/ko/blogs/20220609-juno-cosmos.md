@@ -36,7 +36,7 @@ Discord community (including technical support): <https://discord.com/invite/sub
 
 **A full developer onboarding guide will be released tomorrow**
 
-## About SubQuery
+## 서브쿼리란
 
 [SubQuery](https://subquery.network) is a blockchain developer toolkit facilitating the construction of Web3 applications of the future. A SubQuery project is a complete API to organise and query data from Layer-1 chains. Currently servicing Polkadot, Substrate, Avalanche, Terra, and Cosmos (starting with Juno) projects, this data-as-a-service allows developers to focus on their core use case and front-end without wasting time building a custom backend for data processing activities. In the future, the SubQuery Network intends to replicate this scalable and reliable solution in a completely decentralised manner.
 
