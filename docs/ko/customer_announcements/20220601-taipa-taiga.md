@@ -27,7 +27,7 @@ Tapio officially started in early 2021 when we received our first Web3 Foundatio
 
 [Website](https://taigaprotocol.io/) | [Twitter](https://twitter.com/TaigaProtocol) | [Discord](https://discord.gg/XRxWsbUeN2) | [Telegram](https://t.me/TaigaAnnouncements) | [Github](https://github.com/nutsfinance/stable-asset) | [Wiki](https://www.notion.so/Tapio-Taiga-Protocol-Content-Centre-7bae2597e64247cc981a5ed392c78585) | [Newsletter](https://taigaprotocol.substack.com/) | [Gitbook](https://nutsfinance.gitbook.io/tapio/)
 
-## About SubQuery
+## 서브쿼리란
 
 [SubQuery](https://subquery.network) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot , Substrate and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
