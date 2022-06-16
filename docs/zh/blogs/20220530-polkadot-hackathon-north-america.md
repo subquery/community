@@ -12,20 +12,20 @@ SubQuery的使命是使世界上的去中心化数据更容易获得，这依赖
 
 除了提供奖金之外，SubQuery还将举办研讨会，所有开发者将获得所有工具、文档、开发者支持、免费托管以及开发者从SubQuery生态系统获得的其他好处，包括在计划完成后有资格申请SubQuery的资助。
 
-SubQuery的CEO兼创始人[Sam Zou](https://twitter.com/zoujialiu)说：_“SubQuery很荣幸能与北美Hackathon合作，共同打造Web3的未来。支持世界各地有积极性的开发者，在我们的数据索引服务基础上进行开发，这符合我们的利益，这就是为什么我们最近还推出了50万美元的SubQuery资助计划。我们已经制定了奖金，应该让我们'英雄课程'的毕业生和刚加入SubQuery的开发者感到兴奋，并期待着看到结果 It is in our interest to support motivated developers around the world to build on top of our data indexing service which is why we also recently launched a_ [_$500,000 SubQuery Grants Programme_](https://subquery.network/grants)_. We have developed bounties that should excite graduates of our 'Hero Course' and developers who are new to SubQuery and look forward to seeing the results."_
+SubQuery的CEO兼创始人[Sam Zou](https://twitter.com/zoujialiu)说：_“SubQuery很荣幸能与北美Hackathon合作，共同打造Web3的未来。 支持世界各地有积极性的开发者，在我们的数据索引服务基础上进行开发，这符合我们的利益，这就是为什么我们最近还推出了_ [_50万美元的SubQuery资助计划。_](https://subquery.network/grants)_. 我们已经制定了奖金，应该让我们'英雄课程'的毕业生和刚加入SubQuery的开发者感到兴奋，并期待着看到结果。”
 
-Since its founding in 2021, SubQuery established itself as the leading data indexing solution in Polkadot and has achieved rapid growth by serving hundreds of millions of queries each day to leading projects such as Moonbeam and Acala. Now the SubQuery team is focused on decentralising and tokenizing the protocol to build the SubQuery Network which will be launched in mid-2022.
+自2021年成立以来，SubQuery在Polkadot确立了自己作为领先的数据索引解决方案的地位，并通过每天为Moonbeam和Acala等领先项目提供数以亿计的查询，实现了快速增长。 现在，SubQuery团队专注于协议的去中心化和代币化，以建立SubQuery网络，该网络将在2022年中期推出。
 
-For developers who are eager to [learn how to build applications in SubQuery we encourage them to join our free "Hero Course" in the SubQuery Academy](https://subquery.coassemble.com/unlock/dOKZW6O#/) and then register to take part in the [Polkadot Hackathon today](https://go.polkadotglobalseries.com/Subquery-Network).
+对于渴望[学习如何在SubQuery中构建应用程序的开发者，我们鼓励他们加入我们在SubQuery学院的免费"英雄课程"](https://subquery.coassemble.com/unlock/dOKZW6O#/) ，并且今天就注册参加[Polkadot Hackathon](https://go.polkadotglobalseries.com/Subquery-Network)吧。
 
-## About Polkadot Hackathon
+## 北美Polkadot Hackathon
 
-[The Polkadot Hackathon North America Edition](https://go.polkadotglobalseries.com/Subquery-Network) is an educational initiative with the goal of promoting an open source, collaborative, and economically empowering ecosystem in Polkadot. Parity Technologies and OneBlock+ are dedicated to building both a community and infrastructure for Web 3 - a diverse range of tools, technologies, and networks that enable people to contribute to the open internet. By supporting projects, building a community, and making learning resources accessible, educational events like the Polkadot Hackathon will guarantee Polkadot retains its position as a healthy ecosystem with several utility-based projects that will help to create the digital public infrastructure of tomorrow.
+[北美Polkadot Hackathon](https://go.polkadotglobalseries.com/Subquery-Network)是一项有教育意义的活动，目的是促进Polkadot的开源、协作和经济赋能生态系统。 Parity Technologies和OneBlock+致力于为Web 3建立社区和基础设施，一个多样化的工具、技术和网络，使人们能够为开放的互联网作出贡献。 通过支持项目、建立社区和提供学习资源，像Polkadot Hackathon这样的教育活动，和基于共赢效用的项目，将保证Polkadot保持其作为一个健康的生态系统的地位，更有助于创造未来的数字公共基础设施。
 
-[Register now for the Hackathon](https://go.polkadotglobalseries.com/Subquery-Network)
+[现在注册Hackathon](https://go.polkadotglobalseries.com/Subquery-Network)
 
-## About SubQuery
+## 关于 SubQuery
 
-[SubQuery](https://subquery.network/) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot , Substrate, Avalanche and Terra projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+[SubQuery](https://subquery.network/) 是一个区块链开发者工具包，使他人能够构建未来的 Web3 应用程序。 SubQuery项目是一个完整的API，用于组织和查询来自Layer 1的数据。 目前服务于Polkadot，Substrate，Avalanche和Terra项目，这种数据即服务的模式允许开发人员专注于其核心用例和前端，而无需浪费时间构建用于数据处理的定制后端。 SubQuery Network提供同样的可扩展且高性能的解决方案，是以完全去中心化的方式呈现。
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
