@@ -1,34 +1,42 @@
-# SubQuery Partners with Tapio and Taiga Protocol
+# SubQuery, Tapio ve Taiga Protokolü ile İş Ortaklığı Yapıyor
 
 ![](https://miro.medium.com/max/1400/0*Gll90VO7CJRbU-N1)
 
-SubQuery is delighted to announce a partnership with [Tapio](https://tapioprotocol.io/) and [Taiga](https://taigaprotocol.io/) Protocol who are developing a synthetic asset standard for the Polkadot and Kusama ecosystem.Tapio and Taiga Protocol's mission is to remove liquidity siloes created by different formats of staking and crowdloan derivatives and called upon SubQuery as their data backbone to bring their ambitions to fruition.
+SubQuery, Polkadot ve Kusama ekosistemi için sentetik bir varlık standardı geliştiren [Tapio](https://tapioprotocol.io/) ve [Taiga](https://taigaprotocol.io/) Protokolü ile ortaklığını duyurmaktan mutluluk duyar. Tapio ve Taiga Protokolü'nün misyonu, farklı staking ve crowdloan türevleri formatları tarafından oluşturulan likidite silolarını ortadan kaldırmaktır ve hedeflerini gerçekleştirmek için veri omurgası olarak SubQuery'yi çağırmıştır.
 
-> _"With the rapid adoption of crypto applications and use cases, we require reliable and high performance on-chain data solutions to enable standardised data collection and analysis workflows. SubQuery has built a comprehensive suite of infrastructure and data solutions enabling protocol teams to query data on the blockchain quickly and comprehensively."_ - Terry Lam, Co-Founder of Tapio and Taiga
+> _"Kripto uygulamalarının ve kullanım durumlarının hızla benimsenmesiyle, standartlaştırılmış veri toplama ve analiz iş akışlarını etkinleştirmek için güvenilir ve yüksek performanslı zincir içi veri çözümlerine ihtiyacımız var. SubQuery, protokol ekiplerinin blok zincirindeki verileri hızlı ve kapsamlı bir şekilde sorgulamasını sağlayan kapsamlı bir altyapı ve veri çözümleri paketi oluşturdu."_ - Terry Lam, Tapio ve Taiga'nın kurucu ortağı
 
-As the Polkadot and Kusama ecosystem matures, the team behind Tapio and Taiga anticipate high growth and utility for their synthetic asset solutions ([taiKSM](https://medium.com/taiga-protocol/taiksm-triple-threat-c4ca0827f66d), [tDOT](https://twitter.com/TapioProtocol/status/1526569317625921536), [3pool](https://twitter.com/TaigaProtocol/status/1527828256757383168)).. With this expected growth, it is crucial for them to understand protocol usage data in order to evaluate stability and risk metrics. Tapio and Taiga Protocol make use of SubQuery's data provisioning capabilities in two ways:
+Polkadot ve Kusama ekosistemi olgunlaştıkça, Tapio ve Taiga'nın arkasındaki ekip, sentetik varlık çözümleri için yüksek büyüme ve fayda öngörüyor (
 
-1.  Building their usage dashboards which enables stakeholders to visualise usage analytics. Specifically, their dashboards display comprehensive data on synthetic asset mint, redemption, yield composition and trading volume. Currently, the team have created 3 dashboards covering [taiKSM](https://grafana.acbtc.fi/d/y6TwA2U7k/taiga-dashboard?orgId=1), [3pool](https://grafana.acbtc.fi/d/y6TwA2U7k/taiga-dashboard?orgId=1) and [tDOT](https://grafana.acbtc.fi/d/4dk8Geunk/tapio-dashboard?orgId=1) using SubQuery's data services.
-2.  Leveraging SubQuery as indexer for our backend services and relying on SubQuery to index historical on-chain data which allows convenient access to reliable data powering their servers and the applications built on top.
+taiKSM< / 0>, [tDOT](https://twitter.com/TapioProtocol/status/1526569317625921536), [3pool](https://twitter.com/TaigaProtocol/status/1527828256757383168)).. Bu beklenen büyüme ile birlikte, istikrar ve risk metriklerini değerlendirmek için protokol kullanım verilerini anlamaları çok önemlidir. Tapio ve Taiga Protokolü, SubQuery'nin veri sağlama yeteneklerini iki şekilde kullanır:</p> 
 
-> _"Having learned about* [*Taiga's work with Acala*](https://medium.com/taiga-protocol/introducing-taiga-bringing-efficient-liquidity-for-uniform-assets-on-kusama-d6825ad74b8) *to become the inaugural synthetic asset protocol on Karura, SubQuery was excited to work with Taiga and Tapio to optimise their applications via seamless provision of on-chain data. It's great to see the pace a team can progress at when not having to worry about building and maintaining infrastructure."* - James Bayly, Head of Business Development\*
+1.  Paydaşların kullanım analizlerini görselleştirmesini sağlayan kullanım panolarını oluşturma. Özellikle, gösterge tabloları sentetik varlık darphanesi, itfa, getiri kompozisyonu ve işlem hacmi hakkında kapsamlı veriler görüntüler. Şu anda ekip, SubQuery'nin veri hizmetlerini kullanarak [taiKSM](https://grafana.acbtc.fi/d/y6TwA2U7k/taiga-dashboard?orgId=1), [3pool](https://grafana.acbtc.fi/d/y6TwA2U7k/taiga-dashboard?orgId=1) ve [tDOT](https://grafana.acbtc.fi/d/4dk8Geunk/tapio-dashboard?orgId=1) kapsayan 3 pano oluşturdu.
+2.  Arka uç hizmetlerimiz için dizin oluşturucu olarak SubQuery'den yararlanmak ve sunucularına ve en üstte oluşturulan uygulamalara güç veren güvenilir verilere kolay erişim sağlayan geçmiş zincir içi verileri dizine eklemek için SubQuery'ye güvenmek.
 
-Tapio and Taiga are using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. They take advantage of SubQuery's [enterprise-level hosting](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) to receive dedicated databases, automated deployments, and geographic routing to multiple clusters around the world for performance and uptime.
+
+
+> _"[*Taiga'nın Acala*](https://medium.com/taiga-protocol/introducing-taiga-bringing-efficient-liquidity-for-uniform-assets-on-kusama-d6825ad74b8) * Karura'daki ilk sentetik varlık protokolü olma konusundaki çalışmalarını öğrenen SubQuery, zincir içi verilerin sorunsuz bir şekilde sağlanması yoluyla uygulamalarını optimize etmek için Taiga ve Tapio ile birlikte çalışmaktan heyecan duydu. Altyapı oluşturma ve sürdürme konusunda endişelenmek zorunda kalmadan bir ekibin ilerleyebileceği hızı görmek harika."* - James Bayly, İş Geliştirme Başkanı\*
+
+Tapio ve Taiga, kendi projelerini yönetmek ve gerektiğinde güncelleştirmeler yapmak için [SubQuery Projeleri](https://project.subquery.network/) kullanıyor. Performans ve çalışma süresi için özel veritabanları, otomatik dağıtımlar ve dünya çapında birden çok kümeye coğrafi yönlendirme almak için SubQuery'nin [kurumsal düzeyde barındırma hizmetinden](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) yararlanırlar.
 
 ![](https://miro.medium.com/max/1248/0*9h4mnGXGPwUITWpz)
 
-You can find more information about Tapio and Taiga and the data they leverage from SubQuery via their [Acala project](https://explorer.subquery.network/subquery/nutsfinance/stable-asset-acala) and [Karura project](https://explorer.subquery.network/subquery/nutsfinance/stable-asset-karura) located in our Explorer.
+Tapio ve Taiga hakkında daha fazla bilgiyi ve SubQuery'den yararlandıkları verileri Explorer'ımızda bulunan [Acala projesi](https://explorer.subquery.network/subquery/nutsfinance/stable-asset-acala) ve [Karura projesi](https://explorer.subquery.network/subquery/nutsfinance/stable-asset-karura) aracılığıyla bulabilirsiniz.
 
-## About Tapio & Taiga
 
-Tapio is a synthetic asset protocol enabling efficient liquidity for staking, crowdloan and uniform assets. It is designed to remove liquidity silos by synthesizing different formats of derivatives into a highly usable synthetic asset on Polkadot. Taiga is the mirror implementation of Tapio on Kusama.
 
-Tapio officially started in early 2021 when we received our first Web3 Foundation Open Grant. We are also the inaugural recipient for the Acala Ecosystem Grant. Our team is composed of engineers, financiers, security experts and serial entrepreneurs based in Canada, China and U.S.
+## Tapio & Taiga hakkında
+
+Tapio, staking yapma, crowdloan ve tek tip varlıklar için verimli likidite sağlayan sentetik bir varlık protokolüdür. Polkadot üzerinde yüksek oranda kullanılabilir sentetik bir varlığa farklı türev formatlarını sentezleyerek likidite silolarını ortadan kaldırmak için tasarlanmıştır. Taiga, Tapio'nun Kusama'daki ayna uygulamasıdır.
+
+Tapio, resmi olarak 2021'in başlarında ilk Web3 Vakfı Açık Hibemizi aldığımızda başladı. Ayrıca Acala Ekosistem Hibesi'nin açılış alıcısıyız. Ekibimiz Kanada, Çin ve Abd'de bulunan mühendisler, finansörler, güvenlik uzmanları ve seri girişimcilerden oluşmaktadır.
 
 [Website](https://taigaprotocol.io/) | [Twitter](https://twitter.com/TaigaProtocol) | [Discord](https://discord.gg/XRxWsbUeN2) | [Telegram](https://t.me/TaigaAnnouncements) | [Github](https://github.com/nutsfinance/stable-asset) | [Wiki](https://www.notion.so/Tapio-Taiga-Protocol-Content-Centre-7bae2597e64247cc981a5ed392c78585) | [Newsletter](https://taigaprotocol.substack.com/) | [Gitbook](https://nutsfinance.gitbook.io/tapio/)
 
-## About SubQuery
 
-[SubQuery](https://subquery.network) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot , Substrate and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
-​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+## SubQuery Hakkında
+
+[SubQuery](https://subquery.network), başkalarının geleceğin Web3 uygulamalarını oluşturmasını sağlayan bir blok zinciri geliştirici araç takımıdır. Bir SubQuery projesi, katman-1 zincirlerinden verileri düzenlemek ve sorgulamak için eksiksiz bir API'dir. Şu anda Polkadot, Substrate ve Avalanche projelerine hizmet veren bu hizmet olarak veri, geliştiricilerin veri işleme için özel bir arka uç oluşturmaya zaman kaybetmeden temel kullanım durumlarına ve ön uçlarına odaklanmalarına olanak tanır. SubQuery Ağı, aynı ölçeklenebilir ve güvenilir çözümü, ancak tamamen merkezi olmayan bir şekilde etkinleştirmeyi önerir.
+
+​​[Bağlantı Ağacı](https://linktr.ee/subquerynetwork) | [Web sitesi](https://subquery.network/) | [Anlaşmazlık](https://discord.com/invite/78zg8aBSMG) | [Telgraf](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matris](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
