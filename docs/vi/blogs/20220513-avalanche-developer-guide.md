@@ -42,7 +42,7 @@ Việc triển khai trên Avalanche của SubQuery đã được thiết kế đ
 
 ## Hỗ trợ của SubQuery cho Avalanche
 
-We are completing the first phase of our full support for the Avalanche ecosystem.
+Chúng tôi đang hoàn thành giai đoạn đầu tiên của việc hỗ trợ toàn diện cho hệ sinh thái Avalanche.
 
 ![](https://miro.medium.com/max/1400/0*GUKZJfJCz1nB_3zc)
 
@@ -58,15 +58,15 @@ Trong những tuần tới, bạn có thể mong đợi:
 - Khóa học từng bước trong [Học viện SubQuery](./20211018-subquery-launches-the-subquery-academy.md)
 - Hỗ trợ đầy đủ cho Avalanche trong Mạng SubQuery phi tập trung của chúng tôi (bạn sẽ sớm thấy một dự án trong mạng thử nghiệm Frontier hiện tại của chúng tôi)
 
-With the number of Subnets planned over the coming months, there will be a huge need for fast, open, and flexible indexing support that works across all compatible Subnets. We have experience implementing this level of configurability for Polkadot's parachains, and are investigating how to provide the same outcome for Avalanche (e.g. by importing custom implementations of snowman.Block etc).
+Với số lượng Subnets được lên kế hoạch trong những tháng tới, sẽ có nhu cầu rất lớn về hỗ trợ cho indexing một cách nhanh chóng, mở và linh hoạt trên tất cả các Subnets tương thích. Chúng tôi có kinh nghiệm triển khai cấp độ cấu hình này cho các parachains của Polkadot và đang tìm hiểu cách cung cấp kết quả tương tự cho Avalanche (ví dụ: bằng cách nhập các triển khai tùy chỉnh của snowman.Block, v.v.).
 
-The launch of our beta support for Avalanche marks a significant milestone in our commitment to offer enhanced indexing tools for the Avalanche community to enable her developers to go further, faster. We are eager to get feedback from the community in order to improve our offering and increase our visibility as a trusted infrastructure partner for one of the fastest growing developer communities in Web3
+Việc ra mắt hỗ trợ beta của chúng tôi cho Avalanche đánh dấu một cột mốc quan trọng trong cam kết của chúng tôi cung cấp các công cụ lập chỉ mục nâng cao cho cộng đồng Avalanche để cho phép các nhà phát triển tiến xa hơn, nhanh hơn. Chúng tôi mong muốn nhận được phản hồi từ cộng đồng để cải thiện dịch vụ và tăng khả năng hiển thị của chúng tôi với tư cách là đối tác cơ sở hạ tầng đáng tin cậy cho một trong những cộng đồng nhà phát triển tăng trưởng nhanh nhất trong Web3
 
-We are now looking for launch partners that we can closely support as they develop their first SubQuery projects in this ecosystem. Reach out to me at james.bayly@subquery.network if you want to be first on the journey with us.
+Hiện chúng tôi đang tìm kiếm các đối tác đề khởi mà chúng tôi có thể hỗ trợ chặt chẽ khi họ phát triển các dự án SubQuery đầu tiên của mình trong hệ sinh thái này. Liên hệ với tôi theo địa chỉ james.bayly@subquery.network nếu bạn muốn là người đầu tiên trong cuộc hành trình với chúng tôi.
 
 _James Bayly_
 
-Follow the beta guide here: https://university.subquery.network/quickstart/quickstart-avalanche.html
+Làm theo hướng dẫn beta tại đây: https://university.subquery.network/quickstart/quickstart-avalanche.html
 
 ## Giới thiệu về SubQuery
 
