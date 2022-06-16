@@ -1,4 +1,4 @@
-# SubQuery Partners with Tapio and Taiga Protocol
+# SubQuery se asocia con Tapio y Taiga Protocol
 
 ![](https://miro.medium.com/max/1400/0*Gll90VO7CJRbU-N1)
 
