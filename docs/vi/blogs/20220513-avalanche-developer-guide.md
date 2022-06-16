@@ -17,8 +17,8 @@ _Ở thời điểm hiện tại, đã có một số lựa chọn khác trong A
 Tôi đã được hỏi câu hỏi này bởi rất nhiều người mà tôi đã may mắn được gặp tại Avalanche Summit. Ở SubQuery, chúng tôi có ba giải pháp khác nhau:
 
 - Xây dựng giải pháp của riêng bạn: Tại sao phải phát minh lại bánh xe? SubQuery đang tập trung vào việc xây dựng một trình lập chỉ mục mở, nhanh và đáng tin cậy --- chúng tôi ở đây để giúp bạn tiết kiệm thời gian
-- Các dịch vụ dữ liệu được chuẩn hóa hoặc "API hợp nhất (unified APIs)": Nếu bạn đang xây dựng cùng một ứng dụng trên cùng một hợp đồng thông minh cơ bản như những dự án khác, thì những provider này thực sự rất tuyệt vời, nhưng bạn thì không. Bạn cần một bộ dữ liệu duy nhất cho phép bạn tạo ra một sản phẩm vượt trội giúp đánh bật mọi đối thủ cạnh tranh! You need flexibility to get the data that you need in the shape that works best for you
-- Other open GraphQL data services: Everyone that was already using them expressed the same problems, there was a serious lack of developer support and some significant performance issues. Additionally there was only coverage on the contract chain with no plans to extend to your next subnet
+- Các dịch vụ dữ liệu được chuẩn hóa hoặc "API hợp nhất (unified APIs)": Nếu bạn đang xây dựng cùng một ứng dụng trên cùng một hợp đồng thông minh cơ bản như những dự án khác, thì những provider này thực sự rất tuyệt vời, nhưng bạn thì không. Bạn cần một bộ dữ liệu duy nhất cho phép bạn tạo ra một sản phẩm vượt trội giúp đánh bật mọi đối thủ cạnh tranh! Chúng tôi cung cấp cho bạn sự linh hoạt để có được dữ liệu bạn cần ở dạng phù hợp nhất
+- Các dịch vụ dữ liệu GraphQL mở khác: Những ai đã từng sử dụng chúng đều gặp phải vấn đề tương tự nhau, chúng thiếu nghiêm trọng sự hỗ trợ của nhà phát triển và có một số vấn đề nghiêm trọng về hiệu suất. Ngoài ra, chúng có phạm vi hỗ trợ trên một số contract chain mà không có kế hoạch mở rộng sang subnet con tiếp theo
 
 Tại SubQuery, chúng tôi có một SDK mã nguồn mở dễ sử dụng và nhanh chóng. Nó cung cấp cho bạn một điểm cuối GraphQL tiêu chuẩn hoặc bạn chỉ có thể truy vấn trực tiếp cơ sở dữ liệu.
 
@@ -28,15 +28,15 @@ Và cuối cùng, trong vài tháng nữa, bạn sẽ có thể hoàn toàn phi 
 
 ## Hướng dẫn cài đặt
 
-Follow the beta guide here: https://university.subquery.network/quickstart/quickstart-avalanche.html
+Làm theo hướng dẫn beta tại đây: https://university.subquery.network/quickstart/quickstart-avalanche.html
 
-You'll first need to install @subql/cli via *npm i -g @subql/cli*
+Trước tiên, bạn cần cài đặt @subql/cli via *npm i -g @subql/cli*
 
-Cách tốt nhất là bắt đầu với dự án khởi đầu của chúng tôi, dự án này chứa một dự án đang chạy với ví dụ về tất cả các chức năng ánh xạ: https://github.com/subquery/avalanche-subql-starter. This project indexes the following from the [Pangolin Smart Contract](https://snowtrace.io/token/0x60781c2586d68229fde47564546784ab3faca982):
+Cách tốt nhất là bắt đầu với dự án khởi đầu của chúng tôi, dự án này chứa một dự án đang chạy với ví dụ về tất cả các chức năng ánh xạ: https://github.com/subquery/avalanche-subql-starter. Dự án này index từ [ Pangolin Smart Contract ](https://snowtrace.io/token/0x60781c2586d68229fde47564546784ab3faca982):
 
 - BlockHandler: Tất cả các khối và thông tin cốt lõi của chúng
-- TransactionHandler: All transactions from the approve function within the Pangolin smart contract
-- EventHandler: All transfer events from the Pangolin smart contract
+- TransactionHandler: Tất cả các giao dịch từ chức năng phê duyệt bên trong hợp đồng thông minh Pangolin (Pangolin smart contract)
+- EventHandler: Tất cả các sự kiện chuyển từ Pangolin smart contract
 
 Việc triển khai trên Avalanche của SubQuery đã được thiết kế để hoạt động gần như giống hệt với việc hỗ trợ Polkadot của SubQuery và theo cách tương tự như cách tiếp cận của Graph. Chúng tôi đã cập nhật [SubQuery University](https://university.subquery.network/build/introduction.html) để thêm thông tin cụ thể về Avalanche vào tài liệu tổng hợp của SubQuery. Bạn có thể bắt đầu bằng cách làm theo [hướng dẫn bắt đầu tuyệt vời này tại đây](https://university.subquery.network/quickstart/quickstart-avalanche.html).
 
