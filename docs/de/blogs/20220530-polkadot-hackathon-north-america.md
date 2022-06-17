@@ -1,10 +1,10 @@
-# SubQuery Sponsors the North American Edition of the Polkadot Hackathon
+# SubQuery sponsert die nordamerikanische Ausgabe des Polkadot Hackathon
 
 ![](https://miro.medium.com/max/1400/1*e65INdbrI-bkfe7dMLfwyQ.jpeg)
 
-**_SubQuery supports developers in the Polkadot ecosystem via a four way bounty between SubQuery, Moonbeam, Acala and HydraDX._**
+**_SubQuery unterstützt Entwickler im Polkadot-Ökosystem über eine Vier-Wege-Prämie zwischen SubQuery, Moonbeam, Acala und HydraDX._**
 
-Today we are excited to announce our participation in the [Polkadot Hackathon: North America Edition](https://go.polkadotglobalseries.com/Subquery-Network), running from May 30th until July 11th 2022. Polkadot invites developers to learn, build, and experiment in hackathon which has a total prize pool of over US$550,000.
+Wir freuen uns, heute unsere Teilnahme am [Polkadot Hackathon: North America Edition](https://go.polkadotglobalseries.com/Subquery-Network) anzukündigen, der vom 30. Mai bis zum 11. Juli 2022 stattfindet. Polkadot lädt Entwickler ein, beim Hackathon mit einem Gesamtpreispool von über 550.000 US-Dollar zu lernen, zu bauen und zu experimentieren.
 
 As part of the Polkadot Hackathon, SubQuery has [several bounties](https://go.polkadotglobalseries.com/Subquery-Network) worth US$11,000 in addition to co-sponsoring the [largest single challenge bounty worth $20,000 in a four way partnership between Subquery, Moonbeam, Acala, and HydraDX](https://github.com/subquery/grants/issues/26). This four way challenge is focused on building an XCM (cross consensus message format) user interface. XCM is a foundational new technology of Polkadot that allows parachains to interoperate and seamlessly transfer value. The challenge aims to provide an elegant user interface for end users of XCM transfers so they can clearly track assets and locations of assets transferred via XCM.
 
