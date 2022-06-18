@@ -1,12 +1,12 @@
-# SubQuery Unveils Cosmos Data Indexing via Juno Integration
+# SubQuery presenta la indexación de datos de Cosmos a través de la integración de Juno
 
 ![](https://miro.medium.com/max/1400/1*1l_AKVFdN9yPMOSWfpc2Jg.png)
 
-Fresh from its recent announcement of its beta version implementation for Avalanche, SubQuery has delivered its latest iteration of multi-chain connectivity with the addition of support for the Cosmos ecosystem, starting with Juno.
+Tras su reciente anuncio de la implementación de su versión beta para Avalanche, SubQuery ha entregado su última iteración de conectividad multicadena con la adición de soporte para el ecosistema Cosmos, iniciando con Juno.
 
-From today, Juno and other CosmWasm developers will be able to access the beta of the same fast, flexible, and open indexing solution widely used across the Polkadot and Avalanche ecosystems.
+A partir de hoy, Juno y otros desarrolladores de CosmWasm podrán acceder a la versión beta de la misma solución de indexación rápida, flexible y abierta ampliamente utilizada en los ecosistemas de Polkadot y Avalanche.
 
-This includes the open-source SDK, tools, [documentation](https://doc.subquery.network/), developer support, and other benefits developers receive from the SubQuery ecosystem, including eligibility to participate in [SubQuery's Grants Programme](https://subquery.network/grants). Additionally, Juno is accommodated by SubQuery's managed service, which provides enterprise-level infrastructure hosting and handles over 400 million requests each day.
+Esto incluye el SDK de código abierto, herramientas, [documentación](https://doc.subquery.network/), soporte para desarrolladores y otros beneficios que los desarrolladores reciben del ecosistema de SubQuery, incluyendo ser elegibles participar en el [Programa de subvenciones de SubQuery](https://subquery.network/grants). Además, Juno cuenta con el servicio administrado de SubQuery, que provee alojamiento de infraestructura de nivel empresarial y maneja más de 400 millones de solicitudes por día.
 
 [Juno](https://www.junonetwork.io/) is a decentralised, public, and permissionless layer 1 for cross-chain smart contracts. Via its powerful hub employing a standardised communication protocol, it aims to be the internet of blockchains, benchmarking inter-chain security for network participants. Built on Cosmos, Juno facilitates blockchain interoperability in an ever-growing multi-chain environment.
 
