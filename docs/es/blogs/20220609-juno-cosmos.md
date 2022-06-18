@@ -8,36 +8,36 @@ A partir de hoy, Juno y otros desarrolladores de CosmWasm podrán acceder a la v
 
 Esto incluye el SDK de código abierto, herramientas, [documentación](https://doc.subquery.network/), soporte para desarrolladores y otros beneficios que los desarrolladores reciben del ecosistema de SubQuery, incluyendo ser elegibles participar en el [Programa de subvenciones de SubQuery](https://subquery.network/grants). Además, Juno cuenta con el servicio administrado de SubQuery, que provee alojamiento de infraestructura de nivel empresarial y maneja más de 400 millones de solicitudes por día.
 
-[Juno](https://www.junonetwork.io/) is a decentralised, public, and permissionless layer 1 for cross-chain smart contracts. Via its powerful hub employing a standardised communication protocol, it aims to be the internet of blockchains, benchmarking inter-chain security for network participants. Built on Cosmos, Juno facilitates blockchain interoperability in an ever-growing multi-chain environment.
+[Juno](https://www.junonetwork.io/) es una capa 1 descentralizada, pública y sin permisos para contratos inteligentes de cadena cruzada. A través de su potente centro que emplea un protocolo de comunicación estandarizado, pretende ser el Internet de las cadenas de bloques, comparando la seguridad entre cadenas para los participantes de la red. Construido en Cosmos, Juno facilita la interoperabilidad de blockchain en un ambiente de múltiples cadenas en constante crecimiento.
 
-Jake Hartnell, the founder of another up-and-coming Cosmos chain, Stargaze, as well as a core Juno contributor, has shared _"We were elated to learn that SubQuery were expanding their invaluable data indexing services over to Juno. Our shared mission is to provide new teams with an environment to scale without hindrance and we know that SubQuery saves developers time and effort, allowing them to accelerate even faster."_
+Jake Hartnell, el fundador de otra cadena emergente de Cosmos, Stargaze, así como un colaborador principal de Juno, ha compartido _"Nos emocionó saber que SubQuery estaba expandiendo sus valiosos servicios de indexación de datos a Juno. Nuestra misión compartida es proporcionar a los nuevos equipos un ambiente para escalar sin obstáculos y sabemos que SubQuery ahorra tiempo y esfuerzo a los desarrolladores, permitiéndoles acelerar aún más"._
 
-SubQuery provides decentralised data indexing infrastructure to developers building applications on multiple layer-1 blockchains. As an open data indexer that is flexible and fast, the open indexing tool helps developers build APIs in hours and quickly index chains with the assistance of dictionaries (pre-computed indices).
+SubQuery provee una infraestructura de indexación de datos descentralizada para los desarrolladores que crean aplicaciones en varias cadenas de bloques de capa-1. Como indexador de datos abiertos que es flexible y rápido, la herramienta de indexación abierta ayuda a los desarrolladores a crear API en horas e indexar cadenas rápidamente con la asistencia de diccionarios (índices pre-calculados).
 
-Engineered for multi-chain applications, SubQuery's tools allow developers to organize, store, and query on-chain data for their protocols and applications. SubQuery eliminates the need for custom data processing servers, helping developers focus on product development and user experience.
+Diseñadas para aplicaciones multicadena, las herramientas de SubQuery permiten a los desarrolladores organizar, almacenar y consultar datos en cadena para sus protocolos y aplicaciones. SubQuery elimina la necesidad de servidores de procesamiento de datos personalizados, esto ayuda a los desarrolladores a enfocarse en el desarrollo de productos y la experiencia del usuario.
 
-SubQuery has already established itself as a data indexing solution on Polkadot, serving hundreds of millions of queries daily for projects like Moonbeam and Acala. This growth has spurred SubQuery to develop a priority list of six other Layer-1 blockchains they intend to serve in 2022.
+SubQuery se ha establecido como una solución de indexación de datos en Polkadot, atendiendo cientos de millones de consultas diarias para proyectos como Moonbeam y Acala. Este crecimiento ha impulsado a SubQuery a desarrollar una lista prioritaria de otras seis cadenas de bloques de capa-1 que pretenden servir en 2022.
 
-The addition of the Cosmos ecosystem alongside [Polkadot](https://polkadot.network/) and [Avalanche](https://blog.subquery.network/blogs/20220321-avalache.html) aligns with SubQuery's focus on networks that are also designed with a multi-chain outlook. While SubQuery's Cosmos implementation begins with [Juno](https://www.junonetwork.io), the product will eventually work with any [CosmWasm-based chain](https://cosmwasm.com/), including [Cronos](https://cronos.org/), [OKExChain](https://www.okex.com/), [Osmosis](https://osmosis.zone/), [Secret Network](https://scrt.network/), [Stargaze](https://stargaze.zone/), and [Injective](https://injective.com/).
+La adición del ecosistema Cosmos junto con [Polkadot](https://polkadot.network/) y [Avalanche](https://blog.subquery.network/blogs/20220321-avalache.html) se alinea con el enfoque de SubQuery en redes que también están diseñadas con una perspectiva de múltiples cadenas. Mientras que la implementación de Cosmos de SubQuery comienza con [Juno](https://www.junonetwork.io), el producto eventualmente funcionará con cualquier [cadena basada en CosmWasm](https://cosmwasm.com/), incluidos [Cronos](https://cronos.org/), [OKExChain](https://www.okex.com/), [Ósmosis](https://osmosis.zone/), [Secret Network](https://scrt.network/), [Stargaze](https://stargaze.zone/) y [Inyective](https://injective.com/).
 
-[Sam Zou](https://twitter.com/zoujialiu), the Founder and CEO of SubQuery, comments, _"SubQuery is a fundamental piece of web3 infrastructure and we are delighted to support the explosive growth occurring in Cosmos and its native layers. We can't wait to see how teams in the Juno ecosystem leverage SubQuery's leading-edge indexing technology to build fast and feature-rich dApps."_
+[Sam Zou](https://twitter.com/zoujialiu), el fundador y CEO de SubQuery comentó,_"SubQuery es una pieza fundamental de infraestructura web3 y estamos encantados de apoyar el crecimiento explosivo que está ocurriendo en Cosmos y sus capas nativas. No podemos esperar a ver cómo los equipos del ecosistema de Juno aprovechan la tecnología de indexación líder de SubQuery para construir dApps rápidas y ricas en características"_
 
 ![](https://miro.medium.com/max/1400/0*Z2bNgg6XS0ydE-xo)
 
-In just a few months, Juno applications will be able to decentralise their SubQuery infrastructure completely with the SubQuery Network. The SubQuery Network will index and serve project data to the global community in an incentivised and verifiable manner. Designed to support any SubQuery project from any layer-1 network, including Juno and Cosmos, developers can leverage the scale of the unified SubQuery Network from launch.
+En tan solo unos meses, las aplicaciones Juno podrán descentralizar completamente su infraestructura de SubQuery con la Red SubQuery. La Red SubQuery indexará y servirá los datos de proyectos a la comunidad mundial de forma incentivada y verificable. Está diseñado para soportar cualquier proyecto SubQuery desde cualquier red de capa-1, incluidos Juno y Cosmos, los desarrolladores pueden aprovechar la escala de la red SubQuery unificada desde el lanzamiento.
 
-## Key Resources
+## Recursos clave
 
-Developer documentation: <https://university.subquery.network>
+Documentación de desarrollador:<https://university.subquery.network>
 
-Getting started project: <https://github.com/subquery/juno-subql-starter>
+Proyecto de iniciación: <https://github.com/subquery/juno-subql-starter>
 
-Discord community (including technical support): <https://discord.com/invite/subquery>
+Comunidad de Discord (incluyendo soporte técnico): <https://discord.com/invite/subquery>
 
-**A full developer onboarding guide will be released tomorrow**
+**Mañana se publicará una guía completa de incorporación para desarrolladores**
 
-## About SubQuery
+## Acerca de SubQuery
 
-[SubQuery](https://subquery.network) is a blockchain developer toolkit facilitating the construction of Web3 applications of the future. A SubQuery project is a complete API to organise and query data from Layer-1 chains. Currently servicing Polkadot, Substrate, Avalanche, Terra, and Cosmos (starting with Juno) projects, this data-as-a-service allows developers to focus on their core use case and front-end without wasting time building a custom backend for data processing activities. In the future, the SubQuery Network intends to replicate this scalable and reliable solution in a completely decentralised manner.
+[SubQuery](https://subquery.network) es un conjunto de herramientas para desarrolladores de blockchain que facilita la construcción de aplicaciones Web3 del futuro. Un proyecto de SubQuery es una completa API para organizar y consultar los datos de Capa-1 de cadenas. Actualmente, sirviendo a proyectos de Polkadot, Substrate, Avalanche, Terra y Cosmos (empezando con Juno), este servicio de datos permite a los desarrolladores enfocarse en su caso de uso principal y front-end sin perder tiempo creando un back-end personalizado para actividades de procesamiento de datos. En el futuro, la Red SubQuery pretende replicar esta solución escalable y confiable de manera completamente descentralizada.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
