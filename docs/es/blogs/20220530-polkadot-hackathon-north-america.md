@@ -16,15 +16,15 @@ Además de las recompensas, SubQuery llevará a cabo un taller y todos los desar
 
 _Programa de subvenciones SubQuery de $500,000_</1 >. Hemos desarrollado recompensas que deberían entusiasmar a los graduados de nuestro 'Curso de Héroes' y a los desarrolladores que son nuevos en SubQuery, estamos esperamos ver los resultados."</p> 
 
-Desde su fundación en 2021, SubQuery se estableció como la solución líder de indexación de datos en Polkadot y ha logrado un rápido crecimiento al servir cientos de millones de consultas cada día a proyectos líderes como Moonbeam y Acala. Now the SubQuery team is focused on decentralising and tokenizing the protocol to build the SubQuery Network which will be launched in mid-2022.
+Desde su fundación en 2021, SubQuery se estableció como la solución líder de indexación de datos en Polkadot y ha logrado un rápido crecimiento al servir cientos de millones de consultas cada día a proyectos líderes como Moonbeam y Acala. Ahora el equipo de SubQuery se centra en descentralizar y tokenizar el protocolo para construir la Red SubQuery que se lanzará a mediados de 2022.
 
-For developers who are eager to [learn how to build applications in SubQuery we encourage them to join our free "Hero Course" in the SubQuery Academy](https://subquery.coassemble.com/unlock/dOKZW6O#/) and then register to take part in the [Polkadot Hackathon today](https://go.polkadotglobalseries.com/Subquery-Network).
+Para los desarrolladores que están deseosos por [aprender a crear aplicaciones en SubQuery, los alentamos a unirse a nuestro "Curso de héroes" gratuito en la Academia SubQuery](https://subquery.coassemble.com/unlock/dOKZW6O#/) y luego registrarse para tomar parte en el [Polkadot Hackathon hoy](https://go.polkadotglobalseries.com/Subquery-Network).
 
 
 
-## About Polkadot Hackathon
+## Acerca de Polkadot Hackathon
 
-[The Polkadot Hackathon North America Edition](https://go.polkadotglobalseries.com/Subquery-Network) is an educational initiative with the goal of promoting an open source, collaborative, and economically empowering ecosystem in Polkadot. Parity Technologies and OneBlock+ are dedicated to building both a community and infrastructure for Web 3 - a diverse range of tools, technologies, and networks that enable people to contribute to the open internet. By supporting projects, building a community, and making learning resources accessible, educational events like the Polkadot Hackathon will guarantee Polkadot retains its position as a healthy ecosystem with several utility-based projects that will help to create the digital public infrastructure of tomorrow.
+[Polkadot Hackathon Edición Norteamericana](https://go.polkadotglobalseries.com/Subquery-Network) es una iniciativa educativa con el objetivo de promover un código abierto, colaborativo, y un ecosistema de empoderamiento económico en Polkadot. Parity Technologies y OneBlock+ se dedican a construir tanto una comunidad como una infraestructura para la Web 3: una amplia gama de herramientas, tecnologías y redes que permiten a las personas contribuir a la Internet abierta. By supporting projects, building a community, and making learning resources accessible, educational events like the Polkadot Hackathon will guarantee Polkadot retains its position as a healthy ecosystem with several utility-based projects that will help to create the digital public infrastructure of tomorrow.
 
 [Register now for the Hackathon](https://go.polkadotglobalseries.com/Subquery-Network)
 
