@@ -24,14 +24,14 @@ Para los desarrolladores que están deseosos por [aprender a crear aplicaciones 
 
 ## Acerca de Polkadot Hackathon
 
-[Polkadot Hackathon Edición Norteamericana](https://go.polkadotglobalseries.com/Subquery-Network) es una iniciativa educativa con el objetivo de promover un código abierto, colaborativo, y un ecosistema de empoderamiento económico en Polkadot. Parity Technologies y OneBlock+ se dedican a construir tanto una comunidad como una infraestructura para la Web 3: una amplia gama de herramientas, tecnologías y redes que permiten a las personas contribuir a la Internet abierta. By supporting projects, building a community, and making learning resources accessible, educational events like the Polkadot Hackathon will guarantee Polkadot retains its position as a healthy ecosystem with several utility-based projects that will help to create the digital public infrastructure of tomorrow.
+[Polkadot Hackathon Edición Norteamericana](https://go.polkadotglobalseries.com/Subquery-Network) es una iniciativa educativa con el objetivo de promover un código abierto, colaborativo, y un ecosistema de empoderamiento económico en Polkadot. Parity Technologies y OneBlock+ se dedican a construir tanto una comunidad como una infraestructura para la Web 3: una amplia gama de herramientas, tecnologías y redes que permiten a las personas contribuir a la Internet abierta. Al apoyar proyectos, construyendo una comunidad y hacer que los recursos de aprendizaje sean accesibles, los eventos educativos como Polkadot Hackathon garantizarán que Polkadot mantenga su posición como un ecosistema saludable con varios proyectos basados en utilidades que ayudarán a crear la infraestructura pública digital del mañana.
 
-[Register now for the Hackathon](https://go.polkadotglobalseries.com/Subquery-Network)
+[Regístrate ahora para el Hackathon](https://go.polkadotglobalseries.com/Subquery-Network)
 
 
 
-## About SubQuery
+## Acerca de SubQuery
 
-[SubQuery](https://subquery.network/) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot , Substrate, Avalanche and Terra projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+[SubQuery](https://subquery.network/) es un conjunto de herramientas para desarrolladores de blockchain que permite a otros crear aplicaciones Web3 del futuro. Un proyecto de SubQuery es una completa API para organizar y consultar los datos de las cadenas de capa-1. Este servicio de datos permite a los desarrolladores centrarse en su caso de uso principal y en el front-end, sin necesidad de perder tiempo en la construcción de un backend personalizado para el procesamiento de datos. La Red SubQuery propone hacer posible esta misma solución escalable y fiable, pero de forma totalmente descentralizada.
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
