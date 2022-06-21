@@ -1,62 +1,62 @@
-# Beta of SubQuery Support Released For Avalanche
+# SubQuery为Avalanche提供索引支持测试版
 
 ![](https://miro.medium.com/max/1400/1*BiJaESR69-vDimBJmXhQvw.png)
 
-Today, after months of improvements, refactoring, and testing, we are happy to share the beta support of our open indexing solution with the Avalanche community. After establishing SubQuery as the leading data indexer in Polkadot, the recent [announcement of our expansion into Avalanche](./20220321-avalache.md) during the recent [Avalanche Summit](https://www.avalanchesummit.com/agenda) was met with excitement by developers eager for a flexible and scalable indexing tool.
+今天，经过几个月的改进，重构和测试，我们很高兴与Avalanche社区分享我们开放式索引解决方案的测试版。 SubQuery已经在Polkadots建立领先数据索引工具，[最近在Avalanche峰会上宣布](./20220321-avalache.md)，我们将扩展到[Avalanche生态系统](https://www.avalanchesummit.com/agenda)，这让渴望获得灵活和可扩展索引工具的开发者感到兴奋。
 
-Follow the beta guide here: https://university.subquery.network/quickstart/quickstart-avalanche.html
+点击链接查看测试指南: https://university.subquery.network/quickstart/quickstart-avalanche.html
 
-SubQuery is an open data indexer that is flexible and fast. Our open indexing tool is designed to help developers build their own API in hours, and it's designed to index chains incredibly quickly with the assistance of dictionaries (pre-computed indices). Our experience with customers across all verticals in Polkadot (wallets, networks, explorers, NFT, DeFi, scanners, etc) has helped us build this.
+SubQuery是一个开放的数据索引工具，具有灵活性和快速性。 我们的开放式索引工具旨在帮助开发人员在数小时内建立自己的API，它的设计是在字典（预先索引）的协助下，快速索引区链。 我们在Polkadot所有垂直领域的客户（钱包，网络，浏览器，NFT，DeFi，扫描仪等）的成功经验为我们支持Avalanche索引提供了最大的帮助。
 
-From today, Avalanche developers will be able to access the beta of the same fast, flexible, and open indexing solution widely used across Polkadot. As this is a beta version, it is likely to have some issues. As such, we would appreciate it if any bugs can be reported to our team so we can address them quickly.
+从今天起，Avalanche开发人员将能够访问整个Polkadot广泛使用的同样快速，灵活和开放的索引解决方案的测试版。 由于这是一个测试版，它可能会有一些问题。 因此，如果能向我们的团队报告任何错误，以便我们能迅速解决这些问题，我们将非常感激。
 
-## Why Use SubQuery?
+## 为什么使用SubQuery？
 
-_There are already a few other options here in Avalanche, so why would you build with SubQuery?_
+_在Avalanche中已经有一些其他的选择，那么为什么你要使用SubQuery？_
 
-I was asked this very question by many of you that I was lucky enough to meet at the Avalanche Summit. In our space there are generally three other solutions:
+我有幸在Avalanche峰会上遇到的许多人都问了这个问题。 在我们这里，通常有三个解决方案。
 
-- Build your own solution: Why reinvent the wheel? SubQuery is focusing on building a reliable and fast open indexer --- we're here to save you time
-- Standardised data services or "unified APIs": These providers are excellent if you're building the same app on the same basic smart contract as everyone else, but you're not. You need a unique set of data that allows you to build a superior product that blows your competition out of the water! You need flexibility to get the data that you need in the shape that works best for you
-- Other open GraphQL data services: Everyone that was already using them expressed the same problems, there was a serious lack of developer support and some significant performance issues. Additionally there was only coverage on the contract chain with no plans to extend to your next subnet
+- 构建自己的解决方案：为什么要做重复的事情呢？ SubQuery致力于构建一个可靠快速的开放索引器——我们将在数据索引上为你节省时间。
+- 标准化的数据服务或"统一的API": 如果你和所有的人一样在相同的智能合约上构建相同的应用程序，这些服务供应商就已经够了，但实际并不是。 你需要一套独特的数据，使你能够建立一个卓越的产品，使你的竞争对手一败涂地! 你需要灵活性，以最适合你的形式获得你需要的数据。
+- 其他开放的GraphQL数据服务: 每个在使用它们的人都有同样的问题，这些开放的数据服务严重缺乏开发人员的支持，存在一些重大的性能问题。 此外，这些服务只覆盖在合同链上，没有计划扩展到你的子网。
 
-At SubQuery we have an open-source SDK that is easy to use and lightning quick. It provides you with a standard GraphQL endpoint, or you can just query the postgres database directly.
+在SubQuery，我们有一个开源的SDK，易于使用，速度快。 它为你提供了一个标准的GraphQL终端，或者你可以直接查询postgres数据库。
 
-Reliability is key, and you need a reliable and scalable platform to host it. [SubQuery's managed service](https://subquery.network/managedservices) is an industry leading hosting solution for all customers that is serving hundreds of millions of daily requests to the biggest projects in Polkadot. We provide our [enterprise level customers](./20211228-enterprise-hosted.md) with services such as dedicated databases, redundant clusters, intelligent multi-cluster routing, and advanced monitoring and analytics. It will support your application when you are ready and will scale with you.
+访问数据的可靠性是绝大多数应用程序成功的关键，你需要一个可靠和可扩展的平台来托管它。 [SubQuery的管理服务](https://subquery.network/managedservices)是为所有客户提供的行业领先的托管解决方案，它每天为Polkadot最大的项目提供数以亿计的请求。 我们为[企业级客户提供服务](./20211228-enterprise-hosted.md)，如专用数据库，冗余集群，智能多集群路由，以及先进的监控和分析。 它将在你准备好的时候支持你的应用，并与你一起扩展。
 
-And finally, in a few months you'll be able to completely decentralise your SubQuery infrastructure with the SubQuery Network, the future of Web3 infrastructure. The SubQuery Network will index and service your projects data to the global community in an incentivised and verifiable way. It is designed to support any SubQuery project from any layer-1 network including Avalanche, so you can take advantage of the scale of the unified SubQuery Network from launch.
+最后，在几个月内，你将能够通过SubQuery网络完全分散你的SubQuery基础设施，这是Web3基础设施的未来。 SubQuery网络将以激励和可验证的方式为全球社区提供项目数据的索引和服务。 它旨在支持来自任何layer-1网络的任何SubQuery项目，包括Avalanche，所以你可以一开始就受益于统一的SubQuery网络的规模。
 
-## Installation Instructions
+## 安装说明
 
-Follow the beta guide here: https://university.subquery.network/quickstart/quickstart-avalanche.html
+点击链接查看测试指南: https://university.subquery.network/quickstart/quickstart-avalanche.html
 
-You'll first need to install @subql/cli via *npm i -g @subql/cli*
+首先要通过*npm i -g @subql/cli *这个命令安装最新版本的@subql/cli@0.30.0
 
-The best way is to start with our starter project, it contains a running project with an example of all mapping functions: https://github.com/subquery/avalanche-subql-starter. This project indexes the following from the [Pangolin Smart Contract](https://snowtrace.io/token/0x60781c2586d68229fde47564546784ab3faca982):
+最好的方法是从我们的初学者项目开始，其包含了一个正在运行的项目，其中包含所有映射函数的示例： https://github.com/subquery/avalanche-subql-starter。 这个项目从[Pangolin智能合约](https://snowtrace.io/token/0x60781c2586d68229fde47564546784ab3faca982)中索引了以下内容：
 
-- BlockHandler: All blocks and their core information
-- TransactionHandler: All transactions from the approve function within the Pangolin smart contract
-- EventHandler: All transfer events from the Pangolin smart contract
+- BlockHandler：所有区块和它们的核心信息
+- TransactionHandler：在Pangolin智能合约内所有交易批准功能
+- EventHandler：在Pangolin智能合约中的所有传输事件
 
-SubQuery's Avalanche implementation has been designed to operate almost identically to SubQuery's Polkadot support, and in a similar way to the Graph's approach. We've updated the [SubQuery University](https://university.subquery.network/build/introduction.html) to add Avalanche specific information to the general SubQuery documentation. You can start by following this [excellent getting started guide here](https://university.subquery.network/quickstart/quickstart-avalanche.html).
+SubQuery的Avalanche工程被设计为与Polkadot的支持几乎相同的操作，并且与Graph的方法相似。 我们已经更新了[SubQuery大学](https://university.subquery.network/build/introduction.html)，将Avalanche的具体信息添加到一般SubQuery文档中： 你可以从这里开始，遵循这个优秀的入门指南： https://university. subquery. network/quickstart/quickstart-avalanche. html
 
-## SubQuery's Support for Avalanche
+## SubQuery对Terra的支持
 
-We are completing the first phase of our full support for the Avalanche ecosystem.
+我们正在完成第一阶段，对Avalanche生态系统的全面支持。
 
 ![](https://miro.medium.com/max/1400/0*GUKZJfJCz1nB_3zc)
 
-Today we are sharing the following:
+今天，我们分享以下内容:
 
-- Advanced Contract Chain Indexing
-- Avalanche Dictionary: Pre-computed indices to [dramatically reduce indexing time](./20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md)
-- Full support for Avalanche in our free [enterprise level](./20211228-enterprise-hosted.md) managed service
-- Intuitive documentation in the [SubQuery University](https://university.subquery.network/)
+- 高级合同链索引
+- Avalanche 字典：预先索引，极大减少索引时间
+- 在免费的企业级管理服务中对Avalanche提供全面支持
+- [SubQuery大学](https://university.subquery.network/)简单易懂的文献
 
-In the coming weeks you can expect:
+在未来几周，请期待:
 
-- A step by step learning course in the [SubQuery Academy](./20211018-subquery-launches-the-subquery-academy.md)
-- Full support for Avalanche in our decentralised SubQuery Network (you'll see a project in our current Frontier test network)
+- [SubQuery 学院](./20211018-subquery-launches-the-subquery-academy.md)的学习课程
+- 在我们去中心化的 SubQuery 网络中完全支持 Terra（很快就可以在我们当前的前沿测试网中看到）
 
 With the number of Subnets planned over the coming months, there will be a huge need for fast, open, and flexible indexing support that works across all compatible Subnets. We have experience implementing this level of configurability for Polkadot's parachains, and are investigating how to provide the same outcome for Avalanche (e.g. by importing custom implementations of snowman.Block etc).
 
