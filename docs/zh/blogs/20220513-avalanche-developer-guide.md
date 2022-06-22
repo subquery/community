@@ -58,18 +58,18 @@ SubQuery的Avalanche工程被设计为与Polkadot的支持几乎相同的操作�
 - [SubQuery 学院](./20211018-subquery-launches-the-subquery-academy.md)的学习课程
 - 在我们去中心化的 SubQuery 网络中完全支持 Terra（很快就可以在我们当前的前沿测试网中看到）
 
-With the number of Subnets planned over the coming months, there will be a huge need for fast, open, and flexible indexing support that works across all compatible Subnets. We have experience implementing this level of configurability for Polkadot's parachains, and are investigating how to provide the same outcome for Avalanche (e.g. by importing custom implementations of snowman.Block etc).
+随着未来几个月计划的子网数量增加，对快速，开放和灵活的索引支持将有巨大的需求。 我们有为Polkadot的平行链实现同水平的可配置的经验，现在正在研究如何为Avalanche提供同样的结果（例如，通过导入snowman.Block的定制实现等）。
 
-The launch of our beta support for Avalanche marks a significant milestone in our commitment to offer enhanced indexing tools for the Avalanche community to enable her developers to go further, faster. We are eager to get feedback from the community in order to improve our offering and increase our visibility as a trusted infrastructure partner for one of the fastest growing developer communities in Web3
+我们对Avalanche测试版的启动标志着我们承诺为Avalanche社区提供增强版的索引工具的一个重要里程碑，使它的开发者能够走得更远，更快。 我们渴望得到社区的反馈，以改善我们的服务，并提高我们作为Web3中，增长最快的开发者社区之一的，可信赖的基础设施合作伙伴的知名度。
 
-We are now looking for launch partners that we can closely support as they develop their first SubQuery projects in this ecosystem. Reach out to me at james.bayly@subquery.network if you want to be first on the journey with us.
+“我们现在正在寻找启动合作伙伴，可以密切支持他们在这个生态系统中开发他们的第一个SubQuery项目。 如果你想成为旅程中的第一人，请联系我：james.bayly@subquery.network。”
 
 _James Bayly_
 
-Follow the beta guide here: https://university.subquery.network/quickstart/quickstart-avalanche.html
+点击链接查看测试指南: https://university.subquery.network/quickstart/quickstart-avalanche.html
 
-## About SubQuery
+## 关于 SubQuery
 
-[SubQuery](https://subquery.network/) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot, Substrate, Avalanche and Terra projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+[SubQuery](https://subquery.network/) 是一个区块链开发者工具包，帮助用户构建未来的 Web3 应用程序。 SubQuery项目是一个完整的API，用于组织和查询来自Layer 1的数据。 目前服务于Polkadot，Substrate，Avalanche和Terra项目，这种数据即服务的模式允许开发人员专注于其核心用例和前端，而无需浪费时间构建用于数据处理的定制后端。 SubQuery Network提供同样的可扩展且高性能的解决方案，是以完全去中心化的方式呈现。
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
