@@ -23,7 +23,7 @@ In order to participate in the SQT Public Sale, all interested parties, includin
 
 More information about the public sale, including sale dates and token pricing information will be released soon. For details about the SQT tokenomics, [please refer to this article](./20211220-tokenomics.md). For any additional information or questions, [please contact us in Discord](https://discord.com/invite/SubQuery).
 
-## About SubQuery
+## Tentang SubQuery
 
 [SubQuery](https://subquery.network/) is the Universal data indexing toolkit facilitating the construction of Web3 applications of the future. A SubQuery project is a complete API to organise and query data from Layer-1 chains. Currently servicing Polkadot, Substrate, Avalanche, Terra, and Cosmos (starting with Juno) projects, this data-as-a-service allows developers to focus on their core use case and front-end without wasting time building a custom backend for data processing activities. In the future, the SubQuery Network intends to replicate this scalable and reliable solution in a completely decentralised manner.
 
