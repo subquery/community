@@ -1,49 +1,43 @@
-# SubQuery, Juno Entegrasyonu Aracılığıyla Cosmos Veri İndekslemeyi Ortaya Çıkarıyor
+# SubQuery Unveils Cosmos Data Indexing via Juno Integration
 
 ![](https://miro.medium.com/max/1400/1*1l_AKVFdN9yPMOSWfpc2Jg.png)
 
-Avalanche için beta sürümü uygulamasının son duyurusundan sonra SubQuery, Juno'dan başlayarak Cosmos ekosistemi için desteğin eklenmesiyle en son çoklu zincir bağlantı yinelemesini sundu.
+Fresh from its recent announcement of its beta version implementation for Avalanche, SubQuery has delivered its latest iteration of multi-chain connectivity with the addition of support for the Cosmos ecosystem, starting with Juno.
 
-Juno ve diğer CosmWasm geliştiricileri bugünden itibaren Polkadot ve Avalanche ekosistemlerinde yaygın olarak kullanılan aynı hızlı, esnek ve açık indeksleme çözümünün betasına erişebilecekler.
+From today, Juno and other CosmWasm developers will be able to access the beta of the same fast, flexible, and open indexing solution widely used across the Polkadot and Avalanche ecosystems.
 
-Bu, açık kaynak SDK'sını, araçları, [belgeleri](https://doc.subquery.network/), geliştirici desteğini ve geliştiricilerin, [SubQuery's Grants Programına](https://subquery.network/grants) katılmaya uygunluk da dahil olmak üzere SubQuery ekosisteminden aldığı diğer avantajları içerir. Ek olarak, Juno, SubQuery'nin kurumsal düzeyde altyapı barındırma sağlayan ve her gün 400 milyonun üzerinde isteği işleyen yönetilen hizmeti tarafından barındırılır.
+This includes the open-source SDK, tools, [documentation](https://doc.subquery.network/), developer support, and other benefits developers receive from the SubQuery ecosystem, including eligibility to participate in [SubQuery's Grants Programme](https://subquery.network/grants). Additionally, Juno is accommodated by SubQuery's managed service, which provides enterprise-level infrastructure hosting and handles over 400 million requests each day.
 
-[Juno](https://www.junonetwork.io/), zincirler arası akıllı sözleşmeler için merkezi olmayan, herkese açık ve izinsiz bir katman 1'dir. Standart bir iletişim protokolü kullanan güçlü merkezi aracılığıyla, ağ katılımcıları için zincirler arası güvenliği kıyaslayan blok zincirlerin interneti olmayı hedefliyor. Cosmos üzerine inşa edilen Juno, sürekli büyüyen çok zincirli bir ortamda blok zinciri birlikte çalışabilirliğini kolaylaştırır.
+[Juno](https://www.junonetwork.io/) is a decentralised, public, and permissionless layer 1 for cross-chain smart contracts. Via its powerful hub employing a standardised communication protocol, it aims to be the internet of blockchains, benchmarking inter-chain security for network participants. Built on Cosmos, Juno facilitates blockchain interoperability in an ever-growing multi-chain environment.
 
-Bir başka gelecek vaadeden Cosmos zincirinin, Stargaze'in kurucusu ve aynı zamanda Juno'nun çekirdek katkılarından biri olan Jake Hartnell, _"SubQuery'nin paha biçilmez veri indeksleme hizmetlerini Juno'ya genişlettiğini öğrenmekten mutluluk duyduk. Ortak misyonumuz, yeni ekiplere herhangi bir engel olmadan ölçeklenebilecekleri bir ortam sağlamaktır ve SubQuery'nin geliştiricilere zamandan ve emekten tasarruf sağlayarak daha da hızlı hızlanmalarına olanak tanıdığını biliyoruz."_
+Jake Hartnell, the founder of another up-and-coming Cosmos chain, Stargaze, as well as a core Juno contributor, has shared _"We were elated to learn that SubQuery were expanding their invaluable data indexing services over to Juno. Our shared mission is to provide new teams with an environment to scale without hindrance and we know that SubQuery saves developers time and effort, allowing them to accelerate even faster."_
 
-SubQuery, birden fazla katman-1 blok zincirinde uygulamalar oluşturan geliştiricilere merkezi olmayan veri indeksleme altyapısı sağlar. Esnek ve hızlı bir açık veri dizin oluşturucusu olan açık dizin oluşturma aracı, geliştiricilerin saatler içinde API'ler oluşturmasına ve sözlüklerin (önceden hesaplanmış dizinler) yardımıyla zincirleri hızla dizine eklemesine yardımcı olur.
+SubQuery provides decentralised data indexing infrastructure to developers building applications on multiple layer-1 blockchains. As an open data indexer that is flexible and fast, the open indexing tool helps developers build APIs in hours and quickly index chains with the assistance of dictionaries (pre-computed indices).
 
-Çok zincirli uygulamalar için tasarlanan SubQuery'nin araçları, geliştiricilerin protokolleri ve uygulamaları için zincir üstü verileri düzenlemesine, depolamasına ve sorgulamasına olanak tanır. SubQuery, özel veri işleme sunucularına olan ihtiyacı ortadan kaldırarak geliştiricilerin ürün geliştirmeye ve kullanıcı deneyimine odaklanmasına yardımcı olur.
+Engineered for multi-chain applications, SubQuery's tools allow developers to organize, store, and query on-chain data for their protocols and applications. SubQuery eliminates the need for custom data processing servers, helping developers focus on product development and user experience.
 
-SubQuery, Moonbeam ve Acala gibi projeler için her gün yüz milyonlarca sorguya hizmet eden Polkadot'ta bir veri indeksleme çözümü olarak kendini çoktan kurdu. Bu büyüme, SubQuery'yi 2022'de hizmet vermeyi planladıkları diğer altı Katman-1 blok zincirinin bir öncelik listesini geliştirmeye teşvik etti.
+SubQuery has already established itself as a data indexing solution on Polkadot, serving hundreds of millions of queries daily for projects like Moonbeam and Acala. This growth has spurred SubQuery to develop a priority list of six other Layer-1 blockchains they intend to serve in 2022.
 
-"[Polkadot](https://polkadot.network/) ve [Avalanche](https://blog.subquery.network/blogs/20220321-avalache.html) ile birlikte Cosmos ekosisteminin eklenmesi, SubQuery'nin aynı zamanda çok zincirli bir görünümle tasarlanmış ağlara odaklanmasıyla uyumludur. SubQuery'nin Cosmos uygulaması [Juno](https://www.junonetwork.io) ile başlasa da, ürün sonunda [Cronos](https://cronos.org/),
+The addition of the Cosmos ecosystem alongside [Polkadot](https://polkadot.network/) and [Avalanche](https://blog.subquery.network/blogs/20220321-avalache.html) aligns with SubQuery's focus on networks that are also designed with a multi-chain outlook. While SubQuery's Cosmos implementation begins with [Juno](https://www.junonetwork.io), the product will eventually work with any [CosmWasm-based chain](https://cosmwasm.com/), including [Cronos](https://cronos.org/), [OKExChain](https://www.okex.com/), [Osmosis](https://osmosis.zone/), [Secret Network](https://scrt.network/), [Stargaze](https://stargaze.zone/), and [Injective](https://injective.com/).
 
-OKExChain</ dahil olmak üzere herhangi bir [CosmWasm tabanlı zincir](https://cosmwasm.com/) ile çalışacaktır. 3>, [Osmosis](https://osmosis.zone/), [Gizli Ağ](https://scrt.network/), [Stargaze](https://stargaze.zone/) ve [Injective](https://injective.com/).</p> 
-
-SubQuery'nin Kurucusu ve CEO'su [Sam Zou](https://twitter.com/zoujialiu), şu yorumu yapıyor: _"SubQuery, web3 altyapısının temel bir parçasıdır ve Cosmos'ta ve yerel katmanlarında meydana gelen patlayıcı büyümeyi desteklemekten mutluluk duyuyoruz. Juno ekosistemindeki ekiplerin hızlı ve zengin özelliklere sahip dApp'ler oluşturmak için SubQuery'nin öncü dizin oluşturma teknolojisinden nasıl yararlandığını görmek için sabırsızlanıyoruz."_
+[Sam Zou](https://twitter.com/zoujialiu), the Founder and CEO of SubQuery, comments, _"SubQuery is a fundamental piece of web3 infrastructure and we are delighted to support the explosive growth occurring in Cosmos and its native layers. We can't wait to see how teams in the Juno ecosystem leverage SubQuery's leading-edge indexing technology to build fast and feature-rich dApps."_
 
 ![](https://miro.medium.com/max/1400/0*Z2bNgg6XS0ydE-xo)
 
-Sadece birkaç ay içinde, Juno uygulamaları SubQuery altyapısını tamamen SubQuery Network ile dağıtabilecek. SubQuery Ağı, proje verilerini küresel topluluğa teşvik edilmiş ve doğrulanabilir bir şekilde endeksleyecek ve sunacaktır. Juno ve Cosmos dahil olmak üzere herhangi bir katman-1 ağından herhangi bir SubQuery projesini desteklemek üzere tasarlanan geliştiriciler, lansmandan itibaren birleşik SubQuery Ağı'nın ölçeğinden yararlanabilir.
+In just a few months, Juno applications will be able to decentralise their SubQuery infrastructure completely with the SubQuery Network. The SubQuery Network will index and serve project data to the global community in an incentivised and verifiable manner. Designed to support any SubQuery project from any layer-1 network, including Juno and Cosmos, developers can leverage the scale of the unified SubQuery Network from launch.
 
+## Key Resources
 
+Developer documentation: <https://university.subquery.network>
 
-## Anahtar Kaynaklar
+Getting started project: <https://github.com/subquery/juno-subql-starter>
 
-Geliştirici belgeleri:<https://university.subquery.network>
+Discord community (including technical support): <https://discord.com/invite/subquery>
 
-Projeye başlarken: <https://github.com/subquery/juno-subql-starter>
+**A full developer onboarding guide will be released tomorrow**
 
-Discord topluluğu (teknik destek dahil): <https://discord.com/invite/subquery>
+## About SubQuery
 
-**Tam bir geliştirici işe alım kılavuzu yarın yayınlanacak**
-
-
-
-## SubQuery Hakkında
-
-[SubQuery](https://subquery.network), geleceğin Web3 uygulamalarının inşasını kolaylaştıran bir blockchain geliştirici araç setidir. Bir SubQuery projesi, katman-1 zincirlerinden verileri düzenlemek ve sorgulamak için eksiksiz bir API'dir. Şu anda Polkadot, Substrate, Avalanche, Terra ve Cosmos (Juno ile başlayan) projelerine hizmet veren bu hizmet olarak veri, geliştiricilerin veri işleme etkinlikleri için özel bir arka uç oluşturmak için zaman kaybetmeden temel kullanım örneklerine ve ön uçlarına odaklanmalarına olanak tanır. Gelecekte, SubQuery Network bu ölçeklenebilir ve güvenilir çözümü tamamen merkezi olmayan bir şekilde çoğaltmayı amaçlamaktadır.
+[SubQuery](https://subquery.network) is a blockchain developer toolkit facilitating the construction of Web3 applications of the future. A SubQuery project is a complete API to organise and query data from Layer-1 chains. Currently servicing Polkadot, Substrate, Avalanche, Terra, and Cosmos (starting with Juno) projects, this data-as-a-service allows developers to focus on their core use case and front-end without wasting time building a custom backend for data processing activities. In the future, the SubQuery Network intends to replicate this scalable and reliable solution in a completely decentralised manner.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
