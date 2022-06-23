@@ -66,7 +66,7 @@ Nova Wallet Customer Interview:
 
 <iframe width="680" height="382" src="https://www.youtube.com/embed/D4B8oVvmgLw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## About SubQuery
+## Giới thiệu về SubQuery
 
 [SubQuery](https://subquery.network/) is the Universal data indexing toolkit facilitating the construction of Web3 applications of the future. A SubQuery project is a complete API to organise and query data from Layer-1 chains. Currently servicing Polkadot, Substrate, Avalanche, Terra, and Cosmos (starting with Juno) projects, this data-as-a-service allows developers to focus on their core use case and front-end without wasting time building a custom backend for data processing activities. In the future, the SubQuery Network intends to replicate this scalable and reliable solution in a completely decentralised manner.
 
