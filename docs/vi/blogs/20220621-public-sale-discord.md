@@ -31,7 +31,7 @@ Any Discord member with one of the following roles: All-Star Ambassador, Senior 
 - Unfortunately, citizens and residents of the USA, China, New Zealand, and some other jurisdictions will not be able to participate.
 - In the meantime, we recommend familiarising yourself with the SQT tokenomics[ here](https://subquery.medium.com/subquery-releases-tokenomics-9168d76c2d9c).
 
-## About SubQuery
+## Giới thiệu về SubQuery
 
 [SubQuery](https://subquery.network/) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from Layer-1 chains. Currently servicing Polkadot, Substrate, Avalanche, Terra, Cosmos (starting with Juno) projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
