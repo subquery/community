@@ -85,7 +85,7 @@ The launch of our beta support means SubQuery provides multi-chain support for t
 - [Managed Service](https://explorer.subquery.network/)
 - [Publish your own Cosmos Project to the Managed Service](https://project.subquery.network/)
 
-## About SubQuery
+## Giới thiệu về SubQuery
 
 [SubQuery](https://subquery.network/) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot, Substrate, Avalanche, and now Cosmos projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
