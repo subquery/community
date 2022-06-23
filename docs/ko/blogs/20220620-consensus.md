@@ -26,7 +26,7 @@ It was also exciting to forge deeper connections within the space, particularly 
 
 As we ramp up engagement activity for SubQuery both online and IRL in the second half of the year, you can catch us next at [Polkadot Decoded 2022](https://decoded.polkadot.network/) in Hangzhou and Berlin, where Siqi (Global Community Manager, China) and James will be giving talks respectively!
 
-## About SubQuery
+## 서브쿼리란
 
 [SubQuery](https://subquery.network/) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from Layer-1 chains. Currently servicing Polkadot, Substrate, Avalanche, Terra, Cosmos (starting with Juno) projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
