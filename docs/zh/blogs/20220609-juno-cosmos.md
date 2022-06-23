@@ -1,4 +1,4 @@
-# SubQuery 解析宇宙数据索引通过 Juno 集成
+# SubQuery Unveils Cosmos Data Indexing via Juno Integration
 
 ![](https://miro.medium.com/max/1400/1*1l_AKVFdN9yPMOSWfpc2Jg.png)
 
