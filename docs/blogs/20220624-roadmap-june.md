@@ -10,7 +10,7 @@ Since the [last Roadmap update back in October](./20211029-roadmap-october.md), 
 - Improving the core product
 - Growing a robust and inclusive community
 
-Over the last 8 months we've come a long way! With the successful launch of the [SubQuery Frontier testnet](./20220330-frontier-testnet.md), onboarding hundreds of new projects to our [Managed Service](https://subquery.network/managedservices), expanding to other [leading layer-1 ecosystems](./20220321-avalache.md), and growing our community to over 60,000 across [Twitter](https://twitter.com/subquerynetwork) and [Discord](https://discord.com/invite/SubQuery).
+Over the last 8 months we've come a long way! With the successful launch of the [SubQuery Frontier testnet](./20220330-frontier-testnet.md), onboarding hundreds of new projects to our [Managed Service](https://subquery.network/managedservices), expanding to other [leading layer-1 ecosystems](./20220321-avalache.md), and growing our community to over 110,000 across [Twitter](https://twitter.com/subquerynetwork) and [Discord](https://discord.com/invite/SubQuery).
 
 We're well overdue to release a detailed and updated technical roadmap for the second half of 2022.
 
