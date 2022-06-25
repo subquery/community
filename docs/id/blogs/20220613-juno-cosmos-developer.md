@@ -2,26 +2,26 @@
 
 ![](https://miro.medium.com/max/1400/0*29dsUJbyIb34mYkF)
 
-Sejak keruntuhan ekosistem Terra/Luna yang tidak menguntungkan, kami telah berbicara dengan ekosistem lain di Kosmos (pun intended) dan telah menemukan rumah pertama kami di [Juno](https://www.junonetwork.io/). We've been adapting our original Terra support behind the scenes and testing it with key development launch partners. We are proud to release our wider support for Cosmos with our first implementation specific to Juno, in this article we share a detailed developer guide and roadmap for all of the Cosmos community to use to solve their data indexing needs.
+Sejak keruntuhan ekosistem Terra/Luna yang tidak menguntungkan, kami telah berbicara dengan ekosistem lain di Kosmos (pun intended) dan telah menemukan rumah pertama kami di [Juno](https://www.junonetwork.io/). Kami telah mengadaptasi dukungan Terra asli kami di belakang layar dan mengujinya dengan mitra peluncuran pengembangan utama. Kami bangga untuk merilis dukungan kami yang lebih luas untuk Cosmos dengan implementasi pertama kami khusus untuk Juno, dalam artikel ini kami membagikan panduan pengembang terperinci dan peta jalan untuk semua komunitas Cosmos untuk digunakan untuk menyelesaikan kebutuhan pengindeksan data mereka.
 
-SubQuery is an open data indexer that is flexible and fast. Our open indexing tool is designed to help developers build their own API in hours, and it's designed to index chains incredibly quickly with the assistance of dictionaries (pre-computed indices). Our experience with customers across all verticals in Polkadot and Avalanche (wallets, networks, explorers, NFT, DeFi, scanners, etc) has helped us build this.
+SubQuery adalah pengindeks data terbuka yang fleksibel dan cepat. Alat pengindeksan terbuka kami dirancang untuk membantu pengembang membangun API mereka sendiri dalam hitungan jam, dan dirancang untuk mengindeks rantai dengan sangat cepat dengan bantuan kamus (indeks yang telah dihitung sebelumnya). Our experience with customers across all verticals in Polkadot and Avalanche (wallets, networks, explorers, NFT, DeFi, scanners, etc) has helped us build this.
 
-This is still in its early versions, and while we consider it far beyond a "beta", we would appreciate it if any bugs can be reported to our team so we can address them quickly.
+Ini masih dalam versi awal, dan meskipun kami menganggapnya jauh melampaui "beta", kami akan sangat menghargai jika ada bug yang dapat dilaporkan ke tim kami sehingga kami dapat mengatasinya dengan cepat.
 
-## Why Use SubQuery?
+## Mengapa Menggunakan SubQuery?
 
-The application ecosystem has thrived in Cosmos even though there is a serious lack of some key developer tools and infrastructure services. In most cases when we asked teams how they solved their data indexing needs, it was:
+Ini masih dalam versi awal, dan meskipun kami menganggapnya jauh melampaui "beta", kami akan sangat menghargai jika ada bug yang dapat dilaporkan ke tim kami sehingga kami dapat mengatasinya dengan cepat. Dalam kebanyakan kasus ketika kami bertanya kepada tim bagaimana mereka menyelesaikan kebutuhan pengindeksan data mereka, itu adalah:
 
-- **Build your own solution:** A custom implementation running by yourself built specifically for your app. But why reinvent the wheel? SubQuery is focusing on building a reliable and fast open indexer --- we're here to save you time
-- **Designing smart contracts for queries:** Some teams are even implementing custom quirks in their smart contracts to specifically allow for more advanced queries specific to their application logic.
+- **Buat solusi Anda sendiri:** Penerapan kustom yang berjalan sendiri yang dibuat khusus untuk aplikasi Anda. Tapi mengapa menemukan kembali roda? SubQuery berfokus pada membangun pengindeks terbuka yang andal dan cepat --- kami di sini untuk menghemat waktu Anda
+- **Merancang kontrak cerdas untuk kueri:** Beberapa tim bahkan menerapkan kebiasaan khusus dalam kontrak cerdas mereka untuk secara khusus memungkinkan kueri lebih lanjut khusus untuk logika aplikasi mereka.
 
-At SubQuery we have an open-source SDK that is easy to use and lightning quick. It provides you with a standard GraphQL endpoint, or you can just query the postgres database directly. With it you can index a unique set of data from your own smart contracts that allows you to build a superior product that blows your competition out of the water! We give you flexibility to get the data that you need in the shape that works best for you.
+Di SubQuery, kami memiliki SDK sumber terbuka yang mudah digunakan dan secepat kilat. Ini memberi Anda titik akhir GraphQL standar, atau Anda bisa langsung menanyakan database postgres. Dengannya, Anda dapat mengindeks kumpulan data unik dari smart contract Anda sendiri yang memungkinkan Anda membangun produk unggulan yang mengalahkan pesaing Anda! Kami memberi Anda fleksibilitas untuk mendapatkan data yang Anda butuhkan dalam bentuk yang paling sesuai untuk Anda.
 
-Reliability is key, and you need a reliable and scalable platform to host it. [SubQuery's managed service](https://subquery.network/managedservices) is an industry leading hosting solution for all customers that is serving hundreds of millions of daily requests to the biggest projects in Polkadot. We provide our [enterprise level customers](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) with services such as dedicated databases, redundant clusters, intelligent multi-cluster routing, and advanced monitoring and analytics. It will support your application when you are ready and will scale with you.
+Keandalan adalah kuncinya, dan Anda memerlukan platform yang andal dan skalabel untuk menampungnya. [Layanan terkelola SubQuery](https://subquery.network/managedservices) adalah solusi hosting terdepan di industri untuk semua pelanggan yang melayani ratusan juta permintaan harian ke proyek terbesar di Polkadot. Kami menyediakan [pelanggan tingkat perusahaan](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) layanan seperti database khusus, cluster redundan, perutean multi-cluster yang cerdas, serta pemantauan dan analitik lanjutan. Ini akan mendukung aplikasi Anda saat Anda siap dan akan menskalakan bersama Anda.
 
-And finally, in a few months you'll be able to completely decentralise your SubQuery infrastructure with the SubQuery Network, the future of Web3 infrastructure. The SubQuery Network will index and service your projects data to the global community in an incentivised and verifiable way. It is designed to support any SubQuery project from any layer-1 network including Cosmos, so you can take advantage of the scale of the unified SubQuery Network from launch.
+Dan terakhir, dalam beberapa bulan Anda akan dapat mendesentralisasikan infrastruktur SubQuery Anda sepenuhnya dengan Jaringan SubQuery, infrastruktur Web3 masa depan. Jaringan SubQuery akan mengindeks dan melayani data proyek Anda ke komunitas global dengan cara yang berinsentif dan dapat diverifikasi. Ini dirancang untuk mendukung proyek SubQuery apa pun dari jaringan layer-1 mana pun termasuk Cosmos, sehingga Anda dapat memanfaatkan skala Jaringan SubQuery terpadu sejak peluncuran.
 
-## Getting Started
+## Petunjuk Awal
 
 The best way is to start with [our starter project](https://github.com/subquery/juno-subql-starter) which contains a running project with an example of all mapping functions. You'll need to install a recent version of `@subql/cli` via `npm i -g @subql/cli@latest`.
 
