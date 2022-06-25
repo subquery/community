@@ -1,8 +1,8 @@
-# SubQuery Cosmos/Juno Support --- Developer Deep Dive
+# Dukungan SubQuery Cosmos/Juno --- Developer Deep Dive
 
 ![](https://miro.medium.com/max/1400/0*29dsUJbyIb34mYkF)
 
-Ever since the unfortunate collapse of the Terra/Luna ecosystem, we've been talking to other ecosystems in the Cosmos (pun intended) and have found our first home in [Juno](https://www.junonetwork.io/). We've been adapting our original Terra support behind the scenes and testing it with key development launch partners. We are proud to release our wider support for Cosmos with our first implementation specific to Juno, in this article we share a detailed developer guide and roadmap for all of the Cosmos community to use to solve their data indexing needs.
+Sejak keruntuhan ekosistem Terra/Luna yang tidak menguntungkan, kami telah berbicara dengan ekosistem lain di Kosmos (pun intended) dan telah menemukan rumah pertama kami di [Juno](https://www.junonetwork.io/). We've been adapting our original Terra support behind the scenes and testing it with key development launch partners. We are proud to release our wider support for Cosmos with our first implementation specific to Juno, in this article we share a detailed developer guide and roadmap for all of the Cosmos community to use to solve their data indexing needs.
 
 SubQuery is an open data indexer that is flexible and fast. Our open indexing tool is designed to help developers build their own API in hours, and it's designed to index chains incredibly quickly with the assistance of dictionaries (pre-computed indices). Our experience with customers across all verticals in Polkadot and Avalanche (wallets, networks, explorers, NFT, DeFi, scanners, etc) has helped us build this.
 
@@ -85,7 +85,7 @@ The launch of our beta support means SubQuery provides multi-chain support for t
 - [Managed Service](https://explorer.subquery.network/)
 - [Publish your own Cosmos Project to the Managed Service](https://project.subquery.network/)
 
-## Tentang SubQuery
+## About SubQuery
 
 [SubQuery](https://subquery.network/) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot, Substrate, Avalanche, and now Cosmos projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
