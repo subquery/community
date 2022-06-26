@@ -14,16 +14,16 @@ Il supporto segreto sarà facilmente accessibile dall'utente del Wallet che deti
 
 ![](https://miro.medium.com/max/1400/0*gquKRKBgiyAAxRFZ)
 
-> _"Abbiamo fatto la scelta di usare SubQuery perché la documentazione ci sembrava chiara a prima vista e non ci siamo sbagliati. SubQuery fornisce un ambiente completo con una macchina docker che rende i test e il deployment molto facili. SubQuery provides a complete environment with a docker machine that makes testing and deployment very easy. Complimenti anche al supporto che è molto reattivo."_ - Ternoa CTO
+> _"Abbiamo fatto la scelta di usare SubQuery perché la documentazione ci sembrava chiara a prima vista e non ci siamo sbagliati. SubQuery fornisce un ambiente completo con una macchina docker che rende i test e il deployment molto facili. È relativamente facile svilupparsi in questo ambiente e programmare l'ascolto dei diversi eventi emessi dalla nostra blockchain. Complimenti anche al supporto che è molto reattivo."_ - Ternoa CTO
 
 [I servizi di SubQuery](https://subquery.network/) aiutano anche a estrarre e interrogare i dati della catena per i Secret-NFTs coniati sulla Ternoa Blockchain, in un modo che supporta le caratteristiche uniche dei NFTs di Ternoa.
 
 ![](https://miro.medium.com/max/1400/0*CA7lfxmZxHCKhzWw)
 
-Nell'esempio qui sotto, stiamo [usando la SubQuery](https://explorer.subquery.network/subquery/capsule-corp-ternoa/indexer) per trovare i primi 5 NFT sulla rete di Ternoa.
+Nell'esempio qui sotto, stiamo [usando SubQuery](https://explorer.subquery.network/subquery/capsule-corp-ternoa/indexer) per trovare i primi 5 NFT sulla rete di Ternoa.
 
 ![](https://miro.medium.com/max/1400/0*YaQGpb3xUn7BUESx)
 
-Secret NFT sta usando [SubQuery Projects](https://project.subquery.network/) per gestire il proprio progetto e fare gli aggiornamenti come richiesto. I servizi di indicizzazione e interrogazione che forniamo sono completamente gestiti da SubQuery e forniti alla comunità Polkadot gratuitamente in [SubQuery's Explorer](https://explorer.subquery.network/).
+Secret NFT sta usando i [Progetti SubQuery](https://project.subquery.network/) per gestire il proprio progetto e fare gli aggiornamenti come richiesto. I servizi di indicizzazione e interrogazione che forniamo sono completamente gestiti da SubQuery e forniti alla comunità Polkadot gratuitamente nell'[Explorer di SubQuery](https://explorer.subquery.network/).
 
 [Esplora il set di dati NFT di Ternoa Secret](https://explorer.subquery.network/subquery/capsule-corp-ternoa/indexer)
