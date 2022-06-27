@@ -15,7 +15,7 @@ Key Functions of the SubQuery Foundation:
 3. Manage the grants programmes to stimulate the use of the SubQuery Network;
 4. Develop the SubQuery Network ecosystem of partners and user community (including hackathons and the Ambassador Programme);
 5. Drive educational programmes through the Academy ; and
-6. Decentralise the SubQuery Network.
+6. Phi tập trung Mạng SubQuery.
 
 The formation of the SubQuery Foundation is the first step in the journey towards decentralising the SubQuery Network and eventually evolve into a DAO, once a sufficient degree of decentralisation is achieved.
 
@@ -33,7 +33,7 @@ For further information or if you have any questions, [please contact us in our
 
 ## Giới thiệu về SubQuery
 
-[SubQuery](https://subquery.network/) là bộ công cụ phát triển blockchain cho phép các nhà phát triển xây dựng các ứng dụng Web3 cho tương lai. Một dự án SubQuery là một API hoàn chỉnh để tổ chức và truy vấn dữ liệu từ các chuỗi layer 1. Currently servicing Polkadot, Substrate, Avalanche, Terra, Cosmos (starting with Juno) projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+[SubQuery](https://subquery.network/) là bộ công cụ phát triển blockchain cho phép các nhà phát triển xây dựng các ứng dụng Web3 cho tương lai. Một dự án SubQuery là một API hoàn chỉnh để tổ chức và truy vấn dữ liệu từ các chuỗi layer 1. Hiện đang phục vụ các dự án Polkadot, Substrate, Avalanche, Terra, Cosmos (bắt đầu với Juno), dữ liệu dưới dạng dịch vụ này cho phép các nhà phát triển tập trung vào phát triển cốt lõi sản phẩm và giao diện người dùng của họ mà không cần lãng phí thời gian vào việc xây dựng chương trình phụ trợ để xử lý dữ liệu. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
 
