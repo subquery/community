@@ -27,7 +27,7 @@ The birth of the Nova Wallet and SubQuery partnership occurred in mid-2021 when 
 
 > *"One of the main goals of Nova Wallet is to provide a top-notch experience and a convenient UI for the users. This goal wouldn't be achieved without the help of SubQuery --- a premium solution for the data aggregation, indexing, and API provision for the apps in the ecosystem."* - Anton Khvorov, CEO of Nova Wallet & Nova Foundation
 
-## How SubQuery Helped Nova Wallet
+## SubQuery đã giúp Nova Wallet như thế nào
 
 Nova Wallet depends on SubQuery to provide data for transactions, account history, and all different types of staking events and rewards for over 50 different Polkadot parachains and counting. Due to its fast and flexible nature, SubQuery is a core service that Nova have embraced to provide their users with an exceptional user experience. Additionally, SubQuery's advanced dictionary support on each parachain allows extremely rapid sync times and faster development iterations.
 
@@ -68,6 +68,6 @@ Nova Wallet Customer Interview:
 
 ## Giới thiệu về SubQuery
 
-[SubQuery](https://subquery.network/) là bộ công cụ lập chỉ mục dữ liệu phổ quát tạo điều kiện thuận lợi cho việc xây dựng các ứng dụng Web3 trong tương lai. A SubQuery project is a complete API to organise and query data from Layer-1 chains. Currently servicing Polkadot, Substrate, Avalanche, Terra, and Cosmos (starting with Juno) projects, this data-as-a-service allows developers to focus on their core use case and front-end without wasting time building a custom backend for data processing activities. In the future, the SubQuery Network intends to replicate this scalable and reliable solution in a completely decentralised manner.
+[SubQuery](https://subquery.network/) là bộ công cụ lập chỉ mục dữ liệu phổ quát tạo điều kiện thuận lợi cho việc xây dựng các ứng dụng Web3 trong tương lai. Một dự án SubQuery là một API hoàn chỉnh để tổ chức và truy vấn dữ liệu từ các chuỗi layer 1. Hiện đang phục vụ các dự án Polkadot, Substrate, Avalanche, Terra và Cosmos (bắt đầu với Juno), dữ liệu dưới dạng dịch vụ này cho phép các nhà phát triển tập trung vào trường hợp sử dụng cốt lõi và giao diện người dùng của họ mà không lãng phí thời gian xây dựng một phần phụ trợ tùy chỉnh cho các hoạt động xử lý dữ liệu. In the future, the SubQuery Network intends to replicate this scalable and reliable solution in a completely decentralised manner.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
