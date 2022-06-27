@@ -21,7 +21,7 @@ Reliability is key, and you need a reliable and scalable platform to host it. [
 
 And finally, in a few months you'll be able to completely decentralise your SubQuery infrastructure with the SubQuery Network, the future of Web3 infrastructure. The SubQuery Network will index and service your projects data to the global community in an incentivised and verifiable way. It is designed to support any SubQuery project from any layer-1 network including Cosmos, so you can take advantage of the scale of the unified SubQuery Network from launch.
 
-## Getting Started
+## Bắt đầu
 
 The best way is to start with [our starter project](https://github.com/subquery/juno-subql-starter) which contains a running project with an example of all mapping functions. You'll need to install a recent version of `@subql/cli` via `npm i -g @subql/cli@latest`.
 
@@ -42,9 +42,9 @@ SubQuery's Cosmos implementation has been designed to operate almost identically
 
 As part of our multi-chain ambitions, we are planning to support the entire Cosmos ecosystem in the long term. Our first implementation starts specifically with Juno where we have completed most of our testing and are confident that this works.
 
-However, we are confident that this SubQuery implementation should work seamlessly with most other Cosmos chains that implement CosmWasm. While SubQuery's Cosmos support begins with [Juno](https://www.junonetwork.io/), the service should work with [Cronos](https://cronos.org/), [OKExChain](https://www.okex.com/), [Osmosis](https://osmosis.zone/), [Secret Network](https://scrt.network/), [Stargaze](https://stargaze.zone/), and [Injective](https://injective.com/). We have additionally successfully tested this on CosmosHub, all you need to do is add a non-pruned archive node endpoint and import correct protobuf messages in the [project.yaml](https://github.com/subquery/juno-subql-starter/blob/a177837a36c86fda8fb2bdbd7a83bb408c89d4bd/project.yaml#L24).
+Tuy nhiên, chúng tôi tự tin rằng việc triển khai SubQuery này sẽ hoạt động liền mạch với hầu hết các chuỗi Cosmos khác triển khai CosmWasm. While SubQuery's Cosmos support begins with [Juno](https://www.junonetwork.io/), the service should work with [Cronos](https://cronos.org/), [OKExChain](https://www.okex.com/), [Osmosis](https://osmosis.zone/), [Secret Network](https://scrt.network/), [Stargaze](https://stargaze.zone/), and [Injective](https://injective.com/). We have additionally successfully tested this on CosmosHub, all you need to do is add a non-pruned archive node endpoint and import correct protobuf messages in the [project.yaml](https://github.com/subquery/juno-subql-starter/blob/a177837a36c86fda8fb2bdbd7a83bb408c89d4bd/project.yaml#L24).
 
-## Deploying your Project to SubQuery's Managed Service
+## Triển khai Dự án của bạn với Dịch vụ được Quản lý bởi SubQuery
 
 Although you will always be able to run your project in your own infrastructure easily, [SubQuery's managed service](https://subquery.network/managedservices) now supports Cosmos projects. Some of the biggest projects depend on SubQuery's [enterprise level](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) managed service and now you can too. As part of our launch partner agreement, we are providing you with 3 months free hosting.
 
@@ -61,7 +61,7 @@ Please notify us once you have deployed your project as we may need to assist wi
 Today we are sharing the following:
 
 - Advanced Indexing of blocks, event
-- Full support for Cosmos in our free [enterprise level](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) managed service
+- Hỗ trợ đầy đủ cho Cosmos trong dịch vụ được quản lý [cấp doanh nghiệp](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) miễn phí của chúng tôi
 - Intuitive documentation in the [SubQuery Documentation](https://doc.subquery.network/)
 
 In the coming weeks you can expect:
@@ -78,7 +78,7 @@ The launch of our beta support means SubQuery provides multi-chain support for t
 
 ## Links
 
-- [Getting Started Guide](https://doc.subquery.network/quickstart/quickstart-cosmos.html)
+- [Hướng dẫn bắt đầu](https://doc.subquery.network/quickstart/quickstart-cosmos.html)
 - [SubQuery University (Documentation)](https://doc.subquery.network/)
 - [Example Cosmos (Juno) Project --- Kitchen sink example](https://github.com/subquery/juno-subql-starter)
 - [Example Cosmos (Juno) Project --- Terra development fund votes](https://github.com/jamesbayly/juno-terra-developer-fund-votes)
