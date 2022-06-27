@@ -4,7 +4,7 @@
 
 SubQuery Network, the universal Web3 data indexing toolkit, is delighted to kick-off whitelisting of our Discord community members for [the upcoming SQT Public Sale](https://www.subquery.foundation/publicsale).
 
-We would like to recognise our Discord community members as critical participants in the SubQuery ecosystem. Your input into the development of our network and community is highly appreciated and we would love for you to continue being part of our journey. Hence, we are happy to let you know that we have reserved you a guaranteed allocation at the upcoming SQT Public Sale. We hope you will become an active network participant once we launch the mainnet of the SubQuery Network and help us bootstrap the network.
+We would like to recognise our Discord community members as critical participants in the SubQuery ecosystem. Your input into the development of our network and community is highly appreciated and we would love for you to continue being part of our journey. Do đó, chúng tôi rất vui được thông báo cho bạn biết rằng chúng tôi đã dành cho bạn một khoản phân bổ đảm bảo tại Đợt Public Sale SQT sắp tới. We hope you will become an active network participant once we launch the mainnet of the SubQuery Network and help us bootstrap the network.
 
 The SubQuery Public Sale will consist of three rounds: the former will offer guaranteed allocation for our key community members and network participants. The second round will be open to all interested parties on a "first come, first served" basis and have a max cap. If there are any unsold tokens, we will open the third round on a "first come, first served" basis without the max cap. The Discord whitelisting process is targeting the community members specifically. If you are a SubQuery network participant, but don't have a discord role, you will be communicated to separately.
 
@@ -12,9 +12,9 @@ The SubQuery Public Sale will consist of three rounds: the former will offer gua
 
 Any Discord member with one of the following roles: All-Star Ambassador, Senior Ambassador, Ambassador, Country Lead, Spartan, Frontier Indexer. Each role will have its own allocation amounts.
 
-## How to Get Whitelisted:
+## Làm thế nào để có được Whitelisted:
 
-1. Head to [SubQuery Discord](https://discord.com/invite/78zg8aBSMG);
+1. Đi tới [SubQuery Discord](https://discord.com/invite/78zg8aBSMG);
 2. Find the [#public-sale-whitelisting](https://discord.com/channels/796198414798028831/950874770218557510) channel (under the "*SQT Public Sale"* section). You will only be able to access this channel if you have an eligible Discord role;
 3. Read the pinned message and follow the instructions;
 4. If you complete the process correctly, you will be whitelisted. Congrats! You will get a confirmation email with next steps once we process all submissions;
@@ -33,6 +33,6 @@ Any Discord member with one of the following roles: All-Star Ambassador, Senior 
 
 ## Giới thiệu về SubQuery
 
-[SubQuery](https://subquery.network/) là bộ công cụ phát triển blockchain cho phép các nhà phát triển xây dựng các ứng dụng Web3 cho tương lai. A SubQuery project is a complete API to organise and query data from Layer-1 chains. Currently servicing Polkadot, Substrate, Avalanche, Terra, Cosmos (starting with Juno) projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+[SubQuery](https://subquery.network/) là bộ công cụ phát triển blockchain cho phép các nhà phát triển xây dựng các ứng dụng Web3 cho tương lai. Một dự án SubQuery là một API hoàn chỉnh để tổ chức và truy vấn dữ liệu từ các chuỗi layer 1. Hiện đang phục vụ các dự án Polkadot, Substrate, Avalanche, Terra, Cosmos (bắt đầu với Juno), dữ liệu dưới dạng dịch vụ này cho phép các nhà phát triển tập trung vào phát triển cốt lõi sản phẩm và giao diện người dùng của họ mà không cần lãng phí thời gian vào việc xây dựng chương trình phụ trợ để xử lý dữ liệu. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
