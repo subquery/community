@@ -18,7 +18,7 @@ Since its founding in 2021, SubQuery established itself as the leading data inde
 
 For developers who are eager to [learn how to build applications in SubQuery we encourage them to join our free "Hero Course" in the SubQuery Academy](https://subquery.coassemble.com/unlock/dOKZW6O#/) and then register to take part in the [Polkadot Hackathon today](https://go.polkadotglobalseries.com/Subquery-Network).
 
-## About Polkadot Hackathon
+## Giới thiệu về Polkadot Hackathon
 
 [Polkadot Hackathon North America Edition](https://go.polkadotglobalseries.com/Subquery-Network) là một sáng kiến ​​giáo dục với mục tiêu thúc đẩy hệ sinh thái nguồn mở, hợp tác và trao quyền kinh tế ở Polkadot. Parity Technologies and OneBlock+ are dedicated to building both a community and infrastructure for Web 3 - a diverse range of tools, technologies, and networks that enable people to contribute to the open internet. By supporting projects, building a community, and making learning resources accessible, educational events like the Polkadot Hackathon will guarantee Polkadot retains its position as a healthy ecosystem with several utility-based projects that will help to create the digital public infrastructure of tomorrow.
 
