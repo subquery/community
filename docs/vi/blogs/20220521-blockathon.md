@@ -28,6 +28,6 @@ Since its founding in 2021, SubQuery established itself as the leading data inde
 
 Blockathon DAO is a Learn-2-Earn program for daring individuals who aspire to shape the future of Web3 by reinventing how decentralised applications are built, contributed, and owned. By being a part of the program, anyone can build, contribute, and own Web3 innovation. Builders, creatives and entrepreneurs will now have an immersive series of events to bootstrap their Web3 projects. Web3 users and enthusiasts around the globe are welcome to join the online sections of the program with a chance to meaningfully contribute to cutting-edge Web3 projects early on.
 
-The Metaverse Blockathon is running now! Have a team (or want to join one?!) to hack the Metaverse Future?! Register [here](https://forms.gle/CK62i8PPLUQ9LxTJ7) and join our next [community call](https://calendar.google.com/event?action=TEMPLATE&tmeid=YjZ0MDY1ODNoYnNqdTkzazYzZW5tZzJpOHMgdGVhbUBibG9ja2F0aG9uLnh5eg&tmsrc=team%40blockathon.xyz) for next steps!
+The Metaverse Blockathon is running now! Có một nhóm (hoặc muốn tham gia một nhóm?!) để hack Metaverse Future?! Register [here](https://forms.gle/CK62i8PPLUQ9LxTJ7) and join our next [community call](https://calendar.google.com/event?action=TEMPLATE&tmeid=YjZ0MDY1ODNoYnNqdTkzazYzZW5tZzJpOHMgdGVhbUBibG9ja2F0aG9uLnh5eg&tmsrc=team%40blockathon.xyz) for next steps!
 
 [Website](https://blockathon.xyz/) | [Discord](https://discord.com/invite/gc5yvrEZyd) | [LinkedIn](https://www.linkedin.com/company/blockathon-dao/) | [Twitter](https://twitter.com/blockathon_dao)
