@@ -1,73 +1,73 @@
-# Estudio de caso de un cliente de SubQuery: Nova Wallet
+# SubQuery Customer Case Study: Nova Wallet
 
 ![](https://miro.medium.com/max/1400/0*ypE3GClFYjuqVwrM)
 
-SubQuery es el conjunto de herramientas de indexación de datos Universal Web3. SubQuery permite a cualquiera indexar, transformar y consultar datos de blockchain para potenciar sus aplicaciones. En esta serie de estudios de caso del cliente perfeccionaremos en cómo un equipo utiliza SubQuery para elevar y mejorar su proyecto a través de la provisión perfecta de datos críticos de la misión.
+SubQuery is the Universal Web3 data indexing toolkit. SubQuery enables anyone to index, transform, and query blockchain data to power their applications. In this Customer Case Study series we'll hone in on how one team uses SubQuery to elevate and enhance their project via the seamless provision of mission critical data.
 
-## Resúmen
+## Summary
 
-Nova Wallet, una aplicación de cartera móvil de próxima generación utiliza SubQuery para rastrear la actividad en cada parachain de Polkadot y Kusama y encontraron que podían aprovechar las capacidades de datos de SubQuery para ofrecer características únicas por encima de lo que inicialmente esperaban.
+Nova Wallet, a next generation mobile wallet application uses SubQuery to track the activity on every single Polkadot and Kusama parachain and found they could harness SubQuery's data capabilities to offer unique features over-and-above what they initially expected.
 
-> *"Uno de los principales objetivos de Nova Wallet es proporcionar una experiencia superior y una interfaz de usuario conveniente para los usuarios. Este objetivo no se lograría sin la ayuda de SubQuery --- una solución premium para la agregación de datos, y provisión de API para las aplicaciones en el ecosistema.* - Anton Khvorov, CEO de Nova Wallet & Nova Foundation
+> *"One of the main goals of Nova Wallet is to provide a top-notch experience and a convenient UI for the users. This goal wouldn't be achieved without the help of SubQuery --- a premium solution for the data aggregation, indexing, and API provision for the apps in the ecosystem."* - Anton Khvorov, CEO of Nova Wallet & Nova Foundation
 
-SubQuery permite a Nova Wallet arrancar un datascript para cualquier red que proporcione API para el historial de operaciones, Transferencias basadas en balances/activos/palets ORML, Análisis de toma basado en palets de staking/parachainStaking en menos de 10 minutos
+SubQuery enables Nova Wallet to bootstrap a datasource for any network that provides API for Operation history, Transfers based on balances/assets/ORML pallets, Staking analytics based on staking/parachainStaking pallets in less than 10 minutes
 
-Nova Wallet acredita a SubQuery como instrumento para proporcionar las siguientes características únicas a sus usuarios:
-- Historial de transferencias para cualquier recurso
-- Historial de recompensas
-- Recompensas de staking total
-- Otras operaciones del historial de cuentas del usuario (voto de gobernanza, swaps, operaciones de administración de apuestas, etc.)
-- Planes para ir más allá con transferencias cruzadas en su próximo hito
+Nova Wallet credits SubQuery as instrumental for them to provide the below unique features to their users:
+- Transfer history for any asset
+- Staking rewards history
+- Total staking rewards
+- Other operations of user's account history (governance voting, swaps, staking management operations, etc)
+- Plans to go beyond with cross-chain transfers in their next milestone
 
-## El Desafío ante la billetera Nova
+## The Challenge Facing Nova Wallet
 
-Nova Wallet desarrolló una nueva cartera de aplicaciones móviles para Polkadot y Kusama donde los usuarios pueden administrar todos sus tokens del ecosistema, disfrutar de una experiencia de apuesta, explorar los ecosistemas DApps, y contribuir a los crowdloans sin límites. Como una billetera enfocada en apoyar el ecosistema de Polkadot y Kusama lo antes posible, Nova naturalmente necesita soportar cada red tan pronto como lancen y activen las transferencias de activos. En el comienzo de Nova esto habría sido prácticamente imposible, pero al asociarse con SubQuery y su arquitectura única, sólo se requieren cambios de configuración simples para extender el proyecto estándar de SubQuery Wallet Nova a cada nueva red.
+Nova Wallet developed a new mobile app wallet for Polkadot and Kusama where users can manage all of their ecosystem tokens, enjoy a convenient staking experience, explore ecosystem DApps, and contribute to crowdloans with no limits. As a wallet focussed on supporting the entire Polkadot and Kusama ecosystem as quickly as possible, Nova naturally need to support each network as soon as they launch and enable asset transfers. At Nova's inception this would have been virtually impossible, but by partnering with SubQuery and it's unique architecture, only simple configuration changes are required to extend the standard Nova Wallet SubQuery project to each new network.
 
-El nacimiento de la asociación Nova Wallet y SubQuery ocurrió a mediados de 2021 cuando el equipo de Nova estaba deseando encontrar una solución cómoda y personalizable. y forma fiable de obtener datos que no están disponibles directamente desde la API de blockchain, pero crucial para ser provista en una aplicación de cara al usuario como Nova Wallet para aumentar drásticamente la UX. Nova encontró que las soluciones existentes en ese momento eran muy limitadas e inflexibles hasta que se encontraron con SubQuery y fueron capaces de obtener rápidamente su primer proyecto SubQuery funcionando para agregarlos y consultar sus datos de interés.
+The birth of the Nova Wallet and SubQuery partnership occurred in mid-2021 when the Nova team were struggling to find find a convenient, customizable, and reliable way to fetch data which is not available from blockchain API directly, but crucial to be provided in a user-facing application like Nova Wallet to dramatically increase the UX. Nova found existing solutions at the time to be very limited and inflexible until they came across SubQuery and were able to quickly get their first SubQuery project up-and-running to aggregate and query their data of interest.
 
-> *"Uno de los principales objetivos de Nova Wallet es proporcionar una experiencia superior y una interfaz de usuario conveniente para los usuarios. Este objetivo no se lograría sin la ayuda de SubQuery --- una solución premium para la agregación de datos, y provisión de API para las aplicaciones en el ecosistema.* - Anton Khvorov, CEO de Nova Wallet & Nova Foundation
+> *"One of the main goals of Nova Wallet is to provide a top-notch experience and a convenient UI for the users. This goal wouldn't be achieved without the help of SubQuery --- a premium solution for the data aggregation, indexing, and API provision for the apps in the ecosystem."* - Anton Khvorov, CEO of Nova Wallet & Nova Foundation
 
-## Cómo SubQuery ayudó a Nova Wallet
+## How SubQuery Helped Nova Wallet
 
-Nova Wallet depende de SubQuery para proporcionar datos para transacciones, historial de cuentas, y todos los tipos diferentes de eventos y recompensas por más de 50 diferentes parachains y contabilidad de Polkadot. Debido a su carácter rápido y flexible, SubQuery es un servicio básico que Nova ha integrado para proporcionar a sus usuarios una experiencia excepcional de usuario. Adicionalmente, el soporte avanzado del diccionario de SubQuery en cada parachain permite tiempos de sincronización extremadamente rápidos y iteraciones de desarrollo más rápidas.
+Nova Wallet depends on SubQuery to provide data for transactions, account history, and all different types of staking events and rewards for over 50 different Polkadot parachains and counting. Due to its fast and flexible nature, SubQuery is a core service that Nova have embraced to provide their users with an exceptional user experience. Additionally, SubQuery's advanced dictionary support on each parachain allows extremely rapid sync times and faster development iterations.
 
-> *"SubQuery proporciona un servicio alojado robusto y confiable que ha demostrado su eficacia en la producción para miles de usuarios de Nova Wallet. A partir de nuestra experiencia SubQuery contribuye idealmente al objetivo de Nova Wallet para ser la aplicación móvil premium para el ecosistema Polkadot & Kusama"* - Ruslan Rezin, CTO de Nova Wallet & Fundación Nova
+> *"SubQuery provides robust and reliable hosted service which has proven itself in production for thousands of Nova Wallet users. From our experience, SubQuery contributes ideally to the Nova Wallet goal to be the premium mobile application for Polkadot & Kusama ecosystem"* - Ruslan Rezin, CTO of Nova Wallet & Nova Foundation
 
-## Los resultados
+## The Results
 
-En la misión de Nova Wallet de convertirse en la cartera más confiable de Polkadot, una herramienta abierta y universal como SubQuery fue invaluable para permitirles acelerar junto a cada nuevo despliegue de parachain Kusama y Polkadot. Nova es un usuario clave del enrutamiento inteligente de SubQuery que enlaza dinámicamente la solicitud de un usuario al clúster de SubQuery más cercano, resultando en una mayor fiabilidad y un rendimiento superior que cualquier otra opción en el mercado. Con la ayuda de SubQuery, Nova puede arrancar una fuente de datos para cualquier red que proporcione la API para el historial de operaciones, Transferencias basadas en balances/activos/palets ORML, Análisis de toma basado en palets de staking/parachainStaking en menos de 10 minutos
+On Nova Wallet's mission to become the most trusted wallet within Polkadot, an open and universal tool like SubQuery was invaluable to allow them to accelerate alongside each new Kusama and Polkadot parachain rollout. Nova are a key user of SubQuery's intelligent routing which dynamically routes a user's request to the nearest SubQuery cluster resulting in higher reliability and superior performance than any other option on the market. With the help of SubQuery, Nova can bootstrap a datasource for any network that provides API for Operation history, Transfers based on balances/assets/ORML pallets, Staking analytics based on staking/parachainStaking pallets in less than 10 minutes
 
-Nova Wallet se enorgullece de tener las características únicas que pueden ofrecer a continuación en su aplicación, acreditando a SubQuery como la herramienta instrumental de datos que les permite hacerlo:
+Nova Wallet are proud to boast the below unique features they can offer in their application, crediting SubQuery as the instrumental data tool which allows them to do so:
 
-1.  Historial de transferencias para cualquier recurso
-2.  Historial de recompensas
-3.  Recompensas de staking total
-4.  Otras operaciones del historial de cuentas del usuario (voto de gobernanza, swaps, operaciones de administración de apuestas, etc.)
-5.  Planes para ir más allá con transferencias cruzadas en su próximo hito
+1.  Transfer history for any asset
+2.  Staking rewards history
+3.  Total staking rewards
+4.  Other operations of user's account history (governance voting, swaps, staking management operations, etc)
+5.  Plans to go beyond with cross-chain transfers in their next milestone
 
-> *"Llevamos casi un año trabajando con el equipo de SubQuery y Nova Wallet ha aprovechado la infraestructura de SubQuery a través de muchas características, como el historial de operaciones para los activos Polkadot y parachain, staking data & analytics. El equipo de Nova Wallet está deseando continuar nuestro viaje junto con el equipo de SubQuery en la construcción de la aplicación móvil más avanzada y de alta calidad para el ecosistema Polkadot y Kusama.* - Anton Khvorov, CEO de Nova Wallet & Nova Foundation
+> *"We have been working with the SubQuery team for almost a year now, and Nova Wallet has taken advantage of SubQuery infrastructure across many features, such as operations history for the Polkadot and parachain assets, staking data & analytics. The Nova Wallet team is looking forward to continue our journey together with the SubQuery team in building the most advanced and high-quality mobile app for the Polkadot and Kusama ecosystem."* - Anton Khvorov, CEO of Nova Wallet & Nova Foundation
 
-## Recursos clave
+## Key Resources
 
-Documentación del desarrollador de SubQuery:[https://university.subquery.network](https://university.subquery.network/)
+SubQuery Developer documentation: [https://university.subquery.network](https://university.subquery.network/)
 
-Nova Wallet gestiona más de 50 proyectos en el [SubQuery Explorer](https://explorer.subquery.network/) disponible para el público para su uso y adaptación. Puedes buscar 'Nova' para ver una lista de proyectos listos e indexados en la mayoría de las redes que te permitirán comenzar más rápido al construir tu propia aplicación.
+Nova Wallet run over 50 projects in the [SubQuery Explorer](https://explorer.subquery.network/) available for the public to use and adapt. You can search for 'Nova' to see a list of ready-made and indexed projects across most networks that will allow you to get started faster when building your own app.
 
-Ejemplo de proyectos de subquery en la wallet Nova:
+Example Nova Wallet SubQuery projects:
 
-- Polkadot:[https://explorer.subquery.network/subquery/nova-wallet/nova-polkadot](https://explorer.subquery.network/subquery/nova-wallet/nova-polkadot)
-- Moonbeam:[https://explorer.subquery.network/subquery/nova-wallet/nova-wallet-moonbeam](https://explorer.subquery.network/subquery/nova-wallet/nova-wallet-moonbeam)
-- Acala:[https://explorer.subquery.network/subquery/nova-wallet/nova-wallet-acala](https://explorer.subquery.network/subquery/nova-wallet/nova-wallet-acala)
-- Astar:[https://explorer.subquery.network/subquery/nova-wallet/nova-wallet-astar](https://explorer.subquery.network/subquery/nova-wallet/nova-wallet-astar)
+- Polkadot: [https://explorer.subquery.network/subquery/nova-wallet/nova-polkadot](https://explorer.subquery.network/subquery/nova-wallet/nova-polkadot)
+- Moonbeam: [https://explorer.subquery.network/subquery/nova-wallet/nova-wallet-moonbeam](https://explorer.subquery.network/subquery/nova-wallet/nova-wallet-moonbeam)
+- Acala: [https://explorer.subquery.network/subquery/nova-wallet/nova-wallet-acala](https://explorer.subquery.network/subquery/nova-wallet/nova-wallet-acala)
+- Astar: [https://explorer.subquery.network/subquery/nova-wallet/nova-wallet-astar](https://explorer.subquery.network/subquery/nova-wallet/nova-wallet-astar)
 
-Sitio web de Nova wallet: [https://novawallet.io/](https://novawallet.io/)
+Nova Wallet Website: [https://novawallet.io/](https://novawallet.io/)
 
-Entrevista al cliente de Nova Wallet:
+Nova Wallet Customer Interview:
 
-<iframe width="680" height="382" src="https://www.youtube.com/embed/D4B8oVvmgLw" title="Vista previa de YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="680" height="382" src="https://www.youtube.com/embed/D4B8oVvmgLw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Acerca de SubQuery
+## About SubQuery
 
-[SubQuery](https://subquery.network/)es el conjunto de herramientas de indexación de datos Universal que facilita la construcción de aplicaciones Web3 del futuro. Un proyecto de SubQuery es una completa API para organizar y consultar los datos de las cadenas de capa-1. Actualmente, sirviendo a proyectos de Polkadot, Substrate, Avalanche, Terra y Cosmos (empezando con Juno), este servicio de datos permite a los desarrolladores enfocarse en su caso de uso principal y front-end sin perder tiempo creando un back-end personalizado para actividades de procesamiento de datos. En el futuro, la Red SubQuery pretende replicar esta solución escalable y confiable de manera completamente descentralizada.
+[SubQuery](https://subquery.network/) is the Universal data indexing toolkit facilitating the construction of Web3 applications of the future. A SubQuery project is a complete API to organise and query data from Layer-1 chains. Currently servicing Polkadot, Substrate, Avalanche, Terra, and Cosmos (starting with Juno) projects, this data-as-a-service allows developers to focus on their core use case and front-end without wasting time building a custom backend for data processing activities. In the future, the SubQuery Network intends to replicate this scalable and reliable solution in a completely decentralised manner.
 
-[Linktree](https://linktr.ee/subquerynetwork) | [Sitio web](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
