@@ -2,91 +2,91 @@
 
 ![](https://miro.medium.com/max/1400/0*29dsUJbyIb34mYkF)
 
-Desde el desafortunado colapso del ecosistema Terra/Luna Hemos estado hablando con otros ecosistemas en el Cosmos (intencionado) y hemos encontrado nuestro primer hogar en[Juno](https://www.junonetwork.io/). Hemos estado adaptando nuestro soporte Terra original detrás de las escenas y probándolo con socios clave para el lanzamiento del desarrollo. Estamos orgullosos de ofrecer nuestro apoyo más amplio para Cosmos con nuestra primera implementación específica para Juno, en este artículo compartimos una guía detallada de desarrolladores y un mapa de ruta para que toda la comunidad Cosmos pueda utilizar para resolver sus necesidades de indexación de datos.
+Ever since the unfortunate collapse of the Terra/Luna ecosystem, we've been talking to other ecosystems in the Cosmos (pun intended) and have found our first home in [Juno](https://www.junonetwork.io/). We've been adapting our original Terra support behind the scenes and testing it with key development launch partners. We are proud to release our wider support for Cosmos with our first implementation specific to Juno, in this article we share a detailed developer guide and roadmap for all of the Cosmos community to use to solve their data indexing needs.
 
-SubQuery es un indexador de datos abierto, flexible y rápido. Nuestra herramienta de indexación abierta está diseñada para ayudar a los desarrolladores a construir su propia API en horas, y está diseñada para indexar cadenas increíblemente rápido con la ayuda de diccionarios (índices precalculados). Nuestra experiencia con clientes a través de todos los verticales en Polkadot y Avalanche (carteras, redes, exploradores, NFT, DeFi, escánners, etc) nos ha ayudado a construir esto.
+SubQuery is an open data indexer that is flexible and fast. Our open indexing tool is designed to help developers build their own API in hours, and it's designed to index chains incredibly quickly with the assistance of dictionaries (pre-computed indices). Our experience with customers across all verticals in Polkadot and Avalanche (wallets, networks, explorers, NFT, DeFi, scanners, etc) has helped us build this.
 
-Esto todavía está en sus versiones iniciales, y mientras que lo consideramos mucho más allá de una "beta", le agradeceríamos que nos informara de algún error a nuestro equipo para que podamos resolverlo rápidamente.
+This is still in its early versions, and while we consider it far beyond a "beta", we would appreciate it if any bugs can be reported to our team so we can address them quickly.
 
-## ¿Por qué usar SubQuery?
+## Why Use SubQuery?
 
-El ecosistema de aplicaciones ha emocionado en Cosmos a pesar de que existe una grave falta de algunas herramientas clave para desarrolladores y servicios de infraestructura. En la mayoría de los casos, cuando preguntamos a los equipos cómo resolvieron sus necesidades de indexación de datos, fue:
+The application ecosystem has thrived in Cosmos even though there is a serious lack of some key developer tools and infrastructure services. In most cases when we asked teams how they solved their data indexing needs, it was:
 
-- **Construya su propia solución:** Una implementación personalizada construida por usted mismo específicamente para su aplicación. Pero, ¿por qué reinventar la rueda? SubQuery se centra en construir un indexador abierto fiable y rápido --- estamos aquí para ahorrarte tiempo
-- **Diseñar contratos inteligentes para consultas:**Algunos equipos incluso están implementando rarezas personalizadas en sus contratos inteligentes para permitir específicamente consultas más avanzadas específicas a la lógica de su aplicación.
+- **Build your own solution:** A custom implementation running by yourself built specifically for your app. But why reinvent the wheel? SubQuery is focusing on building a reliable and fast open indexer --- we're here to save you time
+- **Designing smart contracts for queries:** Some teams are even implementing custom quirks in their smart contracts to specifically allow for more advanced queries specific to their application logic.
 
-En SubQuery tenemos un SDK de código abierto que es fácil de usar y rápido como un rayo. Le proporciona un punto final GraphQL estándar, o puede consultar directamente la base de datos Postgres. Con él puedes indexar un conjunto único de datos de tus propios contratos inteligentes que te permiten construir un producto superior que haga volar a tu competencia! Le damos flexibilidad para que obtenga los datos que necesita en la forma que más le convenga.
+At SubQuery we have an open-source SDK that is easy to use and lightning quick. It provides you with a standard GraphQL endpoint, or you can just query the postgres database directly. With it you can index a unique set of data from your own smart contracts that allows you to build a superior product that blows your competition out of the water! We give you flexibility to get the data that you need in the shape that works best for you.
 
-La fiabilidad es la clave, y necesitas una plataforma fiable y escalable para alojarla. [El servicio gestionado de SubQuery](https://subquery.network/managedservices) es una solución de alojamiento líder en la industria para todos los clientes que está sirviendo cientos de millones de peticiones diarias a los mayores proyectos de Polkadot. Proporcionamos a nuestros [clientes de nivel empresarial](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) servicios como bases de datos dedicadas, clústeres redundantes, enrutamiento inteligente de varios clústeres y supervisión y análisis avanzados. Apoyará su aplicación cuando esté listo y escalará con usted.
+Reliability is key, and you need a reliable and scalable platform to host it. [SubQuery's managed service](https://subquery.network/managedservices) is an industry leading hosting solution for all customers that is serving hundreds of millions of daily requests to the biggest projects in Polkadot. We provide our [enterprise level customers](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) with services such as dedicated databases, redundant clusters, intelligent multi-cluster routing, and advanced monitoring and analytics. It will support your application when you are ready and will scale with you.
 
-Y por último, dentro de unos meses podrá descentralizar completamente su infraestructura SubQuery con la Red SubQuery, el futuro de la infraestructura Web3. La Red SubQuery indexará y servirá los datos de sus proyectos a la comunidad mundial de forma incentivada y verificable. Está diseñado para apoyar cualquier proyecto de SubQuery desde cualquier red de capas 1, incluyendo Cosmos, para que pueda aprovechar la escala de SubQuery Network unificada desde el lanzamiento.
+And finally, in a few months you'll be able to completely decentralise your SubQuery infrastructure with the SubQuery Network, the future of Web3 infrastructure. The SubQuery Network will index and service your projects data to the global community in an incentivised and verifiable way. It is designed to support any SubQuery project from any layer-1 network including Cosmos, so you can take advantage of the scale of the unified SubQuery Network from launch.
 
-## Comenzando
+## Getting Started
 
-La mejor manera es comenzar con[nuestro proyecto inicial](https://github.com/subquery/juno-subql-starter)que contiene un proyecto en ejecución con un ejemplo de todas las funciones de mapeo. Necesitarás instalar una versión reciente de`@subql/cli`vía`npm i -g @subql/cli@latest`.
+The best way is to start with [our starter project](https://github.com/subquery/juno-subql-starter) which contains a running project with an example of all mapping functions. You'll need to install a recent version of `@subql/cli` via `npm i -g @subql/cli@latest`.
 
-Si no desea ver un ejemplo de lavabo de cocina, usted puede seguir una guía paso a paso sobre cómo crear un ejemplo del mundo real. Sigue nuestro[tutorial de inicio rápido](https://doc.subquery.network/quickstart/quickstart-cosmos.html)para ver cómo indexar todos los votos del Fondo de Desarrollo de Terra en la red de Juno en menos de 15 minutos.
+If you don't want to see a kitchen sink example, you can follow a step by step guide on how to create a real world example. Follow our [quick start tutorial](https://doc.subquery.network/quickstart/quickstart-cosmos.html) to see how to index all Terra Development Fund votes on the Juno network in less than 15 minutes.
 
-Con la integración de SubQuery's Comos, podemos indexar lo siguiente:
+With SubQuery's Comos integration, we can index the following:
 
-- BlockHandler: Todos los bloques y su hash y altura
-- TransactionHandler: Todas las transacciones y su hash, altura y marca de tiempo
-- EventHandler: Todos los eventos de transferencia de contratos inteligentes y su hash, altura, remitente, destinatario y cantidad, esto puede ser filtrado a un contrato inteligente específico
-- MessageHandler: Todos los mensajes de contrato inteligente y sus datos de hash, altura, contrato, remitente y execute_msg, esto puede ser filtrado a un contrato inteligente específico
+- BlockHandler: All blocks and their hash and height
+- TransactionHandler: All transactions and their hash, height, and timestamp
+- EventHandler: All smart contract transfer events and their hash, height, sender, recipient, and amount, this can be filtered to a specific smart contract
+- MessageHandler: All smart contract messages and their hash, height, contract, sender, and execute_msg data, this can be filtered to a specific smart contract
 
-SubQuery soporta indexar los contratos inteligentes de Juno tanto con las suscripciones de transacciones y mensajes como con los manejadores. Puede ver un ejemplo funcional de soporte para Contratos Inteligentes en el[proyecto inicial](https://github.com/subquery/juno-subql-starter)y leer la documentación en la[documentación de SubQuery](http://doc.subquery.network/build/manifest.html#mapping-handlers-and-filters).
+SubQuery supports indexing Juno's smart contracts with both transaction and message subscriptions and handlers. You can see a working example of Smart Contract support in the [starter project](https://github.com/subquery/juno-subql-starter) and read the documentation on the [SubQuery Documentation](http://doc.subquery.network/build/manifest.html#mapping-handlers-and-filters).
 
-La implementación de Cosmos de SubQuery ha sido diseñada para funcionar de forma casi idéntica al soporte de Polkadot de SubQuery, y de forma similar al enfoque de Graph. Hemos actualizado la [Documentación de SubQuery](https://doc.subquery.network/) para añadir información específica de Cosmos a la documentación general de SubQuery. Puedes empezar siguiendo esta [excelente guía de inicio aquí](https://doc.subquery.network/quickstart/quickstart-cosmos.html).
+SubQuery's Cosmos implementation has been designed to operate almost identically to SubQuery's Polkadot support, and in a similar way to the Graph's approach. We've updated the [SubQuery Documentation](https://doc.subquery.network/) to add Cosmos specific information to the general SubQuery documentation. You can start by following this [excellent getting started guide here](https://doc.subquery.network/quickstart/quickstart-cosmos.html).
 
-## Nuestro soporte de Cosmos
+## Our Cosmos Support
 
-Como parte de nuestras ambiciones multicadena, estamos planeando apoyar todo el ecosistema de Cosmos a largo plazo. Nuestra primera implementación comienza específicamente con Juno, donde hemos completado la mayor parte de nuestras pruebas y estamos seguros de que esto funciona.
+As part of our multi-chain ambitions, we are planning to support the entire Cosmos ecosystem in the long term. Our first implementation starts specifically with Juno where we have completed most of our testing and are confident that this works.
 
-Sin embargo, estamos seguros de que esta implementación de SubQuery debería funcionar sin problemas con la mayoría de las otras cadenas de Cosmos que implementan CosmWasm. Mientras que la compatibilidad de SubQuery con Cosmos comienza con [Juno](https://www.junonetwork.io/), el servicio debería funcionar con [Cronos](https://cronos.org/), [OKExChain](https://www.okex.com/), [Osmosis](https://osmosis.zone/), [Secret Network](https://scrt.network/), [Stargaze](https://stargaze.zone/) y [Injective](https://injective.com/). Además, hemos probado con éxito esto en CosmosHub, todo lo que necesitas hacer es añadir un nodo de archivo no podado e importar los mensajes protobuf correctos en el [project.yaml](https://github.com/subquery/juno-subql-starter/blob/a177837a36c86fda8fb2bdbd7a83bb408c89d4bd/project.yaml#L24).
+However, we are confident that this SubQuery implementation should work seamlessly with most other Cosmos chains that implement CosmWasm. While SubQuery's Cosmos support begins with [Juno](https://www.junonetwork.io/), the service should work with [Cronos](https://cronos.org/), [OKExChain](https://www.okex.com/), [Osmosis](https://osmosis.zone/), [Secret Network](https://scrt.network/), [Stargaze](https://stargaze.zone/), and [Injective](https://injective.com/). We have additionally successfully tested this on CosmosHub, all you need to do is add a non-pruned archive node endpoint and import correct protobuf messages in the [project.yaml](https://github.com/subquery/juno-subql-starter/blob/a177837a36c86fda8fb2bdbd7a83bb408c89d4bd/project.yaml#L24).
 
-## Despliegue de su proyecto en el servicio gestionado de SubQuery
+## Deploying your Project to SubQuery's Managed Service
 
-Aunque siempre podrás ejecutar tu proyecto en tu propia infraestructura fácilmente, el servicio gestionado de [SubQuery](https://subquery.network/managedservices) soporta ahora proyectos Cosmos. Algunos de los mayores proyectos dependen del servicio gestionado de [nivel empresarial](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) de SubQuery y ahora usted también puede hacerlo. Como parte de nuestro acuerdo de socio de lanzamiento, le proporcionamos 3 meses de alojamiento gratuito.
+Although you will always be able to run your project in your own infrastructure easily, [SubQuery's managed service](https://subquery.network/managedservices) now supports Cosmos projects. Some of the biggest projects depend on SubQuery's [enterprise level](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) managed service and now you can too. As part of our launch partner agreement, we are providing you with 3 months free hosting.
 
-Puedes [seguir la guía aquí](https://doc.subquery.network/run_publish/publish.html) para publicar tu proyecto Cosmos SubQuery en nuestro servicio gestionado. Tenga en cuenta que debe alojar su proyecto [SubQuery utilizando IPFS](https://university.subquery.network/run_publish/publish.html) en lugar de GitHub.
+You can [follow the guide here](https://doc.subquery.network/run_publish/publish.html) to publish your Cosmos SubQuery project to our managed service. Please note that you must host your [SubQuery project using IPFS](https://university.subquery.network/run_publish/publish.html) rather than GitHub.
 
-Puedes actualizar tu proyecto de servicios gestionados tanto como quieras. Incluso disponemos de una ranura de despliegue [de etapas](https://blog.subquery.network/blogs/20210604-Deployment-Slots-are-here-for-SubQuery-Projects.html) para permitirle realizar actualizaciones azules/verdes sin ningún tiempo de inactividad. Esta ranura de puesta en escena también se puede utilizar para ejecutar una instancia limpia de SubQuery con una base de datos fresca para la reindexación completa de fondo de su proyecto. Los clientes suelen vincular la ranura de preparación a las versiones de preparación/desarrollo de sus aplicaciones.
+You can update your managed service project as much as you want. We even have a [staging deployment slot](https://blog.subquery.network/blogs/20210604-Deployment-Slots-are-here-for-SubQuery-Projects.html) to allow you to do seamless blue/green upgrades without any downtime. This staging slot can also be used to run a clean instance of SubQuery with a fresh database for complete background reindexing of your project. Customers usually link the staging slot to the staging/development versions of their applications.
 
-Una vez desplegado, puede acceder a su proyecto utilizando el Explorador de SubQuery, y hacer peticiones directamente desde su aplicación al punto final GraphQL proporcionado. Háganos saber si desea que habilitemos características más avanzadas como [suscripciones a GraphQL](https://university.subquery.network/run_publish/subscription.html), consultas más complejas y [funciones de agregación](https://university.subquery.network/run_publish/aggregate.html).
+Once deployed, you can access your project using the SubQuery Explorer, and make requests directly from your app to the provided GraphQL endpoint. Let us know if you would like us to enable more advanced features like [GraphQL subscriptions](https://university.subquery.network/run_publish/subscription.html), more complex queries, and [aggregation functions](https://university.subquery.network/run_publish/aggregate.html).
 
-Por favor, notifíquenos una vez que haya desplegado su proyecto, ya que es posible que tengamos que ayudarle a ajustar el tamaño del lote para garantizar que nuestro nodo de archivo Juno funcione bien para su proyecto.
+Please notify us once you have deployed your project as we may need to assist with fine tuning the batch size to ensure that our Juno archive node runs well for your project.
 
-## Resúmen
+## Summary
 
-Hoy compartimos lo siguiente:
+Today we are sharing the following:
 
-- Indexación avanzada de bloques, evento
-- Soporte completo para Cosmos en nuestro servicio gestionado gratuito de [nivel empresarial](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html)
-- Documentación intuitiva en la [Documentación de SubQuery](https://doc.subquery.network/)
+- Advanced Indexing of blocks, event
+- Full support for Cosmos in our free [enterprise level](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) managed service
+- Intuitive documentation in the [SubQuery Documentation](https://doc.subquery.network/)
 
-En las próximas semanas puedes esperar:
+In the coming weeks you can expect:
 
-- Diccionario Cosmos: Índices precalculados para [reducir drásticamente el tiempo de indexación](https://blog.subquery.network/blogs/20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.html)
-- Un curso de aprendizaje paso a paso en la [Academia SubQuery](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html)
-- Soporte completo para Cosmos en nuestra red descentralizada SubQuery (pronto verá un proyecto en nuestra actual red de prueba Frontier)
+- Cosmos Dictionary: Pre-computed indices to [dramatically reduce indexing time](https://blog.subquery.network/blogs/20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.html)
+- A step by step learning course in the [SubQuery Academy](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html)
+- Full support for Cosmos in our decentralised SubQuery Network (you'll soon see a project in our current Frontier test network)
 
 ---
 
-El lanzamiento de nuestro soporte beta significa que SubQuery proporciona soporte multicadena para tres líderes de la capa 1 que se centran en el enfoque multicadena (Polkadot, Avalanche y Cosmos). Estamos deseosos de recibir comentarios de la comunidad para mejorar nuestra oferta y aumentar nuestra visibilidad como socio de infraestructura de confianza para una de las comunidades de desarrolladores de más rápido crecimiento en Web3
+The launch of our beta support means SubQuery provides multi-chain support for three leading layer-1's focusing on the multi-chain approach (Polkadot, Avalanche, and Cosmos). We are eager to get feedback from the community in order to improve our offering and increase our visibility as a trusted infrastructure partner for one of the fastest growing developer communities in Web3
 
 *James Bayly*
 
 ## Links
 
-- [Guía de Comienzo](https://doc.subquery.network/quickstart/quickstart-cosmos.html)
-- [SubQuery University (Documentación)](https://doc.subquery.network/)
-- [Ejemplo de Cosmos (Juno) Proyecto --- Ejemplo de Kitchen sink](https://github.com/subquery/juno-subql-starter)
-- [Ejemplo de Cosmos (Juno) Proyecto --- votos del fondo de desarrollo Terra](https://github.com/jamesbayly/juno-terra-developer-fund-votes)
-- [Gestionar los servicios](https://explorer.subquery.network/)
-- [Publica tu propio Proyecto Cosmos al Servicio Administrado](https://project.subquery.network/)
+- [Getting Started Guide](https://doc.subquery.network/quickstart/quickstart-cosmos.html)
+- [SubQuery University (Documentation)](https://doc.subquery.network/)
+- [Example Cosmos (Juno) Project --- Kitchen sink example](https://github.com/subquery/juno-subql-starter)
+- [Example Cosmos (Juno) Project --- Terra development fund votes](https://github.com/jamesbayly/juno-terra-developer-fund-votes)
+- [Managed Service](https://explorer.subquery.network/)
+- [Publish your own Cosmos Project to the Managed Service](https://project.subquery.network/)
 
-## Acerca de SubQuery
+## About SubQuery
 
-[SubQuery](https://subquery.network/) es un conjunto de herramientas para desarrolladores de blockchain que permite a otros crear aplicaciones Web3 del futuro. Un proyecto de SubQuery es una completa API para organizar y consultar los datos de las cadenas de capa-1. Actualmente prestando servicios a proyectos de Polkadot, Substrate, Avalanche y ahora Cosmos, estos datos como servicio permiten a los desarrolladores centrarse en su caso de uso principal y front-end, sin necesidad de perder tiempo en la creación de un back-end personalizado para el procesamiento de datos. La Red SubQuery propone hacer posible esta misma solución escalable y fiable, pero de forma totalmente descentralizada.
+[SubQuery](https://subquery.network/) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot, Substrate, Avalanche, and now Cosmos projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
-[Linktree](https://linktr.ee/subquerynetwork) | [Sitio web](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
