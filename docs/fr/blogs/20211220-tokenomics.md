@@ -20,7 +20,7 @@ En pratique, cela signifie que SubQuery est destiné à fonctionner comme un mar
 
 SubQuery disposera d'une réserve fixe de 10 milliards de SQT qui seront alloués de la manière suivante.
 
-![](https://miro.medium.com/max/1400/0*eG2TM3J0NZDaT14m)
+![](https://miro.medium.com/max/1400/1*VbX3nkFhGUc6QUXWzFw6ug.png)
 
 Depuis le début, SubQuery s'est concentré sur la création de valeur au sein de notre communauté et nous souhaitons poursuivre dans cette voie en attribuant la plus grande partie des jetons (41%) à la Communauté et à la Fondation SubQuery.
 
@@ -32,15 +32,19 @@ Pour la vente publique, qui devrait avoir lieu en mars 2022, nous avons alloué 
 
 Enfin, l'équipe SubQuery et les partenaires de lancement se sont vus attribuer 20 % des jetons en échange de leur contribution à la construction et à la promotion du projet.
 
+**UPDATE — June 2022**
+
+Note the splits between the token allocations for Community and Public Sale as well as between Rounds 1 and 2 have changed slightly since we first published it here in December 2021.Specifically the allocation towards the Public Sale reduced from 12% to 9.1% with the balance moved to the Foundation and Community to help promote and sustain the growth of the SubQuery Network. This is conditioned by us optimising the structure of the public sale due to various factors including current market conditions. [No other areas were changed. The updated version is located in the sale guide](https://medium.com/@subquery/subquery-publishes-the-sqt-public-sale-date-and-sale-guide-64b8aff10882).
+
 ## Calendrier d'acquisition des jetons
 
-L'allocation de jetons n'est rien en soi si l'on ne comprend pas la manière dont les jetons sont distribués aux détenteurs respectifs. Le graphique ci-dessous illustre la libération des jetons SQT à chaque participant au fil du temps, pour aboutir à la circulation complète des jetons 5 ans (60 mois) après le lancement.
+The token allocation by itself is nothing without understanding the way in which the tokens are distributed to the relative holders. The graphic below illustrates the release of the SQT tokens to each participant over time culminating in the full circulation of tokens occurring 5 years (60 months) after launch.
 
 ![](https://miro.medium.com/max/1400/0*mfIBkH4SjFZgGuIq)
 
-Nous avons soigneusement réfléchi au calendrier d'acquisition de chaque participant afin de créer une valeur à long terme pour le projet et de susciter la confiance des détenteurs de jetons. Le plus important est peut-être que l'équipe centrale disposera d'une période de blocage de 24 mois, tandis que certains participants à la vente publique pourront utiliser librement l'utilité de leur jeton dès le lancement.
+We have thought carefully about the vesting schedules for each participant in order to create long-term value for the project and generate confidence to token-holders. Perhaps most significantly, the core team will have a 24 month lock-up period while some Public Sale participants can freely use the utility of their token upon launch.
 
-La répartition de chaque détenteur est la suivante et est susceptible d'être modifiée :
+The breakdown of each holder is as follows and is subject to change:
 
 - Les**partenaires de l'équipe et du lancement** sont verrouillés pendant 24 mois et sont acquis au cours des 24 mois suivants.
 - Les**investisseurs d'amorçage** sont bloqués pendant 12 mois et sont acquis au cours des 24 mois suivants.
@@ -49,16 +53,16 @@ La répartition de chaque détenteur est la suivante et est susceptible d'être 
 - Les participants au**premier tour de la vente publique** auront une période de blocage de 12 mois. Les indexeurs et autres participants clés du réseau auront une partie de leur allocation disponible pour être débloquée immédiatement afin de s'assurer qu'ils peuvent démarrer le réseau. Les participants à ce tour seront inscrits sur une liste blanche et auront une allocation garantie.
 - Les participants au**deuxième tour de la vente publique** n'ont pas de période de blocage. Ce tour est ouvert à tous les utilisateurs qui satisfont aux exigences de KYC sur la plateforme du launchpad. Ce tour est "premier arrivé, premier servi" avec une allocation minimale et maximale. À cet égard, nous cherchons à attirer un plus grand nombre de participants afin de rendre la distribution plus équitable. De plus amples informations à ce sujet pourront être fournies ultérieurement.
 
-Nous avons également pris des dispositions pour un airdrop rétrospectif aux communautés qui ont une importance stratégique pour notre réseau (comme les participants de testnet) ou comme un moyen d'attirer de nouveaux utilisateurs en dehors de notre écosystème actuel .
+We have also made provisions for a retrospective airdrop to communities that have strategic importance to our network (such as testnet participants) or as a means to attract new users outside of our current ecosystem..
 
-Les détails exacts concernant le moment et la manière dont le jeton SQT sera alloué et distribué sont encore en cours de finalisation et seront annoncés à l'approche de la vente publique. À ce stade, nous prévoyons que la distribution des jetons aux participants à la vente aura lieu lors du lancement du réseau principal. En d'autres termes, il y aura une période d'attente entre la vente et la distribution des jetons qui s'alignera sur la date de cotation des jetons.
+The exact details of when and how the SQT token will be allocated and distributed are still subject to finalisation, and will be announced closer to the public sale. At this stage, we anticipate that token distribution to the sale participants will take place with the launch of the mainnet. In other words, there will be a waiting period between the sale and token distribution which will align with the token listing date.
 
-Pour la cotation de SQT, nous prévoyons d'être disponibles sur les principales bourses décentralisées (DEX) et centralisées (CEX) afin de faciliter au maximum la participation de chacun au réseau SubQuery. Nous sommes impatients de vous voir tous nous rejoindre dans notre mission d'aider les développeurs à créer les applications décentralisées du futur.
+For the listing of SQT, we are planning to be available on key decentralised (DEX) and centralised exchanges (CEX) to make it as easy as possible for everyone to participate in the SubQuery Network. We are looking forward to you all joining us on our mission to help developers build the decentralised applications of the future.
 
 ## À propos du réseau SubQuery
 
-SubQuery est le principal fournisseur de données de Polkadot, qui prend en charge une couche d'indexation et d'interrogation entre les blockchains de la couche 1 (Polkadot) et les applications décentralisées. Le service de données de SubQuery est utilisé par la plupart des sites Web de crowdloan et de vente aux enchères parachain de Polkadot et de Kusama.
+SubQuery is Polkadot’s leading data provider, supporting an indexing & querying layer between Layer-1 blockchains (Polkadot) and decentralised applications. SubQuery’s data service is being used by most of the Polkadot and Kusama crowdloan and parachain auction websites live today.
 
-Le protocole de SubQuery fait abstraction des idiosyncrasies des données de la blockchain grâce au SDK de SubQuery, ce qui permet aux développeurs de se concentrer sur le déploiement de leur produit principal sans gaspiller inutilement leurs efforts sur des technologies dorsales personnalisées.
+SubQuery’s protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
 
-[Linktree](https://linktr.ee/subquerynetwork) | [Site Web](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+​​​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
