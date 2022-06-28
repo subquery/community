@@ -12,7 +12,7 @@ Daniel Bar, Core Contributor of Blockathon DAO added, "The *Blockathon is exhil
 
 In addition to running a workshop for the teams, all developers will receive all the tools, [documentation](https://doc.subquery.network/), developer support, free managed hosting, and other benefits that developers receive from the SubQuery ecosystem, including being eligible to apply for [SubQuery's Grants ](https://subquery.network/grants)upon completion of the programme.
 
-SubQuery's data indexing technology provides developers with the tools needed to easily organise, store, and query on-chain data for their protocol and applications. Tóm tắt phần backend, SubQuery loại bỏ nhu cầu về các máy chủ xử lý dữ liệu và cho phép các nhà phát triển tập trung vào phát triển sản phẩm và trải nghiệm người dùng hơn là xây dựng các giải pháp lập chỉ mục của riêng họ.
+SubQuery's data indexing technology provides developers with the tools needed to easily organise, store, and query on-chain data for their protocol and applications. Abstracting the backend, SubQuery eliminates the need for custom data processing servers and lets developers focus on product development and user experience rather than building their own indexing solutions.
 
 Blockathon was originally started in 2017 by the Bitfwd team as a series of Blockchain Hackathons and entrepreneurial education programs and events. In 2022 Blockathon was taken into the digital realm in order to scale the educational experiences and make them available to people from all walks of life and all regions of the world. Web3 users and enthusiasts around the globe are now welcome to join the online sections of the program with a chance to meaningfully contribute to cutting-edge Web3 projects early on.
 
@@ -20,14 +20,14 @@ Since its founding in 2021, SubQuery established itself as the leading data inde
 
 ## Giới thiệu về SubQuery
 
-[SubQuery](https://subquery.network/) là bộ công cụ dành cho nhà phát triển blockchain cho phép những người khác xây dựng các ứng dụng Web3 trong tương lai. Một dự án SubQuery là một API hoàn chỉnh để tổ chức và truy vấn dữ liệu từ các chuỗi layer 1. Hiện đang phục vụ các dự án Polkadot, Substrate, Avalanche và Terra, dữ liệu dưới dạng dịch vụ này cho phép các nhà phát triển tập trung vào phát triển cốt lõi sản phẩm và giao diện người dùng của họ mà không cần lãng phí thời gian vào việc xây dựng chương trình phụ trợ để xử lý dữ liệu. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+[SubQuery](https://subquery.network/) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from Layer-1 chains. Currently servicing Polkadot, Substrate, Avalanche and Terra projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
 
-## Giới thiệu về Blockathon DAO
+## About Blockathon DAO
 
 Blockathon DAO is a Learn-2-Earn program for daring individuals who aspire to shape the future of Web3 by reinventing how decentralised applications are built, contributed, and owned. By being a part of the program, anyone can build, contribute, and own Web3 innovation. Builders, creatives and entrepreneurs will now have an immersive series of events to bootstrap their Web3 projects. Web3 users and enthusiasts around the globe are welcome to join the online sections of the program with a chance to meaningfully contribute to cutting-edge Web3 projects early on.
 
-The Metaverse Blockathon is running now! Có một nhóm (hoặc muốn tham gia một nhóm?!) để hack Metaverse Future?! Register [here](https://forms.gle/CK62i8PPLUQ9LxTJ7) and join our next [community call](https://calendar.google.com/event?action=TEMPLATE&tmeid=YjZ0MDY1ODNoYnNqdTkzazYzZW5tZzJpOHMgdGVhbUBibG9ja2F0aG9uLnh5eg&tmsrc=team%40blockathon.xyz) for next steps!
+The Metaverse Blockathon is running now! Have a team (or want to join one?!) to hack the Metaverse Future?! Register [here](https://forms.gle/CK62i8PPLUQ9LxTJ7) and join our next [community call](https://calendar.google.com/event?action=TEMPLATE&tmeid=YjZ0MDY1ODNoYnNqdTkzazYzZW5tZzJpOHMgdGVhbUBibG9ja2F0aG9uLnh5eg&tmsrc=team%40blockathon.xyz) for next steps!
 
-[Website](https://blockathon.xyz/) | [Discord](https://discord.com/invite/gc5yvrEZyd) | [LinkedIn](https://www.linkedin.com/company/blockathon-dao/) | [Twitter](https://twitter.com/blockathon_dao)
+[Website](https://blockathon.xyz/) | [Discord](https://discord.com/invite/gc5yvrEZyd) | [LinkedIn](https://www.linkedin.com/company/blockathon-dao/) | [Twitter](https://twitter.com/blockathon_dao)
