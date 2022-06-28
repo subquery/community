@@ -1,12 +1,12 @@
-# SubQuery Appoints TokenSoft As Launch Partner for The SQT Public Sale
+# SubQuery nomina TokenSoft come partner di lancio per la vendita pubblica di SQT
 
 ![](https://miro.medium.com/max/1400/0*xDmQKP6rTqTXVpx6)
 
-SubQuery Network, the leading data indexing solution on Polkadot, is delighted to announce the selection of [TokenSoft](https://www.tokensoft.io/) as its official token sale launchpad partner. TokenSoft is recognised as one of the leading technology platforms for creating and managing digital assets.
+SubQuery Network, la soluzione leader nell'indicizzazione dei dati su Polkadot, è lieta di annunciare la scelta di [TokenSoft](https://www.tokensoft.io/) come partner ufficiale per la vendita di token. TokenSoft è riconosciuta come una delle principali piattaforme tecnologiche per la creazione e la gestione di asset digitali.
 
-Following [the announcement of The SubQuery Foundation](./20220617-foundation-launch.md) , one of the next priorities was to select a suitable launchpad for the token sale for our Public Sale. After careful due diligence, SubQuery selected TokenSoft's platform based on their outstanding technical expertise and [their track record of supporting projects participating in the Polkadot parachain auctions](https://blog.tokensoft.io/tokensoft-announces-support-for-polkadot-parachains-fbb0bf317125?gi=20d3d7c28f52).
+In seguito [all'annuncio della SubQuery Foundation](./20220617-foundation-launch.md), una delle priorità successive è stata quella di selezionare una piattaforma di lancio adeguata per la vendita dei token per la nostra vendita pubblica. Dopo un'attenta due diligence, SubQuery ha selezionato la piattaforma di TokenSoft sulla base della sua straordinaria competenza tecnica e [del suo track record di supporto ai progetti che partecipano alle aste di parachain Polkadot](https://blog.tokensoft.io/tokensoft-announces-support-for-polkadot-parachains-fbb0bf317125?gi=20d3d7c28f52).
 
-Simultaneously, [we recently launched the SubQuery Foundation's website](https://subquery.foundation/) that also hosts the [SQT Public Sale page](https://www.subquery.foundation/publicsale) with information about the sale.
+Contemporaneamente, [abbiamo recentemente lanciato il sito web della SubQuery Foundation](https://subquery.foundation/) che ospita anche la pagina [SQT Public Sale](https://www.subquery.foundation/publicsale) con informazioni sulla vendita.
 
 Sam Zou, the Founder and CEO of SubQuery remarked: *"SubQuery is excited to appoint TokenSoft as our partner for our token sale. One reason is that TokenSoft are renowned as a leader in asset tokenisation, but more importantly this partnership paves the way for our community to finally have a stake in the Web3 infrastructure of the SubQuery Network."*
 
