@@ -24,8 +24,8 @@ More than 95% of the students expressed they were very satisfied with the conten
 
 More information on future dates will be published in the [SubQuery Discord channel](https://discord.com/invite/78zg8aBSMG). In the meantime, you can [learn more about SubQuery and the Hero Course via the SubQuery Academy](https://subquery.coassemble.com/unlock/dOKZW6O#/).
 
-## Về SubQuery
+## Giới thiệu về SubQuery
 
-[SubQuery](https://subquery.network/) là bộ công cụ phát triển blockchain cho phép các nhà phát triển xây dựng các ứng dụng Web3 cho tương lai. Một dự án SubQuery là một API hoàn chỉnh để tổ chức và truy vấn dữ liệu từ các chuỗi layer 1. Hiện đang phục vụ các dự án Polkadot, Substrate, Avalanche và bây giờ là Cosmos, dữ liệu dưới dạng dịch vụ này cho phép các nhà phát triển tập trung vào phát triển cốt lõi sản phẩm và giao diện người dùng của họ mà không cần lãng phí thời gian vào việc xây dựng chương trình phụ trợ để xử lý dữ liệu. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+[SubQuery](https://subquery.network/) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot, Substrate, Avalanche, and now Cosmos projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
