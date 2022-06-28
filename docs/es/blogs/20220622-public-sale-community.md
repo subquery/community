@@ -1,30 +1,30 @@
-# SubQuery duplica los spots comunitarios en la venta pública de SQT
+# SubQuery Doubles Community Spots in SQT Public Sale
 
 ![](https://miro.medium.com/max/1400/1*Dmg-mX5E6jD6AnyUwGAF3Q.png)
 
-SubQuery es el conjunto de herramientas de indexación de datos Universal Web3. SubQuery permite a cualquiera indexar, transformar y consultar datos de blockchain para potenciar sus aplicaciones. Actualmente SubQuery es un servicio centralizado que pronto pasará a la Red de SubQuery Descentralizada asistida por una Venta Pública.
+SubQuery is the Universal Web3 data indexing toolkit. SubQuery enables anyone to index, transform, and query blockchain data to power their applications. Currently a centralised service, SubQuery will soon be transitioning to the decentralised SubQuery Network assisted by a Public Sale.
 
-Recientemente abrimos una[Expresión de Interés](./20220516-public-sale-eoi.md)para nuestra comunidad en la próxima[Venta pública de nuestro SubQuery Token](./20220620-public-sale-tokensoft.md)(SQT). SubQuery ya planea incluir claves en la lista blanca de colaboradores de la red para participar, pero aprovechó esta oportunidad para dar a nuestros primeros seguidores la oportunidad de asegurar su lugar en la venta.
+We recently opened an [Expression of Interest form](./20220516-public-sale-eoi.md) for our community in the upcoming [Public Sale of our SubQuery Token](./20220620-public-sale-tokensoft.md) (SQT). SubQuery already plans to whitelist key network contributors to participate, but used this opportunity to give our early followers a chance to secure their place in the sale.
 
-Nuestro objetivo es ofrecer a todos la oportunidad de participar. y queremos asegurarnos de que SQT está disponible para todos, el espacio es limitado. Para equilibrar estas necesidades a través del proceso de Expresión de Interés hemos reservado 1.000 puntos asignados en la Venta Pública que debían ser entregados a:
+While we aim to provide everyone with an opportunity to take part, and we want to ensure that SQT is available for all, space is limited. To balance these needs through the Expression of Interest process we reserved 1,000 allocated spots in the Public Sale that were to be given to:
 
-- Los primeros 500 solicitantes que rellenen correctamente el formulario de Expresión de Interés, y
-- 500 solicitantes seleccionados al azar que rellenen correctamente el formulario antes de la fecha límite.
+- The first 500 applicants that correctly fill in the Expression of Interest form, and
+- 500 randomly selected applicants that correctly fill in the form before the deadline.
 
-Después de haber sido abrumados por la respuesta, hemos decidido recompensar a nuestra comunidad duplicando nuestros 1.000 puntos asignados inicialmente a 2.000!.
+After being overwhelmed by the response, we have decided to reward our community by doubling our initial 1,000 allocated spots to 2,000!.
 
-Para los solicitantes que tuvieron la suerte de formar parte de este grupo, enviaremos un correo electrónico con instrucciones para los siguientes pasos pronto.
+For applicants who were lucky enough to be part of this group, we will be sending an email with instructions for the next steps soon.
 
-Todos los demás usuarios todavía pueden participar en la Ronda 2 de la Venta Pública, que estará abierto a todos sobre una base de "primer venido, primero servido".
+All other users are still able to participate in Round 2 of the Public Sale, which will be open to all on a "first come, first served" basis.
 
-Con el fin de participar en la Venta Pública de SQT, todas las partes interesadas, incluidos los usuarios de la lista blanca de la Expresión de Interés, debe registrarse en[la plataforma de TokenSoft](https://community.tokensoft.io/)y completar su proceso de know-your-customer (KYC) ([tokensoft. o](https://community.tokensoft.io/)). Hemos preparado un paseo paso a paso para el proceso KYC ---[por favor acceda aquí](https://sqt-guide.subquery.foundation/sqt-public-sale/).
+In order to participate in the SQT Public Sale, all interested parties, including the whitelisted users from the Expression of Interest, must register on [TokenSoft's platform](https://community.tokensoft.io/) and complete their know-your-customer (KYC) process ([tokensoft.io](https://community.tokensoft.io/)). We have prepared a step-by-step walkthrough for the KYC process --- [please access it here](https://sqt-guide.subquery.foundation/sqt-public-sale/).
 
-[Como se indica en el Whitepaper](https://static.subquery.network/whitepaper.pdf), SQT está destinado a ser el token que impulsa la Red SubQuery, proporcionando un incentivo para la participación, además de servir como medio de intercambio para las transacciones dentro de la Red SubQuery. En la práctica, esto significa que SubQuery Network pretende funcionar como un mercado de datos de blockchain en el que tanto los consumidores (compradores) como los indexadores (vendedores) pueden reunirse para intercambiar datos para SQT. El tercer participante en el modelo son los delegadores, que participan en la red apoyando a sus indexadores favoritos delegando en ellos sus fichas para obtener recompensas. SQT será el combustible de la revolución en la infraestructura de datos de Web3.
+[As outlined in the Whitepaper](https://static.subquery.network/whitepaper.pdf), SQT is intended to be the token that powers the SubQuery Network, providing an incentive for participation, as well as serving as a medium of exchange for transactions within the SubQuery Network. In practice, this means that SubQuery Network is intended to function as a blockchain data marketplace where both Consumers (buyers) and Indexers (sellers) can meet to exchange data for SQT. The third participant in the model are Delegators who participate in the network by supporting their favourite Indexers by delegating their tokens to them in order to earn rewards. SQT will be the fuel for revolution in Web3 data infrastructure.
 
-Pronto se publicará más información sobre la venta pública, incluyendo fechas de venta e información de precios de token. Para más detalles sobre los tokenomics de  SQT, [consulte este artículo](./20211220-tokenomics.md). Para cualquier información adicional o preguntas,[por favor contáctenos en Discord](https://discord.com/invite/SubQuery).
+More information about the public sale, including sale dates and token pricing information will be released soon. For details about the SQT tokenomics, [please refer to this article](./20211220-tokenomics.md). For any additional information or questions, [please contact us in Discord](https://discord.com/invite/SubQuery).
 
-## Acerca de SubQuery
+## About SubQuery
 
-[SubQuery](https://subquery.network/)es el conjunto de herramientas de indexación de datos Universal que facilita la construcción de aplicaciones Web3 del futuro. Un proyecto de SubQuery es una completa API para organizar y consultar los datos de las cadenas de capa-1. Actualmente, sirviendo a proyectos de Polkadot, Substrate, Avalanche, Terra y Cosmos (empezando con Juno), este servicio de datos permite a los desarrolladores enfocarse en su caso de uso principal y front-end sin perder tiempo creando un back-end personalizado para actividades de procesamiento de datos. En el futuro, la Red SubQuery pretende replicar esta solución escalable y confiable de manera completamente descentralizada.
+[SubQuery](https://subquery.network/) is the Universal data indexing toolkit facilitating the construction of Web3 applications of the future. A SubQuery project is a complete API to organise and query data from Layer-1 chains. Currently servicing Polkadot, Substrate, Avalanche, Terra, and Cosmos (starting with Juno) projects, this data-as-a-service allows developers to focus on their core use case and front-end without wasting time building a custom backend for data processing activities. In the future, the SubQuery Network intends to replicate this scalable and reliable solution in a completely decentralised manner.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/SubQuery) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
