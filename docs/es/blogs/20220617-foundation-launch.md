@@ -1,40 +1,40 @@
-# SubQuery crea la Fundación SubQuery para promover el crecimiento futuro de SubQuery Network
+# SubQuery Establishes The SubQuery Foundation to Promote Future Growth of the SubQuery Network
 
 ![](https://miro.medium.com/max/1400/0*vgDZcmnFz87If4rV)
 
-SubQuery Network, la solución de indexación de datos líder en Polkadot, se complace en anunciar el [lanzamiento de The SubQuery Foundation](https://www.subquery.foundation). La Fundación SubQuery se ha creado para gestionar y desarrollar la Red SubQuery y su ecosistema tras el lanzamiento de la red principal, que está a punto de pasar por la tercera y última fase de pruebas.
+SubQuery Network, the leading data indexing solution on Polkadot, is pleased to announce the [launch of The SubQuery Foundation](https://www.subquery.foundation). The SubQuery Foundation has been established to manage and develop the SubQuery Network and its ecosystem after the launch of the mainnet, which is about to undergo the third and the final phase of testing.
 
-La Fundación se ha creado para promover y proliferar el uso de la Red SubQuery y desarrollar su ecosistema y comunidad. La Fundación fomentará el crecimiento de la Red SubQuery y proporcionará apoyo a los usuarios y desarrolladores para que construyan sus propios proyectos SubQuery.
+The Foundation is set up to promote and proliferate the use of the SubQuery Network and to develop its ecosystem and community. The Foundation will foster the growth of the SubQuery Network and provide support for users and developers to build their own SubQuery Projects.
 
-En los próximos días lanzaremos más información en la web de la Fundación, que también albergará la página de [Venta Pública de SQT con guías y walkthroughs](https://www.subquery.foundation/publicsale).
+In the coming days we will be launching more information on Foundation's website, which will also host the [SQT Public Sale page with guides and walkthroughs](https://www.subquery.foundation/publicsale).
 
-Funciones clave de la Fundación SubQuery:
+Key Functions of the SubQuery Foundation:
 
-1. Promover SubQuery Network;
-2. Garantizar la sostenibilidad de SubQuery Network y gestionar la Tesorería de la Fundación;
-3. Gestionar los programas de grants para estimular el uso de la Red SubQuery;
-4. Desarrollar el ecosistema de socios y comunidad de usuarios de la Red SubQuery (incluidos los hackathons y el Programa de Embajadores);
-5. Impulsar programas educativos a través de la Academia; y
-6. Descentralizar la Red SubQuery.
+1. Promote the SubQuery Network;
+2. Ensure the SubQuery Network's sustainability and manage the Foundation's Treasury;
+3. Manage the grants programmes to stimulate the use of the SubQuery Network;
+4. Develop the SubQuery Network ecosystem of partners and user community (including hackathons and the Ambassador Programme);
+5. Drive educational programmes through the Academy ; and
+6. Decentralise the SubQuery Network.
 
-La formación de la Fundación SubQuery es el primer paso en el camino hacia la descentralización de la Red SubQuery y eventualmente evolucionar hacia una DAO, una vez que se alcance un grado suficiente de descentralización.
+The formation of the SubQuery Foundation is the first step in the journey towards decentralising the SubQuery Network and eventually evolve into a DAO, once a sufficient degree of decentralisation is achieved.
 
-La Fundación SubQuery estará a cargo del Consejo de SubQuery, que consta de 5 miembros, con un puesto adicional reservado para el Presidente. Al principio, los miembros del consejo se elegirán entre el equipo de SubQuery y 1-2 miembros clave de la comunidad. Después de la creación, en un momento adecuado cuando la comunidad sea lo suficientemente grande, el Consejo trabajará en una constitución preliminar que regirá la elección y la rotación de los miembros, y la división de los poderes, la gestión, etc. La Constitución será un documento público, diseñado para aportar claridad.
+The SubQuery Foundation will be looked after by the SubQuery Council that consists of 5 members, with an additional seat reserved for the Chair. At inception, the council members will be chosen from the SubQuery team with 1-2 key members from the community. Post inception, at a suitable time when the community is sufficiently large, the Council will work on a preliminary Constitution that will govern the election and rotation of members, and division of powers, management etc. The Constitution will be a public document, designed to provide clarity.
 
-Prevemos que los titulares de tokens SQT podrán informar a la Fundación SubQuery sobre su visión de la dirección general de SubQuery a medida que nuestra red incorpore cada vez más cualidades de una DAO. Como el panorama legal que rodea a la gobernanza de la blockchain está evolucionando, nos mantendremos atentos a cuál es la mejor estructura para evolucionar en la DAO. Nuestro objetivo final es implantar una gobernanza totalmente descentralizada en la cadena sobre la red y la tesorería, de una manera que cumpla con la ley y sea responsable.
+We envision that SQT token holders will be able to inform the SubQuery Foundation about their vision for the overall direction of SubQuery as our network increasingly incorporates qualities of a DAO. As the legal landscape surrounding blockchain governance is evolving, we will keep a keen lookout to what is the best structure to evolve into the DAO. Our ultimate aim is to implement fully decentralised on-chain governance over the network and treasury, in a manner that is legally compliant and responsible.
 
-## El camino hacia la descentralización
+## Path to Decentralisation
 
-A continuación se muestra una visualización de cómo imaginamos que se llevará a cabo la descentralización. El diseño exacto y el plan de ejecución serán desarrollados por la Fundación con las aportaciones de la comunidad.
+Below is a visualisation of how we envision the decentralisation to be achieved. The exact design and execution plan will be developed by the Foundation with the input from the community.
 
 ![](https://miro.medium.com/max/1400/0*ialARNew5hx2cFOl)
 
-Para más información o si tienes alguna duda, [ponte en contacto con nosotros en nuestro Discord](https://discord.com/invite/78zg8aBSMG).
+For further information or if you have any questions, [please contact us in our Discord](https://discord.com/invite/78zg8aBSMG).
 
-## Sobre SubQuery
+## About SubQuery
 
-[SubQuery](https://subquery.network/) es un conjunto de herramientas para desarrolladores de blockchain que permite a otros crear aplicaciones Web3 del futuro. Un proyecto de SubQuery es una completa API para organizar y consultar los datos de las cadenas de capa-1. Actualmente prestando servicios a proyectos de Polkadot, Substrate, Avalanche y ahora Cosmos, estos datos como servicio permiten a los desarrolladores centrarse en su caso de uso principal y front-end, sin necesidad de perder tiempo en la creación de un back-end personalizado para el procesamiento de datos. La Red SubQuery propone hacer posible esta misma solución escalable y fiable, pero de forma totalmente descentralizada.
+[SubQuery](https://subquery.network/) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from Layer-1 chains. Currently servicing Polkadot, Substrate, Avalanche, Terra, Cosmos (starting with Juno) projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
-[Linktree](https://linktr.ee/subquerynetwork) | [Sitio web](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
 
 6
