@@ -20,7 +20,7 @@ In the future we envision that holders of the SQT token will be able to inform t
 
 SubQuery will mint a fixed supply of 10 billion SQT which will be allocated in the following manner.
 
-![](https://miro.medium.com/max/1400/0*eG2TM3J0NZDaT14m)
+![](https://miro.medium.com/max/1400/1*VbX3nkFhGUc6QUXWzFw6ug.png)
 
 From the start, SubQuery has been focused on building value within our community and we aim to keep it that way by apportioning the largest allocation of tokens (41%) to the Community and SubQuery Foundation.
 
@@ -31,6 +31,10 @@ Our early investors in both our Seed and Series A rounds have a combined allocat
 For the Public Sale which we anticipate to be in March 2022, we have allocated 12% of token supply across at least two sequential rounds. The exact structure and timing of these rounds will be provided at a later date, however we will be providing guaranteed allocation for [key community members](./20210713-Introducing-the-SubQuery-Ambassador-Program.md) (e.g. Ambassadors, Spartans) and [network participants](./20211202-indexer-invitation.md) (e.g. test network participants and referenceable customers). Each category will have its own minimum and maximum allocation.
 
 Finally, the SubQuery Team and Launch Partners have been allocated 20% of the token supply in return for their contributions in building and promoting the project.
+
+**UPDATE — June 2022**
+
+Note the splits between the token allocations for Community and Public Sale as well as between Rounds 1 and 2 have changed slightly since we first published it here in December 2021.Specifically the allocation towards the Public Sale reduced from 12% to 9.1% with the balance moved to the Foundation and Community to help promote and sustain the growth of the SubQuery Network. This is conditioned by us optimising the structure of the public sale due to various factors including current market conditions. [No other areas were changed. The updated version is located in the sale guide](https://medium.com/@subquery/subquery-publishes-the-sqt-public-sale-date-and-sale-guide-64b8aff10882).
 
 ## Token Vesting Schedules
 
