@@ -1,38 +1,38 @@
-# SubQuery Launches Public Sale Whitelisting for Our Discord Community
+# SubQuery lancia la whitelist della vendita pubblica per la nostra comunità Discord
 
 ![](https://miro.medium.com/max/1400/1*FrNzobeJIrCSBtpna9QbAQ.png)
 
-SubQuery Network, the universal Web3 data indexing toolkit, is delighted to kick-off whitelisting of our Discord community members for [the upcoming SQT Public Sale](https://www.subquery.foundation/publicsale).
+SubQuery Network, il toolkit universale per l'indicizzazione dei dati Web3, è lieta di dare il via alla whitelist dei membri della nostra comunità Discord per [l'imminente SQT Public Sale](https://www.subquery.foundation/publicsale).
 
-We would like to recognise our Discord community members as critical participants in the SubQuery ecosystem. Your input into the development of our network and community is highly appreciated and we would love for you to continue being part of our journey. Hence, we are happy to let you know that we have reserved you a guaranteed allocation at the upcoming SQT Public Sale. We hope you will become an active network participant once we launch the mainnet of the SubQuery Network and help us bootstrap the network.
+Vorremmo riconoscere i membri della nostra comunità Discord come partecipanti fondamentali all'ecosistema SubQuery. Il vostro contributo allo sviluppo della nostra rete e della nostra comunità è molto apprezzato e ci piacerebbe che continuaste a far parte del nostro viaggio. Per questo motivo, siamo lieti di comunicarvi che vi abbiamo riservato un'assegnazione garantita alla prossima SQT Public Sale. Ci auguriamo che, una volta lanciata la mainnet della rete SubQuery, diventiate un partecipante attivo della rete e che ci aiutiate ad avviarla.
 
-The SubQuery Public Sale will consist of three rounds: the former will offer guaranteed allocation for our key community members and network participants. The second round will be open to all interested parties on a "first come, first served" basis and have a max cap. If there are any unsold tokens, we will open the third round on a "first come, first served" basis without the max cap. The Discord whitelisting process is targeting the community members specifically. If you are a SubQuery network participant, but don't have a discord role, you will be communicated to separately.
+La vendita pubblica di SubQuery consisterà in tre round: il primo offrirà un'assegnazione garantita ai membri chiave della comunità e ai partecipanti alla rete. Il secondo round sarà aperto a tutti gli interessati su base "primo arrivato, primo servito" e avrà un tetto massimo. Se dovessero rimanere dei token invenduti, apriremo il terzo round su base "primo arrivato, primo servito" senza un tetto massimo. Il processo di whitelisting su Discord è rivolto specificamente ai membri della comunità. Se sei un partecipante alla rete SubQuery, ma non hai un ruolo in Discord, ti verrà comunicato separatamente.
 
-## Eligibility:
+## Idoneità:
 
-Any Discord member with one of the following roles: All-Star Ambassador, Senior Ambassador, Ambassador, Country Lead, Spartan, Frontier Indexer. Each role will have its own allocation amounts.
+Qualsiasi membro di Discord con uno dei seguenti ruoli: Ambasciatore All-Star, Ambasciatore Senior, Ambasciatore, Country Lead, Spartan, Frontier Indexer. Ogni ruolo avrà un proprio importo di assegnazione.
 
-## How to Get Whitelisted:
+## Come ottenere l'inserimento nell'elenco:
 
-1. Head to [SubQuery Discord](https://discord.com/invite/78zg8aBSMG);
-2. Find the [#public-sale-whitelisting](https://discord.com/channels/796198414798028831/950874770218557510) channel (under the "*SQT Public Sale"* section). You will only be able to access this channel if you have an eligible Discord role;
-3. Read the pinned message and follow the instructions;
-4. If you complete the process correctly, you will be whitelisted. Congrats! You will get a confirmation email with next steps once we process all submissions;
-5. In the meantime, head to [TokenSoft.io](https://www.tokensoft.io/) to complete the KYC process. You can use [this guide](https://sqt-guide.subquery.foundation/sqt-public-sale/) for assistance.
+1. Andare su [SubQuery Discord](https://discord.com/invite/78zg8aBSMG);
+2. Trovare il canale [#public-sale-whitelisting](https://discord.com/channels/796198414798028831/950874770218557510) (sotto la sezione "*SQT Public Sale"*). Sarà possibile accedere a questo canale solo se si ha un ruolo Discord idoneo;
+3. Leggete il messaggio appuntato e seguite le istruzioni;
+4. Se hai completato correttamente il processo, sarai inserito nella whitelist. Congratulazioni! Riceverai un'e-mail di conferma con i passi successivi una volta che avremo elaborato tutte le richieste;
+5. Nel frattempo, visitate [TokenSoft.io](https://www.tokensoft.io/) per completare il processo KYC. È possibile utilizzare [questa guida](https://sqt-guide.subquery.foundation/sqt-public-sale/) per assistenza.
 
-**The deadline for this process is 12th of July 2022, 2pm UTC.**
+**La scadenza per questo processo è il 12 luglio 2022, alle 14: 00 UTC.**
 
-## Next steps and points to consider:
+## Prossimi passi e punti da considerare:
 
-- Details of the SQT Public Sale including the date, allocation quotas, participation guidelines, distribution mechanism, etc will be communicated soon both via a follow-up email and via the official communication channels (website, Medium, Twitter, Telegram, Discord);
-- Watch out for scammers --- we will never ask you for any funds or test transactions;
-- Watch out for fake tokens --- SQT tokens have not been created yet, and will only be minted and distributed with the official announcement and clear communication from our channels;
-- You must take personal responsibility for securing private keys and seed phrases for your wallet;
-- Unfortunately, citizens and residents of the USA, China, New Zealand, and some other jurisdictions will not be able to participate.
-- In the meantime, we recommend familiarising yourself with the SQT tokenomics[ here](https://subquery.medium.com/subquery-releases-tokenomics-9168d76c2d9c).
+- I dettagli della vendita pubblica di SQT, tra cui la data, le quote di assegnazione, le linee guida per la partecipazione, il meccanismo di distribuzione, ecc. saranno comunicati a breve sia tramite un'e-mail di follow-up che tramite i canali di comunicazione ufficiali (sito web, Medium, Twitter, Telegram, Discord);
+- Attenzione ai truffatori --- non vi chiederemo mai fondi o transazioni di prova;
+- Attenzione ai token falsi --- i token SQT non sono ancora stati creati e saranno coniati e distribuiti solo con l'annuncio ufficiale e una chiara comunicazione da parte dei nostri canali;
+- Dovete assumervi la responsabilità personale di assicurarvi le chiavi private e le frasi seed per il vostro portafoglio;
+- Purtroppo, i cittadini e i residenti di Stati Uniti, Cina, Nuova Zelanda e altre giurisdizioni non potranno partecipare.
+- Nel frattempo, vi consigliamo di familiarizzare con la tokenomica di SQT[ qui](https://subquery.medium.com/subquery-releases-tokenomics-9168d76c2d9c).
 
-## About SubQuery
+## Informazioni su SubQuery
 
-[SubQuery](https://subquery.network/) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from Layer-1 chains. Currently servicing Polkadot, Substrate, Avalanche, Terra, Cosmos (starting with Juno) projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
+[SubQuery](https://subquery.network/) è un toolkit per sviluppatori di blockchain che consente di costruire applicazioni Web3 del futuro. Un progetto SubQuery è un'API completa per organizzare e interrogare i dati delle catene Layer-1. Attualmente al servizio dei progetti Polkadot, Substrate, Avalanche, Terra, Cosmos (a partire da Juno), questo data-as-a-service consente agli sviluppatori di concentrarsi sul loro caso d'uso principale e sul front-end, senza dover perdere tempo a costruire un back-end personalizzato per l'elaborazione dei dati. La rete SubQuery si propone di abilitare questa stessa soluzione scalabile e affidabile, ma in modo completamente decentralizzato.
 
-​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
