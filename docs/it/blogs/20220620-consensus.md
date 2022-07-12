@@ -1,33 +1,33 @@
-# Non è inverno ad Austin!
+# It ain't Winter in Austin!
 
 ![](https://miro.medium.com/max/1400/1*uzkMNAO_XfCbZpsBhWfz1g.png)
 
-SubQuery è arrivata ad Austin in occasione di Consensus 2022, un raduno annuale delle menti più brillanti e innovative del mondo della blockchain.
+SubQuery arrived in Austin at Consensus 2022, an annual gathering of the world's brightest and most innovative blockchain minds.
 
-Nonostante un clima macroeconomico agghiacciante, Consensus 22 era in fiamme, sia in termini di temperatura che di attività al più grande festival di criptovalute del mondo. Sam (CEO) e James (Head of Business Development) erano presenti per SubQuery con la missione di condividere le soluzioni di indicizzazione veloci, flessibili, aperte e universali di SubQuery per consentire agli sviluppatori blockchain di concentrarsi meglio sul front-end e sui casi d'uso.
+Despite a chilling macroeconomic climate, Consensus 22 was on fire, both in terms of the temperature and the activity at the largest crypto festival in the world. Sam (CEO) and James (Head of Business Development) were there from SubQuery with a mission to share about SubQuery's fast, flexible, open and universal indexing solutions for blockchain developers to focus better on their front end and use-cases.
 
-È stato bello incontrare i vecchi amici dei nostri progetti preferiti, tra cui Acala, Astar, Crust, Moonbeam, Phala, per citarne alcuni; i beneficiari delle sovvenzioni di SubQuery e, ultimo ma non meno importante, i nostri entusiasti ambasciatori e membri della comunità! È stata la prima volta che siamo riusciti a incontrare alcuni dei nostri clienti più vecchi, compresi quelli con cui lavoriamo da quasi 2 anni!
+It was great to catch up with old friends from our favourite projects including Acala, Astar, Crust, Moonbeam, Phala to name a few; SubQuery's Grant recipients and last but not least, our enthusiastic ambassadors and community members! It was the first time we managed to meet some of our oldest customers, including ones that we have worked with for almost 2 years!
 
 ![](https://miro.medium.com/max/1400/1*TcOXvIllpZti4gCU_rGLtw.png)
 
 ![](https://miro.medium.com/max/1400/1*S1K0k4KMn0kF_JXwAyhrcA.png)
 
-È arrivato l'inverno delle criptovalute? A Consensus 2022 non importa, perché la comunità crittografica continua a marciare con grande convinzione e i costruttori di web3 continuano a costruire. Noi di SubQuery siamo per lo più isolati da qualsiasi effetto macro del mercato. In qualità di fornitore di infrastrutture essenziali, i nostri clienti continuano a costruire con SubQuery a prescindere, e la nostra pipeline di partnership è in continua espansione!
+Is Crypto Winter here? Not that it matters at Consensus 2022, as the crypto community marches on with high-conviction, and web3 builders continue to build. At SubQuery, we are mostly insulated from any macro effects in the market. As an essential infrastructure provider, our customers keep building with SubQuery regardless, and our partnership pipeline is only expanding!
 
-Non c'è niente di meglio che parlare con i vecchi amici davanti a un cocktail o due, e per facilitare questo abbiamo collaborato con OAK per organizzare l'evento Hotsama Rooftop. Nel corso di un'incredibile serata in uno dei migliori bar sul tetto del Lady Bird Lake, abbiamo condiviso storie con clienti, investitori e persino con i beneficiari delle sovvenzioni.
+There's nothing like talking to old friends over a cocktail or two, and to facilitate this we worked with OAK to co-host the Hotsama Rooftop event. Over an amazing night on one of the best rooftop bars alongside Lady Bird Lake we shared stories with customers, investors, and even grant recipients.
 
 ![](https://miro.medium.com/max/1400/1*Qx-0HFDk3pLeDcfrj2HtYA.jpeg)
 
-È stato anche emozionante stringere legami più profondi all'interno dello spazio, in particolare con il team di OAK. James è stato invitato a presentare il podcast di OAK sugli impatti del lavoro XCM di Polkadot con Irsal e Chris di OAK e Stephen di Tinkerbox. Siamo stati felici di apprendere che il team di OAK ha trovato i nostri prodotti molto utili per la realizzazione della loro soluzione di automazione per DeFi e pagamenti ricorrenti. I feedback positivi ci spingono a migliorare la nostra offerta di prodotti, perché sappiamo che stiamo costruendo qualcosa di utile per la comunità. Il podcast di OAK sarà pubblicato a breve!
+It was also exciting to forge deeper connections within the space, particularly with the OAK team. James was invited to present on OAK's podcast about the impacts of Polkadot's XCM work with Irsal and Chris from OAK, and Stephen from Tinkerbox. We were happy to learn that the OAK team found our products most helpful building their automation solution for DeFi and recurring payments. Positive feedback definitely goes a long way in motivating us to improve our product offerings as we know that we are building something that is useful for the community. You can expect the OAK podcast to be released soon!
 
 ![](https://miro.medium.com/max/1400/1*wdqIRrZu4gp7HE0Wk8wtUw.png)
 
-## Eventi imminenti!
+## Upcoming Events!
 
-Mentre aumentiamo l'attività di coinvolgimento di SubQuery sia online che sul campo nella seconda metà dell'anno, potete vederci al [Polkadot Decoded 2022](https://decoded.polkadot.network/) a Hangzhou e a Berlino, dove Siqi (Global Community Manager, Cina) e James terranno rispettivamente degli interventi!
+As we ramp up engagement activity for SubQuery both online and IRL in the second half of the year, you can catch us next at [Polkadot Decoded 2022](https://decoded.polkadot.network/) in Hangzhou and Berlin, where Siqi (Global Community Manager, China) and James will be giving talks respectively!
 
-## Informazioni su SubQuery
+## About SubQuery
 
-[SubQuery](https://subquery.network/) è un toolkit per sviluppatori di blockchain che consente di costruire applicazioni Web3 del futuro. Un progetto SubQuery è un'API completa per organizzare e interrogare i dati delle catene Layer-1. Attualmente al servizio dei progetti Polkadot, Substrate, Avalanche, Terra, Cosmos (a partire da Juno), questo data-as-a-service consente agli sviluppatori di concentrarsi sul loro caso d'uso principale e sul front-end, senza dover perdere tempo a costruire un back-end personalizzato per l'elaborazione dei dati. La rete SubQuery si propone di abilitare questa stessa soluzione scalabile e affidabile, ma in modo completamente decentralizzato.
+[SubQuery](https://subquery.network/) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from Layer-1 chains. Currently servicing Polkadot, Substrate, Avalanche, Terra, Cosmos (starting with Juno) projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
-[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
