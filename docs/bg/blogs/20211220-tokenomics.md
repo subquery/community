@@ -20,7 +20,7 @@
 
 SubQuery ще пусне на пазара 10 милиарда SQT токени които ще бъдат разпределени по следния начин.
 
-![](https://miro.medium.com/max/1400/0*eG2TM3J0NZDaT14m)
+![](https://miro.medium.com/max/1400/1*VbX3nkFhGUc6QUXWzFw6ug.png)
 
 От самото начало SubQuery се фокусира върху изграждането на стойност в рамките на нашата общност и се стремим да запазим това, като разпределяме най-голямата част от токените (41%) за Общността и SubQuery Фондацията.
 
@@ -32,15 +32,19 @@ SubQuery ще пусне на пазара 10 милиарда SQT токени 
 
 И накрая, за екипа на SubQuery и на партньорите ни сме отделили 20% от токените в замяна на приноса в изграждането и популяризирането на проекта.
 
+**UPDATE — June 2022**
+
+Note the splits between the token allocations for Community and Public Sale as well as between Rounds 1 and 2 have changed slightly since we first published it here in December 2021.Specifically the allocation towards the Public Sale reduced from 12% to 9.1% with the balance moved to the Foundation and Community to help promote and sustain the growth of the SubQuery Network. This is conditioned by us optimising the structure of the public sale due to various factors including current market conditions. [No other areas were changed. The updated version is located in the sale guide](https://medium.com/@subquery/subquery-publishes-the-sqt-public-sale-date-and-sale-guide-64b8aff10882).
+
 ## Кога ще бъде продажбата на токена
 
-Разпределението на токените е незначително, ако не се разбере начинът, по който токените се разпределят между съответните притежатели. Графиката по-долу илюстрира отключването на токени SQT за всеки участник с напред във времето, като 5 години (60 месеца) след старта всички токени след да бъдат отключени.
+The token allocation by itself is nothing without understanding the way in which the tokens are distributed to the relative holders. The graphic below illustrates the release of the SQT tokens to each participant over time culminating in the full circulation of tokens occurring 5 years (60 months) after launch.
 
 ![](https://miro.medium.com/max/1400/0*mfIBkH4SjFZgGuIq)
 
-Внимателно обмислихме периодите на отключване за всеки участник, за да създадем дългосрочна стойност за проекта и да вдъхнем доверие на притежателите на токени. Може би най-същественото е, че основният екип ще има 24-месечен период на заключване, докато някои участници в публичната продажба могат свободно да използват полезността на своя токен при стартирането му.
+We have thought carefully about the vesting schedules for each participant in order to create long-term value for the project and generate confidence to token-holders. Perhaps most significantly, the core team will have a 24 month lock-up period while some Public Sale participants can freely use the utility of their token upon launch.
 
-Разбивката на всеки притежател е следната и подлежи на промяна:
+The breakdown of each holder is as follows and is subject to change:
 
 - **Екипа и партньорите за стартиране** отключване за период от 24 месеца, с вестинг от 6 месеца след генезиса на токена.
 - **Първоначалните инвеститори** имат весттинг от 12 месеца след генезира и период на отключване от 24 месеца.
@@ -49,16 +53,16 @@ SubQuery ще пусне на пазара 10 милиарда SQT токени 
 - **Участниците в кръг 1 на публичната продажба** имат 12-месечен вестинг. Индексаторите и другите ключови участници в мрежата ще разполагат с част от разпределените им токени, които могат да бъдат отключени незабавно, за да се гарантира, че те могат да дадат старт на мрежата. Участниците в този кръг ще бъдат включени в бял списък и ще имат гарантирано разпределение.
 - **Участниците в кръг 2 на публичната продажба** нямат период на вестинг. Този кръг е отворен за всички потребители, които са преминали успешно изискванията на KYC в платформата launchpad. Този кръг ще бъде проведен на принципа "най-бързия печели". В тази връзка се стремим да привлечем по-голям брой участници, за да направим разпределението по-справедливо. Повече информация за това ще бъде обявена в бъдеще
 
-Предвидили сме и възможност за ретроспективен еърдроп за важни участници в общността, които имат стратегическо значение за нашата мрежа (например участници в тестови мрежи), или като средство за привличане на нови потребители извън настоящата ни екосистема..
+We have also made provisions for a retrospective airdrop to communities that have strategic importance to our network (such as testnet participants) or as a means to attract new users outside of our current ecosystem..
 
-Точните подробности за това кога и как ще бъде разпределен токенът SQT все още подлежат на уточняване и ще бъдат обявени с наблюжаването на публичната продажба. На този етап очакваме, че разпределението на токените между участниците в продажбата ще се осъществи с пускането на мейннета. С други думи, между продажбата и разпределението на токените ще има период на вестинг, който ще съвпадне с датата на листване на токените.
+The exact details of when and how the SQT token will be allocated and distributed are still subject to finalisation, and will be announced closer to the public sale. At this stage, we anticipate that token distribution to the sale participants will take place with the launch of the mainnet. In other words, there will be a waiting period between the sale and token distribution which will align with the token listing date.
 
-За листването на SQT планираме да бъдем листнат на ключови децентрализирани и централизирани борси за да улесним максимално участието на всички в SubQuery мрежата. Очакваме с нетърпение всички вие да се присъедините към нашата мисия да помогнем на разработчиците да създадат децентрализираните приложения на бъдещето.
+For the listing of SQT, we are planning to be available on key decentralised (DEX) and centralised exchanges (CEX) to make it as easy as possible for everyone to participate in the SubQuery Network. We are looking forward to you all joining us on our mission to help developers build the decentralised applications of the future.
 
 ## За SubQuery
 
-SubQuery е водещият доставчик на данни на Polkadot, който поддържа индексиращ amp; слой за заявки между блокчейн Layer-1 (Polkadot) и децентрализирани приложения. Услугата за данни на SubQuery се използва от повечето действащи днес уебсайтове за crowdloan и търгове за парачейни на Polkadot и Kusama.
+SubQuery is Polkadot’s leading data provider, supporting an indexing & querying layer between Layer-1 blockchains (Polkadot) and decentralised applications. SubQuery’s data service is being used by most of the Polkadot and Kusama crowdloan and parachain auction websites live today.
 
-Протоколът на SubQuery индексира и предоставя лесен достъп до данни от блокчейн мрежи, предимно опериращ върху Полкадот.
+SubQuery’s protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
 
-[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+​​​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)

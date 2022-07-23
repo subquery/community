@@ -18,7 +18,7 @@ Blockathon was originally started in 2017 by the Bitfwd team as a series of Bloc
 
 Since its founding in 2021, SubQuery established itself as the leading data indexing solution in Polkadot and has achieved rapid growth by serving hundreds of millions of queries each day to leading projects such as Moonbeam and Acala. Now the SubQuery team is focused on decentralising and tokenizing the protocol to build the SubQuery Network which will be launched in the second quarter of 2022.
 
-## About SubQuery
+## 서브쿼리란
 
 [SubQuery](https://subquery.network/) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from Layer-1 chains. Currently servicing Polkadot, Substrate, Avalanche and Terra projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 

@@ -1,23 +1,23 @@
-# SubQuery’s нова програма спартанець
+# SubQuery’s New Spartan Programme
 
 ![](https://miro.medium.com/max/1400/1*k5cScGKMiC45i_N-em3x0Q.png)
 
-У серпні [проект Subquery запустив програму Амбасадорів ](./20210713-Introducing-the-SubQuery-Ambassador-Program.md), метою якої було знайти та об'єднати лідерів спільноти, по-справжньому захоплених баченням Polkadot та Subquery. Ми прагнули знайти по-справжньому ініціативних учасників, які змогли б розповісти про проєкт Subquery у своїх локальних спільнотах, а також надавати всіляку підтримку новим розробникам у створенні дивовижних програм та сервісів на Polkadot.
+In August, [SubQuery launched its Ambassador programme](./20210713-Introducing-the-SubQuery-Ambassador-Program.md) to find community leaders passionate about Polkadot and SubQuery. Our goal was to find self-starters that could spread the word about SubQuery in their local areas and provide support to new developers building amazing apps and services on Polkadot.
 
-Ми не очікували, що сталося потім!
+We did not expect what happened next!
 
-Ми отримали тисячі заявок від кандидатів до амбасадорів, і ми просто не змогли вручну впоратися з таким великим напливом учасників. Ми знаємо, що є багато претендентів, які не почули від нас, і стало зрозуміло, що ми повинні робити кращу роботу і надавати спосіб, в який наша спільнота може працювати з нами.
+In the last few months we have been completely overwhelmed by thousands and thousands of applications, and our initial plans to manually onboard applicants has become challenging. We know that there are many applicants who have not heard back from us and it has become clear that we need to do a better job and provide a way that our community can work with us.
 
-Після консультації з нашими що існує посниками ми створили нову, та прозорий метод для підвищення рівня в [нашій спільноті Discord](https://discord.com/invite/subquery) і потенційно стати амбасадором.
+After consultation with our existing Ambassadors we have designed a new, and transparent method to level up in [our Discord community](https://discord.com/invite/subquery) and potentially become an Ambassador.
 
-Сьогодні нам приємно оголосити про створення Програми SpartQuery Spartan. Спартанська програма існує повністю в нашій спільноті Discord, де бажані Посли можуть виконувати щомісячні завдання та змагання, щоб заробити спартанський тег. Спартанці, які потім піднімуться до вершини їхнього класу, будуть рекомендовані що існує амбасадори команди SubQuery для приєднання до їх рангів.
+Today, we are pleased to announce the creation of the SubQuery Spartan Programme. The Spartan Programme exists entirely within our Discord community, where aspiring Ambassadors can complete monthly tasks and competitions in order to earn the Spartan tag. The Spartans who then rise to the top of their class will be recommended by the existing Ambassadors to the SubQuery team to join their ranks.
 
-Окрім потенційної можливості стати амбасадором проєкт, учасники Discord каналу зі званням Спартанець також отримають особливі привілеї та права у спільноті Subquery.
+In addition to the potential of becoming an Ambassador, Discord members with the Spartan role will be afforded special perks and rights within the SubQuery community.
 
-Щоб дізнатися більше про нашу спартанську програму та взяти участь у нашому листопадовому конкурсі [, будь ласка, приєднуйтесь до нашого Discord](https://discord.com/invite/subquery).
+To find out more about our Spartan programme and participate in our November competition please [join our Discord](https://discord.com/invite/subquery).
 
-## Про SubQuery
+## About SubQuery
 
-SubQuery - це шар агрегації даних, який працює між блокчейном шару-1 (такими як Moonriver та Polkadot) та DApps. Ця послуга розблокує дані блокчейну та перетворює їх у запитуваний стан, щоб їх можна було використовувати в інтуїтивно зрозумілих програмах. Це дозволяє розробникам DApp зосередитися на своєму основному варіанті використання та інтерфейсі, не витрачаючи час на створення спеціального сервера для обробки даних.
+SubQuery is a data aggregation layer that operates between the layer-1 blockchains (such as Moonriver and Polkadot) and DApps. This service unlocks blockchain data and transforms it to a queryable state so that it can be used in intuitive applications. It allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
 
-​​​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
+​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [Github](https://github.com/subquery/subql) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)

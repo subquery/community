@@ -6,7 +6,7 @@ Sứ mệnh của Parallel là đổi mới và đưa DeFi lên một tầm cao 
 
 ![](https://cdn-images-1.medium.com/max/1600/1*5Ru0mv1hq86BuBhGwsmoqQ.png)
 
-> *"SubQuery là một công cụ tuyệt vời mang công nghệ truy vấn & lập chỉ mục truyền thống cho Parallel Heiko. Dịch vụ plug-and-play thực sự đã giúp chúng tôi tiết kiệm rất nhiều thời gian trong việc phát triển công cụ lập chỉ mục khối của riêng chúng tôi và duy trì giải pháp của riêng chúng tôi."* - Parallel Finance
+> *"SubQuery là một công cụ tuyệt vời mang công nghệ lập chỉ mục & và truy vấn truyền thống đến Parallel Heiko. The plug-and-play service really saved us a lot time developing our own block indexing tool and maintaining our own solution."* - Parallel Finance
 
 Dịch vụ của [SubQuery](https://subquery.network/) giúp Parallel Finance lưu trữ, phân tích và truy vấn dữ liệu trên mạng thử nghiệm Heiko hiện tại của họ. Một số dữ liệu này được sử dụng trực tiếp trong ứng dụng mới của Parallel, giúp người dùng hiểu và phân tích dữ liệu DeFi.
 
@@ -16,13 +16,13 @@ Sử dụng SubQuery, bạn có thể nhanh chóng truy vấn thông tin tài kh
 
 ![](https://cdn-images-1.medium.com/max/1600/1*FDRgez-G26x1DkWqCkORMQ.png)
 
-> *"Chúng tôi thích làm việc với đội ngũ SubQuery và dịch vụ khách hàng 1-1 mà họ cung cấp cho chúng tôi. Chúng tôi có kế hoạch sử dụng nó nhiều hơn khi chúng tôi giới thiệu nhiều tính năng hơn vào ứng dụng DeFi của mình."* - Parallel Finance
+> *"Chúng tôi rất hứng thú khi làm việc với đội ngũ SubQuery và dịch vụ khách hàng 1-1 mà họ cung cấp cho chúng tôi. We plan to use it more as we introduce more features into our DeFi application."* - Parallel Finance
 
 Trong ví dụ bên dưới, chúng tôi đang sử dụng SubQuery để hiển thị tỷ giá hối đoái lịch sử cho tất cả các tài sản ở tất cả các khối dữ liệu.
 
 ![](https://cdn-images-1.medium.com/max/1600/1*yctQKMNqdOnICNblJk9njw.png)
 
-Parallel Finance đang sử dụng [Dự án SubQuery](https://project.subquery.network/) để quản lý dự án của riêng họ và cập nhật theo yêu cầu. Dịch vụ lập chỉ mục và truy vấn chúng tôi cung cấp hoàn toàn do SubQuery quản lý và được cung cấp miễn phí cho cộng đồng Polkadot trong [SubQuery's Explorer](https://explorer.subquery.network/).
+Parallel Finance đang sử dụng [những dự án của SubQuery](https://project.subquery.network/) để quản lý dự án của riêng họ và cập nhật theo yêu cầu. Các dịch vụ lập chỉ mục và truy vấn mà chúng tôi cung cấp hoàn toàn do SubQuery quản lý và được cung cấp miễn phí cho cộng đồng Polkadot trong [SubQuery's Explorer](https://explorer.subquery.network/).
 
 [Bạn có thể khám phá dữ liệu của Parallel Finance trong SubQuery ngay hôm nay](https://explorer.subquery.network/subquery/parallel-finance/parallel-finance)
 
@@ -36,6 +36,6 @@ Parallel Finance là một giao thức thị trường tiền tệ phi tập tru
 
 ## Giới thiệu về SubQuery
 
-[SubQuery](https://subquery.network/) là một lớp tổng hợp dữ liệu sẽ hoạt động giữa các blockchains layer-layerr1 (Kusama) và DApps (như Kodadot). Dịch vụ này cho phép các nhà phát triển DApp tập trung vào các tính năng cốt lõi và giao diện người dùng của họ mà không cần lãng phí thời gian vào việc xây dựng chương trình phụ trợ tùy chỉnh để xử lý dữ liệu.
+[SubQuery](https://subquery.network/) là một lớp tổng hợp dữ liệu sẽ hoạt động giữa các blockchain layer-1 (như Kusama) và các DApps (như Kodadot). Dịch vụ này cho phép các nhà phát triển DApp tập trung vào các tính năng cốt lõi và giao diện người dùng của họ mà không cần lãng phí thời gian vào việc xây dựng chương trình phụ trợ tùy chỉnh để xử lý dữ liệu.
 
 [Website](https://subquery.network/) | [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)

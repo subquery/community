@@ -1,83 +1,83 @@
-# SubQuery Phát Hành Bản Cập Nhật Whitepaper
+# SubQuery Releases Updated Whitepaper
 
 ![](https://miro.medium.com/max/700/0*guA8YHyJPhu0wmzf)
 
-_Một kế hoạch cập nhật về cách SubQuery sẽ cách mạng hóa cơ sở hạ tầng web3 trong tương lai_
+_An updated plan for how SubQuery will revolutionise the future of web3 infrastructure_
 
-Sau một thời gian dài thiết kế, thảo luận, thử nghiệm và phát triển, hôm nay chúng tôi sẽ phát hành một phiên bản mới và cập nhật đáng kể [của Whitepaper](https://static.subquery.network/whitepaper.pdf). Được xuất bản lần đầu vào tháng 6 năm 2021, SubQuery Whitepaper là tài liệu phác thảo khuôn khổ chiến lược của chúng tôi cho Mạng lưới SubQuery phi tập trung và token SQT. Kể từ lần xuất bản đầu tiên, chúng tôi đã có sự phát triển đáng kể trong cơ sở khách hàng và cộng đồng của mình và đạt được tiến bộ to lớn trong việc xây dựng Mạng SubQuery. Từ những nguồn này, chúng tôi đã được truyền cảm hứng để cải tiến và đổi mới, và điều đó đạt đến đỉnh cao trong phiên bản whitepaper mới nhất của chúng tôi.
+After a long period of design, discussion, testing, and development, today we are releasing a new and significantly [updated version of our Whitepaper](https://static.subquery.network/whitepaper.pdf). Originally published back in June 2021, the SubQuery Whitepaper is a document that outlines our strategic framework for the decentralised SubQuery Network and her SQT token. Since the original publication, we have experienced significant growth in our customer base and community and made huge progress on building the SubQuery Network. From these sources, we have been inspired to improve and innovate, and that culminates in the latest version of our whitepaper.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ghxyw5bIHs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Whitepaper này phác thảo các kế hoạch của SubQuery nhằm hướng tới một mạng lưới phi tập trung toàn cầu gồm những người tham gia tổ chức dữ liệu blockchain để đảm bảo SubQuery không có một điểm thất bại nào. Dự kiến, điều này sẽ tăng đáng kể thời gian hoạt động của SubQuery, cung cấp khả năng dự phòng tốt hơn và tăng hiệu suất bằng cách giảm độ trễ. Có thể hình dung rằng các ứng dụng sẽ có thể sử dụng GraphQL để truy vấn bất kỳ kho dữ liệu nào (như được xác định bởi Dự án SubQuery) từ các Trình chỉ mục trên mạng.
+This whitepaper outlines SubQuery’s plans to move towards a globally decentralised network of participants organising blockchain data in order to ensure no single point of failure for SubQuery. It is expected that this will massively increase SubQuery’s uptime, provide better redundancy, and increase performance by driving down latency. It is envisioned that applications will be able to use GraphQL to query any store of data (as defined by the SubQuery Project) from Indexers around the network.
 
 ![](https://miro.medium.com/max/700/0*xtd6e7mn7JkfhpzG)
 
-## Trọng tâm của chúng tôi
+## Our Focus
 
-[Cập nhật whitepaper](https://static.subquery.network/whitepaper.pdf) duy trì sự chắc chắc của SubQuery rằng các dịch vụ dữ liệu của tương lai phải đa chuỗi, đơn giản và linh hoạt. Whitepaper trình bày chi tiết về cách Mạng SubQuery đưa những cân nhắc này vào thiết kế tokenomics đồng thời cho phép người dùng thành thạo chạy các dịch vụ cấp doanh nghiệp trên đó.
+The [updated whitepaper](https://static.subquery.network/whitepaper.pdf) maintains SubQuery’s conviction that the data services of tomorrow must be multi-chain, simple, and flexible. The whitepaper goes into detail on how the SubQuery Network factors these considerations into the token economic design while also enabling power users to run enterprise-level services on it.
 
-### Thiết kế Multi-chain
+### Multi-chain by Design
 
-_SubQuery tin tưởng vào ý tưởng rằng một cộng đồng các blockchain, làm việc cùng nhau để khuyến khích việc áp dụng web3 vào đời sống, là tương lai của thế giới._
+_SubQuery believes in the idea that a community of blockchains, working together to encourage web3 adoption, is the future_
 
-SubQuery có nguồn gốc từ hệ sinh thái Polkadot, đó là ngôi nhà của chúng tôi và sẽ là vị trí của Mạng SubQuery. Nhưng tương lai là multichain. SubQuery biết rằng sẽ có nhiều blockchains khác nhau làm việc cùng nhau để giải quyết các vấn đề khác nhau.
+SubQuery is native to the Polkadot ecosystem, it’s our home and will be the location of the SubQuery Network. But the future is multi-chain. SubQuery knows that there are going to be many different blockchains working together to solve different problems.
 
-Mạng SubQuery được thiết kế để hỗ trợ bất kỳ Dự án SubQuery nào từ bất kỳ mạng Lớp 1 nào (trong Polkadot hoặc không). Nó sẽ được thiết kế và xây dựng để trở thành multichain ngay từ đầu, nơi bạn sẽ thấy các dự án từ một mạng lưới được lập chỉ mục cùng với các dự án từ mạng khác.
+The SubQuery Network is designed to support any SubQuery Project from any Layer 1 network (within Polkadot or not). It will be designed and built to be multi-chain from the outset, where you will see projects from one network being indexed alongside projects from another.
 
-### Đơn giản và dễ tiếp cận
+### Simple and Accessible
 
-_Mạng SubQuery được thiết kế để trở thành nhà cung cấp dữ liệu của mọi người._
+_The SubQuery Network is designed to be the data provider of the people._
 
-Nguyên tắc với Mạng SubQuery là sự đơn giản. Theo ý kiến của SubQuery rằng các phương pháp tiếp cận khác đối với các dịch vụ truy vấn dữ liệu phi tập trung là quá phức tạp và khiến người tham gia khó dự đoán lợi tức đầu tư của họ. Mục đích là giúp bạn dễ dàng tham gia vào mạng lưới và dự báo rõ ràng lợi nhuận tiềm năng trong tương lai của bạn.
+The guiding principle with the SubQuery Network is simplicity. It is SubQuery’s opinion that other approaches to decentralised data query services are overly complex and make it difficult for participants to predict their return on investment. The aim is to make it easy for you to get involved in the network, and to clearly forecast your future potential return.
 
-SubQuery sẽ không yêu cầu ngưỡng staking cao để tham gia hoặc đầu tư lớn vào phần cứng. Trọng tâm sẽ là làm cho SubQuery dễ dàng tham gia và xây dựng hơn các đối thủ cạnh tranh của chúng tôi - Thành công của SubQuery phụ thuộc vào thành công của những người khác tạo ra tương lai trên đó.
+SubQuery won’t require high staking thresholds to participate or huge investment into hardware. The focus will be on making SubQuery easier to join and build with than our competitors — SubQuery’s success depends on the success of others creating the future on it.
 
-Điều này có nghĩa là mục tiêu thiết kế là làm cho mọi người tham gia dễ dàng nhất có thể. Bạn không cần phải là nhà phát triển hoặc có kiến thức sâu về mô hình tokenomocs, vẫn có thể dễ dàng tham gia với tư cách là Người uỷ quyền(Delegator). Là Người tiêu dùng, bạn cũng có nhiều lựa chọn thanh toán phù hợp nhất với nhu cầu của mình. Cuối cùng, trọng tâm chính của SubQuery Foundation là đảm bảo có đủ sự hỗ trợ để bất kỳ ai, từ một nhóm chuyên gia về blockchain đến một nhà phát triển mới, đều có thể xây dựng dự án SubQuery của riêng họ.
+This means that a design goal is to make it as easy as possible for anyone to participate. You don’t need to be a developer or have a deep knowledge of the token economic model, you can easily participate as a Delegator. As a Consumer, you also have plenty of payment options to best suit your needs. Finally, a key focus of the SubQuery Foundation is to ensure that there is enough support that anyone, from an expert blockchain team to a new hobbyist developer, can build their own SubQuery project.
 
-### Linh hoạt
+### Flexible
 
-_SubQuery chỉ là một công cụ trong tay cộng đồng của chúng ta, vô số cơ hội tồn tại chỉ có giới hạn bởi sự sáng tạo của con người._
+_SubQuery is just a tool in the hands of our community, endless opportunities exist limited only by the creativity of the people._
 
-Ưu điểm thực sự của SubQuery có thể nằm ở tính linh hoạt của nó - người dùng sẽ có quyền tự do điều chỉnh và chuyển đổi dữ liệu phi tập trung cho phù hợp với nhu cầu của họ. Tính linh hoạt để giúp người ủy quyền dễ dàng nhanh chóng và dễ dàng hỗ trợ các chỉ mục khác nhau mà không cần phải đợi khoảng thời gian unbonding kéo dài. Cuối cùng, phương pháp này được thể hiện một cách hoàn hảo bằng việc chúng tôi giới thiệu ba phương thức thanh toán mà chúng tôi sẽ đề cập tiếp theo.
+The true advantages of SubQuery may lie in its flexibility — users will have the freedom to adapt and transform decentralised data to suit their needs. This drive for flexibility extends to making it easier for delegators to quickly and easily support different indexers without having to wait for extended unbonding periods. Finally, this approach is perfectly embodied by our introduction of three payment methods which we’ll cover next.
 
-## Sự đổi mới của SubQuery trong phương thức thanh toán
+## SubQuery’s Innovation in Payment Methods
 
-Sự thay đổi lớn nhất cho đến nay với phiên bản whitepaper này là sự đổi mới của chúng tôi trong phương thức thanh toán. Ngày nay, chúng ta thường thanh toán bằng các khoản thanh toán dựa trên đăng ký cho nhạc chúng ta nghe, chương trình truyền hình chúng ta xem và các ứng dụng mà chúng ta sử dụng. Trong các ứng dụng dịch vụ web3 tiên phong, thay vào đó, chúng tôi đã áp dụng mô hình trả khi bạn sử dụng, trong đó mỗi giao dịch nhỏ có một chi phí chính xác trong mạng.
+The biggest change by far with this version of the whitepaper is our innovation in payment methods. Today, we generally pay with subscription-based payments for the music we listen to, the TV shows we watch, and the applications that we use. In pioneering web3 service applications, we’ve instead adopted a pay-as-you-go model, where each atomic transaction has an exact cost in the network.
 
-Chúng tôi nghĩ rằng các phương thức thanh toán dựa trên đăng ký hoặc định kỳ đều ở đây để duy trì. Các nhà cung cấp dịch vụ thích chúng bởi vì chúng đại diện cho doanh thu có thể dự đoán được, tương tự ở mặt khác, người tiêu dùng thích chúng vì chúng là một chi phí được biết đến và dễ dàng định lượng. Ngoài ra còn có một yếu tố tâm lý mà một khi bạn đăng ký, hầu hết người tiêu dùng sẽ cảm thấy có nghĩa vụ phải tiêu dùng thật nhiều, nếu không phải là tất cả, làm tăng nhu cầu đối với dịch vụ và cho phép phát huy lợi thế kinh tế theo quy mô.
+We think subscription based or recurring payment methods are here to stay. Service providers like them because they represent predictable revenue, similarly on the other side consumers like them because they are a known and easily quantified cost. There’s also a psychological factor where once you subscribe, most consumers will feel obligated to consume as much if not all of it, increasing the demand for the service and allowing economies of scale to kick in.
 
-Do đó, SubQuery có kế hoạch giới thiệu ba cách thanh toán trong Mạng SubQuery, cung cấp cho tất cả những người tham gia nhiều cách linh hoạt khác nhau để giao dịch với token SubQuery (SQT). Cả Người lập chỉ mục và Người tiêu dùng sẽ kết hợp với nhau trên một marketplace để quảng cáo giá cả và các phương thức thanh toán được hỗ trợ của họ.
+As a result, SubQuery plans to introduce three ways to pay within the SubQuery Network, providing all participants with various flexible ways to transact with the SubQuery Token (SQT). Both Indexers and Consumers will come together on the Plan Marketplace to advertise their pricing and supported payment methods.
 
 ![](https://miro.medium.com/max/700/0*f0yVHlbWTE8DdjuB)
 
-### Dùng đến đâu thanh toán đến đó (PAYG)
+### Pay-As-You-Go (PAYG)
 
-Đầu tiên, và là tiêu chuẩn trong ngành web3, là Pay-As-You-Go (dùng đến đâu trả đến đó). Đây là phương thức thanh toán cơ bản và là phương thức dự phòng cho những phương thức khác. Mỗi Người lập chỉ mục sẽ quảng cáo giá PAYG của họ khi đăng ký dịch vụ các yêu cầu cho các Dự án SubQuery cụ thể.
+The first, and a standard amongst the web3 industry, is Pay-As-You-Go. This is the baseline payment method and a fallback for others. Each Indexer will advertise their PAYG prices when registering their ability to serve requests for specific SubQuery Projects.
 
-### Các kế hoạch và thỏa thuận kín
+### Closed Plans and Agreements
 
-Các thỏa thuận kín cho thỏa thuận giữa chỉ một người lập chỉ mục và một người tiêu dùng. Đó là mối quan hệ trực tiếp, nơi tất cả các khoản thanh toán luân chuyển giữa hai bên cho công việc được thực hiện. Thỏa thuận kín được thiết kế để cung cấp cho người lập chỉ mục tin tưởng rằng có một thị trường cho dữ liệu từ một Dự án SubQuery cụ thể và về cơ bản báo hiệu cho họ biết Dự án nào nên được lập chỉ mục. Kế hoạch kín cũng có thể được đặt trên các Dự án SubQuery hiện có để thu hút thêm người lập chỉ mục vào Dự án SubQuery đó. Điều này có thể hữu ích trong các tình huống mà công cụ lập chỉ mục độc quyền hiện tại có thể tính phí dữ liệu một số tiền không hợp lý hoặc thiếu sự cạnh tranh để thúc đẩy giá về trạng thái cân bằng.
+Closed Agreements represent an agreement between only one Indexer and one Consumer. It’s a direct relationship where all payment flows between the two parties for the work that is done. Closed Agreements are designed to give Indexers confidence that there is a market for data from a particular SubQuery Project, and essentially signal to them which Projects should be indexed. Closed Plans can also be placed on existing SubQuery Projects to attract additional Indexers to that SubQuery Project. This may be useful in situations where the existing monopolistic Indexer may be charging an unreasonable amount for the data or there is a lack of competition to drive prices to equilibrium.
 
-### Các kế hoạch và Thỏa thuận mở
+### Open Plans and Agreements
 
-Thỏa thuận mở tương tự như thỏa thuận đóng, nhưng cho phép nhiều người lập chỉ mục tham gia và cạnh tranh để cung cấp dữ liệu cho người tiêu dùng. Thỏa thuận mở có thể bắt đầu dưới dạng thỏa thuận giữa một người tiêu dùng và một người lập chỉ mục, nhưng nhiều bên hơn có thể tham gia thỏa thuận hiện tại, dẫn đến ‘n’ người lập chỉ mục và ’n’ người tiêu dùng.
+Open Agreements are similar to Closed Agreements, but allow multiple Indexers to join and compete to provide data to the Consumer. An Open Agreement may start as an Agreement between one Consumer and one Indexer, but more parties may join the existing Agreement resulting in ’n’ Indexers and ’n’ Consumers.
 
-Thỏa thuận mở cung cấp các điều khoản có lợi cho cả người lập chỉ mục và người tiêu dùng, nhưng mang lại hiệu suất và độ tin cậy tốt hơn cho người tiêu dùng bằng cách thu hút nhiều người lập chỉ mục cạnh tranh và cung cấp cùng một dữ liệu. Nếu người tiêu dùng đang chạy các ứng dụng quy mô lớn với người dùng trên khắp thế giới, thì thỏa thuận mở là lý tưởng.
+Open Agreements provide favourable terms for both Indexers and Consumers, but enable better performance and reliability for Consumers by attracting more Indexers to compete and serve the same data. If Consumers are running large scale applications with users around the world, then Open Agreements are ideal.
 
 ![](https://miro.medium.com/max/1400/0*sc9-ee7VTl0XEhTS)
 
-kết hợp ba tùy chọn thanh toán ở trên cho người lập chỉ mục cung cấp một số tùy chọn dựa trên đăng ký nâng cao cho Người tiêu dùng và Người lập chỉ mục. Một số bên có thể được hưởng lợi từ sự chắc chắn của phần thưởng được cung cấp bởi các thỏa thuận đã kín và khả năng dự đoán của các chi phí định kỳ. Tương tự, những người khác có thể thích tìm kiếm dữ liệu hợp lý nhất bằng cách thực hiện các thỏa thuận định kỳ với khối lượng lớn hoặc giá giao ngay thấp trên thị trường Pay-as-you-Go.
+he combination of the above three payment options for indexers provide several advanced subscription based options for Consumers and Indexers. Some parties may benefit from the certainty of rewards provided by Closed Agreements and the predictability of recurring costs. Equally, others may instead prefer to hunt out the most affordable data by going for high volume recurring agreements or low spot prices on the Pay-as-you-Go market.
 
-Những thay đổi này và nhiều thay đổi khác được nêu trong whitepaper minh họa sự tập trung của chúng tôi vào việc xây dựng dịch vụ cơ sở hạ tầng web3 lớn nhất có thể. Chúng tôi tự tin rằng thiết kế tokenomics của chúng tôi được cân nhắc và thiết kế cẩn thận để tăng trưởng toàn diện cho tất cả những người tham gia. Mặc dù bắt đầu với một dịch vụ tập trung khổng lồ và từ từ tiến tới một dịch vụ phi tập trung là điều không dễ dàng, nhưng nhóm tại SubQuery đã sẵn sàng cho thử thách và chúng tôi hy vọng bạn sẽ tham gia cùng chúng tôi!
+These changes, and many others outlined in the whitepaper illustrate our focus on building the largest web3 infrastructure service possible. We are confident that our token economic design is carefully considered and designed for inclusive growth for all participants. While starting with a huge centralised service and slowly moving towards a decentralised one isn’t easy, the team at SubQuery is up for the challenge and we hope you’ll join us!
 
-Để biết thêm thông tin, vui lòng [liên hệ với nhóm của chúng tôi trong Discord](https://discord.com/invite/78zg8aBSMG) hoặc trò chuyện với chúng tôi trong “Giờ làm việc” tiếp theo của chúng tôi. Bạn cũng có thể [đăng ký biểu thức quan tâm của mình](https://forms.gle/RyXyhb8T9Gxkwi7R9) để trở thành người lập chỉ mục trong mạng kiểm tra SubQuery sắp xảy ra.
+For further information, please [contact our team in Discord](https://discord.com/invite/78zg8aBSMG) or chat with us in our next “Office Hours”. You can also [register your expression of interest](https://forms.gle/RyXyhb8T9Gxkwi7R9) to become an indexer in the imminent SubQuery test network.
 
-[Đọc bản cập nhật whitepaper](https://static.subquery.network/whitepaper.pdf)
+[Read the updated whitepaper](https://static.subquery.network/whitepaper.pdf)
 
-## Giới thiệu về mạng SubQuery
+## About SubQuery Network
 
-Nhiệm vụ của SubQuery là giúp những người khác tạo ra các sản phẩm cho phép chúng tôi tiến tới một tương lai phi tập trung nhanh hơn. SubQuery là một bộ công cụ dành cho nhà phát triển blockchain và là xương sống của cơ sở hạ tầng web3. Một dự án SubQuery là một API hoàn chỉnh để tổ chức và truy vấn dữ liệu từ các chuỗi. Hoạt động giữa các blockchains lớp 1 và các ứng dụng phi tập trung (dApp), SubQuery là một trình lập chỉ mục mã nguồn mở tổ chức và cung cấp dữ liệu có cấu trúc tốt qua GraphQL. SubQuery hỗ trợ thế hệ tiếp theo của dApp và công cụ với dữ liệu web3
+SubQuery’s mission is to help others create products that allow us to move to a decentralised future faster. SubQuery is a blockchain developer toolkit and the backbone of web3 infrastructure. A SubQuery project is a complete API to organise and query data from chains. Operating between layer-1 blockchains and decentralised apps (dApp), SubQuery is an open-source indexer organising and serving well-structured data over GraphQL. SubQuery powers the next generation of dApps and tools with web3 data
 
-Hiện tại, bất kỳ ai cũng có thể sử dụng SubQuery để trích xuất và truy vấn dữ liệu blockchain chỉ trong vài phút và miễn phí nhưng theo cách tập trung. Mạng SubQuery đề xuất kích hoạt giải pháp có thể mở rộng và hiệu quả tương tự này, nhưng theo cách hoàn toàn phi tập trung.
+Currently, anyone can already use SubQuery to extract and query blockchain data in only minutes and at no cost but in a centralised way. The SubQuery Network proposes to enable this same scalable and performant solution, but in a completely decentralised way.
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)

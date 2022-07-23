@@ -1,14 +1,14 @@
-# เปิดตัว SubQury เบต้า เพื่อรองรับ Avalanche
+# Beta of SubQuery Support Released For Avalanche
 
 ![](https://miro.medium.com/max/1400/1*BiJaESR69-vDimBJmXhQvw.png)
 
-วันนี้ หลังจากการปรับปรุงพัฒนา พิจารณาปัจจัย และการทดสอบในหลายเดือนที่ผ่านมา พวกเราดีใจที่จะแบ่งปันระบบสนับสนุนชนิดเบต้าของผลจากการเปิด index ของพวกเราร่วมกับชุมชน Avalanche หลังจากการก่อตั้ง SubQuery ที่เป็นเสมือนเสาหลักสำคัญในการ indexer ข้อมูลบน Polkadot[เร็วๆนี้จะมีการประกาศการขยายของพวกเราไปสู่ Avalanche](./20220321-avalache.md)ในระหว่างนี้[ข้อเสนอของ Avalanche](https://www.avalanchesummit.com/agenda)สร้างความตื่นเต้นให้กับเหล่า developer ผู้กระตือรือร้นสำหรับเครื่องมือที่ยืดหยุ่นและสามารถเพิ่มหรือลดความสามารถของเครื่องมือในการ index ได้
+Today, after months of improvements, refactoring, and testing, we are happy to share the beta support of our open indexing solution with the Avalanche community. After establishing SubQuery as the leading data indexer in Polkadot, the recent [announcement of our expansion into Avalanche](./20220321-avalache.md) during the recent [Avalanche Summit](https://www.avalanchesummit.com/agenda) was met with excitement by developers eager for a flexible and scalable indexing tool.
 
-ติดตามวิธีการแนะนำของระบบเบต้าได้ที่นี่  https://university.subquery.network/quickstart/quickstart-avalanche.html
+Follow the beta guide here: https://university.subquery.network/quickstart/quickstart-avalanche.html
 
-SubQuery คือข้อมูลดัชนีแบบเปิดที่มีความยืดหยุ่นและรวดเร็ว เครื่องมือดัชนีแบบเปิดของพวกเราถูกออกแบบให้ช่วยเหล่า developer สร้าง API ของพวกเขาเองได้อย่างรวดเร็วในเวลา และมันถูกออกแบบเพื่อ index chain ได้อย่างรวดเร็วน่าเหลือเชื่อกับการช่วยเหลือของพจนานุกรม (ก่อนการคำนวนของดัชนี) ประสบการณ์ของพวกเรากับลูกค้าผ่านทุกการบริการในแนวดิ่งบน Polkadot (กระเป๋าเงิน, เครือข่าย, การสำรวจ, NFT, Defi, scanners, และอื่นๆ) จะถูกนำมาช่วยเหลือพวกเราในการสร้างสิ่งนี้
+SubQuery is an open data indexer that is flexible and fast. Our open indexing tool is designed to help developers build their own API in hours, and it's designed to index chains incredibly quickly with the assistance of dictionaries (pre-computed indices). Our experience with customers across all verticals in Polkadot (wallets, networks, explorers, NFT, DeFi, scanners, etc) has helped us build this.
 
-หลังจากวันนี้ ผู้พัฒนา Avalanche จะสามารถเข้าสู่ระบบเบต้าที่รวดเร็ว, ยืดหยุ่น, และมีวิธีการของดัชนีแบบเปิดที่กว้างขวางคล้ายคลึงกับที่ถูกใช้ผ่าน Polkadot และนี่คือรุ่นเบต้า มันมักจะมีปัญหาบางอย่าง อย่างเช่นว่า พวกเราจะรู้สึกภูมิใจกับมัน หากบั๊กต่างๆถูกรายงานไปสู่ทีมของพวกเราได้ ดังนั้นพวกเราสามารถจัดการปัญหาเหล่านี้อย่างรวดเร็ว
+From today, Avalanche developers will be able to access the beta of the same fast, flexible, and open indexing solution widely used across Polkadot. As this is a beta version, it is likely to have some issues. As such, we would appreciate it if any bugs can be reported to our team so we can address them quickly.
 
 ## Why Use SubQuery?
 
@@ -68,7 +68,7 @@ _James Bayly_
 
 Follow the beta guide here: https://university.subquery.network/quickstart/quickstart-avalanche.html
 
-## About SubQuery
+## เกี่ยวกับ SubQuery
 
 [SubQuery](https://subquery.network/) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot, Substrate, Avalanche and Terra projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 

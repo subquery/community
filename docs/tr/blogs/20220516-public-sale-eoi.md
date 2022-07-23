@@ -1,32 +1,30 @@
-# SubQuery, Halka Açık Satışı için Bir İlgi İfadesi Açıyor
+# SubQuery Opens an Expression of Interest for its Public Sale
 
 ![](https://miro.medium.com/max/1400/1*oPs8f6r1427cPwlsE1eyRw.png)
 
-Bugün, SubQuery, SubQuery Belirtecimizin (SQT) yaklaşan Halka Açık Satışında topluluğumuz için bir İlgi İfadesi açmaktan heyecan duyuyor. SubQuery, ağa katkıda bulunan önemli kişilere katılmaları için ön onay vermeyi zaten planlıyor, ancak ilk takipçilerimize satıştaki yerlerini güvence altına alma şansı da vermek istiyoruz.
+Today, SubQuery is excited to open an Expression of Interest for our community in the upcoming Public Sale of our SubQuery Token (SQT). SubQuery already plans to provide pre-approval to key network contributors to participate, but we would also like to give our early followers a chance to secure their place in the sale.
 
-[Yerinizi güvence altına alma şansı için şimdi başvurun](https://docs.google.com/forms/d/e/1FAIpQLSc3V_1TrTmBcSxNTuG8xPnPODJkwj5PhWrnlPHlKzcIFk8cqQ/viewform?usp=sf_link)
+[Apply Now for a Chance to Secure Your Spot](https://docs.google.com/forms/d/e/1FAIpQLSc3V_1TrTmBcSxNTuG8xPnPODJkwj5PhWrnlPHlKzcIFk8cqQ/viewform?usp=sf_link)
 
-SubQuery, 2021 yılında kuruluşundan bu yana binlerce projeyle çalışarak ve Polkadot ve Avalanche ekosistemlerindeki günlük uygulamalara kadar her gün yüz milyonlarca sorguya (yönetilen hizmetimizden) hizmet vererek hızlı bir büyüme elde etti. Tohum turumuzdan bugüne kadar SubQuery, 10 milyon ABD dolarının üzerinde özel yatırım topladı ve Twitter'da 50.000'den fazla topluluğa sahip 30'dan fazla kişiden oluşan büyük bir küresel ekibe dönüştü. Bu, SubQuery'nin geliştiricilerin merkezi olmayan bir geleceğe daha hızlı geçmemizi sağlayan ürünler oluşturmalarına yardımcı olma misyonuna inanan çok sayıda kişidir.
+Since its founding in 2021, SubQuery has achieved rapid growth by working with thousands of projects and serving hundreds of millions of queries each day (from our [managed service](https://subquery.network/managedservices)) to every day apps in the Polkadot and Avalanche ecosystems. From our seed round to now, SubQuery has raised over US$10m in private investment and grown to a large global team of over 30 with a community of over 50,000 on Twitter. This is a huge number of individuals who believe in SubQuery's mission to help developers create products that allow us to move to a decentralised future faster.
 
-[Whitepaper](https://static.subquery.network/whitepaper.pdf) özetlendiği gibi, SQT'nin SubQuery Network'e güç veren, katılım için bir teşvik sağlayan ve SubQuery Network içindeki işlemler için bir değişim aracı olarak hizmet veren belirteç olması amaçlanmıştır. Pratikte bu, SubQuery'nin hem Tüketicilerin (alıcılar) hem de Dizin Oluşturucuların (satıcılar) SQT belirteçleri için veri alışverişinde bulunabileceği bir blok zinciri veri pazarı olarak işlev görmesi amaçlandığı anlamına gelir. Modelimizin üçüncü katılımcısı, ödül kazanmak için tokenlarını onlara devrederek favori Dizin Oluşturucularını destekleyerek ağa katılan Delegelerdir. SQT, Web3 veri altyapısındaki devrimin yakıtı olacak.
+[As outlined in the Whitepaper](https://static.subquery.network/whitepaper.pdf), SQT is intended to be the token that powers the SubQuery Network, providing an incentive for participation, as well as serving as a medium of exchange for transactions within the SubQuery Network. In practice, this means that SubQuery Network is intended to function as a blockchain data marketplace where both Consumers (buyers) and Indexers (sellers) can meet to exchange data for SQT. The third participant in the model are Delegators who participate in the network by supporting their favourite Indexers by delegating their tokens to them in order to earn rewards. SQT will be the fuel for revolution in Web3 data infrastructure.
 
-Her ne kadar halka açık satış ilk gelene ilk hizmet veren bir şekilde gerçekleştirilecek olsa da, ilk takipçilerimize ve değerli topluluk üyelerimize ayrılmış bir yer ile yerlerini güvence altına alma fırsatı vermek istiyoruz. Bu süreçte seçilen adaylar SQT satın alma fırsatına sahip olacak ve hatta garantili bir tahsis alabilirler.
+Although the public sale will be conducted in a first-come, first-served manner, we would like to give our early followers and valuable community members an opportunity to secure their place with a reserved spot. Applicants selected in this process will have an opportunity to purchase SQT and may even receive a guaranteed allocation.
 
-Herkese katılma fırsatı sunmayı hedeflerken ve SQT'nin herkes için kullanılabilir olmasını sağlamak istesek de, alan sınırlı olacaktır. Bu ihtiyaçları dengelemek için, Kamu Satışında aşağıdakilere verilecek 1.000 tahsis edilmiş yer ayırdık:
+While we aim to provide everyone with an opportunity to take part, and we want to ensure that SQT is available for all, space will be limited. To balance these needs we have reserved 1,000 allocated spots in the Public Sale that will be given to:
 
-- İlgi İfadesi formunu doğru dolduran ilk 500 başvuru sahibi ve
-- Son başvuru tarihinden önce formu doğru dolduran rastgele seçilmiş 500 başvuru sahibi.
+- The first 500 applicants that correctly fill in the Expression of Interest form, and
+- 500 randomly selected applicants that correctly fill in the form before the deadline.
 
-İlgi alanınızı kaydetmek için [lütfen bu form aracılığıyla başvurun](https://docs.google.com/forms/d/e/1FAIpQLSc3V_1TrTmBcSxNTuG8xPnPODJkwj5PhWrnlPHlKzcIFk8cqQ/viewform?usp=sf_link). Son başvuru tarihi 6 Haziran 2022, 23.59 UTC'dir.
+To register your interest, [please apply via this form](https://docs.google.com/forms/d/e/1FAIpQLSc3V_1TrTmBcSxNTuG8xPnPODJkwj5PhWrnlPHlKzcIFk8cqQ/viewform?usp=sf_link). The deadline for applications is 6th June 2022, 11.59pm UTC.
 
-Lütfen birden fazla başvuru göndermeyin. TGE, tüm kullanıcıların kimliklerinin doğrulanacağı katı bir KYC sürecine sahip olacak, bu nedenle bir kişi başına birden fazla hesapla katılmak mümkün olmayacak. İlgi İfadesi için birden fazla başvuru yapmak yalnızca verileri kirletecek, diğer topluluk üyelerinin kaçırmasına neden olacak ve ekibin bilinçli kararlar almasını zorlaştıracaktır.
+Please do not submit multiple applications. The TGE will have a strict KYC process where identities of all users will be verified, so it won't be possible to participate with multiple accounts per one person. Submitting multiple applications for the Expression of Interest will only contaminate the data, result in other community members missing out, and make it harder for the team to make informed decisions.
 
-Satış tarihleri ve token fiyatlandırma bilgileri de dahil olmak üzere halka açık satış hakkında daha fazla bilgi zaman içinde yayınlanacaktır. SQT tokenomikleri hakkında ayrıntılar için [lütfen bu makaleye bakın](./20211220-tokenomics.md). Herhangi bir ek bilgi veya soru için, [lütfen Discord](https://discord.com/invite/subquery) adresinden bizimle iletişime geçin.
+More information about the public sale, including sale dates and token pricing information will be released in due course. For details about the SQT tokenomics, [please refer to this article](./20211220-tokenomics.md). For any additional information or questions, [please contact us in Discord](https://discord.com/invite/subquery).
 
+## About SubQuery
 
-
-## SubQuery Hakkında
-
-[SubQuery](https://subquery.network/), başkalarının geleceğin Web3 uygulamalarını oluşturmasını sağlayan bir blok zinciri geliştirici araç takımıdır. Bir SubQuery projesi, katman-1 zincirlerinden verileri düzenlemek ve sorgulamak için eksiksiz bir API'dir. Şu anda Polkadot, Substrate ve Avalanche projelerine hizmet veren bu hizmet olarak veri, geliştiricilerin veri işleme için özel bir arka uç oluşturmaya zaman kaybetmeden temel kullanım durumlarına ve ön uçlarına odaklanmalarına olanak tanır. SubQuery Ağı, aynı ölçeklenebilir ve güvenilir çözümü, ancak tamamen merkezi olmayan bir şekilde etkinleştirmeyi önerir.
+[SubQuery](https://subquery.network/) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot, Substrate, and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)

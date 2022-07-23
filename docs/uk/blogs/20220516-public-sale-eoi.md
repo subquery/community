@@ -1,30 +1,30 @@
-# SubQuery відкриває вираз зацікавленості для публічного продажу
+# SubQuery Opens an Expression of Interest for its Public Sale
 
 ![](https://miro.medium.com/max/1400/1*oPs8f6r1427cPwlsE1eyRw.png)
 
-Сьогодні, SubQuery з радістю відкриває Вираження зацікавленості для нашої спільноти під час майбутнього публічного продажу нашого токена SubQuery (SQT). SubQuery вже планує надати попереднє схвалення ключовим учасникам мережі для участі, але ми також хотіли б надати нашим раннім підписникам шанс забезпечити своє місце в продажі.
+Today, SubQuery is excited to open an Expression of Interest for our community in the upcoming Public Sale of our SubQuery Token (SQT). SubQuery already plans to provide pre-approval to key network contributors to participate, but we would also like to give our early followers a chance to secure their place in the sale.
 
-[Подайте заявку зараз, щоб отримати шанс отримати своє місце](https://docs.google.com/forms/d/e/1FAIpQLSc3V_1TrTmBcSxNTuG8xPnPODJkwj5PhWrnlPHlKzcIFk8cqQ/viewform?usp=sf_link)
+[Apply Now for a Chance to Secure Your Spot](https://docs.google.com/forms/d/e/1FAIpQLSc3V_1TrTmBcSxNTuG8xPnPODJkwj5PhWrnlPHlKzcIFk8cqQ/viewform?usp=sf_link)
 
-З моменту свого заснування в 2021 році SubQuery досяг швидкого зростання, працюючи з тисячами проектів і щодня обслуговуючи сотні мільйонів запитів (з нашого керованого сервісу) до щоденних програм в екосистемах Polkadot і Avalanche. Починаючи з нашого першого раунду і дотепер, SubQuery залучив понад 10 мільйонів доларів США приватних інвестицій і виріс до великої глобальної команди з понад 30 осіб із спільнотою з понад 50 000 осіб у Twitter. Це величезна кількість людей, які вірять у місію SubQuery, а саме допомагати розробникам створювати продукти, які дозволяють нам швидше рухатися до децентралізованого майбутнього.
+Since its founding in 2021, SubQuery has achieved rapid growth by working with thousands of projects and serving hundreds of millions of queries each day (from our [managed service](https://subquery.network/managedservices)) to every day apps in the Polkadot and Avalanche ecosystems. From our seed round to now, SubQuery has raised over US$10m in private investment and grown to a large global team of over 30 with a community of over 50,000 on Twitter. This is a huge number of individuals who believe in SubQuery's mission to help developers create products that allow us to move to a decentralised future faster.
 
-[Як окресленно в офіційному документі](https://static.subquery.network/whitepaper.pdf),, SQT призначений як маркер, який забезпечує мережу SubQuery, надаючи стимул до участі, а також слугуючи засобом обміну для транзакцій у мережі SubQuery. На практиці це означає, що SubQuery Network повинен функціонувати як ринок даних блокчейну, де як Споживачі (покупці), так і Індексатори (продавці) можуть зустрічатися для обміну даними для SQT. Третім учасником моделі є делегатори, котрі беруть участь у мережі, підтримуючи своїх улюблених індексаторів, делегуючи їм свої токени, щоб отримати винагороду. SQT стане паливом для революції в інфраструктурі даних Web3.
+[As outlined in the Whitepaper](https://static.subquery.network/whitepaper.pdf), SQT is intended to be the token that powers the SubQuery Network, providing an incentive for participation, as well as serving as a medium of exchange for transactions within the SubQuery Network. In practice, this means that SubQuery Network is intended to function as a blockchain data marketplace where both Consumers (buyers) and Indexers (sellers) can meet to exchange data for SQT. The third participant in the model are Delegators who participate in the network by supporting their favourite Indexers by delegating their tokens to them in order to earn rewards. SQT will be the fuel for revolution in Web3 data infrastructure.
 
-Незважаючи на те, що публічний продаж проводитиметься в порядку "перший прийшов - перший отримав", ми хотіли б дати нашим раннім послідовникам і цінним членам спільноти можливість забезпечити своє місце зарезервованим місцем. Кандидати, відібрані в цьому процесі, будуть мати можливість придбати SQT і навіть отримати гарантований розподіл.
+Although the public sale will be conducted in a first-come, first-served manner, we would like to give our early followers and valuable community members an opportunity to secure their place with a reserved spot. Applicants selected in this process will have an opportunity to purchase SQT and may even receive a guaranteed allocation.
 
-Хоча ми прагнемо надати кожному можливість взяти участь і ми хочемо, щоб SQT був доступний для всіх, кількість місць буде лімітована. Щоб збалансувати ці потреби, ми зарезервували 1000 виділених місць у публічному розпродажі, які будуть надані:
+While we aim to provide everyone with an opportunity to take part, and we want to ensure that SQT is available for all, space will be limited. To balance these needs we have reserved 1,000 allocated spots in the Public Sale that will be given to:
 
-- Перші 500 заявників, які правильно заповнили форму вираження зацікавленості, і
-- 500 випадково відібраних заявників, які правильно заповнили форму до кінцевого терміну.
+- The first 500 applicants that correctly fill in the Expression of Interest form, and
+- 500 randomly selected applicants that correctly fill in the form before the deadline.
 
-Щоб зареєструвати свій інтерес, подайте заявку за допомогою цієї форми. Кінцевий термін подачі заявок – 6 червня 2022 року, 23: 59 UTC.
+To register your interest, [please apply via this form](https://docs.google.com/forms/d/e/1FAIpQLSc3V_1TrTmBcSxNTuG8xPnPODJkwj5PhWrnlPHlKzcIFk8cqQ/viewform?usp=sf_link). The deadline for applications is 6th June 2022, 11.59pm UTC.
 
-Будь ласка, не надсилайте кілька заявок. TGE матиме суворий процес KYC, коли особи всіх користувачів будуть верифікуватися, тому не можна буде брати участь з кількома обліковими записами на одну людину. Подання кількох заявок на Вираз зацікавленості лише забруднить дані, призведе до того, що інші члени спільноти пропустять, а команді буде складніше приймати обґрунтовані рішення.
+Please do not submit multiple applications. The TGE will have a strict KYC process where identities of all users will be verified, so it won't be possible to participate with multiple accounts per one person. Submitting multiple applications for the Expression of Interest will only contaminate the data, result in other community members missing out, and make it harder for the team to make informed decisions.
 
-Додаткова інформація про публічний розпродаж, включаючи дати продажу та інформацію про ціни на токен, буде опублікована згодом. Щоб дізнатися більше про токеноміку SQT, зверніться до цієї статті. Щоб дізнатися більше про токеноміку Sqt, зверніть увагу на цю статтю.
+More information about the public sale, including sale dates and token pricing information will be released in due course. For details about the SQT tokenomics, [please refer to this article](./20211220-tokenomics.md). For any additional information or questions, [please contact us in Discord](https://discord.com/invite/subquery).
 
-## Про SubQuery
+## About SubQuery
 
-SubQuery — це набір інструментів розробника блокчейну, який дає змогу іншим створювати Web3-додатки майбутнього. Проект SubQuery — це повний API для організації та запиту даних із ланцюгів рівня-1. Наразі обслуговуючи проекти Polkadot, Substrate і Avalanche, ці дані як послуга дозволяє розробникам зосередитися на своєму базовому варіанті використання та інтерфейсі, не витрачаючи час на створення спеціального сервера для обробки даних. SubQuery Network пропонує ввімкнути те саме масштабоване та надійне рішення, але повністю децентралізованим способом.
+[SubQuery](https://subquery.network/) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot, Substrate, and Avalanche projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
-Linktree | Веб-сайт | Дискорд | Telegram | Twitter | Матриця | LinkedIn | YouTube
+​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)

@@ -1,79 +1,75 @@
-# Avalanche için SubQuery Desteğinin Beta Sürümü Yayınlandı
+# Beta of SubQuery Support Released For Avalanche
 
 ![](https://miro.medium.com/max/1400/1*BiJaESR69-vDimBJmXhQvw.png)
 
-Bugün, aylarca süren iyileştirmeler, yeniden düzenleme ve testlerden sonra, açık indeksleme çözümümüzün beta desteğini Avalanche topluluğuyla paylaşmaktan mutluluk duyuyoruz. Polkadot'ta lider veri indeksleyicisi olarak SubQuery'yi kurduktan sonra, yakın zamanda [Avalanche Summit](https://www.avalanchesummit.com/agenda) sırasında Avalanche genişlememizin yakın zamanda duyurulması, esnek ve ölçeklenebilir bir indeksleme aracı için istekli geliştiriciler tarafından heyecanla karşılandı. 
+Today, after months of improvements, refactoring, and testing, we are happy to share the beta support of our open indexing solution with the Avalanche community. After establishing SubQuery as the leading data indexer in Polkadot, the recent [announcement of our expansion into Avalanche](./20220321-avalache.md) during the recent [Avalanche Summit](https://www.avalanchesummit.com/agenda) was met with excitement by developers eager for a flexible and scalable indexing tool.
 
-Beta kılavuzunu buradan takip edin: https://university.subquery.network/quickstart/quickstart-avalanche.html
+Follow the beta guide here: https://university.subquery.network/quickstart/quickstart-avalanche.html
 
-SubQuery, esnek ve hızlı bir açık veri dizinleyicisidir. Açık dizin oluşturma aracımız, geliştiricilerin saatler içinde kendi API'lerini oluşturmalarına yardımcı olmak için tasarlanmıştır ve sözlüklerin (önceden hesaplanmış dizinler) yardımıyla zincirleri inanılmaz derecede hızlı bir şekilde dizine eklemek için tasarlanmıştır. Polkadot'taki tüm dikeylerdeki (cüzdanlar, ağlar, kaşifler, NFT, DeFi, tarayıcılar vb.) müşterilerle olan deneyimimiz bunu oluşturmamıza yardımcı oldu.
+SubQuery is an open data indexer that is flexible and fast. Our open indexing tool is designed to help developers build their own API in hours, and it's designed to index chains incredibly quickly with the assistance of dictionaries (pre-computed indices). Our experience with customers across all verticals in Polkadot (wallets, networks, explorers, NFT, DeFi, scanners, etc) has helped us build this.
 
-Bugünden itibaren, Avalanche geliştiricileri Polkadot'ta yaygın olarak kullanılan aynı hızlı, esnek ve açık dizin oluşturma çözümünün beta sürümüne erişebilecek. Bu bir beta sürümü olduğundan, bazı sorunları olması muhtemeldir. Bu nedenle, ekibimize herhangi bir hata bildirilebilirse memnun oluruz, böylece bunları hızlı bir şekilde ele alabiliriz.
+From today, Avalanche developers will be able to access the beta of the same fast, flexible, and open indexing solution widely used across Polkadot. As this is a beta version, it is likely to have some issues. As such, we would appreciate it if any bugs can be reported to our team so we can address them quickly.
 
+## Why Use SubQuery?
 
+_There are already a few other options here in Avalanche, so why would you build with SubQuery?_
 
-## Neden SubQuery Kullanılır?
+I was asked this very question by many of you that I was lucky enough to meet at the Avalanche Summit. In our space there are generally three other solutions:
 
-_Avalanche'da zaten birkaç seçenek daha var, peki neden SubQuery ile derleme yapasınız?_
+- Build your own solution: Why reinvent the wheel? SubQuery is focusing on building a reliable and fast open indexer --- we're here to save you time
+- Standardised data services or "unified APIs": These providers are excellent if you're building the same app on the same basic smart contract as everyone else, but you're not. You need a unique set of data that allows you to build a superior product that blows your competition out of the water! You need flexibility to get the data that you need in the shape that works best for you
+- Other open GraphQL data services: Everyone that was already using them expressed the same problems, there was a serious lack of developer support and some significant performance issues. Additionally there was only coverage on the contract chain with no plans to extend to your next subnet
 
-Birçoğunuz bana Avalanche Zirvesi'nde tanışacak kadar şanslı olduğum bu soruyu sordu. Alanımızda genellikle üç çözüm daha vardır:
+At SubQuery we have an open-source SDK that is easy to use and lightning quick. It provides you with a standard GraphQL endpoint, or you can just query the postgres database directly.
 
-- Kendi çözümünüzü oluşturun: Neden tekerleği yeniden icat etmelisiniz? SubQuery, güvenilir ve hızlı bir açık dizin oluşturucu oluşturmaya odaklanıyor - size zaman kazandırmak için buradayız
-- Standartlaştırılmış veri hizmetleri veya "birleşik API'ler": Bu sağlayıcılar, aynı uygulamayı herkesle aynı temel akıllı sözleşme üzerine oluşturuyorsanız mükemmeldir, ancak siz oluşturmuyorsunuz. Bununla, kendi akıllı sözleşmelerinizden benzersiz bir dizi veriyi endeksleyebilirsiniz ve bu, rekabetinizi sudan çıkaracak üstün bir ürün oluşturmanıza olanak tanır! İhtiyacınız olan verileri sizin için en uygun şekilde elde etmeniz için size esneklik sağlıyoruz
-- Diğer açık GraphQL veri hizmetleri: Onları zaten kullanan herkes aynı sorunları dile getirdi, ciddi bir geliştirici desteği eksikliği ve bazı önemli performans sorunları vardı. Ek olarak, bir sonraki alt ağınıza genişletme planı olmayan sözleşme zincirinde yalnızca kapsama alanı vardı
+Reliability is key, and you need a reliable and scalable platform to host it. [SubQuery's managed service](https://subquery.network/managedservices) is an industry leading hosting solution for all customers that is serving hundreds of millions of daily requests to the biggest projects in Polkadot. We provide our [enterprise level customers](./20211228-enterprise-hosted.md) with services such as dedicated databases, redundant clusters, intelligent multi-cluster routing, and advanced monitoring and analytics. It will support your application when you are ready and will scale with you.
 
-SubQuery'de kullanımı kolay ve ışık hızında bir açık kaynaklı SDK'ya sahibiz. Size standart bir GraphQL bitiş noktası sağlar veya doğrudan postgres veritabanını sorgulayabilirsiniz.
+And finally, in a few months you'll be able to completely decentralise your SubQuery infrastructure with the SubQuery Network, the future of Web3 infrastructure. The SubQuery Network will index and service your projects data to the global community in an incentivised and verifiable way. It is designed to support any SubQuery project from any layer-1 network including Avalanche, so you can take advantage of the scale of the unified SubQuery Network from launch.
 
-Güvenilirlik anahtardır ve onu barındırmak için güvenilir ve ölçeklenebilir bir platforma ihtiyacınız vardır. [SubQuery'nin yönetilen hizmeti](https://subquery.network/managedservices), Polkadot'taki en büyük projelere günlük yüz milyonlarca istek sunan tüm müşteriler için sektör lideri bir barındırma çözümüdür. [Kurumsal düzeydeki müşterilerimize](./20211228-enterprise-hosted.md) özel veritabanları, yedekli kümeler, akıllı çok kümeli yönlendirme ve gelişmiş izleme ve analiz gibi hizmetler sunuyoruz. Hazır olduğunuzda uygulamanızı destekleyecek ve sizinle birlikte ölçeklenecektir.
+## Installation Instructions
 
-Ve son olarak, birkaç ay içinde, Web3 altyapısının geleceği olan SubQuery Network ile SubQuery altyapınızı tamamen merkezden uzaklaştırabileceksiniz. SubQuery Ağı, proje verilerinizi küresel topluluğa teşvik edilmiş ve doğrulanabilir bir şekilde dizine ekler ve sunar. Avalanche dahil olmak üzere herhangi bir katman-1 ağından herhangi bir SubQuery projesini desteklemek üzere tasarlanmıştır, böylece lansmandan itibaren birleşik SubQuery Ağı'nın ölçeğinden yararlanabilirsiniz.
+Follow the beta guide here: https://university.subquery.network/quickstart/quickstart-avalanche.html
 
+You'll first need to install @subql/cli via *npm i -g @subql/cli*
 
+The best way is to start with our starter project, it contains a running project with an example of all mapping functions: https://github.com/subquery/avalanche-subql-starter. This project indexes the following from the [Pangolin Smart Contract](https://snowtrace.io/token/0x60781c2586d68229fde47564546784ab3faca982):
 
-## Kurulum Talimatları
+- BlockHandler: All blocks and their core information
+- TransactionHandler: All transactions from the approve function within the Pangolin smart contract
+- EventHandler: All transfer events from the Pangolin smart contract
 
-Beta kılavuzunu buradan takip edin: https://university.subquery.network/quickstart/quickstart-avalanche.html
+SubQuery's Avalanche implementation has been designed to operate almost identically to SubQuery's Polkadot support, and in a similar way to the Graph's approach. We've updated the [SubQuery University](https://university.subquery.network/build/introduction.html) to add Avalanche specific information to the general SubQuery documentation. You can start by following this [excellent getting started guide here](https://university.subquery.network/quickstart/quickstart-avalanche.html).
 
-Öncelikle @subql/cli'yi *npm i -g @subql/cli  üzerinden yüklemeniz gerekir
+## SubQuery's Support for Avalanche
 
-En iyi yol, başlangıç ​​projemizle başlamaktır, tüm eşleme işlevlerinin bir örneğini içeren çalışan bir proje içerir: Bu proje aşağıdakileri dizine ekler.: https://github.com/subquery/avalanche-subql-starter. Bu proje aşağıdakileri [Pangolin Akıllı Sözleşmesinden endekslemektedir](https://snowtrace.io/token/0x60781c2586d68229fde47564546784ab3faca982):
-
-- BlockHandler: Tüm bloklar ve bunların hash ve yükseklikleri
-- TransactionHandler: Pangolin akıllı sözleşmesindeki onaylama işlevinden yapılan tüm işlemler
-- EventHandler: Pangolin akıllı sözleşmesindeki tüm transfer etkinlikleri
-
-SubQuery'nin Avalanche uygulaması, SubQuery'nin Polkadot desteğiyle neredeyse aynı şekilde ve Graph'ın yaklaşımına benzer şekilde çalışacak şekilde tasarlanmıştır. Genel SubQuery belgelerine Avalanchea özel bilgiler eklemek için SubQuery Üniversitesi'ni güncelledik. Bu [mükemmel başlangıç ​​kılavuzunu buradan](https://university.subquery.network/quickstart/quickstart-avalanche.html) izleyerek başlayabilirsiniz.
-
-
-
-## Avalanche için SubQuery Desteği
-
-Avalanche ekosistemine tam desteğimizin ilk aşamasını tamamlıyoruz.
+We are completing the first phase of our full support for the Avalanche ecosystem.
 
 ![](https://miro.medium.com/max/1400/0*GUKZJfJCz1nB_3zc)
 
-Bugün aşağıdakileri paylaşıyoruz:
+Today we are sharing the following:
 
-- Gelişmiş Sözleşme Zinciri İndeksleme
-- Avalanche Dictionary: [dizin oluşturma süresini önemli ölçüde azaltmak için](./20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md) önceden hesaplanmış dizinler
-- Ücretsiz [kurumsal düzeyde yönetilen](./20211228-enterprise-hosted.md) hizmetimizde Avalanche için tam destek
-- SubQuery Üniversitesi'ndeki sezgisel belgeler Önümüzdeki haftalarda şunları bekleyebilirsiniz: [SubQuery Academy'de adım adım eğitim kursu](./20211018-subquery-launches-the-subquery-academy.md)
-- Merkezi olmayan SubQuery Ağımızda Avalanche için tam destek (yakında mevcut Frontier test ağımızda bir proje göreceksiniz)
+- Advanced Contract Chain Indexing
+- Avalanche Dictionary: Pre-computed indices to [dramatically reduce indexing time](./20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md)
+- Full support for Avalanche in our free [enterprise level](./20211228-enterprise-hosted.md) managed service
+- Intuitive documentation in the [SubQuery University](https://university.subquery.network/)
 
-Önümüzdeki aylarda planlanan Alt Ağ sayısıyla, tüm uyumlu Alt Ağlarda çalışan hızlı, açık ve esnek dizin oluşturma desteğine büyük ihtiyaç duyulacaktır. Polkadot'un parachain'leri için bu yapılandırılabilirlik seviyesini uygulama deneyimine sahibiz ve Avalanche için aynı sonucun nasıl sağlanacağını araştırıyoruz (örneğin, kardan adamın özel uygulamalarını içe aktararak). Blok vb.).
+In the coming weeks you can expect:
 
-Avalanche için beta desteğimizin lansmanı, geliştiricilerinin daha ileri ve daha hızlı ilerlemesini sağlamak için Avalanche topluluğu için gelişmiş indeksleme araçları sunma taahhüdümüzde önemli bir dönüm noktasıdır. Web3'teki en hızlı büyüyen geliştirici topluluklarından biri için güvenilir bir altyapı ortağı olarak teklifimizi geliştirmek ve görünürlüğümüzü artırmak için topluluktan geri bildirim almak için sabırsızlanıyoruz
+- A step by step learning course in the [SubQuery Academy](./20211018-subquery-launches-the-subquery-academy.md)
+- Full support for Avalanche in our decentralised SubQuery Network (you'll see a project in our current Frontier test network)
 
-Şimdi bu ekosistemdeki ilk SubQuery projelerini geliştirirken yakından destekleyebileceğimiz lansman ortakları arıyoruz. Bizimle yolculukta ilk olmak istiyorsanız james.bayly@subquery.network adresinden bana ulaşın.
+With the number of Subnets planned over the coming months, there will be a huge need for fast, open, and flexible indexing support that works across all compatible Subnets. We have experience implementing this level of configurability for Polkadot's parachains, and are investigating how to provide the same outcome for Avalanche (e.g. by importing custom implementations of snowman.Block etc).
+
+The launch of our beta support for Avalanche marks a significant milestone in our commitment to offer enhanced indexing tools for the Avalanche community to enable her developers to go further, faster. We are eager to get feedback from the community in order to improve our offering and increase our visibility as a trusted infrastructure partner for one of the fastest growing developer communities in Web3
+
+We are now looking for launch partners that we can closely support as they develop their first SubQuery projects in this ecosystem. Reach out to me at james.bayly@subquery.network if you want to be first on the journey with us.
 
 _James Bayly_
 
-Beta kılavuzunu buradan takip edin: https://university.subquery.network/quickstart/quickstart-avalanche.html
+Follow the beta guide here: https://university.subquery.network/quickstart/quickstart-avalanche.html
 
+## About SubQuery
 
-
-## SubQuery Hakkında
-
-[SubQuery](https://subquery.network/), başkalarının geleceğin Web3 uygulamalarını oluşturmasını sağlayan bir blok zinciri geliştirici araç takımıdır. Bir SubQuery projesi, katman-1 zincirlerinden verileri düzenlemek ve sorgulamak için eksiksiz bir API'dir. Şu anda Polkadot, Substrate, Avalanche ve şimdi Terra projelerine hizmet veren bu hizmet olarak veri, geliştiricilerin veri işleme için özel bir arka uç oluşturmaya zaman kaybetmeden temel kullanım durumlarına ve ön uçlarına odaklanmalarına olanak tanır. SubQuery Ağı, aynı ölçeklenebilir ve güvenilir çözümü, ancak tamamen merkezi olmayan bir şekilde etkinleştirmeyi önerir.
+[SubQuery](https://subquery.network/) is a blockchain developer toolkit enabling others to build Web3 applications of the future. A SubQuery project is a complete API to organise and query data from layer-1 chains. Currently servicing Polkadot, Substrate, Avalanche and Terra projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing. The SubQuery Network proposes to enable this same scalable and reliable solution, but in a completely decentralised way.
 
 ​​[Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)

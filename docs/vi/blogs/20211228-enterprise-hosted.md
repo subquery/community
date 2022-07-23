@@ -1,45 +1,45 @@
-# SubQuery Cung Cấp Cho Khách Hàng Dịch Vụ Hỗ Trợ Doanh Nghiệp
+# SubQuery Provides Customers with Enterprise Support
 
 ![](https://miro.medium.com/max/1400/1*z_StqAT5KeaxQLBCm-xpRQ.jpeg)
 
-Khi cộng đồng của chúng tôi phát triển lớn hơn, chúng tôi thấy hàng trăm lượt triển khai và lưu lượng truy cập cũng nhiều hơn theo cấp số nhân vào dịch vụ lưu trữ của chúng tôi mỗi ngày. Tuy nhiên, nhóm nghiên cứu tại SubQuery đang vượt qua thách thức này và mở rộng quy mô dịch vụ để đáp ứng nhu cầu chưa từng có đối với các công cụ của khách hàng, đồng thời vẫn giữ cho [dịch vụ lưu trữ](https://projects.subquery.network/) miễn phí.
+As our community grows larger we are seeing hundreds of deployments and exponentially more traffic to our hosted service each and every day. The team at SubQuery are rising to this challenge however and are scaling our services to meet the unprecedented demand for our tools by our customers, while keeping our [hosted service](https://projects.subquery.network/) free.
 
-Nhiều khách hàng hiện đang dùng SubQuery để cung cấp dữ liệu quan trọng cho các ứng dụng sản xuất của họ. Những khách hàng này đại diện cho một số ví lớn nhất ([Nova](https://novawallet.io/) và [Fearless](https://fearlesswallet.io/)), scanners ([Subscan](https://www.subscan.io/), [SubVis](https://www.subvis.io/), và [DotMarketCap](https://dotmarketcap.com/)), nền tảng NFT ([Kodadot](https://kodadot.xyz/) và [Yuser](https://yuser.co/)), và nhiều hơn nữa. Đây là những ứng dụng khổng lồ mà cộng đồng Polkadot sử dụng hàng ngày và luôn phải trực tuyến.
+Many customers now rely on SubQuery to provide mission critical data to their production apps. These customers represent some of the largest wallets ([Nova](https://novawallet.io/) and [Fearless](https://fearlesswallet.io/)), scanners ([Subscan](https://www.subscan.io/), [SubVis](https://www.subvis.io/), and [DotMarketCap](https://dotmarketcap.com/)), NFT platforms ([Kodadot](https://kodadot.xyz/) and [Yuser](https://yuser.co/)), and more. These are huge applications that the Polkadot community use on a daily basis and must be online at all times.
 
-Hiệu suất và độ tin cậy của dịch vụ lưu trữ của chúng tôi luôn được đặt lên hàng đầu. Bởi vì team "chị em" của chúng tôi là OnFinality, một nhà cung cấp cơ sở hạ tầng lớn nhất của Polkadot, vì vậy chúng tôi có nhiều kinh nghiệm trong lĩnh vực này. Do đó, hôm nay chúng ta sẽ xem xét ba cải tiến gần đây sẽ làm cho SubQuery trở thành nền tảng dữ liệu đáng tin cậy, có thể mở rộng và hoạt động hiệu quả nhất trong Polkadot.
+The performance and reliability of our hosted service has been on the top of our priority list for some time here at SubQuery. Our sister team is OnFinality, Polkadot’s largest infrastructure provider, so we have plenty of experience in this area. As a result, today we are going to walk through three recent improvements that will make SubQuery the most reliable, scalable, and performant data platform in Polkadot.
 
 ![](https://miro.medium.com/max/1200/1*QckhJzjQqw9czpBMRhXgXQ.gif)
 
-## Cơ sở dữ liệu chuyên dụng
+## Dedicated Databases
 
-Ban đầu, tất cả các dự án SubQuery đều được triển khai tới cơ sở dữ liệu dùng chung trong cơ sở hạ tầng của chúng tôi để tiết kiệm tiền và cho phép dịch vụ của chúng tôi duy trì miễn phí. Tuy nhiên, điều này làm cho các dự án có lưu lượng truy cập cao với các tập dữ liệu lớn, sẽ bóp nghẹt các dự án khác được lưu trữ trong cùng một cơ sở dữ liệu.
+Initially, all SubQuery projects were deployed to shared databases in our infrastructure to save money and allow our service to remain free. However, this would cause high traffic projects with large data sets to strangle other projects hosted in the same database.
 
-Nếu bạn đang xây dựng một dự án được thiết kế để sử dụng trong sản xuất, chúng tôi cung cấp một cơ sở dữ liệu chuyên dụng được lưu trữ trong các cụm SubQuery của chúng tôi có thể cung cấp cho dự án của bạn tất cả các tài nguyên cần thiết để xử lý hàng nghìn truy vấn phức tạp mà không lo ảnh hưởng đến hiệu suất từ những người khác.
+If you’re building a project that is designed for production use, we offer a dedicated database hosted in our SubQuery clusters that can give your project all the resources it needs to handle thousands of complicated queries without worrying about performance impact from others.
 
-Bạn nên liên hệ với chúng tôi tại sales@subquery.network nếu bạn muốn nâng cấp lên phiên bản này. Chúng tôi sao chép dữ liệu của bạn từ các bảng hiện có của bạn, vì vậy bạn không cần phải mất thời gian lập chỉ mục lại dữ liệu mà bạn đã có, từ đó giúp cho việc đến việc di chuyển dữ liệu mà không có thời gian chết.
+You should get in touch with us at sales@subquery.network if you’d like to upgrade to this. We replicate your data from your existing tables so you don’t need to spend time reindexing data you already have resulting in a migration with zero downtime.
 
-## Hỗ trợ nhiều cụm
+## Multiple Cluster Support
 
-Khả năng phục hồi và độ tin cậy là tất cả đối với chúng tôi tại SubQuery. Việc có một cụm dự phòng ở một phần riêng biệt trên thế giới có nghĩa là chúng tôi có thể nhanh chóng khôi phục sau sự cố nhà cung cấp dịch vụ đám mây đôi khi khiến các khu vực ngoại tuyến.
+Resiliency and reliability mean everything to us at SubQuery. Having a redundant cluster in a separate part of the world means that we can quickly recover from cloud provider outages that occasionally take regions offline.
 
-Ngoài ra, khi bạn đưa ra yêu cầu đối với một dự án SubQuery trong dịch vụ được lưu trữ của chúng tôi, phần lớn thời gian chờ đợi là do độ trễ. Độ trễ điểm chỉ thời gian mà yêu cầu của bạn vòng quanh thế giới đến cụm SubQuery gần nhất và có thể mất đến một hoặc hai giây từ một số vùng xa. Việc có nhiều cụm trên khắp thế giới cho phép chúng tôi giảm phần lớn thời gian yêu cầu (độ trễ).
+Additionally, when you make a request to a SubQuery project in our hosted service, the majority of the waiting time comes from latency. Latency is the point to point time it takes your request to circle the world to the nearest SubQuery cluster and can take up to a second or two from some remote regions. Having multiple clusters around the world allows us to reduce the most significant part of the request time (the latency).
 
-Chúng tôi đã triển khai nhiều cụm ở các khu vực khác nhau cung cấp cùng một dịch vụ. Công việc này cũng bao gồm một công cụ trong [Dự án SubQuery](https://project.subquery.network/) cho phép bạn triển khai và quản lý dự án của mình trên các cụm này. Chúng tôi cũng đã triển khai các quy trình đảm bảo rằng cơ sở dữ liệu ở các khu vực khác nhau luôn nhất quán, để bất kể yêu cầu của bạn chuyển đến cụm nào, dữ liệu bạn nhận được đều nhất quán.
+We’ve implemented multiple clusters in different regions that provide the same service. This work also includes a tool in [SubQuery Projects](https://project.subquery.network/) that allows you to deploy and manage your project across these clusters. We’ve also implemented processes that ensure that databases in different regions stay consistent, so that regardless of which cluster your request goes to, the data that you receive is consistent.
 
 ## Định tuyến thông minh
 
-Khi chúng tôi có các cụm SubQuery đang chạy ở các vùng khác nhau, bước hợp lý tiếp theo là làm cho tính năng này trở nên ẩn đối với người dùng. Người dùng sẽ không bao giờ phải quyết định cụm nào mà yêu cầu của họ chuyển đến, SubQuery sẽ tự động định tuyến các yêu cầu của họ đến cụm khỏe mạnh gần nhất. Đây là những gì định tuyến thông minh của SubQuery cung cấp.
+Once we have SubQuery clusters running in different regions, the next logical step is to make this feature invisible to your users. Your users should never have to decide what cluster their requests go to, SubQuery should automatically route their requests to the closest healthy cluster. This is what SubQuery’s intelligent routing provides.
 
-Chúng tôi cung cấp một điểm cuối toàn cầu duy nhất cho mỗi khách hàng cao cấp có định tuyến thông minh tự động áp dụng cho từng và mọi yêu cầu. Dịch vụ này bao gồm chức năng giám sát liên tục ping từng cụm để kiểm tra sức khỏe và đảm bảo rằng người dùng không bao giờ phải chuyển đến một cụm bị quá tải hoặc ngoại tuyến. Điểm cuối toàn cầu tối ưu hóa định tuyến cho từng yêu cầu đến cụm gần nhất để đảm bảo người dùng của bạn nhận được hiệu suất tốt nhất từ các cụm của bạn.
+We offer a single global endpoint to each premium customer that has intelligent routing automatically applied to each and every request. This service includes considerable monitoring that constantly ping each cluster for health checks and ensure that a user is never routed to a cluster that is overwhelmed or offline. The global endpoint optimises the routing for each request to the nearest cluster to ensure your users receive the best performance from your clusters.
 
 ![](https://miro.medium.com/max/1000/0*DNXDiABzli0et1MU)
 
-Tóm lại, những dịch vụ này cho phép chúng tôi tự tin cung cấp dịch vụ cao cấp của mình cho nhiều khách hàng hơn. Chúng tôi làm việc với từng khách hàng để hiểu doanh nghiệp và mục tiêu của họ, sau đó thiết lập dịch vụ để đáp ứng nhu cầu của họ. SubQuery là nhà cung cấp dịch vụ dữ liệu lớn nhất ở Polkadot và các tính năng này cho thấy cách chúng tôi hỗ trợ hàng nghìn dự án cộng đồng cùng lúc với các dự án lớn nhất ở Polkadot.
+In summary, these services allow us to offer our premium service to more customers with confidence. We work with each customer to understand their business and goals, and then to set up a service to meet their needs. SubQuery is the largest data service provider in Polkadot, and these features show how we support thousands of community projects at the same time as the biggest projects in Polkadot.
 
-## Giới thiệu về mạng SubQuery
+## About SubQuery Network
 
-SubQuery là nhà cung cấp dữ liệu hàng đầu của Polkadot, hỗ trợ lập chỉ mục & lớp truy vấn giữa các blockchains Lớp-1 (Polkadot) và các ứng dụng phi tập trung. Dịch vụ dữ liệu của SubQuery đang được hầu hết các trang web đấu giá parachain và huy động vốn cộng đồng trên Polkadot và Kusama hiện có sử dụng.
+SubQuery is Polkadot’s leading data provider, supporting an indexing & querying layer between Layer-1 blockchains (Polkadot) and decentralized applications. SubQuery’s data service is being used by most of the Polkadot and Kusama crowdloan and parachain auction websites live today.
 
-Giao thức của SubQuery loại bỏ các đặc điểm riêng của dữ liệu blockchain với SubQuery SDK, cho phép các nhà phát triển tập trung vào việc triển khai sản phẩm cốt lõi của họ mà không cần lãng phí nỗ lực vào các công nghệ phụ trợ tùy chỉnh.
+SubQuery’s protocol abstracts away blockchain data idiosyncrasies with the SubQuery SDK, allowing developers to focus on deploying their core product without needlessly wasting efforts on custom backend technologies.
 
 [Linktree](https://linktr.ee/subquerynetwork) | [Website](https://subquery.network/) | [Discord](https://discord.com/invite/78zg8aBSMG)| [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery) | [YouTube](https://www.youtube.com/channel/UCi1a6NUUjegcLHDFLr7CqLw)
