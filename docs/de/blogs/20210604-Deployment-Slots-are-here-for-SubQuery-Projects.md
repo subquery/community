@@ -10,7 +10,7 @@ Du kannst jetzt einen isolierten Staging-Slot einrichten
 
 Obwohl Sie die Infrastruktur von SubQuery jederzeit selbst betreiben können (mit Ihrem eigenen Knoten- und Abfragedienst), möchten wir unseren gehosteten Dienst zum zuverlässigsten, widerstandsfähigsten und leistungsfähigsten Datenanbieter im Polkadot/Substrate-Ökosystem machen.
 
-Ersteller von [SubQuery-Projekten](https://project.subquery.network/) verbessern und aktualisieren ihre Projekte und die Daten in diesen Projekten ständig. Leider dauert es Stunden, wenn nicht sogar Tage, um Kettendaten im Falle einer größeren Änderung neu zu indizieren – letztendlich ist es unser Ziel, Ihnen zu ermöglichen, Ihr Projekt zu aktualisieren, Ihre Daten neu zu indizieren und Ihre gehosteten SubQuery-Projekte mit **ohne Ausfallzeiten</0 zu aktualisieren ></p>
+Ersteller von [SubQuery-Projekten](https://project.subquery.network/) verbessern und aktualisieren ihre Projekte und die Daten in diesen Projekten ständig. Leider dauert es Stunden, wenn nicht sogar Tage, um Kettendaten im Falle einer größeren Änderung neu zu indizieren – letztendlich ist es unser Ziel, Ihnen zu ermöglichen, Ihr Projekt zu aktualisieren, Ihre Daten neu zu indizieren und Ihre gehosteten SubQuery-Projekte mit ohne Ausfallzeiten zu aktualisieren
 
 **Das ist es, was Deployment-Slots hier lösen sollen**
 
@@ -22,8 +22,8 @@ Wenn Sie eine neue Bereitstellung für Ihr [SubQuery-Projekt in unserem gehostet
 
 Der Staging-Slot ist perfekt für:
 
--   Überprüfen von Änderungen an Ihrem SubQuery-Projekt in einer separaten Umgebung. Der Staging-Slot hat eine andere URL als die Produktion, die Sie in Ihren dApps verwenden können.
--   Aufwärmen und Indizieren von Daten für ein aktualisiertes SubQuery-Projekt, um Ausfallzeiten in Ihrer dApp zu vermeiden
--   Eine neue Version für Ihr SubQuery Projekt vorbereiten, ohne es öffentlich freizugeben. Der Staging-Slot wird der Öffentlichkeit im Explorer nicht angezeigt und hat eine einzigartige URL, die nur für Sie sichtbar ist.
+- Überprüfen von Änderungen an Ihrem SubQuery-Projekt in einer separaten Umgebung. Der Staging-Slot hat eine andere URL als die Produktion, die Sie in Ihren dApps verwenden können.
+- Aufwärmen und Indizieren von Daten für ein aktualisiertes SubQuery-Projekt, um Ausfallzeiten in Ihrer dApp zu vermeiden
+- Eine neue Version für Ihr SubQuery Projekt vorbereiten, ohne es öffentlich freizugeben. Der Staging-Slot wird der Öffentlichkeit im Explorer nicht angezeigt und hat eine einzigartige URL, die nur für Sie sichtbar ist.
 
 Sie können es jetzt in [SubQuery-Projekten](https://project.subquery.network/) selbst ausprobieren.
