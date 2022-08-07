@@ -14,7 +14,7 @@ In case of intensive CPU processing, the event loop gets blocked and we can not 
 
 ## How Do I Start?
 
-The feature is disabled by default while we are still testing it. However, we are so excited we wanted to let you know about it and get your feedback. You can easily enable it using the -workers=<number> flag. Note that the number of available CPU cores strictly limits the usage of worker threads. For now, it is only available for Substrate and Cosmos and will soon be integrated for Avalanche.
+The feature is disabled by default while we are still testing it. However, we are so excited we wanted to let you know about it and get your feedback. You can easily enable it using the `-workers=<number>` flag. Note that the number of available CPU cores strictly limits the usage of worker threads. For now, it is only available for Substrate and Cosmos and will soon be integrated for Avalanche.
 
 Our hosted service doesn't offer this feature currently and we expect to add support for paid and partner projects shortly.
 
