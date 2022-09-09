@@ -54,7 +54,7 @@ This feature will move block fetching and block processing into its own worker t
 
 SubQuery's mission is to continuously improve and solve the biggest issues for dApp developers. This month we released a brand new feature --- intelligent reindexing. This feature allows using our automated historical state tracking to reindex any data from a certain block height.
 
-In case of a mistake in your mapping file or adding a new contract, you can now reindex your data using the same GraphQL Schema. Simply use --- reindex=<blockNumber> [command](https://academy.subquery.network/run_publish/references.html#reindex) to remove already indexed data and reindex it again from specified block height.
+In case of a mistake in your mapping file or adding a new contract, you can now reindex your data using the same GraphQL Schema. Simply use --- `reindex=<blockNumber>` [command](https://academy.subquery.network/run_publish/references.html#reindex) to remove already indexed data and reindex it again from specified block height.
 
 Please note that the way of using this feature will be updated soon. Soon we will add the ability to make tracked and deterministic GraphQL Schema migrations, which will make reindexing with SubQuery incredibly quick and deterministic, solving the biggest pain point with chain indexers.
 
