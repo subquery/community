@@ -1,5 +1,7 @@
 # SubQuery Introduces Project Insights - Learn More within the SubQuery Managed Service!
 
+![](https://cdn-images-1.medium.com/max/1200/1*u7nH3TrVomkPJ6R7KPCFyQ.png)
+
 When building a dApp for thousands of users, it is essential that you are able to measure and learn from your user's behaviour. As such, it is imperative to us that our customers have superior tools to analyse and learn more about their SubQuery projects. [Off the back of our recent UI redesign](./20220901-managed-service-redesign.md), we are able to add even more value to the SubQuery Managed service by adding Project Insights.
 
 The release of the Project Insights page has been highly anticipated by our customers and has elevated the Managed Service to be more than just infrastructure hosting, it's now a complete service. Within one platform, you can reliably publish your latest creation, scale your app to thousands (if not millions) of users, and now view detailed analytics and insights on how your SubQuery Project is operating.
