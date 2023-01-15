@@ -16,7 +16,7 @@
 
 > *"서브쿼리는 폴카닷 스택의 중요한 부분이며, 주요 폴카닷 프로젝트와의 수 많은 파트너십이 이를 증명합니다. 저희는 폴카닷 생태계의 적극적인 투자자로서, 팀의 열정과지식 및 업무에 대한 노력과 헌신에 깊은 인상을 받았고 결과적으로 서브쿼리팀을 지원하게 되었습니다."* - Matt Beck, DCG 투자 이사
 
-폴카닷의 파라체인 아키텍처는 다른 레이어 1 블록체인과의 주된 차별화 요소입니다. 서롷 간에 경쟁하는 단일 체인 설계와 달리 각 파라체인은 릴레이체인을 통해 다른 파라체인과 상호 운용 및 자체적인 독립 프로토콜 역할을 수행합니다. 릴레이 체인에서 슬롯을 획득하기 위해 파라체인은 크라우드론 캠페인을 통해 커뮤니티에서 자금을 조달하고,  이 캠페인을 통해 참가자는 장기적으로 자신이 좋아하는 프로젝트에 대해 쿠사마 또는 폴카닷 토큰을 스테이킹 해야합니다. 처음부터 서브쿼리는 최소한의 구성으로 모든 파라체인과 통합되도록 구축되었습니다.
+폴카닷의 파라체인 아키텍처는 다른 레이어 1 블록체인과의 주된 차별화 요소입니다. 서롷 간에 경쟁하는 단일 체인 설계와 달리 각 파라체인은 릴레이체인을 통해 다른 파라체인과 상호 운용 및 자체적인 독립 프로토콜 역할을 수행합니다. To win a slot on the relay chain, parachains raise capital from the community via a crowdloan campaign, which requires participants to stake - for the long term - native Kusama or Polkadot tokens against their favourite projects. 처음부터 서브쿼리는 최소한의 구성으로 모든 파라체인과 통합되도록 구축되었습니다.
 
 서브쿼리는 이미 [폴카닷 & 쿠사마에서 구축된 60개 이상의 프로젝트](https://explorer.subquery.network/)에 매일 수백만 개의 데이터 쿼리를 제공하고 있습니다. Of its existing customer base, SubQuery is integrated with established applications like [Subscan](../customer_announcements/20210901-Subscans-Multi-Signature-Tool.md), [Fearless Wallet](https://explorer.subquery.network/subquery/ef1rspb/fearless-wallet) and [SubVis](../customer_announcements/20210622-Explore-Kusama-Auctions-with-Subvis.io-and-SubQuery.md), as well as three out of the initial five Kusama parachain crowdloan winners: [Acala's Karura](../customer_announcements/20210819-Karura-Integrates-with-SubQuery-to-Aggregate-and-Serve-DeFi-Data-to-Kusama-Builders.md), Phala's Khala, and [Bifrost](../customer_announcements/20210416-Bifrost-chooses-SubQuery-to-provide-the-data-for-their-new-dApp.md). 다음 5개의 파라체인 크라우드론은 9월 한 달 동안 진행될 예정입니다.
 
