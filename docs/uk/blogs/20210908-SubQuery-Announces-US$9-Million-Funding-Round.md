@@ -8,25 +8,37 @@ SubQuery оголошує раунд фінансування у розмірі 
 
 SubQuery має на меті покращити доступ до децентралізованих даних блокчейну, створивши жвавий ринок для індексації та надання ресурсів. Його технологія надає розробникам Polkadot та Kusama інструменти, необхідні для легкого дослідження, перетворення та аналізу даних у мережі. Абстрагуючи бекенд, SubQuery усуває необхідність у користувацьких серверах обробки даних. Це дозволяє розробникам зосередитися на розробці продукту та користувацькому досвіді, а не на створенні власних систем запитів.
 
-Цей стратегічний раунд очолювали [ Arrington Capital ](https://arringtonxrpcapital.com/), [ DCG ](https://dcg.co/) та [ Stratos Technologies ](https://www.stratoslp.com/), і він включав участь [ Hypersphere Ventures ](https://hypersphere.ventures/), [ Neo Global Capital (NGC) ](http://ngc.fund/), [ Wintermute ](https://www.wintermute.com/) та [ Skynet Trading ](http://skynettrading.com/). Це продовження з першого раунду на початку 2021 року, який включав [ Альянс DeFi ](https://defialliance.co/), [ LAO ](https://www.thelao.io/), [ Цифрове Відродження ](https://drf.ee/), P2P Capital та [ Web3 Capital ](https://web3.capital/).
+Цей стратегічний раунд очолювали [ Arrington Capital ](https://arringtonxrpcapital.com/), [ DCG ](https://dcg.co/) та [ Stratos Technologies ](https://www.stratoslp.com/), і він включав участь [ Hypersphere Ventures ](https://hypersphere.ventures/), [ Neo Global Capital (NGC) ](http://ngc.fund/), [ Wintermute ](https://www.wintermute.com/) та [ Skynet Trading ](http://skynettrading.com/). Це продовження з першого раунду на початку 2021 року, який включав [ Альянс DeFi ](https://defialliance.co/), [ LAO ](https://www.thelao.io/), [ Цифрове Відродження ](https://drf.ee/),
 
-> - "Ми - ранні інвестори таких парачейн, як Moonbeam та Acala, і хочемо, щоб команди в цих екосистемах змогли зосередитися на своїх основних продуктах. SubQuery полегшує створення та розробку. Він масштабується до всіх парачейн і може спровокувати наступний бум активності на Polkadot та Кусама "\*-Нінор Мансор, партнер компанії Arrington Capital
+ P2P Capital </ 3> та [ Web3 Capital ](https://web3.capital/).</p> 
+
+
+
+> * "Ми - ранні інвестори таких парачейн, як Moonbeam та Acala, і хочемо, щоб команди в цих екосистемах змогли зосередитися на своїх основних продуктах. SubQuery полегшує створення та розробку. Він масштабується до всіх парачейн і може спровокувати наступний бум активності на Polkadot та Кусама "*-Нінор Мансор, партнер компанії Arrington Capital
 
 ![](https://cdn-images-1.medium.com/max/1600/1*j4VHuY_BgjkYv_bQ6_DmcQ.gif)
 
-> - "SubQuery є важливою частиною екосистеми Polkadot, і його глибокі стосунки з провідними проектами Polkadot це підтверджують. Як активний інвестор в екосистему Polkadot, ми вражені пристрастю команди, знаннями і відданістю своїй роботі, і ми дуже раді їх підтримати. "\*- Метт Бек, директор з інвестицій DCG
 
-Архітектура Парачейн Polkadot є ключовим відмінником від інших блокчейнів рівня 1. На відміну від конкуруючих конструкцій з одним ланцюгом, кожен парачейн служить своїм власним незалежним протоколом, взаємодіючи з іншими парачейнами за допомогою загального ретранслятора. Щоб виграти слот у ланцюжку ретрансляцій, парачеїни збирають капітал від спільноти за допомогою кампанії краудлоуну, яка вимагає від учасників ставити --- на тривалий термін --- рідні жетони Kusama або Polkadot для своїх улюблених проектів. З самого початку SubQuery створений для інтеграції з будь -яким парачейн з мінімальною необхідною конфігурацією.
+
+> * "SubQuery є важливою частиною екосистеми Polkadot, і його глибокі стосунки з провідними проектами Polkadot це підтверджують. Як активний інвестор в екосистему Polkadot, ми вражені пристрастю команди, знаннями і відданістю своїй роботі, і ми дуже раді їх підтримати. "*- Метт Бек, директор з інвестицій DCG
+
+Архітектура Парачейн Polkadot є ключовим відмінником від інших блокчейнів рівня 1. На відміну від конкуруючих конструкцій з одним ланцюгом, кожен парачейн служить своїм власним незалежним протоколом, взаємодіючи з іншими парачейнами за допомогою загального ретранслятора. To win a slot on the relay chain, parachains raise capital from the community via a crowdloan campaign, which requires participants to stake - for the long term - native Kusama or Polkadot tokens against their favourite projects. З самого початку SubQuery створений для інтеграції з будь -яким парачейн з мінімальною необхідною конфігурацією.
 
 SubQuery вже обслуговує мільйони запитів даних щодня для [ понад 60 проектів у Polkadot та Кусама ](https://explorer.subquery.network/). Of its existing customer base, SubQuery is integrated with established applications like [Subscan](../customer_announcements/20210901-Subscans-Multi-Signature-Tool.md), [Fearless Wallet](https://explorer.subquery.network/subquery/ef1rspb/fearless-wallet) and [SubVis](../customer_announcements/20210622-Explore-Kusama-Auctions-with-Subvis.io-and-SubQuery.md), as well as three out of the initial five Kusama parachain crowdloan winners: [Acala's Karura](../customer_announcements/20210819-Karura-Integrates-with-SubQuery-to-Aggregate-and-Serve-DeFi-Data-to-Kusama-Builders.md), Phala's Khala, and [Bifrost](../customer_announcements/20210416-Bifrost-chooses-SubQuery-to-provide-the-data-for-their-new-dApp.md). Наступні п'ять парачейн crowdloans планують почати протягом вересня.
 
 Цей раунд збору коштів прискорить технічну та громадську дорожню карту SubQuery на 2021 рік і пізніше. Команда планує децентралізувати та ознайомити протокол та побудувати мережу SubQuery, щоб вони могли залучати до участі зацікавлених учасників з усього світу. SubQuery також планує покращити та розширити свої послуги, оскільки понад 60 проектів уже використовують його розміщені послуги. Забігаючи на майбутнє, команда планує інтегруватися з іншими ланцюжками 1 -го рівня, включаючи Solana, Terra та інших.
 
+
+
 ---
+
+
 
 ## About SubQuery
 
 [ SubQuery ](https://subquery.network) - це децентралізоване об’єднання даних, індексування; рівень запитів між блокчейнами рівня 1 та децентралізованими програмами. Протокол абстрагує ідіосинкразії даних блокчейну за допомогою пакета SDQ SubQuery, дозволяючи розробникам зосередитися на розгортанні свого основного продукту, без зайвих витрат зусиль на костомизовані технології бекенду.
+
+
 
 ### Знайти більше
 
