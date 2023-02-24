@@ -17,7 +17,7 @@ The application ecosystem has thrived in Cosmos even though there is a serious l
 
 At SubQuery we have an open-source SDK that is easy to use and lightning quick. It provides you with a standard GraphQL endpoint, or you can just query the postgres database directly. With it you can index a unique set of data from your own smart contracts that allows you to build a superior product that blows your competition out of the water! We give you flexibility to get the data that you need in the shape that works best for you.
 
-Reliability is key, and you need a reliable and scalable platform to host it. [SubQuery's managed service](https://subquery.network/managedservices) is an industry leading hosting solution for all customers that is serving hundreds of millions of daily requests to the biggest projects in Polkadot. We provide our [enterprise level customers](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) with services such as dedicated databases, redundant clusters, intelligent multi-cluster routing, and advanced monitoring and analytics. It will support your application when you are ready and will scale with you.
+Reliability is key, and you need a reliable and scalable platform to host it. [SubQuery's managed service](https://managedservice.subquery.networks) is an industry leading hosting solution for all customers that is serving hundreds of millions of daily requests to the biggest projects in Polkadot. We provide our [enterprise level customers](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) with services such as dedicated databases, redundant clusters, intelligent multi-cluster routing, and advanced monitoring and analytics. It will support your application when you are ready and will scale with you.
 
 And finally, in a few months you'll be able to completely decentralise your SubQuery infrastructure with the SubQuery Network, the future of Web3 infrastructure. The SubQuery Network will index and service your projects data to the global community in an incentivised and verifiable way. It is designed to support any SubQuery project from any layer-1 network including Cosmos, so you can take advantage of the scale of the unified SubQuery Network from launch.
 
@@ -46,7 +46,7 @@ However, we are confident that this SubQuery implementation should work seamless
 
 ## Deploying your Project to SubQuery's Managed Service
 
-Although you will always be able to run your project in your own infrastructure easily, [SubQuery's managed service](https://subquery.network/managedservices) now supports Cosmos projects. Some of the biggest projects depend on SubQuery's [enterprise level](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) managed service and now you can too. As part of our launch partner agreement, we are providing you with 3 months free hosting.
+Although you will always be able to run your project in your own infrastructure easily, [SubQuery's managed service](https://managedservice.subquery.networks) now supports Cosmos projects. Some of the biggest projects depend on SubQuery's [enterprise level](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) managed service and now you can too. As part of our launch partner agreement, we are providing you with 3 months free hosting.
 
 You can [follow the guide here](https://doc.subquery.network/run_publish/publish.html) to publish your Cosmos SubQuery project to our managed service. Please note that you must host your [SubQuery project using IPFS](https://university.subquery.network/run_publish/publish.html) rather than GitHub.
 
@@ -74,7 +74,7 @@ In the coming weeks you can expect:
 
 The launch of our beta support means SubQuery provides multi-chain support for three leading layer-1's focusing on the multi-chain approach (Polkadot, Avalanche, and Cosmos). We are eager to get feedback from the community in order to improve our offering and increase our visibility as a trusted infrastructure partner for one of the fastest growing developer communities in Web3
 
-*James Bayly*
+_James Bayly_
 
 ## Links
 

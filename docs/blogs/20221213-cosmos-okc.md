@@ -14,7 +14,7 @@ SubQuery's flexible, fast, open, and decentralised data indexing solution provid
 
 OKC will benefit from the full SubQuery experience, including the open-source SDK, tools, [documentation](https://academy.subquery.network/quickstart/quickstart_chains/cosmos.html), developer support, and other benefits developers receive from the SubQuery ecosystem.
 
-Additionally, OKC is accommodated by [SubQuery's managed service](https://subquery.network/managedservices), which provides enterprise-level infrastructure hosting and handles over 400 million requests each day.
+Additionally, OKC is accommodated by [SubQuery's managed service](https://managedservice.subquery.networks), which provides enterprise-level infrastructure hosting and handles over 400 million requests each day.
 
 > Sam Zou, the Founder and CEO of SubQuery, said: *"SubQuery is a fundamental piece of web3 infrastructure that will now be supporting yet another Cosmos chain, OKC (OKX Chain). OKC developers will benefit from our fast, flexible and universal blockchain indexing toolkit that is designed to make their lives easier. We can't wait to see all of the exciting dApps that will be built on OKC with the power of SubQuery."*
 

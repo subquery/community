@@ -19,7 +19,7 @@ The application ecosystem has thrived in Terra even though there is a serious la
 
 At SubQuery we have an open-source SDK that is easy to use and lightning quick. It provides you with a standard GraphQL endpoint, or you can just query the postgres database directly. With it you can index a unique set of data from your own smart contracts that allows you to build a superior product that blows your competition out of the water! We give you flexibility to get the data that you need in the shape that works best for you.
 
-Reliability is key, and you need a reliable and scalable platform to host it. [SubQuery's managed service](https://subquery.network/managedservices) is an industry leading hosting solution for all customers that is serving hundreds of millions of daily requests to the biggest projects in Polkadot. We provide our [enterprise level customers](./20211228-enterprise-hosted.md) with services such as dedicated databases, redundant clusters, intelligent multi-cluster routing, and advanced monitoring and analytics. It will support your application when you are ready and will scale with you.
+Reliability is key, and you need a reliable and scalable platform to host it. [SubQuery's managed service](https://managedservice.subquery.networks) is an industry leading hosting solution for all customers that is serving hundreds of millions of daily requests to the biggest projects in Polkadot. We provide our [enterprise level customers](./20211228-enterprise-hosted.md) with services such as dedicated databases, redundant clusters, intelligent multi-cluster routing, and advanced monitoring and analytics. It will support your application when you are ready and will scale with you.
 
 And finally, in a few months you'll be able to completely decentralise your SubQuery infrastructure with the SubQuery Network, the future of Web3 infrastructure. The SubQuery Network will index and service your projects data to the global community in an incentivised and verifiable way. It is designed to support any SubQuery project from any layer-1 network including Terra, so you can take advantage of the scale of the unified SubQuery Network from launch.
 
@@ -40,7 +40,7 @@ SubQuery's Terra implementation has been designed to operate almost identically 
 
 ## Deploying your Project to SubQuery's Managed Service
 
-Although you will always be able to run your project in your own infrastructure easily, [SubQuery's managed service](https://subquery.network/managedservices) now supports Terra project. Some of the biggest projects depend on SubQuery's [enterprise level](./20211228-enterprise-hosted.md) managed service and now you can too. As part of our launch partner agreement, we are providing you with 3 months free hosting.
+Although you will always be able to run your project in your own infrastructure easily, [SubQuery's managed service](https://managedservice.subquery.networks) now supports Terra project. Some of the biggest projects depend on SubQuery's [enterprise level](./20211228-enterprise-hosted.md) managed service and now you can too. As part of our launch partner agreement, we are providing you with 3 months free hosting.
 
 You can [follow the guide here](https://university.subquery.network/run_publish/publish.html) to publish your Terra SubQuery project to our managed service. Please note that you must host your [SubQuery project using IPFS](https://university.subquery.network/run_publish/publish.html) rather than GitHub.
 
@@ -54,15 +54,15 @@ Please notify us once you have deployed your project as we may need to assist wi
 
 Today we are sharing the following:
 
--   Advanced indexing of blocks, event
--   Terra Dictionary: Pre-computed indices to [dramatically reduce indexing time](./20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md)
--   Full support for Terra in our free [enterprise level](./20211228-enterprise-hosted.md) managed service
--   Intuitive documentation in the [SubQuery University](https://university.subquery.network/)
+- Advanced indexing of blocks, event
+- Terra Dictionary: Pre-computed indices to [dramatically reduce indexing time](./20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md)
+- Full support for Terra in our free [enterprise level](./20211228-enterprise-hosted.md) managed service
+- Intuitive documentation in the [SubQuery University](https://university.subquery.network/)
 
 In the coming weeks you can expect:
 
--   A step by step learning course in the [SubQuery Academy](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html)
--   Full support for Terra in our decentralised SubQuery Network (you'll soon see a project in our current Frontier test network)
+- A step by step learning course in the [SubQuery Academy](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html)
+- Full support for Terra in our decentralised SubQuery Network (you'll soon see a project in our current Frontier test network)
 
 ---
 
@@ -72,11 +72,11 @@ James Bayly
 
 ## Links
 
--   [Getting Started Guide](https://university.subquery.network/quickstart/quickstart-terra.html)
--   [SubQuery University (Documentation)](https://university.subquery.network/)
--   [Example Terra Project](https://github.com/subquery/terra-subql-starter)
--   [Managed Service](https://explorer.subquery.network/)
--   [Publish your own Terra Project to the Managed Service](https://project.subquery.network/)
+- [Getting Started Guide](https://university.subquery.network/quickstart/quickstart-terra.html)
+- [SubQuery University (Documentation)](https://university.subquery.network/)
+- [Example Terra Project](https://github.com/subquery/terra-subql-starter)
+- [Managed Service](https://explorer.subquery.network/)
+- [Publish your own Terra Project to the Managed Service](https://project.subquery.network/)
 
 ## About SubQuery
 

@@ -20,7 +20,7 @@ Engineered for multi-chain, SubQuery's open and flexible design allows developer
 
 Osmosis will benefit from the full SubQuery experience, including the open-source SDK, tools, [documentation](https://academy.subquery.network/quickstart/quickstart_chains/cosmos.html), developer support, and other benefits developers receive from the SubQuery ecosystem.
 
-Additionally, Osmosis is accommodated by [SubQuery's managed service](https://subquery.network/managedservices), which provides enterprise-level infrastructure hosting and handles over 400 million requests each day.
+Additionally, Osmosis is accommodated by [SubQuery's managed service](https://managedservice.subquery.networks), which provides enterprise-level infrastructure hosting and handles over 400 million requests each day.
 
 SubQuery is now focused on launching the Kepler canary network before decentralising and tokenizing the protocol to build the [SubQuery Network.](https://subquery.network/network) The SubQuery Network will be simple and accessible to all, innovative in payment methods, and will support indexing Cosmos projects including Osmosis from the outset.
 

@@ -19,7 +19,7 @@ L'écosystème des applications a prospéré à Terra, même si certains outils 
 
 Chez SubQuery, nous disposons d'un SDK open-source facile à utiliser et rapide comme l'éclair. Il vous fournit un point de terminaison GraphQL standard, ou vous pouvez simplement interroger la base de données postgres directement. Grâce à lui, vous pouvez indexer un ensemble unique de données provenant de vos propres contrats intelligents, ce qui vous permet de créer un produit supérieur qui surpasse celui de vos concurrents ! Nous vous donnons la possibilité d'obtenir les données dont vous avez besoin sous la forme qui vous convient le mieux.
 
-La fiabilité est essentielle, et vous avez besoin d'une plateforme fiable et évolutive pour l'héberger. [Le service géré de SubQuery](https://subquery.network/managedservices) est une solution d'hébergement leader du secteur pour tous les clients qui sert des centaines de millions de requêtes quotidiennes aux plus grands projets de Polkadot. Nous fournissons à nos [clients de niveau entreprise](./20211228-enterprise-hosted.md) des services tels que des bases de données dédiées, des clusters redondants, un routage intelligent multi-clusters, ainsi qu'une surveillance et une analyse avancées. Il soutiendra votre demande lorsque vous serez prêt et évoluera avec vous.
+La fiabilité est essentielle, et vous avez besoin d'une plateforme fiable et évolutive pour l'héberger. [Le service géré de SubQuery](https://managedservice.subquery.networks) est une solution d'hébergement leader du secteur pour tous les clients qui sert des centaines de millions de requêtes quotidiennes aux plus grands projets de Polkadot. Nous fournissons à nos [clients de niveau entreprise](./20211228-enterprise-hosted.md) des services tels que des bases de données dédiées, des clusters redondants, un routage intelligent multi-clusters, ainsi qu'une surveillance et une analyse avancées. Il soutiendra votre demande lorsque vous serez prêt et évoluera avec vous.
 
 Enfin, dans quelques mois, vous pourrez décentraliser complètement votre infrastructure SubQuery grâce au réseau SubQuery, l'avenir de l'infrastructure Web3. Le réseau SubQuery indexera les données de vos projets et les mettra à la disposition de la communauté mondiale d'une manière incitative et vérifiable. Il est conçu pour prendre en charge n'importe quel projet SubQuery à partir de n'importe quel réseau de couche 1, y compris Terra, afin que vous puissiez profiter de l'échelle du réseau SubQuery unifié dès le lancement.
 
@@ -40,7 +40,7 @@ La mise en œuvre de Terra de SubQuery a été conçue pour fonctionner de mani�
 
 ## Déploiement de votre projet vers le service géré de SubQuery
 
-Bien que vous puissiez toujours facilement exécuter votre projet dans votre propre infrastructure, [Le service géré de SubQuery](https://subquery.network/managedservices) prend désormais en charge le projet Terra. Certains des plus grands projets dépendent du service géré de SubQuery [niveau entreprise](./20211228-enterprise-hosted.md) et maintenant vous aussi. Dans le cadre de notre accord de partenariat de lancement, nous vous offrons 3 mois d'hébergement gratuit.
+Bien que vous puissiez toujours facilement exécuter votre projet dans votre propre infrastructure, [Le service géré de SubQuery](https://managedservice.subquery.networks) prend désormais en charge le projet Terra. Certains des plus grands projets dépendent du service géré de SubQuery [niveau entreprise](./20211228-enterprise-hosted.md) et maintenant vous aussi. Dans le cadre de notre accord de partenariat de lancement, nous vous offrons 3 mois d'hébergement gratuit.
 
 Vous pouvez [suivre le guide ici](https://university.subquery.network/run_publish/publish.html) pour publier votre projet Terra SubQuery sur notre service géré. Veuillez noter que vous devez héberger votre projet [SubQuery en utilisant IPFS](https://university.subquery.network/run_publish/publish.html) plutôt que GitHub.
 
@@ -54,15 +54,15 @@ Veuillez nous informer une fois que vous avez déployé votre projet, car nous p
 
 Aujourd'hui, nous partageons ce qui suit :
 
--   Indexation avancée des blocs, des événements
--   Dictionnaire Terra : Des indices pré-calculés pour [réduire considérablement le temps d'indexation](./20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md)
--   Support complet pour Terra dans notre [service géré gratuit de niveau entreprise](./20211228-enterprise-hosted.md)
--   Une documentation intuitive dans la [SubQuery University](https://university.subquery.network/)
+- Indexation avancée des blocs, des événements
+- Dictionnaire Terra : Des indices pré-calculés pour [réduire considérablement le temps d'indexation](./20210630-SubQuery-Just-Got-a-lot-Faster-with-the-Dictionary.md)
+- Support complet pour Terra dans notre [service géré gratuit de niveau entreprise](./20211228-enterprise-hosted.md)
+- Une documentation intuitive dans la [SubQuery University](https://university.subquery.network/)
 
 Dans les semaines à venir, vous pouvez vous attendre à :
 
--   Un cours d'apprentissage pas à pas dans la [SubQuery Academy](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html)
--   Support complet pour Terra dans notre réseau décentralisé SubQuery (vous verrez bientôt un projet dans notre réseau de test Frontier actuel)
+- Un cours d'apprentissage pas à pas dans la [SubQuery Academy](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html)
+- Support complet pour Terra dans notre réseau décentralisé SubQuery (vous verrez bientôt un projet dans notre réseau de test Frontier actuel)
 
 ---
 
@@ -72,11 +72,11 @@ James Bayly
 
 ## Liens
 
--   [Guide de démarrage](https://university.subquery.network/quickstart/quickstart-terra.html)
--   [Université SubQuery (Documentation)](https://university.subquery.network/)
--   [Exemple de projet Terra](https://github.com/subquery/terra-subql-starter)
--   [Service géré](https://explorer.subquery.network/)
--   [Publier votre propre projet Terra sur le service géré](https://project.subquery.network/)
+- [Guide de démarrage](https://university.subquery.network/quickstart/quickstart-terra.html)
+- [Université SubQuery (Documentation)](https://university.subquery.network/)
+- [Exemple de projet Terra](https://github.com/subquery/terra-subql-starter)
+- [Service géré](https://explorer.subquery.network/)
+- [Publier votre propre projet Terra sur le service géré](https://project.subquery.network/)
 
 ## À propos de SubQuery
 

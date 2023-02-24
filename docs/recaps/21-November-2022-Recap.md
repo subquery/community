@@ -66,7 +66,7 @@ If you'd like to join our community, connect with us on [Discord](https://disco
 
 This November [we have extended our data indexing support to Osmosis Zone](../blogs/20221108-cosmos-osmosis.md), a leading DeFi platform in the Cosmos ecosystem! After recent integrations with [CosmosHub](../blogs/20220909-cosmoshub.md), [Juno](../blogs/20220609-juno-cosmos.md), [Fetch.ai](../blogs/20220719-fetch.md), [Stargaze](../blogs/20220726-stargaze.md), and [Cronos](../blogs/20221005-cosmos-cronos.md), Osmosis is the latest Cosmos zone to receive indexing support from SubQuery. From now on, Osmosis' growing developer community can leverage SubQuery's leading edge indexing tool for their web3 projects.
 
-Osmosis will benefit from the full SubQuery experience, including the open-source SDK, tools, [documentation](https://academy.subquery.network/quickstart/quickstart_chains/cosmos.html), developer support, and other benefits developers receive from the SubQuery ecosystem. Additionally, Osmosis is accommodated by [SubQuery's managed service](https://subquery.network/managedservices), which provides enterprise-level infrastructure hosting and handles over 400 million requests each day.
+Osmosis will benefit from the full SubQuery experience, including the open-source SDK, tools, [documentation](https://academy.subquery.network/quickstart/quickstart_chains/cosmos.html), developer support, and other benefits developers receive from the SubQuery ecosystem. Additionally, Osmosis is accommodated by [SubQuery's managed service](https://managedservice.subquery.networks), which provides enterprise-level infrastructure hosting and handles over 400 million requests each day.
 
 ### SubQuery Became the First Indexing Solution for an Avalanche Subnet
 

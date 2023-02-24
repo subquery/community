@@ -26,7 +26,7 @@ This December [we extended our data indexing support](../blogs/20221202-flare.m
 
 Flare is a blockchain which presents developers with a simple and coherent stack for decentralized interoperability, allowing dApps to serve multiple chains through a single deployment. This cross-chain approach is consistent with SubQuery's continuous effort to become the universal blockchain indexing tool for web3 developers.
 
-Flare Network developers will benefit from the full SubQuery experience, including the open-source SDK, tools, [documentation](https://academy.subquery.network/quickstart/quickstart_chains/flare.html), developer support, and other benefits developers receive from the SubQuery ecosystem. Additionally, Flare Network is accommodated by [SubQuery's managed service](https://subquery.network/managedservices), which provides enterprise-level infrastructure hosting and handles over 400 million requests each day.
+Flare Network developers will benefit from the full SubQuery experience, including the open-source SDK, tools, [documentation](https://academy.subquery.network/quickstart/quickstart_chains/flare.html), developer support, and other benefits developers receive from the SubQuery ecosystem. Additionally, Flare Network is accommodated by [SubQuery's managed service](https://managedservice.subquery.networks), which provides enterprise-level infrastructure hosting and handles over 400 million requests each day.
 
 ### SubQuery Eyes Data Indexing Support for Cardano After Investment from Emurgo
 

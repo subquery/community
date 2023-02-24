@@ -51,7 +51,7 @@ A dictionary is a must have when indexing blockchain data. It records metadata o
 
 SubQuery is proud to[ announce its data indexing support for the Flare network.](./20221202-flare.md) Flare supports EVM-based smart contracts, and has data and interoperability infrastructure built natively into the blockchain, providing dApps with highly decentralized price feeds and secure state acquisition from other blockchains.
 
-Flare Network developers can now benefit from the full SubQuery experience, including the open-source SDK, tools, [documentation](https://academy.subquery.network/quickstart/quickstart_chains/flare.html), developer support, and other benefits developers receive from the SubQuery ecosystem. Additionally, Flare Network is accommodated by [SubQuery's managed service](https://subquery.network/managedservices), which provides enterprise-level infrastructure hosting and handles over 400 million requests each day.
+Flare Network developers can now benefit from the full SubQuery experience, including the open-source SDK, tools, [documentation](https://academy.subquery.network/quickstart/quickstart_chains/flare.html), developer support, and other benefits developers receive from the SubQuery ecosystem. Additionally, Flare Network is accommodated by [SubQuery's managed service](https://managedservice.subquery.networks), which provides enterprise-level infrastructure hosting and handles over 400 million requests each day.
 
 ### Cronos
 
@@ -67,7 +67,7 @@ After its rapid expansion into the Cosmos ecosystem with integrations with Juno,
 
 SubQuery's goal has always been to provide fast and efficient indexing to the widest variety of chains possible. This month [we started supporting another Cosmos chain: OKC (OKX Chain)!](./20221213-cosmos-okc.md) OKC ([OKX Chain)](https://www.okx.com/okc) is an EVM-compatible L1 built on Cosmos with a focus on true interoperability (IBC) and maximized performance.
 
-OKC will benefit from the full SubQuery experience, including the open-source SDK, tools, [documentation](https://academy.subquery.network/quickstart/quickstart_chains/cosmos.html), developer support, and other benefits developers receive from the SubQuery ecosystem. Additionally, OKC is accommodated by [SubQuery's managed service](https://subquery.network/managedservices), which provides enterprise-level infrastructure hosting and handles over 400 million requests each day.
+OKC will benefit from the full SubQuery experience, including the open-source SDK, tools, [documentation](https://academy.subquery.network/quickstart/quickstart_chains/cosmos.html), developer support, and other benefits developers receive from the SubQuery ecosystem. Additionally, OKC is accommodated by [SubQuery's managed service](https://managedservice.subquery.networks), which provides enterprise-level infrastructure hosting and handles over 400 million requests each day.
 
 ## Shout outs
 

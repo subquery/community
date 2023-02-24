@@ -66,7 +66,7 @@ This July we signalled our intention to become [the first open indexing data pr
 
 SubQuery has a deep appreciation for Algorand's focus on decentralisation and performance, the same principles that SubQuery maintained when building the decentralised SubQuery Network.
 
-Algorand developers will receive all the tools, [documentation](https://academy.subquery.network/), developer support, and other benefits that developers receive from the SubQuery ecosystem, including being eligible to participate in [SubQuery's Grants Programme](https://subquery.network/grants). Algorand is also supported in SubQuery's [enterprise level managed service](https://subquery.network/managedservices), which provides enterprise level infrastructure hosting and handles hundreds of millions of requests each day.
+Algorand developers will receive all the tools, [documentation](https://academy.subquery.network/), developer support, and other benefits that developers receive from the SubQuery ecosystem, including being eligible to participate in [SubQuery's Grants Programme](https://subquery.network/grants). Algorand is also supported in SubQuery's [enterprise level managed service](https://managedservice.subquery.networks), which provides enterprise level infrastructure hosting and handles hundreds of millions of requests each day.
 
 The Algorand integration is currently being finalised and tested with a small group of beta projects.
 

@@ -18,7 +18,7 @@ Having 156 registered indexers indexing two projects each gave us an awesome opp
 
 ![](https://miro.medium.com/max/1400/0*6IwiiZtVBsdkN5m2)
 
-The 200 million requests per day figure is what [our managed service](https://subquery.network/managedservices) was handling over a few months ago (it's much more since then), so we are reassured that our network is capable of handling traffic numbers to become the largest decentralised data network in web3.
+The 200 million requests per day figure is what [our managed service](https://managedservice.subquery.networks) was handling over a few months ago (it's much more since then), so we are reassured that our network is capable of handling traffic numbers to become the largest decentralised data network in web3.
 
 In summary, season 2 gives us the confidence that we need to surge ahead with our plans for the TGE, season 3 (the public round), and ultimately the launch of the SubQuery Network. Season 3 will start in a few weeks and we intend for it to be one of the earliest test networks on Acala's parachain.
 

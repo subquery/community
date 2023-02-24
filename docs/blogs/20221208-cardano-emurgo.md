@@ -18,7 +18,7 @@ Engineered for multi-chain applications, SubQuery allows developers to organise,
 
 > _"We are proud to work with EMURGO and support teams building on Cardano in the future with our fast, flexible and universal indexing solution. Once the integration is complete, Cardano developers will have access to the leading multi-chain indexing solution in web3 which they can leverage to build complex dApps with the help of SubQuery."_ --- Sam Zou, Founder of SubQuery
 
-Cardano developers will benefit from the full SubQuery experience, including the open-source SDK, tools, documentation, developer support, and other benefits developers receive from the SubQuery ecosystem. Additionally, Cardano will be accommodated by [SubQuery's managed service](https://subquery.network/managedservices), which provides enterprise-level infrastructure hosting and handles over 400 million requests each day.
+Cardano developers will benefit from the full SubQuery experience, including the open-source SDK, tools, documentation, developer support, and other benefits developers receive from the SubQuery ecosystem. Additionally, Cardano will be accommodated by [SubQuery's managed service](https://managedservice.subquery.networks), which provides enterprise-level infrastructure hosting and handles over 400 million requests each day.
 
 SubQuery is currently focused on launching the Kepler canary network before decentralising and tokenizing the protocol to build the [SubQuery Network.](https://subquery.network/network)
 

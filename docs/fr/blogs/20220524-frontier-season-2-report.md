@@ -18,7 +18,7 @@ Le fait d'avoir 156 indexeurs enregistrés indexant chacun deux projets nous a d
 
 ![](https://miro.medium.com/max/1400/0*6IwiiZtVBsdkN5m2)
 
-Le chiffre de 200 millions de requêtes par jour est ce que [notre service géré](https://subquery.network/managedservices) traitait il y a quelques mois (c'est beaucoup plus depuis), nous sommes donc rassurés sur le fait que notre réseau est capable de gérer les nombres de trafic pour devenir le plus grand réseau de données décentralisé du web3.
+Le chiffre de 200 millions de requêtes par jour est ce que [notre service géré](https://managedservice.subquery.networks) traitait il y a quelques mois (c'est beaucoup plus depuis), nous sommes donc rassurés sur le fait que notre réseau est capable de gérer les nombres de trafic pour devenir le plus grand réseau de données décentralisé du web3.
 
 En résumé, la saison 2 nous donne la confiance dont nous avons besoin pour aller de l'avant avec nos plans pour le TGE, la saison 3 (le tour public), et finalement le lancement du réseau SubQuery. La saison 3 commencera dans quelques semaines et nous avons l'intention qu'elle soit l'un des premiers réseaux de test sur le parachain d'Acala.
 

@@ -22,7 +22,7 @@ Cette question m'a été posée par nombre d'entre vous que j'ai eu la chance de
 
 Chez SubQuery, nous disposons d'un SDK open-source, facile à utiliser et rapide comme l'éclair. Il vous fournit un point de terminaison GraphQL standard, ou vous pouvez simplement interroger la base de données postgres directement.
 
-La fiabilité est essentielle, et vous avez besoin d'une plateforme fiable et évolutive pour l'héberger. [Le service géré de SubQuery](https://subquery.network/managedservices) est une solution d'hébergement leader du secteur pour tous les clients qui sert des centaines de millions de requêtes quotidiennes aux plus grands projets de Polkadot. Nous fournissons à nos [clients de niveau entreprise](./20211228-enterprise-hosted.md) des services tels que des bases de données dédiées, des clusters redondants, un routage intelligent multi-clusters, ainsi qu'une surveillance et une analyse avancées. Il soutiendra votre demande lorsque vous serez prêt et évoluera avec vous.
+La fiabilité est essentielle, et vous avez besoin d'une plateforme fiable et évolutive pour l'héberger. [Le service géré de SubQuery](https://managedservice.subquery.networks) est une solution d'hébergement leader du secteur pour tous les clients qui sert des centaines de millions de requêtes quotidiennes aux plus grands projets de Polkadot. Nous fournissons à nos [clients de niveau entreprise](./20211228-enterprise-hosted.md) des services tels que des bases de données dédiées, des clusters redondants, un routage intelligent multi-clusters, ainsi qu'une surveillance et une analyse avancées. Il soutiendra votre demande lorsque vous serez prêt et évoluera avec vous.
 
 Enfin, dans quelques mois, vous pourrez décentraliser complètement votre infrastructure SubQuery grâce au réseau SubQuery, l'avenir de l'infrastructure Web3. Le réseau SubQuery indexera les données de vos projets et les mettra à la disposition de la communauté mondiale d'une manière incitative et vérifiable. Il est conçu pour prendre en charge n'importe quel projet SubQuery à partir de n'importe quel réseau de couche 1, y compris Avalanche, afin que vous puissiez profiter de l'échelle du réseau SubQuery unifié dès le lancement.
 
@@ -30,7 +30,7 @@ Enfin, dans quelques mois, vous pourrez décentraliser complètement votre infra
 
 Suivez le guide de la bêta ici : https://university.subquery.network/quickstart/quickstart-avalanche.html
 
-Vous devrez d'abord installer @subql/cli via *npm i -g @subql/cli*
+Vous devrez d'abord installer @subql/cli via _npm i -g @subql/cli_
 
 La meilleure façon est de commencer avec notre projet de démarrage, il contient un projet en cours avec un exemple de toutes les fonctions de cartographie : https://github.com/subquery/avalanche-subql-starter. Ce projet indexe les éléments suivants du [Pangolin Smart Contract](https://snowtrace.io/token/0x60781c2586d68229fde47564546784ab3faca982) :
 

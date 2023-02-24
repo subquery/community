@@ -42,7 +42,7 @@ SubQuery is a flexible, fast, open, and decentralised data indexing solution tha
 
 Cosmos Hub developers will continue to receive all the tools, [documentation](https://academy.subquery.network/), developer support, and other benefits that developers receive from the SubQuery ecosystem.
 
-SubQuery also provides the [Managed Service](https://subquery.network/managedservices) for Cosmos Hub ecosystem, which provides enterprise level infrastructure hosting and handles hundreds of millions of requests each day.
+SubQuery also provides the [Managed Service](https://managedservice.subquery.networks) for Cosmos Hub ecosystem, which provides enterprise level infrastructure hosting and handles hundreds of millions of requests each day.
 
 ### SubQuery Started Providing Support for Substrate Wasm
 
