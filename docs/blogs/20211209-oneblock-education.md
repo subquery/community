@@ -10,7 +10,7 @@ SubQuery’s community has always been global, and a huge number of SubQuery’s
 
 SubQuery recently launched the SubQuery Academy to upskill blockchain developers globally, specifically in the area of data indexing in the Polkadot ecosystem. The _Hero Course_ is designed to up-skill and empower developers in the SubQuery ecosystem by providing them with a modular programme. The content of this programme takes an aspiring blockchain developer from beginner to advanced over six modular lessons.
 
-The video content is accompanied by written tutorials, slides, lab workbooks, and links to the finished GitHub code repository. The course is designed to get a developer from knowing nothing about SubQuery to becoming an expert in building a SubQuery data source for their new blockchain application. This includes developing complex SubQuery Projects and [deploying them in SubQuery Projects](https://project.subquery.network/).
+The video content is accompanied by written tutorials, slides, lab workbooks, and links to the finished GitHub code repository. The course is designed to get a developer from knowing nothing about SubQuery to becoming an expert in building a SubQuery data source for their new blockchain application. This includes developing complex SubQuery Projects and [deploying them in SubQuery Projects](https://managedservice.subquery.network/).
 
 Yaxun, the Founder of OneBlock+ said _“We are proud to be SubQuery’s official educational partner in China. Having trained over 1500 Substrate developers in China, we are excited to introduce them to the leading data indexer in the Polkadot ecosystem. SubQuery is a foundational piece of infrastructure for our students to learn and build innovative dApps with.”_
 

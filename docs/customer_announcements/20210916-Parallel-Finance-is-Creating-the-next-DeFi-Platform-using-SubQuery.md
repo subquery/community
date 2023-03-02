@@ -22,7 +22,7 @@ In the example below, we're using SubQuery to show the historical exchange rate 
 
 ![](https://cdn-images-1.medium.com/max/1600/1*yctQKMNqdOnICNblJk9njw.png)
 
-Parallel Finance is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery's Explorer](https://explorer.subquery.network/).
+Parallel Finance is using [SubQuery Projects](https://managedservice.subquery.network/) to manage their own project and make updates as required. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery's Explorer](https://explorer.subquery.network/).
 
 [You can explore Parallel Finance's data in SubQuery today](https://explorer.subquery.network/subquery/parallel-finance/parallel-finance)
 

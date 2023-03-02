@@ -4,11 +4,11 @@
 
 Here at SubQuery we never stop building. But there comes a time when you have to pause for a second and look back at what you've built. We gathered a bunch of data from our customers and noticed the UI for our Managed Service could be improved. So that's exactly what we did!
 
-The biggest dApps depend on SubQuery's enterprise level managed service, with 100s of millions of daily requests and hundreds of active projects, SubQuery's managed service provides industry leading hosting for our customers. Our customers use [SubQuery Projects](https://project.subquery.network/) to publish their latest creations, upgrade existing projects, and view detailed analytics on how their SubQuery Project is operating.
+The biggest dApps depend on SubQuery's enterprise level managed service, with 100s of millions of daily requests and hundreds of active projects, SubQuery's managed service provides industry leading hosting for our customers. Our customers use [SubQuery Projects](https://managedservice.subquery.network/) to publish their latest creations, upgrade existing projects, and view detailed analytics on how their SubQuery Project is operating.
 
 > _"Navigation is one of the design fundamentals that have a direct connection with usability. This new redesign created a big improvement in the Navigation and the Information Architecture (IA) structure of our Managed Service. A good Information Architecture (IA) structure will provide a strong foundation for us to add even more features in the future."_ - Cassie Wang, Design Lead at SubQuery
 
-We've rebuilt the front end of [SubQuery Projects](https://project.subquery.network/) with a fresh design and new React codebase that will be a better foundation for future feature additions. Some of the updates and improvements we did in the latest version of SubQuery Project are:
+We've rebuilt the front end of [SubQuery Projects](https://managedservice.subquery.network/) with a fresh design and new React codebase that will be a better foundation for future feature additions. Some of the updates and improvements we did in the latest version of SubQuery Project are:
 
 ## 1. Improved user flow
 

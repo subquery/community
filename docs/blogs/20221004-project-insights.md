@@ -20,9 +20,9 @@ The final addition to our Managed Service was our new usage centre page which se
 
 ![](https://cdn-images-1.medium.com/max/1200/0*tTIlbjGmji_WLeOj)
 
-These new features show why some of the biggest dApps across Polkadot, Cosmos, Avalanche, and Algorand depend on SubQuery's enterprise level managed service, with 100s of millions of daily requests and hundreds of active projects, SubQuery's managed service provides industry leading hosting for our customers. Our customers use [SubQuery Projects](https://project.subquery.network/) to publish their latest creations, upgrade existing projects, and view detailed analytics on how their SubQuery Project is operating.
+These new features show why some of the biggest dApps across Polkadot, Cosmos, Avalanche, and Algorand depend on SubQuery's enterprise level managed service, with 100s of millions of daily requests and hundreds of active projects, SubQuery's managed service provides industry leading hosting for our customers. Our customers use [SubQuery Projects](https://managedservice.subquery.network/) to publish their latest creations, upgrade existing projects, and view detailed analytics on how their SubQuery Project is operating.
 
-You can take advantage of SubQuery's [enterprise-level Managed Service](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) to see all these UI updates plus options for dedicated databases, automated deployments, and geographic routing to multiple clusters around the world for performance and uptime. Head to [SubQuery Projects](https://project.subquery.network/) to get started or reach out to sales@subquery.network if you'd like a demo first.
+You can take advantage of SubQuery's [enterprise-level Managed Service](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) to see all these UI updates plus options for dedicated databases, automated deployments, and geographic routing to multiple clusters around the world for performance and uptime. Head to [SubQuery Projects](https://managedservice.subquery.network/) to get started or reach out to sales@subquery.network if you'd like a demo first.
 
 ## About SubQuery
 

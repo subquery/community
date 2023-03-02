@@ -71,7 +71,7 @@ We now have [starter projects](https://github.com/subquery/cosmos-subql-starter
 - [Beta] Add a new feature to automatically hot-reload the query service on schema changes so you don't need to restart your query service. [GitHub](https://github.com/subquery/subql/pull/1321)
 - Bump @polkadot/api@9.4.2 support to 9.4.2. [GitHub](https://github.com/subquery/subql/pull/1356)
 
-You can take advantage of SubQuery's [enterprise-level Managed Service](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) to see all these UI updates plus options for dedicated databases, automated deployments, and geographic routing to multiple clusters around the world for performance and uptime. Head to [SubQuery Projects](https://project.subquery.network/) to get started or reach out to sales@subquery.network if you'd like a demo first.
+You can take advantage of SubQuery's [enterprise-level Managed Service](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) to see all these UI updates plus options for dedicated databases, automated deployments, and geographic routing to multiple clusters around the world for performance and uptime. Head to [SubQuery Projects](https://managedservice.subquery.network/) to get started or reach out to sales@subquery.network if you'd like a demo first.
 
 ## Key Resources
 

@@ -14,7 +14,7 @@ One of the major challenges Secret Stash faced before using SubQuery was the dif
 
 > *"Secret Stash are driving the development of NFTs in the ecosystem, and we are proud to support their growth with our fast, flexible and universal data indexer. Our data indexer is the backbone of their NFT marketplace, giving their customers the ability to easily search and discover unique digital assets. We are proud to empower our community with the tools they need to unlock the full potential of NFTs."* - Brittany Seales, Customer Success Lead at SubQuery
 
-Secret Stash are using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. They take advantage of SubQuery's [enterprise-level hosting](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) to receive dedicated databases, automated deployments, and geographic routing to multiple clusters around the world for performance and uptime.
+Secret Stash are using [SubQuery Projects](https://managedservice.subquery.network/) to manage their own project and make updates as required. They take advantage of SubQuery's [enterprise-level hosting](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) to receive dedicated databases, automated deployments, and geographic routing to multiple clusters around the world for performance and uptime.
 
 ## Key Resources
 

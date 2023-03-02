@@ -16,6 +16,7 @@
     "vuepress-plugin-sitemap2": "^2.0.0-beta.75"
   },
   "dependencies": {
+    "@tryghost/mg-jekyll-export": "^0.3.1",
     "glob": "^7.1.7"
   }
 }

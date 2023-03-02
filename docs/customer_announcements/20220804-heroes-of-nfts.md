@@ -16,7 +16,7 @@ The team at Heroes of NFT are building a subnet to create their own metaverse ec
 
 > _"We love to see the fast and flexible nature of SubQuery being used across different use cases in Web3. Heroes of NFT are driving the development of NFTs and Web3 games, and we can't wait to bolster their growth."_ - \*Brittany Seales, Customer Success Lead at SubQuery
 
-Heroes of NFT are using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. They take advantage of SubQuery's [enterprise-level hosting](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) to receive dedicated databases, automated deployments, and geographic routing to multiple clusters around the world for performance and uptime.
+Heroes of NFT are using [SubQuery Projects](https://managedservice.subquery.network/) to manage their own project and make updates as required. They take advantage of SubQuery's [enterprise-level hosting](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) to receive dedicated databases, automated deployments, and geographic routing to multiple clusters around the world for performance and uptime.
 
 ## Key Resources
 

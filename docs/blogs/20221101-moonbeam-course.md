@@ -20,7 +20,7 @@ In this course students will learn how to use SubQuery to index decentralised da
 
 Within the course, students will create a project using SubQuery CLI and tweak it to their needs. This includes indexing Moonbeam data alongside Substate Events and exploring the benefits of such an integration, discussing data mutation, entities' relationships and other advanced ideas and upcoming features.
 
-The course has 7 lessons, 1.5 hours of video materials, coding examples, and quizzes. After the course students will have all the know-how to develop their[ SubQuery project](https://project.subquery.network/login) further or create a brand new one tailored to their needs.
+The course has 7 lessons, 1.5 hours of video materials, coding examples, and quizzes. After the course students will have all the know-how to develop their[ SubQuery project](https://managedservice.subquery.network/login) further or create a brand new one tailored to their needs.
 
 ![](https://miro.medium.com/max/1400/0*cF759qSUaGScy9CN)
 

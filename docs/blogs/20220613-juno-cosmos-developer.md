@@ -83,7 +83,7 @@ _James Bayly_
 - [Example Cosmos (Juno) Project --- Kitchen sink example](https://github.com/subquery/juno-subql-starter)
 - [Example Cosmos (Juno) Project --- Terra development fund votes](https://github.com/jamesbayly/juno-terra-developer-fund-votes)
 - [Managed Service](https://explorer.subquery.network/)
-- [Publish your own Cosmos Project to the Managed Service](https://project.subquery.network/)
+- [Publish your own Cosmos Project to the Managed Service](https://managedservice.subquery.network/)
 
 ## About SubQuery
 

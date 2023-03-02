@@ -24,7 +24,7 @@ Resiliency and reliability mean everything to us at SubQuery. Having a redundant
 
 Additionally, when you make a request to a SubQuery project in our hosted service, the majority of the waiting time comes from latency. Latency is the point to point time it takes your request to circle the world to the nearest SubQuery cluster and can take up to a second or two from some remote regions. Having multiple clusters around the world allows us to reduce the most significant part of the request time (the latency).
 
-We’ve implemented multiple clusters in different regions that provide the same service. This work also includes a tool in [SubQuery Projects](https://project.subquery.network/) that allows you to deploy and manage your project across these clusters. We’ve also implemented processes that ensure that databases in different regions stay consistent, so that regardless of which cluster your request goes to, the data that you receive is consistent.
+We’ve implemented multiple clusters in different regions that provide the same service. This work also includes a tool in [SubQuery Projects](https://managedservice.subquery.network/) that allows you to deploy and manage your project across these clusters. We’ve also implemented processes that ensure that databases in different regions stay consistent, so that regardless of which cluster your request goes to, the data that you receive is consistent.
 
 ## Intelligent Routing
 

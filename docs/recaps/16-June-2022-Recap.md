@@ -68,7 +68,7 @@ Last month we [announced a partnership ](../customer_announcements/20220601-ta
 
 Tapio and Taiga Protocol's mission is to remove liquidity siloes created by different formats of staking and crowdloan derivatives and called upon SubQuery as their data backbone to bring their ambitions to fruition.
 
-Tapio and Taiga are using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. They take advantage of SubQuery's [enterprise-level hosting](../blogs/20211228-enterprise-hosted.md) to receive dedicated databases, automated deployments, and geographic routing to multiple clusters around the world for performance and uptime.
+Tapio and Taiga are using [SubQuery Projects](https://managedservice.subquery.network/) to manage their own project and make updates as required. They take advantage of SubQuery's [enterprise-level hosting](../blogs/20211228-enterprise-hosted.md) to receive dedicated databases, automated deployments, and geographic routing to multiple clusters around the world for performance and uptime.
 
 ### SubQuery Extended Indexing to Acala's New EVM+, Offering Universal EVM Support within Polkadot
 

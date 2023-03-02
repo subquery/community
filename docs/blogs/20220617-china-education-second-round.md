@@ -8,7 +8,7 @@ The "Hero Course" is a free course designed by SubQuery to upskill developers on
 
 <iframe width="680" height="382" src="https://www.youtube.com/embed/H-cEUbXIolo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The class was conducted via video content and accompanied by written tutorials, slides, lab workbooks, and links to the finished GitHub code repository. Students also benefited from live workshops conducted directly by SubQuery's team including Siqi (Global Community Manager and China Manager) and Jay Ji (Core Developer). The course is designed to get a developer from knowing nothing about SubQuery to becoming an expert in building a SubQuery data source for their new blockchain application. This includes developing complex SubQuery Projects and [deploying them in SubQuery Projects](https://project.subquery.network/).
+The class was conducted via video content and accompanied by written tutorials, slides, lab workbooks, and links to the finished GitHub code repository. Students also benefited from live workshops conducted directly by SubQuery's team including Siqi (Global Community Manager and China Manager) and Jay Ji (Core Developer). The course is designed to get a developer from knowing nothing about SubQuery to becoming an expert in building a SubQuery data source for their new blockchain application. This includes developing complex SubQuery Projects and [deploying them in SubQuery Projects](https://managedservice.subquery.network/).
 
 ![](https://miro.medium.com/max/1400/0*1TtUi2eeuWVr2dg8)
 
@@ -16,11 +16,11 @@ The first round of the course commenced on 10th January 2022, and after two roun
 
 More than 95% of the students expressed they were very satisfied with the content of the course, and more than 35% of the students thought the course was easy and novice-friendly. The majority of the course participants expressed their desire to take further advanced courses related to SubQuery, after mastering the core principles
 
-> *"I had a very good experience and learned a lot of data indexing skills related to SubQuery after taking this course."* - Hero Course Student
+> _"I had a very good experience and learned a lot of data indexing skills related to SubQuery after taking this course."_ - Hero Course Student
 
-> *"The teacher's explanation is clear, and the examples clearly show the problem and how to solve it, which is useful for those who have little programming experience."* - Hero Course Student
+> _"The teacher's explanation is clear, and the examples clearly show the problem and how to solve it, which is useful for those who have little programming experience."_ - Hero Course Student
 
-> *"The introductory experience is good, and if you are well prepared, you can follow the teacher step by step. For first-time students it is also very easy to get started. I'm looking forward to the next course!"* - Hero Course Student
+> _"The introductory experience is good, and if you are well prepared, you can follow the teacher step by step. For first-time students it is also very easy to get started. I'm looking forward to the next course!"_ - Hero Course Student
 
 More information on future dates will be published in the [SubQuery Discord channel](https://discord.com/invite/78zg8aBSMG). In the meantime, you can [learn more about SubQuery and the Hero Course via the SubQuery Academy](https://subquery.coassemble.com/unlock/dOKZW6O#/).
 

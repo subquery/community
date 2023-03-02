@@ -20,7 +20,7 @@ SubQuery is a fast, flexible and universal blockchain indexing toolkit that help
 
 > _"SubQuery provides off-the-shelf support with minimal effort for developers working on any Avalanche Subnet. We're delighted that Heroes of NFT is using our fast & reliable indexing solution for their NFT, gaming & Metaverse project."_ - Marta Adamczyk, Technology Evangelist at SubQuery
 
-Heroes of NFT also use [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. They take advantage of SubQuery's [enterprise-level hosting](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) to receive dedicated databases, automated deployments, and geographic routing to multiple clusters around the world for performance and uptime.
+Heroes of NFT also use [SubQuery Projects](https://managedservice.subquery.network/) to manage their own project and make updates as required. They take advantage of SubQuery's [enterprise-level hosting](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) to receive dedicated databases, automated deployments, and geographic routing to multiple clusters around the world for performance and uptime.
 
 You can find more information about Heroes of NFT and the data they leverage from SubQuery via their project link [here](https://github.com/heroesofnft/marketplace-subql/).
 

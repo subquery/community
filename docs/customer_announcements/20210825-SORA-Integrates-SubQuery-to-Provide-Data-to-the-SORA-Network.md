@@ -20,7 +20,7 @@ In this example, we’re using SubQuery to pull the total amount of XOR that is 
 
 ![sora-playground.jpg](https://miro.medium.com/max/1400/1*oTh-ajGfG1oEhYdvqo12tQ.jpeg)
 
-SORA is using [SubQuery Projects](https://project.subquery.network/) to manage their project and make updates as required. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/).
+SORA is using [SubQuery Projects](https://managedservice.subquery.network/) to manage their project and make updates as required. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/).
 
 Explore SORA's project in the SubQuery explorer [here](https://explorer.subquery.network/subquery/sora-xor/sora).
 

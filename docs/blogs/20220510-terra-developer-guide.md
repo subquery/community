@@ -76,7 +76,7 @@ James Bayly
 - [SubQuery University (Documentation)](https://university.subquery.network/)
 - [Example Terra Project](https://github.com/subquery/terra-subql-starter)
 - [Managed Service](https://explorer.subquery.network/)
-- [Publish your own Terra Project to the Managed Service](https://project.subquery.network/)
+- [Publish your own Terra Project to the Managed Service](https://managedservice.subquery.network/)
 
 ## About SubQuery
 

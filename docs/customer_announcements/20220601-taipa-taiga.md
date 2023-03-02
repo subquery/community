@@ -13,7 +13,7 @@ As the Polkadot and Kusama ecosystem matures, the team behind Tapio and Taiga an
 
 > _"Having learned about* [*Taiga's work with Acala*](https://medium.com/taiga-protocol/introducing-taiga-bringing-efficient-liquidity-for-uniform-assets-on-kusama-d6825ad74b8) *to become the inaugural synthetic asset protocol on Karura, SubQuery was excited to work with Taiga and Tapio to optimise their applications via seamless provision of on-chain data. It's great to see the pace a team can progress at when not having to worry about building and maintaining infrastructure."_ - James Bayly, Head of Business Development\*
 
-Tapio and Taiga are using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. They take advantage of SubQuery's [enterprise-level hosting](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) to receive dedicated databases, automated deployments, and geographic routing to multiple clusters around the world for performance and uptime.
+Tapio and Taiga are using [SubQuery Projects](https://managedservice.subquery.network/) to manage their own project and make updates as required. They take advantage of SubQuery's [enterprise-level hosting](https://blog.subquery.network/blogs/20211228-enterprise-hosted.html) to receive dedicated databases, automated deployments, and geographic routing to multiple clusters around the world for performance and uptime.
 
 ![](https://miro.medium.com/max/1248/0*9h4mnGXGPwUITWpz)
 

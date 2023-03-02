@@ -18,7 +18,7 @@ In the example below, we’re using SubQuery to easily retrieve the top two part
 
 ![](https://miro.medium.com/max/1400/1*5iCwSaU96UtDMFA1MruRlA.png)
 
-Solarbeam is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/).
+Solarbeam is using [SubQuery Projects](https://managedservice.subquery.network/) to manage their own project and make updates as required. The indexing and query services we provide are completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/).
 
 [You can take a look at Solarbeam’s project in SubQuery’s Explorer here](https://explorer.subquery.network/subquery/csntest/eclipse)
 

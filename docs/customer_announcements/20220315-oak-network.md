@@ -10,9 +10,9 @@ By partnering with SubQuery, the development team at OAK will be able to aggrega
 
 > _"OAK Network's vision for a secure, trustless and decentralised system for automation of payments is strongly aligned with SubQuery's goals of the same for data. We are proud to be powering innovative Web3 solutions like OAK that will provide users with more control and create better outcomes as they become aware of the exciting possibilities that lie ahead"_ - James Bayly, Head of Business Development at SubQuery
 
-OAK Network are currently preparing for the [launch of The Turing Network](https://oak.tech/turing/crowdloan/) (OAK's canary network on Kusama) parachain and crowdloan. OAK joins many of the leading parachain teams in Polkadot and Kusama who rely on SubQuery to provide mission critical data to their applications and utilise [enterprise level features](../blogs/20211228-enterprise-hosted.md) via our [managed service](https://project.subquery.network/).
+OAK Network are currently preparing for the [launch of The Turing Network](https://oak.tech/turing/crowdloan/) (OAK's canary network on Kusama) parachain and crowdloan. OAK joins many of the leading parachain teams in Polkadot and Kusama who rely on SubQuery to provide mission critical data to their applications and utilise [enterprise level features](../blogs/20211228-enterprise-hosted.md) via our [managed service](https://managedservice.subquery.network/).
 
-You can find more information about OAK and the data they leverage from SubQuery via their project link https://project.subquery.network/project/irsal/neumann-monitoring.
+You can find more information about OAK and the data they leverage from SubQuery via their project link https://managedservice.subquery.network/project/irsal/neumann-monitoring.
 
 ## About OAK Network
 

@@ -4,12 +4,12 @@ April was an incredibly busy month for SubQuery, our growth is starting to accel
 
 In this monthly update:
 
-- Focus on Partner tools — SubQuery Projects Launch
+- Focus on Partner tools — SubQuery Managed Service Launch
 - BiFrost SubQuery use case
 - Scalability Improvements by our service provider OnFinality
 - And more…
 
-On the partner front we launched a key product that is needed to operationally accelerate the growth of SubQuery. Before you could create and run your own SubQuery projects locally or in your own infrastructure. [Projects](https://project.subquery.network/) allows users to publish their projects to the SubQuery community and we’ll run them in a high performance, scalable, and managed public service — for free!
+On the partner front we launched a key product that is needed to operationally accelerate the growth of SubQuery. Before you could create and run your own SubQuery projects locally or in your own infrastructure. [Projects](https://managedservice.subquery.network/) allows users to publish their projects to the SubQuery community and we’ll run them in a high performance, scalable, and managed public service — for free!
 
 ![](https://miro.medium.com/max/1400/0*zZkmiEq5g2BbAxfl)
 

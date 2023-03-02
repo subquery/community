@@ -6,7 +6,6 @@
 
 Last week [Subvis.io](https://www.subvis.io/) launched their new explorer for the Kusama parachain slot auctions. This new website provides contextual up-to-date information about the crowdloans and auctions that have just begun on Kusama.
 
-
 ![](https://miro.medium.com/max/1400/1*iHO4P9JcW-Gt7GxqwXxa3g.png)
 
 The Subvis.io Auction Dashboard
@@ -31,7 +30,7 @@ You could also get the the most up to date bids for each auction using the query
 
 The most recent 3 bids were all by Karura over slots 13–20
 
-Subvis.io is using [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. The indexing and query services for this service is completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/).
+Subvis.io is using [SubQuery Projects](https://managedservice.subquery.network/) to manage their own project and make updates as required. The indexing and query services for this service is completely managed by SubQuery and provided to the Polkadot community for free in [SubQuery’s Explorer](https://explorer.subquery.network/).
 
 [Explore the Subvis.io data set](https://explorer.subquery.network/subquery/subvis-io/kusama-auction)
 

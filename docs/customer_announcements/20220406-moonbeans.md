@@ -16,7 +16,7 @@ Moonbeans are well on their way to achieving their goal of becoming the native N
 
 ![](https://miro.medium.com/max/1400/0*-FlPYXDl_QKfz9s5)
 
-Moonbeans use [SubQuery Projects](https://project.subquery.network/) to manage their own project and make updates as required. Check out this [SubQuery Snapshot](https://twitter.com/subquerynetwork/status/1497134283827339416?s=21) for an overview of Moonbeans and their project which can be found in the [SubQuery Explorer](https://explorer.subquery.network/) --- a project library managed by SubQuery and provided to the Polkadot community for free.
+Moonbeans use [SubQuery Projects](https://managedservice.subquery.network/) to manage their own project and make updates as required. Check out this [SubQuery Snapshot](https://twitter.com/subquerynetwork/status/1497134283827339416?s=21) for an overview of Moonbeans and their project which can be found in the [SubQuery Explorer](https://explorer.subquery.network/) --- a project library managed by SubQuery and provided to the Polkadot community for free.
 
 ## About Moonbeans
 

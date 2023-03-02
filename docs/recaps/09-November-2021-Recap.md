@@ -26,7 +26,7 @@ Even though we are busy working hard on the SubQuery Network, and still rushing 
 
 ### Scaling our Hosted Service
 
-SubQuery Projects has been a recipient of some explosive growth over the past month as [thousands of academy participants](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html) have created even more projects in our hosted service ([project.subquery.network](https://project.subquery.network/)) in the space of a few weeks.
+SubQuery Projects has been a recipient of some explosive growth over the past month as [thousands of academy participants](https://blog.subquery.network/blogs/20211018-subquery-launches-the-subquery-academy.html) have created even more projects in our hosted service ([managedservice.subquery.network](https://managedservice.subquery.network/)) in the space of a few weeks.
 
 We’ve crossed a milestone of over 2,000 projects deployed to our hosted service, and as a result, it’s been a priority to scale our hosted service. We now offer our enterprise customers dedicated resources to improve performance and reliability.
 

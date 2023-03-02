@@ -69,7 +69,7 @@ In the coming weeks you can expect:
 - [Example Algorand Project --- Kitchen sink example](https://github.com/subquery/algorand-subql-starter)
 - [Example Algorand Project --- Algorand Planet Watch](https://github.com/jamesbayly/algorand-planet-watch)
 - [Managed Service](https://explorer.subquery.network/)
-- [Publish your own Algorand Project to the Managed Service](https://project.subquery.network/login)
+- [Publish your own Algorand Project to the Managed Service](https://managedservice.subquery.network/login)
 
 ## About SubQuery
 

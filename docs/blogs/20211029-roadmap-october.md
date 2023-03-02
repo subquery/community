@@ -10,7 +10,7 @@ As we continue to gain momentum, the time has come to share more about our plans
 
 ## Our Future
 
-While SubQuery is already serving millions of data queries each day to [over 60 projects on Polkadot & Kusama](https://project.subquery.network/), we wanted to ensure that our next phase of growth was conducted in an organised and controlled manner.
+While SubQuery is already serving millions of data queries each day to [over 60 projects on Polkadot & Kusama](https://managedservice.subquery.network/), we wanted to ensure that our next phase of growth was conducted in an organised and controlled manner.
 
 For this reason, we feel it is critical that we demonstrate and fully test the scalability of the SubQuery Network through an incentivised testnet program. This process will also allow us to establish a community of indexers before launching publicly via a TGE in March 2022 and our eventual mainnet later next year.
 
